@@ -1,0 +1,21 @@
+# Provides that Benjamin M. Sturges III be elected as the Sergeant-at-Arms of the Senate for the years 2023-2024
+
+**Bill ID:** R4
+**Session:** 2023
+**Sponsor:** Andrea Stewart-Cousins
+**Status:** Adopted
+
+---
+
+## Full Text
+
+Senate Resolution No. 4
+ 
+BY: Senator STEWART-COUSINS
+ 
+  THAT Benjamin M. Sturges III be, and he hereby is,
+  elected Sergeant-at-Arms of the Senate for the years
+  2023-2024
+ 
+  RESOLVED, That Benjamin M. Sturges III be, and he hereby is, elected
+Sergeant-at-Arms of the Senate for the years 2023-2024.
