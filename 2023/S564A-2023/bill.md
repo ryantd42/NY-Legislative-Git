@@ -1,0 +1,76 @@
+# Relates to mortgage loan servicers
+
+**Bill ID:** S564A
+**Session:** 2023
+**Sponsor:** Brian Kavanagh
+**Status:** In Assembly Committee
+
+## Summary
+
+Provides that any person who has been injured by reason of any violation of any such rules, regulations or policies as the superintendent may promulgate may bring an action in his or her own name; assert a counterclaim; or, if an action is commenced by the mortgagee or anyone acting on its behalf, bring a third party claim, against either the mortgagee and/or the mortgage servicer to enjoin any violations thereof; authorizes damages; makes related provisions.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  564
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 5, 2023
+  ___________
+ 
+ Introduced  by  Sens.  KAVANAGH, ADDABBO, BRISPORT, JACKSON, MAY, MYRIE,
+  RAMOS, SANDERS -- read twice and ordered printed, and when printed  to
+  be committed to the Committee on Banks
+ 
+ AN ACT to amend the banking law, in relation to mortgage loan servicers
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 595-b of the banking law is amended by  adding  two
+ new subdivisions 3 and 4 to read as follows:
+  3.  ACTIONS AND DAMAGES. (A) ANY PERSON WHO HAS BEEN INJURED BY REASON
+ OF ANY VIOLATION OF ANY SUCH  RULES,  REGULATIONS  OR  POLICIES  AS  THE
+ SUPERINTENDENT  MAY  PROMULGATE TO EFFECTUATE THE PURPOSES OF THIS ARTI-
+ CLE, INCLUDING BUT NOT LIMITED  TO  3  NYCRR  419  OR  ANY  SUBSEQUENTLY
+ PROMULGATED MORTGAGE SERVICING RULES PURSUANT TO THIS SUBDIVISION, MAY:
+  (I) BRING AN ACTION IN HIS OR HER OWN NAME;
+  (II) ASSERT A COUNTERCLAIM; OR
+  (III)  IF  AN ACTION IS COMMENCED BY THE MORTGAGEE OR ANYONE ACTING ON
+ ITS BEHALF, BRING A THIRD PARTY  CLAIM,  AGAINST  EITHER  THE  MORTGAGEE
+ AND/OR THE MORTGAGE SERVICER TO ENJOIN ANY VIOLATIONS THEREOF.
+  (B) THE PERSON INJURED PURSUANT TO THIS SECTION:
+  (I)  MAY  RECOVER  STATUTORY  DAMAGES  OF  ONE  THOUSAND  DOLLARS  PER
+ VIOLATION;
+  (II) MAY RECOVER TREBLE ACTUAL DAMAGES; AND
+  (III) IF AWARDED DAMAGES OR INJUNCTIVE RELIEF, SHALL ALSO BE  ENTITLED
+ TO  RECOVER  COSTS AND EXPENSES, INCLUDING BUT NOT LIMITED TO REASONABLE
+ ATTORNEYS' FEES.
+  (C) THE MORTGAGEE AND THE  MORTGAGE  SERVICER  SHALL  BE  JOINTLY  AND
+ SEVERALLY  LIABLE  FOR  ANY  RECOVERIES  BY  AN INJURED MORTGAGOR IN ANY
+ ACTION BROUGHT PURSUANT TO THIS SUBDIVISION.
+  4. COMPLIANCE WITH RULES, REGULATIONS OR POLICIES. COMPLIANCE WITH ANY
+ SUCH RULES, REGULATIONS OR POLICIES AS THE SUPERINTENDENT MAY PROMULGATE
+ TO EFFECTUATE THE PURPOSES OF THIS ARTICLE, INCLUDING BUT NOT LIMITED TO
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00882-01-3
+ S. 564  2
+ 
+ 3 NYCRR 419 OR ANY SUBSEQUENTLY  PROMULGATED  MORTGAGE  SERVICING  RULES
+ PURSUANT TO THIS SUBDIVISION, SHALL BE A CONDITION PRECEDENT TO COMMENC-
+ ING AN ACTION TO FORECLOSE UPON A MORTGAGE SUBJECT TO THIS ARTICLE OR AN
+ ACTION  ON  THE  NOTE,  AND THE FAILURE TO COMPLY WITH SUCH RULES, REGU-
+ LATIONS OR POLICIES SHALL BE A DEFENSE TO A FORECLOSURE ACTION OR ACTION
+ ON THE NOTE, EVEN IF SERVICING HAS BEEN TRANSFERRED TO A DIFFERENT MORT-
+ GAGE SERVICER WHEN A  FORECLOSURE  ACTION  OR  ACTION  ON  THE  NOTE  IS
+ COMMENCED.
+  § 2. This act shall take effect immediately.
