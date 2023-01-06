@@ -1,0 +1,62 @@
+# Renames the Newkirk Avenue rapid transit station in Brooklyn the Newkirk Avenue Little Haiti station
+
+**Bill ID:** S738
+**Session:** 2023
+**Sponsor:** Kevin S. Parker
+**Status:** In Senate Committee
+
+## Summary
+
+Renames the Newkirk Avenue subway station on the IRT Nostrand Avenue line the "Newkirk Avenue -- Little Haiti station".
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  738
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 6, 2023
+  ___________
+ 
+ Introduced  by  Sen.  PARKER -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Transportation
+ 
+ AN ACT in relation to renaming the Newkirk Avenue subway station on  the
+  IRT Nostrand Avenue line the "Newkirk Avenue - Little Haiti station"
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1.  Upon a determination by the Metropolitan  Transportation
+ Authority  or the New York City Transit Authority that sufficient funds
+ have been committed to  it  specifically  for  such  purpose,  the
+ Metropolitan  Transportation  Authority,  the public benefit corporation
+ created by section 1263 of the public  authorities law,  and  the  New
+ York  City  Transit Authority, the public benefit corporation created by
+ section 1201 of the  public  authorities law, shall  use  such  specif-
+ ically  committed  funds  to rename the Newkirk Avenue subway station on
+ the IRT Nostrand Avenue line of the New York city subway to the  Newkirk
+ Avenue  -  Little Haiti  station. The MTA shall ensure that all signs
+ and any  other  items  issued  by  the  MTA  are updated  to  accurately
+ reflect the new name of the station within ten months.
+  §  2.  This  act  shall take effect immediately, and  shall  be deemed
+ repealed  after  the  signs and any other items are accurately  updated.
+ The chief executive officer of the Metropolitan Transportation Authority
+ or  president of the New York City Transit Authority  shall  notify  the
+ legislative bill drafting commission upon the completion of such updates
+ in  order that the commission may maintain an accurate and timely effec-
+ tive data base of the official text of the laws of the state of New York
+ in furtherance of effectuating the provisions  of  section  44  of  the
+ legislative law and section 70-b of the public officers law.
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03271-01-3
