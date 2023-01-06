@@ -1,0 +1,72 @@
+# Requires the collection of certain demographic information by certain state agencies, boards and commissions
+
+**Bill ID:** A358
+**Session:** 2023
+**Sponsor:** Harry B. Bronson
+**Status:** Signed by Governor
+
+## Summary
+
+Requires the collection of certain demographic information about the sexual orientation and gender identity or expression of residents by certain state agencies, boards and commissions.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  358
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 6, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  BRONSON,  SEAWRIGHT,  OTIS  -- read once and
+  referred to the Committee on Governmental Operations
+ 
+ AN ACT to  amend  the  executive  law,  in  relation  to  requiring  the
+  collection  of  certain demographic information by certain state agen-
+  cies, boards and commissions
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1.  The executive law is amended by adding a new section 170-g
+ to read as follows:
+  § 170-G. COLLECTION OF DEMOGRAPHIC INFORMATION; SEXUAL ORIENTATION AND
+ GENDER  EXPRESSION.  1.  EVERY STATE AGENCY, BOARD, OR COMMISSION THAT
+ DIRECTLY OR BY CONTRACT COLLECTS DEMOGRAPHIC DATA AS TO THE ANCESTRY  OR
+ ETHNIC  ORIGIN  OF RESIDENTS OF THE STATE OF NEW YORK SHALL USE SEPARATE
+ COLLECTION CATEGORIES AND TABULATIONS FOR SEXUAL ORIENTATION AND  GENDER
+ IDENTITY OR EXPRESSION.
+  2.  THE  TERM  "GENDER  IDENTITY  OR EXPRESSION" MEANS HAVING OR BEING
+ PERCEIVED AS HAVING A GENDER IDENTITY, SELF-IMAGE, APPEARANCE,  BEHAVIOR
+ OR  EXPRESSION  WHETHER OR NOT THAT GENDER IDENTITY, SELF-IMAGE, APPEAR-
+ ANCE, BEHAVIOR OR EXPRESSION IS DIFFERENT FROM THAT TRADITIONALLY  ASSO-
+ CIATED WITH THE SEX ASSIGNED TO THAT PERSON AT BIRTH.
+  3.  THE DATA COLLECTED PURSUANT TO THE DIFFERENT COLLECTION CATEGORIES
+ AND TABULATIONS DESCRIBED IN SUBDIVISION ONE OF THIS  SECTION  SHALL  BE
+ INCLUDED  IN  EVERY  DEMOGRAPHIC REPORT ON ANCESTRY OR ETHNIC ORIGINS OF
+ RESIDENTS OF THE STATE OF NEW  YORK  BY  THE  STATE  AGENCY,  BOARD,  OR
+ COMMISSION PUBLISHED OR RELEASED ON OR AFTER JULY FIRST, IN THE CALENDAR
+ YEAR  FOLLOWING  THE  EFFECTIVE  DATE OF THIS SECTION. THE DATA SHALL BE
+ MADE AVAILABLE TO THE PUBLIC IN ACCORDANCE WITH STATE AND  FEDERAL  LAW,
+ EXCEPT  FOR  PERSONAL  IDENTIFYING  INFORMATION,  WHICH  SHALL BE DEEMED
+ CONFIDENTIAL, BY POSTING THE DATA ON THE INTERNET WEB SITE OF THE AGENCY
+ ON OR BEFORE JULY FIRST, IN THE CALENDAR YEAR  FOLLOWING  THE  EFFECTIVE
+ DATE  OF  THIS  SECTION, AND ANNUALLY THEREAFTER. THIS SUBDIVISION SHALL
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01613-01-3
+ A. 358  2
+ 
+ NOT BE CONSTRUED TO PREVENT ANY OTHER STATE  AGENCY  FROM  POSTING  DATA
+ COLLECTED  PURSUANT  TO  SUBDIVISION ONE OF THIS SECTION ON THE AGENCY'S
+ INTERNET WEB SITE, IN THE MANNER PRESCRIBED BY THIS SECTION.
+  § 2. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law.
