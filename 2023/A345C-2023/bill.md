@@ -1,0 +1,124 @@
+# Requires certain notices be posted and provided regarding long term care insurance policy changes
+
+**Bill ID:** A345C
+**Session:** 2023
+**Sponsor:** Chris Burdick
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Requires the superintendent of financial services to make public any rate filing or application submitted by long term care insurance carriers; requires certain notices be provided to policyholders and certificate holders regarding premium rate increases.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  345
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 6, 2023
+  ___________
+ 
+ Introduced  by M. of A. BURDICK -- read once and referred to the Commit-
+  tee on Insurance
+ 
+ AN ACT to amend the insurance law,  in  relation  to  requiring  certain
+  notices  be  posted  and  provided  regarding long term care insurance
+  policy changes
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Subparagraphs (E) and (F) of paragraph 6 of subsection (b)
+ of section 1117 of the insurance law, as amended by chapter 424  of  the
+ laws  of  2016,  are  amended  and two new subparagraphs (G) and (H) are
+ added to read as follows:
+  (E) A graphic demonstration of the maximum daily nursing home  benefit
+ level  provided  by  the  policy or certificate, and the impact that the
+ selection of any inflation protection options would have on such maximum
+ daily nursing home benefit level; [and]
+  (F) The right of the prospective insured, upon attaining  the  age  of
+ sixty-five  years, to designate a third party who will receive a copy of
+ any notices of nonpayment of premiums due or notice of cancellation  for
+ nonpayment of premiums that is sent to the prospective insured[.];
+  (G)  A WRITTEN STATEMENT AS TO THE ANTICIPATED GOOD FAITH INCREASES OF
+ PREMIUM RATES FOR SUCH POLICY OR CERTIFICATE OVER THE  NEXT  TEN  YEARS.
+ SUCH  STATEMENT  SHALL INCLUDE A LIST OF PAST PREMIUM RATE INCREASES FOR
+ SUCH POLICY OR CERTIFICATE OVER THE PREVIOUS TEN YEARS, OR IF SUCH POLI-
+ CY OR CERTIFICATE WAS NOT OFFERED OVER  THE  PREVIOUS  TEN  YEARS,  PAST
+ PREMIUM  RATE  INCREASES  FOR  SIMILAR POLICIES OR CERTIFICATES OVER THE
+ PREVIOUS TEN YEARS; AND
+  (H) THE RIGHT OF THE PROSPECTIVE INSURED TO SUBMIT PUBLIC COMMENTS  ON
+ ANY  RATE  FILING  OR APPLICATION REGARDING PREMIUM RATES ON THE DEPART-
+ MENT'S WEBSITE.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01132-01-3
+ A. 345  2
+ 
+  § 2. Paragraph 3 of subsection (f) of section 1117  of  the  insurance
+ law,  as added by chapter 245 of the laws of 1986, is amended to read as
+ follows:
+  (3)  the  premium  rates  for  the  long term care plan are reasonably
+ related to the benefits provided, [and] are self-supporting, AND ARE  IN
+ THE BEST INTERESTS OF POLICYHOLDERS AND CERTIFICATE HOLDERS; and
+  §  3. Section 1117 of the insurance law is amended by adding three new
+ subsections (h), (i) and (j) to read as follows:
+  (H) WHENEVER AN INSURER SUBMITS A RATE FILING OR  APPLICATION  TO  THE
+ SUPERINTENDENT  TO  INCREASE OR DECREASE PREMIUM RATES FOR ANY POLICY OR
+ CERTIFICATE SUBJECT TO THIS SECTION, THE  SUPERINTENDENT  SHALL  POST  A
+ PUBLIC  NOTICE SUMMARIZING THE RATE FILING OR APPLICATION ON THE DEPART-
+ MENT'S WEBSITE WITHIN SEVEN DAYS. THE SUPERINTENDENT SHALL PROVIDE FOR A
+ PROCESS FOR THE PUBLIC TO PROVIDE COMMENTS ON SUCH RATE FILING OR APPLI-
+ CATION ELECTRONICALLY OR IN WRITING FOR A PERIOD OF  THIRTY  DAYS  AFTER
+ SUCH PUBLIC NOTICE IS POSTED ON THE DEPARTMENT'S WEBSITE.
+  (I)  THE SUPERINTENDENT, UPON RENDERING A DECISION REGARDING APPROVAL,
+ DISAPPROVAL OR MODIFICATION OF A RATE FILING OR APPLICATION, SHALL ISSUE
+ A PUBLIC NOTICE OF SUCH DECISION. SUCH WRITTEN DECISION AND NOTICE SHALL
+ BE MADE PUBLICLY AVAILABLE ON THE DEPARTMENT'S WEBSITE NO LATER THAN THE
+ DATE ON WHICH THE RATE FILING OR APPLICATION IS  APPROVED,  DISAPPROVED,
+ OR MODIFIED. SUCH NOTIFICATION SHALL INCLUDE:
+  (1)  A  SUMMARY OF THE DETERMINATIONS MADE BY THE DEPARTMENT REGARDING
+ THE APPROVAL, DISAPPROVAL OR MODIFICATION OF SUCH RATE FILING OR  APPLI-
+ CATION, AND
+  (2)  A  STATEMENT  WITH RELEVANT DETAIL AS TO WHY THE APPROVAL, DISAP-
+ PROVAL OR MODIFICATION OF THE PROPOSAL IS IN THE BEST INTERESTS  OF  THE
+ POLICYHOLDERS AND CERTIFICATE HOLDERS.
+  (J) UPON RECEIPT BY AN AUTHORIZED INSURER, CORPORATION, HEALTH MAINTE-
+ NANCE  ORGANIZATION  OR  FRATERNAL  BENEFIT  SOCIETY  COVERED  BY  THE
+ PROVISIONS OF THIS SECTION OF A  DECISION  BY  THE  SUPERINTENDENT  WITH
+ RESPECT  TO A RATE FILING APPLICATION WITH THE DEPARTMENT, SUCH INSURER,
+ CORPORATION, HEALTH MAINTENANCE ORGANIZATION OR FRATERNAL BENEFIT SOCIE-
+ TY SHALL NOTIFY POLICYHOLDERS AND CERTIFICATE HOLDERS OF SUCH  DECISION.
+ SUCH NOTIFICATION SHALL INCLUDE:
+  (1) A DESCRIPTION OF SUCH DECISION;
+  (2)  A  WRITTEN  STATEMENT CONFORMING TO THE REQUIREMENTS SET FORTH IN
+ SUBPARAGRAPH (G) OF PARAGRAPH SIX OF SUBSECTION (B) OF THIS SECTION; AND
+  (3) AGGREGATED AND ANONYMIZED DATA SHOWING ACTIONS TAKEN  BY  PAST  OR
+ CURRENT  POLICYHOLDERS  AND CERTIFICATE HOLDERS, SEGMENTED BY AGE GROUP,
+ IN RESPONSE TO PROPOSED RATE INCREASES FOR SIMILAR POLICIES AND  CERTIF-
+ ICATES. SUCH DATA REGARDING SUCH ACTIONS SHALL INCLUDE BUT NOT BE LIMIT-
+ ED  TO THE FOLLOWING ACTIONS TAKEN BY SUCH PAST OR CURRENT POLICYHOLDERS
+ AND CERTIFICATE HOLDERS:
+  (A) LETTING A POLICY OR CERTIFICATE LAPSE;
+  (B) DECREASING POLICY OR CERTIFICATE BENEFITS; AND
+  (C) ACCEPTING THE PROPOSED RATE INCREASES.
+  § 4. The insurance law is amended by adding a new section 334 to  read
+ as follows:
+  §  334.  MINIMUM  LOSS  RATIO STANDARDS; LONG TERM CARE INSURANCE.  IN
+ ESTABLISHING MINIMUM BENEFIT STANDARDS  FOR  LONG  TERM  CARE  INSURANCE
+ PLANS  PURSUANT  TO  THIS  ARTICLE, THE SUPERINTENDENT SHALL ENSURE THAT
+ MINIMUM LOSS RATIO STANDARDS ARE NO LESS FAVORABLE TO POLICYHOLDERS  AND
+ CERTIFICATE  HOLDERS  THAN  THOSE SPECIFIED BY THE MODEL REGULATIONS FOR
+ LONG TERM CARE INSURANCE AS PUBLISHED BY  THE  NATIONAL  ASSOCIATION  OF
+ INSURANCE COMMISSIONERS, AS UPDATED FROM TIME TO TIME.
+ A. 345  3
+ 
+  § 5. This act shall take effect immediately.
