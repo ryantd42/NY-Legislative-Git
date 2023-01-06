@@ -1,0 +1,110 @@
+# Expands eligibility requirements for rent increase exemptions for persons with disabilities
+
+**Bill ID:** S711
+**Session:** 2023
+**Sponsor:** Cordell Cleare
+**Status:** In Senate Committee
+
+## Summary
+
+Expands eligibility requirements for rent increase exemptions for persons with disabilities; includes children who qualify as a person with a disability.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  711
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 6, 2023
+  ___________
+ 
+ Introduced  by  Sen.  CLEARE -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Housing, Construction  and
+  Community Development
+ 
+ AN  ACT  to  amend  the  administrative code of the city of New York, in
+  relation to eligibility requirements for rent increase exemptions  for
+  persons with disabilities
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subdivision d of section 26-601 of the administrative  code
+ of  the  city of New York, as amended by local law number 39 of the city
+ of New York for the year 2014, is amended to read as follows:
+  d. "Eligible head of the household" means (1) a person or his  or  her
+ spouse  who  is sixty-two years of age or older, or (2) A PERSON, HIS OR
+ HER SPOUSE OR HIS OR HER CHILD who qualifies as a person with a disabil-
+ ity pursuant to section 26-617 of this chapter and is  entitled  to  the
+ possession  or  to  the  use and occupancy of a dwelling unit, provided,
+ however, that with respect to a dwelling which was subject to a mortgage
+ insured or initially insured  by  the  federal  government  pursuant  to
+ section  two  hundred  thirteen of the national housing act, as amended,
+ "eligible head of the household" shall be limited to that  person  [or],
+ his  or  her  spouse  OR  HIS  OR HER CHILD IF SUCH CHILD QUALIFIES AS A
+ PERSON WITH A DISABILITY PURSUANT TO SECTION 26-617 OF THIS CHAPTER, who
+ was entitled to possession or the use and  occupancy  of  such  dwelling
+ unit  at the time of termination of such mortgage, and whose income when
+ combined with the income of all other members  of  the  household  whose
+ head  of  household  is  sixty-two years of age or older does not exceed
+ twenty-five thousand dollars beginning July first,  two  thousand  five,
+ twenty-six  thousand  dollars  beginning  July  first, two thousand six,
+ twenty-seven thousand dollars beginning July first, two thousand  seven,
+ twenty-eight  thousand dollars beginning July first, two thousand eight,
+ twenty-nine thousand dollars beginning July first,  two  thousand  nine,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03626-01-3
+ S. 711  2
+ 
+ and  fifty  thousand dollars beginning July first, two thousand fourteen
+ for the taxable period, or whose income for the current income tax  year
+ when  combined  with the income of all members of the household residing
+ in  the  housing  accommodation  whose head of the household is a person
+ with a disability does not exceed fifty thousand dollars beginning  July
+ first, two thousand fourteen.
+  § 2. Subdivision d of section 26-601 of the administrative code of the
+ city  of  New York, as separately amended by local law numbers 75 and 76
+ of the city of New York for  the  year  2005,  is  amended  to  read  as
+ follows:
+  d.  "Eligible  head of the household" means (1) a person or his or her
+ spouse who is sixty-two years of age or older, or (2) A PERSON,  HIS  OR
+ HER SPOUSE OR HIS OR HER CHILD who qualifies as a person with a disabil-
+ ity  pursuant  to  section 26-617 of this chapter and is entitled to the
+ possession or to the use and occupancy of  a  dwelling  unit,  provided,
+ however, that with respect to a dwelling which was subject to a mortgage
+ insured  or  initially  insured  by  the  federal government pursuant to
+ section two hundred thirteen of the national housing  act,  as  amended,
+ "eligible  head  of the household" shall be limited to that person [or],
+ his or her spouse OR HIS OR HER CHILD  IF  SUCH  CHILD  QUALIFIES  AS  A
+ PERSON WITH A DISABILITY PURSUANT TO SECTION 26-617 OF THIS CHAPTER, who
+ was  entitled  to  possession  or the use and occupancy of such dwelling
+ unit at the time of termination of such mortgage, and whose income  when
+ combined  with  the  income  of all other members of the household whose
+ head of household is sixty-two years of age or  older  does  not  exceed
+ twenty-five  thousand  dollars  beginning July first, two thousand five,
+ twenty-six thousand dollars beginning  July  first,  two  thousand  six,
+ twenty-seven  thousand dollars beginning July first, two thousand seven,
+ twenty-eight thousand dollars beginning July first, two thousand  eight,
+ and  twenty-nine  thousand  dollars  beginning  July first, two thousand
+ nine, for the taxable period, or whose income for the current income tax
+ year when combined with the income  of  all  members  of  the  household
+ residing  in  the housing accommodation whose head of the household is a
+ person with a disability does not exceed the maximum income above  which
+ such head of the household would not be eligible to receive cash supple-
+ mental security income benefits under federal law during such tax year.
+  §  3. This act shall take effect immediately, provided that the amend-
+ ments to subdivision d of section 26-601 of the administrative  code  of
+ the city of New York made by section one of this act shall be subject to
+ the  expiration  and reversion of such subdivision pursuant to section 5
+ of local law number 19 of the city of New York for  the  year  2014,  as
+ amended  when  upon  such date the provisions of section two of this act
+ shall take effect.
