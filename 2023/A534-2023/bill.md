@@ -1,0 +1,75 @@
+# Relates to educating nursing home residents about the role of legal counsel in applying for Medicaid benefits
+
+**Bill ID:** A534
+**Session:** 2023
+**Sponsor:** Harry B. Bronson
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to educating nursing home residents about the role of legal counsel in applying for Medicaid benefits; requires operators of residential health care facilities to display and provide residents with a notice upon admission regarding such resident's right to hire an attorney to assist with a Medicaid application.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  534
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 9, 2023
+  ___________
+ 
+ Introduced  by  M. of A. BRONSON, CLARK, LUNSFORD, FAHY -- read once and
+  referred to the Committee on Health
+ 
+ AN ACT to amend the public health law, in relation to educating  nursing
+  home  residents  about the role of legal counsel in applying for Medi-
+  caid benefits
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  public health law is amended by adding a new section
+ 2803-bb to read as follows:
+  § 2803-BB. NOTICES REGARDING LEGAL REPRESENTATION. 1. THE OPERATOR  OF
+ A  RESIDENTIAL  HEALTH CARE FACILITY SHALL PROVIDE EACH RESIDENT AND THE
+ RESIDENT'S DESIGNATED REPRESENTATIVE, AT THE TIME OF  ADMISSION  TO  THE
+ FACILITY,  A  NOTICE,  SEPARATE  FROM  THE ADMISSION AGREEMENT BUT TO BE
+ ACKNOWLEDGED BY THE RESIDENT AND  THE  RESIDENT'S  DESIGNATED  REPRESEN-
+ TATIVE  AT  THE  SAME  TIME AS AN ADMISSION AGREEMENT, WHICH IS TYPED OR
+ PRINTED USING LETTERS WHICH ARE LEGIBLE OR OF CLEAR TYPE  NO  LESS  THAN
+ TWELVE POINT IN SIZE, WHICH PROVIDES AS FOLLOWS:
+ "YOU  HAVE  THE  OPTION  TO HIRE AN ATTORNEY TO ASSIST WITH APPLYING FOR
+ MEDICAID: NEW YORK STATE DOES NOT  MANDATE  THAT  A  MEDICAID  APPLICANT
+ OBTAIN THE ASSISTANCE OF AN ATTORNEY WHEN COMPLETING THE MEDICAID APPLI-
+ CATION.  THERE  ARE NON-LEGAL AGENCIES AND COMPANIES, INCLUDING ARMS AND
+ AFFILIATES OF HOSPITALS AND NURSING HOMES, WHICH MAY  OFFER  TO  PREPARE
+ AND SUBMIT THE MEDICAID APPLICATION FOR FREE OR FOR A REDUCED FEE. THESE
+ ENTITIES ARE NOT PERMITTED TO GIVE LEGAL ADVICE OR IMPLEMENT LEGAL STRA-
+ TEGIES  THAT MAY BEST PROTECT YOUR INTERESTS, AND THEY ARE NOT OBLIGATED
+ TO ADVISE  YOU  OF  YOUR  RIGHTS.  MOREOVER,  THESE  ENTITIES  MAY  HAVE
+ CONFLICTS  OF  INTEREST. RELYING ON A NON-LEGAL SERVICE MIGHT EXPOSE YOU
+ AND YOUR FAMILY TO UNNECESSARY FINANCIAL RISK. YOU  MAY,  HOWEVER,  SEEK
+ THE  ASSISTANCE  OF AN ATTORNEY WHO IS KNOWLEDGEABLE ABOUT ELDER LAW AND
+ MEDICAID ELIGIBILITY RULES. IF YOU WISH TO IDENTIFY  SUCH  AN  ATTORNEY,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00502-01-3
+ A. 534  2
+ 
+ YOU  MAY  CONTACT  THE  STATE OR LOCAL BAR ASSOCIATION ATTORNEY REFERRAL
+ SERVICE."
+  2. THE OPERATOR OF A RESIDENTIAL HEALTH CARE FACILITY SHALL PROMINENT-
+ LY  DISPLAY  THE  NOTICE DESCRIBED IN SUBDIVISION ONE OF THIS SECTION AT
+ THE FACILITY AND SHALL MAKE A COPY OF SUCH NOTICE AVAILABLE AT THE  SAME
+ TIME  AND  IN  THE  SAME  MANNER  THAT A RESIDENCY AGREEMENT IS PROVIDED
+ PURSUANT TO SECTION TWENTY-EIGHT HUNDRED THREE-Y OF THIS ARTICLE.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
