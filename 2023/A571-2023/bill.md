@@ -1,0 +1,66 @@
+# Relates to notification in the case of a change to a workers' compensation claims representative
+
+**Bill ID:** A571
+**Session:** 2023
+**Sponsor:** Amy Paulin
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to notification in the case of a change to the workers' compensation claims representative.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  571
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 9, 2023
+  ___________
+ 
+ Introduced by M. of A. PAULIN -- read once and referred to the Committee
+  on Labor
+ 
+ AN  ACT to amend the workers' compensation law, in relation to notifica-
+  tion in the case of a change to a workers' compensation claims  repre-
+  sentative
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The workers' compensation law is amended by  adding  a  new
+ section 138 to read as follows:
+  §  138.  WORKERS'  COMPENSATION CLAIMS REPRESENTATIVE REPLACEMENT.  1.
+ WHERE AN INJURED EMPLOYEE IS ENTITLED TO WORKERS' COMPENSATION  BENEFITS
+ UNDER  THIS CHAPTER AND A CLAIMS REPRESENTATIVE HAS BEEN ASSIGNED TO HIS
+ OR HER WORKERS' COMPENSATION CLAIM BY AN INSURANCE CARRIER  OR  SELF-IN-
+ SURED EMPLOYER, SUCH INSURANCE CARRIER OR SELF-INSURED EMPLOYER SHALL BE
+ REQUIRED  TO  NOTIFY  SUCH  INJURED EMPLOYEE OR SUCH EMPLOYEE'S PERSONAL
+ REPRESENTATIVE IN THE EVENT THAT SUCH CLAIM IS ASSIGNED TO A NEW  CLAIMS
+ REPRESENTATIVE,  OR  IT  IS  DETERMINED  THAT THE ASSIGNMENT OF A CLAIMS
+ REPRESENTATIVE IS NO LONGER NECESSARY. FOR THE PURPOSES OF THIS SECTION,
+ "CLAIMS REPRESENTATIVE" SHALL MEAN ANY EMPLOYEE, AGENT, OR OTHER  REPRE-
+ SENTATIVE  OF  AN  INSURANCE  CARRIER  OR  SELF-INSURED EMPLOYER THAT IS
+ RESPONSIBLE FOR PROCESSING, ADJUDICATING, OR IN ANY  WAY  EFFECTING  THE
+ SETTLEMENT OF A WORKERS' COMPENSATION CLAIM.
+  2.  AN  INSURANCE  CARRIER OR SELF-INSURED EMPLOYER SHALL PROVIDE SUCH
+ NOTICE BY ELECTRONIC MEANS OR BY CERTIFIED OR  REGISTERED  MAIL,  RETURN
+ RECEIPT  REQUESTED, TO THE LAST KNOWN ADDRESS OF THE INJURED EMPLOYEE OR
+ SUCH EMPLOYEE'S PERSONAL REPRESENTATIVE WITHIN FOURTEEN BUSINESS DAYS OF
+ THE REPLACEMENT OF ANY CLAIMS REPRESENTATIVE OR THE  DETERMINATION  THAT
+ THE  ASSIGNMENT  OF A CLAIMS REPRESENTATIVE IS NO LONGER NECESSARY. SUCH
+ NOTICE MUST INCLUDE THE NAME AND CONTACT INFORMATION OF THE  NEW  CLAIMS
+ REPRESENTATIVE WHEN A NEW ASSIGNMENT HAS BEEN MADE.
+  §  2.  This  act shall take effect on the ninetieth day after it shall
+ have become a law.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02161-01-3
