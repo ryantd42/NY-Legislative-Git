@@ -1,0 +1,78 @@
+# Abolishes citizens arrests; repealer
+
+**Bill ID:** A507
+**Session:** 2023
+**Sponsor:** Pamela J. Hunter
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Abolishes citizens arrests in New York state.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  507
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 9, 2023
+  ___________
+ 
+ Introduced  by  M. of A. HUNTER, MAMDANI, EPSTEIN, AUBRY, SIMON, DICKENS
+  -- read once and referred to the Committee on Codes
+ 
+ AN ACT to amend the  criminal  procedure  law  and  the  penal  law,  in
+  relation  to  abolishing  citizen's  arrests;  and  to  repeal certain
+  provisions of the criminal procedure law  and  the  family  court  act
+  relating thereto
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 140.45 of the criminal procedure law, as amended by
+ chapter 550 of the laws of 1987, is amended to read as follows:
+ § 140.45 Arrest without a warrant; dismissal of insufficient local crim-
+  inal court accusatory instrument.
+  If a local criminal court accusatory instrument  filed  with  a  local
+ criminal  court  pursuant  to section 140.20[,] OR 140.25 [or 140.40] is
+ not sufficient on its face, as prescribed in section 100.40, and if  the
+ court  is satisfied that on the basis of the available facts or evidence
+ it would be impossible to draw and file an accusatory  instrument  which
+ is  sufficient  on  its face, it must dismiss such accusatory instrument
+ and discharge the defendant.
+  § 2. Sections 140.30, 140.35 and 140.40 of the criminal procedure  law
+ are REPEALED.
+  §  3.  Subdivision  4  of  section 35.30 of the penal law, as added by
+ chapter 73 of the laws of 1968, the opening paragraph and paragraph  (a)
+ as  amended  by  chapter  511  of  the laws of 2004 and paragraph (b) as
+ amended by chapter 264 of the laws  of  2003,  is  amended  to  read  as
+ follows:
+  4.  A private person acting on his or her own account may use physical
+ force, other than deadly physical force, upon another person when and to
+ the extent that he or she reasonably believes such to  be  necessary  to
+ [effect  an  arrest or to] prevent the escape [from custody] of a person
+ whom he or she reasonably believes to  have  committed  [an  offense]  A
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01877-01-3
+ A. 507  2
+ 
+ FELONY  and  who in fact has committed [such offense] A FELONY AND IS IN
+ IMMEDIATE FLIGHT THEREFROM; and may use deadly physical force  for  such
+ purpose when he or she reasonably believes such to be necessary to[:
+  (a)  Defend] DEFEND himself, herself or a third person from what he or
+ she reasonably believes to be the use or imminent use of deadly physical
+ force[; or
+  (b)  Effect  the  arrest  of  a  person  who  has  committed  murder,
+ manslaughter  in  the  first  degree, robbery, forcible rape or forcible
+ criminal sexual act and who is in immediate flight therefrom].
+  § 4. Section 305.1 of the family court act is REPEALED.
+  § 5. This act shall take effect immediately.
