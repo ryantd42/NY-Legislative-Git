@@ -1,0 +1,84 @@
+# Increases certain penalties for violating the prohibition of animal fighting and for aggravated cruelty to animals
+
+**Bill ID:** A390
+**Session:** 2023
+**Sponsor:** Linda Rosenthal
+**Status:** In Assembly Committee
+
+## Summary
+
+Increases certain penalties for violating the prohibition of animal fighting and for aggravated cruelty to animals; requires a psychiatric evaluation for defendants convicted of aggravated cruelty to animals.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  390
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 9, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
+  Committee on Agriculture
+ 
+ AN ACT to amend the agriculture and markets law, in relation to increas-
+  ing certain penalties for violating the prohibition of animal fighting
+  and for aggravated cruelty to animals
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  opening paragraph of subdivision 2 of section 351 of
+ the agriculture and markets law, as amended by chapter 190 of  the  laws
+ of 2004, is amended to read as follows:
+  Any  person who engages in any of the following conduct is guilty of a
+ felony punishable by imprisonment for a period not to exceed [four]  SIX
+ years, or by a fine not to exceed [twenty-five] THIRTY thousand dollars,
+ or by both such fine and imprisonment:
+  §  2. Paragraph (a) of subdivision 3 of section 351 of the agriculture
+ and markets law, as added by chapter 150 of the laws of 1984, is amended
+ to read as follows:
+  (a) Any person who engages in conduct specified in  paragraph  (b)  of
+ this  subdivision  is guilty of a [misdemeanor] FELONY and is punishable
+ by imprisonment for a period not to exceed [one year] FOUR YEARS, or  by
+ a  fine not to exceed [fifteen] TWENTY thousand dollars, or by both such
+ fine and imprisonment.
+  § 3. Paragraph (a) of subdivision 4 of section 351 of the  agriculture
+ and markets law, as added by chapter 150 of the laws of 1984, is amended
+ to read as follows:
+  (a)  Any  person  who  engages  in  conduct specified in paragraph (b)
+ [hereof] OF THIS SUBDIVISION is guilty of a [misdemeanor] FELONY and  is
+ punishable  by  imprisonment  for  a period not to exceed [one year] TWO
+ YEARS, or by a fine not to exceed [one] TEN thousand dollars, or by both
+ such fine and imprisonment.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00830-01-3
+ A. 390  2
+ 
+  § 4. Subdivision 3 of section 353-a of  the  agriculture  and  markets
+ law,  as added by chapter 118 of the laws of 1999, is amended to read as
+ follows:
+  3. Aggravated cruelty to animals is a felony. A defendant convicted of
+ this  offense  shall be sentenced [pursuant to paragraph (b) of subdivi-
+ sion one of section 55.10 of the penal law provided, however,  that  any
+ term  of  imprisonment  imposed for violation of this section shall be a
+ definite sentence, which may not exceed two years] TO A PERIOD OF IMPRI-
+ SONMENT NOT TO EXCEED FOUR YEARS, BY A FINE NOT TO EXCEED  TEN  THOUSAND
+ DOLLARS OR BY BOTH SUCH FINE AND IMPRISONMENT.  IN ADDITION TO ANY OTHER
+ PENALTY  PROVIDED  BY LAW, THE COURT SHALL ORDER ANY DEFENDANT CONVICTED
+ OF THIS OFFENSE, INCLUDING A DEFENDANT WHO HAS BEEN ADJUDICATED A YOUTH-
+ FUL OFFENDER, TO UNDERGO A PSYCHIATRIC EVALUATION BY A QUALIFIED  MENTAL
+ HEALTH  PROFESSIONAL AND MAY REQUIRE THAT SUCH PERSON, AT HIS OR HER OWN
+ EXPENSE, ENTER AND COMPLETE ANY TREATMENT OR PROGRAM DEEMED NECESSARY TO
+ TREAT ANY MENTAL DISEASE, MENTAL DEFECT OR MENTAL CONDITION,  WHICH  MAY
+ HAVE CAUSED OR CONTRIBUTED TO SUCH OFFENSE.
+  § 5. This act shall take effect immediately.
