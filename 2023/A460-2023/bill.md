@@ -1,0 +1,73 @@
+# Establishes interventions for children with dyslexia or other phonological learning differences or disabilities
+
+**Bill ID:** A460
+**Session:** 2023
+**Sponsor:** Robert C. Carroll
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires each school district to provide interventions and special curricula for children with dyslexia or other phonological learning differences or disabilities.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  460
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 9, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  CARROLL,  THIELE,  SIMON, SAYEGH, DeSTEFANO,
+  J. A. GIGLIO, WILLIAMS, SEAWRIGHT, COLTON, LUPARDO, DICKENS,  EPSTEIN,
+  DAVILA,  McMAHON,  TAYLOR, REYES, JEAN-PIERRE -- Multi-Sponsored by --
+  M. of A. COOK, HYNDMAN -- read once and referred to the  Committee  on
+  Education
+
+ AN ACT to amend the education law, in relation to curricula for students
+  identified  as  dyslexic  or as having any other phonological learning
+  difference or disability
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The education law is amended by adding a new section 4407-a
+ to read as follows:
+  §  4407-A. SPECIAL PROVISIONS RELATING TO INSTRUCTION OF CHILDREN WITH
+ DYSLEXIA OR OTHER PHONOLOGICAL DIFFERENCES OR DISABILITIES. 1. THE BOARD
+ OF EDUCATION OR TRUSTEES OF EACH SCHOOL DISTRICT  SHALL  PROVIDE  INTER-
+ VENTION  SERVICES  FOR  ANY  STUDENT WHO IS IDENTIFIED AS DYSLEXIC OR AS
+ HAVING ANY OTHER PHONOLOGICAL LEARNING DIFFERENCE  OR  DISABILITY.  SUCH
+ INTERVENTION  SERVICES SHALL INCLUDE A MULTI-SENSORY SEQUENTIAL PHONICS-
+ BASED CURRICULUM, WHICH SHALL BE TAUGHT IN ADDITION TO ANY OTHER SPECIAL
+ INSTRUCTION.
+  2. CURRICULA ESTABLISHED PURSUANT TO SUBDIVISION ONE OF  THIS  SECTION
+ SHALL:
+  A. INCLUDE EXPLICIT AND DIRECT INSTRUCTION THAT IS SYSTEMATIC, SEQUEN-
+ TIAL, CUMULATIVE, AND FOLLOWS A LOGICAL PLAN OF PRESENTING THE ALPHABET-
+ IC  PRINCIPLE  THAT  TARGETS  THE SPECIFIC NEEDS OF EACH STUDENT WITHOUT
+ PRESUMING ANY PRIOR SKILLS OR KNOWLEDGE;
+  B. INCLUDE MEANING-BASED INSTRUCTION DIRECTED AT  PURPOSEFUL  READING,
+ WITH EMPHASIS ON STUDENT COMPREHENSION; AND
+  C.  BE  STRUCTURED  TO PROVIDE INDIVIDUAL INSTRUCTION TAILORED TO EACH
+ STUDENT, OR TO A SMALL GROUP SETTING OF TEN STUDENTS OR LESS.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00505-01-3
+ A. 460  2
+ 
+  3. THE BOARD OF EDUCATION OR  TRUSTEES  SHALL  INFORM  EACH  STUDENT'S
+ PARENT OR PERSON IN PARENTAL RELATION OF THE INTERVENTION SERVICES BEING
+ IMPLEMENTED UNDER THIS SECTION.
+  4.  EACH  SCHOOL  DISTRICT  SHALL PROVIDE THE DEPARTMENT AND REGENTS A
+ DETAILED REPORT ON ITS CURRICULUM AND INTERVENTION SERVICES  ESTABLISHED
+ PURSUANT TO THIS SECTION BY THE THIRTY-FIRST DAY OF JULY ANNUALLY.
+  § 2. This act shall take effect immediately.
