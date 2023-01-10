@@ -1,0 +1,76 @@
+# Establishes environmental standards for lead in ambient air and lead contamination in soils and lead dust on floors and window sills
+
+**Bill ID:** S1212B
+**Session:** 2023
+**Sponsor:** Cordell Cleare
+**Status:** In Senate Committee
+
+## Summary
+
+Establishes environmental standards for lead in ambient air and lead contamination in soils and lead dust on floors and window sills.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1212
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 10, 2023
+  ___________
+ 
+ Introduced  by  Sens.  CLEARE,  KRUEGER,  MANNION, MAY -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Environmental Conservation
+ 
+ AN  ACT  directing  the  departments  of  environmental conservation and
+  health to establish environmental standards for ambient lead and  lead
+  contamination  in  soils;  and  providing  for  the  repeal  of  such
+  provisions upon expiration thereof
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Legislative  findings. The legislature finds and declares
+ that there is a present  need  to  establish  New  York  standards  with
+ respect  to  levels  of ambient lead and levels of lead contamination in
+ soils and on floors and window sills. The  legislature  finds  that  the
+ current  regulatory  standards  are  inadequate  to  protect the general
+ public and particularly small  children  from  the  harmful  effects  of
+ ingesting  or  inhaling  lead dust, often resulting from lead paint, and
+ coming into contact with  lead  on  exposed  surfaces.  The  legislature
+ declares  that  it  shall  be  the responsibility of the commissioner of
+ environmental conservation, in consultation  with  the  commissioner  of
+ health,  to  adopt  standards for ambient lead and lead contamination of
+ soil and windows and floors, in a manner that would be fully  protective
+ of children's health, and in accordance with the procedures set forth in
+ the environmental conservation law.
+  § 2. a. No later than March 31, 2024, the departments of environmental
+ conservation  and  health  shall  propose  new standards, and update any
+ existing standards as appropriate,  for  dust  lead  hazards,  soil-lead
+ hazards and ambient air quality standards for the level of lead in vari-
+ ous  media that will result in blood lead levels that are no higher than
+ a target that is fully protective of human health and which at a minimum
+ include consideration of recommendations from the  centers  for  disease
+ control.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04790-01-3
+ S. 1212  2
+ 
+  b.  No  later than June 1, 2024, such departments shall issue a report
+ to the legislature describing the status of such reviews, adoptions, and
+ revisions and expected health improvements resulting therefrom.
+  §  3.  This  act shall take effect on the ninetieth day after it shall
+ have become a law and shall expire and be deemed repealed July 1,  2024.
+ Effective immediately, the addition, amendment and/or repeal of any rule
+ or regulation necessary for the implementation of this act on its effec-
+ tive  date  are  authorized  to  be made and completed on or before such
+ date.
