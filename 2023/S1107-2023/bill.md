@@ -1,0 +1,60 @@
+# Relates to the intentional removal of identifying markers from commercial motor vehicles in the city of New York
+
+**Bill ID:** S1107
+**Session:** 2023
+**Sponsor:** Leroy Comrie
+**Status:** In Senate Committee
+
+## Summary
+
+Prohibits the intentional removal of identification markers from commercial motor vehicles in the city of New York for the purpose of evading a traffic infraction; provides a fine of $200-$1000 for intentional removal of identification markers.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1107
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 10, 2023
+  ___________
+ 
+ Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Transportation
+ 
+ AN ACT to amend the transportation law, in relation to  the  intentional
+  removal  of  identification  markers from commercial motor vehicles in
+  the city of New York
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Paragraph c of subdivision 2 of section 140 of the trans-
+ portation law is amended by adding a new subparagraph (viii) to read  as
+ follows:
+  (VIII)(A)  IN  A  CITY  WITH  A  POPULATION OF ONE MILLION OR MORE, NO
+ PERSON, CORPORATION, LIMITED LIABILITY COMPANY OR BUSINESS ENTITY, JOINT
+ STOCK ASSOCIATION, PARTNERSHIP, OR ANY OFFICER OR AGENT  THEREOF,  SHALL
+ KNOWINGLY  REMOVE OR ALLOW, PERMIT OR AUTHORIZE THE REMOVAL OF IDENTIFI-
+ CATION FROM COMMERCIAL MOTOR VEHICLES THAT TRANSPORT PROPERTY IN  INTRA-
+ STATE,  INTERSTATE OR INTERNATIONAL COMMERCE, FOR THE PURPOSE OF EVADING
+ A TRAFFIC INFRACTION. SUCH IDENTIFICATION  SHALL  INCLUDE,  BUT  NOT  BE
+ LIMITED TO, VEHICLE REGISTRATION PURSUANT TO SECTION FOUR HUNDRED ONE OF
+ THE  VEHICLE  AND  TRAFFIC  LAW,  NUMBER PLATES PURSUANT TO SECTION FOUR
+ HUNDRED TWO OF THE VEHICLE AND TRAFFIC LAW, AND  VEHICLE  IDENTIFICATION
+ PURSUANT TO SECTION ONE HUNDRED FORTY-THREE OF THIS ARTICLE.
+  (B)  A VIOLATION OF THIS SUBPARAGRAPH SHALL BE PUNISHABLE BY A FINE OF
+ NOT LESS THAN TWO HUNDRED DOLLARS NOR MORE THAN ONE THOUSAND DOLLARS.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03364-01-3
