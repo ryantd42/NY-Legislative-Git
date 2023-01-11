@@ -1,0 +1,88 @@
+# Relates to creating a company climate report system to assess the workplace environment of companies doing business in New York
+
+**Bill ID:** A809
+**Session:** 2023
+**Sponsor:** Linda Rosenthal
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to creating a company climate report system to assess the workplace environment of companies doing business in New York with a focus on sexual harassment and discrimination policies and the frequency and handling of claims, settlements and cases by such companies.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  809
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
+  Committee on Governmental Operations
+ 
+ AN ACT to amend the executive law, in relation  to  creating  a  company
+  climate report system to assess the workplace environment of companies
+  doing business in New York
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The executive law is amended by adding a new section  295-a
+ to read as follows:
+  § 295-A. COMPANY CLIMATE REPORTS. 1. (A) EVERY COMPANY THAT DOES BUSI-
+ NESS  IN  NEW  YORK  STATE SHALL FILE A BIENNIAL CLIMATE REPORT WITH THE
+ DIVISION. THE REQUIREMENTS FOR THE FORM  AND  CONTENT  OF  SUCH  CLIMATE
+ REPORT  SHALL  BE PROMULGATED BY THE COMMISSIONER AND AT A MINIMUM SHALL
+ INCLUDE:
+  (I) COMPANY CLIMATE SURVEYS TO BE FILLED OUT ANONYMOUSLY BY EMPLOYEES,
+ WHICH ARE  DESIGNED  TO  ASSESS  SUCH  COMPANY'S  WORKPLACE  ENVIRONMENT
+ INCLUDING,  BUT  NOT  LIMITED  TO,  PAY  EQUITY,  SEXUAL  HARASSMENT AND
+ DISCRIMINATION  BASED  ON  AN  INDIVIDUAL'S  AGE,  RACE,  CREED,  COLOR,
+ NATIONAL  ORIGIN,  SEXUAL ORIENTATION, MILITARY STATUS, SEX, DISABILITY,
+ PREDISPOSING GENETIC CHARACTERISTICS, FAMILIAL STATUS, MARITAL STATUS OR
+ DOMESTIC VIOLENCE VICTIM STATUS.
+  (II) A COPY OF THE COMPANY'S SEXUAL HARASSMENT AND ANTI-DISCRIMINATION
+ POLICIES.
+  (III) RECORDS OF  ANY  SEXUAL  HARASSMENT  OR  DISCRIMINATION  CLAIMS,
+ SETTLEMENTS AND CASES AND THE DISPOSITION THEREOF.
+  (B)  A  COMPANY  FILING A COMPANY CLIMATE REPORT SHALL NOT INCLUDE ANY
+ NAMES OR OTHER PERSONALLY IDENTIFYING INFORMATION IN SUCH REPORT.
+  2. (A) THE COMMISSIONER SHALL DEVELOP  A  GRADING  SYSTEM  TO  RATE  A
+ COMPANY'S  WORKPLACE  ENVIRONMENT  AND HANDLING OF SEXUAL HARASSMENT AND
+ DISCRIMINATION ISSUES, DETERMINE WHAT CONSTITUTES  A  PASSING  SCORE  IN
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00690-01-3
+ A. 809  2
+ 
+ SUCH SYSTEM AND CREATE AN APPEAL PROCESS FOR A COMPANY TO APPEAL A FAIL-
+ ING SCORE.
+  (B)  THE  DIVISION  SHALL  AGGREGATE THE DATA PROVIDED IN EACH COMPANY
+ CLIMATE REPORT RECEIVED AND ASSIGN EACH COMPANY A SCORE ON  THE  GRADING
+ SYSTEM CREATED IN PARAGRAPH (A) OF THIS SUBDIVISION.
+  (C)  THE  DIVISION  SHALL  CREATE  AND  THEREAFTER MAINTAIN A PUBLICLY
+ ACCESSIBLE WEBSITE WHICH  SHALL  CONTAIN  THE  CONTENT  OF  THE  COMPANY
+ CLIMATE REPORT AND CORRESPONDING SCORE FOR EACH COMPANY.
+  3.  A COMPANY WHICH RECEIVES A FAILING SCORE AND DOES NOT SUCCESSFULLY
+ APPEAL SUCH SCORE SHALL BE REQUIRED TO IMPLEMENT CHANGES RECOMMENDED  BY
+ THE  DIVISION TO IMPROVE SUCH SCORE. A COMPANY WHO FAILS TO IMPROVE SUCH
+ SCORE TO A PASSING SCORE WITHIN TWO YEARS SHALL BE  INELIGIBLE  FOR  ANY
+ TYPE  OF STATE BENEFIT, INCLUDING BUT NOT LIMITED TO SUBMITTING A BID TO
+ ANY CONTRACTING AGENCY, AS DEFINED IN SECTION THREE HUNDRED TEN OF  THIS
+ CHAPTER,  OR  BE AWARDED ANY SUCH CONTRACT OR TAX CREDITS AWARDED BY THE
+ STATE, UNTIL SUCH TIME AS SUCH COMPANY RECEIVES A PASSING SCORE FROM THE
+ DIVISION.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ become  a  law.  Effective  immediately,  the addition, amendment and/or
+ repeal of any rule or regulation necessary  for  the  implementation  of
+ this  act  on its effective date are authorized to be made and completed
+ on or before such effective date.
