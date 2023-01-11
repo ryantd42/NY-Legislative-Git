@@ -1,0 +1,148 @@
+# Relates to the use of consumer credit history for certain purposes
+
+**Bill ID:** A779C
+**Session:** 2023
+**Sponsor:** Jeffrey Dinowitz
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Prohibits the use of consumer credit history in hiring, employment and licensing determinations.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  779
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by M. of A. DINOWITZ, L. ROSENTHAL, WEPRIN, OTIS, SEAWRIGHT,
+  REYES, TAYLOR, SAYEGH, EPSTEIN, STIRPE, HYNDMAN, STECK,  COOK,  GLICK,
+  CRUZ, ZEBROWSKI, WALLACE, FALL, DARLING -- Multi-Sponsored by -- M. of
+  A.  SIMON  --  read  once  and  referred  to the Committee on Consumer
+  Affairs and Protection
+
+ AN ACT to amend the general business law, in relation to prohibiting the
+  disclosure or use of a person's consumer credit history to an  employ-
+  er,  labor  organization,  employment  agency  or  agent  thereof  for
+  purposes of employment decisions
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  380-a  of the general business law is amended by
+ adding a new subdivision (v) to read as follows:
+  (V) THE TERM "CONSUMER CREDIT HISTORY" MEANS  AN  INDIVIDUAL'S  CREDIT
+ WORTHINESS,  CREDIT  STANDING,  CREDIT  CAPACITY  OR PAYMENT HISTORY, AS
+ INDICATED BY:
+  (1) A CONSUMER CREDIT REPORT;
+  (2) CREDIT SCORE; OR
+  (3) INFORMATION AN  EMPLOYER  OBTAINS  DIRECTLY  FROM  THE  INDIVIDUAL
+ REGARDING  (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE INDIVIDUAL'S
+ NUMBER OF CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS,  CHARGED-OFF  DEBTS,
+ ITEMS  IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES, OR
+ (II) BANKRUPTCIES, JUDGMENTS OR LIENS.
+  A CONSUMER CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR  OTHER  COMMUNI-
+ CATION OF ANY INFORMATION BY A CONSUMER REPORTING AGENCY THAT BEARS ON A
+ CONSUMER'S  CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR CREDIT
+ HISTORY.
+  § 2. Subdivision (d) of section 380-b of the general business  law  is
+ relettered  subdivision  (g) and three new subdivisions (d), (e) and (f)
+ are added to read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00590-01-3
+ A. 779  2
+ 
+  (D) (1) EXCEPT AS PROVIDED IN THIS SUBDIVISION, IT SHALL BE AN  UNLAW-
+ FUL DISCRIMINATORY PRACTICE FOR AN EMPLOYER, LABOR ORGANIZATION, EMPLOY-
+ MENT  AGENCY  OR  ANY  AGENT THEREOF TO REQUEST OR TO USE FOR EMPLOYMENT
+ PURPOSES THE CONSUMER CREDIT HISTORY OF AN APPLICANT FOR  EMPLOYMENT  OR
+ EMPLOYEE,  OR  OTHERWISE  DISCRIMINATE  AGAINST AN APPLICANT OR EMPLOYEE
+ WITH REGARD TO HIRING, COMPENSATION,  OR THE TERMS, CONDITIONS OR PRIVI-
+ LEGES OF EMPLOYMENT BASED ON THE CONSUMER CREDIT HISTORY OF  THE  APPLI-
+ CANT OR EMPLOYEE.
+  (2) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT APPLY TO:
+  (I) AN EMPLOYER, OR AGENT THEREOF, THAT IS REQUIRED BY STATE OR FEDER-
+ AL  LAW  OR  BY  A  SELF-REGULATORY  ORGANIZATION  AS DEFINED IN SECTION
+ 3(A)(26) OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED  TO  USE  AN
+ INDIVIDUAL'S CONSUMER CREDIT HISTORY FOR EMPLOYMENT PURPOSES;
+  (II)  PERSONS  APPLYING FOR POSITIONS AS OR EMPLOYED AS PEACE OFFICERS
+ OR POLICE OFFICERS, AS SUCH TERMS ARE DEFINED  IN  SUBDIVISIONS  THIRTY-
+ THREE  AND  THIRTY-FOUR  OF  SECTION 1.20 OF THE CRIMINAL PROCEDURE LAW,
+ RESPECTIVELY, OR IN A POSITION WITH A LAW ENFORCEMENT  OR  INVESTIGATIVE
+ FUNCTION IN A LAW ENFORCEMENT AGENCY.
+  (3) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT BE CONSTRUED TO AFFECT
+ THE  OBLIGATIONS  OF  PERSONS REQUIRED BY STATE OR LOCAL LAW RELATING TO
+ DISCLOSURES BY PUBLIC EMPLOYEES OF CONFLICTS OF INTEREST.
+  (4) NOTHING IN  THIS  SUBDIVISION  SHALL  PRECLUDE  AN  EMPLOYER  FROM
+ REQUESTING  OR RECEIVING CONSUMER CREDIT HISTORY INFORMATION PURSUANT TO
+ A LAWFUL SUBPOENA, COURT ORDER  OR  SPECIFIC  LAW  ENFORCEMENT  INVESTI-
+ GATION.
+  (E)  (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SUBDIVISION, IT SHALL BE
+ AN UNLAWFUL DISCRIMINATORY PRACTICE FOR ANY STATE OR MUNICIPAL AGENCY TO
+ REQUEST  OR  USE  FOR  LICENSING  OR  PERMITTING  PURPOSES  INFORMATION
+ CONTAINED  IN  THE  CONSUMER CREDIT HISTORY OF AN APPLICANT, LICENSEE OR
+ PERMITTEE FOR LICENSING OR PERMITTING PURPOSES.
+  (2) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT  APPLY  TO  AN  AGENCY
+ REQUIRED  BY STATE OR FEDERAL LAW TO USE AN INDIVIDUAL'S CONSUMER CREDIT
+ HISTORY FOR LICENSING OR PERMITTING PURPOSES.
+  (3) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT BE CONSTRUED TO AFFECT
+ THE ABILITY OF AN AGENCY TO CONSIDER AN APPLICANT'S, LICENSEE'S,  REGIS-
+ TRANT'S  OR PERMITTEE'S FAILURE TO PAY ANY TAX, FINE, PENALTY OR FEE FOR
+ WHICH LIABILITY HAS BEEN ADMITTED BY THE PERSON LIABLE THEREFOR, OR  FOR
+ WHICH JUDGMENT HAS BEEN ENTERED BY A COURT OR ADMINISTRATIVE TRIBUNAL OF
+ COMPETENT  JURISDICTION,  OR  ANY  TAX FOR WHICH A GOVERNMENT AGENCY HAS
+ ISSUED A WARRANT, OR A LIEN OR LEVY ON PROPERTY.
+  (4) NOTHING IN THIS SUBDIVISION SHALL PRECLUDE A LICENSING AGENCY FROM
+ REQUESTING, RECEIVING, OR  USING  CONSUMER  CREDIT  HISTORY  INFORMATION
+ OBTAINED  PURSUANT  TO  A  LAWFUL  SUBPOENA, COURT ORDER OR SPECIFIC LAW
+ ENFORCEMENT INVESTIGATION.
+  (F) THIS SECTION DOES NOT ANNUL, ALTER, AFFECT OR EXEMPT ANY EMPLOYER,
+ LABOR ORGANIZATION, EMPLOYMENT AGENCY OR ANY AGENT  THEREOF  SUBJECT  TO
+ THE  PROVISIONS OF THIS SECTION FROM COMPLYING WITH ANY LOCAL LAW, ORDI-
+ NANCE OR REGULATION WITH RESPECT TO THE USE OF CONSUMER  CREDIT  HISTORY
+ FOR  EMPLOYMENT PURPOSES EXCEPT TO THE EXTENT THAT THOSE LAWS ARE INCON-
+ SISTENT WITH ANY PROVISION OF THIS SECTION, AND THEN ONLY TO THE  EXTENT
+ OF  SUCH  INCONSISTENCY.  FOR PURPOSES OF THIS SUBDIVISION, A LOCAL LAW,
+ ORDINANCE OR REGULATION IS NOT INCONSISTENT WITH  THIS  SECTION  IF  THE
+ PROTECTION  SUCH  LAW OR REGULATION AFFORDS AN EMPLOYEE OR JOB APPLICANT
+ IS GREATER THAN THE PROTECTION PROVIDED BY THIS SECTION.
+  § 3. The division of human rights shall request information from state
+ and local agencies and non-governmental employers  regarding  the  agen-
+ A. 779  3
+ 
+ cies'  and  employers'  use of the exemptions established in subdivision
+ (d) of section 380-b of the general business law for purposes of  hiring
+ and  employment. Within two years of the effective date of this act, the
+ division  of  human  rights  shall  submit  to  the legislature a report
+ concerning the results of such request and any  relevant  feedback  from
+ agencies and employers.
+  §  4.  Paragraph  3 of subdivision (a) of section 380-b of the general
+ business law, as amended by chapter 797 of the laws of 1984, is  amended
+ to read as follows:
+  (3)  To  a  person  whom  it  has reason to believe intends to use the
+ information (i) in connection with a credit  transaction  involving  the
+ consumer  on  whom  the information is to be furnished and involving the
+ extension of credit to, or review or collection of an  account  of,  the
+ consumer, or (ii) [for employment purposes, or (iii)] in connection with
+ the underwriting of insurance involving the consumer, or [(iv)] (III) in
+ connection  with  a  determination  of  the consumer's eligibility for a
+ license or other  benefit  granted  by  a  governmental  instrumentality
+ required  by  law to consider an applicant's financial responsibility or
+ status, or [(v)] (IV) to a person in connection with a  business  trans-
+ action  involving  the consumer where the user has a legitimate business
+ need for such information, or [(vi)] (V) in connection with  the  rental
+ or lease of a residence.
+  § 5. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law.
