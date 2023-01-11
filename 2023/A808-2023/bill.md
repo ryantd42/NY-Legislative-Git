@@ -1,0 +1,86 @@
+# Establishes regulations for hospital emergency rooms
+
+**Bill ID:** A808
+**Session:** 2023
+**Sponsor:** Linda Rosenthal
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes regulations for hospital emergency rooms when treating patients suffering from an opioid overdose or addiction.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  808
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
+  Committee on Health
+ 
+ AN ACT to amend the public health law, in relation to promulgating regu-
+  lations for hospital emergency rooms when treating patients  suffering
+  from an opioid overdose or addiction
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 206 of the public health law is amended by adding a
+ new subdivision 32 to read as follows:
+  32. (A) THE COMMISSIONER, IN CONSULTATION  WITH  THE  COMMISSIONER  OF
+ MENTAL  HEALTH, SHALL PROMULGATE REGULATIONS FOR THE TREATMENT OF OPIOID
+ ADDICTIONS AND/OR OPIOID OVERDOSES  IN  HOSPITAL  EMERGENCY  ROOMS.  FOR
+ PURPOSES OF THIS SUBDIVISION:
+  (I)  "PEER  TO  PEER  SUPPORT  SERVICES"  MEANS  PARTICIPANT-CENTERED
+ SERVICES THAT EMPHASIZE KNOWLEDGE AND WISDOM THROUGH LIVED EXPERIENCE IN
+ WHICH PEERS ARE ENCOURAGED TO SHARE THEIR OWN  PERSONAL  EXPERIENCE  AND
+ FIRST-HAND  KNOWLEDGE  OF  SUBSTANCE  ABUSE,  ADDICTION, AND RECOVERY TO
+ SUPPORT THE RECOVERY GOALS OF INDIVIDUALS WHO USE DRUGS AND/OR ALCOHOL.
+  (II) "OPIOID" MEANS AN  OPIATE  AS  DEFINED  IN  SECTION  THIRTY-THREE
+ HUNDRED TWO OF THIS CHAPTER.
+  (III)  "OPIOID  ANTAGONIST"  MEANS A FEDERAL FOOD AND DRUG ADMINISTRA-
+ TION-APPROVED DRUG THAT, WHEN ADMINISTERED, NEGATES  OR  NEUTRALIZES  IN
+ WHOLE  OR  IN PART THE PHARMACOLOGICAL EFFECTS OF AN OPIOID IN THE BODY.
+ THE OPIOID ANTAGONIST SHALL BE LIMITED  TO  NALOXONE,  BUPRENORPHINE  OR
+ OTHER MEDICATIONS APPROVED BY THE DEPARTMENT FOR THIS PURPOSE.
+  (B)  SUCH  REGULATIONS SHALL INCLUDE, BUT NOT BE LIMITED TO, REQUIRING
+ EMERGENCY ROOMS TO PROVIDE PATIENTS AND THOSE WHO ACCOMPANY THEM WITH:
+  (I) FORMAL RECOVERY SUPPORT, INCLUDING, BUT NOT LIMITED TO, DETOX  AND
+ MEDICATION ASSISTED TREATMENT;
+  (II) INFORMATION REGARDING VARIOUS MODES OF RECOVERY;
+  (III) CONTACT INFORMATION FOR PEER TO PEER SUPPORT SERVICES;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00687-01-3
+ A. 808  2
+ 
+  (IV)  INFORMATION FOR PATIENTS AND THOSE WHO ACCOMPANY THEM ON HOW AND
+ WHEN TO ADMINISTER AN OPIOID ANTAGONIST, AND WHERE TO OBTAIN  AN  OPIOID
+ ANTAGONIST PRESCRIPTION; AND
+  (V) A PRESCRIBED OPIOID ANTAGONIST.
+  (C)  SUCH  REGULATIONS  MAY  PROVIDE THAT HOSPITAL EMERGENCY ROOMS MAY
+ REFER PATIENTS TO OTHER  FACILITIES  OFFERING  DETOX  AND/OR  MEDICATION
+ ASSISTED TREATMENT, INCLUDING BUT NOT LIMITED TO:
+  (I) FREE STANDING SUBSTANCE ABUSE FACILITIES;
+  (II) GENERAL HOSPITALS;
+  (III)  RESIDENTIAL  FACILITIES  FOR PERSONS WHO ABUSE OR ARE DEPENDENT
+ UPON OPIOIDS;
+  (IV) METHADONE MAINTENANCE PROGRAMS; AND
+  (V) OUTPATIENT FACILITIES FOR PERSONS WHO ABUSE OR  ARE  DEPENDENT  ON
+ OPIOIDS.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it  shall have become a law. Effective immediately, the addition, amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation of this act on its effective date are authorized to be  made  and
+ completed on or before such effective date.
