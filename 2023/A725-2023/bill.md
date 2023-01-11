@@ -1,0 +1,61 @@
+# Modifies the order in which candidates appear on the ballot
+
+**Bill ID:** A725
+**Session:** 2023
+**Sponsor:** Pamela J. Hunter
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Modifies the order in which candidates appear on the ballot; requires that offices shall be listed on the ballot in descending order based on the size of the electorate and requires certain federal offices to be listed before state, county or local offices.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  725
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by M. of A. HUNTER, JACOBSON, SILLITTI, WALLACE -- read once
+  and referred to the Committee on Election Law
+ 
+ AN ACT to amend the election law, in relation  to  the  order  in  which
+  candidates appear on the ballot
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Subdivision 11 of section 7-104 of  the  election  law,  as
+ added by chapter 411 of the laws of 2019, is amended to read as follows:
+  11.  [The  offices  appearing  on  all  ballots shall be listed in the
+ customary order] (A) THE OFFICES APPEARING ON ALL BALLOTS SHALL BE LIST-
+ ED IN THE ORDER OF PRECEDENCE, AS  APPLICABLE  TO  THE  OFFICES  UP  FOR
+ ELECTION  IN  ANY  GIVEN  YEAR, AS FOLLOWS:  ELECTORS FOR PRESIDENT AND
+ VICE-PRESIDENT OF THE UNITED STATES, GOVERNOR AND  LIEUTENANT  GOVERNOR,
+ NEW  YORK  STATE  COMPTROLLER,  NEW  YORK STATE ATTORNEY GENERAL, UNITED
+ STATES SENATOR, MEMBER OF THE HOUSE OF REPRESENTATIVES, NEW  YORK  STATE
+ SENATOR, MEMBER OF THE NEW YORK STATE ASSEMBLY.  ANY OFFICE WHICH IS NOT
+ LISTED  IN  THIS  PARAGRAPH SHALL NOT APPEAR ON THE BALLOT IN A POSITION
+ BEFORE OR AHEAD OF AN OFFICE WHICH IS LISTED.
+  (B) IMMEDIATELY FOLLOWING THE OFFICES IN PARAGRAPH (A) OF THIS  SUBDI-
+ VISION, ALL OTHER OFFICES SHALL BE PLACED UPON THE BALLOT IN THE CUSTOM-
+ ARY  ORDER;  PROVIDED,  FURTHER, THAT PARTISAN OFFICES REGARDLESS OF THE
+ SIZE OF THE CONSTITUENCY SHALL BE LISTED BEFORE OR AHEAD OF  NONPARTISAN
+ OFFICES  AND  ALL CANDIDATES FOR JUDICIAL OFFICES SHALL FOLLOW ALL OTHER
+ PARTISAN OFFICES.
+  § 2. This act shall take effect on the first of January next  succeed-
+ ing the date on which it shall have become a law.
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03289-01-3
