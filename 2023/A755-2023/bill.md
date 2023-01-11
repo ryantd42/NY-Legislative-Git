@@ -1,0 +1,61 @@
+# Relates to the composition of boards of elections
+
+**Bill ID:** A755
+**Session:** 2023
+**Sponsor:** Nily Rozic
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to the composition of boards of elections; provides that such boards shall have other qualifications for performing their duties as the legislature may direct.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  755
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by M. of A. ROZIC -- read once and referred to the Committee
+  on Election Law
+ 
+  CONCURRENT RESOLUTION OF THE SENATE AND ASSEMBLY
+ 
+ proposing an amendment to section 8 of article 2 of the constitution, in
+  relation to the composition of boards of elections
+ 
+  Section 1. Resolved (if the Senate concur), That section 8 of  article
+ 2 of the constitution be amended to read as follows:
+  §  8.  All  laws  creating, regulating or affecting boards or officers
+ charged with the duty of qualifying voters, or of  distributing  ballots
+ to  voters,  or  of receiving, recording or counting votes at elections,
+ shall secure equal representation of the two political parties which, at
+ the general election next preceding that for which such boards or  offi-
+ cers  are  to  serve,  cast  the  highest and the next highest number of
+ votes. All such boards and officers shall be  appointed  or  elected  in
+ such  manner,  and  upon  the nomination of such representatives of said
+ parties respectively, as the legislature may direct AND SHALL HAVE  SUCH
+ OTHER  QUALIFICATIONS FOR PERFORMING THEIR DUTIES AS THE LEGISLATURE MAY
+ DIRECT.  Existing laws on this subject shall continue until the legisla-
+ ture shall otherwise provide. This section shall not apply to  town,  or
+ village elections.
+  §  2. Resolved (if the Senate concur), That the foregoing amendment be
+ referred to the first regular legislative session  convening  after  the
+ next  succeeding  general  election  of members of the assembly, and, in
+ conformity with  section  1  of  article  19  of  the  constitution,  be
+ published for 3 months previous to the time of such election.
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD89025-01-3
