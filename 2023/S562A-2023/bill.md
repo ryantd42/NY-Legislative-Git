@@ -1,6 +1,6 @@
 # Enacts the "all-electric building act"
 
-**Bill ID:** S562A
+**Bill ID:** S562AA
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "all-electric building act"; provides that the state energy conservat
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  562
+  562--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,12 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sens. KAVANAGH, BRESLIN, BRISPORT, BROUK, CLEARE, GIANAR-
-  IS, GOUNARDES, HARCKHAM, HINCHEY, HOYLMAN, JACKSON, KRUEGER, LIU, MAY,
-  MAYER, MYRIE, PARKER,  RAMOS,  RIVERA,  SALAZAR,  SANDERS,  SEPULVEDA,
-  SERRANO  --  read  twice  and  ordered printed, and when printed to be
-  committed to the Committee  on  Housing,  Construction  and  Community
-  Development
+  IS, GOUNARDES, HARCKHAM,  HINCHEY,  HOYLMAN-SIGAL,  JACKSON,  KRUEGER,
+  LIU,  MAY,  MAYER,  MYRIE,  PARKER,  RAMOS,  RIVERA, SALAZAR, SANDERS,
+  SEPULVEDA, SERRANO -- read twice and ordered printed, and when printed
+  to be committed to the Committee on Housing, Construction and Communi-
+  ty  Development  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT  to amend the energy law, in relation to enacting the "all-elec-
   tric building act"
@@ -58,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  CHAPTER ONE HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN, ALSO KNOWN
  AS  THE  NEW YORK STATE CLIMATE LEADERSHIP AND COMMUNITY PROTECTION ACT,
  THE CODE SHALL PROHIBIT INFRASTRUCTURE, BUILDING SYSTEMS,  OR  EQUIPMENT
- USED FOR THE COMBUSTION OF FOSSIL FUELS IN NEW CONSTRUCTION STATEWIDE NO
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00200-01-3
- S. 562  2
+  LBD00200-02-3
+ S. 562--A  2
  
- LATER THAN DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-FOUR IF THE BUILD-
- ING IS LESS THAN SEVEN STORIES AND JULY FIRST, TWO THOUSAND TWENTY-EIGHT
- IF THE BUILDING IS SEVEN STORIES OR MORE.
+ USED FOR THE COMBUSTION OF FOSSIL FUELS IN NEW CONSTRUCTION STATEWIDE NO
+ LATER  THAN  DECEMBER  THIRTY-FIRST,  TWO  THOUSAND  TWENTY-THREE IF THE
+ BUILDING IS LESS THAN SEVEN STORIES AND JULY FIRST, TWO  THOUSAND  TWEN-
+ TY-SEVEN IF THE BUILDING IS SEVEN STORIES OR MORE.
   8.  NOTWITHSTANDING  THE  PROVISIONS  OF  SUBDIVISION  SEVEN  OF  THIS
  SECTION, THE STATE FIRE PREVENTION AND BUILDING CODE COUNCIL MAY  EXEMPT
  SYSTEMS  FOR  EMERGENCY  BACK-UP POWER, OR BUILDINGS SPECIFICALLY DESIG-
