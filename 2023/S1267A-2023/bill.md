@@ -1,0 +1,140 @@
+# Requires a utilization review agent to follow certain rules when establishing a step therapy protocol
+
+**Bill ID:** S1267A
+**Session:** 2023
+**Sponsor:** Neil D. Breslin
+**Status:** Signed by Governor
+
+## Summary
+
+Requires a utilization review agent to follow certain rules when establishing a step therapy protocol; requires that the protocol accepts any attestation submitted by the insured's health care professional stating that a required drug has failed as prima facie evidence that the required drug has failed.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1267
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Insurance
+ 
+ AN ACT to amend the insurance law and the public health law, in relation
+  to requiring a utilization review agent to follow certain  rules  when
+  establishing a step therapy protocol
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subsection (a) of section 4902  of  the  insurance  law  is
+ amended by adding two new paragraphs 14 and 15 to read as follows:
+  (14)  WHEN  ESTABLISHING A STEP THERAPY PROTOCOL, A UTILIZATION REVIEW
+ AGENT SHALL ENSURE THAT THE PROTOCOL CANNOT:
+  (I) REQUIRE A PRESCRIPTION DRUG THAT HAS  NOT  BEEN  APPROVED  BY  THE
+ UNITED  STATES  FOOD  AND  DRUG ADMINISTRATION FOR THE MEDICAL CONDITION
+ BEING TREATED;
+  (II) REQUIRE AN INSURED TO TRY AND FAIL ON MORE THAN ONE  DRUG  BEFORE
+ PROVIDING COVERAGE TO THE INSURED FOR THE PRESCRIBED DRUG;
+  (III)  REQUIRE THE USE OF A STEP THERAPY-REQUIRED DRUG FOR LONGER THAN
+ THIRTY DAYS;
+  (IV) BE IMPOSED ON AN INSURED IF THE INSURED HAS TAKEN THE  PRESCRIBED
+ DRUG COVERED BY THE PLAN WITHIN THE PAST THREE HUNDRED SIXTY-FIVE DAYS;
+  (V)  REQUIRE  A  NEWLY  ENROLLED  INSURED TO REPEAT STEP THERAPY FOR A
+ PRESCRIBED DRUG WHERE THAT INSURED ALREADY COMPLETED  STEP  THERAPY  FOR
+ THAT DRUG UNDER A PRIOR PLAN; AND
+  (VI) BE IMPOSED ON AN INSURED FOR A PRESCRIBED DRUG THAT WAS PREVIOUS-
+ LY  APPROVED  FOR  COVERAGE  BY  A PLAN FOR A SPECIFIC MEDICAL CONDITION
+ AFTER THE INSURED'S PLAN IMPLEMENTS A FORMULARY CHANGE THAT IMPACTS  THE
+ FORMULARY STATUS OF THE PRESCRIBED DRUG.
+  (15)  WHEN  ESTABLISHING A STEP THERAPY PROTOCOL, A UTILIZATION REVIEW
+ AGENT SHALL ENSURE THAT THE PROTOCOL ACCEPTS ANY  ATTESTATION  SUBMITTED
+ BY  THE  INSURED'S  HEALTH  CARE PROFESSIONAL AS DEFINED IN SECTION FOUR
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02501-01-3
+ S. 1267  2
+ 
+ THOUSAND NINE HUNDRED OF THIS TITLE STATING THAT  A  REQUIRED  DRUG  HAS
+ FAILED AS PRIMA FACIE EVIDENCE THAT THE REQUIRED DRUG HAS FAILED.
+  §  2.  Subsections (c-3) and (g) of section 4903 of the insurance law,
+ subsection (c-3) as added and subsection (g) as amended by  chapter  512
+ of the laws of 2016, are amended to read as follows:
+  (c-3)  Upon  a  determination that the step therapy protocol should be
+ overridden, the health plan shall authorize immediate coverage  for  the
+ prescription  drug  prescribed  by  the  insured's  treating health care
+ professional. ANY APPROVAL OF A STEP THERAPY PROTOCOL OVERRIDE  DETERMI-
+ NATION REQUEST SHALL BE HONORED UNTIL THE LATER OF TWELVE MONTHS FOLLOW-
+ ING THE DATE OF THE APPROVAL OR RENEWAL OF THE PLAN.
+  (g)  Failure  by  the utilization review agent to make a determination
+ within the time periods prescribed in this section shall be deemed to be
+ an adverse determination subject to  appeal  pursuant  to  section  four
+ thousand  nine hundred four of this title, provided, however, that fail-
+ ure to meet such time periods for a step therapy protocol as defined  in
+ subsection  (g-9)  of section forty-nine hundred of this title or a step
+ therapy protocol override determination pursuant to  subsections  (c-1),
+ (c-2) and (c-3) of this section shall be deemed to be an override of the
+ step  therapy  protocol.  A UTILIZATION REVIEW AGENT'S FAILURE TO COMPLY
+ WITH  ANY  OF  THE  STEP  THERAPY  PROTOCOL  REQUIREMENTS  REQUIRED  IN
+ SUBSECTIONS  FOURTEEN  AND FIFTEEN OF SECTION FOUR THOUSAND NINE HUNDRED
+ TWO OF THIS TITLE SHALL BE CONSIDERED A BASIS FOR GRANTING  AN  OVERRIDE
+ OF THE STEP THERAPY PROTOCOL.
+  §  3.  Section  4902 of the public health law is amended by adding two
+ new subdivisions 5 and 6 to read as follows:
+  5. WHEN ESTABLISHING A STEP THERAPY  PROTOCOL,  A  UTILIZATION  REVIEW
+ AGENT SHALL ENSURE THAT THE PROTOCOL CANNOT:
+  (A)  REQUIRE  A  PRESCRIPTION  DRUG  THAT HAS NOT BEEN APPROVED BY THE
+ UNITED STATES FOOD AND DRUG ADMINISTRATION  FOR  THE  MEDICAL  CONDITION
+ BEING TREATED;
+  (B)  REQUIRE  AN ENROLLEE TO TRY AND FAIL ON MORE THAN ONE DRUG BEFORE
+ PROVIDING COVERAGE TO THE INSURED FOR THE PRESCRIBED DRUG;
+  (C) REQUIRE THE USE OF A STEP THERAPY-REQUIRED DRUG  FOR  LONGER  THAN
+ THIRTY DAYS;
+  (D) BE IMPOSED ON AN ENROLLEE IF THE ENROLLEE HAS TAKEN THE PRESCRIBED
+ DRUG COVERED BY THE PLAN WITHIN THE PAST THREE HUNDRED SIXTY-FIVE DAYS;
+  (F)  REQUIRE  A  NEWLY  ENROLLED ENROLLEE TO REPEAT STEP THERAPY FOR A
+ PRESCRIBED DRUG WHERE THAT ENROLLEE ALREADY COMPLETED STEP  THERAPY  FOR
+ THAT DRUG UNDER A PRIOR PLAN; AND
+  (G) BE IMPOSED ON AN ENROLLEE FOR A PRESCRIBED DRUG THAT WAS PREVIOUS-
+ LY  APPROVED  FOR  COVERAGE  BY  A PLAN FOR A SPECIFIC MEDICAL CONDITION
+ AFTER THE ENROLLEE'S PLAN IMPLEMENTS A FORMULARY CHANGE THAT IMPACTS THE
+ FORMULARY STATUS OF THE PRESCRIBED DRUG.
+  6. WHEN ESTABLISHING A STEP THERAPY  PROTOCOL,  A  UTILIZATION  REVIEW
+ AGENT  SHALL  ENSURE THAT THE PROTOCOL ACCEPTS ANY ATTESTATION SUBMITTED
+ BY THE ENROLLEE'S HEALTH CARE PROFESSIONAL AS DEFINED IN SECTION  FORTY-
+ NINE  HUNDRED  OF  THIS TITLE STATING THAT A REQUIRED DRUG HAS FAILED AS
+ PRIMA FACIE EVIDENCE THAT THE REQUIRED DRUG HAS FAILED.
+  § 4. Subdivisions 3-c and 7 of section 4903 of the public health  law,
+ subdivision  3-c as added and subdivision 7 as amended by chapter 512 of
+ the laws of 2016, are amended to read as follows:
+  3-c. Upon a determination that the step  therapy  protocol  should  be
+ overridden,  the  health plan shall authorize immediate coverage for the
+ prescription drug or drugs prescribed by the enrollee's treating  health
+ care  professional.  ANY  APPROVAL  OF  A STEP THERAPY PROTOCOL OVERRIDE
+ S. 1267  3
+ 
+ DETERMINATION REQUEST SHALL BE HONORED UNTIL THE LATER OF TWELVE  MONTHS
+ FOLLOWING THE DATE OF THE APPROVAL OR RENEWAL OF THE PLAN.
+  7.  Failure  by  the  utilization review agent to make a determination
+ within the time periods prescribed in this section shall be deemed to be
+ an adverse determination subject to appeal pursuant  to  section  forty-
+ nine hundred four of this title, provided, however, that failure to meet
+ such  time periods for a step therapy protocol as defined in subdivision
+ seven-f-three of section forty-nine hundred of  this  title  or  a  step
+ therapy  protocol  override  determination  pursuant  to  subdivisions
+ three-a, three-b and three-c of this section shall be deemed  to  be  an
+ override  of  the  step therapy protocol.  A UTILIZATION REVIEW AGENT'S
+ FAILURE TO COMPLY WITH ANY OF THE  STEP  THERAPY  PROTOCOL  REQUIREMENTS
+ REQUIRED  IN SUBDIVISIONS FIVE AND SIX OF SECTION FORTY-NINE HUNDRED TWO
+ OF THIS TITLE SHALL BE CONSIDERED A BASIS FOR GRANTING  AN  OVERRIDE  OF
+ THE STEP THERAPY PROTOCOL.
+  § 5. This act shall take effect immediately.
