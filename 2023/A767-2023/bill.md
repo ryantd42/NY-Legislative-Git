@@ -1,0 +1,63 @@
+# Relates to requiring consumer reporting agencies to provide a consumer's information to such consumer at no cost
+
+**Bill ID:** A767
+**Session:** 2023
+**Sponsor:** Linda Rosenthal
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to requiring consumer reporting agencies to provide a consumer's information to such consumer at no cost.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  767
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 11, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
+  Committee on Consumer Affairs and Protection
+ 
+ AN ACT to amend the general  business  law,  in  relation  to  requiring
+  consumer  reporting  agencies  to  provide a consumer's information to
+  such consumer at no cost
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subdivision  (a) of section 380-d of the general business
+ law, as added by chapter 867 of the laws of 1977, is amended to read  as
+ follows:
+  (a)  Every  consumer  reporting agency shall AT ANY TIME, upon request
+ and proper identification of any consumer, AND AT NO COST TO THE CONSUM-
+ ER, clearly and accurately disclose to the consumer:
+  (1) all information in its files at the time of the request concerning
+ such consumer; and
+  (2) the sources of the information; except that the sources of  infor-
+ mation  acquired  solely  for use in preparing an investigative consumer
+ report and actually used for no other purpose  need  not  be  disclosed;
+ provided,  however, that in the event an action is brought under section
+ three hundred eighty-n of this article, such sources shall be  available
+ to  the plaintiff under appropriate discovery procedures in the court in
+ which the action is brought; and
+  (3) the recipients of any consumer report on the consumer which it has
+ furnished;
+  (i) for employment purposes within the two-year period  preceding  the
+ request, and
+  (ii)  for  any other purpose within the six month period preceding the
+ request.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00749-01-3
