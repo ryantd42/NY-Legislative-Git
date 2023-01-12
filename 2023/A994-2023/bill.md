@@ -1,0 +1,138 @@
+# Prohibits the use of perfluoroalkyl and polyfluoroalkyl substances in apparel and outdoor apparel for severe wet conditions
+
+**Bill ID:** A994
+**Session:** 2023
+**Sponsor:** Patricia Fahy
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Prohibits the use of perfluoroalkyl and polyfluoroalkyl substances in apparel and outdoor apparel for severe wet conditions.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  994
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 12, 2023
+  ___________
+ 
+ Introduced  by  M. of A. FAHY -- read once and referred to the Committee
+  on Environmental Conservation
+ 
+ AN ACT to amend the  environmental  conservation  law,  in  relation  to
+  prohibiting  the  use of perfluoroalkyl and polyfluoroalkyl substances
+  in apparel and outdoor apparel for severe wet conditions
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section 37-0121 of the environmental conservation law, as
+ added by a chapter of the  laws  of  2022,  amending  the  environmental
+ conservation  law  relating to prohibiting the use of perfluoroalkyl and
+ polyfluoroalkyl substances in apparel, as proposed in legislative  bills
+ numbers S. 6291-A and A. 7063-A, is amended to read as follows:
+ § 37-0121. Prohibition against the use of perfluoroalkyl and polyfluoro-
+ alkyl  substances  in  apparel AND OUTDOOR APPAREL FOR SEVERE WET CONDI-
+ TIONS.
+  1. [No] AFTER JANUARY FIRST, TWO THOUSAND TWENTY-FIVE, NO PERSON SHALL
+ SELL OR OFFER FOR SALE IN THIS  STATE  ANY  NEW,  NOT  PREVIOUSLY  USED,
+ APPAREL  CONTAINING PERFLUOROALKYL  AND  POLYFLUOROALKYL SUBSTANCES AS
+ INTENTIONALLY ADDED CHEMICALS.
+  2. IN ADDITION TO THE PROVISIONS OF SUBDIVISION ONE OF  THIS  SECTION,
+ ONE  YEAR AFTER THE DEPARTMENT'S ADOPTION OF THE REGULATIONS REQUIRED BY
+ THIS SUBDIVISION, BUT NO LATER THAN JANUARY FIRST, TWO THOUSAND  TWENTY-
+ SEVEN, NO person shall sell or offer for sale in this state any NEW, NOT
+ PREVIOUSLY  USED,  apparel containing perfluoroalkyl and polyfluoroalkyl
+ substances [as intentionally added chemicals] AT OR ABOVE A  LEVEL  THAT
+ THE DEPARTMENT SHALL ESTABLISH IN REGULATION.
+  [2.]  3.  ON  OR  AFTER  JANUARY  FIRST, TWO THOUSAND TWENTY-EIGHT, NO
+ PERSON  SHALL SELL OR OFFER FOR SALE IN THIS STATE ANY NEW,  NOT  PREVI-
+ OUSLY  USED,  OUTDOOR  APPAREL  FOR  SEVERE  WET  CONDITIONS  CONTAINING
+ PERFLUOROALKYL  AND POLYFLUOROALKYL  SUBSTANCES: (A) AT OR ABOVE A LEVEL
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04296-01-3
+ A. 994  2
+ 
+ THAT THE DEPARTMENT SHALL ESTABLISH IN  REGULATION,  OR  (B)  AS  INTEN-
+ TIONALLY ADDED CHEMICALS.
+  4.  For  the  purposes of this section, the following terms shall have
+ the following meanings:
+  (a) "Intentionally added chemical" means a chemical in a product  that
+ serves  an intended function OR TECHNICAL EFFECT IN THE PRODUCT OR PROD-
+ UCT COMPONENT, INCLUDING THE PFAS WITHIN INTENTIONALLY  ADDED  CHEMICALS
+ AND  PFAS  THAT  ARE INTENTIONAL BREAKDOWN PRODUCTS OF AN ADDED CHEMICAL
+ THAT ALSO HAVE A FUNCTIONAL OR TECHNICAL EFFECT in the PRODUCT OR  prod-
+ uct component.
+  (b) "Apparel" means clothing items intended for regular wear or formal
+ occasions  including,  but not limited to, undergarments, shirts, pants,
+ skirts, dresses, overalls, bodysuits, vests,  dancewear,  suits,  saris,
+ scarves,  tops,  leggings,  leisurewear,  formal  wear, OUTDOOR APPAREL,
+ onesies, bibs, and diapers. "Apparel" shall not include:
+  (I) professional uniforms [or outerwear intended  for  extreme  condi-
+ tions.] THAT ARE WORN TO PROTECT THE WEARER FROM HEALTH OR ENVIRONMENTAL
+ HAZARDS, INCLUDING PERSONAL PROTECTIVE EQUIPMENT; OR
+  (II) OUTDOOR APPAREL FOR SEVERE WET CONDITIONS.
+  (C)  "OUTDOOR  APPAREL"  MEANS  CLOTHING  ITEMS INTENDED PRIMARILY FOR
+ OUTDOOR ACTIVITIES, INCLUDING  BUT  NOT  LIMITED  TO,  HIKING,  CAMPING,
+ SKIING, CLIMBING, BICYCLING, AND FISHING.
+  (D)  "OUTDOOR APPAREL FOR SEVERE WET CONDITIONS" MEANS OUTDOOR APPAREL
+ THAT ARE EXTREME AND EXTENDED USE PRODUCTS DESIGNED FOR  OUTDOOR  SPORTS
+ EXPERTS  FOR APPLICATIONS THAT PROVIDE PROTECTION AGAINST EXTENDED EXPO-
+ SURE TO EXTREME RAIN CONDITIONS OR AGAINST EXTENDED IMMERSION  IN  WATER
+ OR WET CONDITIONS, SUCH AS FROM SNOW, IN ORDER TO PROTECT THE HEALTH AND
+ SAFETY OF THE USER AND THAT ARE NOT MARKETED FOR GENERAL CONSUMER USE.
+  (E)  "MANUFACTURER" MEANS A PERSON, FIRM, ASSOCIATION, PARTNERSHIP, OR
+ CORPORATION:
+  (I) THAT PRODUCES OR WHOSE BRAND NAME IS AFFIXED TO APPAREL OR OUTDOOR
+ APPAREL FOR SEVERE WET CONDITIONS; OR
+  (II) IN THE CASE OF APPAREL OR OUTDOOR APPAREL FOR SEVERE  WET  CONDI-
+ TIONS THAT WAS IMPORTED INTO THE UNITED STATES, "MANUFACTURER" MEANS THE
+ IMPORTER OR FIRST DOMESTIC DISTRIBUTOR OF THE APPAREL OR OUTDOOR APPAREL
+ FOR  SEVERE WET CONDITIONS IF NO PERSON WHO IS A MANUFACTURER WITHIN THE
+ MEANING OF SUBPARAGRAPH (I) OF THIS PARAGRAPH  HAS  A  PRESENCE  IN  THE
+ UNITED STATES.
+  5.  NO  PERSON  THAT  SELLS  OR OFFERS FOR SALE ANY APPAREL OR OUTDOOR
+ APPAREL FOR SEVERE WET CONDITIONS SHALL BE HELD  IN  VIOLATION  OF  THIS
+ SECTION  IF  THEY CAN SHOW THAT THEY RELIED IN GOOD FAITH ON THE WRITTEN
+ ASSURANCE OF THE MANUFACTURER THAT SUCH APPAREL OR OUTDOOR  APPAREL  FOR
+ SEVERE WET CONDITIONS MEETS THE REQUIREMENTS OF THIS SECTION. SUCH WRIT-
+ TEN ASSURANCE SHALL TAKE THE FORM OF A CERTIFICATE OF COMPLIANCE STATING
+ THAT  SUCH  APPAREL  OR  OUTDOOR APPAREL FOR SEVERE WET CONDITIONS IS IN
+ COMPLIANCE WITH THE REQUIREMENTS OF THIS  SECTION.  THE  CERTIFICATE  OF
+ COMPLIANCE  SHALL BE SIGNED BY AN AUTHORIZED OFFICIAL OF THE MANUFACTUR-
+ ER.
+  6. IN ADDITION TO ANY  OTHER  APPLICABLE  PENALTIES,  IT  SHALL  BE  A
+ VIOLATION  OF  THIS  SECTION  TO  PROVIDE A CERTIFICATE OF COMPLIANCE AS
+ CONTEMPLATED BY SUBDIVISION FIVE OF THIS  SECTION  WHEN  THE  APPLICABLE
+ APPAREL  OR  OUTDOOR  APPAREL FOR SEVERE WET CONDITIONS DOES NOT SATISFY
+ THE LIMITATIONS ON THE PRESENCE OF  PERFLUOROALKYL  AND  POLYFLUOROALKYL
+ SUBSTANCES SET FORTH IN SUBDIVISIONS ONE, TWO AND THREE OF THIS SECTION.
+  §  2. Section 71-3703 of the environmental conservation law is amended
+ by adding a new subdivision 6 to read as follows:
+ A. 994  3
+ 
+  6. ANY PERSON WHO VIOLATES ANY OF THE PROVISIONS OF, OR WHO  FAILS  TO
+ PERFORM  ANY DUTY IMPOSED BY SECTION 37-0121 OF THIS CHAPTER OR ANY RULE
+ OR REGULATION PROMULGATED PURSUANT HERETO, SHALL BE LIABLE FOR  A  CIVIL
+ PENALTY  NOT  TO  EXCEED  ONE THOUSAND DOLLARS FOR EACH DAY DURING WHICH
+ SUCH  VIOLATION  CONTINUES,  AND IN ADDITION THERETO, SUCH PERSON MAY BE
+ ENJOINED FROM CONTINUING SUCH VIOLATION. SUCH PERSON SHALL FOR A  SECOND
+ VIOLATION  BE  LIABLE TO THE PEOPLE OF THE STATE FOR A CIVIL PENALTY NOT
+ TO EXCEED TWO THOUSAND FIVE HUNDRED DOLLARS FOR EACH  DAY  DURING  WHICH
+ SUCH VIOLATION CONTINUES.
+  §  3.  This  act  shall  take  effect on the same date and in the same
+ manner as a chapter of the  laws  of  2022  amending  the  environmental
+ conservation  law  relating to prohibiting the use of perfluoroalkyl and
+ polyfluoroalkyl substances in apparel, as proposed in legislative  bills
+ numbers S. 6291-A and A. 7063-A, takes effect.
