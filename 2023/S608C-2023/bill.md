@@ -1,6 +1,6 @@
 # Relates to price gouging of medicine
 
-**Bill ID:** S608C
+**Bill ID:** S608CA
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Prohibits selling a drug subject to a shortage for an unconscionably excessive p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  608
+  608--A
  
   2023-2024 Regular Sessions
  
@@ -28,68 +28,53 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sens.  SALAZAR,  BRISPORT,  GIANARIS,  HELMING, JACKSON,
   KRUEGER, LANZA, SANDERS, SERRANO -- read twice  and  ordered  printed,
   and  when  printed  to  be  committed  to  the  Committee  on Consumer
-  Protection
- 
+  Protection -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to amend the general business law, in relation to the price goug-
   ing of medicine
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The general business law is amended by adding a new section
- 396-rrr to read as follows:
-  §  396-RRR.  PRICE  GOUGING  OF  MEDICINE. 1. FOR THE PURPOSES OF THIS
- SECTION, "DRUG SUBJECT TO A SHORTAGE" SHALL MEAN  ANY  DRUG  OR  MEDICAL
- PRODUCT  INTENDED  FOR HUMAN USE PUBLICLY REPORTED AS BEING SUBJECT TO A
- SHORTAGE BY THE U.S.  FOOD  AND  DRUG  ADMINISTRATION  ON  ITS  WEBSITE,
- PROVIDED,  HOWEVER, THAT A DRUG OR MEDICAL PRODUCT SHALL ONLY BE CONSID-
- ERED A "DRUG SUBJECT TO A SHORTAGE" DURING THE PERIOD OF TIME THAT  SUCH
- DRUG OR MEDICAL PRODUCT IS LISTED AS BEING SUBJECT TO A SHORTAGE ON SUCH
- WEBSITE.
-  2. NO MANUFACTURER, SUPPLIER, WHOLESALER, DISTRIBUTOR OR RETAIL SELLER
- OF  ANY  DRUG SUBJECT TO A SHORTAGE SHALL SELL OR OFFER TO SELL ANY SUCH
- DRUG SUBJECT TO A SHORTAGE FOR AN AMOUNT WHICH REPRESENTS AN UNCONSCION-
- ABLY EXCESSIVE PRICE.
-  3. WHETHER A PRICE IS UNCONSCIONABLY EXCESSIVE IS A  QUESTION  OF  LAW
- FOR THE COURT.
-  (A)  THE  COURT'S  DETERMINATION  THAT A VIOLATION OF THIS SECTION HAS
- OCCURRED SHALL BE BASED ON ANY OF THE FOLLOWING FACTORS:
-  (I) THAT THE AMOUNT OF THE EXCESS IN PRICE IS UNCONSCIONABLY EXTREME;
-  (II) THAT THERE WAS AN EXERCISE OF UNFAIR LEVERAGE  OR  UNCONSCIONABLE
- MEANS; OR
-  (III)  A  COMBINATION OF BOTH FACTORS IN SUBPARAGRAPHS (I) AND (II) OF
- THIS PARAGRAPH.
-
+  Section  1.  Subdivision  2 of section 396-r of the general business
+ law, as amended by chapter 90 of the laws of 2020, is amended to read as
+ follows:
+  2. (A) During any abnormal disruption of  the  market  for  goods  and
+ services  vital  and  necessary  for  the  health, safety and welfare of
+ consumers or the general public, no party within the chain  of  distrib-
+ ution  of such goods or services or both shall sell or offer to sell any
+ such goods or services or both for an amount which represents an  uncon-
+ scionably excessive price.
+  (B)  For  purposes of this section, the phrase "abnormal disruption of
+ the market" shall mean any change in the market, whether actual or immi-
+ nently threatened, resulting  from  stress  of  weather,  convulsion  of
+ nature, failure or shortage of electric power or other source of energy,
+ strike, civil disorder, war, military action, national or local emergen-
+ cy,  DRUG  SHORTAGE,  or  other  cause  of an abnormal disruption of the
+ market which results in the declaration of a state of emergency  by  the
+ governor.  FOR  PURPOSES  OF  THIS SECTION, THE TERM DRUG SHORTAGE SHALL
+ MEAN THE ISSUANCE OF A NOTICE BY THE U.S. FOOD AND  DRUG  ADMINISTRATION
+ PURSUANT  TO  SECTION 506C-1 OF THE FEDERAL FOOD DRUGS AND COSMETICS ACT
+ OR ANY SUCCESSOR PROVISION THEREOF.
+  (C) For the purposes of this section,  the  term  goods  and  services
+ shall  include  [(a)]  (I)  consumer  goods and services used, bought or
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03763-01-3
- S. 608  2
+  LBD03763-03-3
+ S. 608--A  2
  
-  (B) IN ANY PROCEEDING COMMENCED PURSUANT TO SUBDIVISION FOUR  OF  THIS
- SECTION, PRIMA FACIE PROOF THAT A VIOLATION OF THIS SECTION HAS OCCURRED
- SHALL INCLUDE EVIDENCE THAT:
-  (I)  THE AMOUNT CHARGED REPRESENTS A GROSS DISPARITY BETWEEN THE PRICE
- OF THE DRUG SUBJECT TO A SHORTAGE WHICH WAS THE SUBJECT  OF  THE  TRANS-
- ACTION AND THEIR VALUE MEASURED BY THE PRICE AT WHICH SUCH DRUG WAS SOLD
- OR  OFFERED  FOR  SALE  BY THE DEFENDANT IN THE USUAL COURSE OF BUSINESS
- IMMEDIATELY PRIOR TO THE ONSET OF THE SHORTAGE; OR
-  (II) THE AMOUNT CHARGED GROSSLY EXCEEDED THE PRICE AT WHICH  THE  SAME
- OR  SIMILAR  DRUG  SUBJECT TO A SHORTAGE WAS READILY OBTAINABLE BY OTHER
- PURCHASERS IN THE TRADE AREA.
-  (C) A DEFENDANT MAY REBUT A PRIMA FACIE CASE WITH EVIDENCE THAT:
-  (I) THE INCREASE IN THE AMOUNT CHARGED PRESERVES THE MARGIN OF  PROFIT
- THAT  THE  DEFENDANT  RECEIVED  FOR  THE SAME DRUG SUBJECT TO A SHORTAGE
- PRIOR TO THE ONSET OF THE SHORTAGE; OR
-  (II) ADDITIONAL COSTS NOT WITHIN THE CONTROL  OF  THE  DEFENDANT  WERE
- IMPOSED ON THE DEFENDANT FOR THE DRUG SUBJECT TO A SHORTAGE.
-  4.  WHERE A VIOLATION OF THIS SECTION IS ALLEGED TO HAVE OCCURRED, THE
- ATTORNEY GENERAL MAY APPLY IN THE NAME OF THE PEOPLE OF THE STATE OF NEW
- YORK TO THE SUPREME COURT WITHIN THE JUDICIAL  DISTRICT  IN  WHICH  SUCH
- VIOLATION  IS  ALLEGED  TO HAVE OCCURRED, ON NOTICE OF FIVE DAYS, FOR AN
- ORDER ENJOINING OR RESTRAINING COMMISSION OR CONTINUANCE OF THE  ALLEGED
- UNLAWFUL  ACTS.  IN  ANY SUCH PROCEEDING, THE COURT SHALL IMPOSE A CIVIL
- PENALTY IN AN AMOUNT NOT TO  EXCEED  TWENTY-FIVE  THOUSAND  DOLLARS  PER
- VIOLATION  OR  THREE  TIMES  THE  GROSS  RECEIPTS  FOR THE RELEVANT DRUG
- SUBJECT TO THE SHORTAGE, WHICHEVER IS GREATER,  AND  WHERE  APPROPRIATE,
- ORDER RESTITUTION TO AGGRIEVED PARTIES.
+ rendered primarily for personal, family  or  household  purposes,  [(b)]
+ (II)  essential  medical  supplies and services used for the care, cure,
+ mitigation, treatment or prevention of any illness or disease, and [(c)]
+ (III)  any other essential goods and services used to promote the health
+ or welfare of the public. This prohibition shall apply  to  all  parties
+ within  the chain of distribution, including any manufacturer, supplier,
+ wholesaler, distributor or retail seller of goods or  services  or  both
+ sold  by  one  party to another when the product sold was located in the
+ state prior to the sale. Goods  and  services  shall  also  include  any
+ repairs  made  by any party within the chain of distribution of goods on
+ an emergency basis as a  result  of  such  abnormal  disruption  of  the
+ market.
   § 2. This act shall take effect immediately.
