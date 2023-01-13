@@ -1,0 +1,63 @@
+# Relates to commissaries and canteens at correctional institutions
+
+**Bill ID:** S1744
+**Session:** 2023
+**Sponsor:** Jessica Ramos
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to commissaries and canteens at correctional institutions; provides that items for sale at a commissary or canteen shall be sold for market value; provides that money placed into an incarcerated individual's commissary or canteen account or fund shall only be used for purchasing items or goods.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1744
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 13, 2023
+  ___________
+ 
+ Introduced  by  Sens.  RAMOS,  BAILEY,  MYRIE, SANDERS -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Crime Victims, Crime and Correction
+ 
+ AN  ACT  to  amend  the  correction  law, in relation to commissaries or
+  canteens in correctional institutions
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 26 of the correction law, as amended by chapter 322
+ of the laws of 2021, is amended to read as follows:
+  §  26.  [Establishment  of  commissaries]  COMMISSARIES or canteens in
+ correctional institutions. 1. The commissioner may authorize the head of
+ any institution in the department to establish a commissary or a canteen
+ in such institution for the use and benefit of incarcerated individuals.
+ ITEMS SOLD AT THE COMMISSARY OR CANTEEN SHALL BE  SOLD  AT  THE  CURRENT
+ MARKET  RATE FOR SUCH ITEMS, AS BASED UPON THE COST OF SIMILAR ITEMS FOR
+ SALE IN THE  SAME  REGION  AS  THE  CORRECTIONAL  FACILITY.  The  moneys
+ received by the head of the institution as profits from the sales of the
+ commissary  or  canteen shall be deposited in a special fund to be known
+ as the commissary or canteen fund and such funds shall be used  for  the
+ general purposes of the institution subject to the provisions of section
+ fifty-three of the state finance law.
+  2.  MONEY  PLACED INTO THE COMMISSARY OR CANTEEN ACCOUNT OR FUND OF AN
+ INCARCERATED INDIVIDUAL SHALL ONLY BE USED BY THE INCARCERATED  INDIVID-
+ UAL  FOR  PURCHASES  AT  SUCH  COMMISSARY  OR CANTEEN. NO FUNDS SHALL BE
+ REMOVED FROM AN INCARCERATED INDIVIDUAL'S COMMISSARY OR CANTEEN  ACCOUNT
+ OR  FUND  FOR  A VIOLATION, AS A PENALTY, OR FOR ANY REASON OTHER THAN A
+ PURCHASE AT SUCH COMMISSARY OR CANTEEN.
+  § 2. This act shall take effect immediately.
+ 
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04657-01-3
