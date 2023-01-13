@@ -1,0 +1,101 @@
+# Relates to the workers' compensation benefit of certain disabled employees
+
+**Bill ID:** A1237
+**Session:** 2023
+**Sponsor:** Latoya Joyner
+**Status:** Stricken
+
+## Summary
+
+Provides that the weekly benefit which the disabled employee is entitled to receive for disability commencing: on or after January first, two thousand twenty-five shall be fifty percent of the employee's average weekly wage but shall not exceed fifty percent of the state average weekly wage; on or after January first, two thousand twenty-six shall be fifty-five percent of the employee's average weekly wage but shall not exceed fifty-five percent of the state average weekly wage; on or after January first, two thousand twenty-seven shall be sixty percent of the employee's weekly average wage but shall not exceed sixty percent of the state average weekly wage; and on or after January first of each succeeding year, shall be sixty-seven percent of the employee's average weekly wage but shall not exceed sixty-seven percent of the state average weekly wage.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1237
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 13, 2023
+  ___________
+ 
+ Introduced by M. of A. JOYNER -- read once and referred to the Committee
+  on Labor
+ 
+ AN ACT to amend the workers' compensation law, in relation to the weekly
+  benefit of a disabled employee
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Paragraph (b) of subdivision 2 of section 204 of the  work-
+ ers'  compensation law, as amended by section 5 of part SS of chapter 54
+ of the laws of 2016, is amended to read as follows:
+  (b) THE WEEKLY BENEFIT WHICH THE  DISABLED  EMPLOYEE  IS  ENTITLED  TO
+ RECEIVE  FOR  DISABILITY  COMMENCING: (I) ON OR AFTER JANUARY FIRST, TWO
+ THOUSAND TWENTY-FIVE SHALL BE FIFTY PERCENT OF  THE  EMPLOYEE'S  AVERAGE
+ WEEKLY  WAGE  BUT  SHALL  NOT  EXCEED FIFTY PERCENT OF THE STATE AVERAGE
+ WEEKLY WAGE; (II) ON OR AFTER JANUARY  FIRST,  TWO  THOUSAND  TWENTY-SIX
+ SHALL  BE  FIFTY-FIVE  PERCENT OF THE EMPLOYEE'S AVERAGE WEEKLY WAGE BUT
+ SHALL NOT EXCEED FIFTY-FIVE PERCENT OF THE STATE  AVERAGE  WEEKLY  WAGE;
+ (III)  ON  OR  AFTER  JANUARY  FIRST, TWO THOUSAND TWENTY-SEVEN SHALL BE
+ SIXTY PERCENT OF THE EMPLOYEE'S WEEKLY AVERAGE WAGE BUT SHALL NOT EXCEED
+ SIXTY PERCENT OF THE STATE AVERAGE WEEKLY WAGE; AND  (IV)  ON  OR  AFTER
+ JANUARY  FIRST  OF EACH SUCCEEDING YEAR, SHALL BE SIXTY-SEVEN PERCENT OF
+ THE EMPLOYEE'S AVERAGE WEEKLY WAGE  BUT  SHALL  NOT  EXCEED  SIXTY-SEVEN
+ PERCENT  OF  THE STATE AVERAGE WEEKLY WAGE. The weekly benefit which the
+ disabled employee is entitled to receive for disability commencing on or
+ after May first, nineteen  hundred  eighty-nine  AND  PRIOR  TO  JANUARY
+ FIRST,  TWO  THOUSAND  TWENTY-FIVE  shall  be one-half of the employee's
+ weekly wage, but in no case shall such benefit exceed one hundred seven-
+ ty dollars; except that if the employee's average weekly  wage  is  less
+ than  twenty dollars, the benefit shall be such average weekly wage. The
+ weekly benefit which the disabled employee is entitled  to  receive  for
+ disability  commencing  on or after July first, nineteen hundred eighty-
+ four shall be one-half of the employee's weekly wage,  but  in  no  case
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02619-01-3
+ A. 1237  2
+ 
+ shall such benefit exceed one hundred forty-five dollars; except that if
+ the  employee's  average  weekly  wage  is less than twenty dollars, the
+ benefit shall be such average weekly wage. The weekly benefit which  the
+ disabled employee is entitled to receive for disability commencing on or
+ after July first, nineteen hundred eighty-three and prior to July first,
+ nineteen hundred eighty-four shall be one-half of the employee's average
+ weekly  wage, but in no case shall such benefit exceed one hundred thir-
+ ty-five dollars nor be less than twenty  dollars;  except  that  if  the
+ employee's  average  weekly wage is less than twenty dollars the benefit
+ shall be such average weekly wage. The weekly benefit which the disabled
+ employee is entitled to receive for disability commencing  on  or  after
+ July  first,  nineteen  hundred  seventy-four,  and prior to July first,
+ nineteen hundred eighty-three, shall be one-half of the employee's aver-
+ age weekly wage, but in no case shall such  benefit  exceed  ninety-five
+ dollars  nor  be less than twenty dollars; except that if the employee's
+ average weekly wage is less than twenty dollars, the  benefit  shall  be
+ such average weekly wage. The weekly benefit which the disabled employee
+ is entitled to receive for disability commencing on or after July first,
+ nineteen  hundred  seventy  and  prior  to  July first, nineteen hundred
+ seventy-four shall be one-half of the employee's  average  weekly  wage,
+ but  in  no  case  shall such benefit exceed seventy-five dollars nor be
+ less than twenty dollars; except that if the employee's  average  weekly
+ wage is less than twenty dollars the benefit shall be such average week-
+ ly  wage.  For any period of disability less than a full week, the bene-
+ fits payable shall be calculated by dividing the weekly benefit  by  the
+ number  of  the employee's normal work days per week and multiplying the
+ quotient by the number of normal work days in such period of disability.
+ The weekly benefit for a disabled employee who is concurrently  eligible
+ for  benefits in the employment of more than one covered employer shall,
+ within the maximum and minimum herein provided, be one-half of the total
+ of the employee's average weekly wages received from  all  such  covered
+ employers,  and shall be allocated in the proportion of their respective
+ average weekly wage payments.
+  § 2. This act shall take effect immediately.
