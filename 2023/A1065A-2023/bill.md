@@ -1,0 +1,66 @@
+# Prohibits the use of intoxication of the victim as a defense in sex crimes
+
+**Bill ID:** A1065A
+**Session:** 2023
+**Sponsor:** Jeffrey Dinowitz
+**Status:** In Assembly Committee
+
+## Summary
+
+Prohibits the use of intoxication of the victim as a defense in sex crimes where the victim is under the influence of any drug, intoxicant, or other substance to a degree which rendered the victim temporarily incapable of appraising or controlling such person's conduct and such condition was known or reasonably should have been known to a person in the actor's situation.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1065
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 13, 2023
+  ___________
+ 
+ Introduced by M. of A. DINOWITZ, PAULIN, OTIS, SIMON, SEAWRIGHT, WEPRIN,
+  SEPTIMO,  HEVESI,  D. ROSENTHAL,  DARLING, L. ROSENTHAL, RA, DAVILA --
+  read once and referred to the Committee on Codes
+ 
+ AN ACT to amend the penal law, in relation to prohibiting the use of the
+  intoxication of a victim as a defense to a  criminal  charge  for  sex
+  crimes
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Paragraph (d) of subdivision 2 of  section  130.05  of  the
+ penal  law, as amended by chapter 40 of the laws of 2004, is amended and
+ a new paragraph (e) is added to read as follows:
+  (d) Where the offense charged  is  SEXUAL  MISCONDUCT  AS  DEFINED  IN
+ SUBDIVISIONS  ONE AND TWO OF SECTION 130.20, rape in the third degree as
+ defined in subdivision three of section 130.25, or criminal  sexual  act
+ in  the  third degree as defined in subdivision three of section 130.40,
+ in addition to forcible compulsion, circumstances under  which,  at  the
+ time  of  the  act  of  intercourse,  oral sexual conduct or anal sexual
+ conduct, the victim clearly expressed that he or she did not consent  to
+ engage  in  such  act,  and a reasonable person in the actor's situation
+ would have understood such person's words and acts as an  expression  of
+ lack of consent to such act under all the circumstances[.]; OR
+  (E)  WHERE  THE  OFFENSE  CHARGED  IS  SEXUAL MISCONDUCT AS DEFINED IN
+ SUBDIVISIONS ONE AND TWO OF SECTION 130.20, RAPE IN THE THIRD DEGREE  AS
+ DEFINED  IN  SUBDIVISION THREE OF SECTION 130.25, OR CRIMINAL SEXUAL ACT
+ IN THE THIRD DEGREE AS DEFINED IN SUBDIVISION THREE OF  SECTION  130.40,
+ IN  ADDITION  TO  FORCIBLE COMPULSION, CIRCUMSTANCES UNDER WHICH, AT THE
+ TIME OF THE ACT OF INTERCOURSE,  ORAL  SEXUAL  CONDUCT  OR  ANAL  SEXUAL
+ CONDUCT,  THE  VICTIM IS UNDER THE INFLUENCE OF ANY DRUG, INTOXICANT, OR
+ OTHER SUBSTANCE TO A DEGREE  WHICH  RENDERS  THAT  PERSON  INCAPABLE  OF
+ GIVING CONSENT AND THAT CONDITION IS KNOWN OR REASONABLY SHOULD BE KNOWN
+ TO A PERSON IN THE ACTOR'S SITUATION.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01032-02-3
