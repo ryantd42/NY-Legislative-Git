@@ -1,0 +1,71 @@
+# Relates to establishing emergency release protocols during a time of crisis
+
+**Bill ID:** S1921
+**Session:** 2023
+**Sponsor:** Luis R. Sepúlveda
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to establishing emergency release protocols during a time of crisis including during a state disaster emergency which places the lives, health or well-being of people in custody at risk.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1921
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 17, 2023
+  ___________
+ 
+ Introduced by Sen. SEPULVEDA -- read twice and ordered printed, and when
+  printed  to  be committed to the Committee on Crime Victims, Crime and
+  Correction
+ 
+ AN ACT to amend the correction law, in relation to establishing emergen-
+  cy release protocols during a time of crisis
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The correction law is amended by adding a new section 807
+ to read as follows:
+  § 807. EMERGENCY RELEASE DURING A TIME OF CRISIS. 1.  DURING  A  STATE
+ DISASTER  EMERGENCY,  AS  DEFINED IN ARTICLE TWO-B OF THE EXECUTIVE LAW,
+ WHICH PLACES THE LIVES, HEALTH OR WELL-BEING OF  PEOPLE  IN  CUSTODY  AT
+ RISK,  THE COMMISSIONER SHALL HAVE THE AUTHORITY TO RELEASE TO COMMUNITY
+ SUPERVISION ANY PERSON IN CUSTODY WHO:
+  (A) IS WITHIN TWO YEARS OF THEIR EARLIEST RELEASE DATE, HAS A  REASON-
+ ABLY STABLE LIVING SITUATION UPON RELEASE, DOES NOT POSE AN UNREASONABLE
+ PUBLIC SAFETY RISK AND APPEARS TO BE REHABILITATED, IS IMMUNOCOMPROMISED
+ OR  HAS  A DISABILITY AS DEFINED IN PARAGRAPH (A) OF SUBDIVISION TWENTY-
+ ONE OF SECTION TWO HUNDRED NINETY-TWO OF THE EXECUTIVE LAW;
+  (B) IS A PREGNANT WOMAN  OR  A  WOMAN  PARTICIPATING  IN  THE  NURSERY
+ PROGRAM  AT  A  CORRECTIONAL  FACILITY WHO DOES NOT POSE AN UNREASONABLE
+ PUBLIC SAFETY RISK AND HAS A REASONABLY  STABLE  LIVING  SITUATION  UPON
+ RELEASE; OR
+  (C) IS A PERSON OVER THE AGE OF FIFTY-FIVE THAT HAS COMPLETED AT LEAST
+ ONE  HALF OF THEIR TERM OR MINIMUM TERM OF SENTENCE WHO HAS A REASONABLY
+ STABLE LIVING SITUATION UPON RELEASE AND DOES NOT POSE  AN  UNREASONABLE
+ PUBLIC SAFETY RISK.
+  2.  ANY  INDIVIDUAL RELEASED UNDER THESE EMERGENCY CIRCUMSTANCES SHALL
+ REMAIN UNDER COMMUNITY SUPERVISION, UNLESS SUCH SUPERVISION  IS  REVOKED
+ PURSUANT TO SUBDIVISION THREE OF SECTION TWO HUNDRED FIFTY-NINE-I OF THE
+ EXECUTIVE  LAW,  FOR  THE REMAINDER OF THEIR SENTENCE OR UNTIL SUCH TIME
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05320-01-3
+ S. 1921  2
+ 
+ THAT THE COMMISSIONER DECIDES IT IS APPROPRIATE TO TERMINATE SUCH SUPER-
+ VISION PURSUANT TO THE LIMITATIONS SET FORTH IN SECTION TWO HUNDRED FIVE
+ OF THIS CHAPTER.
+  § 2. This act shall take effect immediately.
