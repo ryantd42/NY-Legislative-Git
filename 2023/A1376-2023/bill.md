@@ -1,0 +1,73 @@
+# Relates to vehicle inspection renewal notification
+
+**Bill ID:** A1376
+**Session:** 2023
+**Sponsor:** William Colton
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to vehicle inspection renewal notification; authorizes the commissioner to send via postal mail notification that vehicle inspection is subject to expiration, and the commissioner shall keep a record of such notification.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1376
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 17, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  COLTON,  COOK, BICHOTTE HERMELYN, SEAWRIGHT,
+  RIVERA, SIMON -- read once and referred to the Committee on  Transpor-
+  tation
+ 
+ AN  ACT  to  amend  the  vehicle and traffic law, in relation to vehicle
+  inspection renewal notification
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  304 of the vehicle and traffic law is amended by
+ adding a new subdivision (d) to read as follows:
+  (D) (1) THE DEPARTMENT OF MOTOR VEHICLES SHALL NOTIFY INDIVIDUALS  VIA
+ POSTAL  MAIL  THAT  THEIR  VEHICLE  INSPECTION  IS SUBJECT TO EXPIRATION
+ BEFORE SUCH EXPIRATION. EVERY OWNER OF A MOTOR VEHICLE  WHICH  SHALL  BE
+ OPERATED  OR DRIVEN UPON THE PUBLIC HIGHWAYS OF THIS STATE SHALL, EXCEPT
+ AS OTHERWISE EXPRESSLY PROVIDED, BE CONTACTED BY MAIL OR OTHERWISE.
+  (2) THE RENEWAL NOTIFICATION SHALL CONTAIN: (A) A BRIEF DESCRIPTION OF
+ THE MOTOR VEHICLE THAT HAS AN  INSPECTION  THAT  NEEDS  TO  BE  RENEWED,
+ INCLUDING  THE  NAME  AND FACTORY NUMBER OF SUCH VEHICLE, AND SUCH OTHER
+ FACTS AS THE COMMISSIONER SHALL REQUIRE; (B)  THE  NAME  AND  RESIDENCE,
+ INCLUDING  COUNTY OF THE OWNER OF SUCH MOTOR VEHICLE, AND (C) SUCH ADDI-
+ TIONAL FACTS OR EVIDENCE AS THE COMMISSIONER MAY REQUIRE  IN  CONNECTION
+ WITH THE LETTER OF NOTIFICATION.
+  (3)  THE  COMMISSIONER  SHALL REGISTER THE NOTIFICATION SENT REGARDING
+ SUCH MOTOR VEHICLE OR TRAILER AND MAINTAIN  A  RECORD  OF  SUCH  RENEWAL
+ NOTIFICATIONS AND THE ADDRESSES TO WHICH SUCH NOTIFICATIONS WERE SENT.
+  (4)  IT  SHALL  BE  THE  DUTY  OF EVERY OWNER HOLDING A CERTIFICATE OF
+ REGISTRATION TO NOTIFY THE COMMISSIONER IN  WRITING  OF  ANY  CHANGE  OF
+ RESIDENCE  OF  SUCH PERSON WITHIN TEN DAYS AFTER SUCH CHANGE OCCURS, AND
+ TO INSCRIBE ON SUCH CERTIFICATE, IN THE PLACE PROVIDED  BY  THE  COMMIS-
+ SIONER, A RECORD OF SUCH CHANGE OF RESIDENCE.
+  (5)  INSPECTION  RENEWAL  NOTIFICATIONS  SHALL TAKE EFFECT ON THE DATE
+ DETERMINED BY THE COMMISSIONER.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04199-01-3
+ A. 1376  2
+ 
+  (6) THE COMMISSIONER MAY PROMULGATE SUCH REGULATIONS AS ARE  NECESSARY
+ TO  EFFECTUATE  THE PROVISIONS OF THIS SUBDIVISION, INCLUDING PROVISIONS
+ FOR THE RECOVERY OF THE ADMINISTRATIVE COSTS OF THE PROGRAM INCURRED FOR
+ EACH MUNICIPALITY.
+  §  2. This act shall take effect on the first of January next succeed-
+ ing the date on which it shall have become a law.
