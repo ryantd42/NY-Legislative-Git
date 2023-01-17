@@ -1,0 +1,84 @@
+# Requires human service providers that contract with the state to pay their employees a certain minimum wage
+
+**Bill ID:** A1644A
+**Session:** 2023
+**Sponsor:** Latoya Joyner
+**Status:** Stricken
+
+## Summary
+
+Requires that all human services contracts between any public entity and a human services provider stipulate that the public entity will pay no less than 150% of the higher of: the otherwise applicable minimum wage in the state or any otherwise applicable wage rule or order and that the necessary amounts have been appropriated to ensure payment of such minimum wage.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1644
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 17, 2023
+  ___________
+ 
+ Introduced by M. of A. JOYNER -- read once and referred to the Committee
+  on Labor
+ 
+ AN  ACT  to  amend the labor law, in relation to requiring human service
+  providers that contract with the state to pay their employees a  mini-
+  mum wage of twenty-one dollars per hour
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The labor law is amended by adding a new section  224-f  to
+ read as follows:
+  §  224-F. WAGE REQUIREMENTS FOR CERTAIN HUMAN SERVICES WORKERS. 1. FOR
+ THE PURPOSES OF THIS SECTION:
+  (A) "HUMAN SERVICES" SHALL MEAN ANY SERVICE PROVIDED TO INDIVIDUALS OR
+ GROUPS OF INDIVIDUALS, FOR THE PURPOSE OF IMPROVING  OR  ENHANCING  SUCH
+ INDIVIDUALS'  HEALTH  AND/OR  WELFARE,  BY  ADDRESSING  SOCIAL  PROBLEMS
+ INCLUDING BUT NOT LIMITED  TO:  DOMESTIC  VIOLENCE,  TEENAGE  PREGNANCY,
+ MIGRANT HEALTH PROBLEMS, CHILD ABUSE, NUTRITIONAL DEFICIENCIES, SUICIDE,
+ HUNGER,  UNEMPLOYMENT, LACK OF SUITABLE SHELTER, CRIME, DRUG AND ALCOHOL
+ ABUSE AND POVERTY.
+  (B) "HUMAN SERVICES PROVIDER" SHALL MEAN ANY:  (I)  NOT-FOR-PROFIT  OR
+ CHARITABLE  ORGANIZATION,  OR  (II) LOCAL AGENCY AS DEFINED IN PARAGRAPH
+ (C) OF THIS SUBDIVISION, THAT (1) CONTRACTS WITH  ANY  STATE  AGENCY  OR
+ OTHER  PUBLIC ENTITY, AS DEFINED IN PARAGRAPH (E) OF THIS SUBDIVISION TO
+ PROVIDE HUMAN SERVICES AS DEFINED IN PARAGRAPH (A) OF THIS  SUBDIVISION,
+ OR  (2)  DIRECTLY  OR INDIRECTLY RECEIVES ANY PUBLIC FUNDS TO PROVIDE OR
+ CONTRACT WITH THIRD PERSONS TO PROVIDE HUMAN SERVICES FOR THE BENEFIT OF
+ THE GENERAL PUBLIC OR SPECIFIC CLIENT GROUPS.
+  (C) "LOCAL AGENCY" SHALL INCLUDE ALL COUNTY, CITY,  TOWN  AND  VILLAGE
+ GOVERNING  BODIES,  ALL OTHER PUBLIC CORPORATIONS, SPECIAL DISTRICTS AND
+ SCHOOL DISTRICTS IN THE STATE.
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04314-01-3
+ A. 1644  2
+ 
+  (D) "STATE AGENCY" SHALL  INCLUDE  ANY  DEPARTMENT,  DIVISION,  BOARD,
+ BUREAU,  COMMISSION,  OFFICE, AGENCY, AUTHORITY OR PUBLIC CORPORATION OF
+ THE STATE.
+  (E)  "PUBLIC  ENTITY"  SHALL MEAN ANY LOCAL AGENCY AS DEFINED IN PARA-
+ GRAPH (C) OF THIS SUBDIVISION AND ANY STATE AGENCY AS DEFINED  IN  PARA-
+ GRAPH (D) OF THIS SUBDIVISION.
+  2.  EVERY  CONTRACT  FOR  HUMAN SERVICES ENTERED INTO BETWEEN A PUBLIC
+ ENTITY AND A HUMAN SERVICES PROVIDER, AND ANY SUCH CONTRACT ENTERED INTO
+ BY A THIRD PARTY ACTING IN PLACE OF, ON BEHALF OF AND FOR THE BENEFIT OF
+ SUCH PUBLIC ENTITY PURSUANT TO ANY  LEASE,  PERMIT  OR  OTHER  AGREEMENT
+ BETWEEN SUCH THIRD PARTY AND THE PUBLIC ENTITY, SHALL STIPULATE THAT:
+  (A) THE HUMAN SERVICES PROVIDER SHALL PAY TO EACH OF ITS EMPLOYEES FOR
+ EACH HOUR WORKED A WAGE OF NOT LESS THAN TWENTY-ONE DOLLARS; AND
+  (B)  ADEQUATE  FUNDING HAS BEEN APPROPRIATED TO ENSURE COMPLIANCE WITH
+ THE MINIMUM WAGE REQUIREMENTS SET FORTH IN PARAGRAPH (A) OF THIS  SUBDI-
+ VISION.
+  §  2.  This  act  shall  take  effect  immediately  and shall apply to
+ contracts and agreements issued, renewed, modified, altered  or  amended
+ on or after such date.
