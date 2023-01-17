@@ -1,0 +1,89 @@
+# Relates to a parent's right to know if an employee, volunteer or an administrator of a school district is reprimanded for inappropriate conduct towards their child
+
+**Bill ID:** A1618
+**Session:** 2023
+**Sponsor:** Aileen Gunther
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to a parent's right to know if an employee, volunteer or an administrator of a school district is reprimanded for inappropriate conduct towards his or her child; enacts "parent's right to know" act.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1618
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 17, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. GUNTHER, BRAUNSTEIN, STECK, SEAWRIGHT -- read
+  once and referred to the Committee on Education
+ 
+ AN ACT to amend the education law, in relation to the parent's right  to
+  know  of  allegations  of  inappropriate  conduct by a school district
+  employee, volunteer or administrator
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The education law is amended by adding a new article 23-C
+ to read as follows:
+  ARTICLE 23-C
+  PARENT'S RIGHT TO KNOW ACT
+ SECTION 1135. SHORT TITLE.
+  1136. DEFINITIONS.
+  1137. PARENT'S RIGHT TO KNOW.
+  § 1135. SHORT TITLE. THIS ARTICLE SHALL BE KNOWN AND MAY BE  CITED  AS
+ THE "PARENT'S RIGHT TO KNOW ACT".
+  §  1136.  DEFINITIONS.  FOR THE PURPOSES OF THIS ARTICLE THE FOLLOWING
+ TERMS SHALL HAVE THE FOLLOWING MEANINGS:
+  1. "EMPLOYEE" SHALL MEAN A SCHOOL BOARD MEMBER ACTING IN  HIS  OR  HER
+ CAPACITY  AS  A  SCHOOL  BOARD  MEMBER,  AS WELL AS ANY PERSON RECEIVING
+ COMPENSATION FROM A SCHOOL DISTRICT OR EMPLOYEE OF A CONTRACTED  SERVICE
+ PROVIDER  OR  WORKER  PLACED WITHIN THE SCHOOL UNDER A PUBLIC ASSISTANCE
+ EMPLOYMENT PROGRAM, PURSUANT TO TITLE NINE-B  OF  ARTICLE  FIVE  OF  THE
+ SOCIAL  SERVICES  LAW,  AND CONSISTENT WITH THE PROVISIONS OF SUCH TITLE
+ FOR THE PROVISION OF SERVICES TO SUCH DISTRICT, ITS STUDENTS OR  EMPLOY-
+ EES,  DIRECTLY  OR  THROUGH CONTRACT, WHEREBY SUCH SERVICES PERFORMED BY
+ SUCH PERSON INVOLVE DIRECT STUDENT CONTACT.
+  2. "VOLUNTEER" SHALL MEAN ANY PERSON,  OTHER  THAN  AN  EMPLOYEE,  WHO
+ PROVIDES  SERVICES  TO A SCHOOL OR SCHOOL DISTRICT, WHICH INVOLVE DIRECT
+ STUDENT CONTACT.
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01145-01-3
+ A. 1618  2
+ 
+  3. "ADMINISTRATOR" OR "SCHOOL ADMINISTRATOR" SHALL MEAN  A  PRINCIPAL,
+ ASSISTANT  PRINCIPAL,  SUPERINTENDENT  OR  ASSISTANT SUPERINTENDENT OF A
+ PUBLIC SCHOOL,  CHARTER  SCHOOL  OR  BOARD  OF  COOPERATIVE  EDUCATIONAL
+ SERVICES, OR OTHER CHIEF SCHOOL OFFICER.
+  §  1137. PARENT'S RIGHT TO KNOW.  EVERY PUBLIC SCHOOL DISTRICT, OR ANY
+ OTHER SCHOOL WHICH PRIMARILY SERVES PERSONS UNDER THE  AGE  OF  EIGHTEEN
+ AND  WHICH IS REGISTERED WITH THE DEPARTMENT SHALL, WITHIN SIXTY DAYS OF
+ THE ENACTMENT OF THIS SECTION, ADOPT A POLICY WHICH  SHALL  PROVIDE  FOR
+ NOTIFICATION  AS  SOON  AS  REASONABLY  PRACTICABLE TO A PARENT OR LEGAL
+ GUARDIAN OF AN AFFECTED STUDENT OR STUDENTS OF INAPPROPRIATE CONDUCT  BY
+ AN  EMPLOYEE,  VOLUNTEER  OR  ADMINISTRATOR  OF  A  SCHOOL DISTRICT WITH
+ RESPECT TO A PARTICULAR STUDENT OR STUDENTS IN THE EVENT THAT THE SUPER-
+ INTENDENT OF SCHOOLS, THE SCHOOL BOARD, OR  ANY  MEMBER  OF  THE  SCHOOL
+ BOARD ACTING WITH THE AUTHORIZATION OF SUCH BOARD, SUCH AUTHORIZATION TO
+ HAVE  BEEN  PROVIDED  DURING  AN  EXECUTIVE  SESSION, PROVIDES A WRITTEN
+ CENSURE, REPRIMAND, OR OTHERWISE IN WRITING ADVISES AN EMPLOYEE,  VOLUN-
+ TEER,  OR AN ADMINISTRATOR OF THE SCHOOL DISTRICT OF SUCH PERSON'S INAP-
+ PROPRIATE CONDUCT WITH RESPECT TO A PARTICULAR STUDENT OR STUDENTS.
+  § 2. This act shall take effect immediately; provided,  however,  that
+ this  act  shall  not  impair  any  provision of a collective bargaining
+ agreement in effect prior to the effective date of  this  act  which  is
+ contradictory  to  the provisions of this act. Any such provisions shall
+ expire no later than on such agreements existing expiration date.
