@@ -1,0 +1,77 @@
+# Relates to school session days
+
+**Bill ID:** S2024A
+**Session:** 2023
+**Sponsor:** Joseph P. Addabbo Jr.
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to school session days; adds general election day to the list of days when school will not be in session; allows a school district to elect to require staff attendance on a general election day or to schedule a professional development day.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2024
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 18, 2023
+  ___________
+ 
+ Introduced  by  Sen. ADDABBO -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Education
+ 
+ AN ACT to amend the education law, in relation to school session days
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section  1.  Subdivision  8  of  section 3604 of the education law, as
+ amended by chapter 605 of the laws  of  2019,  is  amended  to  read  as
+ follows:
+  8.  No  school  shall  be in session on a Saturday or a legal holiday,
+ except general election day, Washington's birthday and Lincoln's  birth-
+ day,  and  except  that  driver  education classes may be conducted on a
+ Saturday. NO SCHOOL SHALL BE IN SESSION ON THE DAY OF A PRIMARY ELECTION
+ OR GENERAL ELECTION. A deficiency not exceeding  four  days  during  any
+ school  year  caused  by  teachers'  attendance upon conferences held by
+ superintendents of schools of city  school  districts  or  other  school
+ districts  employing  superintendents of schools shall be excused by the
+ commissioner, notwithstanding any provision of law, rule  or  regulation
+ to the contrary, a school district may elect to schedule such conference
+ days  in  the last two weeks of August, subject to collective bargaining
+ requirements pursuant to article fourteen of the civil service law,  and
+ such  days shall be counted towards the required one hundred eighty days
+ of session, provided however, that such scheduling shall not  alter  the
+ obligation  of the school district to provide transportation to students
+ in non-public elementary and secondary schools or  charter  schools.  At
+ least  two  such  conference days during such school year shall be dedi-
+ cated to staff attendance upon conferences providing  staff  development
+ relating  to  implementation  of  the  new  high  learning standards and
+ assessments, as adopted by the board of regents.  Notwithstanding  any
+ other  provision  of  law,  rule  or  regulation to the contrary, school
+ districts may elect to use one or more of such allowable conference days
+ in units of not less than one hour each  to  provide  staff  development
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04222-01-3
+ S. 2024  2
+ 
+ activities relating to implementation of the new high learning standards
+ and  assessments. A district making such election may provide such staff
+ development on any day during which sessions are allowed and apply  such
+ units  to  satisfy  a  deficiency  in  the  length  of one or more daily
+ sessions of instruction for pupils as specified in  regulations  of  the
+ commissioner.  The  commissioner  shall assure that such conference days
+ include appropriate school violence prevention and  intervention  train-
+ ing, and may require that up to one such conference day be dedicated for
+ such purpose.
+  § 2. This act shall take effect immediately.
