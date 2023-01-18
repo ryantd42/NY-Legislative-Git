@@ -1,0 +1,54 @@
+# Grants animal control officers in the town of Southampton in Suffolk county peace officer status
+
+**Bill ID:** S2155
+**Session:** 2023
+**Sponsor:** Anthony H. Palumbo
+**Status:** In Senate Committee
+
+## Summary
+
+Grants animal control officers in the town of Southampton in Suffolk county peace officer status.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2155
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 18, 2023
+  ___________
+ 
+ Introduced  by  Sen. PALUMBO -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Codes
+ 
+ AN ACT to amend the criminal procedure law,  in relation  to  granting
+  animal  control  officers in the town of Southampton in Suffolk county
+  peace officer status
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  2.10 of the criminal procedure law is amended by
+ adding a new subdivision 86 to read as follows:
+  86. PERSONS EMPLOYED BY THE TOWN OF SOUTHAMPTON IN SUFFOLK  COUNTY  AS
+ ANIMAL CONTROL OFFICERS; PROVIDED, HOWEVER THAT NOTHING IN THIS SUBDIVI-
+ SION  SHALL BE DEEMED TO AUTHORIZE SUCH ANIMAL CONTROL OFFICER TO CARRY,
+ POSSESS, REPAIR OR DISPOSE OF A FIREARM UNLESS THE  APPROPRIATE  LICENSE
+ HAS BEEN ISSUED PURSUANT TO SECTION 400.00 OF THE PENAL LAW.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02019-01-3
