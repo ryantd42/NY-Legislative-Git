@@ -1,0 +1,75 @@
+# Relates to mandatory student enrollment reporting
+
+**Bill ID:** S2166
+**Session:** 2023
+**Sponsor:** John Liu
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to mandatory student enrollment reporting for public schools and charter schools triennially on October thirty-first, January thirty-first, and April thirtieth of each year.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2166
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen.  LIU  --  read  twice and ordered printed, and when
+  printed to be committed to the Committee on Education
+ 
+ AN ACT to amend the education law,  in  relation  to  mandatory  student
+  enrollment reporting
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. The education law is amended by adding a new section 319 to
+ read as follows:
+  § 319. MANDATORY STUDENT ENROLLMENT REPORTING. 1. ALL  PUBLIC  SCHOOLS
+ LOCATED  WITHIN  THE STATE, REGARDLESS OF LEVEL, SHALL REPORT THE NUMBER
+ OF STUDENTS ENROLLED IN SUCH SCHOOL TO THE  DEPARTMENT  TRIENNIALLY,  ON
+ OCTOBER  THIRTY-FIRST, JANUARY THIRTY-FIRST, AND APRIL THIRTIETH OF EACH
+ YEAR.
+  2. EACH REPORT SHALL BE ACCOMPANIED WITH SUPPORTING  DOCUMENTATION  OF
+ SUCH  ENROLLMENT.  FOR  PURPOSES OF THIS SECTION, THE COMMISSIONER SHALL
+ DETERMINE WHAT SUPPORTING DOCUMENTATION IS NECESSARY.
+  3. EACH REPORT SHALL BE PUBLISHED AND PUBLICLY SHARED  ON  THE  SCHOOL
+ DISTRICT'S WEBSITE WITHIN ONE WEEK OF SUBMISSION TO THE DEPARTMENT.
+  4.  FOR PURPOSES OF THIS SECTION, "ENROLLMENT" SHALL MEAN THE UNDUPLI-
+ CATED COUNT OF ALL CHILDREN REGISTERED TO RECEIVE  EDUCATIONAL  SERVICES
+ IN  GRADES  KINDERGARTEN  THROUGH TWELVE, INCLUDING CHILDREN IN UNGRADED
+ PROGRAMS.
+  § 2. Section 2854 of the education law is  amended  by  adding  a  new
+ subdivision 4 to read as follows:
+  4.  MANDATORY  STUDENT  ENROLLMENT  REPORTING. (A) ALL CHARTER SCHOOLS
+ LOCATED WITHIN THE STATE SHALL REPORT THE NUMBER OF STUDENTS ENROLLED TO
+ THE DEPARTMENT TRIENNIALLY, ON  OCTOBER  THIRTY-FIRST,  JANUARY  THIRTY-
+ FIRST, AND APRIL THIRTIETH OF EACH YEAR.
+  (B)  EACH REPORT SHALL BE ACCOMPANIED WITH SUPPORTING DOCUMENTATION OF
+ SUCH ENROLLMENT. FOR PURPOSES OF THIS SECTION,  THE  COMMISSIONER  SHALL
+ DETERMINE WHAT SUPPORTING DOCUMENTATION IS NECESSARY.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05359-01-3
+ S. 2166  2
+ 
+  (C)  EACH REPORT SHALL BE PUBLISHED AND PUBLICLY SHARED ON THE CHARTER
+ SCHOOL'S WEBSITE WITHIN ONE WEEK OF SUBMISSION TO THE DEPARTMENT.
+  (D)  FOR  PURPOSES  OF  THIS  SUBDIVISION, "ENROLLMENT" SHALL MEAN THE
+ UNDUPLICATED COUNT OF ALL CHILDREN  REGISTERED  TO  RECEIVE  EDUCATIONAL
+ SERVICES  IN  GRADES  KINDERGARTEN THROUGH TWELVE, INCLUDING CHILDREN IN
+ UNGRADED PROGRAMS.
+  § 3. This act shall take effect on the sixtieth  day  after  it  shall
+ have become a law.
