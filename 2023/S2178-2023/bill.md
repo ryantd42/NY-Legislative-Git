@@ -1,0 +1,56 @@
+# Makes technical corrections to the environmental conservation law, providing for misdemeanor penalties for hunting, trapping, or fishing without a valid license
+
+**Bill ID:** S2178
+**Session:** 2023
+**Sponsor:** Thomas F. O'Mara
+**Status:** In Senate Committee
+
+## Summary
+
+Makes technical corrections to the environmental conservation law, providing for misdemeanor penalties for hunting, trapping, or fishing without a valid license.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2178
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen.  O'MARA -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN ACT to amend the  environmental  conservation  law,  in  relation  to
+  making  technical  corrections providing for misdemeanor penalties for
+  hunting, trapping, or fishing without a valid license
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subdivision  14  of  section 71-0921 of the environmental
+ conservation law, as added by chapter  532  of  the  laws  of  2019,  is
+ amended to read as follows:
+  14.  Violation  of  [subparagraph  one,  two or four of paragraph b of
+ subdivision one] SUBDIVISION FOUR of section  11-0719  of  this  chapter
+ involving the revocation and suspension of hunting, trapping, or fishing
+ licenses.  Each such misdemeanor shall be punishable by imprisonment for
+ not  more  than  ninety days, or by a fine of not less than five hundred
+ dollars nor more than one thousand dollars, or by both such imprisonment
+ and fine.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05437-01-3
