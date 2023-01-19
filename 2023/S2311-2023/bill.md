@@ -1,0 +1,62 @@
+# Increases the fines imposed on a corporation for an offense defined within the penal law
+
+**Bill ID:** S2311
+**Session:** 2023
+**Sponsor:** Zellnor Myrie
+**Status:** In Assembly Committee
+
+## Summary
+
+Increases the fines imposed on a corporation for an offense defined within the penal law.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2311
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen.  MYRIE  -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Codes
+ 
+ AN ACT to amend the penal law, in relation to fines for corporations
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Subdivision 1 of section 80.10 of the penal law, as amended
+ by  section 28 of subpart A of part H of chapter 55 of the laws of 2014,
+ is amended to read as follows:
+  1. In general. A sentence to pay a fine, when imposed on a corporation
+ for an offense defined in this chapter or for an offense defined outside
+ this chapter for which no special corporate fine is specified, shall  be
+ a sentence to pay an amount, fixed by the court, not exceeding:
+  (a) [Ten] EIGHTY thousand dollars, when the conviction is of a felony;
+  (b) [Five] FORTY thousand dollars, when the conviction is of a class A
+ misdemeanor or of an unclassified misdemeanor for which a term of impri-
+ sonment in excess of three months is authorized;
+  (c)  [Two] FIFTEEN thousand dollars, when the conviction is of a class
+ B misdemeanor or of an unclassified misdemeanor for which the authorized
+ term of imprisonment is not in excess of three months;
+  (d) [Five hundred] FOUR THOUSAND dollars, when the conviction is of  a
+ violation;
+  (e)  Any  higher  amount not exceeding double the amount of the corpo-
+ ration's gain from the commission of the offense or, if the  corporation
+ is  convicted  of  a crime defined in article four hundred ninety-six of
+ this chapter, any higher amount not exceeding three times the amount  of
+ the corporation's gain from the commission of such offense.
+  § 2. This act shall take effect immediately.
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01304-01-3
