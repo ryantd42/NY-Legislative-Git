@@ -1,0 +1,54 @@
+# Relates to certain preliminary injunctions
+
+**Bill ID:** S2260
+**Session:** 2023
+**Sponsor:** Anthony H. Palumbo
+**Status:** In Senate Committee
+
+## Summary
+
+Provides that the failure of a party challenging a building permit, variance, subdivision or other land use approval to seek a preliminary injunction to prevent construction shall not give rise to the opposing party raising the defense of mootness if such party continues and/or completes construction with knowledge that an action challenging its land use approval has been timely commenced.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2260
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen. PALUMBO -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Judiciary
+ 
+ AN ACT to amend the civil practice law and rules, in relation to certain
+  preliminary injunctions
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Section 6311 of the civil practice law and rules is amended
+ by adding a new subdivision 3 to read as follows:
+  3.  FAILURE OF A PARTY CHALLENGING A BUILDING PERMIT, VARIANCE, SUBDI-
+ VISION OR OTHER LAND USE APPROVAL TO SEEK A  PRELIMINARY  INJUNCTION  TO
+ PREVENT  CONSTRUCTION SHALL NOT GIVE RISE TO THE OPPOSING PARTY TO RAISE
+ THE DEFENSE  OF  MOOTNESS  IF  SAID  PARTY  CONTINUES  AND/OR  COMPLETES
+ CONSTRUCTION  WITH  KNOWLEDGE  THAT  AN  ACTION CHALLENGING ITS LAND USE
+ APPROVAL HAS BEEN TIMELY COMMENCED.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03856-01-3
