@@ -1,0 +1,55 @@
+# Relates to the compounding, dispensing and sale of pharmaceuticals to veterinarians
+
+**Bill ID:** S2314
+**Session:** 2023
+**Sponsor:** James Skoufis
+**Status:** In Senate Committee
+
+## Summary
+
+Permits the compounding, dispensing and sale of pharmaceuticals to veterinarians.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2314
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Higher Education
+ 
+ AN ACT to amend the education  law,  in  relation  to  the  compounding,
+  dispensing and sale of pharmaceuticals
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 6807 of the education law is amended  by  adding  a
+ new subdivision 4 to read as follows:
+  4.  A  PHARMACIST  MAY  DISPENSE  DRUGS, INCLUDING VETERINARY-SPECIFIC
+ COMPOUNDED MEDICATIONS,  TO  A  VETERINARIAN,  AND  A  VETERINARIAN  MAY
+ POSSESS AND KEEP IN STOCK FOR ADMINISTRATION AND SALE, SUCH DRUGS PURSU-
+ ANT TO A NON-PATIENT SPECIFIC REGIMEN PRESCRIBED OR ORDERED BY ANY PRAC-
+ TITIONER OF VETERINARY MEDICINE LICENSED PURSUANT TO ARTICLE ONE HUNDRED
+ THIRTY-FIVE  OF  THIS  TITLE.  PROVIDED, HOWEVER, THAT ANY DISPENSING OF
+ DRUGS CONTAINING OPIOIDS OR OTHER CONTROLLED SUBSTANCES SHALL BE SUBJECT
+ TO LIMITATIONS DETERMINED BY THE DEPARTMENT OF HEALTH.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06494-01-3
