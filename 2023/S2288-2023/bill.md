@@ -1,0 +1,68 @@
+# Provides that a tenant has the right to display the United States flag
+
+**Bill ID:** S2288
+**Session:** 2023
+**Sponsor:** Pamela Helming
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to the rights of tenants to display the flag of the United States.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2288
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen. HELMING -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Judiciary
+ 
+ AN ACT to amend the real property law, in  relation  to  the  rights  of
+  tenants to display the flag of the United States
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The real property law is amended by adding  a  new  section
+ 223-c to read as follows:
+  § 223-C. RIGHTS OF TENANTS TO DISPLAY THE FLAG OF THE UNITED STATES IN
+ CERTAIN  AREAS.  1. NO LANDLORD SHALL PROHIBIT A TENANT FROM ENGAGING IN
+ THE DISPLAY OF THE FLAG OF THE UNITED STATES IF THE FLAG IS DISPLAYED IN
+ ACCORDANCE WITH:
+  A. THE PATRIOTIC CUSTOMS SET FORTH IN 4  U.S.C.  5-10,  GOVERNING  THE
+ DISPLAY AND USE OF THE FLAG OF THE UNITED STATES;
+  B. FEDERAL LAW, STATE LAW, OR ANY LOCAL ORDINANCE OR RESOLUTION; AND
+  C. DOES NOT INFRINGE UPON THE SPACE RENTED BY ANY OTHER TENANT.
+  2. AS USED IN THIS SECTION, "DISPLAY OF THE FLAG OF THE UNITED STATES"
+ MEANS A FLAG OF THE UNITED STATES THAT IS:
+  A. MADE OF CLOTH, FABRIC OR PAPER;
+  B. DISPLAYED FROM A POLE OR STAFF OR IN A WINDOW; AND
+  C. DISPLAYED IN A MANNER THAT IS CONSISTENT WITH 4 U.S.C. CHAPTER 1.
+  3.  A  TENANT WHO REQUESTS TO DISPLAY THE FLAG OF THE UNITED STATES AT
+ THE RENTAL PROPERTY AS PROVIDED IN THIS SECTION, SHALL CONTACT THE LAND-
+ LORD WITH REASONABLE NOTICE BEFORE DISPLAY TO DISCUSS THE FOLLOWING:
+  A. PLACEMENT IN COMPLIANCE WITH ANY LOCAL ZONING RESTRICTIONS; AND
+  B. THE APPROPRIATE SIZE OF THE FLAG, WHICH SHALL  BE  CONSISTENT  WITH
+ THE SIZE AND CHARACTER OF THE DWELLING UNIT.
+  4.  NOTHING  IN  THIS  SECTION  EXEMPTS A TENANT FROM A PROVISION IN A
+ LEASE AGREEMENT THAT REQUIRES A TENANT, AT THE TERMINATION OF  A  LEASE,
+ TO  RETURN  THE  PREMISES IN THE SAME CONDITION AS THEY WERE IN WHEN THE
+ TENANT TOOK POSSESSION.
+  5. THE TENANT IS LIABLE FOR DAMAGES CAUSED BY  A  UNITED  STATES  FLAG
+ DISPLAYED BY A TENANT.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05399-01-3
