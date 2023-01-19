@@ -1,0 +1,67 @@
+# Removes restrictions on crossbow size and draw weight when used for hunting
+
+**Bill ID:** S2250
+**Session:** 2023
+**Sponsor:** Thomas F. O'Mara
+**Status:** In Senate Committee
+
+## Summary
+
+Removes restrictions on crossbow size and draw weight when used for hunting.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2250
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 19, 2023
+  ___________
+ 
+ Introduced  by  Sen.  O'MARA -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN ACT to amend the  environmental  conservation  law,  in  relation  to
+  removing  restrictions  on crossbow size and draw weight when used for
+  hunting
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subparagraph 9 of paragraph b of subdivision 4 of section
+ 11-0901 of the environmental conservation law, as added by section 6  of
+ part  EE  of  chapter  55  of  the  laws  of 2014, is amended to read as
+ follows:
+  (9) with a crossbow unless [such crossbow shall consist of a  bow  and
+ string,  either  compound  or  recurve, that launches a minimum fourteen
+ inch bolt, not including point, mounted upon a stock with a trigger that
+ holds the string and limbs under tension until released. The] THE  trig-
+ ger unit of such crossbow [must have] HAS a working safety. [The minimum
+ limb  width  of  such crossbow shall be seventeen inches, have a minimum
+ peak draw weight of one hundred pounds and a maximum peak draw weight of
+ two hundred pounds. The minimum overall length  of  such  crossbow  from
+ buttstock to front of limbs shall be twenty-four inches.]
+  § 2. Subparagraph 9 of paragraph c of subdivision 4 of section 11-0901
+ of  the environmental conservation law, as added by section 7 of part EE
+ of chapter 55 of the laws of 2014, is amended to read as follows:
+  (9) with a crossbow unless [such crossbow shall consist of a  bow  and
+ string,  either  compound  or  recurve, that launches a minimum fourteen
+ inch bolt, not including point, mounted upon a stock with a trigger that
+ holds the string and limbs under tension until released. The] THE  trig-
+ ger unit of such crossbow [must have] HAS a working safety. [The minimum
+ limb  width  of  such crossbow shall be seventeen inches, have a minimum
+ peak draw weight of one hundred pounds and a maximum peak draw weight of
+ two hundred pounds. The minimum overall length  of  such  crossbow  from
+ buttstock to front of limbs shall be twenty-four inches.]
+  § 3. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05438-01-3
