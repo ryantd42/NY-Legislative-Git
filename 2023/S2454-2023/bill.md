@@ -1,0 +1,72 @@
+# Provides protection to cellular telephone subscribers who purchase cellular telephone applications
+
+**Bill ID:** S2454
+**Session:** 2023
+**Sponsor:** Leroy Comrie
+**Status:** In Senate Committee
+
+## Summary
+
+Provides protection to cellular telephone subscribers who purchase cellular telephone applications; allows for transfer of such applications upon an upgrade or defect in such cellular telephone.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2454
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 20, 2023
+  ___________
+ 
+ Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Consumer Protection
+ 
+ AN ACT to amend the general business law, in relation to cellular  tele-
+  phone applications
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The general business law is amended by adding a new section
+ 349-g to read as follows:
+  § 349-G.  CELLULAR  APPLICATIONS;  PROTECTION.  1.  AS  USED  IN  THIS
+ SECTION:
+  (A)  "CELLULAR  TELEPHONE  SERVICE  SUPPLIER"  MEANS A BUSINESS ENTITY
+ WHICH PROVIDES RETAIL CELLULAR TELEPHONE SERVICE WITHIN NEW YORK STATE.
+  (B) "CELLULAR TELEPHONE" MEANS A CELLULAR MOBILE  RADIO  TELEPHONE  OR
+ OTHER RADIO TELEPHONE NOT REQUIRING AN ACCESS LINE FOR SERVICE.
+  (C)  "CELLULAR  TELEPHONE  SUBSCRIBER"  MEANS ANY PERSON ENROLLED IN A
+ CELLULAR TELEPHONE SERVICE SUBSCRIBER PLAN WHETHER OR NOT SUCH SUBSCRIB-
+ ER'S CELLULAR TELEPHONE SERVICES ARE ACTIVE OR SUSPENDED.
+  2. CELLULAR TELEPHONE SUBSCRIBERS WHO PURCHASE CELLULAR  APPLICATIONS,
+ GAMES  AND/OR RINGTONES FROM A CELLULAR TELEPHONE SERVICE SUPPLIER SHALL
+ BE ALLOWED TO TRANSFER SUCH PREVIOUSLY PURCHASED  PRODUCTS  TO  CELLULAR
+ TELEPHONES  WHICH  HAVE  BEEN  UPGRADED  AND/OR RETURNED TO THE CELLULAR
+ TELEPHONE SERVICE PROVIDER DUE TO A DEFECT  OR  FOR  ANY  OTHER  REASON.
+ WHERE  THE  CELLULAR TELEPHONE IS COVERED UNDER A POLICY FOR LOSS AND/OR
+ THEFT THE CELLULAR TELEPHONE SUBSCRIBER SHALL BE ENTITLED  TO  HAVE  ALL
+ PREVIOUSLY  PURCHASED  APPLICATIONS, GAMES AND/OR RINGTONES INSTALLED IN
+ THEIR NEW CELLULAR TELEPHONE OR SHALL HAVE THE  OPTION  OF  RECEIVING  A
+ CREDIT TO THEIR ACCOUNT FOR THE PURCHASE AMOUNT.
+  3.  THE  PROVISIONS  OF  SUBDIVISION TWO OF THIS SECTION SHALL ONLY BE
+ APPLICABLE TO CELLULAR TELEPHONE SUBSCRIBERS WHO REMAIN  WITH  THE  SAME
+ CELLULAR  TELEPHONE  SERVICE  PROVIDER  AND  SHALL NOT APPLY TO CELLULAR
+ TELEPHONE SUBSCRIBERS WHO SWITCH CELLULAR TELEPHONE  SERVICE  PROVIDERS,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04330-01-3
+ S. 2454  2
+ 
+ UNLESS  A  MERGER OR ACQUISITION HAS TAKEN PLACE WITH THE CELLULAR TELE-
+ PHONE SERVICE PROVIDER WITH WHOM THE CELLULAR TELEPHONE  SUBSCRIBER  HAS
+ SWITCHED TO.
+  §  2. This act shall take effect on the first of January next succeed-
+ ing the date on which it shall have become a law.
