@@ -1,0 +1,76 @@
+# Authorizes the mortgagee or lienor of an abandoned multiple dwelling to apply for the appointment of a receiver to bring the building into compliance
+
+**Bill ID:** S2389
+**Session:** 2023
+**Sponsor:** Zellnor Myrie
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes the mortgagee or lienor of an abandoned multiple dwelling to apply for the appointment of a receiver to bring the building into compliance.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2389
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 20, 2023
+  ___________
+ 
+ Introduced  by  Sen.  MYRIE  -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Judiciary
+ 
+ AN ACT to amend the  real  property  actions  and  proceedings  law,  in
+  relation to title to an abandoned multiple dwelling in a city, town or
+  village
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1.  Subdivision 3 of section 1972 of the real property actions
+ and proceedings law, as added by chapter 864 of the  laws  of  1973,  is
+ amended to read as follows:
+  3.  Within  five days of the service of notice on the owner, a copy of
+ the certification shall be served on each mortgagee, lienor  and  lessee
+ of  record, personally or by registered mail to the address set forth in
+ the recorded instrument or, if no address appears therein, to the person
+ at whose request the instrument was recorded.  Such copy shall,  in  the
+ case  of  a  mortgagee  or  lienor,  be  accompanied  by  a  notice that
+ proceedings pursuant to this article may be instituted unless the  mort-
+ gagee  or  lienor,  within  fifteen  days  of  such  mailing, either (A)
+ commences proceedings to foreclose the mortgage or lien  AND  MOVES  FOR
+ THE  APPOINTMENT OF A RECEIVER WHICH BRINGS THE BUILDING INTO COMPLIANCE
+ WITH THE APPLICABLE PROVISIONS OF LAW WITHIN NINETY DAYS FROM  THE  DATE
+ OF  APPOINTMENT OR SUCH LONGER PERIOD AS MAY BE ESTABLISHED BY AGREEMENT
+ WITH THE DEPARTMENT or [enters into an agreement with the department  to
+ bring  the building] (B) TAKES POSSESSION OF THE PREMISES AS PROVIDED IN
+ THE MORTGAGE AND BRINGS THE BUILDING into compliance with the applicable
+ provisions of law WITHIN NINETY DAYS FROM THE DATE OF TAKING  POSSESSION
+ OR  SUCH  LONGER  PERIOD  AS  MAY  BE  ESTABLISHED BY AGREEMENT WITH THE
+ DEPARTMENT.  THE DEPARTMENT MAY, NOTWITHSTANDING ANYTHING TO THE CONTRA-
+ RY IN THIS SUBDIVISION, INSTITUTE PROCEEDINGS PURSUANT TO  THIS  ARTICLE
+ IF:  (I) THE APPLICATION FOR APPOINTMENT OF A RECEIVER IS DENIED, (II)
+ THE RECEIVER FAILS TO BRING THE BUILDING INTO COMPLIANCE WITH THE APPLI-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00879-01-3
+ S. 2389  2
+ 
+ CABLE PROVISIONS OF LAW WITHIN NINETY DAYS FROM THE DATE OF  APPOINTMENT
+ OR  SUCH  LONGER  PERIOD  AS  MAY  BE  ESTABLISHED BY AGREEMENT WITH THE
+ DEPARTMENT; OR (III) THE MORTGAGEE OR  LIENOR  IN  POSSESSION  FAILS  TO
+ BRING THE BUILDING INTO COMPLIANCE WITH THE APPLICABLE PROVISIONS OF LAW
+ WITHIN  NINETY  DAYS  FROM  THE DATE OF TAKING POSSESSION OR SUCH LONGER
+ PERIOD AS MAY BE ESTABLISHED BY AGREEMENT WITH THE DEPARTMENT.
+  § 2.  This act shall take effect on  the  one  hundred  twentieth  day
+ after  it  shall  have  become  a  law  and  shall  apply to proceedings
+ commenced on or after such date.
