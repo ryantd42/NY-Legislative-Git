@@ -1,0 +1,80 @@
+# Ensures zoning lot mergers do not create any new non-compliance with applicable, pre-existing zoning regulations
+
+**Bill ID:** S2396
+**Session:** 2023
+**Sponsor:** Robert Jackson
+**Status:** In Senate Committee
+
+## Summary
+
+Ensures zoning lot mergers do not create any new non-compliance with applicable, pre-existing zoning regulations for multiple dwellings in a city having a population of five million or more.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2396
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 20, 2023
+  ___________
+ 
+ Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Housing, Construction  and
+  Community Development
+ 
+ AN  ACT  to  amend  the  multiple  dwelling law, in relation to ensuring
+  zoning lot mergers do not create any new non-compliance with  applica-
+  ble, pre-existing zoning regulations
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The multiple dwelling  law  is  amended  by  adding  a  new
+ section 15 to read as follows:
+  §  15. ZONING LOT MERGERS; NON-COMPLIANCE WITH APPLICABLE PRE-EXISTING
+ ZONING REGULATIONS. 1. FOR THE PURPOSES OF THIS SECTION:
+  (A) "TAX LOT" SHALL MEAN A PARCEL OF LAND  IDENTIFIED  WITH  A  UNIQUE
+ BOROUGH, BLOCK AND LOT NUMBER FOR PROPERTY TAX.
+  (B) "ZONING LOT DEVELOPMENT AGREEMENT" SHALL MEAN A CONTRACT TO TRANS-
+ FER FLOOR AREA FROM ONE PARCEL OF LAND TO ANOTHER AND PERMITS A DEVELOP-
+ ER  TO UTILIZE THE ADJOINING PROPERTY'S FLOOR AREA TO CONSTRUCT A BUILD-
+ ING THAT  IS  LARGER  THAN  WOULD  BE  PERMITTED  ON  THE  PARCEL  BEING
+ DEVELOPED.
+  2.  THE REQUIREMENTS OF THIS SECTION SHALL APPLY TO MULTIPLE DWELLINGS
+ IN A CITY HAVING A POPULATION OF FIVE MILLION OR MORE.
+  3. NO LOT RESULTING FROM A MERGER WITH ANY OTHER LOT FOR TAX, ADMINIS-
+ TRATIVE, ZONING, OR DEVELOPMENT PURPOSES SHALL CREATE ANY  NEW  NON-COM-
+ PLIANCE WITH THE APPLICABLE, PRE-EXISTING ZONING REGULATIONS.
+  4.  TRANSFER OF FLOOR AREA FROM ONE TAX LOT TO ANOTHER SHALL ONLY TAKE
+ PLACE SUBJECT TO THE FOLLOWING CONDITIONS:
+  (A) THE TRANSFER SHALL NOT COME FROM MORE THAN TWO ADJACENT  TAX  LOTS
+ WHICH  RESULT  IN  MORE THAN A TWENTY PERCENT INCREASE IN FLOOR AREA FOR
+ THE RECEIVING LOT PRIOR TO ANY LOT MERGER AND SHALL NOT RESULT IN A  LOT
+ WITH ANY NEW NON-COMPLIANCE WITH EXISTING ZONING REGULATIONS;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06675-01-3
+ S. 2396  2
+ 
+  (B)  THE  LOT  OR  LOTS  TRANSFERRING  FLOOR  AREA SHALL NOT HAVE BEEN
+ SUBJECT TO A PREVIOUS MERGER FOR  TAX,  ADMINISTRATIVE,  OR  DEVELOPMENT
+ REASONS, NOR SHALL SUCH LOT OR LOTS HAVE THEMSELVES PREVIOUSLY HAVE BEEN
+ RECIPIENTS OF TRANSFERRED FLOOR AREA; AND
+  (C)  THE  RECEIVING TAX LOT SHALL NOT ALSO BE THE RECIPIENT OF A FLOOR
+ AREA BONUS FOR THE  PROVISION  OF  AFFORDABLE  INCLUSIONARY  HOUSING  OR
+ PROVIDING  MANDATORY  INCLUSIONARY HOUSING PURSUANT TO THE ZONING RESOL-
+ UTION FOR THE CITY OF NEW YORK.
+  5. THE DEPARTMENT SHALL MAINTAIN A PUBLICLY  ACCESSIBLE  DATABASE  AND
+ MAP OF TAX LOTS THAT INDICATE A FLOOR AREA TRANSFER HAS OCCURRED OR LOTS
+ HAVE  BEEN  MERGED  AND INCLUDE AN ONLINE VERSION OF THE RELEVANT ZONING
+ LOT DEVELOPMENT AGREEMENT.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
