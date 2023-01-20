@@ -1,0 +1,81 @@
+# Relates to prohibiting the retail sale of flavored tobacco products and accessories
+
+**Bill ID:** S2441
+**Session:** 2023
+**Sponsor:** Brad Hoylman-Sigal
+**Status:** In Senate Committee
+
+## Summary
+
+Prohibits the retail sale of flavored tobacco products and accessories; imposes a fine of not more than five hundred dollars for each infraction.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2441
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 20, 2023
+  ___________
+ 
+ Introduced  by  Sens.  HOYLMAN-SIGAL, KRUEGER, SANDERS -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Health
+ 
+ AN  ACT  to  amend the public health law, in relation to prohibiting the
+  retail sale of flavored tobacco products and accessories
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  public health law is amended by adding a new section
+ 1399-cc-1 to read as follows:
+  § 1399-CC-1. RETAIL SALE OF FLAVORED TOBACCO PRODUCTS AND  ACCESSORIES
+ PROHIBITED.  1. FOR THE PURPOSES OF THIS SECTION, THE TERM "CHARACTERIZ-
+ ING FLAVOR" SHALL MEAN A DISTINGUISHABLE TASTE OR AROMA, OTHER THAN  THE
+ TASTE  OR  AROMA OF TOBACCO, IMPARTED EITHER PRIOR TO OR DURING CONSUMP-
+ TION OF A TOBACCO PRODUCT, INCLUDING  BUT  NOT  LIMITED  TO,  TASTES  OR
+ AROMAS  RELATING  TO ANY FRUIT, CHOCOLATE, VANILLA, HONEY, CANDY, COCOA,
+ DESSERT, ALCOHOLIC BEVERAGE, MINT, WINTERGREEN, HERB, SPICE, OR MENTHOL,
+ OR ANY CONCEPT FLAVOR THAT IMPARTS A TASTE OR AROMA THAT IS DISTINGUISH-
+ ABLE FROM TOBACCO FLAVOR BUT MAY NOT  RELATE  TO  ANY  PARTICULAR  KNOWN
+ FLAVOR.
+  2.  NO  TOBACCO  BUSINESS,  FIRM,  PARTNERSHIP,  ASSOCIATION,  LIMITED
+ LIABILITY COMPANY, CORPORATION, OR OTHER  ENTITY  LICENSED  PURSUANT  TO
+ ARTICLE  TWENTY  OF THE TAX LAW, OR EMPLOYEE OF SUCH ENTITIES SHALL SELL
+ OR OFFER FOR RETAIL SALE TOBACCO PRODUCTS WITH A  CHARACTERIZING  FLAVOR
+ OR  ACCESSORIES THAT IMPART A CHARACTERIZING FLAVOR TO A TOBACCO PRODUCT
+ IN THIS STATE.
+  3. ANY  TOBACCO  BUSINESS,  FIRM,  PARTNERSHIP,  ASSOCIATION,  LIMITED
+ LIABILITY  COMPANY,  CORPORATION,  OR OTHER ENTITY  LICENSED PURSUANT TO
+ ARTICLE TWENTY OF THE TAX LAW  THAT  VIOLATES  THE  PROVISIONS  OF  THIS
+ SECTION  SHALL  BE SUBJECT TO A CIVIL FINE OF NOT MORE THAN FIVE HUNDRED
+ DOLLARS.  COMPLAINTS ALLEGING VIOLATIONS OF THIS SECTION MAY BE  SUBMIT-
+ TED  TO  PERSONNEL DESIGNATED PURSUANT TO SECTION THIRTEEN HUNDRED NINE-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02207-01-3
+ S. 2441  2
+ 
+ TY-NINE-FF OF THIS ARTICLE, EXCEPT THAT SUCH COMPLAINTS MAY BE SUBMITTED
+ BY ANY PERSON.
+  4.  NOTWITHSTANDING  ANY  LAW  TO  THE CONTRARY, NO ENFORCEMENT AGENT,
+ POLICE OFFICER, PEACE OFFICER OR OTHER LAW ENFORCEMENT OFFICER MAY STOP,
+ QUESTION, SEARCH OR ARREST ANY PERSON: (A) ON GROUNDS OF OR IN  RELATION
+ TO  POSSESSION,  CONSUMPTION  OR PURCHASE OF ANY PRODUCT SUBJECT TO THIS
+ SECTION; OR (B) FOR THE PURPOSE OF INQUIRING OR DETERMINING HOW OR  FROM
+ WHAT  PERSON  OR  ENTITY THE PERSON OBTAINED ANY PRODUCT SUBJECT TO THIS
+ SECTION.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have  become  a  law.  Effective  immediately, the addition, amendment
+ and/or repeal of any rule or regulation necessary for the implementation
+ of this act on  its  effective  date  are  authorized  to  be  made  and
+ completed on or before such date.
