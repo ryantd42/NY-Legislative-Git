@@ -1,6 +1,6 @@
 # Relates to requiring qualification-based criteria for awarding certain contracts for services
 
-**Bill ID:** S1761A
+**Bill ID:** S1761AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires qualification-based criteria for awarding certain contracts for service
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1761
+  1761--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sens. COMRIE, SEPULVEDA -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Cities 1
+  and  when  printed  to  be  committed  to the Committee on Cities 1 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
  AN ACT to amend chapter 749 of the laws of 2019 authorizing, for certain
   public  works  undertaken pursuant to project labor agreements, use of
@@ -57,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  demonstrated  the  general  capability  to  perform  the  design-build
  contract.  UNLESS  THE AUTHORIZED ENTITY IS UTILIZING A ONE-STEP METHOD,
  THE AUTHORIZED ENTITY SHALL GENERATE A LIST OF RESPONDING ENTITIES  THAT
- HAVE  DEMONSTRATED  THE  GENERAL  CAPABILITY TO PERFORM THE DESIGN-BUILD
- CONTRACT. Such list shall consist of a specified  number  of  responding
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03202-01-3
- S. 1761  2
+  LBD03202-02-3
+ S. 1761--A  2
  
+ HAVE  DEMONSTRATED  THE  GENERAL  CAPABILITY TO PERFORM THE DESIGN-BUILD
+ CONTRACT. Such list shall consist of a specified  number  of  responding
  entities,  as determined by an authorized entity, and shall be generated
- based upon the authorized entity's review of  responses  to  a  publicly
- advertised  request  for qualifications. The authorized entity's request
+ based  upon  the  authorized  entity's review of responses to a publicly
+ advertised request for qualifications. The authorized  entity's  request
  for  qualifications  shall  include  a general description of the public
  work, the maximum number of responding entities to be  included  on  the
  list,  the selection criteria to be used and the relative weight of each
@@ -88,44 +90,46 @@ S T A T E  O F  N E W  Y O R K
  ONE-STEP METHOD, THE AUTHORIZED  ENTITY  SHALL  EVALUATE  AND  RATE  ALL
  STATEMENTS  OF  QUALIFICATION  SUBMITTED  IN RESPONSE TO THE REQUEST FOR
  QUALIFICATIONS AND SHALL AWARD THE DESIGN-BUILD  CONTRACT  TO  THE  BEST
- QUALIFIED CONTRACTOR. NOTWITHSTANDING ANY CONTRARY PROVISION OF LAW, ANY
- AUTHORIZING  ENTITY  AWARDING  A  DESIGN-BUILD  CONTRACT TO A CONTRACTOR
- DETERMINED TO BE THE BEST QUALIFIED CONTRACTOR IN ACCORDANCE  WITH  THIS
- PARAGRAPH  MAY  ELECT  EITHER  TO  ENTER INTO A SINGLE CONTRACT WITH TWO
- PHASES OR SEPARATE CONTRACTS FOR EACH OF THE TWO PHASES. To  the  extent
- consistent  with  applicable  federal  law,  the authorized entity shall
- consider, when awarding any  contract  pursuant  to  this  section,  the
- participation of (i) responding entities that are certified as minority-
- or  women-owned  business  enterprises  pursuant  to article 15-A of the
- executive law, or certified  pursuant  to  local  law  as  minority-  or
- women-owned  business  enterprises,  or,  where the New York city school
- construction authority acts as the authorized entity, certified pursuant
- to section 1743 of the public authorities law; and (ii)  small  business
- concerns  identified pursuant to subdivision (b) of section 139-g of the
- state finance law. In addition, nothing in this section shall be  deemed
- to  supersede any pre-qualification guidelines or requirements otherwise
- authorized by law for an authorized entity.
+ QUALIFIED  CONTRACTOR  WITH  A COMMITMENT TO THIRTY PERCENT OF CITY-WIDE
+ CONTRACTS AWARDED TO MINORITY AND WOMEN-OWNED BUSINESSES.  NOTWITHSTAND-
+ ING  ANY  CONTRARY  PROVISION  OF LAW, ANY AUTHORIZING ENTITY AWARDING A
+ DESIGN-BUILD CONTRACT TO A CONTRACTOR DETERMINED TO BE THE  BEST  QUALI-
+ FIED  CONTRACTOR  IN  ACCORDANCE WITH THIS PARAGRAPH MAY ELECT EITHER TO
+ ENTER INTO A SINGLE CONTRACT WITH TWO PHASES OR SEPARATE  CONTRACTS  FOR
+ EACH OF THE TWO PHASES. To the extent consistent with applicable federal
+ law,  the  authorized  entity shall consider, when awarding any contract
+ pursuant to this section, the participation of (i)  responding  entities
+ that  are  certified  as  minority-  or women-owned business enterprises
+ pursuant to article 15-A of the executive law, or certified pursuant  to
+ local  law  as  minority- or women-owned business enterprises, or, where
+ the New York city school construction authority acts as  the  authorized
+ entity,  certified  pursuant  to  section 1743 of the public authorities
+ law; and (ii) small business concerns identified pursuant to subdivision
+ (b) of section 139-g of the state finance law. In addition,  nothing  in
+ this  section  shall be deemed to supersede any pre-qualification guide-
+ lines or requirements otherwise authorized  by  law  for  an  authorized
+ entity.
   (2) Step two. Selection of the proposal which is the best value to the
- authorized entity.  The authorized entity shall  issue  a  request  for
+ authorized  entity.  The  authorized  entity shall issue a request for
  proposals to the responding entities listed pursuant to paragraph one of
- this  subdivision.  If  such  a  responding entity consists of a team of
- separate entities, the entities that comprise such a  team  must  remain
+ this subdivision. If such a responding entity  consists  of  a  team  of
+ separate  entities,  the  entities that comprise such a team must remain
  unchanged from the responding entity as listed pursuant to paragraph one
- of  this subdivision unless otherwise approved by the authorized entity.
- The request for proposals shall set forth the  public  work's  scope  of
- work,  and  other  requirements, as determined by the authorized entity,
- which may include separate goals for  work  under  the  contract  to  be
- performed  by  businesses certified as minority- or women-owned business
- enterprises pursuant to article 15-A of the  executive  law  or  section
- 1743  of  the public authorities law, or certified pursuant to local law
- as minority-  or  women-owned  business  enterprises.  The  request  for
- proposals  shall  also  specify  the criteria to be used to evaluate the
- responses and the relative weight of each of such criteria. Such  crite-
- S. 1761  3
+ of this subdivision unless otherwise approved by the authorized  entity.
+ The  request  for  proposals  shall set forth the public work's scope of
+ work, and other requirements, as determined by  the  authorized  entity,
+ which  may  include  separate  goals  for  work under the contract to be
+ performed by businesses certified as minority- or  women-owned  business
+ enterprises  pursuant  to  article  15-A of the executive law or section
+ S. 1761--A  3
  
- ria  shall  include  the  proposal's cost, the quality of the proposal's
- solution, the qualifications and experience of the proposer,  and  other
- factors  deemed  pertinent  by the authorized entity, which may include,
+ 1743 of the public authorities law, or certified pursuant to  local  law
+ as  minority-  or  women-owned  business  enterprises.  The  request for
+ proposals shall also specify the criteria to be  used  to  evaluate  the
+ responses  and the relative weight of each of such criteria. Such crite-
+ ria shall include the proposal's cost, the  quality  of  the  proposal's
+ solution,  the  qualifications and experience of the proposer, and other
+ factors deemed pertinent by the authorized entity,  which  may  include,
  but  shall  not  be  limited  to,  the proposal's manner and schedule of
  project implementation, the proposer's ability to complete the work in a
  timely and satisfactory  manner,  maintenance  costs  of  the  completed
@@ -150,7 +154,7 @@ S T A T E  O F  N E W  Y O R K
  entity's website after registration of such contract or  the  date  upon
  which  such contract may be implemented, if registration requirements do
  not apply.
-  § 3. This act shall take effect immediately;  provided,  however  that
+  § 3. This act shall take effect immediately; provided,  however,  that
  the  amendments  to chapter 749 of the laws of 2019 made by sections one
  and two of this act shall not affect the  repeal  of  such  chapter  and
  shall be deemed repealed therewith.
