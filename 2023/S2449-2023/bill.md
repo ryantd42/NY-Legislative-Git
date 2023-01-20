@@ -1,0 +1,59 @@
+# Prohibits an employer, licensing agency or employment agency from requesting or requiring that a prospective employee disclose his or her age, date of birth or date of graduation
+
+**Bill ID:** S2449
+**Session:** 2023
+**Sponsor:** Liz Krueger
+**Status:** In Assembly Committee
+
+## Summary
+
+Prohibits an employer, licensing agency or employment agency from requesting or requiring that a prospective employee disclose his or her age, date of birth or date of graduation from an educational institution on an initial employment application or during an interview, except in the case of a bona fide occupational qualification or need.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2449
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 20, 2023
+  ___________
+ 
+ Introduced  by Sens. KRUEGER, MAY -- read twice and ordered printed, and
+  when printed to be committed to the Committee  on  Investigations  and
+  Government Operations
+ 
+ AN ACT to amend the executive law, in relation to prohibiting an employ-
+  er, licensing agency or employment agency from requesting or requiring
+  that  a prospective employee disclose his or her age, date of birth or
+  date of graduation from  an  educational  institution  on  an  initial
+  employment application or during an interview, except in the case of a
+  bona fide occupational qualification or need
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subdivision 3-a of section 296  of  the  executive  law  is
+ amended by adding a new paragraph (a-1) to read as follows:
+  (A-1)  FOR  ANY  EMPLOYER,  LICENSING  AGENCY  OR EMPLOYMENT AGENCY TO
+ REQUEST OR REQUIRE THAT A PROSPECTIVE EMPLOYEE DISCLOSE HIS OR HER  AGE,
+ DATE  OF  BIRTH OR DATE OF GRADUATION FROM AN EDUCATIONAL INSTITUTION ON
+ AN INITIAL EMPLOYMENT APPLICATION OR DURING AN INTERVIEW, EXCEPT IN  THE
+ CASE OF A BONA FIDE OCCUPATIONAL QUALIFICATION OR NEED.
+  §  2.  This act shall take effect on the first January next succeeding
+ the date upon which it shall have become a law.  Effective  immediately,
+ the  addition,  amendment and/or repeal of any rule or regulation neces-
+ sary for the implementation of  this  act  on  its  effective  date  are
+ authorized to be made and completed on or before such date.
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05544-01-3
