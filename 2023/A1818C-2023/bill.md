@@ -1,0 +1,175 @@
+# Relates to the criminal impersonation in the second degree and establishing a stolen valor fee
+
+**Bill ID:** A1818C
+**Session:** 2023
+**Sponsor:** Jeffrey Dinowitz
+**Status:** In Assembly Committee
+
+## Summary
+
+Provides that a person is guilty of criminal impersonation in the second degree when a person pretends to be a servicemember or former servicemember, or a first responder, or as having received a decoration or medal; establishes a stolen valor fee.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1818
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  DINOWITZ, BENEDETTO, COLTON, PEOPLES-STOKES,
+  GUNTHER, WOERNER, RIVERA, STECK, BRABENEC -- Multi-Sponsored by --  M.
+  of A. GLICK, RAMOS -- read once and referred to the Committee on Codes
+ 
+ AN  ACT  to  amend  the  penal law, in relation to creating the crime of
+  stolen valor
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 10.00 of the penal law is amended by adding two new
+ subdivisions 22 and 23 to read as follows:
+  22.  "MEMBER  OF  THE  MILITARY OR RESERVES" MEANS (A) A MEMBER OF THE
+ UNITED STATES ARMY, NAVY, AIR FORCE, MARINES, COAST GUARD, ARMY NATIONAL
+ GUARD, AIR NATIONAL GUARD AND/OR RESERVES THEREOF OR (B) A MEMBER OF THE
+ NEW YORK GUARD OR THE NEW YORK NAVAL MILITIA.
+  23. "VETERAN" MEANS A PERSON WHO WAS  A  MEMBER  OF  THE  MILITARY  OR
+ RESERVES  AS  DEFINED IN SUBDIVISION TWENTY-TWO OF THIS SECTION, BUT WHO
+ HAS SINCE BEEN DISCHARGED FROM SUCH SERVICES.
+  § 2. The penal law is amended by adding a new section 190.28  to  read
+ as follows:
+ § 190.28 STOLEN VALOR.
+  A  PERSON  IS  GUILTY  OF STOLEN VALOR WHEN HE OR SHE PRETENDS TO BE A
+ MEMBER OF THE MILITARY OR RESERVES AS DEFINED BY SUBDIVISION  TWENTY-TWO
+ OF SECTION 10.00 OF THIS CHAPTER, OR PRETENDS TO BE A VETERAN AS DEFINED
+ BY  SUBDIVISION  TWENTY-THREE OF SECTION 10.00 OF THIS CHAPTER, OR WEARS
+ OR DISPLAYS WITHOUT AUTHORITY, ANY UNIFORM, BADGE OR OTHER  INSIGNIA  OR
+ FACSIMILE  THEREOF,  BY  WHICH SUCH MEMBER OF THE MILITARY OR VETERAN IS
+ LAWFULLY DISTINGUISHED OR EXPRESSES BY HIS OR HER WORDS OR ACTIONS  THAT
+ HE  OR SHE IS ACTING WITH THE APPROVAL OR AUTHORITY OF ANY DEPARTMENT OF
+ DEFENSE BRANCH OR THE UNITED STATES COAST GUARD FOR THE PURPOSE OF FRAU-
+ DULENTLY OBTAINING MONEY OR OTHER BENEFITS.
+  STOLEN VALOR IS A CLASS A MISDEMEANOR.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00836-01-3
+ A. 1818  2
+ 
+  § 3. Subdivisions 1, 2 and 3 of section 60.35 of  the  penal  law,  as
+ amended  by  section  1  of  part  E  of chapter 56 of the laws of 2004,
+ subparagraphs (i), (ii) and (iii) of paragraph (a) of subdivision  1  as
+ amended  by  section  1 of part DD of chapter 56 of the laws of 2008 and
+ paragraph  (b) of subdivision 1 as amended by chapter 320 of the laws of
+ 2006, are amended to read as follows:
+  1. (a) Except as provided in section  eighteen  hundred  nine  of  the
+ vehicle  and  traffic law and section 27.12 of the parks, recreation and
+ historic preservation law, whenever  proceedings  in  an  administrative
+ tribunal or a court of this state result in a conviction for a felony, a
+ misdemeanor, or a violation, as these terms are defined in section 10.00
+ of  this  chapter,  there  shall  be  levied  at  sentencing a mandatory
+ surcharge, sex offender registration fee,  DNA  databank  fee  [and],  a
+ crime  victim  assistance fee, AND A STOLEN VALOR FEE in addition to any
+ sentence required or permitted by law, in accordance with the  following
+ schedule:
+  (i)  a person convicted of a felony shall pay a mandatory surcharge of
+ three hundred dollars and a crime victim assistance fee  of  twenty-five
+ dollars;
+  (ii)  a  person  convicted  of  a  misdemeanor  shall  pay a mandatory
+ surcharge of one hundred seventy-five dollars and a crime victim assist-
+ ance fee of twenty-five dollars;
+  (iii) a  person  convicted  of  a  violation  shall  pay  a  mandatory
+ surcharge  of  ninety-five  dollars and a crime victim assistance fee of
+ twenty-five dollars;
+  (iv) a person convicted of a sex offense as defined by subdivision two
+ of section one hundred sixty-eight-a of the correction law or a sexually
+ violent offense as defined by subdivision three of section  one  hundred
+ sixty-eight-a  of  the  correction law shall, in addition to a mandatory
+ surcharge and crime victim assistance fee, pay a sex offender  registra-
+ tion fee of fifty dollars[.];
+  (v)  a person convicted of a designated offense as defined by subdivi-
+ sion seven of section nine hundred  ninety-five  of  the  executive  law
+ shall,  in addition to a mandatory surcharge and crime victim assistance
+ fee, pay a DNA databank fee of fifty dollars[.];
+  (VI) A PERSON CONVICTED OF ANY OFFENSE PURSUANT TO SECTION  190.28  OF
+ THIS  CHAPTER  SHALL,  IN  ADDITION  TO  A MANDATORY SURCHARGE AND CRIME
+ VICTIM ASSISTANCE FEE, PAY ANY OTHER FEE REQUIRED BY THIS  ARTICLE,  AND
+ PAY A STOLEN VALOR FEE IN THE AMOUNT OF TWO HUNDRED FIFTY DOLLARS.
+  (b)  When  the  felony or misdemeanor conviction in subparagraphs (i),
+ (ii) or (iv) of paragraph  (a)  of  this  subdivision  results  from  an
+ offense  contained in article one hundred thirty of this chapter, incest
+ in the third, second or first degree  as  defined  in  sections  255.25,
+ 255.26 and 255.27 of this chapter or an offense contained in article two
+ hundred  sixty-three  of  this chapter, the person convicted shall pay a
+ supplemental sex offender victim fee of one thousand dollars in addition
+ to the mandatory surcharge and any other fee.
+  2. Where a person is convicted of two or  more  crimes  or  violations
+ committed  through  a single act or omission, or through an act or omis-
+ sion which in itself constituted one of the  crimes  or  violations  and
+ also  was  a  material  element  of  the other, the court shall impose a
+ mandatory surcharge and a crime victim assistance fee, and where  appro-
+ priate  a supplemental sex offender victim fee OR A STOLEN VALOR FEE, in
+ accordance with  the  provisions  of  this  section  for  the  crime  or
+ violation  which  carries  the  highest  classification,  and  no  other
+ sentence to pay a mandatory surcharge, crime victim assistance fee [or],
+ A. 1818  3
+ 
+ supplemental sex offender victim fee, OR A STOLEN VALOR FEE required  by
+ this  section  shall be imposed.  Where a person is convicted of two or
+ more sex offenses or sexually violent offenses, as defined  by  subdivi-
+ sions  two  and  three  of  section  one  hundred  sixty-eight-a  of the
+ correction law, committed through a single act or omission,  or  through
+ an  act  or omission which in itself constituted one of the offenses and
+ also was a material element of the other, the court  shall  impose  only
+ one sex offender registration fee. Where a person is convicted of two or
+ more  designated  offenses,  as  defined by subdivision seven of section
+ nine hundred ninety-five of  the  executive  law,  committed  through  a
+ single  act  or  omission, or through an act or omission which in itself
+ constituted one of the offenses and also was a material element  of  the
+ other, the court shall impose only one DNA databank fee.
+  3.  The  mandatory surcharge, sex offender registration fee, DNA data-
+ bank fee, crime victim assistance fee, [and] supplemental  sex  offender
+ victim fee, AND STOLEN VALOR FEE provided for in subdivision one of this
+ section shall be paid to the clerk of the court or administrative tribu-
+ nal that rendered the conviction. Within the first ten days of the month
+ following collection of the mandatory surcharge, crime victim assistance
+ fee,  and supplemental sex offender victim fee, the collecting authority
+ shall determine the amount of mandatory surcharge, crime victim  assist-
+ ance  fee,  [and] supplemental sex offender victim fee, AND STOLEN VALOR
+ FEE collected and, if it is an administrative tribunal,  or  a  town  or
+ village  justice  court, it shall then pay such money to the state comp-
+ troller who shall deposit such money in the state treasury  pursuant  to
+ section one hundred twenty-one of the state finance law to the credit of
+ the  criminal justice improvement account established by section ninety-
+ seven-bb of the state finance law. Within the  first  ten  days  of  the
+ month  following collection of the sex offender registration fee and DNA
+ databank fee, the collecting authority shall determine the amount of the
+ sex offender registration fee and DNA databank fee collected and, if  it
+ is  an  administrative  tribunal, or a town or village justice court, it
+ shall then pay such money to the state  comptroller  who  shall  deposit
+ such  money  in the state treasury pursuant to section one hundred twen-
+ ty-one of the state finance law to the credit of the  general  fund.  If
+ such  collecting  authority  is  any  other  court  of the unified court
+ system, it shall, within such period, pay such money attributable to the
+ mandatory surcharge or crime victim assistance fee to the state  commis-
+ sioner  of  taxation  and  finance to the credit of the criminal justice
+ improvement account established by section ninety-seven-bb of the  state
+ finance  law.  If  such collecting authority is any other court of the
+ unified court system, it shall,  within  such  period,  pay  such  money
+ attributable  to  the sex offender registration fee and the DNA databank
+ fee to the state commissioner of taxation and finance to the  credit  of
+ the  general  fund. NOTWITHSTANDING ANY OTHER PROVISION OF THIS SUBDIVI-
+ SION, ALL MONIES PAID TO THE STATE COMPTROLLER OR TO THE COMMISSIONER OF
+ TAXATION AND FINANCE WHICH ARE ATTRIBUTABLE TO MONIES COLLECTED FOR  THE
+ STOLEN VALOR FEE SHALL BE CREDITED TO THE VETERANS REMEMBRANCE AND CEME-
+ TERY  MAINTENANCE  AND  OPERATION  FUND  ESTABLISHED PURSUANT TO SECTION
+ NINETY-SEVEN-MMMM OF THE STATE FINANCE LAW.
+  § 4. This act shall take effect immediately.
