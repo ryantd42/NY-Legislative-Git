@@ -1,0 +1,65 @@
+# Relates to creating designated Purple Heart parking spaces at state buildings and facilities
+
+**Bill ID:** A2071
+**Session:** 2023
+**Sponsor:** Steve Stern
+**Status:** In Assembly Committee
+
+## Summary
+
+Creates designated parking spaces at state buildings and facilities for recipients of the purple heart award.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2071
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by M. of A. STERN -- read once and referred to the Committee
+  on Governmental Operations
+ 
+ AN ACT to amend the executive law, in relation  to  creating  designated
+  purple heart parking spaces at state buildings and facilities
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The executive law is amended by adding a new section  201-b
+ to read as follows:
+  §  201-B.  DESIGNATED  PARKING  FOR PURPLE HEART RECIPIENTS.  1. WHERE
+ PARKING FOR A STATE AGENCY OCCURS ON PROPERTIES UNDER  THE  JURISDICTION
+ OF  THE  OFFICE  OF  GENERAL SERVICES, AND IN ANY PARKING FACILITY OWNED
+ AND/OR OPERATED BY THE STATE OF NEW YORK, SUCH OFFICE SHALL PROVIDE  FOR
+ DESIGNATED  PARKING  SPACES  FOR  PERSONS WHO ARE RECIPIENTS OF A PURPLE
+ HEART AWARD IN ACCORDANCE WITH THE PROVISIONS OF THIS SECTION.
+  2. SUCH PARKING SPACES MUST BE LOCATED AS CLOSE AS REASONABLY  PRACTI-
+ CABLE  TO  THE STATE AGENCY OR FACILITY AND REASONABLY DISTRIBUTED SO AS
+ TO PROVIDE CONVENIENT ACCESS TO SUCH FACILITY. SUCH PARKING  SPACES  ARE
+ TO  BE  USED  ONLY  BY  PERSONS  WHO HAVE BEEN AWARDED A PURPLE HEART AS
+ EVIDENCED BY A SPECIAL PERMIT TO BE DISTRIBUTED BY THE  COMMISSIONER  OF
+ MOTOR VEHICLES.
+  3.  THE  PARKING  SPACES DESIGNATED PURSUANT TO THE PROVISIONS OF THIS
+ SECTION SHALL BE CLEARLY IDENTIFIED FOR USE BY PURPLE  HEART  RECIPIENTS
+ WHICH  DESIGNATION  SHALL  INCLUDE CONSPICUOUS AND PERMANENTLY INSTALLED
+ ABOVE GRADE SIGNS AT A HEIGHT OF NOT LESS THAN FIVE FEET NOR  MORE  THAN
+ SEVEN  FEET  AND MAY INCLUDE THE USE OF SPECIALLY PAINTED LINES OR MARK-
+ INGS.  SUCH PARKING SPACES ALSO MAY BE MARKED AS TOW-AWAY ZONES.
+  4. EACH FACILITY SHALL HAVE UP TO TWO DESIGNATED PARKING SPACES  UNDER
+ THIS  SECTION  WHICH  SHALL CONFORM TO THE DIMENSIONS ESTABLISHED BY THE
+ PROVISIONS OF THE AMERICANS WITH DISABILITIES ACT.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02324-01-3
