@@ -1,0 +1,99 @@
+# Relates to notification in the case of a change to a workers' compensation claims representative
+
+**Bill ID:** S2546
+**Session:** 2023
+**Sponsor:** Jessica Ramos
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to notification in the case of a change to the workers' compensation claims representative.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2546
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by  Sens.  RAMOS, SANDERS -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Labor
+ 
+ AN ACT to amend the workers' compensation law, in relation to  notifica-
+  tion  in the case of a change to a workers' compensation claims repre-
+  sentative
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  workers' compensation law is amended by adding a new
+ section 138 to read as follows:
+  § 138. WORKERS' COMPENSATION CLAIMS REPRESENTATIVE  REPLACEMENT.  1.
+ WHERE  AN INJURED EMPLOYEE IS ENTITLED TO WORKERS' COMPENSATION BENEFITS
+ UNDER THIS CHAPTER AND A CLAIMS REPRESENTATIVE HAS BEEN ASSIGNED TO  HIS
+ OR  HER WORKERS' COMPENSATION CLAIM BY AN INSURANCE CARRIER, SUCH INSUR-
+ ANCE CARRIER SHALL BE REQUIRED TO NOTIFY SUCH INJURED EMPLOYEE  OR  SUCH
+ EMPLOYEE'S  PERSONAL  REPRESENTATIVE  IN  THE  EVENT  THAT SUCH CLAIM IS
+ ASSIGNED TO A NEW CLAIMS REPRESENTATIVE, OR IT IS  DETERMINED  THAT  THE
+ ASSIGNMENT  OF  A  CLAIMS REPRESENTATIVE IS NO LONGER NECESSARY. FOR THE
+ PURPOSES OF THIS SECTION, "CLAIMS REPRESENTATIVE" SHALL MEAN ANY EMPLOY-
+ EE, AGENT, OR OTHER REPRESENTATIVE  OF  AN  INSURANCE  CARRIER  THAT  IS
+ RESPONSIBLE  FOR  PROCESSING,  ADJUDICATING, OR IN ANY WAY EFFECTING THE
+ SETTLEMENT OF A WORKERS' COMPENSATION CLAIM.
+  2. AN INSURANCE CARRIER SHALL PROVIDE SUCH NOTICE BY ELECTRONIC  MEANS
+ OR  BY CERTIFIED OR REGISTERED MAIL, AS ELECTED BY THE INJURED EMPLOYEE,
+ RETURN RECEIPT REQUESTED, TO THE  LAST  KNOWN  ADDRESS  OF  THE  INJURED
+ EMPLOYEE  OR  SUCH  EMPLOYEE'S  PERSONAL  REPRESENTATIVE WITHIN FOURTEEN
+ BUSINESS DAYS OF THE REPLACEMENT OF ANY  CLAIMS  REPRESENTATIVE  OR  THE
+ DETERMINATION THAT THE ASSIGNMENT OF A CLAIMS REPRESENTATIVE IS NO LONG-
+ ER NECESSARY. SUCH NOTICE SHALL INCLUDE THE NAME AND CONTACT INFORMATION
+ OF THE NEW CLAIMS REPRESENTATIVE WHEN A NEW ASSIGNMENT HAS BEEN MADE.
+  §  2. The workers' compensation law is amended by adding a new section
+ 138-a to read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06225-01-3
+ S. 2546  2
+ 
+  § 138-A.  WORKERS'  COMPENSATION  CLAIMS  REPRESENTATIVE  REPLACEMENT;
+ SELF-INSURED EMPLOYER. 1. WHERE AN INJURED EMPLOYEE IS ENTITLED TO WORK-
+ ERS'  COMPENSATION  BENEFITS  UNDER  THIS CHAPTER AND A CLAIMS REPRESEN-
+ TATIVE HAS BEEN ASSIGNED TO HIS OR HER WORKERS' COMPENSATION CLAIM BY  A
+ SELF-INSURED  EMPLOYER,  SUCH SELF-INSURED EMPLOYER SHALL BE REQUIRED TO
+ NOTIFY SUCH INJURED EMPLOYEE OR SUCH EMPLOYEE'S PERSONAL  REPRESENTATIVE
+ IN THE EVENT THAT SUCH CLAIM IS ASSIGNED TO A NEW CLAIMS REPRESENTATIVE,
+ OR IT IS DETERMINED THAT THE ASSIGNMENT OF A CLAIMS REPRESENTATIVE IS NO
+ LONGER  NECESSARY.  FOR  THE PURPOSES OF THIS SECTION, "CLAIMS REPRESEN-
+ TATIVE" SHALL MEAN ANY EMPLOYEE, AGENT, OR  OTHER  REPRESENTATIVE  OF  A
+ SELF-INSURED  EMPLOYER THAT IS RESPONSIBLE FOR PROCESSING, ADJUDICATING,
+ OR IN ANY WAY EFFECTING THE SETTLEMENT OF A WORKERS' COMPENSATION CLAIM.
+  2. A SELF-INSURED EMPLOYER SHALL PROVIDE  SUCH  NOTICE  BY  ELECTRONIC
+ MEANS  OR  BY  CERTIFIED  OR  REGISTERED MAIL, AS ELECTED BY THE INJURED
+ EMPLOYEE, RETURN RECEIPT REQUESTED, TO THE LAST  KNOWN  ADDRESS  OF  THE
+ INJURED EMPLOYEE OR SUCH EMPLOYEE'S PERSONAL REPRESENTATIVE WITHIN FOUR-
+ TEEN  BUSINESS  DAYS  OF THE REPLACEMENT OF ANY CLAIMS REPRESENTATIVE OR
+ THE DETERMINATION THAT THE ASSIGNMENT OF A CLAIMS REPRESENTATIVE  IS  NO
+ LONGER  NECESSARY. SUCH NOTICE SHALL INCLUDE THE NAME AND CONTACT INFOR-
+ MATION OF THE NEW CLAIMS REPRESENTATIVE WHEN A NEW ASSIGNMENT  HAS  BEEN
+ MADE.
+  § 3. Severability clause. If any clause, sentence, paragraph, subdivi-
+ sion,  section  or  part  of  this act shall be adjudged by any court of
+ competent jurisdiction to be invalid, such judgment  shall  not  affect,
+ impair,  or  invalidate  the remainder thereof, but shall be confined in
+ its operation to the clause, sentence, paragraph,  subdivision,  section
+ or part thereof directly involved in the controversy in which such judg-
+ ment shall have been rendered. It is hereby declared to be the intent of
+ the  legislature  that  this  act  would  have been enacted even if such
+ invalid provisions had not been included herein.
+  § 4. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
