@@ -1,6 +1,6 @@
 # Relates to standards for the construction of new buildings and existing buildings that undergo a substantial improvementand which are located wholly or partially in a flood plain
 
-**Bill ID:** S828A
+**Bill ID:** S828AA
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Relates to standards for the construction of all new buildings and for the const
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  828
+  828--A
+  Cal. No. 37
  
   2023-2024 Regular Sessions
  
@@ -26,14 +27,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MAYER  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
+  printed to be committed to the Committee on  Rules  --  ordered  to  a
+  third  reading,  amended and ordered reprinted, retaining its place in
+  the order of third reading
  
- AN ACT to amend executive law, in relation to flood plain  standards  of
-  construction
+ AN ACT to amend the executive law, in relation to flood plain  standards
+  of construction
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision 2-a of section 378 of  the  executive  law,  as
  added by a chapter of the laws of 2022 amending the executive law relat-
  ing  to  requiring  the examination of current and the recommendation of
@@ -57,25 +60,25 @@ S T A T E  O F  N E W  Y O R K
  Area according to FEMA's current flood insurance rate maps,  or  (ii)  a
  Moderate Risk Flood Hazard Area according to FEMA's current flood insur-
  ance rate maps].
-  b.  The  standards  in  paragraph  a  of this subdivision shall (i) be
- developed to address future  physical climate risk  due  to  sea  level
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04040-01-3
- S. 828  2
+  LBD04040-02-3
+ S. 828--A  2
  
+  b.  The  standards  in  paragraph  a  of this subdivision shall (i) be
+ developed to address future  physical climate risk  due  to  sea  level
  rise,  and/or storm surges and/or flooding, based on available data FROM
  NATIONALLY RECOGNIZED SOURCES OR DATA PRODUCED BY STATE  AGENCIES  BASED
  ON  NATIONALLY  RECOGNIZED  PROCEDURES, ANALYSIS, AND STUDIES predicting
  the likelihood of extreme weather events, including hazard risk analysis
- data  if applicable, and after consultation with the department of envi-
- ronmental conservation, and (ii) if  appropriate,  provide  for  regular
+ data if applicable, and after consultation with the department of  envi-
+ ronmental  conservation,  and  (ii)  if appropriate, provide for regular
  inspection,  and  repair,  as  necessary,  of  the  interior  structural
  elements of buildings.
-  § 2. This act shall take effect on the  same  date  and  in  the  same
- manner  as  a  chapter  of  the  laws of 2022 amending the executive law
- relating to requiring the examination of current and the  recommendation
- of  future standardized building code requirements for flood mitigation,
- as proposed in legislative bills numbers S. 7582-B and A. 9216-B,  takes
+  §  2.  This  act  shall  take  effect on the same date and in the same
+ manner as a chapter of the laws  of  2022  amending  the  executive  law
+ relating  to requiring the examination of current and the recommendation
+ of future standardized building code requirements for flood  mitigation,
+ as  proposed in legislative bills numbers S. 7582-B and A. 9216-B, takes
  effect.
