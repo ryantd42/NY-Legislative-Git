@@ -1,0 +1,76 @@
+# Provides an exemption from workers' compensation coverage for certain members of a recognized religious sect
+
+**Bill ID:** A1815
+**Session:** 2023
+**Sponsor:** Andrew Goodell
+**Status:** In Assembly Committee
+
+## Summary
+
+Permits an employer who is a member of a recognized religious sect to file an application with the department of labor to be exempted from the provisions of the workers' compensation law with respect to employees who are members of the same recognized religious sect whose religious tenets or teachings oppose acceptance of any insurance benefits.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1815
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by M. of A. GOODELL -- read once and referred to the Commit-
+  tee on Labor
+ 
+ AN ACT to amend the workers' compensation law, in relation to  providing
+  an  exemption  from coverage for certain members of a recognized reli-
+  gious sect
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  workers' compensation law is amended by adding a new
+ section 126 to read as follows:
+  § 126. EXEMPTION FROM COVERAGE. 1. AN EMPLOYER WHO IS A  MEMBER  OF  A
+ RECOGNIZED  RELIGIOUS  SECT WHICH EMBRACES A LONG-STANDING COMMITMENT OF
+ NON-INVOLVEMENT IN THE MATTERS OF ESTABLISHED GOVERNMENTAL PRACTICES AND
+ IS CONSCIENTIOUSLY OPPOSED TO ACCEPTANCE OF ANY PUBLIC OR PRIVATE INSUR-
+ ANCE THAT MAKES PAYMENTS IN THE EVENT OF DEATH, DISABILITY, OLD  AGE  OR
+ RETIREMENT OR MAKES PAYMENTS TOWARD THE COST OF OR PROVIDES SERVICES FOR
+ MEDICAL  BILLS  (INCLUDING  THE  BENEFITS OF ANY INSURANCE SYSTEM ESTAB-
+ LISHED BY THE FEDERAL SOCIAL SECURITY ACT 42 U.S.C. 301 ET  SEQ.)  MAY
+ FILE  AN  APPLICATION  WITH  THE  DEPARTMENT  TO  BE  EXEMPTED  FROM THE
+ PROVISIONS OF THIS CHAPTER TO THE EXTENT HIS OR HER EMPLOYEES  ARE  FROM
+ THE SAME RELIGIOUS SECT.
+  2.  THE APPLICATION SHALL INCLUDE A WRITTEN WAIVER BY THE EMPLOYEES OF
+ ALL BENEFITS UNDER THIS CHAPTER AND AN AFFIDAVIT BY SUCH  EMPLOYEE  THAT
+ HE  OR  SHE  IS A MEMBER OF A RECOGNIZED RELIGIOUS SECT WHICH EMBRACES A
+ LONG-STANDING COMMITMENT OF NON-INVOLVEMENT IN  THE  MATTERS  OF  ESTAB-
+ LISHED  GOVERNMENTAL PRACTICES AND IS CONSCIENTIOUSLY OPPOSED TO ACCEPT-
+ ANCE OF THE BENEFITS OF ANY PUBLIC OR PRIVATE INSURANCE.
+  3. SUCH APPLICATION SHALL BE GRANTED  IF  THE  DEPARTMENT  SHALL  FIND
+ THAT:  (A)  SUCH  EMPLOYEES ARE MEMBERS OF A SECT OR DIVISION HAVING THE
+ ESTABLISHED TENETS OR TEACHINGS REFERRED TO IN SUBDIVISION ONE  OF  THIS
+ SECTION;  AND  (B)  IT  IS  THE PRACTICE, AND HAS BEEN FOR A SUBSTANTIAL
+ NUMBER OF YEARS, FOR MEMBERS OF SUCH SECT OR DIVISION  THEREOF  TO  MAKE
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06079-01-3
+ A. 1815  2
+ 
+ PROVISION  FOR  THEIR DEPENDENT MEMBERS WHICH IN ITS JUDGMENT IS REASON-
+ ABLE IN VIEW OF THEIR GENERAL LEVEL OF LIVING.
+  4.  WHEN  AN EMPLOYEE IS A MINOR, THE WAIVER AND AFFIDAVIT REQUIRED BY
+ SUBDIVISION ONE OF THIS SECTION MAY BE  MADE  BY  THE  GUARDIAN  OF  THE
+ MINOR.
+  5.  AN  EXCEPTION  GRANTED  IN  REGARD TO A SPECIFIC EMPLOYEE SHALL BE
+ VALID FOR ALL FUTURE YEARS UNLESS SUCH EMPLOYEE OR SECT CEASES  TO  MEET
+ THE REQUIREMENTS OF SUBDIVISION ONE OF THIS SECTION.
+  § 2. This act shall take effect immediately.
