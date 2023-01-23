@@ -1,6 +1,6 @@
 # Provides a rebuttable presumption relating to recertification as a minority and women-owned business enterprise
 
-**Bill ID:** A1621B
+**Bill ID:** A1621BA
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides a rebuttable presumption relating to recertification as a minority and 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1621
+  1621--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. McDONALD, WALSH -- read once and referred to the
-  Committee on Governmental Operations
+  Committee on Governmental Operations  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the executive law, in relation to providing a rebuttable
   presumption relating to certification as a  minority  and  women-owned
   business enterprise
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,12 +59,14 @@ S T A T E  O F  N E W  Y O R K
   §  2.  This act shall take effect on the first of July next succeeding
  the date upon which it shall have become a law and shall apply to appli-
  cations submitted by a business  enterprise  for  further  minority  and
- women-owned  business  enterprise  certification  submitted on and after
- such effective date; provided, however,  that  the  amendments  made  to
- section  314 of the executive law made  by section one of this act shall
- not affect the repeal of such section and shall be deemed repealed ther-
- ewith.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02858-01-3
+  LBD02858-02-3
+ A. 1621--A  2
+ 
+ women-owned  business  enterprise  certification  submitted on and after
+ such effective date; provided, however, that the amendments  to  section
+ 314  of  the  executive  law made  by section one of this act shall not
+ affect  the  repeal  of such section and shall be deemed repealed there-
+ with.
