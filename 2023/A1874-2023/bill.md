@@ -1,0 +1,80 @@
+# Establishes the crime of criminal possession of a flamethrower
+
+**Bill ID:** A1874
+**Session:** 2023
+**Sponsor:** Kimberly Jean-Pierre
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes the crime of criminal possession of a flamethrower as a class E felony.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  1874
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by  M. of A. JEAN-PIERRE, SAYEGH, GLICK, SIMON, COOK, WALKER
+  -- Multi-Sponsored by -- M. of A. SEAWRIGHT -- read once and  referred
+  to the Committee on Codes
+ 
+ AN  ACT  to  amend  the penal law, in relation to adding possession of a
+  flamethrower to the crime of criminal possession of a  weapon  in  the
+  fourth degree
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 265.00 of the penal law is amended by  adding  four
+ new subdivisions 36, 37, 38 and 39 to read as follows:
+  36.  "FLAMETHROWER"  MEANS  A DEVICE CAPABLE OF PROJECTING A STREAM OF
+ BURNING FUEL A DISTANCE OF AT LEAST THREE FEET. INOPERABLE DISPLAY UNITS
+ SHALL NOT  BE  CONSIDERED  "FLAMETHROWERS"  FOR  THE  PURPOSES  OF  THIS
+ SECTION.
+  37.  "HISTORICAL  FLAMETHROWER"  MEANS  A FLAMETHROWER CONSTRUCTED, IN
+ WHOLE OR IN SUBSTANTIAL PART, OF COMPONENTS MANUFACTURED PRIOR TO  NINE-
+ TEEN HUNDRED SIXTY-SIX.
+  38.  "SUBSTANTIAL  PART"  MEANS CONSTRUCTED WITH AT LEAST FIVE SIGNIF-
+ ICANT COMPONENTS MANUFACTURED PRIOR TO NINETEEN HUNDRED SIXTY-SIX.
+  39. "SIGNIFICANT COMPONENTS"  MEANS  FULLY  FUNCTIONAL  AND  NECESSARY
+ PARTS FOR THE OPERATION OF A FLAMETHROWER INCLUDING:
+  (A) FUEL CELL;
+  (B) GAS CAPS;
+  (C) PRESSURE REGULATOR;
+  (D) PRESSURE BOTTLE;
+  (E) HOSE;
+  (F) WAND FUEL VALVE;
+  (G) BARREL;
+  (H) FRONT GRIP;
+  (I) IGNITION SHIELD; AND
+  (J) REAR GRIP.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02830-01-3
+ A. 1874  2
+ 
+  §  2.  The penal law is amended by adding a new section 265.41 to read
+ as follows:
+ § 265.41 CRIMINAL POSSESSION OF A FLAMETHROWER.
+  A PERSON IS GUILTY OF CRIMINAL POSSESSION OF A FLAMETHROWER WHEN HE OR
+ SHE  POSSESSES  A  FLAMETHROWER; PROVIDED, HOWEVER, THAT NOTHING IN THIS
+ SECTION SHALL PROHIBIT THE MANUFACTURE,  REMANUFACTURE,  RESTORATION  OR
+ ALTERATION  OF  FLAMETHROWER COMPONENTS. THIS SECTION SHALL NOT APPLY TO
+ HISTORICAL  FLAMETHROWERS,  FLAMETHROWERS  USED  FOR  AGRICULTURAL  OR
+ CONSTRUCTION  PURPOSES  OR  ANY  FLAMETHROWER  LAWFULLY  ACQUIRED  AND
+ POSSESSED PRIOR TO THE EFFECTIVE DATE OF THIS SECTION.
+  CRIMINAL POSSESSION OF A FLAMETHROWER IS A CLASS E FELONY.
+  § 3. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law.
