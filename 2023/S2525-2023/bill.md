@@ -1,0 +1,289 @@
+# Establishes criminal offenses committed against the elderly or disabled persons
+
+**Bill ID:** S2525
+**Session:** 2023
+**Sponsor:** Pamela Helming
+**Status:** In Senate Committee
+
+## Summary
+
+Establishes criminal offenses committed against the elderly or disabled persons.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2525
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by  Sen. HELMING -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Codes
+ 
+ AN ACT to amend the penal law, in relation to establishing  a  mandatory
+  senior  anti-violence services fee imposed upon conviction of a crimi-
+  nal offense and offenses against the elderly and disabled
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The section heading and subdivision 1 of section 60.35 of
+ the penal law, as amended by section 1 of part E of chapter  56  of  the
+ laws  of  2004,  subparagraphs  (i),  (ii) and (iii) of paragraph (a) of
+ subdivision 1 as amended by section 1 of part DD of chapter  56  of  the
+ laws  of  2008  and paragraph (b) of subdivision 1 as amended by chapter
+ 320 of the laws of 2006, are amended to read as follows:
+  Mandatory surcharge, sex offender registration fee, DNA databank  fee,
+ supplemental  sex offender victim fee [and], crime victim assistance AND
+ A SENIOR ANTI-VIOLENCE SERVICES fee required in certain cases.
+  1. (a) Except as provided in section  eighteen  hundred  nine  of  the
+ vehicle  and  traffic law and section 27.12 of the parks, recreation and
+ historic preservation law, whenever  proceedings  in  an  administrative
+ tribunal or a court of this state result in a conviction for a felony, a
+ misdemeanor, or a violation, as these terms are defined in section 10.00
+ of  this  chapter,  there  shall  be  levied  at  sentencing a mandatory
+ surcharge, sex offender registration fee,  DNA  databank  fee  [and],  a
+ crime  victim  assistance fee AND A SENIOR ANTI-VIOLENCE SERVICES FEE in
+ addition to any sentence required or permitted  by  law,  in  accordance
+ with the following schedule:
+  (i)  a person convicted of a felony shall pay a mandatory surcharge of
+ three hundred dollars [and], a crime victim assistance  fee  of  twenty-
+ five dollars, AND A SENIOR ANTI-VIOLENCE SERVICES FEE OF FIFTY DOLLARS;
+  (ii)  a  person  convicted  of  a  misdemeanor  shall  pay a mandatory
+ surcharge of one hundred seventy-five  dollars  [and],  a  crime  victim
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05610-01-3
+ S. 2525  2
+ 
+ assistance  fee  of  twenty-five  dollars,  AND  A  SENIOR ANTI-VIOLENCE
+ SERVICES FEE OF FIFTY DOLLARS;
+  (iii)  a  person  convicted  of  a  violation  shall  pay  a mandatory
+ surcharge of ninety-five dollars [and], a crime victim assistance fee of
+ twenty-five dollars, AND A SENIOR ANTI-VIOLENCE SERVICES  FEE  OF  FIFTY
+ DOLLARS;
+  (iv) a person convicted of a sex offense as defined by subdivision two
+ of section one hundred sixty-eight-a of the correction law or a sexually
+ violent  offense  as defined by subdivision three of section one hundred
+ sixty-eight-a of the correction law shall, in addition  to  a  mandatory
+ surcharge  and crime victim assistance fee, pay a sex offender registra-
+ tion fee of fifty dollars[.], AND A SENIOR ANTI-VIOLENCE SERVICES FEE OF
+ FIFTY DOLLARS;
+  (v) a person convicted of a designated offense as defined by  subdivi-
+ sion  seven  of  section  nine  hundred ninety-five of the executive law
+ shall, in addition to a mandatory surcharge and crime victim  assistance
+ fee, pay a DNA databank fee of fifty dollars, AND A SENIOR ANTI-VIOLENCE
+ SERVICES FEE OF FIFTY DOLLARS.
+  (b)  When  the  felony  or  misdemeanor  conviction in [subparagraphs]
+ SUBPARAGRAPH (i), (ii) or (iv) of  paragraph  (a)  of  this  subdivision
+ results  from an offense contained in article one hundred thirty of this
+ chapter, incest in the third, second  or  first  degree  as  defined  in
+ sections  255.25,  255.26  and  255.27  of  this  chapter  or an offense
+ contained in article two hundred sixty-three of this chapter, the person
+ convicted shall pay a supplemental sex offender victim fee of one  thou-
+ sand  dollars,  AND  A SENIOR ANTI-VIOLENCE SERVICES FEE OF FIVE HUNDRED
+ DOLLARS, in addition to the mandatory surcharge and any other fee.
+  § 2. The penal law is amended by adding a new article 261 to  read  as
+ follows:
+ 
+  ARTICLE 261
+  OFFENSES AGAINST THE ELDERLY AND DISABLED
+ SECTION 261.00 ELDERLY,  VULNERABLE  ELDERLY AND DISABLED PERSONS; DEFI-
+  NITIONS.
+  261.05 CRIMES AGAINST THE ELDERLY AND DISABLED; PRESUMPTION.
+  261.10 ABANDONMENT OF AN ELDERLY OR DISABLED PERSON.
+  261.15 ABANDONMENT OF AN ELDERLY OR DISABLED PERSON; DEFENSE.
+  261.20 ENDANGERING THE WELFARE OF AN ELDERLY OR DISABLED PERSON.
+  261.25 ENDANGERING THE WELFARE OF AN ELDERLY OR DISABLED PERSON;
+  CORROBORATION.
+  261.30 ENDANGERING THE WELFARE OF AN ELDERLY OR DISABLED PERSON;
+  DEFENSE.
+  261.35 ENDANGERING THE WELFARE OF A VULNERABLE ELDERLY PERSON OR
+  A DISABLED PERSON IN THE SECOND DEGREE.
+  261.40 ENDANGERING THE WELFARE OF A VULNERABLE ELDERLY PERSON OR
+  A DISABLED PERSON IN THE FIRST DEGREE.
+ 
+ § 261.00 ELDERLY, VULNERABLE ELDERLY AND DISABLED PERSONS; DEFINITIONS.
+  FOR THE PURPOSE OF  THIS  ARTICLE,  THE  FOLLOWING  DEFINITIONS  SHALL
+ APPLY:
+  1.  "CAREGIVER"  MEANS A PERSON WHO (A) ASSUMES RESPONSIBILITY FOR THE
+ CARE OF A VULNERABLE ELDERLY PERSON PURSUANT TO A COURT  ORDER;  OR  (B)
+ RECEIVES MONETARY OR OTHER VALUABLE CONSIDERATION FOR PROVIDING CARE FOR
+ A VULNERABLE ELDERLY PERSON.
+  2. "SEXUAL CONTACT" MEANS ANY TOUCHING OF THE SEXUAL OR OTHER INTIMATE
+ PARTS OF A PERSON NOT MARRIED TO THE ACTOR FOR THE PURPOSE OF GRATIFYING
+ S. 2525  3
+ 
+ SEXUAL DESIRE OF EITHER PARTY.  IT INCLUDES THE TOUCHING OF THE ACTOR BY
+ THE  VICTIM, AS WELL AS THE TOUCHING OF THE VICTIM BY THE ACTOR, WHETHER
+ DIRECTLY OR THROUGH CLOTHING.
+  3.  "VULNERABLE  ELDERLY  PERSON" MEANS A PERSON SIXTY YEARS OF AGE OR
+ OLDER WHO IS SUFFERING FROM  A  DISEASE  OR  INFIRMITY  ASSOCIATED  WITH
+ ADVANCED  AGE  AND  MANIFESTED  BY  DEMONSTRABLE  PHYSICAL,  MENTAL  OR
+ EMOTIONAL DYSFUNCTION TO THE EXTENT THAT  THE  PERSON  IS  INCAPABLE  OF
+ ADEQUATELY PROVIDING FOR HIS OR HER OWN HEALTH OR PERSONAL CARE.
+  4. "ELDERLY PERSON" MEANS A PERSON SIXTY YEARS OF AGE OR OLDER.
+  5.  "DISABLED  PERSON"  MEANS  A  PERSON  WHO HAS A PHYSICAL OR MENTAL
+ IMPAIRMENT THAT SUBSTANTIALLY LIMITS A MAJOR LIFE ACTIVITY.
+ § 261.05 CRIMES AGAINST THE ELDERLY AND DISABLED; PRESUMPTION.
+  IN ANY CASE IN WHICH IT SHALL BE  SHOWN  THAT  A  PERSON  INTENDED  TO
+ COMMIT  A  SPECIFIED OFFENSE PURSUANT TO SECTION 485.05 OF THIS CHAPTER,
+ IT SHALL BE A REBUTTAL PRESUMPTION THAT THE PERSON SELECTED  THE  VICTIM
+ OR  COMMITTED  OR  INTENDED  TO  COMMIT THE ACT OR ACTS CONSTITUTING THE
+ OFFENSE IN WHOLE OR IN SUBSTANTIAL PART BECAUSE OF A  BELIEF  THAT  SUCH
+ VICTIM IS ELDERLY OR DISABLED.
+ § 261.10 ABANDONMENT OF AN ELDERLY OR DISABLED PERSON.
+  A  PERSON  IS  GUILTY  OF ABANDONMENT OF AN ELDERLY OR DISABLED PERSON
+ WHEN, BEING A PERSON LEGALLY CHARGED WITH THE  CARE  OR  CUSTODY  OF  AN
+ ELDERLY  OR  DISABLED PERSON, HE OR SHE DESERTS SUCH PERSON IN ANY PLACE
+ WITH INTENT TO WHOLLY ABANDON HIM OR HER.
+  ABANDONMENT OF AN ELDERLY OR DISABLED PERSON IS A CLASS E FELONY.
+ § 261.15 ABANDONMENT OF AN ELDERLY OR DISABLED PERSON; DEFENSE.
+  IN ANY PROSECUTION FOR ABANDONMENT OF AN ELDERLY OR  DISABLED  PERSON,
+ PURSUANT  TO  SECTION  261.10  OF  THIS  ARTICLE,  BASED UPON AN ALLEGED
+ DESERTION OF AN ELDERLY OR DISABLED PERSON  WITH  AN  INTENT  TO  WHOLLY
+ ABANDON SUCH AN ELDERLY OR DISABLED PERSON, IT IS AN AFFIRMATIVE DEFENSE
+ THAT,  WITH  THE INTENT THAT THE ELDERLY OR DISABLED PERSON BE SAFE FROM
+ PHYSICAL INJURY AND CARED FOR IN AN APPROPRIATE  MANNER,  THE  DEFENDANT
+ LEFT  THE  ELDERLY OR DISABLED PERSON WITH AN APPROPRIATE PERSON OR IN A
+ SUITABLE LOCATION AND PROMPTLY NOTIFIED AN  APPROPRIATE  PERSON  OF  THE
+ ELDERLY OR DISABLED PERSON'S LOCATION.
+ § 261.20 ENDANGERING THE WELFARE OF AN ELDERLY OR DISABLED PERSON.
+  A  PERSON  IS GUILTY OF ENDANGERING THE WELFARE OF AN ELDERLY OR DISA-
+ BLED PERSON WHEN BEING A PERSON LEGALLY CHARGED WITH THE CARE OR CUSTODY
+ OF AN ELDERLY OR DISABLED PERSON:
+  1. HE OR SHE KNOWINGLY ACTS IN A MANNER LIKELY TO BE INJURIOUS TO  THE
+ PHYSICAL,  MENTAL  OR MORAL WELFARE OF AN ELDERLY OR DISABLED PERSON, OR
+ DIRECTS OR AUTHORIZES SUCH AN ELDERLY OR DISABLED PERSON, TO  ENGAGE  IN
+ AN  OCCUPATION INVOLVING A SUBSTANTIAL RISK OF DANGER TO HIS OR HER LIFE
+ OR HEALTH; OR
+  2. HE OR SHE FAILS OR REFUSES TO EXERCISE REASONABLE DILIGENCE IN  THE
+ CONTROL  OF  SUCH  ELDERLY OR DISABLED PERSON TO PREVENT HIM OR HER FROM
+ PHYSICAL, MENTAL OR MORAL INJURY, OR FROM ENGAGING IN ACTS  INVOLVING  A
+ SUBSTANTIAL RISK OF DANGER TO HIS OR HER LIFE OR HEALTH.
+  ENDANGERING  THE WELFARE OF AN ELDERLY OR DISABLED PERSON IS A CLASS A
+ MISDEMEANOR.
+ § 261.25 ENDANGERING THE WELFARE  OF  AN  ELDERLY  OR  DISABLED  PERSON;
+  CORROBORATION.
+  A  PERSON  SHALL  NOT  BE  CONVICTED  OF ENDANGERING THE WELFARE OF AN
+ ELDERLY OR DISABLED PERSON, OR OF AN ATTEMPT TO COMMIT  THE  SAME,  UPON
+ THE  TESTIMONY OF A VICTIM WHO IS INCAPABLE OF CONSENT BECAUSE OF MENTAL
+ DEFECT OR MENTAL INCAPACITY AS TO CONDUCT THAT CONSTITUTES AN OFFENSE OR
+ AN ATTEMPT TO COMMIT AN OFFENSE REFERRED TO IN SECTION  130.16  OF  THIS
+ S. 2525  4
+ 
+ PART,  WITHOUT ADDITIONAL EVIDENCE SUFFICIENT PURSUANT TO SECTION 130.16
+ OF THIS PART TO SUSTAIN A  CONVICTION  OF  AN  OFFENSE  REFERRED  TO  IN
+ SECTION 130.16 OF THIS PART, OR OF AN ATTEMPT TO COMMIT THE SAME.
+ §  261.30 ENDANGERING  THE  WELFARE  OF  AN  ELDERLY OR DISABLED PERSON;
+  DEFENSE.
+  IN ANY PROSECUTION FOR ENDANGERING THE WELFARE OF AN ELDERLY OR  DISA-
+ BLED PERSON, PURSUANT TO SECTION 261.20 OF THIS ARTICLE:
+  1.  BASED UPON AN ALLEGED FAILURE OR REFUSAL TO PROVIDE PROPER MEDICAL
+ CARE OR TREATMENT TO AN ELDERLY OR DISABLED PERSON, WHO IS ILL, IT IS AN
+ AFFIRMATIVE DEFENSE THAT THE ELDERLY OR DISABLED PERSON IS A  MEMBER  OR
+ ADHERENT  OF  AN ORGANIZED CHURCH OR RELIGIOUS GROUP THE TENETS OF WHICH
+ PRESCRIBE PRAYER AS THE PRINCIPAL TREATMENT FOR ILLNESS,  AND  THAT  THE
+ ELDERLY  OR  DISABLED PERSON WAS TREATED IN ACCORDANCE WITH SUCH TENETS;
+ OR
+  2. BASED UPON AN ALLEGED DESERTION OF AN ELDERLY OR  DISABLED  PERSON,
+ IT  IS  AN  AFFIRMATIVE DEFENSE THAT, WITH THE INTENT THAT THE PERSON BE
+ SAFE FROM PHYSICAL INJURY AND CARED FOR IN AN  APPROPRIATE  MANNER,  THE
+ DEFENDANT  LEFT  THE  PERSON WITH AN APPROPRIATE PERSON OR IN A SUITABLE
+ LOCATION AND PROMPTLY NOTIFIED AN APPROPRIATE  PERSON  OF  THE  PERSON'S
+ LOCATION.
+ §  261.35 ENDANGERING  THE  WELFARE  OF A VULNERABLE ELDERLY PERSON OR A
+  DISABLED PERSON IN THE SECOND DEGREE.
+  A PERSON IS GUILTY OF ENDANGERING THE WELFARE OF A VULNERABLE  ELDERLY
+ PERSON OR A DISABLED PERSON IN THE SECOND DEGREE WHEN, BEING A CAREGIVER
+ FOR A VULNERABLE ELDERLY PERSON OR A DISABLED PERSON:
+  1.  WITH  INTENT  TO  CAUSE  PHYSICAL INJURY TO SUCH PERSON, HE OR SHE
+ CAUSES SUCH INJURY TO SUCH PERSON; OR
+  2. HE OR SHE RECKLESSLY CAUSES PHYSICAL INJURY TO SUCH PERSON; OR
+  3. WITH CRIMINAL NEGLIGENCE, HE OR SHE CAUSES PHYSICAL INJURY TO  SUCH
+ PERSON BY MEANS OF A DEADLY WEAPON OR A DANGEROUS INSTRUMENT; OR
+  4.  HE  OR  SHE  SUBJECTS  SUCH  PERSON  TO SEXUAL CONTACT WITHOUT THE
+ LATTER'S CONSENT. LACK OF CONSENT UNDER THIS  SUBDIVISION  RESULTS  FROM
+ FORCIBLE COMPULSION OR INCAPACITY TO CONSENT, AS THOSE TERMS ARE DEFINED
+ IN  ARTICLE  ONE HUNDRED THIRTY OF THIS PART, OR ANY OTHER CIRCUMSTANCES
+ IN WHICH THE VULNERABLE ELDERLY  PERSON  OR  DISABLED  PERSON  DOES  NOT
+ EXPRESSLY OR IMPLIEDLY ACQUIESCE IN THE CAREGIVER'S CONDUCT.
+  IN  ANY  PROSECUTION  UNDER  THIS  SUBDIVISION  IN  WHICH THE VICTIM'S
+ ALLEGED LACK OF  CONSENT  RESULTS  SOLELY  FROM  INCAPACITY  TO  CONSENT
+ BECAUSE  OF  THE  VICTIM'S  MENTAL  DISABILITY OR MENTAL INCAPACITY, THE
+ PROVISIONS OF SECTION 130.16 OF THIS PART SHALL APPLY. IN  ADDITION,  IN
+ ANY  PROSECUTION  UNDER  THIS  SUBDIVISION IN WHICH THE VICTIM'S LACK OF
+ CONSENT IS BASED SOLELY UPON HIS OR HER INCAPACITY TO CONSENT BECAUSE HE
+ OR SHE WAS MENTALLY DISABLED, MENTALLY INCAPACITATED OR PHYSICALLY HELP-
+ LESS, IT IS AN AFFIRMATIVE DEFENSE THAT THE DEFENDANT, AT THE TIME HE OR
+ SHE ENGAGED IN THE CONDUCT CONSTITUTING THE OFFENSE, DID NOT KNOW OF THE
+ FACTS OR CONDITIONS RESPONSIBLE FOR SUCH INCAPACITY TO CONSENT.
+  ENDANGERING THE WELFARE OF A VULNERABLE ELDERLY PERSON OR  A  DISABLED
+ PERSON IN THE SECOND DEGREE IS A CLASS E FELONY.
+ §  261.40  ENDANGERING  THE  WELFARE OF A VULNERABLE ELDERLY PERSON OR A
+  DISABLED PERSON IN THE FIRST DEGREE.
+  A PERSON IS GUILTY OF ENDANGERING THE WELFARE OF A VULNERABLE  ELDERLY
+ PERSON  OR A DISABLED PERSON IN THE FIRST DEGREE WHEN, BEING A CAREGIVER
+ FOR A VULNERABLE ELDERLY PERSON OR DISABLED PERSON:
+  1. WITH INTENT TO CAUSE PHYSICAL INJURY TO  SUCH  PERSON,  HE  OR  SHE
+ CAUSES SERIOUS PHYSICAL INJURY TO SUCH PERSON; OR
+  2. HE OR SHE RECKLESSLY CAUSES SERIOUS PHYSICAL INJURY TO SUCH PERSON.
+ S. 2525  5
+ 
+  ENDANGERING  THE  WELFARE OF A VULNERABLE ELDERLY PERSON OR A DISABLED
+ PERSON IN THE FIRST DEGREE IS A CLASS D FELONY.
+  §  3.  Subdivision  14 of section 120.05 of the penal law, as added by
+ chapter 268 of the laws of 2016, is amended and a new subdivision 15  is
+ added to read as follows:
+  14. With intent to prevent or obstruct a process server, as defined in
+ section  eighty-nine-t  of  the  general business law, from performing a
+ lawful duty pursuant to article three of  the  civil  practice  law  and
+ rules,  or  intentionally,  as retaliation against such a process server
+ for the performance of the process  server's  duties  pursuant  to  such
+ article, including by means of releasing or failing to control an animal
+ evincing  the  actor's  intent  that  the animal prevent or obstruct the
+ lawful duty of the process server or as retaliation against the  process
+ server, he or she causes physical injury to such process server[.]; OR
+  15. BEING EIGHTEEN YEARS OLD OR MORE AND WITH INTENT TO CAUSE PHYSICAL
+ INJURY  TO  A  PERSON SIXTY YEARS OLD OR OLDER, OR TO A PERSON WHO HAS A
+ PHYSICAL OR MENTAL IMPAIRMENT THAT SUBSTANTIALLY  LIMITS  A  MAJOR  LIFE
+ ACTIVITY, THE DEFENDANT CAUSES SUCH INJURY TO SUCH PERSON.
+  § 4. Section 135.30 of the penal law is amended to read as follows:
+ § 135.30 Kidnapping; defense.
+  In  any  prosecution for kidnapping, it is an affirmative defense that
+ (a) the defendant was a relative of the person abducted, and (b) his  OR
+ HER sole purpose was to assume control of such person.
+  THIS  SECTION  SHALL  NOT  APPLY  IN  THE  CASE WHEN THE PERSON WHO IS
+ ABDUCTED IS SIXTY YEARS OLD OR OLDER, OR TO A PERSON WHO HAS A  PHYSICAL
+ OR  MENTAL  IMPAIRMENT  THAT SUBSTANTIALLY LIMITS A MAJOR LIFE ACTIVITY,
+ AND THE KIDNAPPING WAS DONE WITH THE INTENTION OF COMPELLING SUCH PERSON
+ TO TRANSFER AN ASSET TO THE DEFENDANT OR TO A THIRD PARTY.
+  § 5. Section 135.45 of the penal law is amended by adding a new subdi-
+ vision 3 to read as follows:
+  3. KNOWING THAT HE OR SHE HAS NO LEGAL RIGHT TO DO SO, HE OR SHE TAKES
+ OR ENTICES ANY PERSON SIXTY YEARS OF AGE OR OLDER, OR A PERSON WHO HAS A
+ PHYSICAL OR MENTAL IMPAIRMENT THAT SUBSTANTIALLY  LIMITS  A  MAJOR  LIFE
+ ACTIVITY, FROM THE CUSTODY OF ANOTHER PERSON OR INSTITUTION.
+  § 6. Subdivision (g) of section 140.10 of the penal law, as amended by
+ chapter 176 of the laws of 2011, is amended and a new subdivision (h) is
+ added to read as follows:
+  (g)  where  the property consists of a right-of-way or yard of a rail-
+ road or rapid transit railroad which has been designated  and  conspicu-
+ ously posted as a no-trespass railroad zone[.]; OR
+  (H)  WHICH  IS  A  DWELLING OCCUPIED BY A PERSON SIXTY YEARS OF AGE OR
+ OLDER, OR A PERSON WHO HAS A PHYSICAL OR MENTAL IMPAIRMENT THAT SUBSTAN-
+ TIALLY LIMITS A MAJOR LIFE ACTIVITY.
+  § 7. Severability. If any provision of this  act  or  the  application
+ thereof  to  any  person  or  circumstances  is  held to be invalid, the
+ remainder of the act and the application  of  such  provision  to  other
+ persons or circumstances shall not be affected thereby.
+  § 8. This act shall take effect immediately.
