@@ -1,0 +1,80 @@
+# Prohibits fees for any service rendered through a bank relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof
+
+**Bill ID:** S2601B
+**Session:** 2023
+**Sponsor:** Brad Hoylman-Sigal
+**Status:** Vetoed
+
+## Summary
+
+Prohibits fees for any service rendered through a banking organization relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2601
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+  when printed to be committed to the Committee on Banks
+ 
+ AN ACT to amend the banking law, in relation  to  prohibiting  fees  for
+  benefit banking services
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. The banking law is amended by adding a new section 9-aa  to
+ read as follows:
+  § 9-AA. BENEFIT BANKING SERVICES. 1. AS USED IN THIS SECTION:
+  (A)  "BANK"  MEANS  ANY  CORPORATION  OR  LIMITED LIABILITY INVESTMENT
+ COMPANY SUBJECT TO THE PROVISIONS OF THIS CHAPTER, BANKING  CORPORATIONS
+ ORGANIZED  UNDER  THE  LAWS  OF  THE  UNITED  STATES OR ANY OTHER STATE,
+ PRIVATE BANKERS, BANK-BASED FINANCIAL  SERVICES  COMPANIES  AND  FEDERAL
+ RESERVE BANKS;
+  (B)  "BENEFIT  BANKING  SERVICES" MEANS ANY SERVICE RENDERED THROUGH A
+ BANK RELATING TO THE USE OF AN ELECTRONIC BENEFIT TRANSFER CARD  INCLUD-
+ ING DEPOSIT; DISBURSEMENT VIA ELECTRONIC FUND TRANSFER, CHECKS, OR OTHER
+ MECHANISMS; RECONCILIATION; REPORTING; OR ELECTRONIC CASH MANAGEMENT FOR
+ BENEFIT PROGRAMS; AND
+  (C) "ELECTRONIC BENEFIT TRANSFER CARD" MEANS:
+  (I)  ANY  MEDICAL  ASSISTANCE CARD, FOOD STAMP ASSISTANCE CARD, PUBLIC
+ ASSISTANCE CARD, OR ANY  OTHER  IDENTIFICATION,  AUTHORIZATION  CARD  OR
+ ELECTRONIC  ACCESS  DEVICE  ISSUED  BY  THE  STATE  OR A SOCIAL SERVICES
+ DISTRICT AS DEFINED IN SUBDIVISION SEVEN OF SECTION TWO  OF  THE  SOCIAL
+ SERVICES  LAW  WHICH ENTITLES A PERSON TO OBTAIN PUBLIC ASSISTANCE BENE-
+ FITS UNDER A LOCAL, STATE OR FEDERAL PROGRAM ADMINISTERED BY THE  STATE,
+ ITS POLITICAL SUBDIVISIONS OR SOCIAL SERVICES DISTRICTS; OR
+  (II)  ANY  UNEMPLOYMENT  INSURANCE PROGRAM CARD, OCCUPATIONAL TRAINING
+ ACT PROGRAM CARD, ADOPTION SUBSIDY ELECTRONIC PAYMENTS PROGRAM CARD,  OR
+ CARD  ISSUED  BY  THE  NEW  YORK  CHILD SUPPORT PROGRAM WHICH ENTITLES A
+ PERSON TO RECEIVE FUNDS UNDER A LOCAL, STATE OR FEDERAL PROGRAM ADMINIS-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05406-01-3
+ S. 2601  2
+ 
+ TERED BY THE  STATE,  ITS  POLITICAL  SUBDIVISIONS  OR  SOCIAL  SERVICES
+ DISTRICTS.
+  2. NO BANK SHALL IMPOSE ANY FEE FOR BENEFIT BANKING SERVICES ATTRIBUT-
+ ABLE TO THE USE OF AN ELECTRONIC BENEFIT TRANSFER CARD.
+  3.  NO  OPERATOR  OR OWNER OF AN AUTOMATED TELLER MACHINE SHALL IMPOSE
+ ANY FEE FOR BENEFIT BANKING SERVICES ATTRIBUTABLE TO THE USE OF AN ELEC-
+ TRONIC BENEFIT TRANSFER CARD.
+  § 2. This act shall take effect immediately and  shall  apply  to  any
+ current  and  future contract for benefit banking services as defined in
+ section 9-aa of the banking law, as added by section one  of  this  act,
+ entered into between the state, or any agency, subdivision or department
+ thereof,  and any institution subject to the New York state banking law,
+ notwithstanding the terms of such current contracts.
