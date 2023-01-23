@@ -1,0 +1,175 @@
+# Establishes an urban deer management pilot program
+
+**Bill ID:** S2630
+**Session:** 2023
+**Sponsor:** Rachel May
+**Status:** Senate Floor Calendar
+
+## Summary
+
+Relates to establishing an urban deer management pilot program; authorizes the department of environmental conservation, after a review of the site-specific deer management plan, and upon a finding that deer have become a nuisance, destructive to public or private property or a threat to public health or welfare, to issue a certified nuisance wildlife specialist a deer cull permit; defines terms.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2630
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by  Sen.  MAY  --  read  twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN ACT to amend the environmental conservation law, in  relation  to  an
+  urban  deer  management pilot program; and providing for the repeal of
+  such provisions upon expiration thereof
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The environmental conservation law is amended by adding a
+ new section 11-0522 to read as follows:
+ § 11-0522. URBAN DEER MANAGEMENT PILOT PROGRAM.
+  1. FOR THE PURPOSES OF  THIS  SECTION,  "CERTIFIED  NUISANCE  WILDLIFE
+ SPECIALIST" SHALL MEAN AN EMPLOYEE OF OR A CONTRACTOR FOR THE FEDERAL OR
+ STATE GOVERNMENT RESPONSIBLE FOR WILDLIFE MANAGEMENT AND ACTING PURSUANT
+ TO  A  DEER MANAGEMENT PLAN, WHO HAS BEEN CERTIFIED BY THE DEPARTMENT AS
+ COMPLYING WITH THE CRITERIA ESTABLISHED BY  THE  DEPARTMENT  THAT  AT  A
+ MINIMUM REQUIRE:
+  A.  A  MINIMUM  LEVEL OF MARKSMANSHIP CERTIFICATION APPROPRIATE TO THE
+ FIREARM OR HUNTING IMPLEMENT  TO  BE  USED,  INCLUDING  ONGOING  CERTIF-
+ ICATION;
+  B. LIABILITY INSURANCE COVERAGE LEVELS OR OTHER FINANCIAL ARRANGEMENTS
+ APPROVED BY THE DEPARTMENT; AND
+  C. REPORTING REQUIREMENTS.
+  2.  THE  DEPARTMENT  MAY, AFTER REVIEWING THE CITY OF SYRACUSE'S SITE-
+ SPECIFIC DEER MANAGEMENT PLAN, AND UPON A FINDING BY THE CITY  OF  SYRA-
+ CUSE  THAT DEER HAVE BECOME A NUISANCE, DESTRUCTIVE TO PUBLIC OR PRIVATE
+ PROPERTY OR A THREAT TO PUBLIC HEALTH  OR  WELFARE,  ISSUE  A  CERTIFIED
+ NUISANCE WILDLIFE SPECIALIST A DEER CULL PERMIT FOR USE WITHIN THE BOUN-
+ DARIES OF THE CITY SYRACUSE.
+  3.  EACH  CULL  PERMIT APPLICATION SHALL AT A MINIMUM INCLUDE REQUIRE-
+ MENTS FOR: THE TIMEFRAME DURING WHICH THE PERMIT MUST BE USED,  A  SITE-
+ SPECIFIC  DEER MANAGEMENT PLAN, A GEOGRAPHIC DESCRIPTION OF THE AREA FOR
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00592-01-3
+ S. 2630  2
+ 
+ WHICH THE PERMIT IS BEING REQUESTED, A WRITTEN CONTRACT WITH THE CITY OF
+ SYRACUSE, REQUESTS FOR ANY AUTHORIZATION PURSUANT TO SUBDIVISIONS  THREE
+ AND  NINE  OF  SECTION 11-0505 OF THIS TITLE, SUBDIVISION TWO OF SECTION
+ 11-0901  OF  THIS  ARTICLE,  AND  SUBDIVISIONS  TWO  AND FOUR OF SECTION
+ 11-0931 OF THIS ARTICLE, PROVIDED THAT  ANY  SUCH  AUTHORIZATION  SUBSE-
+ QUENTLY  GRANTED  SHALL  BE  EXPLICITLY INCLUDED ON ANY CULL PERMIT, AND
+ DETAILS REGARDING EXPECTED LOCAL LAW ENFORCEMENT PARTICIPATION.
+  4. NOTHING IN THIS SECTION SHALL BE CONSTRUED AS REQUIRING OR OBLIGAT-
+ ING THE DEPARTMENT TO ISSUE A PERMIT TO TAKE DEER WHEN  IN  ITS  OPINION
+ THE  NUISANCE,  DESTRUCTION  OF  PROPERTY OR THREAT TO PUBLIC HEALTH AND
+ WELFARE WILL NOT BE EFFECTIVELY ABATED THEREBY.
+  § 2. Subdivision 3 of section 11-0505 of the  environmental  conserva-
+ tion  law, as amended by chapter 135 of the laws of 1982, is amended and
+ a new subdivision 9 is added to read as follows:
+  3. No deer or bear traps shall be made, set or used upon land inhabit-
+ ed by deer or bear. No salt lick shall be made, set or  used  upon  land
+ inhabited by deer or bear, except that:
+  A.  the  department  may  do so on state wildlife refuges and wildlife
+ management areas; AND
+  B. A CERTIFIED NUISANCE  WILDLIFE  SPECIALIST  WITH  A  PERMIT  ISSUED
+ PURSUANT  TO  SECTION 11-0522 OF THIS TITLE MAY DO SO PROVIDED THAT SUCH
+ ACTIVITIES ARE IN FURTHERANCE OF THE SITE-SPECIFIC DEER MANAGEMENT PLAN.
+  9. A CERTIFIED NUISANCE  WILDLIFE  SPECIALIST  WITH  A  PERMIT  ISSUED
+ PURSUANT  TO  SECTION  11-0522 OF THIS TITLE MAY, IN ACCORDANCE WITH THE
+ PARAMETERS OF SUCH PERMIT AND THE PARTICIPATION OF  LOCAL  LAW  ENFORCE-
+ MENT,  ENTICE DEER IN THE MANNER PROHIBITED IN SUBDIVISION EIGHT OF THIS
+ SECTION PROVIDED THAT SUCH ACTIVITIES ARE IN FURTHERANCE  OF  THE  SITE-
+ SPECIFIC DEER MANAGEMENT PLAN.
+  §  3.  Subdivision 2 of section 11-0901 of the environmental conserva-
+ tion law is amended to read as follows:
+  2. Wildlife shall not be taken on or from any public highway, except:
+  A. that in the forest preserve counties it may be taken from  highways
+ other than state, county or town highways; AND
+  B.  BY  A  CERTIFIED NUISANCE WILDLIFE SPECIALIST WITH A PERMIT ISSUED
+ PURSUANT TO SECTION 11-0522 OF THIS ARTICLE PROVIDED  THAT  SUCH  ACTIV-
+ ITIES ARE IN FURTHERANCE OF THE SITE-SPECIFIC DEER MANAGEMENT PLAN.
+  §  4. Subdivision 2 and subparagraph 1 of paragraph b of subdivision 4
+ of section 11-0931 of the environmental conservation law, as amended  by
+ section  8  of part EE of chapter 55 of the laws of 2014, are amended to
+ read as follows:
+  2. A. No crossbow or firearm except a  pistol  or  revolver  shall  be
+ carried or possessed in or on a motor vehicle unless it is uncocked, for
+ a  crossbow or unloaded, for a firearm in both the chamber and the maga-
+ zine, except that a loaded firearm which may be legally used for  taking
+ migratory  game  birds  may be carried or possessed in a motorboat while
+ being legally used in hunting migratory game birds,  and  B.  no  person
+ except  a  law  enforcement  officer  in the performance of his official
+ duties OR A CERTIFIED NUISANCE WILDLIFE SPECIALIST WITH A PERMIT  ISSUED
+ PURSUANT  TO  SECTION 11-0522 OF THIS ARTICLE, PROVIDED THAT SUCH ACTIV-
+ ITIES ARE IN FURTHERANCE OF  THE  SITE-SPECIFIC  DEER  MANAGEMENT  PLAN,
+ shall,  while  in  or  on a motor vehicle, use a jacklight, spotlight or
+ other artificial light upon lands inhabited by deer if he or she  is  in
+ possession  or  is  accompanied by a person who is in possession, at the
+ time of such use, of a longbow, crossbow or a firearm of any kind except
+ a pistol or revolver, unless such longbow or  crossbow  is  unstrung  or
+ such firearm or crossbow is taken down or securely fastened in a case or
+ S. 2630  3
+ 
+ locked  in  the  trunk of the vehicle. For purposes of this subdivision,
+ motor vehicle shall mean every vehicle or other device operated  by  any
+ power other than muscle power, and which shall include but not be limit-
+ ed  to  automobiles,  trucks, motorcycles, tractors, trailers and motor-
+ boats, snowmobiles and snowtravelers, whether operated on or off  public
+ highways.  Notwithstanding  the  provisions  of  this  subdivision,  the
+ department may issue a permit  to  any  person  who  is  non-ambulatory,
+ except  with the use of a mechanized aid, to possess a loaded firearm in
+ or on a motor vehicle as  defined  in  this  section,  subject  to  such
+ restrictions  as  the  department  may deem necessary in the interest of
+ public safety. Nothing in this  section  permits  the  possession  of  a
+ pistol or a revolver contrary to the penal law.
+  (1) The owner or lessee of the dwelling house, or members of his imme-
+ diate  family  actually  residing therein, or a person in his employ, or
+ the guest of the owner or lessee of the dwelling house acting  with  the
+ consent  of  said owner or lessee, provided however, that nothing herein
+ shall be deemed to authorize such persons to discharge a firearm  within
+ five hundred feet, a long bow within one hundred fifty feet, or a cross-
+ bow within two hundred fifty feet of any other dwelling house, or a farm
+ building or farm structure actually occupied or used, or a school build-
+ ing  or  playground,  public  structure,  or occupied factory or church;
+ PROVIDED FURTHER, THAT A WILDLIFE SPECIALIST WITH A PERMIT ISSUED PURSU-
+ ANT TO SECTION 11-0522 OF THIS ARTICLE ACTING IN FURTHERANCE OF THE SITE
+ SPECIFIC DEER MANAGEMENT  PLAN  MAY  DISCHARGE  A  FIREARM  WITHIN  FIVE
+ HUNDRED FEET OF ANY DWELLING HOUSES, STRUCTURES, SCHOOLS OR PLAYGROUNDS,
+ PROVIDED THAT THE OWNERS OR LESSEES THEREOF HAVE BEEN NOTIFIED BY CERTI-
+ FIED MAIL OF THE DATE AND TIME OF THE EXPECTED ACTIVITY, AND DISCHARGE A
+ FIREARM  WITHIN  TWO  HUNDRED FIFTY FEET OF SUCH DWELLING HOUSES, STRUC-
+ TURES, SCHOOLS OR PLAYGROUNDS PROVIDED THAT ALL THE  OWNERS  OR  LESSEES
+ THEREOF HAVE PROVIDED WRITTEN CONSENT;
+  § 5. The department of environmental conservation, following consulta-
+ tion  with  the  city  of  Syracuse shall prepare a report examining the
+ effectiveness of the urban deer  management  pilot  program  established
+ pursuant  to  section  11-0522  of the environmental conservation law in
+ addressing deer  overpopulation  and  the  effectiveness  in  addressing
+ destruction  to  public  or  private property in the city of Syracuse as
+ well as the impacts on surrounding communities. The report shall include
+ estimates regarding the size of the deer population in the city of Syra-
+ cuse prior to the issuance of deer  cull  permits  pursuant  to  section
+ 11-0522  of  the  environmental  conservation  law,  the  number of cull
+ permits issued, and the number of deer  taken.  The  report  shall  also
+ include  recommendations  for program improvements, including the poten-
+ tial effectiveness of authorizing future programs.  The report shall  be
+ delivered to the governor, the speaker of the assembly and the temporary
+ president of the senate, as well as published on the department's public
+ website,  no  later  than thirty months after the effective date of this
+ act.
+  § 6. This act shall take effect on the first of January next  succeed-
+ ing the date on which it shall have become a law and shall expire and be
+ deemed repealed three years after such date.
