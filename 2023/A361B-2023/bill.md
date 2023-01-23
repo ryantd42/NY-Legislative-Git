@@ -1,6 +1,6 @@
 # Enacts the reproductive freedom and equity grant program
 
-**Bill ID:** A361B
+**Bill ID:** A361BA
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the reproductive freedom and equity program to ensure access to abor
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  361
+  361--A
  
   2023-2024 Regular Sessions
  
@@ -31,7 +31,10 @@ S T A T E  O F  N E W  Y O R K
   GLICK,  HEVESI,  JACOBSON, JEAN-PIERRE, KELLES, KIM, LAVINE, LUNSFORD,
   MAMDANI, MITAYNES, OTIS, PAULIN, RAJKUMAR,  REYES,  RIVERA,  L. ROSEN-
   THAL, ROZIC, SEAWRIGHT, SEPTIMO, SIMON, TAPIA, THIELE, WALKER, WEPRIN,
-  ZINERMAN -- read once and referred to the Committee on Health
+  ZINERMAN,  BORES,  ARDILA, SIMONE, SHIMSKY, RAGA, SHRESTHA, SOLAGES --
+  read once and  referred  to  the  Committee  on  Health  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN  ACT  to  amend  the  public  health law, in relation to enacting the
   reproductive freedom and equity program
@@ -40,36 +43,34 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1.  Short  title. This act shall be known and may be cited as
- the "reproductive freedom and equity program".
+ the "reproductive freedom and equity grant program".
   § 2. Legislative findings. The legislature finds:
   1. Abortion is essential health  care  and  integral  to  the  overall
  health and wellbeing of individuals.
   2.  In  1970,  New  York  legalized abortion, three years prior to the
  Supreme Court decision in Roe v. Wade, which enumerated a constitutional
  right to abortion care.
-  3. On January 22, 2019, the 36th  anniversary  of  the  Supreme  Court
- Decision Roe v. Wade, New York modernized our state law to be consistent
+  3. On January 22, 2019, the 46th  anniversary  of  the  Supreme  Court
+ decision Roe v. Wade, New York modernized our state law to be consistent
  with  the holdings of Roe v. Wade, articulating in that every individual
  has a fundamental right to abortion.
-  4. Despite a constitutional and state right to abortion care, barriers
- exist that challenge an individual's ability to exercise their right  to
- care.
+  4. Despite a state right to abortion care, barriers exist  that  chal-
+ lenge an individual's ability to exercise their right to care.
   5. Individuals seeking abortion care can often experience obstacles to
  obtaining  an  abortion, whether that is an inability to afford the cost
- of care, the distance one must travel, the costs associated with  travel
- including transportation needs, childcare, lodging, lost wages and more.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02278-01-3
- A. 361  2
+  LBD02278-04-3
+ A. 361--A  2
  
+ of care, the distance one must travel, the costs associated with  travel
+ including transportation needs, childcare, lodging, lost wages and more.
   6.  Barriers  to  care  are  often  intensified  for immigrants, young
  people, people with disabilities and those living in rural areas.
-  7. If the United States Supreme Court overturns Roe v. Wade, access to
- care  across the country will dramatically shift with people in at least
- 26 states - 36,000,000 women and individuals with the capacity to become
- pregnant - losing access to care.
+  7. The United States Supreme Court overturned Roe v. Wade on June  24,
+ 2022,  significantly  impacting  access  to  care across the country for
+ millions.
   8. It is estimated that in the wake of state bans on  abortion  across
  the  country, New York would be the nearest provider of care for 190,000
  to 280,000 more women of reproductive age.
@@ -78,10 +79,10 @@ S T A T E  O F  N E W  Y O R K
  practical support  needs.  These  entities  assist  individuals  seeking
  abortion care including those living in New York, those traveling to New
  York and those who must travel outside of New York for care.
-  10. With no direct state investment, safety-net abortion providers and
- abortion  funds  predominately  rely  on philanthropic giving to address
- unmet needs of abortion patients,  challenging  their  ability  to  meet
- present need, or any future increase demand for care.
+  10. With no direct and sustained state investment, safety-net abortion
+ providers  and abortion funds predominately rely on philanthropic giving
+ to address unmet needs of abortion patients, challenging  their  ability
+ to meet present need, or any future increase demand for care.
   11.  New York has a proud legacy of protecting and expanding access to
  comprehensive reproductive and sexual health  care  services,  including
  abortion.
@@ -90,44 +91,48 @@ S T A T E  O F  N E W  Y O R K
  reproductive freedom.
   § 3. Article 25-A of the public health law is amended by adding a  new
  section 2599-bb-1 to read as follows:
-  §  2599-BB-1.  REPRODUCTIVE  FREEDOM AND EQUITY PROGRAM. 1. AS USED IN
- THIS SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
-  (A) "ABORTION" SHALL MEAN THE TERMINATION  OF  PREGNANCY  PURSUANT  TO
+  § 2599-BB-1. REPRODUCTIVE FREEDOM AND EQUITY GRANT PROGRAM. 1. AS USED
+ IN THIS SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
+  (A)  "ABORTION"  SHALL  MEAN  THE TERMINATION OF PREGNANCY PURSUANT TO
  SECTION TWENTY-FIVE HUNDRED NINETY-NINE-BB OF THIS ARTICLE.
-  (B)  "MEDICAL  SERVICES"  SHALL  MEAN THE RANGE OF CARE RELATED TO THE
+  (B) "MEDICAL SERVICES" SHALL MEAN THE RANGE OF  CARE  RELATED  TO  THE
  PROVISION OF ABORTION.
-  (C) "PRACTICAL SUPPORT" SHALL  MEAN  DIRECT  ASSISTANCE  TO  ENABLE  A
- PERSON  TO OBTAIN ABORTION CARE, INCLUDING BUT NOT LIMITED TO GROUND AND
- AIR TRANSPORTATION, GAS MONEY, LODGING,  MEALS,  CHILDCARE,  TRANSLATION
+  (C)  "PRACTICAL  SUPPORT"  SHALL  MEAN  DIRECT  ASSISTANCE TO ENABLE A
+ PERSON TO OBTAIN ABORTION CARE, INCLUDING BUT NOT LIMITED TO GROUND  AND
+ AIR  TRANSPORTATION,  GAS  MONEY, LODGING, MEALS, CHILDCARE, TRANSLATION
  SERVICES, AND DOULA SUPPORT.
-  (D) "PROGRAM" SHALL MEAN THE REPRODUCTIVE FREEDOM AND EQUITY PROGRAM.
+  (D) "PROGRAM" SHALL MEAN THE REPRODUCTIVE  FREEDOM  AND  EQUITY  GRANT
+ PROGRAM.
   2.  THERE IS HEREBY ESTABLISHED IN THE DEPARTMENT A REPRODUCTIVE FREE-
- DOM AND EQUITY PROGRAM TO ENSURE ACCESS TO ABORTION CARE IN  THE  STATE.
- SUCH  PROGRAM SHALL PROVIDE FUNDING TO ABORTION PROVIDERS AND NON-PROFIT
- ORGANIZATIONS WHOSE PRIMARY FUNCTION IS TO FACILITATE ACCESS TO ABORTION
- CARE. THE PROGRAM IS DESIGNED TO PROVIDE SUPPORT TO  ABORTION  PROVIDERS
- TO  INCREASE ACCESS TO CARE, FUND UNCOMPENSATED CARE, AND TO ADDRESS THE
- SUPPORT NEEDS OF INDIVIDUALS ACCESSING ABORTION CARE.
-  3. THE COMMISSIONER IS AUTHORIZED TO DISTRIBUTE FUNDS  MADE  AVAILABLE
- FOR  EXPENDITURE  PURSUANT  TO  THIS SECTION. IN DETERMINING FUNDING FOR
- APPLICANTS UNDER  THE  PROGRAM,  THE  COMMISSIONER  SHALL  CONSIDER  THE
+ DOM AND EQUITY GRANT PROGRAM TO ENSURE ACCESS TO ABORTION  CARE  IN  THE
+ STATE. SUCH PROGRAM SHALL PROVIDE FUNDING TO ABORTION PROVIDERS, GOVERN-
+ MENT  ENTITIES AND NON-PROFIT ORGANIZATIONS WHOSE PRIMARY FUNCTION IS TO
+ FACILITATE ACCESS TO ABORTION CARE. THE PROGRAM IS DESIGNED  TO  PROVIDE
+ SUPPORT TO ABORTION PROVIDERS TO INCREASE ACCESS TO CARE, FUND UNCOMPEN-
+ SATED  CARE,  AND  TO ADDRESS THE SUPPORT NEEDS OF INDIVIDUALS ACCESSING
+ ABORTION CARE.  THE GOVERNOR SHALL INCLUDE AN APPROPRIATION IN THE EXEC-
+ UTIVE BUDGET OR IDENTIFY  FUNDING  THAT  CAN  BE  USED  TO  SUPPORT  THE
+ PROGRAM.
+  3.  THE  COMMISSIONER IS AUTHORIZED TO DISTRIBUTE FUNDS MADE AVAILABLE
+ FOR EXPENDITURE PURSUANT TO THIS SECTION.  IN  DETERMINING  FUNDING  FOR
+ APPLICANTS  UNDER THE GRANT PROGRAM, THE COMMISSIONER SHALL CONSIDER THE
  FOLLOWING CRITERIA AND GOALS:
-  (A)  INCREASE  ACCESS  TO  CARE  BY  GROWING  THE CAPACITY OF ABORTION
- PROVIDERS TO MEET PRESENT AND FUTURE CARE NEEDS. FUNDS SHALL BE  AWARDED
- TO  SUPPORT  THE RECRUITMENT AND RETENTION OF STAFF, PATIENT NAVIGATORS,
- STAFF TRAINING, THE ESTABLISHMENT  OF  NEW  OR  RENOVATION  OF  EXISTING
- HEALTH  CENTERS,  INVESTMENTS IN TECHNOLOGY TO FACILITATE CARE, SECURITY
- ENHANCEMENTS, AND OTHER OPERATIONAL NEEDS THAT REFLECT THE INTENTION  OF
- INCREASING ACCESS TO ABORTION CARE.
- A. 361  3
+  (A) INCREASE ACCESS TO  CARE  BY  GROWING  THE  CAPACITY  OF  ABORTION
+ PROVIDERS  TO MEET PRESENT AND FUTURE CARE NEEDS. FUNDS SHALL BE AWARDED
+ TO SUPPORT THE RECRUITMENT AND RETENTION OF STAFF,  PATIENT  NAVIGATORS,
+ A. 361--A  3
  
+ STAFF  TRAINING,  THE  ESTABLISHMENT  OF  NEW  OR RENOVATION OF EXISTING
+ HEALTH CENTERS, INVESTMENTS IN TECHNOLOGY TO FACILITATE  CARE,  SECURITY
+ ENHANCEMENTS,  AND OTHER OPERATIONAL NEEDS THAT REFLECT THE INTENTION OF
+ INCREASING ACCESS TO ABORTION CARE.
   (B) FUND UNCOMPENSATED CARE, TO ENSURE THE AFFORDABILITY OF AND ACCESS
  TO  CARE  FOR  ANYONE  WHO  SEEKS CARE IN THE STATE, REGARDLESS OF THEIR
- ABILITY TO PAY FOR CARE. FUNDS SHALL BE AWARDED  TO  ABORTION  PROVIDERS
- AND  NON-PROFIT  ENTITIES  TO SUPPORT UNCOMPENSATED COSTS OF THE MEDICAL
- SERVICES  ASSOCIATED  WITH ABORTION CARE FOR INDIVIDUALS WHO LACK INSUR-
- ANCE COVERAGE, ARE UNDERINSURED, OR WHOSE INSURANCE IS  DEEMED  UNUSABLE
- BY THE RENDERING PROVIDER.
+ ABILITY TO PAY FOR CARE. FUNDS SHALL BE AWARDED TO  ABORTION  PROVIDERS,
+ GOVERNMENT  ENTITIES  AND  NON-PROFIT  ENTITIES TO SUPPORT UNCOMPENSATED
+ COSTS OF THE MEDICAL SERVICES ASSOCIATED WITH ABORTION CARE FOR INDIVID-
+ UALS WHO LACK INSURANCE COVERAGE, ARE UNDERINSURED, OR  WHOSE  INSURANCE
+ IS DEEMED UNUSABLE BY THE RENDERING PROVIDER.
   (C)  ADDRESS PRACTICAL SUPPORT NEEDS OF INDIVIDUALS ACCESSING ABORTION
  CARE. FUNDS SHALL BE AWARDED TO NON-PROFIT ENTITIES PROVIDING  PRACTICAL
  SUPPORT TO INDIVIDUALS WITHIN AND TRAVELING TO THE STATE.
@@ -148,22 +153,15 @@ S T A T E  O F  N E W  Y O R K
   6.  ANY  NON-PROFIT  ORGANIZATION OR PROVIDER RECEIVING FUNDS FROM THE
  PROGRAM SHALL TAKE ALL NECESSARY STEPS TO ENSURE THE CONFIDENTIALITY  OF
  THE INDIVIDUALS RECEIVING SERVICES PURSUANT TO STATE AND FEDERAL LAWS.
-  §  4.  Funding  used to support the program shall be pursuant to funds
- appropriated by the legislature and pursuant to subsequent  chapters  of
- law.  Such funding shall also be used to support the cost of administer-
- ing the program and for any other purpose authorized by  this  act.  The
- level of expenditure by the department for the administrative support of
- the  program created pursuant to this act shall be subject to review and
- approval annually through the state budget process.
-  § 5. Severability clause. If any provision of this act, or any  appli-
- cation  of  any  provision  of  this  act,  is held to be invalid, or to
- violate or be inconsistent with any  federal  law  or  regulation,  that
- shall not affect the validity or effectiveness of any other provision of
- this  act,  or  of  any  other application of any provision of this act,
- which can be given effect without that provision or application; and  to
- that end, the provisions and applications of this act are severable.
-  §  6.  This  act  shall take effect on the sixtieth day after it shall
- have become a law. Effective immediately, the addition, amendment and/or
- repeal of any rule or regulation necessary  for  the  implementation  of
- this  act  on its effective date are authorized to be made and completed
- on or before such effective date.
+  §  4. Severability clause. If any clause, sentence, paragraph, section
+ or part of this act shall be adjudged by any court of  competent  juris-
+ diction  to  be  invalid  and  after  exhaustion of all further judicial
+ review, the judgment shall not affect, impair, or invalidate the remain-
+ der thereof, but shall be confined  in  its  operation  to  the  clause,
+ sentence,  paragraph,  section  or part of this act directly involved in
+ the controversy in which the judgment shall have been rendered.
+  § 5. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law. Effective immediately, the addition,  amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation  of  this act on its effective date are authorized to be made and
+ completed on or before such effective date.
