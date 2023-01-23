@@ -1,0 +1,95 @@
+# Relates to imposing a nursing home purchase moratorium on those who own or have owned failing facilities
+
+**Bill ID:** A2064
+**Session:** 2023
+**Sponsor:** Stephen Hawley
+**Status:** In Assembly Committee
+
+## Summary
+
+Imposes a nursing home purchase moratorium on those who own or have owned failing facilities for twenty-four months since their last violation.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2064
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 23, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. HAWLEY, NORRIS, ANGELINO, GALLAHAN, LEMONDES,
+  MANKTELOW -- read once and referred to the Committee on Health
+ 
+ AN ACT to amend the public health law, in relation to imposing a nursing
+  home purchase moratorium on those who own or have owned failing facil-
+  ities
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. The legislature recognizes the importance of holding nurs-
+ ing homes accountable in order to ensure a high quality  of  care.  This
+ body  acknowledges  department  of  health  inspections as the method of
+ holding nursing homes to our state's  standards.  The  legislature  also
+ recognizes  that  nursing  home  operators  who  receive poor inspection
+ grades are not meeting our state's standards.
+  The legislature intends  to  bar  failing  nursing  home  owners  from
+ acquiring  additional nursing homes in this state until they have demon-
+ strated an ability to keep their existing facilities up to standard.
+  § 2. The public health law is amended by adding a new  section  2808-f
+ to read as follows:
+  §  2808-F. NURSING HOME PURCHASING MORATORIUM. 1.  FOR THE PURPOSES OF
+ THIS  SECTION,  THE  TERM  "OWNED  FACILITY"  SHALL  MEAN  ANY  FACILITY
+ DISCLOSED UNDER SUBDIVISIONS TWO AND THREE OF THIS SECTION.
+  2. ANY INDIVIDUAL ATTEMPTING TO PURCHASE A NURSING HOME SHALL DISCLOSE
+ TO  THE  DEPARTMENT WHICH EXISTING MEDICAL FACILITIES THAT INDIVIDUAL OR
+ THAT INDIVIDUAL'S SPOUSE OWNS WITHIN THE STATE. ADDITIONALLY, SUCH INDI-
+ VIDUAL SHALL DISCLOSE WHETHER ANY PARTNERSHIP, CORPORATION, FIRM, SOCIE-
+ TY, OR OTHER ENTITY OF WHICH THAT INDIVIDUAL OR THAT INDIVIDUAL'S SPOUSE
+ OWNS MORE THAN TEN PERCENT OF OR BY WHICH THE INDIVIDUAL OR  THAT  INDI-
+ VIDUAL'S  SPOUSE  IS  EMPLOYED  OWNS  EXISTING MEDICAL FACILITIES IN THE
+ STATE.
+  3. ANY  PARTNERSHIP,  CORPORATION,  FIRM,  SOCIETY,  OR  OTHER  ENTITY
+ ATTEMPTING  TO  PURCHASE A NURSING HOME SHALL DISCLOSE TO THE DEPARTMENT
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00405-01-3
+ A. 2064  2
+ 
+ ANY OWNERSHIP OF EXISTING  MEDICAL  FACILITIES  IN  THE  STATE.  ADDI-
+ TIONALLY,  SUCH PARTNERSHIP, CORPORATION, FIRM, SOCIETY, OR OTHER ENTITY
+ SHALL DISCLOSE TO THE DEPARTMENT WHICH MEDICAL FACILITIES ARE  OWNED  BY
+ ALL  INDIVIDUALS OR SPOUSES OF INDIVIDUALS WHO OWN MORE THAN TEN PERCENT
+ OF SUCH ENTITY.
+  4. THE DEPARTMENT SHALL REVIEW STANDARD  HEALTH  INSPECTION  AND  LIFE
+ SAFETY HEALTH INSPECTION RECORDS FOR ALL OF AN APPLICANT'S OWNED FACILI-
+ TIES.
+  5.  IN  THE  EVENT THAT ONE OR MORE OF AN APPLICANT'S OWNED FACILITIES
+ HAS BEEN CITED FOR NONCOMPLIANCE IN A STANDARD HEALTH INSPECTION OR LIFE
+ SAFETY HEALTH INSPECTION, THAT  APPLICANT  SHALL  NOT  BE  PERMITTED  TO
+ PURCHASE  A  NURSING  HOME  WITHIN THE STATE UNTIL THE OWNED FACILITY OR
+ FACILITIES IN VIOLATION HAVE BEEN PROVEN TO BE IN COMPLIANCE  FOR  TWEN-
+ TY-FOUR CONSECUTIVE MONTHS.
+  6.  IN  THE EVENT THAT ONE OR MORE OWNED FACILITIES HAS BEEN CITED FOR
+ NONCOMPLIANCE IN A STANDARD HEALTH  INSPECTION  OR  LIFE  SAFETY  HEALTH
+ INSPECTION  AND  THE  OWNING INDIVIDUAL, PARTNERSHIP, CORPORATION, FIRM,
+ SOCIETY, OR OTHER ENTITY SELLS THE CITED OWNED FACILITY OR  RELINQUISHES
+ ITS  OWNERSHIP STAKE IN THE CITED OWNED FACILITY, THAT INDIVIDUAL, PART-
+ NERSHIP, CORPORATION, FIRM,  SOCIETY,  OR  OTHER  ENTITY  SHALL  NOT  BE
+ PERMITTED  TO PURCHASE A NURSING HOME WITHIN THE STATE UNTIL TWENTY-FOUR
+ MONTHS HAVE ELAPSED SINCE THE CHANGE IN OWNERSHIP STATUS AND  THE  INDI-
+ VIDUAL  OR  FIRM  PAYS  TO  THE DEPARTMENT A COMPLIANCE FEE EQUAL TO THE
+ AMOUNT OF FINES IMPOSED AT THE TIME OF CITATION.
+  7. ALL MONIES COLLECTED BY THE DEPARTMENT UNDER THE PROVISIONS OF THIS
+ LAW SHALL BE MADE AVAILABLE FOR USE BY THE DEPARTMENT FOR  THE  PURPOSES
+ OF EXECUTING THIS LAW.
+  § 3. This act shall take effect immediately.
