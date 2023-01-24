@@ -1,0 +1,66 @@
+# Relates to expanding the authority to issue group annuity contracts
+
+**Bill ID:** S2793
+**Session:** 2023
+**Sponsor:** Neil D. Breslin
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to expanding the authority to issue group annuity contracts.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2793
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 24, 2023
+  ___________
+ 
+ Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Insurance
+ 
+ AN ACT to amend the insurance law,  in  relation  to  permissible  group
+  annuity contracts
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Subsection (b) of section 4238  of  the  insurance  law  is
+ amended by adding a new paragraph 12 to read as follows:
+  (12) A CONTRACT ISSUED TO AN INSURER ON BEHALF OF SUCH INSURER'S SEPA-
+ RATE ACCOUNT, ESTABLISHED:
+  (A) TO HOLD THE ASSETS RELATING TO, AND TO FUND OBLIGATIONS UNDER LIFE
+ INSURANCE POLICIES ISSUED BY, SUCH INSURER TO BANKS OR CORPORATIONS; OR
+  (B) FOR THE BENEFITS OF:
+  (I)  ANY  EMPLOYEE  PENSION OR WELFARE BENEFIT PLAN THAT IS COVERED BY
+ THE EMPLOYEE RETIREMENT AND INCOME SECURITY ACT (ERISA); OR
+  (II) A PLAN  DESCRIBED  IN  INTERNAL  REVENUE  CODE  SECTIONS  401(A),
+ 401(K), 403(B), 408(K) OR 408(P); OR
+  (III)  A  GOVERNMENT  OR  CHURCH  PLAN  DEFINED  IN 26 U.S.C. § 414, A
+ GOVERNMENT OR CHURCH WELFARE BENEFIT PLAN, OR  A  DEFERRED  COMPENSATION
+ PLAN  OF A STATE OR LOCAL GOVERNMENT OR TAX EXEMPT ORGANIZATION UNDER 26
+ U.S.C. § 457; OR
+  (IV) A NONQUALIFIED DEFERRED COMPENSATION ARRANGEMENT  ESTABLISHED  OR
+ MAINTAINED BY AN EMPLOYER OR PLAN SPONSOR; OR
+  (V)  ANY  OTHER  GROUP  APPROVED  BY THE SUPERINTENDENT UPON A FINDING
+ THAT: (I) THERE IS A COMMON ENTERPRISE OR ECONOMIC OR SOCIAL AFFINITY OR
+ RELATIONSHIP; (II) THE PREMIUMS CHARGED ARE REASONABLE  IN  RELATION  TO
+ THE BENEFITS PROVIDED; AND (III) THE ISSUANCE OF THE POLICY WOULD RESULT
+ IN  ECONOMIES  OF  ACQUISITION  OR  ADMINISTRATION, WOULD BE ACTUARIALLY
+ SOUND, AND WOULD NOT BE CONTRARY TO THE BEST INTEREST OF THE PUBLIC. THE
+ SUPERINTENDENT SHALL  PROMULGATE  REGULATIONS  SETTING  FORTH  ANY  SUCH
+ GROUPS THAT HAVE BEEN QUALIFIED PURSUANT TO THIS ITEM.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06682-01-3
