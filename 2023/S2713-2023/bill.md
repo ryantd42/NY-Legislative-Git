@@ -1,0 +1,61 @@
+# Requires a personal use pharmaceutical disposal system be provided at the time of dispensing an opioid prescription
+
+**Bill ID:** S2713
+**Session:** 2023
+**Sponsor:** Timothy M. Kennedy
+**Status:** Stricken
+
+## Summary
+
+Requires a personal use pharmaceutical disposal system be provided at the time of dispensing an opioid prescription at no cost to the ultimate user of such prescribed opioid.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2713
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 24, 2023
+  ___________
+ 
+ Introduced  by  Sens.  KENNEDY,  GALLIVAN,  HARCKHAM  --  read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Health
+ 
+ AN  ACT  to  amend  the  public  health  law, in relation to requiring a
+  personal use pharmaceutical disposal system be provided at the time of
+  dispensing an opioid prescription
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  public health law is amended by adding a new section
+ 3309-c to read as follows:
+  § 3309-C. OPIOID PERSONAL USE PHARMACEUTICAL DISPOSAL SYSTEMS.  1.  NO
+ PERSON  IN  THE STATE SHALL DISPENSE AN OPIOID PRESCRIPTION TO THE ULTI-
+ MATE USER OF SUCH PRESCRIBED  OPIOID  UNLESS  SUCH  PERSON  ADDITIONALLY
+ PROVIDES  TO  SUCH  ULTIMATE USER A PERSONAL USE PHARMACEUTICAL DISPOSAL
+ SYSTEM AT NO COST TO SUCH ULTIMATE USER.
+  2. AS USED IN THIS SECTION:
+  (A) "PERSONAL USE PHARMACEUTICAL DISPOSAL  SYSTEM"  MEANS  A  PORTABLE
+ PRODUCT  DESIGNED  FOR PERSONAL USE BY THE ULTIMATE USER FOR THE PURPOSE
+ OF ALLOWING THE ULTIMATE USER OF A PRESCRIBED OPIOID TO  DEACTIVATE  THE
+ PRESCRIBED OPIOID TO A NON-RETRIEVABLE CONDITION OR STATE.
+  (B)  "ULTIMATE USER" MEANS A PERSON WHO HAS LAWFULLY OBTAINED, AND WHO
+ POSSESSES, A PRESCRIBED OPIOID FOR HIS OR HER OWN USE OR FOR THE USE  OF
+ A MEMBER OF HIS OR HER HOUSEHOLD.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06902-01-3
