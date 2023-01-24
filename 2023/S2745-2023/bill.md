@@ -1,0 +1,59 @@
+# Requires the state pay taxes on the assessed value of properties of closed state prisons
+
+**Bill ID:** S2745
+**Session:** 2023
+**Sponsor:** Dan Stec
+**Status:** In Senate Committee
+
+## Summary
+
+Requires the state pay taxes on the assessed value of properties of closed state prisons until such prison is reopened, used by another state agency, or is conveyed to a non-governmental entity.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2745
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 24, 2023
+  ___________
+ 
+ Introduced  by  Sen.  STEC  --  read twice and ordered printed, and when
+  printed to be committed to the Committee on Local Government
+ 
+ AN ACT to amend the real property tax law, in relation to requiring  the
+  state  pay  taxes  on the assessed value of properties of closed state
+  prisons
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  532  of  the real property tax law is amended by
+ adding a new subdivision (m) to read as follows:
+  (M) ALL LANDS OWNED BY THE STATE WHICH WERE PREVIOUSLY USED AS A STATE
+ PRISON, INCLUDING THE IMPROVEMENTS ERECTED THEREON BY THE STATE,  BEGIN-
+ NING ONCE CORRECTIONAL OPERATIONS HAVE CEASED AT SUCH PRISON, REGARDLESS
+ OF ANY STATE OR CONTRACTED PERSONNEL ASSIGNED TO MAINTENANCE OF RELATIVE
+ FACILITY  GROUNDS  OR FACILITY INFRASTRUCTURE INCLUDING, BUT NOT LIMITED
+ TO, BUILDINGS, HEATING SYSTEMS, OR COMMUNICATIONS TECHNOLOGY, UNTIL  THE
+ STATE BEGINS OPERATIONS UPON THE LAND THROUGH A STATE AGENCY OR THE LAND
+ IS SOLD TO A NON-GOVERNMENTAL ENTITY; PROVIDED, HOWEVER, THAT WHERE SUCH
+ LANDS  ARE  CONVEYED  TO  A NOT-FOR-PROFIT NON-GOVERNMENTAL ENTITY, SUCH
+ ENTITY SHALL ENTER INTO A PAYMENT IN LIEU OF TAXES WITH  THE  RESPECTIVE
+ LOCAL MUNICIPALITY IN WHICH THE FORMER PRISON IS LOCATED.
+  §  2. This act shall take effect on the first of April next succeeding
+ the date on which it shall have become a law.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05054-02-3
