@@ -1,0 +1,71 @@
+# Prohibits landlords, lessors, sub-lessors and grantors from demanding brokers' fees from a tenant
+
+**Bill ID:** S2783
+**Session:** 2023
+**Sponsor:** Jabari Brisport
+**Status:** In Senate Committee
+
+## Summary
+
+Prohibits landlords, lessors, sub-lessors and grantors from demanding brokers' fees from a tenant.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2783
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 24, 2023
+  ___________
+ 
+ Introduced by Sens. BRISPORT, SALAZAR -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Judiciary
+ 
+ AN  ACT to amend the real property law, in relation to prohibiting land-
+  lords, lessors, sub-lessors and grantors from demanding brokers'  fees
+  from a tenant
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Paragraph (a) of subdivision 1 of section 238-a of the real
+ property law, as amended by chapter 789 of the laws of 2021, is  amended
+ to read as follows:
+  (a)  Except  in  instances where statutes or regulations provide for a
+ payment, fee or charge, no landlord, lessor, sub-lessor or  grantor  may
+ demand any payment, fee, or charge for the processing, review or accept-
+ ance  of  an  application,  or  demand  any other payment, fee or charge
+ before or at the beginning of the tenancy, INCLUDING BUT NOT LIMITED  TO
+ BROKER'S FEES, except background checks and credit checks as provided by
+ paragraph  (b) of this subdivision, provided that this subdivision shall
+ not apply to entrance fees charged by continuing care retirement  commu-
+ nities  licensed  pursuant  to  article  forty-six or forty-six-A of the
+ public health law, assisted living providers licensed pursuant to  arti-
+ cle forty-six-B of the public health law, adult care facilities licensed
+ pursuant to article seven of the social services law, senior residential
+ communities  that have submitted an offering plan to the attorney gener-
+ al, or not-for-profit  independent  retirement  communities  that  offer
+ personal  emergency  response, housekeeping, transportation and meals to
+ their residents. Nothing in this paragraph shall prohibit a  cooperative
+ housing  corporation,  other  than  a  cooperative  housing  corporation
+ subject to the provisions of article two, article four, article five  or
+ article eleven of the private housing finance law, from demanding from a
+ prospective  tenant  any  payment,  fee  or charge which is necessary to
+ compensate a managing agent and/or transfer agent  for  the  processing,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03745-01-3
+ S. 2783  2
+ 
+ review or acceptance of such prospective tenant's application where such
+ prospective  tenant would become a dwelling unit owner or shareholder of
+ such cooperative housing corporation.
+  § 2. This act shall take effect immediately.
