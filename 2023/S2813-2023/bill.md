@@ -1,0 +1,73 @@
+# Relates to coverage for certain benefits under comprehensive motor vehicle insurance
+
+**Bill ID:** S2813
+**Session:** 2023
+**Sponsor:** Neil D. Breslin
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to coverage for certain benefits under comprehensive motor vehicle insurance; prohibits assignment of benefits to durable medical equipment providers unless approved.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2813
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 24, 2023
+  ___________
+ 
+ Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Insurance
+ 
+ AN ACT to amend the insurance law, in relation to coverage  for  certain
+  benefits under comprehensive motor vehicle insurance
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 5102 of the insurance law is amended  by  adding  a
+ new subsection (n) to read as follows:
+  (N)  "HEALTH  SERVICE  PROVIDER" MEANS ANY MEDICAL PROVIDER OR DURABLE
+ MEDICAL EQUIPMENT SUPPLIER THAT SUBMITS A BILL FOR PAYMENT  UNDER  BENE-
+ FITS DEFINED AND PROVIDED BY THIS SECTION FOR ANY OF THE FOLLOWING:
+  (1)  MEDICAL, HOSPITAL (INCLUDING SERVICES RENDERED IN COMPLIANCE WITH
+ ARTICLE FORTY-ONE OF THE PUBLIC HEALTH LAW, WHETHER OR NOT SUCH SERVICES
+ ARE RENDERED DIRECTLY BY A HOSPITAL), SURGICAL, NURSING,  DENTAL,  AMBU-
+ LANCE, X-RAY, PRESCRIPTION DRUG AND PROSTHETIC SERVICES OR EQUIPMENT;
+  (2) PSYCHIATRIC, PHYSICAL THERAPY (PROVIDED THAT TREATMENT IS RENDERED
+ PURSUANT TO A REFERRAL) AND OCCUPATIONAL THERAPY AND REHABILITATION;
+  (3)  ANY NONMEDICAL REMEDIAL CARE AND TREATMENT RENDERED IN ACCORDANCE
+ WITH A RELIGIOUS METHOD OF HEALING RECOGNIZED BY THE LAWS OF THIS STATE;
+ AND
+  (4) ANY OTHER PROFESSIONAL HEALTH SERVICES.
+  § 2. The insurance law is amended by adding a new section 5110 to read
+ as follows:
+  § 5110. CHARGES FOR DURABLE MEDICAL EQUIPMENT. (A)  A  COVERED  PERSON
+ SHALL  NOT  ASSIGN  CLAIMS  FOR MEDICAL EXPENSES UNDER THIS ARTICLE TO A
+ HEALTH SERVICE PROVIDER FOR DURABLE MEDICAL EQUIPMENT UNLESS THE  HEALTH
+ SERVICE  PROVIDER  HAS  BEEN APPROVED BY THE NATIONAL SUPPLIER CLEARING-
+ HOUSE AS AN AUTHORIZED MEDICARE SUPPLIER OF DURABLE  MEDICAL  EQUIPMENT,
+ PROSTHETICS,  ORTHOTICS  AND  SUPPLIES.  FOR PURPOSES OF THIS SECTION,
+ DURABLE MEDICAL EQUIPMENT INCLUDES,  BUT  IS  NOT  LIMITED  TO,  DURABLE
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06686-01-3
+ S. 2813  2
+ 
+ MEDICAL  EQUIPMENT  AND  SUPPLIES, MEDICAL/SURGICAL SUPPLIES, ORTHOPEDIC
+ FOOTWEAR AND ORTHOTIC AND PROSTHETIC APPLIANCES.
+  (B)  NO HEALTH SERVICE PROVIDER SHALL BE ELIGIBLE TO DEMAND OR REQUEST
+ PAYMENT FROM AN INSURER FOR DURABLE MEDICAL EQUIPMENT  UNLESS  THE  MAKE
+ AND  MODEL  NUMBER  OF THE EQUIPMENT IS SET FORTH ON THE INVOICE FOR THE
+ EQUIPMENT.
+  § 3. This act shall take effect immediately.
