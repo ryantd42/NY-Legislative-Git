@@ -1,0 +1,96 @@
+# Requires e-mail service providers to create a service for consumers to report instances of unauthorized use of an e-mail account; establishes the crime of unauthorized use of an e-mail account
+
+**Bill ID:** A2319
+**Session:** 2023
+**Sponsor:** Clyde Vanel
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires e-mail service providers to create a service for consumers to report instances of unauthorized use of an e-mail account and to report instances of unauthorized use of an e-mail account to the attorney general's office and the local district attorney's office; establishes the crime of unauthorized use of an e-mail account as a class A misdemeanor.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2319
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 25, 2023
+  ___________
+ 
+ Introduced  by M. of A. VANEL -- read once and referred to the Committee
+  on Consumer Affairs and Protection
+ 
+ AN ACT to amend the general  business  law,  in  relation  to  requiring
+  e-mail  service  providers to create a service for consumers to report
+  instances of unauthorized use of an e-mail account; and to  amend  the
+  penal  law,  in relation to establishing the crime of unauthorized use
+  of an e-mail account
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The general business law is amended by adding a new section
+ 390-e to read as follows:
+  §  390-E.  E-MAIL  PROTECTION. 1. FOR THE PURPOSES OF THIS SECTION THE
+ FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
+  (A) "E-MAIL SERVICE PROVIDER"  SHALL  MEAN  ANY  PERSON,  BUSINESS  OR
+ ORGANIZATION  QUALIFIED TO DO BUSINESS IN THIS STATE THAT PROVIDES INDI-
+ VIDUALS, CORPORATIONS, OR OTHER ENTITIES WITH THE ABILITY TO SEND E-MAIL
+ MESSAGES.
+  (B) "LOCAL DISTRICT ATTORNEY'S OFFICE" SHALL MEAN THE DISTRICT  ATTOR-
+ NEY'S OFFICE LOCATED WITHIN THE COUNTY IN WHICH THE OWNER OF THE ACCOUNT
+ RESIDES.
+  (C)  "UNAUTHORIZED  USE  OF AN E-MAIL ACCOUNT" SHALL MEAN ANY INSTANCE
+ WHEN, WITHOUT HAVING THE RIGHT OR PERMISSION TO DO SO, AN INDIVIDUAL:
+  (I) CREATES A FALSE E-MAIL ACCOUNT USING AN INDIVIDUAL'S NAME FOR  THE
+ PURPOSE  OF  SOLICITING  MONEY OR ANOTHER SOURCE OF FUNDING OR ANY OTHER
+ PERSONAL INFORMATION FROM ANY PERSON OR  PERSONS  ON  SUCH  INDIVIDUAL'S
+ CONTACT LIST; OR
+  (II)  HACKS INTO AN EXISTING E-MAIL ACCOUNT AND USING SUCH ACCOUNT FOR
+ THE PURPOSE OF SOLICITING MONEY OR ANOTHER  SOURCE  OF  FUNDING  OR  ANY
+ OTHER  PERSONAL  INFORMATION FROM ANY PERSON OR PERSONS ON SUCH INDIVID-
+ UAL'S CONTACT LIST.
+  2. ALL E-MAIL SERVICE PROVIDERS DOING BUSINESS IN THIS STATE SHALL:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06267-01-3
+ A. 2319  2
+ 
+  (A) CREATE A SERVICE FOR CONSUMERS LIVING WITHIN THIS STATE TO  REPORT
+ UNAUTHORIZED  USE  OF AN E-MAIL ADDRESS TO SUCH E-MAIL SERVICE PROVIDER;
+ AND
+  (B)  REVIEW ANY REPORT MADE PURSUANT TO PARAGRAPH (A) OF THIS SUBDIVI-
+ SION WITHIN SIXTY DAYS OF RECEIPT OF SUCH REPORT.
+  3. IF, UPON A REVIEW COMPLETED PURSUANT TO PARAGRAPH (B)  OF  SUBDIVI-
+ SION TWO OF THIS SECTION, UNAUTHORIZED USE OF AN E-MAIL ADDRESS IS FOUND
+ TO  HAVE OCCURRED, THE E-MAIL SERVICE PROVIDER SHALL IMMEDIATELY DISABLE
+ THE E-MAIL ACCOUNT AND REPORT THE ACCOUNT TO THE  ATTORNEY  GENERAL  AND
+ THE LOCAL DISTRICT ATTORNEY'S OFFICE.
+  4.  THE  ATTORNEY GENERAL AND THE LOCAL DISTRICT ATTORNEY'S OFFICE MAY
+ BRING AN ACTION AGAINST A PERSON WHO HAS BEEN FOUND TO COMMIT AN ACT  OF
+ UNAUTHORIZED  USE OF AN E-MAIL ACCOUNT. NOTHING IN THIS SECTION SHALL IN
+ ANY WAY LIMIT RIGHTS OR REMEDIES WHICH ARE OTHERWISE AVAILABLE UNDER LAW
+ TO THE ATTORNEY GENERAL OR LOCAL DISTRICT ATTORNEY'S OFFICE.
+  § 2. The penal law is amended by adding a new section 190.80-b to read
+ as follows:
+ § 190.80-B UNAUTHORIZED USE OF AN E-MAIL ACCOUNT.
+  A PERSON IS GUILTY OF UNAUTHORIZED USE  OF  AN  E-MAIL  ACCOUNT  WHEN,
+ HAVING NO RIGHT TO DO SO, HE OR SHE CREATES A FALSE E-MAIL ACCOUNT USING
+ AN  INDIVIDUAL'S  NAME  FOR  THE  PURPOSE OF SOLICITING MONEY OR ANOTHER
+ SOURCE OF FUNDING OR ANY OTHER PERSONAL INFORMATION FROM ANY  PERSON  OR
+ PERSONS  ON  SUCH  INDIVIDUAL'S  CONTACT  LIST OR HACKS INTO AN EXISTING
+ E-MAIL ACCOUNT AND USING SUCH ACCOUNT  FOR  THE  PURPOSE  OF  SOLICITING
+ MONEY  OR  ANOTHER  SOURCE OF FUNDING FROM ANY PERSON OR PERSONS ON SUCH
+ INDIVIDUAL'S CONTACT LIST.
+  UNAUTHORIZED USE OF AN E-MAIL ACCOUNT IS A CLASS A MISDEMEANOR.
+  § 3. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
