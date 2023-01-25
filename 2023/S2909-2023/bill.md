@@ -1,0 +1,81 @@
+# Requires industrial development agencies to only include jobs filled by residents of New York state when assessing the progress of projects that are provided financial assistance
+
+**Bill ID:** S2909
+**Session:** 2023
+**Sponsor:** Dean Murray
+**Status:** In Senate Committee
+
+## Summary
+
+Requires industrial development agencies to only include jobs filled by residents of New York state when assessing the progress of projects that are provided financial assistance.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2909
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 25, 2023
+  ___________
+ 
+ Introduced  by  Sen.  MURRAY -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Local Government
+ 
+ AN ACT to amend the general municipal  law,  in  relation  to  requiring
+  industrial  development  agencies to only include jobs filled by resi-
+  dents of New York  state  when  assessing  the  progress  of  projects
+  provided financial assistance
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Paragraph (f) of subdivision 4  of  section  859-a  of  the
+ general  municipal  law, as added by chapter 563 of the laws of 2015, is
+ amended to read as follows:
+  (f) the projected number of full time equivalent jobs  that  would  be
+ retained  and that would be created if the request for financial assist-
+ ance is granted, the projected timeframe for the creation of  new  jobs,
+ the  estimated  salary and fringe benefit averages or ranges for catego-
+ ries of the jobs that would be retained or created if  the  request  for
+ financial  assistance  is  granted,  [and]  an estimate of the number of
+ residents of the economic development region as established pursuant  to
+ section  two hundred thirty of the economic development law or the labor
+ market area as defined by the agency, in which the  project  is  located
+ that  would  fill  such  jobs,  AND  A STATEMENT ACKNOWLEDGING THAT JOBS
+ FILLED BY NON-RESIDENTS OF NEW YORK STATE SHALL  NOT  BE  INCLUDED  WHEN
+ ASSESSING  THE  PROGRESS TOWARD ACHIEVING THE OBJECTIVES OF THE PROJECT.
+ The labor market area defined by the agency for this purpose may include
+ no more than six contiguous counties in the state, including the  county
+ in which the project is to be located;
+  §  2.  Paragraph  (b) of subdivision 6 of section 859-a of the general
+ municipal law, as added by chapter 563 of the laws of 2015,  is  amended
+ to read as follows:
+  (b)  require each project owner, occupant or operator receiving finan-
+ cial benefits to provide annually a certified statement  and  documenta-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06383-01-3
+ S. 2909  2
+ 
+ tion:  (i)  enumerating the full time equivalent jobs retained and the
+ full time equivalent jobs created, FOR NEW YORK STATE  RESIDENTS,  as  a
+ result  of  the  financial  assistance, by category, including full time
+ equivalent  independent contractors or employees of independent contrac-
+ tors that work at the project location, and  (ii)  indicating  that  the
+ salary  and  fringe  benefit  averages  or ranges for categories of jobs
+ retained and jobs created that was provided in the application is  still
+ accurate  and  if  it is not still accurate, providing a revised list of
+ salary and fringe benefit averages or  ranges  for  categories  of  jobs
+ retained  and  jobs created.  FOR THE PURPOSES OF THIS PARAGRAPH, POSI-
+ TIONS FILLED BY NON-RESIDENTS OF NEW YORK STATE SHALL NOT BE INCLUDED IN
+ THE NUMBER OF JOBS RETAINED OR CREATED.
+  § 3. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law.
