@@ -1,0 +1,66 @@
+# Relates to the operating permit program from sources subject to the federal Clean Air Act and power plant emissions and performance standards
+
+**Bill ID:** S2857
+**Session:** 2023
+**Sponsor:** James Skoufis
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to the operating permit program from sources subject to the federal Clean Air Act and power plant emissions and performance standards.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2857
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 25, 2023
+  ___________
+ 
+ Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN ACT to amend the environmental conservation law, in relation  to  the
+  operating permit program from sources subject to the federal Clean Air
+  Act and power plant emissions and performance standards
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Paragraphs f and g of subdivision 3 of section  19-0311  of
+ the  environmental conservation law, as added by chapter 608 of the laws
+ of 1993, are amended to read as follows:
+  f. provisions for alternative operating scenarios where a source iden-
+ tifies such scenarios in its permit application for department approval,
+ and where such scenarios  are  approved  by  the  department;  PROVIDED,
+ HOWEVER, SUCH SCENARIOS SHALL NOT AUTHORIZE THE START UP OF THE FACILITY
+ WITH ANY FUEL OTHER THAN THE PRIMARY FUEL;
+  g.  provisions  for  emergencies  beyond  the  control  of the source;
+ notwithstanding section 71-2109 of this chapter,  an  "emergency"  shall
+ mean  any  situation  arising  from  sudden and reasonably unforeseeable
+ events beyond the control of the source, which situation requires  imme-
+ diate corrective action to restore normal operation and which causes the
+ source  to  exceed  a  technology-based  emission  limitation  under the
+ permit, due to unavoidable increases in emissions  attributable  to  the
+ emergency.  An  emergency  shall not include noncompliance to the extent
+ caused by improperly designed equipment, lack  of  preventative  mainte-
+ nance,  careless  or  improper  operation,  or operator error, OR DELAYS
+ CAUSED BY PERMITTING OR CONSTRUCTION;
+  § 2. Section 19-0312 of the environmental conservation law is  amended
+ by adding a new subdivision 4 to read as follows:
+  4.  NO ELECTRIC GENERATING FACILITY SHALL UTILIZE THEIR SECONDARY FUEL
+ SOURCE OR EMERGENCY STATIONARY INTERNAL COMBUSTION ENGINE EXCEPT  DURING
+ EMERGENCIES OR AS SET FORTH IN 40 CFR 60.4211.
+  § 3. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05791-01-3
