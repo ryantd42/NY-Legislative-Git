@@ -1,0 +1,68 @@
+# Relates to contraband screening at correctional facilities
+
+**Bill ID:** S2940
+**Session:** 2023
+**Sponsor:** Pamela Helming
+**Status:** In Senate Committee
+
+## Summary
+
+Directs the commissioner of corrections and community supervision to establish contraband screening at correctional facilities including canines at the entrances and a third-party secure vendor mail program.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2940
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 25, 2023
+  ___________
+ 
+ Introduced  by  Sen. HELMING -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Crime Victims,  Crime  and
+  Correction
+ 
+ AN  ACT to amend the correction law, in relation to contraband screening
+  at correctional facilities
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  112 of the correction law is amended by adding a
+ new subdivision 6 to read as follows:
+  6. (A) THE COMMISSIONER SHALL ESTABLISH A  CONTRABAND  SCREENING  PLAN
+ WHICH SHALL INCLUDE, BUT NOT BE LIMITED TO:
+  (I) THE USE OF A LEASHED AND CONTROLLED CANINE TRAINED TO DETECT ILLE-
+ GAL DRUGS AT THE ENTRANCE OF EACH CORRECTIONAL FACILITY;
+  (II)  THE SEARCH OF VISITORS, CORRECTIONAL STAFF, BAGS AND OTHER ITEMS
+ ENTERING THE FACILITY WHICH MAY INCLUDE, BUT NOT BE  LIMITED  TO,  ELEC-
+ TRONIC  SEARCHES, METAL DETECTORS, PAT SEARCHES, VISUAL SEARCHES OF ORAL
+ CAVITIES,  AND  ANY  OTHER  LEGAL  TECHNOLOGY  AT  THE  COMMISSIONER'S
+ DISCRETION;
+  (III)  THE  TRAINING  OF  STAFF  ON  UP TO DATE AND CURRENT CONTRABAND
+ SCREENING PROCEDURES; AND
+  (IV) A THIRD-PARTY SECURE VENDOR MAIL PROGRAM TO BE UTILIZED  FOR  THE
+ DELIVERY  OF  ALL NON-PRIVILEGED CORRESPONDENCE TO INCARCERATED INDIVID-
+ UALS INCLUDING BUT NOT  LIMITED  TO,  THE  ORDER  AND  DELIVERY  OF  ALL
+ PRODUCTS TO INCARCERATED INDIVIDUALS HOUSED AT CORRECTIONAL FACILITIES.
+  (B) THE COMMISSIONER SHALL PROVIDE A COPY OF SUCH CONTRABAND SCREENING
+ PLAN  AS  WELL  AS  THE  PRIOR  YEAR'S PLAN INCLUDING BUT NOT LIMITED TO
+ RESULTS OF THE CANINE ASSIGNMENTS, NUMBER OF ATTEMPTS TO PROMOTE CONTRA-
+ BAND, INCLUDING DATA ON CONTRABAND CONFISCATED THROUGH  THE  THIRD-PARTY
+ SECURE  VENDOR  MAIL  PROGRAM  AND  THE  NUMBER OF URINE TESTS AND THEIR
+ RESULTS CONDUCTED STATEWIDE BY FACILITIES TO THE LEGISLATURE BY DECEMBER
+ THIRTY-FIRST EACH YEAR.
+  (C) THE COMMISSIONER MAY PROMULGATE ANY RULES AND  REGULATIONS  NECES-
+ SARY TO IMPLEMENT THE PROVISIONS OF THIS SUBDIVISION.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05403-01-3
