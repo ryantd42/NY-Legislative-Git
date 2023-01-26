@@ -1,0 +1,88 @@
+# Memorializing Governor Kathy Hochul to proclaim July 1, 2023 as Canada Day in the State of New York
+
+**Bill ID:** J304
+**Session:** 2023
+**Sponsor:** Timothy M. Kennedy
+**Status:** Adopted
+
+---
+
+## Full Text
+
+Senate Resolution No. 304
+ 
+BY: Senator KENNEDY
+ 
+  MEMORIALIZING  Governor  Kathy  Hochul to proclaim
+  July 1, 2023, as Canada Day in the State of New York
+ 
+  WHEREAS, This  Legislative  Body  is  justly  proud  to  memorialize
+Governor  Kathy  Hochul  to  proclaim July 1, 2023, as Canada Day in the
+State  of  New  York,  in  celebration  of  this  great  Empire  State's
+long-standing economic and cultural relationship with Canada; and
+ 
+  WHEREAS,  New  York  and Canada share many additional deep economic,
+historical, cultural, and familial ties; and
+ 
+  WHEREAS, New York and Canada share an international border measuring
+445 miles in length with 17 international  border  crossings,  including
+three  of the United States' top 10 busiest border crossings; the border
+features many important international  trade  corridors,  including  the
+Quebec-New  York Corridor, the Capitol Corridor, and Continental One, as
+well as the second-busiest crossing between Canada and the United States
+at the Peace Bridge; and
+ 
+  WHEREAS, Canada is New York's  primary  export  market,  with  $24.9
+billion in exports and over $42 billion in bilateral trade in 2021; and
+ 
+  WHEREAS,  This  relationship has led to 829 Canadian-owned companies
+operating in the State of New York employing 58,750 New Yorkers; and
+ 
+  WHEREAS, The economies of Canada and New  York  are  tightly  linked
+through  integrated  cross-border  supply  chains  that  keep  our firms
+competitive; and
+ 
+  WHEREAS,  Canada  and  the  United  States'  mutual  security  and
+prosperity rely upon these predictable and secure trading relationships;
+and
+ 
+  WHEREAS,  The  United  States  and  Canada  share  a  long-standing
+commitment to working together for our common defense and  security  and
+the  continuation  of  this  successful  relationship  through the North
+American Aerospace Defense Command (NORAD) is paramount  to  the  future
+security  of  the  people of the United States and Canada; this includes
+the NORAD Eastern Air Defense Sector, in Rome, NY; and
+ 
+  WHEREAS, The United States and Canada have a  shared  commitment  to
+protecting the health and well-being of Americans and Canadians and have
+agreed  through  a  joint  roadmap  to  strengthen  comprehensive  and
+cross-sectoral efforts to control the COVID-19 pandemic, collaborate  on
+public  health responses, and build resilience against future outbreaks;
+and
+ 
+  WHEREAS, Canada and New York also  share  a  commitment  to  equity,
+inclusion, and diversity, highlighting it as a source of strength and as
+a  force  that  can  vanquish intolerance, hate, and radicalism, both at
+home and across the globe; this shared virtue can  only  strengthen  the
+already robust ties that exist between Canadians and New Yorkers; and
+ 
+  WHEREAS,  New  York  and Canada are committed partners in addressing
+the  challenge  of  climate  change  and  creating  a  stronger,  more
+sustainable economy through energy trade, shared innovation development,
+and aligned policies and goals; and
+ 
+  WHEREAS,  Canada  and  New York recently celebrated this partnership
+with the groundbreaking of the Champlain Hudson Power Express, a project
+that will bring clean, renewable, Canadian hydropower  to  fuel  over  1
+million  homes  in  New York City, create 1,400 direct construction jobs
+and 3,200 secondary jobs, and generate $1.4 million in revenue  over  25
+years for New York State; now, therefore, be it
+ 
+  RESOLVED,  That  this Legislative Body pause in its deliberations to
+memorialize Governor Kathy Hochul to proclaim July 1,  2023,  as  Canada
+Day in the State of New York; and be it further
+ 
+  RESOLVED,  That  copies  of  this Resolution, suitably engrossed, be
+transmitted to The Honorable Kathy Hochul, Governor of the State of  New
+York;  and Acting Consul General Andre Frenette of the Consulate General
+of Canada in New York.
