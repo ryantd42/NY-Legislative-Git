@@ -1,0 +1,70 @@
+# Requires cell towers to be equipped with a back-up power source in case of a power outage
+
+**Bill ID:** S2996
+**Session:** 2023
+**Sponsor:** Pete Harckham
+**Status:** In Senate Committee
+
+## Summary
+
+Requires cell towers to be equipped with a back-up power source in case of a power outage.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2996
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
+  printed to be committed to the Committee on  Energy  and  Telecommuni-
+  cations
+ 
+ AN  ACT to amend the general business law, in relation to requiring cell
+  towers to be equipped with a back-up power source in case of  a  power
+  outage
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The general business law is amended by adding a new section
+ 399-yyyy to read as follows:
+  § 399-YYYY. MACRO CELL TOWER SITES; BACK-UP POWER. 1.  EVERY OWNER  OR
+ OPERATOR  OF  MACRO CELL TOWER SITES LOCATED IN THIS STATE SHALL, TO THE
+ EXTENT PRACTICABLE, EQUIP ALL SUCH MACRO CELL TOWER SITES WITH AN  EMER-
+ GENCY  BACK-UP POWER SOURCE CAPABLE OF PROVIDING ADEQUATE POWER TO MAIN-
+ TAIN THE OPERATION OF SUCH MACRO CELL TOWER SITES IN THE CASE OF A  LOSS
+ OF  POWER.  SUCH  EMERGENCY BACK-UP POWER SOURCE SHALL USE A RENEWABLE
+ ENERGY SYSTEM, FUEL CELL ELECTRIC GENERATING  EQUIPMENT,  OR  AN  ENERGY
+ STORAGE  SYSTEM AND BE CAPABLE OF POWERING A MACRO CELL TOWER SITE FOR A
+ MINIMUM OF AT LEAST SEVENTY-TWO HOURS.  IF A MACRO CELL  TOWER  SITE  IS
+ ALREADY  EQUIPPED  WITH  AN  EMERGENCY BACK-UP POWER SOURCE PRIOR TO THE
+ EFFECTIVE DATE OF THIS SECTION, THEN THE OWNER OR OPERATOR OF SUCH MACRO
+ TOWER SITE SHALL NOT BE REQUIRED TO UPDATE SUCH EMERGENCY BACK-UP  POWER
+ SOURCE TO MEET THE REQUIREMENTS OF THIS SECTION, PROVIDED, HOWEVER, THAT
+ ONCE SUCH EMERGENCY BACK-UP POWER SOURCE NEEDS TO BE REPLACED, THE OWNER
+ OR  OPERATOR  SHALL  EQUIP  SUCH MACRO CELL TOWER SITE WITH AN EMERGENCY
+ BACK-UP POWER SOURCE THAT MEETS THE REQUIREMENTS OF THIS SECTION.
+  2. FOR THE PURPOSES OF THIS SECTION, "MACRO  CELL  TOWER  SITE"  SHALL
+ MEAN  THE  PLACE WHERE WIRELESS TELECOMMUNICATIONS EQUIPMENT AND NETWORK
+ COMPONENTS, INCLUDING TOWERS, TRANSMITTERS, BASE STATIONS, AND EMERGENCY
+ POWERS NECESSARY FOR PROVIDING WIDE AREA OUTDOOR SERVICE, ARE LOCATED. A
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01762-01-3
+ S. 2996  2
+ 
+ MACRO CELL TOWER SITE SHALL NOT INCLUDE ROOFTOP, SMALL CELL, OR  OUTDOOR
+ AND INDOOR DISTRIBUTED ANTENNA SYSTEM SITES.
+  §  2.  This  act shall take effect on the ninetieth day after it shall
+ have become a law.
