@@ -1,0 +1,77 @@
+# Relates to awards of certain contracts to small businesses or businesses certified under article 15-A of the executive law
+
+**Bill ID:** S3019
+**Session:** 2023
+**Sponsor:** Leroy Comrie
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to awards of certain contracts to small businesses or businesses certified under article 15-A of the executive law.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3019
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Corporations,  Authorities
+  and Commissions
+ 
+ AN  ACT to amend the public authorities law, in relation to the award of
+  certain contracts to  small  businesses  and/or  businesses  certified
+  under  article 15-A of the executive law; and providing for the repeal
+  of such provisions upon expiration thereof
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  1678 of the public authorities law is amended by
+ adding a new subdivision 33 to read as follows:
+  33. (A) TO AWARD CONTRACTS, NOTWITHSTANDING ANY OTHER PROVISION OF LAW
+ TO THE CONTRARY, FOR THE PROCUREMENT OF GOODS  OR  SERVICES  FROM  SMALL
+ BUSINESSES  AND/OR  BUSINESSES  CERTIFIED UNDER ARTICLE FIFTEEN-A OF THE
+ EXECUTIVE LAW IN ACCORDANCE WITH THE PROVISIONS OF THIS SUBDIVISION.
+  (B) PROCUREMENTS MADE PURSUANT TO THIS SUBDIVISION SHALL  BE  GOVERNED
+ BY THE AUTHORITY'S PROCUREMENT POLICY AND GUIDELINES ADOPTED PURSUANT TO
+ SECTION  TWENTY-EIGHT  HUNDRED SEVENTY-NINE OF THIS CHAPTER. SUCH GUIDE-
+ LINES SHALL INCLUDE, BUT NOT BE LIMITED TO: (I)  A  COMPETITIVE  PROCESS
+ THAT  PROVIDES OPPORTUNITY AND ACCESS TO PROCUREMENTS, PURSUANT TO WHICH
+ CONTRACTS MAY BE AWARDED TO SMALL BUSINESSES AND/OR BUSINESSES CERTIFIED
+ UNDER ARTICLE FIFTEEN-A OF THE EXECUTIVE LAW; (II) PROVIDE  A  BENCHMARK
+ OF  AMOUNTS  PAID UNDER CONTRACTS AWARDED UNDER THIS SUBDIVISION AGAINST
+ AMOUNTS PAID UNDER OTHER AUTHORITY CONTRACTS FOR LIKE GOODS OR SERVICES;
+ AND (III) REQUIRE AN ANNUAL ASSESSMENT  OF  THE  EFFECTIVENESS  OF  SUCH
+ PROCEDURES IN HELPING THE AUTHORITY ACHIEVE THE AUTHORITY'S GOALS ESTAB-
+ LISHED  PURSUANT  TO  ARTICLE FIFTEEN-A OF THE EXECUTIVE LAW FOR PARTIC-
+ IPATION BY MINORITY AND WOMEN-OWNED ENTERPRISES. SUCH ANNUAL  ASSESSMENT
+ MAY  BE  INCLUDED  WITHIN THE AUTHORITY'S ANNUAL REPORT REQUIRED BY THIS
+ ARTICLE AND SHALL BE SUBMITTED TO THE GOVERNOR, THE TEMPORARY  PRESIDENT
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04684-01-3
+ S. 3019  2
+ 
+ OF  THE  SENATE, THE SPEAKER OF THE ASSEMBLY, THE MINORITY LEADER OF THE
+ SENATE AND THE MINORITY LEADER OF THE ASSEMBLY.
+  (C)  THE TOTAL VALUE OF CONTRACTS AWARDED PURSUANT TO THIS SUBDIVISION
+ SHALL NOT EXCEED TWO PERCENT OF THE VALUE OF ALL  CONTRACTS  OFFERED  IN
+ ANY  FISCAL  YEAR  OF THE AUTHORITY; PROVIDED, HOWEVER, THE TOTAL AMOUNT
+ AVAILABLE FOR AWARD PURSUANT TO THIS SECTION SHALL NOT BE LESS THAN  ONE
+ PERCENT  OF THE VALUE OF ALL CONTRACTS OFFERED IN ANY FISCAL YEAR OF THE
+ AUTHORITY.
+  § 2. This act shall take effect immediately and shall expire  July  1,
+ 2028  when  upon  such  date  the provisions of this act shall be deemed
+ repealed.
