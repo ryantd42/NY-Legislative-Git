@@ -1,0 +1,65 @@
+# Authorizes the creation and issuance of a distinctive license plate for fire police
+
+**Bill ID:** A2379
+**Session:** 2023
+**Sponsor:** Joe Angelino
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes the creation and issuance of a distinctive license plate for fire police.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2379
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  M. of A. ANGELINO, BRABENEC, K. BROWN, DeSTEFANO, DURSO,
+  LEMONDES, MANKTELOW, McDONOUGH, MILLER, MORINELLO  --  read  once  and
+  referred to the Committee on Transportation
+ 
+ AN ACT to amend the vehicle and traffic law, in relation to the issuance
+  of distinctive plates for fire police
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The vehicle and traffic law is  amended  by  adding  a  new
+ section 404-ff to read as follows:
+  §  404-FF.  DISTINCTIVE PLATES FOR FIRE POLICE. 1. ANY PERSON WHO IS A
+ MEMBER OF THE FIRE POLICE OR THE SPOUSE OF ANY SUCH PERSON  SHALL,  UPON
+ REQUEST,  BE ISSUED A LICENSE PLATE BEARING THE WORDS "FIRE POLICE".  IF
+ A DISTINCTIVE PLATE IS ISSUED TO A PERSON PURSUANT TO THIS SECTION, SUCH
+ A DISTINCTIVE PLATE SHALL NOT BE ISSUED TO THE SPOUSE  OF  SUCH  PERSON.
+ APPLICATION  FOR SAID LICENSE PLATE SHALL BE FILED WITH THE COMMISSIONER
+ IN SUCH FORM AND DETAIL AS THE COMMISSIONER SHALL PRESCRIBE.
+  2. THE DISTINCTIVE PLATE AUTHORIZED IN SUBDIVISION ONE OF THIS SECTION
+ SHALL BE ISSUED UPON PROOF, SATISFACTORY TO THE COMMISSIONER,  THAT  THE
+ APPLICANT OR THE SPOUSE OF THE APPLICANT IS A MEMBER OF THE FIRE POLICE.
+  3. A DISTINCTIVE PLATE ISSUED PURSUANT TO THIS SECTION SHALL BE ISSUED
+ IN  THE  SAME  MANNER AS OTHER NUMBER PLATES UPON PAYMENT OF THE REGULAR
+ REGISTRATION FEE PRESCRIBED BY SECTION FOUR HUNDRED ONE OF THIS  ARTICLE
+ PROVIDED,  HOWEVER,  THAT  AN  ADDITIONAL ONE TIME SERVICE CHARGE OF TEN
+ DOLLARS SHALL BE CHARGED FOR SUCH PLATE.
+  4. NOTHING CONTAINED HEREIN SHALL REQUIRE THE ISSUANCE  OF  A  SPECIAL
+ NUMBER  PLATE  UNDER  THIS  SECTION UNLESS THE COMMISSIONER IS SATISFIED
+ THAT THE AGGREGATE AMOUNT OF ANNUAL SERVICE CHARGES  COLLECTED  PURSUANT
+ TO  SUBDIVISION  THREE OF THIS SECTION WILL BE SUFFICIENT TO RECOVER THE
+ COSTS OF THE DESIGN AND MANUFACTURE OF SUCH SPECIAL PLATES.
+  § 2. This act shall take effect on the first of April next  succeeding
+ the date on which it shall have become a law.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06444-01-3
