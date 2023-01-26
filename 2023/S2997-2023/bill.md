@@ -1,0 +1,71 @@
+# Provides that an affirmation of a health care practitioner may be served or filed in an action in lieu of and with same force and effect as an affidavit
+
+**Bill ID:** S2997
+**Session:** 2023
+**Sponsor:** Gustavo Rivera
+**Status:** Signed by Governor
+
+## Summary
+
+Provides that an affirmation of a health care practitioner may be served or filed in an action in lieu of and with same force and effect as an affidavit (changes the current reference in existing provisions from "physician, osteopath or dentist" to "health care practitioner").
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2997
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  Sens. RIVERA, HOYLMAN-SIGAL, SEPULVEDA -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Judiciary
+ 
+ AN  ACT to amend the civil practice law and rules, in relation to chang-
+  ing reference from physician, osteopath  or  dentist  to  health  care
+  practitioner
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Rule 2106 of the civil practice law and rules,  as  amended
+ by chapter 380 of the laws of 2014, is amended to read as follows:
+  Rule  2106. Affirmation of truth of statement. (a) The statement of an
+ attorney admitted to practice in the  courts  of  the  state,  or  of  a
+ [physician,  osteopath  or  dentist]  HEALTH CARE PRACTITIONER LICENSED,
+ CERTIFIED, OR authorized [by] UNDER TITLE EIGHT OF THE EDUCATION law  to
+ practice  in the state, who is not a party to an action, when subscribed
+ and affirmed by him OR HER to be true under the  penalties  of  perjury,
+ may  be served or filed in the action in lieu of and with the same force
+ and effect as an affidavit.
+  (b) The statement of  any  person,  when  that  person  is  physically
+ located  outside  the geographic boundaries of the United States, Puerto
+ Rico, the United States Virgin Islands,  or  any  territory  or  insular
+ possession  subject to the jurisdiction of the United States, subscribed
+ and affirmed by that person to be true under the penalties  of  perjury,
+ may  be  used in an action in lieu of and with the same force and effect
+ as an affidavit. Such affirmation shall be in substantially the  follow-
+ ing form:
+  I  affirm this ___ day of ______, ____, under the penalties of perjury
+ under the laws of New York, which may include a  fine  or  imprisonment,
+ that  I  am  physically located outside the geographic boundaries of the
+ United States, Puerto Rico, the United States  Virgin  Islands,  or  any
+ territory  or  insular  possession  subject  to  the jurisdiction of the
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07030-01-3
+ S. 2997  2
+ 
+ United States, that the foregoing is true, and I  understand  that  this
+ document may be filed in an action or proceeding in a court of law.
+  (Signature)
+  § 2. This act shall take effect immediately.
