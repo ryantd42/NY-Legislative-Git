@@ -1,0 +1,66 @@
+# Requires sunscreen be made available at all state parks, recreational facilities, historic sites or programs and other appropriate locations
+
+**Bill ID:** A2426
+**Session:** 2023
+**Sponsor:** Jodi Giglio
+**Status:** In Assembly Committee
+
+## Summary
+
+Directs the commissioner of parks, recreation and historic preservation to make sunscreen available at the entrance to all state parks, recreational facilities, historic sites or programs and other appropriate locations at the discretion of such commissioner; defines term as any topical sunscreen product approved by the federal Food and Drug Administration for over-the-counter use for the purpose of avoiding overexposure to the sun and not for medical treatment of any injury or illness.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2426
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. J. A. GIGLIO -- read once and referred to the
+  Committee on Tourism, Parks, Arts and Sports Development
+ 
+ AN ACT to amend the parks, recreation and historic preservation law,  in
+  relation  to requiring sunscreen be made available at all state parks,
+  recreational facilities, historic sites or programs and  other  appro-
+  priate locations
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subdivision 21 of section 3.09 of the parks, recreation and
+ historic preservation law, as added by chapter 338 of the laws of  2005,
+ is amended to read as follows:
+  21.  (A)  Develop,  in  consultation  with the commissioner of health,
+ informational signs and brochures alerting patrons  of  the  dangers  of
+ overexposure  to the sun and its relationship to skin cancer. The infor-
+ mation on such signs and in such  brochures  shall  include  methods  by
+ which  an individual may help prevent exposure to the sun and lessen his
+ or her risk of contracting skin cancer.  Such  signs  and  informational
+ brochures  shall be placed in appropriate locations at the discretion of
+ the commissioner.
+  (B) MAKE SUNSCREEN AVAILABLE AT  THE  ENTRANCE  TO  ALL  STATE  PARKS,
+ RECREATIONAL  FACILITIES, HISTORIC SITES OR PROGRAMS AND OTHER APPROPRI-
+ ATE LOCATIONS AT THE DISCRETION OF THE COMMISSIONER. FOR THE PURPOSES OF
+ THIS SUBDIVISION, THE TERM "SUNSCREEN" SHALL MEAN ANY TOPICAL  SUNSCREEN
+ PRODUCT  APPROVED  BY THE FEDERAL FOOD AND DRUG ADMINISTRATION FOR OVER-
+ THE-COUNTER USE FOR THE PURPOSE OF AVOIDING OVEREXPOSURE TO THE SUN  AND
+ NOT FOR MEDICAL TREATMENT OF AN INJURY OR ILLNESS.
+  § 2. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law; provided, however, that effective immediate-
+ ly,  the  addition,  amendment and/or repeal of any rules or regulations
+ necessary for the implementation of the foregoing provisions of this act
+ on its effective date  are  authorized  and  directed  to  be  made  and
+ completed on or before such effective date.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07173-01-3
