@@ -1,0 +1,124 @@
+# Provides for actuarially appropriate discounts on fire and homeowners insurance after completion of certified residential home safety and loss prevention course; repealer
+
+**Bill ID:** A2436
+**Session:** 2023
+**Sponsor:** William Colton
+**Status:** In Assembly Committee
+
+## Summary
+
+Provides for the establishment of residential home safety and loss prevention courses certified by the superintendent of financial services; requires insurers to provide actuarially appropriate discounts on fire and homeowners insurance premiums to those homeowners who have completed a residential home safety and loss prevention course; directs the superintendent of financial services to promulgate such rules and regulations as are necessary to implement such program and specifies certain matters which must be included in such rules and regulations; requires the superintendent of financial services to issue a report thereon.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2436
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. COLTON, COOK, L. ROSENTHAL, MILLER, PALMESANO,
+  SANTABARBARA, HYNDMAN, RIVERA -- read once and referred to the Commit-
+  tee on Insurance
+ 
+ AN ACT to amend the insurance law, in relation to establishing  residen-
+  tial  home  safety  and  loss  prevention courses and providing for an
+  associated reduction in certain insurance premiums and  providing  for
+  the repeal of such provisions upon expiration thereof
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 2346 of the insurance law is amended  by  adding  a
+ new subsection 6 to read as follows:
+  6.  THE  SUPERINTENDENT  SHALL  PROVIDE FOR AN ACTUARIALLY APPROPRIATE
+ REDUCTION IN THE RATES OF FIRE INSURANCE PREMIUMS OR  HOMEOWNERS  INSUR-
+ ANCE  PREMIUMS  APPLICABLE  TO RESIDENTIAL REAL PROPERTY FOR ANY INSURED
+ FOR A THREE YEAR PERIOD AFTER SUCCESSFULLY COMPLETING A RESIDENTIAL HOME
+ SAFETY AND LOSS PREVENTION COURSE  CERTIFIED  PURSUANT  TO  SECTION  TWO
+ THOUSAND THREE HUNDRED FORTY-SIX-B OF THIS ARTICLE.
+  §  2.  The  insurance law is amended by adding a new section 2346-b to
+ read as follows:
+  § 2346-B. CERTIFICATION OF RESIDENTIAL HOME SAFETY AND LOSS PREVENTION
+ COURSES. (A) THE DEPARTMENT, IN CONSULTATION WITH  THE  OFFICE  OF  FIRE
+ PREVENTION AND CONTROL OF THE DIVISION OF HOMELAND SECURITY AND EMERGEN-
+ CY  SERVICES AND ANY ADDITIONAL STATE ENTITY IT DEEMS APPROPRIATE, SHALL
+ CERTIFY ALL RESIDENTIAL HOME SAFETY AND LOSS PREVENTION COURSES THAT ARE
+ AUTHORIZED TO OFFER CLASSES THROUGH WHICH THE INSURED SHALL BE  ELIGIBLE
+ TO  RECEIVE AN INSURANCE PREMIUM REDUCTION PURSUANT TO SUBSECTION SIX OF
+ SECTION TWO THOUSAND THREE HUNDRED FORTY-SIX OF THIS ARTICLE.
+  (B) FOR THE PURPOSES OF THIS SECTION:
+  (1) "RESIDENTIAL HOME SAFETY AND LOSS PREVENTION COURSE"  OR  "COURSE"
+ SHALL  MEAN AN INSTRUCTIONAL PROGRAM THAT PRESENTS INFORMATION AND METH-
+ ODS THAT CAN HELP  AN  INSURED  TO  SIGNIFICANTLY  PREVENT  OR  MINIMIZE
+ PERSONAL  INJURIES  AND PROPERTY LOSSES IN RESIDENTIAL REAL PROPERTY DUE
+ TO THE OCCURRENCE  OF  FIRE,  THEFT,  BURGLARY,  ACCIDENTS  AND  WEATHER
+ RELATED  EVENTS, INCLUDING, BUT NOT LIMITED TO, HOW TO MITIGATE PROPERTY
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00893-01-3
+ A. 2436  2
+
+ DAMAGE FROM HURRICANES, ICE STORMS, TORNADOES AND OTHER  NATURAL  DISAS-
+ TERS; AND
+  (2)  "COURSE  SPONSOR" SHALL MEAN ANY INDIVIDUAL, COMPANY OR ORGANIZA-
+ TION THAT HAS DEVELOPED OR OWNS  A  RESIDENTIAL  HOME  SAFETY  AND  LOSS
+ PREVENTION  COURSE  AND ALL AGENTS OF SUCH SPONSOR INCLUDING INDEPENDENT
+ CONTRACTORS THAT CONDUCT CLASSES FOR SUCH SPONSOR AND CLASS INSTRUCTORS.
+  (C) THE DEPARTMENT SHALL PROMULGATE SUCH RULES AND REGULATIONS AS  ARE
+ NECESSARY TO IMPLEMENT THE PROVISIONS OF THIS SECTION. SUCH RULES SHALL,
+ AT A MINIMUM, PROVIDE FOR:
+  (1)  COURSE  SPONSOR  APPLICATION  PROCEDURES  THAT AN APPLICANT SHALL
+ FOLLOW TO OBTAIN COURSE CERTIFICATION APPROVAL;
+  (2) CURRICULUM STANDARDS THAT  THE  COURSE  SPONSORS  AND  INSTRUCTORS
+ SHALL UTILIZE, BASED UPON SUBMISSIONS FROM ANY COURSE SPONSOR AS DEFINED
+ IN  PARAGRAPH  TWO OF SUBSECTION (B) OF THIS SECTION, INCLUDING TEACHING
+ METHODS AND TIME REQUIREMENTS WHICH SHALL BE IN EXCESS OF THREE HOURS;
+  (3) STANDARDS, BASED UPON  SUBMISSIONS  FROM  ANY  COURSE  SPONSOR  AS
+ DEFINED  IN PARAGRAPH TWO OF SUBSECTION (B) OF THIS SECTION, THAT COURSE
+ SPONSORS SHALL SATISFY TO ENSURE THAT CLASS INSTRUCTORS  ARE  ADEQUATELY
+ TRAINED;
+  (4) A DEMONSTRATION BY THE COURSE SPONSOR THAT SUCCESSFULLY COMPLETING
+ SUCH COURSE WILL SIGNIFICANTLY REDUCE FIRE, THEFT, LIABILITY AND WEATHER
+ RELATED LOSSES IN THE RESIDENCE;
+  (5)  STANDARDS,  BASED  UPON  SUBMISSIONS  FROM  ANY COURSE SPONSOR AS
+ DEFINED IN PARAGRAPH TWO OF SUBSECTION (B) OF THIS  SECTION,  TO  ENSURE
+ THAT  INDIVIDUALS  THAT  COMPLETE SUCH COURSE SHALL RECEIVE CERTIFICATES
+ THAT CAN BE SUBMITTED TO AN INSURER TO DEMONSTRATE SUCCESSFUL COMPLETION
+ OF THE CLASS. SUCH CERTIFICATES OF COMPLETION SHALL BE TAMPER PROOF  AND
+ DESIGNED SO THAT THEY CAN NOT BE FRAUDULENTLY REPRODUCED OR FORGED BY AN
+ UNAUTHORIZED ISSUER; AND
+  (6)  PROCEDURES  FOR  ON-GOING SURVEILLANCE OF COURSE PRESENTATION AND
+ ADMINISTRATION TO ENSURE THAT THE INSURANCE  PREMIUM  REDUCTION  AWARDED
+ IS,  AND  CONTINUES  TO  BE,  PROPORTIONALLY  RELATED TO THE ACTUARIALLY
+ CALCULABLE DECREASE IN LOSSES ATTRIBUTABLE TO THE COURSE.
+  (D) THE DEPARTMENT IS AUTHORIZED TO SUSPEND OR REVOKE THE  CERTIFICATE
+ OF APPROVAL OF ANY COURSE SPONSOR IF THE DEPARTMENT DETERMINES THAT SUCH
+ SPONSOR  HAS  VIOLATED  THE  PROVISIONS OF THIS SECTION OR HAS MISREPRE-
+ SENTED INFORMATION ON THE INITIAL APPLICATION  OR  IN  PERIODIC  REPORTS
+ SUBMITTED TO THE DEPARTMENT.
+  (E)  THE  DEPARTMENT  MAY  INCREASE  OR DECREASE THE INSURANCE PREMIUM
+ DISCOUNT AWARDED TO SUCH COURSE IF IT IS FOUND THAT SUCH DISCOUNT IS NOT
+ ACTUARIALLY APPROPRIATE.
+  § 3. Not less than 180 days before the expiration of the provision  of
+ this  act, the superintendent of financial services shall issue a report
+ to the governor, temporary president  of  the  senate,  speaker  of  the
+ assembly,  and  the  chairs of the committees on insurance of the senate
+ and assembly stating his or her findings on the  effect  of  residential
+ home safety and loss prevention courses in reducing homeowners insurance
+ claims.
+  § 4. This act shall take effect on the one hundred eightieth day after
+ it  shall  have  become  a law and shall expire and be deemed repealed 5
+ years after such effective date.  Effective immediately,  the  addition,
+ amendment  and/or  repeal  of  any  rule or regulation necessary for the
+ implementation of this act on its effective date are  authorized  to  be
+ made and completed on or before such effective date.
