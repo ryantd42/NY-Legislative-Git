@@ -1,0 +1,75 @@
+# Relates to the submission of environmental impact statements by entities proposing construction of a new building development within one mile of a transit facility
+
+**Bill ID:** A2508
+**Session:** 2023
+**Sponsor:** Ron Kim
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires the commissioner to promulgate rules and regulations requiring entities proposing construction of a new building development within one mile of a transit facility to submit environmental impact statements; defines transit facility.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2508
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  KIM,  ROZIC -- read once and referred to the
+  Committee on Transportation
+ 
+ AN ACT to amend the transportation law, in  relation  to  requiring  the
+  submission  of  environmental  impact statements by entities proposing
+  construction of a new building development within one mile of a trans-
+  it facility
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 14 of the transportation law is amended by adding a
+ new subdivision 37 to read as follows:
+  37. (A) TO PROMULGATE, IN CONSULTATION WITH THE DEPARTMENT OF ENVIRON-
+ MENTAL  CONSERVATION, RULES AND REGULATIONS REQUIRING ANY ENTITY PROPOS-
+ ING CONSTRUCTION OF A NEW BUILDING DEVELOPMENT WITHIN ONE  MILE  OF  ANY
+ TRANSIT  FACILITY  TO  SUBMIT  AN  ENVIRONMENTAL IMPACT STATEMENT TO THE
+ DEPARTMENT. SUCH ENVIRONMENTAL IMPACT STATEMENT SHALL CONFORM  WITH  THE
+ REQUIREMENTS  OF ARTICLE EIGHT OF THE ENVIRONMENTAL CONSERVATION LAW AND
+ SHALL CONTAIN A THOROUGH INVESTIGATION OF THE UNDERGROUND  ENVIRONMENTAL
+ IMPACT, INCLUDING BUT NOT LIMITED TO, CURRENT AND POTENTIAL CONTRIBUTION
+ TO  SOIL  TOXICITY,  THE  EFFECTS  OF  THE  EXPLOITATION  OF  GEO-ENERGY
+ RESOURCES (SUCH AS THE FRACKING AND TRANSMISSION OF SHALE GAS), GEOTHER-
+ MAL ENERGY GENERATION, AND THE SEQUESTRATION OF CARBON DIOXIDE.
+  (B) FOR PURPOSES OF THIS SUBDIVISION, THE FOLLOWING TERMS  SHALL  HAVE
+ THE FOLLOWING MEANINGS:
+  (I)  "BUILDING  DEVELOPMENT" SHALL MEAN THE PROPOSED CONSTRUCTION OF A
+ ROAD OR STRUCTURE.
+  (II) "TRANSIT FACILITY" SHALL MEAN A RAPID TRANSIT  RAILROAD,  OMNIBUS
+ LINE  OR  ANY  OTHER  FACILITY  OR  ANY RAILROAD USED FOR SERVICE IN THE
+ TRANSPORTATION OF PASSENGERS AS COMMON  CARRIERS  FOR  HIRE  OR  IN  THE
+ TRANSPORTATION  OF  THE UNITED STATES MAIL OR PERSONAL PROPERTY, AND ANY
+ PORTION THEREOF AND THE RIGHTS, LEASEHOLDS OR OTHER  INTERESTS  THEREIN,
+ TOGETHER  WITH  THE  DEVICES AND APPURTENANCES, FACILITIES AND EQUIPMENT
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03821-01-3
+ A. 2508  2
+ 
+ THEREOF AND POWER PLANTS AND  OTHER  INSTRUMENTALITIES  USED  OR  USEFUL
+ THEREFOR  OR  IN  CONNECTION  THEREWITH.  TRANSIT FACILITY SHALL INCLUDE
+ AIRPORTS,  BUS  TERMINALS,  FERRY  TERMINALS  AND  ANY  OTHER  STRUCTURE
+ DESIGNED  TO  EFFECTUATE OR COORDINATE THE USE AND ACCESSIBILITY OF MASS
+ TRANSPORTATION IN THE STATE, INCLUDING FACILITIES UNDER THE AUTHORITY OF
+ THE METROPOLITAN TRANSIT AUTHORITY, THE NEW YORK CITY TRANSIT  AUTHORITY
+ AND THE PORT AUTHORITY OF NEW YORK AND NEW JERSEY.
+  § 2. This act shall take effect immediately.
