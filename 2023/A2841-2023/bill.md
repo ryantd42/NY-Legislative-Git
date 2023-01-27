@@ -1,0 +1,82 @@
+# Provides a tax credit to certain landowners who allow snowmobile access on such land
+
+**Bill ID:** A2841
+**Session:** 2023
+**Sponsor:** Angelo Santabarbara
+**Status:** In Assembly Committee
+
+## Summary
+
+Provides a tax credit to certain landowners who allow snowmobile access on such land.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2841
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 27, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. SANTABARBARA -- read once and referred to the
+  Committee on Tourism, Parks, Arts and Sports Development
+ 
+ AN ACT to amend the tax law, in relation to providing a  tax  credit  to
+  certain landowners who allow snowmobile access on such land
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 606 of the tax law  is  amended  by  adding  a  new
+ subsection (n-3) to read as follows:
+  (N-3)  CREDIT FOR CERTAIN LANDOWNERS WHO ALLOW SNOWMOBILE ACCESS.  (1)
+ AN INDIVIDUAL TAXPAYER WHO MEETS THE ELIGIBILITY STANDARDS IN  PARAGRAPH
+ TWO  OF  THIS  SUBSECTION  SHALL  BE  ALLOWED A CREDIT AGAINST THE TAXES
+ IMPOSED BY THIS ARTICLE IN THE AMOUNT SPECIFIED IN  PARAGRAPH  THREE  OF
+ THIS SUBSECTION.
+  (2)  TO  BE ELIGIBLE FOR THE CREDIT, THE TAXPAYER (OR TAXPAYERS FILING
+ JOINT RETURNS) ON THE PERSONAL INCOME TAX RETURN MUST  ALLOW  SNOWMOBILE
+ ACCESS IN THE FORM OF A STATE-FUNDED SNOWMOBILE TRAIL OR PORTION THEREOF
+ ON PROPERTY OWNED BY THE TAXPAYER.
+  (3) A TAXPAYER SHALL BE ALLOWED A CREDIT EQUAL TO TEN CENTS PER LINEAR
+ FOOT  OF  STATE-FUNDED SNOWMOBILE TRAIL ON ELIGIBLE PROPERTY PURSUANT TO
+ PARAGRAPH TWO OF THIS SUBSECTION.
+  (4) THE AMOUNT OF THE CREDIT THAT MAY BE CLAIMED BY A TAXPAYER  PURSU-
+ ANT  TO  THIS SUBSECTION SHALL NOT EXCEED SEVEN HUNDRED FIFTY DOLLARS IN
+ ANY GIVEN YEAR.
+  (5) IF THE AMOUNT OF CREDIT ALLOWABLE UNDER THIS  SUBSECTION  FOR  ANY
+ TAXABLE  YEAR  SHALL EXCEED THE TAXPAYER'S TAX FOR SUCH YEAR, THE EXCESS
+ ALLOWED FOR A TAXABLE YEAR COMMENCING PRIOR TO JANUARY FIRST, TWO  THOU-
+ SAND  TWENTY-FOUR MAY BE CARRIED OVER TO THE FOLLOWING YEAR OR YEARS AND
+ MAY BE DEDUCTED FROM THE TAXPAYER'S TAX FOR SUCH YEAR OR YEARS,  BUT  IN
+ NO  EVENT  SHALL SUCH CREDIT BE CARRIED OVER TO TAXABLE YEARS COMMENCING
+ ON OR AFTER JANUARY FIRST, TWO THOUSAND THIRTY-FOUR, AND ANY  AMOUNT  OF
+ CREDIT  ALLOWED FOR A TAXABLE YEAR COMMENCING ON OR AFTER JANUARY FIRST,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04523-01-3
+ A. 2841  2
+ 
+ TWO THOUSAND TWENTY-FOUR AND NOT DEDUCTIBLE IN SUCH YEAR MAY BE  CARRIED
+ OVER  TO  THE TEN TAXABLE YEARS NEXT FOLLOWING SUCH TAXABLE YEAR AND MAY
+ BE DEDUCTED FROM THE TAXPAYER'S TAX FOR SUCH YEAR OR YEARS. IN  LIEU  OF
+ CARRYING  OVER  ANY  SUCH EXCESS, A TAXPAYER WHO IS ELIGIBLE PURSUANT TO
+ PARAGRAPH TWO OF THIS SUBSECTION MAY, AT HIS OR HER OPTION, RECEIVE SUCH
+ EXCESS AS A REFUND. ANY REFUND PAID PURSUANT TO THIS PARAGRAPH SHALL  BE
+ DEEMED  TO  BE  A REFUND OF AN OVERPAYMENT OF TAX AS PROVIDED IN SECTION
+ SIX HUNDRED EIGHTY-SIX OF  THIS  ARTICLE,  PROVIDED,  HOWEVER,  THAT  NO
+ INTEREST SHALL BE PAID THEREON.
+  §  2. This act shall take effect on the first of January next succeed-
+ ing the date on which it shall have become a  law  and  shall  apply  to
+ taxable  years  beginning on or after such date. The department of taxa-
+ tion and finance is  authorized  to  promulgate  rules  and  regulations
+ necessary  for  the  timely implementation of this act on or before such
+ effective date.
