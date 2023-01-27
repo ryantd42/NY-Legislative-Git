@@ -1,0 +1,125 @@
+# Authorizes life insurers to establish wellness programs
+
+**Bill ID:** A2853B
+**Session:** 2023
+**Sponsor:** Demond Meeks
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Authorizes life insurers to establish wellness programs in conjunction with the issuance of life insurance policies; provides for full or partial reimbursement for the cost of a device and associated subscription that can be used to track activity or biometric data; provides for discounts on life insurance and on products or services intended to incent positive behavioral changes.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2853
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 27, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. MEEKS, CLARK, LUPARDO, STECK -- read once and
+  referred to the Committee on Insurance
+ 
+ AN ACT to amend the insurance  law,  in  relation  to  authorizing  life
+  insurers to establish wellness programs
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Section 3239 of the insurance law, as added by chapter  592
+ of  the  laws  of 2008 and subsections (b) and (c) as amended by chapter
+ 180 of the laws of 2016, is amended to read as follows:
+  § 3239. Wellness programs. (a)  An  insurer  licensed  to  write  LIFE
+ INSURANCE MAY ESTABLISH A WELLNESS PROGRAM IN CONJUNCTION WITH ITS ISSU-
+ ANCE  OF  LIFE INSURANCE POLICIES AND AN INSURER LICENSED TO WRITE acci-
+ dent and health insurance, a corporation organized pursuant  to  article
+ forty-three of this chapter, a health maintenance organization certified
+ pursuant  to article forty-four of the public health law and a municipal
+ cooperative health benefits plan may establish  a  wellness  program  in
+ conjunction  with  its issuance of a group accident and health insurance
+ policy or group subscriber contract. A "wellness program" is  a  program
+ designed  to promote health [and], LONGEVITY AND/OR prevent disease that
+ may contain rewards and incentives for participation.  Participation  in
+ the wellness program shall be available to similarly-situated members of
+ the  group  OR TO ALL INSUREDS WITHIN THE SAME CLASS and shall be volun-
+ tary on the part of the member OR INSURED.  The terms of  the  wellness
+ program shall be set forth in the policy or contract.
+  (b) A wellness program may include, but is not limited to, the follow-
+ ing programs or services:
+  (1) the use of a health risk assessment tool;
+  (2) a smoking cessation program;
+  (3) a weight management program;
+  (4) a stress and/or hypertension management program;
+  (5) a worker injury prevention program;
+  (6) a nutrition education program;
+  (7) health or fitness incentive programs;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07895-01-3
+ A. 2853  2
+ 
+  (8)  a coordinated weight management, nutrition, stress management and
+ physical fitness program to combat  the  high  incidence  of  adult  and
+ childhood obesity, asthma and other chronic respiratory conditions;
+  (9) a substance or alcohol abuse cessation program; [and]
+  (10) a program to manage and cope with chronic pain; AND
+  (11) A PREVENTATIVE CARE OR CHRONIC DISEASE MANAGEMENT PROGRAM.
+  (c)(1)  A  wellness program may use rewards and incentives for partic-
+ ipation provided  that  where  the  group  health  insurance  policy  or
+ subscriber  contract  is required to be community-rated, the rewards and
+ incentives shall not include a discounted premium rate or  a  rebate  or
+ refund of premium.
+  (2) Permissible rewards and incentives may include:
+  (A)  full  or  partial  reimbursement  of the cost of participating in
+ smoking cessation, weight management, stress and/or hypertension, worker
+ injury prevention,  nutrition  education,  substance  or  alcohol  abuse
+ cessation,  PREVENTIVE  CARE  PROGRAMS,  CHRONIC  DISEASE  MANAGEMENT
+ PROGRAMS, or chronic pain management and coping programs;
+  (B) full or partial reimbursement of  the  cost  of  membership  in  a
+ health club or fitness center;
+  (C) the waiver or reduction of copayments, coinsurance and deductibles
+ for  preventive services covered under the group HEALTH INSURANCE policy
+ or subscriber contract;
+  (C-1) A PREMIUM REFUND, DISCOUNT OR POLICY VALUE CREDIT UNDER  A  LIFE
+ INSURANCE POLICY;
+  (D)  monetary  rewards in the form of gift cards or gift certificates,
+ [so long as the recipient of the reward is encouraged to use the  reward
+ for  a  product  or a service that promotes good health, such as healthy
+ cook books, over the counter vitamins or exercise equipment] VOUCHERS OR
+ DISCOUNTS ON PRODUCTS OR SERVICES THAT ARE INTENDED TO INCENT BEHAVIORAL
+ CHANGES THAT IMPROVE THE HEALTH OR REDUCE  THE  RISK  OF  DEATH  OF  THE
+ INSURED;
+  (E)  full  or  partial reimbursement of the cost of participating in a
+ stress management program or  activity,  INCLUDING  PARTICIPATION  IN  A
+ MEDITATION,  MINDFULNESS,  SLEEP  IMPROVEMENT  OR  SIMILAR  PROGRAM  OR
+ SERVICE; [and]
+  (F) full or partial reimbursement of the cost of  participating  in  a
+ health or fitness program;
+  (G)  FULL  OR  PARTIAL  REIMBURSEMENT  OF THE COST OF A DEVICE AND ANY
+ ASSOCIATED SUBSCRIPTION MEMBERSHIP THAT CAN BE USED  TO  TRACK  PHYSICAL
+ ACTIVITY  AND/OR  BIOMETRIC  DATA, SUCH AS HEART RATE, BODY COMPOSITION,
+ TONE OF VOICE, SLEEP OR SIMILAR INFORMATION TO INCENT BEHAVIORAL CHANGES
+ THAT IMPROVE THE HEALTH OR REDUCE THE RISK OF DEATH OF THE INSURED; AND
+  (H) FULL OR PARTIAL REIMBURSEMENT OF BIOMETRIC SCREENINGS.
+  (3) Where the reward involves a group  member's  meeting  a  specified
+ standard  based  on  a  health  condition,  the wellness program UNDER A
+ HEALTH INSURANCE POLICY must meet the requirements of 45 CFR Part 146.
+  (4) A reward or incentive which involves a discounted premium rate  or
+ a  rebate  or refund of premium UNDER A HEALTH INSURANCE POLICY shall be
+ based on actuarial demonstration that the wellness program  can  reason-
+ ably  be expected to result in the overall good health and well being of
+ the group. A REWARD OR INCENTIVE WHICH  INVOLVES  A  DISCOUNTED  PREMIUM
+ RATE  OR REBATE OR REFUND OF PREMIUM UNDER A LIFE INSURANCE POLICY SHALL
+ BE SUPPORTED BY DATA AND RESEARCH THAT SUCH INCENTIVES,  IN  THE  AGGRE-
+ GATE,  ARE  DIRECTED  TO SHARING THE BENEFIT OF IMPROVING MORTALITY RISK
+ EXPERIENCE.
+  § 2. This act shall take effect immediately.
