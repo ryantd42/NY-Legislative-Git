@@ -1,0 +1,56 @@
+# Prohibits the approval of a charter school application when such school would operate within the Buffalo city school district
+
+**Bill ID:** A2851
+**Session:** 2023
+**Sponsor:** Crystal Peoples-Stokes
+**Status:** In Assembly Committee
+
+## Summary
+
+Prohibits the approval of a charter school application when such school would operate within the Buffalo city school district.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2851
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 27, 2023
+  ___________
+ 
+ Introduced  by  M. of A. PEOPLES-STOKES -- read once and referred to the
+  Committee on Education
+ 
+ AN ACT prohibiting the approval of a  charter  school  application  when
+  such school would operate within the Buffalo city school district; and
+  providing for the repeal of such provisions upon expiration thereof
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Notwithstanding any provision of law, rule or regulation to
+ the contrary, commencing on July 1, 2023, no application to establish  a
+ charter  school  submitted pursuant to section 2851 of the education law
+ shall be approved by any charter entity if such proposed charter  school
+ would  operate  within  the Buffalo city school district. Furthermore, a
+ charter that has been surrendered,  revoked  or  terminated  within  the
+ Buffalo city school district on or after July 1, 2023, including a char-
+ ter that has not been renewed by action of its charter entity, shall not
+ be reissued within the Buffalo city school district.
+  §  2.  This  act shall take effect immediately and shall expire and be
+ deemed repealed June 30, 2026.
+ 
+ 
+ 
+ 
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01610-01-3
