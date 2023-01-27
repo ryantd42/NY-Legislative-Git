@@ -1,0 +1,104 @@
+# Prohibits non-compete agreements and certain restrictive covenants
+
+**Bill ID:** S3100A
+**Session:** 2023
+**Sponsor:** Sean Ryan
+**Status:** Vetoed
+
+## Summary
+
+Prohibits non-compete agreements and certain restrictive covenants; authorizes covered individuals to bring a civil action in a court of competent jurisdiction against any employer or persons alleged to have violated such prohibition.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3100
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 27, 2023
+  ___________
+ 
+ Introduced  by  Sen.  RYAN  --  read twice and ordered printed, and when
+  printed to be committed to the Committee on Labor
+ 
+ AN ACT to amend the labor law, in relation  to  prohibiting  non-compete
+  agreements and certain restrictive covenants
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The labor law is amended by adding a new section  191-d  to
+ read as follows:
+  §  191-D. NON-COMPETE AGREEMENTS. 1. FOR THE PURPOSES OF THIS SECTION,
+ THE TERM:
+  (A) "NON-COMPETE AGREEMENT" MEANS ANY AGREEMENT, OR  CLAUSE  CONTAINED
+ IN  ANY  AGREEMENT,  BETWEEN  AN  EMPLOYER AND A COVERED INDIVIDUAL THAT
+ PROHIBITS OR RESTRICTS SUCH COVERED INDIVIDUAL  FROM  OBTAINING  EMPLOY-
+ MENT, AFTER THE CONCLUSION OF EMPLOYMENT WITH THE EMPLOYER INCLUDED AS A
+ PARTY TO THE AGREEMENT; AND
+  (B)  "COVERED  INDIVIDUAL"  MEANS ANY OTHER PERSON WHO, WHETHER OR NOT
+ EMPLOYED UNDER A CONTRACT OF EMPLOYMENT, PERFORMS WORK OR  SERVICES  FOR
+ ANOTHER  PERSON  ON SUCH TERMS AND CONDITIONS THAT THEY ARE, IN RELATION
+ TO THAT OTHER PERSON, IN A POSITION OF ECONOMIC DEPENDENCE ON, AND UNDER
+ AN OBLIGATION TO PERFORM DUTIES FOR, THAT OTHER PERSON.
+  2. NO EMPLOYER OR ITS AGENT, OR THE OFFICER OR  AGENT  OF  ANY  CORPO-
+ RATION,  PARTNERSHIP,  LIMITED LIABILITY COMPANY, OR OTHER ENTITY, SHALL
+ SEEK, REQUIRE, DEMAND OR ACCEPT A NON-COMPETE AGREEMENT FROM ANY COVERED
+ INDIVIDUAL.
+  3. EVERY CONTRACT BY WHICH ANYONE IS RESTRAINED  FROM  ENGAGING  IN  A
+ LAWFUL  PROFESSION,  TRADE,  OR  BUSINESS  OF ANY KIND IS TO THAT EXTENT
+ VOID. FOR ALL COVERED INDIVIDUALS, NO EMPLOYER  OR  ITS  AGENT,  OR  THE
+ OFFICER  OR  AGENT  OF  ANY  CORPORATION, PARTNERSHIP, LIMITED LIABILITY
+ COMPANY, OR OTHER ENTITY SHALL SEEK, REQUIRE, DEMAND OR  ACCEPT  A  NON-
+ COMPETE AGREEMENT FROM ANY COVERED INDIVIDUAL.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05912-01-3
+ S. 3100  2
+ 
+  4.  (A)  A  COVERED INDIVIDUAL, MAY BRING A CIVIL ACTION IN A COURT OF
+ COMPETENT JURISDICTION AGAINST ANY EMPLOYER OR PERSONS ALLEGED  TO  HAVE
+ VIOLATED  THIS  SECTION.  A  COVERED  INDIVIDUAL SHALL BRING SUCH ACTION
+ WITHIN TWO YEARS OF THE LATER OF: (I) WHEN  THE  PROHIBITED  NON-COMPETE
+ AGREEMENT  WAS  SIGNED;  (II)  WHEN THE COVERED INDIVIDUAL LEARNS OF THE
+ PROHIBITED NON-COMPETE AGREEMENT; (III) WHEN THE EMPLOYMENT OR  CONTRAC-
+ TUAL  RELATIONSHIP  IS  TERMINATED;  OR (IV) WHEN THE EMPLOYER TAKES ANY
+ STEP TO ENFORCE THE NON-COMPETE AGREEMENT.  THE COURT SHALL HAVE  JURIS-
+ DICTION  TO  VOID ANY SUCH NON-COMPETE AGREEMENT AND TO ORDER ALL APPRO-
+ PRIATE RELIEF, INCLUDING ENJOINING THE CONDUCT OF ANY PERSON OR  EMPLOY-
+ ER;  ORDERING  PAYMENT  OF  LIQUIDATED  DAMAGES;  AND  AWARDING  LOST
+ COMPENSATION, DAMAGES, REASONABLE ATTORNEYS' FEES AND COSTS.
+  (B) FOR THE PURPOSES OF THIS SUBDIVISION, LIQUIDATED DAMAGES SHALL  BE
+ CALCULATED  AS  AN  AMOUNT NOT MORE THAN TEN THOUSAND DOLLARS. THE COURT
+ SHALL AWARD LIQUIDATED DAMAGES  TO  EVERY  COVERED  INDIVIDUAL  AFFECTED
+ UNDER  THIS SECTION, IN ADDITION TO ANY OTHER REMEDIES PERMITTED BY THIS
+ SECTION.
+  5. NOTHING IN THIS  SECTION  SHALL  BE  CONSTRUED  OR  INTERPRETED  AS
+ AFFECTING  ANY OTHER PROVISION OF FEDERAL, STATE, OR LOCAL LAW, RULE, OR
+ REGULATION RELATING TO THE ABILITY OF  AN  EMPLOYER  TO  ENTER  INTO  AN
+ AGREEMENT  WITH  A PROSPECTIVE OR CURRENT COVERED INDIVIDUAL THAT ESTAB-
+ LISHES A FIXED TERM OF SERVICE OR PROHIBITS DISCLOSURE OF TRADE SECRETS,
+ DISCLOSURE OF CONFIDENTIAL AND PROPRIETARY CLIENT INFORMATION, OR SOLIC-
+ ITATION OF CLIENTS OF THE EMPLOYER THAT THE COVERED  INDIVIDUAL  LEARNED
+ ABOUT DURING EMPLOYMENT, PROVIDED THAT SUCH AGREEMENT DOES NOT OTHERWISE
+ RESTRICT COMPETITION IN VIOLATION OF THIS SECTION.
+  § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
+ sion,  section  or  part  of  this act shall be adjudged by any court of
+ competent jurisdiction to be invalid, such judgment  shall  not  affect,
+ impair,  or  invalidate  the remainder thereof, but shall be confined in
+ its operation to the clause, sentence, paragraph,  subdivision,  section
+ or part thereof directly involved in the controversy in which such judg-
+ ment shall have been rendered. It is hereby declared to be the intent of
+ the  legislature  that  this  act  would  have been enacted even if such
+ invalid provisions had not been included herein.
+  § 3. This act shall take effect on the thirtieth day  after  it  shall
+ have  become  a law and shall be applicable to contracts entered into or
+ modified on or after such effective date.
