@@ -1,0 +1,69 @@
+# Relates to electronic delivery of insurance notices
+
+**Bill ID:** A2815
+**Session:** 2023
+**Sponsor:** Daniel Rosenthal
+**Status:** Stricken
+
+## Summary
+
+Allows for certain notices related to property/casualty insurance contracts under the workers' compensation law and the vehicle and traffic law to be delivered by electronic means.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2815
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 27, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. D. ROSENTHAL -- read once and referred to the
+  Committee on Insurance
+ 
+ AN ACT to amend the insurance law, the vehicle and traffic law  and  the
+  workers'  compensation  law,  in  relation  to  electronic delivery of
+  notices
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subsection  (b)  of section 3458 of the insurance law, as
+ amended by chapter 161 of the laws  of  2022,  is  amended  to  read  as
+ follows:
+  (b) Subject to the requirements of this section, any notice to a party
+ or  any  other  document  required  under this chapter, PARAGRAPH (C) OF
+ SUBDIVISION ONE OF SECTION THREE HUNDRED THIRTEEN  OF  THE  VEHICLE  AND
+ TRAFFIC LAW, AND PARAGRAPH (A) OF SUBDIVISION FIVE OF SECTION FIFTY-FOUR
+ OF THE WORKERS' COMPENSATION LAW in a property/casualty insurance trans-
+ action  or  that  is to serve as evidence of property/casualty insurance
+ coverage may be delivered by electronic means so long as  it  meets  the
+ requirements  of  article  three of the state technology law. Where this
+ chapter requires that notice be mailed or delivered to an address  shown
+ in  the  policy,  the  notice may be delivered by electronic means to an
+ electronic address not specified in the policy.
+  § 2. Subdivision 1 of section 313 of the vehicle and  traffic  law  is
+ amended by adding a new paragraph (c) to read as follows:
+  (C)  AN  ELECTRONIC  NOTICE  THAT COMPLIES WITH SECTION THREE THOUSAND
+ FOUR HUNDRED FIFTY-EIGHT OF THE INSURANCE LAW SHALL  BE  SUFFICIENT  FOR
+ THE PURPOSES OF THIS SECTION.
+  §  3.  Paragraph  (a)  of  subdivision 5 of section 54 of the workers'
+ compensation law is amended by adding a new  undesignated  paragraph  to
+ read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05982-01-3
+ A. 2815  2
+ 
+  AN  ELECTRONIC  NOTICE  THAT COMPLIES WITH SECTION THREE THOUSAND FOUR
+ HUNDRED FIFTY-EIGHT OF THE INSURANCE LAW SHALL  BE  SUFFICIENT  FOR  THE
+ PURPOSES OF THIS SECTION.
+  § 4. This act shall take effect immediately.
