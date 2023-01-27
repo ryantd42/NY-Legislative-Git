@@ -1,0 +1,76 @@
+# Directs the commissioner of health to make recommendations relating to increasing reimbursement rates
+
+**Bill ID:** S3092
+**Session:** 2023
+**Sponsor:** Pamela Helming
+**Status:** In Senate Committee
+
+## Summary
+
+Directs the commissioner of health to make recommendations relating to increasing certain ambulatory patient group reimbursement rates and certain reimbursement rates for patient health care services provided by physicians in rural and underserved areas.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3092
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 27, 2023
+  ___________
+ 
+ Introduced  by  Sen. HELMING -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Health
+ 
+ AN ACT to amend the public health law,  in  relation  to  directing  the
+  commissioner  of health to make recommendations relating to increasing
+  certain ambulatory  patient  group  reimbursement  rates  and  certain
+  reimbursement  rates  for  patient  health  care  services provided by
+  physicians in rural and underserved areas
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subdivision 2-a of section 2807 of the public health law is
+ amended by adding a new paragraph (j) to read as follows:
+  (J)  1.  THE COMMISSIONER SHALL, IN CONJUNCTION WITH HOSPITAL INDUSTRY
+ REPRESENTATIVES, PROVIDE WRITTEN RECOMMENDATIONS TO THE GOVERNOR AND THE
+ LEGISLATURE ON OR BEFORE OCTOBER FIRST, TWO  THOUSAND  TWENTY-THREE,  ON
+ INCREASING  AMBULATORY  PATIENT  GROUPS  REIMBURSEMENT RATES ESTABLISHED
+ PURSUANT TO THIS SUBDIVISION FOR GENERAL HOSPITAL  OUTPATIENT  SERVICES,
+ GENERAL  HOSPITAL  EMERGENCY  SERVICES,  DIAGNOSTIC AND TREATMENT CENTER
+ SERVICES AND AMBULATORY SURGICAL SERVICES, PROVIDED BY  RURAL  HOSPITALS
+ DESIGNATED  AS  CRITICAL ACCESS HOSPITALS IN ACCORDANCE WITH TITLE XVIII
+ OF THE FEDERAL SOCIAL SECURITY ACT. SUCH RECOMMENDATIONS SHALL TAKE INTO
+ CONSIDERATION THE INCREASED COSTS OF PROVIDING SUCH  SERVICES  IN  RURAL
+ AREAS  AS  WELL AS THE NEED TO MAINTAIN ACCESS TO SUCH SERVICES IN RURAL
+ AREAS. IN ADDITION, THE RECOMMENDATIONS SHALL  CONTAIN  PROPOSED  LEGIS-
+ LATION,  FOR  INCORPORATION  INTO  THE STATE BUDGET FOR THE TWO THOUSAND
+ TWENTY-FOUR--TWO THOUSAND TWENTY-FIVE FISCAL YEAR,  TO  EFFECTUATE  RATE
+ INCREASES EFFECTIVE APRIL FIRST, TWO THOUSAND TWENTY-FOUR.
+  2.  THE  COMMISSIONER  SHALL,  IN  CONJUNCTION WITH REPRESENTATIVES OF
+ PHYSICIAN ADVOCACY ORGANIZATIONS INCLUDING THE MEDICAL  SOCIETY  OF  THE
+ STATE  OF  NEW YORK, PROVIDE WRITTEN RECOMMENDATIONS TO THE GOVERNOR AND
+ LEGISLATURE ON OR BEFORE OCTOBER FIRST, TWO  THOUSAND  TWENTY-THREE,  ON
+ INCREASING REIMBURSEMENT RATES FOR PATIENT HEALTH CARE SERVICES PROVIDED
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08014-01-3
+ S. 3092  2
+ 
+ BY  PHYSICIANS  IN  RURAL AND UNDERSERVED AREAS IN ACCORDANCE WITH TITLE
+ XVIII OF THE FEDERAL SOCIAL SECURITY  ACT.  SUCH  RECOMMENDATIONS  SHALL
+ TAKE  INTO  CONSIDERATION THE INCREASED COSTS OF PROVIDING SUCH SERVICES
+ IN  RURAL  AREAS AS WELL AS THE NEED TO MAINTAIN ACCESS TO SUCH SERVICES
+ IN RURAL AREAS. IN ADDITION, THE RECOMMENDATIONS SHALL CONTAIN  PROPOSED
+ LEGISLATION,  FOR  INCORPORATION INTO THE STATE BUDGET FOR THE TWO THOU-
+ SAND TWENTY-FOUR--TWO THOUSAND TWENTY-FIVE FISCAL  YEAR,  TO  EFFECTUATE
+ RATE INCREASES EFFECTIVE APRIL FIRST, TWO THOUSAND TWENTY-FOUR.
+  § 2. This act shall take effect immediately.
