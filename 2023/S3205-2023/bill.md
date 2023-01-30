@@ -1,0 +1,89 @@
+# Eliminates sporting license fees for honorably discharged, disabled veterans
+
+**Bill ID:** S3205
+**Session:** 2023
+**Sponsor:** Pamela Helming
+**Status:** In Senate Committee
+
+## Summary
+
+Eliminates sporting license fees for honorably discharged, disabled veterans.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3205
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 30, 2023
+  ___________
+ 
+ Introduced  by  Sen. HELMING -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN ACT to amend the  environmental  conservation  law,  in  relation  to
+  providing  free  lifetime  licenses for honorably discharged, disabled
+  veterans
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subdivision  1  of  section  11-0702 of the environmental
+ conservation law, as amended by section 16 of part R of  chapter  58  of
+ the laws of 2013, is amended to read as follows:
+  1.  There  are hereby created the following lifetime hunting, fishing,
+ trapping,  archery  and  muzzle-loading  privileges  and  fees  therefor
+ subject  to  the  same  privileges and obligations of a comparable short
+ term license:
+ 
+  Licenses  Fees
+  a. Lifetime license including a
+  hunting license, fishing license
+  and turkey permit. If purchased,
+  for a  child four years
+  of age or younger  $380.00
+  for a child age five through
+  eleven years of age  $535.00
+  for a person age twelve through
+  sixty-nine years of age  $765.00
+  for a person age seventy
+  and over[.]  $65.00
+  FOR A PERSON WHO HAS BEEN
+  HONORABLY DISCHARGED FROM
+  SERVICE IN THE ARMED FORCES OF THE
+  UNITED STATES AND IS CERTIFIED
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05355-01-3
+ S. 3205  2
+ 
+  AS HAVING A FORTY PERCENT OR
+  GREATER SERVICE-CONNECTED DISABILITY.  $0.00
+  b. Lifetime hunting license.  $535.00
+  c. Lifetime fishing
+  license for a person age
+  sixty-nine or younger.  $460.00
+  d. Lifetime fishing license
+  for a person age seventy
+  and over.  $ 65.00
+  e. Lifetime trapping
+  license.  $395.00
+  f. Lifetime archery privilege.  $235.00
+  g. Lifetime muzzle-loading privilege.  $235.00
+  h. For transfer to a person pursuant
+  to section 11-0704 of this title.
+  $50.00
+  The  holder  of a lifetime hunting license or lifetime fishing license
+ may, at any time, convert such license to a lifetime license pursuant to
+ paragraph a of this subdivision for  an  additional  fee  equal  to  the
+ difference  between  the  current  fee  for  the new license and the fee
+ originally paid for the license.
+  § 2. This act shall take effect immediately.
