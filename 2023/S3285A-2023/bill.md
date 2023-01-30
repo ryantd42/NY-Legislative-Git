@@ -1,0 +1,66 @@
+# Relates to children's non-regulated camps
+
+**Bill ID:** S3285A
+**Session:** 2023
+**Sponsor:** Kevin Thomas
+**Status:** Signed by Governor
+
+## Summary
+
+Requires children's non-regulated camps to register annually with the department of health; imposes civil penalties for violations.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3285
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 30, 2023
+  ___________
+ 
+ Introduced  by  Sens.  THOMAS,  HOYLMAN-SIGAL  -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Consumer
+  Protection
+ 
+ AN ACT to amend the general business  law,  in  relation  to  children's
+  non-regulated camps
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 398-f of the general business  law  is  amended  by
+ adding four new subdivisions 4, 5, 6 and 7 to read as follows:
+  4.  (A)  ALL CHILDREN'S NON-REGULATED CAMPS, AS DEFINED IN SUBDIVISION
+ ONE OF THIS SECTION, SHALL REGISTER  ANNUALLY  WITH  THE  DEPARTMENT  OF
+ STATE.
+  (B)  NO PERSON, FIRM, CORPORATION OR ASSOCIATION SHALL OPERATE IN THIS
+ STATE WITHOUT REGISTERING WITH SUCH DEPARTMENT.
+  (C) A KNOWING VIOLATION OF THIS SECTION SHALL BE PUNISHABLE BY A CIVIL
+ PENALTY NOT TO EXCEED FIVE HUNDRED DOLLARS FOR EACH VIOLATION.
+  5. THE FEE TO REGISTER SHALL BE TWO HUNDRED FIFTY DOLLARS, EXCEPT THAT
+ NO FEE SHALL BE CHARGED IN THE CASE OF A CHILDREN'S  NON-REGULATED  CAMP
+ OPERATED  BY  A PERSON, FIRM, CORPORATION OR ASSOCIATION FOR CHARITABLE,
+ PHILANTHROPIC OR RELIGIOUS PURPOSES.
+  6. THE DEPARTMENT OF STATE  SHALL  SUBMIT  AN  ANNUAL  REPORT  TO  THE
+ DEPARTMENT  OF  HEALTH THAT INCLUDES A LIST OF ALL REGISTERED CHILDREN'S
+ NON-REGULATED CAMPS WITHIN THE STATE; THE LOCATION  OF  EACH  CHILDREN'S
+ NON-REGULATED  CAMP; HOW MANY CHILDREN ATTEND A CHILDREN'S NON-REGULATED
+ CAMP; AND A LIST OF ALL ENTITIES THAT  COMMITTED  A  VIOLATION  OF  THIS
+ SECTION FOR THE PREVIOUS CALENDAR YEAR.
+  7.  NON-REGULATED  CAMPS  SHALL  NOT  BE REQUIRED TO REGISTER WITH THE
+ DEPARTMENT UNDER SUBDIVISION FOUR OF THIS SECTION OR PAY ANY  FEE  UNDER
+ SUBDIVISION  FIVE OF THIS SECTION UNTIL THIRTY DAYS AFTER THE DEPARTMENT
+ HAS PROMULGATED REGULATIONS AND CREATED ANY FORMS AND NOTICES  NECESSARY
+ FOR A CAMP TO COMPLY WITH SUCH SUBDIVISIONS.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00942-01-3
