@@ -1,6 +1,6 @@
 # Authorizes Kim Bowers to receive certain service credit with the New York state and local employees' retirement system
 
-**Bill ID:** S525A
+**Bill ID:** S525AA
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes Kim Bowers to receive certain service credit with the New York state 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  525
+  525--A
  
   2023-2024 Regular Sessions
  
@@ -27,46 +27,48 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sen. GALLIVAN -- read twice and ordered printed, and when
   printed to be committed to the Committee on Civil Service and Pensions
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
- AN ACT to authorize Kim Bowers to receive certain  service  credit  with
+ AN  ACT  to  authorize Kim Bowers to receive certain service credit with
   the New York state and local employees' retirement system
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Notwithstanding any other  provision  of  the  law  to  the
+  Section  1.  Notwithstanding  any  other  provision  of the law to the
  contrary, Kim Bowers, an employee of the Erie County Water Authority and
- a  member  of the New York state and local employees' retirement system,
- who for the period beginning January 1, 2006  and  ending  November  19,
- 2018,  was  employed as a member of the Zoning Board of Appeals with the
- town of Orchard Park, and who, for reasons not  ascribable  to  her  own
- negligence,  failed  to become a member of such retirement system during
- such employment with the town of Orchard Park, shall be deemed  to  have
- joined  the New York state and local employees' retirement system on the
- date January 1, 2006, if within one year of the effective date  of  this
+ a member of the New York state and local employees'  retirement  system,
+ who  for  the  period  beginning January 1, 2006 and ending November 19,
+ 2018, was employed as a member of the Zoning Board of Appeals  with  the
+ town  of  Orchard  Park,  and who, for reasons not ascribable to her own
+ negligence, failed to become a member of such retirement  system  during
+ such  employment  with the town of Orchard Park, shall be deemed to have
+ joined the New York state and local employees' retirement system on  the
+ date  January  1, 2006, if within one year of the effective date of this
  act, she shall file a written request with the state comptroller.
-  §  2. No contributions made to the New York state and local employees'
- retirement system by Kim Bowers shall be returned  or  refunded  to  her
+  § 2. No contributions made to the New York state and local  employees'
+ retirement  system  by  Kim  Bowers shall be returned or refunded to her
  pursuant to this act.
-  §  3.  All past service costs of implementing the provisions of this
+  § 3.  All past service costs of implementing the  provisions  of  this
  act shall be borne by the town of Orchard Park.
   § 4. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This bill would grant retroactive Tier 4 status in the New York  State
- and  Local  Employees' Retirement System to Kim Bowers, a current Tier 6
- member employed by the Erie County Water Authority,  by  changing  their
+  This  bill would grant retroactive Tier 4 status in the New York State
+ and Local Employees' Retirement System to Kim Bowers, a current  Tier  6
+ member  employed  by  the Erie County Water Authority, by changing their
  date of membership to January 1, 2006. There will be no refund of member
  contributions.
-  If this bill is enacted during the 2023 legislative session, we antic-
- ipate  that  there  will  be  an increase of approximately $5,600 in the
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00371-02-3
- S. 525  2
+  LBD00371-03-3
+ S. 525--A  2
  
- annual contributions of the Erie County Water Authority for  the  fiscal
- year  ending March 31, 2024. In future years, this cost will vary as the
+  If this bill is enacted during the 2023 legislative session, we antic-
+ ipate that there will be an increase  of  approximately  $5,600  in  the
+ annual  contributions  of the Erie County Water Authority for the fiscal
+ year ending March 31, 2024. In future years, this cost will vary as  the
  billing rates and salary of Kim Bowers change.
   In addition to the annual contributions discussed above, there will be
  an  immediate  past  service cost of approximately $13,900 which will be
@@ -88,6 +90,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated January 3, 2022, and intended for use only during
+  This estimate, dated January 3, 2023, and intended for use only during
  the 2023 Legislative Session, is Fiscal Note No. 2023-2, prepared by the
  Actuary for the New York State and Local Retirement System.
