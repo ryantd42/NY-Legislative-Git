@@ -1,0 +1,66 @@
+# Relates to the naturally occurring retirement community supportive service program
+
+**Bill ID:** S3392
+**Session:** 2023
+**Sponsor:** Rachel May
+**Status:** Signed by Governor
+
+## Summary
+
+Relates to the naturally occurring retirement community supportive service program.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3392
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 31, 2023
+  ___________
+ 
+ Introduced  by  Sen.  MAY  --  read  twice and ordered printed, and when
+  printed to be committed to the Committee on Aging
+ 
+ AN ACT to amend the elder law, in relation to  the  naturally  occurring
+  retirement community supportive service program
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subparagraph 4 of paragraph (f) of subdivision 1 of section
+ 209 of the elder law, as added by section 1 of part S of chapter  59  of
+ the laws of 2016, is amended and a new subdivision 9 is added to read as
+ follows:
+  (4) is made up of low-rise buildings six stories or less and/or single
+ and  multi-family homes, provided, however, that apartment buildings and
+ housing complexes, INCLUDING THOSE  THAT  EXCEED  SIX  STORIES,  may  be
+ included [in rural areas].
+  9. IN THE EVENT THAT A CLASSIC OR NEIGHBORHOOD NORC IS NO LONGER FUND-
+ ED UNDER THIS SECTION, THE DIRECTOR SHALL, TO THE BEST OF THE DIRECTOR'S
+ ABILITY,  PROVIDE  INFORMATION  ABOUT NEARBY SERVICES AVAILABLE TO OLDER
+ ADULTS WHO CURRENTLY LIVE IN SUCH CLASSIC OR NEIGHBORHOOD NORC.
+  § 2. Paragraph (n) of subdivision 4 of section 209 of the  elder  law,
+ as  amended by section 1 of part S of chapter 59 of the laws of 2016, is
+ amended to read as follows:
+  (n) the circumstances under which the director may waive all  or  part
+ of  the  requirement  for  provision  of an equal amount of funding from
+ other sources required pursuant to paragraph (m)  of  this  subdivision,
+ provided  that  such  criteria shall include provision for waiver at the
+ discretion of the director upon a  finding  by  the  director  that  the
+ program  will  serve  a  low income or hardship community, and that such
+ waiver is required to assure that such community receive a fair share of
+ the funding available. The [committee] DIRECTOR shall develop  appropri-
+ ate  criteria  for  determining  whether  a community is a low income or
+ hardship community;
+  § 3. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08352-02-3
