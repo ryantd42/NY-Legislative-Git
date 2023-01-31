@@ -1,0 +1,81 @@
+# Relates to designated suppliers and authorized distributors of nonprescription blood glucose self-testing equipment, devices and supplies
+
+**Bill ID:** S3541
+**Session:** 2023
+**Sponsor:** Neil D. Breslin
+**Status:** In Senate Committee
+
+## Summary
+
+Requires manufacturer of nonprescription blood glucose self-testing equipment, devices and supplies to submit to the New York State Board of Pharmacy a comprehensive list of designated suppliers and authorized distributors of nonprescription blood glucose self-testing equipment, devices and supplies; prohibits pharmacists from distributing nonprescription blood glucose self-testing equipment, devices, and supplies or seeking reimbursement therefor when the pharmacist knows or has reason to know that the equipment did not come through an authorized supplier or distributor.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3541
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 31, 2023
+  ___________
+ 
+ Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Higher Education
+ 
+ AN ACT to amend the education law, in relation to  designated  suppliers
+  and  authorized  distributors  of  nonprescription blood glucose self-
+  testing equipment, devices and supplies
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The education law is amended by adding a new section 6808-c
+ to read as follows:
+  §  6808-C.  SUPPLIERS  AND  AUTHORIZED DISTRIBUTORS OF NONPRESCRIPTION
+ BLOOD GLUCOSE SELF-TESTING EQUIPMENT, DEVICES AND SUPPLIES. 1.  AS  USED
+ IN  THIS SECTION, "NONPRESCRIPTION BLOOD GLUCOSE SELF-TESTING EQUIPMENT,
+ DEVICES AND SUPPLIES" MEANS BLOOD GLUCOSE MONITORS,  CONTINUOUS  GLUCOSE
+ MONITORS  (CGM),  BLOOD GLUCOSE TEST STRIPS, LANCET DEVICES AND LANCETS,
+ GLUCOSE CONTROL SOLUTIONS FOR CHECKING THE ACCURACY OF TESTING EQUIPMENT
+ AND TEST STRIPS, SUPPLY ALLOWANCE  FOR  THERAPEUTIC  CONTINUOUS  GLUCOSE
+ MONITORS  (CGM),  INCLUDING  ALL SUPPLIES AND ACCESSORIES FOR USE IN THE
+ TREATMENT OF PREDIABETIC OR DIABETIC INDIVIDUALS THAT MAY BE SOLD  WITH-
+ OUT A PRESCRIPTION AND ARE LABELED FOR USE BY THE CONSUMER IN ACCORDANCE
+ WITH THE REQUIREMENTS OF THE LAWS AND RULES OF THIS STATE AND THE FEDER-
+ AL GOVERNMENT.
+  2.  WITHIN  ONE  HUNDRED  EIGHTY  DAYS  OF  THE EFFECTIVE DATE OF THIS
+ SECTION, EACH MANUFACTURER OF NONPRESCRIPTION BLOOD GLUCOSE SELF-TESTING
+ EQUIPMENT, DEVICES AND SUPPLIES SHALL SUBMIT TO THE STATE BOARD OF PHAR-
+ MACY  A  COMPREHENSIVE  LIST  OF  DESIGNATED  SUPPLIERS  AND  AUTHORIZED
+ DISTRIBUTORS  OF  NONPRESCRIPTION  BLOOD GLUCOSE SELF-TESTING EQUIPMENT,
+ DEVICES AND SUPPLIES. SUCH MANUFACTURERS SHALL UPDATE THE STATE BOARD OF
+ PHARMACY WHEN THERE ARE ANY CHANGES TO THE LIST OF DESIGNATED  SUPPLIERS
+ AND AUTHORIZED DISTRIBUTORS. WITHIN NINETY DAYS OF RECEIVING THAT INFOR-
+ MATION,  SUCH  BOARD  SHALL  POST  THE NAMES OF DESIGNATED SUPPLIERS AND
+ AUTHORIZED DISTRIBUTORS ON THE DEPARTMENT'S WEBSITE.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03947-01-3
+ S. 3541  2
+ 
+  3. IT SHALL BE UNPROFESSIONAL CONDUCT FOR A PHARMACIST TO:
+  A.  DISPENSE  NONPRESCRIPTION  BLOOD  GLUCOSE  SELF-TESTING EQUIPMENT,
+ DEVICES AND SUPPLIES RECEIVED FROM A PERSON OR ENTITY THAT  THE  PHARMA-
+ CIST  KNEW  OR  REASONABLY  SHOULD  HAVE  KNOWN WAS NOT A MANUFACTURER'S
+ DESIGNATED SUPPLIER OR AUTHORIZED DISTRIBUTOR; OR
+  B. SUBMIT A REIMBURSEMENT  CLAIM  FOR  NONPRESCRIPTION  BLOOD  GLUCOSE
+ SELF-TESTING EQUIPMENT, DEVICES AND SUPPLIES TO A PHARMACEUTICAL BENEFIT
+ MANAGER,  HEALTH  INSURER, GOVERNMENT AGENCY, OR OTHER THIRD-PARTY PAYOR
+ WHEN THE PHARMACIST KNEW  OR  REASONABLY  SHOULD  HAVE  KNOWN  THAT  THE
+ DIABETES TEST DEVICE WAS NOT PURCHASED EITHER DIRECTLY FROM THE MANUFAC-
+ TURER  OR FROM THE NONPRESCRIPTION BLOOD GLUCOSE SELF-TESTING EQUIPMENT,
+ DEVICES AND SUPPLIES MANUFACTURER'S DESIGNATED  SUPPLIER  OR  AUTHORIZED
+ DISTRIBUTOR.
+  § 2. This act shall take effect immediately.
