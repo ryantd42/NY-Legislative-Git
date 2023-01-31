@@ -1,6 +1,6 @@
 # Relates to accessing substance use disorder services based on the individual's gender identity or expression and preference
 
-**Bill ID:** S993A
+**Bill ID:** S993AA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Requires the office of addiction services and supports to assure that persons wh
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  993
+  993--A
  
   2023-2024 Regular Sessions
  
@@ -25,37 +25,39 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sen. HOYLMAN -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Alcoholism  and  Substance
-  Abuse
+ Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+  when printed to be  committed  to  the  Committee  on  Alcoholism  and
+  Substance  Abuse  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend  the  mental  hygiene  law,  in relation to accessing
+ AN ACT to amend  the  mental  hygiene  law,  in  relation  to  accessing
   substance use disorder services based on the individual's gender iden-
-  tity or expression and preference
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  tity, gender expression and/or sexual orientation
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Subdivision (c) of section 19.07 of the mental hygiene law,
- as  amended  by  chapter  281 of the laws of 2019, is amended to read as
+ as amended by chapter 281 of the laws of 2019, is  amended  to  read  as
  follows:
-  (c) The office of [alcoholism and substance abuse services]  ADDICTION
- SERVICES  AND  SUPPORTS  shall  have  the responsibility for seeing that
+  (c)  The office of [alcoholism and substance abuse services] ADDICTION
+ SERVICES AND SUPPORTS shall have  the  responsibility  for  seeing  that
  persons who suffer from [an addictive disorder] A SUBSTANCE USE DISORDER
  and their families are provided with addiction services, care and treat-
- ment, and that such services, care, treatment and rehabilitation  is  of
- high  quality  and effectiveness, and that the personal and civil rights
+ ment,  and  that such services, care, treatment and rehabilitation is of
+ high quality and effectiveness, and that the personal and  civil  rights
  of persons seeking and receiving addiction services, care, treatment and
- rehabilitation are adequately protected, INCLUDING  THAT  PATIENTS  HAVE
- THE  RIGHT  TO  ACCESS  SERVICES  BASED  ON  THEIR  GENDER  IDENTITY  OR
- EXPRESSION AND THEIR PREFERENCE. GENDER IDENTITY OR EXPRESSION  MEANS  A
- PERSON'S ACTUAL OR PERCEIVED GENDER RELATED IDENTITY, APPEARANCE, BEHAV-
- IOR,  EXPRESSION,  OR  OTHER GENDER RELATED CHARACTERISTIC REGARDLESS OF
- THE SEX ASSIGNED TO THAT PERSON AT BIRTH.
-  § 2. This act shall take effect immediately.
- 
+ rehabilitation  are  adequately  protected, INCLUDING THAT PATIENTS HAVE
+ THE RIGHT TO ACCESS SERVICES BASED  ON  THEIR  GENDER  IDENTITY,  GENDER
+ EXPRESSION  AND/OR SEXUAL ORIENTATION. FOR THE PURPOSES OF THIS SUBDIVI-
+ SION, GENDER IDENTITY OR GENDER EXPRESSION MEANS A  PERSON'S  ACTUAL  OR
+ PERCEIVED  GENDER RELATED IDENTITY, APPEARANCE, BEHAVIOR, EXPRESSION, OR
+ OTHER GENDER RELATED CHARACTERISTIC REGARDLESS OF THE  SEX  ASSIGNED  TO
+ THAT PERSON AT BIRTH.
+  §  2.  This  act shall take effect on the thirtieth day after it shall
+ have become a law.
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04075-01-3
+  LBD04075-02-3
