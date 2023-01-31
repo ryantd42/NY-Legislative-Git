@@ -1,0 +1,154 @@
+# Relates to a state transportation plan
+
+**Bill ID:** A2677A
+**Session:** 2023
+**Sponsor:** Nily Rozic
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to a state transportation plan; requires such plan include a minimum twenty-year forecast period at the time of adoption, assessing long-range needs spanning such period, including a forecast of highway pavement and bridge conditions.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2677
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  January 26, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. ROZIC, BARRETT, BRONSON, FAHY, HUNTER, JOYNER,
+  LUPARDO, MAGNARELLI,  OTIS,  SANTABARBARA,  SEAWRIGHT,  SIMON,  STECK,
+  STIRPE,  ZEBROWSKI,  WALLACE,  DICKENS,  VANEL, PHEFFER AMATO, LAVINE,
+  JEAN-PIERRE, KIM,  BICHOTTE HERMELYN,  DAVILA,  COLTON,  L. ROSENTHAL,
+  WILLIAMS,  CARROLL,  D. ROSENTHAL,  EPSTEIN,  DINOWITZ, PAULIN, JONES,
+  WEPRIN,  PEOPLES-STOKES,  McMAHON,  FRIEND,  REYES,  CRUZ,  McDONOUGH,
+  BRABENEC,  PALMESANO,  RA, WALSH, JACOBSON -- Multi-Sponsored by -- M.
+  of A. COOK, GLICK, HEVESI, HYNDMAN, THIELE -- read once  and  referred
+  to the Committee on Transportation
+ 
+ AN ACT to amend the transportation law, in relation to a state transpor-
+  tation plan
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 15 of the  transportation  law,  subdivision  2  as
+ amended  by chapter 524 of the laws of 2005 and subdivision 3 as amended
+ by chapter 1064 of the laws of 1969, is amended to read as follows:
+  § 15. Comprehensive statewide master plan for transportation.  1.  The
+ department  shall  formulate [and from time to time revise] a long-range
+ comprehensive statewide master plan for  the  balanced  development  and
+ coordination of adequate, safe and efficient commuter and general trans-
+ portation facilities and services in the state at reasonable cost to the
+ people,  including,  but  not  limited to, STATE highways[,] AND BRIDGES
+ UNDER THE JURISDICTION  OF  THE  COMMISSIONER,  BICYCLE  AND  PEDESTRIAN
+ FACILITIES  ON  SUCH  STATE HIGHWAYS AND BRIDGES, rapid transit, FREIGHT
+ AND PASSENGER railroad, omnibus, marine and  other  mass  transportation
+ facilities  and  services,  EXCLUDING  RAPID TRANSIT, RAILROAD, OMNIBUS,
+ MARINE AND OTHER MASS TRANSPORTATION FACILITIES AND SERVICES  UNDER  THE
+ JURISDICTION  OF  EITHER  THE  METROPOLITAN  TRANSPORTATION AUTHORITY AS
+ DEFINED IN SECTION TWO HUNDRED NINETEEN-C OF THIS CHAPTER OR A  BI-STATE
+ PUBLIC  BENEFIT CORPORATION, and PUBLIC USE aviation and airport facili-
+ ties and services[,] whether publicly  or  privately  owned,  developed,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04679-01-3
+ A. 2677  2
+ 
+ operated or maintained, EXCLUDING AIRPORTS OPERATED BY A BI-STATE PUBLIC
+ BENEFIT  CORPORATION.  SUCH  PLAN  SHALL INCLUDE A MINIMUM TWENTY-YEAR
+ FORECAST PERIOD AT THE TIME OF ADOPTION, ASSESS LONG-RANGE  NEEDS  SPAN-
+ NING  SUCH  PERIOD, INCLUDE A FORECAST OF PAVEMENT AND BRIDGE CONDITIONS
+ OF STATE HIGHWAYS AND BRIDGES UNDER THE JURISDICTION OF THE  COMMISSION-
+ ER, AND TAKE INTO CONSIDERATION:
+  A.  THE  MOST  RECENT  TWENTY-YEAR TRANSPORTATION PLAN ADOPTED BY EACH
+ METROPOLITAN PLANNING ORGANIZATION WITHIN THE STATE PURSUANT TO  SUBPART
+ C OF PART 450 OF TITLE 23 OF THE CODE OF FEDERAL REGULATIONS; AND
+  B. THE MOST RECENT LONG-RANGE STATEWIDE TRANSPORTATION PLAN AND STATE-
+ WIDE  TRANSPORTATION IMPROVEMENT PROGRAM DEVELOPED BY THE STATE PURSUANT
+ TO SUBPART B OF PART 450 OF TITLE 23 OF THE CODE OF FEDERAL REGULATIONS.
+  2. The department shall submit such plan to the governor,  the  tempo-
+ rary  president  of  the  senate, the speaker of the assembly and to the
+ department of state on or  before  September  first,  [nineteen  hundred
+ sixty-eight,  and  thereafter shall submit appropriate revisions of such
+ plan] TWO THOUSAND TWENTY-FOUR. THE DEPARTMENT SHALL REVIEW  AND  UPDATE
+ SUCH  PLAN AT LEAST EVERY FIVE YEARS TO EXTEND THE FORECAST PERIOD TO AT
+ LEAST TWENTY YEARS, PROVIDED THAT THE DEPARTMENT MAY REVISE SUCH PLAN AT
+ ANY OTHER TIME WITHOUT EXTENDING SUCH FORECAST  PERIOD.  THE  DEPARTMENT
+ SHALL  SUBMIT  ALL  SUCH  REVISED AND UPDATED PLANS to the governor, the
+ temporary president of the senate, the speaker of the  assembly  and  to
+ the  department  of state [from time to] AT THE time [as] such revisions
+ are made. The department of  state  shall  review  such  plan  and  such
+ revisions  and  shall submit a report thereon, together with such recom-
+ mendations as it may deem appropriate, to the  governor,  the  temporary
+ president  of  the senate and the speaker of the assembly. Such plan and
+ such revisions shall become effective  upon  approval  by  the  governor
+ [and],  shall  serve  thereafter  as  a guide to the public and publicly
+ assisted development of transportation facilities and  services  in  the
+ state, AND THE  DEPARTMENT SHALL MAINTAIN HARD COPIES OF THE MOST RECENT
+ VERSION  OF SUCH PLAN AND REVISIONS THERETO ON FILE AS A PUBLIC DOCUMENT
+ IN THE OFFICE OF THE COMMISSIONER AND AT EACH  REGIONAL  OFFICE  OF  THE
+ DEPARTMENT.
+  3. In formulating such plan and any such revisions, the department:
+  a.  shall conduct [one or more] AT LEAST ONE public [hearings] HEARING
+ IN EACH DEPARTMENT REGION;
+  b. may consult with and cooperate with (i)  officials  of  departments
+ and  agencies of the state having duties and responsibilities concerning
+ transportation;
+  (ii) officials and representatives of public corporations  as  defined
+ in  [article  one,  section  three  of  the general corporation] SECTION
+ SIXTY-FIVE OF THE GENERAL CONSTRUCTION law;
+  (iii) officials and representatives  of  the  federal  government,  of
+ neighboring  states  and  of  interstate  agencies on problems affecting
+ transportation in this state;
+  (iv) officials and  representatives  of  carriers  and  transportation
+ facilities and systems in the state; and
+  (v) persons, organizations and groups utilizing, served by, interested
+ in or concerned with transportation facilities and systems in the state;
+  c.  may  request  and  receive  from  any department, division, board,
+ bureau, commission or other agency of the state or any political  subdi-
+ vision  thereof  or any public authority such assistance and data as may
+ be necessary to enable the department to carry out its  responsibilities
+ under this section; and
+ A. 2677  3
+ 
+  d.  may  make  use  of  and  incorporate in the department's plan, any
+ recognized long-range regional plan for transportation, survey or report
+ developed by any public or private agency.
+  4.  THE  DEPARTMENT  SHALL MAINTAIN ON ITS PUBLIC WEBSITE THE PROPOSED
+ AND ADOPTED LONG-RANGE  COMPREHENSIVE  STATEWIDE  MASTER  PLAN  AND  ALL
+ PROPOSED  AND  ADOPTED  REVISIONS  THERETO, AND SHALL PROVIDE A MEANS ON
+ SUCH WEBSITE FOR THE PUBLIC TO SUBMIT COMMENTS THEREON  TO  THE  DEPART-
+ MENT.
+  §  2. Subdivision 13 of section 14 of the transportation law, as added
+ by chapter 420 of the laws of 1968, is amended to read as follows:
+  13. To report from time to time to the governor  and  make  an  annual
+ report  to  the  governor  and  the  legislature which shall include its
+ recommendations. ADDITIONALLY, THE COMMISSIONER SHALL SUBMIT A REPORT TO
+ THE GOVERNOR, THE TEMPORARY PRESIDENT OF THE SENATE, AND THE SPEAKER  OF
+ THE  ASSEMBLY,  BEGINNING  SEPTEMBER FIRST, TWO THOUSAND TWENTY-FOUR AND
+ SEMI ANNUALLY THEREAFTER, INCLUDING A LIST OF THOSE CAPITAL PROJECTS  IN
+ THE  DEPARTMENT'S  CAPITAL  PROGRAM THAT HAVE EXPERIENCED MAJOR SCHEDULE
+ CHANGES OR MAJOR COST CHANGES IN LETTING SCHEDULE OR CONSTRUCTION  COST,
+ INCLUDING  PROJECTS  THAT  WERE ELIMINATED AND PROJECTS THAT WERE ADDED,
+ SINCE THE ADOPTION OF THE MOST RECENT STATE BUDGET. FOR EACH PROJECT THE
+ REPORT SHALL INCLUDE THE PROJECT IDENTIFICATION NUMBER AND  DESCRIPTION,
+ ORIGINAL  AND  REVISED  LETTING DATES, AND A DETAILED EXPLANATION OF WHY
+ THE CHANGES OCCURRED. FOR THE PURPOSES OF  THIS  SUBDIVISION,  THE  TERM
+ "MAJOR  SCHEDULE  CHANGES" IS DEFINED AS A TWELVE-MONTH OR MORE DELAY IN
+ THE LETTING DATE OF A PROJECT, AND THE  TERM  "MAJOR  COST  CHANGES"  IS
+ DEFINED  AS  ONE  OF  THE  FOLLOWING AS APPLICABLE: A GREATER THAN FIFTY
+ PERCENT CHANGE FOR PROJECTS FIFTEEN  MILLION  DOLLARS  OR  LESS,  AND  A
+ GREATER  THAN  TWENTY-FIVE  PERCENT  CHANGE  FOR  PROJECTS  IN EXCESS OF
+ FIFTEEN MILLION DOLLARS.
+  § 3. This act shall take effect immediately.
