@@ -1,0 +1,84 @@
+# Establishes the crimes of reckless endangerment of an emergency service person in the first and second degrees
+
+**Bill ID:** S3458
+**Session:** 2023
+**Sponsor:** James Skoufis
+**Status:** In Senate Committee
+
+## Summary
+
+Establishes the offenses of reckless endangerment of an emergency service person in the first and second degrees.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3458
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 31, 2023
+  ___________
+ 
+ Introduced  by  Sens.  SKOUFIS, HINCHEY, MAYER -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Codes
+ 
+ AN ACT to amend the penal law, in relation to establishing the  offenses
+  of  reckless  endangerment of an emergency service person in the first
+  degree and reckless endangerment of an emergency service person in the
+  second degree
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  penal  law  is  amended by adding three new sections
+ 120.26, 120.27 and 120.28 to read as follows:
+ § 120.26 DEFINITIONS.
+  FOR THE PURPOSES OF SECTIONS 120.27 AND 120.28 OF THIS ARTICLE, "EMER-
+ GENCY SERVICE PERSON" SHALL MEAN ANY OF THE FOLLOWING PERSONS:
+  1. A FIREFIGHTER;
+  2. A POLICE OFFICER;
+  3. A PEACE OFFICER;
+  4. AN EMERGENCY SERVICES PROFESSIONAL;
+  5. A CODE ENFORCEMENT OFFICER;
+  6. A FIRE INSPECTION PERSONNEL; OR
+  7. A BUILDING INSPECTOR.
+ § 120.27 RECKLESS ENDANGERMENT OF AN EMERGENCY  SERVICE  PERSON  IN  THE
+  SECOND DEGREE.
+  A  PERSON  IS  GUILTY OF RECKLESS ENDANGERMENT OF AN EMERGENCY SERVICE
+ PERSON IN THE SECOND DEGREE WHEN, KNOWING  THAT  A  BUILDING  PERMIT  IS
+ REQUIRED  AND WITHOUT OBTAINING SUCH PERMIT, HE OR SHE ALTERS, CONVERTS,
+ ENCLOSES,  SUBDIVIDES  OR  PARTITIONS  ANY  BUILDING  OR  STRUCTURE  IN
+ VIOLATION  OF  THE  NEW  YORK STATE UNIFORM FIRE PREVENTION AND BUILDING
+ CODE OR ANY OTHER PROVISION OF GENERAL, SPECIAL OR LOCAL LAW, ORDINANCE,
+ ADMINISTRATIVE CODE, RULE OR REGULATION ADDRESSING STANDARDS FOR  BUILD-
+ ING CONSTRUCTION AND FIRE PREVENTION IN A MANNER THAT IMPEDES A PERSON'S
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06605-01-3
+ S. 3458  2
+ 
+ EGRESS  AND DURING A FIRE OR OTHER EMERGENCY EVACUATION AND SUCH CONDUCT
+ RESULTS IN THE INJURY OF AN EMERGENCY SERVICE PERSON.
+  RECKLESS  ENDANGERMENT  OF  AN  EMERGENCY SERVICE PERSON IN THE SECOND
+ DEGREE IS A CLASS E FELONY.
+ § 120.28 RECKLESS ENDANGERMENT OF AN EMERGENCY  SERVICE  PERSON  IN  THE
+  FIRST DEGREE.
+  A  PERSON  IS  GUILTY OF RECKLESS ENDANGERMENT OF AN EMERGENCY SERVICE
+ PERSON IN THE FIRST DEGREE WHEN HE OR SHE COMMITS THE CRIME OF  RECKLESS
+ ENDANGERMENT OF AN EMERGENCY SERVICE PERSON IN THE SECOND DEGREE AND:
+  1. DURING SUCH FIRE OR OTHER EMERGENCY EVACUATION SUCH CONDUCT RESULTS
+ IN THE DEATH OF AN EMERGENCY SERVICE PERSON; OR
+  2. HAS PREVIOUSLY BEEN CONVICTED WITHIN THE LAST TEN YEARS OF RECKLESS
+ ENDANGERMENT  OF  AN  EMERGENCY  SERVICE  PERSON  IN THE FIRST OR SECOND
+ DEGREE.
+  RECKLESS ENDANGERMENT OF AN EMERGENCY  SERVICE  PERSON  IN  THE  FIRST
+ DEGREE IS A CLASS D FELONY.
+  § 2. This act shall take effect on the first of November next succeed-
+ ing the date on which it shall have become a law.
