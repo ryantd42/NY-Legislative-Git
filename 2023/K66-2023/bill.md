@@ -1,0 +1,60 @@
+# Congratulating the Mahopac High School Cheerleading Team for capturing the Intermediate Coed Varsity Crowd Performance-Small NCA High School Nationals
+
+**Bill ID:** K66
+**Session:** 2023
+**Sponsor:** Matthew Slater
+**Status:** Adopted
+
+---
+
+## Full Text
+
+Assembly Resolution No. 66
+ 
+BY: M. of A. Slater
+ 
+  CONGRATULATING  the  Mahopac  High  School Varsity
+  Cheerleading Team upon the occasion of capturing the
+  Intermediate Coed  Varsity  Crowd  Performance-Small
+  category  National  Cheerleaders  Association  High
+  School Nationals Championship
+ 
+  WHEREAS, Individual and team championships are highly  sought  after
+in  high  school  sports;  this  Legislative Body commends rare athletic
+achievements and pays special  recognition  to  those  who  pursue  such
+excellence and become examples for the youth of this great Empire State;
+and
+ 
+  WHEREAS,  Athletic  competition  helps to enhance both the moral and
+physical development of young athletes, preparing them for the future by
+instilling in them the importance of teamwork, encouraging a standard of
+healthy living, and developing a sense of fair play and competition; and
+ 
+  WHEREAS, This Legislative Body is justly proud to  congratulate  the
+Mahopac  High  School  Varsity  Cheerleading  Team  upon the occasion of
+capturing the Intermediate Coed Varsity Crowd Performance Small category
+National Cheerleaders Association High School Nationals Championship  on
+Sunday, January 22, 2023, in Dallas, Texas; and
+ 
+  WHEREAS, During the finals, the Mahopac Indians earned 96.375 points
+to edge out the second-place team to rank first, winning the title; and
+ 
+  WHEREAS,  To  celebrate  this  monumental  win,  parents  and school
+officials gathered at Mahopac High School on Monday, January  23,  2023,
+to welcome the champions back home; and
+ 
+  WHEREAS,  All of the outstanding athletes on the Mahopac High School
+Varsity  Cheerleading  Team  have  clearly  utilized  dedication,
+determination  and  teamwork  in providing a lasting contribution to the
+spirit of  excellence  which  is  a  tradition  of  their  school;  now,
+therefore, be it
+ 
+  RESOLVED,  That  this Legislative Body pause in its deliberations to
+congratulate the Mahopac High School Varsity Cheerleading Team upon  the
+occasion  of  capturing  the  Intermediate  Coed  Varsity  Crowd
+Performance-Small category National Cheerleaders Association High School
+Nationals Championship; and be it further
+ 
+  RESOLVED, That copies of this  Resolution,  suitably  engrossed,  be
+transmitted  to  the  members  of  the  Mahopac  High  School  Varsity
+Cheerleading Team.
