@@ -1,0 +1,57 @@
+# Ends the local option of towns and cities to prohibit the sale of alcohol; repealer
+
+**Bill ID:** S3484
+**Session:** 2023
+**Sponsor:** James Skoufis
+**Status:** In Senate Committee
+
+## Summary
+
+Ends the local option of towns and cities to prohibit the sale of alcohol.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3484
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  January 31, 2023
+  ___________
+ 
+ Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Investigations and Govern-
+  ment Operations
+ 
+ AN ACT to amend the alcoholic  beverage  control  law,  in  relation  to
+  ending  the  local  option of towns and cities to prohibit the sale of
+  alcohol; and to repeal certain provisions of such law relating thereto
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The alcoholic beverage control law is amended by adding a
+ new section 132 to read as follows:
+  § 132. LOCAL OPTIONS ON THE SALE OF ALCOHOL PROHIBITED.  WITHIN  EVERY
+ MUNICIPALITY  WHICH  HAD  A  REFERENDUM  TO PROHIBIT THE SALE OF ALCOHOL
+ UNDER THE FORMER ARTICLE NINE OF THIS CHAPTER THE SALE OF ALCOHOL  SHALL
+ BE  LAWFUL.  NO  MUNICIPALITY  SHALL  ENACT ANY LOCAL LAW, ORDINANCE, OR
+ RESOLUTION WHICH PROHIBITS THE SALE OF ALCOHOL WITHIN  THE  ENTIRETY  OF
+ SUCH MUNICIPALITY.
+  § 2.  Article 9 of the alcoholic beverage control law is REPEALED.
+  §  3.  This  act shall take effect on the ninetieth day after it shall
+ have become a law.
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02585-01-3
