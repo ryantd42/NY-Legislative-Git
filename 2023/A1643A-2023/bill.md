@@ -1,6 +1,6 @@
 # Relates to proceedings for appointment of a guardian for personal needs or property management
 
-**Bill ID:** A1643A
+**Bill ID:** A1643AA
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts "Karilyn's law"; provides that the court set the date for proceedings rel
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1643
+  1643--A
  
   2023-2024 Regular Sessions
  
@@ -26,10 +26,12 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. THIELE -- read once and referred to the Committee
-  on Judiciary
+  on  Judiciary -- committee discharged, bill amended, ordered reprinted
+  as amended and recommitted to said committee
  
- AN  ACT  to amend the mental hygiene law, in relation to proceedings for
-  appointment of a guardian for personal needs or property management
+ AN ACT to amend the mental hygiene law, in relation to  proceedings  for
+  appointment  of  a  guardian  or other caretaker for personal needs or
+  property management
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -49,13 +51,14 @@ S T A T E  O F  N E W  Y O R K
  DAYS  FROM  THE  DATE  OF THE SIGNING OF THE  ORDER TO SHOW CAUSE.  UPON
  SUCH APPLICATION FOR VISITATION, THERE SHALL BE A REBUTTABLE PRESUMPTION
  IN FAVOR OF VISITATION. VISITATION SHALL ONLY BE DENIED UPON  CLEAR  AND
- CONVINCING  EVIDENCE.  IT  IS  FURTHER  WITHIN THE COURT'S DISCRETION TO
- PROVIDE WHATEVER LIMITATIONS  DEEMED  APPROPRIATE,  INCLUDING,  BUT  NOT
- LIMITED  TO,  SUPERVISED  VISITATION.  The  date of the hearing may be
- adjourned only for good cause shown;
+ CONVINCING  EVIDENCE THAT IS NOT IN THE BEST INTERESTS OF THE WARD, SUCH
+ DETERMINATIONS SHALL BE ON THE RECORD OR BY WRITTEN  DECISION.  IT  IS
+ FURTHER  WITHIN  THE  COURT'S DISCRETION TO PROVIDE WHATEVER LIMITATIONS
+ DEEMED  APPROPRIATE,  INCLUDING,  BUT  NOT  LIMITED  TO,  SUPERVISED
+ VISITATION.  The  date  of  the hearing may be adjourned only for good
+ cause shown;
   § 3. This act shall take effect immediately.
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02015-01-3
+  LBD02015-03-3
