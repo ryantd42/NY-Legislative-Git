@@ -1,0 +1,77 @@
+# Relates to reports on untested sexual offense evidence collection kits
+
+**Bill ID:** S3557
+**Session:** 2023
+**Sponsor:** James Sanders Jr.
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to reports on untested sexual offense evidence collection kits; requires law enforcement agencies to report to the division of criminal justice services on the number of tested and untested sexual offense evidence collection kits; requires the division to report on the results of such report to the legislature.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3557
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 1, 2023
+  ___________
+ 
+ Introduced  by Sens. SANDERS, KRUEGER -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Codes
+ 
+ AN ACT to amend the executive law, in relation to  reports  on  untested
+  sexual offense evidence collection kits
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 837-w of the executive law, as added by chapter 219
+ of the laws of 2022, is renumbered section 837-x and a new section 837-y
+ is added to read as follows:
+  § 837-Y. UNTESTED SEXUAL OFFENSE EVIDENCE COLLECTION KIT  REPORTS.  1.
+ AS  USED  IN  THIS SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING
+ MEANINGS:
+  (A) "FORENSIC MEDICAL EXAMINATION" SHALL MEAN AN EXAMINATION  PROVIDED
+ TO  THE  VICTIM  OF  A  SEXUAL OFFENSE BY A HEALTH CARE PROVIDER FOR THE
+ PURPOSE OF GATHERING AND PRESERVING EVIDENCE OF A SEXUAL OFFENSE FOR USE
+ IN A COURT OF LAW;
+  (B) "SEXUAL OFFENSE  EVIDENCE  COLLECTION  KIT"  SHALL  MEAN  A  HUMAN
+ BIOLOGICAL  SPECIMEN  OR  SPECIMENS  COLLECTED BY A HEALTH CARE PROVIDER
+ DURING A FORENSIC MEDICAL  EXAMINATION  FROM  THE  VICTIM  OF  A  SEXUAL
+ OFFENSE; AND
+  (C)  "UNTESTED  SEXUAL  OFFENSE  EVIDENCE COLLECTION KIT" SHALL MEAN A
+ SEXUAL OFFENSE EVIDENCE COLLECTION KIT THAT HAS NOT  BEEN  SUBMITTED  TO
+ THE  NEW  YORK STATE POLICE LABORATORY OR A SIMILAR QUALIFIED LABORATORY
+ FOR EITHER A SEROLOGY OR DEOXYRIBONUCLEIC ACID (DNA) TEST.
+  2. BY JULY FIRST, TWO THOUSAND TWENTY-THREE, AND EVERY FIRST  OF  JULY
+ THEREAFTER,  ALL LAW ENFORCEMENT AGENCIES RESPONSIBLE FOR THE TAKING AND
+ PROCESSING OF SEXUAL OFFENSE EVIDENCE COLLECTION KITS SHALL  CONDUCT  AN
+ INVENTORY  OF ALL SUCH KITS BEING STORED BY THE AGENCY AND REPORT ALL OF
+ THE FOLLOWING TO THE DIVISION:
+  (A) THE NUMBER OF SEXUAL OFFENSE  EVIDENCE  COLLECTION  KITS  THE  LAW
+ ENFORCEMENT AGENCY COLLECTS;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00422-01-3
+ S. 3557  2
+ 
+  (B)  THE  NUMBER  OF  SEXUAL OFFENSE EVIDENCE COLLECTION KITS THAT ARE
+ TESTED; AND
+  (C) THE NUMBER OF UNTESTED SEXUAL OFFENSE EVIDENCE COLLECTION KITS AND
+ THE REASON SUCH KITS REMAIN UNTESTED.
+  3.  BY THE FIRST OF JANUARY, TWO THOUSAND TWENTY-FOUR, AND EVERY FIRST
+ OF JANUARY THEREAFTER, THE DIVISION SHALL PREPARE AND TRANSMIT A  REPORT
+ TO  THE APPROPRIATE POLICY COMMITTEES OF THE LEGISLATURE SUMMARIZING THE
+ INFORMATION THE DIVISION RECEIVES PURSUANT TO SUBDIVISION  TWO  OF  THIS
+ SECTION.
+  § 2. This act shall take effect immediately.
