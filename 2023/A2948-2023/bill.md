@@ -1,0 +1,66 @@
+# Relates to providing certain relief for persons who are victims of identity theft
+
+**Bill ID:** A2948
+**Session:** 2023
+**Sponsor:** Josh Jensen
+**Status:** In Assembly Committee
+
+## Summary
+
+Provides certain relief for persons who are victims of identity theft; provides for destruction or sealing of certain police and court records and for issuance of an identity theft passport.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2948
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 1, 2023
+  ___________
+ 
+ Introduced by M. of A. JENSEN -- read once and referred to the Committee
+  on Codes
+ 
+ AN  ACT  to amend the criminal procedure law, in relation to destruction
+  and sealing of certain court and police records and the issuance of an
+  identity theft passport
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  criminal  procedure  law  is amended by adding a new
+ section 160.65 to read as follows:
+ § 160.65 EXPUNGEMENT OF FALSE IDENTITY INFORMATION FROM POLICE AND COURT
+  RECORDS; IDENTITY THEFT PASSPORT.
+  ANY PERSON WHOSE NAME OR OTHER IDENTIFICATION HAS  BEEN  USED  WITHOUT
+ HIS  OR  HER  CONSENT  OR  AUTHORIZATION  BY ANOTHER PERSON WHO HAS BEEN
+ CHARGED OR ARRESTED USING SUCH NAME OR IDENTIFICATION MAY FILE  A  PETI-
+ TION  WITH THE COURT FOR RELIEF PURSUANT TO SECTION 160.50 OF THIS ARTI-
+ CLE.  A PERSON WHO HAS PETITIONED THE COURT TO SEAL OR  DESTROY  RECORDS
+ PURSUANT  TO  SECTION  160.50 OF THIS ARTICLE AS A RESULT OF A VIOLATION
+ RELATING TO IDENTITY THEFT UNDER ARTICLE ONE HUNDRED NINETY OF THE PENAL
+ LAW AGAINST SUCH PERSON MAY SUBMIT TO THE ATTORNEY GENERAL  A  CERTIFIED
+ COPY  OF A COURT ORDER OBTAINED PURSUANT TO SECTION 160.50 OF THIS ARTI-
+ CLE.  THE ATTORNEY GENERAL, IN COOPERATION WITH THE  STATE  POLICE,  MAY
+ ISSUE  AN  "IDENTITY THEFT PASSPORT" STATING THAT SUCH AN ORDER HAS BEEN
+ SUBMITTED AND MAY INCLUDE THE  VICTIM'S  PHOTOGRAPH  AND  A  FINGERPRINT
+ RECORD.  THE  ATTORNEY  GENERAL  MAY  PROVIDE ACCESS TO IDENTITY THEFT
+ INFORMATION TO  CRIMINAL  JUSTICE  AGENCIES  AND  INDIVIDUALS  WHO  HAVE
+ SUBMITTED  A  COURT  ORDER  PURSUANT TO THIS SECTION.  WHEN THE ATTORNEY
+ GENERAL ISSUES AN IDENTITY THEFT PASSPORT, IT SHALL TRANSMIT A RECORD OF
+ THE ISSUANCE OF THE PASSPORT TO THE DEPARTMENT OF MOTOR VEHICLES.  SUCH
+ DEPARTMENT  SHALL  NOTE ON THE INDIVIDUAL'S DRIVER ABSTRACT THAT A COURT
+ ORDER WAS OBTAINED PURSUANT TO SECTION 160.50 OF THIS ARTICLE  AND  THAT
+ AN IDENTITY THEFT PASSPORT HAS BEEN ISSUED.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04861-01-3
