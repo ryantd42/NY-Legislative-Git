@@ -1,0 +1,71 @@
+# Relates to certain requirements regarding the purchase and sale of a catalytic converter
+
+**Bill ID:** A2925A
+**Session:** 2023
+**Sponsor:** Edward Ra
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires sellers of catalytic converters to provide certain information to potential buyers; requires buyers to maintain records of such purchases; makes any violations a class A misdemeanor; imposes a fine of up to $5,000.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2925
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 1, 2023
+  ___________
+ 
+ Introduced  by M. of A. RA -- read once and referred to the Committee on
+  Consumer Affairs and Protection
+ 
+ AN ACT to amend  the  general  business  law,  in  relation  to  certain
+  requirements regarding catalytic converter transactions
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The general business law is amended by adding a new section
+ 392-k to read as follows:
+  § 392-K. REQUIREMENTS REGARDING PURCHASES OF CATALYTIC CONVERTERS.  1.
+ FOR  PURPOSES  OF  THIS  SECTION,  "CATALYTIC  CONVERTER"  SHALL MEAN AN
+ EXHAUST EMISSION CONTROL DEVICE  WHICH  MODIFIES  EXHAUST  GAS  FROM  AN
+ INTERNAL COMBUSTION ENGINE BY CATALYZING A REDOX REACTION.
+  2.  IN  ADDITION  TO  ANY  REQUIREMENTS OF THIS CHAPTER, AN INDIVIDUAL
+ ATTEMPTING TO SELL A CATALYTIC CONVERTER TO A PURCHASER SHALL PROVIDE TO
+ SUCH PURCHASER THE FOLLOWING INFORMATION:
+  (A) THE YEAR, MAKE, MODEL AND VEHICLE IDENTIFICATION  NUMBER  FOR  THE
+ VEHICLE FROM WHICH THE CATALYTIC CONVERTER WAS REMOVED; AND
+  (B) A COPY OF THE CERTIFICATE OF TITLE OR OTHER DOCUMENTATION INDICAT-
+ ING  THAT  THE SELLER HAS AN OWNERSHIP INTEREST IN THE VEHICLE DESCRIBED
+ IN PARAGRAPH (A) OF THIS SUBDIVISION, OR WHERE THE SELLER IS  THE  OWNER
+ OF  A  GARAGE  OR REPAIR SHOP AND THE CATALYTIC CONVERTER WAS REMOVED IN
+ CONNECTION WITH A MOTOR VEHICLE REPAIR, THE  NAME  AND  ADDRESS  OF  THE
+ VEHICLE'S OWNER AND COPIES OF ALL RELATED INVOICES.
+  3.  A PURCHASER SHALL NOT PURCHASE A CATALYTIC CONVERTER FROM A SELLER
+ WHO DOES NOT COMPLY WITH THE REQUIREMENTS OF  SUBDIVISION  TWO  OF  THIS
+ SECTION.
+  4.  A  PURCHASER  SHALL NOT PURCHASE A CATALYTIC CONVERTER UNLESS SUCH
+ PURCHASER DETERMINES THAT SUCH CATALYTIC CONVERTER  IS  CONSISTENT  WITH
+ THE  MANUFACTURER'S  SPECIFICATIONS  FOR  A CATALYTIC CONVERTER FROM THE
+ VEHICLE WHICH THE SELLER PROVIDED INFORMATION AS REQUIRED  BY  PARAGRAPH
+ (A) OF SUBDIVISION TWO OF THIS SECTION.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06156-02-3
+ A. 2925  2
+ 
+  5.  ON  REQUEST, A PURCHASER SHALL PERMIT REPRESENTATIVES OF ANY LOCAL
+ POLICE DEPARTMENT OR THE STATE POLICE TO INSPECT ALL RECORDS REQUIRED TO
+ BE KEPT PURSUANT TO THIS SECTION.
+  § 2. This act shall take effect immediately.
