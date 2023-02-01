@@ -1,0 +1,61 @@
+# Sets the number of petitioners necessary to call for a vote on increasing the amount of funding of the annual contribution for the operating budget of a registered public or free association library
+
+**Bill ID:** S3594
+**Session:** 2023
+**Sponsor:** Pete Harckham
+**Status:** Signed by Governor
+
+## Summary
+
+Sets the number of petitioners necessary to call for a vote on increasing the amount of funding of the annual contribution for the operating budget of a registered public or free association library at twenty-five qualified voters of a municipality.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3594
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 1, 2023
+  ___________
+ 
+ Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Libraries
+ 
+ AN ACT to amend the education law, in relation to setting the number  of
+  petitioners  necessary  to call for a vote on increasing the amount of
+  funding of the annual contribution  for  the  operating  budget  of  a
+  registered public or free association library
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subparagraph 1 of paragraph b of subdivision 1  of  section
+ 259 of the education law, as amended by chapter 184 of the laws of 2007,
+ is amended to read as follows:
+  (1) Except as provided in subparagraph two of this paragraph, whenever
+ TWENTY-FIVE qualified voters of a municipality[, in a number equal to at
+ least  ten  per centum of the total number of votes cast in such munici-
+ pality for governor at the last gubernatorial election,] shall so  peti-
+ tion  and  the  library board of trustees shall endorse, the question of
+ establishing or increasing the amount of funding of the annual  contrib-
+ ution  for  the  operating budget of a registered public or free associ-
+ ation library by such municipality to a sum specified in said  petition,
+ shall  be  voted  on  at the next general election of such municipality,
+ provided that due public notice of the proposed action shall  have  been
+ given.  An  increase  in library funding provided pursuant to this para-
+ graph shall not apply to a municipal budget adopted prior to the date of
+ such election.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05474-01-3
