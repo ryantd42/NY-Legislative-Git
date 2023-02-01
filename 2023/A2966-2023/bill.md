@@ -1,0 +1,95 @@
+# Awards grants to municipalities for capital improvement projects; appropriation
+
+**Bill ID:** A2966
+**Session:** 2023
+**Sponsor:** Josh Jensen
+**Status:** In Assembly Committee
+
+## Summary
+
+Awards grants to municipalities for any non-transportation related capital improvement projects with a maximum cumulative grant award not exceeding $250,000; makes an appropriation therefor.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  2966
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 1, 2023
+  ___________
+ 
+ Introduced by M. of A. JENSEN -- read once and referred to the Committee
+  on Local Governments
+ 
+ AN ACT to amend the state finance law, in relation to awarding grants to
+  municipalities  for capital improvement projects; and making an appro-
+  priation therefor
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subdivision  10 of section 54 of the state finance law is
+ amended by adding a new paragraph v to read as follows:
+  V. LOCAL GOVERNMENT CAPITAL IMPROVEMENT GRANT PROGRAM. (I) (1) FOR THE
+ PURPOSES OF THIS PARAGRAPH, "MUNICIPALITY"  AND  "MUNICIPALITIES"  SHALL
+ MEAN  ANY CITY, TOWN OR VILLAGE THAT HAS A POPULATION OF LESS THAN SEVEN
+ THOUSAND FIVE HUNDRED.
+  (2) FOR THE PURPOSES OF THIS  PARAGRAPH,  "TOTAL  EXPENDITURES"  SHALL
+ MEAN  THE TOTAL EXPENDITURES FOR A MUNICIPALITY AS REPORTED TO THE STATE
+ COMPTROLLER.
+  (3) FOR THE PURPOSES OF THIS PARAGRAPH, "CAPITAL IMPROVEMENT PROJECTS"
+ SHALL MEAN ANY NON-TRANSPORTATION RELATED CAPITAL IMPROVEMENT PROJECT ON
+ PROPERTY OWNED BY A MUNICIPALITY THAT HAS A TOTAL COST  OF  ONE  HUNDRED
+ THOUSAND  DOLLARS OR HIGHER AND SUCH PROJECT EXCEEDS TEN PERCENT OF SUCH
+ MUNICIPALITY'S TOTAL EXPENDITURES.
+  (II) WITHIN THE ANNUAL AMOUNTS APPROPRIATED THEREFOR, THE SECRETARY OF
+ STATE MAY AWARD MATCHING GRANTS TO MUNICIPALITIES TO COVER COSTS ASSOCI-
+ ATED WITH CAPITAL IMPROVEMENT PROJECTS.
+  (III) THE MAXIMUM CUMULATIVE GRANT AWARD FOR A LOCAL GOVERNMENT  CAPI-
+ TAL  IMPROVEMENT  GRANT  SHALL  NOT  EXCEED  TWO  HUNDRED FIFTY THOUSAND
+ DOLLARS.
+  (IV) MATCHING FUNDS EQUAL TO AT LEAST FIFTY PERCENT OF THE TOTAL  COST
+ OF  THE  CAPITAL  IMPROVEMENT  PROJECT  UNDER  THE GRANT APPROVED BY THE
+ DEPARTMENT OF STATE SHALL BE REQUIRED  TO  RECEIVE  A  LOCAL  GOVERNMENT
+ CAPITAL IMPROVEMENT GRANT.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04884-01-3
+ A. 2966  2
+ 
+  (V)  WITHIN  ONE WEEK OF THE RECEIPT OF AN APPLICATION, THE DEPARTMENT
+ OF STATE SHALL REVIEW THE APPLICATION TO ENSURE THE APPLICANT HAS  FILED
+ THE  CORRECT  APPLICATION,  AND TO DETERMINE IF ANY REQUIRED SECTIONS OF
+ THE APPLICATION CONTAIN NO  INFORMATION.  WITHIN  ONE  BUSINESS  DAY  OF
+ DETERMINING  AN  APPLICANT HAS FILED AN INCORRECT APPLICATION, OR DETER-
+ MINING AN APPLICATION CONTAINS NO INFORMATION IN A SECTION  REQUIRED  TO
+ CONTAIN  INFORMATION,  THE  DEPARTMENT  SHALL  SO  NOTIFY THE APPLICANT.
+ APPLICANTS SHALL BE PERMITTED TO AMEND AN APPLICATION FOUND TO BE  MISS-
+ ING INFORMATION, AND SUCH APPLICATION SHALL BE RECONSIDERED FOR APPROVAL
+ IF  IT  IS  AMENDED  BY  THE  APPLICATION  DEADLINE. IF AN APPLICANT HAS
+ SUBMITTED AN INCORRECT APPLICATION, THE APPLICANT MAY SUBMIT THE CORRECT
+ APPLICATION TO THE APPROPRIATE PROGRAM BY THE DEADLINE FOR SUCH  PROGRAM
+ FOR  CONSIDERATION.  UNDER  NO  CIRCUMSTANCES SHALL THIS SUBPARAGRAPH BE
+ DEEMED TO REQUIRE THE EXTENSION OF ANY APPLICATION DEADLINE  ESTABLISHED
+ BY  THE  DEPARTMENT,  NOR  SHALL IT OBLIGATE THE DEPARTMENT TO CONDUCT A
+ SUBSTANTIVE REVIEW OF THE CONTENTS OF ANY  APPLICATION  OUTSIDE  OF  THE
+ PROCEDURES ESTABLISHED BY THE DEPARTMENT FOR THE PURPOSES OF MAINTAINING
+ THE COMPETITIVE INTEGRITY OF THE GRANT PROGRAM.
+  §  2. The sum of five million dollars ($5,000,000), or so much thereof
+ as may be necessary, is hereby appropriated to the department  of  state
+ out of any moneys in the state treasury in the general fund to the cred-
+ it of the local government capital improvement grant program, not other-
+ wise  appropriated,  and  made immediately available, for the purpose of
+ carrying out the provisions of this act. Such moneys shall be payable on
+ the audit and warrant  of  the  comptroller  on  vouchers  certified  or
+ approved  by  the  commissioner of education in the manner prescribed by
+ law.
+  § 3. This act shall take effect immediately.
