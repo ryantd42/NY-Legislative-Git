@@ -1,0 +1,139 @@
+# Relates to the disposal of mercury-containing lamps and manufacturer collection and recycling programs
+
+**Bill ID:** S4038
+**Session:** 2023
+**Sponsor:** Brian Kavanagh
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to the disposal of mercury-containing lamps and manufacturer collection and recycling programs; prohibits the disposal in a solid waste facility of lamps containing mercury; requires manufacturers thereof to establish collection and recycling programs.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4038
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 2, 2023
+  ___________
+ 
+ Introduced  by Sen. KAVANAGH -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN ACT to amend the  environmental  conservation  law,  in  relation  to
+  disposal  of  mercury-containing lamps and manufacturer collection and
+  recycling programs
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section 27-2113 of the environmental conservation law, as
+ added by chapter 145 of the laws of 2004, subdivision 1  as  amended  by
+ chapter 676 of the laws of 2005, is amended to read as follows:
+ § 27-2113. Exemptions.
+  [1.] The provisions of this title shall not apply to photographic film
+ and paper, pharmaceutical products, biological products or any substance
+ that  may be lawfully sold over the counter without a prescription under
+ the federal Food, Drug and Cosmetic Act, 21 USC  301  et  seq.  For  the
+ purposes of this subdivision, "biological product" means a virus, thera-
+ peutic  serum,  toxin,  antitoxin,  vaccine,  blood,  blood component or
+ derivative, allergenic product or an analogous product, or arsphenamine,
+ or any other trivalent organic arsenic compound used for the prevention,
+ treatment or cure of a disease or condition of human beings.
+  [2. The provisions of subdivision one of section 27-2105 of this title
+ shall not apply to mercury-containing lamps discarded by households.
+  3. The provisions of subdivision one of section 27-2105 of this  title
+ shall  not  apply to mercury-containing lamps discarded by a small busi-
+ ness if such small business discards no more than  fifteen  mercury-con-
+ taining  lamps  per  month.  For the purposes of this subdivision "small
+ business" means any business which is resident in this state,  independ-
+ ently  owned  and operated, not dominant in its field, and employing not
+ more than one hundred individuals.]
+  § 2. The environmental conservation law is amended  by  adding  a  new
+ section 27-2121 to read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08705-01-3
+ S. 4038  2
+ 
+ § 27-2121. MERCURY LAMP COLLECTION PROGRAM.
+  1. DEFINITIONS. "PRODUCER" MEANS A PERSON THAT:
+  (A) HAS OR HAD LEGAL OWNERSHIP OF THE BRAND, BRAND NAME OR CO-BRAND OF
+ A MERCURY-CONTAINING LAMP SOLD IN OR INTO THIS STATE;
+  (B) IMPORTS OR HAS IMPORTED MERCURY-CONTAINING LAMPS; OR
+  (C) MAKES OR MADE AN UNBRANDED MERCURY-CONTAINING LAMP THAT IS SOLD OR
+ HAS BEEN SOLD IN OR INTO THIS STATE.
+  2. PRODUCER RESPONSIBILITIES. (A) EVERY PRODUCER OF MERCURY-CONTAINING
+ LAMPS  SOLD  IN  OR INTO THIS STATE SHALL, INDIVIDUALLY OR COLLECTIVELY,
+ AND NOT LATER THAN JUNE FIRST, TWO THOUSAND TWENTY-FIVE, SUBMIT  A  PLAN
+ TO  THE  DEPARTMENT FOR APPROVAL THAT DESCRIBES A COLLECTION PROGRAM FOR
+ OUT-OF-SERVICE MERCURY-CONTAINING LAMPS. THE  COLLECTION  PROGRAM  SHALL
+ NOT  INVOLVE  ANY  DIRECT  COST  TO  HOUSEHOLDS  OR SMALL BUSINESSES FOR
+ PARTICIPATING IN THE PROGRAM. THE COLLECTION PROGRAM SHALL AT A  MINIMUM
+ INCLUDE:  THE  IDENTITY  OF  COLLECTION,  TRANSPORTATION  AND PROCESSING
+ SERVICE PROVIDERS, INCLUDING CONSIDERATION GIVEN TO EXISTING RESIDENTIAL
+ CURBSIDE COLLECTION INFRASTRUCTURE AND MAILBACK SYSTEMS AS AN  APPROPRI-
+ ATE  COLLECTION  MECHANISM;  HOW  MERCURY AND OTHER HAZARDOUS SUBSTANCES
+ WILL BE HANDLED FOR COLLECTION THROUGH FINAL DISPOSITION; THE USE OF ANY
+ THIRD PARTY ORGANIZATIONS THAT MAY CONDUCT ALL OR PART OF THE COLLECTION
+ AND RECYCLING PROGRAM, AND THE SPECIFIC RESPONSIBILITIES  OF  EACH  SUCH
+ ORGANIZATION; AND AN EDUCATION AND OUTREACH PROGRAM.
+  COLLECTION METHODS MAY INCLUDE, BUT ARE NOT LIMITED TO, (I) INDIVIDUAL
+ PRODUCT MAIL RETURN AND/OR MULTIPLE COLLECTION CONTAINERS AND COLLECTION
+ SITES  LOCATED  AT RETAILERS, MUNICIPALITIES FOR COLLECTION AT HOUSEHOLD
+ HAZARDOUS WASTE COLLECTION  FACILITIES,  OR  HOUSEHOLD  HAZARDOUS  WASTE
+ EVENTS;  (II) THE DISTRIBUTION OF CONTAINERS FOR MERCURY-CONTAINING LAMP
+ COLLECTION; AND (III) CRITERIA TO ENSURE THAT THE CAPTURE RATE  OF  OUT-
+ OF-SERVICE MERCURY-CONTAINING LAMPS IS MAXIMIZED.
+  (B) NOT LATER THAN DECEMBER FIRST, TWO THOUSAND TWENTY-FIVE, PRODUCERS
+ OF  MERCURY-CONTAINING  LAMPS  SHALL  IMPLEMENT  THE  COLLECTION PROGRAM
+ OUTLINED IN THEIR PLAN.
+  (C) BEGINNING JUNE FIRST, TWO THOUSAND TWENTY-SIX, AND ANNUALLY THERE-
+ AFTER, EACH PRODUCER OF MERCURY-CONTAINING LAMPS SHALL SUBMIT  A  REPORT
+ TO  THE  DEPARTMENT  THAT INCLUDES, AT A MINIMUM, THE FOLLOWING INFORMA-
+ TION:
+  (I) THE NUMBER OF MERCURY-CONTAINING LAMPS COLLECTED AND  RECYCLED  BY
+ THE PRODUCER DURING THE PREVIOUS CALENDAR YEAR;
+  (II)  THE  ESTIMATED  TOTAL  AMOUNT  OF  MERCURY CONTAINED IN THE LAMP
+ COMPONENTS COLLECTED BY THAT PRODUCER IN THE PREVIOUS CALENDAR YEAR;
+  (III) AN EVALUATION OF THE EFFECTIVENESS OF THE PRODUCER'S  COLLECTION
+ PROGRAM AND ANY FINANCIAL INCENTIVES; AND
+  (IV)  AN ACCOUNTING OF THE ADMINISTRATIVE COSTS INCURRED IN THE COURSE
+ OF ADMINISTERING THE COLLECTION AND RECYCLING PROGRAM AND ANY  FINANCIAL
+ INCENTIVE PLAN.
+  3. DEPARTMENT RESPONSIBILITIES. (A) WITHIN NINETY DAYS OF RECEIPT OF A
+ COMPLETE  PRODUCER PLAN REQUIRED BY SUBDIVISION TWO OF THIS SECTION, THE
+ DEPARTMENT SHALL REVIEW SUCH PLAN AND  APPROVE,  DENY  OR  APPROVE  WITH
+ MODIFICATIONS  EACH  PLAN  SUBMITTED. THE DEPARTMENT SHALL NOT APPROVE A
+ PLAN UNLESS  ALL  ELEMENTS  OF  SUBDIVISION  TWO  OF  THIS  SECTION  ARE
+ ADEQUATELY  ADDRESSED.  IN REVIEWING A PLAN, THE DEPARTMENT MAY CONSIDER
+ THE CONSISTENCY OF THE PLAN WITH COLLECTION IN OTHER STATES AND CONSIDER
+ CONSISTENCY BETWEEN PRODUCER PROGRAMS. IN REVIEWING PLANS,  THE  DEPART-
+ MENT  SHALL  ENSURE THAT EDUCATION AND OUTREACH PROGRAMS ARE UNIFORM AND
+ CONSISTENT TO ENSURE EASE OF IMPLEMENTATION.
+ S. 4038  3
+ 
+  (B) THE DEPARTMENT SHALL MAINTAIN AND POST ON ITS WEBSITE  A  LIST  OF
+ ENTITIES  AND LOCATIONS THAT SERVE AS COLLECTION POINTS FOR MERCURY-CON-
+ TAINING LAMPS.
+  (C)  IN  CONJUNCTION WITH THE EDUCATIONAL AND OUTREACH PROGRAMS IMPLE-
+ MENTED BY  PRODUCERS,  THE  DEPARTMENT  MAY  CONDUCT  AN  EDUCATION  AND
+ OUTREACH  PROGRAM  DIRECTED  AT  RETAILERS AND HOMEOWNERS TO PROMOTE THE
+ COLLECTION OF DISCARDED MERCURY-CONTAINING LAMPS.
+  (D) BY DECEMBER FIRST, TWO THOUSAND TWENTY-SIX, AND ANNUALLY THEREAFT-
+ ER, THE DEPARTMENT SHALL POST A REPORT  ON  ITS  WEBSITE  DETAILING  THE
+ COLLECTION  AND RECYCLING OF MERCURY-CONTAINING LAMPS IN THE STATE. SUCH
+ REPORT  SHALL  INCLUDE  AN  EVALUATION  OF  THE  EFFECTIVENESS  OF  THE
+ COLLECTION  AND RECYCLING PROGRAMS, AND INFORMATION ON ACTUAL COLLECTION
+ RATES.
+  § 3. This act shall take effect  immediately,  provided  however  that
+ section one of this act shall take effect January 1, 2024.
