@@ -1,0 +1,83 @@
+# Establishes the disaster-related latent damage recovery grant program
+
+**Bill ID:** A3368
+**Session:** 2023
+**Sponsor:** Jeff Gallahan
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes the disaster-related latent damage recovery grant program to repair latent damage to public infrastructure, including publicly-owned roads, bridges, drainage and flood mitigation systems, electrical and mechanical systems and communication systems, and any ancillary infrastructure necessary for the safe operation of the components thereof, where such damage was the result of a natural disaster.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3368
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 2, 2023
+  ___________
+ 
+ Introduced by M. of A. GALLAHAN -- read once and referred to the Commit-
+  tee on Governmental Operations
+ 
+ AN  ACT  to  amend  the  executive  law, in relation to establishing the
+  disaster-related latent damage recovery grant program
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The executive law is amended by adding a new section 719 to
+ read as follows:
+  §  719.  DISASTER-RELATED  LATENT  DAMAGE  RECOVERY  GRANT PROGRAM. 1.
+ THERE IS HEREBY ESTABLISHED THE DISASTER-RELATED LATENT DAMAGE  RECOVERY
+ GRANT  PROGRAM  TO  BE ADMINISTERED BY THE DIVISION OF HOMELAND SECURITY
+ AND EMERGENCY SERVICES.
+  2. PROJECTS ELIGIBLE FOR PROGRAM GRANTS SHALL BE LIMITED  TO  PROJECTS
+ TO  REPAIR  LATENT  DAMAGE TO PUBLIC INFRASTRUCTURE, INCLUDING PUBLICLY-
+ OWNED ROADS, BRIDGES, DRAINAGE AND FLOOD MITIGATION SYSTEMS,  ELECTRICAL
+ AND  MECHANICAL  SYSTEMS  AND  COMMUNICATION  SYSTEMS, AND ANY ANCILLARY
+ INFRASTRUCTURE NECESSARY FOR THE SAFE OPERATION OF THE COMPONENTS THERE-
+ OF, WHERE SUCH DAMAGE WAS THE RESULT OF A NATURAL DISASTER FOR WHICH THE
+ GOVERNOR OF THE STATE OF NEW YORK MADE A DECLARATION OF A STATE OF EMER-
+ GENCY. FOR PURPOSES OF THIS SECTION, "LATENT DAMAGE" SHALL BE DEFINED AS
+ DAMAGE THAT WAS  NOT  REASONABLY  APPARENT  DURING  ANY  INITIAL  DAMAGE
+ ASSESSMENTS.  IN NO EVENT SHALL GRANTS BE AWARDED FOR, NOR SHALL GRANT
+ MONEY BE USED FOR, INFRASTRUCTURE  REPAIRS  THAT  ARE  REQUIRED  DUE  TO
+ NORMAL USE AND WEAR AND TEAR.
+  3. THE COMMISSIONER OF THE DIVISION OF HOMELAND SECURITY AND EMERGENCY
+ SERVICES  SHALL  ESTABLISH  PROCEDURES  FOR RECEIPT OF APPLICATIONS FROM
+ MUNICIPALITIES AND FOR THE ISSUANCE OF GRANTS AUTHORIZED BY THIS SECTION
+ WITHIN AVAILABLE APPROPRIATIONS.  APPLICATION FOR SUCH GRANTS  SHALL  BE
+ SUBMITTED NO MORE THAN SEVEN YEARS, BUT NO LESS THAN ONE YEAR, AFTER THE
+ GOVERNOR'S  DECLARATION OF THE STATE OF EMERGENCY THAT RENDERS A MUNICI-
+ PALITY ELIGIBLE FOR GRANTS AUTHORIZED BY THIS SECTION. IN NO EVENT SHALL
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04960-01-3
+ A. 3368  2
+ 
+ GRANTS EXCEED TEN PERCENT OF THE SUM OF ANY STATE  OR  FEDERAL  DISASTER
+ ASSISTANCE  MONIES  GRANTED  TO  A MUNICIPALITY AS A RESULT OF A NATURAL
+ DISASTER THAT WERE AWARDED PRIOR TO AN APPLICATION FOR A GRANT  STEMMING
+ FROM THE SAME NATURAL DISASTER. IN NO EVENT SHALL A MUNICIPALITY RECEIVE
+ A GRANT IN EXCESS OF TEN MILLION DOLLARS IN A GIVEN CALENDAR YEAR.
+  4.  FUNDING  FOR  SUCH  PROGRAM  SHALL CONSIST OF ALL REVENUE RECEIVED
+ PURSUANT TO AN APPROPRIATION THERETO, AND ALL OTHER MONIES APPROPRIATED,
+ CREDITED OR TRANSFERRED FROM ANY OTHER SOURCE PURSUANT TO  LAW.  NOTHING
+ IN  THIS  SECTION  SHALL  BE  DEEMED TO PREVENT THE STATE FROM RECEIVING
+ GRANTS, GIFTS OR BEQUESTS FOR THE PURPOSE OF THE PROGRAM.  GRANTS  SHALL
+ ONLY BE AWARDED BASED UPON THE AVAILABILITY OF FUNDS.
+  §  2. This act shall take effect on the first of April next succeeding
+ the date on which it shall have become a law.  Effective  immediately,
+ the  addition,  amendment and/or repeal of any rule or regulation neces-
+ sary for the implementation of  this  act  on  its  effective  date  are
+ authorized to be made and completed on or before such effective date.
