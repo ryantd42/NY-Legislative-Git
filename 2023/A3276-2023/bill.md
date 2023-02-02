@@ -1,0 +1,61 @@
+# Authorizes the Hamburg Central School District to utilize certain payments related to video lottery gaming facilities to provide increased support to public schools
+
+**Bill ID:** A3276
+**Session:** 2023
+**Sponsor:** Jonathan Rivera
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes the Hamburg Central School District to utilize certain payments related to video lottery gaming facilities to provide increased support to public schools; authorizes such school district in which a video lottery gaming facility is located to receive payments to increase support for public schools.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3276
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 2, 2023
+  ___________
+ 
+ Introduced by M. of A. RIVERA -- read once and referred to the Committee
+  on Education
+ 
+ AN  ACT  to  amend the state finance law, in relation to authorizing the
+  Hamburg Central School District to utilize certain payments related to
+  video lottery gaming facilities to provide increased support to public
+  schools
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Paragraph b of subdivision 1 and paragraph b of subdivision
+ 3  of  section  54-l  of the state finance law, as added by section 1 of
+ part J of chapter 57 of the  laws  of  2011,  are  amended  to  read  as
+ follows:
+  b.  "Eligible municipality" shall mean a county, city, town or village
+ in which a video lottery gaming facility is located pursuant to  section
+ sixteen hundred seventeen-a of the tax law that is not located in a city
+ with a population equal to or greater than one hundred twenty-five thou-
+ sand.  BEGINNING APRIL FIRST, TWO THOUSAND TWENTY-THREE, "ELIGIBLE MUNI-
+ CIPALITY" SHALL ALSO INCLUDE THE HAMBURG CENTRAL SCHOOL DISTRICT IN  THE
+ TOWN OF HAMBURG, COUNTY OF ERIE.
+  b.  State  aid  payments  made to an eligible municipality pursuant to
+ paragraph b of subdivision two of this section shall  be  used  by  such
+ eligible municipality to: (i) defray local costs associated with a video
+ lottery gaming facility, or (ii) minimize or reduce real property taxes,
+ OR  (III)  FOR  AN  ELIGIBLE  MUNICIPALITY  THAT  IS  A SCHOOL DISTRICT,
+ INCREASE SUPPORT FOR PUBLIC SCHOOLS IN SUCH DISTRICT.
+  § 2. This act shall take effect immediately.
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06965-01-3
