@@ -1,0 +1,57 @@
+# Increases the per student rate of empire state after school program and advantage after school program grants
+
+**Bill ID:** S4082A
+**Session:** 2023
+**Sponsor:** Jabari Brisport
+**Status:** In Senate Committee
+
+## Summary
+
+Increases the per student rate of empire state after school program and advantage after school program grants; requires future per student rates to be modified accounting for any minimum wage adjustments.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4082
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 2, 2023
+  ___________
+ 
+ Introduced by Sens. BRISPORT, SALAZAR -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Finance
+ 
+ AN  ACT  to  amend  the executive law, in relation to increasing the per
+  student rate of empire state after school program grants
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. The executive law is amended by adding a new section 501-i
+ to read as follows:
+  § 501-I. EMPIRE STATE AFTER SCHOOL PROGRAM GRANTS. EMPIRE STATE  AFTER
+ SCHOOL  PROGRAM  GRANTS  AWARDED  ON OR AFTER AUGUST FIRST, TWO THOUSAND
+ TWENTY-THREE SHALL BE PROVIDED AT A RATE OF NO LESS  THAN  TWO  THOUSAND
+ DOLLARS  PER APPROVED STUDENT. THE COMMISSIONER, IN CONJUNCTION WITH THE
+ DIRECTOR OF THE BUDGET, SHALL, UPON THE COMPLETION OF THE FULL  TERM  OF
+ THE  EMPIRE  STATE  AFTER SCHOOL PROGRAM, MODIFY THE AMOUNT OF MONEY PER
+ APPROVED STUDENT TO BE AWARDED TO GRANT APPLICANTS.  SUCH  MODIFICATION
+ SHALL  ACCOUNT  FOR ANY MINIMUM WAGE ADJUSTMENTS. THE COMMISSIONER SHALL
+ PROMULGATE ANY RULES OR REGULATIONS NECESSARY TO ENSURE  GRANTEES  SHALL
+ SERVE AT LEAST THE SAME NUMBER OF STUDENTS IN ANY YEAR THAT THE RATE PER
+ APPROVED STUDENT INCREASES.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05056-01-3
