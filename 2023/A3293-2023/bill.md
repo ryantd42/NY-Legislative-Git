@@ -1,0 +1,57 @@
+# Authorizes the court to order sexual offenders on probation to terms of imprisonment which run consecutively to sentences already being served
+
+**Bill ID:** A3293
+**Session:** 2023
+**Sponsor:** Josh Jensen
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes the court to order sexual offenders on probation, where such probation has been revoked, to terms of imprisonment which run consecutively to sentences already being served.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3293
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 2, 2023
+  ___________
+ 
+ Introduced by M. of A. JENSEN -- read once and referred to the Committee
+  on Codes
+ 
+ AN  ACT to amend the penal law, in relation to consecutive sentences for
+  sexual offenders on probation
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Subdivision 4 of section 60.01 of the penal law, as amended
+ by chapter 548 of the laws of 1984, is amended to read as follows:
+  4.  In  any  case  where  a  person  has been sentenced to a period of
+ probation imposed pursuant to section 65.00 of this [chapter] TITLE,  if
+ the  part  of  the  sentence that provides for probation is revoked, the
+ court must sentence such person to imprisonment or to  the  sentence  of
+ imprisonment  and probation as provided for in paragraph (d) of subdivi-
+ sion two of this section; PROVIDED,  HOWEVER,  EVERY  SUCH  SENTENCE  OF
+ IMPRISONMENT  FOR  A PERSON CONVICTED OF AN OFFENSE CONTAINED IN ARTICLE
+ ONE HUNDRED THIRTY OF THIS CHAPTER OR SECTION 255.25, 263.05, 263.10  OR
+ 263.15  OF  THIS  CHAPTER  SHALL  RUN CONSECUTIVELY TO ANY OTHER TERM OF
+ IMPRISONMENT IMPOSED FOR ANOTHER SUCH OFFENSE BY A COURT OF THIS STATE.
+  § 2. This act shall take effect on the first of November next succeed-
+ ing the date on which it shall have become a law.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04866-01-3
