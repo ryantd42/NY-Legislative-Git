@@ -1,0 +1,69 @@
+# Creates a provision requiring court review of domestic violence bail applications
+
+**Bill ID:** A3614
+**Session:** 2023
+**Sponsor:** Kenneth Zebrowski
+**Status:** Stricken
+
+## Summary
+
+Requires court review of domestic violence bail applications.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3614
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 3, 2023
+  ___________
+ 
+ Introduced by M. of A. ZEBROWSKI, BRONSON -- Multi-Sponsored by -- M. of
+  A. GLICK -- read once and referred to the Committee on Codes
+ 
+ AN  ACT  to  amend  the criminal procedure law, in relation to requiring
+  court review of domestic violence bail applications
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. This act shall be known and may be cited as the "Isol Cotto
+ Act".
+  §  2.  The  criminal  procedure law is amended by adding a new section
+ 510.25 to read as follows:
+ § 510.25 APPLICATION  FOR  RECOGNIZANCE  OR  BAIL;  WHERE  DEFENDANT  IS
+  ACCUSED  OF  DOMESTIC VIOLENCE OR VIOLATING AN EXISTING ORDER
+  OF PROTECTION.
+  1. ANY INDIVIDUAL ARRESTED FOR AN OFFENSE RELATING  TO:  (A)  DOMESTIC
+ VIOLENCE,  AS DEFINED IN SECTION FOUR HUNDRED FIFTY-NINE-A OF THE SOCIAL
+ SERVICES LAW; (B) VIOLATING  AN  EXISTING  ORDER  OF  PROTECTION  ISSUED
+ PURSUANT TO THE FOLLOWING PROVISIONS OF LAW:  SUBDIVISION ONE OF SECTION
+ 530.11,  SUBPARAGRAPH (I) OR (II) OF PARAGRAPH (O) OF SUBDIVISION ONE OF
+ SECTION 330.20, SECTION 530.12 OF THIS CHAPTER, ORDERS  ISSUED  PURSUANT
+ TO  SECTIONS TWO HUNDRED FORTY AND TWO HUNDRED FIFTY-TWO OF THE DOMESTIC
+ RELATIONS LAW, ARTICLES FOUR, FIVE, SIX AND EIGHT OF  THE  FAMILY  COURT
+ ACT,  AND AN ORDER OF PROTECTION ISSUED BY COURTS OF COMPETENT JURISDIC-
+ TION IN ANOTHER  STATE,  TERRITORIAL  OR  TRIBAL  JURISDICTION;  OR  (C)
+ COMMITTING  A  FAMILY  OFFENSE  AS DEFINED IN SUBDIVISION ONE OF SECTION
+ EIGHT HUNDRED TWELVE OF THE FAMILY COURT ACT SHALL NOT  BE  RELEASED  ON
+ BAIL UNTIL THEY HAVE APPEARED BEFORE A JUDGE OF THE COURT.
+  2.  THE COURT'S REVIEW OF BAIL, AS PROVIDED FOR IN THIS SECTION, SHALL
+ INCLUDE BUT NOT BE LIMITED TO: (A) A REVIEW OF THE CIRCUMSTANCES OF  THE
+ ARREST;  (B)  ANY  PRIOR  VIOLENT  OFFENSES;  AND  (C) THE RISK THAT THE
+ ACCUSED POSES TO THE VICTIM IF RELEASED.  SUCH  APPEARANCE  SHALL  OCCUR
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04757-01-3
+ A. 3614  2
+ 
+ WITHIN TWELVE HOURS OF ARREST AND IN NO INSTANCE MAY THE ACCUSED BE HELD
+ UNDER THE PROVISIONS OF THIS SECTION FOR MORE THAN TWELVE HOURS.
+  § 3. This act shall take effect immediately.
