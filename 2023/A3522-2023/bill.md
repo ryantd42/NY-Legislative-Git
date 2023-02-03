@@ -1,0 +1,90 @@
+# Relates to regulations implementing video lottery gaming in this state
+
+**Bill ID:** A3522
+**Session:** 2023
+**Sponsor:** J. Gary Pretlow
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to regulations implementing video lottery gaming in this state.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3522
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 3, 2023
+  ___________
+ 
+ Introduced  by M. of A. PRETLOW -- read once and referred to the Commit-
+  tee on Ways and Means
+ 
+ AN ACT to amend the tax law, in relation to rules and regulations neces-
+  sary for the implementation of video lottery gaming
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section  1.  Subdivisions e and f of section 1617-a of the tax law, as
+ amended by section 1 of part SS of chapter 60 of the laws of  2016,  are
+ amended and a new subdivision f-1 is added to read as follows:
+  e.  Video  lottery  gaming shall [only] be permitted for [no more than
+ twenty consecutive hours per day and on no day shall such  operation  be
+ conducted  past 6:00 a.m.] A VENDOR TRACK HAVING FEWER THAN ONE THOUSAND
+ FIVE HUNDRED SEVENTY-FIVE VIDEO GAMING MACHINES  OPERATED  DAILY  FOR  A
+ MAXIMUM  OF ONE HUNDRED TWENTY-EIGHT HOURS PER WEEK AND A MINIMUM OF ONE
+ HUNDRED TWELVE HOURS PER WEEK, AND FOR A VENDOR TRACK HAVING  ONE  THOU-
+ SAND  FIVE  HUNDRED  SEVENTY-FIVE OR MORE VIDEO GAMING MACHINES OPERATED
+ DAILY FOR A MAXIMUM OF ONE HUNDRED FORTY HOURS PER WEEK AND A MINIMUM OF
+ ONE HUNDRED TWELVE HOURS PER WEEK, WITH THE ACTUAL DAILY HOURS OF OPERA-
+ TION SET BY EACH VENDOR TRACK AND APPROVED BY THE DIRECTOR.
+  f. The gaming commission shall promulgate such rules  and  regulations
+ as  may  be  necessary for the implementation of video lottery gaming in
+ accordance with the provisions of this section [and  paragraph  five  of
+ subdivision  a  of section sixteen hundred twelve of this article]. SUCH
+ RULES AND REGULATIONS SHALL PROVIDE FOR, BUT NOT BE LIMITED TO, AUTHORI-
+ ZATION OF VIDEO LOTTERY VERSIONS OF ANY ELECTRONIC TABLE GAME CAPABLE OF
+ GENERATING RANDOM RESULTS SUCH AS ROULETTE, BACCARAT, POKER  AND  "TWEN-
+ TY-ONE".
+  F-1. THE DIVISION, IN CONSULTATION WITH THE RACING AND WAGERING BOARD,
+ SHALL ENSURE THAT:
+  (1)  ALL  ENTITIES  LICENSED  BY THE DIVISION TO OPERATE VIDEO LOTTERY
+ GAMING HAVE ENTERED INTO A LABOR PEACE AGREEMENT, AS  SET  FORTH  BELOW,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08317-01-3
+ A. 3522  2
+ 
+ WITH EACH LABOR ORGANIZATION THAT IS ACTIVELY ENGAGED IN REPRESENTING OR
+ ATTEMPTING  TO  REPRESENT VIDEO LOTTERY AND HOSPITALITY INDUSTRY WORKERS
+ IN THE STATE;
+  (2) THE LABOR PEACE AGREEMENT IS VALID AND ENFORCEABLE UNDER 29 U.S.C.
+ SECTION 185;
+  (3) THE LABOR PEACE AGREEMENT PROTECTS THE STATE'S REVENUES BY PROHIB-
+ ITING THE LABOR ORGANIZATION AND ITS MEMBERS FROM ENGAGING IN PICKETING,
+ WORK  STOPPAGES,  BOYCOTTS, AND ANY OTHER ECONOMIC INTERFERENCE WITH THE
+ OPERATION OF THE VIDEO LOTTERY FACILITY; AND
+  (4) IF A RACETRACK FACILITY EXISTING AS OF THE EFFECTIVE DATE OF  THIS
+ SUBDIVISION  ADDS  VIDEO  LOTTERY  ELECTRONIC TABLE GAMES AND SUCH VIDEO
+ LOTTERY ELECTRONIC TABLE GAMES, IN THE  SOLE  DISCRETION  OF  THE  VIDEO
+ LOTTERY  AGENT,  ARE  OPERATED  BY  AN ATTENDANT OR A DEALER, SUCH LABOR
+ PEACE AGREEMENT NEED ONLY APPLY TO SUCH ATTENDANTS AND DEALERS OF  ELEC-
+ TRONIC  TABLE  GAMES AT SUCH FACILITY, WHETHER OR NOT SUCH VIDEO LOTTERY
+ OPERATIONS ARE CONDUCTED BY A LESSEE OR TENANT  OR  UNDER  A  MANAGEMENT
+ AGREEMENT.  FOR  ALL OTHER FACILITIES, THE LABOR PEACE AGREEMENT APPLIES
+ TO ALL OPERATIONS AT A FACILITY WITH VIDEO LOTTERY CAPABILITIES, WHETHER
+ OR NOT SUCH OPERATIONS ARE CONDUCTED BY A LESSEE OR TENANT  OR  UNDER  A
+ MANAGEMENT  AGREEMENT.  THE  FOREGOING  LABOR PEACE PROVISIONS SHALL NOT
+ APPLY TO THE BUFFALO RACEWAY/FAIRGROUNDS IN ERIE COUNTY.
+  § 2. This act shall take effect on the thirtieth day  after  it  shall
+ have become a law.
