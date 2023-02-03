@@ -1,0 +1,91 @@
+# Relates to enacting the FIRST robotics competition and grant program
+
+**Bill ID:** A3445A
+**Session:** 2023
+**Sponsor:** Jen Lunsford
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes the For Inspiration and Recognition of Science and Technology ("FIRST") robotics competition; creates a grant program to fund high school participation in the competition and to encourage study in the fields of science, technology, engineering and math.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3445
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 3, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. LUNSFORD, BRONSON -- read once and referred to
+  the Committee on Education
+ 
+ AN ACT to amend the education law, in relation to establishing  the  For
+  Inspiration  and Recognition of Science and Technology ("FIRST") grant
+  program; and making an appropriation therefor
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The education law is amended by adding a new section 3641-c
+ to read as follows:
+  §  3641-C.  FOR  INSPIRATION AND RECOGNITION OF SCIENCE AND TECHNOLOGY
+ ROBOTICS LEAGUE PARTICIPATION ("FIRST") GRANT PROGRAM.  1.  THE  COMMIS-
+ SIONER  SHALL  ESTABLISH  THE FIRST GRANT PROGRAM AND THE FIRST ROBOTICS
+ COMPETITION PURSUANT TO THIS SECTION AND REGULATIONS OF THE COMMISSIONER
+ ADOPTED FOR SUCH PURPOSE.  WITHIN  THE  AMOUNTS  APPROPRIATED  FOR  THIS
+ PURPOSE,  THE  COMMISSIONER SHALL AWARD GRANTS ON A COMPETITIVE BASIS TO
+ PUBLIC AND PRIVATE HIGH SCHOOLS FOR THE PURPOSE OF ENCOURAGING STUDY  IN
+ THE FIELDS OF SCIENCE, TECHNOLOGY, ENGINEERING, AND MATH.
+  2.  ELIGIBILITY. A. APPLICANTS MUST BE A PUBLIC OR PRIVATE HIGH SCHOOL
+ IN THE STATE THAT HAS A SCHOOL SPONSORED ROBOTICS CLUB OR A TEAM PARTIC-
+ IPATING, OR INTENDING TO PARTICIPATE, IN A FIRST ROBOTICS COMPETITION.
+  B. APPLICANTS MUST ESTABLISH A PARTNERSHIP FOR THE PURPOSES OF DESIGN-
+ ING, BUILDING AND/OR PROGRAMMING THE TEAM'S  ROBOT  WITH  AT  LEAST  ONE
+ OTHER SPONSOR, WHICH SHALL BE A BUSINESS, INSTITUTION OF HIGHER LEARNING
+ OR TECHNOLOGICAL SCHOOL.
+  3. APPLICATIONS. APPLICATIONS MUST BE SUBMITTED TO THE COMMISSIONER BY
+ JUNE FIRST OF EACH YEAR FOR GRANTS TO BE MADE FOR THE FOLLOWING ACADEMIC
+ YEAR.  ALL  GRANTS  SHALL BE SUBJECT TO THE APPLICANT OBTAINING MATCHING
+ FUNDS FROM OTHER SOURCES OF AT LEAST FIFTY PERCENT OF THE GRANT.
+  4. AWARDS. A. THE COMMISSIONER SHALL GRANT AWARDS  IN  THE  AMOUNT  OF
+ FIVE THOUSAND DOLLARS TO SCHOOLS THAT ARE ELIGIBLE, PURSUANT TO SUBDIVI-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01587-02-3
+ A. 3445  2
+ 
+ SION  TWO  OF THIS SECTION. AWARDS SHALL BE WITHIN THE AMOUNTS APPROPRI-
+ ATED FOR SUCH PURPOSE AND BASED ON AVAILABILITY OF FUNDS.
+  B.  PREFERENCE  SHALL  BE  GIVEN  TO TEAMS AT TITLE I SCHOOLS, THEN TO
+ TEAMS AT SCHOOLS THAT  HAVE  NOT  PREVIOUSLY  PARTICIPATED  IN  ROBOTICS
+ COMPETITIONS  OR  RECEIVED  GRANTS THROUGH THIS PROGRAM, ON A FIRST-COME
+ FIRST-SERVED BASIS, AND IF THERE ARE FUNDS REMAINING THEREAFTER TO OTHER
+ PREVIOUSLY ESTABLISHED PROGRAMS.
+  C. FUNDS AWARDED UNDER THIS GRANT SHALL BE  USED  FOR:  REGISTRATION
+ COSTS;  MATERIALS;  TRAVEL COSTS; AND OTHER EXPENSES ASSOCIATED WITH THE
+ PREPARATION FOR, AND ATTENDANCE AT, FIRST ROBOTICS COMPETITIONS.
+  D. ADDITIONAL GRANTS SHALL ALSO BE MADE PURSUANT TO SUCH  OTHER  RULES
+ AND REGULATIONS AS MAY BE PROMULGATED BY THE COMMISSIONER.
+  §  2.  The sum of two hundred fifty thousand dollars ($250,000), or so
+ much thereof as may be available, is hereby appropriated to the  depart-
+ ment  of  education from any moneys in the state treasury in the general
+ fund to the credit of the state purposes account, not  otherwise  appro-
+ priated, and made immediately available, for the purpose of carrying out
+ the  provisions  of  this act. Such moneys shall be payable on the audit
+ and warrant of the comptroller on vouchers certified or approved by  the
+ commissioner of education in the manner prescribed by law.
+  § 3. This act shall take effect on the one hundred twentieth day after
+ it  shall have become a law. Effective immediately, the addition, amend-
+ ment, and/or repeal of any rule or regulation necessary for  the  imple-
+ mentation  of  this  act on its effective date are authorized to be made
+ and completed on or before such date.
