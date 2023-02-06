@@ -1,0 +1,80 @@
+# Permits municipalities, schools and fire and police departments to display and sell symbols of hope
+
+**Bill ID:** S4241
+**Session:** 2023
+**Sponsor:** Alexis Weik
+**Status:** In Senate Committee
+
+## Summary
+
+Permits municipal corporations, fire districts, volunteer fire companies, police departments and school districts to sell and display symbols of hope in support of law enforcement, emergency medical personnel, the military, border patrol, firefighters, conservation officers and others.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4241
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 6, 2023
+  ___________
+ 
+ Introduced  by  Sen.  WEIK  --  read twice and ordered printed, and when
+  printed to be committed to the Committee on Local Government
+ 
+ AN ACT to amend the general municipal law  and  the  education  law,  in
+  relation to symbols of hope
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The general municipal  law  is  amended  by  adding  a  new
+ section 99-z to read as follows:
+  §  99-Z.  SYMBOLS OF HOPE.  A MUNICIPAL CORPORATION SHALL BE PERMITTED
+ TO SELL OR DISPLAY SYMBOLS OF HOPE OR ANY  SIMILAR  IMAGE,  OR  TANGIBLE
+ PERSONAL  PROPERTY,  INSCRIBED WITH SUCH AN IMAGE.  FOR PURPOSES OF THIS
+ SECTION, THE TERM "SYMBOLS OF HOPE" SHALL INCLUDE, BUT  NOT  BE  LIMITED
+ TO,  A  THIN BLUE LINE IN SUPPORT OF LAW ENFORCEMENT, A THIN RED LINE IN
+ SUPPORT OF THE FIRE SERVICE, A THIN GRAY LINE IN SUPPORT OF  CORRECTIONS
+ OFFICERS,  A  THIN  WHITE  LINE  IN SUPPORT OF EMERGENCY MEDICAL PROFES-
+ SIONALS, A THIN PURPLE LINE IN SUPPORT OF SECURITY PROFESSIONALS, A THIN
+ YELLOW LINE IN SUPPORT OF DISPATCHERS, AND A THIN GREEN LINE IN  SUPPORT
+ OF MILITARY, BORDER PATROL AND CONSERVATION OFFICERS.
+  §  2.  The  general  municipal  law is amended by adding a new section
+ 209-ggg to read as follows:
+  § 209-GGG. SYMBOLS OF HOPE.  A FIRE DISTRICT, VOLUNTEER FIRE  COMPANY,
+ OR  POLICE  DEPARTMENT SHALL BE PERMITTED TO SELL OR DISPLAY ANY SYMBOLS
+ OF HOPE OR ANY SIMILAR IMAGE, OR TANGIBLE PERSONAL  PROPERTY,  INSCRIBED
+ WITH  SUCH AN IMAGE.  FOR PURPOSES OF THIS SECTION, THE TERM "SYMBOLS OF
+ HOPE" SHALL INCLUDE, BUT NOT BE LIMITED TO, A THIN BLUE LINE IN  SUPPORT
+ OF  LAW  ENFORCEMENT,  A THIN RED LINE IN SUPPORT OF THE FIRE SERVICE, A
+ THIN GRAY LINE IN SUPPORT OF CORRECTIONS OFFICERS, A THIN WHITE LINE  IN
+ SUPPORT  OF  EMERGENCY  MEDICAL  PROFESSIONALS,  A  THIN  PURPLE LINE IN
+ SUPPORT OF SECURITY PROFESSIONALS, A THIN  YELLOW  LINE  IN  SUPPORT  OF
+ DISPATCHERS, AND A THIN GREEN LINE IN SUPPORT OF MILITARY, BORDER PATROL
+ AND CONSERVATION OFFICERS.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08774-01-3
+ S. 4241  2
+ 
+  §  3.  The  education law is amended by adding a new section 1527-b to
+ read as follows:
+  §  1527-B.  SYMBOLS OF HOPE.  A SCHOOL DISTRICT SHALL BE PERMITTED TO
+ SELL OR DISPLAY ANY SYMBOLS OF HOPE OR ANY SIMILAR  IMAGE,  OR  TANGIBLE
+ PERSONAL  PROPERTY,  INSCRIBED WITH SUCH AN IMAGE.  FOR PURPOSES OF THIS
+ SECTION, THE TERM "SYMBOLS OF HOPE" SHALL INCLUDE, BUT  NOT  BE  LIMITED
+ TO,  A  THIN BLUE LINE IN SUPPORT OF LAW ENFORCEMENT, A THIN RED LINE IN
+ SUPPORT OF THE FIRE SERVICE, A THIN GRAY LINE IN SUPPORT OF  CORRECTIONS
+ OFFICERS,  A  THIN  WHITE  LINE  IN SUPPORT OF EMERGENCY MEDICAL PROFES-
+ SIONALS, A THIN PURPLE LINE IN SUPPORT OF SECURITY PROFESSIONALS, A THIN
+ YELLOW LINE IN SUPPORT OF DISPATCHERS, AND A THIN GREEN LINE IN  SUPPORT
+ OF MILITARY, BORDER PATROL AND CONSERVATION OFFICERS.
+  § 4. This act shall take effect immediately.
