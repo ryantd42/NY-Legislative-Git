@@ -1,0 +1,53 @@
+# Authorizes local governments to pay higher levels of minimum wage
+
+**Bill ID:** S4200
+**Session:** 2023
+**Sponsor:** James Sanders Jr.
+**Status:** In Senate Committee
+
+## Summary
+
+Authorizes local governments to pay higher levels of minimum wage.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4200
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 6, 2023
+  ___________
+ 
+ Introduced  by  Sen. SANDERS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Labor
+ 
+ AN ACT to amend the labor law, in relation to authorizing local  govern-
+  ments to pay higher level of minimum wage benefits
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The labor law is amended by adding a  new  section  666  to
+ read as follows:
+  §  666.  NON-PREEMPTION  CLAUSE.  NOTHING IN THIS ARTICLE OR ANY OTHER
+ PROVISION OF LAW SHALL BE  DEEMED  TO  PROHIBIT  ANY  MUNICIPALITY  FROM
+ ESTABLISHING  OR  ENFORCING  WITHIN ITS GEOGRAPHIC BOUNDARIES PAYMENT OF
+ MINIMUM WAGE OF BENEFITS STANDARDS THAT ARE HIGHER  OR  MORE  PROTECTIVE
+ THAN THOSE ESTABLISHED PURSUANT TO THIS ARTICLE.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05968-01-3
