@@ -1,6 +1,6 @@
 # Directs the department of health to create an informational pamphlet regarding the laparoscopic power morcellation surgery technique
 
-**Bill ID:** A1147A
+**Bill ID:** A1147AA
 **Session:** 2023
 **Sponsor:** Latoya Joyner
 **Status:** Stricken
@@ -16,7 +16,7 @@ Directs the department of health to create an informational pamphlet regarding t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1147
+  1147--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,14 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced by M. of A. JOYNER -- read once and referred to the Committee
-  on Health
+ Introduced  by  M. of A. JOYNER, ARDILA -- read once and referred to the
+  Committee on Health -- committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT  to  amend  the  public health law, in relation to directing the
   department of health to create an informational pamphlet regarding the
   laparoscopic power morcellation surgery technique
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,14 +58,14 @@ S T A T E  O F  N E W  Y O R K
   (D) PRIVACY EXPECTATIONS, INCLUDING THAT PRIVACY  SHOULD  BE  PROVIDED
  FOR  THE  PATIENT BOTH WHEN UNDRESSING AND DRESSING AND THAT A GOWN OR A
  DRAPE SHOULD BE PROVIDED;
-  (E) IF LAPAROSCOPIC HYSTERECTOMY, WHICH IS A SURGICAL  PROCEDURE  USED
- TO  REMOVE  THE  UTERUS, OR MYOMECTOMY HYSTERECTOMY, WHICH IS A SURGICAL
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04480-01-3
- A. 1147  2
+  LBD04480-03-3
+ A. 1147--A  2
  
+  (E) IF LAPAROSCOPIC HYSTERECTOMY, WHICH IS A SURGICAL  PROCEDURE  USED
+ TO  REMOVE  THE  UTERUS, OR MYOMECTOMY HYSTERECTOMY, WHICH IS A SURGICAL
  PROCEDURE USED TO REMOVE THE FIBROIDS, IS RECOMMENDED, THEN THE PROVIDER
  SHALL INFORM THE PATIENT IF POWER MORCELLATION WILL BE USED AND  WHY  IT
  IS THE BEST OPTION FOR THIS EXACT CASE;
@@ -88,10 +89,11 @@ S T A T E  O F  N E W  Y O R K
  AND SHALL BE MADE AVAILABLE IN ENGLISH AND THE SIX MOST COMMON NON-ENGL-
  ISH  LANGUAGES SPOKEN BY INDIVIDUALS WITH LIMITED ENGLISH PROFICIENCY IN
  NEW YORK STATE AS BASED ON THE MOST RECENT CENSUS.
-  4. A PRACTITIONER SHALL PROVIDE THE PATIENT THE INFORMATIONAL PAMPHLET
- DEVELOPED PURSUANT TO THIS  SECTION  PRIOR  TO  PERFORMING  LAPAROSCOPIC
+  4. A PRACTITIONER MAY PROVIDE THE PATIENT THE  INFORMATIONAL  PAMPHLET
+ DEVELOPED  PURSUANT  TO  THIS  SECTION  PRIOR TO PERFORMING LAPAROSCOPIC
  POWER MORCELLATION SURGERY.
-  5.  FOR  PURPOSES  OF THIS SECTION, "PRACTITIONER" MEANS A HEALTH CARE
- PROFESSIONAL LICENSED, CERTIFIED, OR OTHERWISE  AUTHORIZED  TO  PRACTICE
+  5. FOR PURPOSES OF THIS SECTION, "PRACTITIONER" MEANS  A  HEALTH  CARE
+ PROFESSIONAL  LICENSED,  CERTIFIED,  OR OTHERWISE AUTHORIZED TO PRACTICE
  UNDER THE EDUCATION LAW, ACTING WITHIN THE SCOPE OF PRACTICE.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
