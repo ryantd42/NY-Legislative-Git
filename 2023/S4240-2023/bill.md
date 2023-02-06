@@ -1,0 +1,73 @@
+# Relates to establishing the Gold Award and Eagle Scout achievement scholarship
+
+**Bill ID:** S4240
+**Session:** 2023
+**Sponsor:** Alexis Weik
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to establishing the Gold Award and Eagle Scout achievement scholarship; authorizes a scholarship of $500 per year for high school graduates attending a New York state public post-secondary institution who have achieved a Gold Award from the Girl Scouts of the United States of America or an Eagle Scout from the Boy Scouts of America.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4240
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 6, 2023
+  ___________
+ 
+ Introduced  by  Sen.  WEIK  --  read twice and ordered printed, and when
+  printed to be committed to the Committee on Higher Education
+ 
+ AN ACT to amend the education law, in relation to establishing the  Gold
+  Award and Eagle Scout achievement scholarship
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The education law is amended by adding a new section  668-h
+ to read as follows:
+  §  668-H.  GOLD  AWARD  AND  EAGLE  SCOUT  ACHIEVEMENT SCHOLARSHIP. 1.
+ PURPOSE.  THE GOLD AWARD AND EAGLE  SCOUT  ACHIEVEMENT  SCHOLARSHIP  IS
+ HEREBY ESTABLISHED FOR THE PURPOSE OF GRANTING SCHOLARSHIP AWARDS TO NEW
+ YORK  STATE HIGH SCHOOL GRADUATES WHO ACHIEVE A GOLD AWARD FROM THE GIRL
+ SCOUTS OF THE UNITED STATES OF AMERICA OR AN EAGLE SCOUT  FROM  THE  BOY
+ SCOUTS OF AMERICA.
+  2. ELIGIBILITY. TO BE ELIGIBLE FOR SUCH AWARDS, AN APPLICANT MUST HAVE
+ GRADUATED  FROM  A  NEW  YORK STATE HIGH SCHOOL, ENROLLED IN AN APPROVED
+ UNDERGRADUATE, FULL-TIME PROGRAM OF STUDY IN A  NEW  YORK  STATE  PUBLIC
+ POST-SECONDARY  INSTITUTION  BEGINNING IN THE TWO THOUSAND TWENTY-FOUR--
+ TWO THOUSAND TWENTY-FIVE ACADEMIC YEAR OR  THEREAFTER,  AND  ACHIEVED  A
+ GOLD  AWARD  FROM  THE GIRL SCOUTS OF THE UNITED STATES OF AMERICA OR AN
+ EAGLE SCOUT FROM THE BOY SCOUTS OF  AMERICA.  AN  APPLICANT  SHALL  SHOW
+ PROOF OF SUCH GOLD AWARD OR EAGLE SCOUT FROM A GIRL SCOUTS OF THE UNITED
+ STATES  OF  AMERICA COUNCIL, OR BOY SCOUTS OF AMERICA COUNCIL LOCATED IN
+ THE STATE.
+  3. AWARDS. WITHIN AMOUNTS APPROPRIATED THEREFOR, THE  PRESIDENT  SHALL
+ GRANT AN ANNUAL AWARD TO ELIGIBLE APPLICANTS PURSUANT TO SUBDIVISION TWO
+ OF  THIS SECTION IN THE AMOUNT OF FIVE HUNDRED DOLLARS FOR NOT MORE THAN
+ FOUR ACADEMIC YEARS OF UNDERGRADUATE STUDY, OR FIVE ACADEMIC  YEARS,  IF
+ THE  PROGRAM  OF  STUDY  NORMALLY  REQUIRES FIVE YEARS AS DEFINED BY THE
+ COMMISSIONER PURSUANT TO ARTICLE THIRTEEN OF THIS CHAPTER.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01081-01-3
+ S. 4240  2
+ 
+  4. OFFSET. SUCH AWARDS MAY BE USED TO  OFFSET  THE  APPLICANT'S  TOTAL
+ COST OF ATTENDANCE DETERMINED FOR FEDERAL TITLE IV STUDENT FINANCIAL AID
+ PURPOSES.
+  5.  RULES. THE CORPORATION IS AUTHORIZED TO PROMULGATE RULES AND REGU-
+ LATIONS, AND MAY PROMULGATE EMERGENCY  REGULATIONS,  NECESSARY  FOR  THE
+ IMPLEMENTATION OF THE PROVISIONS OF THIS SECTION.
+  § 2. This act shall take effect immediately.
