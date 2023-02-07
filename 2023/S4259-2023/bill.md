@@ -1,0 +1,149 @@
+# Relates to paid family leave and bereavement for fetal death, still birth, and an infant being medically not viable to survive
+
+**Bill ID:** S4259
+**Session:** 2023
+**Sponsor:** Jake Ashby
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to paid family leave and bereavement for fetal death, still birth, and an infant being medically not viable to survive.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4259
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 7, 2023
+  ___________
+ 
+ Introduced  by  Sen.  ASHBY  -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Labor
+ 
+ AN ACT to amend the workers' compensation law, in relation to paid fami-
+  ly leave and bereavement for fetal death, still birth, and  an  infant
+  being medically not viable to survive
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subdivision 15 of section 201 of the workers'  compensation
+ law, as added by section 2 of part SS of chapter 54 of the laws of 2016,
+ is amended to read as follows:
+  15.  "Family  leave"  shall  mean  any leave taken by an employee from
+ work:  (a) to participate in  providing  care,  including  physical  or
+ psychological  care,  for a family member of the employee made necessary
+ by a serious health condition of the family member; or (b) to bond  with
+ the  employee's  child  during the first twelve months after the child's
+ birth, or the first twelve months after the placement of the  child  for
+ adoption  or foster care with the employee; or (c) because of any quali-
+ fying exigency as interpreted under the family and medical leave act, 29
+ U.S.C.S § 2612(a)(1)(e) and 29 C.F.R. S.825.126(a)(1)-(8),  arising  out
+ of  the  fact that the spouse, domestic partner, child, or parent of the
+ employee is on active duty (or has been notified of an impending call or
+ order to active duty) in the armed forces of the United States;  OR  (D)
+ LEAVE  TAKEN  FOR  THE PURPOSES OF BEREAVEMENT DUE TO THE FETAL DEATH OR
+ STILL BIRTH OF AN INFANT BORN TO THE EMPLOYEE OR THE EMPLOYEE'S  SPOUSE,
+ OR  DUE  TO THE EMPLOYEE'S INFANT BEING DECLARED MEDICALLY NOT VIABLE TO
+ SURVIVE BIRTH BY A PHYSICIAN LICENSED UNDER ARTICLE ONE HUNDRED  THIRTY-
+ ONE OF THE EDUCATION LAW.
+  §  2.  Paragraph  (b)  of subdivision 2 of section 205 of the workers'
+ compensation law, as added by section 6 of part SS of chapter 54 of  the
+ laws of 2016, is amended to read as follows:
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06258-01-3
+ S. 4259  2
+ 
+  (b)  For  any  period  of  family leave wherein the notice and medical
+ certification, FETAL DEATH CERTIFICATE, CERTIFICATE OF  STILL  BIRTH  OR
+ DEATH CERTIFICATE, as prescribed by the chair has not been filed. At the
+ discretion  of  the  chair  or  chair's designee pursuant to section two
+ hundred twenty-one of this article, the family member who is the recipi-
+ ent  of  care  may  be required to submit to a physical examination by a
+ qualified health care provider UNLESS SUCH FAMILY MEMBER IS UNABLE TO BE
+ EXAMINED DUE TO DEATH, FETAL DEATH, OR  STILL  BIRTH.  Such  examination
+ shall be paid for by the carrier; and
+  § 3. Subdivision 5 of section 205 of the workers' compensation law, as
+ added  by  section  6  of  part SS of chapter 54 of the laws of 2016, is
+ amended to read as follows:
+  5. In any case in which the necessity for family leave is  foreseeable
+ based  on an expected birth or placement, the employee shall provide the
+ employer with not less than thirty days notice before the date the leave
+ is to begin, of the employee's intention to take family leave under this
+ article, except that if the date of  the  birth  or  placement  requires
+ leave to begin in less than thirty days, the employee shall provide such
+ notice  as is practicable. In any case in which the necessity for family
+ leave is foreseeable based on planned medical  treatment,  the  employee
+ shall provide the employer with not less than thirty days notice, before
+ the date the leave is to begin, of the employees intention to take fami-
+ ly  leave  under  this article, except that if the date of the treatment
+ requires leave to begin in less than thirty  days,  the  employee  shall
+ provide  such notice as is practicable.  IN THE CASE OF FAMILY LEAVE DUE
+ TO BEREAVEMENT, NOTICE SHALL BE PROVIDED AS SOON AS PRACTICABLE.
+  § 4. Subdivisions 1, 3 and 4 of section 217 of  the  workers'  compen-
+ sation  law,  as  amended  by section 16 of part SS of chapter 54 of the
+ laws of 2016, are amended to read as follows:
+  1. Written notice and proof of disability or proof of need for  family
+ leave shall be furnished to the employer by or on behalf of the employee
+ claiming  benefits  or,  in  the  case  of  a claimant under section two
+ hundred seven of this article, to the chair, within  thirty  days  after
+ commencement  of  the  period  of  disability. Additional proof shall be
+ furnished thereafter from time to time as the  employer  or  carrier  or
+ chair  may  require  but  not more often than once each week. Such proof
+ shall include a statement of  disability  by  the  employee's  attending
+ physician or attending podiatrist or attending chiropractor or attending
+ dentist  or  attending psychologist or attending certified nurse midwife
+ or family leave care recipient's health care provider, or in the case of
+ an employee who adheres to the faith  or  teachings  of  any  church  or
+ denomination, and who in accordance with its creed, tenets or principles
+ depends  for  healing  upon  prayer through spiritual means alone in the
+ practice of religion, by an accredited  practitioner,  containing  facts
+ and opinions as to such disability in compliance with regulations of the
+ chair.  IN  THE EVENT THAT THE CLAIMANT IS ELIGIBLE FOR FAMILY LEAVE DUE
+ TO BEREAVEMENT, A FETAL DEATH CERTIFICATE, CERTIFICATE OF  STILL  BIRTH,
+ OR  DEATH  CERTIFICATE SHALL SERVE AS PROOF OF NEED OF LEAVE. Failure to
+ furnish notice or proof within the time and in the manner above provided
+ shall not invalidate the claim but no benefits shall be required  to  be
+ paid  for  any period more than two weeks prior to the date on which the
+ required proof is furnished unless it shall be shown to the satisfaction
+ of the chair not to have been reasonably possible to furnish such notice
+ or proof and that such notice or proof was furnished as soon  as  possi-
+ ble;  provided,  however,  that  no  benefits  shall  be paid unless the
+ required proof of disability is furnished within the  period  of  actual
+ S. 4259  3
+ 
+ disability  or  family  leave that does not exceed the statutory maximum
+ period permitted under section two hundred  four  of  this  article.  No
+ limitation  of  time  provided  in this section shall run as against any
+ disabled  employee  who is mentally incompetent, or physically incapable
+ of providing such notice as a result of a serious medical condition,  or
+ a  minor  so  long  as  such person has no guardian of the person and/or
+ property.
+  3. The chair or chair's designee,  pursuant  to  section  two  hundred
+ twenty-one of this article, may direct the claimant or family leave care
+ recipient  to submit to examination by a health care provider designated
+ by him or her in any case in which the claim  to  disability  or  family
+ leave  benefits  is  contested  and  in claims arising under section two
+ hundred seven of this article, and in other cases as the chair or  board
+ may  require.  IN  THE  EVENT THAT THE FAMILY MEMBER OR THE FAMILY LEAVE
+ CARE RECIPIENT IS UNABLE TO BE EXAMINED DUE TO DEATH,  FETAL  DEATH,  OR
+ STILL BIRTH, THIS SECTION SHALL NOT APPLY.
+  4. Refusal of the claimant or family leave care recipient without good
+ cause to submit to any such examination shall disqualify the claimant or
+ employee  from  all  benefits  hereunder for the period of such refusal,
+ except as to benefits already paid. IN THE EVENT THAT THE FAMILY  MEMBER
+ OR  FAMILY  LEAVE  CARE RECIPIENT IS UNABLE TO BE EXAMINED DUE TO DEATH,
+ FETAL DEATH, OR STILL BIRTH, THIS SECTION SHALL NOT APPLY.
+  § 5. This act shall take effect immediately and  shall  apply  to  all
+ policies  or  contracts issued, renewed, modified, altered or amended on
+ or after January 1, 2024.
