@@ -1,0 +1,109 @@
+# Relates to prohibiting the operation of establishments where animals and/or fowls are slaughtered or butchered for food
+
+**Bill ID:** S4311
+**Session:** 2023
+**Sponsor:** Luis R. Sepúlveda
+**Status:** In Senate Committee
+
+## Summary
+
+Prohibits the operation of establishments where animals and/or fowls are slaughtered or butchered for food; establishes a task force on public health risks and animal welfare concerns of slaughterhouses.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4311
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 7, 2023
+  ___________
+ 
+ Introduced by Sens. SEPULVEDA, HARCKHAM, MAYER -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Agricul-
+  ture
+ 
+ AN  ACT to amend the agriculture and markets law, in relation to prohib-
+  iting the operation of establishments where animals and/or  fowls  are
+  slaughtered and butchered for food
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1.  Legislative intent. The  legislature  hereby  finds  that
+ emergency measures must be enacted to help prevent the spread of zoonot-
+ ic  and  other  infectious  diseases.  Experts throughout the world have
+ concluded that the COVID-19 crisis is  likely  attributable  to  a  live
+ animal  market.  Inspection reports from the department of agriculture
+ and markets indicate ongoing health, safety and welfare problems at  New
+ York's  markets.  Hundreds of thousands of human lives have already been
+ lost and millions of people  have  been  sickened  during  the  COVID-19
+ pandemic.  The  purpose of this law is to eliminate one potential vector
+ for the transmission of zoonotic diseases, live animal markets, and  the
+ suffering  it  causes therefrom at least until there is further examina-
+ tion by  infectious  disease  experts  of  the  nexus  between  zoonotic
+ diseases and live animal markets.
+  §  2.  The  agriculture  and  markets  law  is amended by adding a new
+ section 96-ee to read as follows:
+  § 96-EE. PROHIBITION OF THE OPERATION OF ESTABLISHMENTS WHERE  ANIMALS
+ AND/OR  FOWLS ARE SLAUGHTERED FOR FOOD. 1. NOTWITHSTANDING ANY PROVISION
+ OF LAW TO THE CONTRARY:
+  (A) THE COMMISSIONER SHALL NOT LICENSE ANY PERSON,  FIRM,  PARTNERSHIP
+ OR  CORPORATION  TO  OPERATE  ANY  PLACE  OR ESTABLISHMENT WHERE ANIMALS
+ AND/OR FOWLS ARE SLAUGHTERED OR BUTCHERED FOR FOOD;
+  (B) THE COMMISSIONER SHALL IMMEDIATELY  SUSPEND  THE  LICENSE  OF  ANY
+ PERSON,  FIRM, PARTNERSHIP OR CORPORATION THAT CURRENTLY HOLDS A LICENSE
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01283-01-3
+ S. 4311  2
+ 
+ ISSUED BY THE COMMISSIONER TO OPERATE ANY PLACE OR  ESTABLISHMENT  WHERE
+ ANIMALS AND/OR FOWLS ARE SLAUGHTERED OR BUTCHERED FOR FOOD; AND
+  (C) NO PERSON, FIRM, PARTNERSHIP OR CORPORATION THAT CURRENTLY HOLDS A
+ LICENSE ISSUED BY THE COMMISSIONER TO OPERATE ANY PLACE OR ESTABLISHMENT
+ WHERE  ANIMALS  AND/OR FOWLS ARE SLAUGHTERED OR BUTCHERED FOR FOOD SHALL
+ OPERATE SUCH ESTABLISHMENT AFTER THE EFFECTIVE DATE OF THIS SECTION.
+  2. (A) A TASK FORCE ON PUBLIC HEALTH RISKS AND ANIMAL WELFARE CONCERNS
+ OF SLAUGHTERHOUSES IS HEREBY ESTABLISHED. SUCH TASK FORCE SHALL  CONDUCT
+ AND COMPLETE A THOROUGH EXAMINATION OF FACILITIES HERETOFORE LICENSED BY
+ THE  DEPARTMENT UNDER THIS ARTICLE AND THEIR EFFECT ON PUBLIC HEALTH AND
+ SAFETY AND ANIMAL WELFARE.
+  (B) SUCH TASK FORCE SHALL CONSIST OF SEVEN MEMBERS, TO BE APPOINTED AS
+ FOLLOWS: ONE MEMBER TO BE APPOINTED BY THE GOVERNOR; TWO MEMBERS  TO  BE
+ APPOINTED  BY  THE  TEMPORARY PRESIDENT OF THE SENATE; TWO MEMBERS TO BE
+ APPOINTED BY THE SPEAKER OF THE ASSEMBLY; ONE MEMBER TO BE APPOINTED  BY
+ THE  COMMISSIONER OR HIS OR HER DESIGNEE; AND ONE MEMBER TO BE APPOINTED
+ BY THE COMMISSIONER OF HEALTH OR HIS OR HER DESIGNEE.  APPOINTEES  SHALL
+ HAVE EXPERTISE IN INFECTIOUS DISEASES, AND, IN PARTICULAR, THE POTENTIAL
+ SPREAD  OF  DISEASES  BETWEEN ANIMALS RAISED OR SLAUGHTERED FOR FOOD AND
+ HUMANS. AT LEAST ONE SUCH REPRESENTATIVE SHALL BE FROM A  DULY  INCORPO-
+ RATED  ANIMAL WELFARE ORGANIZATION, AND AT LEAST ONE SUCH REPRESENTATIVE
+ SHALL BE A LICENSED VETERINARIAN WHO IS NOT  EMPLOYED  BY  A  GOVERNMENT
+ AGENCY.
+  (C)  NO  MEMBER,  OFFICER  OR  EMPLOYEE  OF  SUCH  TASK FORCE SHALL BE
+ DISQUALIFIED FROM HOLDING ANY OTHER PUBLIC  OFFICE  OR  EMPLOYMENT,  NOR
+ SHALL  HE  OR SHE FORFEIT ANY SUCH OFFICE OR EMPLOYMENT BY REASON OF HIS
+ OR  HER  APPOINTMENT  PURSUANT  TO  THIS  SECTION,  NOTWITHSTANDING  THE
+ PROVISIONS OF ANY GENERAL, SPECIAL OR LOCAL LAW, ORDINANCE OR CITY CHAR-
+ TER.
+  (D)  THE  MEMBERS OF SUCH TASK FORCE SHALL RECEIVE NO COMPENSATION FOR
+ THEIR SERVICES, BUT SHALL BE ALLOWED THEIR ACTUAL AND NECESSARY EXPENSES
+ INCURRED IN THE PERFORMANCE OF THEIR DUTIES PURSUANT TO THIS SECTION.
+  (E) SUCH TASK FORCE SHALL MAKE A REPORT OF ITS FINDINGS TO THE  GOVER-
+ NOR,  THE  TEMPORARY  PRESIDENT  OF  THE  SENATE, AND THE SPEAKER OF THE
+ ASSEMBLY WITHIN ONE YEAR OF THE DATE OF THE FIRST MEETING  OF  THE  TASK
+ FORCE,  WHICH  SHALL TAKE PLACE WITHIN THIRTY DAYS OF THE APPOINTMENT OF
+ THE TASK FORCE REPRESENTATIVES. SUCH REPORT  SHALL  INCLUDE  RECOMMENDA-
+ TIONS FOR FURTHER ACTION AND LEGISLATION.
+  3.  NOTHING IN THIS SECTION SHALL BE CONSTRUED TO APPLY TO ANY FACILI-
+ TIES OTHER THAN LIVE POULTRY OR SMALL ANIMAL SLAUGHTERHOUSES PURSUANT TO
+ THIS ARTICLE WHICH ARE OPEN TO THE PUBLIC.
+  § 3. This act shall take effect immediately.
