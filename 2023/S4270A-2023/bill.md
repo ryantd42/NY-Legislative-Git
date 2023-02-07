@@ -1,0 +1,168 @@
+# Relates to establishing a carbon farming tax credit for farmers
+
+**Bill ID:** S4270A
+**Session:** 2023
+**Sponsor:** Kevin S. Parker
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes a tax credit for farmers who maximize carbon sequestration potential through a "carbon farming" land management strategy; directs DEC to develop regulations related to certifying the amount of carbon sequestered or emissions reduced.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4270
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 7, 2023
+  ___________
+ 
+ Introduced  by  Sen.  PARKER -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Agriculture
+ 
+ AN ACT to amend the agriculture and markets law, the  tax  law  and  the
+  environmental  conservation  law,  in  relation to enacting the carbon
+  farming act
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  This  act  shall be known and may be cited as the "carbon
+ farming act".
+  § 2. Legislative intent. The legislature  hereby  finds  and  declares
+ that  soil  and vegetation management can significantly enhance soil and
+ carbon sequestration, resulting in a wide  range  of  environmental  and
+ agricultural  benefits  to  New  York  farmers and residents, including:
+ increased yields; soil health; improved water quality; and reductions in
+ greenhouse gases. The legislature further declares that enhancing carbon
+ sequestration, the long term storage of carbon in plants, soils, geolog-
+ ic formations and the ocean, through farming is in the best interest  of
+ New  Yorkers.  It  is  therefore  the  intent of the legislature and the
+ purpose of this act to encourage farmers to further sequester and  miti-
+ gate carbon in this state by establishing a carbon farming tax credit to
+ reward  and incentivize farmers to maintain or adopt practices that help
+ maximize New York's carbon sequestration potential.
+  § 3. Section 150 of the agriculture and  markets  law  is  amended  by
+ adding a new subdivision 5 to read as follows:
+  5.  "CARBON  FARMING"  MEANS  THE  IMPLEMENTATION OF A LAND MANAGEMENT
+ STRATEGY FOR THE PURPOSES  OF  REDUCING,  SEQUESTERING,  AND  MITIGATING
+ GREENHOUSE GAS EMISSIONS ON LAND USED IN SUPPORT OF A FARM OPERATION AND
+ QUANTIFYING  THOSE  GREENHOUSE  GAS  BENEFITS  USING  THE  UNITED STATES
+ DEPARTMENT OF AGRICULTURE'S COMET-PLANNER, COMET-FARM, AND OTHER QUANTI-
+ FICATION TOOLS.
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01378-01-3
+ S. 4270  2
+ 
+  § 4. Section 210-B of the tax law is amended by adding a new  subdivi-
+ sion 59 to read as follows:
+  59. CARBON FARMING CREDIT. (A) ALLOWANCE OF CREDIT. A TAXPAYER THAT IS
+ AN  AGRICULTURAL BUSINESS THAT PRODUCES FARM PRODUCTS SHALL BE ALLOWED A
+ CREDIT AGAINST THE TAX IMPOSED BY  THIS  ARTICLE  FOR  THE  PRACTICE  OF
+ CARBON FARMING.
+  (B)  DEFINITIONS.  FOR  PURPOSES  OF  THIS SECTION THE FOLLOWING TERMS
+ SHALL HAVE THE FOLLOWING MEANINGS:
+  (I) "CARBON FARMING" SHALL HAVE THE  SAME  MEANING  AS  SET  FORTH  IN
+ SUBDIVISION  FIVE  OF  SECTION  ONE HUNDRED FIFTY OF THE AGRICULTURE AND
+ MARKETS LAW;
+  (II) "FARM PRODUCTS" SHALL HAVE THE  SAME  MEANING  AS  SET  FORTH  IN
+ SUBDIVISION FIVE OF SECTION TWO OF THE AGRICULTURE AND MARKETS LAW; AND
+  (III)  "CARBON  SEQUESTRATION"  SHALL  MEAN  THE  LONG TERM STORAGE OF
+ CARBON IN PLANTS AND SOILS.
+  (C) SUCH CREDIT SHALL BE CALCULATED BASED ON  THE  ECONOMIC  VALUE  OF
+ CARBON  FARMING  AS  DETERMINED  BY  THE  COMMISSIONER  OF ENVIRONMENTAL
+ CONSERVATION, IN CONSULTATION WITH THE COMMISSIONER OF  AGRICULTURE  AND
+ MARKETS  AND  THE  COMMISSIONER PURSUANT TO PARAGRAPH CCC OF SUBDIVISION
+ TWO OF SECTION 3-0301 OF THE ENVIRONMENTAL CONSERVATION LAW.
+  (D) THE TAXPAYER SHALL ATTACH TO ITS TAX RETURN ITS FINAL  CERTIFICATE
+ OF  ELIGIBILITY ISSUED BY THE COMMISSIONER OF ENVIRONMENTAL CONSERVATION
+ PURSUANT TO SECTION 19-0309 OF THE ENVIRONMENTAL CONSERVATION LAW. IN NO
+ EVENT SHALL THE TAXPAYER BE ALLOWED A CREDIT GREATER THAN THE AMOUNT  OF
+ THE  CREDIT  LISTED  ON  THE  FINAL  CERTIFICATE VERIFYING THE EMISSIONS
+ REDUCTIONS TO BE CREDITED TO THE TAXPAYER.
+  (E) IF THE AMOUNT OF THE CREDIT ALLOWABLE UNDER THIS  SUBDIVISION  FOR
+ ANY  TAXABLE  YEAR  SHALL  EXCEED  THE TAXPAYER'S TAX FOR SUCH YEAR, ANY
+ AMOUNT OF CREDIT NOT DEDUCTIBLE IN SUCH TAXABLE YEAR MAY BE CARRIED OVER
+ TO THE FOLLOWING THREE YEARS, AND MAY BE DEDUCTED FOR THE  TAXPAYER  FOR
+ SUCH YEAR.
+  §  5. Section 606 of the tax law is amended by adding a new subsection
+ (ooo) to read as follows:
+  (OOO) CARBON FARMING CREDIT. (1) ALLOWANCE OF CREDIT. A  TAXPAYER  WHO
+ PROVIDES FARM PRODUCTS AND WHO PRACTICES CARBON FARMING SHALL BE ALLOWED
+ A CREDIT AGAINST THE TAX IMPOSED BY THIS ARTICLE.
+  (2)  DEFINITIONS.  FOR  THE PURPOSES OF THIS SUBSECTION, THE FOLLOWING
+ DEFINITIONS SHALL APPLY:
+  (A) "FARM PRODUCTS" SHALL HAVE THE SAME MEANING AS SET FORTH IN SUBDI-
+ VISION FIVE OF SECTION TWO OF THE AGRICULTURE AND MARKETS LAW.
+  (B) "CARBON FARMING" SHALL HAVE THE  SAME  MEANING  AS  SET  FORTH  IN
+ SUBDIVISION  FIVE  OF  SECTION  ONE HUNDRED FIFTY OF THE AGRICULTURE AND
+ MARKETS LAW.
+  (3) APPLICATION OF CREDIT. SUCH CREDIT SHALL BE  CALCULATED  BASED  ON
+ THE  ECONOMIC  VALUE OF CARBON FARMING AS DETERMINED BY THE COMMISSIONER
+ OF ENVIRONMENTAL CONSERVATION, IN CONSULTATION WITH THE COMMISSIONER  OF
+ AGRICULTURE  AND MARKETS PURSUANT TO PARAGRAPH CCC OF SUBDIVISION TWO OF
+ SECTION 3-0301 OF THE ENVIRONMENTAL CONSERVATION LAW.
+  (4) CERTIFICATION REQUIRED. THE  TAXPAYER  SHALL  ATTACH  TO  ITS  TAX
+ RETURN  ITS  FINAL CERTIFICATE OF ELIGIBILITY ISSUED BY THE COMMISSIONER
+ OF ENVIRONMENTAL CONSERVATION PURSUANT TO SECTION 19-0309 OF  THE  ENVI-
+ RONMENTAL  CONSERVATION LAW. IN NO EVENT SHALL THE TAXPAYER BE ALLOWED A
+ CREDIT GREATER THAN THE AMOUNT OF THE CREDIT LISTED ON THE FINAL CERTIF-
+ ICATE VERIFYING THE EMISSIONS REDUCTIONS TO BE CREDITED TO THE TAXPAYER.
+  (5) CARRYOVER OF CREDIT. IF THE AMOUNT OF THE CREDIT  ALLOWABLE  UNDER
+ THIS SUBSECTION FOR ANY TAXABLE YEAR SHALL EXCEED THE TAXPAYER'S TAX FOR
+ S. 4270  3
+ 
+ SUCH  YEAR, ANY AMOUNT OF CREDIT NOT DEDUCTIBLE IN SUCH TAXABLE YEAR MAY
+ BE CARRIED OVER TO THE FOLLOWING THREE YEARS, AND MAY  BE  DEDUCTED  FOR
+ THE TAXPAYER FOR SUCH YEAR.
+  § 6. Subdivision 2 of section 3-0301 of the environmental conservation
+ law is amended by adding a new paragraph ccc to read as follows:
+  CCC.  COOPERATE  WITH  THE  DEPARTMENT  OF  AGRICULTURE AND MARKETS TO
+ DEVELOP EDUCATIONAL MATERIALS TO PROMOTE AND ENCOURAGE  CARBON  FARMING.
+ SUCH  MATERIALS  SHALL PROMOTE FARMING PRACTICES WHICH REDUCE, SEQUESTER
+ AND MITIGATE GREENHOUSE GAS  EMISSIONS  THROUGH  THE  IMPLEMENTATION  OF
+ CARBON  FARMING  STRATEGIES AND ON LAND USED IN SUPPORT OF A FARM OPERA-
+ TION; AND DEVELOP AND CODIFY A METRIC TO QUANTIFY THE STORAGE OF  CARBON
+ USING  THE  UNITED  STATES  DEPARTMENT  OF  AGRICULTURE'S COMET-PLANNER,
+ COMET-FARM, AND OTHER QUANTIFICATION TOOLS. THE DEPARTMENT SHALL DEVELOP
+ AND DISTRIBUTE AN APPLICATION AND CERTIFICATION PROCEDURE WHICH VERIFIES
+ THE CARBON STORED TO BE  CREDITED  TO  EACH  FARM.  THE  DEPARTMENT  MAY
+ PROMULGATE RULES AND REGULATIONS NECESSARY TO IMPLEMENT THIS SECTION.
+  §  7.  Subdivision 1 of section 19-0309 of the environmental conserva-
+ tion law, as amended by chapter 817 of the laws of 1987, is  amended  to
+ read as follows:
+  1.  For the purposes of sections 208, 210, 606 and 612 of the Tax Law,
+ the commissioner or his designated representative is  hereby  authorized
+ to  issue  certificates  of  compliance concerning air pollution control
+ facilities [and], air pollution controlled process facilities AND CARBON
+ FARMING as defined in such law. No  such  certificate  shall  be  issued
+ unless  the  facility  to  which  it is applicable is in compliance with
+ applicable provisions of titles 1 to 11,  inclusive,  and  title  19  of
+ article  17,  article  19, and title 1 of article 27 of this chapter; of
+ the Public Health Law; of the state sanitary code and of  codes,  rules,
+ regulations, permits or orders issued pursuant thereto.
+  §  8.  Section  16  of  the  agriculture and markets law is amended by
+ adding a new subdivision 53 to read as follow:
+  53. COOPERATE WITH THE DEPARTMENT  OF  ENVIRONMENTAL  CONSERVATION  TO
+ DEVELOP  EDUCATIONAL  MATERIALS TO ENCOURAGE CARBON FARMING AND HOW TO
+ USE THE UNITED STATES DEPARTMENT OF AGRICULTURE'S COMET-PLANNER,  COMET-
+ FARM,  AND OTHER CARBON QUANTIFICATION TOOLS.  THE PROGRAM SHALL PROMOTE
+ FARMING PRACTICES WHICH REDUCE, SEQUESTER AND  MITIGATE  GREENHOUSE  GAS
+ EMISSIONS  ON  LAND USED IN SUPPORT OF A FARM OPERATION.  THE DEPARTMENT
+ SHALL PROMOTE THE CARBON FARMING TAX CREDIT  PROVIDED  IN  SECTIONS  TWO
+ HUNDRED TEN-B AND SIX HUNDRED SIX OF THE TAX LAW.
+  §  9.  This  act shall take effect on the ninetieth day after it shall
+ have become a  law.  Effective  immediately,  the  addition,  amendment,
+ and/or repeal of any rule or regulation necessary for the implementation
+ of  this  act  on  its  effective  date  are  authorized  to be made and
+ completed on or before such effective date.
