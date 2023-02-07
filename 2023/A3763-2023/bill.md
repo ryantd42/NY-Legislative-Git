@@ -1,0 +1,60 @@
+# Establishes maximum age requirements for New York city correctional officers
+
+**Bill ID:** A3763
+**Session:** 2023
+**Sponsor:** Stacey Pheffer Amato
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes maximum age requirements for New York city correction officers; provides that the commissioner of correction shall not appoint a person as a correction officer if such person is more than thirty-five years of age as of the date of the applicant's appointment or eligibility to compete in a promotion examination.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3763
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 7, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
+  Committee on Governmental Employees
+ 
+ AN ACT to amend the administrative code of the  city  of  New  York,  in
+  relation  to  establishing  maximum age requirements for New York city
+  correctional officers
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. The administrative code of the city of New York is amended
+ by adding a new section 9-117.2 to read as follows:
+  § 9-117.2 REQUIREMENTS FOR APPOINTMENTS  OF  UNIFORMED  FORCE  OF  THE
+ DEPARTMENT  OF  CORRECTION.  A. THE COMMISSIONER OF CORRECTION SHALL NOT
+ APPOINT ANY PERSON AS A UNIFORMED CORRECTION OFFICER OF  THE  DEPARTMENT
+ OF  CORRECTION  UNLESS  SUCH PERSON IS NOT LESS THAN TWENTY-ONE YEARS OF
+ AGE AS OF THE DATE OF APPOINTMENT NOR MORE THAN THIRTY-FIVE YEARS OF AGE
+ AS OF THE DATE WHEN THE APPLICANT IS APPOINTED OR ELIGIBLE TO COMPETE IN
+ A PROMOTION EXAMINATION PURSUANT TO PARAGRAPH ONE OF  SUBDIVISION  B  OF
+ SECTION 9-117 OF THIS CHAPTER.
+  B.  NOTHING  IN THIS SECTION SHALL BE CONSTRUED TO LIMIT OR AFFECT THE
+ EXISTING AUTHORITY OF THE MAYOR AND  COMMISSIONER  TO  APPOINT  NON-UNI-
+ FORMED  PERSONS, WHOSE DUTIES INCLUDE OVERALL SECURITY OF THE DEPARTMENT
+ OF CORRECTION, TO POSITIONS OF AUTHORITY.
+  § 2. This act shall take effect on the thirtieth day  after  it  shall
+ have  become  a  law  and  shall apply to appointments established on or
+ after such date.
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07844-01-3
