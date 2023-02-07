@@ -1,0 +1,57 @@
+# Authorizes the towns of Harmony and North Harmony in Chautauqua county to elect a single town justice to preside in the town courts of such towns
+
+**Bill ID:** S4249
+**Session:** 2023
+**Sponsor:** George Borrello
+**Status:** Signed by Governor
+
+## Summary
+
+Authorizes the towns of Harmony and North Harmony in Chautauqua county to elect a single town justice to preside in the town courts of such towns.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4249
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 7, 2023
+  ___________
+ 
+ Introduced  by Sen. BORRELLO -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Local Government
+ 
+ AN ACT to authorize the towns of Harmony and North Harmony in Chautauqua
+  county to elect a single town justice to preside in the town courts of
+  such towns
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Pursuant to section 106-b of the uniform justice court act,
+ the  towns  of  Harmony  and  North  Harmony  in  Chautauqua County have
+ conducted and completed a study, each town having adopted a joint resol-
+ ution providing for the study, conducted a public hearing upon the find-
+ ings of the study, and adopted a joint  resolution  adopting  such  plan
+ providing  for  the  abolition of existing town justice positions in the
+ towns of Harmony and North Harmony and providing for the election  of  a
+ single  town  justice  to  preside in the town courts of such towns. The
+ town justice elected pursuant to this plan shall preside in the towns of
+ Harmony and North Harmony following the next general  election  in  such
+ towns and shall preside for the year term as elected.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08669-01-3
