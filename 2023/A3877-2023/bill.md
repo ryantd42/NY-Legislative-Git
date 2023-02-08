@@ -1,0 +1,72 @@
+# Creates a state-wide literacy education advocacy program
+
+**Bill ID:** A3877
+**Session:** 2023
+**Sponsor:** Aileen Gunther
+**Status:** In Assembly Committee
+
+## Summary
+
+Creates a state-wide literacy education advocacy program modelled after the Newburgh Armory Unity Center Literacy Education Advocacy Partnership to study the viability of the Newburgh Armory Unity Center Literacy Education Advocacy Partnership.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3877
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 8, 2023
+  ___________
+ 
+ Introduced  by M. of A. GUNTHER -- read once and referred to the Commit-
+  tee on Education
+ 
+ AN ACT to amend the education law, in relation to creating a  state-wide
+  literacy  education advocacy program and to study the viability of the
+  Newburgh armory unity center literacy education advocacy partnership
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 305 of the education law is amended by adding a new
+ subdivision 57 to read as follows:
+  57. (A) THE COMMISSIONER OF EDUCATION SHALL CONDUCT A STUDY ON LITERA-
+ CY  ADVOCACY  PROGRAMS IN THE STATE, INCLUDING THE NEWBURGH ARMORY UNITY
+ CENTER LITERACY EDUCATION ADVOCACY PARTNERSHIP (NAUC LEAP).  THE PURPOSE
+ OF SUCH STUDY SHALL BE TO DETERMINE THE SUCCESSES AND  EFFECTIVENESS  OF
+ THESE  PROGRAMS IN ACHIEVING THEIR GOALS, WITH THE INTENT OF UNDERSTAND-
+ ING EFFECTIVE PRACTICES THAT SUPPORT STUDENTS  BEING  ABLE  TO  READ  AT
+ GRADE  LEVEL  AND  SCORE  PROFICIENT  ON  THE  GRADE THREE THROUGH EIGHT
+ ENGLISH LANGUAGE ARTS STATE ASSESSMENT.  THE COMMISSIONER  OF  EDUCATION
+ SHALL  THEN  DEVELOP  RECOMMENDATIONS AND BEST PRACTICES FOR REPLICATING
+ LITERACY ADVOCACY PROGRAMS IN AREAS THROUGHOUT THE STATE.
+  (B) THE COMMISSIONER OF EDUCATION SHALL, WITHIN ONE YEAR OF THE EFFEC-
+ TIVE DATE OF THIS SUBDIVISION,  REPORT  THE  FINDINGS,  CONCLUSIONS  AND
+ RECOMMENDATIONS  OF  SUCH  STUDY TO THE GOVERNOR, TEMPORARY PRESIDENT OF
+ THE SENATE AND SPEAKER OF THE ASSEMBLY.
+  (C) WITHIN ONE YEAR OF THE EFFECTIVE DATE  OF  THIS  SUBDIVISION,  THE
+ COMMISSIONER  SHALL  DEVELOP  A  LITERACY  EDUCATION ADVOCACY PROGRAM TO
+ PROVIDE ADDITIONAL LITERACY INSTRUCTION FOR GRADE  THREE  THROUGH  EIGHT
+ STUDENTS. SUCH PROGRAM SHALL:
+  (I)  FOSTER COLLABORATIVE RELATIONSHIPS AMONG NOT-FOR-PROFIT ORGANIZA-
+ TIONS THAT INCREASE THE CAPACITY FOR PROGRAMMING AIMED  AT  URBAN  CHIL-
+ DREN, YOUTH, AND FAMILIES;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04725-01-3
+ A. 3877  2
+ 
+  (II)  MAKE  AVAILABLE  A LIST OF PARTICIPATING ORGANIZATIONS TO BETTER
+ IMPLEMENT PROGRAMS OF VALUE TO THE COMMUNITY;
+  (III) BE OPTIONAL FOR SCHOOL DISTRICTS ACROSS NEW YORK STATE; AND
+  (IV) UTILIZE THE STUDY PERFORMED BY THE COMMISSIONER PURSUANT TO PARA-
+ GRAPH (A) OF THIS SUBDIVISION.
+  § 2. This act shall take effect immediately.
