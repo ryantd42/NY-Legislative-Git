@@ -1,0 +1,579 @@
+# Relates to participation in state contracts by certified minority and women-owned business enterprises; relates to certain performance and payment bond requirements
+
+**Bill ID:** A3963
+**Session:** 2023
+**Sponsor:** Rodneyse Bichotte Hermelyn
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to increased participation in state contracts and subcontracts by certified minority and women-owned business enterprises; requires quarterly reports from contracting agencies; addresses consequences if contracting agency fails to comply with reporting requirements; relates to certain performance and payment bond requirements.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3963
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 8, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. BICHOTTE HERMELYN, SIMON, ZINERMAN, SEAWRIGHT,
+  JACKSON -- read once and referred to  the  Committee  on  Governmental
+  Operations
+ 
+ AN  ACT  to  amend  the  executive  law, in relation to participation by
+  minority group  members  and  women  with  respect  to  certain  state
+  contracts; and to amend the state finance law, in relation to perform-
+  ance and payment bond requirements
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subdivisions 3 and 4 of section 311 of the  executive  law,
+ subdivision  3  as  added by chapter 261 of the laws of 1988, paragraphs
+ (d) and (e) of subdivision 3 as amended by chapter 55  of  the  laws  of
+ 1992,  paragraphs (f) and (j) as amended and paragraphs (l), (m) and (n)
+ of subdivision 3 as added by chapter 567 of the laws of 2022, the  open-
+ ing  paragraph of subdivision 4 as amended and paragraph (d-1) of subdi-
+ vision 3 and paragraphs (d) and (e) of subdivision 4 as added by chapter
+ 96 of the laws of 2019, paragraph (g) of subdivision  3  as  amended  by
+ section  1  of part BB of chapter 59 of the laws of 2006, paragraphs (h)
+ and (i) as amended and paragraph (k) of subdivision 3 as added by  chap-
+ ter 825 of the laws of 2021, and subdivision 4 as amended by chapter 361
+ of the laws of 2009, are amended to read as follows:
+  3. The director shall have the following powers and duties:
+  (a)  to  encourage and assist contracting agencies in their efforts to
+ increase participation by minority and women-owned business  enterprises
+ on state contracts and subcontracts [so as] to facilitate the award of a
+ fair  share  of  such contracts to them AND TO PROVIDE ON THE DIVISION'S
+ WEBSITE A LIST OF EACH CONTRACTING  AGENCY'S  MINORITY  AND  WOMEN-OWNED
+ BUSINESS ENTERPRISES CERTIFICATION OUTREACH SEMINARS;
+  (b) to develop standardized forms and reporting documents necessary to
+ implement this article;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05916-01-3
+ A. 3963  2
+ 
+  (c)  to conduct educational OUTREACH programs TO ENCOURAGE THE CERTIF-
+ ICATION OF MINORITY AND WOMEN-OWNED BUSINESS ENTERPRISES consistent with
+ the purposes of this article;
+  (d) to review [periodically] QUARTERLY the practices and procedures of
+ each  contracting  agency with respect to compliance with the provisions
+ of this article, and  to  require  them  to  file  [periodic]  QUARTERLY
+ reports  with  the division of minority and women's business development
+ as to the level of minority and women-owned business enterprises partic-
+ ipation in the awarding of  agency  contracts  for  goods  and  services
+ INCLUDING  BUT  NOT  LIMITED TO THE NUMBER OF STATE CONTRACTS AWARDED TO
+ CERTIFIED MINORITY OR  WOMEN-OWNED  BUSINESS  ENTERPRISES,  THE  MAXIMUM
+ DOLLAR  AMOUNT  OBLIGATED PURSUANT TO ALL THOSE CONTRACTS, AND THE TOTAL
+ EXPENDITURES MADE PURSUANT TO ALL SUCH CONTRACTS; THE  NUMBER  OF  STATE
+ CONTRACTS  AWARDED WHICH INCLUDE A UTILIZATION PLAN FOR BUSINESS PARTIC-
+ IPATION BY CERTIFIED MINORITY OR WOMEN-OWNED BUSINESS  ENTERPRISES,  THE
+ MAXIMUM  AMOUNT  OBLIGATED  PURSUANT  TO  THOSE CONTRACTS, AND THE TOTAL
+ EXPENDITURES MADE PURSUANT TO ALL SUCH CONTRACTS; THE  NUMBER  OF  STATE
+ CONTRACTS AWARDED UPON WHICH A WAIVER WAS GRANTED FROM GOALS REQUIRED BY
+ THE  CONTRACTS  FOR  BUSINESS  PARTICIPATION  BY  CERTIFIED  MINORITY OR
+ WOMEN-OWNED BUSINESS  ENTERPRISES,  AND  THE  MAXIMUM  AMOUNT  OBLIGATED
+ PURSUANT TO THOSE CONTRACTS; THE NUMBER OF STATE CONTRACTS AWARDED WHICH
+ REQUIRED  GOALS  FOR EMPLOYMENT OF MINORITY GROUP MEMBERS AND WOMEN; AND
+ THE NUMBER OF STATE CONTRACTS AWARDED FOR WHICH  WAIVERS  OF  EMPLOYMENT
+ GOALS REQUIRED BY THE CONTRACTS HAVE BEEN GRANTED;
+  (d-1) to require all contracting state agencies to develop a four-year
+ growth  plan  to  determine  a means of promoting and increasing partic-
+ ipation by [minority-owned] MINORITY  and  women-owned  business  enter-
+ prises  with  respect  to  state  contracts and subcontracts. Every four
+ years,  beginning  September  fifteenth,  two  thousand  twenty,  each
+ contracting state agency shall submit a four-year growth plan as part of
+ its  annual  report  to the governor and legislature pursuant to section
+ one hundred sixty-four of this chapter.
+  (e) on January first of each year report to the governor,  THE  TEMPO-
+ RARY  PRESIDENT OF THE SENATE, THE SPEAKER OF THE ASSEMBLY, THE MINORITY
+ LEADERS OF THE SENATE AND THE ASSEMBLY,  and  the  chairpersons  of  the
+ senate  finance  and  assembly  ways and means committees on the [level]
+ ACTUAL VERSUS PROJECTED LEVELS  of  minority  and  women-owned  business
+ enterprises  participating  in  each agency's contracts for goods [and],
+ services AND CONSTRUCTION, INCLUDING BUT NOT LIMITED TO  THE  NUMBER  OF
+ STATE  CONTRACTS  AWARDED  TO CERTIFIED MINORITY OR WOMEN-OWNED BUSINESS
+ ENTERPRISES, THE MAXIMUM DOLLAR AMOUNT OBLIGATED PURSUANT TO  ALL  THOSE
+ CONTRACTS,  AND  THE  TOTAL  EXPENDITURES  MADE  PURSUANT  TO  ALL  SUCH
+ CONTRACTS, and on activities of the office and effort by each  contract-
+ ing  agency  to  promote employment of minority group members and women,
+ and to promote and increase participation by certified  businesses  with
+ respect  to  state  contracts  and  subcontracts so as to facilitate the
+ award of a fair share of state contracts to such businesses.  The  comp-
+ troller  shall  assist  the  division  in  collecting information on the
+ participation of certified business for each  contracting  agency.  Such
+ report  may  recommend  new  activities  and  programs to effectuate the
+ purposes of this article;
+  (f) THE DIRECTOR SHALL LIST IN THE DIVISION'S ANNUAL REPORT THE  NAMES
+ OF  NON-COMPLIANT  AGENCIES  AND  THE  EXTENT  OF THEIR NONCOMPLIANCE IN
+ SUBMITTING ITS QUARTERLY MINORITY AND  WOMEN-OWNED  BUSINESS  ENTERPRISE
+ UTILIZATION REPORTS; AND, SHALL IMPLEMENT A MASTER LIST OF ALL THE STATE
+ A. 3963  3
+ 
+ AGENCIES  REQUIRED TO FILE QUARTERLY COMPLIANCE REPORTS AND SHALL ATTACH
+ SUCH LIST TO THE DIVISION'S ANNUAL REPORT.
+  (G) to prepare and update[, no less than annually,] QUARTERLY a direc-
+ tory  of  certified  minority and women-owned business enterprises which
+ shall, wherever  practicable,  be  divided  into  categories  of  labor,
+ services,  supplies,  equipment,  materials  and recognized construction
+ trades and which shall indicate areas or locations of  the  state  where
+ such  enterprises  are  available  to  perform services, and to use this
+ information to create an internet based, searchable,  centralized  state
+ registry  detailing certifications, waivers, and all documents submitted
+ pertaining to certification or denial of  certification,  or  compliance
+ with  goals  for utilization of minority and women-owned business enter-
+ prises AND FOR SUCH  ENTERPRISES  TO  ACCESS  CONTRACT  AND  SUBCONTRACT
+ OPPORTUNITIES;
+  [(g)]  (H)  to appoint independent hearing officers who by contract or
+ terms of employment shall preside over adjudicatory hearings pursuant to
+ section three hundred fourteen of this article for the  office  and  who
+ are assigned no other work by the office;
+  [(h)]  (I) notwithstanding the provisions of section two hundred nine-
+ ty-six of this chapter, to file a complaint pursuant to  the  provisions
+ of  section  two hundred ninety-seven of this chapter where the director
+ has knowledge that a contractor may  have  violated  the  provisions  of
+ paragraph  (a),  (b)  or  (c)  of subdivision one of section two hundred
+ ninety-six of this chapter where such violation is  unrelated,  separate
+ or distinct from the state contract as expressed by its terms;
+  [(i)]  (J)  to  streamline  the  state certification process to accept
+ federal and municipal corporation certifications;
+  [(j)] (K) to make publicly available records of all waivers of compli-
+ ance reported pursuant to paragraph (b) of subdivision  six  of  section
+ three hundred thirteen of this article on the division's website;
+  [(k)]  (L)  to  work  in  conjunction with the industrial commissioner
+ pursuant to paragraph (j) of subdivision one of  section  eight  hundred
+ eleven  of  the  labor law to assist contractors in identifying minority
+ group members and women who are participating in  apprenticeship  agree-
+ ments under article twenty-three of the labor law[.];
+  [(l)] (M) to perform inspections of minority or women-owned business's
+ place  of  business, warehouse or storage facility to confirm the exist-
+ ence of a workforce, equipment and supplies;
+  [(m)] (N) to perform inspections of financial records of  minority  or
+ women-owned  business  enterprises  to  ensure  such  enterprises are in
+ compliance with applicable laws; and
+  [(n)] (O) to ensure the protection of individuals who report suspected
+ violations of this article and applicable laws related to  minority  and
+ women-owned business enterprises.
+  4.  The director shall provide assistance to, and facilitate access to
+ programs serving certified businesses as well as  applicants  to  ensure
+ that  such businesses benefit, as needed, from technical, managerial and
+ financial, and general business assistance; training; marketing;  organ-
+ ization  and personnel skill development; project management assistance;
+ technology assistance; bond  and  insurance  education  assistance;  and
+ other  business  development  assistance.  The director shall maintain a
+ toll-free number at the department of economic development to be used to
+ answer questions concerning the MWBE certification process. In addition,
+ the director [may] SHALL, either independently or  in  conjunction  with
+ other state agencies:
+ A. 3963  4
+ 
+  (a)  develop  a  clearinghouse of information on programs and services
+ provided by entities that may assist such businesses;
+  (b)  review  bonding and paperwork requirements imposed by contracting
+ agencies that may unnecessarily impede the ability of such businesses to
+ compete; and
+  (c) seek to maximize utilization by minority and women-owned  business
+ enterprises  of available federal resources including but not limited to
+ federal grants, loans, loan guarantees, surety bonding guarantees, tech-
+ nical assistance, and programs and services of the federal  small  busi-
+ ness administration.
+  (d)  conduct  outreach events, training workshops, seminars, and other
+ such educational programs throughout the state, including  all  regional
+ offices,  to  state  agencies, external stakeholders, and the public, to
+ promote awareness and utilization of minority and  women-owned  business
+ enterprises; and
+  (e) identify and establish mentorship opportunities and other business
+ development  programs  to increase capacity and better prepare MWBEs for
+ bidding on contracts with state agencies upon successful  completion  of
+ the  mentorship  opportunity.  Such  mentorship  opportunities  shall be
+ intended to ensure that mentor and  mentee  are  connected  based  on  a
+ commercially useful function.
+  §  2.  Subdivision  5 of section 312 of the executive law, as added by
+ chapter 261 of the laws of 1988, is amended to read as follows:
+  5. The director shall promulgate rules and regulations to ensure  that
+ contractors  and subcontractors undertake programs of affirmative action
+ and equal employment opportunity as required by this section. Such rules
+ and regulations as they pertain to any particular agency shall be devel-
+ oped after consultation with contracting agencies. Such rules and  regu-
+ lations  [may]  SHALL require a contractor, after notice in a bid solic-
+ itation, to submit an equal employment opportunity  program  [after  bid
+ opening  and  prior  to  the award of any contract] AT THE TIME BIDS ARE
+ SUBMITTED, and [may] SHALL require the contractor  or  subcontractor  to
+ submit  compliance  reports  relating to the contractor's or subcontrac-
+ tor's operation and implementation of any equal  employment  opportunity
+ program in effect as of the date the contract is executed. The contract-
+ ing  agency [may recommend to the director that] SHALL HAVE THE RIGHT TO
+ RECOMMEND THAT the director take appropriate  action  according  to  the
+ procedures  set  forth  in section three hundred sixteen of this article
+ against the contractor for noncompliance with the requirements  of  this
+ section.  The  contracting  agency  shall  be responsible for monitoring
+ compliance with this section.
+  § 3. Paragraph (j) of subdivision 2-a of section 313 of the  executive
+ law,  as amended by chapter 96 of the laws of 2019, is amended and a new
+ paragraph (k) is added to read as follows:
+  (j) require each agency to consult the most  current  disparity  study
+ when  calculating  agency-wide and contract specific participation goals
+ pursuant to this article; [and]
+  (K)  ENCOURAGE  JOINT  VENTURES,  PARTNERSHIPS,  AND  MENTOR-PROTEGE
+ RELATIONSHIPS AS DEFINED IN SECTION ONE HUNDRED FORTY-SEVEN OF THE STATE
+ FINANCE  LAW,  BETWEEN  PRIME  CONTRACTORS  AND MINORITY AND WOMEN-OWNED
+ BUSINESS ENTERPRISES; AND
+  § 4. Subdivision 3 and paragraph (a) of subdivision 5 of  section  313
+ of  the executive law, as amended by chapter 96 of the laws of 2019, are
+ amended to read as follows:
+  3. Solely for the purpose of providing the opportunity  for  [meaning-
+ ful]  INCREASED participation by certified businesses in the performance
+ A. 3963  5
+ 
+ of state contracts as provided in this section,  state  contracts  shall
+ include leases of real property by a state agency to a lessee where: the
+ terms  of such leases provide for the construction, demolition, replace-
+ ment, major repair or renovation of real property and improvements ther-
+ eon  by  such  lessee;  and  the  cost of such construction, demolition,
+ replacement, major repair or renovation of real  property  and  improve-
+ ments  thereon  shall  exceed  the  sum of one hundred thousand dollars.
+ Reports to the director pursuant to section  three  hundred  fifteen  of
+ this  article  shall  include  activities with respect to all such state
+ contracts. Contracting agencies shall include or require to be  included
+ with respect to state contracts for the acquisition, construction, demo-
+ lition,  replacement,  major  repair  or renovation of real property and
+ improvements thereon, such provisions as [may]  SHALL  be  necessary  to
+ effectuate the provisions of this section in every bid specification and
+ state  contract, including, but not limited to: (a) provisions requiring
+ contractors to make a good faith effort to solicit active  participation
+ by  enterprises identified in the directory of certified businesses; (b)
+ requiring the parties to agree as a  condition  of  entering  into  such
+ contract, to be bound by the provisions of section three hundred sixteen
+ of  this  article;  and  (c)  requiring  the  contractor  to include the
+ provisions set forth in paragraphs (a) and (b) of  this  subdivision  in
+ every  subcontract  in a manner that the provisions will be binding upon
+ each  subcontractor  as  to  work  in  connection  with  such  contract.
+ Provided,  however,  that  no  such  provisions  shall  be  binding upon
+ contractors  or  subcontractors  in  the  performance  of  work  or  the
+ provision  of services that are unrelated, separate or distinct from the
+ state contract as expressed by its terms, and nothing  in  this  section
+ shall  authorize  the  director  or any contracting agency to impose any
+ requirement on a contractor or subcontractor except with  respect  to  a
+ state contract.
+  (a)  Contracting  agencies  shall administer the rules and regulations
+ promulgated by the director in a good faith effort to achieve the  maxi-
+ mum  feasible  participation by minority and women owned business enter-
+ prises adopted pursuant to this  article  and  the  regulations  of  the
+ director.  Such  rules  and  regulations:  shall require a contractor to
+ submit a utilization plan [after bids are opened] AT THE TIME  BIDS  ARE
+ SUBMITTED,  when  bids  are required[, but prior to the award of a state
+ contract]; shall require the contracting agency to review  the  utiliza-
+ tion  plan  submitted by the contractor and to post the utilization plan
+ and any waivers of compliance issued pursuant to subdivision six of this
+ section on the website of the  contracting  agency;  shall  require  the
+ contracting  agency  to notify the contractor in writing within a period
+ of time specified by the director as to any  deficiencies  contained  in
+ the contractor's utilization plan; shall require remedy thereof within a
+ period  of  time specified by the director; shall require the contractor
+ to submit [periodic] QUARTERLY compliance reports relating to the opera-
+ tion and implementation of any utilization plan;  shall  not  allow  any
+ automatic waivers but shall allow a contractor to apply for a partial or
+ total waiver of the minority and women-owned business enterprise partic-
+ ipation  requirements  pursuant  to  subdivisions  six and seven of this
+ section; shall allow a contractor to file a complaint with the  director
+ pursuant to subdivision eight of this section in the event a contracting
+ agency  has  failed  or  refused  to  issue a waiver of the minority and
+ women-owned business enterprise participation requirements or has denied
+ such request for a waiver; and shall allow a contracting agency to  file
+ a  complaint  with  the  director  pursuant  to subdivision nine of this
+ A. 3963  6
+ 
+ section in the event a contractor is failing or  has  failed  to  comply
+ with  the  minority  and  women-owned  business enterprise participation
+ requirements set forth in the state contract where no  waiver  has  been
+ granted.
+  §  5.  Subdivisions  1, 2-a and 3 of section 315 of the executive law,
+ subdivisions 1 and 3 as amended and subdivision 2-a as added by  chapter
+ 96  of  the laws of 2019, are amended and two new subdivisions 3-a and 8
+ are added to read as follows:
+  1. Each contracting agency shall be responsible for  monitoring  state
+ contracts under its jurisdiction, and recommending matters to the office
+ respecting  non-compliance  with  the provisions of this article so that
+ the office [may] SHALL take such action as [is  appropriate]  STATED  IN
+ SUBDIVISION THREE OF SECTION THREE HUNDRED SIXTEEN OF THIS ARTICLE. EACH
+ CONTRACTING  AGENCY  SHALL HAVE THE RIGHT TO RECOMMEND THAT THE DIRECTOR
+ IMPOSE A SANCTION, PENALTY, OR FINE FOR  THREE  OR  MORE  VIOLATIONS  OF
+ SUBDIVISION  ONE  OF  SECTION  THREE HUNDRED SIXTEEN OF THIS ARTICLE, to
+ ensure compliance with the provisions of this  article,  the  rules  and
+ regulations  of  the  director  issued  hereunder  and  the  contractual
+ provisions required pursuant to this article. All  contracting  agencies
+ shall  comply  with  the  rules  and  regulations  of the office and are
+ directed to cooperate with the office and to furnish to the office  such
+ information  and assistance as may be required in the performance of its
+ functions under this article.
+  2-a. [To the extent practicable, upon completion  of  the  restrictive
+ period  of a procurement, each] EACH contracting agency when notifying a
+ contractor of a winning bid award shall  also  notify  any  minority  or
+ women-owned business enterprise identified in the contractor's submitted
+ utilization plan of such contractor's receipt of the winning bid award.
+  3. Each contracting agency shall report to THE COMMISSIONER OF ECONOM-
+ IC  DEVELOPMENT,  THE  COMMISSIONER OF GENERAL SERVICES AND the director
+ with respect to activities undertaken to promote employment of  minority
+ group members and women and promote and increase participation by certi-
+ fied  businesses  with respect to state contracts and subcontracts. Such
+ reports shall be submitted [no later than May fifteenth of  every  year]
+ QUARTERLY  and  shall  include  such information as is necessary for the
+ director to determine whether the contracting agency and any  contractor
+ to  the contracting agency have complied with the purposes of this arti-
+ cle, including,  without  limitation,  THE  NUMBER  OF  STATE  CONTRACTS
+ AWARDED  TO  CERTIFIED MINORITY OR WOMEN-OWNED BUSINESS ENTERPRISES; THE
+ MAXIMUM DOLLAR AMOUNT OBLIGATED PURSUANT TO ALL THOSE CONTRACTS; AND THE
+ TOTAL EXPENDITURES MADE PURSUANT TO ALL SUCH CONTRACTS;  THE  NUMBER  OF
+ STATE  CONTRACTS  AWARDED  WHICH INCLUDE A UTILIZATION PLAN FOR BUSINESS
+ PARTICIPATION BY CERTIFIED MINORITY OR WOMEN-OWNED BUSINESS ENTERPRISES,
+ THE MAXIMUM AMOUNT OBLIGATED PURSUANT TO THOSE CONTRACTS, AND THE  TOTAL
+ EXPENDITURES MADE PURSUANT TO ALL SUCH CONTRACTS; a summary of all waiv-
+ ers  of  the requirements of subdivisions six and seven of section three
+ hundred thirteen of this  article  allowed  by  the  contracting  agency
+ during  the period covered by the report, including a description of the
+ basis of the waiver request [and], the rationale for granting  any  such
+ waiver,  THE  MAXIMUM  AMOUNT OBLIGATED PURSUANT TO THOSE CONTRACTS; THE
+ NUMBER OF STATE CONTRACTS AWARDED WHICH REQUIRED GOALS FOR EMPLOYMENT OF
+ MINORITY GROUP MEMBERS AND WOMEN; THE NUMBER OF STATE CONTRACTS  AWARDED
+ FOR  WHICH  WAIVERS  OF  EMPLOYMENT GOALS REQUIRED BY THE CONTRACTS HAVE
+ BEEN GRANTED, and any instances in which the contract agency has  deemed
+ a  contractor  to  have  committed a violation pursuant to section three
+ hundred sixteen of this article and such other information as the direc-
+ A. 3963  7
+ 
+ tor shall require. Each agency shall also include in such annual  report
+ whether  or not it has been required to prepare a remedial plan, and, if
+ so, the plan and the extent to which the agency has complied  with  each
+ element of the plan.
+  3-A.  WITHIN  THIRTY  DAYS  AFTER  COMPLETION, A COPY OF THE QUARTERLY
+ MINORITY AND WOMEN-OWNED BUSINESS ENTERPRISE REPORT SHALL BE TRANSMITTED
+ TO THE COMMISSIONER OF ECONOMIC DEVELOPMENT, THE COMMISSIONER OF GENERAL
+ SERVICES, AND THE DIRECTOR. A CONTRACTING AGENCY, WHICH HAS NOT LET MORE
+ THAN TWO MILLION DOLLARS IN SERVICE AND/OR CONSTRUCTION CONTRACTS WITHIN
+ THE APPLICABLE PERIOD MAY APPLY TO THE COMMISSIONER OF ECONOMIC DEVELOP-
+ MENT, AND THE DIRECTOR FOR A WAIVER OF THE REQUIRED ANNUAL  REPORT.  THE
+ WAIVER  APPLICATION  SHALL  BE  MADE ON SUCH FORM AS THE COMMISSIONER OF
+ ECONOMIC DEVELOPMENT AND THE DIRECTOR MAY PRESCRIBE.
+  8. IF A  CONTRACTING  AGENCY  SHALL  FAIL  TO  FILE  OR  SUBSTANTIALLY
+ COMPLETE,  AS DETERMINED BY THE COMMISSIONER OF ECONOMIC DEVELOPMENT AND
+ THE DIRECTOR, THE REPORT REQUIRED BY THIS SECTION,  THE  DIRECTOR  SHALL
+ PROVIDE  NOTICE  TO  THE  CONTRACTING AGENCY. THE NOTICE SHALL STATE THE
+ FOLLOWING:
+  (A) THAT THE FAILURE TO FILE A REPORT AS REQUIRED IS  A  VIOLATION  OF
+ THIS  SECTION,  OR  IN THE CASE OF AN INSUFFICIENT REPORT, THE MANNER IN
+ WHICH THE REPORT SUBMITTED IS DEFICIENT;
+  (B) THAT THE CONTRACTING AGENCY HAS THIRTY DAYS TO  COMPLY  WITH  THIS
+ SECTION  OR  PROVIDE AN ADEQUATE WRITTEN EXPLANATION TO THE COMMISSIONER
+ OF ECONOMIC DEVELOPMENT AND THE COMMISSIONER OF GENERAL SERVICES AND THE
+ DIRECTOR OF THE  CONTRACTING  AGENCY'S  REASONS  FOR  THE  INABILITY  TO
+ COMPLY; AND
+  (C)  THAT THE CONTRACTING AGENCY'S CONTINUED FAILURE TO PROVIDE EITHER
+ THE REQUIRED REPORT OR AN ADEQUATE EXPLANATION WILL RESULT IN  AN  INDE-
+ PENDENT  AUDIT  OF  THE  CONTRACTING  AGENCY, THE COST OF WHICH SHALL BE
+ BORNE BY THE CONTRACTING AGENCY.
+  § 6. Section 316 of the executive law, as amended by  chapter  567  of
+ the laws of 2022, is amended to read as follows:
+  § 316. [Enforcement]  VIOLATIONS  AND  ENFORCEMENT.  1. IT SHALL BE A
+ VIOLATION FOR ANY PERSON OR ENTITY TO:
+  (A) INTENTIONALLY USE OR ACQUIRE AN MWBE NAME THROUGH DECEIT OR  OTHER
+ DISHONEST MEANS IN ORDER TO NEGOTIATE A LOWER BID FROM A NON-MWBE.
+  (B)  SUBMIT  TO  THE  DEPARTMENT OF ECONOMIC DEVELOPMENT, DOCUMENTS OR
+ OTHER MATERIAL AS EVIDENCE OF A GOOD FAITH EFFORT  TO  COMPLY  WITH  THE
+ PROVISIONS  OF  THIS  ARTICLE  WITHOUT, IN FACT, HAVING ENTERED INTO ANY
+ CONTRACT, AGREEMENT, SUBCONTRACT, OR SUB-AGREEMENT WITH AN MWBE FOR  THE
+ USE  OR  PURCHASE OF SUCH BUSINESS ENTERPRISE'S GOODS OR SERVICES IN THE
+ PERFORMANCE OF THE AWARDED STATE CONTRACT.
+  (C) FAIL TO PROVIDE AN  MWBE  WITH  SUFFICIENT  INFORMATION  OR  OTHER
+ REQUIRED  SUPPORTING  DOCUMENTATION  IN  ORDER FOR THE MWBE TO PREPARE A
+ PROPER BID.
+  2. Upon receipt by the director of a complaint by a contracting agency
+ that a contractor has violated the provisions of a state contract  which
+ have been included to comply with the provisions of this article or of a
+ contractor that a contracting agency has violated such provisions or has
+ failed  or  refused  to  issue  a  waiver where one has been applied for
+ pursuant to subdivision six of section three hundred  thirteen  of  this
+ article  or  has  denied such application, the director shall attempt to
+ resolve the matter giving rise to such complaint. If efforts to  resolve
+ such  matter  to  the  satisfaction of all parties are unsuccessful, the
+ director shall refer the matter, within thirty days of  the  receipt  of
+ the  complaint,  to  the division's hearing officers. Upon conclusion of
+ A. 3963  8
+ 
+ the administrative hearing, the hearing  officer  shall  submit  to  the
+ director  his  or  her  decision  regarding the alleged violation of the
+ contract and recommendations  regarding  the  imposition  of  sanctions,
+ fines  or  penalties.  The  director,  within ten days of receipt of the
+ decision, shall file a determination of such matter and  shall  cause  a
+ copy  of  such  determination  along  with  a copy of this article to be
+ served upon the contractor by personal  service  or  by  certified  mail
+ return  receipt  requested. The decision of the hearing officer shall be
+ final and may only be vacated or modified as provided in article  seven-
+ ty-eight  of  the  civil practice law and rules upon an application made
+ within the time provided by  such  article.  The  determination  of  the
+ director as to the imposition of any fines, sanctions or penalties shall
+ be  reviewable  pursuant  to article seventy-eight of the civil practice
+ law and rules. The penalties imposed for any violation which is premised
+ upon  either  a  fraudulent  or  intentional  misrepresentation  by  the
+ contractor  or the contractor's willful and intentional disregard of the
+ minority and  women-owned  participation  requirement  included  in  the
+ contract may include a determination that the contractor shall be ineli-
+ gible  to  submit a bid to any contracting agency or be awarded any such
+ contract for a period not to exceed one year following the final  deter-
+ mination;  provided  however, if a contractor has previously been deter-
+ mined to be ineligible to submit a bid pursuant  to  this  section,  the
+ penalties imposed for any subsequent violation, if such violation occurs
+ within  five  years  of the first violation, may include a determination
+ that the contractor shall be ineligible to submit a bid to any contract-
+ ing agency or be awarded any such contract for a period  not  to  exceed
+ five  years  following the final determination. The division of minority
+ and women's business development shall maintain a  website  listing  all
+ contractors that have been deemed ineligible to submit a bid pursuant to
+ this  section  and the date after which each contractor shall once again
+ become eligible to submit bids.
+  [2.] 3. THE DIRECTOR SHALL IMPOSE A SANCTION, PENALTY, OR FINE ON  ANY
+ INDIVIDUAL  OR  ENTITY THAT HAS THREE OR MORE VIOLATIONS OF THIS ARTICLE
+ WITHIN FIVE YEARS. Any fines, or portion thereof,  imposed  pursuant  to
+ [the  foregoing  subdivision]  THIS  SECTION,  or  imposed by a court of
+ competent jurisdiction related to convictions involving fraud related to
+ this article or otherwise involving a minority or  women-owned  business
+ enterprise, [may] SHALL be required by the entity imposing such fines to
+ be  paid to the minority and women-owned business enterprise fund estab-
+ lished pursuant to section ninety-seven-k  of  the  state  finance  law.
+ SUCH FUNDS SHALL BE USED TO SUBSIDIZE THE FACILITATION OF THE PROVISIONS
+ OF  THIS  ARTICLE.  OTHER SANCTIONS SHALL INCLUDE BARRING SUCH ENTITY OR
+ INDIVIDUAL FROM CONTRACTING WITH SUCH AGENCY FOR A PERIOD NOT TO  EXCEED
+ FIVE YEARS.
+  §  7.  Subdivision 1 of section 137 of the state finance law, as sepa-
+ rately amended by section 17 of part MM of chapter 57 and chapter 619 of
+ the laws of 2008, is amended to read as follows:
+  1. In addition to other bond or bonds, if any, required by law for the
+ completion of a work specified in a contract for the  prosecution  of  a
+ public  improvement for the state of New York a municipal corporation, a
+ public benefit corporation or a commission appointed pursuant to law, or
+ in the absence of any such requirement, the comptroller may or the other
+ appropriate official, respectively, shall nevertheless require prior  to
+ the  approval of any such contract a bond guaranteeing prompt payment of
+ moneys due to all persons furnishing labor or materials to the  contrac-
+ tor or any subcontractors in the prosecution of the work provided for in
+ A. 3963  9
+ 
+ such  contract. Whenever a municipal corporation issues a permit subject
+ to compliance with section two hundred twenty of  the  labor  law,  such
+ permittee  or  its contractor or subcontractors furnishing workers shall
+ post a payment bond subject to this section. Provided, however, that all
+ performance  bonds  and payment bonds may, at the discretion of the head
+ of the state agency, public benefit corporation or commission, or his or
+ her designee, be dispensed with for the completion of a  work  specified
+ in  a contract for the prosecution of a public improvement for the state
+ of New York for which bids are solicited where the aggregate  amount  of
+ the contract is under one hundred thousand dollars and provided further,
+ that  in  a  case  where  the  contract  is  not subject to the multiple
+ contract award requirements of section one hundred thirty-five  of  this
+ article,  such  requirements may be dispensed with where the head of the
+ state agency, public benefit corporation or commission finds it to be in
+ the public interest and where  the  aggregate  amount  of  the  contract
+ awarded or to be awarded is less than two hundred thousand dollars. IN A
+ CASE  WHERE  A  CONTRACT  IS AWARDED TO A SMALL BUSINESS CONCERN OR TO A
+ MINORITY OR WOMEN-OWNED BUSINESS  CONCERN,  ALL  PERFORMANCE  BONDS  AND
+ PAYMENT  BONDS  MAY  BE  DISPENSED WITH WHEN THE AGGREGATE AMOUNT OF THE
+ CONTRACT IS UNDER FIVE HUNDRED THOUSAND DOLLARS. ADVERTISEMENTS FOR BIDS
+ SHALL PROVIDE INFORMATION AS TO THE REQUIREMENTS  FOR,  OR  DISPENSATION
+ OF,  PERFORMANCE  AND  PAYMENT  BONDS.  Provided further, that in a case
+ where a performance or payment bond is dispensed with, twenty per centum
+ may be retained from each progress payment or estimate until the  entire
+ contract work has been completed and accepted, at which time the head of
+ the  state agency, public benefit corporation or commission shall, pend-
+ ing the payment of the final estimate, pay not  to  exceed  seventy-five
+ per centum of the amount of the retained percentage.
+  §  8.  Subdivision  4  of  section  139-f of the state finance law, as
+ amended by chapter 83 of the  laws  of  1995,  is  amended  to  read  as
+ follows:
+  4.  Notwithstanding  any other provision of this section or other law,
+ requirements for the furnishing of a performance bond or a payment  bond
+ may  be dispensed with at the discretion of the head of the state agency
+ or corporation, or his or her designee, where  the  public  owner  is  a
+ state  agency  or  corporation  described  in  subdivision one-a of this
+ section and the aggregate amount  of  the  contract  awarded  or  to  be
+ awarded  is  under  fifty  thousand  dollars  and,  in  a case where the
+ contract is not subject to the multiple contract award  requirements  of
+ section  one  hundred thirty-five of this article, such requirements may
+ be dispensed with where the head of  the  state  agency  or  corporation
+ finds  it to be in the public interest and where the aggregate amount of
+ the contract awarded or to be awarded  is  under  two  hundred  thousand
+ dollars.  IN  A  CASE  WHERE  A  CONTRACT IS AWARDED TO A SMALL BUSINESS
+ CONCERN OR TO A MINORITY OR WOMEN-OWNED BUSINESS CONCERN,  ALL  PERFORM-
+ ANCE  BONDS  AND  PAYMENT BONDS MAY BE DISPENSED WITH WHEN THE AGGREGATE
+ AMOUNT OF THE CONTRACT IS UNDER FIVE HUNDRED  THOUSAND  DOLLARS.  ADVER-
+ TISEMENTS FOR PROPOSALS SHALL PROVIDE INFORMATION AS TO THE REQUIREMENTS
+ FOR,  OR  DISPENSATION  OF,  PERFORMANCE  AND  PAYMENT  BONDS.  Provided
+ further, that in a case where a performance or payment bond is dispensed
+ with, twenty per centum may be retained from each  progress  payment  or
+ estimate until the entire contract work has been completed and accepted,
+ at which time the head of the state agency or corporation shall, pending
+ the  payment  of  the final estimate, pay not to exceed seventy-five per
+ centum of the amount of the retained percentage.
+ A. 3963  10
+ 
+  § 9. The opening paragraph of section 139-g of the state finance  law,
+ as  amended  by  chapter  636 of the laws of 2003, is amended to read as
+ follows:
+  In  every  state  agency,  department and authority which has let more
+ than two million dollars in service and construction contracts AND STATE
+ ASSISTED PROJECT CONTRACTS in the prior fiscal year, the chief executive
+ officer of that agency, department or authority shall, with  respect  to
+ those  contracts  AND STATE ASSISTED PROJECT CONTRACTS let by his OR HER
+ agency, department or authority:
+  § 10. The opening paragraph of subdivision (b) of section 139-g of the
+ state finance law, as amended by chapter 636 of the  laws  of  2003,  is
+ amended to read as follows:
+  identify  all  small-business  and  certified women and minority-owned
+ business concerns which, in the judgment of the chief executive  officer
+ of  that agency, department or authority, can bid on those contracts AND
+ STATE ASSISTED PROJECT CONTRACTS which are usually and  customarily  let
+ by  that  agency,  department  or  authority, OR IN WHICH THAT AUTHORITY
+ PROVIDES A GRANT OR LOAN OR TAX  EXEMPT  FINANCING,  with  a  reasonable
+ expectation  of  success.  Such chief executive officers shall carry out
+ the provisions of this subdivision:
+  § 11.  Section 139-g of the state finance law is amended by  adding  a
+ new subdivision (e) to read as follows:
+  (E)  FOR  THE PURPOSES OF THIS SECTION, THE FOLLOWING WORDS SHALL HAVE
+ THE FOLLOWING MEANINGS:
+  (I) "STATE ASSISTED PROJECT CONTRACT" SHALL MEAN ANY WRITTEN AGREEMENT
+ ARISING OUT OF A  STATE  ASSISTED  HOUSING  PROJECT  OR  STATE  ASSISTED
+ ECONOMIC  DEVELOPMENT PROJECT OR STATE ASSISTED HIGHER EDUCATION PROJECT
+ OR STATE ASSISTED HOSPITAL OR HEALTH CARE FACILITY  PROJECT,  FOR  WHICH
+ THE  TOTAL  PROJECT  COST  EXCEEDS TWO MILLION DOLLARS AND FOR WHICH THE
+ PROJECT OWNER IS COMMITTED TO SPEND OR DOES EXPEND FUNDS FOR THE  ACQUI-
+ SITION,  CONSTRUCTION,  DEMOLITION,  REPLACEMENT, MAJOR REPAIR, OR RENO-
+ VATION OF REAL PROPERTY AND IMPROVEMENTS THEREON FOR SUCH PROJECT.
+  (II) "STATE ASSISTED HOUSING PROJECT" SHALL MEAN THOSE PROJECTS  WHICH
+ RECEIVE  FROM  THE  NEW  YORK  STATE  HOUSING  FINANCE AGENCY TAX-EXEMPT
+ FINANCING FOR ALL OR PART OF THE TOTAL PROJECT COST.
+  (III) "STATE ASSISTED ECONOMIC DEVELOPMENT PROJECT" SHALL  MEAN  THOSE
+ PROJECTS WHICH RECEIVE FROM THE NEW YORK FOUNDATION OF SCIENCE TECHNOLO-
+ GY  AND INNOVATION, OR THE URBAN DEVELOPMENT CORPORATION AND ITS SUBSID-
+ IARIES A GRANT OR LOAN OR TAX-EXEMPT FINANCING FOR ALL OR  PART  OF  THE
+ TOTAL PROJECT COST.
+  (IV)  "STATE  ASSISTED  HIGHER  EDUCATION  PROJECT"  SHALL  MEAN THOSE
+ PROJECTS WHICH RECEIVE FROM THE DORMITORY AUTHORITY OF THE STATE OF  NEW
+ YORK  A  GRANT  OR  LOAN  OR TAX-EXEMPT FINANCING FOR ALL OR PART OF THE
+ TOTAL PROJECT COST.
+  (V) "STATE ASSISTED HOSPITAL OR HEALTH CARE  FACILITY  PROJECT"  SHALL
+ MEAN  THOSE  PROJECTS  WHICH RECEIVE FROM THE DORMITORY AUTHORITY OF THE
+ STATE OF NEW YORK A GRANT OR LOAN OR TAX-EXEMPT  FINANCING  FOR  ALL  OR
+ PART OF THE TOTAL PROJECT COST.
+  §  12.  This  act shall take effect immediately, provided however, the
+ amendments to article 15-A of the executive law made  by  sections  one,
+ two,  three,  four, five and six of this act shall not affect the repeal
+ of such article and shall be deemed repealed therewith.
