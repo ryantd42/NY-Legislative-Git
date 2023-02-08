@@ -1,0 +1,85 @@
+# Establishes crime victim and trauma survivor recovery centers throughout the state
+
+**Bill ID:** S4443
+**Session:** 2023
+**Sponsor:** Nathalia Fernandez
+**Status:** In Senate Committee
+
+## Summary
+
+Directs the office for the prevention of domestic violence to facilitate the establishment of five crime victim and trauma survivor recovery centers throughout the state to help individuals who have experienced violent crime, including individuals who suffered gunshot wounds, as well as victims of sexual assault, domestic violence, human trafficking, and hate crimes, and those who had a family member assaulted or killed, free of charge.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4443
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 8, 2023
+  ___________
+ 
+ Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Finance
+ 
+ AN  ACT  to  amend  the executive law, in relation to establishing crime
+  victim and trauma survivor recovery centers throughout the state
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The executive law is amended by adding a new section 576 to
+ read as follows:
+  §  576.  CRIME  VICTIM  AND  TRAUMA  SURVIVOR RECOVERY CENTERS. 1. THE
+ OFFICE FOR THE PREVENTION OF  DOMESTIC  VIOLENCE  SHALL  FACILITATE  THE
+ DEVELOPMENT  AND  ESTABLISHMENT  OF,  AND DESIGNATE, FIVE REGIONAL CRIME
+ VICTIM AND TRAUMA SURVIVOR RECOVERY CENTERS ACROSS THE STATE. THE OFFICE
+ FOR THE PREVENTION OF DOMESTIC VIOLENCE SHALL ESTABLISH  PROCEDURES  AND
+ CRITERIA  FOR THE DESIGNATION OF SUCH CENTERS ENSURING GEOGRAPHIC COVER-
+ AGE ACROSS THE STATE CONSISTENT WITH THIS SECTION.
+  2. SUCH CRIME VICTIM AND TRAUMA SURVIVOR RECOVERY CENTERS SHALL  FOCUS
+ ON HELPING INDIVIDUALS WHO HAVE:
+  (A)  BEEN  A VICTIM OF A VIOLENT CRIME, INCLUDING INDIVIDUALS WHO HAVE
+ SUFFERED GUNSHOT WOUNDS;
+  (B) BEEN A VICTIM OF SEXUAL ASSAULT;
+  (C) BEEN A VICTIM OF DOMESTIC VIOLENCE;
+  (D) BEEN A VICTIM OF HUMAN TRAFFICKING;
+  (E) BEEN A VICTIM OF A HATE CRIME; OR
+  (F) HAD A FAMILY MEMBER ASSAULTED OR KILLED.
+  3. THE FOLLOWING SERVICES TO BE OFFERED AT THE CRIME VICTIM AND TRAUMA
+ SURVIVOR RECOVERY CENTERS ESTABLISHED PURSUANT  TO  THIS  SECTION  SHALL
+ INCLUDE, BUT NOT BE LIMITED TO:
+  (A) TRAUMA-INFORMED CLINICAL CASE MANAGEMENT;
+  (B) EVIDENCE-BASED INDIVIDUAL, GROUP AND FAMILY PSYCHOTHERAPY;
+  (C) CRISIS INTERVENTION;
+  (D) MEDICATION MANAGEMENT;
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08846-01-3
+ S. 4443  2
+ 
+  (E) LEGAL ADVOCACY;
+  (F) ASSISTANCE WITH FILING POLICE REPORTS AND ACCESSING VICTIM COMPEN-
+ SATION FUNDS;
+  (G) MENTAL HEALTH SERVICES;
+  (H)  HELP  WITH RELOCATION OF AN INDIVIDUAL WHEN SAFETY IS THREATENED;
+ AND
+  (I) TRANSPORTATION AID TO AND FROM MEDICAL APPOINTMENTS, COURT  DATES,
+ AND OTHER RELATED EVENTS.
+  4.  THE SERVICES PROVIDED BY CRIME VICTIM AND TRAUMA SURVIVOR RECOVERY
+ CENTERS PURSUANT TO SUBDIVISION THREE OF THIS SECTION SHALL BE  PROVIDED
+ FREE OF CHARGE AND NO INDIVIDUAL RECEIVING TREATMENT SHALL BE LIABLE FOR
+ THE COST OF ANY SUCH SERVICES.
+  5.  EACH  CRIME  VICTIM AND TRAUMA SURVIVOR RECOVERY CENTER SHALL WORK
+ WITH COMMUNITY PARTNERS TO EDUCATE THE LOCAL COMMUNITY IN  ORDER  TO  BE
+ MORE  TRAUMA  INFORMED.  "COMMUNITY PARTNERS" SHALL INCLUDE, BUT NOT BE
+ LIMITED TO, CRIMINAL JUSTICE ORGANIZATIONS,  SOCIAL  SERVICES  ORGANIZA-
+ TIONS AND HEALTH CARE ORGANIZATIONS.
+  § 2. This act shall take effect immediately.
