@@ -1,0 +1,64 @@
+# Authorizes the study of aviation ownership and flight operations by the department of transportation
+
+**Bill ID:** A3920
+**Session:** 2023
+**Sponsor:** Amy Paulin
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes the study of aviation flight operations by the department of transportation; requires reporting.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3920
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 8, 2023
+  ___________
+ 
+ Introduced by M. of A. PAULIN -- read once and referred to the Committee
+  on Transportation
+ 
+ AN  ACT  to authorize the study of general aviation flight operations by
+  the department of transportation
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section  1.  1.  The department of transportation is hereby authorized
+ and directed to study and  review  general  aviation  flight  operations
+ within  the  state  of  New  York ("the state").  Such study and review
+ shall:
+  (a) identify trends in general aviation aircraft in the state, includ-
+ ing but not limited to the number of general  aviation  aircraft  regis-
+ tered in the state and the total number of general aviation flight oper-
+ ations undertaken within the state;
+  (b) compile information and statistics on:
+  i. the number and causes of general aviation aircraft crashes, and the
+ number  of fatalities and personal injuries arising therefrom, occurring
+ within the state on an annual basis since 2018;
+  ii. the estimated associated direct and indirect costs of such general
+ aviation aircraft crashes;
+  iii. the relative safety of general aviation flight operations in this
+ state and in other states; and
+  (c) identify measures that could be taken to  improve  the  safety  of
+ general aviation flight operations within this state.
+  2.  No  later than two years after the effective date of this act, the
+ department of transportation shall submit to the governor, the temporary
+ president of the senate, and the speaker of the assembly a report on the
+ study and review of flight operations of general  aviation  aircraft  as
+ described in subdivision 1 of this section.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05350-02-3
