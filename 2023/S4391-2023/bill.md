@@ -1,0 +1,56 @@
+# Allows tenants to appeal judgments or orders issued against them without first being required to pay any portion of such judgment or order
+
+**Bill ID:** S4391
+**Session:** 2023
+**Sponsor:** Rachel May
+**Status:** In Senate Committee
+
+## Summary
+
+Allows tenants to appeal judgments or orders issued against them without first being required to pay any portion of such judgment or order; postpones such payment until the end of the stay triggered by service upon the landlord of the notice of appeal or affidavit of intention to move for permission to appeal such judgment or order or pay an undertaking.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4391
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 8, 2023
+  ___________
+ 
+ Introduced  by  Sen.  MAY  --  read  twice and ordered printed, and when
+  printed to be committed to the Committee on Judiciary
+ 
+ AN ACT to amend the civil practice law and rules, in relation to  allow-
+  ing  tenants to appeal judgments or orders issued against them without
+  first being required to pay any portion of such judgment or order
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 5519 of the civil practice law and rules is amended
+ by adding a new subdivision (h) to read as follows:
+  (H)  APPEALS  OF  JUDGMENTS  OR ORDERS BY TENANTS. NOTWITHSTANDING ANY
+ PROVISION OF LAW TO THE CONTRARY, IF A TENANT SERVES UPON A  LANDLORD  A
+ NOTICE  OF APPEAL OR AN AFFIDAVIT OF INTENTION TO MOVE FOR PERMISSION TO
+ APPEAL A JUDGMENT OR ORDER OR PAY AN UNDERTAKING UNDER PARAGRAPH TWO  OR
+ SIX  OF  SUBDIVISION  (A)  OF  THIS  SECTION,  SUCH  TENANT SHALL NOT BE
+ REQUIRED TO PAY ANY PORTION OF MONEY UNDER SUCH JUDGMENT OR ORDER  UNTIL
+ THE END OF THE STAY TRIGGERED BY SUCH SERVICE.
+  §  2.  This act shall take effect immediately and shall apply to judg-
+ ments and orders issued on or after such date.
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06845-01-3
