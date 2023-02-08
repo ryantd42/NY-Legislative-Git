@@ -1,0 +1,154 @@
+# Relates to the provision of financial assistance to museums, zoos, botanical gardens, aquariums and other cultural institutions located in low-income urban, suburban or rural communities
+
+**Bill ID:** A3835
+**Session:** 2023
+**Sponsor:** Patricia Fahy
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to the provision of financial assistance to museums, zoos, botanical gardens, aquariums and other cultural institutions located in low-income urban, suburban or rural communities, or that provide educational services to students from such communities.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  3835
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 8, 2023
+  ___________
+ 
+ Introduced  by M. of A. FAHY, OTIS, LUPARDO, BARRETT, THIELE, SEAWRIGHT,
+  COLTON, BRAUNSTEIN -- read once and referred to the Committee on Tour-
+  ism, Parks, Arts and Sports Development
+ 
+ AN ACT to amend the arts  and  cultural  affairs  law,  in  relation  to
+  providing  financial  assistance  to museums, zoos, botanical gardens,
+  aquariums and other cultural institutions located in low-income urban,
+  suburban or rural communities, or that provide educational services to
+  students from such communities
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Statement of legislative findings and intent. The legisla-
+ ture finds and declares that the state of  New  York  is  home  to  vast
+ educational  resources in museums, historical societies, zoos, botanical
+ gardens, aquaria and cultural arts institutions that offer a  wealth  of
+ ways to engage children and adults and instill in them a lasting love of
+ learning.
+  The  legislature  finds that over 1,500 museums, historical societies,
+ zoos, botanical gardens, aquaria and cultural arts institutions in  this
+ state  now  provide  instruction  to over six million children, and that
+ children in grades pre-kindergarten through twelve and  adults  enrolled
+ in  continuing  education programs should have broad and equal access to
+ such services.
+  The legislature further finds  that  community  cultural  arts  insti-
+ tutions, in collaboration with teachers and schools, must design new and
+ innovative  programs  to  engage  learners  in  such  pressing issues as
+ science, anthropology, history and arts literacy.
+  It is the intent of the legislature that the state  provide  financial
+ assistance  to cultural arts institutions serving under-resourced urban,
+ suburban or rural communities to  expand  educational  services  through
+ access  to  museum  collections,  scholarship  and  virtual learning and
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03473-01-3
+ A. 3835  2
+ 
+ extend their uniquely valuable educational resources to the children and
+ lifelong learners of the state.
+  §  2.  Short  title.  This  act shall be known and may be cited as the
+ "museum education act".
+  § 3. The arts and cultural affairs law is  amended  by  adding  a  new
+ section 61.15 to read as follows:
+  §  61.15. EDUCATION GRANTS FOR MUSEUMS. 1.  THE COMMISSIONER OF EDUCA-
+ TION SHALL DEVELOP AND  IMPLEMENT,  WITH  CONSULTATION  AND  INPUT  FROM
+ REPRESENTATIVES  FROM  THE  MUSEUM AND CULTURAL INSTITUTION COMMUNITY, A
+ MUSEUM AND CULTURAL ORGANIZATION  EDUCATION  GRANT  PROGRAM,  AND  SHALL
+ AWARD,  WITHIN  THE  AMOUNTS APPROPRIATED FROM THE GENERAL FUND FOR SUCH
+ PURPOSE, COMPETITIVE GRANTS IN ACCORDANCE  WITH  THIS  SECTION  FOR  THE
+ PURPOSE  OF  ESTABLISHING OR IMPROVING EDUCATION PROGRAMS IN MUSEUMS AND
+ CULTURAL ORGANIZATIONS DESIGNED TO IMPROVE STUDENT PERFORMANCE IN PUBLIC
+ AND NONPUBLIC ELEMENTARY, MIDDLE  AND  SECONDARY  SCHOOLS.  SUCH  GRANTS
+ SHALL BE EXPENDED TO SUPPORT THE PRODUCTION OF CURRICULA, ACQUISITION OF
+ SPECIALIZED  EDUCATIONAL  OR INTERPRETIVE SKILLS, ACQUISITION AND IMPLE-
+ MENTATION OF TECHNOLOGY, AND PREPARATION OF  SPECIALIZED  EXHIBITION  OR
+ PUBLIC  PROGRAMS  THAT  ARE TAILORED TO ELEMENTARY, MIDDLE AND SECONDARY
+ SCHOOL STUDENTS; THE DEVELOPMENT AND DELIVERY  OF  CONTINUING  EDUCATION
+ PROGRAMS;  PROVISION  OF STUDENT TRANSPORTATION; AND OTHER PROGRAMS THAT
+ SUPPORT THE DEVELOPMENT AND DELIVERY  OF  CURRICULUM-BASED  PROGRAMS  IN
+ MUSEUMS WITH COLLECTIONS.
+  2.  AS  USED IN THIS SECTION, "ELIGIBLE INSTITUTION" SHALL MEAN: (A) A
+ NONPROFIT INSTITUTION CHARTERED BY THE BOARD OF  REGENTS,  OR  OTHERWISE
+ INCORPORATED AS A MUSEUM, HISTORICAL SOCIETY, NATURE CENTER, ZOO, BOTAN-
+ ICAL  GARDEN,  ARBORETUM,  AQUARIUM OR OTHER CULTURAL EDUCATION INSTITU-
+ TION, OR A PRIVATELY OR MUNICIPALLY OPERATED INSTITUTION THAT MEETS  THE
+ APPLICABLE  REGISTRATION  STANDARDS  ESTABLISHED BY THE BOARD OF REGENTS
+ FOR MUSEUMS OR  HISTORICAL  SOCIETIES  WITH  COLLECTIONS,  AND  THAT  IS
+ LOCATED  IN  A LOW-INCOME URBAN, SUBURBAN OR RURAL COMMUNITY OR PROVIDES
+ EDUCATIONAL SERVICES TO STUDENTS  AND  ADULT  LEARNERS  FROM  LOW-INCOME
+ URBAN,  SUBURBAN  OR  RURAL  COMMUNITIES;  (B)  A MUSEUM AUTHORIZED BY A
+ SPECIAL CHARTER FROM THE LEGISLATURE OF THIS STATE AND THAT  IS  LOCATED
+ IN  A  LOW-INCOME  URBAN, SUBURBAN OR RURAL COMMUNITY OR PROVIDES EDUCA-
+ TIONAL SERVICES TO STUDENTS AND ADULT LEARNERS  FROM  LOW-INCOME  URBAN,
+ SUBURBAN OR RURAL COMMUNITIES; OR (C) A PRIVATE NOT-FOR-PROFIT COMMUNITY
+ BASED  ORGANIZATION,  INCLUDING  AN INCORPORATED INSTITUTION THE SOLE OR
+ PRIMARY PURPOSE OF WHICH IS THE SUPPORT OF MUSEUMS,  HISTORIC  SITES  OR
+ HISTORICAL  SOCIETIES  LOCATED  IN A LOW-INCOME URBAN, SUBURBAN OR RURAL
+ COMMUNITY OR THAT PROVIDES EDUCATIONAL SERVICES TO  STUDENTS  AND  ADULT
+ LEARNERS  FROM  LOW-INCOME  URBAN, SUBURBAN OR RURAL COMMUNITIES; EXCEPT
+ THAT INSTITUTIONS OPERATED BY STATE OR FEDERAL GOVERNMENT AGENCIES SHALL
+ NOT BE CONSIDERED ELIGIBLE UNDER THIS SECTION.
+  3. THE GOVERNING BODY OR OFFICER OF AN ELIGIBLE INSTITUTION REQUESTING
+ A GRANT PURSUANT TO THIS SECTION SHALL SUBMIT  AN  APPLICATION  AT  SUCH
+ TIME,  AND  IN SUCH FORM AND CONTAINING SUCH INFORMATION, AS THE COMMIS-
+ SIONER OF EDUCATION MAY REQUIRE. SUCH COMMISSIONER SHALL  ESTABLISH  THE
+ CRITERIA  AND  STANDARDS  BY WHICH APPLICATIONS FOR GRANTS TO BE AWARDED
+ PURSUANT TO THIS SECTION WILL BE EVALUATED AND MADE TO  ELIGIBLE  INSTI-
+ TUTIONS. THE COMMISSIONER OF EDUCATION IS AUTHORIZED TO PROMULGATE REGU-
+ LATIONS  FOR  THE DEVELOPMENT AND SUBMISSION OF APPLICATIONS FOR COOPER-
+ ATIVE OR COLLABORATIVE GRANTS, PROVIDED THAT A SINGLE INSTITUTION SERVES
+ AS THE APPLICANT FOR SUCH A GRANT AND FOR MULTI-YEAR GRANTS.
+  4. THE COMMISSIONER OF EDUCATION SHALL AWARD GRANTS, SUBJECT TO AVAIL-
+ ABLE APPROPRIATIONS, IN AN AMOUNT NOT TO EXCEED THE ALLOWABLE  COSTS  OF
+ A. 3835  3
+ 
+ THE  ELIGIBLE INSTITUTION AS DETERMINED BY SUCH COMMISSIONER.  ALLOWABLE
+ COSTS SHALL INCLUDE, BUT NEED NOT BE LIMITED TO, THE REASONABLE COST  OF
+ SALARIES  AND FRINGE BENEFITS, MATERIALS AND EQUIPMENT. THE COMMISSIONER
+ OF  EDUCATION  SHALL  ALLOCATE  A  MINIMUM OF TWENTY-FIVE PERCENT OF THE
+ AMOUNT APPROPRIATED FOR SUCH GRANTS TO AWARD  TO  INSTITUTIONS  WITH  AN
+ OPERATING  BUDGET  OF BETWEEN TEN THOUSAND DOLLARS AND ONE HUNDRED FIFTY
+ THOUSAND DOLLARS PER YEAR. THE COMMISSIONER OF EDUCATION SHALL  ALLOCATE
+ A  MINIMUM  OF  TWENTY-FIVE  PERCENT OF THE AMOUNT APPROPRIATED FOR SUCH
+ GRANTS TO AWARD TO INSTITUTIONS WITH AN OPERATING BUDGET OF BETWEEN  ONE
+ HUNDRED FIFTY THOUSAND ONE DOLLARS AND FIVE HUNDRED THOUSAND DOLLARS PER
+ YEAR.  THE COMMISSIONER OF EDUCATION SHALL ALLOCATE A MINIMUM OF TWEN-
+ TY-FIVE PERCENT OF THE AMOUNT APPROPRIATED FOR SUCH GRANTS TO  AWARD  TO
+ INSTITUTIONS  WITH  AN OPERATING BUDGET OF BETWEEN FIVE HUNDRED THOUSAND
+ ONE DOLLARS AND ONE MILLION DOLLARS PER YEAR. THE COMMISSIONER OF EDUCA-
+ TION SHALL ALLOCATE A MINIMUM  OF  TWENTY-FIVE  PERCENT  OF  THE  AMOUNT
+ APPROPRIATED  FOR SUCH GRANTS TO AWARD TO INSTITUTIONS WITH AN OPERATING
+ BUDGET IN EXCESS OF ONE MILLION DOLLARS PER YEAR.
+  5. ON OR BEFORE MARCH FIFTEENTH, TWO THOUSAND  TWENTY-SIX  AND  ON  OR
+ BEFORE  MARCH  FIRST OF EACH YEAR THEREAFTER, THE COMMISSIONER OF EDUCA-
+ TION SHALL SUBMIT TO THE CHAIRS OF THE SENATE FINANCE AND  THE  ASSEMBLY
+ WAYS  AND  MEANS  COMMITTEES,  AND  THE DIRECTOR OF THE BUDGET, A REPORT
+ DETAILING THE IMPLEMENTATION OF THE  PROVISIONS  OF  THIS  SECTION,  THE
+ EXTENT  OF  PARTICIPATION  BY ELIGIBLE INSTITUTIONS, THE RELATIONSHIP OF
+ THE PROGRAMS PROVIDED TO SCHOOL CURRICULA, AND THE GEOGRAPHIC DISPERSION
+ OF FUNDS AND PARTICIPATING INSTITUTIONS.
+  § 4. This act shall take effect on the three hundred  sixty-fifth  day
+ after  it  shall  have become a law. Effective immediately the addition,
+ amendment and/or repeal of any rule  or  regulation  necessary  for  the
+ implementation  of  this  act on its effective date are authorized to be
+ made and completed on or before such date.
