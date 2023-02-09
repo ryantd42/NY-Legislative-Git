@@ -1,0 +1,76 @@
+# Relates to adding veterans to protected classes for unlawful housing discrimination
+
+**Bill ID:** S4515A
+**Session:** 2023
+**Sponsor:** Nathalia Fernandez
+**Status:** In Senate Committee
+
+## Summary
+
+Adds veterans to protected classes for unlawful housing discrimination regardless of discharge status.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4515
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 9, 2023
+  ___________
+ 
+ Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Investigations and Govern-
+  ment Operations
+ 
+ AN  ACT  to  amend  the executive law, in relation to adding veterans to
+  protected classes for unlawful housing discrimination
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 296 of the executive law is amended by adding a new
+ subdivision 2-b to read as follows:
+  2-B.  (A)  IT  SHALL  BE  AN  UNLAWFUL DISCRIMINATORY PRACTICE FOR THE
+ OWNER, LESSEE, SUB-LESSEE, ASSIGNEE, OR MANAGING AGENT  OF  PUBLICLY-AS-
+ SISTED HOUSING ACCOMMODATIONS OR OTHER PERSON HAVING THE RIGHT OF OWNER-
+ SHIP  OR POSSESSION OF OR THE RIGHT TO RENT OR LEASE SUCH ACCOMMODATIONS
+ TO REFUSE TO SELL, RENT OR LEASE OR OTHERWISE TO  DENY  TO  OR  WITHHOLD
+ FROM  ANY PERSON OR GROUP OF PERSONS SUCH HOUSING ACCOMMODATIONS BECAUSE
+ OF SUCH PERSON'S STATUS AS A VETERAN.
+  (B) FOR THE PURPOSES OF THIS SUBDIVISION, THE TERM "VETERAN"  MEANS  A
+ PERSON,  RESIDENT  OF  THIS STATE, WHO SERVED IN THE UNITED STATES ARMY,
+ NAVY, AIR FORCE, SPACE FORCE, MARINE CORPS, COAST GUARD, AND/OR RESERVES
+ THEREOF, AND/OR IN THE ARMY NATIONAL GUARD, AIR NATIONAL GUARD, NEW YORK
+ GUARD AND/OR NEW YORK NAVAL MILITIA, AND/OR WHO SERVED AS  A  MEMBER  OF
+ THE  COMMISSIONED CORPS OF THE NATIONAL OCEANIC AND ATMOSPHERIC ADMINIS-
+ TRATION OR  THE  UNITED  STATES  PUBLIC  HEALTH  SERVICE  REGARDLESS  OF
+ DISCHARGE STATUS.
+  §  2.  Subdivision 5 of section 296 of the executive law is amended by
+ adding a new paragraph (h) to read as follows:
+  (H) (1) IT SHALL BE AN UNLAWFUL DISCRIMINATORY PRACTICE FOR ANY PERSON
+ OFFERING OR PROVIDING HOUSING ACCOMMODATIONS, LAND OR  COMMERCIAL  SPACE
+ AS  DESCRIBED  IN  PARAGRAPHS  (A),  (B), AND (C) OF THIS SUBDIVISION TO
+ REFUSE TO SELL, RENT OR LEASE ANY HOUSING ACCOMMODATION, LAND OR COMMER-
+ CIAL SPACE TO ANY PERSON BECAUSE OF SUCH PERSON'S STATUS AS A VETERAN.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02057-01-3
+ S. 4515  2
+ 
+  (2) FOR THE PURPOSES OF THIS PARAGRAPH, THE  TERM  "VETERAN"  MEANS  A
+ PERSON,  RESIDENT  OF  THIS STATE, WHO SERVED IN THE UNITED STATES ARMY,
+ NAVY, AIR FORCE, SPACE FORCE, MARINE CORPS, COAST GUARD, AND/OR RESERVES
+ THEREOF, AND/OR IN THE ARMY NATIONAL GUARD, AIR NATIONAL GUARD, NEW YORK
+ GUARD  AND/OR  NEW  YORK NAVAL MILITIA, AND/OR WHO SERVED AS A MEMBER OF
+ THE COMMISSIONED CORPS OF THE NATIONAL OCEANIC AND ATMOSPHERIC  ADMINIS-
+ TRATION  OR  THE  UNITED  STATES  PUBLIC  HEALTH  SERVICE  REGARDLESS OF
+ DISCHARGE STATUS.
+  § 3. This act shall take effect immediately.
