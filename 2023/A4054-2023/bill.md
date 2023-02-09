@@ -1,0 +1,84 @@
+# Requires the New York city housing authority to address certain repairs within thirty days after receipt of a written notice to management
+
+**Bill ID:** A4054
+**Session:** 2023
+**Sponsor:** Charles Fall
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires the New York city housing authority to repair certain conditions within thirty days of receipt of a written notice requesting such repairs; requires NYCHA to convert from gas to electric appliances when repairing or replacing any such appliances.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4054
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  February 9, 2023
+  ___________
+ 
+ Introduced  by  M. of A. FALL -- read once and referred to the Committee
+  on Housing
+ 
+ AN ACT to amend the public housing law, in relation to requiring the New
+  York city housing authority to address certain repairs  within  thirty
+  days after receipt of a written notice to management
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The public housing law is amended by adding a  new  section
+ 402-g to read as follows:
+  § 402-G. REPAIRS; WRITTEN NOTICE. 1. FOR THE PURPOSES OF THIS SECTION,
+ THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
+  (A) "AUTHORITY" SHALL MEAN THE NEW YORK CITY HOUSING AUTHORITY.
+  (B)  "DEPARTMENT"  SHALL  MEAN THE NEW YORK CITY DEPARTMENT OF HOUSING
+ PRESERVATION AND DEVELOPMENT.
+  2. NOTWITHSTANDING ANY LAW, RULE OR REGULATION TO  THE  CONTRARY,  THE
+ AUTHORITY  SHALL  REPAIR  OR CAUSE TO BE REPAIRED ANY CONDITIONS THAT IT
+ WOULD OTHERWISE HAVE A DUTY TO REPAIR UNDER LAW IF  IT  WERE  A  PRIVATE
+ LANDLORD, WITHIN THIRTY DAYS OF RECEIPT BY THE PROPERTY MANAGER OF WRIT-
+ TEN  NOTICE  OF  SUCH CONDITIONS IN NEED OF REPAIRS. SUCH WRITTEN NOTICE
+ SHALL BE PROVIDED TO THE PROPERTY MANAGER IN A  MANNER  CONSISTENT  WITH
+ RULES  AND  REGULATIONS PROMULGATED FOR SUCH PURPOSE BY THE AUTHORITY IN
+ CONJUNCTION WITH THE DEPARTMENT.
+  3. A TENANT OR AN AUTHORIZED MEMBER OF A TENANT HOUSEHOLD  OF  A  UNIT
+ OWNED OR OPERATED BY THE AUTHORITY MAY REPORT A VIOLATION OF SUBDIVISION
+ TWO  OF THIS SECTION BY THE AUTHORITY TO THE DEPARTMENT. UPON RECEIPT OF
+ A REPORT OF A VIOLATION OF  SUBDIVISION  TWO  OF  THIS  SECTION  BY  THE
+ AUTHORITY, THE DEPARTMENT SHALL ISSUE TO THE AUTHORITY A MANDATORY ORDER
+ TO  REPAIR THE CONDITIONS UPON WHICH SUCH VIOLATION IS PREDICATED. AFTER
+ FIFTEEN DAYS OF THE ISSUANCE OF SUCH  MANDATORY  ORDER  TO  REPAIR,  THE
+ DEPARTMENT SHALL INSPECT SUCH REPORTED VIOLATION.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06842-01-3
+ A. 4054  2
+ 
+  4.  A  TENANT  OF A UNIT SUBJECT TO THE PROVISIONS OF THIS SECTION MAY
+ CHOOSE TO REPAIR A CONDITION THAT THE AUTHORITY OTHERWISE HAS A DUTY  TO
+ REPAIR UNDER LAW. BEFORE BEGINNING SUCH REPAIR, SUCH TENANT SHALL NOTIFY
+ THE  PROPERTY MANAGER OF THE PROJECT WHEREIN SUCH TENANT RESIDES OF SUCH
+ TENANT'S  INTENT  TO  REPAIR  SUCH CONDITIONS. SUCH TENANT SHALL KEEP AN
+ ACCURATE RECORD OF EXPENSES INCURRED BY REPAIRING  SUCH  CONDITIONS  AND
+ SHALL  EITHER:  (A)  BE  ENTITLED  TO PAYMENT FROM THE AUTHORITY OF SUCH
+ AMOUNT, WITHIN FIFTEEN DAYS OF NOTICE TO THE AUTHORITY OF SUCH  EXPENSES
+ INCURRED, OR (B) BE ENTITLED TO DEDUCT SUCH AMOUNT FROM FUTURE RENT OWED
+ TO THE AUTHORITY.
+  5.  THE PROVISIONS OF THIS SECTION SHALL NOT APPLY TO ANY CONDITION IN
+ NEED OF REPAIR CAUSED BY A TENANT OF A UNIT COVERED BY THIS SECTION,  OR
+ BY A PERSON OR PERSONS UNDER SUCH TENANT'S DIRECTION OR CONTROL.
+  §  2.  This  act shall take effect on the ninetieth day after it shall
+ have become a law. Effective immediately, the addition, amendment and/or
+ repeal of any rule or regulation necessary  for  the  implementation  of
+ this  act  on its effective date are authorized to be made and completed
+ on or before such effective date.
