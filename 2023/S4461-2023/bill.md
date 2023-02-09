@@ -1,0 +1,77 @@
+# Creates a service learning program for students serving as active volunteer firefighters or volunteer ambulance workers
+
+**Bill ID:** S4461
+**Session:** 2023
+**Sponsor:** Pamela Helming
+**Status:** In Senate Committee
+
+## Summary
+
+Creates a service learning program for students serving as active volunteer firefighters or volunteer ambulance workers; mandates certain features of such program.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4461
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 9, 2023
+  ___________
+ 
+ Introduced  by  Sen. HELMING -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Higher Education
+ 
+ AN ACT to amend the education law, in relation to certain service learn-
+  ing, internship, or independent study programs
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 355 of the education law is amended by adding a new
+ subdivision 22 to read as follows:
+  22. THE STATE UNIVERSITY TRUSTEES SHALL ADOPT REGULATIONS TO ESTABLISH
+ A  SERVICE  LEARNING,  INTERNSHIP,  OR  INDEPENDENT  STUDY  PROGRAM  FOR
+ STUDENTS THAT SERVE  AS  ACTIVE  VOLUNTEER  FIREFIGHTERS  AND/OR  ACTIVE
+ VOLUNTEER  AMBULANCE WORKERS. EACH STATE-OPERATED INSTITUTION AND COMMU-
+ NITY COLLEGE MAY, AS DETERMINED BY ITS PRESIDENT, OFFER SUCH  A  SERVICE
+ LEARNING,  INTERNSHIP, OR INDEPENDENT STUDY PROGRAM TO ELIGIBLE STUDENTS
+ IN ACCORDANCE WITH THE REGULATIONS PRESCRIBED BY  THE  STATE  UNIVERSITY
+ TRUSTEES.  SUCH  PROGRAM SHALL CONSIST OF (A) A COMMUNITY SERVICE COMPO-
+ NENT THAT MAY BE COMPLETED THROUGH NO LESS THAN TWENTY HOURS OF  VERIFI-
+ ABLE VOLUNTEER FIREFIGHTING ACTIVITIES, VOLUNTEER AMBULANCE OR EMERGENCY
+ RESPONSE  ACTIVITIES,  OR  OTHER ACTIVITIES RELATED TO VOLUNTEER FIRE OR
+ AMBULANCE SERVICE AS DETERMINED BY THE STATE  UNIVERSITY  TRUSTEES,  AND
+ (B) AN ACADEMIC COMPONENT RELATED TO SUCH VOLUNTEER ACTIVITY THAT MAY BE
+ COMPLETED  THROUGH A WRITTEN REPORT OR JOURNAL, OR OTHER WRITTEN ASSIGN-
+ MENT AS DETERMINED BY THE STATE UNIVERSITY TRUSTEES. SUCH PROGRAM  SHALL
+ BE  OPEN  TO  ANY  STUDENT  ENROLLED  IN  AN  ASSOCIATE OR BACCALAUREATE
+ DEGREE-PRODUCING PROGRAM ON A FULL-TIME OR PART-TIME BASIS  THAT  IS  AN
+ ACTIVE  VOLUNTEER  FIREFIGHTER  AS DEFINED IN SUBDIVISION ONE OF SECTION
+ TWO HUNDRED FIFTEEN OF THE GENERAL MUNICIPAL LAW OR AN ACTIVE  VOLUNTEER
+ AMBULANCE  WORKER  AS  DEFINED  IN  SUBDIVISION  FOURTEEN OF SECTION TWO
+ HUNDRED NINETEEN-K OF THE GENERAL MUNICIPAL  LAW.  NO  MORE  THAN  SIX
+ ACADEMIC CREDITS SHALL BE AWARDED TO A STUDENT FOR SUCCESSFUL COMPLETION
+ OF  SUCH  SERVICE  LEARNING, INTERNSHIP OR INDEPENDENT STUDY PROGRAM. IN
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05612-01-3
+ S. 4461  2
+ 
+ DEVELOPING THE SERVICE LEARNING, INTERNSHIP OR INDEPENDENT STUDY PROGRAM
+ DESCRIBED IN THIS SUBDIVISION, THE STATE UNIVERSITY TRUSTEES MAY, IN ITS
+ DISCRETION, CONSULT WITH THE  OFFICE  OF  FIRE  PREVENTION  AND  CONTROL
+ AND/OR  ANY  STATEWIDE ORGANIZATION THAT REPRESENTS THE INTERESTS OF THE
+ VOLUNTEER FIRE SERVICE OR THE VOLUNTEER AMBULANCE SERVICE.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law. Effective immediately, the addition, amendment and/or
+ repeal  of  any  rule  or regulation necessary for the implementation of
+ this act on its effective date are authorized to be made  and  completed
+ on or before such effective date.
