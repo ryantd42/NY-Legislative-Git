@@ -1,0 +1,87 @@
+# Establishes a tax credit for taxpayers who donate equipment or materials to first responder live training programs
+
+**Bill ID:** S4473
+**Session:** 2023
+**Sponsor:** Dan Stec
+**Status:** In Senate Committee
+
+## Summary
+
+Establishes the first responder live training tax credit.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4473
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 9, 2023
+  ___________
+ 
+ Introduced  by  Sen.  STEC  --  read twice and ordered printed, and when
+  printed to be committed to the Committee on Investigations and Govern-
+  ment Operations
+ 
+ AN ACT to amend the tax law, in relation to creating a  tax  credit  for
+  taxpayers  who  donate  equipment or materials to first responder live
+  training programs
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The tax law is amended by adding a new section 26-a to read
+ as follows:
+  § 26-A. FIRST RESPONDER LIVE TRAINING CREDIT. (A) ALLOWANCE OF CREDIT.
+ A  TAXPAYER SUBJECT TO TAX UNDER ARTICLES NINE, NINE-A, OR TWENTY-TWO OF
+ THIS CHAPTER SHALL BE ALLOWED A CREDIT AGAINST  SUCH  TAX  PROVIDED  THE
+ TAXPAYER DONATES EQUIPMENT OR MATERIALS TO FIRST RESPONDER LIVE TRAINING
+ PROGRAMS.
+  (B)  VALUE  OF CREDIT. THE CREDIT SHALL BE EQUAL TO THE RESIDUAL VALUE
+ OF THE ITEMS AS DETERMINED BY GENERALLY ACCEPTED ACCOUNTING  PRINCIPLES,
+ NOT TO EXCEED THREE THOUSAND DOLLARS PER TAX YEAR.
+  (C)  DEFINITIONS.  AS  USED IN THIS SECTION, THE FOLLOWING TERMS SHALL
+ HAVE THE FOLLOWING MEANINGS:
+  (1)  "FIRST  RESPONDER"  SHALL  MEAN  LOCAL  POLICE,  FIRE,  EMERGENCY
+ SERVICES, AND HOSPITAL OR CLINICAL STAFF; AND
+  (2) "LIVE TRAINING PROGRAM" SHALL MEAN ANY TRAINING PROGRAM OR SESSION
+ AT  LEAST  HALF  OF WHICH IS SCENARIO BASED AND TAKES PLACE OUTSIDE OF A
+ CLASSROOM SETTING.
+  (D)  REQUIRED  DOCUMENTATION.  THE  TAXPAYER  MUST  SUBMIT  SUFFICIENT
+ DOCUMENTATION  TO  ALLOW RESIDUAL VALUE OF THE DONATION TO BE DETERMINED
+ TO THE SATISFACTION OF THE COMMISSIONER. THE TAXPAYER MUST  ALSO  SUBMIT
+ PROOF THAT THE DONATED ITEMS WERE DESIRED BY THE ORGANIZATION SPONSORING
+ THE RELEVANT TRAINING PROGRAM, AND THAT SUCH TRAINING PROGRAMS DID ACTU-
+ ALLY OCCUR.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09253-01-3
+ S. 4473  2
+ 
+  (E) WHEN CREDIT ALLOWED. THE CREDIT PROVIDED FOR IN SUBDIVISION (A) OF
+ THIS SECTION SHALL BE ALLOWED FOR ANY TAXABLE YEAR IN WHICH COSTS RELAT-
+ ING  TO  DONATING  OR  TRANSPORTING  EQUIPMENT OR MATERIALS ARE PAID ARE
+ INCURRED.
+  (F) DESTRUCTION OF DONATED MATERIALS. NOTHING IN THIS SECTION SHALL BE
+ INTERPRETED  TO PRECLUDE DONATED ITEMS OR MATERIALS FROM, WITH AGREEMENT
+ OF THE RELEVANT SPONSORING ORGANIZATION, BEING MOVED TO A WRECKING  YARD
+ AFTER  THE TRAINING PROGRAM HAS CONCLUDED; HOWEVER, THIS MUST BE DONE AT
+ THE EXPENSE OF THE ORIGINAL OWNER OR AT  THE  EXPENSE  OF  THE  WRECKING
+ YARD.
+  (G)  CROSS-REFERENCES.  FOR  APPLICATION OF THE CREDIT PROVIDED FOR IN
+ THIS SECTION, SEE THE FOLLOWING PROVISIONS OF THIS CHAPTER:
+  (1) ARTICLE 9: SECTION 187-N.
+  (2) ARTICLE 9-A: SECTION 210-B: SUBDIVISION 21.
+  (3) ARTICLE 22: SECTION 606: SUBSECTION (II).
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have  become  a  law.  Effective  immediately, the addition, amendment
+ and/or repeal of any rule or regulation necessary for the implementation
+ of this act on  its  effective  date  are  authorized  to  be  made  and
+ completed on or before such effective date.
