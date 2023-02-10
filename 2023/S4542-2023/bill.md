@@ -1,0 +1,53 @@
+# Relates to the public release of ballot images
+
+**Bill ID:** S4542
+**Session:** 2023
+**Sponsor:** Steve Rhoads
+**Status:** In Senate Committee
+
+## Summary
+
+Requires the board of elections to publicly release images of all ballots following an election.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4542
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 10, 2023
+  ___________
+ 
+ Introduced  by  Sen.  RHOADS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Elections
+ 
+ AN ACT to amend the election law,  in  relation  to  publicly  releasing
+  ballot images
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. The election law is amended by adding a new  section  7-131
+ to read as follows:
+  §  7-131.  BALLOTS;  PUBLIC  RELEASE  OF  BALLOT  IMAGES. FOLLOWING AN
+ ELECTION, THE BOARD OF ELECTIONS SHALL PUBLICLY RELEASE AND MAKE  AVAIL-
+ ABLE  ONLINE,  IMAGES OF ALL BALLOTS, EXCLUDING ALL PERSONAL IDENTIFYING
+ INFORMATION.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09110-01-3
