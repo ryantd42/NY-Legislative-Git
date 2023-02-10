@@ -1,0 +1,57 @@
+# Relates to state reimbursement for local enforcement of navigation laws on waterways within local jurisdiction
+
+**Bill ID:** S4557
+**Session:** 2023
+**Sponsor:** James Skoufis
+**Status:** In Assembly Committee
+
+## Summary
+
+Permits municipalities within certain counties to apply for reimbursement from the state for law enforcement activities on waterways within their jurisdiction.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4557
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 10, 2023
+  ___________
+ 
+ Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Cultural Affairs, Tourism,
+  Parks and Recreation
+ 
+ AN ACT in relation  to  permitting  certain  municipalities  to  receive
+  reimbursement  from the state for law enforcement activities on water-
+  ways within their jurisdiction
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Notwithstanding the provisions of section 79-b of the navi-
+ gation  law,  any  municipality  in a county whose population is between
+ 390,000 and 425,000 inhabitants, and whose police department  patrols  a
+ waterway within the jurisdiction of such municipality, shall be eligible
+ to  apply  for reimbursement for expenses incurred in the enforcement of
+ the applicable provisions of the navigation law  regardless  of  whether
+ the county has filed an application for reimbursement; provided that the
+ total  amount  reimbursed  to  the municipality and the county shall not
+ exceed the maximum reimbursement as set forth in such section  79-b,  as
+ determined by the department of parks, recreation and historic preserva-
+ tion.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09295-01-3
