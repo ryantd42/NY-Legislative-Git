@@ -1,0 +1,55 @@
+# Relates to powers and duties of trustees; in state tuition for active and retired military members
+
+**Bill ID:** S4592
+**Session:** 2023
+**Sponsor:** Peter Oberacker
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to powers and duties of trustees; provides for in state tuition rates for active and retired military members enrolled in any state-operated institution of the state university, whether or not a resident of the state.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  4592
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  February 10, 2023
+  ___________
+ 
+ Introduced by Sen. OBERACKER -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Higher Education
+ 
+ AN  ACT  to amend the education law, in relation to powers and duties of
+  trustees; in state tuition for active and retired military members
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Paragraph h of subdivision 2 of section 355 of the educa-
+ tion law is amended by adding a new subparagraph 11 to read as follows:
+  (11) NOTWITHSTANDING THE PROVISIONS OF ANY OTHER GENERAL,  SPECIAL  OR
+ LOCAL  LAW,  RULE  OR REGULATION, SUCH REGULATIONS SHALL FURTHER PROVIDE
+ THAT THE PAYMENT OF TUITION AND FEES BY ANY STUDENT IN ANY STATE-OPERAT-
+ ED INSTITUTION OF THE STATE UNIVERSITY  WHO  IS  AN  ACTIVE  OR  RETIRED
+ MEMBER  OF THE ARMED FORCES OF THE UNITED STATES, WHETHER OR NOT A RESI-
+ DENT OF THE STATE, SHALL BE PAID AT A RATE OR  CHARGE  NO  GREATER  THAN
+ THAT IMPOSED FOR STUDENTS THEREAT WHO ARE RESIDENTS OF THIS STATE.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05871-01-3
