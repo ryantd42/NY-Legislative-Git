@@ -1,6 +1,6 @@
 # Expands eligibility for temporary disability insurance and paid family leave benefits
 
-**Bill ID:** S2821B
+**Bill ID:** S2821BA
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Expands eligibility for temporary disability insurance and paid family leave ben
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2821
+  2821--A
  
   2023-2024 Regular Sessions
  
@@ -25,48 +25,50 @@ S T A T E  O F  N E W  Y O R K
   January 24, 2023
   ___________
  
- Introduced  by  Sens.  RAMOS, ADDABBO -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Labor
+ Introduced  by Sens. RAMOS, ADDABBO, COMRIE, HOYLMAN-SIGAL -- read twice
+  and ordered printed, and when printed to be committed to the Committee
+  on Labor -- committee discharged, bill amended, ordered  reprinted  as
+  amended and recommitted to said committee
  
- AN ACT to amend the workers' compensation law, in relation to  expanding
-  eligibility  for  temporary disability insurance and paid family leave
+ AN  ACT to amend the workers' compensation law, in relation to expanding
+  eligibility for temporary disability insurance and paid  family  leave
   benefits and to making certain conforming technical changes
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision 9 of section 201 of the workers' compensation
- law, as amended by chapter 675 of the  laws  of  1977,  paragraph  B  as
- amended  by  chapter  352  of  the  laws  of 1981, is amended to read as
+  Section 1. Subdivision 9 of section 201 of the  workers'  compensation
+ law,  as  amended  by  chapter  675  of the laws of 1977, paragraph B as
+ amended by chapter 352 of the laws  of  1981,  is  amended  to  read  as
  follows:
-  9. [A.] (A) "Disability" during employment means the inability  of  an
- employee,  as  a  result of injury or sickness not arising out of and in
- the course of an employment, to perform  the  regular  duties  of  [his]
+  9.  [A.]  (A) "Disability" during employment means the inability of an
+ employee, as a result of injury or sickness not arising out  of  and  in
+ the  course  of  an  employment,  to perform the regular duties of [his]
  THEIR employment or the duties of any other employment which [his] THEIR
- employer  may  offer  [him]  THEM at [his] THEIR regular wages and which
+ employer may offer [him] THEM at [his] THEIR  regular  wages  and  which
  [his] THEIR injury or sickness does not prevent [him] THEM from perform-
- ing. "Disability" during unemployment means the inability of an  employ-
- ee,  as  a  result  of  injury or sickness not arising out of and in the
- course of an employment, to perform the duties  of  any  employment  for
+ ing.  "Disability" during unemployment means the inability of an employ-
+ ee, as a result of injury or sickness not arising  out  of  and  in  the
+ course  of  an  employment,  to perform the duties of any employment for
  which [he is] THEY ARE reasonably qualified by training and experience.
-  [B.]  (B)  "Disability"  also  includes  disability  caused  by  or in
+  [B.] (B)  "Disability"  also  includes  disability  caused  by  or  in
  connection with a pregnancy.
   (C) "DISABILITY" ALSO INCLUDES THE INABILITY OF AN EMPLOYEE TO WORK IN
- ORDER TO RECEIVE MEDICAL TREATMENT FOR A SERIOUS  HEALTH  CONDITION  NOT
+ ORDER  TO  RECEIVE  MEDICAL TREATMENT FOR A SERIOUS HEALTH CONDITION NOT
  ARISING OUT OF AND IN THE COURSE OF EMPLOYMENT.
-  §  2.  Subdivision 20 of section 201 of the workers' compensation law,
- as amended by chapter 550 of the laws of 2021, is  amended  to  read  as
+  § 2. Subdivision 20 of section 201 of the workers'  compensation  law,
+ as  amended  by  chapter  550 of the laws of 2021, is amended to read as
  follows:
-  20.  "Family  member"  means a child, parent, grandparent, grandchild,
- sibling, spouse, or domestic partner as defined in this section, OR  ANY
- OTHER INDIVIDUAL RELATED BY BLOOD TO THE EMPLOYEE OR WHOSE CLOSE ASSOCI-
- ATION WITH THE EMPLOYEE IS THE EQUIVALENT OF A FAMILY RELATIONSHIP.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04613-02-3
- S. 2821  2
+  LBD04613-03-3
+ S. 2821--A  2
  
+  20. "Family member" means a child,  parent,  grandparent,  grandchild,
+ sibling,  spouse, or domestic partner as defined in this section, OR ANY
+ OTHER INDIVIDUAL RELATED BY BLOOD TO THE EMPLOYEE OR WHOSE CLOSE ASSOCI-
+ ATION WITH THE EMPLOYEE IS THE EQUIVALENT OF A FAMILY RELATIONSHIP.
   §  3.  Section  203  of the workers' compensation law, as amended by
  section 3 of part SS of chapter 54 of the laws of 2016,  is  amended  to
  read as follows:
@@ -117,84 +119,70 @@ S T A T E  O F  N E W  Y O R K
  and family leave benefits in the employment of a covered employer  shall
  not be deemed, for the purposes of this article, to have such employment
  terminated during any period [he or she is] THEY ARE eligible to receive
- benefits under [section two hundred four of this article with respect to
- such  employment]  SUBDIVISION  TWO OF SECTION TWO HUNDRED SEVEN OF THIS
- ARTICLE AND WHO RETURNS TO EMPLOYMENT WITH A  COVERED  EMPLOYER  AND  AN
- EMPLOYEE  WHO  IS CURRENTLY RECEIVING UNEMPLOYMENT INSURANCE BENEFITS OR
- BENEFITS UNDER SECTION TWO HUNDRED SEVEN OF THIS ARTICLE AND WHO RETURNS
- TO EMPLOYMENT WITH A COVERED EMPLOYER SHALL BECOME ELIGIBLE FOR DISABIL-
- S. 2821  3
-
- ITY AND FAMILY LEAVE BENEFITS IMMEDIATELY WITH RESPECT TO  SUCH  EMPLOY-
- MENT.  AN EMPLOYEE REGULARLY IN THE EMPLOYMENT OF A SINGLE EMPLOYER ON A
- WORK SCHEDULE LESS THAN THE EMPLOYER'S NORMAL  WORK  WEEK  SHALL  BECOME
- ELIGIBLE  FOR  DISABILITY  AND FAMILY LEAVE BENEFITS ON THE TWENTY-FIFTH
- DAY OF SUCH REGULAR EMPLOYMENT. AN EMPLOYEE WHO IS ELIGIBLE FOR DISABIL-
- ITY AND FAMILY LEAVE BENEFITS IN THE EMPLOYMENT OF  A  COVERED  EMPLOYER
- SHALL  NOT  BE  DEEMED,  FOR  THE PURPOSES OF THIS ARTICLE, TO HAVE SUCH
- EMPLOYMENT TERMINATED DURING ANY PERIOD THEY  ARE  ELIGIBLE  TO  RECEIVE
- BENEFITS  UNDER SECTION TWO HUNDRED FOUR OF THIS ARTICLE WITH RESPECT TO
- SUCH EMPLOYMENT.
+ benefits  under section two hundred four of this article with respect to
+ such employment.
+ S. 2821--A  3
+ 
   § 4. Section 203-a of the  workers'  compensation  law,  as  added  by
  section  4  of  part SS of chapter 54 of the laws of 2016, is amended to
  read as follows:
-  § 203-a. [Retaliatory] INTERFERENCE AND RETALIATORY action  prohibited
- for  DISABILITY  AND  family  leave.  1.  The  provisions of section one
+  §  203-a. [Retaliatory] INTERFERENCE AND RETALIATORY action prohibited
+ for DISABILITY AND family  leave.  1.  The  provisions  of  section  one
  hundred twenty of this chapter and section two hundred forty-one of this
  article shall be applicable to DISABILITY AND family leave.
-  2. IT SHALL BE UNLAWFUL FOR ANY EMPLOYER TO INTERFERE WITH,  RESTRAIN,
+  2.  IT SHALL BE UNLAWFUL FOR ANY EMPLOYER TO INTERFERE WITH, RESTRAIN,
  OR DENY  THE EXERCISE OF, OR THE ATTEMPT TO EXERCISE, ANY RIGHT PROVIDED
- UNDER  THIS  ARTICLE, INCLUDING: (A) FAILING TO COMPLY WITH THE REQUIRE-
- MENTS OF SECTION TWO HUNDRED TWENTY-NINE OF THIS  ARTICLE,  SUCH  AS  BY
- FAILING  TO  PROVIDE  AN  EMPLOYEE WITH THE NOTICE OF RIGHTS REQUIRED BY
+ UNDER THIS  ARTICLE, INCLUDING: (A) FAILING TO COMPLY WITH THE  REQUIRE-
+ MENTS  OF  SECTION  TWO  HUNDRED TWENTY-NINE OF THIS ARTICLE, SUCH AS BY
+ FAILING TO PROVIDE AN EMPLOYEE WITH THE NOTICE  OF  RIGHTS  REQUIRED  BY
  SUCH SECTION; (B) FAILING TO PROVIDE AN EMPLOYEE WITH COMPLETE AND ACCU-
- RATE INFORMATION RELATED TO THE SUBMISSION OF A CLAIM FOR DISABILITY  OR
+ RATE  INFORMATION RELATED TO THE SUBMISSION OF A CLAIM FOR DISABILITY OR
  FAMILY LEAVE BENEFITS, SUCH AS BY FAILING TO INFORM THE EMPLOYEE THAT IT
- IS  THE  EMPLOYEE'S  RESPONSIBILITY  TO SUBMIT THE COMPLETED APPLICATION
- MATERIALS TO THE EMPLOYER'S INSURANCE CARRIER OR BY FAILING OR  REFUSING
+ IS THE EMPLOYEE'S RESPONSIBILITY TO  SUBMIT  THE  COMPLETED  APPLICATION
+ MATERIALS  TO THE EMPLOYER'S INSURANCE CARRIER OR BY FAILING OR REFUSING
  TO PROVIDE THE EMPLOYEE WITH THE NAME OF THE EMPLOYER'S INSURANCE CARRI-
- ER  AND/OR THE EMPLOYER'S POLICY NUMBER WITH SAID INSURANCE CARRIER; (C)
+ ER AND/OR THE EMPLOYER'S POLICY NUMBER WITH SAID INSURANCE CARRIER;  (C)
  FAILING TO ACCURATELY COMPLETE AND RETURN TO THE EMPLOYEE THE DISABILITY
- OR FAMILY LEAVE APPLICATION PAPERWORK WITHIN THE TIME  PERIOD  SPECIFIED
+ OR  FAMILY  LEAVE APPLICATION PAPERWORK WITHIN THE TIME PERIOD SPECIFIED
  BY THE  CHAIR; (D) PROVIDING THE EMPLOYER'S INSURANCE CARRIER WITH INAC-
- CURATE  INFORMATION  ABOUT AN EMPLOYEE'S EMPLOYMENT AS IT RELATES TO THE
- EMPLOYEE'S ELIGIBILITY FOR  DISABILITY OR FAMILY  LEAVE  BENEFITS;  (E)
- REFUSING  TO  ALLOW  AN  EMPLOYEE WHO HAS REQUESTED DISABILITY OR FAMILY
- LEAVE UNDER THIS ARTICLE TO BEGIN LEAVE UNTIL THE  EMPLOYER'S  INSURANCE
+ CURATE INFORMATION ABOUT AN EMPLOYEE'S EMPLOYMENT AS IT RELATES  TO  THE
+ EMPLOYEE'S  ELIGIBILITY  FOR  DISABILITY OR FAMILY LEAVE BENEFITS; (E)
+ REFUSING TO ALLOW AN EMPLOYEE WHO HAS  REQUESTED  DISABILITY  OR  FAMILY
+ LEAVE  UNDER  THIS ARTICLE TO BEGIN LEAVE UNTIL THE EMPLOYER'S INSURANCE
  CARRIER HAS APPROVED THE EMPLOYEE'S CLAIM FOR DISABILITY OR FAMILY LEAVE
- BENEFITS;  (F)  FAILING  OR REFUSING TO CARRY DISABILITY OR FAMILY LEAVE
+ BENEFITS; (F) FAILING OR REFUSING TO CARRY DISABILITY  OR  FAMILY  LEAVE
  INSURANCE AS REQUIRED BY SECTION TWO HUNDRED ELEVEN OF THIS ARTICLE; (G)
- THREATENING TERMINATION, DEMOTION, DISCIPLINE, SUSPENSION, OR  REDUCTION
- OF  HOURS  OR  WAGES, REPORTING OR THREATENING TO REPORT AN EMPLOYEE'S
+ THREATENING  TERMINATION, DEMOTION, DISCIPLINE, SUSPENSION, OR REDUCTION
+ OF  HOURS OR WAGES, REPORTING OR THREATENING  TO  REPORT  AN  EMPLOYEE'S
  SUSPECTED CITIZENSHIP OR IMMIGRATION STATUS OR THE SUSPECTED CITIZENSHIP
- OR IMMIGRATION STATUS OF A FAMILY MEMBER OF THE EMPLOYEE TO  A  FEDERAL,
- STATE,  OR  LOCAL  AGENCY,  OR  THREATENING  ANY OTHER ACTION AGAINST AN
- EMPLOYEE SEEKING TO TAKE DISABILITY OR FAMILY LEAVE THAT  MIGHT  REASON-
+ OR  IMMIGRATION  STATUS OF A FAMILY MEMBER OF THE EMPLOYEE TO A FEDERAL,
+ STATE, OR LOCAL AGENCY, OR  THREATENING  ANY  OTHER  ACTION  AGAINST  AN
+ EMPLOYEE  SEEKING  TO TAKE DISABILITY OR FAMILY LEAVE THAT MIGHT REASON-
  ABLY DETER AN EMPLOYEE FROM EXERCISING A RIGHT PROVIDED UNDER THIS ARTI-
- CLE;  OR  (H)  THREATENING  OR TAKING ANY OTHER ACTION THAT MAY HAVE THE
+ CLE; OR (H) THREATENING OR TAKING ANY OTHER ACTION  THAT  MAY  HAVE  THE
  EFFECT OF PREVENTING OR DISCOURAGING AN EMPLOYEE FROM EXERCISING A RIGHT
  PROVIDED UNDER THIS ARTICLE.
-  3. Nothing in this section shall be deemed  to  diminish  the  rights,
- privileges,  or remedies of any employee under any collective bargaining
+  3.  Nothing  in  this  section shall be deemed to diminish the rights,
+ privileges, or remedies of any employee under any collective  bargaining
  agreement or employment contract.
-  § 5. Section 203-b of the  workers'  compensation  law,  as  added  by
- section  4  of  part SS of chapter 54 of the laws of 2016, is amended to
+  §  5.  Section  203-b  of  the  workers' compensation law, as added by
+ section 4 of part SS of chapter 54 of the laws of 2016,  is  amended  to
  read as follows:
- S. 2821  4
- 
-  § 203-b. Reinstatement  following  DISABILITY  OR  family  leave.  Any
+  §  203-b.  Reinstatement  following  DISABILITY  OR  family leave. Any
  eligible employee of a covered employer who takes leave, INCLUDING LEAVE
- DUE  TO  A  DISABILITY,  under this article shall be entitled, on return
- from such leave, to be restored by  the  employer  to  the  position  of
- employment  held  by  the  employee  when  the leave commenced, or to be
- restored to a comparable position with comparable  employment  benefits,
- pay  and  other terms and conditions of employment. The taking of family
- leave OR LEAVE DUE TO A DISABILITY shall not result in the loss  of  any
- employment  benefit  accrued  prior  to  the  date  on  which  the leave
- commenced. Nothing in this section shall be  construed  to  entitle  any
+ DUE TO A DISABILITY, under this article shall  be  entitled,  on  return
+ from  such  leave,  to  be  restored  by the employer to the position of
+ employment held by the employee when  the  leave  commenced,  or  to  be
+ restored  to  a comparable position with comparable employment benefits,
+ pay and other terms and conditions of employment. The taking  of  family
+ leave  OR  LEAVE DUE TO A DISABILITY shall not result in the loss of any
+ employment benefit  accrued  prior  to  the  date  on  which  the  leave
+ commenced.  Nothing  in  this  section shall be construed to entitle any
  restored employee to the accrual of any seniority or employment benefits
- during  any  period of leave, or any right, benefit or position to which
- the employee would have been entitled had the  employee  not  taken  the
+ S. 2821--A  4
+ 
+ during any period of leave, or any right, benefit or position  to  which
+ the  employee  would  have  been entitled had the employee not taken the
  leave.
   §  6.  Section  203-c  of the workers' compensation law, as added by
  section 4 of part SS of chapter 54 of the laws of 2016,  is  amended  to
@@ -238,8 +226,6 @@ S T A T E  O F  N E W  Y O R K
  provided in subparagraphs (ii), (iii), [and] (iv), AND (V) of this para-
  graph by one or more calendar years. In determining whether to delay the
  increase in the family leave benefit for any year, the superintendent of
- S. 2821  5
- 
  financial services shall consider: (1) the current cost to employees  of
  the  family  leave benefit and any expected change in the cost after the
  benefit increase; (2) the current number of insurers  issuing  insurance
@@ -251,6 +237,8 @@ S T A T E  O F  N E W  Y O R K
  stability of the disability and family leave insurance market and carri-
  ers; and (5) any additional factors that the superintendent of financial
  services  deems  relevant.  If  the superintendent of financial services
+ S. 2821--A  5
+ 
  delays the increase in the family leave benefit level for  one  or  more
  calendar  years,  the  family leave benefit level that shall take effect
  immediately following the delay shall be the  same  benefit  level  that
@@ -296,22 +284,22 @@ S T A T E  O F  N E W  Y O R K
  three,  shall  be one-half of the employee's average weekly wage, but in
  no case shall such benefit exceed ninety-five dollars nor be  less  than
  twenty  dollars;  except  that  if the employee's average weekly wage is
- S. 2821  6
- 
  less than twenty dollars, the benefit shall be such average weekly wage.
  The weekly benefit which the disabled employee is  entitled  to  receive
  for  disability  commencing  on  or  after  July first, nineteen hundred
- seventy  and prior to July first, nineteen hundred seventy-four shall be
- one-half of the employee's average weekly wage, but  in  no  case  shall
- such  benefit  exceed  seventy-five  dollars  nor  be  less  than twenty
- dollars; except that if the employee's average weekly wage is less  than
- twenty  dollars  the  benefit shall be such average weekly wage. For any
- period of disability less than a full week, the benefits  payable  shall
- be  calculated  by  dividing  the  weekly  benefit  by the number of the
+ seventy and prior to July first, nineteen hundred seventy-four shall  be
+ one-half  of  the  employee's  average weekly wage, but in no case shall
+ such benefit  exceed  seventy-five  dollars  nor  be  less  than  twenty
+ dollars;  except that if the employee's average weekly wage is less than
+ twenty dollars the benefit shall be such average weekly  wage.  For  any
+ period  of  disability less than a full week, the benefits payable shall
+ be calculated by dividing the  weekly  benefit  by  the  number  of  the
  employee's normal work days per week and multiplying the quotient by the
- number of normal work days in such  period  of  disability.  The  weekly
- benefit  for  a disabled employee who is concurrently eligible for bene-
- fits in the employment of more than one covered employer  shall,  within
+ S. 2821--A  6
+
+ number  of  normal  work  days  in such period of disability. The weekly
+ benefit for a disabled employee who is concurrently eligible  for  bene-
+ fits  in  the employment of more than one covered employer shall, within
  the maximum and minimum herein provided, be (I) one-half of the total of
  the  employee's  average  weekly  wages  received  from all such covered
  employers, OR (II) FOR DISABILITY COMMENCING ON OR AFTER JANUARY  FIRST,
@@ -354,8 +342,6 @@ S T A T E  O F  N E W  Y O R K
  was in employment of one or more covered employers and was paid wages of
  at  least thirteen dollars in such employment in each of twenty calendar
  weeks during the thirty calendar weeks immediately  preceding  the  date
- S. 2821  7
- 
  [he] THEY last worked for such covered employer, and who during a period
  of  unemployment  within  twenty-six  weeks  immediately  following such
  termination of employment is not eligible to benefits  under  the  unem-
@@ -367,6 +353,8 @@ S T A T E  O F  N E W  Y O R K
  FIRST,  TWO THOUSAND TWENTY-FIVE.  If such employee becomes disabled and
  continues to be disabled for at least eight consecutive days during such
  twenty-six week period and on the day such disability commences [he  is]
+ S. 2821--A  7
+ 
  THEY  ARE  not employed or working for remuneration or profit and is not
  then otherwise eligible for benefits under this article, [he] THEY shall
  be entitled to receive disability benefits, as herein  provided,  begin-
@@ -411,21 +399,21 @@ S T A T E  O F  N E W  Y O R K
  employment for a non-covered employer commenced.
   [5. The foregoing provisions of this section shall not apply to family
  leave benefits, as family leave benefits are not available to  employees
- S. 2821  8
-
  that  are  not  employed at the time family leave is requested by filing
  the notice and medical certification required by the chair.]
-  §  9.  Paragraph (b) of subdivision 4 of section 212 of the workers'
+  § 9.  Paragraph (b) of subdivision 4 of section 212  of  the  workers'
  compensation law, as added by section 13 of part SS of chapter 54 of the
  laws of 2016, is amended to read as follows:
-  (b) Notwithstanding  the  definition  of  "employer"  in  section  two
- hundred  one  of  this  article,  a sole proprietor, member of a limited
- liability company or limited liability partnership,  or  other  self-em-
- ployed  person  may  become  a covered employer under this article FOR A
+  (b)  Notwithstanding  the  definition  of  "employer"  in  section two
+ hundred one of this article, a sole  proprietor,  member  of  a  limited
+ liability  company  or  limited liability partnership, or other self-em-
+ ployed person may become a covered employer under  this  article  FOR  A
  PERIOD OF AT LEAST ONE YEAR by complying with the provisions of subdivi-
- sion one of this section. A SELF-EMPLOYED PERSON WHO BECOMES  A  COVERED
- EMPLOYER  UNDER  THIS  SECTION  SHALL BECOME ELIGIBLE FOR DISABILITY AND
- FAMILY LEAVE BENEFITS NO LATER THAN FOUR WEEKS AFTER THE PURCHASE  OF  A
+ sion  one  of this section. A SELF-EMPLOYED PERSON WHO BECOMES A COVERED
+ EMPLOYER UNDER THIS SECTION SHALL BECOME  ELIGIBLE  FOR  DISABILITY  AND
+ S. 2821--A  8
+ 
+ FAMILY  LEAVE  BENEFITS NO LATER THAN FOUR WEEKS AFTER THE PURCHASE OF A
  POLICY OF INSURANCE UNDER THIS ARTICLE.
   §  10.  Section  229  of the workers' compensation law is amended by
  adding a new subdivision 3 to read as follows:
