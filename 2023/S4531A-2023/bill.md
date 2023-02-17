@@ -1,6 +1,6 @@
 # Authorizes the department of transportation to conduct a study pertaining to traffic flow and safety of State Route 35 and State Route 202 from the Hudson River to the border of Connecticut
 
-**Bill ID:** S4531A
+**Bill ID:** S4531AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes the department of transportation to conduct a study pertaining to tra
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4531
+  4531--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT in relation to authorizing a study pertaining to traffic flow and
   safety of State Route 35 and State Route 202 from the Hudson River  to
@@ -40,20 +42,20 @@ S T A T E  O F  N E W  Y O R K
  directed to conduct a study pertaining to traffic  flow  and  safety  of
  State  Route  35 and State Route 202 from the Hudson River to the border
  of Connecticut. Such study shall include the bear mountain state parkway
- in Yorktown located in Westchester county.
-  1. The department shall study  the  current  conditions  and  data  to
- ensure  the  safe and effective traffic flow of State Route 35 and State
+ in Yorktown, the town of Cortlandt and the city of Peekskill located  in
+ Westchester county.
+  1.  The  department  shall  study  the  current conditions and data to
+ ensure the safe and effective traffic flow of State Route 35  and  State
  Route 202.
-  2. The department of transportation shall report such findings to  the
+  2.  The department of transportation shall report such findings to the
  governor and the legislature within one year after the effective date of
  this act.
-  §  2. This act shall take effect immediately and shall expire one year
- after it shall have become a law when upon such date the  provisions  of
+  § 2. This act shall take effect immediately and shall expire one  year
+ after  it  shall have become a law when upon such date the provisions of
  this act shall be deemed repealed.
- 
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01133-01-3
+  LBD01133-02-3
