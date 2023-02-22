@@ -1,6 +1,6 @@
 # Enacts the "New York city teleworking expansion act"
 
-**Bill ID:** S4580A
+**Bill ID:** S4580AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "New York city teleworking expansion act"; provides that each agency 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4580
+  4580--A
  
   2023-2024 Regular Sessions
  
@@ -28,48 +28,49 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sens. COMRIE, BAILEY, BRISPORT, CLEARE, GOUNARDES, JACK-
   SON, KRUEGER, LIU, MYRIE, RAMOS, SALAZAR, SEPULVEDA -- read twice  and
   ordered  printed, and when printed to be committed to the Committee on
-  Cities 1
- 
- AN ACT to amend the administrative code of the  city  of  New  York,  in
+  Cities 1 -- committee discharged, bill amended, ordered  reprinted  as
+  amended and recommitted to said committee
+
+ AN  ACT  to  amend  the  administrative code of the city of New York, in
   relation to enacting the "New York city teleworking expansion act"
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Short title.  This act shall be known and may be  cited  as
+  Section  1.  Short title.  This act shall be known and may be cited as
  the "New York city teleworking expansion act".
-  §  2. Legislative findings.  The legislature hereby finds and declares
- that the health and safety of the population living in  and  around  the
+  § 2. Legislative findings.  The legislature hereby finds and  declares
+ that  the  health  and safety of the population living in and around the
  densely populated New York city metropolitan region is a matter of state
  concern, as is the economic vitality and the effectiveness of mass tran-
  sit in that region, all of which are threatened by the amount of traffic
- congestion  inside  of,  and  into,  New  York city, and the overcrowded
- buses, subways and railroads within the region.  Traffic  congestion  is
- particularly  harmful  to the mass transit bus systems run by the Metro-
- politan Transportation Authority,  creating  delays  and  hindering  the
- growth  of essential surface mass transportation systems, and the entire
- mass transit system  suffers  from  severe  overcrowding.  The  negative
+ congestion inside of, and into,  New  York  city,  and  the  overcrowded
+ buses,  subways  and  railroads within the region. Traffic congestion is
+ particularly harmful to the mass transit bus systems run by  the  Metro-
+ politan  Transportation  Authority,  creating  delays  and hindering the
+ growth of essential surface mass transportation systems, and the  entire
+ mass  transit  system  suffers  from  severe  overcrowding. The negative
  impact of traffic congestion in New York city on the health, economy and
- mass  transit systems of the downstate region, as well as the overcrowd-
- ing of the region's mass transit systems, were established  at  legisla-
- tive  hearings in the spring of 2007, as well as during the hearings and
- reports of the legislatively created New York  City  Traffic  Mitigation
- Commission.  During these hearings, it was established that a very large
- number of New York city employees drive to work both from points  within
- New  York  city  and  without,  that  New  York city lacks a working and
- adequate telecommuting program for its employees, and that an  effective
- telecommuting  program  would  significantly  reduce  the number of such
+ mass transit systems of the downstate region, as well as the  overcrowd-
+ ing  of  the region's mass transit systems, were established at legisla-
+ tive hearings in the spring of 2007, as well as during the hearings  and
+ reports  of  the  legislatively created New York City Traffic Mitigation
+ Commission. During these hearings, it was established that a very  large
+ number  of New York city employees drive to work both from points within
+ New York city and without, that  New  York  city  lacks  a  working  and
+ adequate  telecommuting program for its employees, and that an effective
+ telecommuting program would significantly  reduce  the  number  of  such
+ employees  driving  to work.  Likewise, a telecommuting program for New
+ York city employees would also allow employees who use mass  transit  to
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00503-01-3
- S. 4580  2
+  LBD00503-02-3
+ S. 4580--A  2
  
- employees driving to work.  Likewise, a telecommuting  program  for  New
- York  city  employees would also allow employees who use mass transit to
- work from home, thereby alleviating  the  current  overcrowding  in  the
- region's  mass  transit  systems.  Such a program as established by this
- legislation would address the state's concern that the  health,  safety,
+ work  from  home,  thereby  alleviating  the current overcrowding in the
+ region's mass transit systems. Such a program  as  established  by  this
+ legislation  would  address the state's concern that the health, safety,
  economic vitality and mass transit operations of the downstate region be
  preserved and protected.
   §  3.  The  administrative  code of the city of New York is amended by
@@ -119,5 +120,5 @@ S T A T E  O F  N E W  Y O R K
  ENVIRONMENTAL  HEALTH CONDITIONS, OR DISABILITIES OR WITH THE REASONABLE
  APPLICATION OF EMPLOYEE EARNED LEAVE TIME INCLUDING, BUT NOT LIMITED TO,
  SICK, COMPENSATORY, PAID OR UNPAID FAMILY LEAVE, OR VACATION.
-  § 4. This act shall take effect on the ninetieth day  after  it  shall
- have become a law.
+  § 4. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
