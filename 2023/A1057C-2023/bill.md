@@ -1,6 +1,6 @@
 # Relates to online dating services
 
-**Bill ID:** A1057CA
+**Bill ID:** A1057CB
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to how online dating services handle fraudulent members; requires certai
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1057--A
+  1057--B
  
   2023-2024 Regular Sessions
  
@@ -28,54 +28,60 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by M. of A. VANEL -- read once and referred to the Committee
   on Consumer Affairs  and  Protection  --  committee  discharged,  bill
   amended,  ordered reprinted as amended and recommitted to said commit-
-  tee
- 
- AN ACT to amend the general business law, in relation to  online  dating
-  services
+  tee -- again reported from said  committee  with  amendments,  ordered
+  reprinted as amended and recommitted to said committee
 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN  ACT  to amend the general business law, in relation to online dating
+  services
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 394-c of the general business law,  as  amended  by
+  Section  1.  Section  394-c of the general business law, as amended by
  chapter 468 of the laws of 1996, is amended to read as follows:
-  §  394-c.  Limitations  on certain contracts involving social referral
- services.  1. As used in this section, the following  terms  shall  have
+  § 394-c. Limitations on certain contracts  involving  social  referral
+ services.  1.  As used in this section, the following terms shall have
  the following meanings:
-  (a)  "social  referral  service"  shall  include any service for a fee
- providing matching of members [of the opposite sex], by use of  computer
- or  any  other  means, for the purpose of dating [and] OR general social
+  (a) "social referral service" shall include  any  service  for  a  fee
+ providing  matching of members [of the opposite sex], by use of computer
+ or any other means, for the purpose of dating [and]  OR  general  social
  contact.
-  (b) "ancillary services" shall refer to goods or services directly  or
- indirectly  related  to  or to be provided in connection with the social
- referral service process, including  but  not  limited  to  photography,
- grooming,  cosmetology,  dating  etiquette,  dating counseling, or other
+  (b)  "ancillary services" shall refer to goods or services directly or
+ indirectly related to or to be provided in connection  with  the  social
+ referral  service  process,  including  but  not limited to photography,
+ grooming, cosmetology, dating etiquette,  dating  counseling,  or  other
  services.
-  (C) "ONLINE DATING SERVICE" SHALL MEAN  ANY  SOCIAL  REFERRAL  SERVICE
- WHERE  THE SERVICES ARE OFFERED PRIMARILY ONLINE, SUCH AS BY MEANS OF AN
+  (C)  "ONLINE  DATING  SERVICE"  SHALL MEAN ANY SOCIAL REFERRAL SERVICE
+ WHERE THE SERVICES ARE OFFERED PRIMARILY ONLINE, SUCH AS BY MEANS OF  AN
  INTERNET WEBSITE OR A MOBILE APPLICATION.
-  (D) "BANNED MEMBER" SHALL MEAN THE MEMBER WHOSE ACCOUNT OR PROFILE  IS
+  (D)  "BANNED MEMBER" SHALL MEAN THE MEMBER WHOSE ACCOUNT OR PROFILE IS
  THE SUBJECT OF A FRAUD BAN.
-  (E)  "FRAUD  BAN"  SHALL  MEAN  WHEN  A MEMBER'S ACCOUNT OR PROFILE IS
- BARRED FROM AN ONLINE  DATING SERVICE BECAUSE, IN THE  JUDGMENT  OF  THE
- SERVICE,  THE  MEMBER  POSES  A SIGNIFICANT RISK OF ATTEMPTING TO OBTAIN
- MONEY FROM OTHER MEMBERS THROUGH FRAUDULENT MEANS.
-
+  (E) "FRAUD BAN" SHALL MEAN WHEN  A  MEMBER'S  ACCOUNT  OR  PROFILE  IS
+ BARRED  FROM  AN ONLINE  DATING SERVICE BECAUSE, IN THE JUDGMENT OF THE
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03780-02-3
- A. 1057--A  2
+  LBD03780-04-3
+ A. 1057--B  2
  
-  (F) "NEW YORK MEMBER" SHALL MEAN A PERSON  WHO  PROVIDES  A  NEW  YORK
+ SERVICE, THE MEMBER POSES A SIGNIFICANT RISK  OF  ATTEMPTING  TO  OBTAIN
+ MONEY FROM OTHER MEMBERS THROUGH FRAUDULENT MEANS.
+  (F)  "NEW  YORK  MEMBER"  SHALL  MEAN A PERSON WHO PROVIDES A NEW YORK
  RESIDENTIAL OR BILLING ADDRESS OR ZIP CODE OR IS IN NEW YORK WHEN REGIS-
  TERING WITH THE ONLINE DATING SERVICE.
   (G) "PERSONALLY IDENTIFYING INFORMATION" SHALL MEAN ANY REPRESENTATION
- OF  INFORMATION  THAT  PERMITS THE IDENTITY OF AN INDIVIDUAL TO WHOM THE
- INFORMATION APPLIES TO BE REASONABLY INFERRED BY EITHER DIRECT OR  INDI-
- RECT  MEANS WHICH SHALL INCLUDE, BUT SHALL NOT BE LIMITED TO, A PERSON'S
- FULL NAME, HOME ADDRESS, TELEPHONE NUMBER,  GEOGRAPHIC  LOCATION,  EMAIL
- ADDRESS,  SOCIAL  SECURITY  NUMBER,  OR  A COMBINATION OF NON-PERSONALLY
- IDENTIFYING INFORMATION WHICH, WHEN PUT TOGETHER, CAN PERMIT  THE  IDEN-
- TIFICATION OF THE PERSON.
+ OF INFORMATION THAT PERMITS THE IDENTITY OF AN INDIVIDUAL  TO  WHOM  THE
+ INFORMATION  APPLIES TO BE REASONABLY INFERRED BY EITHER DIRECT OR INDI-
+ RECT MEANS WHICH SHALL INCLUDE, BUT SHALL NOT BE LIMITED TO, A  PERSON'S
+ FULL  NAME,  HOME  ADDRESS, TELEPHONE NUMBER, GEOGRAPHIC LOCATION, EMAIL
+ ADDRESS, SOCIAL SECURITY NUMBER,  OR  A  COMBINATION  OF  NON-PERSONALLY
+ IDENTIFYING  INFORMATION  WHICH, WHEN PUT TOGETHER, CAN PERMIT THE IDEN-
+ TIFICATION OF THE PERSON.  THE FIRST NAME, LAST NAME, AND  IMAGE  OF  AN
+ INDIVIDUAL,  WHERE VOLUNTARILY PROVIDED TO AN ONLINE DATING SERVICE WITH
+ THE KNOWLEDGE THAT  IT  WILL  BE  COMMUNICATED  TO  INDIVIDUALS  ON  THE
+ SERVICE'S  PLATFORM OTHER THAN THE INDIVIDUAL PROVIDING IT, SHALL NOT BE
+ CONSIDERED  PERSONALLY  IDENTIFYING  INFORMATION  WHEN  DISCLOSED  IN
+ CONNECTION WITH A FRAUD BAN.
   2.  No  contract  for social referral service shall require payment by
  the purchaser of such service of a cash price in excess of one  thousand
  dollars.  Services  to be rendered to the purchaser under the contract
@@ -114,18 +120,18 @@ S T A T E  O F  N E W  Y O R K
   5.  Every  contract for social referral service shall provide that the
  seller will not without the prior written consent of the purchaser sell,
  assign or otherwise transfer for business or for any  other  purpose  to
+ A. 1057--B  3
+ 
  any  person any information and material of a personal or private nature
  acquired from a purchaser  directly  or  indirectly  including  but  not
  limited  to  answers  to  tests and questionnaires, photographs or back-
  ground information.
-  5-a. Every contract for a social referral service shall  provide  each
- purchaser  with  the  unilateral right to place his or her membership on
- hold for a period of  up  to  one  year;  provided,  however,  that  the
- A. 1057--A  3
- 
- purchaser  and  social  referral  service may mutually agree to a longer
- period not to exceed two years.  To  exercise  the  unilateral  right
- provided  in this subdivision, a purchaser must notify the social refer-
+  5-a.  Every  contract for a social referral service shall provide each
+ purchaser with the unilateral right to place his or  her  membership  on
+ hold  for  a  period  of  up  to  one  year; provided, however, that the
+ purchaser and social referral service may mutually  agree  to  a  longer
+ period  not  to  exceed  two years.  To exercise the  unilateral right
+ provided in this subdivision, a purchaser must notify the social  refer-
  ral service provider in writing of his or her intent to do so.
   6.  Every  contract  for social referral service shall provide that at
  the expiration of the contract or at the expiration of services rendered
@@ -170,20 +176,20 @@ S T A T E  O F  N E W  Y O R K
  CANCELLATION NOTICE.  TO CANCEL THIS TRANSACTION, MAIL BY  CERTIFIED  OR
  REGISTERED  UNITED STATES MAIL A SIGNED AND DATED COPY OF THIS CANCELLA-
  TION NOTICE TO:
+ A. 1057--B  4
+ 
  (Name of Seller)  NOT LATER THAN _______________
  (Address of Seller)  (Date)
  ___________________
  
   THIS SUBDIVISION SHALL NOT APPLY TO AN ONLINE DATING SERVICE WHERE THE
- ONLINE DATING SERVICE CONTRACT INCLUDES THE STATEMENT REQUIRED  BY  THIS
+ ONLINE  DATING  SERVICE CONTRACT INCLUDES THE STATEMENT REQUIRED BY THIS
  SUBDIVISION IN A CLEAR AND CONSPICUOUS MANNER.
   (e) In every social referral service sale or renewal, the seller shall
- provide  each  purchaser  with a clear and conspicuous, separate written
- A. 1057--A  4
- 
- notice, WHICH MAY BE A CONSPICUOUS AND APPROPRIATELY  LABELED  HYPERLINK
+ provide each purchaser with a clear and  conspicuous,  separate  written
+ notice,  WHICH  MAY BE A CONSPICUOUS AND APPROPRIATELY LABELED HYPERLINK
  FOR AN ONLINE DATING SERVICE, to be known as the "Dating Service Consum-
- er  Bill of Rights", which shall contain at least the following informa-
+ er Bill of Rights", which shall contain at least the following  informa-
  tion:
   Dating Service Consumer Bill of Rights
   1.  No  social  referral service contract shall require the payment by
@@ -227,6 +233,8 @@ S T A T E  O F  N E W  Y O R K
  er moves to permanently reside at a location outside the service area of
  such provider.  This policy must be set  forth  in  every  contract  for
  social  referral  service.  THIS SUBDIVISION SHALL NOT APPLY TO ONLINE
+ A. 1057--B  5
+ 
  DATING SERVICES THAT ARE GENERALLY AVAILABLE TO USERS ON A  NATIONAL  OR
  GLOBAL BASIS.
   9. (a) Whenever there shall be a violation of this section an applica-
@@ -237,8 +245,6 @@ S T A T E  O F  N E W  Y O R K
  uance of such violation; and if it shall appear to the  satisfaction  of
  the  court  or  justice  that  the defendant has, in fact, violated this
  section, an injunction may be issued by the court or justice,  enjoining
- A. 1057--A  5
-
  and restraining any further violations, without requiring proof that any
  person  has,  in  fact,  been  injured  or  damaged thereby. In any such
  proceeding, the court may make allowances to  the  attorney  general  as
@@ -284,22 +290,22 @@ S T A T E  O F  N E W  Y O R K
   (1) CLEAR AND CONSPICUOUS;
   (2) BY E-MAIL, TEXT MESSAGE, OR OTHER APPROPRIATE  MEANS  OF  COMMUNI-
  CATION; AND
+ A. 1057--B  6
+ 
   (3)  SENT  WITHIN TWENTY-FOUR HOURS AFTER THE FRAUD BAN, OR AT A LATER
  TIME IF THE SERVICE HAS DETERMINED, BASED ON AN  ANALYSIS  OF  EFFECTIVE
  MESSAGING,  THAT  A  DIFFERENT  TIME  IS MORE EFFECTIVE, BUT IN NO EVENT
  LATER THAN THREE DAYS AFTER THE FRAUD BAN.
-  (C) AN ONLINE DATING SERVICE SHALL NOT BE LIABLE TO ANY PERSON,  OTHER
- THAN  THE  STATE  OF NEW YORK,  FOR DISCLOSING TO ANY MEMBER THAT IT HAS
- BANNED A MEMBER, THE USER NAME  OR  ACCOUNT  IDENTIFIER  OF  THE  BANNED
- MEMBER,  OR  THE REASONS FOR THE ONLINE DATING SERVICE'S DECISION TO BAN
- SUCH MEMBER IN ACCORDANCE WITH THIS SUBDIVISION  WHERE  SUCH  DISCLOSURE
- DOES  NOT  CONTAIN THE PERSONALLY IDENTIFYING INFORMATION OF THE PERSON.
- AN ONLINE DATING SERVICE ALSO SHALL NOT BE LIABLE TO ANY  PERSON,  OTHER
- A. 1057--A  6
- 
+  (C)  AN ONLINE DATING SERVICE SHALL NOT BE LIABLE TO ANY PERSON, OTHER
+ THAN THE STATE OF NEW YORK,  FOR DISCLOSING TO ANY MEMBER  THAT  IT  HAS
+ BANNED  A  MEMBER,  THE  USER  NAME  OR ACCOUNT IDENTIFIER OF THE BANNED
+ MEMBER, OR THE REASONS FOR THE ONLINE DATING SERVICE'S DECISION  TO  BAN
+ SUCH  MEMBER  IN  ACCORDANCE WITH THIS SUBDIVISION WHERE SUCH DISCLOSURE
+ DOES NOT CONTAIN THE PERSONALLY IDENTIFYING INFORMATION OF  THE  PERSON.
+ AN  ONLINE  DATING SERVICE ALSO SHALL NOT BE LIABLE TO ANY PERSON, OTHER
  THAN THE STATE OF NEW YORK, FOR THE DECISIONS REGARDING WHETHER TO BAN A
  MEMBER, OR HOW OR WHEN TO NOTIFY A MEMBER PURSUANT TO THIS SUBDIVISION.
   (D) THIS SECTION DOES NOT DIMINISH OR ADVERSELY AFFECT THE PROTECTIONS
  FOR ONLINE DATING SERVICES THAT ARE AFFORDED IN 47 USC 230.
-  §  2.  This  act  shall take effect on the sixtieth day after it shall
+  § 2. This act shall take effect on the sixtieth  day  after  it  shall
  have become a law.
