@@ -1,6 +1,6 @@
 # Directs a study on the feasibility of adjusting the compulsory attendance age of minors attending full time instruction
 
-**Bill ID:** A3819A
+**Bill ID:** A3819AA
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Directs a study on the feasibility of adjusting the compulsory attendance age of
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3819
+  3819--A
  
   2023-2024 Regular Sessions
  
@@ -26,38 +26,38 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. FAHY -- read once and referred to the Committee
-  on Education
+  on Education -- committee discharged, bill amended, ordered  reprinted
+  as amended and recommitted to said committee
  
- AN ACT to amend the education law, in relation to directing a  study  on
-  the  feasibility  of adjusting the compulsory attendance age of minors
-  attending full time instruction
+ AN  ACT directing a study on the feasibility of adjusting the compulsory
+  attendance age of minors attending full time instruction; and  provid-
+  ing for the repeal of such provisions upon the expiration thereof
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 305 of the education law is amended by adding a new
- subdivision 60 to read as follows:
-  60. ON OR BEFORE JULY FIRST, TWO THOUSAND TWENTY-FOUR, THE COMMISSION-
- ER  SHALL CONDUCT A STUDY ON THE FEASIBILITY OF ADJUSTING THE COMPULSORY
- ATTENDANCE AGE FOR WHEN MINORS SHALL ATTEND FULL  TIME  INSTRUCTION  AND
- DELIVER A REPORT OF THE FINDINGS AND RECOMMENDATIONS BASED ON SUCH FIND-
- INGS  TO  THE  GOVERNOR,  THE TEMPORARY PRESIDENT OF THE SENATE, AND THE
- SPEAKER OF THE ASSEMBLY. THE COMMISSIONER SHALL CONSULT WITH  EDUCATORS,
- PARENTS,  AND OTHER STAKEHOLDERS TO CONDUCT A STUDY WHICH SHALL INCLUDE,
- BUT NOT BE LIMITED TO:
-  (A) THE SOCIAL, EMOTIONAL,  AND  EDUCATIONAL  APPROPRIATENESS  OF  THE
- STATE'S COMPULSORY ATTENDANCE AGE FOR WHEN MINORS SHALL ATTEND FULL TIME
- INSTRUCTION;
-  (B)  THE  APPROPRIATENESS  AND  FEASIBILITY  OF  ADJUSTING  THE AGE OF
- REQUIRED ATTENDANCE TO START SCHOOL IN NEW  YORK  STATE  TO  MINORS  WHO
- BECOME  FIVE  YEARS  OF  AGE  AFTER THE FIRST OF SEPTEMBER IN ANY SCHOOL
- YEAR; AND
-  (C) THE EDUCATIONAL PROGRAMS AND  SERVICES  AVAILABLE  TO  MINORS  WHO
- WOULD OTHERWISE BE ENROLLED IN PREKINDERGARTEN PURSUANT TO AN ADJUSTMENT
- IN THE STATE'S COMPULSORY ATTENDANCE AGE.
-  § 2. This act shall take effect immediately.
+  Section 1. The commissioner of education shall conduct a study on  the
+ feasibility  of  adjusting the compulsory attendance age for when minors
+ shall attend full time instruction and deliver a report of the  findings
+ and  recommendations  based on such findings to the governor, the tempo-
+ rary president of the senate, and the speaker  of  the  assembly  on  or
+ before July first, two thousand twenty-five.  The commissioner of educa-
+ tion  shall  consult  with educators, parents, and other stakeholders to
+ conduct a study which shall include, but not be limited to:
+  (a) the social, emotional,  and  educational  appropriateness  of  the
+ state's compulsory attendance age for when minors shall attend full time
+ instruction;
+  (b)  the  appropriateness  and  feasibility  of  adjusting  the age of
+ required attendance to start school in New  York  state  to  minors  who
+ become  five  years  of  age  after the first of September in any school
+ year; and
+  (c) the educational programs and  services  available  to  minors  who
+ would otherwise be enrolled in prekindergarten pursuant to an adjustment
+ in the state's compulsory attendance age.
+  §  2.  This  act shall take effect immediately and shall expire and be
+ deemed repealed December 31, 2025.
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04388-01-3
+  LBD04388-02-3
