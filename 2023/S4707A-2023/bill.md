@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the "Firefighter Peyton L. S. Morse Memorial Highway"
 
-**Bill ID:** S4707A
+**Bill ID:** S4707AA
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of the state highway system as the "Firefighter Peyton L. S
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4707
+  4707--A
  
   2023-2024 Regular Sessions
  
@@ -26,31 +26,31 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. WALCZYK -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Firefighter Peyton L. S. Morse  Memo-
-  rial Bridge"
-
+  rial Highway"
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 344-o to
  read as follows:
   § 344-O. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
- "FIREFIGHTER  PEYTON  L.  S. MORSE MEMORIAL BRIDGE". ALL THAT PORTION OF
- THE STATE HIGHWAY SYSTEM CONSTITUTING THE  BRIDGE  ON  STATE  ROUTE  ONE
- HUNDRED  EIGHTY,  DESIGNATED  BRIDGE  NUMBER  1039500, WHICH CROSSES THE
- CHAUMOUNT RIVER IN THE TOWN OF ORLEANS, COUNTY OF  JEFFERSON,  FROM  THE
- TOWN  OF  ORLEANS  LIBRARY  TO  THE LA FARGEVILLE CENTRAL SCHOOL CAMPUS,
- SHALL BE DESIGNATED AND KNOWN AS THE "FIREFIGHTER  PEYTON  L.  S.  MORSE
- MEMORIAL BRIDGE".
+ "FIREFIGHTER  PEYTON L. S. MORSE MEMORIAL HIGHWAY".  ALL THAT PORTION OF
+ THE STATE HIGHWAY SYSTEM CONSTITUTING STATE  ROUTE  ONE  HUNDRED  EIGHTY
+ WITHIN  THE  HAMLET  OF LA FARGEVILLE, IN THE TOWN OF ORLEANS, COUNTY OF
+ JEFFERSON, SHALL BE DESIGNATED AND KNOWN AS THE "FIREFIGHTER  PEYTON  L.
+ S. MORSE MEMORIAL HIGHWAY".
   §  2. The commissioner of transportation shall provide for the instal-
  lation and maintenance of adequate signing of the state  highway  system
  as  designated  pursuant  to  section one of this act. However, to avoid
  confusion and to limit any possible disruption of commerce,  the  desig-
  nation  called  for  pursuant to section one of this act shall be one of
- ceremonial nature and the official name of  such  bridge  shall  not  be
+ ceremonial nature and the official name of such  highway  shall  not  be
  changed as a result of this act.
   § 3. This act shall take effect immediately.
  
@@ -58,4 +58,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09337-01-3
+  LBD09337-02-3
