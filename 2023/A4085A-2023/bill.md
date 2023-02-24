@@ -1,6 +1,6 @@
 # Includes exposing a first responder or correction officer to fentanyl, a fentanyl derivative or an opiate containing fentanyl or fentanyl derivative in the definition of the offense of assault in the first degree
 
-**Bill ID:** A4085A
+**Bill ID:** A4085AA
 **Session:** 2023
 **Sponsor:** Michael Durso
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Includes exposing a first responder or correction officer to fentanyl, a fentany
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4085
+  4085--A
  
   2023-2024 Regular Sessions
  
@@ -25,14 +25,18 @@ S T A T E  O F  N E W  Y O R K
   February 9, 2023
   ___________
  
- Introduced  by M. of A. DURSO -- read once and referred to the Committee
-  on Codes
+ Introduced  by  M.  of  A. DURSO, E. BROWN, BENDETT, GALLAHAN, K. BROWN,
+  McDONOUGH, SLATER, CURRAN, DeSTEFANO, FLOOD, MCGOWAN,  BYRNES,  BRABE-
+  NEC,  REILLY, TAGUE, JENSEN, DiPIETRO, BEEPHAN, NOVAKHOV, GRAY -- read
+  once and referred to the Committee on Codes --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
  
  AN ACT to amend the penal law, in relation to including exposing a first
-  responder to fentanyl,  fentanyl  derivatives  or  opiates  containing
-  fentanyl  or  fentanyl derivatives in the definition of the offense of
-  assault in the first degree
-
+  responder or correction officer to fentanyl, fentanyl  derivatives  or
+  opiates  containing fentanyl or fentanyl derivatives in the definition
+  of the offense of assault in the first degree
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -54,21 +58,22 @@ S T A T E  O F  N E W  Y O R K
  another person; or
   4. In the course of and in furtherance of the commission or  attempted
  commission  of  a felony or of immediate flight therefrom, he OR SHE, or
- another participant if there be any, causes serious physical injury to a
- person other than one of the participants; OR
-  5. WITH INTENT TO CAUSE SERIOUS PHYSICAL INJURY TO A  FIRST  RESPONDER
- AS DEFINED IN SECTION THREE THOUSAND ONE OF THE PUBLIC HEALTH LAW, HE OR
- SHE  CAUSES  SUCH  INJURY TO SUCH FIRST RESPONDER BY EXPOSING SUCH FIRST
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08606-01-3
- A. 4085  2
+  LBD08606-02-3
+ A. 4085--A  2
  
- RESPONDER TO FENTANYL, A FENTANYL DERIVATIVE  OR  AN  OPIATE  CONTAINING
+ another participant if there be any, causes serious physical injury to a
+ person other than one of the participants; OR
+  5.  WITH  INTENT TO CAUSE SERIOUS PHYSICAL INJURY TO A FIRST RESPONDER
+ AS DEFINED IN SECTION THREE THOUSAND ONE OF THE PUBLIC HEALTH LAW, OR  A
+ CORRECTION OFFICER, HE OR SHE CAUSES SUCH INJURY TO SUCH FIRST RESPONDER
+ OR  CORRECTION  OFFICER  BY  EXPOSING SUCH FIRST RESPONDER OR CORRECTION
+ OFFICER TO FENTANYL, A  FENTANYL  DERIVATIVE  OR  AN  OPIATE  CONTAINING
  FENTANYL  OR  A  FENTANYL  DERIVATIVE  BY  ANY MEANS, INCLUDING, BUT NOT
- LIMITED TO, THROWING OR TOSSING AT OR  INJECTING  SUCH  FIRST  RESPONDER
- WITH ANY SUCH SUBSTANCE.
+ LIMITED TO, THROWING OR TOSSING AT OR INJECTING SUCH FIRST RESPONDER  OR
+ CORRECTION OFFICER WITH ANY SUCH SUBSTANCE.
   Assault in the first degree is a class B felony.
   § 2. This act shall take effect on the first of November next succeed-
  ing  the  date  upon which it shall have become a law and shall apply to
