@@ -1,6 +1,6 @@
 # Provides that a voter may register to vote at any residence to which the voter maintains a continuous connection with an intent to remain
 
-**Bill ID:** S2349A
+**Bill ID:** S2349AA
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that a voter may register to vote at any residence to which the voter m
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2349
+  2349--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens.  MYRIE, LIU -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Elections
+  when printed to be committed to the Committee on Elections --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
- AN ACT to amend the election law, in relation to the  providing  that  a
-  voter  may  register to vote at any residence to which the voter main-
-  tains a continuous connection with an intent to return
-
+ AN ACT to amend the election law, in relation to providing that a  voter
+  may  register  to vote at any residence to which the voter maintains a
+  continuous connection with an intent to remain
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -39,23 +41,23 @@ S T A T E  O F  N E W  Y O R K
  new subdivision 3 to read as follows:
   3. NOTHING IN THIS SECTION SHALL PREVENT A VOTER FROM  REGISTERING  TO
  VOTE  FROM  ANY  RESIDENCE  TO  WHICH  THE  VOTER MAINTAINS A CONTINUOUS
- CONNECTION WITH AN INTENT TO RETURN,  INCLUDING  A  SECOND  OR  VACATION
- HOME.
-  §  2.  The  opening paragraph of subdivision 1 of section 8-400 of the
- election law, as amended by chapter 63 of the laws of 2010,  is  amended
+ CONNECTION WITH AN INTENT TO REMAIN, INCLUDING A SECOND OR VACATION HOME
+ OR HOME WHERE A STUDENT LIVES WHILE ATTENDING A COLLEGE OR UNIVERSITY.
+  § 2. The opening paragraph of subdivision 1 of section  8-400  of  the
+ election  law,  as amended by chapter 63 of the laws of 2010, is amended
  to read as follows:
-  A  qualified  voter  may  vote as an absentee voter under this chapter
+  A qualified voter may vote as an absentee  voter  under  this  chapter
  FROM A RESIDENCE AT WHICH THE VOTER IS REGISTERED TO VOTE, INCLUDING ANY
- RESIDENCE TO WHICH THE VOTER MAINTAINS A CONTINUOUS CONNECTION  WITH  AN
- INTENT  TO  RETURN  SUCH AS A SECOND OR VACATION HOME, if, on the occur-
- rence of any village election  conducted  by  the  board  of  elections,
- primary  election,  special  election, general election or New York city
- community school board district  or  city  of  Buffalo  school  district
+ RESIDENCE  TO  WHICH THE VOTER MAINTAINS A CONTINUOUS CONNECTION WITH AN
+ INTENT TO REMAIN SUCH AS A SECOND OR  VACATION  HOME  OR  HOME  WHERE  A
+ STUDENT LIVES WHILE ATTENDING A COLLEGE OR UNIVERSITY, if, on the occur-
+ rence  of  any  village  election  conducted  by the board of elections,
+ primary election, special election, general election or  New  York  city
+ community  school  board  district  or  city  of Buffalo school district
  election, he or she expects to be:
   § 3. This act shall take effect immediately.
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01414-02-3
+  LBD01414-03-3
