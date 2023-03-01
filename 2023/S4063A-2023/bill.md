@@ -1,6 +1,6 @@
 # Prohibits publishers from limiting the number of copies of e-books available at public libraries
 
-**Bill ID:** S4063A
+**Bill ID:** S4063AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Prohibits publishers from limiting the number of copies of e-books available at 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4063
+  4063--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens. MANNION, THOMAS -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Libraries
+  and when printed to be committed to  the  Committee  on  Libraries  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general business law,  in  relation  to  prohibiting
   publishers  from limiting the number of copies of e-books available at
   public libraries
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -41,12 +43,12 @@ S T A T E  O F  N E W  Y O R K
  TERMS SHALL HAVE THE FOLLOWING MEANINGS:
   A. "E-BOOK" SHALL MEAN A BOOK PUBLISHED IN  OR  CONVERTED  TO  DIGITAL
  FORMAT FOR DISPLAY ON A COMPUTER SCREEN OR HANDHELD ELECTRONIC DEVICE.
-  B. "PUBLIC LIBRARY" SHALL MEAN A LIBRARY, OTHER THAN A PROFESSIONAL OR
- TECHNICAL  LIBRARY,  ESTABLISHED  FOR  FREE  PUBLIC PURPOSES BY OFFICIAL
- ACTION OF A MUNICIPALITY OR DISTRICT OR THE LEGISLATURE, WHERE THE WHOLE
- INTERESTS BELONG TO THE PUBLIC, OR ANY OTHER LIBRARY MAINTAINED FOR  THE
- BENEFIT  AND  FREE USE ON EQUAL TERMS OF ALL THE PEOPLE OF THE COMMUNITY
- IN WHICH SUCH LIBRARY IS LOCATED.
+  B.  "PUBLIC  LIBRARY" SHALL MEAN A LIBRARY, OTHER THAN A PROFESSIONAL,
+ TECHNICAL OR PUBLIC SCHOOL LIBRARY, ESTABLISHED FOR FREE PUBLIC PURPOSES
+ BY OFFICIAL ACTION OF A MUNICIPALITY OR  DISTRICT  OR  THE  LEGISLATURE,
+ WHERE  THE  WHOLE  INTERESTS  BELONG TO THE PUBLIC, OR ANY OTHER LIBRARY
+ MAINTAINED FOR THE BENEFIT AND FREE USE ON EQUAL TERMS OF ALL THE PEOPLE
+ OF THE COMMUNITY IN WHICH SUCH LIBRARY IS LOCATED.
   2. NO PERSON, PARTNERSHIP, LIMITED PARTNERSHIP, UNINCORPORATED  JOINT-
  STOCK ASSOCIATION, OR CORPORATION PUBLISHING A BOOK FOR SALE IN NEW YORK
  STATE  IN AN E-BOOK FORMAT SHALL, IN ANY WAY, LIMIT THE NUMBER OF COPIES
@@ -58,4 +60,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07788-01-3
+  LBD07788-02-3
