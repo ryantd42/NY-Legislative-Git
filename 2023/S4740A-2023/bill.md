@@ -1,6 +1,6 @@
 # Relates to expanding the crime of public lewdness
 
-**Bill ID:** S4740A
+**Bill ID:** S4740AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Adds to the crime of public lewdness the electronic transmission of an image dep
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4740
+  4740--A
  
   2023-2024 Regular Sessions
  
@@ -26,51 +26,38 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Codes
+  printed to be  committed  to  the  Committee  on  Codes  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the penal law, in relation to establishing  the  offense
-  of unsolicited disclosure of an intimate image
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN  ACT to amend the penal law, in relation to the crime of public lewd-
+  ness
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The penal law is amended by adding a new section 245.12  to
- read as follows:
- § 245.12 UNSOLICITED DISCLOSURE OF AN INTIMATE IMAGE.
-  1.  A  PERSON IS GUILTY OF UNSOLICITED DISCLOSURE OF AN INTIMATE IMAGE
- WHEN, WITH INTENT TO HARASS, ANNOY OR ALARM  ANOTHER  PERSON  AND  WHICH
- SERVES  NO  LEGITIMATE  PURPOSE, HE OR SHE SENDS BY ELECTRONIC DEVICE AN
- UNSOLICITED INTIMATE IMAGE TO SUCH OTHER PERSON.
-  2. FOR PURPOSES OF THIS SECTION: A. "INTIMATE BODY  PARTS"  MEANS  THE
- GENITALS, PUBIC AREA OR ANUS OF ANY PERSON;
-  B.  "INTIMATE IMAGE" MEANS A PHOTOGRAPH, FILM, VIDEOTAPE, RECORDING OR
- ANY OTHER REPRODUCTION OF AN  IMAGE  OF  AN  INDIVIDUAL  WITH  FULLY  OR
- PARTIALLY EXPOSED INTIMATE BODY PARTS OR ENGAGED IN SEXUAL ACTIVITY;
-  C.  "SEND  BY  ELECTRONIC DEVICE" MEANS TO SEND USING A CELLULAR TELE-
- PHONE OR ANY OTHER ELECTRONIC COMMUNICATION  DEVICE,  INCLUDING  DEVICES
- CAPABLE OF SENDING TEXT MESSAGES OR E-MAILS;
-  D. "SEXUAL ACTIVITY" MEANS "SEXUAL INTERCOURSE" AS DEFINED IN SUBDIVI-
- SION  ONE  OF  SECTION  130.00 OF THIS CHAPTER, "ORAL SEXUAL CONDUCT" OR
- "ANAL SEXUAL CONDUCT" AS DEFINED IN SUBDIVISION TWO OF SECTION 130.00 OF
- THIS CHAPTER, TOUCHING OF THE INTIMATE BODY PARTS OF A  PERSON  FOR  THE
- PURPOSE OF GRATIFYING SEXUAL DESIRE, SEXUAL PENETRATION WITH ANY OBJECT,
- OR THE TRANSMISSION OR APPEARANCE OF SEMEN UPON ANY PART OF THE DEPICTED
- INDIVIDUAL'S BODY.
-  UNSOLICITED DISCLOSURE OF AN INTIMATE IMAGE IS A VIOLATION.
-  § 2. The penal law is amended by adding a new section 60.38 to read as
- follows:
+  Section  1. Section 245.00 of the penal law, as amended by chapter 748
+ of the laws of 1968 and the opening paragraph as amended by chapter  373
+ of the laws of 2015, is amended to read as follows:
+ § 245.00 Public lewdness.
+  A  person  is  guilty  of public lewdness when [he or she] THEY inten-
+ tionally [exposes]:
+  1. EXPOSE the private or intimate parts of [his or her] THEIR body  in
+ a  lewd  manner  or [commits] COMMIT any other lewd act: (a) in a public
+ place, or (b) (i) in private premises under circumstances in  which  [he
+ or  she] THEY may readily be observed from either a public place or from
+ other private premises, and with intent that [he  or  she]  THEY  be  so
+ observed,  or  (ii)  while  trespassing, as defined in section 140.05 of
+ this part, in a dwelling, as defined in  subdivision  three  of  section
+ 140.00  of  this  part, under circumstances in which [he or she is] THEY
+ ARE observed by a lawful occupant[.]; OR
+  2. ELECTRONICALLY TRANSMIT TO ONE OR  MORE  PERSONS  IN  OR  AROUND  A
+ PUBLIC PLACE AN IMAGE DEPICTING EXPOSED PRIVATE OR INTIMATE PARTS, WITH-
+ OUT THE CONSENT OF SUCH PERSON OR PERSONS.
+  Public lewdness is a class B misdemeanor.
+  §  2.  This  act shall take effect on the ninetieth day after it shall
+ have become a law.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02077-01-3
- S. 4740  2
- 
- § 60.38 AUTHORIZED  DISPOSITION;  UNSOLICITED  DISCLOSURE OF AN INTIMATE
-  IMAGE.
-  WHEN  A PERSON IS CONVICTED OF AN OFFENSE DEFINED IN SECTION 245.12 OF
- THIS CHAPTER, OR OF AN ATTEMPT TO COMMIT SUCH OFFENSE, THE COURT  SHALL,
- WHERE  APPROPRIATE,  INCLUDE AS A CONDITION OF SUCH SENTENCE THE DEFEND-
- ANT'S SUCCESSFUL COMPLETION OF A SEXUAL HARASSMENT  PREVENTION  TRAINING
- PROGRAM APPROVED BY THE DIVISION OF HUMAN RIGHTS.
-  §  3.  This  act shall take effect on the ninetieth day after it shall
- have become a law.
+  LBD02077-03-3
