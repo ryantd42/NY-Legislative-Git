@@ -1,0 +1,53 @@
+# Authorizes the carrying of firearms by military personnel at recruiting centers
+
+**Bill ID:** A5102
+**Session:** 2023
+**Sponsor:** David DiPietro
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes the carrying of service-issued firearms by military personnel at recruiting centers while on duty.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  5102
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  March 2, 2023
+  ___________
+ 
+ Introduced by M. of A. DiPIETRO -- read once and referred to the Commit-
+  tee on Governmental Operations
+ 
+ AN  ACT to amend the military law, in relation to authorizing the carry-
+  ing of firearms by military personnel at recruiting centers
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The military law is amended by adding a new section 53 to
+ read as follows:
+  § 53. CARRYING OF FIREARMS AT RECRUITING CENTERS. NOTWITHSTANDING  ANY
+ OTHER PROVISION OF LAW, RULE OR REGULATION TO THE CONTRARY, THE ADJUTANT
+ GENERAL  SHALL  AUTHORIZE  MEMBERS OF ANY FORCE OF THE ORGANIZED MILITIA
+ ASSIGNED TO DUTY AT RECRUITING CENTERS LOCATED IN  THE  STATE  TO  CARRY
+ SERVICE-ISSUE FIREARMS WHILE ON DUTY AT A RECRUITING CENTER.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00078-01-3
