@@ -1,6 +1,6 @@
 # Relates to temporary orders of protection
 
-**Bill ID:** S2861A
+**Bill ID:** S2861AA
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that the county probation department may apply for a temporary order of
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2861
+  2861--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. MARTINEZ -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Children and Families
+  printed to be committed to the Committee on Children and  Families  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the family court act, in relation to temporary orders of
   protection
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1. Section 304.2 of the family court act, as added by chapter
  683 of the laws of 1984, is amended to read as follows:
   § 304.2. Temporary order of protection. (1) Upon  application  by  the
@@ -43,17 +45,17 @@ S T A T E  O F  N E W  Y O R K
  305.1 or 305.2 or upon the issuance of an appearance ticket pursuant  to
  section 307.1 or upon the filing of a petition pursuant to section 310.1
  OR  UPON APPLICATION OF THE COUNTY PROBATION DEPARTMENT AS A PART OF THE
- ADJUSTMENT PROCESS PURSUANT TO CFR 204.31.
-  (2) A temporary order of protection may contain any of the  provisions
+ ADJUSTMENT PROCESS PURSUANT TO CFR 204.31  AND  SECTION  205.31  OF  THE
+ UNIFORM RULES FOR THE FAMILY COURT.
+  (2)  A temporary order of protection may contain any of the provisions
  authorized on the making of an order of protection under section 352.3.
   (3) A temporary order of protection is not a finding of wrongdoing.
-  (4)  A  temporary  order  of  protection may remain in effect until an
+  (4) A temporary order of protection may  remain  in  effect  until  an
  order of disposition is entered.
   § 2. This act shall take effect immediately.
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06389-01-3
+  LBD06389-03-3
