@@ -1,6 +1,6 @@
 # Enhances the scope of health equity impact assessments to require consideration of reproductive health services and maternal health care
 
-**Bill ID:** A3113A
+**Bill ID:** A3113AA
 **Session:** 2023
 **Sponsor:** Sarah Clark
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Enhances the scope of health equity impact assessments to require consideration 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3113
+  3113--A
  
   2023-2024 Regular Sessions
  
@@ -26,25 +26,26 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  CLARK, FAHY -- read once and referred to the
-  Committee on Health
+  Committee on Health -- committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the public health law,  in  relation  to  enhancing  the
-  scope  of health equity impact assessments to require consideration of
+ AN  ACT  to  amend  the  public health law, in relation to enhancing the
+  scope of health equity impact assessments to require consideration  of
   reproductive health services and maternal health care
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision 3 of section 2802-b of the public health law,
- as amended by chapter 137 of the laws of 2022, is amended  by  adding  a
+  Section 1. Subdivision 3 of section 2802-b of the public  health  law,
+ as  amended  by  chapter 137 of the laws of 2022, is amended by adding a
  new paragraph (j) to read as follows:
   (J) THE EXTENT TO WHICH THE AVAILABILITY AND PROVISION OF REPRODUCTIVE
  HEALTH SERVICES AND MATERNAL HEALTH CARE IN THE APPLICANT'S SERVICE AREA
- WILL  BE AFFECTED IF THE PROJECT IS IMPLEMENTED. APPLICANTS SHALL DEMON-
- STRATE HOW THE PROJECT  WILL  MEET  THE  OBLIGATION  OF  PROVIDING  SUCH
- SERVICES, PURSUANT TO SECTION TWENTY-FIVE HUNDRED NINETY-NINE-AA OF THIS
- CHAPTER.
-  §  2.  This  act  shall  take  effect on the same date and in the same
+ WILL BE AFFECTED IF THE PROJECT IS IMPLEMENTED. APPLICANTS SHALL  DEMON-
+ STRATE HOW THE PROJECT WILL IMPACT THE DELIVERY OF STATUTORILY PROTECTED
+ REPRODUCTIVE  HEALTH CARE, PURSUANT TO SECTION TWENTY-FIVE HUNDRED NINE-
+ TY-NINE-AA OF THIS CHAPTER, AND MATERNITY SERVICES.
+  § 2. This act shall take effect on the  same  date  and  in  the  same
  manner as chapter 137 of the laws of 2022, takes effect.
  
  
@@ -53,4 +54,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07126-02-3
+  LBD07126-04-3
