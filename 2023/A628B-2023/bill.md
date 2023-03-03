@@ -1,6 +1,6 @@
 # Establishes Diwali as a school holiday in public schools in the city of New York
 
-**Bill ID:** A628B
+**Bill ID:** A628BA
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes Diwali as a school holiday in public schools in the city of New York
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  628
+  628--A
  
   2023-2024 Regular Sessions
  
@@ -25,60 +25,57 @@ S T A T E  O F  N E W  Y O R K
   January 10, 2023
   ___________
  
- Introduced by M. of A. RAJKUMAR -- read once and referred to the Commit-
-  tee on Education
+ Introduced  by  M. of A. RAJKUMAR, RAGA, ROZIC, TAYLOR, TAPIA, LEE, KIM,
+  BICHOTTE HERMELYN, SEAWRIGHT, BRAUNSTEIN, GONZALEZ-ROJAS,  CUNNINGHAM,
+  BURGOS,  CRUZ, SHRESTHA, LAVINE, PHEFFER AMATO, BORES, AUBRY, ALVAREZ,
+  GALLAGHER,  DILAN,  SANTABARBARA,  ANDERSON,  D. ROSENTHAL,  SEPTIMO,
+  JOYNER,  HYNDMAN, LUCAS, SAYEGH, WEPRIN, KELLES, GLICK, BEEPHAN, FALL,
+  GIBBS, DE LOS SANTOS, REYES, HEVESI, EPSTEIN, CARROLL -- read once and
+  referred to the Committee on Education -- committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN  ACT  to amend the education law, in relation to certain school holi-
+ AN ACT to amend the education law, in relation to certain  school  holi-
   days; and to repeal certain provisions of such law relating thereto
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Legislative intent. The legislature hereby finds that the
- festival of Diwali is celebrated by a growing number of Hindu, Buddhist,
- Jain and Sikh residents, including Native New Yorkers and  residents  of
- the  city  of  New  York hailing from several countries including India,
- Bangladesh, Pakistan, Nepal, Myanmar, Bhutan, Guyana, Trinidad and Toba-
- go and Sri Lanka. In recognition of the importance of this  festival  to
- these  residents,  it  is  the legislature's intent that this act allows
- Diwali to be designated as a school holiday in the city school  district
- of the city of New York while continuing to allow the district to ensure
- that schools are in session for 180 days.
-  § 2. Section 2586 of the education law is REPEALED.
-  §  3. Subdivision 2-a of section 3635 of the education law, as amended
+  Section 1. Section 2586 of the education law is REPEALED.
+  § 2. Subdivision 2-a of section 3635 of the education law, as  amended
  by chapter 424 of the laws of 2005, is amended to read as follows:
   2-a. The superintendent of each city school district, in a city having
- a population in excess of one million, shall  prepare  a  public  school
+ a  population  in  excess  of one million, shall prepare a public school
  calendar and shall notify officials of nonpublic schools to which trans-
- portation  has  been  requested  not later than the first day of June in
+ portation has been requested not later than the first  day  of  June  in
  each year, of the days on which the public schools will be in session in
  the following school year. Such school district which provides transpor-
- tation to nonpublic schools shall provide such  transportation  for  the
+ tation  to  nonpublic  schools shall provide such transportation for the
  same number of days as the public schools are open but shall not provide
- transportation  services  for  more than one hundred eighty days.  Offi-
- cials of each nonpublic school to which transportation is provided by  a
- city  school  district  of  a  city having a population in excess of one
- million may notify such district, not later than the first day  of  July
+ transportation services for more than one hundred eighty  days.  Offi-
+ cials  of each nonpublic school to which transportation is provided by a
+ city school district of a city having a  population  in  excess  of  one
+ million  may  notify such district, not later than the first day of July
+ of each school year, of a maximum of five days, exclusive of  Saturdays,
+ Sundays  or  legal holidays upon which public schools are required to be
+ closed, on which the public schools are scheduled to be  closed,  except
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02941-01-3
- A. 628  2
+  LBD02941-02-3
+ A. 628--A  2
  
- of  each school year, of a maximum of five days, exclusive of Saturdays,
- Sundays or legal holidays upon which public schools are required  to  be
- closed,  on  which the public schools are scheduled to be closed, except
  that  in  any year in which the first or last day of Passover and Easter
  Sunday are separated by more than seven days, such officials may  notify
  the  district of a maximum of ten days, but such school district will be
  required to provide for transportation to such nonpublic school provided
- that such five or ten additional  days,  whichever  is  applicable,  are
- limited  to  the  following: the Tuesday, Wednesday, Thursday and Friday
- after Labor Day, Rosh Hashanah, Yom Kippur, the  week  in  which  public
- schools  are  closed  for  spring recess, December twenty-fourth and the
- week between Christmas day and New Year's day, AND the Tuesday,  Wednes-
+ that  such  five  or  ten  additional days, whichever is applicable, are
+ limited to the following: the Tuesday, Wednesday,  Thursday  and  Friday
+ after  Labor  Day,  Rosh  Hashanah, Yom Kippur, the week in which public
+ schools are closed for spring recess,  December  twenty-fourth  and  the
+ week  between Christmas day and New Year's day, AND the Tuesday, Wednes-
  day, Thursday and Friday after the observance of Washington's birthday[,
- and,  in  the  boroughs  of Brooklyn and Queens only, Anniversary Day as
+ and, in the boroughs of Brooklyn and Queens  only,  Anniversary  Day  as
  designated in section twenty-five hundred eighty-six of this chapter].
-  § 4. This act shall take effect on the first of July  next  succeeding
+  §  3.  This act shall take effect on the first of July next succeeding
  the date on which it shall have become a law.
