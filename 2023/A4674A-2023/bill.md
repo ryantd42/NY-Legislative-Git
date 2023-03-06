@@ -1,6 +1,6 @@
 # Relates to the extension of the taxable status day in certain assessing units
 
-**Bill ID:** A4674A
+**Bill ID:** A4674AA
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Provides that the governing body of an assessing unit with a population greater 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4674
+  4674--A
  
   2023-2024 Regular Sessions
  
@@ -26,23 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. FAHY -- read once and referred to the Committee
-  on Real Property Taxation
+  on Real Property  Taxation  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN ACT relating to the extension of the taxable status  day  in  certain
-  assessing  units; and providing for the repeal of such provisions upon
+ AN  ACT  relating  to the extension of the taxable status day in certain
+  assessing units; and providing for the repeal of such provisions  upon
   the expiration thereof
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The governing body of an assessing unit with a population
- greater than ninety-seven thousand and less than one  hundred  thousand,
- based  upon  and  recorded by the two thousand twenty federal census, is
- authorized to enact a local law or resolution, authorizing the  assessor
- of  such  assessing unit to extend the taxable status date applicable to
- such assessing unit by no more than sixty days.
-  § 2. This act shall take effect immediately and shall  expire  and  be
- deemed repealed sixty days after such effective date.
+  Section 1. The governing body of an assessing unit with  a  population
+ greater  than  ninety-seven thousand and less than one hundred thousand,
+ based upon and recorded by the two thousand twenty  federal  census,  is
+ authorized  to enact a local law or resolution, authorizing the assessor
+ of such assessing unit to extend the taxable status date  applicable  to
+ such assessing unit by no more than ninety days.
+  §  2.  This  act shall take effect immediately and shall expire and be
+ deemed repealed ninety days after such effective date.
  
  
  
@@ -51,4 +52,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09809-01-3
+  LBD09809-04-3
