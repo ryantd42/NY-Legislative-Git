@@ -1,6 +1,6 @@
 # Authorizes the village of Dobbs Ferry to offer an optional twenty-year retirement plan to a certain police officer formerly employed by such village
 
-**Bill ID:** S4715A
+**Bill ID:** S4715AA
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the village of Dobbs Ferry to offer an optional twenty-year retiremen
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4715
+  4715--A
  
   2023-2024 Regular Sessions
  
@@ -27,20 +27,21 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  STEWART-COUSINS -- read twice and ordered printed,
   and when printed to be committed to the Committee on Civil Service and
-  Pensions
+  Pensions -- committee discharged, bill amended, ordered  reprinted  as
+  amended and recommitted to said committee
  
- AN ACT to authorize the village of Dobbs  Ferry  to  offer  an  optional
-  twenty-year  retirement  plan  to  a  certain  police officer formerly
+ AN  ACT  to  authorize  the  village of Dobbs Ferry to offer an optional
+  twenty-year retirement plan  to  a  certain  police  officer  formerly
   employed by such village
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Notwithstanding any other provision of law to the contrary,
- Gabriel  Bonilla,  a  member  of the New York state and local police and
+ Gabriel Bonilla, a member of the New York state  and  local  police  and
  fire retirement system, who is currently employed by Westchester county,
- who was employed as a police officer with the  village  of  Dobbs  Ferry
- from December of 2005 through January of 2015, and who, through no fault
+ who  was  employed  as  a police officer with the village of Dobbs Ferry
+ from December of 2005 through March 20, 2011, and who, through no  fault
  of  his  own,  failed to file a timely application to participate in the
  special twenty-year retirement plan contained in section  384-d  of  the
  retirement  and  social  security law, shall be given full credit in the
@@ -57,14 +58,14 @@ S T A T E  O F  N E W  Y O R K
  benefits  associated  with  coverage  under  such  section,  by filing a
  request to that effect with the state comptroller no later than one year
  from the effective date of this act.
-  § 2. All costs associated with implementing the provisions of this act
- shall be borne by the village of Dobbs Ferry.
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06211-03-3
- S. 4715  2
+  LBD06211-05-3
+ S. 4715--A  2
  
+  § 2. All costs associated with implementing the provisions of this act
+ shall be borne by the village of Dobbs Ferry.
   § 3. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This bill would grant Gabriel Bonilla, a Tier 2 member of the New York
@@ -84,7 +85,7 @@ S T A T E  O F  N E W  Y O R K
   Summary of relevant resources:
   Membership  data as of March 31, 2022 was used in measuring the impact
  of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation.  Distributions and other statistics can be  found  in  the
+ al valuation. Distributions and other statistics can  be  found  in  the
  2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
  Report.
   The actuarial assumptions and methods used are described in the  2020,
@@ -99,7 +100,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated February 13, 2023,  and  intended  for  use  only
- during  the  2023  Legislative  Session,  is  Fiscal  Note  No. 2023-23,
- prepared by the Actuary for the New  York  State  and  Local  Retirement
- System.
+  This estimate, dated March 3, 2023, and intended for use  only  during
+ the  2023  Legislative  Session, is Fiscal Note No. 2023-84, prepared by
+ the Actuary for the New York State and Local Retirement System.
