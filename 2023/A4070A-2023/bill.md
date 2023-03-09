@@ -1,6 +1,6 @@
 # Provides for the reimbursement of local services provided to persons with a disability
 
-**Bill ID:** A4070A
+**Bill ID:** A4070AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the reimbursement of local services provided to persons with a disabi
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4070
+  4070--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. GUNTHER, KELLES, BUTTENSCHON -- read once and
-  referred to the Committee on Mental Health
+  referred to the Committee on Mental Health  --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
  
  AN ACT to amend the mental hygiene law, in relation to reimbursement  of
   certain programs and services for persons with a disability
@@ -49,11 +51,12 @@ S T A T E  O F  N E W  Y O R K
  SION INTO SUCH PROGRAM OR RECEIPT OF SUCH SERVICE. IF A SERVICE IS ULTI-
  MATELY  NOT  APPROVED  AND  REIMBURSEMENT  HAS  ALREADY  OCCURRED,  SUCH
  REIMBURSEMENT  SHALL  BE RETURNED TO THE OFFICE FOR PEOPLE WITH DEVELOP-
- MENTAL DISABILITIES WITHIN SIXTY DAYS OF NOTICE OF SUCH DENIAL.
+ MENTAL DISABILITIES WITHIN SIXTY DAYS OF NOTICE OF SUCH  DENIAL.  THIS
+ SECTION SHALL APPLY TO ANY SERVICES RENDERED ON AND AFTER ONE YEAR PRIOR
+ TO THE EFFECTIVE DATE OF THIS SECTION.
   § 2. This act shall take effect immediately.
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04872-02-3
+  LBD04872-03-3
