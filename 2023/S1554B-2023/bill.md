@@ -1,6 +1,6 @@
 # Creates a temporary commission to conduct a comprehensive study on the current utilization of paid family leave, make recommendations on how to increase access and the visibility of the program
 
-**Bill ID:** S1554B
+**Bill ID:** S1554BA
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Creates a temporary commission to conduct a comprehensive study on the current u
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1554
+  1554--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. ADDABBO -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Labor
+  printed to be  committed  to  the  Committee  on  Labor  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT in relation to creating  a  temporary  commission  to  conduct  a
-  comprehensive  study  on the current utilization of paid family leave,
-  make recommendations on how to increase access and the  visibility  of
-  the  program;  and  providing  for  the repeal of such provisions upon
+ AN  ACT  in  relation  to  creating  a temporary commission to conduct a
+  comprehensive study on the current utilization of paid  family  leave,
+  make  recommendations  on how to increase access and the visibility of
+  the program; and providing for the  repeal  of  such  provisions  upon
   expiration thereof
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. A temporary state commission is hereby created to conduct a
- comprehensive  study, and prepare a report on the current utilization of
+ comprehensive study, and prepare a report on the current utilization  of
  paid family leave under article 9 of the workers' compensation law.
-  § 2.  (a) The commission shall consist  of  nine  members,  six  such
- members  each  to  serve  for  a term of one year and to be appointed as
+  §  2.  (a)  The  commission  shall  consist of ten members, six such
+ members each to serve for a term of one year  and  to  be  appointed  as
  follows: two shall be appointed by the temporary president of the senate
- and one by the minority leader of the senate; two shall be appointed  by
+ and  one by the minority leader of the senate; two shall be appointed by
  the speaker of the assembly and one by the minority leader of the assem-
  bly.  The  commissioner  of  labor,  the  superintendent  of  financial
- services, and the chair of the workers' compensation  board  shall  also
- serve  on  the  commission. The chair of the workers' compensation board
- shall serve as the chair of the commission. Vacancies in the  membership
- of  the  commission and among its officers shall be filled in the manner
- provided for original appointments.
-  (b) The members of the commission shall receive  no  compensation  for
+ services, the chair of the Business Council of the State of New York and
+ the  chair  of  the  workers' compensation board shall also serve on the
+ commission. The chair of the workers' compensation board shall serve  as
+ the  chair of the commission. Vacancies in the membership of the commis-
+ sion and among its officers shall be filled in the manner  provided  for
+ original appointments.
+  (b)  The  members  of the commission shall receive no compensation for
  their services, but shall be allowed their actual and necessary expenses
  incurred in the performance of their duties hereunder.
-  §  3.  The  study shall examine the current utilization of paid family
- leave under article 9 of the workers' compensation  law,  including  but
- not limited to:
-  (a) demographic information of persons receiving such benefits includ-
- ing but not limited to:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04732-01-3
- S. 1554  2
+  LBD04732-03-3
+ S. 1554--A  2
  
+  § 3. The study shall examine the current utilization  of  paid  family
+ leave  under  article  9 of the workers' compensation law, including but
+ not limited to:
+  (a) demographic information of persons receiving such benefits includ-
+ ing but not limited to:
   (i) gender;
   (ii) race;
   (iii) age;
