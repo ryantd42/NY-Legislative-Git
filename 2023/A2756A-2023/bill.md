@@ -1,6 +1,6 @@
 # Authorizes the assessor of the town of Islip, county of Suffolk, to accept an application for exemption from real property taxes from the East Islip Fire District
 
-**Bill ID:** A2756A
+**Bill ID:** A2756AA
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the assessor of the town of Islip, county of Suffolk, to accept an ap
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2756
+  2756--A
  
   2023-2024 Regular Sessions
  
@@ -26,20 +26,22 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. GANDOLFO -- read once and referred to the Commit-
-  tee on Real Property Taxation
+  tee  on  Real Property Taxation -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN  ACT  in  relation  to authorizing the assessor of the town of Islip,
-  county of Suffolk, to accept an application for  exemption  from  real
+ AN ACT in relation to authorizing the assessor of  the  town  of  Islip,
+  county  of  Suffolk,  to accept an application for exemption from real
   property taxes from the East Islip Fire District
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Notwithstanding any other provision of law to the contrary,
- the assessor of the town of Islip, county of Suffolk, is hereby  author-
- ized  to  accept  from  the East Islip Fire District, an application for
- exemption from real property taxes pursuant to section 464 of  the  real
- property  tax law with respect to the 2023-2024 assessment roll, for the
+ the  assessor of the town of Islip, county of Suffolk, is hereby author-
+ ized to accept from the East Islip Fire  District,  an  application  for
+ exemption  from  real property taxes pursuant to section 464 of the real
+ property tax law with respect to a portion of the  2021-2022  assessment
+ roll  and  with respect to the entire 2022-2023 assessment roll, for the
  parcel owned by such organization, with such  parcel  being  located  at
  1000  Christopher  Drive,  in  the  hamlet of East Islip, town of Islip,
  county of Suffolk, otherwise known as Suffolk county  tax  map  district
@@ -57,7 +59,7 @@ S T A T E  O F  N E W  Y O R K
  the taxes paid, along with any fines or penalties paid, and  cancel  any
  taxes, fines, penalties, interest, or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01300-01-3
+  LBD01300-03-3
