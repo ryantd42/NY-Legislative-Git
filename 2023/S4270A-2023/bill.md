@@ -1,6 +1,6 @@
 # Relates to establishing a carbon farming tax credit for farmers
 
-**Bill ID:** S4270A
+**Bill ID:** S4270AA
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Establishes a tax credit for farmers who maximize carbon sequestration potential
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4270
+  4270--A
+  Cal. No. 355
  
   2023-2024 Regular Sessions
  
@@ -25,76 +26,86 @@ S T A T E  O F  N E W  Y O R K
   February 7, 2023
   ___________
  
- Introduced  by  Sen.  PARKER -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Agriculture
+ Introduced by Sens. PARKER, MAY, ROLISON, WEBB -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Agricul-
+  ture  --  reported  favorably from said committee and committed to the
+  Committee on Rules -- reported favorably from said committee,  ordered
+  to  a  third  reading, passed by Senate and delivered to the Assembly,
+  recalled, vote reconsidered, restored to third  reading,  amended  and
+  ordered reprinted, retaining its place in the order of third reading
  
- AN ACT to amend the agriculture and markets law, the  tax  law  and  the
-  environmental  conservation  law,  in  relation to enacting the carbon
+ AN  ACT  to  amend  the agriculture and markets law, the tax law and the
+  environmental conservation law, in relation  to  enacting  the  carbon
   farming act
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  This  act  shall be known and may be cited as the "carbon
+  Section 1. This act shall be known and may be  cited  as  the  "carbon
  farming act".
-  § 2. Legislative intent. The legislature  hereby  finds  and  declares
- that  soil  and vegetation management can significantly enhance soil and
- carbon sequestration, resulting in a wide  range  of  environmental  and
- agricultural  benefits  to  New  York  farmers and residents, including:
+  §  2.  Legislative  intent.  The legislature hereby finds and declares
+ that soil and vegetation management can significantly enhance  soil  and
+ carbon  sequestration,  resulting  in  a wide range of environmental and
+ agricultural benefits to New  York  farmers  and  residents,  including:
  increased yields; soil health; improved water quality; and reductions in
  greenhouse gases. The legislature further declares that enhancing carbon
  sequestration, the long term storage of carbon in plants, soils, geolog-
- ic formations and the ocean, through farming is in the best interest  of
- New  Yorkers.  It  is  therefore  the  intent of the legislature and the
- purpose of this act to encourage farmers to further sequester and  miti-
+ ic  formations and the ocean, through farming is in the best interest of
+ New Yorkers. It is therefore the  intent  of  the  legislature  and  the
+ purpose  of this act to encourage farmers to further sequester and miti-
  gate carbon in this state by establishing a carbon farming tax credit to
- reward  and incentivize farmers to maintain or adopt practices that help
+ reward and incentivize farmers to maintain or adopt practices that  help
  maximize New York's carbon sequestration potential.
-  § 3. Section 150 of the agriculture and  markets  law  is  amended  by
+  §  3.  Section  150  of  the agriculture and markets law is amended by
  adding a new subdivision 5 to read as follows:
-  5.  "CARBON  FARMING"  MEANS  THE  IMPLEMENTATION OF A LAND MANAGEMENT
- STRATEGY FOR THE PURPOSES  OF  REDUCING,  SEQUESTERING,  AND  MITIGATING
- GREENHOUSE GAS EMISSIONS ON LAND USED IN SUPPORT OF A FARM OPERATION AND
- QUANTIFYING  THOSE  GREENHOUSE  GAS  BENEFITS  USING  THE  UNITED STATES
- DEPARTMENT OF AGRICULTURE'S COMET-PLANNER, COMET-FARM, AND OTHER QUANTI-
- FICATION TOOLS.
-
+  5. "CARBON FARMING" MEANS THE  IMPLEMENTATION  OF  A  LAND  MANAGEMENT
+ STRATEGY  FOR  THE  PURPOSES  OF  REDUCING, SEQUESTERING, AND MITIGATING
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01378-01-3
- S. 4270  2
+  LBD01378-03-3
+ S. 4270--A  2
  
-  § 4. Section 210-B of the tax law is amended by adding a new  subdivi-
+ GREENHOUSE GAS EMISSIONS ON LAND USED IN SUPPORT OF A FARM OPERATION AND
+ QUANTIFYING THOSE  GREENHOUSE  GAS  BENEFITS  USING  THE  UNITED  STATES
+ DEPARTMENT OF AGRICULTURE'S COMET-PLANNER, COMET-FARM, AND OTHER QUANTI-
+ FICATION TOOLS.
+  §  4. Section 210-B of the tax law is amended by adding a new subdivi-
  sion 59 to read as follows:
   59. CARBON FARMING CREDIT. (A) ALLOWANCE OF CREDIT. A TAXPAYER THAT IS
- AN  AGRICULTURAL BUSINESS THAT PRODUCES FARM PRODUCTS SHALL BE ALLOWED A
- CREDIT AGAINST THE TAX IMPOSED BY  THIS  ARTICLE  FOR  THE  PRACTICE  OF
+ AN AGRICULTURAL BUSINESS THAT PRODUCES FARM PRODUCTS SHALL BE ALLOWED  A
+ CREDIT  AGAINST  THE  TAX  IMPOSED  BY  THIS ARTICLE FOR THE PRACTICE OF
  CARBON FARMING.
-  (B)  DEFINITIONS.  FOR  PURPOSES  OF  THIS SECTION THE FOLLOWING TERMS
+  (B) DEFINITIONS. FOR PURPOSES OF  THIS  SECTION  THE  FOLLOWING  TERMS
  SHALL HAVE THE FOLLOWING MEANINGS:
-  (I) "CARBON FARMING" SHALL HAVE THE  SAME  MEANING  AS  SET  FORTH  IN
- SUBDIVISION  FIVE  OF  SECTION  ONE HUNDRED FIFTY OF THE AGRICULTURE AND
+  (I)  "CARBON  FARMING"  SHALL  HAVE  THE  SAME MEANING AS SET FORTH IN
+ SUBDIVISION FIVE OF SECTION ONE HUNDRED FIFTY  OF  THE  AGRICULTURE  AND
  MARKETS LAW;
-  (II) "FARM PRODUCTS" SHALL HAVE THE  SAME  MEANING  AS  SET  FORTH  IN
+  (II)  "FARM  PRODUCTS"  SHALL  HAVE  THE  SAME MEANING AS SET FORTH IN
  SUBDIVISION FIVE OF SECTION TWO OF THE AGRICULTURE AND MARKETS LAW; AND
-  (III)  "CARBON  SEQUESTRATION"  SHALL  MEAN  THE  LONG TERM STORAGE OF
+  (III) "CARBON SEQUESTRATION" SHALL  MEAN  THE  LONG  TERM  STORAGE  OF
  CARBON IN PLANTS AND SOILS.
-  (C) SUCH CREDIT SHALL BE CALCULATED BASED ON  THE  ECONOMIC  VALUE  OF
- CARBON  FARMING  AS  DETERMINED  BY  THE  COMMISSIONER  OF ENVIRONMENTAL
- CONSERVATION, IN CONSULTATION WITH THE COMMISSIONER OF  AGRICULTURE  AND
- MARKETS  AND  THE  COMMISSIONER PURSUANT TO PARAGRAPH CCC OF SUBDIVISION
+  (C)  SUCH  CREDIT  SHALL  BE CALCULATED BASED ON THE ECONOMIC VALUE OF
+ CARBON FARMING  AS  DETERMINED  BY  THE  COMMISSIONER  OF  ENVIRONMENTAL
+ CONSERVATION,  IN  CONSULTATION WITH THE COMMISSIONER OF AGRICULTURE AND
+ MARKETS AND THE COMMISSIONER PURSUANT TO PARAGRAPH  CCC  OF  SUBDIVISION
  TWO OF SECTION 3-0301 OF THE ENVIRONMENTAL CONSERVATION LAW.
-  (D) THE TAXPAYER SHALL ATTACH TO ITS TAX RETURN ITS FINAL  CERTIFICATE
- OF  ELIGIBILITY ISSUED BY THE COMMISSIONER OF ENVIRONMENTAL CONSERVATION
+  (D)  THE TAXPAYER SHALL ATTACH TO ITS TAX RETURN ITS FINAL CERTIFICATE
+ OF ELIGIBILITY ISSUED BY THE COMMISSIONER OF ENVIRONMENTAL  CONSERVATION
  PURSUANT TO SECTION 19-0309 OF THE ENVIRONMENTAL CONSERVATION LAW. IN NO
- EVENT SHALL THE TAXPAYER BE ALLOWED A CREDIT GREATER THAN THE AMOUNT  OF
- THE  CREDIT  LISTED  ON  THE  FINAL  CERTIFICATE VERIFYING THE EMISSIONS
+ EVENT  SHALL THE TAXPAYER BE ALLOWED A CREDIT GREATER THAN THE AMOUNT OF
+ THE CREDIT LISTED ON  THE  FINAL  CERTIFICATE  VERIFYING  THE  EMISSIONS
  REDUCTIONS TO BE CREDITED TO THE TAXPAYER.
-  (E) IF THE AMOUNT OF THE CREDIT ALLOWABLE UNDER THIS  SUBDIVISION  FOR
- ANY  TAXABLE  YEAR  SHALL  EXCEED  THE TAXPAYER'S TAX FOR SUCH YEAR, ANY
- AMOUNT OF CREDIT NOT DEDUCTIBLE IN SUCH TAXABLE YEAR MAY BE CARRIED OVER
- TO THE FOLLOWING THREE YEARS, AND MAY BE DEDUCTED FOR THE  TAXPAYER  FOR
- SUCH YEAR.
+  (E) IF THE AMOUNT OF THE CREDIT ALLOWABLE UNDER THIS SUBDIVISION SHALL
+ EXCEED  THE  TAXPAYER'S  TAX  FOR  SUCH YEAR AND THE TAXPAYER'S NEW YORK
+ ADJUSTED GROSS INCOME FOR SUCH  YEAR  DOES  NOT  EXCEED  SIXTY  THOUSAND
+ DOLLARS,  THE  EXCESS  SHALL  BE  TREATED AS AN OVERPAYMENT OF TAX TO BE
+ CREDITED OR REFUNDED IN ACCORDANCE WITH THE PROVISIONS  OF  SECTION  SIX
+ HUNDRED EIGHTY-SIX OF THIS CHAPTER, PROVIDED, HOWEVER, THAT  NO INTEREST
+ SHALL  BE PAID THEREON. IF THE TAXPAYER'S NEW YORK ADJUSTED GROSS INCOME
+ FOR SUCH YEAR EXCEEDS SIXTY THOUSAND DOLLARS, THE EXCESS CREDIT  MAY  BE
+ CARRIED OVER TO THE FOLLOWING YEAR OR YEARS AND MAY BE DEDUCTED FROM THE
+ TAXPAYER'S TAX FOR SUCH YEAR OR YEARS.
   §  5. Section 606 of the tax law is amended by adding a new subsection
  (ooo) to read as follows:
   (OOO) CARBON FARMING CREDIT. (1) ALLOWANCE OF CREDIT. A  TAXPAYER  WHO
@@ -110,21 +121,26 @@ S T A T E  O F  N E W  Y O R K
   (3) APPLICATION OF CREDIT. SUCH CREDIT SHALL BE  CALCULATED  BASED  ON
  THE  ECONOMIC  VALUE OF CARBON FARMING AS DETERMINED BY THE COMMISSIONER
  OF ENVIRONMENTAL CONSERVATION, IN CONSULTATION WITH THE COMMISSIONER  OF
+ S. 4270--A  3
+ 
  AGRICULTURE  AND MARKETS PURSUANT TO PARAGRAPH CCC OF SUBDIVISION TWO OF
  SECTION 3-0301 OF THE ENVIRONMENTAL CONSERVATION LAW.
-  (4) CERTIFICATION REQUIRED. THE  TAXPAYER  SHALL  ATTACH  TO  ITS  TAX
- RETURN  ITS  FINAL CERTIFICATE OF ELIGIBILITY ISSUED BY THE COMMISSIONER
- OF ENVIRONMENTAL CONSERVATION PURSUANT TO SECTION 19-0309 OF  THE  ENVI-
- RONMENTAL  CONSERVATION LAW. IN NO EVENT SHALL THE TAXPAYER BE ALLOWED A
+  (4)  CERTIFICATION  REQUIRED.  THE  TAXPAYER  SHALL  ATTACH TO ITS TAX
+ RETURN ITS FINAL CERTIFICATE OF ELIGIBILITY ISSUED BY  THE  COMMISSIONER
+ OF  ENVIRONMENTAL  CONSERVATION PURSUANT TO SECTION 19-0309 OF THE ENVI-
+ RONMENTAL CONSERVATION LAW. IN NO EVENT SHALL THE TAXPAYER BE ALLOWED  A
  CREDIT GREATER THAN THE AMOUNT OF THE CREDIT LISTED ON THE FINAL CERTIF-
  ICATE VERIFYING THE EMISSIONS REDUCTIONS TO BE CREDITED TO THE TAXPAYER.
-  (5) CARRYOVER OF CREDIT. IF THE AMOUNT OF THE CREDIT  ALLOWABLE  UNDER
- THIS SUBSECTION FOR ANY TAXABLE YEAR SHALL EXCEED THE TAXPAYER'S TAX FOR
- S. 4270  3
- 
- SUCH  YEAR, ANY AMOUNT OF CREDIT NOT DEDUCTIBLE IN SUCH TAXABLE YEAR MAY
- BE CARRIED OVER TO THE FOLLOWING THREE YEARS, AND MAY  BE  DEDUCTED  FOR
- THE TAXPAYER FOR SUCH YEAR.
+  (5)  CARRYOVER  OF CREDIT. IF THE AMOUNT OF THE CREDIT ALLOWABLE UNDER
+ THIS SUBSECTION SHALL EXCEED THE TAXPAYER'S TAX FOR SUCH  YEAR  AND  THE
+ TAXPAYER'S  NEW YORK ADJUSTED GROSS INCOME FOR SUCH YEAR DOES NOT EXCEED
+ SIXTY THOUSAND DOLLARS, THE EXCESS SHALL BE TREATED AS AN OVERPAYMENT OF
+ TAX TO BE CREDITED OR REFUNDED IN  ACCORDANCE  WITH THE  PROVISIONS  OF
+ SECTION  SIX  HUNDRED  EIGHTY-SIX  OF THIS ARTICLE, PROVIDED,  HOWEVER,
+ THAT  NO INTEREST  SHALL  BE  PAID THEREON. IF THE TAXPAYER'S  NEW  YORK
+ ADJUSTED  GROSS  INCOME FOR SUCH  YEAR  EXCEEDS  SIXTY THOUSAND DOLLARS,
+ THE EXCESS CREDIT MAY BE CARRIED OVER TO THE FOLLOWING YEAR  OR  YEARS
+ AND MAY BE DEDUCTED FROM THE TAXPAYER'S TAX FOR SUCH YEAR OR YEARS.
   § 6. Subdivision 2 of section 3-0301 of the environmental conservation
  law is amended by adding a new paragraph ccc to read as follows:
   CCC.  COOPERATE  WITH  THE  DEPARTMENT  OF  AGRICULTURE AND MARKETS TO
@@ -152,7 +168,7 @@ S T A T E  O F  N E W  Y O R K
  the Public Health Law; of the state sanitary code and of  codes,  rules,
  regulations, permits or orders issued pursuant thereto.
   §  8.  Section  16  of  the  agriculture and markets law is amended by
- adding a new subdivision 53 to read as follow:
+ adding a new subdivision 53 to read as follows:
   53. COOPERATE WITH THE DEPARTMENT  OF  ENVIRONMENTAL  CONSERVATION  TO
  DEVELOP  EDUCATIONAL  MATERIALS TO ENCOURAGE CARBON FARMING AND HOW TO
  USE THE UNITED STATES DEPARTMENT OF AGRICULTURE'S COMET-PLANNER,  COMET-
@@ -163,6 +179,8 @@ S T A T E  O F  N E W  Y O R K
  HUNDRED TEN-B AND SIX HUNDRED SIX OF THE TAX LAW.
   §  9.  This  act shall take effect on the ninetieth day after it shall
  have become a  law.  Effective  immediately,  the  addition,  amendment,
+ S. 4270--A  4
+ 
  and/or repeal of any rule or regulation necessary for the implementation
  of  this  act  on  its  effective  date  are  authorized  to be made and
  completed on or before such effective date.
