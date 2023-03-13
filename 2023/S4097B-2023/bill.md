@@ -1,6 +1,6 @@
 # Requires New York State health benefit plan hospital pricing report
 
-**Bill ID:** S4097B
+**Bill ID:** S4097BA
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Directs the president of the civil service commission to collect health care cla
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4097
+  4097--A
  
   2023-2024 Regular Sessions
  
@@ -27,73 +27,76 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by Sen. GOUNARDES -- read twice and ordered printed, and when
   printed to be committed to the Committee on Civil Service and Pensions
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
  
- AN  ACT  to  amend the civil service law, in relation to certain reports
+ AN ACT to amend the civil service law, in relation  to  certain  reports
   relating to health benefits for state and retired state employees
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision 9 of section 162 of the civil service law, as
+  Section 1. Subdivision 9 of section 162 of the civil service  law,  as
  added by chapter 147 of the laws of 2014, is amended to read as follows:
-  9. (A) (I) As soon as is practicable, but no later than the  first  of
- September,  two  thousand  fourteen, the department shall, upon request,
- but no more frequently than semi-annually, provide to any  participating
- employer  a  standard  report which contains data relating to the use of
+  9.  (A)  (I) As soon as is practicable, but no later than the first of
+ September, two thousand fourteen, the department  shall,  upon  request,
+ but  no more frequently than semi-annually, provide to any participating
+ employer a standard report which contains data relating to  the  use  of
  benefits by persons covered under the plan by such employer. Such report
- shall include: premiums paid by month for  each  month  covered  in  the
- report  and  paid  claims  by  month  for  the  following  categories of
- services: inpatient hospital, outpatient hospital, in  network  medical,
- out  of network medical, prescription drugs, and treatment of behavioral
+ shall  include:  premiums  paid  by  month for each month covered in the
+ report and  paid  claims  by  month  for  the  following  categories  of
+ services:  inpatient  hospital, outpatient hospital, in network medical,
+ out of network medical, prescription drugs, and treatment of  behavioral
  conditions, each reported separately. To the extent allowed by state and
- federal privacy laws, such report shall also contain claims  information
- for  individual claimants for claims in excess of fifty thousand dollars
+ federal  privacy laws, such report shall also contain claims information
+ for individual claimants for claims in excess of fifty thousand  dollars
  that were paid in any of the months covered by the report.
-  (II) The department shall provide such reports  to  any  participating
+  (II)  The  department  shall provide such reports to any participating
  employer, upon request submitted on or after the first of April for data
- from  the  first  of January through the thirty-first of December of the
- prior year, and on or after the first of September  for  data  from  the
- first  of  June of the prior year through the thirty-first of May of the
- current year, within thirty days of receipt of  said  request.  However,
- requests  submitted  in the two thousand fourteen calendar year shall be
- provided as soon as practicable, but no later than the first of  Septem-
- ber,  two thousand fourteen, or within thirty days after said request if
+ from the first of January through the thirty-first of  December  of  the
+ prior  year,  and  on  or after the first of September for data from the
+ first of June of the prior year through the thirty-first of May  of  the
+ current  year,  within  thirty days of receipt of said request. However,
+ requests submitted in the two thousand fourteen calendar year  shall  be
+ provided  as soon as practicable, but no later than the first of Septem-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08351-01-3
- S. 4097  2
+  LBD08351-03-3
+ S. 4097--A  2
  
+ ber, two thousand fourteen, or within thirty days after said request  if
  request is submitted on or after the first of August, two thousand four-
  teen.
   (B)  AS SOON AS PRACTICABLE, BUT NOT LATER THAN DECEMBER FIRST OF EACH
- YEAR, THE DEPARTMENT SHALL COLLECT AND ANALYZE HEALTHCARE CLAIMS DATA TO
- DEVELOP, AND MAKE PUBLICLY AVAILABLE, A NEW YORK  STATE  HEALTH  BENEFIT
- PLAN  HOSPITAL  PRICING  REPORT.  THE  PRESIDENT MUST COLLECT HEALTHCARE
+ YEAR, THE DEPARTMENT SHALL COLLECT AND ANALYZE HEALTH CARE  CLAIMS  DATA
+ TO DEVELOP, AND MAKE PUBLICLY AVAILABLE, A NEW YORK STATE HEALTH BENEFIT
+ PLAN  HOSPITAL  PRICING  REPORT.  THE PRESIDENT MUST COLLECT HEALTH CARE
  CLAIMS DATA RELATING TO THE PRICE AND UTILIZATION OF  HOSPITAL  BENEFITS
  BY  ACTIVE  EMPLOYEES, RETIRED EMPLOYEES, AND THEIR DEPENDENTS RECEIVING
  BENEFITS FROM THE PRIOR STATE FISCAL YEAR, IN ACCORDANCE WITH PROVISIONS
  UNDER THIS ARTICLE.  THE REPORT SHALL INCLUDE, BUT NOT BE LIMITED TO,  A
- COMPARATIVE  ANALYSIS  OF  HOSPITAL PRICES PAID BY THE PLAN BASED ON THE
- FOLLOWING SERVICE CATEGORIES:  (I) INPATIENT HOSPITAL,  (II)  OUTPATIENT
- HOSPITAL,  AND  (III)  EMERGENCY  ROOM SERVICES; AND WITHIN EACH SERVICE
- CATEGORY THE REPORT SHALL INCLUDE THE PRICE PER SERVICE AND GROSS AMOUNT
- SPENT ON THE TOP INPATIENT, OUTPATIENT AND EMERGENCY ROOM SERVICES WITH-
- IN EACH SERVICE CATEGORY.  THE REPORT SHALL COMPARE THE  PRICES  TO  THE
- PROCESS  FOR  SIMILAR  SERVICES  REIMBURSED  UNDER TITLE EIGHTEEN OF THE
- SOCIAL SECURITY ACT. SUCH REPORT  SHALL  ALSO  INCLUDE  A  COMPREHENSIVE
- ANALYSIS  OF THE PRIOR FIVE YEARS OF HOSPITAL PRICES AND EXPENDITURES TO
- ESTABLISH TRENDS IN HOSPITAL PRICES AND TOTAL EXPENDITURES FOR THE PLAN.
- SUCH REPORT SHALL BE DELIVERED TO  THE  SENATE  FINANCE  COMMITTEE,  THE
- ASSEMBLY  WAYS  AND MEANS COMMITTEE, THE CHAIRS OF THE HEALTH COMMITTEES
- IN EACH HOUSE, THE CHAIR  OF  THE  SENATE  CIVIL  SERVICE  AND  PENSIONS
- COMMITTEE, AND THE CHAIR OF THE ASSEMBLY COMMITTEE ON GOVERNMENT EMPLOY-
- EES,  ON  OR  BEFORE DECEMBER THIRTY-FIRST OF EACH YEAR, AND SUCH REPORT
- SHALL BE POSTED ON THE DEPARTMENT'S WEBSITE NO LATER THAN JANUARY  FIRST
- OF THE FOLLOWING CALENDAR YEAR. FOR PURPOSES OF THIS PARAGRAPH, "HEALTH-
- CARE CLAIMS DATA" MEANS ANY CLAIMS FOR INPATIENT, OUTPATIENT, OR AMBULA-
- TORY  SURGICAL  SERVICES  OR  OTHER  SERVICES  NORMALLY SUBMITTED TO THE
- THIRD-PARTY PAYER ON FORM UB-04 OR SUCCESSOR FORMS, WITH UB-04 BEING THE
- BILLING FORM IDENTIFIED BY THE FEDERAL CENTERS FOR MEDICARE AND MEDICAID
- SERVICES.
+ COMPARATIVE  ANALYSIS  OF  HOSPITAL  PRICES  PAID  BY THE PLAN, FOR EACH
+ HOSPITAL FACILITY IDENTIFIED BY NAME AND CMS CERTIFICATION NUMBER  (CCN)
+ OR  SUCCESSOR IDENTIFIER, BASED ON THE FOLLOWING SERVICE CATEGORIES: (I)
+ INPATIENT HOSPITAL, (II) OUTPATIENT HOSPITAL, AND (III)  EMERGENCY  ROOM
+ SERVICES;  AND  THE  REPORT SHALL ALSO INCLUDE THE PRICE PER SERVICE AND
+ GROSS AMOUNT SPENT PER HOSPITAL FACILITY  ON  THE  TOP  TWENTY  SERVICES
+ WITHIN  EACH  OF  THE  FOLLOWING  SERVICE CATEGORIES: (A) INPATIENT, (B)
+ OUTPATIENT AND (C) EMERGENCY ROOM SERVICES.  THE REPORT  SHALL  COMPARE
+ THE  PRICES  TO  THE PROCESS FOR SIMILAR SERVICES REIMBURSED UNDER TITLE
+ EIGHTEEN OF THE SOCIAL SECURITY ACT. SUCH REPORT SHALL  ALSO  INCLUDE  A
+ COMPREHENSIVE  ANALYSIS  OF  THE PRIOR FIVE YEARS OF HOSPITAL PRICES AND
+ EXPENDITURES TO ESTABLISH TRENDS IN HOSPITAL PRICES AND  TOTAL  EXPENDI-
+ TURES  FOR  THE PLAN.  SUCH REPORT SHALL BE DELIVERED TO THE LEGISLATIVE
+ FISCAL COMMITTEES, THE CHAIRS OF THE LEGISLATIVE HEALTH CARE COMMITTEES,
+ THE CHAIR OF THE SENATE CIVIL SERVICE AND PENSIONS  COMMITTEE,  AND  THE
+ CHAIR  OF THE ASSEMBLY COMMITTEE ON GOVERNMENTAL EMPLOYEES, ON OR BEFORE
+ DECEMBER THIRTY-FIRST OF EACH YEAR, AND SUCH REPORT SHALL BE  POSTED  ON
+ THE  DEPARTMENT'S  WEBSITE  NO LATER THAN JANUARY FIRST OF THE FOLLOWING
+ CALENDAR YEAR. FOR PURPOSES OF THIS  SUBDIVISION,  "HEALTH  CARE  CLAIMS
+ DATA" MEANS ANY CLAIMS FOR INPATIENT, OUTPATIENT, OR AMBULATORY SURGICAL
+ SERVICES  OR  OTHER SERVICES NORMALLY SUBMITTED TO THE THIRD-PARTY PAYER
+ ON FORM UB-04 OR SUCCESSOR FORMS, WITH  UB-04  BEING  THE  BILLING  FORM
+ IDENTIFIED BY THE CENTERS FOR MEDICARE AND MEDICAID SERVICES.
   § 2. This act shall take effect immediately.
