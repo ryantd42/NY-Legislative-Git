@@ -1,6 +1,6 @@
 # STATE OPERATIONS BUDGET
 
-**Bill ID:** S4000DA
+**Bill ID:** S4000DB
 **Session:** 2023
 **Sponsor:** Unknown
 **Status:** Signed by Governor
@@ -16,92 +16,65 @@ Makes appropriations for the support of government - State Operations Budget.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  S. 4000--A  A. 3000--A
+  4000--B
  
-  S E N A T E - A S S E M B L Y
+  I N  S E N A T E
  
   February 1, 2023
   ___________
  
- IN  SENATE -- A BUDGET BILL, submitted by the Governor pursuant to arti-
-  cle seven of the Constitution -- read twice and ordered  printed,  and
-  when  printed to be committed to the Committee on Finance -- committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
- 
- IN ASSEMBLY -- A BUDGET BILL, submitted  by  the  Governor  pursuant  to
-  article  seven  of  the  Constitution -- read once and referred to the
-  Committee on Ways and Means --  committee  discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
- 
+ A  BUDGET  BILL,  submitted by the Governor pursuant to article seven of
+  the Constitution -- read twice and ordered printed, and  when  printed
+  to  be  committed to the Committee on Finance -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee  -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT making appropriations for the support of government
  
   STATE OPERATIONS BUDGET
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. a) The several amounts specified in this chapter for  state
- operations,  or so much thereof as shall be sufficient to accomplish the
- purposes designated by the appropriations, are hereby  appropriated  and
- authorized  to be paid as hereinafter provided, to the respective public
+  Section  1. a) The several amounts specified in this chapter for state
+ operations, or so much thereof as shall be sufficient to accomplish  the
+ purposes  designated  by the appropriations, are hereby appropriated and
+ authorized to be paid as hereinafter provided, to the respective  public
  officers and for the several purposes specified.
-  b) Where applicable, appropriations made by this chapter for  expendi-
+  b)  Where applicable, appropriations made by this chapter for expendi-
  tures from federal grants for state operations may be allocated for
- spending  from federal grants for any grant period beginning, during, or
+ spending from federal grants for any grant period beginning, during,  or
  prior to, the state fiscal year beginning on April 1, 2023.
-  c) The several amounts named herein, or so much thereof  as  shall  be
- sufficient  to  accomplish the purpose designated, being the undisbursed
+  c)  The  several  amounts named herein, or so much thereof as shall be
+ sufficient to accomplish the purpose designated, being  the  undisbursed
  and/or unexpended balances of the prior year's appropriations, are here-
- by reappropriated from the same funds and made available  for  the  same
- purposes  as the prior year's appropriations, unless herein amended, for
- the fiscal year beginning April 1,  2023.  Certain  reappropriations  in
- this  chapter  are  shown using abbreviated text, with three leader dots
- (an ellipsis) followed by three spaces (...  ) used to  indicate  where
- existing  law  that  is  being continued is not shown. However, unless a
+ by  reappropriated  from  the same funds and made available for the same
+ purposes as the prior year's appropriations, unless herein amended,  for
+ the  fiscal  year  beginning  April 1, 2023. Certain reappropriations in
+ this chapter are shown using abbreviated text, with  three  leader  dots
+ (an  ellipsis)  followed by three spaces (...  ) used to indicate where
+ existing law that is being continued is not  shown.  However,  unless  a
  change is clearly indicated by the use of brackets [ ] for deletions and
+ underscores for additions, the purposes, amounts, funding source and all
+ other  aspects  pertinent to each item of appropriation shall be as last
+ appropriated.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD12550-02-3
-  2  12550-02-3
+  LBD12550-06-3
+  2  12550-06-3
  
- underscores for additions, the purposes, amounts, funding source and all
- other aspects pertinent to each item of appropriation shall be  as  last
- appropriated.
-  For  the  purpose  of  complying with the state finance law, the year,
- chapter and section of the last act reappropriating  a  former  original
- appropriation  or any part thereof is, unless otherwise indicated, chap-
+  For the purpose of complying with the state  finance  law,  the  year,
+ chapter  and  section  of the last act reappropriating a former original
+ appropriation or any part thereof is, unless otherwise indicated,  chap-
  ter 50, section 1, of the laws of 2022.
-  d) No moneys appropriated by  this  chapter  shall  be  available  for
- payment  until a certificate of approval has been issued by the director
- of the budget, who shall file such certificate with  the  department  of
- audit  and  control, the chairperson of the senate finance committee and
+  d)  No  moneys  appropriated  by  this  chapter shall be available for
+ payment until a certificate of approval has been issued by the  director
+ of  the  budget,  who shall file such certificate with the department of
+ audit and control, the chairperson of the senate finance  committee  and
  the chairperson of the assembly ways and means committee.
-  e) Notwithstanding any law to the  contrary,  because  the  funds  for
- certain  appropriations  specified in this chapter are to be used by the
- state education department, department of health, office of children and
- family services, office of temporary and disability  assistance,  office
- of  addiction services and supports, office of mental health, office for
- people with developmental disabilities, and the department  of  environ-
- mental  conservation  for  the  administration, oversight or alternative
- delivery of those programs within those agencies' budgets set  forth  in
- the  aid to localities budget bill submitted by the governor on February
- 1, 2023 pursuant to article VII of the New York constitution,  no  funds
- under  those specified appropriations in this chapter shall be available
- for certification or payment until (i) the legislature has finally acted
- upon the appropriations for the aforementioned agencies contained in the
- aforementioned aid to localities budget bill, and (ii) the  director  of
- the budget has determined that those aid to localities appropriations as
- finally  acted  on  by  the  legislature  are sufficient for the ensuing
- fiscal year.
-  f) Notwithstanding any other provision of law to the contrary, any  of
- the  amounts appropriated herein may be increased or decreased by inter-
- change or transfer without limit, with any appropriation  of  any  other
- department,  agency  or public authority or by transfer or suballocation
- to any department, agency or public authority with the approval  of  the
- director of the budget.
-  g)  Notwithstanding any provision of law to the contrary, for purposes
+  e)  Notwithstanding any provision of law to the contrary, for purposes
  of any appropriation made by this chapter which authorizes  spending  in
  an  amount net of refunds, rebates, reimbursements, credits, repayments,
  and/or disallowances, "refunds" shall mean funds received to  the  state
@@ -122,24 +95,22 @@ S T A T E  O F  N E W  Y O R K
  intended recipient, based on a determination the payment is not accepta-
  ble  and/or valid. When the office of the state comptroller receives any
  such  refunds,  rebates,  reimbursements,  credits,  repayments,  and/or
-  3  12550-02-3
- 
  disallowances, he or she shall credit the refunded, rebated, reimbursed,
  credited,  repaid,  and disallowed amount back to the original appropri-
  ation and reduce expenditures in the year which such credit is  received
  regardless of the timing of the initial expenditure.
-  h)  Notwithstanding  any provision of law to the contrary, upon enact-
+  f)  Notwithstanding  any provision of law to the contrary, upon enact-
  ment of this chapter of the laws of 2023 containing the state operations
  budget bill for the state fiscal year 2023-2024, all appropriations  and
  reappropriations  contained  in  chapter  50  of the laws of 2022, which
  would otherwise lapse by operation of law on March 31, 2024  are  hereby
  repealed.
-  i) The appropriations contained in this chapter shall be available for
+  g) The appropriations contained in this chapter shall be available for
  the fiscal year beginning on April 1, 2023.
-  4  12550-02-3
+  3  12550-06-3
  
   ADIRONDACK PARK AGENCY
- 
+
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
@@ -158,7 +129,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For  services  and  expenses  related to the
   administration program.
  Notwithstanding any other provision  of  law
@@ -179,7 +150,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 478,000
  Equipment (56000) ................................ 409,000
   --------------
-  5  12550-02-3
+  4  12550-06-3
  
   OFFICE FOR THE AGING
  
@@ -198,7 +169,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
   SCHEDULE
- 
+
  ADMINISTRATION AND GRANTS MANAGEMENT PROGRAM ................ 12,818,400
   --------------
  
@@ -236,12 +207,12 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Office for the Aging Federal Grants Account - 25300
-  6  12550-02-3
+  5  12550-06-3
  
   OFFICE FOR THE AGING
  
   STATE OPERATIONS  2023-24
- 
+
  For services and  expenses  related  to  the
   provision  of  aging  services  programs
   (10877).
@@ -259,7 +230,7 @@ S T A T E  O F  N E W  Y O R K
  For  the senior community service employment
   program provided  under  title  V  of  the
   federal older Americans act (10314).
-
+ 
  Personal service (50000) ......................... 343,000
  Nonpersonal service (57050) ....................... 50,000
   --------------
@@ -286,12 +257,12 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses related  to  video
   and other media (10310).
- 
+
  Contractual services (51000) ..................... 100,000
   --------------
   Program account subtotal ..................... 100,000
   --------------
-  7  12550-02-3
+  6  12550-06-3
  
   OFFICE FOR THE AGING
  
@@ -349,12 +320,12 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 50,000 ................. (re. $50,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  8  12550-02-3
+  7  12550-06-3
  
   OFFICE FOR THE AGING
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   For the senior community service  employment  program  provided  under
   title V of the federal older Americans act (10314).
   Personal service (50000) ... 343,000 ................... (re. $81,000)
@@ -365,14 +336,14 @@ S T A T E  O F  N E W  Y O R K
   title V of the federal older Americans act (10314).
   Personal service (50000) ... 343,000 ................... (re. $81,000)
   Nonpersonal service (57050) ... 50,000 ................. (re. $48,000)
-  9  12550-02-3
+  8  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
-
+ 
   APPROPRIATIONS  REAPPROPRIATIONS
  
   General Fund .......................  54,509,000  55,252,000
@@ -413,7 +384,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 1,974,000
  Equipment (56000) ................................. 38,000
   --------------
- 
+
  AGRICULTURAL BUSINESS SERVICES PROGRAM ..................... 102,389,000
   --------------
  
@@ -422,7 +393,7 @@ S T A T E  O F  N E W  Y O R K
  
  For services and  expenses  related  to  the
   agricultural business services program.
-  10  12550-02-3
+  9  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -449,11 +420,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 22,991,000
   --------------
-
+ 
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Federal Food and Nutrition Services Account - 25021
- 
+
  For services and expenses related to federal
   food  and  nutrition  services  including
   suballocation  to  other state departments
@@ -480,7 +451,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Special Revenue Funds - Federal
-  11  12550-02-3
+  10  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -538,7 +509,7 @@ S T A T E  O F  N E W  Y O R K
   purpose of providing funding to a not  for
   profit entity chosen to administer a state
   animal population control program pursuant
-  12  12550-02-3
+  11  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -574,7 +545,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 122,000
   --------------
- 
+
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Animal Shelter Regulation Account -
@@ -594,7 +565,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Plant Industry Account - 22029
-  13  12550-02-3
+  12  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -649,7 +620,7 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   Special  Agricultural Inspecting and Marketing Account -
   21955
-  14  12550-02-3
+  13  12550-06-3
 
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -707,7 +678,7 @@ S T A T E  O F  N E W  Y O R K
   expenses  of administering this fund up to
   the amount of the  actual  costs  incurred
   for such purpose (10901).
-  15  12550-02-3
+  14  12550-06-3
 
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -765,7 +736,7 @@ S T A T E  O F  N E W  Y O R K
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  16  12550-02-3
+  15  12550-06-3
 
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -823,7 +794,7 @@ S T A T E  O F  N E W  Y O R K
   testing  including  suballocation to other
   state departments and agencies,  including
   but not limited to pesticide residue moni-
-  17  12550-02-3
+  16  12550-06-3
 
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -880,7 +851,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 1,412,000
  Indirect costs (58800) ............................ 73,000
   --------------
-  18  12550-02-3
+  17  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
 
@@ -938,7 +909,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Enterprise Funds
-  19  12550-02-3
+  18  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
 
@@ -983,7 +954,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 29,226,000
   --------------
-  20  12550-02-3
+  19  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1041,7 +1012,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  21  12550-02-3
+  20  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1099,7 +1070,7 @@ S T A T E  O F  N E W  Y O R K
   tourism  and New York produced food and beverage goods and products,
   including but not limited to up to $125,000 for the city of  Geneva,
   and  up  to  $200,000  for  the  Thousand  Islands bridge authority,
-  22  12550-02-3
+  21  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1157,7 +1128,7 @@ S T A T E  O F  N E W  Y O R K
   For services and  expenses  related  to  federal  food  and  nutrition
   services  including  suballocation  to  other  state departments and
   agencies. Notwithstanding section 51 of the state  finance  law  and
-  23  12550-02-3
+  22  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1215,7 +1186,7 @@ S T A T E  O F  N E W  Y O R K
   herein may be increased or decreased by transfer between state oper-
   ations  and  aid  to  localities  and from/to appropriations for any
   prior  or  subsequent  grant  period  within  the  same  federal
-  24  12550-02-3
+  23  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1273,7 +1244,7 @@ S T A T E  O F  N E W  Y O R K
   be increased or decreased by transfer from/to appropriations for any
   prior  or  subsequent  grant  period  within  the  same  federal
   fund/program  and  between state operations and aid to localities to
-  25  12550-02-3
+  24  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1331,7 +1302,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For  services  and  expenses  related  to  the  agricultural  business
   services program (10901).
-  26  12550-02-3
+  25  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1389,7 +1360,7 @@ S T A T E  O F  N E W  Y O R K
   Pet Dealer License Account - 22137
  
  By chapter 50, section 1, of the laws of 2022:
-  27  12550-02-3
+  26  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1447,7 +1418,7 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 145,000 ............ (re. $145,000)
   Travel (54000) ... 70,000 .............................. (re. $70,000)
   Contractual services (51000) ... 322,000 .............. (re. $322,000)
-  28  12550-02-3
+  27  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1505,7 +1476,7 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 1,404,000 ........ (re. $1,395,000)
   Travel (54000) ... 339,000 ............................ (re. $332,000)
   Contractual services (51000) ... 4,449,000 .......... (re. $4,448,000)
-  29  12550-02-3
+  28  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1563,7 +1534,7 @@ S T A T E  O F  N E W  Y O R K
   Temporary service (50200) ... 296,000 ................. (re. $169,000)
   Holiday/overtime compensation (50300) ... 552,000 ..... (re. $537,000)
   Supplies and materials (57000) ... 539,000 .............. (re. $2,000)
-  30  12550-02-3
+  29  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1620,7 +1591,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 518,000 .................... (re. $514,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  31  12550-02-3
+  30  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1678,7 +1649,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  section  51  of the state finance law and any other
   provision of law to the contrary, the funds appropriated herein  may
   be increased or decreased by transfer from/to appropriations for any
-  32  12550-02-3
+  31  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1736,7 +1707,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to food testing  including  suballo-
   cation  to  other  state departments and agencies, including but not
   limited to pesticide residue  monitoring  and  microbiological  data
-  33  12550-02-3
+  32  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1794,7 +1765,7 @@ S T A T E  O F  N E W  Y O R K
   Consumer Food - Mobile Source Account - 21452
  
  By chapter 50, section 1, of the laws of 2022:
-  34  12550-02-3
+  33  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1852,7 +1823,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 221,000 ............................ (re. $193,000)
   Contractual services (51000) ... 345,000 .............. (re. $320,000)
   Fringe benefits (60000) ... 1,348,000 ............... (re. $1,235,000)
-  35  12550-02-3
+  34  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1910,7 +1881,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 1,222,000 ............ (re. $258,000)
   Equipment (56000) ... 97,000 ........................... (re. $97,000)
   Fringe benefits (60000) ... 1,114,000 ................. (re. $380,000)
-  36  12550-02-3
+  35  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -1968,7 +1939,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 74,000 ........................... (re. $74,000)
   Fringe benefits (60000) ... 152,000 .................... (re. $39,000)
   Indirect costs (58800) ... 8,000 ........................ (re. $3,000)
-  37  12550-02-3
+  36  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
 
@@ -2026,7 +1997,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to the state fair program.
   Notwithstanding  any  other  provision of law to the contrary, the OGS
   Interchange and Transfer  Authority,  and  the  IT  Interchange  and
-  38  12550-02-3
+  37  12550-06-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -2084,7 +2055,7 @@ S T A T E  O F  N E W  Y O R K
   refunds, rebates, reimbursements and credits (10904).
   Personal service--regular (50100) ... 3,287,000 ..... (re. $1,726,000)
   Temporary service (50200) ... 3,100,000 ............... (re. $163,000)
-  39  12550-02-3
+  38  12550-06-3
 
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -2097,7 +2068,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 50,000 ........................... (re. $50,000)
   Fringe benefits (60000) ... 2,165,000 ............... (re. $2,165,000)
   Indirect costs (58800) ... 138,000 .................... (re. $138,000)
-  40  12550-02-3
+  39  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2155,7 +2126,7 @@ S T A T E  O F  N E W  Y O R K
   chapter 92 of the laws of 2021,  including
   but  not  limited  to,  costs  incurred to
   expand and enhance drug recognition expert
-  41  12550-02-3
+  40  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2213,7 +2184,7 @@ S T A T E  O F  N E W  Y O R K
   the  money  hereby  appropriated  may  be
   increased  or  decreased  by  interchange,
   transfer  or  suballocation  between these
-  42  12550-02-3
+  41  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2271,7 +2242,7 @@ S T A T E  O F  N E W  Y O R K
   to  the  contrary, the OGS Interchange and
   Transfer Authority, and the IT Interchange
   and Transfer Authority as defined  in  the
-  43  12550-02-3
+  42  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2328,7 +2299,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  44  12550-02-3
+  43  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2355,7 +2326,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 1,848,000
  Equipment (56000) ................................. 55,000
   --------------
-  45  12550-02-3
+  44  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2413,7 +2384,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58800) ... 288,000 .................... (re. $144,000)
   For services and expenses of Cornell  university,  including  but  not
   limited  to, workforce development and education for the hemp indus-
-  46  12550-02-3
+  45  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2470,7 +2441,7 @@ S T A T E  O F  N E W  Y O R K
   created  pursuant  to  chapter 92 of the laws of 2021, including but
   not limited to, costs incurred to expand and enhance  drug  recogni-
   tion expert training programs and technologies utilized in the proc-
-  47  12550-02-3
+  46  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
  
@@ -2528,7 +2499,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 31,000 .............................. (re. $31,000)
   Contractual services (51000) ... 4,277,000 .......... (re. $3,221,000)
   Equipment (56000) ... 171,000 ......................... (re. $171,000)
-  48  12550-02-3
+  47  12550-06-3
  
   ALCOHOLIC BEVERAGE CONTROL
 
@@ -2562,7 +2533,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 171,000 ......................... (re. $170,000)
   Fringe benefits (60000) ... 2,693,000 ............... (re. $1,749,000)
   Indirect costs (58800) ... 67,000 ...................... (re. $26,000)
-  49  12550-02-3
+  48  12550-06-3
  
   COUNCIL ON THE ARTS
  
@@ -2619,7 +2590,7 @@ S T A T E  O F  N E W  Y O R K
  
  Nonpersonal service (57050) ...................... 400,000
   --------------
-  50  12550-02-3
+  49  12550-06-3
  
   COUNCIL ON THE ARTS
  
@@ -2627,7 +2598,7 @@ S T A T E  O F  N E W  Y O R K
  
   Program account subtotal ..................... 400,000
   --------------
-  51  12550-02-3
+  50  12550-06-3
  
   COUNCIL ON THE ARTS
  
@@ -2653,7 +2624,7 @@ S T A T E  O F  N E W  Y O R K
   For  administration of programs funded from the national endowment for
   the arts federal grant award (81001).
   Nonpersonal service (57050) ... 100,000 ................ (re. $50,000)
-  52  12550-02-3
+  51  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -2710,7 +2681,7 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ............ 259,000
  Supplies and materials (57000) ................. 3,891,000
  Travel (54000) ................................. 1,474,000
-  53  12550-02-3
+  52  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -2766,7 +2737,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ..................................... 5,000
  Contractual services (51000) .................. 55,887,000
  Equipment (56000) .............................. 4,343,000
-  54  12550-02-3
+  53  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -2824,7 +2795,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ..................... 5,000
  Travel (54000) ..................................... 6,000
  Contractual services (51000) ...................... 96,000
-  55  12550-02-3
+  54  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -2881,7 +2852,7 @@ S T A T E  O F  N E W  Y O R K
   program or fund within the  department  of
   audit  and  control,  with the approval of
   the director of the budget (12719).
-  56  12550-02-3
+  55  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -2938,7 +2909,7 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) .............. 2,241,000
  Temporary service (50200) .......................... 1,000
  Contractual services (51000) ...................... 99,000
-  57  12550-02-3
+  56  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -2996,7 +2967,7 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) ............. 13,716,000
  Temporary service (50200) ......................... 32,000
  Holiday/overtime compensation (50300) ............ 208,000
-  58  12550-02-3
+  57  12550-06-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -3051,7 +3022,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 150,000
   --------------
-  59  12550-02-3
+  58  12550-06-3
  
   DIVISION OF THE BUDGET
  
@@ -3061,16 +3032,16 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  38,251,000  0
+  General Fund .......................  38,788,000  0
   Special Revenue Funds - Other ......  10,283,000  0
   Internal Service Funds .............  1,650,000  0
   ----------------  ----------------
-  All Funds ........................  50,184,000  0
+  All Funds ........................  50,721,000  0
   ================  ================
  
   SCHEDULE
  
- BUDGET DIVISION PROGRAM ..................................... 48,684,000
+ BUDGET DIVISION PROGRAM ..................................... 49,221,000
   --------------
  
   General Fund
@@ -3109,7 +3080,7 @@ S T A T E  O F  N E W  Y O R K
   estate  and  facility  management,  fleet
   management,  business  and  financial
   services, administrative services, payroll
-  60  12550-02-3
+  59  12550-06-3
  
   DIVISION OF THE BUDGET
  
@@ -3167,7 +3138,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service--regular (50100) ............. 30,391,000
  Temporary service (50200) ........................ 450,000
-  61  12550-02-3
+  60  12550-06-3
  
   DIVISION OF THE BUDGET
  
@@ -3189,13 +3160,22 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 274,000
   --------------
  
- For services and expenses related to  grants
-  management,  administration and management
+ For additional services and expenses related
+  to membership dues  in  various  organiza-
+  tions (13610).
+ 
+ Contractual services (51000) ..................... 537,000
+  --------------
+  Total amount available ......................... 811,000
+  --------------
+ 
+ For  services and expenses related to grants
+  management, administration and  management
   of federal funds, data analytics and stra-
-  tegy, performance management and  procure-
-  ment.  Funds  herein  appropriated  may be
-  suballocated, subject to the  approval  of
-  the  director  of the budget, to any state
+  tegy,  performance management and procure-
+  ment. Funds  herein  appropriated  may  be
+  suballocated,  subject  to the approval of
+  the director of the budget, to  any  state
   department,  agency  or  public  benefit
   corporation (13600).
  
@@ -3204,20 +3184,26 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 1,000,000
   --------------
-  Program account subtotal .................. 36,751,000
+  Program account subtotal .................. 37,288,000
   --------------
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Revenue Arrearage Account - 22024
  
- For  services and expenses related to enter-
-  prise, administrative,  intergovernmental,
+ For services and expenses related to  enter-
+  prise,  administrative, intergovernmental,
   and technological services including those
   associated with the collection and maximi-
+  61  12550-06-3
+ 
+  DIVISION OF THE BUDGET
+ 
+  STATE OPERATIONS  2023-24
+ 
   zation of overdue non-tax revenues owed to
-  the  state, including liabilities incurred
-  in prior years. Funds herein  appropriated
+  the state, including liabilities  incurred
+  in  prior years. Funds herein appropriated
   may  be  suballocated,  subject  to  the
   approval of the director of the budget, to
   any state  department,  agency  or  public
@@ -3225,18 +3211,12 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
-  62  12550-02-3
- 
-  DIVISION OF THE BUDGET
- 
-  STATE OPERATIONS  2023-24
- 
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (13603).
  
  Personal service--regular (50100) .............. 3,155,000
@@ -3249,44 +3229,44 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 7,650,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Systems and Technology Account - 22162
  
- For  services and expenses for the modifica-
-  tion of statewide  personnel,  accounting,
+ For services and expenses for the  modifica-
+  tion  of  statewide personnel, accounting,
   financial  management,  budgeting  and
   related information systems to accommodate
   the  unique  management  and  information
   needs  of  the  division  of  the  budget,
-  including liabilities  incurred  in  prior
-  years.  Funds  herein  appropriated may be
-  suballocated, subject to the  approval  of
-  the  director  of the budget, to any state
+  including  liabilities  incurred  in prior
+  years. Funds herein  appropriated  may  be
+  suballocated,  subject  to the approval of
+  the director of the budget, to  any  state
   department,  agency  or  public  benefit
   corporation.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  62  12550-06-3
+ 
+  DIVISION OF THE BUDGET
+ 
+  STATE OPERATIONS  2023-24
+ 
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (13603).
  
  Personal service--regular (50100) .............. 1,584,000
  Holiday/overtime compensation (50300) ............. 20,000
  Supplies and materials (57000) .................... 47,000
  Contractual services (51000) ..................... 160,000
-  63  12550-02-3
- 
-  DIVISION OF THE BUDGET
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60000) .......................... 587,000
  Indirect costs (58800) ............................ 85,000
   --------------
@@ -3331,6 +3311,12 @@ S T A T E  O F  N E W  Y O R K
  For services and expenses  related  to  cash
   management activities of the state and the
   federal cash management improvement act of
+  63  12550-06-3
+ 
+  DIVISION OF THE BUDGET
+ 
+  STATE OPERATIONS  2023-24
+ 
   1990, including required payment of inter-
   est  to the federal government and includ-
   ing liabilities incurred in  prior  years.
@@ -3339,15 +3325,10 @@ S T A T E  O F  N E W  Y O R K
   director  of  the  budget,  to  any  state
   department,  agency  or  public  benefit
   corporation (13608).
-  64  12550-02-3
- 
-  DIVISION OF THE BUDGET
- 
-  STATE OPERATIONS  2023-24
  
  Contractual services (51000) ................... 1,500,000
   --------------
-  65  12550-02-3
+  64  12550-06-3
  
   CITY UNIVERSITY OF NEW YORK
  
@@ -3357,14 +3338,14 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  Enterprise Funds ...................  3,154,524,400  44,600,000
+  Enterprise Funds ...................  3,649,405,550  44,600,000
   ----------------  ----------------
-  All Funds ........................  3,154,524,400  44,600,000
+  All Funds ........................  3,649,405,550  44,600,000
   ================  ================
  
   SCHEDULE
  
- SENIOR COLLEGES .......................................... 1,558,708,400
+ SENIOR COLLEGES .......................................... 1,560,958,400
   --------------
  
   Enterprise Funds
@@ -3405,8 +3386,8 @@ S T A T E  O F  N E W  Y O R K
  For services and expenses for Hunter college . 183,673,200
  For  services  and  expenses  for  John  Jay
   college .................................... 104,505,000
-  66  12550-02-3
- 
+  65  12550-06-3
+
   CITY UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
@@ -3430,74 +3411,121 @@ S T A T E  O F  N E W  Y O R K
   professional studies ......................... 2,837,000
  For services and expenses of the  school  of
   labor and urban studies ...................... 3,683,300
- For  services  and expenses for the graduate
+ For  additional services and expenses to the
+  school of labor and urban studies ............ 2,250,000
+ For services and expenses for  the  graduate
   school of journalism ......................... 7,685,500
  For services and expenses of CUNY law school .. 17,812,600
  For services and expenses of the CUNY gradu-
   ate school of public health and policy ....... 5,004,800
   --------------
-  Program account subtotal ............... 1,558,708,400
+  Program account subtotal ............... 1,560,958,400
   --------------
- 
- INITIATIVES AND MANAGEMENT ................................. 222,094,200
+
+ INITIATIVES AND MANAGEMENT ................................. 695,249,200
   --------------
  
   Enterprise Funds
   CUNY Senior College Operating Fund
   CUNY Senior College Operating Account - 60851
  
- For services and expenses of central  admin-
+ For  services and expenses of central admin-
   istration  and  shared  service  centers,
   provided  however,  $12,000,000  of  this
-  appropriation  shall be made available for
-  services and expenses of  senior  colleges
-  to  be  distributed  according  to  a plan
-  approved by the city university  board  of
-  trustees,  a  portion of which may be used
+  appropriation shall be made available  for
+  services  and  expenses of senior colleges
+  to be  distributed  according  to  a  plan
+  approved  by  the city university board of
+  trustees, a portion of which may  be  used
   to support new classroom faculty.
- Provided further, $4,000,000 of  the  appro-
+ Provided  further,  $4,000,000 of the appro-
   priation  shall  be  made  available  for
-  services and expenses  of  expanding  open
-  educational  resources at the city univer-
-  sity of  New  York  senior  and  community
-  colleges targeting high-enrollment courses
-  including  general  education courses with
-  67  12550-02-3
+  services  and  expenses  of expanding open
+  educational resources at the city  univer-
+  sity  of  New  York  senior  and community
+  66  12550-06-3
  
   CITY UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
  
+  colleges targeting high-enrollment courses
+  including general education  courses  with
   the  highest  cost-savings  potential  for
   students (15484) ............................ 52,300,300
- For  services  and  expenses for information
+ For services and  expenses  for  information
   services  and  library/technology  systems
   (15485) ..................................... 12,166,900
- For  services  and  expenses  related to the
-  expansion of nursing programs.  A  portion
-  of  the  funds  herein appropriated may be
+ For services and  expenses  related  to  the
+  expansion  of  nursing programs. A portion
+  of the funds herein  appropriated  may  be
   transferred  to  the  general  fund-local
-  assistance  account of the city university
-  of New York to accomplish the purposes  of
-  this  appropriation,  in accordance with a
+  assistance account of the city  university
+  of  New York to accomplish the purposes of
+  this appropriation, in accordance  with  a
   plan approved by the director of the budg-
   et (15532) ................................... 2,000,000
  For services and expenses of senior colleges
   to  be  distributed  in  accordance  with
   general fund operating support pursuant to
-  paragraph  (f) of subdivision 7 of section
-  6206 of the education law (15435) ........... 62,627,000
- For services and expenses of  new  full-time
-  faculty  at  senior colleges and community
+  paragraph (f) of subdivision 7 of  section
+  6206 of the education law (15435) ........... 53,782,000
+ For  services  and expenses of new full-time
+  faculty at senior colleges  and  community
   colleges (15436) ............................ 53,000,000
  For  additional  operating  assistance  at
-  senior  colleges; provided that such funds
-  shall be  allocated  pursuant  to  a  plan
+  senior colleges; provided that such  funds
+  shall  be  allocated  pursuant  to  a plan
   approved by the director of the budget ...... 40,000,000
+ For  additional  operating  assistance  at
+  senior colleges ............................ 149,000,000
+ For  state  matching contributions to endow-
+  ments as defined in  section  352  of  the
+  education law, provided that such matching
+  contributions  shall provide one dollar of
+  state matching funds for every two dollars
+  of new private  donations  contributed  to
+  the  foundation  endowments, not to exceed
+  $333,000,000  in  total  state  matching
+  contributions;  and  provided further that
+  payment  of  such  matching  contributions
+  shall  be  pursuant to a plan developed by
+  the city university and  approved  by  the
+  director of the budget, and such plan at a
+  minimum  shall: (i) require annual report-
+  ing on the allocation  of  state  matching
+  contributions and an accounting of private
+  donations  to  the  universities chosen by
+  the board of  regents  secured  for  state
+  matching  contributions;  (ii) require use
+  of such matching contributions to  support
+  the employment of faculty members, student
+  financial  aid,  grants  for  research and
+  67  12550-06-3
+ 
+  CITY UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
+  development, and/or any other  program  or
+  function  that  supports university center
+  operations; and (iii) align  with  student
+  needs,  programmatic needs, and the diver-
+  sity, equity, and inclusion activities  of
+  the  state  university of New York.  Addi-
+  tionally,  each  foundation  shall  enter
+  into,  or  amend,  a  contract  with their
+  respective university center of the  state
+  university of New York that provides, at a
+  minimum,  the services the foundation will
+  provide  and  the  elements  of  the  plan
+  approved  by  the  director of the budget,
+  which is subject to  audit  by  the  State
+  Comptroller ................................ 333,000,000
   --------------
  
  SEARCH  FOR  EDUCATION,  ELEVATION  AND  KNOWLEDGE  (SEEK)
-  PROGRAMS .................................................. 37,053,500
+  PROGRAMS .................................................. 41,999,650
   --------------
  
   Enterprise Funds
@@ -3516,15 +3544,12 @@ S T A T E  O F  N E W  Y O R K
   matching  requirements  of  the  federal
   college  work  study  program  for  SEEK
   students (15421) ............................ 37,053,500
+ For additional services and expenses of  the
+  SEEK program ................................. 4,946,150
   --------------
  
  UNIVERSITY OPERATIONS .................................... 1,103,235,300
   --------------
-  68  12550-02-3
- 
-  CITY UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
  
   Enterprise Funds
   CUNY Senior College Operating Fund
@@ -3534,26 +3559,34 @@ S T A T E  O F  N E W  Y O R K
   rentals (15487) ............................. 52,842,400
  For  services  and  expenses  for  utilities
   costs (15488) ............................... 78,627,900
+  68  12550-06-3
+ 
+  CITY UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
  For  expenses  of  fringe benefits including
   social security payments (15489) ........... 971,765,000
   --------------
  
- UNIVERSITY PROGRAMS ......................................... 46,433,000
+ UNIVERSITY PROGRAMS ......................................... 64,563,000
   --------------
  
   Enterprise Funds
   CUNY Senior College Operating Fund
   CUNY Senior College Operating Account - 60851
  
- For services and expenses, not to exceed  65
-  percent  of  total  services and expenses,
-  related to the  operation  of  child  care
-  centers  at  the  senior  colleges for the
-  benefit of city university senior  college
-  students,  to be available for expenditure
-  upon submission to  the  director  of  the
-  budget  of  satisfactory  evidence  of the
+ For  services and expenses, not to exceed 65
+  percent of total  services  and  expenses,
+  related  to  the  operation  of child care
+  centers at the  senior  colleges  for  the
+  benefit  of city university senior college
+  students, to be available for  expenditure
+  upon  submission  to  the  director of the
+  budget of  satisfactory  evidence  of  the
   required matching funds (15491) .............. 1,430,000
+ For  services  and  expenses  for child care
+  centers ...................................... 3,600,000
  For  services  and  expenses  of  providing
   student  services,  including advising and
   counseling,  athletics,  career  services,
@@ -3575,80 +3608,88 @@ S T A T E  O F  N E W  Y O R K
  For payment of tuition reimbursement (15494) ... 9,000,000
  For services  and  expenses  of  CUNY  LEADS
   (15540) ...................................... 1,815,000
+ For additional services and expenses of CUNY
+  LEADS .......................................... 180,000
  For  services and expenses of the CUNY pipe-
   line  program  at  the  graduate  center
   (15405) ........................................ 250,000
-  69  12550-02-3
+ For  services  and  expenses  of  increasing
+  mental health services (15428) ............... 1,000,000
+ For  additional  services  and  expenses  of
+  increasing mental health services ............ 1,000,000
+  69  12550-06-3
  
   CITY UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
  
- For  services  and  expenses  of  increasing
-  mental health services (15428) ............... 1,000,000
- For  services  and  expenses of Medgar Evers
+ For  the  elimination  of  student  fees for
+  graduate students ........................... 13,000,000
+ For  services and expenses of the Black Male
+  Initiative ..................................... 350,000
+ For services and expenses  of  Medgar  Evers
   programmatic initiatives (15429) ................ 20,000
- For services and expenses of Lehman  College
+ For  services and expenses of Lehman College
   ACE Learning Center (15430) .................... 835,000
- For  services  and  expenses  of  the Rangel
-  Infrastructure Workforce  Training  Initi-
-  ative  to  serve  as  a state match to the
+ For services  and  expenses  of  the  Rangel
+  Infrastructure  Workforce  Training Initi-
+  ative to serve as a  state  match  to  the
   extent that federal funding is secured for
   this purpose (15438) ......................... 1,500,000
  For  services  and  expenses  of  the  First
   Impressions  Youth  Legal  Collaborative
   Initiative pursuant to a plan developed in
   consultation  with  the  office  of  court
-  administration  and approved by the direc-
+  administration and approved by the  direc-
   tor of the budget (15439) .................... 1,000,000
- For services and expenses  of  existing  New
+ For  services  and  expenses of existing New
   York city funded programs (15412) ........... 21,000,000
   --------------
- Total gross senior college operating budget  2,967,524,400
+ Total gross senior college operating budget  3,463,755,550
   ==============
- 
+
  Less: senior college tuition and fee revenue
   offset ................................... 1,219,219,000
- Less:  central administration and university
+ Less: central administration and  university
   wide programs offset ........................ 32,275,000
  Less: existing New York city funded programs .. 21,000,000
   --------------
  Total net operating expense, notwithstanding
   any  law,  rule,  or  regulation  to  the
-  contrary,  if  certain  city university of
-  New York property is sold during  academic
-  year  2023-24,  up  to $60,000,000 of such
-  property sale proceeds, if available,  may
+  contrary, if certain  city  university  of
+  New  York property is sold during academic
+  year 2023-24, up to  $60,000,000  of  such
+  property  sale proceeds, if available, may
   be used to support senior college expenses
-  already  accrued  or  to accrue during the
-  2023-24 academic  year,  provided  further
-  that  such  sale  proceeds used to support
-  senior college expenses shall  reduce  the
-  state's  net  operating  expense liability
+  already accrued or to  accrue  during  the
+  2023-24  academic  year,  provided further
+  that such sale proceeds  used  to  support
+  senior  college  expenses shall reduce the
+  state's net  operating  expense  liability
   pursuant to paragraphs 3 and 4 of subdivi-
-  sion A of section 6221  of  the  education
-  law  in an equal amount during the 2023-24
-  academic year ............................ 1,695,030,400
+  sion  A  of  section 6221 of the education
+  law in an equal amount during the  2023-24
+  academic year ............................ 2,191,261,550
   --------------
  
   Enterprise Funds
   CUNY Senior College Program Fund
   CUNY Senior College Program Account - 23250
-  70  12550-02-3
+  70  12550-06-3
  
   CITY UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
-
+ 
  For  services  and  expenses  of  activities
-  supported  in whole or in part by tuition,
+  supported in whole or in part by  tuition,
   related  academic  fees,  user  fees,  and
-  other  charges,  including dormitory oper-
+  other charges, including  dormitory  oper-
   ations  at  any  campus, including liabil-
   ities  incurred  prior  to  July  1,  2023
   (15417) .................................... 187,000,000
   --------------
-  71  12550-02-3
+  71  12550-06-3
  
   CITY UNIVERSITY OF NEW YORK
  
@@ -3661,11 +3702,11 @@ S T A T E  O F  N E W  Y O R K
   CUNY Senior College Operating Account - 60851
  
  By chapter 50, section 1, of the laws of 2022:
-  For  nonrecurring strategic investments in senior colleges and commun-
-  ity colleges, including but not limited to  investments  to  improve
-  academic  programs,  increase  enrollment,  enhance  student support
-  services and modernize campus operations; provided that  such  funds
-  shall  be  allocated  pursuant to a plan approved by the director of
+  For nonrecurring strategic investments in senior colleges and communi-
+  ty  colleges,  including  but  not limited to investments to improve
+  academic programs,  increase  enrollment,  enhance  student  support
+  services  and  modernize campus operations; provided that such funds
+  shall be allocated pursuant to a plan approved by  the  director  of
   the budget (15419) ... 40,000,000 ................ (re. $40,000,000)
  
  UNIVERSITY PROGRAMS
@@ -3675,18 +3716,18 @@ S T A T E  O F  N E W  Y O R K
   CUNY Senior College Operating Account - 60851
  
  By chapter 50, section 1, of the laws of 2022:
-  For services and expenses of the First Impressions Youth Legal  Colla-
-  borative  Initiative  pursuant  to  a plan developed in consultation
+  For  services and expenses of the First Impressions Youth Legal Colla-
+  borative Initiative pursuant to a  plan  developed  in  consultation
   with the office of court administration and approved by the director
   of the budget ... 1,000,000 ....................... (re. $1,000,000)
  
  The appropriation made by chapter 50, section 1, of the laws of 2022, is
   hereby amended and reappropriated to read:
-  For services and expenses related to the establishment of  child  care
-  centers  at  additional  campuses  AND/OR  THE EXPANSION OF EXISTING
-  ON-CAMPUS CHILD CARE CENTERS TO SERVE  ADDITIONAL  CHILDREN  (15437)
+  For  services  and expenses related to the establishment of child care
+  centers at additional campuses  AND/OR  THE  EXPANSION  OF  EXISTING
+  ON-CAMPUS  CHILD  CARE  CENTERS TO SERVE ADDITIONAL CHILDREN (15437)
   ... 3,600,000 ..................................... (re. $3,600,000)
-  72  12550-02-3
+  72  12550-06-3
  
   DEPARTMENT OF CIVIL SERVICE
  
@@ -3695,7 +3736,7 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
+ 
   General Fund .......................  40,094,000  0
   Special Revenue Funds - Other ......  1,191,000  0
   Internal Service Funds .............  41,512,000  0
@@ -3742,7 +3783,7 @@ S T A T E  O F  N E W  Y O R K
   Health Insurance Revolving Account
   Civil Service Employee Benefits Division  Administration
   Account - 55301
-  73  12550-02-3
+  73  12550-06-3
  
   DEPARTMENT OF CIVIL SERVICE
  
@@ -3800,7 +3841,7 @@ S T A T E  O F  N E W  Y O R K
  
  OFFICE OF DIVERSITY AND INCLUSION MANAGEMENT PROGRAM ......... 3,555,000
   --------------
-  74  12550-02-3
+  74  12550-06-3
  
   DEPARTMENT OF CIVIL SERVICE
  
@@ -3818,7 +3859,7 @@ S T A T E  O F  N E W  Y O R K
   office of diversity and inclusion  manage-
   ment,  established  pursuant  to executive
   order 187 (16612).
-
+ 
  Personal service--regular (50100) .............. 2,399,000
  Supplies and materials (57000) ................... 145,000
  Travel (54000) ................................... 545,000
@@ -3839,7 +3880,7 @@ S T A T E  O F  N E W  Y O R K
  For services and  expenses  related  to  the
   personnel  benefit  services  program
   (16606).
-
+ 
  Personal service--regular (50100) .............. 1,582,000
  Temporary service (50200) ........................ 119,000
  Holiday/overtime compensation (50300) ............. 11,000
@@ -3858,15 +3899,15 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ................... 150,000
  Contractual services (51000) ..................... 150,000
   --------------
-  75  12550-02-3
-
+  75  12550-06-3
+ 
   DEPARTMENT OF CIVIL SERVICE
  
   STATE OPERATIONS  2023-24
  
   Program account subtotal ..................... 300,000
   --------------
- 
+
   Internal Service Funds
   Health Insurance Revolving Account
   Health Insurance Internal Services Account - 55300
@@ -3905,26 +3946,7 @@ S T A T E  O F  N E W  Y O R K
  For suballocation to the department of audit
   and  control for services and expenses for
   auditors in order to  achieve  savings  in
-  the  health  insurance  program,  provided
-  however,  the  department  of  audit  and
-  control  shall  be  required  to  submit a
-  plan,  subject  to  the  approval  of  the
-  director  of  the  division of the budget,
-  detailing the  scope  and  objectives  for
-  each  proposed  audit,  including  but not
-  limited to the range of activities and the
-  period of  records  for  each  audit,  the
-  number  of supported employees and identi-
-  fied recoverable dollars from the previous
-  76  12550-02-3
-
-  DEPARTMENT OF CIVIL SERVICE
- 
-  STATE OPERATIONS  2023-24
- 
-  year's audits. Funds shall not  be  avail-
-  able  for suballocation until such plan is
-  approved. (16607).
+  the health insurance program (16607).
  
  Personal service--regular (50100) .............. 1,052,000
  Holiday/overtime compensation (50300) .............. 1,000
@@ -3935,9 +3957,15 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 1,763,000
   --------------
+  76  12550-06-3
+ 
+  DEPARTMENT OF CIVIL SERVICE
+ 
+  STATE OPERATIONS  2023-24
+ 
   Program account subtotal .................. 25,307,000
   --------------
-
+ 
  PERSONNEL MANAGEMENT SERVICES PROGRAM ....................... 35,166,000
   --------------
  
@@ -3974,12 +4002,6 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ................... 662,000
  Contractual services (51000) ................... 2,750,000
   --------------
-  77  12550-02-3
-
-  DEPARTMENT OF CIVIL SERVICE
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal .................. 21,425,000
   --------------
  
@@ -3992,6 +4014,12 @@ S T A T E  O F  N E W  Y O R K
   transferred  to  any  appropriation of the
   department  of  civil  service,  with  the
   approval of the director of budget.
+  77  12550-06-3
+ 
+  DEPARTMENT OF CIVIL SERVICE
+ 
+  STATE OPERATIONS  2023-24
+ 
  For  services  and  expenses  related to New
   York state personnel  management  services
   provided by the department (16609).
@@ -4032,12 +4060,6 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ................... 715,000
  Travel (54000) ................................... 259,000
  Contractual services (51000) ................... 3,542,000
-  78  12550-02-3
- 
-  DEPARTMENT OF CIVIL SERVICE
- 
-  STATE OPERATIONS  2023-24
-
  Equipment (56000) ................................ 379,000
  Fringe benefits (60000) ........................ 3,197,000
  Indirect costs (58800) ........................... 167,000
@@ -4050,6 +4072,11 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
+  78  12550-06-3
+ 
+  DEPARTMENT OF CIVIL SERVICE
+ 
+  STATE OPERATIONS  2023-24
  
  Notwithstanding  any other provision of law,
   the  money  hereby  appropriated  may  be
@@ -4064,7 +4091,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) .................... 25,000
  Contractual services (51000) ..................... 330,000
   --------------
-  79  12550-02-3
+  79  12550-06-3
  
   COMMISSION OF CORRECTION
  
@@ -4078,7 +4105,7 @@ S T A T E  O F  N E W  Y O R K
   ----------------  ----------------
   All Funds ........................  3,861,000  0
   ================  ================
-
+ 
   SCHEDULE
  
  IMPROVEMENT OF CORRECTIONAL FACILITIES PROGRAM ............... 3,861,000
@@ -4100,7 +4127,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (17201).
- 
+
  Personal service--regular (50100) .............. 3,094,000
  Temporary service (50200) ........................ 279,000
  Holiday/overtime compensation (50300) ............. 21,000
@@ -4109,7 +4136,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 242,000
  Equipment (56000) ................................. 12,000
   --------------
-  80  12550-02-3
+  80  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -4118,7 +4145,7 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   General Fund .......................  2,807,310,000  21,155,000
   Special Revenue Funds - Federal ....  40,500,000  202,138,000
   Special Revenue Funds - Other ......  35,879,000  0
@@ -4167,7 +4194,7 @@ S T A T E  O F  N E W  Y O R K
   department of  corrections  and  community
   supervision for the incarceration of ille-
   gal aliens (17559).
-  81  12550-02-3
+  81  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -4223,7 +4250,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 36,000
  Contractual services (51000) ................... 1,840,000
  Equipment (56000) ................................. 91,000
-  82  12550-02-3
+  82  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -4281,8 +4308,8 @@ S T A T E  O F  N E W  Y O R K
   liabilities  and  may  be  increased  or
   decreased  by  interchange  with any other
   appropriation  within  the  department  of
-  83  12550-02-3
-
+  83  12550-06-3
+ 
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
   STATE OPERATIONS  2023-24
@@ -4338,7 +4365,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ..................... 600,000
   --------------
-  84  12550-02-3
+  84  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -4394,10 +4421,10 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................... 300,000
  Contractual services (51000) ................... 7,300,000
  Equipment (56000) .............................. 2,050,000
-  85  12550-02-3
+  85  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
- 
+
   STATE OPERATIONS  2023-24
  
  Fringe benefits (60000) ....................... 10,200,000
@@ -4452,10 +4479,10 @@ S T A T E  O F  N E W  Y O R K
   of  expenses of Medication Assisted Treat-
   ment (M.A.T) programs providing  treatment
   and  services  to people under the custody
-  86  12550-02-3
+  86  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
- 
+
   STATE OPERATIONS  2023-24
  
   of  the  department  of  corrections  and
@@ -4463,7 +4490,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) .................. 11,000,000
   --------------
-
+ 
  PAROLE BOARD PROGRAM ......................................... 8,184,000
   --------------
  
@@ -4510,7 +4537,7 @@ S T A T E  O F  N E W  Y O R K
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
-  87  12550-02-3
+  87  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -4546,7 +4573,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 4,000,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Offender Programming Account - 22208
@@ -4566,10 +4593,10 @@ S T A T E  O F  N E W  Y O R K
  
  For  services and expenses of operating self
   sustaining facility commissaries (17504).
-  88  12550-02-3
+  88  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
-
+ 
   STATE OPERATIONS  2023-24
  
  Supplies and materials (57000) ................ 55,000,000
@@ -4583,7 +4610,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
- 
+
  For  services  and  expenses  related to the
   supervision  of  incarcerated  individuals
   program.
@@ -4624,12 +4651,12 @@ S T A T E  O F  N E W  Y O R K
   programs related to  the  Humane  Alterna-
   tives  to  Long  Term  (H.A.L.T)  Solitary
   Confinement Act.
-  89  12550-02-3
+  89  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
   STATE OPERATIONS  2023-24
-
+ 
  Notwithstanding any  inconsistent  provision
   of  law, the money hereby appropriated may
   be increased or decreased by  interchange,
@@ -4638,7 +4665,21 @@ S T A T E  O F  N E W  Y O R K
   any  department or agency for expenditures
   incurred in the operation of this  program
   with  the  approval of the director of the
-  budget (17516).
+  budget. Provided however,  notwithstanding
+  any  inconsistent  provision  of  law, the
+  money  hereby  appropriated  may  only  be
+  allocated, disbursed, increased, decreased
+  by  interchange  transfer or suballocation
+  pursuant to a plan, including  a  detailed
+  report  of  the  category  and  amount  of
+  expenses incurred in  prior  state  fiscal
+  years  associated  with  implementation of
+  the HALT Act and  the  projected  cost  of
+  expenses  provided  by  category,  amount
+  listed by correctional facility.  Provided
+  futher that such plan shall be approved by
+  the  temporary  president  of  the  Senate
+  (17516).
  
  Personal service - regular (50100) ............ 38,378,000
  Temporary service (50200) ........................ 422,000
@@ -4647,7 +4688,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 45,685,000
   --------------
-
+ 
  SUPPORT SERVICES PROGRAM ................................... 330,633,000
   --------------
  
@@ -4668,6 +4709,12 @@ S T A T E  O F  N E W  Y O R K
   facilities and may be used for the payment
   of  prior  year  liabilities  and  may  be
   increased or decreased by interchange with
+  90  12550-06-3
+ 
+  DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
+ 
+  STATE OPERATIONS  2023-24
+ 
   any other appropriation within the depart-
   ment  of  corrections and community super-
   vision  general  fund  -  state  purposes
@@ -4681,15 +4728,9 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
-  90  12550-02-3
- 
-  DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
- 
-  STATE OPERATIONS  2023-24
- 
   part of this  appropriation  as  if  fully
   stated (17501).
-
+ 
  Personal service--regular (50100) ............. 85,386,000
  Holiday/overtime compensation (50300) .......... 6,577,000
  Supplies and materials (57000) ............... 170,443,000
@@ -4707,7 +4748,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   food production center (17565).
- 
+
  Personal service--regular (50100) ................ 238,000
  Supplies and materials (57000) ................. 2,121,000
  Travel (54000) ................................... 590,000
@@ -4718,14 +4759,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,754,000
   --------------
-  91  12550-02-3
+  91  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  ADMINISTRATION PROGRAM
- 
+
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Correctional Services-NIC Grants Account - 25306
@@ -4763,7 +4804,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Substance Abuse Treatment State Prisons Account - 25408
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related  to substance abuse treatment in
   state prisons (17560).
@@ -4775,7 +4816,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 1,500,000 .............. (re. $1,500,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  92  12550-02-3
+  92  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -4784,7 +4825,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and  expenses  related  to substance abuse treatment in
   state prisons (17560).
   Personal service (50000) ... 1,500,000 .............. (re. $1,473,000)
-
+ 
  By chapter 50, section 1, of the laws of 2019:
   For  services  and  expenses  related  to substance abuse treatment in
   state prisons (17560).
@@ -4803,7 +4844,7 @@ S T A T E  O F  N E W  Y O R K
   Funds herein appropriated may be used to disburse unanticipated feder-
   al grants in support of various purposes and programs (17561).
   Nonpersonal service (57050) ... 5,000,000 ........... (re. $5,000,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   Funds herein appropriated may be used to disburse unanticipated feder-
   al grants in support of various purposes and programs (17561).
@@ -4818,7 +4859,7 @@ S T A T E  O F  N E W  Y O R K
   Funds herein appropriated may be used to disburse unanticipated feder-
   al grants in support of various purposes and programs (17561).
   Nonpersonal service (57050) ... 5,000,000 ........... (re. $3,321,000)
- 
+
  By chapter 50, section 1, of the laws of 2018:
   Funds herein appropriated may be used to disburse unanticipated feder-
   al grants in support of various purposes and programs (17561).
@@ -4833,12 +4874,12 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  93  12550-02-3
+  93  12550-06-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and expenses or reimbursement of expenses of Medication
   Assisted Treatment (M.A.T) programs providing treatment and services
@@ -4861,7 +4902,7 @@ S T A T E  O F  N E W  Y O R K
   Assisted Treatment (M.A.T) programs providing treatment and services
   to  people  under  the  custody of the Department of Corrections and
   Community Supervision (17515) ... 11,000,000 ..... (re. $10,125,000)
-  94  12550-02-3
+  94  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -4917,7 +4958,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 2,000,000
  Equipment (56000) ................................ 631,000
   --------------
-  95  12550-02-3
+  95  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -4975,7 +5016,7 @@ S T A T E  O F  N E W  Y O R K
   commissioner of the division  of  criminal
   justice services. A portion of these funds
   may  be  transferred  to aid to localities
-  96  12550-02-3
+  96  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5015,7 +5056,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Edward Byrne Memorial Grant Account - 25540
- 
+
  For services and  expenses  related  to  the
   federal  Edward  Byrne  memorial  justice
   assistance formula program. A  portion  of
@@ -5033,10 +5074,10 @@ S T A T E  O F  N E W  Y O R K
   Federal Miscellaneous Operating Grants Fund
   Juvenile  Justice  and  Delinquency  Prevention  Formula
   Account - 25436
-  97  12550-02-3
- 
-  DIVISION OF CRIMINAL JUSTICE SERVICES
+  97  12550-06-3
 
+  DIVISION OF CRIMINAL JUSTICE SERVICES
+ 
   STATE OPERATIONS  2023-24
  
  For services and  expenses  associated  with
@@ -5055,7 +5096,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 950,000
   --------------
- 
+
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Violence Against Women Account - 25477
@@ -5078,7 +5119,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Grants Account - 20197
-
+ 
  For  services  and  expenses associated with
   gifts, grants and bequests to the division
   of criminal justice services (20235).
@@ -5091,7 +5132,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
-  98  12550-02-3
+  98  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5149,7 +5190,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 8,000,000
   --------------
-  99  12550-02-3
+  99  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5202,11 +5243,11 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (20235).
- 
+
  Personal service--regular (50100) ................ 400,000
  Contractual services (51000) ................... 6,037,000
   --------------
-  100  12550-02-3
+  100  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5224,7 +5265,7 @@ S T A T E  O F  N E W  Y O R K
   law,  for  services and expenses associ-
   ated with local anti-auto theft programs
   (20235).
-
+ 
  Personal service--regular (50100) ................ 214,000
  Supplies and materials (57000) ..................... 2,000
  Travel (54000) .................................... 33,000
@@ -5235,14 +5276,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 353,000
   --------------
-  101  12550-02-3
+  101  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
- CRIME PREVENTION AND REDUCTION STRATEGIES PROGRAM
 
+ CRIME PREVENTION AND REDUCTION STRATEGIES PROGRAM
+ 
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Crime Identification and Technology Account - 25475
@@ -5293,7 +5334,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and  expenses related to crime identification technolo-
   gies, pursuant to an expenditure plan developed by the  commissioner
   of  the  division  of  criminal justice services. A portion of these
-  102  12550-02-3
+  102  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5351,7 +5392,7 @@ S T A T E  O F  N E W  Y O R K
   (20202).
   Personal service (50000) ... 1,000,000 .............. (re. $1,000,000)
   Nonpersonal service (57050) ... 5,000,000 ........... (re. $4,990,000)
-  103  12550-02-3
+  103  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5408,7 +5449,7 @@ S T A T E  O F  N E W  Y O R K
   Edward Byrne Memorial Grant Account - 25540
  
  By chapter 50, section 1, of the laws of 2022:
-  104  12550-02-3
+  104  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
 
@@ -5466,7 +5507,7 @@ S T A T E  O F  N E W  Y O R K
   justice  assistance formula program. Funds appropriated herein shall
   be expended pursuant to a plan  developed  by  the  commissioner  of
   criminal  justice services and approved by the director of the budg-
-  105  12550-02-3
+  105  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5524,7 +5565,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses associated with  the  juvenile  justice  and
   delinquency prevention formula account in accordance with a distrib-
   ution  plan  determined  by  the juvenile justice advisory group and
-  106  12550-02-3
+  106  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5581,7 +5622,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated to other state agencies (20216).
   Personal service (50000) ... 800,000 .................. (re. $800,000)
   Nonpersonal service (57050) ... 700,000 ............... (re. $700,000)
-  107  12550-02-3
+  107  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5639,7 +5680,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 800,000 ................... (re. $71,000)
   Nonpersonal service (57050) ... 645,000 ............... (re. $270,000)
   Fringe benefits (60090) ... 8,000 ....................... (re. $8,000)
-  108  12550-02-3
+  108  12550-06-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -5654,7 +5695,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated to other state agencies (20216).
   Personal service (50000) ... 800,000 ................... (re. $90,000)
   Nonpersonal service (57050) ... 562,000 ................. (re. $3,000)
-  109  12550-02-3
+  109  12550-06-3
  
   DEVELOPMENTAL DISABILITIES PLANNING COUNCIL
  
@@ -5708,7 +5749,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 10,000
   --------------
-  110  12550-02-3
+  110  12550-06-3
  
   DEVELOPMENTAL DISABILITIES PLANNING COUNCIL
  
@@ -5759,7 +5800,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,708,000 ............. (re. $609,000)
   Fringe benefits (60090) ... 759,000 ................... (re. $354,000)
   Indirect costs (58850) ... 95,000 ...................... (re. $75,000)
-  111  12550-02-3
+  111  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
@@ -5769,11 +5810,11 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  28,162,000  22,867,000
+  General Fund .......................  28,412,000  22,867,000
   Special Revenue Funds - Federal ....  2,000,000  19,471,000
   Special Revenue Funds - Other ......  5,580,000  2,000,000
   ----------------  ----------------
-  All Funds ........................  35,742,000  44,338,000
+  All Funds ........................  35,992,000  44,338,000
   ================  ================
  
   SCHEDULE
@@ -5817,7 +5858,7 @@ S T A T E  O F  N E W  Y O R K
 
  Personal service--regular (50100) ................ 198,000
  Supplies and materials (57000) ..................... 4,000
-  112  12550-02-3
+  112  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
@@ -5830,7 +5871,7 @@ S T A T E  O F  N E W  Y O R K
  Indirect costs (58800) ............................. 4,000
   --------------
  
- ECONOMIC DEVELOPMENT PROGRAM ................................ 24,063,000
+ ECONOMIC DEVELOPMENT PROGRAM ................................ 24,313,000
   --------------
  
   General Fund
@@ -5852,78 +5893,91 @@ S T A T E  O F  N E W  Y O R K
   Total amount available ...................... 19,913,000
   --------------
  
- For services and expenses of  a  procurement
-  contract  newsletter  pursuant  to article
+ For services and expenses of updates to  the
+  minority-  and women-owned business enter-
+  prise program data collection and  report-
+  ing requirements ............................... 250,000
+  --------------
+ 
+ For  services  and expenses of a procurement
+  contract newsletter  pursuant  to  article
   4-C of the economic development law.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
   Transfer Authority, and the IT Interchange
-  and Transfer Authority as defined  in  the
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (21602).
  
  Contractual services (51000) ..................... 150,000
   --------------
-  Program account subtotal .................. 20,063,000
-  --------------
- 
-  Special Revenue Funds - Federal
-  Federal Miscellaneous Operating Grants Fund
-  Federal Miscellaneous Grants Account - 25340
-  113  12550-02-3
+  113  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
   STATE OPERATIONS  2023-24
  
- For services and  expenses  related  to  the
+  Program account subtotal .................. 20,313,000
+  --------------
+ 
+  Special Revenue Funds - Federal
+  Federal Miscellaneous Operating Grants Fund
+  Federal Miscellaneous Grants Account - 25340
+ 
+ For  services  and  expenses  related to the
   economic development program (81018).
  Nonpersonal service (57050) .................... 2,000,000
   --------------
   Program account subtotal ................... 2,000,000
   --------------
- 
+
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Entertainment Diversity Job Training Development Account
   - 22247
  
- For  services  and  expenses  related to the
-  empire state entertainment  diversity  job
+ For services and  expenses  related  to  the
+  empire  state  entertainment diversity job
   training  development  fund,  up  to
-  $2,000,000 of the funds  appropriated  may
+  $2,000,000  of  the funds appropriated may
   be  suballocated  or  transferred  to  any
-  department, agency  or  public  authority,
-  including  the New York state urban devel-
+  department,  agency  or  public authority,
+  including the New York state urban  devel-
   opment  corporation  d/b/a  empire  state
-  development  to  allocate  grants  for job
+  development to  allocate  grants  for  job
   creation  and  training  programs  that
   support efforts to recruit, hire, promote,
-  retain,  develop  and  train a diverse and
-  inclusive workforce as production  company
-  employees  in the motion picture and tele-
+  retain, develop and train  a  diverse  and
+  inclusive  workforce as production company
+  employees in the motion picture and  tele-
   vision industry within the state (81018).
- 
+
  Contractual services (51000) ................... 2,000,000
   --------------
   Program account subtotal ................... 2,000,000
   --------------
-
+ 
  MARKETING AND ADVERTISING PROGRAM ............................ 8,056,000
   --------------
  
   General Fund
   State Purposes Account - 10050
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   marketing and advertising program (21401).
  
  Personal service--regular (50100) .............. 1,971,000
  Temporary service (50200) .......................... 7,000
+  114  12550-06-3
+ 
+  DEPARTMENT OF ECONOMIC DEVELOPMENT
+ 
+  STATE OPERATIONS  2023-24
+
  Holiday/overtime compensation (50300) ............. 52,000
  Supplies and materials (57000) .................... 10,000
  Travel (54000) .................................... 15,000
@@ -5932,31 +5986,26 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 2,366,000
   --------------
-  114  12550-02-3
- 
-  DEPARTMENT OF ECONOMIC DEVELOPMENT
- 
-  STATE OPERATIONS  2023-24
  
  For services and expenses of tourism market-
   ing.  Notwithstanding  any  inconsistent
   provision of law, all or a portion of this
   appropriation may, subject to the approval
-  of  the  director of the budget, be trans-
-  ferred to the general fund, local  assist-
+  of the director of the budget,  be  trans-
+  ferred  to the general fund, local assist-
   ance  account,  for  a  local  tourism
   promotion matching grants program pursuant
   to article 5-A of the economic development
   law.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
   Transfer Authority, and the IT Interchange
-  and Transfer Authority as defined  in  the
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (21417).
  
  Supplies and materials (57000) ................... 655,000
@@ -5972,38 +6021,38 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   Commerce Economic Development Assistance Account - 22042
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   marketing and advertising program.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  115  12550-06-3
+ 
+  DEPARTMENT OF ECONOMIC DEVELOPMENT
+
+  STATE OPERATIONS  2023-24
+ 
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (21401).
  
  Personal service--regular (50100) ................. 86,000
  Supplies and materials (57000) ..................... 3,000
  Travel (54000) ..................................... 3,000
  Contractual services (51000) ................... 3,057,000
-  115  12550-02-3
- 
-  DEPARTMENT OF ECONOMIC DEVELOPMENT
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60000) ........................... 38,000
  Indirect costs (58800) ............................. 3,000
   --------------
   Program account subtotal ................... 3,190,000
   --------------
-  116  12550-02-3
+  116  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  ECONOMIC DEVELOPMENT PROGRAM
@@ -6058,7 +6107,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,000,000 ........... (re. $2,000,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  117  12550-02-3
+  117  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
@@ -6077,7 +6126,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to the economic development  program
   (81018).
   Nonpersonal service (57050) ... 2,000,000 ........... (re. $2,000,000)
- 
+
  By chapter 50, section 1, of the laws of 2018, as amended by chapter 50,
   section 1, of the laws of 2019:
   For  services and expenses related to the economic development program
@@ -6095,7 +6144,7 @@ S T A T E  O F  N E W  Y O R K
   For  services and expenses related to the economic development program
   (81018).
   Nonpersonal service (57050) ... 2,000,000 ........... (re. $2,000,000)
- 
+
  By chapter 50, section 1, of the laws of 2015, as amended by chapter 50,
   section 1, of the laws of 2019:
   For services and expenses related to the economic development  program
@@ -6113,10 +6162,10 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to the economic development  program
   (81018).
   Nonpersonal service (57050) ... 2,000,000 ........... (re. $2,000,000)
- 
+
  By chapter 50, section 1, of the laws of 2012, as amended by chapter 50,
   section 1, of the laws of 2019:
-  118  12550-02-3
+  118  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
@@ -6153,7 +6202,7 @@ S T A T E  O F  N E W  Y O R K
   inclusive  workforce  as  production company employees in the motion
   picture and television industry within the state (81018).
   Contractual services (51000) ... 2,000,000 .......... (re. $2,000,000)
-
+ 
  MARKETING AND ADVERTISING PROGRAM
  
   General Fund
@@ -6174,10 +6223,10 @@ S T A T E  O F  N E W  Y O R K
   part of this appropriation as if fully stated (21417).
   Supplies and materials (57000) ... 655,000 ............ (re. $655,000)
   Contractual services (51000) ... 1,190,000 .......... (re. $1,008,000)
-  119  12550-02-3
+  119  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Equipment (56000) ... 655,000 ......................... (re. $562,000)
@@ -6232,7 +6281,7 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 655,000 ............ (re. $655,000)
   Contractual services (51000) ... 1,190,000 ............ (re. $656,000)
   Equipment (56000) ... 655,000 ......................... (re. $614,000)
-  120  12550-02-3
+  120  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
@@ -6290,7 +6339,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and  expenses of tourism marketing. Notwithstanding any
   inconsistent provision of law, all or a portion  of  this  appropri-
   ation may, subject to the approval of the director of the budget, be
-  121  12550-02-3
+  121  12550-06-3
  
   DEPARTMENT OF ECONOMIC DEVELOPMENT
  
@@ -6306,7 +6355,7 @@ S T A T E  O F  N E W  Y O R K
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (21417).
   Supplies and materials (57000) ... 655,000 .............. (re. $7,000)
-  122  12550-02-3
+  122  12550-06-3
  
   EDUCATION DEPARTMENT
  
@@ -6317,12 +6366,12 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  69,906,000  13,744,000
+  General Fund .......................  87,871,000  13,744,000
   Special Revenue Funds - Federal ....  373,183,100  736,041,000
   Special Revenue Funds - Other ......  175,498,000  12,801,000
   Internal Service Funds .............  33,880,000  0
   ----------------  ----------------
-  All Funds ........................  652,467,100  762,586,000
+  All Funds ........................  670,432,100  762,586,000
   ================  ================
  
   SCHEDULE
@@ -6332,20 +6381,9 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education  department contained in the aid
-  to localities budget bill,  and  (ii)  the
-  director of the budget has determined that
-  those  aid to localities appropriations as
-  finally acted on by  the  legislature  are
-  sufficient for the ensuing fiscal year.
- For  services  and  expenses  related to the
-  administration of the high  school  equiv-
+ 
+ For services and  expenses  related  to  the
+  administration  of  the high school equiv-
   alency diploma exam (21852).
  
  Personal service--regular (50100) ................ 662,000
@@ -6364,12 +6402,6 @@ S T A T E  O F  N E W  Y O R K
  
  For the administration of grants for specif-
   ic programs including, but not limited to,
-  123  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
   vocational  rehabilitation  and  supported
   employment.
  Notwithstanding  any  inconsistent provision
@@ -6379,6 +6411,11 @@ S T A T E  O F  N E W  Y O R K
   approval of the director of the budget, as
   needed to accomplish the  intent  of  this
   appropriation (21713).
+  123  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service (50000) ...................... 61,233,525
  Nonpersonal service (57050) ................... 14,949,492
@@ -6420,24 +6457,24 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service (50000) ......................... 120,000
  Nonpersonal service (57050) ...................... 428,040
-  124  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60090) ........................... 60,972
  Indirect costs (58850) ............................ 32,988
   --------------
   Total amount available ......................... 642,000
   --------------
-
+ 
  For the administration of grants for specif-
   ic programs including, but not limited to,
   the workforce investment act.
  Notwithstanding  any  inconsistent provision
   of law, a portion  of  this  appropriation
   may be suballocated to other state depart-
+  124  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+ 
   ments  and  agencies,  subject  to  the
   approval of the director of the budget, as
   needed to accomplish the  intent  of  this
@@ -6475,11 +6512,6 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   VESID Social Security Account - 22001
-  125  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  For expenses of contractual services for the
   rehabilitation of social security disabil-
@@ -6494,6 +6526,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 5,884,000
   --------------
+  125  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Other
   Tuition Reimbursement Fund
@@ -6533,12 +6570,6 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 1,141,000
  Indirect costs (58800) ............................ 61,000
   --------------
-  126  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ................... 4,215,000
   --------------
  
@@ -6551,6 +6582,12 @@ S T A T E  O F  N E W  Y O R K
  
  Supplies and materials (57000) ..................... 2,000
  Travel (54000) ..................................... 4,000
+  126  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+ 
  Contractual services (51000) ..................... 146,000
  Equipment (56000) .................................. 5,000
   --------------
@@ -6563,17 +6600,6 @@ S T A T E  O F  N E W  Y O R K
   General Fund
   State Purposes Account - 10050
  
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education  department contained in the aid
-  to localities budget bill,  and  (ii)  the
-  director of the budget has determined that
-  those  aid to localities appropriations as
-  finally acted on by  the  legislature  are
-  sufficient for the ensuing fiscal year.
  For services and expenses related to conser-
   vation and preservation of library materi-
   als  and  the  talking  book  and  braille
@@ -6591,11 +6617,6 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Operating Grants Account - 25456
-  127  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  For administration of federal grants  pursu-
   ant  to  various  federal  laws  including
@@ -6605,13 +6626,13 @@ S T A T E  O F  N E W  Y O R K
   geological  survey,  the  United  States
   department  of  energy,  and  the  United
   States department of the interior.
- Notwithstanding any  inconsistent  provision
-  of  law,  a  portion of this appropriation
+ Notwithstanding  any  inconsistent provision
+  of law, a portion  of  this  appropriation
   may be suballocated to other state depart-
-  ments and agencies or transferred  to  any
+  ments  and  agencies or transferred to any
   other  federal  fund,  subject  to  the
   approval of the director of the budget, as
-  needed to accomplish the  intent  of  this
+  needed  to  accomplish  the intent of this
   appropriation (21739).
  
  Personal service (50000) ....................... 3,157,000
@@ -6619,9 +6640,15 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60090) ........................ 1,095,000
  Indirect costs (58850) ........................... 511,000
   --------------
+  127  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+ 
   Total amount available ....................... 7,758,000
   --------------
- 
+
  For  the  administration  of  federal grants
   pursuant to various federal laws including
   the  library  services  technology  act
@@ -6647,11 +6674,6 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Cultural Education Account - 22063
-  128  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  For  services  and expenses of the office of
   cultural  education,  including  but  not
@@ -6675,11 +6697,16 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 33,158,000
   --------------
+  128  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Education Archives Account - 22077
- 
+
  For  services  and  expenses  of  the  state
   archives (21711).
  
@@ -6705,11 +6732,6 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 729,000
   --------------
-  129  12550-02-3
- 
-  EDUCATION DEPARTMENT
-
-  STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
@@ -6733,6 +6755,11 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Summer School of Arts Account - 21929
+  129  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  For  services  and  expenses  of  the summer
   school of the  arts.  Notwithstanding  any
@@ -6741,7 +6768,7 @@ S T A T E  O F  N E W  Y O R K
   to  other  state departments and agencies,
   as needed, to  accomplish  the  intent  of
   this appropriation (21711).
- 
+
  Temporary service (50200) ........................ 160,000
  Supplies and materials (57000) .................... 60,000
  Travel (54000) .................................... 45,000
@@ -6763,12 +6790,6 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) ................ 492,000
  Supplies and materials (57000) .................... 13,000
  Travel (54000) .................................... 22,000
-  130  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
-
  Contractual services (51000) ..................... 151,000
  Equipment (56000) ................................. 13,000
  Fringe benefits (60000) .......................... 217,000
@@ -6783,13 +6804,18 @@ S T A T E  O F  N E W  Y O R K
   Local Government Records Management Account - 20501
  
  For  payment  of  necessary  and  reasonable
-  expenses  incurred  by the commissioner of
-  education in  carrying  out  the  advisory
+  expenses incurred by the  commissioner  of
+  education  in  carrying  out  the advisory
   services  required  in  subdivision  1  of
-  section 57.23 of  the  arts  and  cultural
+  section  57.23  of  the  arts and cultural
   affairs  law  and  to  implement  sections
-  57.21, 57.35 and 57.37  of  the  arts  and
+  57.21,  57.35  and  57.37  of the arts and
   cultural affairs law (21845).
+  130  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service--regular (50100) .............. 2,184,000
  Temporary service (50200) ........................ 117,000
@@ -6806,7 +6832,7 @@ S T A T E  O F  N E W  Y O R K
   Internal Service Funds
   Agencies Internal Service Fund
   Archives Records Management Account - 55052
-
+ 
  For  services  and  expenses  of  archives
   records management (21711).
  
@@ -6821,11 +6847,6 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 2,183,000
   --------------
-  131  12550-02-3
-
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
   Internal Service Funds
   Agencies Internal Service Fund
@@ -6846,6 +6867,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 10,638,000
   --------------
+  131  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  OFFICE OF HIGHER EDUCATION AND THE PROFESSIONS PROGRAM ...... 82,699,000
   --------------
@@ -6853,17 +6879,6 @@ S T A T E  O F  N E W  Y O R K
   General Fund
   State Purposes Account - 10050
  
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education  department contained in the aid
-  to localities budget bill,  and  (ii)  the
-  director of the budget has determined that
-  those  aid to localities appropriations as
-  finally acted on by  the  legislature  are
-  sufficient for the ensuing fiscal year.
  For  services  and expenses of the office of
   higher  education  and  the  professions
   program,  including  up  to $5,700,000 for
@@ -6877,12 +6892,6 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) .............. 1,000
  Supplies and materials (57000) .................... 52,000
  Travel (54000) ................................... 152,000
-  132  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
-
  Contractual services (51000) ................... 5,619,000
  Equipment (56000) ................................. 52,000
   --------------
@@ -6892,7 +6901,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Education Fund
   Federal Department of Education Account - 25210
- 
+
  For  administration of federal grants pursu-
   ant to various federal laws including  the
   Carl  D.  Perkins  vocational  and applied
@@ -6916,6 +6925,12 @@ S T A T E  O F  N E W  Y O R K
  For administration of federal grants  pursu-
   ant to various federal laws including, but
   not limited to, title II supporting effec-
+  132  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+ 
   tive  instruction.  Provided further that,
   notwithstanding any inconsistent provision
   of  law,  the  commissioner  of  education
@@ -6934,12 +6949,6 @@ S T A T E  O F  N E W  Y O R K
   may be suballocated to other state depart-
   ments  and  agencies,  subject  to  the
   approval of the director of the budget, as
-  133  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
   needed to accomplish the  intent  of  this
   appropriation (23419).
  
@@ -6969,11 +6978,16 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 1,181,000
   --------------
- 
+
   Special Revenue Funds - Other
   Dedicated Miscellaneous Special Revenue Account
   Interstate  Reciprocity  for  Post-secondary  Distance
   Education Account - 23800
+  133  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  For  services  and  expenses  related to the
   office  of  higher  education  and  the
@@ -6992,11 +7006,6 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Institutional Accreditation Account - 22235
-  134  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  For  services  and expenses of institutional
   accreditation activities (21710).
@@ -7015,18 +7024,10 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   Office of Professions Account - 22051
  
- For  services and expenses related to licen-
-  sure and  disciplining  programs  for  the
-  professions,  and foreign and out-of-state
+ For services and expenses related to  licen-
+  sure  and  disciplining  programs  for the
+  professions, and foreign and  out-of-state
   medical school evaluations.
- Notwithstanding any provision of  law,  rule
-  or  regulation  to  the  contrary,  upon
-  approval of the director of the budget,  a
-  portion  of  this  appropriation  may  be
-  suballocated, interchanged, transferred or
-  otherwise made available to the department
-  of health for the services and expenses of
-  administering such program (21710).
  
  Personal service--regular (50100) ............. 27,554,000
  Holiday/overtime compensation (50300) ............ 200,000
@@ -7039,25 +7040,24 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 58,116,000
   --------------
- 
-  Special Revenue Funds - Other
-  Miscellaneous Special Revenue Fund
-  Teacher Certification Program Account - 21969
- 
- For services and  expenses  related  to  the
-  administration  of  the  teacher  certif-
-  ication  program,  including  up  to
-  $1,750,000  for the second year of a TEACH
-  system modernization project in  order  to
-  reduce processing times upon completion of
-  135  12550-02-3
+  134  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS  2023-24
  
-  such  project  by  at least 50 percent and
-  thereby achieve the  following  processing
+  Special Revenue Funds - Other
+  Miscellaneous Special Revenue Fund
+  Teacher Certification Program Account - 21969
+ 
+ For  services  and  expenses  related to the
+  administration  of  the  teacher  certif-
+  ication  program,  including  up  to
+  $1,750,000 for the second year of a  TEACH
+  system  modernization  project in order to
+  reduce processing times upon completion of
+  such project by at least  50  percent  and
+  thereby  achieve  the following processing
   times  for  certain  pathways  to  certif-
   ication:  no  more  than  four  weeks  for
   state-approved  teacher  preparation
@@ -7097,6 +7097,12 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................... 26,000
  Indirect costs (58800) ............................ 10,000
   --------------
+  135  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+ 
   Program account subtotal ..................... 223,000
   --------------
  
@@ -7106,23 +7112,6 @@ S T A T E  O F  N E W  Y O R K
   General Fund
   State Purposes Account - 10050
  
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  136  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education  department contained in the aid
-  to localities budget bill,  and  (ii)  the
-  director of the budget has determined that
-  those  aid to localities appropriations as
-  finally acted on by  the  legislature  are
-  sufficient for the ensuing fiscal year.
  For  services  and  expenses  related to the
   office  of  management  services  program
   (21744).
@@ -7166,7 +7155,7 @@ S T A T E  O F  N E W  Y O R K
  Equipment (56000) ................................ 141,000
  Fringe benefits (60000) .......................... 124,000
   --------------
-  137  12550-02-3
+  136  12550-06-3
  
   EDUCATION DEPARTMENT
  
@@ -7206,7 +7195,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses associated with
   centralized electronic data processing and
   printing (21744).
- 
+
  Personal service--regular (50100) ............. 10,141,000
  Holiday/overtime compensation (50300) ............ 175,000
  Supplies and materials (57000) ................. 1,505,000
@@ -7219,43 +7208,32 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
  OFFICE OF PREKINDERGARTEN THROUGH GRADE  TWELVE  EDUCATION
-  PROGRAM .................................................. 265,525,100
+  PROGRAM .................................................. 283,490,100
   --------------
  
   General Fund
   State Purposes Account - 10050
-  138  12550-02-3
+  137  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS  2023-24
  
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education department contained in the  aid
-  to  localities  budget  bill, and (ii) the
-  director of the budget has determined that
-  those aid to localities appropriations  as
-  finally  acted  on  by the legislature are
-  sufficient for the ensuing fiscal year.
- For services and expenses of the  office  of
+ For  services  and expenses of the office of
   prekindergarten  through  grade  twelve
   education  program,  including  but  not
   limited  to  accountability  activities
-  including but not limited to the  develop-
-  ment  of  a  school performance management
+  including  but not limited to the develop-
+  ment of a  school  performance  management
   system  that  will  streamline  school
   district reporting and increase fiscal and
   programmatic transparency and accountabil-
-  ity,  provided  further  that expenditures
+  ity, provided  further  that  expenditures
   for  accountability  activities  shall  be
   pursuant  to  a  plan  developed  by  the
-  commissioner of education and approved  by
+  commissioner  of education and approved by
   the director of the budget (21700).
- 
+
  Personal service--regular (50100) ............. 18,522,000
  Temporary service (50200) ...................... 2,129,000
  Holiday/overtime compensation (50300) ............ 127,000
@@ -7267,155 +7245,153 @@ S T A T E  O F  N E W  Y O R K
   Total amount available ...................... 31,445,000
   --------------
  
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education department contained in the  aid
-  to  localities  budget  bill, and (ii) the
-  director of the budget has determined that
-  those aid to localities appropriations  as
-  finally  acted  on  by the legislature are
-  sufficient for the ensuing fiscal year.
  For  the  purpose  of  carrying  out  the
   provisions  of subdivision 51-a of section
   305 of the education law and in  order  to
   create  and  print  more  forms  of  state
-  139  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
   standardized assessments in order to elim-
   inate stand-alone  multiple  choice  field
   tests  and release a significant amount of
   test questions pursuant to a plan prepared
   by  the  commissioner  of  education  and
-  approved by the  director  of  the  budget
+  approved  by  the  director  of the budget
   (55915).
  
  Contractual services (51000) ................... 8,400,000
   --------------
  
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education department contained in the  aid
-  to  localities  budget  bill, and (ii) the
-  director of the budget has determined that
-  those aid to localities appropriations  as
-  finally  acted  on  by the legislature are
-  sufficient for the ensuing fiscal year.
  For services and expenses of the  office  of
   family and community engagement (55928).
  
  Contractual services (51000) ..................... 808,000
   --------------
  
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education department contained in the  aid
-  to  localities  budget  bill, and (ii) the
-  director of the budget has determined that
-  those aid to localities appropriations  as
-  finally  acted  on  by the legislature are
-  sufficient for the ensuing fiscal year.
  For  services  and  expenses  of  the  state
   office  of  religious  and  independent
   schools (55929).
+  138  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
 
  Contractual services (51000) ................... 1,461,000
   --------------
  
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  education  department contained in the aid
-  140  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
-  to localities budget bill,  and  (ii)  the
-  director of the budget has determined that
-  those  aid to localities appropriations as
-  finally  acted  on  by the legislature are
-  sufficient for the ensuing fiscal year.
  For services and expenses of a comprehensive
-  study of alternative tuition  rate-setting
+  study  of alternative tuition rate-setting
   methodologies for approved providers oper-
-  ating  school-age programs receiving fund-
-  ing under Article 81 and/or Article 89  of
-  the  Education Law and providers operating
+  ating school-age programs receiving  fund-
+  ing  under Article 81 and/or Article 89 of
+  the Education Law and providers  operating
   approved  preschool  special  education
-  programs  under Section 4410 of the Educa-
-  tion Law, subject to a plan  developed  by
-  the commissioner of education and approved
-  by the director of the budget.
+  programs under Section 4410 of the  Educa-
+  tion  Law  for the purpose of developing a
+  new tuition rate-setting methodology to be
+  implemented by the  two  thousand  twenty-
+  eight--two  thousand  twenty-nine  school
+  year and thereafter,  subject  to  a  plan
+  developed by the commissioner of education
+  and  approved by the director of the budg-
+  et.
  Provided  that  such  study  shall  consider
-  stakeholder feedback and include, but  not
-  be  limited  to, a comparative analysis of
-  other New York State  agencies'  rate-set-
-  ting  methodologies,  including  the rate-
+  stakeholder  feedback and include, but not
+  be limited to, a comparative  analysis  of
+  other  New  York State agencies' rate-set-
+  ting methodologies,  including  the  rate-
   setting methodology utilized by the Office
   of  Children  and  Family  Services  for
   private  residential  school  programs;
-  options and recommendations for an  alter-
+  options  and recommendations for an alter-
   native rate-setting methodology or method-
-  ologies;  cost estimates for such alterna-
-  tive methodologies;  and  an  analysis  of
-  current provider tuition rates compared to
-  tuition  rates  that  would be established
-  under such alternative methodologies.
- At a minimum,  any  recommended  alternative
-  rate-setting  methodology or methodologies
-  proposed for such preschool and school-age
-  providers shall: (1) in  total,  be  cost-
-  neutral to the State, school districts and
-  counties;  (2)  substantially  restrict or
-  eliminate tuition rate appeals; (3) estab-
-  lish tuition  rates  that  are  calculated
-  based  on  standardized  parameters  and
-  criteria, including, but not  limited  to,
-  defined  program  and  staffing  models,
-  regional  costs,  and  minimum  required
-  enrollment  levels  as  a  percentage  of
-  program operating capacities; (4)  include
-  a  schedule  to phase in new tuition rates
-  in accordance with the recommended method-
-  ology or  methodologies;  and  (5)  ensure
-  tuition  rates  for  all  programs  can be
-  calculated no later than the beginning  of
-  each school year.
-  141  12550-02-3
+  ologies; cost estimates for such  alterna-
+  tive methodologies; an analysis of current
+  provider tuition rates compared to tuition
+  rates that would be established under such
+  alternative  methodologies; as well as the
+  review and consideration  of  standardized
+  parameters  and  criteria,  including, but
+  not limited to, defined program and staff-
+  ing models, regional  costs,  and  minimum
+  required enrollment levels as a percentage
+  of program operating capacities.
+ The  recommended  alternative  rate-setting
+  methodology or methodologies proposed  for
+  such  preschool  and  school-age providers
+  shall strive to:  (1)  ensure  the  fiscal
+  stability  of  such  schools and programs,
+  including  the  provision  of  annual
+  increases  in  reimbursement,  for  the
+  provision of  a  free  appropriate  public
+  education  in  accordance  with applicable
+  program standards pursuant to federal  and
+  state  law  and  regulation;  (2)  provide
+  predictability in  annual  funding  levels
+  139  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS  2023-24
- 
- The  education  department  shall  regularly
-  consult with the division  of  the  budget
-  throughout  completion  of  the  study.
-  Adoption of any such alternative rate-set-
-  ting methodologies shall be subject to the
-  approval of the director of the budget.
+
+  for  such schools and programs; (3) reduce
+  or eliminate the  need  for  tuition  rate
+  appeals;  (4)  include a schedule to phase
+  in  new  tuition  rates in accordance with
+  the recommended methodology  or  methodol-
+  ogies;  and  (5) enable issuance of school
+  year tuition rates by the  start  of  each
+  such school year.
+ The  education  department shall present its
+  recommendations and analysis to the gover-
+  nor, division of the budget and the legis-
+  lature, through their  respective  finance
+  and  ways  and  means  chairs,  education
+  chairs, and rankers of such committees  no
+  later  than July 1, 2025, provided, howev-
+  er, that the  department  shall  regularly
+  consult  with  the  division of the budget
+  and the legislature throughout  completion
+  of the study.  Adoption of any such alter-
+  native rate-setting methodologies shall be
+  subject to the approval of the director of
+  the  budget,  provided,  however,  any
+  requested amendments  or  disagreement  to
+  such  recommendations  made by the depart-
+  ment would be  outlined  and  provided  in
+  writing,  along  with  justification  and
+  analysis for such provided by the division
+  of budget to the governor, senate majority
+  leader, senate minority leader, speaker of
+  the assembly, and assembly minority  lead-
+  er.
  
  Temporary service (50200) ........................ 988,000
  Contractual services (51000) ................... 1,512,000
   --------------
   Total amount available ....................... 2,500,000
   --------------
-  Program account subtotal .................. 44,614,000
+ 
+ For services and expenses of a comprehensive
+  analysis  of  the  Foundation Aid formula,
+  including  recommendations  of  potential
+  modifications to improve the formula ......... 1,000,000
+ For services and expenses of a comprehensive
+  review  and  assessment  of  the  overall
+  effectiveness of the city  of  New  York's
+  school  governance  system,  in accordance
+  with chapter 364 of the laws of 2022 ........... 965,000
+ For  additional  services  and  expenses  of
+  increasing staffing levels .................. 16,000,000
+  --------------
+  Total amount available ...................... 17,965,000
+  --------------
+  140  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+
+  STATE OPERATIONS  2023-24
+ 
+  Program account subtotal .................. 62,579,000
   --------------
  
   Special Revenue Funds - Federal
@@ -7453,48 +7429,49 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 48,072,000
   --------------
-  142  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  For the administration of grants for specif-
   ic programs including, but not limited to,
   supporting effective instruction  pursuant
   to  title II of the elementary and second-
-  ary  education act provided, however, that
+  ary education act provided, however,  that
   a portion of the funds appropriated herein
-  shall be  used  to  implement  a  plan  to
+  shall  be  used  to  implement  a  plan to
   improve  educator  effectiveness  by  (1)
-  requiring longer, more intensive and  high
-  quality  student-teaching  experience in a
+  requiring  longer, more intensive and high
+  quality student-teaching experience  in  a
   school  setting  as  a  prerequisite  for
-  certification  as a teacher and (2) creat-
-  ing standards for a teacher and  principal
-  bar  exam certification program that would
-  include a  common  set  of  professionally
-  rigorous  assessments  to  ensure the best
+  certification as a teacher and (2)  creat-
+  ing  standards for a teacher and principal
+  141  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+
+  bar exam certification program that  would
+  include  a  common  set  of professionally
+  rigorous assessments to  ensure  the  best
   prepared educators are entering the public
   school  system.  Provided  further  that,
   notwithstanding any inconsistent provision
   of  law,  the  commissioner  of  education
   shall provide to the director of the budg-
-  et, the chairperson of the senate  finance
+  et,  the chairperson of the senate finance
   committee  and  the  chairperson  of  the
-  assembly ways and means  committee  copies
+  assembly  ways  and means committee copies
   of  any  spending  plans  and/or  budgets
-  submitted to the federal  government  with
-  respect  to the use of any funds appropri-
-  ated by the federal  government  including
-  state  grants  administered by the depart-
+  submitted  to  the federal government with
+  respect to the use of any funds  appropri-
+  ated  by  the federal government including
+  state grants administered by  the  depart-
   ment.
- Notwithstanding any  inconsistent  provision
-  of  law,  a  portion of this appropriation
+ Notwithstanding  any  inconsistent provision
+  of law, a portion  of  this  appropriation
   may be suballocated to other state depart-
   ments  and  agencies,  subject  to  the
   approval of the director of the budget, as
-  needed  to  accomplish  the intent of this
+  needed to accomplish the  intent  of  this
   appropriation (23418).
  
  Personal service (50000) ....................... 5,325,000
@@ -7504,32 +7481,32 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 14,714,000
   --------------
-
+ 
  For the administration of grants for specif-
   ic programs including, but not limited to,
-  the English language  acquisition  program
-  pursuant  to  title  III of the elementary
+  the  English  language acquisition program
+  pursuant to title III  of  the  elementary
   and  secondary  education  act.  Provided
-  further  that,  notwithstanding any incon-
-  143  12550-02-3
+  further that, notwithstanding  any  incon-
+  sistent provision of law, the commissioner
+  of education shall provide to the director
+  of  the  budget,  the  chairperson  of the
+  senate finance committee  and  the  chair-
+  person  of  the  assembly  ways  and means
+  committee copies  of  any  spending  plans
+  and/or  budgets  submitted  to the federal
+  government with respect to the use of  any
+  funds  appropriated by the federal govern-
+  ment including state  grants  administered
+  by the department.
+ Notwithstanding  any  inconsistent provision
+  of law, a portion  of  this  appropriation
+  142  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS  2023-24
- 
-  sistent provision of law, the commissioner
-  of education shall provide to the director
-  of the  budget,  the  chairperson  of  the
-  senate  finance  committee  and the chair-
-  person of  the  assembly  ways  and  means
-  committee  copies  of  any  spending plans
-  and/or budgets submitted  to  the  federal
-  government  with respect to the use of any
-  funds appropriated by the federal  govern-
-  ment  including  state grants administered
-  by the department.
- Notwithstanding any  inconsistent  provision
-  of  law,  a  portion of this appropriation
+
   may be suballocated to other state depart-
   ments  and  agencies,  subject  to  the
   approval of the director of the budget, as
@@ -7543,7 +7520,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 7,048,000
   --------------
-
+ 
  For the administration of grants for specif-
   ic programs including, but not limited to,
   21st century  community  learning  centers
@@ -7569,11 +7546,6 @@ S T A T E  O F  N E W  Y O R K
   approval of the director of the budget, as
   needed  to  accomplish  the intent of this
   appropriation (23416).
-  144  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  Personal service (50000) ....................... 5,619,000
  Nonpersonal service (57050) .................... 7,147,000
@@ -7585,28 +7557,34 @@ S T A T E  O F  N E W  Y O R K
  
  For the administration of grants for specif-
   ic programs including, but not limited to,
-  public  charter  schools pursuant to title
-  IV of the elementary and secondary  educa-
-  tion  act. Provided further that, notwith-
+  public charter schools pursuant  to  title
+  IV  of the elementary and secondary educa-
+  143  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+
+  tion act. Provided further that,  notwith-
   standing  any  inconsistent  provision  of
-  law,  the  commissioner of education shall
+  law, the commissioner of  education  shall
   provide to the director of the budget, the
-  chairperson of the senate finance  commit-
-  tee  and  the  chairperson of the assembly
-  ways and means  committee  copies  of  any
+  chairperson  of the senate finance commit-
+  tee and the chairperson  of  the  assembly
+  ways  and  means  committee  copies of any
   spending plans and/or budgets submitted to
   the federal government with respect to the
   use  of  any  funds  appropriated  by  the
-  federal government including state  grants
+  federal  government including state grants
   administered by the department.
- Notwithstanding  any  inconsistent provision
-  of law, a portion  of  this  appropriation
+ Notwithstanding any  inconsistent  provision
+  of  law,  a  portion of this appropriation
   may be suballocated to other state depart-
   ments  and  agencies,  subject  to  the
   approval of the director of the budget, as
-  needed to accomplish the  intent  of  this
+  needed  to  accomplish  the intent of this
   appropriation (23415).
- 
+
  Personal service (50000) ....................... 1,517,000
  Nonpersonal service (57050) .................... 1,870,000
  Fringe benefits (60090) .......................... 521,000
@@ -7617,35 +7595,35 @@ S T A T E  O F  N E W  Y O R K
  
  For the administration of grants for specif-
   ic programs including, but not limited to,
-  improving  academic  achievement, pursuant
+  improving academic  achievement,  pursuant
   to title I of the elementary and secondary
-  education act,  and  the  rural  education
-  initiative  pursuant  to  title  V  of the
-  elementary and  secondary  education  act.
+  education  act,  and  the  rural education
+  initiative pursuant  to  title  V  of  the
+  elementary  and  secondary  education act.
   Provided further that, notwithstanding any
   inconsistent provision of law, the commis-
-  sioner  of  education shall provide to the
+  sioner of education shall provide  to  the
   director of the budget, the chairperson of
   the  senate  finance  committee  and  the
-  145  12550-02-3
+  chairperson of the assembly ways and means
+  committee copies  of  any  spending  plans
+  and/or  budgets  submitted  to the federal
+  government with respect to the use of  any
+  funds  appropriated by the federal govern-
+  ment including state  grants  administered
+  by the department.
+ Notwithstanding  any  inconsistent provision
+  of law, a portion  of  this  appropriation
+  may be suballocated to other state depart-
+  ments  and  agencies,  subject  to  the
+  approval of the director of the budget, as
+  144  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS  2023-24
- 
-  chairperson of the assembly ways and means
-  committee  copies  of  any  spending plans
-  and/or budgets submitted  to  the  federal
-  government  with respect to the use of any
-  funds appropriated by the federal  govern-
-  ment  including  state grants administered
-  by the department.
- Notwithstanding any  inconsistent  provision
-  of  law,  a  portion of this appropriation
-  may be suballocated to other state depart-
-  ments  and  agencies,  subject  to  the
-  approval of the director of the budget, as
-  needed  to  accomplish  the intent of this
+
+  needed to accomplish the  intent  of  this
   appropriation (23414).
  
  Personal service (50000) ....................... 7,024,000
@@ -7658,15 +7636,15 @@ S T A T E  O F  N E W  Y O R K
  
  For the administration of grants for specif-
   ic programs including, but not limited to,
-  homeless education pursuant to  title  VII
-  of  the McKinney-Vento homeless assistance
+  homeless  education  pursuant to title VII
+  of the McKinney-Vento homeless  assistance
   act.
- Notwithstanding any  inconsistent  provision
-  of  law,  a  portion of this appropriation
+ Notwithstanding  any  inconsistent provision
+  of law, a portion  of  this  appropriation
   may be suballocated to other state depart-
   ments  and  agencies,  subject  to  the
   approval of the director of the budget, as
-  needed  to  accomplish  the intent of this
+  needed to accomplish the  intent  of  this
   appropriation (23413).
  
  Personal service (50000) ......................... 400,000
@@ -7681,18 +7659,12 @@ S T A T E  O F  N E W  Y O R K
   ic programs including, but not limited to,
   the Carl D. Perkins vocational and applied
   technology education act (VTEA).
- Notwithstanding any  inconsistent  provision
-  of  law,  a  portion of this appropriation
+ Notwithstanding  any  inconsistent provision
+  of law, a portion  of  this  appropriation
   may be suballocated to other state depart-
   ments  and  agencies,  subject  to  the
-  146  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
   approval of the director of the budget, as
-  needed  to  accomplish  the intent of this
+  needed to accomplish the  intent  of  this
   appropriation (23477).
  
  Personal service (50000) ....................... 5,017,000
@@ -7702,6 +7674,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 12,030,000
   --------------
+  145  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  For the administration of various grants.
  Notwithstanding  any  inconsistent provision
@@ -7743,11 +7720,6 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Federal Health and Human Services Account - 25122
-  147  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  For the administration of federal grants for
   health education including HIV/AIDS educa-
@@ -7758,6 +7730,11 @@ S T A T E  O F  N E W  Y O R K
   cated to other state departments and agen-
   cies,  as  needed to accomplish the intent
   of this appropriation (21742).
+  146  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service (50000) ......................... 500,000
  Nonpersonal service (57050) ...................... 450,000
@@ -7773,11 +7750,11 @@ S T A T E  O F  N E W  Y O R K
  
  For  administration  of  programs  funded
   through the national school lunch act.
- Notwithstanding  any  inconsistent provision
-  of law, a portion of  this  appropriation,
+ Notwithstanding any  inconsistent  provision
+  of  law,  a portion of this appropriation,
   subject to the approval of the director of
-  the  budget,  may be suballocated to other
-  state departments and agencies, as  needed
+  the budget, may be suballocated  to  other
+  state  departments and agencies, as needed
   to accomplish the intent of this appropri-
   ation (21703).
  
@@ -7794,18 +7771,12 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous  United  States  Department  of  Education
   Contracts Account - 22153
  
- For services and expenses  of  miscellaneous
+ For  services  and expenses of miscellaneous
   United  States  department  of  education
   contracts (21700).
  
  Contractual services (51000) ..................... 150,000
   --------------
-  148  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ..................... 150,000
   --------------
  
@@ -7815,10 +7786,15 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Expendable Trust Account - 20151
+  147  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
  
  For  services and expenses in fulfillment of
   donor bequests and gifts (21828).
-
+ 
  Supplies and materials (57000) .................... 28,400
  Travel (54000) ..................................... 1,000
  Contractual services (51000) ...................... 18,600
@@ -7831,8 +7807,8 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   Batavia School for the Blind Account - 22032
  
- For services and  expenses  related  to  the
-  operation  of  the  school  for  the blind
+ For  services  and  expenses  related to the
+  operation of  the  school  for  the  blind
   (21828).
  
  Personal service--regular (50100) .............. 5,657,000
@@ -7855,13 +7831,8 @@ S T A T E  O F  N E W  Y O R K
   Combined Expendable Trust Fund
   Expendable Trust Account - 20152
  
- For services and expenses in fulfillment  of
+ For  services and expenses in fulfillment of
   donor bequests and gifts (21829).
-  149  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS  2023-24
  
  Supplies and materials (57000) ..................... 1,000
  Travel (54000) ..................................... 1,000
@@ -7873,12 +7844,18 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
+  148  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS  2023-24
+ 
   Rome School for the Deaf Account - 22053
  
  For  services  and  expenses  related to the
   operation  of  the  school  for  the  deaf
   (21829).
-
+ 
  Personal service--regular (50100) .............. 5,118,000
  Temporary service (50200) ........................ 557,000
  Holiday/overtime compensation (50300) ............. 25,000
@@ -7891,34 +7868,71 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 10,013,000
   --------------
-  150  12550-02-3
+  149  12550-06-3
  
   EDUCATION DEPARTMENT
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  ADULT CAREER AND CONTINUING EDUCATION SERVICES PROGRAM
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ By chapter 50, section 1, of the laws of 2022:
+  For  services  and  expenses related to the administration of the high
+  school equivalency diploma exam (21852).
+  Personal service--regular (50100) ... 632,000 ......... (re. $303,000)
+  Temporary service (50200) ... 53,000 ................... (re. $53,000)
+  Supplies and materials (57000) ... 33,000 .............. (re. $33,000)
+  Travel (54000) ... 5,000 ................................ (re. $5,000)
+  Contractual services (51000) ... 3,587,000 .......... (re. $2,709,000)
+  Equipment (56000) ... 21,000 ........................... (re. $21,000)
+ 
+ By chapter 50, section 1, of the laws of 2021:
+  For services and expenses related to the administration  of  the  high
+  school equivalency diploma exam (21852).
+  Personal service--regular (50100) ... 614,000 ......... (re. $178,000)
+  Temporary service (50200) ... 53,000 ................... (re. $53,000)
+  Supplies and materials (57000) ... 33,000 .............. (re. $27,000)
+  Travel (54000) ... 5,000 ................................ (re. $5,000)
+  Contractual services (51000) ... 3,480,000 .......... (re. $2,393,000)
+  Equipment (56000) ... 21,000 ........................... (re. $21,000)
+ 
+ By chapter 50, section 1, of the laws of 2020:
+  For  services  and  expenses related to the administration of the high
+  school equivalency diploma exam.
+  Supplies and materials (57000) ... 33,000 .............. (re. $19,000)
+  Travel (54000) ... 5,000 ................................ (re. $5,000)
+  Contractual services (51000) ... 3,480,000 .......... (re. $2,301,000)
+  Equipment (56000) ... 21,000 ........................... (re. $16,000)
  
   Special Revenue Funds - Federal
   Federal Education Fund
   Federal Department of Education Account - 25210
  
  By chapter 50, section 1, of the laws of 2022:
-  For  the administration of grants for specific programs including, but
+  For the administration of grants for specific programs including,  but
   not limited to, vocational rehabilitation and supported employment.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (21713).
   Personal service (50000) ... 60,384,525 ............ (re. $60,384,000)
   Nonpersonal service (57050) ... 14,949,492 ......... (re. $14,949,000)
   Fringe benefits (60090) ... 30,672,287 ............. (re. $30,672,000)
   Indirect costs (58850) ... 16,673,176 .............. (re. $16,673,000)
-  For  the administration of grants for specific programs including, but
+  For the administration of grants for specific programs including,  but
   not limited to, independent living centers.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  150  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (21856).
   Personal service (50000) ... 300,000 .................. (re. $300,000)
   Nonpersonal service (57050) ... 500,000 ............... (re. $500,000)
@@ -7948,12 +7962,6 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For  the administration of grants for specific programs including, but
   not limited to, vocational rehabilitation and supported employment.
-  151  12550-02-3
- 
-  EDUCATION DEPARTMENT
-
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
   Notwithstanding any inconsistent provision of law, a portion  of  this
   appropriation  may  be  suballocated  to other state departments and
   agencies, subject to the approval of the director of the budget,  as
@@ -7976,6 +7984,12 @@ S T A T E  O F  N E W  Y O R K
   not limited to, in service training.
   Notwithstanding any inconsistent provision of law, a portion  of  this
   appropriation  may  be  suballocated  to other state departments and
+  151  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (21859).
   Personal service (50000) ... 120,000 .................. (re. $120,000)
@@ -8006,34 +8020,35 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 263,000 .............. (re. $263,000)
   Fringe benefits (60000) ... 2,000,000 ............... (re. $1,589,000)
   Indirect costs (58800) ... 584,000 .................... (re. $564,000)
-  152  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
  By chapter 50, section 1, of the laws of 2021:
-  For  expenses of contractual services for the rehabilitation of social
+  For expenses of contractual services for the rehabilitation of  social
   security disability beneficiaries (21852).
   Contractual services (51000) ... 262,659 .............. (re. $131,000)
   Fringe benefits (60000) ... 327,866 .................... (re. $46,000)
   Indirect costs (58800) ... 59,475 ...................... (re. $59,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  For expenses of contractual services for the rehabilitation of  social
+  For  expenses of contractual services for the rehabilitation of social
   security disability beneficiaries (21852).
   Fringe benefits (60000) ... 327,866 ................... (re. $105,000)
   Indirect costs (58800) ... 59,475 ...................... (re. $59,000)
  
  By chapter 50, section 1, of the laws of 2019:
-  For  expenses of contractual services for the rehabilitation of social
+  For expenses of contractual services for the rehabilitation of  social
   security disability beneficiaries (21852).
   Personal service--regular (50100) ... 308,000 ......... (re. $238,000)
   Fringe benefits (60000) ... 327,866 ................... (re. $284,000)
   Indirect costs (58800) ... 59,475 ...................... (re. $58,000)
  
  By chapter 50, section 1, of the laws of 2018:
-  For expenses of contractual services for the rehabilitation of  social
+  152  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
+  For  expenses of contractual services for the rehabilitation of social
   security disability beneficiaries.
   Personal service--regular (50100) ... 308,000 ......... (re. $165,000)
   Fringe benefits (60000) ... 327,866 ................... (re. $237,000)
@@ -8064,12 +8079,6 @@ S T A T E  O F  N E W  Y O R K
   laws including the library services technology act (LSTA).
   Notwithstanding  any  inconsistent provision of law, a portion of this
   appropriation may be suballocated to  other  state  departments  and
-  153  12550-02-3
- 
-  EDUCATION DEPARTMENT
-
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
   agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (21851).
   Personal service (50000) ... 3,570,000 .............. (re. $3,570,000)
@@ -8078,25 +8087,31 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 700,000 .................... (re. $700,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  For  administration of federal grants pursuant to various federal laws
-  including funds from  the  national  endowment  of  humanities,  the
+  For administration of federal grants pursuant to various federal  laws
+  including  funds  from  the  national  endowment  of humanities, the
   institute of museum and library services, the United States geologi-
-  cal  survey,  the United States department of energy, and the United
+  cal survey, the United States department of energy, and  the  United
   States department of the interior.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies or transferred to any other federal fund,  subject  to  the
-  approval  of the director of the budget, as needed to accomplish the
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies  or  transferred  to any other federal fund, subject to the
+  approval of the director of the budget, as needed to accomplish  the
   intent of this appropriation (21739).
   Personal service (50000) ... 3,157,000 .............. (re. $3,013,000)
   Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,908,000)
   Fringe benefits (60090) ... 1,095,000 ............... (re. $1,032,000)
+  153  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   Indirect costs (58850) ... 511,000 ..................... (re. $51,000)
-  For the administration of federal grants pursuant to  various  federal
+  For  the  administration of federal grants pursuant to various federal
   laws including: the library services technology act (LSTA).
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (21851).
   Personal service (50000) ... 3,570,000 ................ (re. $484,000)
   Nonpersonal service (57050) ... 1,250,000 ............. (re. $695,000)
@@ -8104,38 +8119,6 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 700,000 .................... (re. $586,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  For administration of federal grants pursuant to various federal  laws
-  including  funds  from  the  national  endowment  of humanities, the
-  institute of museum and library services, the United States geologi-
-  cal survey, the United States department of energy, and  the  United
-  States department of the interior.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies  or  transferred  to any other federal fund, subject to the
-  approval of the director of the budget, as needed to accomplish  the
-  intent of this appropriation (21739).
-  Personal service (50000) ... 3,157,000 .............. (re. $3,059,000)
-  Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,603,000)
-  Fringe benefits (60090) ... 1,095,000 ............... (re. $1,038,000)
-  Indirect costs (58850) ... 511,000 .................... (re. $504,000)
-  For  the  administration of federal grants pursuant to various federal
-  laws including: the library services technology act (LSTA).
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  154  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
-  agencies, subject to the approval of the director of the budget,  as
-  needed to accomplish the intent of this appropriation (21851).
-  Personal service (50000) ... 3,570,000 ................ (re. $527,000)
-  Nonpersonal service (57050) ... 1,250,000 ............. (re. $263,000)
-  Fringe benefits (60090) ... 2,100,000 ................. (re. $644,000)
-  Indirect costs (58850) ... 700,000 .................... (re. $409,000)
- 
- By chapter 50, section 1, of the laws of 2019:
   For  administration of federal grants pursuant to various federal laws
   including funds from  the  national  endowment  of  humanities,  the
   institute of museum and library services, the United States geologi-
@@ -8146,22 +8129,22 @@ S T A T E  O F  N E W  Y O R K
   agencies or transferred to any other federal fund,  subject  to  the
   approval  of the director of the budget, as needed to accomplish the
   intent of this appropriation (21739).
-  Personal service (50000) ... 3,157,000 .............. (re. $3,100,000)
-  Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,888,000)
-  Fringe benefits (60090) ... 1,095,000 ............... (re. $1,060,000)
-  Indirect costs (58850) ... 511,000 .................... (re. $507,000)
+  Personal service (50000) ... 3,157,000 .............. (re. $3,059,000)
+  Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,603,000)
+  Fringe benefits (60090) ... 1,095,000 ............... (re. $1,038,000)
+  Indirect costs (58850) ... 511,000 .................... (re. $504,000)
   For the administration of federal grants pursuant to  various  federal
   laws including: the library services technology act (LSTA).
   Notwithstanding  any  inconsistent provision of law, a portion of this
   appropriation may be suballocated to  other  state  departments  and
   agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (21851).
-  Personal service (50000) ... 3,570,000 ................ (re. $705,000)
-  Nonpersonal service (57050) ... 1,250,000 ............. (re. $361,000)
-  Fringe benefits (60090) ... 2,100,000 ................. (re. $455,000)
-  Indirect costs (58850) ... 700,000 .................... (re. $580,000)
+  Personal service (50000) ... 3,570,000 ................ (re. $527,000)
+  Nonpersonal service (57050) ... 1,250,000 ............. (re. $263,000)
+  Fringe benefits (60090) ... 2,100,000 ................. (re. $644,000)
+  Indirect costs (58850) ... 700,000 .................... (re. $409,000)
  
- By chapter 50, section 1, of the laws of 2018:
+ By chapter 50, section 1, of the laws of 2019:
   For administration of federal grants pursuant to various federal  laws
   including  funds  from  the  national  endowment  of humanities, the
   institute of museum and library services, the United States geologi-
@@ -8172,21 +8155,47 @@ S T A T E  O F  N E W  Y O R K
   agencies  or  transferred  to any other federal fund, subject to the
   approval of the director of the budget, as needed to accomplish  the
   intent of this appropriation (21739).
-  Personal service (50000) ... 3,157,000 .............. (re. $3,112,000)
-  Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,883,000)
-  Fringe benefits (60090) ... 1,095,000 ............... (re. $1,067,000)
-  Indirect costs (58850) ... 511,000 .................... (re. $508,000)
-  For  the  administration of federal grants pursuant to various federal
-  laws including: the library services technology act (LSTA).
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  155  12550-02-3
+  Personal service (50000) ... 3,157,000 .............. (re. $3,100,000)
+  Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,888,000)
+  Fringe benefits (60090) ... 1,095,000 ............... (re. $1,060,000)
+  154  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
+  Indirect costs (58850) ... 511,000 .................... (re. $507,000)
+  For  the  administration of federal grants pursuant to various federal
+  laws including: the library services technology act (LSTA).
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
   agencies, subject to the approval of the director of the budget,  as
+  needed to accomplish the intent of this appropriation (21851).
+  Personal service (50000) ... 3,570,000 ................ (re. $705,000)
+  Nonpersonal service (57050) ... 1,250,000 ............. (re. $361,000)
+  Fringe benefits (60090) ... 2,100,000 ................. (re. $455,000)
+  Indirect costs (58850) ... 700,000 .................... (re. $580,000)
+ 
+ By chapter 50, section 1, of the laws of 2018:
+  For  administration of federal grants pursuant to various federal laws
+  including funds from  the  national  endowment  of  humanities,  the
+  institute of museum and library services, the United States geologi-
+  cal  survey,  the United States department of energy, and the United
+  States department of the interior.
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies or transferred to any other federal fund,  subject  to  the
+  approval  of the director of the budget, as needed to accomplish the
+  intent of this appropriation (21739).
+  Personal service (50000) ... 3,157,000 .............. (re. $3,112,000)
+  Nonpersonal service (57050) ... 2,995,000 ........... (re. $2,883,000)
+  Fringe benefits (60090) ... 1,095,000 ............... (re. $1,067,000)
+  Indirect costs (58850) ... 511,000 .................... (re. $508,000)
+  For the administration of federal grants pursuant to  various  federal
+  laws including: the library services technology act (LSTA).
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (21851).
   Personal service (50000) ... 3,570,000 ................ (re. $830,000)
   Nonpersonal service (57050) ... 1,250,000 ............. (re. $120,000)
@@ -8195,7 +8204,24 @@ S T A T E  O F  N E W  Y O R K
  
  OFFICE OF HIGHER EDUCATION AND THE PROFESSIONS PROGRAM
  
+  General Fund
+  State Purposes Account - 10050
+ 
+ By chapter 50, section 1, of the laws of 2022:
+  For services and expenses of the office of higher  education  and  the
+  professions  program,  including  up  to $5,700,000 for services and
+  expenses related to tenured teacher hearings  pursuant  to  sections
+  3020-a and 3020-b of the education law (21710).
+  Travel (54000) ... 152,000 ............................ (re. $142,000)
+  Contractual services (51000) ... 5,619,000 .......... (re. $3,694,000)
+ 
   Special Revenue Funds - Federal
+  155  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   Federal Education Fund
   Federal Department of Education Account - 25210
  
@@ -8229,7 +8255,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 78,000 ................. (re. $78,000)
   Fringe benefits (60090) ... 286,000 ................... (re. $286,000)
   Indirect costs (58850) ... 176,000 .................... (re. $176,000)
- 
+
  By chapter 50, section 1, of the laws of 2021:
   For  administration of federal grants pursuant to various federal laws
   including Carl D. Perkins vocational and applied  technology  educa-
@@ -8238,12 +8264,6 @@ S T A T E  O F  N E W  Y O R K
   appropriation may be suballocated to  other  state  departments  and
   agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (21710).
-  156  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
   Personal service (50000) ... 275,000 ................... (re. $25,000)
   Nonpersonal service (57050) ... 50,000 ................. (re. $48,000)
   Fringe benefits (60090) ... 120,000 ..................... (re. $6,000)
@@ -8252,15 +8272,38 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Operating Grants Account - 25456
-
+ 
  By chapter 50, section 1, of the laws of 2022:
-  For  administration of federal grants pursuant to various federal laws
-  including the national community service act and the  transition  to
+  156  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
+  For administration of federal grants pursuant to various federal  laws
+  including  the  national community service act and the transition to
   teaching program (21710).
   Personal service (50000) ... 387,000 .................. (re. $387,000)
   Nonpersonal service (57050) ... 549,000 ............... (re. $549,000)
   Fringe benefits (60090) ... 156,000 ................... (re. $156,000)
   Indirect costs (58850) ... 89,000 ...................... (re. $89,000)
+ 
+  Special Revenue Funds - Other
+  Miscellaneous Special Revenue Fund
+  Office of Professions Account - 22051
+ 
+ By chapter 50, section 1, of the laws of 2022:
+  For  services  and  expenses  related  to  licensure  and disciplining
+  programs for the professions, and foreign and  out-of-state  medical
+  school evaluations (21710).
+  Personal service--regular (50100) ... 26,674,000 .... (re. $6,215,000)
+  Holiday/overtime compensation (50300) ... 200,000 ...... (re. $77,000)
+  Supplies and materials (57000) ... 700,000 ............. (re. $78,000)
+  Travel (54000) ... 300,000 ............................ (re. $178,000)
+  Contractual services (51000) ... 10,695,000 ......... (re. $5,004,000)
+  Equipment (56000) ... 100,000 ......................... (re. $100,000)
+  Fringe benefits (60000) ... 17,168,000 .............. (re. $4,518,000)
+  Indirect costs (58800) ... 781,000 .................... (re. $169,000)
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
@@ -8278,7 +8321,7 @@ S T A T E  O F  N E W  Y O R K
   credentials,  and  no more than eight weeks for certificate progres-
   sion (21710).
   Contractual services ... 3,299,000 .................. (re. $3,140,000)
- 
+
  OFFICE OF MANAGEMENT SERVICES PROGRAM
  
   Special Revenue Funds - Other
@@ -8288,6 +8331,12 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2022:
   For services and expenses related to  the  administration  of  special
   revenue  funds  -  other and internal service funds and for services
+  157  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   provided to other state  agencies,  governmental  bodies  and  other
   entities (21744).
   Contractual services (51000) ... 2,962,000 .......... (re. $2,234,000)
@@ -8296,13 +8345,42 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  157  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
  By chapter 50, section 1, of the laws of 2022:
+  For  services  and  expenses  of the office of prekindergarten through
+  grade  twelve  education  program,  including  but  not  limited  to
+  accountability  activities including but not limited to the develop-
+  ment of a school performance management system that will  streamline
+  school district reporting and increase fiscal and programmatic tran-
+  sparency  and accountability, provided further that expenditures for
+  accountability activities shall be pursuant to a plan  developed  by
+  the  commissioner  of  education and approved by the director of the
+  budget (21700).
+  Temporary service (50200) ... 2,129,000 ............. (re. $1,789,000)
+  Holiday/overtime compensation (50300) ... 127,000 ..... (re. $125,000)
+  Supplies and materials (57000) ... 83,000 .............. (re. $83,000)
+  Travel (54000) ... 113,000 ............................. (re. $14,000)
+  Contractual services (51000) ... 10,264,000.......... (re. $2,590,000)
+  Equipment (56000) ... 207,000 ......................... (re. $158,000)
+  For the purpose of carrying out the provisions of subdivision 51-a  of
+  section  305  of  the education law and in order to create and print
+  more forms of state standardized assessments in order  to  eliminate
+  stand-alone  multiple  choice  field tests and release a significant
+  amount of test questions pursuant to a plan prepared by the  commis-
+  sioner  of  education  and  approved  by  the director of the budget
+  (55915).
+  Contractual services (51000) ... 8,400,000 .......... (re. $8,400,000)
+  For services and expenses  of  the  office  of  family  and  community
+  engagement (55928).
+  Contractual services (51000) ... 800,000 .............. (re. $800,000)
+  For  services  and expenses of the state office of religious and inde-
+  pendent schools (55929).
+  Contractual services (51000) ... 1,457,000 ............ (re. $631,000)
+  For services and expenses of a fiscal  consultant  for  the  Rochester
+  City School District (23378).
+  Contractual services (51000) ... 150,000 .............. (re. $150,000)
+ 
+ By chapter 50, section 1, of the laws of 2021:
   For  the purpose of carrying out the provisions of subdivision 51-a of
   section 305 of the education law and in order to  create  and  print
   more  forms  of state standardized assessments in order to eliminate
@@ -8310,30 +8388,35 @@ S T A T E  O F  N E W  Y O R K
   amount  of test questions pursuant to a plan prepared by the commis-
   sioner of education and approved  by  the  director  of  the  budget
   (55915).
-  Contractual services (51000) ... 8,400,000 .......... (re. $8,400,000)
-  For  services  and  expenses  of a fiscal consultant for the Rochester
-  City School District (23378).
-  Contractual services (51000) ... 150,000 .............. (re. $150,000)
- 
- By chapter 50, section 1, of the laws of 2021:
-  For the purpose of carrying out the provisions of subdivision 51-a  of
-  section  305  of  the education law and in order to create and print
-  more forms of state standardized assessments in order  to  eliminate
-  stand-alone  multiple  choice  field tests and release a significant
-  amount of test questions pursuant to a plan prepared by the  commis-
-  sioner  of  education  and  approved  by  the director of the budget
-  (55915).
   Contractual services (51000) ... 8,400,000 .......... (re. $3,990,000)
+  158  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
+  For  services  and  expenses  of  the  Office  of Family and Community
+  Engagement (55928) ... 800,000 ...................... (re. $138,000)
+  For  services  and expenses of the state office of religious and inde-
+  pendent schools (55929) ... 800,000 ................... (re. $4,000)
+  For continued support of state monitors appointed by the  commissioner
+  of education (55931) ... 225,000 .................... (re. $224,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  For the purpose of carrying out the provisions of subdivision 51-a  of
-  section  305  of  the education law and in order to create and print
-  more forms of state standardized assessments in order  to  eliminate
-  stand-alone  multiple  choice  field tests and release a significant
-  amount of test questions pursuant to a plan prepared by the  commis-
-  sioner  of  education  and  approved  by  the director of the budget
+  For  the purpose of carrying out the provisions of subdivision 51-a of
+  section 305 of the education law and in order to  create  and  print
+  more  forms  of state standardized assessments in order to eliminate
+  stand-alone multiple choice field tests and  release  a  significant
+  amount  of test questions pursuant to a plan prepared by the commis-
+  sioner of education and approved  by  the  director  of  the  budget
   (55915).
   Contractual services (51000) ... 8,400,000 ............ (re. $110,000)
+  For  services  and  expenses  of  the  Office  of Family and Community
+  Engagement ... 800,000 ............................... (re. $30,000)
+  For services and expenses of the state office of religious  and  inde-
+  pendent schools (55929) ... 800,000 ................. (re. $151,000)
+  For  continued support of state monitors appointed by the commissioner
+  of education (55931) ... 225,000 .................... (re. $220,000)
  
  By chapter 50, section 1, of the laws of 2019, as amended by chapter 50,
   section 1, of the laws of 2020:
@@ -8342,7 +8425,13 @@ S T A T E  O F  N E W  Y O R K
   state assessments and the regents examinations (23315).
   Personal service--regular (50100) ... 16,000 ........... (re. $16,000)
   Contractual services (51000) ... 984,000 .............. (re. $482,000)
+  For  continued support of state monitors appointed by the commissioner
+  of education (55931) ... 225,000 .................... (re. $217,000)
  
+ By chapter 50, section 1, of the laws of 2018:
+  For continued support of state monitors appointed by the  commissioner
+  of education ... 225,000 ............................ (re. $217,000)
+
  By chapter 50, section 1, of the laws of 2016, as amended by chapter 50,
   section 1, of the laws of 2018:
   For  service and expenses of professional development for teachers and
@@ -8354,16 +8443,16 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2018:
   For  additional  services and expenses related to implementing section
   3012-d of the education law, pursuant to  a  plan  approved  by  the
-  158  12550-02-3
+  director  of  the  budget.  Funds appropriated herein may be used to
+  acquire  the  services  of  experts  including  educators,  testing
+  experts,  psychometricians  and  economists to support the design of
+  159  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  director  of  the  budget.  Funds appropriated herein may be used to
-  acquire  the  services  of  experts  including  educators,  testing
-  experts,  psychometricians  and  economists to support the design of
-  additional  state measures, the development of growth models and all
+  additional state measures, the development of growth models and  all
   other aspects of the teacher and principal evaluation system (55901)
   Personal service--regular (50100) ... 89,000 ........... (re. $89,000)
   Travel (54000) ... 52,000 .............................. (re. $45,000)
@@ -8375,52 +8464,52 @@ S T A T E  O F  N E W  Y O R K
   Federal Department of Education Account - 25210
  
  By chapter 50, section 1, of the laws of 2022:
-  For the administration of grants for specific programs including,  but
-  not  limited to, grants for purposes under title I of the elementary
-  and secondary education act. Provided further that,  notwithstanding
-  any  inconsistent  provision  of  law, the commissioner of education
-  shall provide to the director of the budget, the chairperson of  the
-  senate  finance  committee  and the chairperson of the assembly ways
-  and means committee copies of  any  spending  plans  and/or  budgets
-  submitted  to  the federal government with respect to the use of any
-  funds appropriated by the federal government including state  grants
+  For  the administration of grants for specific programs including, but
+  not limited to, grants for purposes under title I of the  elementary
+  and  secondary education act. Provided further that, notwithstanding
+  any inconsistent provision of law,  the  commissioner  of  education
+  shall  provide to the director of the budget, the chairperson of the
+  senate finance committee and the chairperson of  the  assembly  ways
+  and  means  committee  copies  of  any spending plans and/or budgets
+  submitted to the federal government with respect to the use  of  any
+  funds  appropriated by the federal government including state grants
   administered by the department.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23443).
   Personal service (50000) ... 21,610,000 ............ (re. $17,425,000)
   Nonpersonal service (57050) ... 12,300,000 ......... (re. $12,285,000)
   Fringe benefits (60090) ... 9,046,000 ............... (re. $7,697,000)
   Indirect costs (58850) ... 4,944,000 ................ (re. $4,632,000)
-  For the administration of grants for specific programs including,  but
-  not  limited  to, supporting effective instruction pursuant to title
-  II of the elementary and secondary education act provided,  however,
-  that  a  portion  of  the funds appropriated herein shall be used to
-  implement a plan to improve educator effectiveness by (1)  requiring
-  longer,  more intensive and high quality student-teaching experience
+  For  the administration of grants for specific programs including, but
+  not limited to, supporting effective instruction pursuant  to  title
+  II  of the elementary and secondary education act provided, however,
+  that a portion of the funds appropriated herein  shall  be  used  to
+  implement  a plan to improve educator effectiveness by (1) requiring
+  longer, more intensive and high quality student-teaching  experience
   in a school setting as a prerequisite for certification as a teacher
-  and (2) creating standards for a  teacher  and  principal  bar  exam
-  certification  program  that  would  include a common set of profes-
-  sionally rigorous assessments to ensure the best prepared  educators
-  are  entering  the  public  school  system.  Provided  further that,
-  notwithstanding any inconsistent provision of law, the  commissioner
+  and  (2)  creating  standards  for  a teacher and principal bar exam
+  certification program that would include a  common  set  of  profes-
+  sionally  rigorous assessments to ensure the best prepared educators
+  are entering  the  public  school  system.  Provided  further  that,
+  notwithstanding  any inconsistent provision of law, the commissioner
   of education shall provide to the director of the budget, the chair-
-  person  of  the  senate finance committee and the chairperson of the
-  assembly ways and means  committee  copies  of  any  spending  plans
-  and/or  budgets  submitted to the federal government with respect to
-  the use of any funds appropriated by the federal government  includ-
+  person of the senate finance committee and the  chairperson  of  the
+  assembly  ways  and  means  committee  copies  of any spending plans
+  and/or budgets submitted to the federal government with  respect  to
+  the  use of any funds appropriated by the federal government includ-
   ing state grants administered by the department.
-  159  12550-02-3
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
+  needed to accomplish the intent of this appropriation (23418).
+  160  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
-  needed to accomplish the intent of this appropriation (23418).
   Personal service (50000) ... 5,300,000 .............. (re. $4,919,000)
   Nonpersonal service (57050) ... 6,300,000 ........... (re. $6,300,000)
   Fringe benefits (60090) ... 1,845,000 ............... (re. $1,663,000)
@@ -8469,72 +8558,72 @@ S T A T E  O F  N E W  Y O R K
   of education shall provide to the director of the budget, the chair-
   person of the senate finance committee and the  chairperson  of  the
   assembly  ways  and  means  committee  copies  of any spending plans
-  160  12550-02-3
- 
-  EDUCATION DEPARTMENT
- 
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
   and/or budgets submitted to the federal government with  respect  to
   the  use of any funds appropriated by the federal government includ-
   ing state grants administered by the department.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  161  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23415).
   Personal service (50000) ... 1,500,000 .............. (re. $1,500,000)
   Nonpersonal service (57050) ... 1,870,000 ........... (re. $1,870,000)
   Fringe benefits (60090) ... 510,000 ................... (re. $510,000)
   Indirect costs (58850) ... 320,000 .................... (re. $320,000)
-  For the administration of grants for specific programs including,  but
-  not  limited to, improving academic achievement, pursuant to title I
-  of the elementary and secondary education act, and the rural  educa-
-  tion  initiative pursuant to title V of the elementary and secondary
+  For  the administration of grants for specific programs including, but
+  not limited to, improving academic achievement, pursuant to title  I
+  of  the elementary and secondary education act, and the rural educa-
+  tion initiative pursuant to title V of the elementary and  secondary
   education act. Provided further that, notwithstanding any inconsist-
   ent provision of law, the commissioner of education shall provide to
-  the director of the budget, the chairperson of  the  senate  finance
+  the  director  of  the budget, the chairperson of the senate finance
   committee and the chairperson of the assembly ways and means commit-
-  tee  copies  of  any  spending plans and/or budgets submitted to the
+  tee copies of any spending plans and/or  budgets  submitted  to  the
   federal government with respect to the use of any funds appropriated
   by the federal government including state grants administered by the
   department.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23414).
   Personal service (50000) ... 7,000,000 .............. (re. $6,233,000)
   Nonpersonal service (57050) ... 13,500,000 ......... (re. $12,822,000)
   Fringe benefits (60090) ... 3,500,000 ............... (re. $3,078,000)
   Indirect costs (58850) ... 1,300,000 ................ (re. $1,246,000)
-  For  the administration of grants for specific programs including, but
-  not limited to, homeless education pursuant  to  title  VII  of  the
+  For the administration of grants for specific programs including,  but
+  not  limited  to,  homeless  education  pursuant to title VII of the
   McKinney-Vento homeless assistance act.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23413).
   Personal service (50000) ... 400,000 .................. (re. $367,000)
   Nonpersonal service (57050) ... 600,000 ............... (re. $600,000)
   Fringe benefits (60090) ... 250,000 ................... (re. $234,000)
   Indirect costs (58850) ... 150,000 .................... (re. $148,000)
-  For the administration of grants for specific programs including,  but
+  For  the administration of grants for specific programs including, but
   not limited to, the Carl D. Perkins vocational and applied technolo-
   gy education act (VTEA).
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23477).
   Personal service (50000) ... 5,000,000 .............. (re. $4,768,000)
   Nonpersonal service (57050) ... 4,000,000 ........... (re. $4,000,000)
   Fringe benefits (60090) ... 2,000,000 ............... (re. $1,889,000)
-  161  12550-02-3
+  Indirect costs (58850) ... 1,000,000 .................. (re. $986,000)
+  For the administration of various grants.
+  162  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  Indirect costs (58850) ... 1,000,000 .................. (re. $986,000)
-  For the administration of various grants.
   Notwithstanding  any  inconsistent provision of law, a portion of this
   appropriation may be suballocated to  other  state  departments  and
   agencies,  subject to the approval of the director of the budget, as
@@ -8543,10 +8632,10 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 4,589,000 ........... (re. $4,589,000)
   Fringe benefits (60090) ... 1,500,000 ............... (re. $1,500,000)
   Indirect costs (58850) ... 750,000 .................... (re. $750,000)
-  For services and expenses for school-age  children  and  preschool-age
+  For  services  and  expenses for school-age children and preschool-age
   children pursuant to the individuals with disabilities education act
-  of  1991.  Notwithstanding  any  inconsistent  provision  of  law, a
-  portion of this appropriation may be  suballocated  to  other  state
+  of 1991.  Notwithstanding  any  inconsistent  provision  of  law,  a
+  portion  of  this  appropriation  may be suballocated to other state
   departments and agencies, as needed to accomplish the intent of this
   appropriation (21737).
   Personal service (50000) ... 20,502,000 ............ (re. $16,372,000)
@@ -8555,45 +8644,45 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 6,317,000 ................ (re. $5,826,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  For  the administration of grants for specific programs including, but
-  not limited to, grants for purposes under title I of the  elementary
-  and  secondary education act. Provided further that, notwithstanding
-  any inconsistent provision of law,  the  commissioner  of  education
-  shall  provide to the director of the budget, the chairperson of the
-  senate finance committee and the chairperson of  the  assembly  ways
-  and  means  committee  copies  of  any spending plans and/or budgets
-  submitted to the federal government with respect to the use  of  any
-  funds  appropriated by the federal government including state grants
+  For the administration of grants for specific programs including,  but
+  not  limited to, grants for purposes under title I of the elementary
+  and secondary education act. Provided further that,  notwithstanding
+  any  inconsistent  provision  of  law, the commissioner of education
+  shall provide to the director of the budget, the chairperson of  the
+  senate  finance  committee  and the chairperson of the assembly ways
+  and means committee copies of  any  spending  plans  and/or  budgets
+  submitted  to  the federal government with respect to the use of any
+  funds appropriated by the federal government including state  grants
   administered by the department.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23443).
   Personal service (50000) ... 21,610,000 ............. (re. $9,951,000)
   Nonpersonal service (57050) ... 12,300,000 ......... (re. $11,265,000)
   Fringe benefits (60090) ... 9,046,000 ............... (re. $4,610,000)
   Indirect costs (58850) ... 4,944,000 ................ (re. $4,278,000)
-  For  the administration of grants for specific programs including, but
-  not limited to, supporting effective instruction pursuant  to  title
-  II  of the elementary and secondary education act provided, however,
-  that a portion of the funds appropriated herein  shall  be  used  to
-  implement  a plan to improve educator effectiveness by (1) requiring
-  longer, more intensive and high quality student-teaching  experience
+  For the administration of grants for specific programs including,  but
+  not  limited  to, supporting effective instruction pursuant to title
+  II of the elementary and secondary education act provided,  however,
+  that  a  portion  of  the funds appropriated herein shall be used to
+  implement a plan to improve educator effectiveness by (1)  requiring
+  longer,  more intensive and high quality student-teaching experience
   in a school setting as a prerequisite for certification as a teacher
-  and  (2)  creating  standards  for  a teacher and principal bar exam
-  certification program that would include a  common  set  of  profes-
-  sionally  rigorous assessments to ensure the best prepared educators
-  are entering  the  public  school  system.  Provided  further  that,
-  notwithstanding  any inconsistent provision of law, the commissioner
-  162  12550-02-3
+  and (2) creating standards for a  teacher  and  principal  bar  exam
+  certification  program  that  would  include a common set of profes-
+  sionally rigorous assessments to ensure the best prepared  educators
+  are  entering  the  public  school  system.  Provided  further that,
+  notwithstanding any inconsistent provision of law, the  commissioner
+  of education shall provide to the director of the budget, the chair-
+  person  of  the  senate finance committee and the chairperson of the
+  163  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  of education shall provide to the director of the budget, the chair-
-  person of the senate finance committee and the  chairperson  of  the
-  assembly  ways  and  means  committee  copies  of any spending plans
+  assembly ways and means  committee  copies  of  any  spending  plans
   and/or  budgets  submitted to the federal government with respect to
   the use of any funds appropriated by the federal government  includ-
   ing state grants administered by the department.
@@ -8642,73 +8731,73 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 6,800,000 ........... (re. $3,953,000)
   Fringe benefits (60090) ... 2,550,000 ............... (re. $2,438,000)
   Indirect costs (58850) ... 1,014,000 ................ (re. $1,000,000)
-  163  12550-02-3
+  For the administration of grants for specific programs including,  but
+  not  limited  to, public charter schools pursuant to title IV of the
+  elementary and  secondary  education  act.  Provided  further  that,
+  164  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  For the administration of grants for specific programs including,  but
-  not  limited  to, public charter schools pursuant to title IV of the
-  elementary and  secondary  education  act.  Provided  further  that,
   notwithstanding  any inconsistent provision of law, the commissioner
   of education shall provide to the director of the budget, the chair-
-  person  of  the  senate finance committee and the chairperson of the
-  assembly ways and means  committee  copies  of  any  spending  plans
-  and/or  budgets  submitted to the federal government with respect to
-  the use of any funds appropriated by the federal government  includ-
+  person of the senate finance committee and the  chairperson  of  the
+  assembly  ways  and  means  committee  copies  of any spending plans
+  and/or budgets submitted to the federal government with  respect  to
+  the  use of any funds appropriated by the federal government includ-
   ing state grants administered by the department.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23415).
   Personal service (50000) ... 1,500,000 ................ (re. $817,000)
   Nonpersonal service (57050) ... 1,870,000 ........... (re. $1,869,000)
   Fringe benefits (60090) ... 510,000 ................... (re. $162,000)
   Indirect costs (58850) ... 320,000 .................... (re. $279,000)
-  For the administration of grants for specific programs including,  but
-  not  limited to, improving academic achievement, pursuant to title I
-  of the elementary and secondary education act, and the rural  educa-
-  tion  initiative pursuant to title V of the elementary and secondary
+  For  the administration of grants for specific programs including, but
+  not limited to, improving academic achievement, pursuant to title  I
+  of  the elementary and secondary education act, and the rural educa-
+  tion initiative pursuant to title V of the elementary and  secondary
   education act. Provided further that, notwithstanding any inconsist-
   ent provision of law, the commissioner of education shall provide to
-  the director of the budget, the chairperson of  the  senate  finance
+  the  director  of  the budget, the chairperson of the senate finance
   committee and the chairperson of the assembly ways and means commit-
-  tee  copies  of  any  spending plans and/or budgets submitted to the
+  tee copies of any spending plans and/or  budgets  submitted  to  the
   federal government with respect to the use of any funds appropriated
   by the federal government including state grants administered by the
   department.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23414).
   Personal service (50000) ... 7,000,000 .............. (re. $5,131,000)
   Nonpersonal service (57050) ... 13,500,000 .......... (re. $5,684,000)
   Fringe benefits (60090) ... 3,500,000 ............... (re. $2,497,000)
   Indirect costs (58850) ... 1,300,000 ................ (re. $1,183,000)
-  For  the administration of grants for specific programs including, but
-  not limited to, homeless education pursuant  to  title  VII  of  the
+  For the administration of grants for specific programs including,  but
+  not  limited  to,  homeless  education  pursuant to title VII of the
   McKinney-Vento homeless assistance act.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23413).
   Personal service (50000) ... 400,000 .................. (re. $115,000)
   Nonpersonal service (57050) ... 600,000 ............... (re. $248,000)
   Fringe benefits (60090) ... 250,000 ................... (re. $154,000)
   Indirect costs (58850) ... 150,000 .................... (re. $139,000)
-  For the administration of grants for specific programs including,  but
+  For  the administration of grants for specific programs including, but
   not limited to, the Carl D. Perkins vocational and applied technolo-
   gy education act (VTEA).
-  164  12550-02-3
-
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  165  12550-06-3
+ 
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23477).
   Personal service (50000) ... 5,000,000 .............. (re. $4,072,000)
   Nonpersonal service (57050) ... 4,000,000 ........... (re. $3,454,000)
@@ -8758,14 +8847,14 @@ S T A T E  O F  N E W  Y O R K
   II of the elementary and secondary education act provided,  however,
   that  a  portion  of  the funds appropriated herein shall be used to
   implement a plan to improve educator effectiveness by (1)  requiring
-  165  12550-02-3
+  longer,  more intensive and high quality student-teaching experience
+  in a school setting as a prerequisite for certification as a teacher
+  166  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  longer,  more intensive and high quality student-teaching experience
-  in a school setting as a prerequisite for certification as a teacher
   and (2) creating standards for a  teacher  and  principal  bar  exam
   certification  program  that  would  include a common set of profes-
   sionally rigorous assessments to ensure the best prepared  educators
@@ -8816,14 +8905,14 @@ S T A T E  O F  N E W  Y O R K
   ing state grants administered by the department.
   Notwithstanding  any  inconsistent provision of law, a portion of this
   appropriation may be suballocated to  other  state  departments  and
-  166  12550-02-3
- 
-  EDUCATION DEPARTMENT
-
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
   agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23416).
+  167  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   Personal service (50000) ... 3,601,000 ................ (re. $599,000)
   Nonpersonal service (57050) ... 6,800,000 ........... (re. $2,526,000)
   Fringe benefits (60090) ... 2,550,000 ............... (re. $2,070,000)
@@ -8874,14 +8963,14 @@ S T A T E  O F  N E W  Y O R K
   agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23413).
   Personal service (50000) ... 400,000 .................. (re. $199,000)
-  167  12550-02-3
+  Nonpersonal service (57050) ... 600,000 ............... (re. $342,000)
+  Fringe benefits (60090) ... 250,000 .................... (re. $52,000)
+  168  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  Nonpersonal service (57050) ... 600,000 ............... (re. $342,000)
-  Fringe benefits (60090) ... 250,000 .................... (re. $52,000)
   Indirect costs (58850) ... 150,000 .................... (re. $124,000)
   For  the administration of grants for specific programs including, but
   not limited to, the Carl D. Perkins vocational and applied technolo-
@@ -8932,72 +9021,72 @@ S T A T E  O F  N E W  Y O R K
   longer, more intensive and high quality student-teaching  experience
   in a school setting as a prerequisite for certification as a teacher
   and  (2)  creating  standards  for  a teacher and principal bar exam
-  168  12550-02-3
+  certification program that would include a  common  set  of  profes-
+  sionally  rigorous assessments to ensure the best prepared educators
+  169  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
-  certification program that would include a  common  set  of  profes-
-  sionally  rigorous assessments to ensure the best prepared educators
+ 
   are entering  the  public  school  system.  Provided  further  that,
   notwithstanding  any inconsistent provision of law, the commissioner
   of education shall provide to the director of the budget, the chair-
-  person of the senate finance committee and the  chairperson  of  the
-  assembly  ways  and  means  committee  copies  of any spending plans
-  and/or budgets submitted to the federal government with  respect  to
-  the  use of any funds appropriated by the federal government includ-
+  person  of  the  senate finance committee and the chairperson of the
+  assembly ways and means  committee  copies  of  any  spending  plans
+  and/or  budgets  submitted to the federal government with respect to
+  the use of any funds appropriated by the federal government  includ-
   ing state grants administered by the department.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23418).
   Personal service (50000) ... 5,300,000 .............. (re. $1,705,000)
   Nonpersonal service (57050) ... 6,300,000 ........... (re. $1,907,000)
   Fringe benefits (60090) ... 1,845,000 ................. (re. $322,000)
   Indirect costs (58850) ... 1,225,000 .................. (re. $535,000)
-  For  the administration of grants for specific programs including, but
-  not limited to, English language  acquisition  program  pursuant  to
-  title  III  of  the elementary and secondary education act. Provided
+  For the administration of grants for specific programs including,  but
+  not  limited  to,  English  language acquisition program pursuant to
+  title III of the elementary and secondary  education  act.  Provided
   further that, notwithstanding any inconsistent provision of law, the
   commissioner of education shall provide to the director of the budg-
-  et, the chairperson of the senate finance committee and  the  chair-
+  et,  the  chairperson of the senate finance committee and the chair-
   person of the assembly ways and means committee copies of any spend-
-  ing  plans  and/or  budgets submitted to the federal government with
-  respect to the use of any funds appropriated by the federal  govern-
+  ing plans and/or budgets submitted to the  federal  government  with
+  respect  to the use of any funds appropriated by the federal govern-
   ment including state grants administered by the department.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23417).
   Personal service (50000) ... 3,000,000 .............. (re. $1,728,000)
   Nonpersonal service (57050) ... 2,000,000 ........... (re. $1,545,000)
   Fringe benefits (60090) ... 1,200,000 ................. (re. $344,000)
   Indirect costs (58850) ... 800,000 .................... (re. $726,000)
-  For the administration of grants for specific programs including,  but
-  not  limited to, 21st century community learning centers and student
-  support and academic enrichment pursuant to title IV of the  elemen-
-  tary  and  secondary  education act. Provided further that, notwith-
-  standing any inconsistent provision  of  law,  the  commissioner  of
-  education  shall  provide  to the director of the budget, the chair-
-  person of the senate finance committee and the  chairperson  of  the
-  assembly  ways  and  means  committee  copies  of any spending plans
-  and/or budgets submitted to the federal government with  respect  to
-  the  use of any funds appropriated by the federal government includ-
+  For  the administration of grants for specific programs including, but
+  not limited to, 21st century community learning centers and  student
+  support  and academic enrichment pursuant to title IV of the elemen-
+  tary and secondary education act. Provided  further  that,  notwith-
+  standing  any  inconsistent  provision  of  law, the commissioner of
+  education shall provide to the director of the  budget,  the  chair-
+  person  of  the  senate finance committee and the chairperson of the
+  assembly ways and means  committee  copies  of  any  spending  plans
+  and/or  budgets  submitted to the federal government with respect to
+  the use of any funds appropriated by the federal government  includ-
   ing state grants administered by the department.
-  Notwithstanding any inconsistent provision of law, a portion  of  this
-  appropriation  may  be  suballocated  to other state departments and
-  agencies, subject to the approval of the director of the budget,  as
+  Notwithstanding  any  inconsistent provision of law, a portion of this
+  appropriation may be suballocated to  other  state  departments  and
+  agencies,  subject to the approval of the director of the budget, as
   needed to accomplish the intent of this appropriation (23416).
   Personal service (50000) ... 3,500,000 .............. (re. $2,541,000)
-  169  12550-02-3
+  Nonpersonal service (57050) ... 6,700,000 ............. (re. $356,000)
+  Fringe benefits (60090) ... 2,500,000 ............... (re. $1,828,000)
+  170  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  Nonpersonal service (57050) ... 6,700,000 ............. (re. $356,000)
-  Fringe benefits (60090) ... 2,500,000 ............... (re. $1,828,000)
   Indirect costs (58850) ... 1,000,000 .................. (re. $929,000)
   For  the administration of grants for specific programs including, but
   not limited to, public charter schools pursuant to title IV  of  the
@@ -9048,14 +9137,14 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 600,000 ............... (re. $356,000)
   Fringe benefits (60090) ... 250,000 .................... (re. $78,000)
   Indirect costs (58850) ... 150,000 .................... (re. $130,000)
-  170  12550-02-3
- 
-  EDUCATION DEPARTMENT
-
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
   For services and expenses for school age children and preschool  chil-
   dren  pursuant to the individuals with disabilities education act of
+  171  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   1991. Notwithstanding any inconsistent provision of law,  a  portion
   of this appropriation may be suballocated to other state departments
   and  agencies,  as needed to accomplish the intent of this appropri-
@@ -9066,19 +9155,19 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 6,317,000 ................ (re. $1,844,000)
  
  By chapter 50, section 1, of the laws of 2018:
-  For the administration of grants for specific programs including,  but
-  not  limited to, grants for purposes under title I of the elementary
-  and secondary education act. Provided further that,  notwithstanding
-  any  inconsistent  provision  of  law, the commissioner of education
-  shall provide to the director of the budget, the chairperson of  the
-  senate  finance  committee  and the chairperson of the assembly ways
-  and means committee copies of  any  spending  plans  and/or  budgets
-  submitted  to  the federal government with respect to the use of any
-  funds appropriated by the federal government including state  grants
+  For  the administration of grants for specific programs including, but
+  not limited to, grants for purposes under title I of the  elementary
+  and  secondary education act. Provided further that, notwithstanding
+  any inconsistent provision of law,  the  commissioner  of  education
+  shall  provide to the director of the budget, the chairperson of the
+  senate finance committee and the chairperson of  the  assembly  ways
+  and  means  committee  copies  of  any spending plans and/or budgets
+  submitted to the federal government with respect to the use  of  any
+  funds  appropriated by the federal government including state grants
   administered by the department.
-  Notwithstanding  any  inconsistent provision of law, a portion of this
-  appropriation may be suballocated to  other  state  departments  and
-  agencies,  subject to the approval of the director of the budget, as
+  Notwithstanding any inconsistent provision of law, a portion  of  this
+  appropriation  may  be  suballocated  to other state departments and
+  agencies, subject to the approval of the director of the budget,  as
   needed to accomplish the intent of this appropriation (23443).
   Personal service (50000) ... 21,610,000 ............ (re. $10,450,000)
   Nonpersonal service (57050) ... 12,300,000 .......... (re. $6,602,000)
@@ -9090,10 +9179,10 @@ S T A T E  O F  N E W  Y O R K
   Federal Health and Human Services Account - 25122
  
  By chapter 50, section 1, of the laws of 2022:
-  For the administration of federal grants for health education  includ-
-  ing  HIV/AIDS  education. Notwithstanding any inconsistent provision
-  of law, a portion of this appropriation, subject to the approval  of
-  the  director  of  the  budget,  may  be suballocated to other state
+  For  the administration of federal grants for health education includ-
+  ing HIV/AIDS education. Notwithstanding any  inconsistent  provision
+  of  law, a portion of this appropriation, subject to the approval of
+  the director of the budget,  may  be  suballocated  to  other  state
   departments and agencies, as needed to accomplish the intent of this
   appropriation (21742).
   Personal service (50000) ... 500,000 .................. (re. $500,000)
@@ -9102,18 +9191,18 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 200,000 .................... (re. $200,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  For the administration of federal grants for health education  includ-
-  ing  HIV/AIDS  education. Notwithstanding any inconsistent provision
-  of law, a portion of this appropriation, subject to the approval  of
-  the  director  of  the  budget,  may  be suballocated to other state
-  171  12550-02-3
- 
-  EDUCATION DEPARTMENT
-
-  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+  For  the administration of federal grants for health education includ-
+  ing HIV/AIDS education. Notwithstanding any  inconsistent  provision
+  of  law, a portion of this appropriation, subject to the approval of
+  the director of the budget,  may  be  suballocated  to  other  state
   departments and agencies, as needed to accomplish the intent of this
   appropriation (21742).
+  172  12550-06-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
   Personal service (50000) ... 500,000 .................. (re. $473,000)
   Nonpersonal service (57050) ... 450,000 ............... (re. $299,000)
   Fringe benefits (60090) ... 370,000 ................... (re. $350,000)
@@ -9164,14 +9253,14 @@ S T A T E  O F  N E W  Y O R K
   lunch act.
   Notwithstanding any inconsistent provision of law, a portion  of  this
   appropriation,  subject to the approval of the director of the budg-
-  172  12550-02-3
+  et, may be suballocated to other state departments and agencies,  as
+  needed to accomplish the intent of this appropriation (21703).
+  173  12550-06-3
  
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
-  et, may be suballocated to other state departments and agencies,  as
-  needed to accomplish the intent of this appropriation (21703).
   Personal service (50000) ... 6,461,000 .............. (re. $6,461,000)
   Nonpersonal service (57050) ... 9,178,000 ........... (re. $9,177,000)
   Fringe benefits (60090) ... 3,579,000 ............... (re. $3,579,000)
@@ -9200,7 +9289,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 8,486,000 ........... (re. $4,668,000)
   Fringe benefits (60090) ... 3,308,000 ................. (re. $677,000)
   Indirect costs (58850) ... 2,834,000 ................ (re. $2,078,000)
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Miscellaneous United States Department of Education
@@ -9221,13 +9310,13 @@ S T A T E  O F  N E W  Y O R K
   For  services  and expenses related to the operation of the school for
   the blind (21828).
   Contractual services ... 815,000 ...................... (re. $670,000)
-  173  12550-02-3
-
+ 
+ SCHOOL FOR THE DEAF PROGRAM
+  174  12550-06-3
+ 
   EDUCATION DEPARTMENT
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
- SCHOOL FOR THE DEAF PROGRAM
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
@@ -9237,7 +9326,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and expenses related to the operation of the school for
   the deaf (21829).
   Contractual services ... 583,000 ...................... (re. $361,000)
-  174  12550-02-3
+  175  12550-06-3
  
   STATE BOARD OF ELECTIONS
  
@@ -9246,7 +9335,7 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
+ 
   General Fund .......................  26,672,000  3,418,000
   Special Revenue Funds - Federal ....  12,000,000  23,579,000
   Special Revenue Funds - Other ......  125,000  3,494,000
@@ -9295,7 +9384,7 @@ S T A T E  O F  N E W  Y O R K
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  175  12550-02-3
+  176  12550-06-3
  
   STATE BOARD OF ELECTIONS
  
@@ -9351,7 +9440,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (23526).
-  176  12550-02-3
+  177  12550-06-3
  
   STATE BOARD OF ELECTIONS
  
@@ -9409,7 +9498,7 @@ S T A T E  O F  N E W  Y O R K
   pursuant to subdivision 4 of section 3-100
   of  the  election  law,  or,  absent  a
   contract, pursuant to a vote of the  state
-  177  12550-02-3
+  178  12550-06-3
  
   STATE BOARD OF ELECTIONS
  
@@ -9465,10 +9554,10 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 7,000,000
   --------------
-  178  12550-02-3
+  179  12550-06-3
  
   STATE BOARD OF ELECTIONS
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  ELECTION ENFORCEMENT PROGRAM
@@ -9480,7 +9569,7 @@ S T A T E  O F  N E W  Y O R K
   For  the  purchase  of  software  and/or the development of technology
   related to compliance and enforcement (23516).
   Contractual services (51000) ... 1,000,000 ............ (re. $416,000)
- 
+
  By chapter 50, section 1, of the laws of 2021:
   For the purchase of software  and/or  the  development  of  technology
   related to compliance and enforcement (23516).
@@ -9523,12 +9612,12 @@ S T A T E  O F  N E W  Y O R K
   Contractual Services (51000) ... 5,000,000 .......... (re. $2,994,000)
  
   Special Revenue Funds - Federal
-  179  12550-02-3
+  180  12550-06-3
  
   STATE BOARD OF ELECTIONS
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   Federal Miscellaneous Operating Grants Fund
   HAVA Election Security Grant Account - 25541
  
@@ -9559,7 +9648,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Help America Vote Act Implementation Account - 25497
- 
+
  By chapter 50, section 1, of the laws of 2011:
   For  services  and  expenses  related to the implementation of federal
   election requirements including the help America vote  act  of  2002
@@ -9575,16 +9664,16 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2011:
   For HAVA related expenditures (23511) ................................
   6,000,000 ........................................... (re. $227,000)
- 
+
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Help America Vote Act Implementation Account - 25496
-  180  12550-02-3
+  181  12550-06-3
  
   STATE BOARD OF ELECTIONS
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  By chapter 50, section 1, of the laws of 2005, as added by  chapter  62,
   section 1, of the laws of 2005:
   For  services  and  expenses  related  to the help America vote act of
@@ -9637,10 +9726,10 @@ S T A T E  O F  N E W  Y O R K
   elections for expenditure pursuant to subdivision 4 of section 3-100
   of the election law (23504).
   Contractual services (51000) ... 1,000,000 ............ (re. $490,000)
-  181  12550-02-3
+  182  12550-06-3
  
   STATE BOARD OF ELECTIONS
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Special Revenue Funds - Other
@@ -9649,12 +9738,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2017:
   Contractual services (51000) ... 3,000,000 .......... (re. $2,183,000)
-  182  12550-02-3
+  183  12550-06-3
  
   OFFICE OF EMPLOYEE RELATIONS
  
   STATE OPERATIONS  2023-24
- 
+
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -9707,7 +9796,7 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
-  183  12550-02-3
+  184  12550-06-3
  
   OFFICE OF EMPLOYEE RELATIONS
  
@@ -9731,8 +9820,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 2,046,000
   --------------
-  184  12550-02-3
- 
+  185  12550-06-3
+
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS  2023-24
@@ -9741,12 +9830,12 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  219,532,000  9,835,000
+  General Fund .......................  220,532,000  9,835,000
   Special Revenue Funds - Federal ....  82,198,000  339,971,000
   Special Revenue Funds - Other ......  258,377,000  49,261,000
   Internal Service Funds .............  95,000  0
   ----------------  ----------------
-  All Funds ........................  560,202,000  399,067,000
+  All Funds ........................  561,202,000  399,067,000
   ================  ================
  
   SCHEDULE
@@ -9760,18 +9849,6 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses of the adminis-
   tration program,  including  suballocation
   to other state departments and agencies.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department of  environmental  conservation
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -9788,12 +9865,6 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ............. 60,000
  Supplies and materials (57000) ................... 800,000
  Travel (54000) ................................... 589,000
-  185  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
  Contractual services (51000) ................... 1,490,000
  Equipment (56000) ................................ 579,000
   --------------
@@ -9804,9 +9875,14 @@ S T A T E  O F  N E W  Y O R K
   Conservation Fund
   Conservation Fund Account - 21150
  
- For  services  and  expenses  related to the
+ For services and  expenses  related  to  the
   administration program (81001).
+  186  12550-06-3
  
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+
  Supplies and materials (57000) .................... 52,000
  Travel (54000) .................................... 30,000
  Contractual services (51000) ..................... 250,000
@@ -9819,17 +9895,17 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   ENCON Magazine Account - 21080
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   administration program.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (81001).
  
  Supplies and materials (57000) ................... 219,000
@@ -9843,14 +9919,9 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Environmental Conservation Special Revenue Fund
   Federal Grant Indirect Cost Recovery Account - 21065
-  186  12550-02-3
  
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
- For services and  expenses  related  to  the
-  administration  of special revenue funds -
+ For  services  and  expenses  related to the
+  administration of special revenue funds  -
   federal.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
@@ -9862,7 +9933,12 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (81001).
-
+  187  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
  Personal service--regular (50100) .............. 9,165,000
  Temporary service (50200) .......................... 6,000
  Holiday/overtime compensation (50300) ............. 19,000
@@ -9879,17 +9955,17 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   Miscellaneous Gifts Account - 21089
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   department of environmental conservation.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (81001).
  
  Contractual services (51000) ..................... 500,000
@@ -9900,68 +9976,51 @@ S T A T E  O F  N E W  Y O R K
   Internal Service Funds
   Agencies Internal Service Fund
   Banking Services Account - 55057
-  187  12550-02-3
+ 
+ For  services  and  expenses  related to the
+  lockbox collection of regulatory fees.
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
+  stated (81001).
+  188  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS  2023-24
- 
- For services and  expenses  related  to  the
-  lockbox collection of regulatory fees.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
-  stated (81001).
  
  Contractual services (51000) ...................... 95,000
   --------------
   Program account subtotal ...................... 95,000
   --------------
  
- AIR AND WATER QUALITY MANAGEMENT PROGRAM ................... 126,073,000
+ AIR AND WATER QUALITY MANAGEMENT PROGRAM ................... 127,073,000
   --------------
  
   General Fund
   State Purposes Account - 10050
  
- For services and expenses  of  the  air  and
-  water  quality management program, includ-
-  ing suballocation to other  state  depart-
+ For  services  and  expenses  of the air and
+  water quality management program,  includ-
+  ing  suballocation  to other state depart-
   ments and agencies.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department of  environmental  conservation
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (24779).
-  188  12550-02-3
  
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
-
  Personal service--regular (50100) ............. 25,064,000
  Temporary service (50200) ......................... 77,000
  Holiday/overtime compensation (50300) ............. 77,000
@@ -9969,8 +10028,13 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................. 1,359,000
  Contractual services (51000) ................... 2,402,000
  Equipment (56000) .............................. 1,324,000
+ For  additional services and expenses of the
+  department's  efforts  for  water  quality
+  management,  pursuant  to subdivision 2 of
+  section  15-0501  of  the  environmental
+  conservation law ............................. 1,000,000
   --------------
-  Program account subtotal .................. 32,093,000
+  Program account subtotal .................. 33,093,000
   --------------
  
   Special Revenue Funds - Federal
@@ -9983,6 +10047,11 @@ S T A T E  O F  N E W  Y O R K
   funds may be transferred to aid to locali-
   ties and  may  be  suballocated  to  other
   state departments and agencies (24780).
+  189  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service (50000) ....................... 4,742,000
  Nonpersonal service (57050) .................... 2,201,000
@@ -10013,12 +10082,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Miscellaneous Operating Grants Fund
   Federal Environmental Conservation Water Grants  Account
   - 25334
-  189  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
+
  For  services  and expenses related to water
   resource  purposes.  A  portion  of  these
   funds may be transferred to aid to locali-
@@ -10036,21 +10100,27 @@ S T A T E  O F  N E W  Y O R K
   Clean Air Fund
   Mobile Source Account - 21452
  
- For  the  direct  and  indirect costs of the
-  department of  environmental  conservation
-  associated  with  developing, implementing
+ For the direct and  indirect  costs  of  the
+  department  of  environmental conservation
+  associated with  developing,  implementing
   and  administering  the  mobile  source
-  program,  including suballocation to other
+  190  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+  program, including suballocation to  other
   state departments and agencies.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
  
  Personal service--regular (50100) .............. 4,773,000
@@ -10069,27 +10139,22 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Clean Air Fund
   Operating Permit Program Account - 21451
-  190  12550-02-3
  
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
- For  the  direct  and  indirect costs of the
-  department of  environmental  conservation
-  associated  with  developing, implementing
+ For the direct and  indirect  costs  of  the
+  department  of  environmental conservation
+  associated with  developing,  implementing
   and  administering  the  operating  permit
-  program,  including suballocation to other
+  program, including suballocation to  other
   state departments and agencies.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
  
  Personal service--regular (50100) .............. 3,320,000
@@ -10097,6 +10162,12 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ............. 46,000
  Supplies and materials (57000) ................... 317,000
  Travel (54000) ................................... 116,000
+  191  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
  Contractual services (51000) ................... 1,922,000
  Equipment (56000) ................................ 224,000
  Fringe benefits (60000) ........................ 2,409,000
@@ -10127,12 +10198,6 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) .............. 1,418,000
  Holiday/overtime compensation (50300) .............. 5,000
  Supplies and materials (57000) .................... 81,000
-  191  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
  Travel (54000) .................................... 70,000
  Contractual services (51000) ...................... 47,000
  Equipment (56000) ................................. 83,000
@@ -10146,27 +10211,33 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   Great Lakes Restoration Initiative Account - 21087
  
- For  services  and  expenses  related to the
+ For services and  expenses  related  to  the
   Great Lakes restoration initiative for the
-  purpose of sustainability and  restoration
+  purpose  of sustainability and restoration
   projects in the Great Lakes basin.  Pursu-
-  ant  to  section  11  of the state finance
+  ant to section 11  of  the  state  finance
   law,  the  department  is  authorized  to
   accept  any  monies  from  public  corpo-
-  rations, not-for-profit  corporations  and
-  other  non-governmental  organizations for
+  rations,  not-for-profit  corporations and
+  other non-governmental  organizations  for
+  192  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   purposes  of  Great  Lakes  restoration,
   including  suballocation  to  other  state
   departments and agencies.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
  
  Contractual services (51000) ................... 1,000,000
@@ -10180,23 +10251,17 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses related to article
   40 of the environmental conservation law.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
-  192  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (24779).
- 
+
  Personal service--regular (50100) ................. 89,000
  Holiday/overtime compensation (50300) ............. 15,000
  Supplies and materials (57000) .................... 20,000
@@ -10212,19 +10277,24 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Environmental Conservation Special Revenue Fund
   UST Trust Recovery Account - 21083
+  193  12550-06-3
  
- For services and  expenses  related  to  the
-  spills  program including suballocation to
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+ For  services  and  expenses  related to the
+  spills program including suballocation  to
   other state departments and agencies.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
  
  Personal service--regular (50100) .............. 1,133,000
@@ -10234,29 +10304,23 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 1,939,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Environmental Conservation Special Revenue Fund
   Utility Environmental Regulation Account - 21064
  
  For services and expenses related to utility
   regulatory work.
- Notwithstanding  any  other provision of law
+ Notwithstanding any other provision  of  law
   to  the  contrary,  direct  and  indirect
-  193  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
-  expenses  relating  to  the  department of
+  expenses relating  to  the  department  of
   environmental conservation's participation
-  in state  energy  policy  proceedings,  or
+  in  state  energy  policy  proceedings, or
   certification  proceedings  pursuant  to
   article 7 or 10 of the public service law,
   shall be deemed expenses of the department
-  of public service within  the  meaning  of
-  section  18-a  of  the  public service law
+  of  public  service  within the meaning of
+  section 18-a of  the  public  service  law
   (24779).
  
  Personal service--regular (50100) ................ 300,000
@@ -10269,19 +10333,24 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Environmental Protection and Oil Spill Compensation Fund
   Department of Environmental Conservation Account - 21203
+  194  12550-06-3
  
- For services and expenses  for  cleanup  and
-  removal  of oil and chemical spills pursu-
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+
+  STATE OPERATIONS  2023-24
+ 
+ For  services  and  expenses for cleanup and
+  removal of oil and chemical spills  pursu-
   ant to chapter 845 of the laws of 1977.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
  
  Personal service--regular (50100) .............. 9,766,000
@@ -10298,18 +10367,12 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
  Notwithstanding any law to the contrary, the
-  funds  authorized  in  subparagraph (i) of
-  paragraph (a) of subdivision 1 of  section
-  186  of  the navigation law related to oil
-  194  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
+  funds authorized in  subparagraph  (i)  of
+  paragraph  (a) of subdivision 1 of section
+  186 of the navigation law related  to  oil
   spill prevention and training necessary to
-  implement the  oil  spill  prevention  and
-  training  provisions  of  subdivision 3 of
+  implement  the  oil  spill  prevention and
+  training provisions of  subdivision  3  of
   section 186 of the navigation law shall be
   administered by the department of environ-
   mental conservation.
@@ -10327,6 +10390,11 @@ S T A T E  O F  N E W  Y O R K
   sonal service and fringe benefits, includ-
   ing  suballocation  to other state depart-
   ments and agencies (25750).
+  195  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+
+  STATE OPERATIONS  2023-24
  
  Supplies and materials (57000) ................... 150,000
  Travel (54000) ................................... 100,000
@@ -10342,28 +10410,23 @@ S T A T E  O F  N E W  Y O R K
   New York Great Lakes Protection Fund
   Great Lakes Protection Account - 22851
  
- For services  and  expenses  funded  by  the
-  Great  Lakes  protection fund, pursuant to
+ For  services  and  expenses  funded  by the
+  Great Lakes protection fund,  pursuant  to
   chapter  148  of  the  laws  of  1990  and
-  section  97-ee  of  the state finance law,
+  section 97-ee of the  state  finance  law,
   including  suballocation  to  other  state
   departments  and  agencies  including  the
   state university of New York.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
-  195  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
  
  Personal service--regular (50100) ................ 175,000
  Holiday/overtime compensation (50300) .............. 6,000
@@ -10377,25 +10440,31 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Special Revenue Funds - Other
-  Sewage  Treatment  Program Management and Administration
+  Sewage Treatment Program Management  and  Administration
   Fund
   ENCON Administration Account - 21002
  
  For services and expenses for administration
-  of the water pollution  control  revolving
-  fund  and related water quality activities
-  as permitted by  law,  including  suballo-
+  of  the  water pollution control revolving
+  fund and related water quality  activities
+  as  permitted  by  law, including suballo-
+  196  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+
+  STATE OPERATIONS  2023-24
+ 
   cation  to  the  environmental  facilities
   corporation.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24779).
  
  Personal service--regular (50100) ................ 577,000
@@ -10413,38 +10482,20 @@ S T A T E  O F  N E W  Y O R K
   General Fund
   State Purposes Account - 10050
  
- For  services  and  expenses  related to the
-  Clean Water, Clean Air, Green  Jobs  Envi-
+ For services and  expenses  related  to  the
+  Clean  Water,  Clean Air, Green Jobs Envi-
   ronmental  Bond  Act,  including  suballo-
-  196  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
-  cation to other state  agencies,  authori-
+  cation  to  other state agencies, authori-
   ties, and public benefit corporations.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department of  environmental  conservation
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated.
  
  Personal service--regular (50100) ............. 19,620,000
@@ -10455,6 +10506,12 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 1,200,000
  Equipment (56000) ................................. 70,000
   --------------
+  197  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+
+  STATE OPERATIONS  2023-24
+ 
   Program account subtotal .................. 24,000,000
   --------------
  
@@ -10465,26 +10522,8 @@ S T A T E  O F  N E W  Y O R K
   State Purposes Account - 10050
  
  For services and expenses of the enforcement
-  program, including suballocation to  other
+  program,  including suballocation to other
   state departments and agencies.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department of  environmental  conservation
-  contained  in the aid to localities budget
-  197  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the  legislature  are  sufficient  for the
-  ensuing fiscal year.
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
@@ -10525,6 +10564,12 @@ S T A T E  O F  N E W  Y O R K
   this appropriation to local assistance  to
   the  department of state for water quality
   planning and implementation of competitive
+  198  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+
   grants to municipalities  within  the  New
   York  City  watershed  for  the purpose of
   maintaining  the  filtration  avoidance
@@ -10532,19 +10577,13 @@ S T A T E  O F  N E W  Y O R K
   environmental protection agency.
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
-  198  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Transfer Authority and the IT  Interchange
   and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (24794).
  
  Personal service--regular (50100) .............. 4,006,000
@@ -10566,7 +10605,7 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses of the enforcement
   program (24793).
-
+ 
  Supplies and materials (57000) ................... 233,000
  Travel (54000) .................................... 10,000
  Contractual services (51000) ................... 1,433,000
@@ -10578,30 +10617,30 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   ENCON-Seized Assets Account - 21052
  
- For services and expenses  of  the  environ-
-  mental  enforcement  program in accordance
-  with a programmatic and financial plan  to
+ For  services  and  expenses of the environ-
+  mental enforcement program  in  accordance
+  with  a programmatic and financial plan to
   be approved by the director of the budget.
+  199  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
  The  amounts  appropriated  herein  may  be
-  interchanged or transferred without  limit
+  interchanged  or transferred without limit
   with  any  department  of  environmental
   conservation  asset  seizure  or  asset
   forfeiture special revenue account.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
-  199  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24793).
  
  Supplies and materials (57000) .................... 53,000
@@ -10615,19 +10654,19 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   Environmental Regulatory Account - 21081
  
- For  services  and  expenses of the environ-
+ For services and expenses  of  the  environ-
   mental  enforcement  program,  including
-  suballocation  to  other state departments
+  suballocation to other  state  departments
   and agencies.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24793).
  
  Personal service--regular (50100) ............. 10,475,000
@@ -10640,17 +10679,18 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 7,455,000
  Indirect costs (58800) ........................... 385,000
   --------------
-  Program account subtotal .................. 23,413,000
-  --------------
- 
-  Special Revenue Funds - Other
-  Environmental Conservation Special Revenue Fund
-  Public Safety Recovery Account - 21077
-  200  12550-02-3
+  200  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS  2023-24
+ 
+  Program account subtotal .................. 23,413,000
+  --------------
+
+  Special Revenue Funds - Other
+  Environmental Conservation Special Revenue Fund
+  Public Safety Recovery Account - 21077
  
  For  services  and  expenses related to fire
   suppression, homeland security  and  other
@@ -10685,7 +10725,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 1,017,000
   --------------
- 
+
   Special Revenue Funds - Other
   Environmental Conservation Special Revenue Fund
   Utility Environmental Regulation Account - 21064
@@ -10697,17 +10737,18 @@ S T A T E  O F  N E W  Y O R K
   expenses  relating  to  the  department of
   environmental conservation's participation
   in state  energy  policy  proceedings,  or
-  certification  proceedings  pursuant  to
-  article 7 or 10 of the public service law,
-  shall be deemed expenses of the department
-  of public service within  the  meaning  of
-  section  18-a  of  the  public service law
-  (24793).
-  201  12550-02-3
+  201  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS  2023-24
+ 
+  certification  proceedings  pursuant  to
+  article 7 or 10 of the public service law,
+  shall be deemed expenses of the department
+  of  public  service  within the meaning of
+  section 18-a of  the  public  service  law
+  (24793).
  
  Personal service--regular (50100) ................ 700,000
  Fringe benefits (60000) .......................... 470,000
@@ -10754,34 +10795,34 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
+  202  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   Equitable Sharing-DEC Justice Account - 22231
  
  For  services  and  expenses of the environ-
   mental enforcement program  in  accordance
   with  a programmatic and financial plan to
   be approved by the director of the budget.
-  202  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
  The  amounts  appropriated  herein  may  be
   interchanged  or transferred without limit
   with  any  department  of  environmental
   conservation  asset  seizure  or  asset
   forfeiture special revenue account.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (24793).
-
+ 
  Supplies and materials (57000) .................... 34,000
  Contractual services (51000) ...................... 50,000
  Equipment (56000) ................................ 116,000
@@ -10793,36 +10834,35 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   Equitable Sharing-DEC Treasury Account - 22232
  
- For services and expenses  of  the  environ-
-  mental  enforcement  program in accordance
-  with a programmatic and financial plan  to
+ For  services  and  expenses of the environ-
+  mental enforcement program  in  accordance
+  with  a programmatic and financial plan to
   be approved by the director of the budget.
  The  amounts  appropriated  herein  may  be
-  interchanged or transferred without  limit
+  interchanged  or transferred without limit
   with  any  department  of  environmental
   conservation  asset  seizure  or  asset
   forfeiture special revenue account.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (24793).
+  203  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
  
  Supplies and materials (57000) ..................... 9,000
  Contractual services (51000) ...................... 12,000
  Equipment (56000) ................................. 29,000
   --------------
-  203  12550-02-3
-
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ...................... 50,000
   --------------
  
@@ -10836,18 +10876,6 @@ S T A T E  O F  N E W  Y O R K
   life and marine resources program, includ-
   ing  suballocation  to other state depart-
   ments and agencies.
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department  of  environmental conservation
-  contained in the aid to localities  budget
-  bill,  and (ii) the director of the budget
-  has determined that those aid  to  locali-
-  ties appropriations as finally acted on by
-  the  legislature  are  sufficient  for the
-  ensuing fiscal year.
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
@@ -10858,7 +10886,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (24717).
- 
+
  Personal service--regular (50100) ............. 10,212,000
  Temporary service (50200) ........................ 475,000
  Holiday/overtime compensation (50300) ............. 62,000
@@ -10874,12 +10902,6 @@ S T A T E  O F  N E W  Y O R K
   natural resource damages program,  includ-
   ing  suballocation  to other state depart-
   ments and agencies.
-  204  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
-
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
@@ -10887,8 +10909,14 @@ S T A T E  O F  N E W  Y O R K
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  204  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+  part of this  appropriation  as  if  fully
   stated (24795).
  
  Personal service--regular (50100) ................ 449,000
@@ -10903,14 +10931,14 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
-  Federal Environmental Conservation Fish,  Wildlife,  and
+  Federal  Environmental  Conservation Fish, Wildlife, and
   Marine Grants Account - 25334
  
- For  services  and  expenses related to fish
-  and wildlife purposes, including the  Lake
-  Champlain  sea  lamprey control. A portion
-  of these funds may be transferred  to  aid
-  to  localities  and may be suballocated to
+ For services and expenses  related  to  fish
+  and  wildlife purposes, including the Lake
+  Champlain sea lamprey control.  A  portion
+  of  these  funds may be transferred to aid
+  to localities and may be  suballocated  to
   other  state  departments  and  agencies
   (24717).
  
@@ -10927,17 +10955,11 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses of the fish, wild-
   life and marine resources program, includ-
-  ing  suballocation  to other state depart-
+  ing suballocation to other  state  depart-
   ments and agencies (24717).
  
  Personal service--regular (50100) ............. 16,583,000
  Temporary service (50200) ...................... 1,850,000
-  205  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
  Holiday/overtime compensation (50300) ............ 383,000
  Supplies and materials (57000) ................. 2,502,000
  Travel (54000) ................................... 299,000
@@ -10946,6 +10968,12 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ....................... 12,247,000
  Indirect costs (58800) ........................... 642,000
   --------------
+  205  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   Total amount available ...................... 36,968,000
   --------------
  
@@ -10980,7 +11008,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  related to the
   fish,  wildlife  and  marine  resources
   program (24717).
- 
+
  Personal service--regular (50100) ................. 58,000
  Holiday/overtime compensation (50300) .............. 8,000
  Supplies and materials (57000) .................... 24,000
@@ -10989,18 +11017,17 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................... 40,000
  Indirect costs (58800) ............................. 2,000
   --------------
-  206  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ..................... 145,000
   --------------
  
   Special Revenue Funds - Other
   Conservation Fund
   Marine Resources Account - 21151
+  206  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+
+  STATE OPERATIONS  2023-24
  
  For  services  and  expenses  related to the
   fish,  wildlife  and  marine  resources
@@ -11018,11 +11045,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,672,000
   --------------
- 
+
   Special Revenue Funds - Other
   Conservation Fund
   Venison Donation Account - 21157
-
+ 
  For  services  and  expenses  related to the
   fish,  wildlife  and  marine  resources
   program (24717).
@@ -11046,12 +11073,6 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
-  207  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   part of this  appropriation  as  if  fully
   stated (24717).
  
@@ -11060,6 +11081,12 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) .................... 33,000
  Travel (54000) .................................... 31,000
  Contractual services (51000) ...................... 23,000
+  207  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
  Equipment (56000) ................................. 52,000
  Fringe benefits (60000) .......................... 227,000
  Indirect costs (58800) ............................ 11,000
@@ -11101,34 +11128,21 @@ S T A T E  O F  N E W  Y O R K
   land resources program, including suballo-
   cation  to  other  state  departments  and
   agencies.
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  208  12550-02-3
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
+  stated (24799).
+  208  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS  2023-24
- 
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department  of  environmental conservation
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
-  stated (24799).
  
  Personal service--regular (50100) ............. 31,382,000
  Temporary service (50200) ........................ 231,000
@@ -11146,11 +11160,11 @@ S T A T E  O F  N E W  Y O R K
   Federal Environmental Conservation Lands & Forest Grants
   Account - 25334
  
- For services and  expenses  related  to  the
-  federal  environmental  conservation lands
-  and forest  grants.  A  portion  of  these
+ For  services  and  expenses  related to the
+  federal environmental  conservation  lands
+  and  forest  grants.  A  portion  of these
   funds may be transferred to aid to locali-
-  ties  and  may  be  suballocated  to other
+  ties and  may  be  suballocated  to  other
   state departments and agencies (24800).
  
  Personal service (50000) ....................... 1,050,000
@@ -11162,12 +11176,6 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Conservation Fund
-  209  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Outdoor Recreation and Trail Maintenance Account - 21158
  
  For  services and expenses of the forest and
@@ -11184,9 +11192,15 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (24799).
-
+ 
  Supplies and materials (57000) .................... 10,000
   --------------
+  209  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   Program account subtotal ...................... 10,000
   --------------
  
@@ -11194,35 +11208,30 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   ENCON-Seized Assets Account - 21052
  
- For services and expenses  of  the  environ-
-  mental  enforcement  program in accordance
-  with a programmatic and financial plan  to
+ For  services  and  expenses of the environ-
+  mental enforcement program  in  accordance
+  with  a programmatic and financial plan to
   be approved by the director of the budget.
  The  amounts  appropriated  herein  may  be
-  interchanged or transferred without  limit
+  interchanged  or transferred without limit
   with  any  department  of  environmental
   conservation  asset  seizure  or  asset
   forfeiture special revenue account.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (24799).
  
  Supplies and materials (57000) .................... 53,000
  Contractual services (51000) ...................... 53,000
  Equipment (56000) ................................ 104,000
   --------------
-  210  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
  
   Program account subtotal ..................... 210,000
   --------------
@@ -11243,6 +11252,11 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (24799).
+  210  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service--regular (50100) ................ 421,000
  Holiday/overtime compensation (50300) .............. 5,000
@@ -11276,12 +11290,6 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) .............. 2,162,000
  Temporary service (50200) ......................... 77,000
  Holiday/overtime compensation (50300) ............. 21,000
-  211  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
  Supplies and materials (57000) ................... 151,000
  Travel (54000) .................................... 27,000
  Contractual services (51000) ..................... 128,000
@@ -11302,6 +11310,12 @@ S T A T E  O F  N E W  Y O R K
   agencies.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
+  211  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
@@ -11334,17 +11348,11 @@ S T A T E  O F  N E W  Y O R K
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
-  212  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (24799).
  
  Supplies and materials (57000) .................... 20,000
@@ -11358,8 +11366,13 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Environmental Conservation Special Revenue Fund
   Recreation Account - 21067
+  212  12550-06-3
  
- For  services  and  expenses  related to the
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+ For services and  expenses  related  to  the
   administration and operation of the forest
   and  land  resources  program,  including
   transfers to aid to localities or suballo-
@@ -11392,18 +11405,49 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 2,268,000
  Indirect costs (58800) ........................... 345,000
   --------------
-  213  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
-
   Program account subtotal .................. 19,473,000
   --------------
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Equitable Sharing-DEC Justice Account - 22231
+ 
+ For  services  and  expenses of the environ-
+  mental enforcement program  in  accordance
+  with  a programmatic and financial plan to
+  be approved by the director of the budget.
+ The  amounts  appropriated  herein  may  be
+  interchanged  or transferred without limit
+  with  any  department  of  environmental
+  conservation  asset  seizure  or  asset
+  forfeiture special revenue account.
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  213  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+  and  Transfer  Authority as defined in the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
+  stated (24799).
+ 
+ Supplies and materials (57000) .................... 50,000
+ Contractual services (51000) ...................... 50,000
+ Equipment (56000) ................................ 100,000
+  --------------
+  Program account subtotal ..................... 200,000
+  --------------
+
+  Special Revenue Funds - Other
+  Miscellaneous Special Revenue Fund
+  Equitable Sharing-DEC Treasury Account - 22232
  
  For  services  and  expenses of the environ-
   mental enforcement program  in  accordance
@@ -11425,43 +11469,6 @@ S T A T E  O F  N E W  Y O R K
   part of this  appropriation  as  if  fully
   stated (24799).
  
- Supplies and materials (57000) .................... 50,000
- Contractual services (51000) ...................... 50,000
- Equipment (56000) ................................ 100,000
-  --------------
-  Program account subtotal ..................... 200,000
-  --------------
- 
-  Special Revenue Funds - Other
-  Miscellaneous Special Revenue Fund
-  Equitable Sharing-DEC Treasury Account - 22232
- 
- For  services  and  expenses of the environ-
-  mental enforcement program  in  accordance
-  with  a programmatic and financial plan to
-  be approved by the director of the budget.
- The  amounts  appropriated  herein  may  be
-  interchanged  or transferred without limit
-  with  any  department  of  environmental
-  conservation  asset  seizure  or  asset
-  forfeiture special revenue account.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
-  2023-24 state fiscal year state operations
-  214  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part  of  this  appropriation  as if fully
-  stated (24799).
- 
  Supplies and materials (57000) .................... 13,000
  Contractual services (51000) ...................... 12,000
  Equipment (56000) ................................. 25,000
@@ -11475,9 +11482,14 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Lake George Park Trust Fund
   Lake George Park Account - 22751
+  214  12550-06-3
+
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
  
  For services and expenses of the Lake George
-  park commission,  including  suballocation
+  park  commission,  including suballocation
   to other state departments and agencies.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
@@ -11508,11 +11520,6 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and expenses of administering
   the invasive species program (34801).
-  215  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
  
  Personal service--regular (50100) ................. 35,000
  Contractual services (51000) ..................... 285,000
@@ -11528,25 +11535,19 @@ S T A T E  O F  N E W  Y O R K
   General Fund
   State Purposes Account - 10050
  
- For  services and expenses of the operations
-  program, including suballocation to  other
+ For services and expenses of the  operations
+  program,  including suballocation to other
   state departments and agencies.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department of  environmental  conservation
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  215  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
@@ -11566,16 +11567,10 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Special Revenue Funds - Other
-  216  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Conservation Fund
   Conservation Fund Account - 21150
  
- For  services and expenses of the operations
+ For services and expenses of the  operations
   program (81003).
  
  Personal service--regular (50100) ................ 777,000
@@ -11593,17 +11588,23 @@ S T A T E  O F  N E W  Y O R K
   Environmental Conservation Special Revenue Fund
   Energy Efficient Rebate Account - 21051
  
- For services and expenses related to  energy
+ For  services and expenses related to energy
   rebate activities.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  216  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+
+  part of this  appropriation  as  if  fully
   stated (81003).
  
  Contractual services (51000) ..................... 105,000
@@ -11617,21 +11618,15 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related  to
   stewardship of state lands and facilities.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  217  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (81003).
  
  Personal service--regular (50100) ................ 221,000
@@ -11660,6 +11655,12 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
+  217  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   part of this  appropriation  as  if  fully
   stated (81003).
  
@@ -11678,38 +11679,20 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For  services  and expenses of the solid and
   hazardous  waste  management  program,
-  218  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   including  suballocation  to  other  state
   agencies.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  department of  environmental  conservation
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (81013).
  
  Personal service--regular (50100) ............. 10,236,000
@@ -11725,25 +11708,25 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
-  Federal Environmental  Conservation  Solid  Waste  Grant
+  Federal  Environmental  Conservation  Solid  Waste Grant
   Account - 25334
  
- For  services  and expenses related to solid
-  waste purposes. A portion of  these  funds
-  may  be  transferred  to aid to localities
-  and may be  suballocated  to  other  state
+ For services and expenses related  to  solid
+  waste  purposes.  A portion of these funds
+  218  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
+  may be transferred to  aid  to  localities
+  and  may  be  suballocated  to other state
   departments and agencies (81013).
  
  Personal service (50000) ....................... 3,788,000
  Nonpersonal service (57050) .................... 1,070,000
  Fringe benefits (60090) ........................ 2,442,000
   --------------
-  219  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ................... 7,300,000
   --------------
  
@@ -11788,6 +11771,12 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Special Revenue Funds - Other
+  219  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
   Environmental Conservation Special Revenue Fund
   Environmental Regulatory Account - 21081
  
@@ -11795,12 +11784,6 @@ S T A T E  O F  N E W  Y O R K
   hazardous waste program including suballo-
   cation  to  other  state  departments  and
   agencies.
-  220  12550-02-3
-
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -11846,18 +11829,18 @@ S T A T E  O F  N E W  Y O R K
  Temporary service (50200) ......................... 40,000
  Holiday/overtime compensation (50300) ............. 14,000
  Supplies and materials (57000) .................... 68,000
+  220  12550-06-3
+ 
+  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
+ 
+  STATE OPERATIONS  2023-24
+ 
  Travel (54000) .................................... 59,000
  Contractual services (51000) ..................... 905,000
  Equipment (56000) ................................. 30,000
  Fringe benefits (60000) .......................... 591,000
  Indirect costs (58800) ............................ 32,000
   --------------
-  221  12550-02-3
- 
-  DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ................... 2,658,000
   --------------
  
@@ -11904,28 +11887,28 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  related to the
   waste  reduction,  reuse  and  recycling
   infrastructure program, including suballo-
-  cation  to  other  state  departments  and
-  agencies.  Notwithstanding  any  other
-  provision  of  law,  the  director  of the
-  budget is hereby  authorized  to  transfer
-  any  or all of this appropriation to local
-  222  12550-02-3
-
+  221  12550-06-3
+ 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS  2023-24
  
-  assistance to other state departments  and
+  cation  to  other  state  departments  and
+  agencies.  Notwithstanding  any  other
+  provision  of  law,  the  director  of the
+  budget  is  hereby  authorized to transfer
+  any or all of this appropriation to  local
+  assistance  to other state departments and
   agencies.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (81013).
  
  Personal service--regular (50100) .............. 1,500,000
@@ -11940,7 +11923,7 @@ S T A T E  O F  N E W  Y O R K
  
   Program account subtotal ................... 5,000,000
   --------------
-  223  12550-02-3
+  222  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11985,7 +11968,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Miscellaneous Operating Grants Fund
   Federal  Environmental  Conservation  Air  Resources  Grants Account -
   25334
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For services and expenses related to air resources purposes. A portion
   of these funds may be transferred to aid to localities  and  may  be
@@ -11998,8 +11981,8 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to air resources purposes. A portion
   of  these  funds  may be transferred to aid to localities and may be
   suballocated to other state departments and agencies (24780).
-  224  12550-02-3
- 
+  223  12550-06-3
+
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -12015,7 +11998,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 4,742,000 ................ (re. $945,000)
   Nonpersonal service (57050) ... 1,520,000 ............. (re. $839,000)
   Fringe benefits (60090) ... 2,738,000 ................. (re. $537,000)
-
+ 
  By chapter 50, section 1, of the laws of 2019:
   For services and expenses related to air resources purposes. A portion
   of these funds may be transferred to aid to localities  and  may  be
@@ -12055,7 +12038,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 4,455,000 .................. (re. $8,000)
   Nonpersonal service (57050) ... 2,010,000 ........... (re. $1,156,000)
   Fringe benefits (60090) ... 2,535,000 ................... (re. $7,000)
-  225  12550-02-3
+  224  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12113,7 +12096,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 2,295,000 .............. (re. $2,295,000)
   Nonpersonal service (57050) ... 3,328,000 ........... (re. $3,328,000)
   Fringe benefits (60090) ... 1,377,000 ............... (re. $1,377,000)
-  226  12550-02-3
+  225  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12170,7 +12153,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 10,177,000 ............... (re. $745,000)
   Nonpersonal service (57050) ... 8,614,000 ........... (re. $4,299,000)
   Fringe benefits (60090) ... 6,107,000 ................. (re. $553,000)
-  227  12550-02-3
+  226  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12228,7 +12211,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to water resource purposes,  includ-
   ing suballocation to other state departments and agencies (24784).
   Nonpersonal service (57050) ... 5,191,000 ........... (re. $1,615,000)
-  228  12550-02-3
+  227  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12285,7 +12268,7 @@ S T A T E  O F  N E W  Y O R K
   State Purposes Account - 10050
  
  By chapter 50, section 1, of the laws of 2017:
-  229  12550-02-3
+  228  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12343,7 +12326,7 @@ S T A T E  O F  N E W  Y O R K
   ing but not limited to the conservation fund to achieve this purpose
   (25689).
   Contractual services (51000) ... 2,500,000 .......... (re. $1,300,000)
-  230  12550-02-3
+  229  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12401,7 +12384,7 @@ S T A T E  O F  N E W  Y O R K
   cated to other state departments and agencies (24717).
   Personal service (50000) ... 10,423,000 ............. (re. $2,771,000)
   Nonpersonal service (57050) ... 11,065,000 .......... (re. $3,551,000)
-  231  12550-02-3
+  230  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12458,7 +12441,7 @@ S T A T E  O F  N E W  Y O R K
   hereby  transferred  and reappropriated to the federal usda food and
   nutrition services fund,  federal  environmental  conservation  usda
   account:
-  232  12550-02-3
+  231  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12515,7 +12498,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2018:
   For services and expenses related to the federal environmental conser-
   vation  lands  and  forest  grants.  A portion of these funds may be
-  233  12550-02-3
+  232  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12573,7 +12556,7 @@ S T A T E  O F  N E W  Y O R K
   program (34801).
   Personal service--regular (50100) ... 35,000 ........... (re. $35,000)
   Contractual services (51000) ... 285,000 .............. (re. $131,000)
-  234  12550-02-3
+  233  12550-06-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12631,7 +12614,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any other provision of law to the  contrary,  the  OGS
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer  Authority  as  defined  in  the 2021-22 state fiscal year state
-  235  12550-02-3
+  234  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12689,7 +12672,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service--regular (50100) ... 2,078,000 ....... (re. $426,000)
   Holiday/overtime compensation (50300) ... 21,000 ....... (re. $20,000)
   Supplies and materials (57000) ... 541,000 ............ (re. $317,000)
-  236  12550-02-3
+  235  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12746,7 +12729,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 6,468,000 .......... (re. $1,822,000)
   Fringe benefits (60000) ... 1,117,000 ................. (re. $102,000)
   Indirect costs (58800) ... 64,000 ...................... (re. $19,000)
-  237  12550-02-3
+  236  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12804,7 +12787,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 3,788,000 ................ (re. $623,000)
   Nonpersonal service (57050) ... 1,202,000 ........... (re. $1,202,000)
   Fringe benefits (60090) ... 2,310,000 ................. (re. $416,000)
-  238  12550-02-3
+  237  12550-06-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12836,7 +12819,7 @@ S T A T E  O F  N E W  Y O R K
   tion  for oversight activities related to the clean up of the s-area
   landfill originally authorized  by  appropriations  and  reappropri-
   ations enacted prior to 1996 (24805) ... 423,400 ..... (re. $84,000)
-  239  12550-02-3
+  238  12550-06-3
  
   COMMISSION ON ETHICS AND LOBBYING IN GOVERNMENT
  
@@ -12886,7 +12869,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 742,000
  Equipment (56000) ................................. 50,000
   --------------
-  240  12550-02-3
+  239  12550-06-3
  
   EXECUTIVE CHAMBER
  
@@ -12931,7 +12914,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 5,122,000
  Equipment (56000) ................................ 180,000
   --------------
-  241  12550-02-3
+  240  12550-06-3
  
   OFFICE OF THE LIEUTENANT GOVERNOR
  
@@ -12977,7 +12960,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ...................... 81,000
  Equipment (56000) ................................. 18,000
   --------------
-  242  12550-02-3
+  241  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -13019,41 +13002,29 @@ S T A T E  O F  N E W  Y O R K
   family services except where  transfer  or
   interchange of appropriations is prohibit-
   ed or otherwise restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of  children  and  family  services
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
-  243  12550-02-3
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
+  stated.  The  money  hereby  appropriated
+  shall  be  available  to the office net of
+  disallowances,  refunds,  reimbursements,
+  and credits (81001).
+ 
+ Personal service--regular (50100) ............. 24,825,000
+ Temporary service (50200) ........................ 308,000
+  242  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
-  stated.  The  money  hereby  appropriated
-  shall be available to the  office  net  of
-  disallowances,  refunds,  reimbursements,
-  and credits (81001).
- 
- Personal service--regular (50100) ............. 24,825,000
- Temporary service (50200) ........................ 308,000
  Holiday/overtime compensation (50300) ............. 73,000
  Supplies and materials (57000) ................... 462,000
  Travel (54000) ................................... 181,000
@@ -13066,8 +13037,8 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Head Start Grant Account - 25181
-
- For services and  expenses  related  to  the
+ 
+ For  services  and  expenses  related to the
   head  start  collaboration  project  grant
   program (14037).
  
@@ -13093,13 +13064,6 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 15,000
  Contractual services (51000) ..................... 121,000
  Equipment (56000) ................................. 19,000
-  244  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60000) ........................... 17,000
  Indirect costs (58800) ............................. 1,000
   --------------
@@ -13112,14 +13076,21 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related  to
   studies, research, demonstration projects,
-  recreation programs and  other  activities
-  including  payment  for  tuition, fees and
-  books for approved post-secondary  courses
+  243  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
+  recreation  programs  and other activities
+  including payment for  tuition,  fees  and
+  books  for approved post-secondary courses
   and  vocational  programs directly related
   to  current  or  emerging  vocations,  for
   youth  in  office  of  children and family
   services facilities (81001).
- 
+
  Supplies and materials (57000) .................... 60,000
  Contractual services (51000) ................... 2,880,000
  Equipment (56000) ................................. 60,000
@@ -13150,28 +13121,29 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 225,000
   --------------
-  245  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
  
   Internal Service Funds
   Agencies Internal Service Account
   Human Services Contact Center Account - 55072
  
  For payments related to the planning, devel-
-  opment  and  establishment of a new state-
-  wide contact center within the  department
+  opment and establishment of a  new  state-
+  wide  contact center within the department
   of tax and finance, the office of children
-  and  family services and the department of
-  labor on behalf of  customer  state  agen-
+  and family services and the department  of
+  labor  on  behalf  of customer state agen-
   cies.
- Notwithstanding  any  other provision of law
-  to the contrary, for the purpose of  plan-
-  ning,  developing  and/or implementing the
-  consolidation of administration,  business
+  244  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
+ Notwithstanding any other provision  of  law
+  to  the contrary, for the purpose of plan-
+  ning, developing and/or  implementing  the
+  consolidation  of administration, business
   services,  procurement,  information tech-
   nology and/or other functions shared among
   agencies to  improve  the  efficiency  and
@@ -13205,27 +13177,27 @@ S T A T E  O F  N E W  Y O R K
  
  CHILD CARE PROGRAM .......................................... 67,043,000
   --------------
-
+ 
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
-  246  12550-02-3
+  Federal Day Care Account - 25175
+ 
+ Funds appropriated herein shall be available
+  for aid to  municipalities,  for  services
+  and  expenses  related  to  administering
+  activities  under  the  child  care  block
+  grant  and  for  payments  to  the federal
+  government for expenditures made  pursuant
+  to  the  social services law and the state
+  plan  for  individual  and  family  grant
+  245  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
-  Federal Day Care Account - 25175
- 
- Funds appropriated herein shall be available
-  for  aid  to  municipalities, for services
-  and  expenses  related  to  administering
-  activities  under  the  child  care  block
-  grant and  for  payments  to  the  federal
-  government  for expenditures made pursuant
-  to the social services law and  the  state
-  plan  for  individual  and  family  grant
-  program under the disaster relief  act  of
+  program  under  the disaster relief act of
   1974.
  Such  funds  are to be available for payment
   of aid, services and  expenses  heretofore
@@ -13266,26 +13238,26 @@ S T A T E  O F  N E W  Y O R K
   special revenue funds - federal /  aid  to
   localities  federal  health  and  human
   services fund, federal  temporary  assist-
-  247  12550-02-3
+  ance  to  needy families block grant funds
+  at  the  request  of  the  local  social
+  services  districts  and, upon approval of
+  the director of the  budget,  transfer  of
+  federal  temporary  assistance  for  needy
+  families block grant funds made  available
+  from  the  New  York works compliance fund
+  program or otherwise  specifically  appro-
+  priated  therefor, in combination with the
+  money appropriated in the general  fund  /
+  246  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
-  ance  to  needy families block grant funds
-  at  the  request  of  the  local  social
-  services  districts  and, upon approval of
-  the  director  of  the budget, transfer of
-  federal  temporary  assistance  for  needy
-  families  block grant funds made available
-  from the New York  works  compliance  fund
-  program  or  otherwise specifically appro-
-  priated therefor, in combination with  the
-  money  appropriated  in the general fund /
   aid  to  localities  local  assistance
-  account,  appropriated for the state block
-  grant for child care shall constitute  the
+  account, appropriated for the state  block
+  grant  for child care shall constitute the
   state block grant for child care. Pursuant
   to  title  5-C  of article 6 of the social
   services law, the state  block  grant  for
@@ -13304,7 +13276,7 @@ S T A T E  O F  N E W  Y O R K
  
  FAMILY AND CHILDREN'S SERVICES PROGRAM ..................... 108,406,000
   --------------
-
+ 
   General Fund
   State Purposes Account - 10050
  
@@ -13322,25 +13294,6 @@ S T A T E  O F  N E W  Y O R K
   family  services  except where transfer or
   interchange of appropriations is prohibit-
   ed or otherwise restricted by law.
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  248  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office  of  children  and  family services
-  contained in the aid to localities  budget
-  bill,  and (ii) the director of the budget
-  has determined that those aid  to  locali-
-  ties appropriations as finally acted on by
-  the  legislature  are  sufficient  for the
-  ensuing fiscal year.
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
@@ -13352,6 +13305,13 @@ S T A T E  O F  N E W  Y O R K
   part of this  appropriation  as  if  fully
   stated.  The  money  hereby  appropriated
   shall be available to the  office  net  of
+  247  12550-06-3
+
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
   disallowances,  refunds,  reimbursements,
   and credits (13911).
  
@@ -13369,29 +13329,22 @@ S T A T E  O F  N E W  Y O R K
   Federal Health and Human Services Fund
   Discretionary Demonstration Account - 25103
  
- For services and expenses related to  admin-
+ For  services and expenses related to admin-
   istering federal health and human services
   discretionary demonstration program grants
-  and  grants  from  the  national center on
+  and grants from  the  national  center  on
   child abuse and neglect.
- Notwithstanding any other provision  of  law
+ Notwithstanding  any  other provision of law
   to the contrary, the definition of "abused
-  child"  contained  in  section 1012 of the
+  child" contained in section  1012  of  the
   family  court  act  shall  be  deemed  to
-  include  any  child whose parent or person
+  include any child whose parent  or  person
   legally responsible for their care permits
-  or encourages such  child  engage  in  any
-  act,  or commits or allows to be committed
-  249  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
+  or  encourages  such  child  engage in any
+  act, or commits or allows to be  committed
   against such child any offense, that would
-  render such child either a victim of  "sex
-  trafficking"  or a victim of "severe forms
+  render  such child either a victim of "sex
+  trafficking" or a victim of "severe  forms
   of  trafficking in persons" pursuant to 22
   U.S.C. 7102 as enacted by P.L. 106-386, or
   any successor  federal  statute.  Provided
@@ -13410,10 +13363,17 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Special Revenue Funds - Federal
+  248  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
   Federal Health and Human Services Fund
   Early Childhood Development Account - 25135
  
- For services and expenses related to  admin-
+ For  services and expenses related to admin-
   istering federal health and human services
   grants related to early childhood develop-
   ment (13911).
@@ -13431,21 +13391,14 @@ S T A T E  O F  N E W  Y O R K
   Youth Rehabilitation Account - 25135
  
  For  services  and  expenses  related  to
-  studies, research, demonstration  projects
-  and  other  activities  in accordance with
-  articles 19-G and 19-H  of  the  executive
-  law  and  articles  2  and 6 of the social
+  studies,  research, demonstration projects
+  and other activities  in  accordance  with
+  articles  19-G  and  19-H of the executive
+  law and articles 2 and  6  of  the  social
   services law (14045).
  
  Personal service (50000) ....................... 1,668,000
  Nonpersonal service (57050) ...................... 896,000
-  250  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60090) .......................... 722,000
  Indirect costs (58850) ............................ 50,000
   --------------
@@ -13455,7 +13408,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Youth Projects Account - 25479
- 
+
  For  services  and  expenses  related  to
   studies, research, demonstration  projects
   and  other  activities  in accordance with
@@ -13468,6 +13421,13 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60090) ........................ 1,314,000
  Indirect costs (58850) ............................ 91,000
   --------------
+  249  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+
   Program account subtotal ................... 6,075,000
   --------------
  
@@ -13475,34 +13435,27 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   State Central Register Account - 22028
  
- For services and expenses related to  admin-
-  istration  of  the  state central register
+ For  services and expenses related to admin-
+  istration of the  state  central  register
   employment screening activities.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated.
  The  money  hereby  appropriated  shall  be
-  available to the office net  of  disallow-
-  ances,  refunds, reimbursements, and cred-
+  available  to  the office net of disallow-
+  ances, refunds, reimbursements, and  cred-
   its (13911).
  
  Personal service--regular (50100) ................ 138,000
  Holiday/overtime compensation (50300) ............. 10,000
  Contractual services (51000) ................... 1,133,000
-  251  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60000) ........................... 87,000
  Indirect costs (58800) ............................. 5,000
   --------------
@@ -13526,6 +13479,13 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
+  250  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
   et may, upon the advice of the commission-
   er  of  children  and  family  services,
   authorize the transfer or  interchange  of
@@ -13535,18 +13495,6 @@ S T A T E  O F  N E W  Y O R K
   family services except where  transfer  or
   interchange of appropriations is prohibit-
   ed or otherwise restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of  children  and  family  services
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -13554,13 +13502,6 @@ S T A T E  O F  N E W  Y O R K
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  252  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (13953).
@@ -13580,14 +13521,14 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses related to the New
   York state commission for the blind.
- Notwithstanding  any  other provision of law
-  to the contrary, the money  hereby  appro-
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the money hereby appro-
   priated  may  be  interchanged  or  trans-
   ferred,  without  limit,  to  any  special
-  revenue  funds  federal account and/or any
-  appropriation of the  office  of  children
-  and  family services, and may be increased
-  or decreased  without  limit  by  transfer
+  revenue funds federal account  and/or  any
+  appropriation  of  the  office of children
+  and family services, and may be  increased
+  or  decreased  without  limit  by transfer
   between  these  appropriated  amounts  and
   appropriations (13953).
  
@@ -13595,6 +13536,12 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,000,000
   --------------
+  251  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Federal
   Federal Education Fund
@@ -13604,46 +13551,39 @@ S T A T E  O F  N E W  Y O R K
   York  state  commission  for  the  blind
   including transfer or suballocation to the
   state education department.  Notwithstand-
-  ing  any  other  provision  of  law to the
-  contrary, the  money  hereby  appropriated
-  may  be interchanged or transferred, with-
-  out limit, to any  special  revenue  funds
-  federal  account  and/or any appropriation
+  ing any other  provision  of  law  to  the
+  contrary,  the  money  hereby appropriated
+  may be interchanged or transferred,  with-
+  out  limit,  to  any special revenue funds
+  federal account and/or  any  appropriation
   of  the  office  of  children  and  family
   services,  and  may  be  increased  or
   decreased  without  limit  by  transfer
-  253  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   between  these  appropriated  amounts  and
-  appropriations. A  portion  of  the  funds
+  appropriations.  A  portion  of  the funds
   appropriated herein may be suballocated to
-  the  dormitory  authority  of the state of
+  the dormitory authority of  the  state  of
   New  York,  in  accordance  with  a  plan
   approved by the division of the budget, to
-  design,  construct, reconstruct, rehabili-
-  tate, renovate, furnish, equip  or  other-
-  wise  improve vending stands for the blind
-  enterprise program pursuant to  an  agree-
+  design, construct, reconstruct,  rehabili-
+  tate,  renovate,  furnish, equip or other-
+  wise improve vending stands for the  blind
+  enterprise  program  pursuant to an agree-
   ment between the New York state commission
   for the blind and the dormitory authority,
-  which  may  contain  such  other terms and
-  conditions as may be agreed  upon  by  the
+  which may contain  such  other  terms  and
+  conditions  as  may  be agreed upon by the
   parties  thereto,  including  provisions
-  related to indemnities. All contracts  for
+  related  to indemnities. All contracts for
   construction  awarded  by  the  dormitory
-  authority pursuant to  this  appropriation
-  shall  be  governed  by  article  8 of the
-  labor law and shall be awarded in  accord-
+  authority  pursuant  to this appropriation
+  shall be governed  by  article  8  of  the
+  labor  law and shall be awarded in accord-
   ance  with  the  authority's  procurement
-  contract guidelines  adopted  pursuant  to
+  contract  guidelines  adopted  pursuant to
   section 2879 of the public authorities law
   (13953).
-
+ 
  Personal service (50000) ....................... 9,499,000
  Nonpersonal service (57050) ................... 25,090,000
   --------------
@@ -13653,6 +13593,12 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   CBVH Gifts and Bequests Account - 20129
+  252  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
  
  For services and expenses related to the New
   York  state  commission  for  the  blind
@@ -13664,49 +13610,10 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 27,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   CBVH-Vending Stand Account - 20119
-  254  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
- For services and  expenses  related  to  the
-  vending stand program and pension plan and
-  establishing food service sites.
- Notwithstanding  any  other provision of law
-  to the contrary, the money  hereby  appro-
-  priated  may  be  interchanged  or  trans-
-  ferred,  without  limit,  to  any  special
-  revenue  funds  - other account and/or any
-  appropriation of the  office  of  children
-  and  family services, and may be increased
-  or decreased  without  limit  by  transfer
-  between  these  appropriated  amounts  and
-  appropriations.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
-  stated (13953).
- 
- Contractual services (51000) ..................... 543,000
-  --------------
-  Program account subtotal ..................... 543,000
-  --------------
- 
-  Special Revenue Funds - Other
-  Combined Expendable Trust Fund
-  CBVH-Vending Stand Account-Federal - 20126
  
  For  services  and  expenses  related to the
   vending stand program and pension plan and
@@ -13726,33 +13633,31 @@ S T A T E  O F  N E W  Y O R K
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
-  255  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (13953).
  
- Supplies and materials (57000) ................... 200,000
- Travel (54000) ..................................... 4,000
- Contractual services (51000) ..................... 796,000
+ Contractual services (51000) ..................... 543,000
   --------------
-  Program account subtotal ................... 1,000,000
+  Program account subtotal ..................... 543,000
   --------------
  
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
-  CBVH-Vending Stand Account-State - 20146
- 
+  CBVH-Vending Stand Account-Federal - 20126
+
  For services and  expenses  related  to  the
   vending stand program and pension plan and
   establishing food service sites.
+  253  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
  Notwithstanding  any  other provision of law
   to the contrary, the money  hereby  appro-
   priated  may  be  interchanged  or  trans-
@@ -13774,6 +13679,48 @@ S T A T E  O F  N E W  Y O R K
   part of this  appropriation  as  if  fully
   stated (13953).
  
+ Supplies and materials (57000) ................... 200,000
+ Travel (54000) ..................................... 4,000
+ Contractual services (51000) ..................... 796,000
+  --------------
+  Program account subtotal ................... 1,000,000
+  --------------
+ 
+  Special Revenue Funds - Other
+  Combined Expendable Trust Fund
+  CBVH-Vending Stand Account-State - 20146
+ 
+ For  services  and  expenses  related to the
+  vending stand program and pension plan and
+  establishing food service sites.
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the money hereby appro-
+  priated  may  be  interchanged  or  trans-
+  ferred,  without  limit,  to  any  special
+  revenue funds - other account  and/or  any
+  appropriation  of  the  office of children
+  and family services, and may be  increased
+  or  decreased  without  limit  by transfer
+  between  these  appropriated  amounts  and
+  appropriations.
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  254  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
+  program of the division of the budget, are
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
+  stated (13953).
+ 
  Contractual services (51000) ..................... 950,000
   --------------
   Program account subtotal ..................... 950,000
@@ -13782,24 +13729,18 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   CBVH Highway Revenue Account - 22108
-  256  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
 
-  STATE OPERATIONS  2023-24
- 
  For  services  and expenses of programs that
   support the blind.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (13953).
  
  Contractual services (51000) ..................... 500,000
@@ -13813,43 +13754,31 @@ S T A T E  O F  N E W  Y O R K
   General Fund
   State Purposes Account - 10050
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   systems support program.
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
   et may, upon the advice of the commission-
   er  of  children  and  family  services,
-  authorize  the  transfer or interchange of
-  moneys appropriated herein with any  other
-  state  operations - general fund appropri-
-  ation within the office  of  children  and
-  family  services  except where transfer or
-  interchange of appropriations is prohibit-
-  ed or otherwise restricted by law.
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office  of  children  and  family services
-  contained in the aid to localities  budget
-  bill,  and (ii) the director of the budget
-  has determined that those aid  to  locali-
-  ties appropriations as finally acted on by
-  the  legislature  are  sufficient  for the
-  ensuing fiscal year.
-  257  12550-02-3
+  authorize the transfer or  interchange  of
+  moneys  appropriated herein with any other
+  state operations - general fund  appropri-
+  ation  within  the  office of children and
+  family services except where  transfer  or
+  255  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+  interchange of appropriations is prohibit-
+  ed or otherwise restricted by law.
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
@@ -13895,27 +13824,15 @@ S T A T E  O F  N E W  Y O R K
   state  operations - general fund appropri-
   ation within the office  of  children  and
   family  services  except where transfer or
-  interchange of appropriations is prohibit-
-  ed or otherwise restricted by law.
-  258  12550-02-3
+  256  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of  children  and  family  services
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
+  interchange of appropriations is prohibit-
+  ed or otherwise restricted by law.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -13926,7 +13843,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (13986).
-
+ 
  Personal service--regular (50100) ................ 202,000
  Supplies and materials (57000) ................... 129,000
  Travel (54000) ................................... 129,000
@@ -13955,13 +13872,6 @@ S T A T E  O F  N E W  Y O R K
   information  system.  Subject  to  the
   approval of the director  of  the  budget,
   such  funds  shall  be  available  to  the
-  259  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   office  net  of  disallowances,  refunds,
   reimbursements, and credits (13986).
  
@@ -13972,6 +13882,12 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 30,593,000
   --------------
+  257  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
  
  TRAINING AND DEVELOPMENT PROGRAM ............................ 59,383,000
   --------------
@@ -14012,13 +13928,6 @@ S T A T E  O F  N E W  Y O R K
   appropriated  herein,  or  made  available
   through  interchange  to  the  office  of
   temporary and disability assistance.
-  260  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
@@ -14030,20 +13939,15 @@ S T A T E  O F  N E W  Y O R K
   special  revenue  other fund appropriation
   within the office of children  and  family
   services  except  where transfer or inter-
+  258  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+
   change of appropriations is prohibited  or
   otherwise restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of  children  and  family  services
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -14070,38 +13974,19 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and expenses related to Youth
   Research  Incorporated  pursuant  to  an
-  261  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   agreement  with the office of children and
   family services.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of  children  and  family  services
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
   et may, upon the advice of the commission-
   er  of  children  and  family  services,
-  authorize  the  transfer or interchange of
-  moneys appropriated herein with any  other
-  state  operations  or  aid to localities -
+  authorize the transfer or  interchange  of
+  moneys  appropriated herein with any other
+  state operations or aid  to  localities  -
   general  fund  or  state  special  revenue
   other fund appropriation (15016).
-
+ 
  Contractual services (51000) ................... 7,535,000
   --------------
   Program account subtotal .................. 19,399,000
@@ -14110,10 +13995,16 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Multiagency Training Contract Account - 21989
+  259  12550-06-3
  
- For  services  and  expenses  related to the
-  operation of the training and  development
-  program  including,  but  not  limited to,
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
+ For services and  expenses  related  to  the
+  operation  of the training and development
+  program including,  but  not  limited  to,
   personal  service,  fringe  benefits  and
   nonpersonal  service.  To  the extent that
   costs incurred through payment  from  this
@@ -14128,13 +14019,6 @@ S T A T E  O F  N E W  Y O R K
   state, or local funding available for such
   purpose  in  accordance  with a cost allo-
   cation  plan  submitted  to  the  federal
-  262  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   government.  No  expenditure shall be made
   from this  account  until  an  expenditure
   plan  has been approved by the director of
@@ -14143,17 +14027,17 @@ S T A T E  O F  N E W  Y O R K
   counties  and  voluntary  agencies  for
   employees  receiving  training  from  the
   office of children and family services, up
-  to  the  limits  stated in the OCFS travel
+  to the limits stated in  the  OCFS  travel
   guidelines.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (13984).
  
  Personal service--regular (50100) .............. 2,579,000
@@ -14164,10 +14048,17 @@ S T A T E  O F  N E W  Y O R K
   Total amount available ...................... 22,625,000
   --------------
  
- For  services  and expenses related to Youth
+ For services and expenses related  to  Youth
   Research  Incorporated  pursuant  to  an
-  agreement  with the office of children and
+  agreement with the office of children  and
   family services.
+  260  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
@@ -14186,73 +14077,65 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
-  263  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
   State Match Account - 21967
  
- For  services  and  expenses  related to the
-  training and development program.  Of  the
+ For services and  expenses  related  to  the
+  training  and  development program. Of the
   amount appropriated herein, $1,500,000 may
-  be  used  only  to provide state match for
-  federal training funds in accordance  with
+  be used only to provide  state  match  for
+  federal  training funds in accordance with
   an  agreement  with  social  services
-  districts including, but not  limited  to,
+  districts  including,  but not limited to,
   the city of New York. Any agreement with a
   social services district is subject to the
   approval of the director of the budget. No
   expenditure  shall  be  made  from  this
-  account for  personal  service  costs.  No
+  account  for  personal  service  costs. No
   expenditure  shall  be  made  from  this
   account until an expenditure plan for this
-  purpose has been approved by the  director
+  purpose  has been approved by the director
   of the budget.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (13984).
  
  Contractual services (51000) ................... 4,000,000
   --------------
   Program account subtotal ................... 4,000,000
   --------------
- 
-  Special Revenue Funds - Other
-  Miscellaneous Special Revenue Fund
-  Training, Management and Evaluation Account - 21961
- 
- For services and  expenses  related  to  the
-  training  and  development program. Of the
-  amount  appropriated  herein,  the  office
-  shall  expend  not  less than $359,000 for
-  services  and  expenses  of  child  abuse
-  prevention  training  pursuant to chapters
-  676 and  677  of  the  laws  of  1985.  No
-  expenditure  shall  be  made  from  this
-  account for any purpose until an  expendi-
-  ture  plan has been approved by the direc-
-  tor of the budget.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  264  12550-02-3
+  261  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+  Special Revenue Funds - Other
+  Miscellaneous Special Revenue Fund
+  Training, Management and Evaluation Account - 21961
+ 
+ For  services  and  expenses  related to the
+  training and development program.  Of  the
+  amount  appropriated  herein,  the  office
+  shall expend not less  than  $359,000  for
+  services  and  expenses  of  child  abuse
+  prevention training pursuant  to  chapters
+  676  and  677  of  the  laws  of  1985. No
+  expenditure  shall  be  made  from  this
+  account  for any purpose until an expendi-
+  ture plan has been approved by the  direc-
+  tor of the budget.
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
@@ -14285,6 +14168,13 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed fully  incorporated  herein  and  a
+  262  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF CHILDREN AND FAMILY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
   part  of  this  appropriation  as if fully
   stated (13984).
  
@@ -14292,24 +14182,17 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 200,000
   --------------
- 
+
  YOUTH FACILITIES PROGRAM ................................... 168,485,000
   --------------
  
   General Fund
   State Purposes Account - 10050
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   youth facilities program including the New
-  York  model treatment program for youth in
-  265  12550-02-3
-
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF CHILDREN AND FAMILY SERVICES
- 
-  STATE OPERATIONS  2023-24
- 
-  the care of the  office  of  children  and
+  York model treatment program for youth  in
+  the  care  of  the  office of children and
   family services, in office of children and
   family  services  facilities  and  in  the
   community.
@@ -14343,30 +14226,30 @@ S T A T E  O F  N E W  Y O R K
   extent that the director of the budget has
   executed an agreement with the city of New
   York that provides for a total  additional
-  investment  from  the  preceding  year  in
-  homeless assistance and  services  in  the
-  amount  of  at  least $440,000,000 for the
-  period commencing  July  1,  2014  through
-  such  date  as  shall be determined by the
-  director of the budget, of which the  city
-  of  New  York  shall  directly  fund
-  $220,000,000  and  shall  also  fund  the
-  remaining  $220,000,000  with  estimated
-  savings associated with the state's waiver
-  of the local share of youth facility costs
-  authorized herein, and provided  that  the
-  office of temporary and disability assist-
-  ance  will commence its regular review and
-  audit to make sure the city of New York is
-  in compliance with  all  applicable  state
-  and federal regulations in relation to the
-  266  12550-02-3
+  263  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
+  investment  from  the  preceding  year  in
+  homeless assistance and  services  in  the
+  amount  of  at  least $440,000,000 for the
+  period  commencing  July  1,  2014 through
+  such date as shall be  determined  by  the
+  director  of the budget, of which the city
+  of  New  York  shall  directly  fund
+  $220,000,000  and  shall  also  fund  the
+  remaining  $220,000,000  with  estimated
+  savings associated with the state's waiver
+  of the local share of youth facility costs
+  authorized  herein,  and provided that the
+  office of temporary and disability assist-
+  ance will commence its regular review  and
+  audit to make sure the city of New York is
+  in  compliance  with  all applicable state
+  and federal regulations in relation to the
   appropriate  care  of  the  homeless,  and
   provided further that such funds shall not
   be used to supplant any of the city of New
@@ -14391,18 +14274,6 @@ S T A T E  O F  N E W  Y O R K
   program  for  the  given  month, and shall
   submit a year-end report  with  cumulative
   calendar year costs by March 31, 2024.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of  children  and  family  services
-  contained  in the aid to localities budget
-  bill, and (ii) the director of the  budget
-  has  determined  that those aid to locali-
-  ties appropriations as finally acted on by
-  the legislature  are  sufficient  for  the
-  ensuing fiscal year.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -14413,16 +14284,17 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated.
- The  money  hereby  appropriated  shall  be
-  available  to  the office net of disallow-
-  ances, refunds, reimbursements, and  cred-
-  its (13945).
-  267  12550-02-3
+  264  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
+ 
+ The  money  hereby  appropriated  shall  be
+  available  to  the office net of disallow-
+  ances, refunds, reimbursements, and  cred-
+  its (13945).
  
  Personal service--regular (50100) ............ 117,844,000
  Temporary service (50200) ...................... 3,325,000
@@ -14470,19 +14342,19 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  268  12550-02-3
-
+  265  12550-06-3
+ 
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS  2023-24
  
-  part  of  this  appropriation  as if fully
+  and Transfer Authority as defined  in  the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (13945).
  
  Supplies and materials (57000) .................... 25,000
@@ -14491,13 +14363,13 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 100,000
   --------------
-  269  12550-02-3
+  266  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  CENTRAL ADMINISTRATION PROGRAM
  
   Special Revenue Funds - Federal
@@ -14548,13 +14420,13 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Federal Day Care Account - 25175
-  270  12550-02-3
+  267  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   Funds  appropriated  herein  shall  be  available  for  aid to munici-
   palities, for services and expenses related to administering  activ-
@@ -14605,8 +14477,8 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 2,142,000 ................ (re. $1,648,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  271  12550-02-3
-
+  268  12550-06-3
+ 
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
@@ -14663,11 +14535,11 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2020:
   Funds appropriated herein  shall  be  available  for  aid  to  munici-
   palities,  for services and expenses related to administering activ-
-  272  12550-02-3
+  269  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   ities under the child care block  grant  and  for  payments  to  the
@@ -14720,11 +14592,11 @@ S T A T E  O F  N E W  Y O R K
   palities, for services and expenses related to administering  activ-
   ities  under  the  child  care  block  grant and for payments to the
   federal government for expenditures  made  pursuant  to  the  social
-  273  12550-02-3
+  270  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   services  law  and  the  state  plan for individual and family grant
@@ -14778,7 +14650,7 @@ S T A T E  O F  N E W  Y O R K
   Such funds are to be  available  for  payment  of  aid,  services  and
   expenses  heretofore  accrued  or  hereafter  to  accrue  to munici-
   palities. Subject to the approval of the  director  of  the  budget,
-  274  12550-02-3
+  271  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -14836,8 +14708,8 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any inconsistent provision of law, the  amount  herein
   appropriated  may  be  transferred to any other appropriation within
   the office of children and family  services  and/or  the  office  of
-  275  12550-02-3
- 
+  272  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
@@ -14893,7 +14765,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 22,133,000 ......... (re. $11,189,000)
  
  FAMILY AND CHILDREN'S SERVICES PROGRAM
-  276  12550-02-3
+  273  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -14950,13 +14822,13 @@ S T A T E  O F  N E W  Y O R K
   ficking  in  persons"  pursuant to 22 U.S.C. 7102 as enacted by P.L.
   106-386, or any successor federal statute. Provided however, of  the
   amounts  appropriated  herein, $23,000,000 shall be reserved for the
-  277  12550-02-3
+  274  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   expenditure of additional federal funding made available to  recover
   from public health emergencies (13954).
   Personal service (50000) ... 6,357,852 .............. (re. $6,247,000)
@@ -15008,8 +14880,8 @@ S T A T E  O F  N E W  Y O R K
   nition  of  "abused  child"  contained in section 1012 of the family
   court act shall be deemed to  include  any  child  whose  parent  or
   person legally responsible for their care permits or encourages such
-  278  12550-02-3
-
+  275  12550-06-3
+ 
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
@@ -15065,13 +14937,13 @@ S T A T E  O F  N E W  Y O R K
   Early Childhood Development Account - 25135
  
  By chapter 50, section 1, of the laws of 2022:
-  279  12550-02-3
+  276  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   For services and expenses related to administering federal health  and
   human  services  grants  related  to  early  childhood  development
   (13911).
@@ -15079,7 +14951,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 14,160,000 ......... (re. $10,010,000)
   Fringe benefits (60090) ... 319,000 ................... (re. $319,000)
   Indirect costs (58850) ... 27,000 ...................... (re. $27,000)
- 
+
  By chapter 50, section 1, of the laws of 2021:
   For  services and expenses related to administering federal health and
   human  services  grants  related  to  early  childhood  development
@@ -15123,11 +14995,11 @@ S T A T E  O F  N E W  Y O R K
   upon the advice of the commissioner of children and family services,
   authorize  the transfer or interchange of moneys appropriated herein
   with any other state operations - general fund appropriation  within
-  280  12550-02-3
+  277  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   the  office of children and family services except where transfer or
@@ -15181,7 +15053,7 @@ S T A T E  O F  N E W  Y O R K
   upon the advice of the commissioner of children and family services,
   authorize  the transfer or interchange of moneys appropriated herein
   with any other state operations - general fund appropriation  within
-  281  12550-02-3
+  278  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15238,7 +15110,7 @@ S T A T E  O F  N E W  Y O R K
   authorize the transfer or interchange of moneys appropriated  herein
   with  any other state operations - general fund appropriation within
   the office of children and family services except where transfer  or
-  282  12550-02-3
+  279  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15296,13 +15168,13 @@ S T A T E  O F  N E W  Y O R K
   account and/or any appropriation of the office of children and fami-
   ly  services,  and  may  be  increased or decreased without limit by
   transfer between these appropriated amounts  and  appropriations.  A
-  283  12550-02-3
+  280  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   portion  of the funds appropriated herein may be suballocated to the
   dormitory authority of the state of New York, in accordance  with  a
   plan  approved  by the division of the budget, to design, construct,
@@ -15354,7 +15226,7 @@ S T A T E  O F  N E W  Y O R K
   transferred,  without  limit,  to  any special revenue funds federal
   account and/or any appropriation of the office of children and fami-
   ly services, and may be increased  or  decreased  without  limit  by
-  284  12550-02-3
+  281  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15412,13 +15284,13 @@ S T A T E  O F  N E W  Y O R K
   contrary,  the  money  hereby  appropriated  may  be interchanged or
   transferred, without limit, to any  special  revenue  funds  federal
   account and/or any appropriation of the office of children and fami-
-  285  12550-02-3
+  282  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   ly  services,  and  may  be  increased or decreased without limit by
   transfer between these appropriated amounts  and  appropriations.  A
   portion  of the funds appropriated herein may be suballocated to the
@@ -15470,7 +15342,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
-  286  12550-02-3
+  283  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15527,7 +15399,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   CBVH-Vending Stand Account-Federal - 20126
-  287  12550-02-3
+  284  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15584,7 +15456,7 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 200,000 ............ (re. $200,000)
   Travel (54000) ... 4,000 ................................ (re. $4,000)
   Contractual services (51000) ... 546,000 ............... (re. $30,000)
-  288  12550-02-3
+  285  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15607,7 +15479,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   CBVH-Vending Stand Account-State - 20146
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related to the vending stand program and
   pension plan and establishing food service sites.
@@ -15641,7 +15513,7 @@ S T A T E  O F  N E W  Y O R K
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (13953).
   Contractual services (51000) ... 100,000 ............... (re. $50,000)
-  289  12550-02-3
+  286  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15681,7 +15553,7 @@ S T A T E  O F  N E W  Y O R K
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (13953).
   Contractual services (51000) ... 500,000 .............. (re. $497,000)
- 
+
  By chapter 50, section 1, of the laws of 2019:
   For services and expenses of programs that support the blind.
   Notwithstanding  any  other  provision of law to the contrary, the OGS
@@ -15699,7 +15571,7 @@ S T A T E  O F  N E W  Y O R K
   State Purposes Account - 10050
  
  By chapter 50, section 1, of the laws of 2022:
-  290  12550-02-3
+  287  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15756,8 +15628,8 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 129,000 ............................ (re. $124,000)
   Contractual services (51000) ... 8,706,000 .......... (re. $7,029,000)
   Equipment (56000) ... 846,000 ......................... (re. $846,000)
-  291  12550-02-3
-
+  288  12550-06-3
+ 
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
@@ -15814,13 +15686,13 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 846,000 ......................... (re. $846,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  292  12550-02-3
+  289  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   For services and expenses related to the systems support program.
   Notwithstanding  section  51  of  the  state finance law and any other
   provision of law to the contrary, the director of  the  budget  may,
@@ -15872,7 +15744,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 846,000 ......................... (re. $815,000)
  
   Special Revenue Funds - Federal
-  293  12550-02-3
+  290  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -15896,7 +15768,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 29,753,000 ......... (re. $28,588,000)
   Fringe benefits (60090) ... 305,000 ................... (re. $305,000)
   Indirect costs (58850) ... 35,000 ...................... (re. $35,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For  services  and  expenses for the statewide automated child welfare
   information  system  including  related  administrative  expenses
@@ -15929,8 +15801,8 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 35,000 ...................... (re. $35,000)
  
  By chapter 50, section 1, of the laws of 2019:
-  294  12550-02-3
- 
+  291  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
@@ -15946,7 +15818,7 @@ S T A T E  O F  N E W  Y O R K
   budget, such funds shall be available to the office net of disallow-
   ances, refunds, reimbursements, and credits (13986).
   Nonpersonal service (57050) ... 30,593,000 ......... (re. $29,505,000)
- 
+
  By chapter 50, section 1, of the laws of 2018:
   For  services  and  expenses for the statewide automated child welfare
   information  system  including  related  administrative  expenses
@@ -15987,11 +15859,11 @@ S T A T E  O F  N E W  Y O R K
   implement  a  training  program on the dynamics of domestic violence
   and its relationship to child  abuse  and  neglect  with  particular
   emphasis on alternatives to out-of-home placement.
-  295  12550-02-3
+  292  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   For  trainee  travel  reimbursement payments to counties and voluntary
@@ -16044,13 +15916,13 @@ S T A T E  O F  N E W  Y O R K
   domestic violence, of which $135,000 may be used  to  contract  with
   the  office  for  the prevention of domestic violence to develop and
   implement a training program on the dynamics  of  domestic  violence
-  296  12550-02-3
+  293  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   and  its  relationship  to  child  abuse and neglect with particular
   emphasis on alternatives to out-of-home placement.
   For  trainee  travel  reimbursement payments to counties and voluntary
@@ -16102,7 +15974,7 @@ S T A T E  O F  N E W  Y O R K
   agencies or other governmental entities. Of the amount  appropriated
   herein,  a  minimum  of $257,000 shall be used for the prevention of
   domestic violence, of which $135,000 may be used  to  contract  with
-  297  12550-02-3
+  294  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16160,7 +16032,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related  to  the  training  and  development
   program, including but not limited to, child welfare, public assist-
   ance  and  medical assistance training contracts with not-for-profit
-  298  12550-02-3
+  295  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16206,7 +16078,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 11,946,650 ......... (re. $2,812,000)
   Equipment (56000) ... 475,000 ......................... (re. $438,000)
   Supplies and materials (57000) ... 60,000 .............. (re. $16,000)
-
+ 
  By chapter 50, section 1, of the laws of 2018, as amended by chapter 50,
   section 1, of the laws of 2019:
   For services and expenses related  to  the  training  and  development
@@ -16217,7 +16089,7 @@ S T A T E  O F  N E W  Y O R K
   domestic violence, of which $135,000 may be used  to  contract  with
   the  office  for  the prevention of domestic violence to develop and
   implement a training program on the dynamics  of  domestic  violence
-  299  12550-02-3
+  296  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16258,7 +16130,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Multiagency Training Contract Account - 21989
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For services and expenses related to the operation of the training and
   development program including, but not limited to, personal service,
@@ -16275,7 +16147,7 @@ S T A T E  O F  N E W  Y O R K
   budget.
   For trainee travel reimbursement payments to  counties  and  voluntary
   agencies  for  employees receiving training from the office of chil-
-  300  12550-02-3
+  297  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16304,7 +16176,7 @@ S T A T E  O F  N E W  Y O R K
   with any other state operations or aid to localities - general  fund
   or state special revenue other fund appropriation (15016).
   Contractual services (51000) ... 6,165,000 .......... (re. $5,767,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For services and expenses related to the operation of the training and
   development program including, but not limited to, personal service,
@@ -16333,7 +16205,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 18,849,000 ........ (re. $17,423,000)
   Fringe benefits (60000) ... 979,000 ................... (re. $128,000)
   Indirect costs (58800) ... 65,000 ....................... (re. $2,000)
-  301  12550-02-3
+  298  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16391,15 +16263,15 @@ S T A T E  O F  N E W  Y O R K
   Personal service--regular (50100) ... 2,326,000 ....... (re. $108,000)
   Holiday/overtime compensation (50300) ... 20,000 ........ (re. $2,000)
   Contractual services (51000) ... 18,849,000 ........ (re. $14,537,000)
-  302  12550-02-3
- 
+  299  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Fringe benefits (60000) ... 979,000 ..................... (re. $5,000)
-
+ 
  By chapter 50, section 1, of the laws of 2019, as amended by chapter 50,
   section 1, of the laws of 2020:
   For services and expenses related to the operation of the training and
@@ -16449,11 +16321,11 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any other provision of law to the  contrary,  the  OGS
   Interchange  and Transfer Authority, the IT Interchange and Transfer
   Authority, and the Alignment Interchange and Transfer  Authority  as
-  303  12550-02-3
+  300  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   defined  in the 2018-19 state fiscal year state operations appropri-
@@ -16497,7 +16369,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   State Match Account - 21967
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related  to the training and development
   program. Of the amount appropriated herein, $1,500,000 may  be  used
@@ -16507,11 +16379,11 @@ S T A T E  O F  N E W  Y O R K
   services  district is subject to the approval of the director of the
   budget. No expenditure shall be made from this account for  personal
   service  costs. No expenditure shall be made from this account until
-  304  12550-02-3
+  301  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   an expenditure plan for this purpose has been approved by the direc-
@@ -16565,7 +16437,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2019:
   For  services  and  expenses  related  to the training and development
   program. Of the amount appropriated herein, $1,500,000 may  be  used
-  305  12550-02-3
+  302  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16608,7 +16480,7 @@ S T A T E  O F  N E W  Y O R K
   are deemed fully incorporated herein and a part  of  this  appropri-
   ation as if fully stated (13984).
   Contractual services (51000) ... 4,000,000 ............ (re. $564,000)
-
+ 
  By chapter 50, section 1, of the laws of 2017:
   For  services  and  expenses  related  to the training and development
   program. Of the amount appropriated herein, $1,500,000 may  be  used
@@ -16623,7 +16495,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any other provision of law to the  contrary,  the  OGS
   Interchange  and Transfer Authority, the IT Interchange and Transfer
   Authority, and the Alignment Interchange and Transfer  Authority  as
-  306  12550-02-3
+  303  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16681,7 +16553,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 12,000 .............................. (re. $12,000)
   Contractual services (51000) ... 1,854,000 .......... (re. $1,854,000)
   Equipment (56000) ... 92,000 ........................... (re. $92,000)
-  307  12550-02-3
+  304  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16739,7 +16611,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2018, as amended by chapter 50,
   section 1, of the laws of 2019:
-  308  12550-02-3
+  305  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16796,7 +16668,7 @@ S T A T E  O F  N E W  Y O R K
   Enterprise Funds
   Agencies Enterprise Fund
   Training Materials Account - 50306
-  309  12550-02-3
+  306  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16854,7 +16726,7 @@ S T A T E  O F  N E W  Y O R K
   State Purposes Account - 10050
  
  By chapter 50, section 1, of the laws of 2022:
-  310  12550-02-3
+  307  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
@@ -16912,20 +16784,20 @@ S T A T E  O F  N E W  Y O R K
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer Authority as defined in the  2022-23  state  fiscal  year  state
   operations  appropriation  for  the  budget  division program of the
-  311  12550-02-3
+  308  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF CHILDREN AND FAMILY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated.
   The  money hereby appropriated shall be available to the office net of
   disallowances, refunds, reimbursements, and credits (13945).
   Supplies and materials (57000) ... 13,081,000 ....... (re. $9,129,000)
   Contractual services (51000) ... 22,801,000 ........ (re. $17,106,000)
-  312  12550-02-3
+  309  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -16983,7 +16855,7 @@ S T A T E  O F  N E W  Y O R K
   with any other state operations -  general
   fund  appropriation  within  the office of
   temporary and disability assistance except
-  313  12550-02-3
+  310  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -16993,27 +16865,15 @@ S T A T E  O F  N E W  Y O R K
   where transfer or interchange of appropri-
   ations  is  prohibited  or  otherwise
   restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  Office of Temporary and Disability Assist-
-  ance contained in the  aid  to  localities
-  budget  bill, and (ii) the director of the
-  budget has determined that  those  aid  to
-  localities appropriations as finally acted
-  on  by  the legislature are sufficient for
-  the ensuing fiscal year.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (81001).
  
  Personal service--regular (50100) ............. 25,475,000
@@ -17031,25 +16891,18 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   OTDA Program Account - 21980
  
- For  services  and  expenses  related to the
+ For services and  expenses  related  to  the
   support  of  health  and  social  services
   programs.
- Notwithstanding  section  153  of the social
-  services law  or  any  other  inconsistent
-  provision  of law, the office shall reduce
-  reimbursement otherwise payable to  social
-  services  districts to recover 100 percent
-  of costs incurred by the office on  behalf
-  of  social  services  districts, including
-  314  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
- 
-  the costs incurred for  electronic  access
-  to  federal systems to verify alien status
+ Notwithstanding section 153  of  the  social
+  services  law  or  any  other inconsistent
+  provision of law, the office shall  reduce
+  reimbursement  otherwise payable to social
+  services districts to recover 100  percent
+  of  costs incurred by the office on behalf
+  of social  services  districts,  including
+  the  costs  incurred for electronic access
+  to federal systems to verify alien  status
   for entitlements (81001).
  
  Contractual services (51000) ................... 2,400,000
@@ -17060,6 +16913,12 @@ S T A T E  O F  N E W  Y O R K
  
  ADMINISTRATIVE HEARINGS PROGRAM ............................. 30,610,000
   --------------
+  311  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
+ 
+  STATE OPERATIONS  2023-24
  
   General Fund
   State Purposes Account - 10050
@@ -17081,34 +16940,15 @@ S T A T E  O F  N E W  Y O R K
   where transfer or interchange of appropri-
   ations  is  prohibited  or  otherwise
   restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  Office of Temporary and Disability Assist-
-  ance contained in the  aid  to  localities
-  budget  bill, and (ii) the director of the
-  budget has determined that  those  aid  to
-  localities appropriations as finally acted
-  on  by  the legislature are sufficient for
-  the ensuing fiscal year.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
-  315  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
- 
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (52306).
  
  Personal service--regular (50100) ............. 25,300,000
@@ -17127,118 +16967,106 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  of  the  child
   support  services  program  including  the
-  payment  of  liabilities incurred prior to
+  payment of liabilities incurred  prior  to
   April 1, 2023.
- Amounts appropriated herein may  be  matched
-  with  available  federal funds and without
-  local financial participation. Subject  to
-  the  approval of the director of the budg-
-  et, funds may be used by the office either
-  directly or through one or more  contracts
-  with  private or public organizations, for
-  services  designed  to  strengthen  child
-  support  enforcement  activities including
-  but not  necessarily  limited  to  instate
-  bank  match  services;  a  paternity media
-  campaign; a medical support unit; payments
-  to hospitals and other  eligible  entities
-  for obtaining voluntary paternity acknowl-
-  edgments; joint enforcement teams; remedi-
-  ation  of  hard-to-collect cases; location
-  services; website services; child  support
-  guidelines  review;  and  operation  of  a
-  centralized  support  collection  unit,
-  including the cost of banking services and
-  an  automated  voice  response  system and
-  customer service unit.
- Notwithstanding section 153  of  the  social
-  services  law  or  any  other inconsistent
-  provision of law, the office shall  reduce
-  reimbursement  otherwise payable to social
-  services districts to recover  50  percent
-  of the non-federal share of costs incurred
-  316  12550-02-3
+ Amounts  appropriated  herein may be matched
+  with available federal funds  and  without
+  312  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS  2023-24
  
-  by  the  office  for  the  operation  of a
+  local  financial participation. Subject to
+  the approval of the director of the  budg-
+  et, funds may be used by the office either
+  directly  or through one or more contracts
+  with private or public organizations,  for
+  services  designed  to  strengthen  child
+  support enforcement  activities  including
+  but  not  necessarily  limited  to instate
+  bank match  services;  a  paternity  media
+  campaign; a medical support unit; payments
+  to  hospitals  and other eligible entities
+  for obtaining voluntary paternity acknowl-
+  edgments; joint enforcement teams; remedi-
+  ation of hard-to-collect  cases;  location
+  services;  website services; child support
+  guidelines  review;  and  operation  of  a
   centralized  support  collection  unit,
   including the cost of banking services and
-  an  automated  voice  response  system and
+  an automated  voice  response  system  and
+  customer service unit.
+ Notwithstanding  section  153  of the social
+  services law  or  any  other  inconsistent
+  provision  of law, the office shall reduce
+  reimbursement otherwise payable to  social
+  services  districts  to recover 50 percent
+  of the non-federal share of costs incurred
+  by the  office  for  the  operation  of  a
+  centralized  support  collection  unit,
+  including the cost of banking services and
+  an automated  voice  response  system  and
   customer  service  unit.  Such  reduction
   shall be prorated among districts based on
-  the  number  of  collections and disburse-
+  the number of  collections  and  disburse-
   ments processed or on an alternative meth-
-  odology deemed appropriate by the  commis-
+  odology  deemed appropriate by the commis-
   sioner.
- Notwithstanding  any  inconsistent provision
+ Notwithstanding any  inconsistent  provision
   of law, amounts appropriated herein may be
-  used, as matched by federal funds,  pursu-
-  ant  to a plan approved by the director of
-  the budget, for the planning,  development
+  used,  as matched by federal funds, pursu-
+  ant to a plan approved by the director  of
+  the  budget, for the planning, development
   and  operation  of  an  automated  system
-  designed to meet the requirements  of  the
-  family  support  act of 1988, the personal
+  designed  to  meet the requirements of the
+  family support act of 1988,  the  personal
   responsibility and work opportunity recon-
-  ciliation act of 1996  and  to  facilitate
+  ciliation  act  of  1996 and to facilitate
   and  improve  local  districts  operations
   related to child support enforcement.
- Notwithstanding any  inconsistent  provision
-  of  the  law  to the contrary, pursuant to
-  memoranda of understanding and subject  to
-  the  approval of the director of the budg-
-  et, a portion of the  amount  appropriated
-  herein  may  be available for expenditures
+ Notwithstanding  any  inconsistent provision
+  of the law to the  contrary,  pursuant  to
+  memoranda  of understanding and subject to
+  313  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
+ 
+  STATE OPERATIONS  2023-24
+ 
+  the approval of the director of the  budg-
+  et,  a  portion of the amount appropriated
+  herein may be available  for  expenditures
   of the department of taxation and finance,
-  the department of motor vehicles, and  the
-  department  of  labor for reimbursement of
-  administrative costs of these  departments
-  associated  with efforts to increase child
+  the  department of motor vehicles, and the
+  department of labor for  reimbursement  of
+  administrative  costs of these departments
+  associated with efforts to increase  child
   support collections.
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
   et may, upon the advice of the commission-
   er of the office of temporary and disabil-
-  ity  assistance, authorize the transfer or
-  interchange of moneys appropriated  herein
-  with  any other state operations - general
-  fund appropriation within  the  office  of
+  ity assistance, authorize the transfer  or
+  interchange  of moneys appropriated herein
+  with any other state operations -  general
+  fund  appropriation  within  the office of
   temporary and disability assistance except
   where transfer or interchange of appropri-
   ations  is  prohibited  or  otherwise
   restricted by law.
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  317  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
- 
-  acted  upon  the  appropriations  for  the
-  Office of Temporary and Disability Assist-
-  ance  contained  in  the aid to localities
-  budget  bill, and (ii) the director of the
-  budget has determined that  those  aid  to
-  localities appropriations as finally acted
-  on  by  the legislature are sufficient for
-  the ensuing fiscal year.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (52200).
  
  Personal service--regular (50100) .............. 2,463,000
@@ -17255,33 +17083,33 @@ S T A T E  O F  N E W  Y O R K
   Federal Health and Human Services Fund
   Child Support Account - 25178
  
- For  services  and  expenses  related to the
+ For services and  expenses  related  to  the
   administration  of  the  child  support
   enforcement program.
- A  portion of the funds appropriated herein,
-  subject to the approval of the director of
-  the budget, may be  used  as  the  federal
-  match  for services designed to strengthen
-  child  support  enforcement  activities
-  including  but  not necessarily limited to
-  instate bank match services;  a  paternity
-  media  campaign;  a  medical support unit;
-  payments to hospitals and  other  eligible
-  entities for obtaining voluntary paternity
-  acknowledgments;  joint enforcement teams;
-  remediation  of  hard-to-collect  cases;
-  location services; website services; child
-  support  guidelines  review; and operation
-  of a centralized support collection  unit,
-  318  12550-02-3
+  314  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS  2023-24
  
+ A portion of the funds appropriated  herein,
+  subject to the approval of the director of
+  the  budget,  may  be  used as the federal
+  match for services designed to  strengthen
+  child  support  enforcement  activities
+  including but not necessarily  limited  to
+  instate  bank  match services; a paternity
+  media campaign; a  medical  support  unit;
+  payments  to  hospitals and other eligible
+  entities for obtaining voluntary paternity
+  acknowledgments; joint enforcement  teams;
+  remediation  of  hard-to-collect  cases;
+  location services; website services; child
+  support guidelines review;  and  operation
+  of  a centralized support collection unit,
   including the cost of banking services and
-  an  automated  voice  response  system and
+  an automated  voice  response  system  and
   customer service unit.
  Notwithstanding  any  inconsistent provision
   of law, amounts appropriated herein may be
@@ -17312,9 +17140,16 @@ S T A T E  O F  N E W  Y O R K
   administrative  costs of these departments
   associated with efforts to increase  child
   support collections (52200).
-
+ 
  Personal service (50000) ....................... 7,000,000
  Nonpersonal service (57050) ................... 24,588,000
+  315  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
+ 
+  STATE OPERATIONS  2023-24
+ 
  Fringe benefits (60090) ........................ 4,500,000
  Indirect costs (58850) ........................... 900,000
   --------------
@@ -17331,12 +17166,6 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  related to the
   office  of  disability  determinations
   (52201).
-  319  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
  
  Personal service (50000) ...................... 87,400,000
  Nonpersonal service (57050) ................... 53,000,000
@@ -17372,47 +17201,35 @@ S T A T E  O F  N E W  Y O R K
   including  but  not  limited  to  personal
   service  costs, postage, other nonpersonal
   services costs, and contractor costs  paid
+  316  12550-06-3
+
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
+ 
+  STATE OPERATIONS  2023-24
+ 
   directly  by  the office including but not
   limited  to  costs  for  mail  processing.
   Notwithstanding  any  other  inconsistent
-  provision of law, the office shall  reduce
-  reimbursement  otherwise payable to social
-  services districts to recover  50  percent
+  provision  of law, the office shall reduce
+  reimbursement otherwise payable to  social
+  services  districts  to recover 50 percent
   of the non-federal share of costs, includ-
-  ing  prior  period  costs, incurred by the
+  ing prior period costs,  incurred  by  the
   office for these purposes.
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
   et may, upon the advice of the commission-
   er of the office of temporary and disabil-
-  ity  assistance, authorize the transfer or
-  interchange of moneys appropriated  herein
-  with  any other state operations - general
-  320  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
- 
-  fund appropriation within  the  office  of
+  ity assistance, authorize the transfer  or
+  interchange  of moneys appropriated herein
+  with any other state operations -  general
+  fund  appropriation  within  the office of
   temporary and disability assistance except
   where transfer or interchange of appropri-
   ations  is  prohibited  or  otherwise
   restricted by law.
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  Office of Temporary and Disability Assist-
-  ance  contained  in  the aid to localities
-  budget bill, and (ii) the director of  the
-  budget  has  determined  that those aid to
-  localities appropriations as finally acted
-  on by the legislature are  sufficient  for
-  the ensuing fiscal year.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
@@ -17442,14 +17259,15 @@ S T A T E  O F  N E W  Y O R K
   minations and re-determinations  regarding
   blindness  and  disability  in  accordance
   with title XVI of the social security  act
-  for  the New York state supplement program
-  (52341).
-  321  12550-02-3
+  317  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS  2023-24
+ 
+  for  the New York state supplement program
+  (52341).
  
  Personal service--regular (50100) ................ 600,000
  Contractual services (51000) ..................... 600,000
@@ -17462,7 +17280,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Home Energy Assistance Program Account - 25123
- 
+
  For  services  and  expenses  related to the
   administration  of  the  low  income  home
   energy  assistance  program.  Pursuant  to
@@ -17486,7 +17304,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Federal Food and Nutrition Services Account - 25024
-
+ 
  Notwithstanding any  inconsistent  provision
   of law, the money hereby appropriated may,
   with  the  approval of the director of the
@@ -17499,19 +17317,19 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  related to the
   administration of the supplemental  nutri-
   tion assistance program. Amounts appropri-
-  ated  herein  may be used for the expenses
-  associated  with  the  operation  of  the
-  statewide  electronic  benefit  transfer
-  322  12550-02-3
- 
+  318  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS  2023-24
  
+  ated  herein  may be used for the expenses
+  associated  with  the  operation  of  the
+  statewide  electronic  benefit  transfer
   (EBT) system; the common benefit identifi-
   cation  card  (CBIC);  and  an  integrated
-  eligibility  system.  With the approval of
+  eligibility system. With the  approval  of
   the  director  of budget, a portion of the
   funds appropriated herein  may  be  trans-
   ferred  or  suballocated  to  other  state
@@ -17557,16 +17375,16 @@ S T A T E  O F  N E W  Y O R K
   States  department  of agriculture and any
   other applicable  federal  agency  to  the
   extent that such approvals are required by
-  federal  statute  or  regulations  or upon
-  determination by the director of the budg-
-  et that  expenditure  of  these  funds  is
-  323  12550-02-3
+  319  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS  2023-24
  
+  federal  statute  or  regulations  or upon
+  determination by the director of the budg-
+  et that  expenditure  of  these  funds  is
   necessary  to  meet  the  purposes defined
   herein. This appropriation shall  only  be
   available  upon approval of an expenditure
@@ -17576,26 +17394,14 @@ S T A T E  O F  N E W  Y O R K
   to the contrary, the director of the budg-
   et may, upon the advice of the commission-
   er of the office of temporary and disabil-
-  ity assistance, authorize the transfer  or
-  interchange  of moneys appropriated herein
-  with any other state operations -  general
-  fund  appropriation  within  the office of
+  ity  assistance, authorize the transfer or
+  interchange of moneys appropriated  herein
+  with  any other state operations - general
+  fund appropriation within  the  office  of
   temporary and disability assistance except
   where transfer or interchange of appropri-
   ations  is  prohibited  or  otherwise
   restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  Office of Temporary and Disability Assist-
-  ance contained in the  aid  to  localities
-  budget  bill, and (ii) the director of the
-  budget has determined that  those  aid  to
-  localities appropriations as finally acted
-  on  by  the legislature are sufficient for
-  the ensuing fiscal year.
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
@@ -17618,25 +17424,25 @@ S T A T E  O F  N E W  Y O R K
  
  For  the  federal  share  of  the design and
   implementation  of  modifications  and
-  324  12550-02-3
+  enhancements  to  the welfare-to-work case
+  management system, the welfare  management
+  system,  the  child  support  management
+  system, the  electronic  benefit  transfer
+  system,  costs  associated  with  New York
+  city  facilities  management,  and  other
+  related  systems operated by the office of
+  temporary and disability  assistance,  the
+  office  of  children  and family services,
+  320  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS  2023-24
-
-  enhancements  to  the welfare-to-work case
-  management system, the welfare  management
-  system,  the  child  support  management
-  system,  the  electronic  benefit transfer
-  system, costs  associated  with  New  York
-  city  facilities  management,  and  other
-  related systems operated by the office  of
-  temporary  and  disability assistance, the
-  office of children  and  family  services,
+ 
   the department of labor, or the department
-  of  health  necessary  for  the successful
-  implementation of the  personal  responsi-
+  of health  necessary  for  the  successful
+  implementation  of  the personal responsi-
   bility and work opportunity reconciliation
   act  of  1996  (P.L.  104-193) and the New
   York state  welfare  reform  act  of  1997
@@ -17668,7 +17474,7 @@ S T A T E  O F  N E W  Y O R K
   expenditure plan by the  director  of  the
   budget  for  the  purposes  defined herein
   (52295).
- 
+
  Nonpersonal service (57050) .................... 5,000,000
   --------------
   Program account subtotal ................... 5,000,000
@@ -17676,45 +17482,34 @@ S T A T E  O F  N E W  Y O R K
  
  SPECIALIZED SERVICES PROGRAM ................................ 22,091,000
   --------------
-  325  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
-
-  STATE OPERATIONS  2023-24
  
   General Fund
   State Purposes Account - 10050
  
  For services and expenses of the specialized
-  services  program including the payment of
-  liabilities incurred  prior  to  April  1,
+  services program including the payment  of
+  liabilities  incurred  prior  to  April 1,
   2023.
+  321  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
+ 
+  STATE OPERATIONS  2023-24
+
  Notwithstanding  section  51  of  the  state
   finance law and any other provision of law
   to the contrary, the director of the budg-
   et may, upon the advice of the commission-
   er of the office of temporary and disabil-
-  ity assistance, authorize the transfer  or
-  interchange  of moneys appropriated herein
-  with any other state operations -  general
-  fund  appropriation  within  the office of
+  ity  assistance, authorize the transfer or
+  interchange of moneys appropriated  herein
+  with  any other state operations - general
+  fund appropriation within  the  office  of
   temporary and disability assistance except
   where transfer or interchange of appropri-
   ations  is  prohibited  or  otherwise
   restricted by law.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  Office of Temporary and Disability Assist-
-  ance contained in the  aid  to  localities
-  budget  bill, and (ii) the director of the
-  budget has determined that  those  aid  to
-  localities appropriations as finally acted
-  on  by  the legislature are sufficient for
-  the ensuing fiscal year.
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
@@ -17733,13 +17528,6 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 1,825,000
  Equipment (56000) ................................. 20,000
   --------------
-  326  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal .................. 17,906,000
   --------------
  
@@ -17760,6 +17548,12 @@ S T A T E  O F  N E W  Y O R K
   to any other state agency for services and
   expenses related to  refugee  resettlement
   programs (52304).
+  322  12550-06-3
+ 
+  DEPARTMENT OF FAMILY ASSISTANCE
+  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service (50000) ....................... 1,555,000
  Nonpersonal service (57050) ...................... 550,000
@@ -17788,12 +17582,6 @@ S T A T E  O F  N E W  Y O R K
   services and expenses related  to  federal
   homeless  and  other  federal  support
   services grants (52219).
-  327  12550-02-3
- 
-  DEPARTMENT OF FAMILY ASSISTANCE
-  OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
- 
-  STATE OPERATIONS  2023-24
  
  Personal service (50000) ......................... 513,000
  Nonpersonal service (57050) ...................... 131,000
@@ -17802,8 +17590,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 1,000,000
   --------------
-  328  12550-02-3
- 
+  323  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
@@ -17848,7 +17636,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   OTDA Program Account - 21980
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services and expenses related to the support of health and social
   services programs.
@@ -17860,13 +17648,13 @@ S T A T E  O F  N E W  Y O R K
   federal systems to verify alien status for entitlements (81001).
   Contractual services (51000) ... 2,400,000 .......... (re. $2,396,000)
   Fringe benefits (60000) ... 100,000 ................... (re. $100,000)
-  329  12550-02-3
+  324  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
  By chapter 50, section 1, of the laws of 2021:
   For  services and expenses related to the support of health and social
   services programs.
@@ -17882,7 +17670,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  of  the  administrative hearings program
   including the payment of liabilities  incurred  prior  to  April  1,
@@ -17918,7 +17706,7 @@ S T A T E  O F  N E W  Y O R K
   approval of the director of the budget, funds may  be  used  by  the
   office either directly or through one or more contracts with private
   or  public  organizations, for services designed to strengthen child
-  330  12550-02-3
+  325  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -17975,7 +17763,7 @@ S T A T E  O F  N E W  Y O R K
   division  of  the budget, are deemed fully incorporated herein and a
   part of this appropriation as if fully stated (52200).
   Contractual services (51000) ... 8,019,000 .......... (re. $5,511,000)
-  331  12550-02-3
+  326  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18033,7 +17821,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 86,500,000 ............ (re. $42,318,000)
   Nonpersonal service (57050) ... 53,000,000 ......... (re. $47,060,000)
   Fringe benefits (60090) ... 55,000,000 ............. (re. $28,996,000)
-  332  12550-02-3
+  327  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18046,7 +17834,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 86,500,000 ............ (re. $13,616,000)
   Nonpersonal service (57050) ... 53,000,000 .......... (re. $6,456,000)
   Fringe benefits (60090) ... 55,000,000 ............. (re. $10,127,000)
- 
+
  By chapter 50, section 1, of the laws of 2020:
   For services and expenses related to the office of disability determi-
   nations (52201).
@@ -18091,7 +17879,7 @@ S T A T E  O F  N E W  Y O R K
   disability  assistance,  authorize  the  transfer  or interchange of
   moneys appropriated herein with any other state operations - general
   fund appropriation within the office  of  temporary  and  disability
-  333  12550-02-3
+  328  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18107,7 +17895,7 @@ S T A T E  O F  N E W  Y O R K
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (52202).
   Contractual services (51000) ... 21,128,000 ........ (re. $11,160,000)
- 
+
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Home Energy Assistance Program Account - 25123
@@ -18137,7 +17925,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 3,500,000 ........... (re. $2,943,000)
   Fringe benefits (60090) ... 4,700,000 ............... (re. $2,454,000)
   Indirect costs (58850) ... 2,000,000 ................ (re. $1,659,000)
- 
+
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Pandemic Emergency Assistance Account - 25178
@@ -18148,13 +17936,13 @@ S T A T E  O F  N E W  Y O R K
   related to Pandemic Emergency Assistance,  as  provided  in  Section
   9201 of Public Law 117-2, and any other federal funds made available
   for  this purpose. Use of such funds shall be in accordance with all
-  334  12550-02-3
+  329  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   relevant rules and regulations promulgated by the federal department
   of health and human services.
   Of  the  amounts  appropriated herein, up to $33,300,000 shall be made
@@ -18206,7 +17994,7 @@ S T A T E  O F  N E W  Y O R K
   disability assistance federal fund  -  local  assistance  and  state
   operations accounts with the approval of the director of the budget,
   who  shall  file  such  approval  with  the  department of audit and
-  335  12550-02-3
+  330  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18224,7 +18012,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Water Assistance Program Account - 25123
- 
+
  By  chapter  50, section 1, of the laws of 2021, as added and amended by
   chapter 50, section 1, of the laws of 2022:
   Funds appropriated herein shall be available for services and expenses
@@ -18264,7 +18052,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Federal Food and Nutrition Services Account - 25024
-  336  12550-02-3
+  331  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18291,7 +18079,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 18,300,000 .......... (re. $9,948,000)
   Fringe benefits (60090) ... 6,000,000 ............... (re. $5,769,000)
   Indirect costs (58850) ... 800,000 .................... (re. $772,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021, as amended by chapter 50,
   section 1, of the laws of 2022:
   Notwithstanding  any  inconsistent  provision of law, the money hereby
@@ -18322,8 +18110,8 @@ S T A T E  O F  N E W  Y O R K
   system, the  child  support  management  system  and  other  related
   systems  operated  by the office of temporary and disability assist-
   ance, the office of children and family services, the department  of
-  337  12550-02-3
- 
+  332  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
@@ -18380,7 +18168,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  section  51  of  the  state finance law and any other
   provision of law to the contrary, the director of  the  budget  may,
   upon  the  advice of the commissioner of the office of temporary and
-  338  12550-02-3
+  333  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18403,7 +18191,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Federal Food and Nutrition Services Account - 25024
-
+ 
  The appropriation made by chapter 50, section 1, of the laws of 2022, is
   hereby amended and reappropriated to read:
   For  the  federal  share of the design and implementation of modifica-
@@ -18438,8 +18226,8 @@ S T A T E  O F  N E W  Y O R K
   [5,000,000] 4,909,670 ............................. (re. $4,910,000)
   FRINGE BENEFITS (60090) ... 33,135 ..................... (re. $32,900)
   INDIRECT COSTS (58850) ... 5,195 ........................ (re. $5,155)
-  339  12550-02-3
-
+  334  12550-06-3
+ 
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
@@ -18496,8 +18284,8 @@ S T A T E  O F  N E W  Y O R K
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer Authority as defined in the  2022-23  state  fiscal  year  state
   operations  appropriation  for  the  budget  division program of the
-  340  12550-02-3
- 
+  335  12550-06-3
+
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
  
@@ -18554,7 +18342,7 @@ S T A T E  O F  N E W  Y O R K
   For  supplemental costs associated with an emergency rental assistance
   program pursuant to a plan approved by the office of  temporary  and
   disability  assistance  and  director  of  the budget. Such expenses
-  341  12550-02-3
+  336  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18612,7 +18400,7 @@ S T A T E  O F  N E W  Y O R K
  
  The appropriation made by chapter 50, section 1, of the laws of 2022, is
   hereby amended and reappropriated to read:
-  342  12550-02-3
+  337  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18633,7 +18421,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 550,000 ............... (re. $539,000)
   Fringe benefits (60090) ... 980,000 ................... (re. $699,000)
   Indirect costs (58850) ... 100,000 ..................... (re. $52,000)
-
+ 
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Homeless Housing Account - 25390
@@ -18670,7 +18458,7 @@ S T A T E  O F  N E W  Y O R K
   at the time of application and up to 3 months  of  prospective  rent
   pursuant  to part BB of chapter 56 of the law of 2021, as amended by
   chapter 417 of the laws of 2021, federal law and other purposes  set
-  343  12550-02-3
+  338  12550-06-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -18691,7 +18479,7 @@ S T A T E  O F  N E W  Y O R K
   [60,000,000]58,935,020 ........................... (re. $56,035,000)
   FRINGE BENEFITS (60090) ... 388,374 ................... (re. $388,374)
   INDIRECT COSTS (57050) ... 67,106 ...................... (re. $67,106)
- 
+
  The appropriation made by chapter 50, section 1, of the laws of 2021, as
   supplemented by transfers in accordance with section 51 of the state
   finance law, is hereby amended and reappropriated to read:
@@ -18727,8 +18515,8 @@ S T A T E  O F  N E W  Y O R K
   assistance activities (52219).
   Nonpersonal service (57050) ..........................................
   [202,141,000] 215,406,000 ........................... (re. $927,115)
-  344  12550-02-3
- 
+  339  12550-06-3
+
   NEW YORK STATE FINANCIAL CONTROL BOARD
  
   STATE OPERATIONS  2023-24
@@ -18750,7 +18538,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   NYS Financial Control Board Account - 21911
- 
+
  This  amount  is  appropriated  to  pay  for
   financial control board  personal  service
   and nonpersonal service expenses including
@@ -18775,7 +18563,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) .......................... 995,700
  Indirect costs (58800) ............................ 46,200
   --------------
-  345  12550-02-3
+  340  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -18832,7 +18620,7 @@ S T A T E  O F  N E W  Y O R K
   speaker of the assembly and  the  majority
   leader  of the senate regarding any inter-
   changes made pursuant to this provision.
-  346  12550-02-3
+  341  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -18887,12 +18675,12 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   administration program (81001).
-  347  12550-02-3
+  342  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
-
-  STATE OPERATIONS  2023-24
  
+  STATE OPERATIONS  2023-24
+
  Contractual services (51000) ...................... 25,000
  Equipment (56000) ................................ 475,000
   --------------
@@ -18945,10 +18733,10 @@ S T A T E  O F  N E W  Y O R K
  
  For services and  expenses  related  to  the
   enforcement actions in accordance with the
-  348  12550-02-3
+  343  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
-
+ 
   STATE OPERATIONS  2023-24
  
   purpose  outlined  in the settlement under
@@ -18971,7 +18759,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 50,000
   --------------
- 
+
  BANKING PROGRAM ............................................ 117,184,000
   --------------
  
@@ -19003,12 +18791,12 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service--regular (50100) ............. 12,279,000
  Holiday/overtime compensation (50300) ............. 13,000
-  349  12550-02-3
+  344  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS  2023-24
-
+ 
  Supplies and materials (57000) .................... 19,000
  Travel (54000) ................................... 224,000
  Contractual services (51000) ..................... 348,000
@@ -19060,10 +18848,10 @@ S T A T E  O F  N E W  Y O R K
  
  Supplies and materials (57000) .................... 55,000
  Contractual services (51000) ...................... 55,000
-  350  12550-02-3
+  345  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
-
+ 
   STATE OPERATIONS  2023-24
  
  Travel (54000) .................................... 55,000
@@ -19103,7 +18891,7 @@ S T A T E  O F  N E W  Y O R K
  For services and  expenses  of  the  virtual
   currency  business  activities pursuant to
   section 206 of the financial services law.
-
+ 
  Personal service--regular (50100) .............. 7,000,000
  Supplies and materials (57000) .................... 20,000
  Travel (54000) ................................... 500,000
@@ -19117,8 +18905,8 @@ S T A T E  O F  N E W  Y O R K
  
  INSURANCE PROGRAM .......................................... 241,899,000
   --------------
-  351  12550-02-3
-
+  346  12550-06-3
+ 
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS  2023-24
@@ -19145,7 +18933,7 @@ S T A T E  O F  N E W  Y O R K
   amount  of  moneys  so  interchanged  and
   detail the expenditures funded as a result
   of such interchange (32405).
- 
+
  Personal service--regular (50100) ............. 13,388,000
  Holiday/overtime compensation (50300) ............. 19,000
  Supplies and materials (57000) .................... 29,000
@@ -19175,8 +18963,8 @@ S T A T E  O F  N E W  Y O R K
   ing any interchanges made pursuant to this
   provision. Such report shall  specify  the
   amount  of  moneys  so  interchanged  and
-  352  12550-02-3
-
+  347  12550-06-3
+ 
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS  2023-24
@@ -19217,7 +19005,7 @@ S T A T E  O F  N E W  Y O R K
   land security and emergency  services  for
   expenses  related  to the urban search and
   rescue program (32412).
- 
+
  Personal service--regular (50100) ................ 175,000
  Supplies and materials (57000) .................... 75,000
  Travel (54000) .................................... 50,000
@@ -19232,8 +19020,8 @@ S T A T E  O F  N E W  Y O R K
  For suballocation to the division  of  home-
   land  security  and emergency services for
   services and expenses related to the  fire
-  353  12550-02-3
- 
+  348  12550-06-3
+
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS  2023-24
@@ -19272,7 +19060,7 @@ S T A T E  O F  N E W  Y O R K
   promulgating  fire  safety  standards  for
   cigarettes  pursuant  to  section 156-c of
   the executive law (32415).
- 
+
  Personal service--regular (50100) ................ 527,000
  Holiday/overtime compensation (50300) ............ 151,000
  Supplies and materials (57000) .................... 20,000
@@ -19290,7 +19078,7 @@ S T A T E  O F  N E W  Y O R K
   services  and  expenses  related  to  the
   repair  and  rehabilitation  of  the state
   fire training academy (32416).
-  354  12550-02-3
+  349  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -19346,7 +19134,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................. 1,500,000
  Contractual services (51000) ..................... 900,000
  Equipment (56000) .............................. 1,386,000
-  355  12550-02-3
+  350  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -19404,7 +19192,7 @@ S T A T E  O F  N E W  Y O R K
   low-income children,  as  permitted  under
   section  2105(a)(1)(D)(ii)  of  the social
   security act  and  defined  in  the  regu-
-  356  12550-02-3
+  351  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -19449,12 +19237,12 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 5,390,000
   --------------
-  357  12550-02-3
+  352  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  ADMINISTRATION PROGRAM
  
   Special Revenue Funds - Other
@@ -19484,7 +19272,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 430,000 ......................... (re. $401,000)
   Fringe benefits (60000) ... 5,448,000 ............... (re. $2,575,000)
   Indirect costs (58800) ... 277,000 .................... (re. $137,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For  services and expenses related to the administration and operation
   of the department of financial services. Notwithstanding section  51
@@ -19507,10 +19295,10 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 12,115,000 ......... (re. $2,924,000)
   Equipment (56000) ... 430,000 ......................... (re. $355,000)
   Fringe benefits (60000) ... 5,153,000 ................. (re. $545,000)
-  358  12550-02-3
+  353  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Indirect costs (58800) ... 262,000 ..................... (re. $54,000)
@@ -19538,7 +19326,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 430,000 ......................... (re. $429,000)
   Fringe benefits (60000) ... 5,153,000 ................... (re. $5,000)
   Indirect costs (58800) ... 262,000 ...................... (re. $5,000)
-
+ 
  By chapter 50, section 1, of the laws of 2019:
   For  services and expenses related to the administration and operation
   of the department of financial services. Notwithstanding section  51
@@ -19564,12 +19352,12 @@ S T A T E  O F  N E W  Y O R K
   Insurance Department Account - 21994
  
  By chapter 50, section 1, of the laws of 2022:
-  359  12550-02-3
+  354  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   For  services and expenses related to the administration and operation
   of the department of financial services. Notwithstanding section  51
   of  the  state  finance  law,  the  money hereby appropriated may be
@@ -19622,12 +19410,12 @@ S T A T E  O F  N E W  Y O R K
   of the department of financial services. Notwithstanding section  51
   of  the  state  finance  law,  the  money hereby appropriated may be
   increased or decreased by interchange with any  other  appropriation
-  360  12550-02-3
+  355  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   within  the  department  of  financial  services. Such annual inter-
   changes made between banking department account  appropriations  and
   insurance  department  account appropriations may not, in the aggre-
@@ -19680,8 +19468,8 @@ S T A T E  O F  N E W  Y O R K
   decreased by interchange with any  other  appropriation  within  the
   department  of  financial  services.  Such  annual interchanges made
   between banking  department  account  appropriations  and  insurance
-  361  12550-02-3
-
+  356  12550-06-3
+ 
   DEPARTMENT OF FINANCIAL SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -19724,7 +19512,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 100,000 .......................... (re. $99,000)
   Fringe benefits (60000) ... 24,077,000 .............. (re. $2,116,000)
   Indirect costs (58800) ... 1,173,000 .................. (re. $181,000)
- 
+
  By chapter 50, section 1, of the laws of 2020:
   For  services and expenses related to the regulatory activities of the
   department of financial services. Notwithstanding section 51 of  the
@@ -19737,7 +19525,7 @@ S T A T E  O F  N E W  Y O R K
   cial services shall report quarterly to the governor, the speaker of
   the  assembly  and  the  majority leader of the senate regarding any
   interchanges made pursuant to  this  provision.  Such  report  shall
-  362  12550-02-3
+  357  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -19778,7 +19566,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Insurance Department Account - 21994
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services and expenses related to the regulatory activities of the
   department of financial services. Notwithstanding section 51 of  the
@@ -19795,7 +19583,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service--regular (50100) ... 60,135,000 ... (re. $27,310,000)
   Temporary service (50200) ... 18,000 ................... (re. $18,000)
   Holiday/overtime compensation (50300) ... 135,000 ..... (re. $133,000)
-  363  12550-02-3
+  358  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -19853,7 +19641,7 @@ S T A T E  O F  N E W  Y O R K
   interchanged and detail the expenditures funded as a result of  such
   interchange (32406).
   Personal service--regular (50100) ... 56,880,000 .... (re. $5,335,000)
-  364  12550-02-3
+  359  12550-06-3
  
   DEPARTMENT OF FINANCIAL SERVICES
  
@@ -19911,16 +19699,16 @@ S T A T E  O F  N E W  Y O R K
   services  for  services and expenses related to the repair and reha-
   bilitation of the state fire training academy (32416).
   Contractual services (51000) ... 500,000 ............... (re. $14,000)
-  365  12550-02-3
+  360  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
   STATE OPERATIONS  2023-24
-
+ 
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   General Fund .......................  6,109,000  0
   Special Revenue Funds - Other ......  102,717,000  0
   ----------------  ----------------
@@ -19956,10 +19744,10 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 1,643,000
  Equipment (56000) ................................. 20,000
   --------------
-
+ 
  ADMINISTRATION OF THE LOTTERY PROGRAM ....................... 52,850,000
   --------------
- 
+
   Special Revenue Funds - Other
   State Lottery Fund
   State Lottery Account - 20902
@@ -19968,7 +19756,7 @@ S T A T E  O F  N E W  Y O R K
   administration  and  operation  of  the
   lottery  program,  providing  that  moneys
   hereby appropriated shall be available  to
-  366  12550-02-3
+  361  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
@@ -20026,7 +19814,7 @@ S T A T E  O F  N E W  Y O R K
   contrary, the  money  hereby  appropriated
   may  not  be,  in whole or in part, inter-
   changed with any other appropriation with-
-  367  12550-02-3
+  362  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
@@ -20084,7 +19872,7 @@ S T A T E  O F  N E W  Y O R K
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
-  368  12550-02-3
+  363  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
@@ -20142,7 +19930,7 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ............ 200,000
  Supplies and materials (57000) .................... 45,000
  Travel (54000) .................................... 50,000
-  369  12550-02-3
+  364  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
@@ -20199,7 +19987,7 @@ S T A T E  O F  N E W  Y O R K
  
  HORSE RACING AND PARI-MUTUEL WAGERING PROGRAM ............... 20,705,000
   --------------
-  370  12550-02-3
+  365  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
@@ -20255,7 +20043,7 @@ S T A T E  O F  N E W  Y O R K
   shall  be  available to the program net of
   refunds, rebates, reimbursements and cred-
   its (47711).
-  371  12550-02-3
+  366  12550-06-3
  
   NEW YORK STATE GAMING COMMISSION
  
@@ -20306,28 +20094,28 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................... 40,000
  Indirect costs (58800) ............................. 2,000
   --------------
-  372  12550-02-3
-
+  367  12550-06-3
+ 
   OFFICE OF GENERAL SERVICES
  
   STATE OPERATIONS  2023-24
- 
+
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  125,503,000  0
+  General Fund .......................  125,503,000  1,531,000
   Special Revenue Funds - Federal ....  26,730,000  10,492,000
   Special Revenue Funds - Other ......  34,550,000  0
   Enterprise Funds ...................  3,256,000  0
   Internal Service Funds .............  886,795,000  0
   Fiduciary Funds ....................  750,000  0
   ----------------  ----------------
-  All Funds ........................  1,077,584,000  10,492,000
+  All Funds ........................  1,077,584,000  12,023,000
   ================  ================
-
-  SCHEDULE
  
+  SCHEDULE
+
  BUSINESS SERVICES CENTER PROGRAM ............................ 41,108,000
   --------------
  
@@ -20347,7 +20135,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26238).
-
+ 
  Personal service--regular (50100) ............. 35,753,000
  Temporary service (50200) ......................... 42,000
  Holiday/overtime compensation (50300) ............ 313,000
@@ -20363,10 +20151,10 @@ S T A T E  O F  N E W  Y O R K
   Fiduciary Funds
   Miscellaneous New York State Agency Fund
   Empire State Plaza Art Commission Account - 60600
-  373  12550-02-3
-
-  OFFICE OF GENERAL SERVICES
+  368  12550-06-3
  
+  OFFICE OF GENERAL SERVICES
+
   STATE OPERATIONS  2023-24
  
  For  services  and  expenses  related to the
@@ -20387,7 +20175,7 @@ S T A T E  O F  N E W  Y O R K
   operation of the executive  mansion  trust
   in  accordance with article 54 of the arts
   and cultural affairs law (26228).
-
+ 
  Contractual services (51000) ..................... 250,000
   --------------
   Program account subtotal ..................... 250,000
@@ -20420,7 +20208,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................. 1,317,000
  Contractual services (51000) .................. 33,370,000
  Equipment (56000) ................................ 636,000
-  374  12550-02-3
+  369  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20448,7 +20236,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (81031).
-
+ 
  Personal service--regular (50100) ............. 13,915,000
  Temporary service (50200) ........................ 114,000
  Holiday/overtime compensation (50300) ............ 104,000
@@ -20476,7 +20264,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (26231).
-  375  12550-02-3
+  370  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20526,14 +20314,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 386,000
   --------------
-
+ 
   Enterprise Funds
   Agencies Enterprise Fund
   Asset Preservation Account - 50322
- 
+
  For services and  expenses  related  to  the
   executive direction program (81031).
-  376  12550-02-3
+  371  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20553,7 +20341,7 @@ S T A T E  O F  N E W  Y O R K
   purchase and delivery of energy for  state
   agencies,  pursuant  to chapter 410 of the
   laws of 2009 (26229).
- 
+
  Supplies and materials (57000) ................ 90,000,000
   --------------
   Program account subtotal .................. 90,000,000
@@ -20575,7 +20363,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (81031).
- 
+
  Personal service--regular (50100) .............. 5,940,000
  Supplies and materials (57000) ................ 53,683,000
  Travel (54000) ................................... 253,000
@@ -20591,8 +20379,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   General Fund
-  377  12550-02-3
- 
+  372  12550-06-3
+
   OFFICE OF GENERAL SERVICES
  
   STATE OPERATIONS  2023-24
@@ -20615,7 +20403,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For services and  expenses  related  to  the
   procurement program.
  Notwithstanding  any  other provision of law
@@ -20649,7 +20437,7 @@ S T A T E  O F  N E W  Y O R K
   cal assistance and demonstration projects,
   personal  services,  fringe  benefits  and
   indirect costs (26212).
-  378  12550-02-3
+  373  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20680,7 +20468,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and expenses related to state
   administrative  costs  for  the  national
   lunch program (26214).
- 
+
  Nonpersonal service (57050) ................... 15,365,000
   --------------
   Program account subtotal .................. 15,365,000
@@ -20702,12 +20490,12 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26212).
- 
+
  Personal service--regular (50100) ................ 846,000
  Temporary service (50200) ......................... 10,000
  Holiday/overtime compensation (50300) ............. 10,000
  Supplies and materials (57000) ................... 320,000
-  379  12550-02-3
+  374  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20764,7 +20552,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
-  380  12550-02-3
+  375  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20816,11 +20604,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 83,738,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Building Administration Account - 22005
-  381  12550-02-3
+  376  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -20877,8 +20665,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 13,550,000
   --------------
-  382  12550-02-3
- 
+  377  12550-06-3
+
   OFFICE OF GENERAL SERVICES
  
   STATE OPERATIONS  2023-24
@@ -20934,16 +20722,16 @@ S T A T E  O F  N E W  Y O R K
   Agencies Enterprise Fund
   Empire State Plaza Visitors Center and Gift Shop Account
   - 50327
-  383  12550-02-3
+  378  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
   STATE OPERATIONS  2023-24
-
+ 
  For services and  expenses  related  to  the
   real  property  management and development
   program (26201).
- 
+
  Personal service--regular (50100) ................. 51,000
  Temporary service (50200) ......................... 68,000
  Supplies and materials (57000) ..................... 1,000
@@ -20984,11 +20772,24 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 44,685,000
   --------------
-  384  12550-02-3
+  379  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
+ 
+ OFFICE OF LANGUAGE ACCESS PROGRAM
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ By chapter 50, section 1, of the laws of 2022:
+  For  services  and  expenses  related to the office of language access
+  program. These funds may be suballocated to other agencies.
+  Personal service--regular (50100) ... 210,000 ......... (re. $150,000)
+  Supplies and materials (57000) ... 790,000 ............ (re. $580,000)
+  For additional services and expenses related to the office of language
+  access program ... 1,000,000 ........................ (re. $801,000)
  
  PROCUREMENT PROGRAM
  
@@ -20998,14 +20799,14 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2022:
   For services and expenses related to environmental projects, including
-  but  not  limited to training, research and technical assistance and
+  but not limited to training, research and technical  assistance  and
   demonstration projects, personal services, fringe benefits and indi-
   rect costs (26212).
   Nonpersonal service (57050) ... 500,000 ............... (re. $500,000)
  
  By chapter 50, section 1, of the laws of 2021:
   For services and expenses related to environmental projects, including
-  but not limited to training, research and technical  assistance  and
+  but  not  limited to training, research and technical assistance and
   demonstration projects, personal services, fringe benefits and indi-
   rect costs (26212).
   Nonpersonal service (57050) ... 500,000 ............... (re. $500,000)
@@ -21015,47 +20816,47 @@ S T A T E  O F  N E W  Y O R K
   Emergency Assistance-OGS-9461 Account - 25025
  
  By chapter 50, section 1, of the laws of 2022:
-  For  services  and expenses related to the temporary emergency feeding
+  For services and expenses related to the temporary  emergency  feeding
   assistance program (26213).
   Nonpersonal service (57050) ... 10,865,000 .......... (re. $5,555,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  For services and expenses related to the temporary  emergency  feeding
+  For  services  and expenses related to the temporary emergency feeding
   assistance program (26213).
   Nonpersonal service (57050) ... 10,865,000 ............ (re. $894,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  For  services  and expenses related to the temporary emergency feeding
-  assistance program (26213).
-  Nonpersonal service (57050) ... 10,865,000 ............ (re. $192,000)
- 
- By chapter 50, section 1, of the laws of 2019:
   For services and expenses related to the temporary  emergency  feeding
   assistance program (26213).
-  Nonpersonal service (57050) ... 10,865,000 ............. (re. $43,000)
- 
- By chapter 50, section 1, of the laws of 2018:
-  For  services  and expenses related to the temporary emergency feeding
-  assistance program (26213).
-  Nonpersonal service (57050) ... 10,865,000 ............. (re. $42,000)
- 
-  Special Revenue Funds - Federal
-  Federal USDA-Food and Nutrition Services Fund
-  Federal Food and Nutrition Services Account - 25025
-  385  12550-02-3
+  Nonpersonal service (57050) ... 10,865,000 ............ (re. $192,000)
+  380  12550-06-3
  
   OFFICE OF GENERAL SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
+ By chapter 50, section 1, of the laws of 2019:
+  For  services  and expenses related to the temporary emergency feeding
+  assistance program (26213).
+  Nonpersonal service (57050) ... 10,865,000 ............. (re. $43,000)
+ 
+ By chapter 50, section 1, of the laws of 2018:
+  For services and expenses related to the temporary  emergency  feeding
+  assistance program (26213).
+  Nonpersonal service (57050) ... 10,865,000 ............. (re. $42,000)
+
+  Special Revenue Funds - Federal
+  Federal USDA-Food and Nutrition Services Fund
+  Federal Food and Nutrition Services Account - 25025
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses related to state administrative costs for
   the national lunch program (26214).
   Nonpersonal service (57050) ... 5,365,000 ........... (re. $2,766,000)
-  386  12550-02-3
+  381  12550-06-3
  
   DEPARTMENT OF HEALTH
-
+ 
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
@@ -21076,7 +20877,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  Notwithstanding  any other provision of law,
   the  money  hereby  appropriated  may  be
   increased  or  decreased  by  interchange,
@@ -21110,12 +20911,12 @@ S T A T E  O F  N E W  Y O R K
   until  (i)  the  legislature  has  finally
   acted  upon  the  appropriations  for  the
   department  of health contained in the aid
-  387  12550-02-3
+  382  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   to localities budget bill,  and  (ii)  the
   director of the budget has determined that
   those  aid to localities appropriations as
@@ -21152,7 +20953,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ......................... 150,000
   --------------
-
+ 
  For  suballocation to the office of children
   and family services through  a  memorandum
   of  understanding with the AIDS institute,
@@ -21168,12 +20969,12 @@ S T A T E  O F  N E W  Y O R K
   services and expenses of the provision  of
   HIV/AIDS/sexual  health  education  by
   regional training coordinators  for  staff
-  388  12550-02-3
+  383  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   in  elementary  and  secondary  schools
   (29682).
  
@@ -21183,7 +20984,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  related to the
   emergency  preparedness  -  stockpile
   (26629).
- 
+
  Contractual services (51000) ................... 1,200,000
   --------------
  
@@ -21223,15 +21024,15 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses related to testing
   for adrenoleukodystrophy (ALD) (26636).
-
+ 
  Contractual services (51000) ..................... 110,000
   --------------
-  389  12550-02-3
+  384  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
- 
+
  For  suballocation  to  the office of mental
   health  for  services  and  expenses  for
   surveys  of psychiatric residential treat-
@@ -21263,7 +21064,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ................... 1,300,000
   --------------
-
+ 
  For service and expenses related to  changes
   in state agency data collection activities
   required  to  comply with section 170-e of
@@ -21284,7 +21085,7 @@ S T A T E  O F  N E W  Y O R K
   chairman  of  the senate finance committee
   and the chairman of the assembly ways  and
   means committee.
-  390  12550-02-3
+  385  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21303,7 +21104,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ......................... 500,000
   --------------
-
+ 
  For expenses related to the  acquisition  of
   bottled  water  in the event of a drinking
   water  emergency  as  determined  by  the
@@ -21311,7 +21112,7 @@ S T A T E  O F  N E W  Y O R K
  
  Supplies and materials (57000) ................... 100,000
   --------------
- 
+
  For  services  and  expenses  related  to
   programs for the reduction of the risk  of
   lead  exposure  in  rental properties. The
@@ -21342,8 +21143,8 @@ S T A T E  O F  N E W  Y O R K
   of  the state finance law. Notwithstanding
   any other  provision  of  law,  the  money
   hereby  appropriated  may  be increased or
-  391  12550-02-3
-
+  386  12550-06-3
+ 
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
@@ -21387,7 +21188,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  various  food  and nutritional services
   (26969).
-
+ 
  Personal service (50000) ......................... 500,000
  Nonpersonal service (57050) ...................... 300,000
  Fringe benefits (60090) .......................... 325,000
@@ -21399,7 +21200,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Federal Food and Nutrition Services Account - 25022
-  392  12550-02-3
+  387  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21407,7 +21208,7 @@ S T A T E  O F  N E W  Y O R K
  
  For various food  and  nutritional  services
   (26984).
-
+ 
  Personal service (50000) ....................... 1,500,000
  Nonpersonal service (57050) ...................... 640,000
  Fringe benefits (60090) .......................... 909,000
@@ -21457,7 +21258,7 @@ S T A T E  O F  N E W  Y O R K
   Transfer Authority and the IT  Interchange
   and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
-  393  12550-02-3
+  388  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21497,7 +21298,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (81001).
- 
+
  Personal service--regular (50100) .............. 1,206,000
  Holiday/overtime compensation (50300) ............. 10,000
  Supplies and materials (57000) .................... 38,000
@@ -21513,8 +21314,8 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Professional Medical Conduct Account - 22088
-  394  12550-02-3
- 
+  389  12550-06-3
+
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
@@ -21544,7 +21345,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 7,724,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Vital Records Management Account - 22103
@@ -21569,12 +21370,12 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ..................................... 3,000
  Contractual services (51000) ..................... 431,000
  Equipment (56000) .................................. 8,000
-  395  12550-02-3
+  390  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
- 
+
  Fringe benefits (60000) .......................... 503,000
  Indirect costs (58800) ............................ 23,000
   --------------
@@ -21594,7 +21395,7 @@ S T A T E  O F  N E W  Y O R K
   the state, tribal and  local  governmental
   levels  related  to emergency treatment of
   suspected opioid overdose (26847).
- 
+
  Nonpersonal service (57050) ...................... 600,000
   --------------
  
@@ -21607,7 +21408,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  activities  related  to  a  handicapped
   infants and toddlers program (26837).
-
+ 
  Personal service (50000) ....................... 5,000,000
  Nonpersonal service (57050) ................... 18,449,000
  Fringe benefits (60090) ........................ 2,700,000
@@ -21627,7 +21428,7 @@ S T A T E  O F  N E W  Y O R K
   state agencies or  accounts  for  expendi-
   tures  incurred  in  the  operation  of
   programs  funded  by  such  appropriation
-  396  12550-02-3
+  391  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21648,7 +21449,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Health and Human Services Fund
   Federal  Health,  Education and Human Services Account -
   25148
-
+ 
  For various health  prevention,  diagnostic,
   detection  and  treatment  services.  The
   amounts  appropriated  pursuant  to  such
@@ -21684,7 +21485,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 11,075,000
   --------------
-  397  12550-02-3
+  392  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21698,7 +21499,7 @@ S T A T E  O F  N E W  Y O R K
   A portion of  this  appropriation  may  be
   suballocated  to  other  state  agencies
   (26986).
- 
+
  Personal service (50000) ...................... 26,284,000
  Nonpersonal service (57050) ................... 25,104,000
  Fringe benefits (60090) ....................... 14,457,000
@@ -21741,7 +21542,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26813).
-  398  12550-02-3
+  393  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21758,7 +21559,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,840,000
   --------------
- 
+
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Cable Television Account - 21971
@@ -21791,7 +21592,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (26813).
-
+ 
  Contractual services (51000) ..................... 454,000
   --------------
   Program account subtotal ..................... 454,000
@@ -21799,7 +21600,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
-  399  12550-02-3
+  394  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21843,7 +21644,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26813).
- 
+
  Contractual services (51000) ..................... 100,000
   --------------
   Program account subtotal ..................... 100,000
@@ -21857,7 +21658,7 @@ S T A T E  O F  N E W  Y O R K
   enforcement,  education and related activ-
   ities, pursuant to chapter 162 of the laws
   of 2002.
-  400  12550-02-3
+  395  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -21878,7 +21679,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 75,000
   --------------
-
+ 
  CENTER FOR ENVIRONMENTAL HEALTH PROGRAM ..................... 28,356,000
   --------------
  
@@ -21915,12 +21716,12 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
-  401  12550-02-3
+  396  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   Federal Environmental Protection Agency Grants Account -
   25467
  
@@ -21973,7 +21774,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26844).
-  402  12550-02-3
+  397  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22005,7 +21806,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (29776).
- 
+
  Contractual services (51000) ..................... 150,000
   --------------
   Program account subtotal ................... 1,296,000
@@ -22031,7 +21832,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service--regular (50100) ................ 229,000
  Holiday/overtime compensation (50300) .............. 2,000
-  403  12550-02-3
+  398  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22089,7 +21890,7 @@ S T A T E  O F  N E W  Y O R K
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
-  404  12550-02-3
+  399  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22142,11 +21943,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 4,720,000
   --------------
- 
+
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Radon Detection Device Account - 21993
-  405  12550-02-3
+  400  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22164,7 +21965,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (26844).
- 
+
  Contractual services (51000) ..................... 205,000
   --------------
   Program account subtotal ..................... 205,000
@@ -22177,7 +21978,7 @@ S T A T E  O F  N E W  Y O R K
  For services and  expenses  related  to  the
   ultraviolet  radiation  device  program
   (26844).
-
+ 
  Personal service--regular (50100) ................. 10,000
  Supplies and materials (57000) ..................... 3,000
  Travel (54000) ..................................... 2,000
@@ -22202,8 +22003,8 @@ S T A T E  O F  N E W  Y O R K
   children's  health  insurance  program
   provided pursuant  to  title  XXI  of  the
   federal social security act (26931).
-  406  12550-02-3
- 
+  401  12550-06-3
+
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
@@ -22215,7 +22016,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ..................... 137,400,000
   --------------
-
+ 
  The  money  hereby appropriated is available
   for payment of aid heretofore  accrued  or
   hereafter accrued.
@@ -22235,7 +22036,7 @@ S T A T E  O F  N E W  Y O R K
   provided  however, any such interchange or
   transfer for the foregoing  purpose  shall
   not exceed $1,100,000 (26667).
-
+ 
  Nonpersonal service (57050) .................... 1,100,000
   --------------
   Program account subtotal ................... 1,100,000
@@ -22244,7 +22045,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   HCRA Resources Fund
   Children's Health Insurance Account - 20810
- 
+
  The  money  hereby appropriated is available
   for payment of aid heretofore  accrued  or
   hereafter accrued.
@@ -22260,12 +22061,12 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
-  407  12550-02-3
+  402  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
- 
+
   part of this  appropriation  as  if  fully
   stated (26931).
  
@@ -22303,7 +22104,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 13,025,000
   --------------
- 
+
  For  suballocation  to  the state office for
   the aging for the  administration  of  the
   elderly  pharmaceutical insurance coverage
@@ -22318,7 +22119,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (29775).
-  408  12550-02-3
+  403  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22356,7 +22157,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26940).
-
+ 
  Personal service--regular (50100) .............. 5,287,000
  Holiday/overtime compensation (50300) ............. 37,000
  Supplies and materials (57000) .................... 10,000
@@ -22364,7 +22165,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) .................. 86,013,000
  Equipment (56000) .................................. 8,000
   --------------
- 
+
  HEALTH CARE REFORM ACT PROGRAM .............................. 18,731,000
   --------------
  
@@ -22376,7 +22177,7 @@ S T A T E  O F  N E W  Y O R K
   ing  or  payment  of  audit  contracts  to
   determine  payor  and  provider compliance
   requirements (29872).
-  409  12550-02-3
+  404  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22387,7 +22188,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   pool administration (29869).
- 
+
  Contractual services (51000) ................... 2,737,000
   --------------
  
@@ -22399,7 +22200,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ................... 1,100,000
   --------------
-
+ 
  For services and expenses related to the New
   York  state  workforce  innovation  center
   (59031).
@@ -22419,7 +22220,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For  recruitment  and  retention  efforts
   related to department of  health  adminis-
   tered veterans facilities (26966).
@@ -22432,7 +22233,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Batavia Home Donation Account - 20113
-  410  12550-02-3
+  405  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22442,7 +22243,7 @@ S T A T E  O F  N E W  Y O R K
   fits  and  other  activities  and  other
   services  as funded by gifts and donations
   (26966).
-
+ 
  Supplies and materials (57000) .................... 50,000
   --------------
   Program account subtotal ...................... 50,000
@@ -22464,7 +22265,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Montrose Donation Account - 20114
-
+ 
  For  services  and expenses of patient bene-
   fits  and  other  activities  and  other
   services  as funded by gifts and donations
@@ -22490,7 +22291,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
-  411  12550-02-3
+  406  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22541,15 +22342,15 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Helen Hayes Hospital Account - 22140
- 
+
  For services and expenses of the Helen Hayes
   hospital including an  affiliation  agree-
   ment contract. Any disbursements from this
   appropriation  shall be distributed pursu-
   ant to a  written  plan  prepared  by  the
   department  of  health and approved by the
-  412  12550-02-3
-
+  407  12550-06-3
+ 
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
@@ -22606,8 +22407,8 @@ S T A T E  O F  N E W  Y O R K
   at  the  New  York city veterans' home for
   the New York state home for  veterans  and
   their  dependents  at Oxford, the New York
-  413  12550-02-3
-
+  408  12550-06-3
+ 
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
@@ -22664,10 +22465,10 @@ S T A T E  O F  N E W  Y O R K
   able if they are made in  compliance  with
   the provisions of sections 44, 49, 50, 51,
   and 93 of the state finance law.
-  414  12550-02-3
+  409  12550-06-3
  
   DEPARTMENT OF HEALTH
-
+ 
   STATE OPERATIONS  2023-24
  
  Notwithstanding  any  other provision of law
@@ -22721,12 +22522,12 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed fully  incorporated  herein  and  a
-  415  12550-02-3
+  410  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   part  of  this  appropriation  as if fully
   stated (26966).
  
@@ -22745,7 +22546,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Western New York Veterans' Home Account - 22143
-
+ 
  For services and expenses of the Western New
   York  veterans'  home.  Any  disbursements
   from this appropriation shall be  distrib-
@@ -22777,7 +22578,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 20,000
  Contractual services (51000) ................... 3,362,000
  Equipment (56000) ................................ 145,000
-  416  12550-02-3
+  411  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22835,7 +22636,7 @@ S T A T E  O F  N E W  Y O R K
   in  the aggregate, for the period April 1,
   2024 through March  31,  2025,  shall  not
   exceed  $30,764,964,000,  but  in no event
-  417  12550-02-3
+  412  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22893,7 +22694,7 @@ S T A T E  O F  N E W  Y O R K
   in compliance with applicable federal law,
   including the provisions  of  the  Patient
   Protection and Affordable Care Act, Public
-  418  12550-02-3
+  413  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -22951,10 +22752,10 @@ S T A T E  O F  N E W  Y O R K
   representing  health  care  providers,
   consumers,  businesses,  workers,  health
   insurers,  and others with relevant exper-
-  419  12550-02-3
+  414  12550-06-3
  
   DEPARTMENT OF HEALTH
-
+ 
   STATE OPERATIONS  2023-24
  
   tise, in developing such medicaid  savings
@@ -23009,7 +22810,7 @@ S T A T E  O F  N E W  Y O R K
  Nothing in this paragraph shall be deemed to
   prevent  all  or  part  of  such  medicaid
   savings  allocation adjustment from taking
-  420  12550-02-3
+  415  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -23067,12 +22868,12 @@ S T A T E  O F  N E W  Y O R K
   service  and each geographic region of the
   state. Each such quarterly report shall be
   provided  to  the  chairs  of  the  senate
-  421  12550-02-3
+  416  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   finance  and  the  assembly ways and means
   committees and  shall  be  posted  on  the
   department of health's website in a timely
@@ -23125,12 +22926,12 @@ S T A T E  O F  N E W  Y O R K
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  422  12550-02-3
+  417  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated.
@@ -23179,11 +22980,11 @@ S T A T E  O F  N E W  Y O R K
   ation  for  this item covering fiscal year
   2023-24 set forth in  chapter  50  of  the
   laws of 2022 (26848).
- 
+
  Personal service--regular (50100) .............. 1,017,000
  Contractual services (51000) ................... 3,270,000
   --------------
-  423  12550-02-3
+  418  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -23211,7 +23012,7 @@ S T A T E  O F  N E W  Y O R K
   the public health law and section 367-i of
   the social services law pursuant to  chap-
   ter 41 of the laws of 1992 (26779).
-
+ 
  Personal service--regular (50100) ................ 620,000
   --------------
  
@@ -23241,7 +23042,7 @@ S T A T E  O F  N E W  Y O R K
   data  analysis,  clinical consultation and
   peer  review,  clinical  support  for  the
   pharmacy and therapeutic committee, cardi-
-  424  12550-02-3
+  419  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -23299,10 +23100,10 @@ S T A T E  O F  N E W  Y O R K
   ers,  AIDS  home  care  providers,  health
   homes,  and  licensed  home  care  service
   agencies.
-  425  12550-02-3
+  420  12550-06-3
  
   DEPARTMENT OF HEALTH
- 
+
   STATE OPERATIONS  2023-24
  
  Notwithstanding  any provision of law to the
@@ -23357,7 +23158,7 @@ S T A T E  O F  N E W  Y O R K
   health, the office for people with  devel-
   opmental  disabilities,  the  office  of
   addiction  services  and  supports,  the
-  426  12550-02-3
+  421  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -23394,7 +23195,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................. 404,000,000
   --------------
-
+ 
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Medical Administration Transfer Account - 25107
@@ -23415,7 +23216,7 @@ S T A T E  O F  N E W  Y O R K
   appropriated may be increased or decreased
   by  interchange, transfer or suballocation
   between  these  appropriated  amounts  and
-  427  12550-02-3
+  422  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -23444,7 +23245,7 @@ S T A T E  O F  N E W  Y O R K
   ation for this item covering  fiscal  year
   2023-24  set  forth  in  chapter 50 of the
   laws of 2022 (29540).
- 
+
  Personal service (50000) ..................... 100,054,000
  Nonpersonal service (57050) ................ 1,160,889,000
  Fringe benefits (60090) ....................... 64,985,000
@@ -23462,7 +23263,7 @@ S T A T E  O F  N E W  Y O R K
   the public health law and section 367-i of
   the  social services law pursuant to chap-
   ter 41 of the laws of 1992 (26779).
- 
+
  Personal service (50000) ......................... 620,000
   --------------
  
@@ -23471,12 +23272,12 @@ S T A T E  O F  N E W  Y O R K
   related to medicaid patients and to  moni-
   tor  health  care  services  provided  to
   persons with AIDS (26780).
-  428  12550-02-3
+  423  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
  Nonpersonal service (57050) .................... 9,200,000
   --------------
   Program account subtotal ............... 1,344,032,000
@@ -23529,12 +23330,12 @@ S T A T E  O F  N E W  Y O R K
   district payments for  medical  assistance
   administration,  minimum  wage  increases,
   and beginning April  1,  2013  the  opera-
-  429  12550-02-3
+  424  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   tional costs of the New York state medical
   indemnity  fund, pursuant to chapter 59 of
   the laws  of  2011,  and  state  costs  or
@@ -23587,12 +23388,12 @@ S T A T E  O F  N E W  Y O R K
   submit any state plan  amendment  or  seek
   other  federal  approval, including waiver
   authority, to implement the provisions  of
-  430  12550-02-3
+  425  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   the medicaid savings allocation adjustment
   that  meets  the  other criteria set forth
   herein; (3) reductions shall be made in  a
@@ -23645,10 +23446,10 @@ S T A T E  O F  N E W  Y O R K
   provide written copies of such  adjustment
   to  the  chairs  of the senate finance and
   the assembly ways and means committees  at
-  431  12550-02-3
+  426  12550-06-3
  
   DEPARTMENT OF HEALTH
-
+ 
   STATE OPERATIONS  2023-24
  
   least  30  days  before  the date on which
@@ -23703,12 +23504,12 @@ S T A T E  O F  N E W  Y O R K
   limited to all fees,  premium  levels  and
   rates  of  payment,  notwithstanding  any
   provision of  law  that  sets  a  specific
-  432  12550-02-3
+  427  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
   amount  or  methodology  for  any  such
   payments or rates  of  payment;  modifying
   medicaid  program  benefits;  seeking  all
@@ -23761,8 +23562,8 @@ S T A T E  O F  N E W  Y O R K
   health, the office for people with  devel-
   opmental  disabilities,  the  office  of
   addiction  services  and  support,  the
-  433  12550-02-3
-
+  428  12550-06-3
+ 
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
@@ -23817,12 +23618,12 @@ S T A T E  O F  N E W  Y O R K
   medical  indemnity fund established pursu-
   ant to chapter 59  of  the  laws  of  2011
   (26850).
-  434  12550-02-3
+  429  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
  Personal service--regular (50100) .............. 1,819,000
  Fringe benefits (60000) ........................ 1,162,000
  Indirect costs (58800) ........................... 100,000
@@ -23875,12 +23676,12 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 3,033,000
  Indirect costs (58800) ........................... 996,000
   --------------
-  435  12550-02-3
+  430  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
  OFFICE OF HEALTH INSURANCE PROGRAM ......................... 610,008,000
   --------------
  
@@ -23933,7 +23734,7 @@ S T A T E  O F  N E W  Y O R K
   Community  Service  Society  of  New  York
   (CSS) for Community Health Advocates (CHA)
   statewide consortium (29729).
-  436  12550-02-3
+  431  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -23991,7 +23792,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   HCRA Resources Fund
-  437  12550-02-3
+  432  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24013,7 +23814,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (26870).
- 
+
  Personal service--regular (50100) ................ 228,000
  Supplies and materials (57000) .................... 25,000
  Contractual services (51000) ..................... 494,000
@@ -24022,7 +23823,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 917,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Disease Management Account - 22031
@@ -24044,11 +23845,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 5,000,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Medicaid Research Projects Account - 22177
-  438  12550-02-3
+  433  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24105,7 +23906,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60090) .......................... 127,000
  Indirect costs (58850) ............................ 53,000
   --------------
-  439  12550-02-3
+  434  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24162,7 +23963,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service (50000) ....................... 9,500,000
  Nonpersonal service (57050) .................... 7,600,000
-  440  12550-02-3
+  435  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24220,7 +24021,7 @@ S T A T E  O F  N E W  Y O R K
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
   and  Transfer  Authority as defined in the
-  441  12550-02-3
+  436  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24232,7 +24033,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (26876).
-
+ 
  Personal service--regular (50100) .............. 2,466,000
  Temporary service (50200) .......................... 5,000
  Holiday/overtime compensation (50300) ............. 10,000
@@ -24278,7 +24079,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   HCRA Resources Fund
   Primary Care Initiatives Account - 20814
-  442  12550-02-3
+  437  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24330,11 +24131,11 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 500,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Certificate of Need Account - 21920
-  443  12550-02-3
+  438  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24390,7 +24191,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ..................... 1,000
  Travel (54000) ..................................... 2,000
  Contractual services (51000) ....................... 3,000
-  444  12550-02-3
+  439  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24420,7 +24221,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (26876).
- 
+
  Personal service--regular (50100) ................ 281,000
  Holiday/overtime compensation (50300) ............. 10,000
  Supplies and materials (57000) ..................... 4,000
@@ -24448,7 +24249,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
-  445  12550-02-3
+  440  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24499,18 +24300,18 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Federal Block Grant Account - 25183
- 
+
  For health prevention, diagnostic, detection
   and treatment services (26981).
  
  Personal service (50000) ....................... 5,459,000
  Nonpersonal service (57050) .................... 2,912,000
-  446  12550-02-3
+  441  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS  2023-24
-
+ 
  Fringe benefits (60090) ........................ 3,040,000
  Indirect costs (58850) ........................... 382,000
   --------------
@@ -24563,7 +24364,7 @@ S T A T E  O F  N E W  Y O R K
   for regulation and inspection of  cannabis
   cultivation  subject to a plan approved by
   director of the  budget,  who  shall  file
-  447  12550-02-3
+  442  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24574,7 +24375,7 @@ S T A T E  O F  N E W  Y O R K
   chairman of the senate  finance  committee
   and  the chairman of the assembly ways and
   means committee (29599).
-
+ 
  Personal service--regular (50100) .............. 1,000,000
  Supplies and materials (57000) ................... 190,000
  Contractual services (51000) ..................... 240,000
@@ -24619,10 +24420,10 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Empire State Stem Cell Research Account - 22161
-  448  12550-02-3
+  443  12550-06-3
  
   DEPARTMENT OF HEALTH
- 
+
   STATE OPERATIONS  2023-24
  
  Notwithstanding any other provision  of  law
@@ -24651,7 +24452,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (26884).
-
+ 
  Personal service--regular (50100) ................ 768,000
  Supplies and materials (57000) ..................... 1,000
  Travel (54000) ..................................... 2,000
@@ -24677,10 +24478,10 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................... 140,000
  Contractual services (51000) ..................... 146,000
  Equipment (56000) ................................ 125,000
-  449  12550-02-3
+  444  12550-06-3
  
   DEPARTMENT OF HEALTH
- 
+
   STATE OPERATIONS  2023-24
  
  Fringe benefits (60000) ........................ 1,275,000
@@ -24688,7 +24489,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,967,000
   --------------
-  450  12550-02-3
+  445  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24717,7 +24518,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Federal Block Grant Account - 25183
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For various health prevention,  diagnostic,  detection  and  treatment
   services (26983).
@@ -24733,7 +24534,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 1,703,000 ........... (re. $1,686,000)
   Fringe benefits (60090) ... 1,758,000 ................. (re. $862,000)
   Indirect costs (58850) ... 224,000 .................... (re. $224,000)
- 
+
  By chapter 50, section 1, of the laws of 2020:
   For various health prevention,  diagnostic,  detection  and  treatment
   services (26983).
@@ -24745,7 +24546,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Child and Adult Care Food Account - 25022
-  451  12550-02-3
+  446  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24775,7 +24576,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal USDA-Food and Nutrition Services Fund
   Federal Food and Nutrition Services Account - 25022
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For various food and nutritional services (26984).
   Personal service (50000) ... 1,500,000 .............. (re. $1,500,000)
@@ -24803,7 +24604,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2022:
   For  services  and expenses to provide training and resources to first
   responders and members of other key community sectors at the  state,
-  452  12550-02-3
+  447  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -24861,10 +24662,10 @@ S T A T E  O F  N E W  Y O R K
   tures incurred in the operation of programs funded by such appropri-
   ation subject to the approval of the director of the budget (26989).
   Personal service (50000) ... 11,702,000 ............ (re. $11,051,000)
-  453  12550-02-3
+  448  12550-06-3
  
   DEPARTMENT OF HEALTH
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Nonpersonal service (57050) ... 6,147,000 ........... (re. $6,147,000)
@@ -24919,10 +24720,10 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 12,790,000 ............. (re. $7,484,000)
   Nonpersonal service (57050) ... 18,584,000 ......... (re. $10,380,000)
   Fringe benefits (60090) ... 7,765,000 ............... (re. $4,522,000)
-  454  12550-02-3
+  449  12550-06-3
  
   DEPARTMENT OF HEALTH
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Indirect costs (58850) ... 3,050,000 ................ (re. $2,551,000)
@@ -24977,10 +24778,10 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For various food and nutritional services. A portion of this appropri-
   ation may be suballocated to other state agencies (26986).
-  455  12550-02-3
+  450  12550-06-3
  
   DEPARTMENT OF HEALTH
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Personal service (50000) ... 26,284,000 ............ (re. $13,432,000)
@@ -25035,7 +24836,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For various health prevention,  diagnostic,  detection  and  treatment
   services (26990).
-  456  12550-02-3
+  451  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25081,7 +24882,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 1,742,000 ............. (re. $464,000)
   Fringe benefits (60090) ... 1,873,000 ................. (re. $250,000)
   Indirect costs (58850) ... 229,000 .................... (re. $229,000)
- 
+
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Environmental Protection Agency Grants Account - 25467
@@ -25093,7 +24894,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,590,000 ........... (re. $2,590,000)
   Fringe benefits (60090) ... 2,235,000 ............... (re. $1,923,000)
   Indirect costs (58850) ... 326,000 .................... (re. $326,000)
-  457  12550-02-3
+  452  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25114,7 +24915,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,485,000 ........... (re. $2,181,000)
   Fringe benefits (60090) ... 2,235,000 ................. (re. $405,000)
   Indirect costs (58850) ... 326,000 .................... (re. $319,000)
- 
+
  HEALTH CARE FINANCING PROGRAM
  
   Special Revenue Funds - Other
@@ -25130,7 +24931,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For recruitment and retention efforts related to department of  health
   administered veterans facilities.
@@ -25151,7 +24952,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 100,000 ............... (re. $100,000)
  
  MEDICAL ASSISTANCE ADMINISTRATION PROGRAM
-  458  12550-02-3
+  453  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25209,12 +25010,12 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  section  40 of the state finance law or any other law
   to the contrary, all medical  assistance  appropriations  made  from
   this account shall remain in full force and effect in accordance, in
-  459  12550-02-3
+  454  12550-06-3
  
   DEPARTMENT OF HEALTH
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   the aggregate, with the following schedule: not more than 50 percent
   for  the  period  April 1, 2022 to March 31, 2023; and the remaining
   amount for the period April 1, 2023 to March 31, 2024.
@@ -25266,10 +25067,10 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 10,000,000 ............ (re. $160,000)
  
  OFFICE OF HEALTH INSURANCE PROGRAM
-  460  12550-02-3
+  455  12550-06-3
  
   DEPARTMENT OF HEALTH
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Special Revenue Funds - Federal
@@ -25323,7 +25124,7 @@ S T A T E  O F  N E W  Y O R K
   the budget, who shall file such  approval  with  the  department  of
   audit and control and copies thereof with the chairman of the senate
   finance  committee  and  the chairman of the assembly ways and means
-  461  12550-02-3
+  456  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25381,7 +25182,7 @@ S T A T E  O F  N E W  Y O R K
   Act (P.L. 111-148) and the Health Care and Education  Reconciliation
   Act  of  2010  (P.L. 111-152), and other purposes related to federal
   health care reform initiatives (29716).
-  462  12550-02-3
+  457  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25432,13 +25233,13 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 409,141,000 ....... (re. $182,589,000)
   Fringe benefits (60090) ... 36,850,000 ............. (re. $30,399,000)
   Indirect costs (58850) ... 16,000,000 .............. (re. $14,981,000)
-
+ 
  By chapter 50, section 1, of the laws of 2020:
   For  services  and  expenses  for  the  medical assistance program and
   administration of the medical  assistance  program  and  survey  and
   certification  program,  provided  pursuant  to  title XIX and title
   XVIII of the federal social security act.
-  463  12550-02-3
+  458  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25464,7 +25265,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   National Health Services Corps Account - 25144
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For administration of the national  health  services  corps.  Notwith-
   standing  any  inconsistent  provision  of  law,  and subject to the
@@ -25496,7 +25297,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 63,000 ................. (re. $47,000)
   Fringe benefits (60090) ... 127,000 ................... (re. $127,000)
   Indirect costs (58850) ... 16,000 ...................... (re. $16,000)
-  464  12550-02-3
+  459  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25553,7 +25354,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 17,000 ...................... (re. $17,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  465  12550-02-3
+  460  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25611,7 +25412,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any other provision of law to the  contrary,  the  OGS
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer  Authority  as  defined  in  the 2020-21 state fiscal year state
-  466  12550-02-3
+  461  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25664,11 +25465,11 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 590,000 ............... (re. $88,000)
  
  WADSWORTH CENTER FOR LABORATORIES AND RESEARCH PROGRAM
- 
+
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Federal Block Grant Account - 25183
-  467  12550-02-3
+  462  12550-06-3
  
   DEPARTMENT OF HEALTH
  
@@ -25725,7 +25526,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 125,000 ................ (re. $85,000)
   Fringe benefits (60090) ... 390,000 ................... (re. $222,000)
   Indirect costs (58850) ... 630,000 .................... (re. $401,000)
-  468  12550-02-3
+  463  12550-06-3
  
   DEPARTMENT OF HEALTH
   OFFICE OF THE MEDICAID INSPECTOR GENERAL
@@ -25733,7 +25534,7 @@ S T A T E  O F  N E W  Y O R K
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
- 
+
   APPROPRIATIONS  REAPPROPRIATIONS
  
   General Fund .......................  21,758,000  0
@@ -25782,7 +25583,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 21,758,000
   --------------
-  469  12550-02-3
+  464  12550-06-3
  
   DEPARTMENT OF HEALTH
   OFFICE OF THE MEDICAID INSPECTOR GENERAL
@@ -25821,7 +25622,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 35,711,000
   --------------
-  470  12550-02-3
+  465  12550-06-3
  
   DEPARTMENT OF HEALTH
   OFFICE OF THE MEDICAID INSPECTOR GENERAL
@@ -25852,8 +25653,8 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 4,405,000 ........... (re. $4,405,000)
   Fringe benefits (60090) ... 12,069,000 ............. (re. $12,069,000)
   Indirect costs (58850) ... 1,357,000 ................ (re. $1,357,000)
-  471  12550-02-3
-
+  466  12550-06-3
+ 
   HIGHER EDUCATION SERVICES CORPORATION
  
   STATE OPERATIONS  2023-24
@@ -25908,7 +25709,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 10,000
  Contractual services (51000) .................. 31,975,000
  Equipment (56000) ................................. 20,000
-  472  12550-02-3
+  467  12550-06-3
  
   HIGHER EDUCATION SERVICES CORPORATION
  
@@ -25936,11 +25737,11 @@ S T A T E  O F  N E W  Y O R K
   suballocated, subject to the  approval  of
   the director of the budget, to other state
   agencies (30025).
-
+ 
  Nonpersonal service (57050) .................... 8,600,000
   --------------
-  473  12550-02-3
- 
+  468  12550-06-3
+
   HIGHER EDUCATION SERVICES CORPORATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -25960,7 +25761,7 @@ S T A T E  O F  N E W  Y O R K
   of  the  budget,  are deemed fully incorporated herein and a part of
   this appropriation as if fully stated (81001).
   Contractual services (51000)... 31,975,000. ........ (re. $29,653,000)
- 
+
  STUDENT GRANT AND AWARD PROGRAMS
  
   Special Revenue Funds - Federal
@@ -25991,10 +25792,10 @@ S T A T E  O F  N E W  Y O R K
   suballocated, subject to the approval of the director of the budget,
   to other state agencies (30025).
   Nonpersonal service (57050) ... 1,400,000 ............. (re. $221,000)
-  474  12550-02-3
+  469  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
- 
+
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
@@ -26047,7 +25848,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and expenses related to cyber
   incident response (30348).
-  475  12550-02-3
+  470  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26068,7 +25869,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   domestic terrorism prevention unit(30326).
-
+ 
  Personal service--regular (50100) .............. 2,200,000
  Contractual services (51000) ................... 3,500,000
  Travel (54000) ................................... 150,000
@@ -26105,7 +25906,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 35,000,000
   --------------
-  476  12550-02-3
+  471  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26137,7 +25938,7 @@ S T A T E  O F  N E W  Y O R K
  A portion of these funds may be suballocated
   to  the  division  of  military  and naval
   affairs (30317).
- 
+
  Temporary service (50200) ...................... 1,000,000
   --------------
   Program account subtotal ................... 1,000,000
@@ -26163,7 +25964,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Public Safety Communications Account - 22123
-  477  12550-02-3
+  472  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26220,7 +26021,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  478  12550-02-3
+  473  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26257,7 +26058,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Emergency Services Revolving Loan Account - 20150
- 
+
  For services and  expenses  related  to  the
   fire  prevention  and  control  program
   (30318).
@@ -26278,7 +26079,7 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses of  the  cigarette
   fire  safety  program,  including suballo-
-  479  12550-02-3
+  474  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26335,10 +26136,10 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Public Safety Communications Account - 22123
-  480  12550-02-3
+  475  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
- 
+
   STATE OPERATIONS  2023-24
  
  For  services and expenses related to public
@@ -26350,7 +26151,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 500,000
  Equipment (56000) ................................ 500,000
   --------------
-  481  12550-02-3
+  476  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26408,8 +26209,8 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2016, as amended by chapter 50,
   section 1, of the laws of 2019:
-  482  12550-02-3
- 
+  477  12550-06-3
+
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -26427,7 +26228,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 14,000,000 ............. (re. $2,869,000)
   Nonpersonal service (57050) ... 1,586,000 .............. (re. $24,000)
   Fringe benefits (60090) ... 7,500,000 ............... (re. $1,889,000)
- 
+
  By chapter 50, section 1, of the laws of 2014, as amended by chapter 50,
   section 1, of the laws of 2019:
   For services and expenses related to the disaster  assistance  program
@@ -26443,7 +26244,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 2,200,000 ................ (re. $553,000)
   Nonpersonal service (57050) ... 1,586,000 .............. (re. $86,000)
   Fringe benefits (60090) ... 1,000,000 ................. (re. $438,000)
- 
+
  By chapter 50, section 1, of the laws of 2012, as amended by chapter 50,
   section 1, of the laws of 2019:
   For services and expenses related to the disaster assistance program.
@@ -26457,7 +26258,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 2,200,000 ................ (re. $295,000)
   Nonpersonal service (57050) ... 1,586,000 .............. (re. $31,000)
   Fringe benefits (60090) ... 1,000,000 ................. (re. $518,000)
- 
+
  By chapter 50, section 1, of the laws of 2011, as amended by chapter 50,
   section 1, of the laws of 2019:
   For services and expenses related to the disaster  assistance  program
@@ -26465,7 +26266,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 2,200,000 ................. (re. $16,000)
   Nonpersonal service (57050) ... 1,586,000 .............. (re. $30,000)
   Fringe benefits (60090) ... 1,000,000 ................... (re. $1,000)
-  483  12550-02-3
+  478  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26523,8 +26324,8 @@ S T A T E  O F  N E W  Y O R K
   (30317).
   Personal service (50000) ... 5,025,000 ................. (re. $70,000)
   Nonpersonal service (57050) ... 1,000,000 ............... (re. $3,000)
-  484  12550-02-3
- 
+  479  12550-06-3
+
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -26580,7 +26381,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 3,300,000 ........... (re. $2,804,000)
  
  By chapter 50, section 1, of the laws of 2019:
-  485  12550-02-3
+  480  12550-06-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -26617,7 +26418,7 @@ S T A T E  O F  N E W  Y O R K
   security and emergency services and approved by the director of  the
   budget (30309).
   Equipment (56000) ... 30,000,000 .................... (re. $9,147,000)
-  486  12550-02-3
+  481  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -26627,13 +26428,13 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  18,984,000  6,198,000
+  General Fund .......................  28,984,000  6,198,000
   Special Revenue Funds - Federal ....  56,308,000  36,870,000
   Special Revenue Funds - Other ......  106,282,000  160,004,000
   ----------------  ----------------
-  All Funds ........................  181,574,000  203,072,000
+  All Funds ........................  191,574,000  203,072,000
   ================  ================
- 
+
   SCHEDULE
  
  F&D-COMMUNITY DEVELOPMENT PROGRAM ............................ 9,093,000
@@ -26654,7 +26455,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 689,000
   --------------
- 
+
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   DHCR-HCA Application Fee Account - 22100
@@ -26674,7 +26475,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 8,404,000
   --------------
-  487  12550-02-3
+  482  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -26691,7 +26492,7 @@ S T A T E  O F  N E W  Y O R K
   herein  may be suballocated or transferred
   to any state department, agency, or public
   authority for the purposes stated herein
-
+ 
  Personal service--regular (50100) ................ 100,000
  Holiday/overtime compensation (50300) .............. 1,000
  Supplies and materials (57000) ..................... 5,000
@@ -26712,7 +26513,7 @@ S T A T E  O F  N E W  Y O R K
   transferred to any state department, agen-
   cy,  or  public authority for the purposes
   stated herein
-
+ 
  Personal service--regular (50100) .............. 1,000,000
  Holiday/overtime compensation (50300) .............. 1,000
  Supplies and materials (57000) .................... 10,000
@@ -26732,8 +26533,8 @@ S T A T E  O F  N E W  Y O R K
   renewal's planning office. Funds appropri-
   ated herein may be suballocated or  trans-
   ferred to any state department, agency, or
-  488  12550-02-3
- 
+  483  12550-06-3
+
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
   STATE OPERATIONS  2023-24
@@ -26776,7 +26577,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
- 
+
  For  services  and  expenses  related to the
   office of resilient homes and communities.
   Funds appropriated herein may be  suballo-
@@ -26788,12 +26589,12 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) .............. 1,000
  Supplies and materials (57000) ..................... 1,000
  Travel (54000) ..................................... 1,000
-  489  12550-02-3
+  484  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
   STATE OPERATIONS  2023-24
-
+ 
  Contractual services (51000) ...................... 46,000
  Equipment (56000) .................................. 1,000
   --------------
@@ -26833,7 +26634,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 864,000
   --------------
-
+ 
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Housing and Urban Development Section 8 Account - 25315
@@ -26846,7 +26647,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60090) ........................ 3,520,000
  Indirect costs (58850) ........................... 470,000
   --------------
-  490  12550-02-3
+  485  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -26854,7 +26655,7 @@ S T A T E  O F  N E W  Y O R K
  
   Program account subtotal .................. 11,584,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   DHCR Mortgage Servicing Account - 22085
@@ -26895,14 +26696,14 @@ S T A T E  O F  N E W  Y O R K
   monitoring of housing projects constructed
   under  low-income  housing  tax  credit
   programs (31448).
-
+ 
  Personal service--regular (50100) .............. 2,580,000
  Holiday/overtime compensation (50300) ............. 50,000
  Supplies and materials (57000) ..................... 5,000
  Travel (54000) ................................... 195,000
  Contractual services (51000) ..................... 215,000
  Equipment (56000) ................................. 75,000
-  491  12550-02-3
+  486  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -26960,7 +26761,7 @@ S T A T E  O F  N E W  Y O R K
   herein may be suballocated or  transferred
   to any state department, agency, or public
   authority for the purposes stated herein
-  492  12550-02-3
+  487  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27017,7 +26818,7 @@ S T A T E  O F  N E W  Y O R K
   sion  of  housing and community renewal is
   authorized to suballocate or transfer from
   this  appropriation  the  value  of  such
-  493  12550-02-3
+  488  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27073,7 +26874,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 10,000
  Contractual services (51000) ..................... 979,000
  Equipment (56000) ................................. 10,000
-  494  12550-02-3
+  489  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27131,7 +26932,7 @@ S T A T E  O F  N E W  Y O R K
   of  2020  in  an  amount  equal  to  costs
   incurred  by  the state in accordance with
   subdivision c of section 8 of section 4 of
-  495  12550-02-3
+  490  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27163,7 +26964,17 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 4,710,000
   --------------
-  496  12550-02-3
+ 
+ RENTAL REGISTRY ............................................. 10,000,000
+  --------------
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ For  services  and  expenses  of a statewide
+  rental registry ............................. 10,000,000
+  --------------
+  491  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27221,7 +27032,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 563,000 .............. (re. $433,000)
   Equipment (56000) ... 100,000 ......................... (re. $100,000)
   Fringe benefits (60000) ... 2,716,000 ............... (re. $2,350,000)
-  497  12550-02-3
+  492  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27242,7 +27053,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,018,000 ........... (re. $1,684,000)
   Fringe benefits (60090) ... 3,520,000 ............... (re. $2,591,000)
   Indirect costs (58850) ... 470,000 .................... (re. $332,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For expenditures related to administering federal  section  8  program
   grants (31448).
@@ -27258,7 +27069,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,018,000 ............. (re. $364,000)
   Fringe benefits (60090) ... 3,520,000 ............... (re. $1,441,000)
   Indirect costs (58850) ... 470,000 .................... (re. $131,000)
-
+ 
  By chapter 50, section 1, of the laws of 2019:
   For expenditures related to administering federal  section  8  program
   grants (31448).
@@ -27270,7 +27081,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   DHCR Mortgage Servicing Account - 22085
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related  to  asset management activities
   performed by the division of housing and community renewal  for  the
@@ -27279,7 +27090,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any other provision of law to the  contrary,  the  OGS
   Interchange  and  Transfer  Authority,  and  the  IT Interchange and
   Transfer Authority as defined in the 2022-23 state fiscal year state
-  498  12550-02-3
+  493  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27337,12 +27148,12 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2019:
   For  services  and  expenses  related  to  asset management activities
   performed by the division of housing and community renewal  for  the
-  499  12550-02-3
+  494  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   New  York  state  housing  finance  agency and the urban development
   corporation.
   Notwithstanding  any  other  provision of law to the contrary, the OGS
@@ -27395,7 +27206,7 @@ S T A T E  O F  N E W  Y O R K
   (31448).
   Personal service--regular (50100) ... 2,580,000 ....... (re. $349,000)
   Holiday/overtime compensation (50300) ... 50,000 ....... (re. $49,000)
-  500  12550-02-3
+  495  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27434,7 +27245,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 1,378,000 ........... (re. $1,378,000)
   Fringe benefits (60090) ... 1,589,000 ............... (re. $1,589,000)
   Indirect costs (58850) ... 214,000 .................... (re. $214,000)
- 
+
  By chapter 50, section 1, of the laws of 2021:
   For services and expenses related to administering low income weather-
   ization grants (31446).
@@ -27453,12 +27264,12 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 214,000 .................... (re. $156,000)
  
  By chapter 50, section 1, of the laws of 2019:
-  501  12550-02-3
+  496  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   For services and expenses related to administering low income weather-
   ization grants (31446).
   Personal service (50000) ... 2,543,000 .............. (re. $1,881,000)
@@ -27502,7 +27313,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Rent Revenue Other Account - 22156
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related  to  the division of housing and
   community renewal's  administration  and  enforcement  of  New  York
@@ -27511,7 +27322,7 @@ S T A T E  O F  N E W  Y O R K
   city of one million or more or any department, agency, or instrumen-
   tality thereof has any payment reduced pursuant to chapter 56 of the
   laws of 2020 in an amount equal to costs incurred by  the  state  in
-  502  12550-02-3
+  497  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27568,7 +27379,7 @@ S T A T E  O F  N E W  Y O R K
   accordance with subdivision (c) of section 8 of chapter 576  of  the
   laws  of  1974,  the  division  of  housing and community renewal is
   authorized to suballocate or transfer from  this  appropriation  the
-  503  12550-02-3
+  498  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27609,7 +27420,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 10,000 ........................... (re. $10,000)
   Fringe benefits (60000) ... 1,643,000 ................. (re. $290,000)
   Indirect costs (58800) ... 84,000 ...................... (re. $23,000)
- 
+
  By chapter 50, section 1, of the laws of 2020:
   For services and expenses related  to  the  division  of  housing  and
   community  renewal's  administration  and  enforcement  of  New York
@@ -27626,10 +27437,10 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  any  other  provision of law to the contrary, the OGS
   Interchange and Transfer  Authority,  and  the  IT  Interchange  and
   Transfer Authority as defined in the 2020-21 state fiscal year state
-  504  12550-02-3
+  499  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   operations  appropriation  for  the  budget  division program of the
@@ -27684,7 +27495,7 @@ S T A T E  O F  N E W  Y O R K
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (31442).
   Personal service--regular (50100) ... 28,597,000 .... (re. $6,795,000)
-  505  12550-02-3
+  500  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27742,12 +27553,12 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 471,000 ............ (re. $254,000)
   Travel (54000) ... 76,000 .............................. (re. $75,000)
   Contractual services (51000) ... 2,548,000 ............. (re. $19,000)
-  506  12550-02-3
+  501  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   Equipment (56000) ... 405,000 ......................... (re. $404,000)
   Fringe benefits (60000) ... 14,272,000 .............. (re. $4,195,000)
   Indirect costs (58800) ... 680,000 .................... (re. $110,000)
@@ -27800,7 +27611,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For  services  and  expenses  related to the administration of special
   revenue funds - other and special revenue funds - federal.
-  507  12550-02-3
+  502  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27827,7 +27638,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 60,000 .............................. (re. $60,000)
   Contractual services (51000) ... 1,828,000 .......... (re. $1,828,000)
   Equipment (56000) ... 60,000 ........................... (re. $60,000)
-
+ 
  By chapter 50, section 1, of the laws of 2020:
   For  services  and  expenses  related to the administration of special
   revenue funds - other and special revenue funds - federal.
@@ -27857,7 +27668,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2022:
   For  services  and  expenses  related to the administration of special
   revenue funds - other and special revenue funds - federal.
-  508  12550-02-3
+  503  12550-06-3
  
   DIVISON OF HOUSING AND COMMUNITY RENEWAL
  
@@ -27884,14 +27695,14 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 60,000 .............................. (re. $51,000)
   Contractual services (51000) ... 1,828,000 .......... (re. $1,777,000)
   Equipment (56000) ... 60,000 ........................... (re. $60,000)
-  509  12550-02-3
+  504  12550-06-3
  
   STATE OF NEW YORK MORTGAGE AGENCY
  
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
- 
+
   APPROPRIATIONS  REAPPROPRIATIONS
  
   General Fund .......................  76,800,000  0
@@ -27900,7 +27711,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
   SCHEDULE
-
+ 
  HOMEOWNER MORTGAGE REVENUES REIMBURSEMENT PROGRAM ........... 61,800,000
   --------------
  
@@ -27940,7 +27751,7 @@ S T A T E  O F  N E W  Y O R K
   remain in effect until a subsequent appro-
   priation is made available (45604) .......... 22,000,000
   --------------
-  510  12550-02-3
+  505  12550-06-3
  
   STATE OF NEW YORK MORTGAGE AGENCY
  
@@ -27983,12 +27794,12 @@ S T A T E  O F  N E W  Y O R K
   remain in effect until a subsequent appro-
   priation is made available (45605) .......... 15,000,000
   --------------
-  511  12550-02-3
+  506  12550-06-3
  
   DIVISION OF HUMAN RIGHTS
  
   STATE OPERATIONS  2023-24
- 
+
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -28040,7 +27851,7 @@ S T A T E  O F  N E W  Y O R K
  For services and expenses related  to  equal
   employment opportunity program enforcement
   activities (81001).
-  512  12550-02-3
+  507  12550-06-3
  
   DIVISION OF HUMAN RIGHTS
  
@@ -28095,8 +27906,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,500,000
   --------------
-  513  12550-02-3
-
+  508  12550-06-3
+ 
   DIVISION OF HUMAN RIGHTS
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -28122,7 +27933,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 140,000 ............... (re. $140,000)
   Fringe benefits (60090) ... 1,126,000 ............... (re. $1,126,000)
   Indirect costs (58850) ... 150,000 .................... (re. $150,000)
- 
+
  By chapter 50, section 1, of the laws of 2020, as amended by chapter 50,
   section 1, of the laws of 2022:
   For  services  and  expenses  related  to equal employment opportunity
@@ -28149,7 +27960,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 1,428,000 ........... (re. $1,221,000)
   Fringe benefits (60090) ... 375,000 ................... (re. $375,000)
   Indirect costs (58850) ... 50,000 ...................... (re. $50,000)
-  514  12550-02-3
+  509  12550-06-3
  
   OFFICE OF INDIGENT LEGAL SERVICES
  
@@ -28158,7 +27969,7 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   Special Revenue Funds - Other ......  7,250,000  0
   ----------------  ----------------
   All Funds ........................  7,250,000  0
@@ -28206,10 +28017,10 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) .......................... 522,000
  Indirect costs (58800) ............................ 25,000
   --------------
-  515  12550-02-3
+  510  12550-06-3
  
   OFFICE OF INDIGENT LEGAL SERVICES
-
+ 
   STATE OPERATIONS  2023-24
  
  INDIGENT LEGAL SERVICES PROGRAM .............................. 4,286,000
@@ -28231,28 +28042,28 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 1,526,000
  Indirect costs (58800) ............................ 71,000
   --------------
-  516  12550-02-3
+  511  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
- 
+
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  677,190,000  9,763,000
+  General Fund .......................  677,690,000  9,763,000
   Special Revenue Funds - Federal ....  500,000  500,000
   Special Revenue Funds - Other ......  30,000,000  0
   Enterprise Funds ...................  4,000,000  0
   Internal Service Funds .............  151,636,000  391,533,000
   ----------------  ----------------
-  All Funds ........................  863,326,000  401,796,000
+  All Funds ........................  863,826,000  401,796,000
   ================  ================
  
   SCHEDULE
  
- OFFICE OF TECHNOLOGY SERVICES PROGRAM ...................... 863,326,000
+ OFFICE OF TECHNOLOGY SERVICES PROGRAM ...................... 863,826,000
   --------------
  
   General Fund
@@ -28288,10 +28099,10 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 3,607,000
  Equipment (56000) ................................. 86,000
   --------------
-  517  12550-02-3
+  512  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
- 
+
   STATE OPERATIONS  2023-24
  
   Total amount available ...................... 21,926,000
@@ -28310,7 +28121,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ..................... 195,788,000
   --------------
- 
+
  For  services  and  expenses  of  programs
   providing services to end users (51923).
  
@@ -28346,7 +28157,7 @@ S T A T E  O F  N E W  Y O R K
   providing shared services to local munici-
   palities,  including  but  not limited to,
   endpoint detection and response, intrusion
-  518  12550-02-3
+  513  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -28397,13 +28208,13 @@ S T A T E  O F  N E W  Y O R K
   market place, in order to ensure that  the
   state's  information  technology needs can
   be met by state employees (51901).
-
+ 
  Personal service--regular (50100) .................. 1,000
  Temporary service (50200) ...................... 1,300,000
  Holiday/overtime compensation (50300) .............. 7,000
  Supplies and materials (57000) .................... 27,000
  Travel (54000) ..................................... 3,000
-  519  12550-02-3
+  514  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -28421,7 +28232,7 @@ S T A T E  O F  N E W  Y O R K
   use  of  digital  credentials,  identity
   rationalization, and streamlined access to
   digitized government services (51900).
- 
+
  Personal service--regular (50100) .............. 1,000,000
  Contractual services (51000) ................... 7,000,000
  Equipment (56000) .............................. 2,000,000
@@ -28442,30 +28253,37 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 10,000,000
   --------------
-  Program account subtotal ................. 677,190,000
+ 
+ For the services and expenses related to the
+  detailed  assessment  of  technological
+  assets in the state act ........................ 500,000
+  --------------
+  Total amount available  ........................ 500,000
+  --------------
+  Program account subtotal ................. 677,690,000
   --------------
  
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   OFT Federal Account - 25532
  
- For  services and expenses related to grants
+ For services and expenses related to  grants
   for  geographic  information  systems  and
   emergency operations activities.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  520  12550-02-3
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  515  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
   STATE OPERATIONS  2023-24
  
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (51908).
  
@@ -28473,26 +28291,26 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 500,000
   --------------
- 
+
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Technology Financing Account - 22207
-
- For  services and expenses related to infor-
+ 
+ For services and expenses related to  infor-
   mation  technology  including,  but  not
   limited  to,  services  and  expenses  on
   behalf of state agencies which have trans-
-  ferred funding to this  account  for  such
+  ferred  funding  to  this account for such
   purpose.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (51908).
  
  Contractual services (51000) .................. 25,000,000
@@ -28505,23 +28323,24 @@ S T A T E  O F  N E W  Y O R K
   Agencies Enterprise Fund
   New York Alert Account - 50326
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   office  of  technology  services  program
   (51908).
  
  Personal service--regular (50100) ................ 600,000
  Holiday/overtime compensation (50300) ............. 30,000
  Contractual services (51000) ................... 3,000,000
+  516  12550-06-3
+ 
+  OFFICE OF INFORMATION TECHNOLOGY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+
  Fringe benefits (60000) .......................... 350,000
  Indirect costs (58800) ............................ 20,000
   --------------
   Program account subtotal ................... 4,000,000
   --------------
-  521  12550-02-3
- 
-  OFFICE OF INFORMATION TECHNOLOGY SERVICES
- 
-  STATE OPERATIONS  2023-24
  
   Internal Service Funds
   Agencies Internal Service Fund
@@ -28539,7 +28358,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (51908).
-
+ 
  Personal service--regular (50100) .............. 2,250,000
  Contractual services (51000) ................. 121,763,000
  Fringe benefits (60000) ........................ 1,240,000
@@ -28567,6 +28386,12 @@ S T A T E  O F  N E W  Y O R K
  
  Supplies and materials (57000) .................... 18,000
  Travel (54000) .................................... 12,000
+  517  12550-06-3
+ 
+  OFFICE OF INFORMATION TECHNOLOGY SERVICES
+ 
+  STATE OPERATIONS  2023-24
+ 
  Contractual services (51000) .................. 11,916,000
  Equipment (56000) .............................. 3,124,000
   --------------
@@ -28575,12 +28400,6 @@ S T A T E  O F  N E W  Y O R K
  
   Internal Service Funds
   Agencies Internal Service Fund
-  522  12550-02-3
- 
-  OFFICE OF INFORMATION TECHNOLOGY SERVICES
- 
-  STATE OPERATIONS  2023-24
-
   State Data Center Account - 55062
  
  For  services  and  expenses  related to the
@@ -28601,7 +28420,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 11,221,000
   --------------
-  523  12550-02-3
+  518  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -28658,7 +28477,7 @@ S T A T E  O F  N E W  Y O R K
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer  Authority  as  defined  in  the 2021-22 state fiscal year state
   operations appropriation for the  budget  division  program  of  the
-  524  12550-02-3
+  519  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -28716,7 +28535,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2021:
   For services and expenses related to the office of technology services
   program.
-  525  12550-02-3
+  520  12550-06-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -28731,7 +28550,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 78,166,508 ......... (re. $5,298,000)
   Equipment (56000) ... 42,885,492 ................... (re. $32,586,000)
   Supplies and materials (57000) ... 400,000 ............ (re. $400,000)
-  526  12550-02-3
+  521  12550-06-3
  
   OFFICE OF THE STATE INSPECTOR GENERAL
  
@@ -28789,7 +28608,7 @@ S T A T E  O F  N E W  Y O R K
  
  For services and  expenses  related  to  the
   inspector general program.
-  527  12550-02-3
+  522  12550-06-3
  
   OFFICE OF THE STATE INSPECTOR GENERAL
  
@@ -28846,7 +28665,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   inspector general program.
-  528  12550-02-3
+  523  12550-06-3
  
   OFFICE OF THE STATE INSPECTOR GENERAL
  
@@ -28896,7 +28715,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 50,000
   --------------
-  529  12550-02-3
+  524  12550-06-3
  
   INTEREST ON LAWYER ACCOUNT
  
@@ -28943,7 +28762,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) .......................... 619,000
  Indirect costs (58800) ............................ 34,000
   --------------
-  530  12550-02-3
+  525  12550-06-3
  
   COMMISSION ON JUDICIAL CONDUCT
  
@@ -28985,7 +28804,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ................... 1,816,000
  Equipment (56000) ................................. 80,000
   --------------
-  531  12550-02-3
+  526  12550-06-3
  
   COMMISSION ON JUDICIAL NOMINATION
  
@@ -29023,7 +28842,7 @@ S T A T E  O F  N E W  Y O R K
  
  Travel (54000) .................................... 30,000
   --------------
-  532  12550-02-3
+  527  12550-06-3
  
   JUDICIAL SCREENING COMMITTEES
  
@@ -29062,7 +28881,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 10,000
  Contractual services (51000) ...................... 28,000
   --------------
-  533  12550-02-3
+  528  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29119,7 +28938,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed fully  incorporated  herein  and  a
-  534  12550-02-3
+  529  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29177,7 +28996,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and expenses related to TRAID
   including for contract for the delivery of
   direct  services  to  persons  utilizing
-  535  12550-02-3
+  530  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29235,7 +29054,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60090) ........................... 54,000
  Indirect costs (58850) ............................. 4,000
   --------------
-  536  12550-02-3
+  531  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29293,7 +29112,7 @@ S T A T E  O F  N E W  Y O R K
   protection of vulnerable persons,  includ-
   ing,  but not limited to, the provision of
   investigative services, training, and  the
-  537  12550-02-3
+  532  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29316,7 +29135,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 500,000
   --------------
-  538  12550-02-3
+  533  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29374,7 +29193,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 8,000 ........................ (re. $8,000)
 
  By chapter 50, section 1, of the laws of 2020:
-  539  12550-02-3
+  534  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29432,7 +29251,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
 
  By chapter 50, section 1, of the laws of 2021:
-  540  12550-02-3
+  535  12550-06-3
  
   JUSTICE CENTER FOR THE PROTECTION
   OF PEOPLE WITH SPECIAL NEEDS
@@ -29462,7 +29281,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 342,000 ............... (re. $342,000)
   Fringe benefits (60090) ... 54,000 ..................... (re. $54,000)
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
-  541  12550-02-3
+  536  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29520,7 +29339,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and expenses of administering
   unemployment  insurance  programs,  job
-  542  12550-02-3
+  537  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29578,7 +29397,7 @@ S T A T E  O F  N E W  Y O R K
   employment offices.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
-  543  12550-02-3
+  538  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29636,7 +29455,7 @@ S T A T E  O F  N E W  Y O R K
   any  moneys  credited  to the reemployment
   service fund, created pursuant to  chapter
   589  of  the  laws  of  1998, as costs are
-  544  12550-02-3
+  539  12550-06-3
 
   DEPARTMENT OF LABOR
  
@@ -29694,7 +29513,7 @@ S T A T E  O F  N E W  Y O R K
   services, procurement,  information  tech-
   nology and/or other functions shared among
   agencies  to  improve  the  efficiency and
-  545  12550-02-3
+  540  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29751,7 +29570,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 236,000
  Equipment (56000) .................................. 8,000
   --------------
-  546  12550-02-3
+  541  12550-06-3
  
   DEPARTMENT OF LABOR
 
@@ -29805,7 +29624,7 @@ S T A T E  O F  N E W  Y O R K
   which may be operated by the state's small
   business development centers or the entre-
   preneurial assistance program (34780).
-  547  12550-02-3
+  542  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29863,7 +29682,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) .................... 92,000
  Travel (54000) .................................... 21,000
  Contractual services (51000) ..................... 687,000
-  548  12550-02-3
+  543  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29921,7 +29740,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
-  549  12550-02-3
+  544  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -29977,7 +29796,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 6,473,000
  Indirect costs (58800) ........................... 293,000
   --------------
-  550  12550-02-3
+  545  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30035,7 +29854,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................... 368,000
  Contractual services (51000) ................... 2,314,000
  Equipment (56000) ................................ 126,000
-  551  12550-02-3
+  546  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30091,7 +29910,7 @@ S T A T E  O F  N E W  Y O R K
   Enterprise Funds
   Unemployment Insurance Benefit Fund
   Interest Assessment Account - 50651
-  552  12550-02-3
+  547  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30113,7 +29932,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ................. 250,000,000
   --------------
-  553  12550-02-3
+  548  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30170,7 +29989,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 709,000 .................... (re. $611,000)
  
  By chapter 50, section 1, of the laws of 2021:
-  554  12550-02-3
+  549  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30228,7 +30047,7 @@ S T A T E  O F  N E W  Y O R K
   provide  information  and  advice  regarding  unemployment insurance
   benefit appeals and hearing assistance. A portion of this  appropri-
   ation may be transferred to aid to localities.
-  555  12550-02-3
+  550  12550-06-3
 
   DEPARTMENT OF LABOR
  
@@ -30286,7 +30105,7 @@ S T A T E  O F  N E W  Y O R K
   ists and/or  local  veterans'  employment  representative  grant  or
   grants  based  on  merit  as  determined pursuant to the performance
   incentive program provided for in  the  grant  consistent  with  the
-  556  12550-02-3
+  551  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30344,7 +30163,7 @@ S T A T E  O F  N E W  Y O R K
   laws of 2000 (34218).
   Personal service (50000) ... 4,155,000 .............. (re. $2,329,000)
   Nonpersonal service (57050) ... 868,000 ............... (re. $728,000)
-  557  12550-02-3
+  552  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30402,7 +30221,7 @@ S T A T E  O F  N E W  Y O R K
   ment programs. The amounts appropriated herein may be  suballocated,
   transferred  or  otherwise made available to any other state depart-
   ment, agency or public authority (34218).
-  558  12550-02-3
+  553  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30460,7 +30279,7 @@ S T A T E  O F  N E W  Y O R K
   ment  programs. The amounts appropriated herein may be suballocated,
   transferred or otherwise made available to any other  state  depart-
   ment, agency or public authority (34218).
-  559  12550-02-3
+  554  12550-06-3
  
   DEPARTMENT OF LABOR
 
@@ -30518,7 +30337,7 @@ S T A T E  O F  N E W  Y O R K
   ment of labor on behalf of customer state agencies.
   Notwithstanding any other provision of law to the  contrary,  for  the
   purpose  of  planning,  developing  and/or  implementing the consol-
-  560  12550-02-3
+  555  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30576,7 +30395,7 @@ S T A T E  O F  N E W  Y O R K
   training alliance program and other existing programs.
   Statewide employment and training activities  may  include  one-to-one
   business  advisement  and  training  for  qualified enrollees of the
-  561  12550-02-3
+  556  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30633,7 +30452,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 13,100,000 ............... (re. $943,000)
   Nonpersonal service (57050) ... 12,465,000 .......... (re. $5,015,000)
   Fringe benefits (60090) ... 7,560,000 ................. (re. $918,000)
-  562  12550-02-3
+  557  12550-06-3
 
   DEPARTMENT OF LABOR
  
@@ -30690,7 +30509,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 3,499,000 .............. (re. $2,819,000)
   Nonpersonal service (57050) ... 7,474,000 ........... (re. $3,049,000)
   Fringe benefits (60090) ... 2,019,000 ............... (re. $1,624,000)
-  563  12550-02-3
+  558  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30748,7 +30567,7 @@ S T A T E  O F  N E W  Y O R K
   (34778).
   Personal service (50000) ... 3,000,000 .............. (re. $2,906,000)
   Nonpersonal service (57050) ... 15,171,000 ......... (re. $15,158,000)
-  564  12550-02-3
+  559  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30805,7 +30624,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 49,000 ........................... (re. $46,000)
   Fringe benefits (60000) ... 1,444,000 ............... (re. $1,205,000)
   Indirect costs (58800) ... 74,000 ...................... (re. $54,000)
-  565  12550-02-3
+  560  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30862,7 +30681,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 50,000 ........................... (re. $38,000)
   Fringe benefits (60000) ... 4,337,000 ............... (re. $2,608,000)
   Indirect costs (58800) ... 239,000 .................... (re. $112,000)
-  566  12550-02-3
+  561  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30920,7 +30739,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 1,804,000 .......... (re. $1,778,000)
   Equipment (56000) ... 174,000 ......................... (re. $150,000)
   Fringe benefits (60000) ... 6,312,000 ............... (re. $2,980,000)
-  567  12550-02-3
+  562  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -30978,7 +30797,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 1,283,000 .......... (re. $1,283,000)
   Equipment (56000) ... 100,000 ......................... (re. $100,000)
   Fringe benefits (60000) ... 2,568,000 ............... (re. $2,568,000)
-  568  12550-02-3
+  563  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -31035,7 +30854,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58800) ... 345,000 .................... (re. $150,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  569  12550-02-3
+  564  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -31093,7 +30912,7 @@ S T A T E  O F  N E W  Y O R K
   Temporary service (50200) ... 44,000 ................... (re. $19,000)
   Holiday/overtime compensation (50300) ... 11,000 ........ (re. $8,000)
   Supplies and materials (57000) ... 87,000 .............. (re. $58,000)
-  570  12550-02-3
+  565  12550-06-3
  
   DEPARTMENT OF LABOR
  
@@ -31143,7 +30962,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 6,863,000 .......... (re. $1,090,000)
   Fringe benefits (60000) ... 2,266,000 ............... (re. $1,022,000)
   Indirect costs (58800) ... 116,000 ..................... (re. $47,000)
-  571  12550-02-3
+  566  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31201,7 +31020,7 @@ S T A T E  O F  N E W  Y O R K
   changed  or  transferred  without limit to
   any  other  appropriation  in  any  other
   program  or  fund within the department of
-  572  12550-02-3
+  567  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31257,7 +31076,7 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) ............. 38,497,000
  Temporary service (50200) ......................... 81,000
  Holiday/overtime compensation (50300) .............. 2,000
-  573  12550-02-3
+  568  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31314,7 +31133,7 @@ S T A T E  O F  N E W  Y O R K
   Internal Service Funds
   Agencies Internal Service Fund
   Civil Recoveries Account - 55074
-  574  12550-02-3
+  569  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31372,7 +31191,7 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any law to the contrary, the
   amounts  herein appropriated may be inter-
   changed or transferred  without  limit  to
-  575  12550-02-3
+  570  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31430,7 +31249,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
-  576  12550-02-3
+  571  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31487,7 +31306,7 @@ S T A T E  O F  N E W  Y O R K
   changed  or  transferred  without limit to
   any  other  appropriation  in  any  other
   program  or  fund within the department of
-  577  12550-02-3
+  572  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31545,7 +31364,7 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ............. 10,000
  Supplies and materials (57000) ..................... 8,000
  Contractual services (51000) ................... 1,365,000
-  578  12550-02-3
+  573  12550-06-3
  
   DEPARTMENT OF LAW
 
@@ -31602,7 +31421,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 160,000
   --------------
-  579  12550-02-3
+  574  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31660,7 +31479,7 @@ S T A T E  O F  N E W  Y O R K
  
  SOCIAL JUSTICE PROGRAM ...................................... 47,826,000
   --------------
-  580  12550-02-3
+  575  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31716,7 +31535,7 @@ S T A T E  O F  N E W  Y O R K
   conducting  fair  housing  testing  as
   outlined in  section  80-a  of  the  state
   finance law.
-  581  12550-02-3
+  576  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31751,7 +31570,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 31,502,000
   --------------
-  582  12550-02-3
+  577  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31809,7 +31628,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 20,760,000 ............. (re. $1,192,000)
   Nonpersonal service (57050) ... 7,983,000 ........... (re. $2,107,000)
   Fringe benefits (60090) ... 12,807,000 ................ (re. $865,000)
-  583  12550-02-3
+  578  12550-06-3
  
   DEPARTMENT OF LAW
  
@@ -31864,7 +31683,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 7,212,000 ............. (re. $129,000)
   Fringe benefits (60090) ... 11,112,000 .............. (re. $2,316,000)
   Indirect costs (58850) ... 762,000 .................... (re. $151,000)
-  584  12550-02-3
+  579  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31874,9 +31693,10 @@ S T A T E  O F  N E W  Y O R K
 
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  600,000,000  0
+  General Fund .......................  1,100,000,000  0
+  Unspecified Funds ..................  500,000,000  0
   ----------------  ----------------
-  All Funds ........................  600,000,000  0
+  All Funds ........................  1,600,000,000  0
   ================  ================
  
   SCHEDULE
@@ -31911,7 +31731,57 @@ S T A T E  O F  N E W  Y O R K
   part  of  this  appropriation  as if fully
   stated (80530) ............................. 600,000,000
   --------------
-  585  12550-02-3
+ 
+ 8.5 PERCENT HUMAN SERVICE COLA ............................... 1,000,000
+  --------------
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ For additional services and expenses of  the
+  human  services cost of living adjustment.
+  Notwithstanding any inconsistent provision
+  580  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  STATE OPERATIONS  2023-24
+ 
+  of law except pursuant to a chapter of the
+  laws of 2023 authorizing  an  8.5  percent
+  cost  of living adjustment for the purpose
+  of  establishing  rates  of  payments,
+  contracts or any other form of  reimburse-
+  ment.  Notwithstanding any other provision
+  of law to  the  contrary,  funding  herein
+  appropriated  shall  be made available for
+  payments for state operations, or  aid  to
+  localities  and  may  be  suballocated  or
+  transferred to any state department, agen-
+  cy or authority to effectuate  the  intent
+  of this appropriation ...................... 500,000,000
+  --------------
+ 
+  Unspecified Funds
+ 
+ For  additional services and expenses of the
+  human services cost of living  adjustment.
+  Notwithstanding any inconsistent provision
+  of law except pursuant to a chapter of the
+  laws  of  2023  authorizing an 8.5 percent
+  cost of living adjustment for the  purpose
+  of  establishing  rates  of  payments,
+  contracts or any other form of  reimburse-
+  ment.  Notwithstanding any other provision
+  of law to  the  contrary,  funding  herein
+  appropriated  shall  be made available for
+  payments for state operations, or  aid  to
+  localities  and  may  be  suballocated  or
+  transferred to any state department, agen-
+  cy or authority to effectuate  the  intent
+  of this appropriation ...................... 500,000,000
+  --------------
+  581  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31920,7 +31790,7 @@ S T A T E  O F  N E W  Y O R K
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
- 
+
   APPROPRIATIONS  REAPPROPRIATIONS
  
   General Fund .......................  143,468,000  0
@@ -31968,7 +31838,7 @@ S T A T E  O F  N E W  Y O R K
   reimbursement  of  providers  of addiction
   services and is conducive to the provision
   of effective and high quality services.
-  586  12550-02-3
+  582  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32026,8 +31896,8 @@ S T A T E  O F  N E W  Y O R K
   contained in the aid to localities  budget
   bill,  and (ii) the director of the budget
   has determined that those aid  to  locali-
-  587  12550-02-3
-
+  583  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
@@ -32084,12 +31954,12 @@ S T A T E  O F  N E W  Y O R K
   contained  in the aid to localities budget
   bill, and (ii) the director of the  budget
   has  determined  that those aid to locali-
-  588  12550-02-3
+  584  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
-
+ 
   STATE OPERATIONS  2023-24
  
   ties appropriations as finally acted on by
@@ -32142,7 +32012,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ................... 6,500,000
   --------------
-  589  12550-02-3
+  585  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32200,14 +32070,14 @@ S T A T E  O F  N E W  Y O R K
   et, to assist the office in tasks  related
   to  the statewide opioid settlement agree-
   ments (81031).
-  590  12550-02-3
+  586  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   STATE OPERATIONS  2023-24
- 
+
  Personal service--regular (50100) .............. 1,500,000
  Supplies and materials (57000) .................... 10,000
  Travel (54000) ................................... 100,000
@@ -32233,7 +32103,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   NYS Drug Treatment and Education Fund
-  NYS DRUG TREATMENT & PUBLIC EDUCATION Account - 24802
+  NYS Drug Treatment & Public Education Account - 24802
  
  For  services  and expenses of substance use
   disorder treatment, prevention,  recovery,
@@ -32258,7 +32128,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  591  12550-02-3
+  587  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32315,8 +32185,8 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses related to  inter-
   vention  and  treatment  provided  by  the
-  592  12550-02-3
-
+  588  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
@@ -32342,10 +32212,10 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 1,210,000
   --------------
-  593  12550-02-3
+  589  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -32400,8 +32270,8 @@ S T A T E  O F  N E W  Y O R K
   statewide opioid settlement agreements.
   Notwithstanding  any other provision of law to the contrary, a portion
   of this appropriation shall be available to the Research  Foundation
-  594  12550-02-3
-
+  590  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
@@ -32450,7 +32320,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 340,000 ............... (re. $149,000)
   Fringe benefits (60090) ... 325,000 ................... (re. $325,000)
   Indirect costs (58850) ... 29,000 ...................... (re. $29,000)
-  595  12550-02-3
+  591  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32459,21 +32329,43 @@ S T A T E  O F  N E W  Y O R K
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
- 
+
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  2,220,030,000  0
+  General Fund .......................  2,219,330,000  0
   Special Revenue Funds - Federal ....  4,513,000  4,693,000
   Special Revenue Funds - Other ......  17,482,000  0
   Enterprise Funds ...................  8,606,000  0
   Internal Service Funds .............  2,597,000  0
   ----------------  ----------------
-  All Funds ........................  2,253,228,000  4,693,000
+  All Funds ........................  2,252,528,000  4,693,000
   ================  ================
  
   SCHEDULE
  
- ADMINISTRATION AND FINANCE PROGRAM ......................... 107,491,000
+ Notwithstanding  any provision of law to the
+  contrary, no funds appropriated  shall  be
+  available  for certification or payment of
+  inpatient bed creation or expansion  until
+  (i)  the  director  of the division of the
+  budget submits a  plan  to  the  temporary
+  president  of  the  senate, the speaker of
+  the assembly,  the  chair  of  the  senate
+  finance committee, the chair of the assem-
+  bly ways and means committee, the chair of
+  the  senate  mental  health committee, and
+  the chair of the  assembly  mental  health
+  committee  including  the  location of the
+  facilities, amount  of  beds  expected  to
+  open,  counties of the facility and amount
+  of funds needed to support  the  operation
+  and  (ii)  the  temporary president of the
+  senate, the speaker of the  assembly,  and
+  the  director  of  the  budget  agree  and
+  approve of the location of the opening  or
+  expansion.
+ 
+ ADMINISTRATION AND FINANCE PROGRAM ......................... 106,791,000
   --------------
  
   General Fund
@@ -32486,29 +32378,7 @@ S T A T E  O F  N E W  Y O R K
   increased  or  decreased  by  interchange,
   with  any  appropriation  of the office of
   mental health, and  may  be  increased  or
-  decreased  by  transfer  or  suballocation
-  between  these  appropriated  amounts  and
-  appropriations  of  the  department  of
-  health, the office of  medicaid  inspector
-  general, the office for people with devel-
-  opmental  disabilities, the justice center
-  for the protection of people with  special
-  needs,  and  the  office  of  addiction
-  services and supports, with  the  approval
-  of the director of the budget.
- Notwithstanding  any  other provision of law
-  to the contrary, any of the amounts appro-
-  priated  herein  may  be  increased  or
-  decreased by interchange or transfer with-
-  out  limit,  with any appropriation of the
-  office of mental health or by transfer  or
-  suballocation to any department, agency or
-  public authority for expenditures incurred
-  in the operation of such programs with the
-  approval of the director of the budget.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  596  12550-02-3
+  592  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32516,6 +32386,28 @@ S T A T E  O F  N E W  Y O R K
  
   STATE OPERATIONS  2023-24
  
+  decreased  by  transfer  or  suballocation
+  between  these  appropriated  amounts  and
+  appropriations  of  the  department  of
+  health,  the  office of medicaid inspector
+  general, the office for people with devel-
+  opmental disabilities, the justice  center
+  for  the protection of people with special
+  needs,  and  the  office  of  addiction
+  services  and  supports, with the approval
+  of the director of the budget.
+ Notwithstanding any other provision  of  law
+  to the contrary, any of the amounts appro-
+  priated  herein  may  be  increased  or
+  decreased by interchange or transfer with-
+  out limit, with any appropriation  of  the
+  office  of mental health or by transfer or
+  suballocation to any department, agency or
+  public authority for expenditures incurred
+  in the operation of such programs with the
+  approval of the director of the budget.
+ Notwithstanding any law to the contrary,  no
+  funds  under  this  appropriation shall be
   available  for  certification  or  payment
   until  (i)  the  legislature  has  finally
   acted  upon  the  appropriations  for  the
@@ -32543,6 +32435,14 @@ S T A T E  O F  N E W  Y O R K
   Inc. pursuant to a  contract,  subject  to
   the  approval of the director of the budg-
   et, to assist the office in  restructuring
+  593  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
+ 
   the  financing  of  community-based mental
   health programs (36900).
  
@@ -32552,9 +32452,9 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ................. 2,140,000
  Travel (54000) ................................... 868,000
  Contractual services (51000) .................. 28,820,000
- Equipment (56000) ................................ 710,000
+ Equipment (56000) ................................. 10,000
   --------------
-  Program account subtotal .................. 87,373,000
+  Program account subtotal .................. 86,673,000
   --------------
  
   Special Revenue Funds - Federal
@@ -32566,14 +32466,6 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service (50000) ....................... 3,191,000
  Nonpersonal service (57050) ....................... 12,000
-  597  12550-02-3
-
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
  Fringe benefits (60090) ........................ 1,106,000
  Indirect costs (58850) ............................ 24,000
   --------------
@@ -32599,6 +32491,13 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Mental Hygiene Combined Gifts and Grants Account - 20209
+  594  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
  
  For  nonpersonal  service  expenditures  to
   benefit patients  or  for  other  purposes
@@ -32624,25 +32523,17 @@ S T A T E  O F  N E W  Y O R K
   Appropriations  may  be transferred to the
   department of  corrections  and  community
   supervision  for  expenses  related  to
-  598  12550-02-3
- 
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
   cook/chill production with the approval of
   the director of the budget.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (36900).
  
  Supplies and materials (57000).................. 1,283,000
@@ -32656,8 +32547,15 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Community Stores Account
   MH & MR Community Stores Fund Account - 50500
  
- For services and expenses related to  enter-
+ For  services and expenses related to enter-
   prise programs (36900).
+  595  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
  
  Personal service--regular (50100) ................ 508,000
  Temporary service (50200) ........................ 100,000
@@ -32674,20 +32572,12 @@ S T A T E  O F  N E W  Y O R K
   Enterprise Funds
   OMH Sheltered Workshop Fund
   Mental Health Sheltered Workshop Fund Account - 50400
- 
+
  For  services and expenses related to enter-
   prise programs (36900).
  
  Supplies and materials (57000) ................. 1,243,000
  Travel (54000) ................................... 123,000
-  599  12550-02-3
- 
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
  Contractual services (51000) ................... 4,213,000
  Equipment (56000) ................................ 257,000
   --------------
@@ -32698,7 +32588,7 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Revolving Account
   Mental Hygiene Internal Service Fund Account - 55101
  
- For  services  and  expenses  related to the
+ For services and  expenses  related  to  the
   internal services operations for print and
   design (36900).
  
@@ -32713,31 +32603,67 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 2,597,000
   --------------
-
+ 
  ADULT SERVICES PROGRAM ................................... 1,400,323,000
   --------------
+  596  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
  
   General Fund
   State Purposes Account - 10050
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   adult services program.
- Funds  appropriated  under  this program are
-  available for the payment of tolls at  the
-  Robert  F.  Kennedy  bridge,  for vehicles
-  driven by persons commuting  to  and  from
+ Funds appropriated under  this  program  are
+  available  for the payment of tolls at the
+  Robert F.  Kennedy  bridge,  for  vehicles
+  driven  by  persons  commuting to and from
   work  who  are  employed  at  facilities
-  located on Ward's island operated  by  the
+  located  on  Ward's island operated by the
   department of mental hygiene.
- Notwithstanding  any  other provision of law
+ Notwithstanding any other provision  of  law
   to the contrary, any of the amounts appro-
   priated  herein  may  be  increased  or
   decreased by interchange or transfer with-
-  out  limit,  with any appropriation of the
-  office of mental health or by transfer  or
+  out limit, with any appropriation  of  the
+  office  of mental health or by transfer or
   suballocation to any department, agency or
   public authority for expenditures incurred
-  600  12550-02-3
+  in the operation of such programs with the
+  approval of the director of the budget.
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the commissioner of the
+  office of mental health shall  be  author-
+  ized,  subject  to  the  approval  of  the
+  director of the budget, to transfer up  to
+  $3,000,000  of  this  appropriation to the
+  department of health for  the  purpose  of
+  making  physician loan repayment awards to
+  psychiatrists who are licensed to practice
+  in New York state and who  agree  to  work
+  for  a  period  of at least three years in
+  one  or  more  hospitals  or  outpatient
+  programs  that  are operated by the office
+  of mental health and deemed to be  in  one
+  or  more  underserved areas, as determined
+  by  the  commissioner  of  mental  health.
+  Notwithstanding  paragraph (d) of subdivi-
+  sion 5-a, and paragraphs (d), (e), and (f)
+  of subdivision 10 of section 2807-m of the
+  public health law, all awards made by  the
+  department  of  health  from  any  of  the
+  office of mental health funds  transferred
+  herein  shall  be made consistent with the
+  provisions of paragraphs (a), (b) and  (c)
+  of subdivision 10 of section 2807-m of the
+  public  health law and may not supplant or
+  otherwise  support  the  department  of
+  597  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32745,35 +32671,6 @@ S T A T E  O F  N E W  Y O R K
  
   STATE OPERATIONS  2023-24
  
-  in the operation of such programs with the
-  approval of the director of the budget.
- Notwithstanding  any  other provision of law
-  to the contrary, the commissioner  of  the
-  office  of  mental health shall be author-
-  ized,  subject  to  the  approval  of  the
-  director  of the budget, to transfer up to
-  $3,000,000 of this  appropriation  to  the
-  department  of  health  for the purpose of
-  making physician loan repayment awards  to
-  psychiatrists who are licensed to practice
-  in  New  York  state and who agree to work
-  for a period of at least  three  years  in
-  one  or  more  hospitals  or  outpatient
-  programs that are operated by  the  office
-  of  mental  health and deemed to be in one
-  or more underserved areas,  as  determined
-  by  the  commissioner  of  mental  health.
-  Notwithstanding paragraph (d) of  subdivi-
-  sion 5-a, and paragraphs (d), (e), and (f)
-  of subdivision 10 of section 2807-m of the
-  public  health law, all awards made by the
-  department  of  health  from  any  of  the
-  office  of mental health funds transferred
-  herein shall be made consistent  with  the
-  provisions  of paragraphs (a), (b) and (c)
-  of subdivision 10 of section 2807-m of the
-  public health law and may not supplant  or
-  otherwise  support  the  department  of
   health's  physician's  loan  repayment
   program.
  Notwithstanding  any  other provision of law
@@ -32795,27 +32692,19 @@ S T A T E  O F  N E W  Y O R K
   office of mental health contained  in  the
   aid  to  localities  budget bill, and (ii)
   the director of the budget has  determined
-  601  12550-02-3
- 
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
   that  those  aid  to  localities appropri-
   ations as finally acted on by the legisla-
   ture are sufficient for the ensuing fiscal
   year.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
-  Transfer  Authority and the IT Interchange
-  and Transfer Authority as defined  in  the
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
+  Transfer Authority and the IT  Interchange
+  and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (36901).
  
  Personal service--regular (50100) .......... 1,045,224,000
@@ -32831,9 +32720,17 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
-  Healthcare Emergency Preparedness Program (HEP)  Account
+  598  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
+ 
+  Healthcare  Emergency Preparedness Program (HEP) Account
   - 22198
-
+ 
  For  services  and  expenses  incurred  by
   psychiatric centers participating  in  the
   healthcare emergency preparedness program.
@@ -32853,25 +32750,17 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ...................... 15,000
  Equipment (56000) ................................. 13,000
   --------------
-  602  12550-02-3
- 
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ...................... 50,000
   --------------
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
-  Mental  Health Service Delivery Transformation Incentive
+  Mental Health Service Delivery Transformation  Incentive
   Fund Account - 22215
  
  For  nonpersonal  service  expenditures  of
-  office  of  mental  health facilities that
-  participate in the  system  reform  incen-
+  office of mental  health  facilities  that
+  participate  in  the  system reform incen-
   tives (36901).
  
  Supplies and materials (57000) ................. 2,000,000
@@ -32887,40 +32776,39 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
- 
- For  services  and  expenses  related to the
-  children and youth services program.
- Notwithstanding any other provision  of  law
-  to the contrary, any of the amounts appro-
-  priated  herein  may  be  increased  or
-  decreased by interchange or transfer with-
-  out limit, with any appropriation  of  the
-  office  of mental health or by transfer or
-  suballocation to any department, agency or
-  public authority for expenditures incurred
-  in the operation of such programs with the
-  approval of the director of the budget.
- Notwithstanding any other provision  of  law
-  to  the  contrary, subject to the approval
-  of the director of the budget, the commis-
-  sioner of  the  office  of  mental  health
-  shall  be  authorized to reimburse medical
-  providers at a rate up to 200  percent  of
-  the established medicaid rate or rates for
-  non-psychiatric  medical  services,  when
-  such non-psychiatric medical services  are
-  provided  within  the  office  of  mental
-  health facilities.
-  603  12550-02-3
+  599  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF MENTAL HEALTH
  
   STATE OPERATIONS  2023-24
  
- Notwithstanding any law to the contrary,  no
-  funds  under  this  appropriation shall be
+ For services and  expenses  related  to  the
+  children and youth services program.
+ Notwithstanding  any  other provision of law
+  to the contrary, any of the amounts appro-
+  priated  herein  may  be  increased  or
+  decreased by interchange or transfer with-
+  out  limit,  with any appropriation of the
+  office of mental health or by transfer  or
+  suballocation to any department, agency or
+  public authority for expenditures incurred
+  in the operation of such programs with the
+  approval of the director of the budget.
+ Notwithstanding  any  other provision of law
+  to the contrary, subject to  the  approval
+  of the director of the budget, the commis-
+  sioner  of  the  office  of  mental health
+  shall be authorized to  reimburse  medical
+  providers  at  a rate up to 200 percent of
+  the established medicaid rate or rates for
+  non-psychiatric  medical  services,  when
+  such  non-psychiatric medical services are
+  provided  within  the  office  of  mental
+  health facilities.
+ Notwithstanding  any law to the contrary, no
+  funds under this  appropriation  shall  be
   available  for  certification  or  payment
   until  (i)  the  legislature  has  finally
   acted  upon  the  appropriations  for  the
@@ -32946,6 +32834,14 @@ S T A T E  O F  N E W  Y O R K
  Temporary service (50200) ...................... 2,410,000
  Holiday/overtime compensation (50300) .......... 9,374,000
  Supplies and materials (57000) ................ 16,688,000
+  600  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
+ 
  Travel (54000) ................................... 673,000
  Contractual services (51000) .................. 20,323,000
  Equipment (56000) ................................ 855,000
@@ -32969,14 +32865,6 @@ S T A T E  O F  N E W  Y O R K
   public authority for expenditures incurred
   in the operation of such programs with the
   approval of the director of the budget.
-  604  12550-02-3
- 
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
-
  Notwithstanding any other provision  of  law
   to  the  contrary, subject to the approval
   of the director of the budget, the commis-
@@ -33004,11 +32892,19 @@ S T A T E  O F  N E W  Y O R K
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
+  601  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  OFFICE OF MENTAL HEALTH
+ 
+  STATE OPERATIONS  2023-24
+ 
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (36903).
  
  Personal service--regular (50100) ............ 258,553,000
@@ -33025,45 +32921,46 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  605  12550-02-3
  
+ For  services  and  expenses  related to the
+  research in mental illness program.
+ Notwithstanding any other provision  of  law
+  to the contrary, any of the amounts appro-
+  priated  herein  may  be  increased  or
+  decreased by interchange or transfer with-
+  out limit, with any appropriation  of  the
+  office  of mental health or by transfer or
+  suballocation to any department, agency or
+  public authority for expenditures incurred
+  in the operation of such programs with the
+  approval of the director of the budget.
+ Notwithstanding any other provision  of  law
+  to  the  contrary, subject to the approval
+  of the director of the budget, the commis-
+  sioner of  the  office  of  mental  health
+  shall  be  authorized to reimburse medical
+  providers at a rate up to 200  percent  of
+  the established medicaid rate or rates for
+  non-psychiatric  medical  services,  when
+  such non-psychiatric medical services  are
+  provided  within  the  office  of  mental
+  health facilities.
+ Notwithstanding any law to the contrary,  no
+  funds  under  this  appropriation shall be
+  available  for  certification  or  payment
+  until  (i)  the  legislature  has  finally
+  acted  upon  the  appropriations  for  the
+  602  12550-06-3
+
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   STATE OPERATIONS  2023-24
  
- For services and  expenses  related  to  the
-  research in mental illness program.
- Notwithstanding  any  other provision of law
-  to the contrary, any of the amounts appro-
-  priated  herein  may  be  increased  or
-  decreased by interchange or transfer with-
-  out  limit,  with any appropriation of the
-  office of mental health or by transfer  or
-  suballocation to any department, agency or
-  public authority for expenditures incurred
-  in the operation of such programs with the
-  approval of the director of the budget.
- Notwithstanding  any  other provision of law
-  to the contrary, subject to  the  approval
-  of the director of the budget, the commis-
-  sioner  of  the  office  of  mental health
-  shall be authorized to  reimburse  medical
-  providers  at  a rate up to 200 percent of
-  the established medicaid rate or rates for
-  non-psychiatric  medical  services,  when
-  such  non-psychiatric medical services are
-  provided  within  the  office  of  mental
-  health facilities.
- Notwithstanding  any law to the contrary, no
-  funds under this  appropriation  shall  be
-  available  for  certification  or  payment
-  until  (i)  the  legislature  has  finally
-  acted  upon  the  appropriations  for  the
-  office of mental health contained  in  the
-  aid  to  localities  budget bill, and (ii)
-  the director of the budget has  determined
+  office  of  mental health contained in the
+  aid to localities budget  bill,  and  (ii)
+  the  director of the budget has determined
   that  those  aid  to  localities appropri-
   ations as finally acted on by the legisla-
   ture are sufficient for the ensuing fiscal
@@ -33083,14 +32980,6 @@ S T A T E  O F  N E W  Y O R K
  Temporary service (50200) ......................... 76,000
  Holiday/overtime compensation (50300) ............ 848,000
  Supplies and materials (57000) ................. 5,126,000
-  606  12550-02-3
- 
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
  Travel (54000) .................................... 30,000
  Contractual services (51000) .................. 11,541,000
  Equipment (56000) ................................ 298,000
@@ -33119,12 +33008,20 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
+  603  12550-06-3
+ 
+  DEPARTMENT OF MENTAL HYGIENE
+ 
+  OFFICE OF MENTAL HEALTH
+
+  STATE OPERATIONS  2023-24
+ 
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed fully  incorporated  herein  and  a
-  part  of  this  appropriation  as if fully
+  deemed  fully  incorporated  herein  and a
+  part of this  appropriation  as  if  fully
   stated (36904).
  
  Personal service--regular (50100) .............. 1,915,000
@@ -33133,21 +33030,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 7,230,000
   --------------
-
+ 
  SECURE TREATMENT PROGRAM .................................... 81,548,000
   --------------
  
   General Fund
   State Purposes Account - 10050
-  607  12550-02-3
  
-  DEPARTMENT OF MENTAL HYGIENE
- 
-  OFFICE OF MENTAL HEALTH
- 
-  STATE OPERATIONS  2023-24
- 
- Notwithstanding any other provision  of  law
+ Notwithstanding  any  other provision of law
   to the contrary, any of the amounts appro-
   priated  herein  may  be  increased  or
   decreased by interchange or transfer with-
@@ -33176,27 +33066,7 @@ S T A T E  O F  N E W  Y O R K
   office of mental health contained  in  the
   aid  to  localities  budget bill, and (ii)
   the director of the budget has  determined
-  that  those  aid  to  localities appropri-
-  ations as finally acted on by the legisla-
-  ture are sufficient for the ensuing fiscal
-  year.
- Notwithstanding any other provision  of  law
-  to  the  contrary, the OGS Interchange and
-  Transfer Authority and the IT  Interchange
-  and  Transfer  Authority as defined in the
-  2023-24 state fiscal year state operations
-  appropriation  for  the  budget  division
-  program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
-  stated (37030).
- 
- Personal service--regular (50100) ............. 63,125,000
- Temporary service (50200) ...................... 1,000,000
- Holiday/overtime compensation (50300) .......... 6,412,000
- Supplies and materials (57000) ................. 6,679,000
- Travel (54000) .................................... 69,000
-  608  12550-02-3
+  604  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33204,15 +33074,35 @@ S T A T E  O F  N E W  Y O R K
  
   STATE OPERATIONS  2023-24
  
+  that  those  aid  to  localities appropri-
+  ations as finally acted on by the legisla-
+  ture are sufficient for the ensuing fiscal
+  year.
+ Notwithstanding  any  other provision of law
+  to the contrary, the OGS  Interchange  and
+  Transfer  Authority and the IT Interchange
+  and Transfer Authority as defined  in  the
+  2023-24 state fiscal year state operations
+  appropriation  for  the  budget  division
+  program of the division of the budget, are
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
+  stated (37030).
+ 
+ Personal service--regular (50100) ............. 63,125,000
+ Temporary service (50200) ...................... 1,000,000
+ Holiday/overtime compensation (50300) .......... 6,412,000
+ Supplies and materials (57000) ................. 6,679,000
+ Travel (54000) .................................... 69,000
  Contractual services (51000) ................... 3,842,000
  Equipment (56000) ................................ 421,000
   --------------
   Program account subtotal .................. 81,548,000
   --------------
-  609  12550-02-3
+  605  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF MENTAL HEALTH
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -33249,7 +33139,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 17,000 ................. (re. $17,000)
   Fringe benefits (60090) ... 56,000 ..................... (re. $56,000)
   Indirect costs (58850) ... 2,000 ........................ (re. $2,000)
-  610  12550-02-3
+  606  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33307,8 +33197,8 @@ S T A T E  O F  N E W  Y O R K
   temporary operator as defined  by  and  in
   accordance  with  section  16.25  of  the
   mental hygiene law.
-  611  12550-02-3
-
+  607  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
@@ -33365,8 +33255,8 @@ S T A T E  O F  N E W  Y O R K
   Transfer Authority and the IT  Interchange
   and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
-  612  12550-02-3
-
+  608  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
@@ -33399,7 +33289,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses associated with
   the intellectual and  developmental  disa-
   bility ombudsman program.
- 
+
  Contractual Services (51000) ................... 2,000,000
   --------------
   Program account subtotal ................... 2,000,000
@@ -33422,7 +33312,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Senior Companions Account - 25445
-  613  12550-02-3
+  609  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33480,14 +33370,14 @@ S T A T E  O F  N E W  Y O R K
   the  money  hereby  appropriated  may  be
   transferred to local assistance and/or any
   appropriation of  the  office  for  people
-  614  12550-02-3
+  610  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   STATE OPERATIONS  2023-24
- 
+
   with  developmental disabilities, with the
   approval of the director of the budget.
  Notwithstanding  section  6908 of the educa-
@@ -33538,14 +33428,14 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any other provision  of  law
   to  the  contrary,  and  consistent  with
   section 33.07 of the mental  hygiene  law,
-  615  12550-02-3
+  611  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   STATE OPERATIONS  2023-24
- 
+
   the  directors  of  facilities operated by
   the office for people  with  developmental
   disabilities who act as federally-appoint-
@@ -33565,7 +33455,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (81034).
- 
+
  Personal service--regular (50100) .......... 1,368,863,000
  Temporary service (50200) ...................... 1,792,000
  Holiday/overtime compensation (50300) ........ 139,999,000
@@ -33584,7 +33474,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) .................. 89,295,000
  Equipment (56000) ............................. 24,662,000
   --------------
- 
+
  INSTITUTIONAL SERVICES PROGRAM ............................. 478,741,000
   --------------
  
@@ -33596,8 +33486,8 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any other provision of  law,
   the  money  hereby  appropriated  may  be
   transferred to local assistance and/or any
-  616  12550-02-3
-
+  612  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
@@ -33654,8 +33544,8 @@ S T A T E  O F  N E W  Y O R K
   for the ensuing fiscal year.
  Notwithstanding any other provision  of  law
   to  the  contrary,  and  consistent  with
-  617  12550-02-3
-
+  613  12550-06-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
@@ -33712,7 +33602,7 @@ S T A T E  O F  N E W  Y O R K
   from  donated  funds.  Notwithstanding any
   other provision of law, the  money  hereby
   appropriated  may  be transferred to local
-  618  12550-02-3
+  614  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33770,7 +33660,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation  for  the  budget  division
   program of the division of the budget, are
   deemed fully  incorporated  herein  and  a
-  619  12550-02-3
+  615  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33790,7 +33680,7 @@ S T A T E  O F  N E W  Y O R K
   Enterprise Funds
   OPWDD Sheltered Workshop Fund
   Sheltered Workshop Fund OPWDD Account - 50450
- 
+
  For  services  and  expenses including sala-
   ries, supplies and materials of  sheltered
   workshops  and  vocational  rehabilitation
@@ -33825,12 +33715,12 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  620  12550-02-3
+  616  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
- 
+
   STATE OPERATIONS  2023-24
  
  For  services  and  expenses  related to the
@@ -33881,10 +33771,10 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ............ 341,000
  Supplies and materials (57000) ................. 1,333,000
  Travel (54000) ..................................... 6,000
-  621  12550-02-3
+  617  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   STATE OPERATIONS  2023-24
@@ -33910,7 +33800,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 22,000
   --------------
- 
+
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Research in Developmental Disabilities Account - 20116
@@ -33939,7 +33829,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 149,000
   --------------
-  622  12550-02-3
+  618  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33962,14 +33852,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 100,000
   --------------
-  623  12550-02-3
+  619  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  CENTRAL COORDINATION AND SUPPORT PROGRAM
  
   General Fund
@@ -34020,10 +33910,10 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Senior Companions Account - 25445
-  624  12550-02-3
+  620  12550-06-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -34036,12 +33926,12 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to the administration of the federal
   senior companions program (37830).
   Nonpersonal service (57050) ... 333,000 ............... (re. $333,000)
-  625  12550-02-3
+  621  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
   STATE OPERATIONS  2023-24
-
+ 
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -34085,7 +33975,7 @@ S T A T E  O F  N E W  Y O R K
  
  MILITARY READINESS PROGRAM .................................. 60,010,000
   --------------
- 
+
   General Fund
   State Purposes Account - 10050
  
@@ -34094,7 +33984,7 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority and the IT  Interchange
-  626  12550-02-3
+  622  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -34141,7 +34031,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   military readiness program (38700).
-
+ 
  Personal service (50000) ...................... 16,466,000
  Nonpersonal service (57050) ................... 23,495,000
  Fringe benefits (60090) ........................ 5,119,000
@@ -34151,7 +34041,7 @@ S T A T E  O F  N E W  Y O R K
  
  SPECIAL SERVICES PROGRAM .................................... 81,627,000
   --------------
-  627  12550-02-3
+  623  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -34186,7 +34076,7 @@ S T A T E  O F  N E W  Y O R K
  For operating expenses associated  with  the
   New  York state military museum and veter-
   ans research center (38701).
- 
+
  Supplies and materials (57000) .................... 59,000
  Travel (54000) ..................................... 9,000
  Contractual services (51000) ..................... 108,000
@@ -34200,7 +34090,7 @@ S T A T E  O F  N E W  Y O R K
   for  members of New York's organized mili-
   tia, including liabilities incurred  prior
   to April 1, 2023.
-
+ 
  Contractual services (51000) ................... 4,000,000
   --------------
   Total amount available ....................... 4,000,000
@@ -34209,7 +34099,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Special Revenue Funds - Other
-  628  12550-02-3
+  624  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -34266,12 +34156,12 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   special services program (38701).
-  629  12550-02-3
+  625  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
   STATE OPERATIONS  2023-24
- 
+
  Personal service--regular (50100) ................ 163,000
  Temporary service (50200) ........................ 440,000
  Holiday/overtime compensation (50300) ............ 139,000
@@ -34324,7 +34214,7 @@ S T A T E  O F  N E W  Y O R K
   naval affairs for the  justice  department
   federal  equitable sharing agreement to be
   used for law enforcement purposes distrib-
-  630  12550-02-3
+  626  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -34380,14 +34270,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 3,300,000
   --------------
-  631  12550-02-3
+  627  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  MILITARY READINESS PROGRAM
-
+ 
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal  Miscellaneous  Grants  Account - Air Force, Naval Militia and
@@ -34437,19 +34327,19 @@ S T A T E  O F  N E W  Y O R K
   education law. The moneys hereby appropriated shall be available for
   expenses already accrued or to accrue (38701).
   Contractual services (51000) ... 3,300,000 .......... (re. $2,550,000)
-  632  12550-02-3
+  628  12550-06-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For  the  payment  of tuition benefits provided to eligible members of
   the state's organized militia  pursuant  to  section  669-b  of  the
   education law. The moneys hereby appropriated shall be available for
   expenses already accrued or to accrue (38701).
   Contractual services (51000) ... 3,300,000 .......... (re. $1,244,000)
-  633  12550-02-3
+  629  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34507,7 +34397,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (81001).
-  634  12550-02-3
+  630  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34564,7 +34454,7 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses in connection with
   the purchase of banking services (81001).
-  635  12550-02-3
+  631  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34622,8 +34512,8 @@ S T A T E  O F  N E W  Y O R K
   to the contrary, the OGS  Interchange  and
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
-  636  12550-02-3
-
+  632  12550-06-3
+ 
   DEPARTMENT OF MOTOR VEHICLES
  
   STATE OPERATIONS  2023-24
@@ -34650,7 +34540,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
- 
+
  For  services  and  expenses  related to the
   compulsory insurance program.
  Notwithstanding any other provision  of  law
@@ -34663,7 +34553,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (39008).
-
+ 
  Personal service--regular (50100) .............. 9,994,000
  Temporary service (50200) ......................... 41,000
  Holiday/overtime compensation (50300) ............ 162,000
@@ -34679,8 +34569,8 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Distinctive Plate Development Account - 22120
-  637  12550-02-3
-
+  633  12550-06-3
+ 
   DEPARTMENT OF MOTOR VEHICLES
  
   STATE OPERATIONS  2023-24
@@ -34735,7 +34625,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service (50000) ....................... 7,777,000
  Nonpersonal service (57050) .................... 7,285,000
-  638  12550-02-3
+  634  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34783,7 +34673,7 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ..................................... 4,000
  Contractual services (51000) ................... 1,460,000
   --------------
-  639  12550-02-3
+  635  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34841,10 +34731,10 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to highway safety programs (39013).
   Personal service (50000) ... 846,000 .................. (re. $399,000)
   Nonpersonal service (57050) ... 54,000 ................. (re. $52,000)
-  640  12550-02-3
+  636  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   Fringe benefits (60090) ... 495,000 ................... (re. $240,000)
@@ -34889,7 +34779,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 54,000 ................. (re. $54,000)
   Fringe benefits (60090) ... 347,000 ................... (re. $104,000)
   Indirect costs (58850) ... 46,000 ...................... (re. $22,000)
-
+ 
  By chapter 50, section 1, of the laws of 2016:
   For  suballocation  to  other state agencies for services and expenses
   related to highway safety programs. A portion of these funds may  be
@@ -34899,7 +34789,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2016, as amended by chapter 50,
   section 1, of the laws of 2019:
-  641  12550-02-3
+  637  12550-06-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34957,8 +34847,8 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 625,000 .................. (re. $605,000)
   Nonpersonal service (57050) ... 4,959,000 ............. (re. $259,000)
   Fringe benefits (60090) ... 367,000 ................... (re. $359,000)
-  642  12550-02-3
- 
+  638  12550-06-3
+
   DEPARTMENT OF MOTOR VEHICLES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -35006,7 +34896,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 4,546,000 .............. (re. $32,000)
   Fringe benefits (60090) ... 336,000 .................... (re. $82,000)
   Indirect costs (58850) ... 45,000 ....................... (re. $4,000)
-  643  12550-02-3
+  639  12550-06-3
  
   OLYMPIC REGIONAL DEVELOPMENT AUTHORITY
  
@@ -35015,7 +34905,7 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
+ 
   General Fund .......................  13,940,000  16,000,000
   Special Revenue Funds - Other ......  150,000  0
   ----------------  ----------------
@@ -35023,7 +34913,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
   SCHEDULE
- 
+
  OLYMPIC FACILITIES OPERATIONS PROGRAM ....................... 14,090,000
   --------------
  
@@ -35045,7 +34935,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   US Olympic Committee/Lake Placid Olympic Training Fund
   Lake Placid Training - DMV Account - 23501
- 
+
  For services and expenses of the Lake Placid
   training account (44702).
  
@@ -35055,26 +34945,26 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 50,000
   --------------
-
+ 
   Special Revenue Funds - Other
   US Olympic Committee/Lake Placid Olympic Training Fund
   Lake Placid Training - Tax Account - 23502
  
  For services and expenses of the Lake Placid
   training account (44702).
-  644  12550-02-3
+  640  12550-06-3
  
   OLYMPIC REGIONAL DEVELOPMENT AUTHORITY
  
   STATE OPERATIONS  2023-24
- 
+
  Personal service--regular (50100) ................. 45,000
  Supplies and materials (57000) .................... 35,000
  Fringe benefits (60000) ........................... 20,000
   --------------
   Program account subtotal ..................... 100,000
   --------------
-  645  12550-02-3
+  641  12550-06-3
  
   OLYMPIC REGIONAL DEVELOPMENT AUTHORITY
  
@@ -35102,7 +34992,7 @@ S T A T E  O F  N E W  Y O R K
   university games, the amount of any indemnity  provision  shall  not
   exceed $16,000,000 (44706).
   Contractual services (51000) ... 16,000,000 ........ (re. $16,000,000)
-  646  12550-02-3
+  642  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35140,7 +35030,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (81001).
- 
+
  Personal service--regular (50100) ............. 26,546,000
  Holiday/overtime compensation (50300) ............. 11,000
  Supplies and materials (57000) ................... 435,000
@@ -35160,7 +35050,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service (50000) ......................... 225,000
  Nonpersonal service (57050) ...................... 225,000
-  647  12550-02-3
+  643  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35204,7 +35094,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 498,000
   --------------
-
+ 
  HISTORIC PRESERVATION PROGRAM ............................... 12,989,000
   --------------
  
@@ -35218,7 +35108,7 @@ S T A T E  O F  N E W  Y O R K
   Transfer  Authority and the IT Interchange
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
-  648  12550-02-3
+  644  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35244,7 +35134,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Operating Grants Fund Account - 25462
-
+ 
  For services and expenses related to  grants
   for historic preservation projects includ-
   ing  acquisition,  research,  development,
@@ -35275,8 +35165,8 @@ S T A T E  O F  N E W  Y O R K
   proceedings pursuant to article 7 or 10 of
   the  public  service  law, shall be deemed
   expenses  of  the  department  of  public
-  649  12550-02-3
- 
+  645  12550-06-3
+
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS  2023-24
@@ -35331,7 +35221,7 @@ S T A T E  O F  N E W  Y O R K
   to other state agencies, authorities,  and
   entities  to  use  for  commemoration
   purposes.
-  650  12550-02-3
+  646  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35382,14 +35272,14 @@ S T A T E  O F  N E W  Y O R K
  
  RECREATION SERVICES PROGRAM ................................. 51,436,000
   --------------
-
+ 
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Operating Grants Fund Account - 25383
  
  For services and expenses related to  grants
   for  park  operations  projects  including
-  651  12550-02-3
+  647  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35447,7 +35337,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ................... 143,000
  Contractual services (51000) ..................... 274,000
  Equipment (56000) ................................. 12,000
-  652  12550-02-3
+  648  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35462,7 +35352,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   OPR-Miscellaneous Gifts Account - 20104
-
+ 
  For  services  and  expenses  related to the
   recreation services program.
  Notwithstanding any other provision  of  law
@@ -35505,7 +35395,7 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) ................ 124,000
  Temporary service (50200) ........................ 161,000
  Holiday/overtime compensation (50300) .............. 5,000
-  653  12550-02-3
+  649  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35562,8 +35452,8 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ..................................... 3,500
  Contractual services (51000) ...................... 55,000
  Equipment (56000) .................................. 4,000
-  654  12550-02-3
-
+  650  12550-06-3
+ 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS  2023-24
@@ -35606,7 +35496,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (39910).
-
+ 
  Supplies and materials (57000) .................... 20,000
   --------------
   Program account subtotal ...................... 20,000
@@ -35620,7 +35510,7 @@ S T A T E  O F  N E W  Y O R K
   recreation services program.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
-  655  12550-02-3
+  651  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35669,7 +35559,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Seized Asset Account - 21986
-
+ 
  For services and  expenses  related  to  the
   recreation services program.
  Notwithstanding  any  other provision of law
@@ -35678,8 +35568,8 @@ S T A T E  O F  N E W  Y O R K
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
-  656  12550-02-3
- 
+  652  12550-06-3
+
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS  2023-24
@@ -35735,12 +35625,12 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) ................. 29,000
  Supplies and materials (57000) .................... 80,000
  Contractual services (51000) ...................... 40,000
-  657  12550-02-3
+  653  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS  2023-24
- 
+
  Equipment (56000) ................................ 120,000
  Fringe benefits (60000) ........................... 31,000
   --------------
@@ -35793,7 +35683,7 @@ S T A T E  O F  N E W  Y O R K
   and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
-  658  12550-02-3
+  654  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35816,7 +35706,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 11,000,000
   --------------
-  659  12550-02-3
+  655  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35827,7 +35717,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Operating Grants Fund Account - 25383
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related  to  the  administration program
   (81001).
@@ -35843,7 +35733,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 270,000 ............... (re. $270,000)
   Fringe benefits (60090) ... 46,000 ..................... (re. $46,000)
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
-
+ 
  By chapter 50, section 1, of the laws of 2020:
   For  services  and  expenses  related  to  the  administration program
   (81001).
@@ -35859,7 +35749,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 350,000 ............... (re. $205,000)
   Fringe benefits (60090) ... 46,000 ..................... (re. $46,000)
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
-
+ 
  By chapter 50, section 1, of the laws of 2018, as amended by chapter 50,
   section 1, of the laws of 2019:
   For  services  and  expenses  related  to  the  administration program
@@ -35868,14 +35758,14 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 350,000 ............... (re. $235,000)
   Fringe benefits (60090) ... 46,000 ..................... (re. $46,000)
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
- 
+
  By chapter 50, section 1, of the laws of 2017, as amended by chapter 50,
   section 1, of the laws of 2019:
   For services  and  expenses  related  to  the  administration  program
   (81001).
   Personal service (50000) ... 100,000 ................... (re. $42,000)
-  660  12550-02-3
-
+  656  12550-06-3
+ 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -35887,7 +35777,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Federal Indirect Recovery Account - 22188
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related to the administration of special
   revenue funds - other, special revenue funds - federal and  internal
@@ -35927,14 +35817,14 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 100,000 ......................... (re. $100,000)
   Fringe benefits (60000) ... 50,000 ..................... (re. $50,000)
   Indirect costs (58800) ... 10,000 ...................... (re. $10,000)
- 
+
  By chapter 50, section 1, of the laws of 2020:
   For  services  and  expenses  related to the administration of special
   revenue funds - other, special revenue funds - federal and  internal
-  661  12550-02-3
+  657  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   service  funds  and  for  services provided to other state agencies,
@@ -35989,7 +35879,7 @@ S T A T E  O F  N E W  Y O R K
   Temporary service (50200) ... 25,000 ................... (re. $25,000)
   Supplies and materials (57000) ... 65,000 .............. (re. $65,000)
   Travel (54000) ... 30,000 .............................. (re. $30,000)
-  662  12550-02-3
+  658  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -36045,10 +35935,10 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 31,000 ...................... (re. $31,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  663  12550-02-3
+  659  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   For services and expenses related to grants for historic  preservation
@@ -36057,7 +35947,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 601,000 ............... (re. $181,000)
   Fringe benefits (60090) ... 151,000 ................... (re. $151,000)
   Indirect costs (58850) ... 31,000 ...................... (re. $31,000)
- 
+
  PARK OPERATIONS PROGRAM
  
   Special Revenue Funds - Other
@@ -36103,12 +35993,12 @@ S T A T E  O F  N E W  Y O R K
   Temporary service (50200) ... 19,500,000 ............ (re. $1,767,000)
   Holiday/overtime compensation (50300) ... 1,200,000 ... (re. $200,000)
   Supplies and materials (57000) ... 25,094,000 ....... (re. $4,173,000)
-  664  12550-02-3
+  660  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   Travel (54000) ... 337,000 ............................ (re. $245,000)
   Contractual services (51000) ... 14,616,000 ......... (re. $8,179,000)
   Equipment (56000) ... 5,075,000 ..................... (re. $2,989,000)
@@ -36161,8 +36051,8 @@ S T A T E  O F  N E W  Y O R K
   projects including acquisition, research, development, education and
   rehabilitation of parklands, programs and facilities (39910).
   Personal service (50000) ... 1,500,000 ................ (re. $317,000)
-  665  12550-02-3
- 
+  661  12550-06-3
+
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -36170,7 +36060,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 2,550,000 ........... (re. $1,478,000)
   Fringe benefits (60090) ... 690,000 ................... (re. $690,000)
   Indirect costs (58850) ... 60,000 ...................... (re. $60,000)
-
+ 
  By chapter 50, section 1, of the laws of 2016:
   For  services  and  expenses  related  to  grants  for park operations
   projects including acquisition, research, development, education and
@@ -36218,7 +36108,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 125,000 ............... (re. $125,000)
   Fringe benefits (60090) ... 23,000 ..................... (re. $23,000)
   Indirect costs (58850) ... 2,000 ........................ (re. $2,000)
-  666  12550-02-3
+  662  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -36271,17 +36161,17 @@ S T A T E  O F  N E W  Y O R K
   budget is hereby authorized to transfer any or all of this appropri-
   ation to any capital projects fund or aid to localities (39945).
   Contractual services (51000) ... 1,200,000 .......... (re. $1,200,000)
-
+ 
  By chapter 50, section 1, of the laws of 2020:
   For services and expenses related to the recreation services program.
   Notwithstanding  any  other  provision of law to the contrary, the OGS
   Interchange and Transfer Authority and the IT Interchange and Trans-
-  667  12550-02-3
+  663  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   fer Authority as defined in the  2020-21  state  fiscal  year  state
   operations  appropriation  for  the  budget  division program of the
   division of the budget, are deemed fully incorporated herein  and  a
@@ -36299,7 +36189,7 @@ S T A T E  O F  N E W  Y O R K
   budget is hereby authorized to transfer any or all of this appropri-
   ation to any capital projects fund or aid to localities (39945).
   Contractual services (51000) ... 1,200,000 .......... (re. $1,200,000)
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Snowmobile Trail Development and Management Account - 21932
@@ -36334,7 +36224,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to the recreation services program.
   Notwithstanding any other provision of law to the  contrary,  the  OGS
   Interchange and Transfer Authority and the IT Interchange and Trans-
-  668  12550-02-3
+  664  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -36392,8 +36282,8 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to the recreation services program.
   Notwithstanding  any  other  provision of law to the contrary, the OGS
   Interchange and Transfer Authority and the IT Interchange and Trans-
-  669  12550-02-3
-
+  665  12550-06-3
+ 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -36450,8 +36340,8 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For services and expenses relating to the office of parks,  recreation
   and historic preservation's golf courses.
-  670  12550-02-3
-
+  666  12550-06-3
+ 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -36508,7 +36398,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 2,000,000 ..................... (re. $1,387,000)
   Fringe benefits (60000) ... 100,000 ................... (re. $100,000)
   Indirect costs (58800) ... 100,000 .................... (re. $100,000)
-  671  12550-02-3
+  667  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -36566,7 +36456,7 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 1,500,000 .......... (re. $336,000)
   Travel (54000) ... 100,000 ............................. (re. $20,000)
   Contractual services (51000) ... 100,000 ............... (re. $96,000)
-  672  12550-02-3
+  668  12550-06-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -36590,7 +36480,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 200,000 .......................... (re. $27,000)
   Fringe benefits (60000) ... 50,000 ...................... (re. $1,000)
   Indirect costs (58800) ... 50,000 ....................... (re. $1,000)
-  673  12550-02-3
+  669  12550-06-3
  
   OFFICE FOR THE PREVENTION OF DOMESTIC VIOLENCE
  
@@ -36600,16 +36490,16 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  3,185,000  0
+  General Fund .......................  2,885,000  0
   Special Revenue Funds - Federal ....  1,100,000  0
   Special Revenue Funds - Other ......  41,000  0
   Internal Service Funds .............  820,000  0
   ----------------  ----------------
-  All Funds ........................  5,146,000  0
+  All Funds ........................  4,846,000  0
   ================  ================
  
   SCHEDULE
-
+ 
  ADMINISTRATION PROGRAM ....................................... 5,146,000
   --------------
  
@@ -36629,7 +36519,7 @@ S T A T E  O F  N E W  Y O R K
   part of this  appropriation  as  if  fully
   stated (81001).
  
- Personal service--regular (50100) .............. 2,873,000
+ Personal service--regular (50100) .............. 2,573,000
  Supplies and materials (57000) .................... 64,000
  Travel (54000) .................................... 72,000
  Contractual services (51000) ..................... 159,000
@@ -36647,8 +36537,8 @@ S T A T E  O F  N E W  Y O R K
   ance and demonstration projects, including
   fringe benefits. A portion of these  funds
   may  be  transferred  to aid to localities
-  674  12550-02-3
-
+  670  12550-06-3
+ 
   OFFICE FOR THE PREVENTION OF DOMESTIC VIOLENCE
  
   STATE OPERATIONS  2023-24
@@ -36667,7 +36557,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Combined Expendable Trust Fund
   Grants and Bequest Account - 20167
- 
+
  For  services and expenses related to demon-
   stration  projects,  research,  training,
   technical  assistance,  and  evaluation
@@ -36705,10 +36595,10 @@ S T A T E  O F  N E W  Y O R K
  
   Internal Service Funds
   Agencies Internal Service Fund
-  675  12550-02-3
+  671  12550-06-3
  
   OFFICE FOR THE PREVENTION OF DOMESTIC VIOLENCE
- 
+
   STATE OPERATIONS  2023-24
  
   Domestic Violence Grant Account - 55067
@@ -36732,7 +36622,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 820,000
   --------------
-  676  12550-02-3
+  672  12550-06-3
  
   COMMISSION ON PROSECUTORIAL CONDUCT
  
@@ -36754,7 +36644,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For  services  and  expenses  related to the
   prosecutorial conduct program.
  Notwithstanding any other provision  of  law
@@ -36775,7 +36665,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ..................... 200,000
  Equipment (56000) ................................. 60,000
   --------------
-  677  12550-02-3
+  673  12550-06-3
  
   PUBLIC EMPLOYMENT RELATIONS BOARD
  
@@ -36811,7 +36701,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (81001).
- 
+
  Personal service--regular (50100) .............. 4,034,000
  Temporary service (50200) ........................ 324,000
  Supplies and materials (57000) .................... 36,000
@@ -36833,7 +36723,7 @@ S T A T E  O F  N E W  Y O R K
  Temporary service (50200) ........................ 240,000
  Supplies and materials (57000) .................... 13,000
  Travel (54000) .................................... 15,000
-  678  12550-02-3
+  674  12550-06-3
  
   PUBLIC EMPLOYMENT RELATIONS BOARD
  
@@ -36844,20 +36734,20 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 395,000
   --------------
-  679  12550-02-3
+  675  12550-06-3
  
   DEPARTMENT OF PUBLIC SERVICE
  
   STATE OPERATIONS  2023-24
- 
+
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
-  Special Revenue Funds - Federal ....  5,500,000  5,500,000
+ 
+  Special Revenue Funds - Federal ....  5,500,000  6,500,000
   Special Revenue Funds - Other ......  106,260,000  0
   ----------------  ----------------
-  All Funds ........................  111,760,000  5,500,000
+  All Funds ........................  111,760,000  6,500,000
   ================  ================
  
   SCHEDULE
@@ -36900,7 +36790,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   PSC-Pipeline Safety Grant Account - 25379
-  680  12550-02-3
+  676  12550-06-3
  
   DEPARTMENT OF PUBLIC SERVICE
  
@@ -36933,7 +36823,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (48602).
-
+ 
  Personal service--regular (50100) .............. 1,705,000
  Holiday/overtime compensation (50300) ............. 14,000
  Supplies and materials (57000) .................... 40,000
@@ -36949,7 +36839,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Public Service Account - 22011
- 
+
  For services and  expenses  related  to  the
   regulation of utilities program.
  Notwithstanding  any  other provision of law
@@ -36958,7 +36848,7 @@ S T A T E  O F  N E W  Y O R K
   and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
-  681  12550-02-3
+  677  12550-06-3
  
   DEPARTMENT OF PUBLIC SERVICE
  
@@ -36981,26 +36871,36 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 88,212,000
   --------------
-  682  12550-02-3
+  678  12550-06-3
  
   DEPARTMENT OF PUBLIC SERVICE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  REGULATION OF UTILITIES PROGRAM
+
+  Special Revenue Funds - Federal
+  Federal Miscellaneous Operating Grants Fund
+ 
+ By chapter 50, section 1, of the laws of 2021:
+  For  payment  of costs pursuant to section 224-c of the public service
+  law, including but not limited to a study of the availability, reli-
+  ability, and cost of highspeed internet and  broadband  services  in
+  New  York  state  and the on-line publication of a detailed internet
+  access map of the state ... 1,000,000 ............. (re. $1,000,000)
  
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   PSC-Pipeline Safety Grant Account - 25379
  
  By chapter 50, section 1, of the laws of 2022:
-  For  services  and  expenses  related  to  the regulation of utilities
+  For services and expenses  related  to  the  regulation  of  utilities
   program (48602).
   Personal service (50000) ... 3,057,000 .............. (re. $3,057,000)
   Nonpersonal service (57050) ... 839,000 ............... (re. $839,000)
   Fringe benefits (60090) ... 1,498,000 ............... (re. $1,498,000)
   Indirect costs (58850) ... 106,000 .................... (re. $106,000)
-  683  12550-02-3
+  679  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37009,12 +36909,12 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
-  General Fund .......................  19,687,000  186,000
+ 
+  General Fund .......................  30,687,000  186,000
   Special Revenue Funds - Federal ....  15,052,000  37,044,005
   Special Revenue Funds - Other ......  104,585,000  62,329,000
   ----------------  ----------------
-  All Funds ........................  139,324,000  99,559,005
+  All Funds ........................  150,324,000  99,559,005
   ================  ================
  
   SCHEDULE
@@ -37058,7 +36958,7 @@ S T A T E  O F  N E W  Y O R K
   analyses  of the operations, finances, and
   records of public authorities,  supporting
   and  enhancing  a  consolidated  public
-  684  12550-02-3
+  680  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37115,7 +37015,7 @@ S T A T E  O F  N E W  Y O R K
   business and licensing program,  including
   suballocation  to  other  departments  and
   agencies.
-  685  12550-02-3
+  681  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37136,7 +37036,7 @@ S T A T E  O F  N E W  Y O R K
   shall  be  net  of  refunds,  rebates,
   reimbursements,  credits,  repayments,
   and/or disallowance (51017).
- 
+
  Personal service--regular (50100) ............. 25,719,000
  Supplies and materials (57000) ................. 3,000,000
  Travel (54000) ................................... 550,000
@@ -37148,7 +37048,7 @@ S T A T E  O F  N E W  Y O R K
  
  CODE ENFORCEMENT PROGRAM ..................................... 2,327,000
   --------------
-
+ 
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Fire Prevention and Code Enforcement Account - 21904
@@ -37169,13 +37069,13 @@ S T A T E  O F  N E W  Y O R K
  
  CONSUMER PROTECTION PROGRAM ................................. 31,946,000
   --------------
-
+ 
   General Fund
   State Purposes Account - 10050
-  686  12550-02-3
+  682  12550-06-3
  
   DEPARTMENT OF STATE
- 
+
   STATE OPERATIONS  2023-24
  
  Notwithstanding  any  other provision of law
@@ -37197,7 +37097,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Consumer Protection Account - 25449
- 
+
  For  services  and  expenses  related  to
   surveillance,  outreach  and  other activ-
   ities  which  enhance  the  protection  of
@@ -37230,10 +37130,10 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service--regular (50100) ................ 697,000
  Supplies and materials (57000) ..................... 6,000
-  687  12550-02-3
+  683  12550-06-3
  
   DEPARTMENT OF STATE
-
+ 
   STATE OPERATIONS  2023-24
  
  Travel (54000) ..................................... 6,000
@@ -37286,7 +37186,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ................... 750,000
  Contractual services (51000) ................... 3,400,000
  Equipment (56000) ................................ 750,000
-  688  12550-02-3
+  684  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37297,7 +37197,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ...................... 16,000,000
   --------------
- 
+
  Notwithstanding  any  other provision of law
   to  the  contrary,  direct  and  indirect
   expenses relating to the activities of the
@@ -37344,7 +37244,7 @@ S T A T E  O F  N E W  Y O R K
   priation shall be acquired pursuant to the
   requirements  of  section 163 of the state
   finance law (51042).
-  689  12550-02-3
+  685  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37402,7 +37302,7 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
-  690  12550-02-3
+  686  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37414,7 +37314,7 @@ S T A T E  O F  N E W  Y O R K
   regional  grants program. The funds appro-
   priated herein may be transferred  to  aid
   to localities (51023).
-
+ 
  Personal service (50000) ......................... 657,000
  Nonpersonal service (57050) ...................... 278,000
  Fringe benefits (60090) ........................... 62,000
@@ -37439,7 +37339,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 4,500,000
   --------------
- 
+
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Code Enforcement Program Account - 25416
@@ -37460,7 +37360,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service (50000) ......................... 300,000
  Nonpersonal service (57050) ....................... 75,000
-  691  12550-02-3
+  687  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37473,7 +37373,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 1,200,000
   --------------
-
+ 
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Local Government Federal Programs Account - 25449
@@ -37507,6 +37407,22 @@ S T A T E  O F  N E W  Y O R K
   Program account subtotal...................... 154,000
   --------------
  
+ NEW YORK ASIAN AMERICAN AND PACIFIC ISLANDER COMMISSION ...... 1,000,000
+  --------------
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ For  services and expenses related to estab-
+  lishing the New York  Asian  American  and
+  Pacific Islander commission .................. 1,000,000
+  --------------
+  688  12550-06-3
+ 
+  DEPARTMENT OF STATE
+ 
+  STATE OPERATIONS  2023-24
+
  OFFICE FOR NEW AMERICANS ..................................... 2,500,000
   --------------
  
@@ -37518,22 +37434,38 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any other provision  of  law
   to  the  contrary, the OGS Interchange and
   Transfer Authority, and the IT Interchange
-  692  12550-02-3
- 
-  DEPARTMENT OF STATE
- 
-  STATE OPERATIONS  2023-24
- 
   and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (51046).
  
  Personal service--regular (50100) .............. 1,500,000
  Contractual Services (51000) ................... 1,000,000
+  --------------
+ 
+ OFFICE OF NATIVE AMERICAN AFFAIRS ............................ 5,000,000
+  --------------
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ For services and  expenses  related  to  the
+  establishment  of  the  office  of  Native
+  American affairs ............................. 5,000,000
+  --------------
+ 
+ OFFICE OF RACIAL EQUITY AND SOCIAL JUSTICE ................... 5,000,000
+  --------------
+ 
+  General Fund
+  State Purposes Account - 10050
+ 
+ For services and  expenses  related  to  the
+  establishment  of  the  office  of  racial
+  equity and social justice  ................... 5,000,000
   --------------
  
  STATE OF NEW YORK COMMISSION ON UNIFORM STATE LAWS ............. 155,000
@@ -37541,9 +37473,14 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
+  689  12550-06-3
  
- For  services  and  expenses  related to the
-  state of New York  commission  on  uniform
+  DEPARTMENT OF STATE
+ 
+  STATE OPERATIONS  2023-24
+ 
+ For services and  expenses  related  to  the
+  state  of  New  York commission on uniform
   state laws (51039).
  
  Contractual services (51000) ..................... 135,000
@@ -37575,12 +37512,6 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ...................... 85,000
  Equipment (56000) .................................. 2,000
   --------------
-  693  12550-02-3
- 
-  DEPARTMENT OF STATE
- 
-  STATE OPERATIONS  2023-24
-
   Program account subtotal ................... 1,168,000
   --------------
  
@@ -37590,22 +37521,27 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses related to the Tug
   Hill commission.
- Notwithstanding  any  other provision of law
-  to the contrary, the OGS  Interchange  and
+ Notwithstanding any other provision  of  law
+  to  the  contrary, the OGS Interchange and
   Transfer Authority, and the IT Interchange
-  and  Transfer  Authority as defined in the
+  and Transfer Authority as defined  in  the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  deemed  fully  incorporated  herein  and a
-  part of this  appropriation  as  if  fully
+  deemed fully  incorporated  herein  and  a
+  part  of  this  appropriation  as if fully
   stated (51038).
+  690  12550-06-3
+ 
+  DEPARTMENT OF STATE
+ 
+  STATE OPERATIONS  2023-24
  
  Contractual services (51000) ...................... 50,000
   --------------
   Program account subtotal ...................... 50,000
   --------------
-  694  12550-02-3
+  691  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37663,8 +37599,8 @@ S T A T E  O F  N E W  Y O R K
   operations appropriation for the  budget  division  program  of  the
   division  of  the budget, are deemed fully incorporated herein and a
   part of this appropriation as if fully stated.
-  695  12550-02-3
-
+  692  12550-06-3
+ 
   DEPARTMENT OF STATE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -37721,12 +37657,12 @@ S T A T E  O F  N E W  Y O R K
   to supply comprehensive consumer advocacy in matters pending  before
   the  New  York independent system operator and at the federal energy
   regulatory commission. The funds hereby appropriated shall be  spent
-  696  12550-02-3
+  693  12550-06-3
  
   DEPARTMENT OF STATE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   in  a manner consistent with an allocation and distribution proposal
   as heretofore filed by the department of public service and approved
   by the federal energy regulatory commission. All technical  experts,
@@ -37779,7 +37715,7 @@ S T A T E  O F  N E W  Y O R K
   to supply comprehensive consumer advocacy in matters pending  before
   the  New  York independent system operator and at the federal energy
   regulatory commission. The funds hereby appropriated shall be  spent
-  697  12550-02-3
+  694  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37836,7 +37772,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58850) ... 20,000 ...................... (re. $20,000)
  
  By chapter 50, section 1, of the laws of 2018:
-  698  12550-02-3
+  695  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -37894,8 +37830,8 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 257,000 ................... (re. $72,000)
   Nonpersonal service (57050) ... 78,000 ................. (re. $72,000)
   Fringe benefits (60090) ... 62,000 ...................... (re. $4,000)
-  699  12550-02-3
-
+  696  12550-06-3
+ 
   DEPARTMENT OF STATE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -37952,8 +37888,8 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 2,952,000 .............. (re. $1,290,000)
   Nonpersonal service (57050) ... 538,000 ................ (re. $73,000)
   Fringe benefits (60090) ... 985,000 ................... (re. $381,000)
-  700  12550-02-3
- 
+  697  12550-06-3
+
   DEPARTMENT OF STATE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -38010,7 +37946,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2021:
   For services and expenses of the code enforcement program (51036).
   Personal service (50000) ... 300,000 .................. (re. $300,000)
-  701  12550-02-3
+  698  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -38026,14 +37962,14 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 75,000 ................. (re. $75,000)
   Fringe benefits (60090) ... 150,000 ................... (re. $150,000)
   Indirect costs (58850) ... 75,000 ...................... (re. $75,000)
-
+ 
  By chapter 50, section 1, of the laws of 2019:
   For services and expenses of the code enforcement program (51036).
   Personal service (50000) ... 300,000 .................. (re. $300,000)
   Nonpersonal service (57050) ... 75,000 ................. (re. $75,000)
   Fringe benefits (60090) ... 150,000 ................... (re. $150,000)
   Indirect costs (58850) ... 75,000 ...................... (re. $75,000)
- 
+
  By chapter 50, section 1, of the laws of 2018:
   For services and expenses of the code enforcement program (51036).
   Personal service (50000) ... 300,000 .................. (re. $300,000)
@@ -38068,7 +38004,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 527,000 ............... (re. $527,000)
   Fringe benefits (60090) ... 57,000 ..................... (re. $57,000)
   Indirect costs (58850) ... 16,000 ...................... (re. $16,000)
-  702  12550-02-3
+  699  12550-06-3
  
   DEPARTMENT OF STATE
  
@@ -38108,7 +38044,8 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Special Revenue Fund
   Tug Hill Administration Account - 22044
  
- For services and expenses related to the Tug Hill commission.
+ By chapter 50, section 1, of the laws of 2022:
+  For services and expenses related to the Tug Hill commission.
  Notwithstanding any other provision of law  to  the  contrary,  the  OGS
   Interchange  and Transfer Authority, and the IT Interchange and Trans-
   fer Authority as defined in the 2022-23 state fiscal year state  oper-
@@ -38116,7 +38053,7 @@ S T A T E  O F  N E W  Y O R K
   of the budget, are deemed fully incorporated herein and a part of this
   appropriation as if fully stated (51038).
  Contractual services (51000) ... 50,000 .................. (re. $50,000)
-  703  12550-02-3
+  700  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38174,8 +38111,8 @@ S T A T E  O F  N E W  Y O R K
  
  For services and  expenses  related  to  the
   administration program (81001).
-  704  12550-02-3
- 
+  701  12550-06-3
+
   DIVISION OF STATE POLICE
  
   STATE OPERATIONS  2023-24
@@ -38231,7 +38168,7 @@ S T A T E  O F  N E W  Y O R K
  For services and expenses related to combat-
   ing  internet  crimes  against  children
   (50122).
-  705  12550-02-3
+  702  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38289,7 +38226,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  of  security
   services for the legislative office build-
   ing (50130).
-  706  12550-02-3
+  703  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38345,7 +38282,7 @@ S T A T E  O F  N E W  Y O R K
   of  law, the money hereby appropriated may
   be used for  the  payment  of  prior  year
   liabilities (50113).
-  707  12550-02-3
+  704  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38395,13 +38332,13 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (50116).
-
+ 
  Personal service--regular (50100) ............. 28,435,000
  Temporary service (50200) ...................... 1,995,000
  Holiday/overtime compensation (50300) .......... 2,365,000
  Supplies and materials (57000) ................ 15,115,000
  Travel (54000) ................................... 379,000
-  708  12550-02-3
+  705  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38457,7 +38394,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 5,000,000
   --------------
-  709  12550-02-3
+  706  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38474,7 +38411,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ....................... 1,501,000
   --------------
-
+ 
  Funds  herein  appropriated  may  be used to
   disburse unanticipated federal  grants  in
   support  of  various purposes and programs
@@ -38503,7 +38440,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 25,500,000
   --------------
- 
+
   Special Revenue Funds - Other
   State  Police  Motor  Vehicle  Law Enforcement and Motor
   Vehicle Theft and Insurance Fraud Prevention Fund
@@ -38515,7 +38452,7 @@ S T A T E  O F  N E W  Y O R K
  
  Personal service--regular (50100) .............. 4,000,000
  Supplies and materials (57000) ................. 2,404,000
-  710  12550-02-3
+  707  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38527,7 +38464,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................... 9,100,000
   --------------
-  711  12550-02-3
+  708  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38574,17 +38511,17 @@ S T A T E  O F  N E W  Y O R K
   Personal service (50000) ... 3,700,000 .............. (re. $1,741,000)
   Nonpersonal service (57050) ... 1,593,000 ........... (re. $1,593,000)
   Fringe benefits (60090) ... 1,163,000 ............... (re. $1,163,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For  services  and  expenses  related  to  commercial  vehicle  safety
   enforcement and other activities (50113).
   Nonpersonal service (57050) ... 1,593,000 ........... (re. $1,529,000)
   Fringe benefits (60090) ... 1,163,000 ................. (re. $531,000)
   Indirect costs (58850) ... 44,000 ...................... (re. $44,000)
- 
+
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
-  712  12550-02-3
+  709  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38609,7 +38546,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Miscellaneous Operating Grants Fund
   State  Police Federal Equitable Sharing Agreement - Treasury Account -
   25529
-
+ 
  By chapter 50, section 1, of the laws of 2017:
   For moneys to the division of state police for the treasury department
   federal equitable sharing agreement to be used for  law  enforcement
@@ -38627,7 +38564,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   State Police Account - 25362
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  related  to the investigation of illicit
   activities associated with the manufacture and distribution of meth-
@@ -38641,7 +38578,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 638,000 ............... (re. $638,000)
   Fringe benefits (60090) ... 108,000 ................... (re. $108,000)
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
-  713  12550-02-3
+  710  12550-06-3
  
   DIVISION OF STATE POLICE
  
@@ -38677,7 +38614,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 638,000 ............... (re. $524,000)
   Fringe benefits (60090) ... 108,000 .................... (re. $89,000)
   Indirect costs (58850) ... 4,000 ........................ (re. $4,000)
- 
+
  By chapter 50, section 1, of the laws of 2018:
   Funds herein appropriated may be used to disburse unanticipated feder-
   al grants in support of various purposes and programs (50103).
@@ -38693,8 +38630,8 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 14,000,000 ....... (re. $5,181,000)
   Contractual services (51000) ... 10,500,000 ......... (re. $4,880,000)
   Equipment (56000) ... 1,000,000 ....................... (re. $985,000)
-  714  12550-02-3
- 
+  711  12550-06-3
+
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
@@ -38705,16 +38642,16 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund .......................  2,455,457,000  0
   Special Revenue Funds - Federal ....  442,850,000  640,381,000
-  Special Revenue Funds - Other ......  8,708,799,400  788,094,000
+  Special Revenue Funds - Other ......  8,873,412,433  788,094,000
   Internal Service Funds .............  24,300,000  0
   ----------------  ----------------
-  All Funds ........................  11,631,406,400  1,428,475,000
+  All Funds ........................  11,796,019,433  1,428,475,000
   ================  ================
  
   SCHEDULE
  
   GENERAL FUND
- 
+
  EMPLOYEE FRINGE BENEFITS ................................. 1,955,457,000
   --------------
  
@@ -38747,46 +38684,54 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For state matching contributions  to  endow-
-  ments  of  the  four university centers of
-  the  state  university  of  New  York  as
-  715  12550-02-3
+  ments  of the colleges and universities of
+  the state university of New York, provided
+  712  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
- 
-  defined  in  section  352 of the education
-  law, provided that such matching  contrib-
-  utions  shall  provide one dollar of state
-  matching  funds  for  every two dollars of
-  new private donations contributed  to  the
-  foundation  endowments  of  the university
-  centers at  Albany,  Binghamton,  Buffalo,
-  and  Stony  Brook,  not  to  exceed
-  $500,000,000  in  total  state  matching
-  contributions;  and  provided further that
-  payment  of  such  matching  contributions
-  shall  be  pursuant to a plan developed by
-  the state university and approved  by  the
-  director of the budget, and such plan at a
-  minimum  shall: (i) require annual report-
-  ing on the allocation  of  state  matching
-  contributions and an accounting of private
-  donations to the university center founda-
-  tions  secured for state matching contrib-
-  utions; (ii) require use of such  matching
-  contributions to support the employment of
-  faculty  members,  student  financial aid,
-  grants  for  research  and  development,
-  and/or  any other program or function that
-  supports university center operations; and
-  (iii) align with student  needs,  program-
-  matic  needs,  and  the diversity, equity,
-  and  inclusion  activities  of  the  state
-  university of New York ....................  500,000,000
 
+  that  such  matching  contributions  shall
+  provide one dollar of state matching funds
+  for  every  two  dollars  of  new  private
+  donations  contributed  to  the foundation
+  endowments  for  SUNY  universities  and
+  colleges whose eligibility shall be deter-
+  mined  by  the  Board  of  Trustees of the
+  State  University  of  New  York,  not  to
+  exceed  $500,000,000 in total state match-
+  ing contributions;  and  provided  further
+  that  payment  of  such  matching contrib-
+  utions shall be pursuant to a plan  devel-
+  oped  by the state university and approved
+  by the director of the  budget,  and  such
+  plan at a minimum shall: (i) require annu-
+  al  reporting  on  the allocation of state
+  matching contributions and  an  accounting
+  of  private  donations  secured  for state
+  matching contributions; (ii)  require  use
+  of  such matching contributions to support
+  the employment of faculty members, student
+  financial aid,  grants  for  research  and
+  development,  and/or  any other program or
+  function that supports  SUNY  universities
+  and colleges; and (iii) align with student
+  needs,  programmatic needs, and the diver-
+  sity, equity, and inclusion activities  of
+  the  state  university  of New York. Addi-
+  tionally,  each  foundation  shall  enter
+  into,  or  amend,  a  contract  with their
+  respective university center of the  state
+  university of New York that provides, at a
+  minimum,  the services the foundation will
+  provide  and  the  elements  of  the  plan
+  approved  by  the  director of the budget,
+  which is subject to  audit  by  the  State
+  Comptroller ...............................  500,000,000
+ 
  Total general fund support ................. 2,455,457,000
   --------------
  
@@ -38801,6 +38746,12 @@ S T A T E  O F  N E W  Y O R K
  
  For services and expenses, including grants,
   relating  to  the  federal  supplemental
+  713  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
   educational  opportunity  grant  program
   (50949) ...................................... 8,000,000
  For  services  and  expenses  related to the
@@ -38808,18 +38759,13 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 22,000,000
   --------------
-  716  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Federal
   Federal Education Fund
   Federal Teach Grant Aid Account - 25215
  
  For services and expenses, including grants,
-  related  to  the  federal  teach grant aid
+  related to the  federal  teach  grant  aid
   program (50951) ............................. 20,000,000
   --------------
   Program account subtotal .................. 20,000,000
@@ -38828,9 +38774,9 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Education Fund
   Iraq and Afghanistan Service Award Account - 25218
-
- For services and  expenses  related  to  the
-  federal  scholarship for individuals whose
+ 
+ For  services  and  expenses  related to the
+  federal scholarship for individuals  whose
   parents  served  in  Iraq  or  Afghanistan
   after September 11, 2001 (50925) ............... 100,000
   --------------
@@ -38842,35 +38788,35 @@ S T A T E  O F  N E W  Y O R K
   SUNY Pell Program Account - 25218
  
  For services and expenses, including grants,
-  related  to the federal Pell grant program
+  related to the federal Pell grant  program
   (50945) .................................... 400,000,000
   --------------
   Program account subtotal ................. 400,000,000
   --------------
- 
+
   Special Revenue Funds - Federal
   Federal Health and Human Services Fund
   Federal Scholarship Account - 25114
  
- For services and  expenses  related  to  the
+ For  services  and  expenses  related to the
   federal  scholarship  for  disadvantaged
   students program (50950) ....................... 750,000
   --------------
   Program account subtotal ..................... 750,000
   --------------
+  714  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
  
  Total special revenue funds - federal ........ 442,850,000
   --------------
  
   SPECIAL REVENUE FUNDS - OTHER
- 
+
  DORMITORY INCOME REIMBURSABLE .............................. 343,400,000
   --------------
-  717  12550-02-3
-
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
@@ -38914,6 +38860,11 @@ S T A T E  O F  N E W  Y O R K
   priation  upon  direction  of  the  state
   university of New York (50941) .............. 34,000,000
   --------------
+  715  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
  
  STATE UNIVERSITY  DOCTORAL  AND  STATE  UNIVERSITY  HEALTH
   SCIENCE CAMPUSES ......................................... 470,906,200
@@ -38922,11 +38873,6 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   State University Income Fund
   State University Revenue Offset Account - 22655
-  718  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
  
  Notwithstanding  any other provision of law,
   for  the  purpose  of  subdivision  4  of
@@ -38972,6 +38918,12 @@ S T A T E  O F  N E W  Y O R K
   mental  fee  payments  for  professional
   services  provided  by  physicians,  nurse
   practitioners and physician assistants who
+  716  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
   are  participating  in  a  plan  for  the
   management  of  clinical  practice  at the
   state university of New York while  acting
@@ -38980,12 +38932,6 @@ S T A T E  O F  N E W  Y O R K
   of the budget, in accordance with  federal
   law  and regulation and subject to federal
   financial participation .................... 131,760,600
-  719  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
  For  services  and  expenses  of  the  state
   university of New York at Stony Brook.
  Notwithstanding  any  provision of law, rule
@@ -39030,6 +38976,12 @@ S T A T E  O F  N E W  Y O R K
   university  health science center at Syra-
   cuse.  Notwithstanding  any  provision  of
   law,  rule  or regulation to the contrary,
+  717  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
   so much of this appropriation  as  may  be
   needed  shall be available for transfer to
   the department of health, medical  assist-
@@ -39038,19 +38990,13 @@ S T A T E  O F  N E W  Y O R K
   share of any supplemental fee payments for
   professional  services  provided by physi-
   cians, nurse practitioners  and  physician
-  720  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
   assistants who are participating in a plan
   for the management of clinical practice at
   the  state  university  of  New York while
-  acting  in their capacity as a participant
-  in such plan, at levels  approved  by  the
-  division  of  budget,  in  accordance with
-  federal law and regulation and subject  to
+  acting in their capacity as a  participant
+  in  such  plan,  at levels approved by the
+  division of  budget,  in  accordance  with
+  federal  law and regulation and subject to
   federal financial participation ............. 37,959,800
  For  services  and  expenses  of  the  state
   university  college  of  environmental
@@ -39061,32 +39007,38 @@ S T A T E  O F  N E W  Y O R K
  
  STATE UNIVERSITY COLLEGES .................................. 169,320,500
   --------------
- 
+
   Special Revenue Funds - Other
   State University Income Fund
   State University Revenue Offset Account - 22655
  
- Notwithstanding any other provision of  law,
+ Notwithstanding  any other provision of law,
   for  the  purpose  of  subdivision  4  of
-  section 355  of  the  education  law,  the
-  separate  amounts  appropriated herein for
-  state university colleges shall be  deemed
-  to  be amounts appropriated to state-oper-
+  section  355  of  the  education  law, the
+  separate amounts appropriated  herein  for
+  state  university colleges shall be deemed
+  to be amounts appropriated to  state-oper-
   ated institutions and amounts appropriated
-  to individual state-operated  institutions
+  to  individual state-operated institutions
   shall be deemed to be amounts appropriated
   for programs or purposes.
- Provided  further,  that  a  portion  of the
+ Provided further,  that  a  portion  of  the
   funds appropriated herein shall be used to
   implement  a  plan  to  improve  educator
   effectiveness by:
- (1)  increasing  admissions requirements for
-  all state university  teacher  preparation
+ (1) increasing admissions  requirements  for
+  all  state  university teacher preparation
   programs; and
- (2)  upgrading  the  curriculum and require-
-  ments for these programs,  which  includes
+ (2) upgrading the  curriculum  and  require-
+  ments  for  these programs, which includes
   increasing  opportunities  for  in-school
   experience  to  better  prepare  aspiring
+  718  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
   teachers to enter the classroom upon grad-
   uation.
  For payment to the state university colleges
@@ -39095,12 +39047,6 @@ S T A T E  O F  N E W  Y O R K
   university college at Brockport ............. 15,479,800
  For  services  and  expenses  of  the  state
   university college at Buffalo ............... 21,191,300
-  721  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
  For  services  and  expenses  of  the  state
   university college at Cortland .............. 12,390,400
  For  services  and  expenses  of  the  state
@@ -39134,30 +39080,30 @@ S T A T E  O F  N E W  Y O R K
   State University Income Fund
   State University Revenue Offset Account - 22655
  
- Notwithstanding any other provision of  law,
+ Notwithstanding  any other provision of law,
   for  the  purpose  of  subdivision  4  of
-  section 355  of  the  education  law,  the
-  separate  amounts  appropriated herein for
-  state university  colleges  of  technology
-  and  agriculture,  shall  be  deemed to be
+  section  355  of  the  education  law, the
+  separate amounts appropriated  herein  for
+  state  university  colleges  of technology
+  and agriculture, shall  be  deemed  to  be
   amounts  appropriated  to  state-operated
-  institutions  and  amounts appropriated to
+  institutions and amounts  appropriated  to
   individual  state-operated  institutions
   shall be deemed to be amounts appropriated
   for programs or purposes.
- Provided  further,  that  a  portion  of the
+  719  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
+ Provided further,  that  a  portion  of  the
   funds appropriated herein shall be used to
   implement  a  plan  to  improve  educator
   effectiveness by:
  (1)  increasing  admissions requirements for
   all state university  teacher  preparation
   programs; and
-  722  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
  (2)  upgrading  the  curriculum and require-
   ments for these programs,  which  includes
   increasing  opportunities  for  in-school
@@ -39188,7 +39134,7 @@ S T A T E  O F  N E W  Y O R K
   tute ........................................ 11,176,600
   --------------
  
- UNIVERSITY-WIDE PROGRAMS ................................... 179,279,800
+ UNIVERSITY-WIDE PROGRAMS ................................... 219,253,866
   --------------
  
   Special Revenue Funds - Other
@@ -39203,23 +39149,25 @@ S T A T E  O F  N E W  Y O R K
   administration  of  honor  scholarships
   (50976) ........................................ 621,900
  For tuition  awards  to  recipients  of  the
-  Maritime  appointments  program  at  SUNY
-  Maritime (50974) ............................... 239,600
- For expenses of the federal Perkins,  health
-  professions  and  nursing  student  loan
-  programs;  the  supplemental  educational
-  opportunity grant program; and the college
-  work study program (50980) ................... 3,114,100
-  723  12550-02-3
+  720  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
  
+  Maritime  appointments  program  at  SUNY
+  Maritime (50974) ............................... 239,600
+ For  additional services and expenses of the
+  Maritime appointments program ................ 1,000,000
+ For expenses of the federal Perkins,  health
+  professions  and  nursing  student  loan
+  programs;  the  supplemental  educational
+  opportunity grant program; and the college
+  work study program (50980) ................... 3,114,100
  For  the  payment of financial assistance to
   certain categories of  regularly  enrolled
   full-time  students  at  state-operated
-  institutions  of  the  state university of
+  institutions of the  state  university  of
   New York (50978) ............................. 1,570,700
  For graduate diversity fellowships (50975) ..... 6,639,300
  For  services  and  expenses  of  providing
@@ -39228,56 +39176,67 @@ S T A T E  O F  N E W  Y O R K
  
  OPPORTUNITY AND DIVERSITY PROGRAMS
  
- For services and  expenses  related  to  the
-  office  of diversity and educational equi-
+ For  services  and  expenses  related to the
+  office of diversity and educational  equi-
   ty, including personnel costs of the state
   university of New York hispanic leadership
   institute (50972) .............................. 591,400
  For  services  and  expenses  of  the  state
   university of New York hispanic leadership
   institute (50807) .............................. 350,000
- For  services  and  expenses  of  the Native
+ For services  and  expenses  of  the  Native
   American program (50444) ....................... 215,200
- For services and expenses  of  the  trustees
+ For  services  and  expenses of the trustees
   underrepresented  faculty  initiative
   (50988) ........................................ 422,000
  Educational  opportunity  programs,  for
-  services  and  expenses to expand opportu-
-  nities in institutions of higher  learning
+  services and expenses to  expand  opportu-
+  nities  in institutions of higher learning
   for  the  educationally  and  economically
-  disadvantaged in accordance  with  chapter
-  917  of  the laws of 1970, for educational
-  opportunity programs on  state  university
+  disadvantaged  in  accordance with chapter
+  917 of the laws of 1970,  for  educational
+  opportunity  programs  on state university
   campuses, a summer program and educational
-  opportunity  programs  in state university
+  opportunity programs in  state  university
   community colleges (50971) .................. 42,464,400
- For services and  expenses  related  to  the
-  operation  of  educational  opportunity
-  centers  and  their  outreach  programs
-  including,  but  not limited to, necessary
-  programs, services, and financial  assist-
-  ance,  for  educationally and economically
-  disadvantaged adults, recipients of feder-
-  al temporary assistance to needy  families
-  (TANF)  and  out-of-school  youth who have
-  attained the age of 16  years.  $6,050,000
-  of  this  appropriation  shall be used for
-  the services and expenses related  to  the
-  operation  of  the ATTAIN lab program. For
-  the purpose  of  this  appropriation,  the
-  term "economically disadvantaged" shall be
-  defined  as  set  forth  in  regulations
-  724  12550-02-3
+ For  additional  services  and  expenses  to
+  expand opportunities  in  institutions  of
+  higher  learning for the educationally and
+  economically disadvantaged  in  accordance
+  with  chapter 917 of the laws of 1970, for
+  educational opportunity programs on  state
+  university  campuses, a summer program and
+  721  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
  
+  educational opportunity programs in  state
+  university community colleges ................ 4,377,033
+ For  services  and  expenses  related to the
+  operation  of  educational  opportunity
+  centers  and  their  outreach  programs
+  including, but not limited  to,  necessary
+  programs,  services, and financial assist-
+  ance, for educationally  and  economically
+  disadvantaged adults, recipients of feder-
+  al  temporary assistance to needy families
+  (TANF) and out-of-school  youth  who  have
+  attained  the  age of 16 years. $6,050,000
+  of this appropriation shall  be  used  for
+  the  services  and expenses related to the
+  operation of the ATTAIN lab  program.  For
+  the  purpose  of  this  appropriation, the
+  term "economically disadvantaged" shall be
+  defined  as  set  forth  in  regulations
   promulgated  by  the  state  university
   (50970) ..................................... 72,639,900
+ For additional services and expenses of  the
+  educational opportunity centers .............. 7,260,000
  
  STRATEGIC PRIORITIES AND SYSTEM-WIDE RESOURCES
-
+ 
  For  services  and  expenses  of  the empire
   innovation program (50985) ................... 9,497,400
  For services and expenses of  the  strategic
@@ -39304,6 +39263,12 @@ S T A T E  O F  N E W  Y O R K
   establishment of the central New York cord
   blood  center  at  the  state  university
   health science center at Syracuse (50999) ...... 205,600
+  722  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
  For services and expenses related to expand-
   ing capacity in campus programs for  which
   there  is a demonstrated economic develop-
@@ -39325,12 +39290,6 @@ S T A T E  O F  N E W  Y O R K
   study abroad, international  exchange  and
   recruiting  international  students  to
   provide additional revenue for campuses to
-  725  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
-
   increase  in-state  resident  enrollment
   (50404) ...................................... 1,800,000
  For services and expenses to provide faculty
@@ -39362,62 +39321,72 @@ S T A T E  O F  N E W  Y O R K
   computer  center, including the telecommu-
   nications network and Open SUNY (50989) ...... 4,764,400
  For services and expenses of the library and
-  educational technology programs, including
-  Open SUNY (50994) ............................ 5,081,600
- For  expenses  of  university-wide  student
-  governance (50987) .............................. 57,100
- For  services  and  expenses  of the library
-  conservation program (50443) ................... 350,000
- For services and expenses  of  the  adminis-
-  tration of charter schools (50446) ............. 848,600
- For  services  and  expenses  of  multimedia
-  services, including the New  York  Network
-  (50992) ........................................ 118,500
- For  services  and  expenses of the New York
-  state  veterinary  college  at  Cornell
-  (50407) ........................................ 500,000
- For  services  and  expenses of the staffing
-  and research faculty at the state  univer-
-  sity polytechnic institute (50412) ............. 500,000
- For  services and expenses of the center for
-  women in government (50892) .................... 100,000
- For  services  and  expenses  related  to
-  726  12550-02-3
+  723  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
  
+  educational technology programs, including
+  Open SUNY (50994) ............................ 5,081,600
+ For  expenses  of  university-wide  student
+  governance (50987) .............................. 57,100
+ For services and  expenses  of  the  library
+  conservation program (50443) ................... 350,000
+ For  services  and  expenses of the adminis-
+  tration of charter schools (50446) ............. 848,600
+ For  services  and  expenses  of  multimedia
+  services,  including  the New York Network
+  (50992) ........................................ 118,500
+ For services and expenses of  the  New  York
+  state  veterinary  college  at  Cornell
+  (50407) ........................................ 500,000
+ For services and expenses  of  the  staffing
+  and  research faculty at the state univer-
+  sity polytechnic institute (50412) ............. 500,000
+ For services and expenses of the center  for
+  women in government (50892) .................... 100,000
+ For  services  and  expenses  related  to
   increasing  access  to  mental  health
   services (50914) ............................. 1,000,000
+ For  additional  services  and  expenses  of
+  increasing mental health services ............ 1,000,000
+ For services and expenses of the Black Lead-
+  ership Institute ............................... 350,000
  For  services  and  expenses  of  the  state
   university of New York institute for lead-
   ership and diversity and inclusion (50808) ..... 200,000
- For services and expenses of the  university
-  at  Buffalo  school of law family violence
+ For  services and expenses of the university
+  at Buffalo school of law  family  violence
   and women's rights clinic (50895) ............... 50,000
   --------------
-  Subtotal - university-wide programs ........ 179,279,800
+  Subtotal - university-wide programs ........ 219,253,866
   --------------
  
- SYSTEM ADMINISTRATION ...................................... 286,144,300
+ SYSTEM ADMINISTRATION ...................................... 436,770,300
   --------------
  
   Special Revenue Funds - Other
   State University Income Fund
   State University Revenue Offset Account - 22655
  
- For services and expenses for system  admin-
-  istration,  including  minority  and women
+ For  services and expenses for system admin-
+  istration, including  minority  and  women
   business  enterprise  contracting  and
-  purchasing  and the internal and independ-
+  purchasing and the internal and  independ-
   ent audit programs.
  Provided further, $18,000,000 of this appro-
   priation  shall  be  made  available  for
-  services  and  expenses  of state-operated
-  campuses to be distributed according to  a
+  services and  expenses  of  state-operated
+  campuses  to be distributed according to a
+  724  12550-06-3
+
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
   plan  approved  by  the  state  university
-  board of trustees, a portion of which  may
+  board  of trustees, a portion of which may
   be used to support new classroom faculty.
  Provided  further, $4,000,000 of this appro-
   priation  shall  be  made  available  for
@@ -39440,12 +39409,6 @@ S T A T E  O F  N E W  Y O R K
   by the chancellor of the state  university
   of  New York and the chair of each council
   shall be one of the constituent  community
-  727  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
   college  presidents,  or his or her desig-
   nee; provided further, under the oversight
   of  the  chancellor  and  subject  to  the
@@ -39469,44 +39432,44 @@ S T A T E  O F  N E W  Y O R K
   campuses to be distributed as general fund
   operating support pursuant to subparagraph
   (4-b)  of  paragraph h of subdivision 2 of
-  section 355 of the education law (50897) .... 62,340,000
+  section 355 of the education law (50897) .... 48,966,000
  For services and expenses of  new  full-time
   faculty  at  state-operated  campuses  and
   community  colleges;  provided  that  a
   portion  of  the funds herein appropriated
-  may be transferred to the general fund-lo-
-  cal  assistance  account  of  the  state
-  university  of  New York to accomplish the
-  purposes of this appropriation and to make
-  payments to  community  colleges  for  new
-  full-time faculty; provided, further, that
-  a  portion  of  this  appropriation may be
-  transferred to  the  miscellaneous  -  all
-  state  departments  and  agencies, general
-  state  charges  program,  for  payment  of
-  employee  fringe  benefits associated with
-  such new full-time faculty (50898) .......... 53,000,000
- For  additional  operating  assistance  at
-  state-operated  campuses and statutory and
-  contract  colleges;  provided  that  such
-  funds  shall  be  allocated  pursuant to a
-  plan approved by the director of the budg-
-  et .......................................... 60,000,000
- For nonrecurring investments in  transforma-
-  tional  initiatives  at  state-operated
-  campuses, statutory and contract colleges,
-  and community colleges, including but  not
-  limited  to  investments  to support inno-
-  vation, help meet the workforce  needs  of
-  728  12550-02-3
+  725  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS  2023-24
  
+  may be transferred to the general fund-lo-
+  cal  assistance  account  of  the  state
+  university  of  New York to accomplish the
+  purposes of this appropriation and to make
+  payments  to  community  colleges  for new
+  full-time faculty; provided, further, that
+  a portion of  this  appropriation  may  be
+  transferred  to  the  miscellaneous  - all
+  state departments  and  agencies,  general
+  state  charges  program,  for  payment  of
+  employee fringe benefits  associated  with
+  such new full-time faculty (50898) .......... 53,000,000
+ For  additional  operating  assistance  at
+  state-operated campuses and statutory  and
+  contract  colleges;  provided  that  such
+  funds shall be  allocated  pursuant  to  a
+  plan approved by the director of the budg-
+  et .......................................... 60,000,000
+ For  nonrecurring investments in transforma-
+  tional  initiatives  at  state-operated
+  campuses, statutory and contract colleges,
+  and  community colleges, including but not
+  limited to investments  to  support  inno-
+  vation,  help  meet the workforce needs of
   the  future,  enhance  student  support
   services,  improve  academic  programs,
-  increase  enrollment, and modernize campus
+  increase enrollment, and modernize  campus
   operations; provided that such funds shall
   be  allocated  pursuant to a plan approved
   by the director of  the  budget;  provided
@@ -39516,9 +39479,13 @@ S T A T E  O F  N E W  Y O R K
   the  state  university of New York to make
   payments to community colleges  to  accom-
   plish the purposes of this appropriation .... 75,000,000
+ For  additional  operating  assistance  at
+  senior colleges ............................ 151,000,000
+ For the  elimination  of  student  fees  for
+  graduate students ........................... 13,000,000
   --------------
  Total of state-operated institutions general
-  operating schedule ....................... 1,159,618,700
+  operating schedule ....................... 1,322,231,733
   --------------
  
  ALL STATE UNIVERSITY COLLEGES AND SCHOOLS ................ 1,922,663,800
@@ -39527,20 +39494,25 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   State University Income Fund
   State University Revenue Offset Account - 22655
+  726  12550-06-3
+ 
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
  
  For services and expenses of state universi-
   ty  operations  supported  in  whole or in
   part by tuition.  Notwithstanding  section
   23  of  the public lands law, expenditures
-  from this appropriation  may  include  the
+  from  this  appropriation  may include the
   proceeds  deposited  from  the  sale  of
   surplus state university property (50939). 1,922,663,800
   --------------
  
  Total  gross  operating  -  state-operated
-  institutions support ..................... 3,082,282,500
+  institutions support ..................... 3,244,895,533
   --------------
- 
+
  STATE UNIVERSITY STATUTORY AND CONTRACT COLLEGES ........... 129,319,800
   --------------
  
@@ -39548,33 +39520,27 @@ S T A T E  O F  N E W  Y O R K
   State University Income Fund
   State University Revenue Offset Account - 22655
  
- For  payment  to  the  statutory or contract
-  colleges, as defined by subdivision  3  of
+ For payment to  the  statutory  or  contract
+  colleges,  as  defined by subdivision 3 of
   section 350 of the education law.
- Notwithstanding  any provision of law to the
-  contrary, the separate  amounts  appropri-
+ Notwithstanding any provision of law to  the
+  contrary,  the  separate amounts appropri-
   ated herein for the statutory and contract
-  colleges  may not be decreased by transfer
-  or interchange  with  appropriations  made
-  729  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
-  for  doctoral and health science campuses,
+  colleges may not be decreased by  transfer
+  or  interchange  with  appropriations made
+  for doctoral and health science  campuses,
   state university colleges, state universi-
-  ty colleges of technology and  agriculture
+  ty  colleges of technology and agriculture
   or system administration.
- For  services  and  expenses of the New York
+ For services and expenses of  the  New  York
   state college of Ceramics - Alfred Univer-
   sity (50939) ................................. 8,088,100
- For services and expenses of  the  New  York
+ For  services  and  expenses of the New York
   state statutory colleges - Cornell univer-
   sity (50962) ................................ 78,913,000
  For  services  and  expenses  to  support
-  research conducted at the New  York  state
-  veterinary  college at Cornell into canine
+  research  conducted  at the New York state
+  veterinary college at Cornell into  canine
   diseases  affecting  humans  and  animals
   (50961) ........................................ 138,000
  For Cornell land scrip (50960) .................... 35,000
@@ -39586,22 +39552,27 @@ S T A T E  O F  N E W  Y O R K
   Amount  available  -  New  York  statutory
   colleges - Cornell University ............ 121,231,700
   --------------
+  727  12550-06-3
  
- Total  of  statutory  and  contract colleges
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+ 
+ Total of  statutory  and  contract  colleges
   support .................................... 129,319,800
   --------------
  
  Total  gross  operating  -  state-operated
-  institutions  and  statutory  and contract
-  college support .......................... 3,211,602,300
+  institutions and  statutory  and  contract
+  college support .......................... 3,374,215,333
   --------------
-
+ 
  GENERAL INCOME REIMBURSABLE ................................ 837,800,000
   --------------
  
   Special Revenue Funds - Other
   State University Income Fund
-  State University General Income Reimbursable  Account  -
+  State  University  General Income Reimbursable Account -
   22653
  
  For  services  and  expenses  of  activities
@@ -39614,12 +39585,6 @@ S T A T E  O F  N E W  Y O R K
  
   Special Revenue Funds - Other
   State University Income Fund
-  730  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
-
-  STATE OPERATIONS  2023-24
- 
   State University Hospitals Income Reimbursable Account -
   22656
  
@@ -39643,7 +39608,12 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ................. 100,000,000
   --------------
+  728  12550-06-3
  
+  STATE UNIVERSITY OF NEW YORK
+ 
+  STATE OPERATIONS  2023-24
+
  LONG ISLAND VETERANS' HOME REIMBURSABLE ..................... 56,580,000
   --------------
  
@@ -39672,17 +39642,11 @@ S T A T E  O F  N E W  Y O R K
   university to the director of  the  budget
   and  the  chairs  of  the  senate  finance
   committee and the assembly ways and  means
-  731  12550-02-3
- 
-  STATE UNIVERSITY OF NEW YORK
- 
-  STATE OPERATIONS  2023-24
- 
   committee  on  or  before October 15, 2023
   (50931) .................................... 151,900,000
   --------------
-
- Total special revenue funds - other ........ 8,708,799,400
+ 
+ Total special revenue funds - other ........ 8,873,412,433
   --------------
  
   INTERNAL SERVICE FUNDS
@@ -39693,16 +39657,16 @@ S T A T E  O F  N E W  Y O R K
   Internal Service Funds
   Agencies Internal Service Fund
   Banking Services Account - 55057
- 
+
  For services and expenses in connection with
   the purchase of banking services (50932) .... 24,300,000
   --------------
  Total internal service funds .................. 24,300,000
   --------------
-  732  12550-02-3
+  729  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  STUDENT AID
@@ -39753,14 +39717,14 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses, including grants, related to the federal
   teach grant aid program (50951) ... 20,000,000 ... (re. $18,640,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021:
   For services and expenses, including grants, related  to  the  federal
   teach grant aid program (50951) ... 20,000,000 ... (re. $16,283,000)
-  733  12550-02-3
+  730  12550-06-3
  
   STATE UNIVERSITY OF NEW YORK
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  By chapter 50, section 1, of the laws of 2020:
@@ -39814,8 +39778,8 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2020:
   For services and expenses, including grants, related  to  the  federal
   Pell grant program (50945) ... 400,000,000 ....... (re. $93,468,000)
-  734  12550-02-3
- 
+  731  12550-06-3
+
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -39866,14 +39830,14 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   State University Income Fund
   State University Revenue Offset Account - 22655
-
+ 
  By chapter 50, section 1, of the laws of 2022:
   For  nonrecurring  strategic  investments  in state-operated campuses,
   statutory and contract colleges, state university of New York hospi-
   tals and community colleges, including but not  limited  to  invest-
   ments  to  improve  academic  programs, increase enrollment, enhance
-  735  12550-02-3
- 
+  732  12550-06-3
+
   STATE UNIVERSITY OF NEW YORK
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -39896,12 +39860,12 @@ S T A T E  O F  N E W  Y O R K
   For  services and expenses of activities supported in whole or in part
   by user fees and other charges (50938) .............................
   837,800,000 ..................................... (re. $746,838,000)
-  736  12550-02-3
+  733  12550-06-3
  
   STATEWIDE FINANCIAL SYSTEM
  
   STATE OPERATIONS  2023-24
-
+ 
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -39910,7 +39874,7 @@ S T A T E  O F  N E W  Y O R K
   ----------------  ----------------
   All Funds ........................  32,009,000  0
   ================  ================
- 
+
   SCHEDULE
  
  STATEWIDE FINANCIAL SYSTEM PROGRAM .......................... 32,009,000
@@ -39942,7 +39906,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) .................. 16,591,000
  Equipment (56000) ................................. 87,000
   --------------
-  737  12550-02-3
+  734  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
@@ -39998,7 +39962,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-  738  12550-02-3
+  735  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
@@ -40028,7 +39992,7 @@ S T A T E  O F  N E W  Y O R K
  
  NEW YORK STATE IS OPEN FOR BUSINESS PROGRAM .................... 250,000
   --------------
- 
+
   General Fund
   State Purposes Account - 10050
  
@@ -40056,12 +40020,12 @@ S T A T E  O F  N E W  Y O R K
   and  Transfer  Authority as defined in the
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
-  739  12550-02-3
+  736  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
   STATE OPERATIONS  2023-24
-
+ 
   program of the division of the budget, are
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
@@ -40113,10 +40077,10 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Dedicated Miscellaneous Special Revenue Account
   Highway Use Tax Administration Account - 23801
-  740  12550-02-3
+  737  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
-
+ 
   STATE OPERATIONS  2023-24
  
  For  services  and  expenses  related to the
@@ -40131,7 +40095,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (51313).
- 
+
  Personal service--regular (50100) ................ 181,000
  Supplies and materials (57000) ..................... 2,000
  Contractual services (51000) ..................... 200,000
@@ -40171,10 +40135,10 @@ S T A T E  O F  N E W  Y O R K
   purposes.
  Notwithstanding  any  other provision of law
   to the contrary, the OGS  Interchange  and
-  741  12550-02-3
+  738  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
-
+ 
   STATE OPERATIONS  2023-24
  
   Transfer  Authority and the IT Interchange
@@ -40229,8 +40193,8 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Industrial and Utility Service Account - 22004
-  742  12550-02-3
- 
+  739  12550-06-3
+
   DEPARTMENT OF TAXATION AND FINANCE
  
   STATE OPERATIONS  2023-24
@@ -40287,7 +40251,7 @@ S T A T E  O F  N E W  Y O R K
  Supplies and materials (57000) ..................... 1,000
  Travel (54000) ..................................... 1,000
  Contractual services (51000) ...................... 48,000
-  743  12550-02-3
+  740  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
@@ -40345,7 +40309,7 @@ S T A T E  O F  N E W  Y O R K
   2023-24 state fiscal year state operations
   appropriation  for  the  budget  division
   program of the division of the budget, are
-  744  12550-02-3
+  741  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
@@ -40354,7 +40318,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (51313).
-
+ 
  Contractual services (51000) ................... 2,000,000
   --------------
   Program account subtotal ................... 2,000,000
@@ -40403,10 +40367,10 @@ S T A T E  O F  N E W  Y O R K
   state agencies.
  Notwithstanding  any  other provision of law
   to the contrary, for the purpose of  plan-
-  745  12550-02-3
+  742  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
- 
+
   STATE OPERATIONS  2023-24
  
   ning,  developing  and/or implementing the
@@ -40445,7 +40409,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Investment Services Account - 22034
- 
+
  For  services  and  expenses relating to the
   performance of certain fiduciary responsi-
   bilities on behalf  of  certain  agencies,
@@ -40461,12 +40425,12 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (51317).
-  746  12550-02-3
+  743  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
   STATE OPERATIONS  2023-24
- 
+
  Personal service--regular (50100) .............. 2,040,000
  Temporary service (50200) ......................... 17,000
  Holiday/overtime compensation (50300) .............. 1,000
@@ -40477,12 +40441,12 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60000) ........................ 1,302,000
  Indirect costs (58800) ............................ 56,000
   --------------
-  747  12550-02-3
+  744  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
  REVENUE ANALYSIS, COLLECTION, ENFORCEMENT, PROCESSING, AND REAL PROPERTY
   TAX PROGRAM
  
@@ -40533,7 +40497,7 @@ S T A T E  O F  N E W  Y O R K
   Banking Services Account - 55057
  
  By chapter 50, section 1, of the laws of 2022:
-  748  12550-02-3
+  745  12550-06-3
  
   DEPARTMENT OF TAXATION AND FINANCE
  
@@ -40555,7 +40519,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 200,000 ......................... (re. $200,000)
   Fringe benefits (60000) ... 1,874,400 ............... (re. $1,874,400)
   Indirect costs (58800) ... 99,900 ...................... (re. $99,900)
-  749  12550-02-3
+  746  12550-06-3
  
   DIVISION OF TAX APPEALS
  
@@ -40577,7 +40541,7 @@ S T A T E  O F  N E W  Y O R K
  
   General Fund
   State Purposes Account - 10050
-
+ 
  For  services  and  expenses  related to the
   administration program (81001).
  
@@ -40588,7 +40552,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ...................... 57,000
  Equipment (56000) .................................. 2,000
   --------------
-  750  12550-02-3
+  747  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -40597,12 +40561,12 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
-  General Fund .......................  435,413,000  484,523,000
+ 
+  General Fund .......................  437,413,000  484,523,000
   Special Revenue Funds - Federal ....  41,214,000  200,909,000
   Special Revenue Funds - Other ......  17,814,000  23,478,000
   ----------------  ----------------
-  All Funds ........................  494,441,000  708,910,000
+  All Funds ........................  496,441,000  708,910,000
   ================  ================
  
   SCHEDULE
@@ -40646,7 +40610,7 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) .............. 4,809,000
  Holiday/overtime compensation (50300) ............ 228,000
  Supplies and materials (57000) .................... 94,000
-  751  12550-02-3
+  748  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -40667,7 +40631,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  related to the
   office of passenger and freight  transpor-
   tation (54292).
- 
+
  Nonpersonal service (57050) .................... 1,378,000
   --------------
   Program account subtotal ................... 1,378,000
@@ -40704,10 +40668,10 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 29,025,000
   --------------
-  752  12550-02-3
+  749  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   STATE OPERATIONS  2023-24
  
   Special Revenue Funds - Other
@@ -40730,7 +40694,7 @@ S T A T E  O F  N E W  Y O R K
   deemed fully  incorporated  herein  and  a
   part  of  this  appropriation  as if fully
   stated (54292).
- 
+
  Personal service--regular (50100) ................ 518,000
  Holiday/overtime compensation (50300) ............ 158,000
  Supplies and materials (57000) ................... 217,000
@@ -40762,7 +40726,7 @@ S T A T E  O F  N E W  Y O R K
   transportation  operators  receiving  mass
   transportation  operating  assistance
   payments  serving  primarily  within  the
-  753  12550-02-3
+  750  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -40820,12 +40784,12 @@ S T A T E  O F  N E W  Y O R K
  Personal service--regular (50100) ................ 797,000
  Holiday/overtime compensation (50300) ............. 18,000
  Supplies and materials (57000) ..................... 6,000
-  754  12550-02-3
+  751  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS  2023-24
- 
+
  Travel (54000) .................................... 12,000
  Contractual services (51000) ..................... 210,000
  Equipment (56000) .................................. 6,000
@@ -40878,7 +40842,7 @@ S T A T E  O F  N E W  Y O R K
  Holiday/overtime compensation (50300) ......... 40,537,000
  Supplies and materials (57000) ............... 151,965,000
  Travel (54000) ................................... 112,000
-  755  12550-02-3
+  752  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -40929,17 +40893,17 @@ S T A T E  O F  N E W  Y O R K
   Program account subtotal ................... 3,000,000
   --------------
  
- RAIL SAFETY PROGRAM ............................................ 952,000
+ RAIL SAFETY PROGRAM .......................................... 2,952,000
   --------------
  
   General Fund
   State Purposes Account - 10050
-  756  12550-02-3
+  753  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS  2023-24
-
+ 
  For services and expenses of the rail safety
   program (54215).
  
@@ -40949,8 +40913,10 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) .................................... 74,000
  Contractual services (51000) ....................... 6,000
  Equipment (56000) .................................. 7,000
+ Additional  Funding for the hiring of 10 FTE
+  Railroad Inspectors .......................... 2,000,000
   --------------
-  757  12550-02-3
+  754  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41005,13 +40971,13 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 90,000 ........................... (re. $13,000)
  
  MOTOR CARRIER SAFETY PROGRAM
-
+ 
   General Fund
   State Purposes Account - 10050
-  758  12550-02-3
+  755  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  By chapter 50, section 1, of the laws of 2022:
@@ -41065,7 +41031,7 @@ S T A T E  O F  N E W  Y O R K
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer Authority as defined in the  2019-20  state  fiscal  year  state
   operations  appropriation  for  the  budget  division program of the
-  759  12550-02-3
+  756  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41094,7 +41060,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 100,000 ............................. (re. $32,000)
   Contractual services (51000) ... 2,512,000 .......... (re. $1,483,000)
   Equipment (56000) ... 15,000 ........................... (re. $15,000)
- 
+
  OFFICE OF PASSENGER AND FREIGHT TRANSPORTATION PROGRAM
  
   Special Revenue Funds - Federal
@@ -41123,12 +41089,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2018, as amended by chapter 50,
   section 1, of the laws of 2019:
-  760  12550-02-3
+  757  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   For  services  and  expenses  related  to  the office of passenger and
   freight transportation (54292).
   Nonpersonal service (57050) ... 1,060,000 ........... (re. $1,060,000)
@@ -41180,7 +41146,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2017, as amended by chapter 50,
   section 1, of the laws of 2019:
-  761  12550-02-3
+  758  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41227,7 +41193,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 3,070,000 ........... (re. $2,755,000)
   Fringe benefits (60090) ... 822,000 ................... (re. $460,000)
   Indirect costs (58850) ... 55,000 ...................... (re. $20,000)
- 
+
  By chapter 50, section 1, of the laws of 2012, as amended by chapter 50,
   section 1, of the laws of 2019:
   For  services  and  expenses  related  to  the office of passenger and
@@ -41237,10 +41203,10 @@ S T A T E  O F  N E W  Y O R K
   Authority, and the Call Center Interchange and Transfer Authority as
   defined in the 2012-13 state fiscal year state operations  appropri-
   ation for the budget division program of the division of the budget,
-  762  12550-02-3
+  759  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   are  deemed  fully  incorporated herein and a part of this appropri-
@@ -41274,7 +41240,7 @@ S T A T E  O F  N E W  Y O R K
   freight transportation (54292).
   Nonpersonal service (57050) ... 253,000 ............... (re. $253,000)
   Maintenance undistributed ... 3,000,000 ............. (re. $3,000,000)
-
+ 
  By chapter 55, section 1, of the laws of 2007, as amended by chapter 50,
   section 1, of the laws of 2019:
   For  services  and  expenses  related  to  the office of passenger and
@@ -41295,7 +41261,7 @@ S T A T E  O F  N E W  Y O R K
   Motor Carrier Safety Account - 25397
  
  By chapter 50, section 1, of the laws of 2022:
-  763  12550-02-3
+  760  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41340,7 +41306,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 4,480,000 ........... (re. $4,027,000)
   Fringe benefits (60090) ... 6,567,000 ............... (re. $4,704,000)
   Indirect costs (58850) ... 668,000 .................... (re. $487,000)
-
+ 
  By chapter 50, section 1, of the laws of 2017, as amended by chapter 50,
   section 1, of the laws of 2019:
   For  services  and  expenses  related  to  the office of passenger and
@@ -41352,12 +41318,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2016, as amended by chapter 50,
   section 1, of the laws of 2019:
-  764  12550-02-3
+  761  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   For services and expenses related  to  the  office  of  passenger  and
   freight transportation (54292).
   Nonpersonal service (57050) ... 4,480,000 ........... (re. $3,856,000)
@@ -41410,8 +41376,8 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 32,000 .............. (re. $24,000)
   Travel (54000) ... 204,000 ............................ (re. $103,000)
   Contractual services (51000) ... 211,000 .............. (re. $211,000)
-  765  12550-02-3
-
+  762  12550-06-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -41443,7 +41409,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 44,000 ........................... (re. $36,000)
   Fringe benefits (60000) ... 1,783,000 ............... (re. $1,071,000)
   Indirect costs (58800) ... 98,000 ...................... (re. $66,000)
- 
+
  By chapter 50, section 1, of the laws of 2019:
   For  services  and  expenses related to the administration of the mass
   transportation  operating  assistance  program  including  bus
@@ -41468,12 +41434,12 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (58800) ... 113,000 ..................... (re. $32,000)
  
   Special Revenue Funds - Other
-  766  12550-02-3
+  763  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   Mass Transportation Operating Assistance Fund
   Public Transportation Systems Operating Assistance Account - 21401
  
@@ -41524,10 +41490,10 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 6,000 ............................. (re. $6,000)
   Fringe benefits (60000) ... 500,000 ................... (re. $256,000)
   Indirect costs (58800) ... 23,000 ...................... (re. $13,000)
-
- By chapter 50, section 1, of the laws of 2020:
-  767  12550-02-3
  
+ By chapter 50, section 1, of the laws of 2020:
+  764  12550-06-3
+
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -41584,7 +41550,7 @@ S T A T E  O F  N E W  Y O R K
   Transportation Aviation Account - 22165
  
  By chapter 50, section 1, of the laws of 2022:
-  768  12550-02-3
+  765  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41615,7 +41581,7 @@ S T A T E  O F  N E W  Y O R K
   Contractual services (51000) ... 4,700,000 ............ (re. $482,000)
   Fringe benefits (60000) ... 87,000 ..................... (re. $87,000)
   Indirect costs (58800) ... 5,000 ........................ (re. $5,000)
- 
+
  By chapter 50, section 1, of the laws of 2019:
   For  payment  of expenses related to operation of Stewart and Republic
   airports (54292).
@@ -41640,7 +41606,7 @@ S T A T E  O F  N E W  Y O R K
   State Purposes Account - 10050
  
  By chapter 50, section 1, of the laws of 2022:
-  769  12550-02-3
+  766  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41698,12 +41664,12 @@ S T A T E  O F  N E W  Y O R K
   Personal service--regular (50100) ....................................
   124,781,000 ...................................... (re. $15,876,000)
   Temporary service (50200) ... 4,102,000 ............. (re. $1,038,000)
-  770  12550-02-3
-
+  767  12550-06-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   Holiday/overtime compensation (50300) ................................
   34,765,000 ....................................... (re. $12,079,000)
   Supplies and materials (57000) ... 137,951,000 ..... (re. $30,423,000)
@@ -41729,7 +41695,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 102,000 ............................ (re. $102,000)
   Contractual services (51000) ... 61,400,000 ........... (re. $414,000)
   Equipment (56000) ... 547,000 ........................... (re. $3,000)
- 
+
  By chapter 50, section 1, of the laws of 2018:
   For the payment of costs of snow and ice control on state highways and
   preventive maintenance on state roads  and  bridges  as  defined  in
@@ -41756,8 +41722,8 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2022:
   For services and expenses related to the operations program (54291).
   Supplies and materials (57000) ... 1,000 ................ (re. $1,000)
-  771  12550-02-3
- 
+  768  12550-06-3
+
   DEPARTMENT OF TRANSPORTATION
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
@@ -41789,7 +41755,7 @@ S T A T E  O F  N E W  Y O R K
   Supplies and materials (57000) ... 1,000 ................ (re. $1,000)
   Contractual services (51000) ... 208,000 .............. (re. $208,000)
   Equipment (56000) ... 1,000 ............................. (re. $1,000)
-
+ 
  RAIL SAFETY PROGRAM
  
   General Fund
@@ -41814,7 +41780,7 @@ S T A T E  O F  N E W  Y O R K
   Equipment (56000) ... 7,000 ............................. (re. $7,000)
  
  By chapter 50, section 1, of the laws of 2020:
-  772  12550-02-3
+  769  12550-06-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -41845,7 +41811,7 @@ S T A T E  O F  N E W  Y O R K
   Travel (54000) ... 61,000 .............................. (re. $22,000)
   Contractual services (51000) ... 5,000 .................. (re. $5,000)
   Equipment (56000) ... 6,000 ............................. (re. $6,000)
-  773  12550-02-3
+  770  12550-06-3
  
   DEPARTMENT OF VETERANS' SERVICES
  
@@ -41855,11 +41821,11 @@ S T A T E  O F  N E W  Y O R K
  
   APPROPRIATIONS  REAPPROPRIATIONS
  
-  General Fund .......................  9,083,000  500,000
+  General Fund .......................  9,783,000  500,000
   Special Revenue Funds - Federal ....  3,054,000  4,708,000
   Special Revenue Funds - Other ......  900,000  0
   ----------------  ----------------
-  All Funds ........................  13,037,000  5,208,000
+  All Funds ........................  13,737,000  5,208,000
   ================  ================
  
   SCHEDULE
@@ -41902,7 +41868,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ..................... 900,000
   --------------
-  774  12550-02-3
+  771  12550-06-3
  
   DEPARTMENT OF VETERANS' SERVICES
  
@@ -41923,7 +41889,7 @@ S T A T E  O F  N E W  Y O R K
   Program account subtotal ..................... 900,000
   --------------
  
- VETERANS' BENEFITS ADVISING PROGRAM .......................... 8,077,000
+ VETERANS' BENEFITS ADVISING PROGRAM .......................... 8,777,000
   --------------
  
   General Fund
@@ -41948,6 +41914,8 @@ S T A T E  O F  N E W  Y O R K
  Travel (54000) ................................... 104,000
  Contractual services (51000) ..................... 102,000
  Equipment (56000) ................................ 440,000
+ For additional equipment for the purchase of
+  Mobile Veterans' Service Centers ............... 700,000
   --------------
  
  VETERANS' EDUCATION PROGRAM .................................. 2,154,000
@@ -41956,31 +41924,31 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Federal
   Federal Miscellaneous Operating Grants Fund
   Federal Operating Grant Account - 25386
- 
- For services and  expenses  related  to  the
-  veterans' education program (54610).
-  775  12550-02-3
+  772  12550-06-3
  
   DEPARTMENT OF VETERANS' SERVICES
  
   STATE OPERATIONS  2023-24
+ 
+ For services and  expenses  related  to  the
+  veterans' education program (54610).
  
  Personal service (50000) ....................... 1,261,000
  Nonpersonal service (57050) ...................... 208,000
  Fringe benefits (60090) .......................... 588,000
  Indirect costs (58850) ............................ 97,000
   --------------
-  776  12550-02-3
+  773  12550-06-3
  
   [DIVISION] DEPARTMENT OF VETERANS' SERVICES
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
  ADMINISTRATION PROGRAM
  
   General Fund
   State Purposes Account - 10050
-
+ 
  By chapter 50, section 1, of the laws of 2011, as amended by chapter 50,
   section 1, of the laws of 2014:
   For  services  and expenses related to a federally funded state veter-
@@ -42025,14 +41993,14 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (57050) ... 208,000 ................ (re. $82,000)
   Fringe benefits (60090) ... 549,000 ................... (re. $168,000)
   Indirect costs (58850) ... 69,000 ...................... (re. $15,000)
-  777  12550-02-3
+  774  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
   STATE OPERATIONS  2023-24
- 
- For payment according to the following schedule:
 
+ For payment according to the following schedule:
+ 
   APPROPRIATIONS  REAPPROPRIATIONS
  
   General Fund .......................  2,530,000  0
@@ -42083,7 +42051,7 @@ S T A T E  O F  N E W  Y O R K
  Personal service (50000) ....................... 3,219,000
  Nonpersonal service (57050) .................... 1,468,000
   --------------
-  778  12550-02-3
+  775  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -42135,13 +42103,13 @@ S T A T E  O F  N E W  Y O R K
   deemed  fully  incorporated  herein  and a
   part of this  appropriation  as  if  fully
   stated (81001).
- 
+
  Personal service--regular (50100) .............. 3,501,000
  Supplies and materials (57000) .................... 50,000
  Travel (54000) .................................... 50,000
  Contractual services (51000) ...................... 80,000
  Equipment (56000) ................................. 10,000
-  779  12550-02-3
+  776  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -42156,7 +42124,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   OVS Restitution Account - 22134
-
+ 
  For  services  and  expenses  related to the
   administration program.
  Notwithstanding any other provision  of  law
@@ -42196,10 +42164,10 @@ S T A T E  O F  N E W  Y O R K
   funds may be transferred, suballocated, or
   otherwise  made  available  to other state
   agencies (19906).
-
+ 
  Personal service (50000) ....................... 1,687,000
  Nonpersonal service (57050) ...................... 940,000
-  780  12550-02-3
+  777  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -42208,7 +42176,7 @@ S T A T E  O F  N E W  Y O R K
  Fringe benefits (60090) .......................... 491,000
  Indirect costs (58850) ............................ 30,000
   --------------
-  781  12550-02-3
+  778  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -42265,7 +42233,7 @@ S T A T E  O F  N E W  Y O R K
   For services  and  expenses  related  to  crime  victims  compensation
   (19917).
   Nonpersonal service (57050) ... 274,000 ............... (re. $261,000)
-  782  12550-02-3
+  779  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -42322,7 +42290,7 @@ S T A T E  O F  N E W  Y O R K
   control act of 1984, distributed pursuant to a plan prepared by  the
   director of the office of victim services and approved by the direc-
   tor  of  the budget, or distributed through a competitive process. A
-  783  12550-02-3
+  780  12550-06-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -42331,7 +42299,7 @@ S T A T E  O F  N E W  Y O R K
   portion of these funds may be transferred, suballocated,  or  other-
   wise made available to other state agencies (19906).
   Personal service (50000) ... 830,000 .................... (re. $8,000)
-  784  12550-02-3
+  781  12550-06-3
  
   OFFICE OF WELFARE INSPECTOR GENERAL
  
@@ -42386,7 +42354,7 @@ S T A T E  O F  N E W  Y O R K
   Special Revenue Funds - Other
   Miscellaneous Special Revenue Fund
   Equitable Sharing-WIG Justice Account - 22227
-  785  12550-02-3
+  782  12550-06-3
  
   OFFICE OF WELFARE INSPECTOR GENERAL
  
@@ -42441,7 +42409,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ...................... 50,000
   --------------
-  786  12550-02-3
+  783  12550-06-3
 
   WORKERS' COMPENSATION BOARD
  
@@ -42498,7 +42466,7 @@ S T A T E  O F  N E W  Y O R K
   opment of  inpatient  hospital  rates  for
   workers'  compensation  benefit  payments
   (55205).
-  787  12550-02-3
+  784  12550-06-3
  
   WORKERS' COMPENSATION BOARD
  
@@ -42513,7 +42481,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ......................... 321,000
   --------------
-  788  12550-02-3
+  785  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42532,7 +42500,7 @@ S T A T E  O F  N E W  Y O R K
   contrary,  funds  hereby appropriated may be transferred or suballo-
   cated to the division of state police and/or the division  of  mili-
   tary and naval affairs (79999) ... 3,000,000 ...... (re. $3,000,000)
-  789  12550-02-3
+  786  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42561,7 +42529,7 @@ S T A T E  O F  N E W  Y O R K
   portion of the funds appropriated here-in  may  be  suballocated  or
   transferred to any state department or agency (85014) ..............
   25,000,000 ....................................... (re. $25,000,000)
-  790  12550-02-3
+  787  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42614,7 +42582,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 842,000
   --------------
-  791  12550-02-3
+  788  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42671,7 +42639,7 @@ S T A T E  O F  N E W  Y O R K
   employees group life  insur-
   ance plan .................. 2,042,354,000
  For  the  state's contribution
-  792  12550-02-3
+  789  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42729,7 +42697,7 @@ S T A T E  O F  N E W  Y O R K
   appropriated .................. 32,025,000
  For  payment  of  liabilities
   incurred during  the  period
-  793  12550-02-3
+  790  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42787,7 +42755,7 @@ S T A T E  O F  N E W  Y O R K
   counties,  cities, towns, or
   villages for  payments  made
   for special accidental death
-  794  12550-02-3
+  791  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42844,7 +42812,7 @@ S T A T E  O F  N E W  Y O R K
   and article 6 of the retire-
   ment and social security law
   and retirement benefits paid
-  795  12550-02-3
+  792  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42897,12 +42865,12 @@ S T A T E  O F  N E W  Y O R K
   judgments  arising  out  of  actions  or
   proceedings  brought to obtain payment for
   wages, salaries or  other  employee  bene-
-  fits;  provided  however,  notwithstanding
-  any other provision of law to the  contra-
-  ry,  including  any law or regulation that
-  limits the annual rate of interest  to  be
-  paid on a state judgment or accrued claim,
-  796  12550-02-3
+  fits.  The  moneys hereby appropriated are
+  available for payment of  any  liabilities
+  or  obligations incurred prior to April 1,
+  2023 in addition  to  current  liabilities
+  (80564) .................................... 156,916,000
+  793  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -42910,29 +42878,10 @@ S T A T E  O F  N E W  Y O R K
  
   STATE OPERATIONS  2023-24
 
-  exclusive  of any provision of the tax law
-  which provides  for  the  annual  rate  of
-  interest  to  be  paid  on  a  judgment or
-  accrued  claim, the rate of interest to be
-  paid by the state  upon  any  judgment  or
-  accrued  claims against the state incurred
-  as liabilities through March 31, 2024  and
-  paid  out  of  this appropriation shall be
-  calculated at a rate equal to  the  weekly
-  average  one year constant maturity treas-
-  ury yield, as published by  the  board  of
-  governors  of  the federal reserve system,
-  for the calendar week preceding  the  date
-  of  the  entry  of  the  judgment awarding
-  damages. The  moneys  hereby  appropriated
-  are  available  for payment of any liabil-
-  ities or  obligations  incurred  prior  to
-  April  1,  2023  in  addition  to  current
-  liabilities (80564) ........................ 156,916,000
- For the payment of the  defense  by  private
+ For  the  payment  of the defense by private
   counsel and the indemnification or payment
-  on  behalf of state officers and employees
-  in civil judicial proceedings  in  accord-
+  on behalf of state officers and  employees
+  in  civil  judicial proceedings in accord-
   ance  with the provisions of section 17 of
   the public officers law;  the  payment  on
   behalf  of  the  state,  exclusive  of the
@@ -42960,14 +42909,6 @@ S T A T E  O F  N E W  Y O R K
   ment related  causes  of  action;  and  in
   criminal  proceedings  in  accordance with
   the provisions of section 19 of the public
-  797  12550-02-3
- 
-  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
- 
-  GENERAL STATE CHARGES
-
-  STATE OPERATIONS  2023-24
- 
   officers law. The moneys hereby  appropri-
   ated  are  available  for  payment  of any
   liabilities or obligations incurred  prior
@@ -42987,6 +42928,14 @@ S T A T E  O F  N E W  Y O R K
   Simpson  et  al. v. New York State Depart-
   ment of Civil Service et al.  and  associ-
   ated United States District Court Northern
+  794  12550-06-3
+ 
+  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
+
+  GENERAL STATE CHARGES
+ 
+  STATE OPERATIONS  2023-24
+ 
   District of New York Order dated April 25,
   2011 (80524) ................................ 10,200,000
  For  services  and  expenses relating to the
@@ -43018,7 +42967,26 @@ S T A T E  O F  N E W  Y O R K
   the  Joint  Commission on Public Ethics in
   calendar year 2020 and 2021, the New  York
   State Assembly, and/or the New York Attor-
-  798  12550-02-3
+  ney General's Office; by the Senate and/or
+  Assembly  pursuant to articles seven-C and
+  thirteen-A of the judiciary law; and/or by
+  or on behalf of an employee, as that  term
+  is defined in section 17 and/or section 19
+  of  the  public officers law, who obtained
+  representation  by  private  counsel  and
+  notified the Division of the Budget and/or
+  the  Executive  Chamber  of  such  private
+  counsel  representation  on  or  before
+  September  2,  2021  in  response  to  any
+  inquiry or investigation which was  initi-
+  ated in the 2020 or 2021 calendar years by
+  the  United  States Department of Justice,
+  the entity known as the  Joint  Commission
+  on Public Ethics in calendar year 2020 and
+  2021,  the New York State Assembly, and/or
+  the New York Attorney General's Office and
+  in which the employee was or  is  involved
+  795  12550-06-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43026,27 +42994,8 @@ S T A T E  O F  N E W  Y O R K
  
   STATE OPERATIONS  2023-24
  
-  ney General's Office; by the Senate and/or
-  Assembly  pursuant to articles seven-C and
-  thirteen-A of the judiciary law; and/or by
-  or  on behalf of an employee, as that term
-  is defined in section 17 and/or section 19
-  of the public officers law,  who  obtained
-  representation  by  private  counsel  and
-  notified the Division of the Budget and/or
-  the  Executive  Chamber  of  such  private
-  counsel  representation  on  or  before
-  September  2,  2021  in  response  to  any
-  inquiry  or investigation which was initi-
-  ated in the 2020 or 2021 calendar years by
-  the United States Department  of  Justice,
-  the  entity  known as the Joint Commission
-  on Public Ethics in calendar year 2020 and
-  2021, the New York State Assembly,  and/or
-  the New York Attorney General's Office and
-  in  which  the employee was or is involved
   as  a  result  of  the  employee's  public
-  employment  or  duties.  Provided however,
+  employment or  duties.  Provided  however,
   that  reasonable  attorneys'  fees  and
   expenses  incurred  by  or on behalf of an
   employee,  as  that  term  is  defined  in
@@ -43076,7 +43025,26 @@ S T A T E  O F  N E W  Y O R K
   certify to the Comptroller.  Such  reason-
   able attorneys' fees and expenses shall be
   paid  by  the State to the employee or the
-  799  12550-02-3
+  employees'  private  counsel  upon  the
+  conclusion  of  the  above-described
+  inquiries or investigations upon the audit
+  and warrant of the  comptroller.  Provided
+  further, however, that neither an employee
+  nor their private counsel shall receive or
+  be  reimbursed  for  reasonable attorneys'
+  fees and expenses pursuant to this  appro-
+  priation  unless  the  employee  and their
+  private counsel certify  to  the  Attorney
+  General that the employee is solely liable
+  for  their  reasonable attorneys' fees and
+  expenses  and  that  the  employee  and/or
+  their  private counsel shall reimburse the
+  state  for  all  payments  of  reasonable
+  attorneys' fees and expenses paid pursuant
+  to  this  appropriation within ninety days
+  of a determination by the Attorney  Gener-
+  al's  Office  that  (1)  the  employee has
+  796  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43084,66 +43052,39 @@ S T A T E  O F  N E W  Y O R K
  
   STATE OPERATIONS  2023-24
  
-  employees'  private  counsel  upon  the
-  conclusion  of  the  above-described
-  inquiries or investigations upon the audit
-  and  warrant  of the comptroller. Provided
-  further, however, that neither an employee
-  nor their private counsel shall receive or
-  be reimbursed  for  reasonable  attorneys'
-  fees  and expenses pursuant to this appro-
-  priation unless  the  employee  and  their
-  private  counsel  certify  to the Attorney
-  General that the employee is solely liable
-  for their reasonable attorneys'  fees  and
-  expenses  and  that  the  employee  and/or
-  their private counsel shall reimburse  the
-  state  for  all  payments  of  reasonable
-  attorneys' fees and expenses paid pursuant
-  to this appropriation within  ninety  days
-  of  a determination by the Attorney Gener-
-  al's Office  that  (1)  the  employee  has
-  acted  outside  the scope of their employ-
-  ment and/or violated any  applicable  law,
-  regulation,  or  executive  order, (2) the
-  employee has  failed  to  fully  cooperate
-  with  any  of  the  inquiries  or investi-
-  gations described above,  and/or  (3)  the
-  employee  has failed to fully cooperate in
+  acted outside the scope of  their  employ-
+  ment  and/or  violated any applicable law,
+  regulation, or executive  order,  (2)  the
+  employee  has  failed  to  fully cooperate
+  with any  of  the  inquiries  or  investi-
+  gations  described  above,  and/or (3) the
+  employee has failed to fully cooperate  in
   the  defense  of  any  related  action  or
-  proceeding  against  the State, and in the
-  prosecution of  any  appeal.  Neither  the
-  employee  nor the employee's private coun-
+  proceeding against the State, and  in  the
+  prosecution  of  any  appeal.  Neither the
+  employee nor the employee's private  coun-
   sel  shall  be  eligible  for  payment  of
-  reasonable  attorneys'  fees  and expenses
+  reasonable attorneys'  fees  and  expenses
   pursuant  to  this  appropriation  if  the
-  employee  has already been found by any of
-  the inquiries or investigations  described
-  above  to  have acted outside the scope of
-  their employment, violated any  applicable
+  employee has already been found by any  of
+  the  inquiries or investigations described
+  above to have acted outside the  scope  of
+  their  employment, violated any applicable
   law,  regulation,  or  executive  order,
   and/or  failed  to  fully  cooperate  in
   defense  of  any  action  or  proceeding
   against the State including appeals there-
   of based upon the same act (85090) ........... 5,000,000
- For assessments for local improvements.  The
-  moneys  hereby  appropriated are available
-  for payment of any  liabilities  or  obli-
+ For  assessments for local improvements. The
+  moneys hereby appropriated  are  available
+  for  payment  of  any liabilities or obli-
   gations incurred prior to April 1, 2023 in
   addition to current liabilities (80565) ...... 4,000,000
  For payment of claims for damage to personal
   or real property or for bodily injuries or
   wrongful death caused by officers, employ-
-  800  12550-02-3
- 
-  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
- 
-  GENERAL STATE CHARGES
- 
-  STATE OPERATIONS  2023-24
- 
   ees, or other authorized persons providing
-  service  to state government while provid-
+  service to state government while  provid-
   ing such service, and the state university
   construction  fund while acting within the
   scope of their employment, and while oper-
@@ -43160,6 +43101,14 @@ S T A T E  O F  N E W  Y O R K
   Court  of  Appeals' opinion in Alliance of
   American Insurers  v.  Chu,  77  NY2d  573
   (1991) (80561) ............................... 2,000,000
+  797  12550-06-3
+ 
+  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
+ 
+  GENERAL STATE CHARGES
+ 
+  STATE OPERATIONS  2023-24
+ 
  For  the state's share of assessments issued
   by the Hudson River-Black River regulating
   district pursuant to subdivisions 2 and  3
@@ -43190,13 +43139,6 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available .................. 10,238,096,000
   ==============
-  801  12550-02-3
- 
-  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
- 
-  GENERAL STATE CHARGES
- 
-  STATE OPERATIONS  2023-24
  
  Less  the  amount  appropriated to the state
   university of New York  for  suballocation
@@ -43217,22 +43159,30 @@ S T A T E  O F  N E W  Y O R K
   insurance fund; ii) dental insurance plan;
   iii)  vision  care  plan,  iv)  employees'
   retirement  system  pension  accumulation
+  798  12550-06-3
+ 
+  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
+ 
+  GENERAL STATE CHARGES
+ 
+  STATE OPERATIONS  2023-24
+ 
   fund,  police  and  fire retirement system
   pension  accumulation  fund,  and  public
   employees  group  life  insurance plan; v)
   social security contribution fund; vi) the
-  state insurance fund for workers'  compen-
+  state  insurance fund for workers' compen-
   sation benefits and other related workers'
-  compensation  costs; vii) employee benefit
-  fund programs; viii)  unemployment  insur-
+  compensation costs; vii) employee  benefit
+  fund  programs;  viii) unemployment insur-
   ance  fund;  and  ix)  survivors'  benefit
-  fund. To the  extent  there  is  available
+  fund.  To  the  extent  there is available
   funding  in  the  fringe  benefit  escrow
-  account to support fringe  benefit  appro-
-  priations  contained  in the schedule, the
+  account  to  support fringe benefit appro-
+  priations contained in the  schedule,  the
   amount  specified  in  this  appropriation
-  shall  be  allocated to the $9,627,895,000
-  employee fringe benefit  appropriation  on
+  shall be allocated to  the  $9,627,895,000
+  employee  fringe  benefit appropriation on
   or before March 31, 2024 at the discretion
   of the division of the budget .......... (1,620,225,000)
   --------------
@@ -43244,17 +43194,9 @@ S T A T E  O F  N E W  Y O R K
   Dental Insurance Interest Account - 60402
  
  For  additional  state  expenditures  in
-  relation to  the  New  York  state  dental
+  relation  to  the  New  York  state dental
   insurance fund (80579) ......................... 500,000
   --------------
-  802  12550-02-3
- 
-  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
- 
-  GENERAL STATE CHARGES
- 
-  STATE OPERATIONS  2023-24
- 
   Program account subtotal ..................... 500,000
   --------------
  
@@ -43263,17 +43205,17 @@ S T A T E  O F  N E W  Y O R K
   Reserve for Rate Fluctuations Account - 60202
  
  For  additional  state  expenditures  in
-  relation to  the  New  York  state  health
+  relation  to  the  New  York  state health
   insurance program (80581) .................. 400,000,000
   --------------
   Program account subtotal ................. 400,000,000
   --------------
-  803  12550-02-3
+  799  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   GENERAL STATE CHARGES
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  GENERAL STATE CHARGES
@@ -43326,7 +43268,7 @@ S T A T E  O F  N E W  Y O R K
   comptroller. Provided further, however, that neither an employee nor
   their private counsel shall receive or be reimbursed for  reasonable
   attorneys'  fees  and expenses pursuant to this appropriation unless
-  804  12550-02-3
+  800  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43355,7 +43297,7 @@ S T A T E  O F  N E W  Y O R K
   order, and/or failed to fully cooperate in defense of any action  or
   proceeding  against  the  State including appeals thereof based upon
   the same act (85090) ... 12,000,000 ............... (re. $9,305,843)
-  805  12550-02-3
+  801  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43373,7 +43315,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
   SCHEDULE
- 
+
  GREEN THUMB PROGRAM .......................................... 5,250,000
   --------------
  
@@ -43386,10 +43328,10 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ................... 5,250,000
   --------------
-  806  12550-02-3
+  802  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
-
+ 
   GREENWAY HERITAGE CONSERVANCY FOR THE HUDSON RIVER VALLEY
  
   STATE OPERATIONS  2023-24
@@ -43397,7 +43339,7 @@ S T A T E  O F  N E W  Y O R K
  For payment according to the following schedule:
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   General Fund .......................  250,000  0
   ----------------  ----------------
   All Funds ........................  250,000  0
@@ -43413,11 +43355,11 @@ S T A T E  O F  N E W  Y O R K
  
  For  services  and  expenses  related to the
   operations program (81003).
-
+ 
  Personal service--regular (50100) ................ 208,000
  Fringe benefits (60000) ........................... 42,000
   --------------
-  807  12550-02-3
+  803  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43433,7 +43375,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
  HEALTH CARE AND MENTAL HYGIENE WORKER BONUSES
-
+ 
   General Fund
   State Purposes Account - 10050
  
@@ -43448,12 +43390,12 @@ S T A T E  O F  N E W  Y O R K
   department or agency in any fund for the provision of healthcare and
   mental hygiene bonuses (85032) .....................................
   136,000,000 ..................................... (re. $136,000,000)
-  808  12550-02-3
+  804  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   HEALTH INSURANCE CONTINGENCY RESERVE
- 
+
   STATE OPERATIONS  2023-24
  
   General Fund
@@ -43478,14 +43420,14 @@ S T A T E  O F  N E W  Y O R K
   payments to the health insurance reserve  receipts  fund
   and the above insurance carriers (80547) ................. 773,854,000
   ==============
-  809  12550-02-3
+  805  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   HEALTH INSURANCE RESERVE RECEIPTS FUND
  
   STATE OPERATIONS  2023-24
-
+ 
   Fiduciary Funds
   Health Insurance Reserve Receipts Fund
   Depository Account - 60553
@@ -43493,7 +43435,7 @@ S T A T E  O F  N E W  Y O R K
  For  disbursement  pursuant  to  section 99-c of the state
   finance law (80546) ...................................... 292,400,000
   ==============
-  810  12550-02-3
+  806  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43511,7 +43453,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
   SCHEDULE
- 
+
  OPERATIONS PROGRAM ............................................. 245,000
   --------------
  
@@ -43527,12 +43469,12 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ...................... 14,000
  Equipment (56000) .................................. 4,000
   --------------
-  811  12550-02-3
+  807  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   INSURANCE AND SECURITIES FUNDS RESERVE GUARANTEE
- 
+
   STATE OPERATIONS  2023-24
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -43584,8 +43526,8 @@ S T A T E  O F  N E W  Y O R K
   including  claims  by  third  parties  for
   contribution  or  indemnity  are available
   (80543) .................................... 325,000,000
-  812  12550-02-3
-
+  808  12550-06-3
+ 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   INSURANCE AND SECURITIES FUNDS RESERVE GUARANTEE
@@ -43640,7 +43582,7 @@ S T A T E  O F  N E W  Y O R K
   such  fund not part of reserves for claims
   or losses are available (80536) ............. 90,000,000
   --------------
-  813  12550-02-3
+  809  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43649,7 +43591,7 @@ S T A T E  O F  N E W  Y O R K
   STATE OPERATIONS  2023-24
  
  For payment according to the following schedule:
- 
+
   APPROPRIATIONS  REAPPROPRIATIONS
  
   General Fund .......................  37,543,000  109,570,488
@@ -43681,7 +43623,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total amount available ......................... 300,000
   --------------
-
+ 
  For services and expenses to implement writ-
   ten agreements determining the  terms  and
   conditions of employment between the state
@@ -43697,8 +43639,8 @@ S T A T E  O F  N E W  Y O R K
  Contractual services (51000) ....................... 1,000
  Equipment (56000) .................................. 1,000
   --------------
-  814  12550-02-3
-
+  810  12550-06-3
+ 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
@@ -43709,7 +43651,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
  Management Confidential
- 
+
  Family benefits (23852) .......................... 310,000
  Medical flexible spending program (23853) ........ 500,000
  Pre-tax transportation benefit (23854) ........... 550,000
@@ -43753,7 +43695,7 @@ S T A T E  O F  N E W  Y O R K
   (23860) .......................................... 2,000
  Time  and  attendance  umpire  process admin
   (23861) .......................................... 2,000
-  815  12550-02-3
+  811  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43798,8 +43740,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal ..................... 250,000
   --------------
-  816  12550-02-3
- 
+  812  12550-06-3
+
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
@@ -43844,7 +43786,7 @@ S T A T E  O F  N E W  Y O R K
   Health benefits committees (80344) ... 6,000 ............ (re. $5,300)
  
   Bureau of Criminal Investigation
-
+ 
   Health committee benefits (23881) ... 6,000 ............. (re. $5,300)
  
   State Troopers Unit
@@ -43856,7 +43798,7 @@ S T A T E  O F  N E W  Y O R K
   Doctoral  program  recruitment and retention enhancement fund, compre-
   hensive college graduate program recruitment and retention fund, fee
   mitigation fund, downstate  location  fund,  statewide  professional
-  817  12550-02-3
+  813  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43914,7 +43856,7 @@ S T A T E  O F  N E W  Y O R K
   Joint committee on health benefits (23923) ... 18,000 .. (re. $16,000)
   Contract administration (23924) ... 30,000 ............. (re. $29,000)
   Education and training (23925) ... 99,000 .............. (re. $99,000)
-  818  12550-02-3
+  814  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43928,7 +43870,7 @@ S T A T E  O F  N E W  Y O R K
   Organizational alcohol program (23928) ... 24,000 ...... (re. $24,000)
   Legal defense fund (23929) ... 10,000 .................. (re. $10,000)
   Quality of work life initiatives (23930) ... 73,000 .... (re. $73,000)
-
+ 
  By chapter 60, part B, section 12, of the laws of 2022:
  
   DISTRICT COUNCIL-37
@@ -43946,7 +43888,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 359, section 24, of the laws of 2022:
  
-  SECURITY SUPERVISOR UNIT
+  SECURITY SUPERVISORS UNIT
  
   Employee training and development (23820) ... 63,477 ... (re. $63,477)
   Quality of work life committee (23819) ... 118,440 ..... (re. 118,440)
@@ -43960,7 +43902,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 361 part A, section 27, of the laws of 2022:
  
-  CIVIL SERVICE EMPLOYEE ASSOCIATION
+  CIVIL SERVICE EMPLOYEES ASSOCIATION
  
   Joint committee on health benefits (23838) ...........................
   1,980,864 ......................................... (re. $1,764,000)
@@ -43971,7 +43913,7 @@ S T A T E  O F  N E W  Y O R K
   Employment security committee (23840) ... 793,506 ..... (re. $793,506)
   Work-life services (23942) ... 3,781,531 ............ (re. $3,693,000)
   Discipline (23805) ... 566,930 ........................ (re. $541,000)
-  819  12550-02-3
+  815  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -43993,10 +43935,10 @@ S T A T E  O F  N E W  Y O R K
   605,312 ............................................. (re. $605,312)
   Work related clothing (institutional services unit) (23849) ..........
   112,616 ............................................. (re. $112,616)
-  Work related clothing (administrative services unit) (23847) .........
+  Work related clothing (administrative services unit) (23947) .........
   62,500 ............................................... (re. $62,500)
   Contract administration (23850) ... 400,000 ........... (re. $400,000)
-
+ 
  By chapter 50, section 1, of the laws of 2021, as amended by chapter 50,
   section 1, of the laws of 2022:
   For  training  and  professional  development  of  state employees for
@@ -44029,7 +43971,7 @@ S T A T E  O F  N E W  Y O R K
   Work related clothing (ASU) (23947) ... 38,000 ......... (re. $12,000)
   Work related clothing (OSU) (23845) ... 924,000 ....... (re. $141,000)
   Tool allowance (OSU) (23846) ... 65,000 ................ (re. $15,000)
-  820  12550-02-3
+  816  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44040,7 +43982,7 @@ S T A T E  O F  N E W  Y O R K
   Tool insurance (OSU) (23847) ... 23,000 ................ (re. $23,000)
   Uniform allowance (ISU) (23848) ... 357,000 ............ (re. $76,000)
   Work related clothing (ISU) (23849) ... 67,000 ......... (re. $31,000)
-
+ 
   District Council-37
  
   Joint committee on health benefits (23857) ... 5,000 .... (re. $2,500)
@@ -44067,7 +44009,7 @@ S T A T E  O F  N E W  Y O R K
   Bureau of Criminal Investigation
  
   Health committee benefits (23881) ... 3,000 ............. (re. $2,000)
- 
+
   State Troopers Unit
  
   Health benefits committees (23883) ... 8,000 ............ (re. $4,000)
@@ -44087,8 +44029,8 @@ S T A T E  O F  N E W  Y O R K
   state agencies.
  
   Labor management committees (23817) ... 327,000 ....... (re. $260,000)
-  821  12550-02-3
- 
+  817  12550-06-3
+
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
@@ -44144,12 +44086,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 50, section 1, of the laws of 2020, as amended by chapter 50,
   section 1, of the laws of 2022:
-  822  12550-02-3
+  818  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   For training and  professional  development  of  state  employees  for
@@ -44164,7 +44106,7 @@ S T A T E  O F  N E W  Y O R K
   be suballocated to other state agencies (23802):
   Personal service--regular (50100) ... 1,000 ............. (re. $1,000)
   Supplies and materials (57000) ... 1,000 ................ (re. $1,000)
- 
+
   Management Confidential
  
   Medical flexible spending program (23853) ............................
@@ -44200,12 +44142,12 @@ S T A T E  O F  N E W  Y O R K
   committees. A portion of these funds may be suballocated  or  trans-
   ferred to other state agencies (23835) .............................
   3,857,000 ......................................... (re. $1,589,000)
-  823  12550-02-3
+  819  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  By chapter 50, section 1, of the laws of 2019, as amended by chapter 50,
@@ -44256,19 +44198,19 @@ S T A T E  O F  N E W  Y O R K
   committees. A portion of these funds may be suballocated  or  trans-
   ferred to other state agencies (23835) .............................
   3,781,000 ........................................... (re. $866,058)
-  824  12550-02-3
+  820  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
- 
+
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
  By  chapter 24, section 22 of part A, of the laws of 2019, as amended by
   chapter 50, section 1, of the laws of 2020:
  
   State Troopers Unit
-
+ 
   Contract Administration (23884) ... 50,000 ............. (re. $50,000)
  
  By  chapter 24, section 24 of part C, of the laws of 2019, as amended by
@@ -44286,7 +44228,7 @@ S T A T E  O F  N E W  Y O R K
   Organizational alcoholism program (23892) ... 683,000 . (re. $547,000)
   Labor Management Training (23893) ... 438,000 ......... (re. $438,000)
   Prevention Training (23950) ... 5,000,000 ........... (re. $5,000,000)
-
+ 
  By chapter 337, section 24 of part A, of the laws of 2019, as amended by
   chapter 50, section 1, of the laws of 2020:
  
@@ -44305,7 +44247,7 @@ S T A T E  O F  N E W  Y O R K
   Development  Committee,  Pre-Tax  and Work-Life Services Programs. A
   portion of these funds may be suballocated or transferred  to  other
   state agencies (23951) ... 2,280,000 ................ (re. $131,000)
-
+ 
  By chapter 50, section 1, of the laws of 2018, as amended by chapter 50,
   section 1, of the laws of 2020:
   For  services and expenses to implement written agreements determining
@@ -44314,8 +44256,8 @@ S T A T E  O F  N E W  Y O R K
   to article 14 of the civil service law. A portion of these funds may
   be suballocated to other state agencies (23802):
   Personal service--regular (50100) ... 247,000 ........... (re. $1,000)
-  825  12550-02-3
- 
+  821  12550-06-3
+
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   LABOR MANAGEMENT COMMITTEES
@@ -44336,10 +44278,10 @@ S T A T E  O F  N E W  Y O R K
   Committees.  A  portion of these funds may be suballocated or trans-
   ferred to other state agencies (23835) .............................
   8,700,000 ......................................... (re. $2,409,000)
-  826  12550-02-3
+  822  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
-
+ 
   LOCAL GOVERNMENT ASSISTANCE
  
   STATE OPERATIONS  2023-24
@@ -44367,7 +44309,7 @@ S T A T E  O F  N E W  Y O R K
  
  Contractual services (51000) ................... 2,500,000
   --------------
-  827  12550-02-3
+  823  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44425,7 +44367,7 @@ S T A T E  O F  N E W  Y O R K
   including  suballocation  to various agen-
   cies that administer  or  receive  funding
   from this grant (81003).
-  828  12550-02-3
+  824  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44438,14 +44380,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Program account subtotal .................. 30,090,000
   --------------
-  829  12550-02-3
- 
+  825  12550-06-3
+
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   NATIONAL AND COMMUNITY SERVICE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
  OPERATIONS PROGRAM
  
   Special Revenue Funds - Federal
@@ -44493,9 +44435,9 @@ S T A T E  O F  N E W  Y O R K
   administer or receive funding from this grant (81003).
   Personal service (50000) ... 1,005,000 ................ (re. $605,000)
   Nonpersonal service (57050) ... 29,000,000 ......... (re. $18,095,000)
-
+ 
  By chapter 50, section 1, of the laws of 2016:
-  830  12550-02-3
+  826  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44508,10 +44450,10 @@ S T A T E  O F  N E W  Y O R K
   administer or receive funding from this grant (81003).
   Personal service (50000) ... 1,000,000 ................ (re. $932,000)
   Nonpersonal service (57050) ... 29,000,000 ......... (re. $16,781,000)
-  831  12550-02-3
+  827  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
-
+ 
   PUBLIC SECURITY AND EMERGENCY RESPONSE
  
   STATE OPERATIONS  2023-24
@@ -44537,7 +44479,7 @@ S T A T E  O F  N E W  Y O R K
   advance of the  availability  of  federal  reimbursement
   (81024) .................................................. 500,000,000
   --------------
-  832  12550-02-3
+  828  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44546,7 +44488,7 @@ S T A T E  O F  N E W  Y O R K
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   All Funds
- 
+
  By chapter 50, section 1, of the laws of 2022:
   For  services  and  expenses  to prevent, deter, or respond to acts of
   terrorism, disasters, or other emergencies. This amount is appropri-
@@ -44595,14 +44537,14 @@ S T A T E  O F  N E W  Y O R K
   the  federal  community development block grant program or any other
   federal program providing disaster  aid,  in  recognition  that  the
   state  was  required  to  make payments for eligible projects and/or
-  833  12550-02-3
- 
+  829  12550-06-3
+
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   PUBLIC SECURITY AND EMERGENCY RESPONSE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
-
+ 
   activities in advance of the availability of  federal  reimbursement
   (81024) ... 200,000,000 ......................... (re. $141,864,000)
  
@@ -44639,7 +44581,7 @@ S T A T E  O F  N E W  Y O R K
   state  was  required  to  make payments for eligible projects and/or
   activities in advance of the availability of  federal  reimbursement
   (81024) ... 200,000,000 ......................... (re. $155,028,000)
- 
+
  By chapter 50, section 1, of the laws of 2017:
   For  services  and  expenses  to prevent, deter, or respond to acts of
   terrorism, disasters, or other emergencies. This amount is appropri-
@@ -44653,7 +44595,7 @@ S T A T E  O F  N E W  Y O R K
   credit these appropriations with federal grants received pursuant to
   the  federal  community development block grant program or any other
   federal program providing disaster  aid,  in  recognition  that  the
-  834  12550-02-3
+  830  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44681,7 +44623,7 @@ S T A T E  O F  N E W  Y O R K
   state  was  required  to  make payments for eligible projects and/or
   activities in advance of the availability of  federal  reimbursement
   (81024) ... 200,000,000 .......................... (re. $97,913,000)
- 
+
  By chapter 50, section 1, of the laws of 2015:
   For  services  and  expenses  to prevent, deter, or respond to acts of
   terrorism, disasters, or other emergencies. This amount is appropri-
@@ -44711,7 +44653,7 @@ S T A T E  O F  N E W  Y O R K
   any provision of law to the contrary, the  state  comptroller  shall
   credit these appropriations with federal grants received pursuant to
   the  federal  community development block grant program or any other
-  835  12550-02-3
+  831  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44723,7 +44665,7 @@ S T A T E  O F  N E W  Y O R K
   state  was  required  to  make payments for eligible projects and/or
   activities in advance of the availability of  federal  reimbursement
   (81024) ... 200,000,000 ......................... (re. $191,155,000)
- 
+
  By chapter 50, section 1, of the laws of 2013:
   For  services  and  expenses  to prevent, deter, or respond to acts of
   terrorism, disasters, or other emergencies. This amount is appropri-
@@ -44762,21 +44704,21 @@ S T A T E  O F  N E W  Y O R K
   description of the program or purpose to be funded, and  the  guide-
   lines for accessing or distributing the funding (80924) ............
   8,000,000,000 ................................. (re. $7,372,896,000)
-
+ 
  By chapter 50, section 1, of the laws of 2012, as amended by chapter 50,
   section 1, of the laws of 2013:
   For  services  and  expenses  to prevent, deter, or respond to acts of
   terrorism, disasters, or other emergencies. This amount is appropri-
   ated from monies available in  any  fund  of  the  state,  including
   monies  received from external sources. This appropriation is avail-
-  836  12550-02-3
+  832  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   PUBLIC SECURITY AND EMERGENCY RESPONSE
  
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
- 
+
   able for payments for state operations, aid to localities, or  capi-
   tal  purposes  and may be suballocated, transferred, or allocated to
   any state department, division, agency, or authority pursuant  to  a
@@ -44804,12 +44746,12 @@ S T A T E  O F  N E W  Y O R K
   location, or allocation  to  all  state  departments,  agencies  and
   public  authorities  pursuant to a certificate of approval issued by
   the director of the budget (81024) ... 9,000,000 .. (re. $8,079,000)
-  837  12550-02-3
+  833  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
   RACING REFORM PROGRAM
-
+ 
   STATE OPERATIONS - REAPPROPRIATIONS  2023-24
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -44844,7 +44786,7 @@ S T A T E  O F  N E W  Y O R K
   oversight board (80531).
   Contractual services (51000) ... 995,000 .............. (re. $631,100)
   Travel (54000) ... 5,000 ................................ (re. $4,600)
-  838  12550-02-3
+  834  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44865,7 +44807,7 @@ S T A T E  O F  N E W  Y O R K
   audit  disallowances which reduce available grant awards
   (80533) .................................................. 500,000,000
   ==============
-  839  12550-02-3
+  835  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44878,18 +44820,21 @@ S T A T E  O F  N E W  Y O R K
   All  Funds  Special  Emergency  Appropriation  Account -
   72800
  
- The sum of $2,000,000,000 is  hereby  appropriated  solely
+ The sum of $1,000,000,000 is  hereby  appropriated  solely
   for  transfer  by  the  governor to the general, special
   revenue,  capital  projects,  proprietary  or  fiduciary
   funds  to  meet  unanticipated  emergencies,  including
   public health emergencies, pursuant to section 53 of the
   state finance law. Such funds  shall  be  available  for
   payment  of  financial  assistance heretofore accrued or
-  hereafter to accrue. Use of  such  funds  shall  not  be
-  subject  to  the requirements of sections 112 and 163 of
-  the state finance law (80554) .......................... 2,000,000,000
+  hereafter to accrue.  Notwithstanding section 24 of  the
+  state finance law or any provision of law to the contra-
+  ry,  funds  from  this  appropriation shall be allocated
+  only pursuant to a plan developed by  the  Governor  and
+  approved  by  the  speaker of the Assembly and temporary
+  president of the Senate (80554) ........................ 1,000,000,000
   ==============
-  840  12550-02-3
+  836  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44902,7 +44847,7 @@ S T A T E  O F  N E W  Y O R K
   All  Funds  Special  Emergency  Appropriation  Account -
   72800
  
- The sum of $10,000,000,000 is hereby  appropriated  solely
+ The sum of $2,000,000,000 is  hereby  appropriated  solely
   for  transfer  by  the  governor to funds established to
   account for revenues  from  the  federal  government  in
   order  to  meet  unanticipated or emergency expenditures
@@ -44910,55 +44855,22 @@ S T A T E  O F  N E W  Y O R K
   addition, to the extent necessary to spend monies avail-
   able  to  recover  from  natural  or  man-made disasters
   including public health emergencies, funds  appropriated
-  herein  may  be suballocated, subject to the approval of
-  the director of the budget,  to  any  state  department,
-  agency  or  public authority for purposes including, but
-  not limited to, making payments to fund lower and higher
-  education,  testing  and  tracing,  vaccination,  rental
-  assistance,  child  care support and stabilization fund-
-  ing, heating  and  energy  assistance,  FEMA  public  or
-  direct  assistance payments and other federal funding to
-  local governments passed through the state. Funds appro-
-  priated  herein  shall  be  subject  to  all  applicable
-  reporting  and  accountability requirements contained in
-  the act or acts making such  federal  revenue  available
-  (80548) ............................................... 10,000,000,000
+  herein  may  be  suballocated,  only  pursuant to a plan
+  developed by the Governor and approved by the speaker of
+  the Assembly and temporary president of the  Senate,  to
+  any  state  department,  agency  or public authority for
+  purposes including, but not limited to, making  payments
+  to fund lower and higher education, testing and tracing,
+  vaccination,  rental  assistance, child care support and
+  stabilization funding, heating  and  energy  assistance,
+  FEMA  public  or  direct  assistance  payments and other
+  federal funding to local governments passed through  the
+  state. Funds appropriated herein shall be subject to all
+  applicable  reporting  and  accountability  requirements
+  contained in the act or acts making such federal revenue
+  available (80548) ...................................... 2,000,000,000
   --------------
-  841  12550-02-3
- 
-  MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
- 
-  SPECIAL PUBLIC HEALTH EMERGENCY APPROPRIATION
- 
-  STATE OPERATIONS  2023-24
- 
-  Unspecified Funds
-  All Funds Special Emergency Appropriation Account
-  All  Funds  Special  Emergency  Appropriation  Account -
-  72800
-
- The sum  of  $6,000,000,000  is  hereby  appropriated  for
-  transfer  by the governor to the general, special reven-
-  ue, capital projects, proprietary or fiduciary funds  of
-  any  agency,  department,  or authority for services and
-  expenses related to the outbreak of coronavirus  disease
-  2019  (COVID-19).  Such funds shall be used for purposes
-  including, but not  limited  to,  additional  personnel,
-  equipment  and  supplies,  travel  costs, trainings, and
-  and/or responding to the direct and  indirect  economic,
-  financial,  or  social  effects  of COVID-19. Such funds
-  shall be available for payment of  financial  assistance
-  heretofore accrued or hereafter to accrue, and a portion
-  of  these  funds  may  be made available as state aid to
-  municipalities, school  districts,  public  authorities,
-  and  eligible  nonprofit  organizations  for  any of the
-  purposes stated above. Use of such funds  shall  not  be
-  subject  to  the requirements of sections 112 and 163 of
-  the state  finance  law.  Any  disbursements  from  this
-  appropriation  shall  be reported by the director of the
-  budget on a quarterly basis (85072) .................... 6,000,000,000
-  ==============
-  842  12550-02-3
+  837  12550-06-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -44975,29 +44887,29 @@ S T A T E  O F  N E W  Y O R K
   agreement between the New York state department of civil
   service and the state insurance fund (80532) ............... 9,590,000
   ==============
-  843  12550-02-3
+  838  12550-06-3
  
   TABLE OF CONTENTS
   Page
  
  SECTION 1 - STATE AGENCIES ........................................... 1
  
-  ADIRONDACK PARK AGENCY ............................................. 4
+  ADIRONDACK PARK AGENCY ............................................. 3
  
-  AGING, OFFICE FOR THE .............................................. 5
+  AGING, OFFICE FOR THE .............................................. 4
  
-  AGRICULTURE AND MARKETS, DEPARTMENT OF ............................. 9
+  AGRICULTURE AND MARKETS, DEPARTMENT OF ............................. 8
+ 
+  ALCOHOLIC BEVERAGE CONTROL ........................................ 39
+ 
+  ARTS, COUNCIL ON THE .............................................. 48
+ 
+  AUDIT AND CONTROL, DEPARTMENT OF .................................. 51
+ 
+  BUDGET, DIVISION OF THE ........................................... 58
+ 
+  CITY UNIVERSITY OF NEW YORK ....................................... 64
 
-  ALCOHOLIC BEVERAGE CONTROL ........................................ 40
- 
-  ARTS, COUNCIL ON THE .............................................. 49
- 
-  AUDIT AND CONTROL, DEPARTMENT OF .................................. 52
- 
-  BUDGET, DIVISION OF THE ........................................... 59
- 
-  CITY UNIVERSITY OF NEW YORK ....................................... 65
- 
   CIVIL SERVICE, DEPARTMENT OF ...................................... 72
  
   CORRECTION, COMMISSION OF ......................................... 79
@@ -45011,167 +44923,165 @@ S T A T E  O F  N E W  Y O R K
   ECONOMIC DEVELOPMENT, DEPARTMENT OF .............................. 111
  
   EDUCATION DEPARTMENT ............................................. 122
+ 
+  ELECTIONS, STATE BOARD OF ........................................ 175
+ 
+  EMPLOYEE RELATIONS, OFFICE OF .................................... 183
+ 
+  ENVIRONMENTAL CONSERVATION, DEPARTMENT OF ........................ 185
+ 
+  ETHICS AND LOBBYING IN GOVERNMENT, COMMISSION ON ................. 238
+ 
+  EXECUTIVE CHAMBER ................................................ 239
 
-  ELECTIONS, STATE BOARD OF ........................................ 174
- 
-  EMPLOYEE RELATIONS, OFFICE OF .................................... 182
- 
-  ENVIRONMENTAL CONSERVATION, DEPARTMENT OF ........................ 184
- 
-  COMMISSION ON ETHICS AND LOBBYING IN GOVERNMENT .................. 239
- 
-  EXECUTIVE CHAMBER ................................................ 240
- 
-  LIEUTENANT GOVERNOR, OFFICE OF THE ............................. 241
+  LIEUTENANT GOVERNOR, OFFICE OF THE ............................. 240
  
   FAMILY ASSISTANCE, DEPARTMENT OF
  
-  CHILDREN AND FAMILY SERVICES, OFFICE OF ........................ 242
+  CHILDREN AND FAMILY SERVICES, OFFICE OF ........................ 241
  
-  TEMPORARY AND DISABILITY ASSISTANCE, OFFICE OF ................. 312
+  TEMPORARY AND DISABILITY ASSISTANCE, OFFICE OF ................. 309
  
-  FINANCIAL CONTROL BOARD, NEW YORK STATE .......................... 344
-  844  12550-02-3
+  FINANCIAL CONTROL BOARD, NEW YORK STATE .......................... 339
+  839  12550-06-3
  
   TABLE OF CONTENTS
   Page
  
-  FINANCIAL SERVICES, DEPARTMENT OF ................................ 345
+  FINANCIAL SERVICES, DEPARTMENT OF ................................ 340
  
-  GAMING COMMISSION, NEW YORK STATE ................................ 365
+  GAMING COMMISSION, NEW YORK STATE ................................ 360
  
-  GENERAL SERVICES, OFFICE OF ...................................... 372
+  GENERAL SERVICES, OFFICE OF ...................................... 367
  
-  HEALTH, DEPARTMENT OF ............................................ 386
- 
-  MEDICAID INSPECTOR GENERAL, OFFICE OF THE ...................... 468
- 
-  HIGHER EDUCATION SERVICES CORPORATION ............................ 471
- 
-  HOMELAND SECURITY AND EMERGENCY SERVICES, DIVISION OF ............ 474
- 
-  HOUSING AND COMMUNITY RENEWAL, DIVISION OF ....................... 486
- 
-  MORTGAGE AGENCY, STATE OF NEW YORK ............................. 509
- 
-  HUMAN RIGHTS, DIVISION OF ........................................ 511
- 
-  INDIGENT LEGAL SERVICES, OFFICE OF ............................... 514
+  HEALTH, DEPARTMENT OF ............................................ 381
 
-  INFORMATION TECHNOLOGY SERVICES, OFFICE OF ....................... 516
+  MEDICAID INSPECTOR GENERAL, OFFICE OF THE ...................... 463
  
-  INSPECTOR GENERAL, OFFICE OF THE STATE ........................... 526
+  HIGHER EDUCATION SERVICES CORPORATION ............................ 466
  
-  INTEREST ON LAWYER ACCOUNT ....................................... 529
+  HOMELAND SECURITY AND EMERGENCY SERVICES, DIVISION OF ............ 469
  
-  JUDICIAL CONDUCT, COMMISSION ON .................................. 530
+  HOUSING AND COMMUNITY RENEWAL, DIVISION OF ....................... 481
  
-  JUDICIAL NOMINATION, COMMISSION ON ............................... 531
+  MORTGAGE AGENCY, STATE OF NEW YORK ............................. 504
  
-  JUDICIAL SCREENING COMMITTEES .................................... 532
+  HUMAN RIGHTS, DIVISION OF ........................................ 506
+ 
+  INDIGENT LEGAL SERVICES, OFFICE OF ............................... 509
+ 
+  INFORMATION TECHNOLOGY SERVICES, OFFICE OF ....................... 511
+ 
+  INSPECTOR GENERAL, OFFICE OF THE STATE ........................... 521
+ 
+  INTEREST ON LAWYER ACCOUNT ....................................... 524
+ 
+  JUDICIAL CONDUCT, COMMISSION ON .................................. 525
+ 
+  JUDICIAL NOMINATION, COMMISSION ON ............................... 526
+
+  JUDICIAL SCREENING COMMITTEES .................................... 527
  
   JUSTICE CENTER FOR THE PROTECTION OF PEOPLE WITH SPECIAL
-  NEEDS .......................................................... 533
+  NEEDS .......................................................... 528
  
-  LABOR, DEPARTMENT OF ............................................. 541
+  LABOR, DEPARTMENT OF ............................................. 536
  
-  LAW, DEPARTMENT OF ............................................... 571
+  LAW, DEPARTMENT OF ............................................... 566
  
-  MENTAL HYGIENE, DEPARTMENT OF .................................... 584
+  MENTAL HYGIENE, DEPARTMENT OF .................................... 579
  
-  ADDICTION SERVICES AND SUPPORTS, OFFICE OF ..................... 585
-
-  MENTAL HEALTH, OFFICE OF ....................................... 595
+  ADDICTION SERVICES AND SUPPORTS, OFFICE OF ..................... 581
  
-  PEOPLE WITH DEVELOPMENTAL DISABILITIES, OFFICE FOR ............. 610
+  MENTAL HEALTH, OFFICE OF ....................................... 591
  
-  MILITARY AND NAVAL AFFAIRS, DIVISION OF .......................... 625
+  PEOPLE WITH DEVELOPMENTAL DISABILITIES, OFFICE FOR ............. 606
  
-  MOTOR VEHICLES, DEPARTMENT OF .................................... 633
-  845  12550-02-3
+  MILITARY AND NAVAL AFFAIRS, DIVISION OF .......................... 621
+ 
+  MOTOR VEHICLES, DEPARTMENT OF .................................... 629
+  840  12550-06-3
  
   TABLE OF CONTENTS
   Page
  
-  OLYMPIC REGIONAL DEVELOPMENT AUTHORITY ........................... 643
+  OLYMPIC REGIONAL DEVELOPMENT AUTHORITY ........................... 639
  
-  PARKS, RECREATION AND HISTORIC PRESERVATION, OFFICE OF ........... 646
+  PARKS, RECREATION AND HISTORIC PRESERVATION, OFFICE OF ........... 642
  
-  PREVENTION OF DOMESTIC VIOLENCE, OFFICE FOR THE .................. 673
+  PREVENTION OF DOMESTIC VIOLENCE, OFFICE FOR THE .................. 669
  
-  PROSECUTORIAL CONDUCT, COMMISSION ON ............................. 676
+  PROSECUTORIAL CONDUCT, COMMISSION ON ............................. 672
+ 
+  PUBLIC EMPLOYMENT RELATIONS BOARD ................................ 673
+ 
+  PUBLIC SERVICE, DEPARTMENT OF .................................... 675
+ 
+  STATE, DEPARTMENT OF ............................................. 679
+ 
+  STATE POLICE, DIVISION OF ........................................ 700
+ 
+  STATE UNIVERSITY OF NEW YORK ..................................... 711
 
-  PUBLIC EMPLOYMENT RELATIONS BOARD ................................ 677
+  STATEWIDE FINANCIAL SYSTEM ....................................... 733
  
-  PUBLIC SERVICE, DEPARTMENT OF .................................... 679
+  TAXATION AND FINANCE, DEPARTMENT OF .............................. 734
  
-  STATE, DEPARTMENT OF ............................................. 683
+  TAX APPEALS, DIVISION OF ......................................... 746
  
-  STATE POLICE, DIVISION OF ........................................ 703
+  TRANSPORTATION, DEPARTMENT OF .................................... 747
  
-  STATE UNIVERSITY OF NEW YORK ..................................... 714
+  VETERANS' SERVICES, DEPARTMENT OF ................................ 770
  
-  STATEWIDE FINANCIAL SYSTEM ....................................... 736
+  VICTIM SERVICES, OFFICE OF ....................................... 774
  
-  TAXATION AND FINANCE, DEPARTMENT OF .............................. 737
+  WELFARE INSPECTOR GENERAL, OFFICE OF ............................. 781
  
-  TAX APPEALS, DIVISION OF ......................................... 749
- 
-  TRANSPORTATION, DEPARTMENT OF .................................... 750
- 
-  VETERANS' SERVICES, DEPARTMENT OF ................................ 773
- 
-  VICTIM SERVICES, OFFICE OF ....................................... 777
- 
-  WELFARE INSPECTOR GENERAL, OFFICE OF ............................. 784
-
-  WORKERS' COMPENSATION BOARD ...................................... 786
+  WORKERS' COMPENSATION BOARD ...................................... 783
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES:
  
-  ADDITIONAL STATEWIDE COUNTER-TERRORISM ......................... 788
+  ADDITIONAL STATEWIDE COUNTER-TERRORISM ......................... 785
  
-  DATA ANALYTICS ................................................. 789
+  DATA ANALYTICS ................................................. 786
  
-  DEFERRED COMPENSATION BOARD .................................... 790
+  DEFERRED COMPENSATION BOARD .................................... 787
+
+  GENERAL STATE CHARGES .......................................... 788
  
-  GENERAL STATE CHARGES .......................................... 791
- 
-  GREEN THUMB PROGRAM ............................................ 805
+  GREEN THUMB PROGRAM ............................................ 801
  
   GREENWAY HERITAGE CONSERVANCY FOR THE HUDSON RIVER
-  VALLEY ....................................................... 806
+  VALLEY ....................................................... 802
  
-  HEALTH CARE AND MENTAL HYGIENE WORKER BONUSES .................. 807
+  HEALTH CARE AND MENTAL HYGIENE WORKER BONUSES .................. 803
  
-  HEALTH INSURANCE CONTINGENCY RESERVE ........................... 808
-  846  12550-02-3
-
+  HEALTH INSURANCE CONTINGENCY RESERVE ........................... 804
+  841  12550-06-3
+ 
   TABLE OF CONTENTS
   Page
  
-  HEALTH INSURANCE RESERVE RECEIPTS FUND ......................... 809
+  HEALTH INSURANCE RESERVE RECEIPTS FUND ......................... 805
  
-  HUDSON RIVER VALLEY GREENWAY COMMUNITIES COUNCIL ............... 810
+  HUDSON RIVER VALLEY GREENWAY COMMUNITIES COUNCIL ............... 806
  
-  INSURANCE AND SECURITIES FUNDS RESERVE GUARANTEE ............... 811
- 
-  LABOR MANAGEMENT COMMITTEES .................................... 813
- 
-  LOCAL GOVERNMENT ASSISTANCE .................................... 826
- 
-  NATIONAL AND COMMUNITY SERVICE ................................. 827
- 
-  PUBLIC SECURITY AND EMERGENCY RESPONSE ......................... 831
- 
-  RACING REFORM PROGRAM .......................................... 837
- 
-  RESERVE FOR FEDERAL AUDIT DISALLOWANCES ........................ 838
- 
-  SPECIAL EMERGENCY APPROPRIATION ................................ 839
+  INSURANCE AND SECURITIES FUNDS RESERVE GUARANTEE ............... 807
 
-  SPECIAL FEDERAL EMERGENCY APPROPRIATION ........................ 840
+  LABOR MANAGEMENT COMMITTEES .................................... 809
  
-  SPECIAL PUBLIC HEALTH EMERGENCY APPROPRIATION .................. 841
+  LOCAL GOVERNMENT ASSISTANCE .................................... 822
  
-  WORKERS' COMPENSATION RESERVE .................................. 842
+  NATIONAL AND COMMUNITY SERVICE ................................. 823
+ 
+  PUBLIC SECURITY AND EMERGENCY RESPONSE ......................... 827
+ 
+  RACING REFORM PROGRAM .......................................... 833
+ 
+  RESERVE FOR FEDERAL AUDIT DISALLOWANCES ........................ 834
+ 
+  SPECIAL EMERGENCY APPROPRIATION ................................ 835
+ 
+  SPECIAL FEDERAL EMERGENCY APPROPRIATION ........................ 836
+ 
+  WORKERS' COMPENSATION RESERVE .................................. 837
