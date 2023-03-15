@@ -1,6 +1,6 @@
 # Authorizes retail licenses to sell liquor for on-premises consumption at airline lounges
 
-**Bill ID:** S4352A
+**Bill ID:** S4352AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes retail licenses to sell liquor for on-premises consumption at airline
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4352
+  4352--A
  
   2023-2024 Regular Sessions
  
@@ -27,21 +27,22 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the alcoholic  beverage  control  law,  in  relation  to
+ AN  ACT  to  amend  the  alcoholic  beverage control law, in relation to
   authorizing retail licenses to sell liquor for on-premises consumption
   at airline lounges
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 3 of the alcoholic beverage control law is  amended
+  Section  1. Section 3 of the alcoholic beverage control law is amended
  by adding a new subdivision 39 to read as follows:
   39. "AIRLINE LOUNGE" MEANS AND INCLUDES ANY PREMISES LOCATED WITHIN AN
- AIRPORT  AND  SUCH  PREMISES  IS  OWNED  OR  OPERATED BY A UNITED STATES
- CERTIFICATED AIRLINE WHICH REGULARLY AND IN A BONA FIDE MANNER FURNISHES
- PROVISIONS AND SERVICES THEREIN.
+ AIRPORT AND SUCH PREMISES IS OWNED, LEASED,  OR  OPERATED  BY  A  UNITED
+ STATES  CERTIFICATED  AIRLINE  WHICH REGULARLY AND IN A BONA FIDE MANNER
+ FURNISHES PROVISIONS AND SERVICES THEREIN.
   § 2.  Subdivision 6 of section 64-a of the  alcohol  beverage  control
  law,  as  amended by chapter 475 of the laws of 2011, is amended to read
  as follows:
@@ -58,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  meals, and where all seating is at tables where meals are served.
   § 3.  Section 106 of the alcoholic beverage control law is amended  by
  adding a new subdivision 8-a to read as follows:
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02928-03-3
- S. 4352  2
+  LBD02928-04-3
+ S. 4352--A  2
  
   8-A.  A  LICENSE ISSUED FOR SUCH PREMISES AS ARE BEING CONDUCTED AS AN
  AIRLINE LOUNGE SHALL AUTHORIZE THE HOLDER THEREOF TO SELL AT  RETAIL  OR
  GIVE AWAY ALCOHOLIC BEVERAGES ONLY TO PERSONS WITH CERTAIN AIRLINE TICK-
- ET PRIVILEGES AND LOYALTY PROGRAM MEMBERS AS AUTHORIZED BY SUCH LICENSEE
- AND  ONLY FOR CONSUMPTION ON THE PREMISES WHERE SOLD. FOOD SHALL BE MADE
- REGULARLY AVAILABLE FOR SALE OR OTHERWISE TO SUCH PERSONS  FOR  CONSUMP-
- TION ON THE PREMISES.
+ ET OR LOUNGE ACCESS PRIVILEGES AND LOYALTY PROGRAM MEMBERS AS AUTHORIZED
+ BY  SUCH  LICENSEE  AND ONLY FOR CONSUMPTION ON THE PREMISES WHERE SOLD.
+ FOOD SHALL BE MADE REGULARLY AVAILABLE FOR SALE  OR  OTHERWISE  TO  SUCH
+ PERSONS FOR CONSUMPTION ON THE PREMISES.
   § 4. This act shall take effect immediately.
