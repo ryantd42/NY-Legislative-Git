@@ -1,6 +1,6 @@
 # Requires labeling of ingredients on packages or boxes of diapers
 
-**Bill ID:** A43C
+**Bill ID:** A43CA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Requires a plain and conspicuous printed list of all ingredients listed in order
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  43
+  43--A
  
   2023-2024 Regular Sessions
  
@@ -28,11 +28,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Consumer Affairs and Protection
- 
+  Committee on Consumer Affairs and Protection -- committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
+
  AN ACT to amend the general business law, in  relation  to  labeling  of
   ingredients of diapers
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -54,14 +56,17 @@ S T A T E  O F  N E W  Y O R K
  OTHER  LABELING REQUIREMENTS ESTABLISHED PURSUANT TO ANY OTHER PROVISION
  OF LAW.
   4. WHENEVER A VIOLATION OF THIS SECTION HAS OCCURRED, A CIVIL  PENALTY
- OF  ONE  THOUSAND  DOLLARS  PER  PACKAGE  OR BOX SHALL BE IMPOSED ON THE
+ OF ONE PERCENT OF THE MANUFACTURER'S TOTAL ANNUAL IN-STATE SALES NOT  TO
+ EXCEED  ONE THOUSAND DOLLARS PER PACKAGE OR BOX SHALL BE IMPOSED  ON THE
  MANUFACTURER.
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01282-02-3
+ A. 43--A  2
+ 
   § 2. This act shall take effect on the one hundred eightieth day after
  it shall have become a law. Effective immediately, the addition,  amend-
  ment and/or repeal of any rule or regulation necessary for the implemen-
  tation  of  this act on its effective date are authorized to be made and
  completed on or before such effective date.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD01282-01-3
