@@ -1,6 +1,6 @@
 # Relates to reporting unmet need for programs and services for the aging
 
-**Bill ID:** A241A
+**Bill ID:** A241AA
 **Session:** 2023
 **Sponsor:** Simcha Eichenstein
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to reporting unmet need, which is the number of eligible individuals see
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  241
+  241--A
  
   2023-2024 Regular Sessions
  
@@ -27,9 +27,11 @@ S T A T E  O F  N E W  Y O R K
   January 4, 2023
   ___________
  
- Introduced  by  M.  of  A.  EICHENSTEIN -- read once and referred to the
-  Committee on Aging
- 
+ Introduced  by  M.  of  A. EICHENSTEIN, BURDICK, SIMON, LUNSFORD -- read
+  once and referred to the Committee on Aging --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
+
  AN ACT to amend the elder law, in relation to reporting unmet  need  for
   programs and services for the aging
  
@@ -38,16 +40,16 @@ S T A T E  O F  N E W  Y O R K
  
   Section 1. Section 203 of the elder law is amended  by  adding  a  new
  subdivision 2-a to read as follows:
-  2-A.  THE  OFFICE  SHALL  COLLECT  FROM  EACH  AREA AGENCY ON AGING AS
- DEFINED BY SUBDIVISION TWO OF THIS SECTION  INFORMATION  CONCERNING  THE
- UNMET  NEED FOR EACH PROGRAM OR SERVICE OFFERED BY THE AREA AGENCY.  FOR
- THE PURPOSES OF THIS SUBDIVISION, UNMET NEED SHALL  BE  DEFINED  AS  THE
- NUMBER  OF  ELIGIBLE  INDIVIDUALS  SEEKING PARTICIPATION IN A PROGRAM OR
- SERVICE AND WHO ARE NOT RECEIVING SUCH PROGRAM OR SERVICE DUE TO  INSUF-
- FICIENT  RESOURCES OR CAPACITY. THE OFFICE SHALL PROVIDE A COMPREHENSIVE
- REPORT ON THE UNMET NEED FOR EACH  PROGRAM  OR  SERVICE  THROUGHOUT  THE
- STATE  TO  THE  SPEAKER  OF  THE ASSEMBLY AND TEMPORARY PRESIDENT OF THE
- SENATE NO LATER THAN DECEMBER THIRTY-FIRST OF EACH YEAR.
+  2-A.  THE OFFICE SHALL COLLECT FROM EACH AREA AGENCY ON AGING INFORMA-
+ TION CONCERNING THE UNMET NEED FOR EACH PROGRAM OR  SERVICE  OFFERED  BY
+ THE  AREA  AGENCY ON AGING.  FOR THE PURPOSES OF THIS SUBDIVISION, UNMET
+ NEED SHALL BE DEFINED AS THE  NUMBER  OF  ELIGIBLE  INDIVIDUALS  SEEKING
+ PARTICIPATION  IN  A  PROGRAM  OR SERVICE AND WHO ARE NOT RECEIVING SUCH
+ PROGRAM OR SERVICE DUE TO INSUFFICIENT RESOURCES OR CAPACITY. THE OFFICE
+ SHALL PROVIDE A COMPREHENSIVE REPORT ON THE UNMET NEED FOR EACH  PROGRAM
+ OR  SERVICE  THROUGHOUT  THE  STATE  TO  THE SPEAKER OF THE ASSEMBLY AND
+ TEMPORARY PRESIDENT OF THE SENATE NO LATER THAN DECEMBER THIRTY-FIRST OF
+ EACH YEAR.
   § 2. This act shall take effect immediately.
  
  
@@ -55,4 +57,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00147-01-3
+  LBD00147-02-3
