@@ -1,6 +1,6 @@
 # Establishes a task force on missing women and girls who are black, indigenous and people of color
 
-**Bill ID:** S4266A
+**Bill ID:** S4266AA
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Establishes a task force on missing women and girls who are black, indigenous an
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4266
+  4266--A
+  Cal. No. 506
  
   2023-2024 Regular Sessions
  
@@ -25,51 +26,53 @@ S T A T E  O F  N E W  Y O R K
   February 7, 2023
   ___________
  
- Introduced  by  Sen.  WEBB  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Women's Issues
+ Introduced  by  Sens.  WEBB,  MARTINEZ, RAMOS, SALAZAR -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Women's  Issues  -- reported favorably from said committee, ordered to
+  first and second report, ordered  to  a  third  reading,  amended  and
+  ordered reprinted, retaining its place in the order of third reading
  
- AN ACT to establish a task force on missing  women  and  girls  who  are
+ AN  ACT  to  establish  a  task force on missing women and girls who are
   black, indigenous and people of color; and providing for the repeal of
   such provisions upon expiration thereof
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Legislative findings  and  intent.  The  legislature  finds
+  Section  1.  Legislative  findings  and  intent. The legislature finds
  that:
-  a.  According  to  a 2020 report by the Women's Media Center there are
- 64,000-75,000 missing black women and girls across the United States.
-  b. Cases involving black women and girls  often  do  not  receive  the
+  a. According to a 2020 report by the Women's Media  Center  there  are
+ 64,000-75,000 missing Black women and girls across the United States.
+  b.  Cases  involving  Black  women  and girls often do not receive the
  attention they need and there are often barriers to families reporting a
- loved one, such as mistrust of police, and racial disparities in how law
- enforcement treat disappearances.
-  c.  The  tens  of  thousands  of black women and girls who are missing
+ loved one, such as mistrust of police, and  racial  disparities  in  how
+ disappearances are tracked.
+  c.  The  tens  of  thousands  of Black women and girls who are missing
  include abductees, sex trafficking victims, and  runaways.  Black  women
  and girls exist at the intersection of racism and sexism, and often face
  worse health, wealth, housing, education, and employment outcomes.
   d.  Black  girls comprise over 40% of domestic sex trafficking victims
  in the United States.
-  e. Law enforcement often categorize missing black  girls  as  runaways
- and fail to treat their cases with urgency.
-  f.  According  to  a  2020 report by the Sovereign Bodies Institute, a
- nonprofit, indigenous-led research organization, at least 2,306  missing
- Native  American  women and girls have gone missing in the last 40 years
+  e. Missing Black girls are often categorized as runaways and there are
+ treatment disparities with their cases.
+  f. According to a 2020 report by the  Sovereign  Bodies  Institute,  a
+ nonprofit,  indigenous-led research organization, at least 2,306 missing
+ Native American women and girls have gone missing in the last  40  years
  in the United States, about 1,800 of whom were killed or vanished.
-  g. Systemic vulnerability and compounding suppressions  have  resulted
- in  mass  amounts  of  disappeared indigenous peoples, with the National
- Congress of American Indians finding that an estimated 40% of women  who
- are  victims  of  sex  trafficking  identify  as American Indian, Alaska
- Native, or First Nations.
-  h. Families of Native American women and girls who have  gone  missing
- report  a  lack  of  cultural awareness, systemic racism and sexism, and
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05565-01-3
- S. 4266  2
+  LBD05565-02-3
+ S. 4266--A  2
  
- widespread apathy by law enforcement and express frustration that  their
- cases are not pursued.
+  g.  Systemic  vulnerability and compounding suppressions have resulted
+ in mass amounts of disappeared indigenous  peoples,  with  the  National
+ Congress  of American Indians finding that an estimated 40% of women who
+ are victims of sex  trafficking  identify  as  American  Indian,  Alaska
+ Native, or First Nations.
+  h.  Families  of Native American women and girls who have gone missing
+ across the country report a lack of cultural awareness, systemic  racism
+ and sexism, and express frustration that their cases are not pursued.
   i.  There is not comprehensive state or federal data about missing and
  murdered Native Americans. Advocates argue  that  poor  record  keeping,
  racial  misclassification,  adverse relationships between tribal govern-
@@ -118,6 +121,8 @@ S T A T E  O F  N E W  Y O R K
  speaker  of  the  assembly,  the  minority  leader of the senate and the
  minority leader of the assembly a report  containing  its  findings  and
  recommendations. Such reports shall be made available to the public.
+ S. 4266--A  3
+ 
   §  3.  This  act  shall take effect on the sixtieth day after it shall
  have become a law and shall expire and be deemed  repealed  three  years
  after such date.
