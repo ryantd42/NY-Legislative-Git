@@ -1,6 +1,6 @@
 # Extends the authorization for Otsego county to impose additional rates of sales and compensating use taxes
 
-**Bill ID:** S2199A
+**Bill ID:** S2199AA
 **Session:** 2023
 **Sponsor:** Peter Oberacker
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Extends the authorization for Otsego county to impose additional rates of sales 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2199
+  2199--A
  
   2023-2024 Regular Sessions
  
@@ -27,31 +27,31 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by Sen. OBERACKER -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT to amend the tax law, in relation to extending the authorization
+ AN ACT to amend the tax law, in relation to extending the  authorization
   for Otsego county to impose additional rates of sales and compensating
   use taxes
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Clause 34 of subparagraph (i) of the opening paragraph of
- section 1210 of the tax law, as amended by  section  1  of  item  JJ  of
- subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
+  Section 1. Clause 34 of subparagraph (i) of the opening  paragraph  of
+ section  1210  of  the  tax  law,  as amended by section 1 of item JJ of
+ subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
  read as follows:
-  (34) the county of Otsego is hereby further authorized  and  empowered
- to  adopt  and amend local laws, ordinances or resolutions imposing such
- taxes at a rate which is one percent additional  to  the  three  percent
- rate  authorized  above in this paragraph for such county for the period
- beginning December first, two thousand three, and ending November  thir-
- tieth, two thousand [twenty-three] TWENTY-SIX;
+  (34)  the  county of Otsego is hereby further authorized and empowered
+ to adopt and amend local laws, ordinances or resolutions  imposing  such
+ taxes  at  a  rate  which is one percent additional to the three percent
+ rate authorized above in this paragraph for such county for  the  period
+ beginning  December first, two thousand three, and ending November thir-
+ tieth, two thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05976-01-3
+  LBD05976-02-3
