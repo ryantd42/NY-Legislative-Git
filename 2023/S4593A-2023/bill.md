@@ -1,6 +1,6 @@
 # Extends the authorization for additional sales and use tax for Schoharie county
 
-**Bill ID:** S4593A
+**Bill ID:** S4593AA
 **Session:** 2023
 **Sponsor:** Peter Oberacker
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Extends the authorization for additional sales and use tax for Schoharie county.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4593
+  4593--A
  
   2023-2024 Regular Sessions
  
@@ -27,30 +27,31 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by Sen. OBERACKER -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT to amend the tax law, in relation to extending the authorization
+ AN ACT to amend the tax law, in relation to extending the  authorization
   for imposition of additional sales tax in the county of Schoharie
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Clause 35 of subparagraph (i) of the opening paragraph of
- section 1210 of the tax law, as amended by  section  1  of  item  PP  of
- subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
+  Section 1. Clause 35 of subparagraph (i) of the opening  paragraph  of
+ section  1210  of  the  tax  law,  as amended by section 1 of item PP of
+ subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
  read as follows:
   (35)  the  county  of  Schoharie  is  hereby  further  authorized  and
- empowered  to  adopt  and  amend  local  laws, ordinances or resolutions
- imposing such taxes at a rate which is one  percent  additional  to  the
- three  percent  rate  authorized above in this paragraph for such county
- for the period beginning June  first,  two  thousand  four,  and  ending
- November thirtieth, two thousand [twenty-three] TWENTY-SIX;
+ empowered to adopt and  amend  local  laws,  ordinances  or  resolutions
+ imposing  such  taxes  at  a rate which is one percent additional to the
+ three percent rate authorized above in this paragraph  for  such  county
+ for  the  period  beginning  June  first,  two thousand four, and ending
+ November thirtieth, two thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
  
  
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09339-01-3
+  LBD09339-02-3
