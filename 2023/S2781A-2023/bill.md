@@ -1,6 +1,6 @@
 # Extends the authorization granted to the county of Warren to impose an additional mortgage recording tax
 
-**Bill ID:** S2781A
+**Bill ID:** S2781AA
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Extends the authorization granted to the county of Warren to impose an additiona
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2781
+  2781--A
  
   2023-2024 Regular Sessions
  
@@ -27,29 +27,30 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  STEC  --  read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend chapter 368 of the laws of 2008, amending  the  tax  law
-  relating  to  authorizing the county of Warren to impose an additional
-  mortgage recording tax, in relation  to  extending  the  effectiveness
+ AN  ACT  to  amend chapter 368 of the laws of 2008, amending the tax law
+  relating to authorizing the county of Warren to impose  an  additional
+  mortgage  recording  tax,  in  relation to extending the effectiveness
   thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 2 of chapter 368 of the laws of 2008, amending  the
- tax  law relating to authorizing the county of Warren to impose an addi-
- tional mortgage recording tax, as amended by section  1  of  item  M  of
- subpart  E  of part XXX of chapter 58 of the laws of 2020, is amended to
+  Section  1. Section 2 of chapter 368 of the laws of 2008, amending the
+ tax law relating to authorizing the county of Warren to impose an  addi-
+ tional  mortgage  recording  tax,  as  amended by section 1 of item M of
+ subpart E of part XXX of chapter 58 of the laws of 2020, is  amended  to
  read as follows:
-  § 2. This act shall take effect immediately and shall  expire  and  be
- deemed repealed December 1, [2023] 2026.
+  §  2.  This  act shall take effect immediately and shall expire and be
+ deemed repealed December 1, [2023] 2025.
   § 2. This act shall take effect immediately.
  
  
  
  
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00391-01-3
+  LBD00391-02-3
