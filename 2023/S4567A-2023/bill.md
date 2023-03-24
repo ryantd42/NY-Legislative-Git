@@ -1,6 +1,6 @@
 # Extends the authorization granted to the county of St. Lawrence to impose an additional one percent of sales and compensating use taxes
 
-**Bill ID:** S4567A
+**Bill ID:** S4567AA
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Extends the authorization granted to the county of St. Lawrence to impose an add
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4567
+  4567--A
  
   2023-2024 Regular Sessions
  
@@ -27,31 +27,31 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  STEC  --  read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the tax law, in relation to extending the  authorization
-  granted  to  the  county  of  St. Lawrence to impose an additional one
+ AN  ACT to amend the tax law, in relation to extending the authorization
+  granted to the county of St. Lawrence  to  impose  an  additional  one
   percent of sales and compensating use taxes
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Clause 41 of subparagraph (i) of the opening paragraph of
- section 1210 of the tax law, as amended by  section  1  of  item  NN  of
- subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
+  Section 1. Clause 41 of subparagraph (i) of the opening  paragraph  of
+ section  1210  of  the  tax  law,  as amended by section 1 of item NN of
+ subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
  read as follows:
-  (41) The county of St.  Lawrence  is  hereby  further  authorized  and
- empowered  to  adopt  and  amend  local  laws, ordinances or resolutions
- imposing such taxes at a rate that is  one  percent  additional  to  the
- three  percent  rate  authorized above in this paragraph for such county
- for the period beginning  December  first,  two  thousand  thirteen  and
- ending November thirtieth, two thousand [twenty-three] TWENTY-SIX;
+  (41)  The  county  of  St.  Lawrence  is hereby further authorized and
+ empowered to adopt and  amend  local  laws,  ordinances  or  resolutions
+ imposing  such  taxes  at  a  rate that is one percent additional to the
+ three percent rate authorized above in this paragraph  for  such  county
+ for  the  period  beginning  December  first,  two thousand thirteen and
+ ending November thirtieth, two thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00344-01-3
+  LBD00344-02-3
