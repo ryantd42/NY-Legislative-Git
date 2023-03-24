@@ -1,0 +1,51 @@
+# Repeals the requirement that applicants must pass an examination in order to qualify as a licensed master social worker
+
+**Bill ID:** S5975
+**Session:** 2023
+**Sponsor:** Samra Brouk
+**Status:** In Senate Committee
+
+## Summary
+
+Repeals the requirement that applicants must pass an examination in order to qualify as a licensed master social worker.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  5975
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  March 24, 2023
+  ___________
+ 
+ Introduced  by  Sen.  BROUK  -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Higher Education
+ 
+ AN ACT to repeal paragraph (d) of subdivision 1 of section 7704  of  the
+  education  law requiring applicants to pass an examination in order to
+  qualify as a licensed master social worker
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Paragraph  (d)  of  subdivision  1 of section 7704 of the
+ education law is REPEALED.
+  § 2.  This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09236-01-3
