@@ -1,6 +1,6 @@
 # Extends the authorization granted to the county of Essex to impose an additional one percent of sales and compensating use taxes
 
-**Bill ID:** S4072A
+**Bill ID:** S4072AA
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Extends the authorization granted to the county of Essex to impose an additional
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4072
+  4072--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  STEC  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Budget and Revenue
+  printed to be committed to the Committee  on  Budget  and  Revenue  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the tax law, in relation to extending the  authorization
   granted  to the county of Essex to impose an additional one percent of
   sales and compensating use taxes
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -44,13 +46,12 @@ S T A T E  O F  N E W  Y O R K
  taxes  at  a  rate  which is one percent additional to the three percent
  rate authorized above in this paragraph for such county for  the  period
  beginning  December  first,  two  thousand thirteen, and ending November
- thirtieth, two thousand [twenty-three] TWENTY-SIX;
+ thirtieth, two thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00283-01-3
+  LBD00283-02-3
