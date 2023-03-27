@@ -1,6 +1,6 @@
 # Requires businesses to notify consumers of an upcoming automatic renewal or continuous service charge thirty days prior to such charge
 
-**Bill ID:** A3245DB
+**Bill ID:** A3245DC
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Requires businesses to notify consumers of an upcoming automatic renewal or cont
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3245--B
+  3245--C
   Cal. No. 37
  
   2023-2024 Regular Sessions
@@ -26,49 +26,53 @@ S T A T E  O F  N E W  Y O R K
   February 2, 2023
   ___________
  
- Introduced by M. of A. PAULIN -- read once and referred to the Committee
-  on  Consumer  Affairs  and  Protection  --  committee discharged, bill
-  amended, ordered reprinted as amended and recommitted to said  commit-
-  tee  --  reported from committee, advanced to a third reading, amended
-  and ordered reprinted, retaining its place on the order of third read-
-  ing
+ Introduced  by  M. of A. PAULIN, SAYEGH -- read once and referred to the
+  Committee on Consumer Affairs and Protection -- committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee -- reported from committee, advanced  to  a  third  reading,
+  amended  and  ordered  reprinted,  retaining its place on the order of
+  third reading -- again amended on third  reading,  ordered  reprinted,
+  retaining its place on the order of third reading
  
  AN ACT to amend the general business law, in relation to requiring busi-
   nesses to notify consumers of an upcoming automatic renewal or contin-
   uous service charge thirty days prior to such charge
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Subdivisions 3 and 8 of section 527-a of the general busi-
- ness law, as added by chapter 267 of the laws of 2020,  are  amended  to
+  Section 1. Subdivisions 3 and 8 of section 527-a of the general  busi-
+ ness  law,  as  added by chapter 267 of the laws of 2020, are amended to
  read as follows:
-  3.  A.  In  addition  to  the  requirements of subdivision two of this
- section, a consumer who  accepts  an  automatic  renewal  or  continuous
+  3. A. In addition to the  requirements  of  subdivision  two  of  this
+ section,  a  consumer  who  accepts  an  automatic renewal or continuous
  service offer online shall be allowed to terminate the automatic renewal
  or continuous service exclusively online[, which may include]. TO SATIS-
- FY  THE  REQUIREMENTS  OF  THIS SUBDIVISION, A BUSINESS SHALL EITHER (1)
- PROVIDE THE CONSUMER WITH  a  MODEL  termination  email  [formatted  and
- provided  by the business] that [a] SUCH consumer can send to [the] SUCH
- business without additional information TO NOTIFY SUCH BUSINESS OF  SUCH
- CONSUMER'S  INTENT  TO  TERMINATE  SUCH  AUTOMATIC RENEWAL OR CONTINUOUS
- SERVICE, OR (2) SEND THE CONSUMER  AN  EMAIL  CONTAINING  A  LINK  TO  A
- WEBSITE  OR  OTHER ONLINE SERVICE WHERE SUCH CONSUMER CAN TERMINATE SUCH
+ FY THE REQUIREMENTS OF THIS SUBDIVISION, A  BUSINESS  SHALL  EITHER  (1)
+ PROVIDE  THE  CONSUMER  WITH  a  MODEL  termination email [formatted and
+ provided by the business] that [a] SUCH consumer can send to [the]  SUCH
+ business  without additional information TO NOTIFY SUCH BUSINESS OF SUCH
+ CONSUMER'S INTENT TO TERMINATE  SUCH  AUTOMATIC  RENEWAL  OR  CONTINUOUS
+ SERVICE,  OR  (2)  SEND  THE  CONSUMER  AN  EMAIL CONTAINING A LINK TO A
+ WEBSITE OR OTHER ONLINE SERVICE WHERE SUCH CONSUMER CAN  TERMINATE  SUCH
  AUTOMATIC RENEWAL OR CONTINUOUS SERVICE.
   B. A BUSINESS THAT ALLOWS A CONSUMER TO ACCEPT AN AUTOMATIC RENEWAL OR
  CONTINUOUS SERVICE OFFER FOR AN INITIAL PAID TERM OF ONE YEAR OR LONGER,
- PROVIDED THAT SUCH AUTOMATIC RENEWAL OR CONTINUOUS SERVICE RENEWS FOR  A
- PAID  TERM  OF  ONE  MONTH OR LONGER, SHALL NOTIFY SUCH CONSUMER OF SUCH
- UPCOMING AUTOMATIC RENEWAL OR CONTINUOUS SERVICE CHARGE TO SUCH  CONSUM-
+ PROVIDED  THAT SUCH AUTOMATIC RENEWAL OR CONTINUOUS SERVICE RENEWS FOR A
+ PAID TERM OF ONE MONTH OR LONGER, SHALL NOTIFY  SUCH  CONSUMER  OF  SUCH
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03135-03-3
- A. 3245--B  2
+  LBD03135-05-3
+ A. 3245--C  2
  
+ UPCOMING  AUTOMATIC RENEWAL OR CONTINUOUS SERVICE CHARGE TO SUCH CONSUM-
  ER'S ACCOUNT AT LEAST FIFTEEN DAYS BEFORE, BUT NOT MORE THAN THIRTY DAYS
- BEFORE,  THE  CANCELLATION  DEADLINE  FOR  SUCH  AUTOMATIC RENEWAL. SUCH
+ BEFORE, THE CANCELLATION  DEADLINE  FOR  SUCH  AUTOMATIC  RENEWAL.  SUCH
  NOTICE SHALL INCLUDE INSTRUCTIONS ON HOW TO CANCEL SUCH RENEWAL CHARGE.
+  C.  THE  PROVISIONS OF PARAGRAPH B OF THIS SUBDIVISION SHALL NOT APPLY
+ TO ANY BUSINESS, OR SUBSIDIARY OR AFFILIATE THEREOF,  REGULATED  BY  THE
+ PUBLIC SERVICE COMMISSION OR THE FEDERAL COMMUNICATIONS COMMISSION.
   8. The following are exempt from the requirements of this article:
   a.  any  service  provided by a business or its affiliate where either
  the business or its affiliate is doing business pursuant to a  franchise
