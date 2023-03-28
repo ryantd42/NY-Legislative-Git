@@ -1,6 +1,6 @@
 # Extends the authorization for the county of Seneca to impose an additional one percent sales and compensating use tax
 
-**Bill ID:** A5008A
+**Bill ID:** A5008AA
 **Session:** 2023
 **Sponsor:** Jeff Gallahan
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Extends the expiration of the authorization for the county of Seneca to impose a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5008
+  5008--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. GALLAHAN, PALMESANO -- read once and referred to
-  the Committee on Ways and Means
+  the Committee on Ways and Means -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the tax law, in relation to extending the expiration  of
   the authorization for the county of Seneca to impose an additional one
   percent sales and compensating use tax
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -44,13 +45,13 @@ S T A T E  O F  N E W  Y O R K
  taxes at a rate that is one percent additional to the three percent rate
  authorized above in this paragraph for such county for the period begin-
  ning December first, two thousand two and ending November thirtieth, two
- thousand [twenty-three] TWENTY-SIX;
+ thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
  
  
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09152-01-3
+  LBD09152-02-3
