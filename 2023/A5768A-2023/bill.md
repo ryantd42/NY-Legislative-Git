@@ -1,6 +1,6 @@
 # Relates to sales and compensating use taxes in the county of Livingston
 
-**Bill ID:** A5768A
+**Bill ID:** A5768AA
 **Session:** 2023
 **Sponsor:** Marjorie Byrnes
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the county of Livingston to impose an additional one percent sales ta
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5768
+  5768--A
  
   2023-2024 Regular Sessions
  
@@ -26,46 +26,47 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. BYRNES -- read once and referred to the Committee
-  on Ways and Means
+  on  Ways  and  Means  --  committee  discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend the tax law, in relation to  authorizing  the  county
+ AN ACT to amend the tax law, in relation to  authorizing  the  county
   of Livingston to impose an additional one percent sales tax
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section  1.  Clause 32 of subparagraph (i) of the opening paragraph of
- section 1210 of the tax law, as amended  by  section  1  of  item  X  of
- subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Clause 32 of subparagraph (i) of the opening  paragraph  of
+ section  1210  of  the  tax  law,  as  amended by section 1 of item X of
+ subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
  read as follows:
-  (32) the  county  of  Livingston  is  hereby  further  authorized  and
- empowered  to  adopt  and  amend  local  laws, ordinances or resolutions
- imposing such taxes at a rate which is one  percent  additional  to  the
- three  percent  rate  authorized above in this paragraph for such county
- for the period beginning June first,  two  thousand  three,  and  ending
- November thirtieth, two thousand [twenty-three] TWENTY-SIX;
-  §  2. Section 1262-p of the tax law, as amended by section 2 of item X
- of subpart C of part XXX of chapter 58 of the laws of 2020, is  amended
+  (32)  the  county  of  Livingston  is  hereby  further  authorized and
+ empowered to adopt and  amend  local  laws,  ordinances  or  resolutions
+ imposing  such  taxes  at  a rate which is one percent additional to the
+ three percent rate authorized above in this paragraph  for  such  county
+ for  the  period  beginning  June  first, two thousand three, and ending
+ November thirtieth, two thousand [twenty-three] TWENTY-FIVE;
+  § 2. Section 1262-p of the tax law, as amended by section 2 of item  X
+ of  subpart C of part XXX of chapter 58 of the laws of 2020, is  amended
  to read  as follows:
-  §  1262-p.  Disposition  of  net  collections  from the additional one
- percent rate of sales and  compensating  use  taxes  in  the  county  of
+  § 1262-p. Disposition of  net  collections  from  the  additional  one
+ percent  rate  of  sales  and  compensating  use  taxes in the county of
  Livingston.  Notwithstanding any contrary provision of law, if the coun-
- ty  of  Livingston  imposes the additional one percent rate of sales and
- compensating use taxes authorized by section twelve hundred ten of  this
- article  for  all or any portion of the period beginning June first, two
- thousand three and ending  November  thirtieth,  two  thousand  [twenty-
- three]  TWENTY-SIX,  the  county shall use all net collections from such
- additional one percent rate to pay the county's expenses  for  Medicaid.
- The  net collections from the additional one percent rate imposed pursu-
- ant to this section shall be deposited in a special fund to  be  created
- by  such  county separate and apart from any other funds and accounts of
+ ty of Livingston imposes the additional one percent rate  of  sales  and
+ compensating  use taxes authorized by section twelve hundred ten of this
+ article for all or any portion of the period beginning June  first,  two
+ thousand  three  and  ending  November  thirtieth, two thousand [twenty-
+ three] TWENTY-FIVE, the county shall use all net collections  from  such
+ additional  one  percent rate to pay the county's expenses for Medicaid.
+ The net collections from the additional one percent rate imposed  pursu-
+ ant  to  this section shall be deposited in a special fund to be created
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09721-01-3
- A. 5768  2
+  LBD09721-03-3
+ A. 5768--A  2
  
- the county. Any and all remaining net collections from  such  additional
+ by such county separate and apart from any other funds and  accounts  of
+ the  county.  Any and all remaining net collections from such additional
  one percent tax, after the Medicaid expenses are paid, shall be deposit-
  ed  by  the  county of Livingston in the general fund of such county for
  any county purpose.
