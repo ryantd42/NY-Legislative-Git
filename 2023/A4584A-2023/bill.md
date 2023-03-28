@@ -1,6 +1,6 @@
 # Relates to requiring services provided by telehealth be reimbursed at the same rate as an in-office visit
 
-**Bill ID:** A4584A
+**Bill ID:** A4584AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires services provided by telehealth be reimbursed at the same rate as an in
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4584
+  4584--A
  
   2023-2024 Regular Sessions
  
@@ -26,10 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. GUNTHER -- read once and referred to the Commit-
-  tee on Insurance
+  tee on  Insurance  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public health law and the insurance law, in relation
-  to requiring services provided by telehealth reimbursed  at  the  same
+  to requiring services provided by telehealth be reimbursed at the same
   rate as an in-office visit
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
@@ -58,11 +59,11 @@ S T A T E  O F  N E W  Y O R K
  those  established  for  the  same  service when not delivered via tele-
  health. An insurer may subject the coverage of a service  delivered  via
  telehealth  to  reasonable  utilization management and quality assurance
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08235-01-3
- A. 4584  2
+  LBD08235-03-3
+ A. 4584--A  2
  
  requirements that are consistent with those  established  for  the  same
  service when not delivered via telehealth.
