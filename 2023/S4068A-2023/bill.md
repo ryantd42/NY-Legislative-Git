@@ -1,6 +1,6 @@
 # Extends the expiration of the authorization to the county of Wyoming to impose an additional one percent sales and compensating use tax
 
-**Bill ID:** S4068A
+**Bill ID:** S4068AA
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Extends the expiration of the authorization to the county of Wyoming to impose a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4068
+  4068--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. BORRELLO -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Budget and Revenue
+  printed to be committed to the Committee  on  Budget  and  Revenue  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the tax law, in relation to extending the expiration  of
   the authorization to the county of Wyoming to impose an additional one
   percent sales and compensating use tax
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -44,13 +46,12 @@ S T A T E  O F  N E W  Y O R K
  taxes  at  a  rate  which is one percent additional to the three percent
  rate authorized above in this paragraph for such county for  the  period
  beginning September first, nineteen hundred ninety-two and ending Novem-
- ber thirtieth, two thousand [twenty-three] TWENTY-SIX;
+ ber thirtieth, two thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07690-01-3
+  LBD07690-03-3
