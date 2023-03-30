@@ -1,6 +1,6 @@
 # Relates to a state transportation plan
 
-**Bill ID:** A2677A
+**Bill ID:** A2677AA
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to a state transportation plan; requires such plan include a minimum twe
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2677
+  2677--A
  
   2023-2024 Regular Sessions
  
@@ -33,7 +33,9 @@ S T A T E  O F  N E W  Y O R K
   WEPRIN,  PEOPLES-STOKES,  McMAHON,  FRIEND,  REYES,  CRUZ,  McDONOUGH,
   BRABENEC,  PALMESANO,  RA, WALSH, JACOBSON -- Multi-Sponsored by -- M.
   of A. COOK, GLICK, HEVESI, HYNDMAN, THIELE -- read once  and  referred
-  to the Committee on Transportation
+  to  the  Committee  on  Transportation  --  committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN ACT to amend the transportation law, in relation to a state transpor-
   tation plan
@@ -50,79 +52,78 @@ S T A T E  O F  N E W  Y O R K
  coordination of adequate, safe and efficient commuter and general trans-
  portation facilities and services in the state at reasonable cost to the
  people,  including,  but  not  limited to, STATE highways[,] AND BRIDGES
- UNDER THE JURISDICTION  OF  THE  COMMISSIONER,  BICYCLE  AND  PEDESTRIAN
- FACILITIES  ON  SUCH  STATE HIGHWAYS AND BRIDGES, rapid transit, FREIGHT
+ UNDER THE JURISDICTION  OF  THE  COMMISSIONER;  BICYCLE  AND  PEDESTRIAN
+ FACILITIES  ON  SUCH  STATE HIGHWAYS AND BRIDGES; rapid transit, FREIGHT
  AND PASSENGER railroad, omnibus, marine and  other  mass  transportation
- facilities  and  services,  EXCLUDING  RAPID TRANSIT, RAILROAD, OMNIBUS,
- MARINE AND OTHER MASS TRANSPORTATION FACILITIES AND SERVICES  UNDER  THE
- JURISDICTION  OF  EITHER  THE  METROPOLITAN  TRANSPORTATION AUTHORITY AS
- DEFINED IN SECTION TWO HUNDRED NINETEEN-C OF THIS CHAPTER OR A  BI-STATE
- PUBLIC  BENEFIT CORPORATION, and PUBLIC USE aviation and airport facili-
- ties and services[,] whether publicly  or  privately  owned,  developed,
+ facilities  and services[,] BUT EXCLUDING RAPID TRANSIT, RAILROAD, OMNI-
+ BUS, MARINE AND OTHER MASS TRANSPORTATION FACILITIES AND SERVICES  UNDER
+ THE  JURISDICTION  OF  THE  METROPOLITAN TRANSPORTATION AUTHORITY OR ITS
+ SUBSIDIARIES OR OF A BI-STATE PUBLIC BENEFIT CORPORATION; and PUBLIC USE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04679-01-3
- A. 2677  2
+  LBD04679-02-3
+ A. 2677--A  2
  
- operated or maintained, EXCLUDING AIRPORTS OPERATED BY A BI-STATE PUBLIC
- BENEFIT  CORPORATION.  SUCH  PLAN  SHALL INCLUDE A MINIMUM TWENTY-YEAR
- FORECAST PERIOD AT THE TIME OF ADOPTION, ASSESS LONG-RANGE  NEEDS  SPAN-
- NING  SUCH  PERIOD, INCLUDE A FORECAST OF PAVEMENT AND BRIDGE CONDITIONS
- OF STATE HIGHWAYS AND BRIDGES UNDER THE JURISDICTION OF THE  COMMISSION-
- ER, AND TAKE INTO CONSIDERATION:
-  A.  THE  MOST  RECENT  TWENTY-YEAR TRANSPORTATION PLAN ADOPTED BY EACH
- METROPOLITAN PLANNING ORGANIZATION WITHIN THE STATE PURSUANT TO  SUBPART
+ aviation and airport facilities  and  services[,]  whether  publicly  or
+ privately  owned,  developed, operated or maintained, EXCLUDING AIRPORTS
+ OPERATED BY A BI-STATE PUBLIC BENEFIT  CORPORATION.  SUCH  PLAN  SHALL
+ INCLUDE  A  MINIMUM TWENTY-YEAR FORECAST PERIOD AT THE TIME OF ADOPTION,
+ ASSESS LONG-RANGE NEEDS SPANNING SUCH  PERIOD,  INCLUDE  A  FORECAST  OF
+ PAVEMENT  AND  BRIDGE CONDITIONS OF STATE HIGHWAYS AND BRIDGES UNDER THE
+ JURISDICTION OF THE COMMISSIONER, AND TAKE INTO CONSIDERATION:
+  A. THE MOST RECENT TWENTY-YEAR TRANSPORTATION  PLAN  ADOPTED  BY  EACH
+ METROPOLITAN  PLANNING ORGANIZATION WITHIN THE STATE PURSUANT TO SUBPART
  C OF PART 450 OF TITLE 23 OF THE CODE OF FEDERAL REGULATIONS; AND
   B. THE MOST RECENT LONG-RANGE STATEWIDE TRANSPORTATION PLAN AND STATE-
- WIDE  TRANSPORTATION IMPROVEMENT PROGRAM DEVELOPED BY THE STATE PURSUANT
+ WIDE TRANSPORTATION IMPROVEMENT PROGRAM DEVELOPED BY THE STATE  PURSUANT
  TO SUBPART B OF PART 450 OF TITLE 23 OF THE CODE OF FEDERAL REGULATIONS.
-  2. The department shall submit such plan to the governor,  the  tempo-
- rary  president  of  the  senate, the speaker of the assembly and to the
- department of state on or  before  September  first,  [nineteen  hundred
- sixty-eight,  and  thereafter shall submit appropriate revisions of such
- plan] TWO THOUSAND TWENTY-FOUR. THE DEPARTMENT SHALL REVIEW  AND  UPDATE
- SUCH  PLAN AT LEAST EVERY FIVE YEARS TO EXTEND THE FORECAST PERIOD TO AT
+  2.  The  department shall submit such plan to the governor, the tempo-
+ rary president of the senate, the speaker of the  assembly  and  to  the
+ department  of  state  on  or  before September first, [nineteen hundred
+ sixty-eight, and thereafter shall submit appropriate revisions  of  such
+ plan]  TWO  THOUSAND TWENTY-FOUR. THE DEPARTMENT SHALL REVIEW AND UPDATE
+ SUCH PLAN AT LEAST EVERY FIVE YEARS TO EXTEND THE FORECAST PERIOD TO  AT
  LEAST TWENTY YEARS, PROVIDED THAT THE DEPARTMENT MAY REVISE SUCH PLAN AT
- ANY OTHER TIME WITHOUT EXTENDING SUCH FORECAST  PERIOD.  THE  DEPARTMENT
- SHALL  SUBMIT  ALL  SUCH  REVISED AND UPDATED PLANS to the governor, the
- temporary president of the senate, the speaker of the  assembly  and  to
- the  department  of state [from time to] AT THE time [as] such revisions
- are made. The department of  state  shall  review  such  plan  and  such
- revisions  and  shall submit a report thereon, together with such recom-
- mendations as it may deem appropriate, to the  governor,  the  temporary
- president  of  the senate and the speaker of the assembly. Such plan and
- such revisions shall become effective  upon  approval  by  the  governor
- [and],  shall  serve  thereafter  as  a guide to the public and publicly
- assisted development of transportation facilities and  services  in  the
+ ANY  OTHER  TIME  WITHOUT EXTENDING SUCH FORECAST PERIOD. THE DEPARTMENT
+ SHALL SUBMIT ALL SUCH REVISED AND UPDATED PLANS  to  the  governor,  the
+ temporary  president  of  the senate, the speaker of the assembly and to
+ the department of state [from time to] AT THE time [as]  such  revisions
+ are  made.  The  department  of  state  shall  review such plan and such
+ revisions and shall submit a report thereon, together with  such  recom-
+ mendations  as  it  may deem appropriate, to the governor, the temporary
+ president of the senate and the speaker of the assembly. Such  plan  and
+ such  revisions  shall  become  effective  upon approval by the governor
+ [and], shall serve thereafter as a guide  to  the  public  and  publicly
+ assisted  development  of  transportation facilities and services in the
  state, AND THE  DEPARTMENT SHALL MAINTAIN HARD COPIES OF THE MOST RECENT
- VERSION  OF SUCH PLAN AND REVISIONS THERETO ON FILE AS A PUBLIC DOCUMENT
- IN THE OFFICE OF THE COMMISSIONER AND AT EACH  REGIONAL  OFFICE  OF  THE
+ VERSION OF SUCH PLAN AND REVISIONS THERETO ON FILE AS A PUBLIC  DOCUMENT
+ IN  THE  OFFICE  OF  THE COMMISSIONER AND AT EACH REGIONAL OFFICE OF THE
  DEPARTMENT.
   3. In formulating such plan and any such revisions, the department:
-  a.  shall conduct [one or more] AT LEAST ONE public [hearings] HEARING
+  a. shall conduct [one or more] AT LEAST ONE public [hearings]  HEARING
  IN EACH DEPARTMENT REGION;
-  b. may consult with and cooperate with (i)  officials  of  departments
- and  agencies of the state having duties and responsibilities concerning
+  b.  may  consult  with and cooperate with (i) officials of departments
+ and agencies of the state having duties and responsibilities  concerning
  transportation;
-  (ii) officials and representatives of public corporations  as  defined
- in  [article  one,  section  three  of  the general corporation] SECTION
+  (ii)  officials  and representatives of public corporations as defined
+ in [article one, section  three  of  the  general  corporation]  SECTION
  SIXTY-FIVE OF THE GENERAL CONSTRUCTION law;
-  (iii) officials and representatives  of  the  federal  government,  of
- neighboring  states  and  of  interstate  agencies on problems affecting
+  (iii)  officials  and  representatives  of  the federal government, of
+ neighboring states and of  interstate  agencies  on  problems  affecting
  transportation in this state;
-  (iv) officials and  representatives  of  carriers  and  transportation
+  (iv)  officials  and  representatives  of  carriers and transportation
  facilities and systems in the state; and
   (v) persons, organizations and groups utilizing, served by, interested
  in or concerned with transportation facilities and systems in the state;
-  c.  may  request  and  receive  from  any department, division, board,
- bureau, commission or other agency of the state or any political  subdi-
- vision  thereof  or any public authority such assistance and data as may
- be necessary to enable the department to carry out its  responsibilities
+  c. may request and  receive  from  any  department,  division,  board,
+ bureau,  commission or other agency of the state or any political subdi-
+ vision thereof or any public authority such assistance and data  as  may
+ be  necessary to enable the department to carry out its responsibilities
  under this section; and
- A. 2677  3
+ A. 2677--A  3
  
-  d.  may  make  use  of  and  incorporate in the department's plan, any
+  d. may make use of and  incorporate  in  the  department's  plan,  any
  recognized long-range regional plan for transportation, survey or report
  developed by any public or private agency.
   4.  THE  DEPARTMENT  SHALL MAINTAIN ON ITS PUBLIC WEBSITE THE PROPOSED
@@ -130,25 +131,4 @@ S T A T E  O F  N E W  Y O R K
  PROPOSED  AND  ADOPTED  REVISIONS  THERETO, AND SHALL PROVIDE A MEANS ON
  SUCH WEBSITE FOR THE PUBLIC TO SUBMIT COMMENTS THEREON  TO  THE  DEPART-
  MENT.
-  §  2. Subdivision 13 of section 14 of the transportation law, as added
- by chapter 420 of the laws of 1968, is amended to read as follows:
-  13. To report from time to time to the governor  and  make  an  annual
- report  to  the  governor  and  the  legislature which shall include its
- recommendations. ADDITIONALLY, THE COMMISSIONER SHALL SUBMIT A REPORT TO
- THE GOVERNOR, THE TEMPORARY PRESIDENT OF THE SENATE, AND THE SPEAKER  OF
- THE  ASSEMBLY,  BEGINNING  SEPTEMBER FIRST, TWO THOUSAND TWENTY-FOUR AND
- SEMI ANNUALLY THEREAFTER, INCLUDING A LIST OF THOSE CAPITAL PROJECTS  IN
- THE  DEPARTMENT'S  CAPITAL  PROGRAM THAT HAVE EXPERIENCED MAJOR SCHEDULE
- CHANGES OR MAJOR COST CHANGES IN LETTING SCHEDULE OR CONSTRUCTION  COST,
- INCLUDING  PROJECTS  THAT  WERE ELIMINATED AND PROJECTS THAT WERE ADDED,
- SINCE THE ADOPTION OF THE MOST RECENT STATE BUDGET. FOR EACH PROJECT THE
- REPORT SHALL INCLUDE THE PROJECT IDENTIFICATION NUMBER AND  DESCRIPTION,
- ORIGINAL  AND  REVISED  LETTING DATES, AND A DETAILED EXPLANATION OF WHY
- THE CHANGES OCCURRED. FOR THE PURPOSES OF  THIS  SUBDIVISION,  THE  TERM
- "MAJOR  SCHEDULE  CHANGES" IS DEFINED AS A TWELVE-MONTH OR MORE DELAY IN
- THE LETTING DATE OF A PROJECT, AND THE  TERM  "MAJOR  COST  CHANGES"  IS
- DEFINED  AS  ONE  OF  THE  FOLLOWING AS APPLICABLE: A GREATER THAN FIFTY
- PERCENT CHANGE FOR PROJECTS FIFTEEN  MILLION  DOLLARS  OR  LESS,  AND  A
- GREATER  THAN  TWENTY-FIVE  PERCENT  CHANGE  FOR  PROJECTS  IN EXCESS OF
- FIFTEEN MILLION DOLLARS.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
