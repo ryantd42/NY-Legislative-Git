@@ -1,6 +1,6 @@
 # Requires patient transporters to meet certain minimum requirements
 
-**Bill ID:** S3344C
+**Bill ID:** S3344CA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires patient transporters to complete a state accredited basic life support 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3344
+  3344--A
  
   2023-2024 Regular Sessions
  
@@ -26,16 +26,20 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
+  printed to be committed  to  the  Committee  on  Health  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the public health law, in relation to requiring  patient
+ AN  ACT to amend the public health law, in relation to requiring patient
   transporters to meet certain minimum requirements
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The public health law is amended by adding  a  new  section
- 2831 to read as follows:
+  Section  1.  This  act  shall  be known and may be cited as "Melania's
+ law".
+  § 2. The public health law is amended by adding a new section 2831  to
+ read as follows:
   § 2831. PATIENT TRANSPORTERS. 1. FOR THE PURPOSES OF THIS SECTION, THE
  TERMS:
   (A)  "PATIENT  TRANSPORTER"  SHALL  MEAN  A  PERSON  WHO  PROVIDES THE
@@ -55,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  TRANSPORTER  HAS  SUCCESSFULLY  PASSED  A  STATE  ACCREDITED  BASIC LIFE
  SUPPORT COURSE, IN WHICH KNOWLEDGE AND SKILLS IN CARDIOPULMONARY  RESUS-
  CITATION  USING  AUTOMATED  EXTERNAL DEFIBRILLATORS AND RELIEVING AIRWAY
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07065-02-3
+ S. 3344--A  2
+ 
  OBSTRUCTIONS IS TAUGHT. HEALTHCARE FACILITIES SHALL PROVIDE SUCH  COURSE
  TO EMPLOYEES AND POTENTIAL EMPLOYEES AT NO COST TO SUCH INDIVIDUAL.
   3. A PATIENT TRANSPORTER CURRENTLY EMPLOYED OR OTHERWISE CONTRACTED BY
  A  HEALTHCARE FACILITY WHO DOES NOT MEET THE REQUIREMENTS OF SUBDIVISION
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07065-01-3
- S. 3344  2
- 
  TWO OF THIS SECTION SHALL HAVE TWELVE MONTHS FROM THE DATE OF  ENACTMENT
  OF THIS ACT TO MEET SUCH REQUIREMENTS.
   4.  NOTHING IN THIS SECTION SHALL PROHIBIT ANY HEALTHCARE PROFESSIONAL
@@ -75,4 +79,4 @@ S T A T E  O F  N E W  Y O R K
  REQUIRED.
   6. THE COMMISSIONER SHALL PROMULGATE REGULATIONS AS THEY  DEEM  APPRO-
  PRIATE TO EFFECTUATE THE PURPOSES OF THIS SECTION.
-  § 2. This act shall take effect January 1, 2024.
+  § 3. This act shall take effect January 1, 2024.
