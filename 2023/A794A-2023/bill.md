@@ -1,6 +1,6 @@
 # Establishes the zero emission industrial trucks grant program
 
-**Bill ID:** A794A
+**Bill ID:** A794AA
 **Session:** 2023
 **Sponsor:** Pamela J. Hunter
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the zero-emission industrial trucks grant program to be administered
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  794
+  794--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. HUNTER -- read once and referred to the Committee
-  on Corporations, Authorities and Commissions
+  on  Corporations, Authorities and Commissions -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
  
  AN  ACT to amend the public authorities law, in relation to establishing
   the zero-emission industrial trucks grant program
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,17 +58,24 @@ S T A T E  O F  N E W  Y O R K
  INDUSTRIAL TRUCKS, CLASS I TO III.
   (B)  GRANT AMOUNTS SHALL BE DETERMINED BY THE AUTHORITY BASED ON VEHI-
  CLE TYPE, ENERGY SOURCE, AND VEHICLE WEIGHT CLASS, BUT SHALL NOT BE LESS
- THAN TEN PERCENT OF THE COST  OF  THE  ZERO-EMISSION  INDUSTRIAL  TRUCKS
- PURCHASED OR LEASED.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02583-01-3
- A. 794  2
+  LBD02583-03-3
+ A. 794--A  2
  
-  5.  THE  ZERO-EMISSION INDUSTRIAL TRUCKS GRANT PROGRAM SHALL BE FUNDED
- THROUGH THE ANNUAL APPROPRIATION OF THE LEGISLATURE OR ANY  OTHER  FUNDS
- RECEIVED  BY  THE  STATE FOR THE PURPOSES OF THIS SECTION, INCLUDING BUT
+ THAN TEN PERCENT OF THE COST  OF  THE  ZERO-EMISSION  INDUSTRIAL  TRUCKS
+ PURCHASED OR LEASED.
+  (C)  SUCH  CRITERIA IN PARAGRAPH (A) OF THIS SUBDIVISION SHALL INCLUDE
+ REQUIREMENTS THAT TO BE  ELIGIBLE  FOR  SUCH  GRANTS  THE  ZERO-EMISSION
+ INDUSTRIAL TRUCKS AND THE COMPONENTS AND PARTS THEREOF SHALL BE PRODUCED
+ OR  MADE IN WHOLE OR SUBSTANTIAL PART IN THE UNITED STATES, ITS TERRITO-
+ RIES, OR POSSESSIONS AND THAT THE FINAL ASSEMBLY OF  SUCH  ZERO-EMISSION
+ TRUCKS  SHALL  OCCUR  IN  THE  UNITED  STATES,  ITS  TERRITORIES,  OR
+ POSSESSIONS.
+  5. THE ZERO-EMISSION INDUSTRIAL TRUCKS GRANT PROGRAM SHALL  BE  FUNDED
+ THROUGH  THE  ANNUAL APPROPRIATION OF THE LEGISLATURE OR ANY OTHER FUNDS
+ RECEIVED BY THE STATE FOR THE PURPOSES OF THIS  SECTION,  INCLUDING  BUT
  NOT LIMITED TO FUNDS ADMINISTERED IN THE CLEAN ENERGY FUND. GRANTS SHALL
  ONLY BE AWARDED BASED UPON THE AVAILABILITY OF FUNDS.
   § 2. This act shall take effect immediately.
