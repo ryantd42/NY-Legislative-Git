@@ -1,6 +1,6 @@
 # Relates to prohibiting the unauthorized installation of certain security devices on residential buildings
 
-**Bill ID:** A2258B
+**Bill ID:** A2258BA
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Prohibits the installation of certain security devices used to control access to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2258
+  2258--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. SIMON, GLICK, TAYLOR, COLTON, GIBBS, McDONOUGH,
-  COOK -- read once and referred to the Committee on Housing
+  COOK -- read once and referred to the Committee on Housing --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the general business law, in relation to prohibiting the
   unauthorized installation of  certain security devices on  residential
   buildings
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -41,12 +43,11 @@ S T A T E  O F  N E W  Y O R K
  ITED. NO PERSON, FIRM, PARTNERSHIP,  ASSOCIATION  OR  CORPORATION  SHALL
  INSTALL ANY KEYLESS SECURITY DEVICE USED TO CONTROL AND SECURE ACCESS TO
  THE COMMON AREAS OF ANY RESIDENTIAL BUILDING WITHOUT THE EXPRESS WRITTEN
- CONSENT  OF  THE MANAGER OR BOARD OF DIRECTORS OF SUCH PROPERTY. WHERE A
- KEYLESS SECURITY DEVICE HAS BEEN AUTHORIZED, ANY  INSTALLATION  OF  SUCH
- DEVICE  INCLUDING  HARDWARE AND SOFTWARE SHALL BE PERFORMED BY, OR UNDER
- THE SUPERVISION OF, THE OWNER OR OPERATOR OF THE ENTRY SYSTEM  IN  PLACE
- IN  SUCH  BUILDING, INCLUDING ANY AFFECTED OR INTERCONNECTED INTERCOM OR
- OTHER SECURITY SYSTEM.
+ CONSENT  OF  THE OWNER, PROPERTY MANAGER, BOARD OF DIRECTORS, OR AUTHOR-
+ IZED PARTY OF SUCH PROPERTY. WHERE A KEYLESS SECURITY  DEVICE  HAS  BEEN
+ AUTHORIZED,  ANY  INSTALLATION  OF SUCH DEVICE SHALL BE PERFORMED BY, OR
+ WITH THE CONSENT OF, THE OWNER, PROPERTY MANAGER, BOARD OF DIRECTORS, OR
+ AUTHORIZED PARTY IN PLACE IN SUCH BUILDING.
   § 2. This act shall take effect immediately.
  
  
@@ -54,4 +55,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01646-01-3
+  LBD01646-03-3
