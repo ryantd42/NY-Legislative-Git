@@ -1,6 +1,6 @@
 # Requires the disposal of copies of identification documents
 
-**Bill ID:** A2156A
+**Bill ID:** A2156AA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires the disposal of copies of identification documents by owner, lessee, pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2156
+  2156--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Consumer Affairs and Protection
+  Committee on Consumer Affairs and Protection -- committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
  
  AN ACT to amend the general business law, in relation to  requiring  the
   disposal of copies of identification documents
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -41,17 +43,16 @@ S T A T E  O F  N E W  Y O R K
  CABINS, CAMP, RESORT, TAVERN,  INN,  BOARDING  OR  LODGING  HOUSE  SHALL
  DISPOSE  OF  ANY  COPIES OF A GUEST'S IDENTIFICATION DOCUMENT, INCLUDING
  BUT NOT LIMITED TO A DRIVER'S LICENSE, PASSPORT, OR NON-DRIVER IDENTIFI-
- CATION CARD, WITHIN TWELVE HOURS OF THE  GUEST  COMPLETING  THEIR  STAY.
- DISPOSAL  OF THE COPIES SHALL INCLUDE DELETION OF ANY DIGITAL COPIES AND
- THE PHYSICAL DESTRUCTION OF ANY PHYSICAL COPIES SUCH THAT  IT  WOULD  BE
- INFEASIBLE TO RECREATE THE COPY.
+ CATION CARD, WITHIN TWENTY-FOUR HOURS  OF  THE  GUEST  COMPLETING  THEIR
+ STAY.  DISPOSAL  OF  THE  COPIES SHALL INCLUDE DELETION OF ANY DIGITAL
+ COPIES AND THE PHYSICAL DESTRUCTION OF ANY PHYSICAL COPIES SUCH THAT  IT
+ WOULD BE IMPOSSIBLE TO RECREATE THE COPY.
   §  2.  This  act shall take effect on the thirtieth day after it shall
  have become a law.
  
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05744-01-3
+  LBD05744-03-3
