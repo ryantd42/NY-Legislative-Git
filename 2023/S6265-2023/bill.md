@@ -1,0 +1,58 @@
+# Relates to eligibility for unemployment benefits for certain New York city emergency medical services personnel under quarantine for coronavirus (COVID-19)
+
+**Bill ID:** S6265
+**Session:** 2023
+**Sponsor:** Robert Jackson
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to eligibility for unemployment benefits for certain New York city emergency medical services personnel under quarantine for coronavirus (COVID-19); provides that such employees shall not be deprived of benefit payments by reason of COVID-19 quarantine.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6265
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  April 10, 2023
+  ___________
+ 
+ Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Labor
+ 
+ AN ACT to amend the labor law, in relation to eligibility for  unemploy-
+  ment  benefits  for  certain  New York city emergency medical services
+  personnel under quarantine for coronavirus (COVID-19)
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  591  of the labor law is amended by adding a new
+ subdivision 2-a to read as follows:
+  2-A. COVID-19 QUARANTINE. NOTWITHSTANDING ANY OTHER PROVISIONS OF LAW,
+ ANY PERSON WHO IS EMPLOYED BY THE CITY OF NEW  YORK  OR  BY  A  HOSPITAL
+ WITHIN  THE  CITY  OF  NEW  YORK  WHOSE DUTIES ARE THOSE OF AN EMERGENCY
+ MEDICAL TECHNICIAN OR ADVANCED EMERGENCY MEDICAL  TECHNICIAN  (AS  THOSE
+ TERMS  ARE  DEFINED  IN  SECTION THREE THOUSAND ONE OF THE PUBLIC HEALTH
+ LAW) RESPONDING TO CALLS FOR EMERGENCY MEDICAL SERVICES IN THE  CITY  OF
+ NEW YORK'S 911 SYSTEM, WHO IS UNDER MANDATORY OR VOLUNTARY QUARANTINE AS
+ A RESULT OF THE CORONAVIRUS (COVID-19), SHALL NOT BE DEPRIVED OF BENEFIT
+ PAYMENTS  BY  REASON OF SUCH QUARANTINE. CLAIMANTS SHALL NOT BE REQUIRED
+ TO PARTICIPATE IN REEMPLOYMENT SERVICES OR USE VACATION TIME WHILE UNDER
+ QUARANTINE.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08011-01-3
