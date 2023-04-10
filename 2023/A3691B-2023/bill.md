@@ -1,6 +1,6 @@
 # Includes the Shelter Island Public Library Society with libraries eligible for the financing of projects through the dormitory authority
 
-**Bill ID:** A3691BA
+**Bill ID:** A3691BB
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Includes the Shelter Island Public Library Society with libraries eligible for t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3691--A
+  3691--B
+  Cal. No. 39
  
   2023-2024 Regular Sessions
  
@@ -28,23 +29,25 @@ S T A T E  O F  N E W  Y O R K
  Introduced by M. of A. THIELE -- read once and referred to the Committee
   on  Corporations, Authorities and Commissions -- committee discharged,
   bill amended, ordered reprinted as amended  and  recommitted  to  said
-  committee
+  committee  --  advanced  to  a  third  reading, passed by Assembly and
+  delivered to the Senate, recalled from the Senate, vote  reconsidered,
+  bill  amended,  ordered reprinted, retaining its place on the order of
+  third reading
  
- AN  ACT  to  amend  chapter 672 of the laws of 1993, amending the public
-  authorities law relating to the construction and financing of  facili-
-  ties  for certain public libraries, in relation to including the Shel-
-  ter Island Public Library
+ AN ACT to amend chapter 672 of the laws of  1993,  amending  the  public
+  authorities  law relating to the construction and financing of facili-
+  ties for certain public libraries, in relation to including the  Shel-
+  ter Island Public Library Society
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Section 5 of chapter 672 of the laws of 1993, amending the
- public authorities law relating to the  construction  and  financing  of
- facilities  for  certain  public  libraries,  is amended by adding a new
+  Section 1. Section 5 of chapter 672 of the laws of 1993, amending  the
+ public  authorities  law  relating  to the construction and financing of
+ facilities for certain public libraries, is  amended  by  adding  a  new
  subdivision 55 to read as follows:
-  55. SHELTER ISLAND PUBLIC LIBRARY.
+  55. SHELTER ISLAND PUBLIC LIBRARY SOCIETY.
   § 2. This act shall take effect immediately.
- 
  
  
  
@@ -52,4 +55,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07695-02-3
+  LBD07695-04-3
