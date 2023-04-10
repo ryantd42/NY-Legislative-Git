@@ -1,6 +1,6 @@
 # Prohibits the use of intoxication of the victim as a defense in sex crimes
 
-**Bill ID:** S4555B
+**Bill ID:** S4555BA
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Prohibits the use of intoxication of the victim as a defense in sex crimes where
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4555
+  4555--A
+  Cal. No. 473
  
   2023-2024 Regular Sessions
  
@@ -26,12 +27,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Codes
- 
+  printed  to be committed to the Committee on Codes -- reported favora-
+  bly from said committee, ordered to first and second  report,  ordered
+  to a third reading, amended and ordered reprinted, retaining its place
+  in the order of third reading
+
  AN ACT to amend the penal law, in relation to prohibiting the use of the
   intoxication  of  a  victim  as a defense to a criminal charge for sex
-  crimes and creating an affirmative defense for such criminal charges
-
+  crimes
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,25 +59,11 @@ S T A T E  O F  N E W  Y O R K
  IN ADDITION TO FORCIBLE COMPULSION, CIRCUMSTANCES UNDER  WHICH,  AT  THE
  TIME  OF  THE  ACT  OF  INTERCOURSE,  ORAL SEXUAL CONDUCT OR ANAL SEXUAL
  CONDUCT, THE VICTIM IS UNDER THE INFLUENCE OF ANY DRUG,  INTOXICANT,  OR
- OTHER  SUBSTANCE TO A DEGREE WHICH RENDERS SUCH PERSON TEMPORARILY INCA-
- PABLE OF  APPRAISING OR CONTROLLING HIS OR HER CONDUCT AND  SUCH  CONDI-
- TION  IS  KNOWN OR REASONABLY SHOULD BE KNOWN TO A PERSON IN THE ACTOR'S
- SITUATION.
+ OTHER  SUBSTANCE  TO  A  DEGREE  WHICH  RENDERS THAT PERSON INCAPABLE OF
+ GIVING CONSENT AND THAT CONDITION IS KNOWN OR REASONABLY SHOULD BE KNOWN
+ TO A PERSON IN THE ACTOR'S SITUATION.
+  § 2. This act shall take effect immediately.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01032-03-3
- S. 4555  2
- 
-  § 2. Section 130.10 of the penal law is amended by adding a new subdi-
- vision 5 to read as follows:
-  5. IN ANY PROSECUTION FOR THE CRIME OF SEXUAL MISCONDUCT AS DEFINED IN
- SUBDIVISIONS  ONE AND TWO OF SECTION 130.20, RAPE IN THE THIRD DEGREE AS
- DEFINED IN SUBDIVISION THREE OF SECTION 130.25, OR CRIMINAL  SEXUAL  ACT
- IN THE THIRD DEGREE AS DEFINED IN SUBDIVISION THREE OF SECTION 130.40 IN
- WHICH  LACK  OF CONSENT IS BASED ON THE CIRCUMSTANCES SET FORTH IN PARA-
- GRAPH (E) OF SUBDIVISION THREE OF SECTION 130.05  OF  THIS  ARTICLE,  IT
- SHALL  BE  AN  AFFIRMATIVE DEFENSE THAT THE DEFENDANT, AT THE TIME HE OR
- SHE ENGAGED IN THE CONDUCT CONSTITUTING THE OFFENSE, DID NOT KNOW OF THE
- FACTS OR CONDITIONS RESPONSIBLE FOR SUCH LACK OF CONSENT.
-  § 3. This act shall take effect immediately.
+  LBD01032-04-3
