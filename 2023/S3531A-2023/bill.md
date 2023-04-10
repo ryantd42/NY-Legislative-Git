@@ -1,6 +1,6 @@
 # Directs the state fire prevention and building code council to update the state fire prevention and building code and the state energy conservation construction code
 
-**Bill ID:** S3531A
+**Bill ID:** S3531AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Directs the state fire prevention and building code council to update the state 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3531
+  3531--A
+  Cal. No. 389
  
   2023-2024 Regular Sessions
  
@@ -27,7 +28,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sens. SKOUFIS, SEPULVEDA -- read twice and ordered print-
   ed, and when printed to be committed  to  the  Committee  on  Housing,
-  Construction and Community Development
+  Construction and Community Development -- reported favorably from said
+  committee,  ordered  to  first  and  second report, ordered to a third
+  reading, amended and ordered reprinted, retaining  its  place  in  the
+  order of third reading
  
  AN  ACT  to  amend  the executive law and the energy law, in relation to
   requiring the updating of the state uniform fire prevention and build-
@@ -56,18 +60,18 @@ S T A T E  O F  N E W  Y O R K
  CHANGES.
   §  2.  Section  11-101 of the energy law, as amended by chapter 516 of
  the laws of 1984, is amended to read as follows:
-  § 11-101. Purpose. In furtherance of the [policy] POLICIES  set  forth
- in  subdivision  two of section 3-101 of this chapter AND IN CHAPTER ONE
- HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN ENACTING THE  NEW  YORK
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06858-01-3
- S. 3531  2
+  LBD06858-02-3
+ S. 3531--A  2
  
+  § 11-101. Purpose. In furtherance of the [policy] POLICIES  set  forth
+ in  subdivision  two of section 3-101 of this chapter AND IN CHAPTER ONE
+ HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN ENACTING THE  NEW  YORK
  STATE  CLIMATE  LEADERSHIP AND COMMUNITY PROTECTION ACT, the legislature
- hereby directs that a state energy  conservation  construction  code  be
- adopted  to protect the health, safety and security of the people of the
+ hereby  directs  that  a  state energy conservation construction code be
+ adopted to protect the health, safety and security of the people of  the
  state and to assure a continuing supply of energy for future generations
  and that such code mandate that [economically] reasonable energy conser-
  vation  techniques  be used in the design and construction of all public
@@ -105,12 +109,12 @@ S T A T E  O F  N E W  Y O R K
  subsequent codes, the state fire prevention and  building  code  council
  shall,  AS  SOON  AS PRACTICABLE AND NO LATER THAN EIGHTEEN MONTHS AFTER
  THE PUBLICATION OF EACH REVISED OR UPDATED EDITION OF THE  INTERNATIONAL
- ENERGY CONSERVATION CODE OR THE ANSI/ASHRAE/IESNA STANDARD 90.1, use its
- best  efforts to adopt provisions for residential buildings that achieve
- energy savings greater than energy savings achieved  by  the  then  most
- recently  published  International Energy Conservation Code and to adopt
- provisions for commercial buildings that achieve energy savings  greater
- than  energy  savings  achieved  by  the  then  most  recently published
+ ENERGY  CONSERVATION  CODE  AND THE ANSI/ASHRAE/IESNA STANDARD 90.1, use
+ its best efforts to adopt  provisions  for  residential  buildings  that
+ achieve  energy savings greater than energy savings achieved by the then
+ most recently published International Energy Conservation  Code  and  to
+ adopt  provisions  for  commercial buildings that achieve energy savings
+ greater than energy savings achieved by the then most recently published
  [ASHRAE] ANSI/ASHRAE/IESNA STANDARD 90.1, both at levels recommended  by
  the  New  York state energy research and development authority, provided
  that the state fire prevention and building code council determines that
@@ -118,16 +122,16 @@ S T A T E  O F  N E W  Y O R K
  cost effectiveness considerations contemplated by this subdivision.
   (C) THE STATE FIRE PREVENTION AND BUILDING CODE COUNCIL SHALL, AS SOON
  AS  PRACTICABLE  AND NO LATER THAN EIGHTEEN MONTHS AFTER THE PUBLICATION
- OF EACH REVISED OR UPDATED EDITION OF THE INTERNATIONAL ENERGY CONSERVA-
- TION CODE OR THE ANSI/ASHRAE/IESNA STANDARD 90.1, CAUSE THE STATE ENERGY
- CONSERVATION CONSTRUCTION CODE TO BE UPDATED TO REFLECT CHANGES  IN  ANY
- S. 3531  3
+ S. 3531--A  3
  
- SUCH  REVISED  OR UPDATED EDITION.  TO THE EXTENT THAT THE STATE ENERGY
- CONSERVATION CONSTRUCTION CODE HAS NOT BEEN UPDATED TO  REFLECT  CHANGES
- IN  ANY SUCH REVISED OR UPDATED EDITION AS OF THE EFFECTIVE DATE OF THIS
- PARAGRAPH,  THE  COUNCIL SHALL, AS SOON AS PRACTICABLE AND NO LATER THAN
- EIGHTEEN MONTHS AFTER THE EFFECTIVE DATE OF THIS  PARAGRAPH,  CAUSE  THE
- STATE  ENERGY  CONSERVATION  CONSTRUCTION  CODE TO BE UPDATED TO REFLECT
+ OF EACH REVISED OR UPDATED EDITION OF THE INTERNATIONAL ENERGY CONSERVA-
+ TION CODE AND THE ANSI/ASHRAE/IESNA STANDARD 90.1, CAUSE THE STATE ENER-
+ GY CONSERVATION CONSTRUCTION CODE TO BE UPDATED TO  REFLECT  CHANGES  IN
+ ANY SUCH REVISED OR UPDATED EDITION.  TO THE EXTENT THAT THE STATE ENER-
+ GY CONSERVATION CONSTRUCTION CODE HAS NOT BEEN UPDATED TO REFLECT CHANG-
+ ES  IN  ANY  SUCH REVISED OR UPDATED EDITION AS OF THE EFFECTIVE DATE OF
+ THIS PARAGRAPH, THE COUNCIL SHALL, AS SOON AS PRACTICABLE AND  NO  LATER
+ THAN  EIGHTEEN  MONTHS AFTER THE EFFECTIVE DATE OF THIS PARAGRAPH, CAUSE
+ THE STATE ENERGY CONSERVATION CONSTRUCTION CODE TO BE UPDATED TO REFLECT
  SUCH CHANGES.
   § 4. This act shall take effect immediately.
