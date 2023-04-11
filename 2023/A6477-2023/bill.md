@@ -1,0 +1,76 @@
+# Requires the posting of a notice in certain rental premises regarding access to the sex offender registry
+
+**Bill ID:** A6477
+**Session:** 2023
+**Sponsor:** Monique Chandler-Waterman
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires landlords to post notices in certain rental premises regarding access to the sex offender registry; provides the language for such notice; provides such posting requirement shall only apply to multiple dwellings.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6477
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  April 11, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. CHANDLER-WATERMAN -- read once and referred to
+  the Committee on Correction
+ 
+ AN ACT to amend the correction law, in relation to requiring the posting
+  of a notice in certain rental premises regarding  access  to  the  sex
+  offender registry
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The correction law is amended by adding a new section  168-
+ kk to read as follows:
+  §  168-KK.  POSTING  OF  GENERAL  NOTICE  IN  MULTIPLE  DWELLINGS.  1.
+ NOTWITHSTANDING ANY LAW, RULE OR REGULATION TO THE CONTRARY,  THE  LAND-
+ LORD  OF  A  MULTIPLE DWELLING SHALL POST IN A CONSPICUOUS PLACE IN EACH
+ AND EVERY ENTRANCE WAY OF SUCH MULTIPLE DWELLING, AT LEAST ONE  COPY  OF
+ THE NOTICE AS PROVIDED FOR IN SUBDIVISION TWO OF THIS SECTION. THE DIVI-
+ SION  OF  HOUSING  AND  COMMUNITY RENEWAL SHALL PROMULGATE ANY RULES AND
+ REGULATIONS IT DEEMS NECESSARY FOR THE FURTHER  IMPLEMENTATION  OF  THIS
+ SECTION.
+  2. SUCH NOTICE SHALL CONTAIN THE FOLLOWING LANGUAGE:
+  "NOTICE:  THE  NEW  YORK  STATE  DIVISION OF CRIMINAL JUSTICE SERVICES
+ MAINTAINS AND DISTRIBUTES A SUBDIRECTORY, WHICH INCLUDES  THE  LOCATIONS
+ AND  PHOTOGRAPHS  OF  HIGH  RISK  SEX  OFFENDERS.  IF YOU HAVE REASON TO
+ BELIEVE A SEX OFFENDER RESIDES IN YOUR BUILDING OR NEIGHBORHOOD,  PLEASE
+ CONTACT YOUR LOCAL LAW ENFORCEMENT AGENCY FOR FURTHER INFORMATION ON HOW
+ TO ACCESS AND VIEW THE SUBDIRECTORY OF HIGH RISK SEX OFFENDERS.  YOU MAY
+ ALSO  ACCESS  THE  INFORMATION  AT A SPECIAL TOLL FREE TELEPHONE NUMBER,
+ 1-800-262-3257, TO VERIFY THE REGISTRATION OF A  PARTICULAR  INDIVIDUAL.
+ IT  IS ILLEGAL TO USE INFORMATION OBTAINED FROM THE DIVISION OF CRIMINAL
+ JUSTICE SERVICES SUBDIRECTORY OR THE SPECIAL TOLL FREE TELEPHONE  NUMBER
+ TO  COMMIT  A  CRIME  AGAINST  ANY PERSON LISTED OR TO ENGAGE IN ILLEGAL
+ DISCRIMINATION OR HARASSMENT AGAINST SUCH PERSON."
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07768-01-3
+ A. 6477  2
+ 
+  3. FOR PURPOSES OF THIS SECTION, THE FOLLOWING TERMS HAVE THE  FOLLOW-
+ ING MEANINGS:
+  A.  "LANDLORD" SHALL INCLUDE OWNER, AGENT, MANAGER, SUPERINTENDENT, OR
+ ANY OTHER PERSON WHOSE RESPONSIBILITIES INCLUDE MAINTENANCE OF A  MULTI-
+ PLE DWELLING; AND
+  B.  "MULTIPLE  DWELLING"  MEANS  THE  SAME  AS SUCH TERM IS DEFINED IN
+ SECTION FOUR OF THE MULTIPLE DWELLING LAW AND SECTION FOUR OF THE MULTI-
+ PLE RESIDENCE LAW.
+  § 2. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law.
