@@ -1,0 +1,71 @@
+# Relates to incarcerated individuals wages
+
+**Bill ID:** A6469
+**Session:** 2023
+**Sponsor:** Monique Chandler-Waterman
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to incarcerated individuals wages; provides that incarcerated individuals shall be compensated at a base rate of $1.20 to $10 per day and shall be given biannual raises for adequate performance; provides that incarcerated individuals not participating in a work or program assignment due to age or frailty shall be paid $1.00 per day, adjusted every 5 years for cost of living.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6469
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  April 11, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. CHANDLER-WATERMAN -- read once and referred to
+  the Committee on Correction
+ 
+ AN ACT to amend the correction law, in relation to incarcerated individ-
+  uals wages
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section  1.  Section  187 of the correction law is amended by adding a
+ new subdivision 5 to read as follows:
+  5. INCARCERATED INDIVIDUALS SHALL BE  COMPENSATED  FOR  ALL  WORK  AND
+ PROGRAM  ASSIGNMENTS AT A BASE RATE OF COMPENSATION OF ONE DOLLAR TWENTY
+ CENTS TO TEN DOLLARS PER DAY AND SHALL  BE  GIVEN  BIANNUAL  RAISES  FOR
+ ADEQUATE  PERFORMANCE  IN  SUCH  ASSIGNMENTS. AN INCARCERATED INDIVIDUAL
+ WORKING IN  A  MANUFACTURING  OR  INDUSTRIAL  ASSIGNMENT  SHALL  RECEIVE
+ COMPENSATION OF FIVE TO TEN DOLLARS PER DAY FOR THE DURATION OF THE TIME
+ SUCH  INCARCERATED  INDIVIDUAL WORKS IN SUCH ASSIGNMENT AND SHALL REVERT
+ TO HIS OR HER PREVIOUS RATE OF COMPENSATION ONCE HE OR SHE IS NO  LONGER
+ WORKING  IN SUCH ASSIGNMENT.  UNLESS AN INCARCERATED INDIVIDUAL IS LEAV-
+ ING SUCH MANUFACTURING OR INDUSTRIAL ASSIGNMENT, HIS OR HER COMPENSATION
+ FOR PERFORMING HIS OR HER  WORK  OR  PROGRAM  ASSIGNMENT  SHALL  NOT  BE
+ DECREASED IF HE OR SHE IS TRANSFERRED TO A DIFFERENT FACILITY OR CHANGES
+ ASSIGNMENTS  WITHIN  A  FACILITY. THE DEPARTMENT SHALL REVIEW AND ADJUST
+ THE BASE RATE OF COMPENSATION OF  INCARCERATED  INDIVIDUALS  EVERY  FIVE
+ YEARS  AFTER  THE EFFECTIVE DATE OF THIS SUBDIVISION TO ADJUST FOR COST-
+ OF-LIVING INCREASES. A COST-OF-LIVING ADJUSTMENT SHALL BE  MADE  IF  THE
+ SUM  OF  THE  ANNUAL AVERAGE CHANGES OF THE CONSUMER PRICE INDEX FOR ALL
+ URBAN CONSUMERS (CPI-U), AS PUBLISHED  ANNUALLY  BY  THE  UNITED  STATES
+ DEPARTMENT OF LABOR BUREAU OF LABOR STATISTICS, IS TEN PERCENT OR GREAT-
+ ER  UPON  REVIEW.  INCARCERATED  INDIVIDUALS WHO ARE NOT ABLE TO WORK OR
+ PARTICIPATE IN PROGRAMS BECAUSE OF A MEDICAL, MENTAL, COGNITIVE,  DEVEL-
+ OPMENTAL  OR PHYSICAL IMPAIRMENT OR CONDITION OR WHO ARE OVER THE AGE OF
+ SIXTY AND NOT PARTICIPATING IN A WORK OR PROGRAM ASSIGNMENT  BECAUSE  OF
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01561-01-3
+ A. 6469  2
+ 
+ AGE-RELATED  INFIRMITY  OR  FRAILTY  SHALL  BE  PAID ONE DOLLAR PER DAY,
+ ADJUSTED EVERY FIVE YEARS FOR COST OF LIVING.
+  §  2. This act shall take effect one year after it shall have become a
+ law.
