@@ -1,6 +1,6 @@
 # Extends the one percent increased county sales tax for Putnam county
 
-**Bill ID:** S5348A
+**Bill ID:** S5348AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Extends the one percent increased county sales tax for Putnam county for two yea
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5348
+  5348--A
  
   2023-2024 Regular Sessions
  
@@ -27,27 +27,28 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the tax law, in relation to the imposition of sales  and
-  compensating use taxes in the county of Putnam
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN  ACT  to  amend the tax law, in relation to extending the one percent
+  increased county sales tax for Putnam county
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Clause 39 of subparagraph (i) of the opening  paragraph  of
- section  1210  of  the  tax  law,  as amended by section 1 of item KK of
- subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
+  Section  1.  Clause 39 of subparagraph (i) of the opening paragraph of
+ section 1210 of the tax law, as amended by  section  1  of  item  KK  of
+ subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
  read as follows:
-  (39)  the  county of Putnam is hereby further authorized and empowered
- to adopt and amend local laws, ordinances or resolutions  imposing  such
- taxes  at  a rate that is: (i) one-half of one percent additional to the
- three percent rate authorized above in this paragraph  for  such  county
- for  the  period beginning September first, two thousand five and ending
+  (39) the county of Putnam is hereby further authorized  and  empowered
+ to  adopt  and amend local laws, ordinances or resolutions imposing such
+ taxes at a rate that is: (i) one-half of one percent additional  to  the
+ three  percent  rate  authorized above in this paragraph for such county
+ for the period beginning September first, two thousand five  and  ending
  August thirty-first, two thousand seven; and (ii) one percent additional
- to the three percent rate authorized above in this  paragraph  for  such
- county  for the period beginning September first, two thousand seven and
- ending November thirtieth, two thousand [twenty-three] TWENTY-SIX;
+ to  the  three  percent rate authorized above in this paragraph for such
+ county for the period beginning September first, two thousand seven  and
+ ending November thirtieth, two thousand [twenty-three] TWENTY-FIVE;
   § 2. This act shall take effect immediately.
  
  
@@ -55,4 +56,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09909-01-3
+  LBD09909-02-3
