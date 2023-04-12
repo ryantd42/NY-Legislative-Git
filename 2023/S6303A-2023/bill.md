@@ -1,0 +1,91 @@
+# Provides for vehicle cost recovery fees
+
+**Bill ID:** S6303A
+**Session:** 2023
+**Sponsor:** Timothy M. Kennedy
+**Status:** Senate Floor Calendar
+
+## Summary
+
+Provides for an allowable recovery by a rental vehicle company from its renters for actual costs incurred to title, register, plate and inspect rental vehicles as determined by an annual audit conducted by the rental vehicle company.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6303
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  April 12, 2023
+  ___________
+ 
+ Introduced  by  Sen. KENNEDY -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Consumer Protection
+ 
+ AN ACT to amend the general business law, in relation  to  vehicle  cost
+  recovery fees
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Subdivision 1 of section 396-z of the general business  law
+ is amended by adding a new paragraph (m) to read as follows:
+  (M)  "VEHICLE  COST  RECOVERY  FEE"  MEANS THE ALLOWABLE RECOVERY BY A
+ RENTAL VEHICLE COMPANY FROM ITS RENTERS FOR THE ACTUAL COSTS INCURRED TO
+ TITLE, REGISTER, PLATE AND INSPECT RENTAL  VEHICLES  IN  THE  STATE  AND
+ WHICH  FEE  SHALL  BE DETERMINED INITIALLY BY A RENTAL VEHICLE COMPANY'S
+ GOOD FAITH ESTIMATE OF THE RENTAL  VEHICLE  COMPANY'S  DAILY  CHARGE  TO
+ RECOVER  ITS  ACTUAL  TOTAL  ANNUAL MOTOR VEHICLE TITLING, REGISTRATION,
+ PLATING AND INSPECTION COSTS, AND THEREAFTER BY AN INTERNAL AUDIT OF THE
+ PRECEDING YEAR'S ACTUAL COSTS CONDUCTED BY THE  RENTAL  VEHICLE  COMPANY
+ FROM  ADJUSTING THE EXPENSE LEVEL DURING A CALENDAR YEAR TO MORE CLOSELY
+ REFLECT ACTUAL COSTS INCURRED.  IF THE TOTAL AMOUNT OF THE VEHICLE  COST
+ RECOVERY  FEES  COLLECTED BY A RENTAL VEHICLE COMPANY UNDER THIS SECTION
+ IN ANY CALENDAR YEAR EXCEEDS THE CAR RENTAL COMPANY'S  ACTUAL  COSTS  TO
+ LICENSE,  TITLE,  REGISTER,  AND  PLATE MOTOR VEHICLES AND HAVE THE SAME
+ INSPECTED FOR THAT CALENDAR YEAR, THE CAR RENTAL COMPANY MAY RETAIN  THE
+ EXCESS  AMOUNT,  AND  ADJUST  THE ESTIMATED AVERAGE PER VEHICLE TITLING,
+ LICENSING, PLATING, INSPECTING AND REGISTRATION CHARGE FOR THE FOLLOWING
+ CALENDAR YEAR BY A CORRESPONDING AMOUNT.  EACH  SUCH  AUDIT  SHALL  BE
+ RETAINED  FOR  A  PERIOD  OF NOT LESS THAN FIVE YEARS, AND SHALL BE MADE
+ AVAILABLE TO THE DEPARTMENT OF STATE, DEPARTMENT OF MOTOR  VEHICLES  AND
+ ATTORNEY GENERAL UPON WRITTEN REQUEST.
+  §  2. Paragraphs (a) and (b) of subdivision 10 of section 396-z of the
+ general business law, as amended by chapter 109 of the laws of 2018, are
+ amended to read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09218-01-3
+ S. 6303  2
+ 
+  (a) A rental vehicle company shall  not  charge  in  addition  to  the
+ rental  rate,  taxes,  and mileage charge, if any, any fee which must be
+ paid as a condition of renting the vehicle, such as, but not limited to,
+ required fuel surcharges, each of which shall be  separately  stated  on
+ the  rental  agreement.  In  addition, a rental vehicle company may also
+ state separately and charge, where applicable, airport fees as such term
+ is defined herein. PROVIDED FURTHER, THAT A RENTAL VEHICLE  COMPANY  MAY
+ ALSO  SEPARATELY  STATE  THE  VEHICLE  COST RECOVERY FEE AS SUCH TERM IS
+ DEFINED IN PARAGRAPH (M) OF SUBDIVISION ONE OF THIS SECTION.
+  (b) In addition to the rental rate, taxes,  applicable  airport  fees,
+ VEHICLE  COST RECOVERY FEE, and mileage charge, if any, a rental vehicle
+ company may charge for an item or service provided in connection with  a
+ particular rental transaction if the renter could have avoided incurring
+ the  charge  by  not  choosing to obtain or utilize the optional item or
+ service, such as, but not limited to, optional accessories  or  services
+ requested  by  the  renter,  service  charges  incident  to the renter's
+ optional return of the vehicle to a location  other  than  the  location
+ where the vehicle was rented, and charges for refueling the vehicle with
+ as much fuel as was in the fuel tank at the beginning of the rental.
+  §  3.  This  act  shall take effect on the sixtieth day after it shall
+ have become a law, provided that the amendments to section 396-z of  the
+ general  business law made by sections one and two of this act shall not
+ affect the expiration of such section and  shall  be  deemed  to  expire
+ therewith.
