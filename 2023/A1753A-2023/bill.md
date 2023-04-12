@@ -1,6 +1,6 @@
 # Relates to electronic signatures and salvage title
 
-**Bill ID:** A1753A
+**Bill ID:** A1753AA
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Permits the electronic execution of a power of attorney for the purpose of trans
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1753
+  1753--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,16 @@ S T A T E  O F  N E W  Y O R K
   January 20, 2023
   ___________
  
- Introduced by M. of A. DINOWITZ -- read once and referred to the Commit-
-  tee on Judiciary
+ Introduced  by  M.  of A. DINOWITZ, HYNDMAN -- read once and referred to
+  the Committee on Judiciary  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN  ACT  to  amend  the general obligations law and the state technology
   law, in relation to electronic signatures and salvage title
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Section 5-1501B of the general obligations law is amended
  by adding a new subdivision 6 to read as follows:
   6. NOTHING IN THIS TITLE SHALL PROHIBIT THE EXECUTION OF A VALID POWER
@@ -52,16 +53,15 @@ S T A T E  O F  N E W  Y O R K
  tual beneficiary designations; (b) the registration of making, amending,
  or  revoking an anatomical gift under section forty-three hundred ten of
  the public health law; [and] (c)  documents  and  forms  authorizing  or
- accepting  funeral, cemetery and cremation services[.]; AND (D) WHENEVER
- A LOSS IN CONNECTION WITH A  PRIVATE  AUTOMOBILE  IS  DETERMINED  BY  AN
- INSURER  TO  BE  A  TOTAL  LOSS OR CONSTRUCTIVE TOTAL LOSS UNDER SECTION
- THIRTY-FOUR HUNDRED TWELVE OF THE INSURANCE  LAW,  FOR  THE  PURPOSE  OF
- TRANSFERRING  A  SALVAGE  CERTIFICATE  OF  TITLE AND THE EXECUTION OF AN
- ODOMETER AND DISCLOSURE STATEMENT IN CONNECTION  WITH  SUCH  TITLE,  THE
- ELECTRONIC  EXECUTION  OF  A  POWER  OF  ATTORNEY  SHALL  BE PERMISSIBLE
- PROVIDED THAT SIGNATURE IS AUTHENTICATED.
+ accepting  funeral,  cemetery  and  cremation  services[.];  AND (D) THE
+ EXECUTION OF A VALID POWER OF ATTORNEY FOR THE PURPOSE  OF  TRANSFERRING
+ A  SALVAGE  CERTIFICATE OF TITLE AND THE EXECUTION OF AN ODOMETER AND
+ DAMAGE DISCLOSURE STATEMENT IN CONNECTION WITH  SUCH  TITLE  WHENEVER  A
+ LOSS IN CONNECTION WITH A PRIVATE AUTOMOBILE IS DETERMINED BY AN INSURER
+ TO  BE A TOTAL LOSS OR CONSTRUCTIVE TOTAL LOSS UNDER SECTION THREE THOU-
+ SAND FOUR HUNDRED TWELVE OF THE INSURANCE LAW.
   § 3. This act shall take effect immediately.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04984-01-3
+  LBD04984-02-3
