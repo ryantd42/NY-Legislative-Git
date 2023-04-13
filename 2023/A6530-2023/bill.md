@@ -1,0 +1,73 @@
+# Establishes a tax credit for homeowners and businesses to build permeable surfaces
+
+**Bill ID:** A6530
+**Session:** 2023
+**Sponsor:** Albert A. Stirpe
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes a tax credit for homeowners and businesses to build permeable surfaces.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6530
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  April 13, 2023
+  ___________
+ 
+ Introduced by M. of A. STIRPE, FAHY, GUNTHER, LUPARDO, MAGNARELLI, SIMON
+  -- read once and referred to the Committee on Ways and Means
+ 
+ AN  ACT  to  amend  the  tax law, in relation to credits against tax for
+  homeowners and businesses to build permeable surfaces
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  606  of  the  tax law is amended by adding a new
+ subsection (ooo) to read as follows:
+  (OOO)  CREDIT  FOR  HOMEOWNERS  AND  BUSINESSES  TO  BUILD  PERMEABLE
+ SURFACES. (1)(A) HOMEOWNERS WHO CONSTRUCT A PERMEABLE SURFACE AS PART OF
+ THEIR  REAL  PROPERTY,  DURING  THE  TAXABLE  YEAR, SHALL BE ELIGIBLE TO
+ RECEIVE  A  TAX  CREDIT  FOR  UP  TO  FIFTY  PERCENT  OF  THE  COST  OF
+ CONSTRUCTION, NOT EXCEEDING FIVE THOUSAND DOLLARS.
+  (B)  FOR  PURPOSES  OF THIS SUBSECTION THE FOLLOWING DEFINITIONS SHALL
+ APPLY:
+  (I) HOMEOWNER IS DEFINED AS A NEW YORK RESIDENT FOR THE  PAST  TWENTY-
+ FOUR  MONTHS  AND  WHO OWNS A SINGLE FAMILY OR MULTI-FAMILY DWELLING FOR
+ RESIDENTIAL PURPOSES WITHIN NEW YORK STATE.
+  (II) PERMEABLE SURFACE, SHALL MEAN ANY PERMEABLE  PAVING  THAT  ALLOWS
+ THE  MOVEMENT  OF WATER AND AIR AROUND THE PAVING MATERIALS. A PERMEABLE
+ SURFACE SHALL INCLUDE BUT NOT BE LIMITED TO:  SIDEWALKS,  DRIVEWAYS  AND
+ PARKING LOTS.
+  (2)(A)  BUSINESSES  WHO  CONSTRUCT  A PERMEABLE SURFACE ADJACENT TO OR
+ WITHIN ONE THOUSAND FEET OF THE PROPERTY, DURING THE TAXABLE YEAR, SHALL
+ BE ELIGIBLE TO RECEIVE A TAX CREDIT FOR UP TO FIFTY PERCENT OF THE  COST
+ OF CONSTRUCTION, NOT EXCEEDING FIVE THOUSAND DOLLARS.
+  (B)  FOR  PURPOSES  OF THIS SUBSECTION THE FOLLOWING DEFINITIONS SHALL
+ APPLY:
+  (I) BUSINESS SHALL MEAN ANY BUSINESS WHOSE PRINCIPAL PLACE OF BUSINESS
+ IS LOCATED IN NEW YORK STATE, AND HAS BEEN LOCATED IN THE STATE FOR  THE
+ PREVIOUS THIRTY-SIX MONTHS.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02167-01-3
+ A. 6530  2
+ 
+  (II)  PERMEABLE  SURFACE,  SHALL MEAN ANY PERMEABLE PAVING THAT ALLOWS
+ THE MOVEMENT OF WATER AND AIR AROUND THE PAVING MATERIALS.  A  PERMEABLE
+ SURFACE  SHALL  INCLUDE  BUT NOT BE LIMITED TO: SIDEWALKS, DRIVEWAYS AND
+ PARKING LOTS.
+  § 2. This act shall take effect immediately and shall apply to taxable
+ years commencing on and after such date.
