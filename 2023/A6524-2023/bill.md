@@ -1,0 +1,81 @@
+# Declares provisions, in snow removal and de-icing service contracts, requiring the service provider to indemnify the recipient of the services to be void
+
+**Bill ID:** A6524
+**Session:** 2023
+**Sponsor:** Brian D. Miller
+**Status:** In Assembly Committee
+
+## Summary
+
+Declares provisions, in snow removal and de-icing service contracts, requiring the service provider to indemnify the recipient of the services for damages arising out of such recipient's acts or omissions, to be null and void.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6524
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  April 13, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  MILLER, K. BROWN, DeSTEFANO, SIMPSON, TAGUE,
+  ANGELINO, MANKTELOW -- read once and  referred  to  the  Committee  on
+  Judiciary
+ 
+ AN  ACT  to  amend  the  general  obligations law, in relation to making
+  certain agreements in snow removal and ice control services  void  and
+  unenforceable
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 5-101 of the general obligations law is amended  by
+ adding three new subdivisions 5, 6 and 7 to read as follows:
+  5. AS USED IN SECTION 5-319 OF THIS ARTICLE, THE TERM "SERVICE PROVID-
+ ER"  MEANS  ANY  PERSON  OR ENTITY WHICH PROVIDES SERVICES PURSUANT TO A
+ SNOW REMOVAL AND ICE CONTROL SERVICES CONTRACT.
+  6. AS USED IN SECTION 5-319 OF THIS ARTICLE, THE TERM "SERVICE RECEIV-
+ ER" MEANS ANY PERSON OR ENTITY WHICH RECEIVES  SERVICES  PURSUANT  TO  A
+ SNOW REMOVAL AND ICE CONTROL SERVICES CONTRACT.
+  7.  AS  USED  IN SECTION 5-319 OF THIS ARTICLE, THE TERM "SNOW REMOVAL
+ AND ICE CONTROL SERVICES CONTRACT" MEANS A CONTRACT OR  AGREEMENT  WHICH
+ PROVIDES FOR THE PERFORMANCE OF ANY OF THE FOLLOWING:
+  A. PLOWING, SHOVELING, OR OTHER REMOVAL OF SNOW OR OTHER MIXED PRECIP-
+ ITATION FROM A SURFACE;
+  B. DE-ICING SERVICES;
+  C.  ANY  SERVICE INCIDENTAL TO A SERVICE DESCRIBED IN PARAGRAPH A OR B
+ OF THIS SUBDIVISION, INCLUDING THE OPERATING OR MOVING OF  SNOW  REMOVAL
+ OR DE-ICING EQUIPMENT OR MATERIALS.
+  §  2.  The  general obligations law is amended by adding a new section
+ 5-319 to read as follows:
+  § 5-319. AGREEMENTS REQUIRING SNOW REMOVAL  AND  ICE  CONTROL  SERVICE
+ PROVIDERS  TO  INDEMNIFY SERVICE RECEIVERS FOR NEGLIGENCE VOID AND UNEN-
+ FORCEABLE.  EVERY  COVENANT,  AGREEMENT  OR  UNDERSTANDING  IN  OR  IN
+ CONNECTION  WITH  OR  COLLATERAL  TO  ANY  SNOW  REMOVAL AND ICE CONTROL
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03608-01-3
+ A. 6524  2
+ 
+ SERVICES CONTRACT, WHICH PROVIDES ANY OF THE FOLLOWING, SHALL BE  DEEMED
+ TO BE VOID AS AGAINST PUBLIC POLICY AND WHOLLY UNENFORCEABLE:
+  1.  REQUIRES  OR  HAS  THE  EFFECT  OF REQUIRING A SERVICE PROVIDER TO
+ INDEMNIFY A SERVICE RECEIVER FOR DAMAGES  RESULTING  FROM  THE  ACTS  OR
+ OMISSIONS OF SUCH SERVICE RECEIVER, OR ITS EMPLOYEES OR AGENTS;
+  2.  REQUIRES OR HAS THE EFFECT OF REQUIRING A SERVICE PROVIDER TO HOLD
+ A SERVICE RECEIVER HARMLESS FROM ANY TORT LIABILITY FOR DAMAGES  RESULT-
+ ING  FROM THE ACTS OR OMISSIONS OF SUCH SERVICE RECEIVER, OR ITS EMPLOY-
+ EES OR AGENTS; OR
+  3. REQUIRES OR HAS THE EFFECT  OF  REQUIRING  A  SERVICE  PROVIDER  TO
+ DEFEND A SERVICE RECEIVER AGAINST ANY TORT LIABILITY FOR DAMAGES RESULT-
+ ING  FROM THE ACTS OR OMISSIONS OF SUCH SERVICE RECEIVER, OR ITS EMPLOY-
+ EES OR AGENTS.
+  § 3. This act shall take effect immediately.
