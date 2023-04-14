@@ -1,6 +1,6 @@
 # Relates to the design of uniform standards and conditions relating to the construction and operation of major renewable energy facilities
 
-**Bill ID:** S1793C
+**Bill ID:** S1793CA
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to the design of uniform standards and conditions relating to the constr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1793
+  1793--A
  
   2023-2024 Regular Sessions
  
@@ -27,47 +27,53 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. HINCHEY -- read twice and ordered printed, and when
   printed to be committed to the Committee on  Energy  and  Telecommuni-
-  cations
+  cations  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
- AN  ACT to amend the executive law, in relation to the design of uniform
+ AN ACT to amend the executive law, in relation to the design of  uniform
   standards and conditions relating to the construction and operation of
-  major renewable energy facilities and the review of  applications  for
-  permits  to  develop  such  facilities; and requires the  office  of
-  renewable energy  siting to establish or amend rules  and  regulations
+  major  renewable  energy facilities and the review of applications for
+  permits to develop such facilities; and  requires  the  office  of
+  renewable  energy  siting to establish or amend rules and regulations
   pertaining  to renewable energy siting facilities
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Paragraph (c) of subdivision 3 of section 94-c of the exec-
- utive law, as added by section 4 of part JJJ of chapter 58 of  the  laws
+ utive  law,  as added by section 4 of part JJJ of chapter 58 of the laws
  of 2020, is amended to read as follows:
-  (c)  The uniform standards and conditions established pursuant to this
- section shall be designed to avoid or minimize, to  the  maximum  extent
- practicable,  any  potential  significant  adverse environmental impacts
- AND, TO THE MAXIMUM EXTENT PRACTICABLE, AVOID,  MINIMIZE,  AND  MITIGATE
+  (c) The uniform standards and conditions established pursuant to  this
+ section  shall  be  designed to avoid or minimize, to the maximum extent
+ practicable, any potential  significant  adverse  environmental  impacts
+ AND,  TO  THE  MAXIMUM EXTENT PRACTICABLE, AVOID, MINIMIZE, AND MITIGATE
  AGRICULTURAL IMPACTS TO ACTIVE AGRICULTURAL LANDS related to the siting,
  design, construction and operation of a major renewable energy facility.
  Such uniform standards and conditions shall apply to those environmental
  impacts the office determines are common to each type of major renewable
  energy facility.
-  §  2.  Paragraphs  (e),  (f),  (g),  (h),  and (i) of subdivision 3 of
- section 94-c of the executive law are relettered  paragraphs  (f),  (g),
+  § 2. Paragraphs (e), (f), (g),  (h),  and  (i)  of  subdivision  3  of
+ section  94-c  of  the executive law are relettered paragraphs (f), (g),
  (h), (i), and (j) and a new paragraph (e) is added to read as follows:
-  (E)  IN  ITS  REVIEW OF AN APPLICATION FOR A PERMIT TO DEVELOP A MAJOR
- RENEWABLE ENERGY FACILITY, THE OFFICE, IN CONSULTATION WITH THE  DEPART-
- MENT  OF  AGRICULTURE  AND  MARKETS SHALL ENSURE THAT A CRITICAL MASS OF
- FARMLAND WITHIN THE DESIGNATED REGION IS NOT THREATENED,  ENSURING  THAT
- NO  MORE  THAN  FIVE  PERCENT  OF PRIME SOILS WITHIN A REGIONAL ECONOMIC
+  (E) IN ITS REVIEW OF AN APPLICATION FOR A PERMIT TO  DEVELOP  A  MAJOR
+ RENEWABLE  ENERGY FACILITY, THE OFFICE, IN CONSULTATION WITH THE DEPART-
+ MENT OF AGRICULTURE AND MARKETS SHALL ENSURE THAT  A  CRITICAL  MASS  OF
+ FARMLAND  WITHIN  THE DESIGNATED REGION IS NOT THREATENED, ENSURING THAT
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05683-01-3
- S. 1793  2
+  LBD05683-04-3
+ S. 1793--A  2
  
- DEVELOPMENT COUNCIL REGION SHALL HAVE SOLAR DEVELOPED  AND  ENSURE  THAT
+ NO MORE THAN FIVE PERCENT OF PRIME  SOILS  WITHIN  A  REGIONAL  ECONOMIC
+ DEVELOPMENT  COUNCIL  REGION  SHALL HAVE SOLAR DEVELOPED AND ENSURE THAT
  SOLAR DEVELOPMENT SHALL NOT GREATLY HINDER THE AMOUNT OF FARMLAND WITHIN
  NEW YORK STATE AND/OR BE A POTENTIAL THREAT TO NEW YORK'S FOOD SECURITY.
+ TWO  YEARS  AFTER  THE  EFFECTIVE DATE OF THIS PARAGRAPH, THE OFFICE, IN
+ CONJUNCTION WITH THE PUBLIC SERVICE COMMISSION  AND  THE  DEPARTMENT  OF
+ AGRICULTURE AND MARKETS, SHALL REEVALUATE THE EFFICACY OF THIS PARAGRAPH
+ AND PROPOSE RECOMMENDATIONS TO THE LEGISLATURE, INCLUDING BUT NOT LIMIT-
+ ED TO, THE CONSIDERATION OF NEW PERTINENT TECHNOLOGY AND/OR INFORMATION.
   §  3.  Section  94-c  of  the executive law is amended by adding a new
  subdivision 9 to read as follows:
   9. RULES AND REGULATIONS.  THE OFFICE SHALL ESTABLISH AND/OR AMEND THE
@@ -81,15 +87,20 @@ S T A T E  O F  N E W  Y O R K
   (B)(I) PREAPPLICATION PROCEDURES WHICH REQUIRE APPLICANTS TO:
   (1) SUBMIT A REPORT DELINEATING THE IMPACTS TO PRIME AGRICULTURAL LAND
  AND  PRIME  SOILS,  UNIQUE  FARMLAND AND FARMLAND OF STATEWIDE AND LOCAL
- IMPORTANCE, INCLUDING SOIL CLASSIFICATIONS AS ESTABLISHED BY THE NATURAL
- RESOURCES CONSERVATION SERVICE;
+ IMPORTANCE, INCLUDING MINERAL SOILS GROUP (MSG) 1-4 AS  DEFINED  BY  THE
+ DEPARTMENT OF AGRICULTURE AND MARKETS;
   (2) SUBMIT A CUMULATIVE IMPACT STUDY AS TO HOW THE USE OF FARMLAND FOR
- SOLAR SITING WILL IMPACT THE REGIONAL FOOD ECONOMY AND REGIONAL  OVERALL
+ SOLAR  SITING WILL IMPACT THE REGIONAL FOOD ECONOMY AND REGIONAL OVERALL
  FARMLAND PROTECTION PLAN; AND
-  (3)  ENSURE  THAT  A  CRITICAL  MASS OF FARMLAND WITHIN THE DESIGNATED
- REGION IS NOT THREATENED, ENSURING THAT NO MORE  THAN  FIVE  PERCENT  OF
+  (3) ENSURE THAT A CRITICAL MASS  OF  FARMLAND  WITHIN  THE  DESIGNATED
+ REGION  IS  NOT  THREATENED,  ENSURING THAT NO MORE THAN FIVE PERCENT OF
  PRIME SOILS ARE BEING SITED WITHIN A REGIONAL ECONOMIC DEVELOPMENT COUN-
- CIL REGION; AND
+ CIL REGION.  TWO YEARS AFTER THE EFFECTIVE DATE OF THIS SUBDIVISION, THE
+ OFFICE, IN CONJUNCTION  WITH  THE  PUBLIC  SERVICE  COMMISSION  AND  THE
+ DEPARTMENT  OF AGRICULTURE AND MARKETS, SHALL REEVALUATE THE EFFICACY OF
+ THIS CLAUSE AND PROPOSE RECOMMENDATIONS TO  THE  LEGISLATURE,  INCLUDING
+ BUT NOT LIMITED TO, THE CONSIDERATION OF NEW PERTINENT TECHNOLOGY AND/OR
+ INFORMATION; AND
   (II) PREFERENCE TO BE GIVEN TO SITES FOR SOLAR DEVELOPMENT THAT ARE ON
  BROWNFIELDS,  LANDFILLS,  PARKING  LOTS, ROOFTOPS, GRAVEL PITS AND OTHER
  AREAS WHERE DISTURBANCE TO LOCAL ECOSYSTEMS  IS  MINIMIZED.  SUCH  SITES
@@ -110,6 +121,8 @@ S T A T E  O F  N E W  Y O R K
   (3) CATEGORIES BASED ON SOLAR ARRAY LOCATION, SPECIFYING WHETHER SOLAR
  ARRAYS  ARE ROOF-MOUNTED, DESIGNATING PREFERRED SITES FOR SOLAR DEVELOP-
  MENT AND INELIGIBLE SITES;
+ S. 1793--A  3
+ 
   (4) CATEGORIES BASED  ON  SOLAR  ARRAY  DESIGN,  INCLUDING  SPECIFYING
  WHETHER SUCH SOLAR ARRAY UTILIZES DUAL USE OR AGRIVOLTAICS; AND
   (II)  FOR  MAJOR  RENEWABLE  ENERGY FACILITIES SITED ON PRIME SOILS OR
@@ -120,8 +133,6 @@ S T A T E  O F  N E W  Y O R K
   (2) SHOW SUBSTANTIAL EVIDENCE THAT ALL STRUCTURES AND  MATERIALS  WILL
  BE  REMOVED  UPON  DECOMMISSIONING  OF  SUCH FACILITY AND TO ENSURE THAT
  SOILS WILL BE CAPABLE OF AGRICULTURAL PRODUCTION; AND
- S. 1793  3
- 
   (3) OBTAIN DECOMMISSIONING SURETY BONDS OR ANOTHER FORM  OF  INSURANCE
  TO SECURE ALL OR A PART OF DECOMMISSIONING COSTS REQUIRED AT THE CONCLU-
  SION OF THE LEASE.
@@ -142,7 +153,12 @@ S T A T E  O F  N E W  Y O R K
  ENSURE NO MORE THAN FIFTEEN PERCENT OF THE LAND MASS BY SQUARE  MILE  OF
  ANY  COUNTY  SHALL  BE DEVELOPED FOR SOLAR ENERGY DEVELOPMENT OR NO MORE
  LAND MASS THAN WILL SIGNIFICANTLY NEGATIVELY IMPACT THE  LOCAL  ECONOMY,
- WHICHEVER IS SMALLER.
+ WHICHEVER IS SMALLER.  TWO YEARS AFTER THE EFFECTIVE DATE OF THIS SUBDI-
+ VISION,  THE  OFFICE,  IN CONJUNCTION WITH THE PUBLIC SERVICE COMMISSION
+ AND THE DEPARTMENT OF AGRICULTURE  AND  MARKETS,  SHALL  REEVALUATE  THE
+ EFFICACY  OF  THIS PARAGRAPH AND PROPOSE RECOMMENDATIONS TO THE LEGISLA-
+ TURE, INCLUDING BUT NOT LIMITED TO, THE CONSIDERATION OF  NEW  PERTINENT
+ TECHNOLOGY AND/OR INFORMATION.
   §  4.  This act shall take effect immediately; provided, however, that
  the amendments to section 94-c of the executive  law  made  by  sections
  one,  two  and  three  of  this  act shall not affect the repeal of such
