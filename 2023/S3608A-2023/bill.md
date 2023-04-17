@@ -1,6 +1,6 @@
 # Relates to establishing a video on the dangers of drowning for infants and young children to be viewed by a parent and/or parents of newborn children
 
-**Bill ID:** S3608A
+**Bill ID:** S3608AA
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to establishing a video on the dangers of drowning for infants and young
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3608
+  3608--A
  
   2023-2024 Regular Sessions
  
@@ -25,39 +25,42 @@ S T A T E  O F  N E W  Y O R K
   February 1, 2023
   ___________
  
- Introduced  by  Sen.  WEBB  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Women's Issues
+ Introduced  by  Sens.  WEBB,  ADDABBO,  CLEARE, COMRIE -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Women's  Issues  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public health law, in  relation  to  establishing  a
   video  on the dangers of drowning for infants and young children to be
-  viewed by maternity patients and guardians of newborn children
-
+  viewed by a parent and/or parents of newborn children
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1.  Subdivision 6 of section 2803-j of the public health law,
  as amended by chapter 431 of the laws of 2004, is  amended  to  read  as
  follows:
-  6.  Every  hospital and birth center shall request that each maternity
- patient and [father] GUARDIAN of a newborn child, if available, view (A)
- a video presentation, approved by the commissioner, on  the  dangers  of
- shaking  infants  and  young  children,  and the symptoms of shaken baby
- syndrome, AND (B) A VIDEO PRESENTATION, APPROVED BY THE COMMISSIONER, ON
- THE DANGERS OF DROWNING FOR INFANTS AND YOUNG CHILDREN.  After  viewing
- such  [a video presentation] VIDEO PRESENTATIONS or upon refusal to view
- such [a video presentation] VIDEO PRESENTATIONS, the hospital  or  birth
- center  shall  request  that  such patient and/or [father] GUARDIAN OF A
- NEWBORN CHILD  sign a form stating that they have viewed or  refused  to
- view  such  video [presentation] PRESENTATIONS.  All training materials
- and forms required to implement the provisions of this subdivision shall
- be provided by the commissioner.
+  6.  Every hospital and birth center shall request that [each maternity
+ patient and father of] A PARENT AND/OR PARENTS,  WHICH  SHALL  MEAN  AND
+ INCLUDE  BIOLOGICAL AND ADOPTIVE PARENTS, GUARDIANS, OR OTHER PERSONS IN
+ PARENTAL RELATIONSHIP TO a newborn child, if available, view (A) a video
+ presentation, approved by the commissioner, on the  dangers  of  shaking
+ infants  and  young  children, and the symptoms of shaken baby syndrome,
+ AND (B) A VIDEO PRESENTATION,  APPROVED  BY  THE  COMMISSIONER,  ON  THE
+ DANGERS  OF DROWNING FOR INFANTS AND YOUNG CHILDREN.  After viewing such
+ [a video presentation] VIDEO PRESENTATIONS or upon refusal to view  such
+ [a video presentation] VIDEO PRESENTATIONS, the hospital or birth center
+ shall  request  that  such [patient and/or father] PARENT AND/OR PARENTS
+ sign a form stating that they have viewed or refused to view such  video
+ [presentation] PRESENTATIONS.  All training materials and forms required
+ to implement the provisions of this subdivision shall be provided by the
+ commissioner.
   § 2. This act shall take effect on the one hundred twentieth day after
- it shall have become a law. Effective immediately, the addition,  amend-
+ it  shall have become a law. Effective immediately, the addition, amend-
  ment and/or repeal of any rule or regulation necessary for the implemen-
- tation  of  this act on its effective date are authorized to be made and
+ tation of this act on its effective date are authorized to be  made  and
  completed on or before such effective date.
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07460-03-3
+  LBD07460-04-3
