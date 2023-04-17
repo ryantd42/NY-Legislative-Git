@@ -1,6 +1,6 @@
 # Relates to qualifications for certain appointed positions with the board of trustees for the state university and the city university of New York
 
-**Bill ID:** S3473A
+**Bill ID:** S3473AA
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Relates to qualifications for certain appointed positions with the board of trus
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3473
+  3473--A
+  Cal. No. 515
  
   2023-2024 Regular Sessions
  
@@ -26,76 +27,79 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. STAVISKY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Higher Education
+  printed to be committed  to  the  Committee  on  Higher  Education  --
+  reported  favorably  from  said committee, ordered to first and second
+  report, ordered to a third reading, passed by Senate and delivered  to
+  the  Assembly, recalled, vote reconsidered, restored to third reading,
+  amended and ordered reprinted, retaining its place  in  the  order  of
+  third reading
  
- AN ACT to amend the education law, in relation to trustees of the  state
+ AN  ACT to amend the education law, in relation to trustees of the state
   university and city university
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision 1 of section  353  of  the  education  law,  as
- amended  by  chapter  268  of  the  laws  of 2011, is amended to read as
+  Section  1.  Subdivision  1  of  section  353 of the education law, as
+ amended by chapter 268 of the laws  of  2011,  is  amended  to  read  as
  follows:
-  1. The state university shall be governed, and all  of  its  corporate
- powers  exercised,  by  a board of trustees. Such board shall consist of
- eighteen members, fifteen of whom shall be  appointed  by  the  governor
- with  the  advice  and  consent  of the senate, one of whom shall be the
- president of the student assembly of the  state  university,  ex-officio
+  1.  The  state  university shall be governed, and all of its corporate
+ powers exercised, by a board of trustees. Such board  shall  consist  of
+ eighteen  members,  fifteen  of  whom shall be appointed by the governor
+ with the advice and consent of the senate, one  of  whom  shall  be  the
+ president  of  the  student assembly of the state university, ex-officio
  and voting, one of whom shall be the president of the university faculty
- senate,  ex-officio  and non-voting, and one of whom shall be the presi-
- dent of the faculty council of community colleges, ex-officio  and  non-
- voting;  PROVIDED THAT NO SUCH MEMBERS, WITH THE EXCEPTION OF EX-OFFICIO
- MEMBERS AND CLASSIFIED CIVIL SERVICE EMPLOYEES, SHALL  BE  THE  EMPLOYEE
- OF,  OR  UNDER THE SUPERVISION OF, THE GOVERNOR. Such ex-officio members
- shall be subject to every provision of any general,  special,  or  local
- law,  ordinance,  charter,  code,  rule,  or  regulation applying to the
- voting members of such board with respect  to  the  discharge  of  their
- duties,  including,  but  not limited to, those provisions setting forth
- codes of ethics, disclosure requirements, and prohibiting  business  and
- professional  activities. One member of the board shall be designated by
- the governor as chairperson and one as vice-chairperson. Of the  members
- first appointed, two shall be appointed for a term which shall expire on
- June  thirtieth,  nineteen hundred fifty-two; one for a term which shall
- expire on June thirtieth, nineteen hundred fifty-three; two for  a  term
- which  shall  expire on June thirtieth, nineteen hundred fifty-four; one
+ senate, ex-officio and non-voting, and one of whom shall be  the  presi-
+ dent  of  the faculty council of community colleges, ex-officio and non-
+ voting; PROVIDED THAT NO SUCH MEMBERS APPOINTED BY  THE  GOVERNOR  SHALL
+ ALSO  BE  A  PAID EMPLOYEE SERVING AT THE PLEASURE OF THE GOVERNOR. Such
+ ex-officio members shall be subject to every provision of  any  general,
+ special,  or  local  law,  ordinance, charter, code, rule, or regulation
+ applying to the voting  members  of  such  board  with  respect  to  the
+ discharge  of  their  duties,  including,  but  not  limited  to,  those
+ provisions setting forth codes of ethics, disclosure  requirements,  and
+ prohibiting  business  and  professional  activities.  One member of the
+ board shall be designated by the governor  as  chairperson  and  one  as
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03140-01-3
- S. 3473  2
+  LBD03140-02-3
+ S. 3473--A  2
  
+ vice-chairperson. Of the members first appointed, two shall be appointed
+ for  a  term  which  shall  expire  on  June thirtieth, nineteen hundred
+ fifty-two; one for a term which shall expire on June thirtieth, nineteen
+ hundred  fifty-three;  two for a term which shall expire on June thirti-
+ eth, nineteen hundred fifty-four; one for a term which shall  expire  on
+ June  thirtieth, nineteen hundred fifty-five; two for a term which shall
+ expire on June thirtieth, nineteen hundred fifty-six;  one  for  a  term
+ which  shall expire on June thirtieth, nineteen hundred fifty-seven; two
  for a term which  shall  expire  on  June  thirtieth,  nineteen  hundred
- fifty-five;  two  for a term which shall expire on June thirtieth, nine-
- teen hundred fifty-six; one for a term which shall expire on June  thir-
- tieth,  nineteen  hundred fifty-seven; two for a term which shall expire
- on June thirtieth, nineteen hundred fifty-eight; one for  a  term  which
- shall  expire  on June thirtieth, nineteen hundred fifty-nine; two for a
- term which shall expire on June thirtieth, nineteen hundred  sixty;  and
- one  for  a  term which shall expire on June thirtieth, nineteen hundred
- sixty-one. Vacancies shall be filled for the unexpired term in the  same
- manner  as  original  appointments.  The  term of office of each trustee
- appointed on or after April first, nineteen hundred eighty-six shall  be
- seven years, except those of the student member and the faculty members.
- Trustees  shall  receive no compensation for their services but shall be
- reimbursed for their expenses actually and necessarily incurred by  them
- in the performance of their duties under this article.
+ fifty-eight;  one for a term which shall expire on June thirtieth, nine-
+ teen hundred fifty-nine; two for a term which shall expire on June thir-
+ tieth, nineteen hundred sixty; and one for a term which shall expire  on
+ June  thirtieth,  nineteen  hundred sixty-one. Vacancies shall be filled
+ for the unexpired term in the same manner as original appointments.  The
+ term  of office of each trustee appointed on or after April first, nine-
+ teen hundred eighty-six shall  be  seven  years,  except  those  of  the
+ student  member  and  the  faculty  members.  Trustees  shall receive no
+ compensation for their  services  but  shall  be  reimbursed  for  their
+ expenses actually and necessarily incurred by them in the performance of
+ their duties under this article.
   §  2. Paragraph (a) of subdivision  2 of section 6204 of the education
  law, as added by chapter 305 of the laws of 1979, is amended to read  as
  follows:
   (a)  The board of trustees shall consist of seventeen trustees. Ten of
  the trustees shall be appointed by the  governor  with  the  advice  and
- consent of the senate; PROVIDED THAT NO SUCH TRUSTEE, WITH THE EXCEPTION
- OF  EX-OFFICIO  MEMBERS AND CLASSIFIED CIVIL SERVICE EMPLOYEES, SHALL BE
- AN EMPLOYEE OF, OR UNDER THE SUPERVISION OF, THE GOVERNOR.  Five of  the
- trustees  shall  be  appointed by the mayor of the city of New York with
- the advice and consent of the senate; PROVIDED  THAT  NO  SUCH  TRUSTEE,
- WITH  THE  EXCEPTION  OF EX-OFFICIO MEMBERS AND CLASSIFIED CIVIL SERVICE
- EMPLOYEES OF THE CITY OF NEW YORK, SHALL BE AN EMPLOYEE OF, OR UNDER THE
- SUPERVISION OF, THE MAYOR OF THE CITY OF NEW YORK.  One ex-officio trus-
- tee shall be the chairperson  of  the  university  student  senate.  One
- ex-officio non-voting trustee shall be the chairperson of the university
- faculty senate.
+ consent  of  the  senate; PROVIDED THAT NO SUCH TRUSTEE APPOINTED BY THE
+ GOVERNOR SHALL ALSO BE A PAID EMPLOYEE SERVING AT THE  PLEASURE  OF  THE
+ GOVERNOR.  Five of the trustees shall be appointed by the mayor of the
+ city of New York with the advice and consent  of  the  senate;  PROVIDED
+ THAT  NO  SUCH  TRUSTEE  APPOINTED  BY THE MAYOR OF THE CITY OF NEW YORK
+ SHALL BE A PAID EMPLOYEE SERVING AT THE PLEASURE OF  THE  MAYOR  OF  THE
+ CITY  OF  NEW YORK.  One ex-officio trustee shall be the chairperson of
+ the university student senate. One ex-officio non-voting  trustee  shall
+ be the chairperson of the university faculty senate.
   §  3.  This  act  shall take effect immediately and shall apply to the
  state university of New York and the city university of New  York  trus-
  tees appointed on or after such effective date.
