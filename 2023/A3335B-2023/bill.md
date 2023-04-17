@@ -1,6 +1,6 @@
 # Relates to increasing certain special accidental death benefits
 
-**Bill ID:** A3335BA
+**Bill ID:** A3335BB
 **Session:** 2023
 **Sponsor:** Latoya Joyner
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Increases certain special accidental death benefits for state and local retireme
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3335--A
+  3335--B
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. JOYNER -- read once and referred to the Committee
   on  Governmental  Employees  --  committee  discharged,  bill amended,
-  ordered reprinted as amended and recommitted to said committee
- 
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  again  reported from said committee with amendments, ordered reprinted
+  as amended and recommitted to said committee
+
  AN ACT to amend the general municipal law and the retirement and  social
   security  law,  in relation to increasing the special accidental death
   benefit of certain  deceased members
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
   1981  [236%] 246.1%
   1982  [226.2%] 236.0%
   1983  [216.7%] 226.2%
-  1984  [207.5%] 216.7%
-  1985  [198.5%] 207.5%
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06851-02-3
- A. 3335--A  2
+  LBD06851-04-3
+ A. 3335--B  2
  
+  1984  [207.5%] 216.7%
+  1985  [198.5%] 207.5%
   1986  [189.8%] 198.5%
   1987  [181.4%] 189.8%
   1988  [173.2%] 181.4%
@@ -119,10 +121,10 @@ S T A T E  O F  N E W  Y O R K
   1978  [267.1%] 278.2%
   1979  [256.5%] 267.1%
   1980  [246.1%] 256.5%
+ A. 3335--B  3
+ 
   1981  [236%]  246.1%
   1982  [226.2%] 236.0%
- A. 3335--A  3
- 
   1983  [216.7%] 226.2%
   1984  [207.5%] 216.7%
   1985  [198.5%] 207.5%
@@ -177,10 +179,10 @@ S T A T E  O F  N E W  Y O R K
   The  salary  of  the  deceased member at date of death (or, in certain
  instances, a greater salary based on a  higher  rank  or  other  status)
  (Final Salary), less the following payments to an Eligible Beneficiary:
+ A. 3335--B  4
+
   *  Any  NYCRS  death  benefit  as adjusted by any Supplementation or
  Cost-of-Living Adjustment (COLA),
- A. 3335--A  4
-
   * Any Social Security death benefit, and
   * Any Workers' Compensation benefit.
   The  GML also provides that the SADB is subject to escalation based on
@@ -235,9 +237,10 @@ S T A T E  O F  N E W  Y O R K
   Annual Accidental Death
  Retirement System  Number of Deceased  Benefit Prior to Proposed
   Members with Eligible  July 1, 2023 Increase
-  Survivors  ($ Millions)
- A. 3335--A  5
+ A. 3335--B  5
  
+  Survivors  ($ Millions)
+
  NYCERS  79  $ 8.0
  POLICE  564  71.1
  FIRE  676  91.8
@@ -283,3 +286,50 @@ S T A T E  O F  N E W  Y O R K
  Retirement  System,  the New York City Police Pension Fund, and New York
  City Fire Pension Fund. This estimate is intended for  use  only  during
  the 2023 Legislative Session.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  This  bill  would amend both the General Municipal Law and the Retire-
+ ment and Social Security Law to increase the salary used in the computa-
+ tion of the special accidental death benefit by 3% in  cases  where  the
+ date of death was before 2023.
+  Insofar  as  this bill affects the New York State and Local Police and
+ Fire Retirement System (NYSLPFRS), increased costs would  be  shared  by
+ the  State  of New York and all participating employers in the NYSLPFRS.
+ If this bill  is  enacted  during  the  2023  legislative  session,  the
+ A. 3335--B  6
+ 
+ increase  in  the  present value of benefits would be approximately $7.5
+ million.
+  NYSLPFRS  Increase in present  Increase in future
+  value benefits  contributions
+  Tiers 1-5  $7.5 million  $4.0 million
+  Tier 6  $0.0 million  $3.5 million
+  Total  $7.5 million  $7.5 million
+  In the NYSLPFRS, this benefit improvement will be funded by increasing
+ the  billing rates charged annually. The annual contribution required of
+ all participating employers in the NYSLPFRS is  approximately  0.02%  of
+ billable  salary, or approximately $170,000 to the State of New York and
+ $680,000 to the local participating employers in the fiscal year  ending
+ March 31, 2025. This PERMANENT ANNUAL COST will vary in subsequent bill-
+ ing  cycles  with changes in the billing rate and salary of the affected
+ members.
+  Summary of relevant resources:
+  Membership data as of March 31, 2022 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2022 actuari-
+ al  valuation.  Distributions  and  other statistics can be found in the
+ 2022 Report of the Actuary and the 2022 Annual  Comprehensive  Financial
+ Report.
+  The  actuarial assumptions and methods used are described in the 2020,
+ 2021, and 2022 Annual Report to the  Comptroller  on  Actuarial  Assump-
+ tions,  and  the  Codes, Rules and Regulations of the State of New York:
+ Audit and Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2022
+ New York State and Local  Retirement  System  Financial  Statements  and
+ Supplementary Information.
+  I am a member of the American Academy of Actuaries and meet the Quali-
+ fication Standards to render the actuarial opinion contained herein.
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
+ the professional judgment of an attorney.
+  This  estimate, dated April 13, 2023, and intended for use only during
+ the 2023 Legislative Session, is Fiscal Note No.  2023-46,  prepared  by
+ the Actuary for the New York State and Local Retirement System.
