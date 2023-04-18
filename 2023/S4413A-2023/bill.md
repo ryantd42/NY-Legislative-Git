@@ -1,6 +1,6 @@
 # Relates to excise taxes on premium cigars
 
-**Bill ID:** S4413A
+**Bill ID:** S4413AA
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that the tax on premium cigars shall be at the rate of seventy-five per
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4413
+  4413--A
  
   2023-2024 Regular Sessions
  
@@ -25,35 +25,43 @@ S T A T E  O F  N E W  Y O R K
   February 8, 2023
   ___________
  
- Introduced  by  Sen.  RAMOS  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Budget and Revenue
- 
- AN ACT to amend the tax law, in relation  to  excise  taxes  on  premium
-  cigars
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
+ Introduced  by  Sens.  RAMOS, ADDABBO, ASHBY, COMRIE, COONEY, FERNANDEZ,
+  GALLIVAN, MARTINEZ, ORTT, PARKER,  RIVERA,  SEPULVEDA,  STEC  --  read
+  twice  and  ordered  printed,  and when printed to be committed to the
+  Committee on Budget and Revenue -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
 
-  Section 1.  Section 470 of the tax law is  amended  by  adding  a  new
+ AN ACT to amend the tax law, in relation  to  excise  taxes  on  premium
+  cigars;  and  providing for the repeal of such provisions upon expira-
+  tion thereof
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  470  of the tax law is amended by adding a new
  subdivision 22 to read as follows:
-  22.  "PREMIUM  CIGAR"  HAS  THE SAME MEANING AS DEFINED BY THE FEDERAL
- FOOD AND DRUG ADMINISTRATION.
-  § 2.  Paragraph (a) of subdivision 1 of section 471-b of the tax  law,
- as  amended  by section 18 of part D of chapter 134 of the laws of 2010,
+  22. "PREMIUM CIGAR." A CIGAR THAT:
+  (A) IS WRAPPED IN WHOLE LEAF TOBACCO; AND
+  (B) CONTAINS A ONE HUNDRED PERCENT LEAF TOBACCO BINDER; AND
+  (C) IS MADE BY MANUALLY COMBINING THE WRAPPER, FILLER, AND BINDER; AND
+  (D) HAS NO FILTER, TIP, OR NON-TOBACCO MOUTHPIECE  AND  IS  CAPPED  BY
+ HAND; AND
+  (E) WEIGHS MORE THAN SIX POUNDS PER ONE THOUSAND UNITS.
+  §  2.  Paragraph (a) of subdivision 1 of section 471-b of the tax law,
+ as amended by section 18 of part D of chapter 134 of the laws  of  2010,
  is amended to read as follows:
-  (a) Such tax on tobacco products other than PREMIUM CIGARS, snuff  and
+  (a)  Such tax on tobacco products other than PREMIUM CIGARS, snuff and
  little cigars shall be at the rate of seventy-five percent of the whole-
  sale price, and is intended to be imposed only once upon the sale of any
  tobacco products other than PREMIUM CIGARS, snuff and little cigars.
-  §  3.  Subdivision  1  of  section  471-b of the tax law is amended by
+  § 3. Subdivision 1 of section 471-b of  the  tax  law  is  amended  by
  adding a new paragraph (d) to read as follows:
-  (D) SUCH TAX ON PREMIUM CIGARS SHALL BE AT THE  RATE  OF  SEVENTY-FIVE
+  (D)  SUCH  TAX  ON PREMIUM CIGARS SHALL BE AT THE RATE OF SEVENTY-FIVE
  PERCENT OF THE WHOLESALE PRICE OR FIFTY CENTS, WHICHEVER IS LESS, AND IS
  INTENDED TO BE IMPOSED ONLY ONCE UPON THE SALE OF ANY PREMIUM CIGARS.
-  § 4.  This act shall take effect immediately.
- 
- 
+  § 4. This act shall take effect immediately and shall  expire  and  be
+ deemed repealed 3 years after such date.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06291-01-3
+  LBD06291-02-3
