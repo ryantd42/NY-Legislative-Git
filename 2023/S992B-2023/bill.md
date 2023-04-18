@@ -1,6 +1,6 @@
 # Prohibits the sale and distribution of anti-fogging sprays and wipes containing perfluoroalkyl and polyfluoroalkyl substances
 
-**Bill ID:** S992B
+**Bill ID:** S992BA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Prohibits the sale and distribution of anti-fogging sprays and wipes containing 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  992
+  992--A
+  Cal. No. 609
  
   2023-2024 Regular Sessions
  
@@ -25,20 +26,23 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sen. HOYLMAN -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Environmental Conservation
+ Introduced  by Sens. HOYLMAN-SIGAL, MAY -- read twice and ordered print-
+  ed, and when printed to be committed to the Committee on Environmental
+  Conservation -- reported favorably from  said  committee,  ordered  to
+  first  report, amended on first report, ordered to a second report and
+  ordered reprinted, retaining its place in the order of second report
  
  AN ACT to amend the  environmental  conservation  law,  in  relation  to
   prohibiting the sale and distribution of anti-fogging sprays and wipes
   containing perfluoroalkyl and polyfluoroalkyl substances
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Article 37 of the environmental conservation law is amended
  by adding a new title 11 to read as follows:
   TITLE 11
-  PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES
+  PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES IN ANTI-FOGGING PRODUCTS
  
  SECTION 37-1101. DEFINITIONS.
   37-1103. APPLICABILITY.
@@ -48,24 +52,24 @@ S T A T E  O F  N E W  Y O R K
   37-1107. PRODUCT LABELING.
   37-1109. PREEMPTION.
   37-1111. RULES AND REGULATIONS.
-  37-11113. VIOLATIONS.
+  37-1113. VIOLATIONS.
  § 37-1101. DEFINITIONS.
   AS USED IN THIS TITLE:
   1. "ANTI-FOGGING SPRAYS AND WIPES"  MEANS  ANY  PRODUCT,  INCLUDING  A
  SPRAY,  CLOTH,  WIPE  OR  OTHER  MATERIAL,  THAT  IS INTENDED TO PREVENT
  CONDENSATION ON EYEGLASSES.
-  2. "DISTRIBUTOR" MEANS A PERSON,  FIRM,  ASSOCIATION,  PARTNERSHIP  OR
- CORPORATION,  WHO  OR  WHICH  IMPORTS  OR CAUSES TO BE IMPORTED INTO THE
- STATE, ANY PRODUCT CONTAINING PFAS SUBSTANCES.
-  3. "INTENTIONALLY ADDED CHEMICAL"  SHALL  HAVE  THE  SAME  MEANING  AS
- SUBDIVISION ELEVEN OF SECTION 37-0901 OF THIS ARTICLE.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04073-01-3
- S. 992  2
+  LBD04073-04-3
+ S. 992--A  2
  
-  4.  "MANUFACTURER"  MEANS  A PERSON, FIRM, ASSOCIATION, PARTNERSHIP OR
+  2. "DISTRIBUTOR" MEANS A PERSON,  FIRM,  ASSOCIATION,  PARTNERSHIP  OR
+ CORPORATION,  WHO  OR  WHICH  IMPORTS  OR CAUSES TO BE IMPORTED INTO THE
+ STATE, ANY PRODUCT CONTAINING PFAS SUBSTANCES.
+  3.  "INTENTIONALLY  ADDED  CHEMICAL"  SHALL  HAVE  THE SAME MEANING AS
+ SUBDIVISION ELEVEN OF SECTION 37-0901 OF THIS ARTICLE.
+  4. "MANUFACTURER" MEANS A PERSON, FIRM,  ASSOCIATION,  PARTNERSHIP  OR
  CORPORATION, WHO OR WHICH MAKES PRODUCTS CONTAINING PFAS SUBSTANCES.
   5.  "PERFLUOROALKYL  AND  POLYFLUOROALKYL  SUBSTANCES"  OR  "PFAS
  SUBSTANCES" MEANS A CLASS OF FLUORINATED ORGANIC CHEMICALS CONTAINING AT
@@ -116,14 +120,13 @@ S T A T E  O F  N E W  Y O R K
  diction to be invalid, such judgment shall not affect, impair, or inval-
  idate  the  remainder thereof, but shall be confined in its operation to
  the clause, sentence, paragraph, subdivision, section  or  part  thereof
+ S. 992--A  3
+ 
  directly  involved  in the controversy in which such judgment shall have
  been rendered. It is hereby declared to be the intent of the legislature
  that this act would have been enacted even if  such  invalid  provisions
  had not been included herein.
- S. 992  3
- 
-  §  3.  This  act  shall take effect December 31, 2023. Effective imme-
+  §  3.  This  act  shall take effect December 31, 2024. Effective imme-
  diately, the addition, amendment and/or repeal of any rule or regulation
  necessary for the implementation of this act on its effective  date  are
- authorized  and  directed  to  be  made  and completed on or before such
- effective date.
+ authorized to be made and completed on or before such effective date.
