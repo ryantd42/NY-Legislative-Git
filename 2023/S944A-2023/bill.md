@@ -1,6 +1,6 @@
 # Prohibits a court from bifurcating certain primary elections
 
-**Bill ID:** S944A
+**Bill ID:** S944AA
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Prohibits a court from bifurcating the primary elections for members of the stat
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  944
+  944--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,10 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Elections
+ Introduced  by Sens. JACKSON, FERNANDEZ -- read twice and ordered print-
+  ed, and when printed to be committed to the Committee on Elections  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the election law, in relation  to  prohibiting  a  court
   from bifurcating certain primary elections
@@ -36,14 +38,13 @@ S T A T E  O F  N E W  Y O R K
  
   Section 1. Section 8-100 of the election law is amended  by  adding  a
  new subdivision 5 to read as follows:
-  5.  NO  COURT  SHALL  ISSUE  AN  ORDER  CHANGING THE DATE OF A PRIMARY
+  5.  (A)  NO  COURT SHALL ISSUE AN ORDER CHANGING THE DATE OF A PRIMARY
  ELECTION WHICH BIFURCATES THE OFFICES AND POSITIONS TO  BE  ELECTED  AND
  NOMINATIONS  TO BE MADE AS PART OF THE SAME PRIMARY ELECTION PURSUANT TO
- PARAGRAPH (A) OF SUBDIVISION ONE OF THIS SECTION. ANY  ORDER  ISSUED  IN
- VIOLATION  OF  THIS SUBDIVISION SHALL HAVE NO EFFECT AND SHALL BE DEEMED
- NULL AND VOID.
+ PARAGRAPH (A) OF SUBDIVISION ONE OF THIS SECTION.
+  (B) THE PROVISIONS OF THIS SUBDIVISION SHALL NOT APPLY TO  ANY  PRESI-
+ DENTIAL PRIMARY.
   § 2. This act shall take effect immediately.
- 
  
  
  
@@ -51,4 +52,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02229-01-3
+  LBD02229-02-3
