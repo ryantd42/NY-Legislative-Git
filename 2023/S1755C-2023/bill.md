@@ -1,6 +1,6 @@
 # Establishes a temporary state commission to conduct a feasibility study on the formation and control of a state public bank
 
-**Bill ID:** S1755C
+**Bill ID:** S1755CA
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes a temporary state commission to conduct a feasibility study to evalu
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1755
+  1755--A
  
   2023-2024 Regular Sessions
  
@@ -26,69 +26,69 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SANDERS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Banks
+  printed to be  committed  to  the  Committee  on  Banks  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT establishing a commission to determine  what  benefits  a  public
+ AN  ACT  establishing  a  commission to determine what benefits a public
   bank or network of public banks owned by the state of New York or by a
   public authority constituted by the state of New York can provide; and
   providing for the repeal of such provisions upon expiration thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. A temporary state commission, to be known as the  New  York
+  Section  1.  A temporary state commission, to be known as the New York
  state commission on establishing a bank owned by New York state, herein-
- after  referred  to  as  the commission, is hereby established to hire a
- consultant to study the feasibility of establishing a bank owned by  the
- state  of  New York or by a public authority constituted by the state of
+ after referred to as the commission, is hereby  established  to  hire  a
+ consultant  to study the feasibility of establishing a bank owned by the
+ state of New York or by a public authority constituted by the  state  of
  New York for the public interest.
-  § 2. (a) The commission  shall  consist  of  fifteen  members,  to  be
+  §  2.  (a)  The  commission  shall  consist of fourteen members, to be
  appointed as follows:(i) six members shall be appointed by the governor,
- one  of  whom shall be a representative of the New York state department
- of financial services, one shall be a representative from the  New  York
- state  department of taxation and finance, the remaining four governor's
- appointees shall not be employees of the executive branch and  at  least
- one  member  shall represent the banking and financial industries of the
- state including, but not limited to, the New York  bankers  association,
- at  least  one  member  shall represent community  banking, and no more
- than one member may be a representative of any financial  services  firm
- located  within  the state,  including, but not limited to, the New York
+ one of whom shall be a representative of the New York  state  department
+ of  financial  services, one shall be a representative from the New York
+ state department of taxation and finance, the remaining four  governor's
+ appointees  shall  not be employees of the executive branch and at least
+ one member shall represent the banking and financial industries  of  the
+ state  including,  but not limited to, the New York bankers association,
+ at least one member  shall represent community  banking,  and  no  more
+ than  one  member may be a representative of any financial services firm
+ located within the state,  including, but not limited to, the  New  York
  state small business development center;
-  (ii) one member shall be the New York state comptroller or  the  comp-
- troller's designee;
-  (iii)  three  members shall be appointed by the temporary president of
+  (ii)  three  members  shall be appointed by the temporary president of
  the senate, one of whom shall be a member of the senate;
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02072-01-3
- S. 1755  2
+  LBD02072-02-3
+ S. 1755--A  2
  
-  (iv) one member shall be appointed  by  the  minority  leader  of  the
+  (iii) one member shall be appointed by  the  minority  leader  of  the
  senate;
-  (v)  three  members shall be appointed by the speaker of the assembly,
+  (iv)  three members shall be appointed by the speaker of the assembly,
  one of whom shall be a member of the assembly; and
-  (vi) one member shall be appointed  by  the  minority  leader  of  the
- assembly.
+  (v) one member shall be appointed by the minority leader of the assem-
+ bly.
   (b) The majority of the members of the entire commission  shall desig-
  nate one of the commissioners to serve as the chair of the commission.
-  (c)  The  members  of  the commission shall be appointed no later than
+  (c) The members of the commission shall be  appointed  no  later  than
  ninety days after the effective date of this act.
   (d) The commission is directed to hire a reputable consultant that has
- the capacity, capability, and experience to conduct a feasibility  study
- to  evaluate  and  make  recommendations  concerning  the  formation and
+ the  capacity, capability, and experience to conduct a feasibility study
+ to evaluate  and  make  recommendations  concerning  the  formation  and
  control of a state public bank. Consultants that have conducted a previ-
- ous feasibility study of a public bank at the request  of  a  government
- entity  in  the United States will be given preference. Such study shall
- make recommendations, with the advice of  the  department  of  financial
- services, including but not limited to, on the feasability of establish-
- ing  a  state  bank  in  New  York and may recommend legislation for the
- legislature to consider in order to to create a state  public  bank  for
- New York.
-  §  3.  The scope of such study shall include, but shall not be limited
+ ous  feasibility  study  of a public bank at the request of a government
+ entity in the United States will be given preference. Such  study  shall
+ make  recommendations,  with  the  advice of the department of financial
+ services, including but not limited to, on the feasibility of establish-
+ ing a state bank in New York  and  may  recommend  legislation  for  the
+ legislature  to  consider in order to create a state public bank for New
+ York.
+  § 3. The scope of such study shall include, but shall not  be  limited
  to:
   (a) the purposes of such public bank in the public interest;
-  (b) an analysis of cost savings,  impacts  on  the  state's  finances,
+  (b)  an  analysis  of  cost  savings, impacts on the state's finances,
  economic development and infrastructure, housing and additional needs of
  the state, including but not limited to:
   (i) appropriate governance structures;
@@ -100,28 +100,28 @@ S T A T E  O F  N E W  Y O R K
   (vii) permitted activities;
   (viii) benefits;
   (ix) potential challenges that such public banks may encounter;
-  (x)  how  the lack of accessible financial services contributes to the
+  (x) how the lack of accessible financial services contributes  to  the
  cycle of poverty;
   (xi) barriers to small business formation and growth;
-  (xii) impacts of such public  banks  on  small  businesses,  including
+  (xii)  impacts  of  such  public  banks on small businesses, including
  minority- and women-owned business enterprises;
-  (xiii)  impacts  of such public banks on the unbanked, the underbanked
+  (xiii) impacts of such public banks on the unbanked,  the  underbanked
  and banking deserts; and
-  (xiv) how a state public bank may  provide  banking  to  the  cannabis
- industry.
+  (xiv)  how  a  state  public  bank may provide banking to the cannabis
+ industry;
   (c) a fiscal analysis of costs associated with formation;
   (d) an analysis that considers the effects of an economic recession on
  the financial results of such public banks;
-  (e)  a  legal analysis of whether the proposed structure and operation
+  (e) a legal analysis of whether the proposed structure  and  operation
  of such public bank complies with the New York state constitution;
-  (f) an analysis of how  the  proposed  governance  structure  of  such
- public  bank would protect such public bank from unlawful insider trans-
+  (f)  an  analysis  of  how  the  proposed governance structure of such
+ public bank would protect such public bank from unlawful insider  trans-
  actions and apparent conflicts of interest;
-  (g) a fiscal analysis of the benefits associated with the creation  of
- such  public  bank,  including,  but  not limited to, cost savings, jobs
- S. 1755  3
+  (g)  a fiscal analysis of the benefits associated with the creation of
+ such public bank, including, but not  limited  to,  cost  savings,  jobs
+ S. 1755--A  3
  
- created, jobs retained, economic activity generated and private  capital
+ created,  jobs retained, economic activity generated and private capital
  leveraged;
   (h)  a  qualitative assessment of social and environmental benefits of
  such public bank;
