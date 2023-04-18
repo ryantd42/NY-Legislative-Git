@@ -1,6 +1,6 @@
 # Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances
 
-**Bill ID:** A888C
+**Bill ID:** A888CA
 **Session:** 2023
 **Sponsor:** Jonathan Jacobson
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Permits the rendering of an estimated bill from a utility corporation or municip
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  888
+  888--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,15 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced by M. of A. JACOBSON -- read once and referred to the Commit-
-  tee on Corporations, Authorities and Commissions
+ Introduced by M. of A. JACOBSON, SHRESTHA, SANTABARBARA, EACHUS, SHIMSKY
+  --  read  once and referred to the Committee on Corporations, Authori-
+  ties and Commissions -- committee discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT  to  amend the public service law, in relation to permitting the
   rendering of an estimated bill from a utility corporation  or  munici-
   pality under certain circumstances
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -54,17 +56,18 @@ S T A T E  O F  N E W  Y O R K
  scheduled  or  for  seasonal  or  short term customers.  OUTSIDE OF THE
  AFOREMENTIONED CRITERIA FOR ESTIMATED BILLING PURSUANT TO THIS  SECTION,
  ALL  OTHER  BILLS SHALL USE ACTUAL METER READINGS, HOWEVER SUCH READINGS
- MAY BE OBTAINED.
-  1-A. THE COMMISSION SHALL REQUIRE EACH UTILITY CORPORATION AND MUNICI-
- PALITY WITHIN SIX MONTHS TO SUBMIT TO THE COMMISSION A  MODEL  PROCEDURE
- FOR  THE CALCULATION OF ESTIMATED BILLS THAT INCORPORATES BEST PRACTICES
- AND TECHNOLOGY AND ACCOUNTS FOR ANY BARRIERS TO THE USE OF ACTUAL  METER
+ MAY BE OBTAINED, PROVIDED THAT SUCH READINGS  ARE  TAKEN  IN  ACCORDANCE
+ WITH THE PROVISIONS OF THIS SECTION.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02154-01-3
- A. 888  2
+  LBD02154-02-3
+ A. 888--A  2
  
+  1-A. THE COMMISSION SHALL REQUIRE EACH UTILITY CORPORATION AND MUNICI-
+ PALITY  WITHIN  SIX MONTHS TO SUBMIT TO THE COMMISSION A MODEL PROCEDURE
+ FOR THE CALCULATION OF ESTIMATED BILLS THAT INCORPORATES BEST  PRACTICES
+ AND  TECHNOLOGY AND ACCOUNTS FOR ANY BARRIERS TO THE USE OF ACTUAL METER
  READINGS.  ON  OR  BEFORE  NOVEMBER FIRST, TWO THOUSAND TWENTY-FOUR, THE
  COMMISSION SHALL PROMULGATE RULES AND  REGULATIONS  TO  INCORPORATE  AND
  ADOPT SUCH MODEL PROCEDURES FOR UTILITY CORPORATIONS AND MUNICIPALITIES.
