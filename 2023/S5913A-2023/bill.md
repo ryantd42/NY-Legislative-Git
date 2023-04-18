@@ -1,6 +1,6 @@
 # Requires menstrual products to be offered for free in non-public schools
 
-**Bill ID:** S5913A
+**Bill ID:** S5913AA
 **Session:** 2023
 **Sponsor:** Iwen Chu
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Requires menstrual products to be offered for free in non-public schools.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5913
+  5913--A
  
   2023-2024 Regular Sessions
  
@@ -26,10 +26,12 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens.  CHU,  WEBB -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Women's Issues
+  when printed to be committed to the Committee  on  Women's  Issues  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
- AN ACT to amend the public health law, in relation to providing feminine
-  hygiene products in non-public schools
+ AN ACT to amend the public health law, in relation to providing menstru-
+  al products in non-public schools
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -37,19 +39,19 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Section 267 of the public health law, as added by section 1
  of  part  Q  of  chapter  56  of the laws of 2018, is amended to read as
  follows:
-  § 267. Feminine  hygiene  products  in  schools.  All  elementary  and
- secondary  public  schools  AND  NON-PUBLIC SCHOOLS in the state serving
- students in any grade from grade six through grade twelve shall  provide
- feminine  hygiene  products  in the restrooms of such school building or
- buildings. Such products shall be provided at no charge to students.
+  § 267. [Feminine hygiene] MENSTRUAL products in schools. All elementa-
+ ry and secondary public schools AND  NON-PUBLIC  SCHOOLS  in  the  state
+ serving  students in any grade from grade six through grade twelve shall
+ provide [feminine hygiene] MENSTRUAL products in the restrooms  of  such
+ school  building  or  buildings.  Such  products shall be provided at no
+ charge to students.
   § 2. This act shall take effect on the first of July  next  succeeding
  the date on which it shall have become a law.
  
  
  
  
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01363-01-3
+  LBD01363-02-3
