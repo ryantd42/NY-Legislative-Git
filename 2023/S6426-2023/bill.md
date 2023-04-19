@@ -1,0 +1,64 @@
+# Authorizes Vineyard Christian Fellowship South Shore Inc. to file with the county of Nassau assessor an application for a retroactive real property tax exemption
+
+**Bill ID:** S6426
+**Session:** 2023
+**Sponsor:** Patricia Canzoneri-Fitzpatrick
+**Status:** Senate Floor Calendar
+
+## Summary
+
+Authorizes Vineyard Christian Fellowship South Shore Inc. to file with the county of Nassau assessor an application for a retroactive real property tax exemption for the 2020-2021 assessment roll for all the 2020-2021 school taxes and all the 2021 general taxes.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6426
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  April 19, 2023
+  ___________
+ 
+ Introduced  by  Sen.  CANZONERI-FITZPATRICK  --  read  twice and ordered
+  printed, and when printed to be committed to the  Committee  on  Local
+  Government
+ 
+ AN  ACT  authorizing  Vineyard  Christian Fellowship South Shore Inc. to
+  file with the county of Nassau assessor an application for a  retroac-
+  tive real property tax exemption
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Notwithstanding any other provision of law to the contrary,
+ the assessor of the county of Nassau is hereby authorized to accept from
+ Vineyard Christian  Fellowship  South  Shore  Inc.  an  application  for
+ exemption from real property taxes pursuant to section 420-a of the real
+ property tax law for the 2020-2021 assessment roll for all the 2020-2021
+ school  taxes  and all the 2021 general taxes for the parcel conveyed to
+ such organization located at 142 Franklin Ave, village of Malverne, town
+ of Hempstead, county of Nassau, otherwise known as Nassau county  parcel
+ ID  section  37 block 205 lot 335. If accepted, the application shall be
+ reviewed as if it had been received on or before the taxable status date
+ established for such roll.
+  If satisfied that such organization would  otherwise  be  entitled  to
+ such  exemption  if  such  organization  had  filed  an  application for
+ exemption by the appropriate taxable status  date,  the  assessor,  upon
+ approval  by  the  Nassau  County  legislature,  may  make  appropriate
+ correction to the subject rolls. If such exemption is granted  and  such
+ organization,  therefore,  shall  have  paid any tax with respect to the
+ subject rolls, the applicable governing body or tax department  may,  in
+ its  sole  discretion,  provide  for  the refund of those taxes paid and
+ cancel those  taxes,  fines,  penalties,  liens  or  interest  remaining
+ unpaid.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00094-03-3
