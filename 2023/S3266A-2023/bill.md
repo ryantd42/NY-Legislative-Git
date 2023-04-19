@@ -1,6 +1,6 @@
 # Creates additional remedies for unlawful discharge, penalty, or discrimination due to the exercise of an employee's right to be absent from employment for jury duty
 
-**Bill ID:** S3266A
+**Bill ID:** S3266AA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Creates, in addition to the existing sanction of criminal contempt of court, the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3266
+  3266--A
+  Cal. No. 410
  
   2023-2024 Regular Sessions
  
@@ -26,8 +27,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Judiciary
- 
+  when printed to be committed to the Committee on Judiciary -- reported
+  favorably from said committee, ordered to  first  and  second  report,
+  ordered  to  a third reading, amended and ordered reprinted, retaining
+  its place in the order of third reading
+
  AN ACT to amend the judiciary law and the  labor  law,  in  relation  to
   creating  additional  remedies  for  unlawful  discharge,  penalty  or
   discrimination on account of the exercise of a  juror's  right  to  be
@@ -54,17 +58,17 @@ S T A T E  O F  N E W  Y O R K
  seven  hundred  fifty  of  this  chapter  AND  SHALL  ALSO  CONSTITUTE A
  VIOLATION OF SECTION TWO HUNDRED FIFTEEN OF THE LABOR LAW AND BE SUBJECT
  TO THE CIVIL PENALTIES AND CIVIL ACTION PROVIDED FOR THEREUNDER.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04982-02-3
+ S. 3266--A  2
+ 
   § 2. Paragraph 7 of subdivision A of section 750 of the judiciary law,
  as amended by chapter 823 of the laws of 1982, is  amended  to  read  as
  follows:
   7.  Wilful  failure  to  obey  any  mandate, process, or notice issued
  pursuant to [articles] ARTICLE sixteen[, seventeen, eighteen, eighteen-a
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD04982-01-3
- S. 3266  2
-
  or eighteen-b] of [the judiciary law] THIS CHAPTER, or to rules  adopted
  pursuant  thereto,  or to any other statute relating thereto, or refusal
  to be sworn as  provided  therein,  or  subjection  of  an  employee  to
@@ -105,10 +109,10 @@ S T A T E  O F  N E W  Y O R K
  protected under this chapter, or (vii) because the employer has received
  an  adverse  determination from the commissioner involving the employee,
  or (viii) because such employee has used any legally  protected  absence
- pursuant  to federal, local, or state law, OR (IX) BECAUSE SUCH EMPLOYEE
- HAS EXERCISED HIS OR  HER  RIGHT  TO  BE ABSENT  FROM EMPLOYMENT  PURSU-
- ANT  TO  SECTION FIVE HUNDRED NINETEEN OF THE JUDICIARY LAW BY REASON OF
- JURY SERVICE.
+ pursuant to federal, local, or state law, INCLUDING BECAUSE SUCH EMPLOY-
+ EE  HAS  EXERCISED HIS OR  HER  RIGHT  TO  BE ABSENT  FROM EMPLOYMENT
+ PURSUANT TO SECTION FIVE HUNDRED NINETEEN OF THE JUDICIARY LAW BY REASON
+ OF JURY SERVICE.
   An employee complaint or other communication need  not  make  explicit
  reference  to  any  section  or provision of this chapter to trigger the
  protections of this section.
@@ -116,15 +120,15 @@ S T A T E  O F  N E W  Y O R K
  discriminate or retaliate against any employee includes; threatening  to
  contact or contacting United States immigration authorities or otherwise
  reporting  or  threatening to report an employee's suspected citizenship
+ S. 3266--A  3
+ 
  or immigration status or the suspected citizenship or immigration status
  of an employee's family or household member, as defined  in  subdivision
  two  of section four hundred fifty-nine-a of the social services law, to
- a federal, state or local agency; or assessing any demerit,  occurrence,
- any  other  point,  or  deductions  from an allotted bank of time, which
- S. 3266  3
- 
- subjects or could subject an employee to disciplinary action, which  may
- include  but not be limited to failure to receive a promotion or loss of
+ a  federal, state or local agency; or assessing any demerit, occurrence,
+ any other point, or deductions from an  allotted  bank  of  time,  which
+ subjects  or could subject an employee to disciplinary action, which may
+ include but not be limited to failure to receive a promotion or loss  of
  pay.
   (b)  If after investigation the commissioner finds that an employer or
  person has violated any provision of this section, the commissioner may,
@@ -134,22 +138,18 @@ S T A T E  O F  N E W  Y O R K
  that  if  the  commissioner  finds  that  the  employer has violated the
  provisions of this section in the preceding six years,  he  or  she  may
  assess a civil penalty of not less than one thousand nor more than twen-
- ty  thousand  dollars.  EACH ACT TAKEN IN CONTRAVENTION OF A PROHIBITION
- CONTAINED IN THIS SECTION  SHALL  CONSTITUTE  A  SEPARATE  AND  DISTINCT
- VIOLATION  OF  THIS SECTION, AND IN ASSESSING ANY SUCH CIVIL PENALTY THE
- COMMISSIONER SHALL CONSIDER, IN ADDITION TO THE NATURE OF THE VIOLATION,
- ALL PRIOR FINDINGS OF VIOLATIONS OF THE PROVISIONS OF  THIS  SECTION  BY
- THE  EMPLOYER.  The  commissioner  may also order all appropriate relief
- including enjoining the conduct of  any  person  or  employer;  ordering
- payment of liquidated damages to the employee by the person or entity in
- violation;  and,  where the person or entity in violation is an employer
- ordering rehiring or reinstatement of the employee to his or her  former
- position or an equivalent position, and an award of lost compensation or
- an  award  of  front  pay  in lieu of reinstatement and an award of lost
- compensation. Liquidated damages shall be calculated as  an  amount  not
- more  than  twenty  thousand dollars. The commissioner may assess liqui-
- dated damages on behalf of every employee aggrieved under this  section,
- in addition to any other remedies permitted by this section.
+ ty  thousand  dollars.  The  commissioner may also order all appropriate
+ relief including enjoining the conduct of any person or employer; order-
+ ing payment of liquidated damages to the employee by the person or enti-
+ ty in violation; and, where the person or  entity  in  violation  is  an
+ employer  ordering  rehiring  or reinstatement of the employee to his or
+ her former position or an equivalent position,  and  an  award  of  lost
+ compensation  or  an  award of front pay in lieu of reinstatement and an
+ award of lost compensation. Liquidated damages shall be calculated as an
+ amount not more than  twenty  thousand  dollars.  The  commissioner  may
+ assess  liquidated  damages  on behalf of every employee aggrieved under
+ this section, in addition  to  any  other  remedies  permitted  by  this
+ section.
   (c)  THE  PROVISIONS  OF  SECTION TWO HUNDRED THIRTEEN OF THIS ARTICLE
  SHALL NOT APPLY TO THE VIOLATIONS SPECIFIED IN THIS SECTION.
   (D) This section shall not apply to employees  of  the  state  or  any
@@ -178,8 +178,8 @@ S T A T E  O F  N E W  Y O R K
  commissioner  does  not  issue  an  order,  until  the date on which the
  commissioner  notifies  the  complainant  that  the  investigation  has
  concluded. Investigation by the commissioner shall not be a prerequisite
- S. 3266  4
- 
+ S. 3266--A  4
+
  to  nor  a  bar  against  a  person  bringing  a civil action under this
  section.
   (b)  At  or  before the commencement of any action under this section,
@@ -190,8 +190,4 @@ S T A T E  O F  N E W  Y O R K
  person who violates subdivision one of this section shall be guilty of a
  class B misdemeanor.
   §  4.  This  act shall take effect on the thirtieth day after it shall
- have become a law; provided that if the amendments to paragraph  (a)  of
- subdivision 1 of section 215 of the labor law made by chapter 604 of the
- laws of 2022 shall not yet have taken effect then the amendments to such
- paragraph  made  by  section  three of this act shall take effect on the
- same date and in the same manner as such chapter, takes effect.
+ have become a law.
