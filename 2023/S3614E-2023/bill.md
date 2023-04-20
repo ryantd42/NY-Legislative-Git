@@ -1,6 +1,6 @@
 # Relates to member contribution per centum increases
 
-**Bill ID:** S3614EA
+**Bill ID:** S3614EB
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Increases the salary ranges tied to member contribution requirements; ties salar
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3614--A
+  3614--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,9 @@ S T A T E  O F  N E W  Y O R K
  Introduced by Sen. GOUNARDES -- read twice and ordered printed, and when
   printed to be committed to the Committee on Civil Service and Pensions
   --  committee  discharged,  bill amended, ordered reprinted as amended
-  and recommitted to said committee
+  and recommitted  to  said  committee  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the retirement and social security law and the education
   law, in relation to member contribution per centum increases
@@ -57,13 +59,13 @@ S T A T E  O F  N E W  Y O R K
  PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON  APRIL  ONE,  TWO  THOUSAND
  TWENTY-FIVE,  THE  WAGES  IN THIS SUBPARAGRAPH SHALL BE INCREASED BY THE
  ANNUAL INFLATION, AS DETERMINED FROM THE INCREASE IN THE CONSUMER  PRICE
- INDEX IN THE ONE YEAR PERIOD ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03315-03-3
- S. 3614--A  2
+  LBD03315-05-3
+ S. 3614--B  2
  
+ INDEX IN THE ONE YEAR PERIOD ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR
  PRIOR.  SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-
  TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
   3.  members with wages greater than fifty-five thousand per annum, but
@@ -119,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL
  THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL
  NOT EXCEED THREE PERCENT;
- S. 3614--A  3
+ S. 3614--B  3
  
   (ii)  members  with  wages greater than forty-five thousand per annum,
  but not more than fifty-five thousand per annum shall  contribute  three
@@ -177,8 +179,8 @@ S T A T E  O F  N E W  Y O R K
  NOT EXCEED THREE PERCENT;
   (ii) members with wages greater than forty-five  thousand  per  annum,
  but  not  more than fifty-five thousand per annum shall contribute three
- S. 3614--A  4
- 
+ S. 3614--B  4
+
  and one-half per centum of annual wages.  ON  APRIL  ONE,  TWO  THOUSAND
  TWENTY-FOUR,  MEMBERS  WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM,
  BUT NOT MORE THAN  OF SIXTY THOUSAND PER ANNUM  SHALL  CONTRIBUTE  THREE
@@ -235,7 +237,7 @@ S T A T E  O F  N E W  Y O R K
  not more than fifty-five thousand per annum shall contribute  three  and
  one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
  FOUR, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT  NOT
- S. 3614--A  5
+ S. 3614--B  5
  
  MORE  THAN  OF SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE AND ONE-
  HALF PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON APRIL ONE,  TWO  THOU-
@@ -293,7 +295,7 @@ S T A T E  O F  N E W  Y O R K
  FOUR,  MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT NOT
  MORE THAN  OF SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE  AND  ONE-
  HALF  PER  CENTUM OF ANNUAL WAGES, AND BEGINNING ON APRIL ONE, TWO THOU-
- S. 3614--A  6
+ S. 3614--B  6
  
  SAND TWENTY-FIVE, THE WAGES IN THIS SUBPARAGRAPH SHALL BE  INCREASED  BY
  THE  ANNUAL  INFLATION,  AS DETERMINED FROM THE INCREASE IN THE CONSUMER
@@ -351,8 +353,8 @@ S T A T E  O F  N E W  Y O R K
  one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
  FOUR, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT  NOT
  MORE  THAN  OF SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE AND ONE-
- S. 3614--A  7
- 
+ S. 3614--B  7
+
  HALF PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON APRIL ONE,  TWO  THOU-
  SAND  TWENTY-FIVE,  THE WAGES IN THIS SUBPARAGRAPH SHALL BE INCREASED BY
  THE ANNUAL INFLATION, AS DETERMINED FROM THE INCREASE  IN  THE  CONSUMER
@@ -409,7 +411,7 @@ S T A T E  O F  N E W  Y O R K
  not more than fifty-five thousand per annum shall contribute  three  and
  one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
  FOUR, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT  NOT
- S. 3614--A  8
+ S. 3614--B  8
  
  MORE  THAN  OF SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE AND ONE-
  HALF PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON APRIL ONE,  TWO  THOU-
@@ -467,7 +469,7 @@ S T A T E  O F  N E W  Y O R K
   (ii) members with wages greater than forty-five  thousand  per  annum,
  but  not  more than fifty-five thousand per annum shall contribute three
  and one-half per centum of annual wages. ON JULY ONE, TWO THOUSAND TWEN-
- S. 3614--A  9
+ S. 3614--B  9
  
  TY-THREE, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM,  BUT
  NOT  MORE  THAN  OF SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE AND
@@ -525,7 +527,7 @@ S T A T E  O F  N E W  Y O R K
  NOT EXCEED THREE PERCENT;
   (2) members with wages greater than forty-five thousand per annum, but
  not more than fifty-five thousand per annum shall contribute  three  and
- S. 3614--A  10
+ S. 3614--B  10
  
  one-half  per  centum of annual wages. ON JULY ONE, TWO THOUSAND TWENTY-
  THREE, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT NOT
@@ -583,7 +585,7 @@ S T A T E  O F  N E W  Y O R K
   3% for wages of $45,000 or less
   3.5% for wages greater than $45,000 and less than or equal to $55,000
   4.5% for wages greater than $55,000 and less than or equal to $75,000
- S. 3614--A  11
+ S. 3614--B  11
  
   5.75% for wages greater  than  $75,000  and  less  than  or  equal  to
  $100,000
@@ -641,7 +643,7 @@ S T A T E  O F  N E W  Y O R K
  Security Law and the Education Law to increase the salary ranges used in
  determining the employee contribution percentages  for  Tier  6  members
  thereby  decreasing  future required employee contributions. The current
- S. 3614--A  12
+ S. 3614--B  12
  
  salary ranges would each increase by $5,000 on April 1, 2024.  Beginning
  on  April 1, 2025, salary ranges would then be increased annually by the
@@ -671,3 +673,125 @@ S T A T E  O F  N E W  Y O R K
  State Teachers' Retirement System. I am a member of the American Academy
  of Actuaries and I meet the  Qualification  Standards  of  the  American
  Academy of Actuaries to render the actuarial opinion contained herein.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  SUMMARY  OF  BILL:  This proposed legislation as it relates to the New
+ York City Retirement Systems and  Pension  Funds  (NYCRS),  would  amend
+ Section 613 of the Retirement and Social Security Law (RSSL) to increase
+ the salary bands used to determine contribution rates for Tier 6 members
+ of the New York City Employees' Retirement System (NYCERS), the New York
+ City  Teachers'  Retirement System (NYCTRS), and the New York City Board
+ of Education Retirement System (BERS).
+  Effective Date: Upon enactment.
+  IMPACT ON MEMBER CONTRIBUTIONS: Currently, Tier 6 members  of  NYCERS,
+ NYCTRS,  and  BERS  are generally required to make Basic Member Contrib-
+ utions (BMC) ranging from 3% to 6% of annual wages, determined by  wages
+ for a prior defined period.
+  Under the proposed legislation, the salary bands used to determine BMC
+ would  be  1) increased by specified amounts as shown in the table below
+ on January 1, 2024, and  2)  increased  by  the  prior  calendar  year's
+ increase in consumer price index (CPI). The increase due to CPI starting
+ on January 1, 2025, and every year thereafter, is not to exceed 3%.
+  The  result  of an increase in Tier 6 salary bands would be an overall
+ decrease in employee contribution rates.
+ 
+  Contribution  New Salary Band as of
+  Rate  Current Salary Band  January 1, 2024
+  3.00%  $45,000 or less  $50,000 or less
+  3.50%  $45,001 up to $55,000  $50,001 up to $60,000
+  4.50%  $55,001 up to $75,000  $60,001 up to $80,000
+  5.75%  $75,001 up to $100,000  $80,001 up to $105,000
+  6.00%  Greater than $100,000  Greater than $105,000
+ S. 3614--B  13
+ 
+  FINANCIAL IMPACT: Based on the census data and the  actuarial  assump-
+ tions  and  methods  described  herein,  the  enactment of this proposed
+ legislation would result in an initial increase in the present value  of
+ future  employer  contributions  of  approximately  $174.8  million  for
+ NYCERS,  $84.3 million for NYCTRS, and $14.3 million for BERS, resulting
+ in a total increase of approximately $273.4 million for NYCRS.
+  The  financial  impact  will  increase  as  the  impacted  population
+ increases  over  time.  The  estimate of the increase in annual employer
+ contributions for Fiscal Years 2024 through 2028 are shown in the  table
+ below.
+ 
+  Increase in Employer Contributions
+  ($ Millions)
+  Fiscal  NYCERS  NYCTRS  BERS  TOTAL
+  Year
+  2024  $ 15.4  $ 5.9  $ 1.3  $ 22.6*
+  2025  $ 17.7  $ 6.6  $ 1.9  $ 26.2
+  2026  $ 20.3  $ 7.3  $ 2.5  $ 30.1
+  2027  $ 23.2  $ 8.3  $ 3.1  $ 34.6
+  2028  $ 26.3  $ 9.3  $ 3.8  $ 39.4
+ 
+  *  The  increase in the employer contributions for Fiscal Year 2024 is
+ estimated to be $16.0 million for New York City and $6.6 million for the
+ other obligors of NYCRS.
+  New Unfunded Accrued Liability (UAL) attributable to  benefit  changes
+ are  generally  amortized  over  the remaining working lifetime of those
+ impacted by the benefit changes.  The  remaining  working  lifetime  for
+ impacted  Tier  6 members is approximately 16 years for those in NYCERS,
+ 20 years for those in NYCTRS, and 14 years for those in BERS.
+  The increase in UAL for NYCERS was therefore amortized over a  16-year
+ period  (15  payments  under  the  One-Year Lag Methodology) using level
+ dollar payments.  Under the same methodology the increase in the UAL for
+ NYCTRS and BERS was amortized over 19 and 13 payments, respectively.
+  CENSUS DATA: The estimates presented herein are based  on  the  census
+ data  used  in the June 30, 2022 actuarial valuations of NYCERS, NYCTRS,
+ and BERS to determine the Preliminary Fiscal Year 2024 employer contrib-
+ utions.
+  The table below contains a summary of the census data for active  Tier
+ 6 members in NYCERS, NYCTRS, and BERS as of June 30, 2022.
+ 
+  NYCRS  Active  Average  Average  Average
+  Count  Age  Service  Salary
+  NYCERS  77,127  41.9  4.2  $76,100
+  NYCTRS  56,614  37.5  4.6  $77,000
+  BERS  12,264  46.3  3.7  $53,100
+ 
+  ACTUARIAL ASSUMPTIONS AND METHODS: The estimates presented herein have
+ been  calculated based on the actuarial assumptions and methods used for
+ the Preliminary Fiscal  Year  2024  employer  contributions  of  NYCERS,
+ NYCTRS, and BERS.
+  New  entrants  were projected to replace the members expected to leave
+ the active population to maintain a steady-state population. New entrant
+ demographics were developed based on data for recent new hires and actu-
+ arial judgement.
+  For the purposes of this Fiscal Note, it is assumed that  the  changes
+ would  be  reflected  for  the first time in the June 30, 2022 actuarial
+ S. 3614--B  14
+ 
+ valuations of NYCERS,  NYCTRS,  and  BERS  used  to  determine  employer
+ contributions for Fiscal Year 2024.
+  It  has  been  assumed that future increases in the salary bands under
+ this proposed legislation would equal 2.5%, consistent  with  the  long-
+ term CPI inflation rate assumption of 2.5%.
+  RISK  AND  UNCERTAINTY: The costs presented in this Fiscal Note depend
+ highly on the realization of the actuarial assumptions used,  demograph-
+ ics  of  the  impacted population, and other factors such as investment,
+ contribution, and other risks. If actual experience deviates from  actu-
+ arial  assumptions,  the  actual costs could differ from those presented
+ herein.
+  Costs are also dependent on the actuarial methods used, and  therefore
+ different actuarial methods could produce different results. Quantifying
+ these risks is beyond the scope of this Fiscal Note.
+  Not measured in this Fiscal Note are the following:
+  *  The  initial  additional  administrative  costs  to  implement  the
+ proposed legislation.
+  * Pension costs for future members of NYCERS, NYCTRS, and  BERS  hired
+ on or after 7/1/2026.
+  STATEMENT  OF  ACTUARIAL  OPINION:  I, Marek Tyszkiewicz, am the Chief
+ Actuary for, and independent of, the New York  City  Retirement  Systems
+ and  Pension  Funds. I am an Associate of the Society of Actuaries and a
+ Member of the American Academy of Actuaries. I am a member of NYCERS but
+ do not believe it impairs my objectivity and I  meet  the  Qualification
+ Standards  of  the American Academy of Actuaries to render the actuarial
+ opinion contained herein. To the  best  of  my  knowledge,  the  results
+ contained  herein  have  been  prepared  in  accordance  with  generally
+ accepted actuarial principles and  procedures  and  with  the  Actuarial
+ Standards of Practice issued by the Actuarial Standards Board.
+  FISCAL  NOTE  IDENTIFICATION: This Fiscal Note 2023-34 dated April 18,
+ 2023 was prepared by the Chief Actuary for the New York City  Employees'
+ Retirement  System,  the  New York City Teachers' Retirement System, and
+ the New York City Board of Education Retirement System. This estimate is
+ intended for use only during the 2023 Legislative Session.
