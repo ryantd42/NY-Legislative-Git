@@ -1,6 +1,6 @@
 # Relates to changes in energy service pricing
 
-**Bill ID:** A703A
+**Bill ID:** A703AA
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to requiring certain notices prior to changes in energy service pricing.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  703
+  703--A
  
   2023-2024 Regular Sessions
  
@@ -27,10 +27,11 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A. DINOWITZ, L. ROSENTHAL, JOYNER, COLTON, COOK,
   PEOPLES-STOKES, BARRETT, ZEBROWSKI, STECK, BICHOTTE HERMELYN,  HUNTER,
-  WALKER  --  Multi-Sponsored  by  -- M. of A. HYNDMAN, SIMON, THIELE --
-  read once and referred  to  the  Committee  on  Consumer  Affairs  and
-  Protection
-
+  WALKER,  RAGA -- Multi-Sponsored by -- M. of A. HYNDMAN, SIMON, THIELE
+  -- read once and referred to the Committee  on  Consumer  Affairs  and
+  Protection -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+ 
  AN  ACT  to  amend  the  general business law, in relation to changes in
   energy service pricing
  
@@ -58,20 +59,21 @@ S T A T E  O F  N E W  Y O R K
  process.
   7. In every contract for energy services and in all marketing  materi-
  als  provided  to prospective purchasers of such contracts, all variable
- charges shall be clearly and conspicuously identified.  IN  ANY  NOTICE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00581-01-3
- A. 703  2
+  LBD00581-02-3
+ A. 703--A  2
  
+ charges shall be clearly and conspicuously identified.  IN  ANY  NOTICE
  REGARDING CONTRACT RENEWABILITY, THE PROVIDER SHALL DISCLOSE THE FOLLOW-
  ING  INFORMATION  AS IT EXISTS AT THE TIME OF SUCH NOTICE: (I) THE PRICE
- CHARGED FOR ENERGY SERVICES; (II) THE PRICE IT PROPOSES TO  CHARGE  UPON
- RENEWAL;  (III) THE PRICE THAT IS CHARGED BY THE CUSTOMER'S DISTRIBUTION
- UTILITY; AND (IV)  INFORMATION  NOTIFYING  THE  CUSTOMER  HOW  THEY  MAY
- COMPARE  PAST  BILLS  WITH  WHAT  THEY  WOULD HAVE BEEN CHARGED HAD THEY
- RECEIVED ENERGY SERVICES FROM  THEIR  RESPECTIVE  DISTRIBUTION  UTILITY,
- INCLUDING,  THE  INTERNET ADDRESS OF ANY BILL CALCULATOR OFFERED BY SUCH
+ CHARGED  FOR  ENERGY SERVICES; (II) THE PRICE IT PROPOSES TO CHARGE UPON
+ RENEWAL; (III) THE PRICE THAT IS CHARGED BY THE CUSTOMER'S  DISTRIBUTION
+ UTILITY;  AND  (IV)  INFORMATION  NOTIFYING  THE  CUSTOMER  HOW THEY MAY
+ COMPARE PAST BILLS WITH WHAT THEY  WOULD  HAVE  BEEN  CHARGED  HAD  THEY
+ RECEIVED  ENERGY  SERVICES  FROM  THEIR RESPECTIVE DISTRIBUTION UTILITY,
+ INCLUDING, THE INTERNET ADDRESS OF ANY BILL CALCULATOR OFFERED  BY  SUCH
  CUSTOMER'S DISTRIBUTION UTILITY'S WEBSITE.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
