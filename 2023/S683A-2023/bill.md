@@ -1,6 +1,6 @@
 # Relates to changes in energy service pricing
 
-**Bill ID:** S683A
+**Bill ID:** S683AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Relates to requiring certain notices prior to changes in energy service pricing.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  683
+  683--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Consumer Protection
+  printed to be committed to the Committee  on  Consumer  Protection  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general business law,  in  relation  to  changes  in
   energy service pricing
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,18 +59,19 @@ S T A T E  O F  N E W  Y O R K
  als provided to prospective purchasers of such contracts,  all  variable
  charges  shall  be  clearly and conspicuously identified.  IN ANY NOTICE
  REGARDING CONTRACT RENEWABILITY, THE PROVIDER SHALL DISCLOSE THE FOLLOW-
- ING INFORMATION AS IT EXISTS AT THE TIME OF SUCH NOTICE: (I)  THE  PRICE
- CHARGED  FOR  ENERGY SERVICES; (II) THE PRICE IT PROPOSES TO CHARGE UPON
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00581-01-3
- S. 683  2
+  LBD00581-03-3
+ S. 683--A  2
  
+ ING INFORMATION AS IT EXISTS AT THE TIME OF SUCH NOTICE: (I)  THE  PRICE
+ CHARGED  FOR  ENERGY SERVICES; (II) THE PRICE IT PROPOSES TO CHARGE UPON
  RENEWAL; (III) THE PRICE THAT IS CHARGED BY THE CUSTOMER'S  DISTRIBUTION
  UTILITY;  AND  (IV)  INFORMATION  NOTIFYING  THE  CUSTOMER  HOW THEY MAY
  COMPARE PAST BILLS WITH WHAT THEY  WOULD  HAVE  BEEN  CHARGED  HAD  THEY
  RECEIVED  ENERGY  SERVICES  FROM  THEIR RESPECTIVE DISTRIBUTION UTILITY,
  INCLUDING, THE INTERNET ADDRESS OF ANY BILL CALCULATOR OFFERED  BY  SUCH
  CUSTOMER'S DISTRIBUTION UTILITY'S WEBSITE.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
