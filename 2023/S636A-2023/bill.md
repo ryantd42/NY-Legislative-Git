@@ -1,6 +1,6 @@
 # Requires certain companies and corporations to report certain data regarding the gender, race and ethnicity of their employees
 
-**Bill ID:** S636A
+**Bill ID:** S636AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Vetoed
@@ -16,7 +16,8 @@ Requires certain companies and corporations to report certain data regarding the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  636
+  636--A
+  Cal. No. 174
  
   2023-2024 Regular Sessions
  
@@ -27,7 +28,11 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
   printed to be committed to the Committee on Corporations,  Authorities
-  and Commissions
+  and  Commissions -- reported favorably from said committee, ordered to
+  first and second report, ordered to a third reading, passed by  Senate
+  and  delivered  to the Assembly, recalled, vote reconsidered, restored
+  to third reading, amended and ordered reprinted, retaining  its  place
+  in the order of third reading
  
  AN  ACT  to amend the business corporation law and the limited liability
   company law, in relation to requiring  certain  companies  and  corpo-
@@ -40,15 +45,14 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Paragraph 1 of section 408 of the business corporation  law
  is amended by adding a new subparagraph (e) to read as follows:
   (E)  FOR  THOSE  CORPORATIONS REQUIRED TO FILE AN EMPLOYER INFORMATION
- REPORT EEO-1 WITH THE EQUAL EMPLOYMENT OPPORTUNITY COMMISSION,  INFORMA-
- TION THAT IS SUBSTANTIALLY SIMILAR TO THE EMPLOYMENT DATA REPORTED UNDER
- SECTION  D  OF  SUCH CORPORATION'S MOST RECENTLY FILED EEO-1 IN A FORMAT
- APPROVED BY THE SECRETARY OF STATE. FOR EACH  CORPORATION  THAT  SUBMITS
- DATA  PURSUANT  TO  THIS PARAGRAPH, THE SECRETARY OF STATE SHALL PUBLISH
- THE DATA ON THE  GENDER,  RACE,  AND  ETHNICITY  OF  EACH  CORPORATION'S
- EMPLOYEES ON THE SECRETARY OF STATE'S OFFICIAL WEBSITE. THE SECRETARY OF
- STATE  SHALL PUBLISH SUCH INFORMATION WITHIN NINETY DAYS OF RECEIPT OF A
- PROPERLY FILED STATEMENT OR AS SOON THEREAFTER AS PRACTICABLE.
+ REPORT EEO-1 WITH THE  EQUAL  EMPLOYMENT  OPPORTUNITY  COMMISSION,  SUCH
+ CORPORATIONS SHALL FILE A COPY OF SUCH EMPLOYER INFORMATION REPORT EEO-1
+ WITH  THE  SECRETARY  OF  STATE.  FOR EACH CORPORATION THAT SUBMITS DATA
+ PURSUANT TO THIS PARAGRAPH, THE SECRETARY OF  STATE  SHALL  PUBLISH  THE
+ DATA  ON THE GENDER, RACE, AND ETHNICITY OF EACH CORPORATION'S EMPLOYEES
+ ON THE SECRETARY OF STATE'S OFFICIAL WEBSITE.  THE  SECRETARY  OF  STATE
+ SHALL  PUBLISH SUCH INFORMATION WITHIN NINETY DAYS OF RECEIPT OF A PROP-
+ ERLY FILED STATEMENT OR AS SOON THEREAFTER AS PRACTICABLE.
   § 2. Paragraph 1 of subdivision (e) of  section  301  of  the  limited
  liability  company  law, as amended by section 5 of part S of chapter 59
  of the laws of 2015, is amended to read as follows:
@@ -56,28 +60,26 @@ S T A T E  O F  N E W  Y O R K
  liability company to which this chapter applies, shall biennially in the
  calendar  month during which its articles of organization or application
  for authority were filed, or effective date thereof if stated,  file  on
- forms  prescribed  by  the secretary of state, a statement setting forth
- the post office address within or without this state to which the secre-
- tary of state shall mail a copy  of  any  process  accepted  against  it
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03247-01-3
- S. 636  2
+  LBD03247-03-3
+ S. 636--A  2
  
+ forms  prescribed  by  the secretary of state, a statement setting forth
+ the post office address within or without this state to which the secre-
+ tary of state shall mail a copy  of  any  process  accepted  against  it
  served  upon  him  or  her.  Such  address  shall supersede any previous
  address on file with the department of state  for  this  purpose.  ADDI-
  TIONALLY,  FOR  THOSE  LIMITED  LIABILITY  COMPANIES REQUIRED TO FILE AN
- EMPLOYER  INFORMATION REPORT EEO-1 WITH THE EQUAL EMPLOYMENT OPPORTUNITY
- COMMISSION, SUCH COMPANIES TO WHICH THIS CHAPTER APPLIES  SHALL  INCLUDE
- ON  THE  STATEMENT  REQUIRED  BY  THIS  SUBDIVISION  INFORMATION THAT IS
- SUBSTANTIALLY SIMILAR TO THE EMPLOYMENT DATA REPORTED UNDER SECTION D OF
- SUCH COMPANY'S MOST RECENTLY FILED EEO-1 IN A  FORMAT  APPROVED  BY  THE
- SECRETARY OF STATE. FOR EACH LIMITED LIABILITY COMPANY THAT SUBMITS DATA
- PURSUANT  TO  THIS SUBDIVISION, THE SECRETARY OF STATE SHALL PUBLISH THE
- DATA ON THE GENDER, RACE, AND ETHNICITY OF EACH COMPANY'S  EMPLOYEES  ON
- THE  SECRETARY OF STATE'S OFFICIAL WEBSITE. THE SECRETARY OF STATE SHALL
- PUBLISH SUCH INFORMATION WITHIN NINETY DAYS OF  RECEIPT  OF  A  PROPERLY
- FILED STATEMENT OR AS SOON THEREAFTER AS PRACTICABLE.
+ EMPLOYER INFORMATION REPORT EEO-1 WITH THE EQUAL EMPLOYMENT  OPPORTUNITY
+ COMMISSION,  SUCH  LIMITED LIABILITY COMPANIES SHALL FILE A COPY OF SUCH
+ EMPLOYER INFORMATION REPORT EEO-1 WITH THE SECRETARY OF STATE. FOR  EACH
+ LIMITED  LIABILITY  COMPANY  THAT SUBMITS DATA PURSUANT TO THIS SUBDIVI-
+ SION, THE SECRETARY OF STATE SHALL PUBLISH THE DATA ON THE GENDER, RACE,
+ AND ETHNICITY OF EACH COMPANY'S EMPLOYEES ON THE  SECRETARY  OF  STATE'S
+ OFFICIAL  WEBSITE. THE SECRETARY OF STATE SHALL PUBLISH SUCH INFORMATION
+ WITHIN NINETY DAYS OF RECEIPT OF A PROPERLY FILED STATEMENT OR  AS  SOON
+ THEREAFTER AS PRACTICABLE.
   § 3. This act shall take effect two years after it shall have become a
  law.
