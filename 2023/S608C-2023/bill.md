@@ -1,6 +1,6 @@
 # Relates to price gouging of medicine
 
-**Bill ID:** S608CA
+**Bill ID:** S608CB
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Prohibits selling a drug subject to a shortage for an unconscionably excessive p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  608--A
+  608--B
+  Cal. No. 77
  
   2023-2024 Regular Sessions
  
@@ -26,11 +27,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens.  SALAZAR,  BRISPORT,  GIANARIS,  HELMING, JACKSON,
-  KRUEGER, LANZA, SANDERS, SERRANO -- read twice  and  ordered  printed,
-  and  when  printed  to  be  committed  to  the  Committee  on Consumer
+  KRUEGER, LANZA, LIU, SANDERS, SERRANO -- read twice and ordered print-
+  ed, and when printed to be committed  to  the  Committee  on  Consumer
   Protection -- committee discharged, bill amended, ordered reprinted as
-  amended and recommitted to said committee
-
+  amended  and  recommitted to said committee -- reported favorably from
+  said committee and committed to the Committee  on  Rules  --  reported
+  favorably  from  said committee, ordered to a third reading, passed by
+  Senate and delivered to the  Assembly,  recalled,  vote  reconsidered,
+  restored  to  third  reading, amended and ordered reprinted, retaining
+  its place in the order of third reading
+ 
  AN ACT to amend the general business law, in relation to the price goug-
   ing of medicine
  
@@ -53,28 +59,30 @@ S T A T E  O F  N E W  Y O R K
  strike, civil disorder, war, military action, national or local emergen-
  cy,  DRUG  SHORTAGE,  or  other  cause  of an abnormal disruption of the
  market which results in the declaration of a state of emergency  by  the
- governor.  FOR  PURPOSES  OF  THIS SECTION, THE TERM DRUG SHORTAGE SHALL
- MEAN THE ISSUANCE OF A NOTICE BY THE U.S. FOOD AND  DRUG  ADMINISTRATION
- PURSUANT  TO  SECTION 506C-1 OF THE FEDERAL FOOD DRUGS AND COSMETICS ACT
- OR ANY SUCCESSOR PROVISION THEREOF.
-  (C) For the purposes of this section,  the  term  goods  and  services
- shall  include  [(a)]  (I)  consumer  goods and services used, bought or
- 
+ governor.
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03763-03-3
- S. 608--A  2
+  LBD03763-07-3
+ S. 608--B  2
  
- rendered primarily for personal, family  or  household  purposes,  [(b)]
- (II)  essential  medical  supplies and services used for the care, cure,
+  (C) FOR PURPOSES OF THIS SECTION, THE TERM "DRUG SHORTAGE" SHALL MEAN,
+ WITH RESPECT TO ANY DRUG OR MEDICAL PRODUCT INTENDED FOR HUMAN USE, THAT
+ SUCH  DRUG OR MEDICAL PRODUCT IS PUBLICLY REPORTED AS BEING SUBJECT TO A
+ SHORTAGE THE U.S. FOOD AND DRUG ADMINISTRATION.
+  (D)  For  the  purposes of this section, the term "goods and services"
+ shall include [(a)] (I) consumer goods  and  services  used,  bought  or
+ rendered  primarily  for  personal,  family or household purposes, [(b)]
+ (II) essential medical supplies and services used for  the  care,  cure,
  mitigation, treatment or prevention of any illness or disease, and [(c)]
  (III)  any other essential goods and services used to promote the health
- or welfare of the public. This prohibition shall apply  to  all  parties
- within  the chain of distribution, including any manufacturer, supplier,
- wholesaler, distributor or retail seller of goods or  services  or  both
- sold  by  one  party to another when the product sold was located in the
- state prior to the sale. Goods  and  services  shall  also  include  any
- repairs  made  by any party within the chain of distribution of goods on
- an emergency basis as a  result  of  such  abnormal  disruption  of  the
- market.
+ or welfare of the public.
+  (E) This prohibition shall apply to all parties within  the  chain  of
+ distribution, including any manufacturer, supplier, wholesaler, distrib-
+ utor  or retail seller of goods or services or both sold by one party to
+ another when the product sold was located in  the  state  prior  to  the
+ sale.  [Goods] FOR THE PURPOSES OF THIS SUBDIVISION, THE TERM "GOODS and
+ services" shall also include any repairs made by any  party  within  the
+ chain of distribution of goods on an emergency basis as a result of such
+ abnormal disruption of the market.
   § 2. This act shall take effect immediately.
