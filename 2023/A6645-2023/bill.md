@@ -1,0 +1,63 @@
+# Prohibits the parking or storing of a fully concealed vehicle on a public street
+
+**Bill ID:** A6645
+**Session:** 2023
+**Sponsor:** Monique Chandler-Waterman
+**Status:** In Assembly Committee
+
+## Summary
+
+Prohibits the parking or storing of a fully concealed vehicle on a public street.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6645
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  April 25, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. CHANDLER-WATERMAN -- read once and referred to
+  the Committee on Transportation
+ 
+ AN ACT to amend the vehicle and traffic law, in relation to  prohibiting
+  the parking or storing of a fully concealed vehicle on a public street
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The vehicle and traffic law is  amended  by  adding  a  new
+ section 1229-e to read as follows:
+  §  1229-E. PROHIBITION OF A FULLY CONCEALED VEHICLE PARKED ON A PUBLIC
+ STREET. (1) FOR THE PURPOSES OF THIS SECTION, "FULLY CONCEALED  VEHICLE"
+ SHALL  MEAN  A VEHICLE COVERED WITH AN OPAQUE MATERIAL WHERE THE LICENSE
+ PLATE, THE VEHICLE IDENTIFICATION NUMBER, VEHICLE REGISTRATION AND OTHER
+ IDENTIFYING INFORMATION, AND ALL WINDOWS ARE NOT VISIBLE.
+  (2) THE PARKING OR STORING OF A FULLY CONCEALED VEHICLE  ON  A  PUBLIC
+ STREET SHALL BE STRICTLY PROHIBITED.
+  (3) ANY VEHICLE PARKED ON A PUBLIC STREET IN VIOLATION OF THIS SECTION
+ SHALL BE SUBJECT TO IMMEDIATE IMPOUND AND TOWING TO A LOCATION WHERE THE
+ SAFETY CONCERNS REGARDING THE VEHICLE SHALL BE DETERMINED.
+  (4)  NOTWITHSTANDING  ANY OTHER PROVISIONS OF LAW TO THE CONTRARY, ANY
+ MUNICIPALITY OF THIS STATE, ACTING THROUGH ITS LOCAL  LEGISLATIVE  BODY,
+ IS  HEREBY AUTHORIZED AND EMPOWERED TO ADOPT AND AMEND LOCAL LAWS, RULES
+ AND ORDINANCES, IN ACCORDANCE WITH THE PROVISIONS OF  THIS  SECTION,  IN
+ ORDER TO IMPOSE A PENALTY FOR VIOLATING THIS SECTION, WHICH MAY INCLUDE,
+ BUT NOT BE LIMITED TO, THE COST OF TOWING THE VEHICLE.
+  (5)  IF THE VEHICLE AND ITS CONTENTS ARE DETERMINED TO BE OF NO SAFETY
+ THREAT, THE VEHICLE SHALL BE RELEASED SUBJECT  TO  SATISFACTION  OF  ALL
+ SANCTIONS IMPOSED BY LOCAL AUTHORITIES FOR THE RELEASE OF THE VEHICLE.
+  § 2. This act shall take effect immediately.
+ 
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07742-01-3
