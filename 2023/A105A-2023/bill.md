@@ -1,6 +1,6 @@
 # Enacts the "cash acceptance act"
 
-**Bill ID:** A105A
+**Bill ID:** A105AA
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Prohibits food-service and retail establishments from refusing to accept cash as
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  105
+  105--A
  
   2023-2024 Regular Sessions
  
@@ -28,18 +28,18 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. SAYEGH -- read once and referred to the Committee
-  on Consumer Affairs and Protection
+  on  Consumer  Affairs  and  Protection  --  committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to  amend  the general business law, in relation to prohibiting
   retail establishments from refusing to accept payment in cash
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  This  act  shall  be  known and may be cited as the "cash
- acceptance act".
-  § 2. The general business law is amended by adding a new section  396-
- ii to read as follows:
+  Section 1. The general business law is amended by adding a new section
+ 396-ii to read as follows:
   §  396-II.  CASHLESS  POLICIES PROHIBITED. A. AS USED IN THIS SECTION,
  THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
   (I) "FOOD-SERVICE ESTABLISHMENT" SHALL  MEAN  AN  ESTABLISHMENT  WHICH
@@ -57,8 +57,8 @@ S T A T E  O F  N E W  Y O R K
  THAN FIVE THOUSAND DOLLARS FOR EACH SUCCEEDING VIOLATION.
   D.  THE  DEPARTMENT  OF  LABOR  MAY  PROMULGATE SUCH RULES AS IT DEEMS
  NECESSARY TO IMPLEMENT AND ENFORCE THIS SECTION.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01516-02-3
+  LBD01516-03-3
