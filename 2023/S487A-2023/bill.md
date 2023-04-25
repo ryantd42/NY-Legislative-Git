@@ -1,6 +1,6 @@
 # Directs the New York State Department of Transportation to promulgate rules and regulations for the standardization of public charging stations for electric vehicles
 
-**Bill ID:** S487A
+**Bill ID:** S487AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Directs the New York State Department of Transportation, in conjunction with the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  487
+  487--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT directing the New York State  Department  of  Transportation,  in
   conjunction  with  the  New York State Energy Research and Development
@@ -45,52 +47,47 @@ S T A T E  O F  N E W  Y O R K
   §  2. Definitions. As used in this act, the following terms shall have
  the following meanings:
   (a) "Electric vehicle" means a motor vehicle subject  to  registration
- pursuant  to  subdivision six of section four hundred one of the vehicle
- and traffic law which is: (i)  powered  by  an  electric  motor  drawing
- current from rechargeable storage batteries or other portable electrical
- energy  storage  devices;  and  (ii)  capable of being recharged from an
- external source of electricity.
-  (b) "Plug-in hybrid electric vehicle" means an electric  vehicle  that
+ pursuant  to subdivision 6 of section 401 of the vehicle and traffic law
+ which is:  (i)  powered  by  an  electric  motor  drawing  current  from
+ rechargeable storage batteries or other portable electrical energy stor-
+ age devices; and (ii) capable of being recharged from an external source
+ of electricity.
+  (b)  "Plug-in  hybrid electric vehicle" means an electric vehicle that
  has an internal combustion engine or other propulsion system.
-  (c)  "Public  electric vehicle charging station complex" means an area
- which contains electric vehicle chargers to supply electricity to  elec-
+  (c) "Public electric vehicle charging station complex" means  an  area
+ which  contains electric vehicle chargers to supply electricity to elec-
  tric vehicles and is open to the general public.
-  (d)  "Non-public vehicle charging station complex" means an area which
- contains electric vehicle chargers to  supply  electricity  to  electric
- vehicles  and which is not open to the general public, including but not
- limited to, dealerships, sales offices and service departments or  auto-
+  (d) "Non-public vehicle charging station complex" means an area  which
+ contains  electric  vehicle  chargers  to supply electricity to electric
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02177-01-3
- S. 487  2
+  LBD02177-05-3
+ S. 487--A  2
  
+ vehicles and which is not open to the general public, including but  not
+ limited  to, dealerships, sales offices and service departments or auto-
  mobile repair shops, automobile rental agencies and trucking or delivery
  businesses.
   (e)  "Electric  vehicle  charger"  means  a device containing electric
  vehicle service equipment and software,  which,  when  connected  to  an
  electric vehicle, delivers electricity to the electric vehicle.
-  (f)  "Level  2  electric  vehicle  charger" or "slow charger" means an
- electric vehicle charger that when  connected  to  an  electric  vehicle
- delivers electricity through an AC current. Level 2 chargers are common-
- ly known as the slow chargers.
-  (g) "Level 3 electric vehicle charger" means an electric vehicle char-
+  (f) "Level 3 electric vehicle charger" means an electric vehicle char-
  ger  that  when  connected  to  an electric vehicle delivers electricity
- through a DC current. Level 3 Chargers are commonly known  as  the  fast
+ through a DC current. Level 3 chargers are commonly known  as  the  fast
  chargers.
-  (h)  "Electric  vehicle service equipment" means equipment, both above
+  (g)  "Electric  vehicle service equipment" means equipment, both above
  and below ground, installed for the purpose of transmitting  electricity
  between the electric vehicle charging station's charging coupler and the
  electric vehicle's connector.
-  (i)  "Electric  vehicle service equipment software" means the software
+  (h)  "Electric  vehicle service equipment software" means the software
  programs and other information technologies used to operate the electric
  vehicle charging equipment.
   § 3. Charging spaces. (a) Each public charging station  complex  shall
  provide  space for no less than eight vehicles to be charged. All public
- charging station complexes shall offer the two most used  level  2  slow
- charger  and  level  3 fast charger technologies on four of the electric
- vehicle chargers for four of the spaces. The four remaining spaces shall
- be serviced by chargers containing only level 3 technologies.
+ charging station complexes shall offer the two most used  level  3  fast
+ charger  technologies on all of the electric vehicle chargers for all of
+ the eight spaces.
   (b) No person shall park in a space  equipped  with  a  charger  at  a
  public electric vehicle charging station, unless such person is charging
  a plug-in hybrid electric vehicle or battery electric vehicle.
@@ -117,29 +114,29 @@ S T A T E  O F  N E W  Y O R K
  time  necessary  to  charge the vehicle in addition to the cost of elec-
  tricity.
   § 6. Electric vehicle charging stations as described in this  act  are
- exempt  from  being  defined as an electricity corporation as defined in
+ exempt  from  being  defined  as  an  electric corporation as defined in
  section 2 of the public service law.
   § 7. (a) Owners and operators  of  public  electric  vehicle  charging
  stations  must maintain signage at the electric vehicle charging station
- S. 487  3
- 
  that displays the status of each electric  vehicle  charger,  the  total
  number  of  chargers  and the number of available chargers (total number
  less those being used), and how long a wait for the next charger  to  be
+ S. 487--A  3
+ 
  available,  the  name  and  address and phone number of the operator and
  owner, the cost of charging including any additional fees  that  may  be
  charged  beyond  the  cost of electricity for non-charging vehicles, and
- any rules or regulations customers must follow at the  charging  station
+ any  rules  or regulations customers must follow at the charging station
  complex when using the chargers.
-  (b)  All publicly-owned highway signs or signs at exits of highways in
- the state that display information about the availability  and  location
+  (b) All publicly-owned highway signs or signs at exits of highways  in
+ the  state  that display information about the availability and location
  of gas stations shall also provide information regarding the availabili-
- ty  and location of public electric vehicle charging stations, including
- the number of available chargers  available  and  the  distance  to  the
+ ty and location of public electric vehicle charging stations,  including
+ the  number  of  available  chargers  available  and the distance to the
  charging station complex.
   § 8. The provisions of this act shall not apply to non-public charging
  complexes which are not for use by the general public are not subject to
- the  requirements of this law provided signage is clearly displayed that
- no electric vehicle chargers are available to the general public  except
+ the requirements of this law provided signage is clearly displayed  that
+ no  electric vehicle chargers are available to the general public except
  for customers of the business or those vehicles owned by the business.
   § 9. This act shall take effect immediately.
