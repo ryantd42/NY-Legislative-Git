@@ -1,6 +1,6 @@
 # Requires car washes to disclose when promotions expire
 
-**Bill ID:** S2464B
+**Bill ID:** S2464BA
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires car washes to disclose when promotions expire as well as any costs whic
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2464
+  2464--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. PERSAUD -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Consumer Protection
+  printed to be committed to the Committee  on  Consumer  Protection  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general business law, in relation to  requiring  car
   washes to disclose when promotions expire
@@ -46,14 +48,15 @@ S T A T E  O F  N E W  Y O R K
  AS ANY COSTS  WHICH  WILL  BE  INCURRED  UPON  THE  EXPIRATION  OF  SUCH
  PROMOTION  AND HOW OFTEN SUCH COSTS WILL BE INCURRED UPON SOMEONE TAKING
  PART IN SUCH PROMOTION.
-  3. A VIOLATION OF THIS SECTION SHALL BE PUNISHABLE BY A CIVIL  PENALTY
+  3. CAR WASHES SHALL CONSPICUOUSLY POST NOTICE OF SUCH INFORMATION ON A
+ BOARD OR OTHER VISIBLE PLACE IN VIEW OF  CONSUMERS  WHEN  ADVERTISING  A
+ PROMOTION.
+  4.  A VIOLATION OF THIS SECTION SHALL BE PUNISHABLE BY A CIVIL PENALTY
  OF FIVE HUNDRED DOLLARS FOR EACH VIOLATION.
-  §  2.  This  act shall take effect on the thirtieth day after it shall
+  § 2. This act shall take effect on the thirtieth day  after  it  shall
  have become a law.
- 
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07159-01-3
+  LBD07159-02-3
