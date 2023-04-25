@@ -1,0 +1,68 @@
+# Relates to indexing personal income taxes to the cost of living adjustment; repealer
+
+**Bill ID:** S6532
+**Session:** 2023
+**Sponsor:** Anthony H. Palumbo
+**Status:** In Senate Committee
+
+## Summary
+
+Indexes personal income taxes to the cost of living adjustment beginning in 2024.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6532
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  April 25, 2023
+  ___________
+ 
+ Introduced  by  Sen. PALUMBO -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Budget and Revenue
+ 
+ AN ACT to amend the tax law, in relation to indexing taxes to inflation;
+  and to repeal certain provisions of such law relating thereto
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Section 601-a of the tax law is REPEALED and a new section
+ 601-a is added to read as follows:
+  § 601-A. COST OF LIVING ADJUSTMENT. (A)  FOR  TAX  YEAR  TWO  THOUSAND
+ TWENTY-FOUR  AND  THEREAFTER,  THE COMMISSIONER, NO LATER THAN SEPTEMBER
+ FIRST PRECEDING THE END OF THE PREVIOUS TAX  YEAR,  SHALL  MULTIPLY  THE
+ AMOUNTS SPECIFIED IN SUBSECTION (B) OF THIS SECTION BY ONE PLUS THE COST
+ OF LIVING ADJUSTMENT DESCRIBED IN SUBSECTION (C) OF THIS SECTION.
+  (B)  THE  FOLLOWING  AMOUNTS  SHALL  BE  INDEXED BY THE COST OF LIVING
+ ADJUSTMENT:
+  (1) THE DOLLAR AMOUNTS IN THE TAX TABLES SET FORTH IN PARAGRAPH ONE OF
+ SUBSECTION (A), PARAGRAPH ONE OF SUBSECTION (B)  AND  PARAGRAPH  ONE  OF
+ SUBSECTION (C) OF SECTION SIX HUNDRED ONE OF THIS PART.
+  (2)  THE DOLLAR AMOUNT IN THE NUMERATOR OF THE FRACTIONS IN SUBSECTION
+ (D) OF SECTION SIX HUNDRED ONE OF THIS PART THAT IS NOT  FIFTY  THOUSAND
+ DOLLARS.
+  (3)  THE  NEW  YORK  STANDARD  DEDUCTION  OF  A RESIDENT INDIVIDUAL IN
+ SECTION SIX HUNDRED FOURTEEN OF THIS ARTICLE.
+  (C) THE COST OF LIVING ADJUSTMENT SHALL  BE  CALCULATED  IN  THE  SAME
+ MANNER  AS DETERMINED BY THE SECRETARY OF THE UNITED STATES TREASURY FOR
+ PURPOSES OF SECTION 1(F) OF THE UNITED STATES INTERNAL REVENUE  CODE  OF
+ 1954, AS AMENDED. FOR PURPOSES OF THIS SECTION, THE CONSUMER PRICE INDEX
+ MEANS THE CHAINED CONSUMER PRICE INDEX FOR ALL URBAN CONSUMERS (C-CPI-U)
+ PUBLISHED  BY  THE  UNITED  STATES  DEPARTMENT OF LABOR, BUREAU OF LABOR
+ STATISTICS.
+  (D) IF THE PRODUCT OF THE AMOUNTS IN SUBSECTION (B) AND SUBSECTION (C)
+ OF THIS SECTION IS NOT A MULTIPLE OF FIFTY DOLLARS, SUCH INCREASE  SHALL
+ BE ROUNDED TO THE NEXT LOWEST MULTIPLE OF FIFTY DOLLARS.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11011-01-3
