@@ -1,6 +1,6 @@
 # Relates to rent regulation and tenant protection; repealer
 
-**Bill ID:** S2980CA
+**Bill ID:** S2980CB
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Establishes the legal regulated rent for the combination of two or more vacant a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2980--A
+  2980--B
  
   2023-2024 Regular Sessions
  
@@ -25,124 +25,65 @@ S T A T E  O F  N E W  Y O R K
   January 26, 2023
   ___________
  
- Introduced  by  Sens.  KAVANAGH, HOYLMAN-SIGAL, RIVERA -- read twice and
-  ordered printed, and when printed to be committed to the Committee  on
-  Housing,  Construction  and  Community  Development  --  committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
-
- AN ACT to amend the administrative code of the city of New York and  the
-  emergency  tenant protection act of nineteen seventy-four, in relation
-  to establishing the  legal regulated rent for the  combination of  two
-  or  more  vacant  apartments;  to  amend  the  public  housing law, in
-  relation to defining  permanently  vacated;  to  amend  the  emergency
+ Introduced  by  Sens. KAVANAGH, CLEARE, HOYLMAN-SIGAL, JACKSON, KRUEGER,
+  RIVERA -- read twice and ordered  printed,  and  when  printed  to  be
+  committed  to  the  Committee  on  Housing, Construction and Community
+  Development -- committee discharged, bill amended,  ordered  reprinted
+  as  amended and recommitted to said committee -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
+ 
+ AN  ACT to amend the administrative code of the city of New York and the
+  emergency tenant protection act of nineteen seventy-four, in  relation
+  to  establishing the  legal regulated rent for the  combination of two
+  or more vacant  apartments;  to  amend  the  public  housing  law,  in
+  relation  to  defining  permanently  vacated;  to  amend the emergency
   tenant  protection  act  of  nineteen  seventy-four,  in  relation  to
-  exemptions from rent stabilization on the basis of  substantial  reha-
-  bilitation;  and  to  repeal  paragraph  9 of subdivision a of section
-  26-405 of the administrative code  of  the  city  of  New  York,  in
-  relation  to  public hearings by the city rent agency (Part A); to
-  amend the administrative code of the city of New York, chapter 576  of
-  the  laws of 1974, constituting the emergency tenant protection act of
-  nineteen seventy-four, and chapter 274 of the laws of 1946, constitut-
-  ing the emergency housing rent control law, in relation to major capi-
-  tal improvements (Part B); to amend  the  multiple  dwelling  law,  in
-  relation  to rent impairing violations; and to amend the real property
-  actions and proceedings law, in relation to eviction proceedings (Part
-  C); and to apply the Housing Stability and Tenant  Protection  Act  of
-  2019 to rent calculations and rent records maintenance and destruction
-  (Part D)
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  exemptions  from  rent stabilization on the basis of substantial reha-
+  bilitation; and to repeal paragraph 9  of  subdivision  a  of  section
+  26-405  of  the  administrative  code  of  the  city of New York,  in
+  relation  to  public hearings by the city rent  agency  (Part  A);  to
+  amend  the  administrative code of the city of New York, the emergency
+  tenant protection act of  nineteen  seventy-four,  and  the  emergency
+  housing  rent  control  law, in relation to major capital improvements
+  (Part B); to amend the multiple dwelling  law,  in  relation  to  rent
+  impairing  violations;  and  to  amend  the  real property actions and
+  proceedings law, in relation to  eviction  proceedings  (Part  C);  to
+  apply  the Housing Stability and Tenant Protection Act of 2019 to rent
+  calculations and rent records maintenance and  destruction  (Part  D);
+  and  to  amend  the  administrative  code of the city of New York, the
+  emergency tenant protection  act  of  nineteen  seventy-four  and  the
+  public  housing law, in relation to the failure of owners to file rent
+  registration statements and the enforcement powers of the commissioner
+  of housing and community renewal (Part E)
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
- 
-  Section 1. This act enacts into law components of legislation relating
- to rent regulation and  tenant  protection.  Each  component  is  wholly
- contained  within  a Part identified as Parts A through D. The effective
- date for each particular provision contained within  such  Part  is  set
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07250-06-3
- S. 2980--A  2
+  LBD07250-09-3
+ S. 2980--B  2
  
+  Section 1. This act enacts into law components of legislation relating
+ to  rent  regulation  and  tenant  protection.  Each component is wholly
+ contained within a Part identified as Parts A through E.  The  effective
+ date  for  each  particular  provision contained within such Part is set
  forth  in  the  last  section of such Part. Any provision in any section
  contained within a Part, including the effective date of the Part, which
  makes reference to a section "of this act", when used in connection with
- that  particular  component,  shall  be  deemed to mean and refer to the
+ that particular component, shall be deemed to  mean  and  refer  to  the
  corresponding section of the Part in which it is found. Section three of
  this act sets forth the general effective date of this act.
  
   PART A
-
-  Section 1. Paragraph 9 of subdivision  a  of  section  26-405  of  the
+ 
+  Section  1.  Paragraph  9  of  subdivision  a of section 26-405 of the
  administrative code of the city of New York is REPEALED.
   § 2. Subdivision c of section 26-511 of the administrative code of the
- city  of  New  York  is  amended by adding a new paragraph 15 to read as
+ city of New York is amended by adding a new  paragraph  15  to  read  as
  follows:
-  (15) (A) WHERE AN OWNER COMBINES TWO OR MORE VACANT  HOUSING  ACCOMMO-
- DATIONS  OR  COMBINES  A  VACANT  HOUSING ACCOMMODATION WITH AN OCCUPIED
- ACCOMMODATION, SUCH INITIAL RENT  FOR  SUCH  NEW  HOUSING  ACCOMMODATION
- SHALL  BE  THE  COMBINED  LEGAL  RENT FOR BOTH PREVIOUS HOUSING ACCOMMO-
- DATIONS, SUBJECT TO ANY APPLICABLE GUIDELINE  INCREASES  AND  ANY  OTHER
- INCREASES  AUTHORIZED BY THIS CHAPTER INCLUDING ANY INDIVIDUAL APARTMENT
- IMPROVEMENT INCREASES APPLICABLE FOR BOTH HOUSING ACCOMMODATIONS. IF  AN
- OWNER  COMBINES  A  RENT  REGULATED  ACCOMMODATION WITH AN APARTMENT NOT
- SUBJECT TO RENT REGULATION, THE RESULTING APARTMENT SHALL BE SUBJECT  TO
- THE  EMERGENCY  TENANT  PROTECTION  ACT  OF NINETEEN SEVENTY-FOUR. IF AN
- OWNER INCREASES THE AREA OF AN APARTMENT NOT SUBJECT TO RENT  REGULATION
- BY  ADDING SPACE THAT WAS PREVIOUSLY PART OF A RENT REGULATED APARTMENT,
- EACH APARTMENT SHALL BE SUBJECT TO THE EMERGENCY TENANT  PROTECTION  ACT
- OF NINETEEN SEVENTY-FOUR.
-  (B)  WHERE  AN  OWNER SUBSTANTIALLY INCREASES THE OUTER DIMENSION OF A
- VACANT HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR  RENT
- OF  SUCH  HOUSING ACCOMMODATION, INCREASED BY A PERCENTAGE THAT IS EQUAL
- TO THE  PERCENTAGE  INCREASE  IN  THE  DWELLING  SPACE  AND  SUCH  OTHER
- INCREASES  AUTHORIZED BY THIS CHAPTER INCLUDING ANY APPLICABLE GUIDELINE
- INCREASE AND INDIVIDUAL APARTMENT IMPROVEMENT  INCREASE  THAT  COULD  BE
- AUTHORIZED FOR THE UNIT PRIOR TO THE ALTERATION OF THE OUTER DIMENSIONS.
-  (C)  NOTWITHSTANDING SUBPARAGRAPHS (A) AND (B) OF THIS PARAGRAPH, SUCH
- INCREASES MAY BE DENIED BASED ON THE OCCURRENCE OF SUCH VACANCY  DUE  TO
- HARASSMENT,  FRAUD, OR OTHER ACTS OF EVASION WHICH MAY REQUIRE THAT SUCH
- RENT BE SET IN ACCORDANCE WITH THIS SUBDIVISION.
-  (D) WHERE THE VACANT HOUSING ACCOMMODATIONS  ARE  COMBINED,  MODIFIED,
- DIVIDED OR THE DIMENSION OF SUCH HOUSING ACCOMMODATION OTHERWISE ALTERED
- AND  THESE  CHANGES ARE BEING MADE PURSUANT TO A PRESERVATION REGULATORY
- AGREEMENT WITH A FEDERAL, STATE OR LOCAL GOVERNMENTAL AGENCY OR  INSTRU-
- MENTALITY,  THE  RENT STABILIZED RENTS CHARGED THEREAFTER SHALL BE BASED
- ON AN INITIAL RENT SET BY SUCH AGENCY OR INSTRUMENTALITY.
-  (E) WHERE AN OWNER SUBSTANTIALLY DECREASES THE OUTER DIMENSIONS  OF  A
- VACANT  HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR RENT
- OF SUCH HOUSING ACCOMMODATION, DECREASED  BY  THE  SAME  PERCENTAGE  THE
- SQUARE FOOTAGE OF THE ORIGINAL APARTMENT WAS DECREASED BY AND SUCH OTHER
- INCREASES  AUTHORIZED BY THIS CHAPTER INCLUDING ANY APPLICABLE GUIDELINE
- INCREASE AND INDIVIDUAL APARTMENT IMPROVEMENT  INCREASE  THAT  COULD  BE
- AUTHORIZED FOR THE APARTMENT PRIOR TO THE ALTERATION OF THE OUTER DIMEN-
- SIONS.
-  (F)(I)  WHEN  AN OWNER COMBINES TWO OR MORE RENT REGULATED APARTMENTS,
- THE OWNER MAY USE EACH OF THE PREVIOUS APARTMENTS' REMAINING  INDIVIDUAL
- APARTMENT  IMPROVEMENT  ALLOWANCES FOR THE PURPOSES OF A TEMPORARY INDI-
- S. 2980--A  3
- 
- VIDUAL APARTMENT IMPROVEMENT RENT INCREASE. THE OWNER SHALL SUBSEQUENTLY
- DESIGNATE A SURVIVING APARTMENT FOR THE PURPOSES  OF  REGISTRATION  THAT
- HAS  THE  SAME  APARTMENT NUMBER AS ONE OF THE PRIOR APARTMENTS. IF THAT
- PRIOR  APARTMENT  HAS  ANY REIMBURSABLE INDIVIDUAL APARTMENT IMPROVEMENT
- MONEY REMAINING AFTER THE COMBINATION, THAT MONEY MAY BE REIMBURSED  FOR
- FUTURE  INDIVIDUAL  APARTMENT  IMPROVEMENTS UNDERTAKEN WITHIN THE SUBSE-
- QUENT FIFTEEN YEARS FOLLOWING THE COMBINATION.
-  (II) IN ORDER FOR AN OWNER  TO  QUALIFY  FOR  A  TEMPORARY  INDIVIDUAL
- APARTMENT  IMPROVEMENT  RENT  INCREASE WHEN APARTMENTS ARE COMBINED, THE
- REQUIREMENTS FOR AN  INDIVIDUAL  APARTMENT  IMPROVEMENT,  INCLUDING  ALL
- NOTIFICATION REQUIREMENTS UNDER THIS CHAPTER SHALL BE MET.
-  (G)  OWNERS  SHALL  MAINTAIN  THE  RECORDS  AND  RENT HISTORIES OF ALL
- COMBINED APARTMENTS,  BOTH  PRIOR  TO  AND  POST  COMBINATION,  FOR  THE
- PURPOSES  OF RENT SETTING, OVERCHARGE AND ALL OTHER PROCEEDINGS TO WHICH
- THE RECORDS ARE APPLICABLE.
-  § 2-a. Subdivision (a) of section 10-b of section 4 of chapter 576  of
- the  laws  of  1974, constituting the emergency tenant protection act of
- nineteen seventy-four, is amended by adding a new paragraph 13  to  read
- as follows:
-  13.  (I)  WHERE  AN OWNER COMBINES TWO OR MORE VACANT HOUSING ACCOMMO-
+  (15)  (A)  WHERE AN OWNER COMBINES TWO OR MORE VACANT HOUSING ACCOMMO-
  DATIONS OR COMBINES A VACANT  HOUSING  ACCOMMODATION  WITH  AN  OCCUPIED
  ACCOMMODATION,  SUCH  INITIAL  RENT  FOR  SUCH NEW HOUSING ACCOMMODATION
  SHALL BE THE COMBINED LEGAL RENT  FOR  BOTH  PREVIOUS  HOUSING  ACCOMMO-
@@ -151,94 +92,157 @@ S T A T E  O F  N E W  Y O R K
  IMPROVEMENT  INCREASES APPLICABLE FOR BOTH HOUSING ACCOMMODATIONS. IF AN
  OWNER COMBINES A RENT REGULATED  ACCOMMODATION  WITH  AN  APARTMENT  NOT
  SUBJECT  TO RENT REGULATION, THE RESULTING APARTMENT SHALL BE SUBJECT TO
- THIS ACT.  IF AN OWNER INCREASES THE AREA OF AN APARTMENT NOT SUBJECT TO
- RENT REGULATION BY ADDING SPACE THAT WAS PREVIOUSLY PART OF A RENT REGU-
- LATED APARTMENT, EACH APARTMENT SHALL BE SUBJECT TO THIS ACT.
-  (II) WHERE AN OWNER SUBSTANTIALLY INCREASES THE OUTER DIMENSION  OF  A
+ THE EMERGENCY TENANT PROTECTION ACT  OF  NINETEEN  SEVENTY-FOUR.  IF  AN
+ OWNER  INCREASES THE AREA OF AN APARTMENT NOT SUBJECT TO RENT REGULATION
+ BY ADDING SPACE THAT WAS PREVIOUSLY PART OF A RENT REGULATED  APARTMENT,
+ EACH  APARTMENT  SHALL BE SUBJECT TO THE EMERGENCY TENANT PROTECTION ACT
+ OF NINETEEN SEVENTY-FOUR.
+  (B) WHERE AN OWNER SUBSTANTIALLY INCREASES THE OUTER  DIMENSION  OF  A
  VACANT  HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR RENT
  OF SUCH HOUSING ACCOMMODATION, INCREASED BY A PERCENTAGE THAT  IS  EQUAL
  TO  THE  PERCENTAGE  INCREASE  IN  THE  DWELLING  SPACE  AND  SUCH OTHER
- INCREASES AUTHORIZED BY THIS  ACT  INCLUDING  ANY  APPLICABLE  GUIDELINE
+ INCREASES AUTHORIZED BY THIS CHAPTER INCLUDING ANY APPLICABLE  GUIDELINE
  INCREASE  AND  INDIVIDUAL  APARTMENT  IMPROVEMENT INCREASE THAT COULD BE
  AUTHORIZED FOR THE UNIT PRIOR TO THE ALTERATION OF THE OUTER DIMENSIONS.
-  (III) NOTWITHSTANDING SUBPARAGRAPHS (I) AND (II)  OF  THIS  PARAGRAPH,
- SUCH INCREASES MAY BE DENIED BASED ON THE OCCURRENCE OF SUCH VACANCY DUE
- TO  HARASSMENT,  FRAUD,  OR OTHER ACTS OF EVASION WHICH MAY REQUIRE THAT
- SUCH RENT BE SET IN ACCORDANCE WITH SECTION TWELVE OF THIS ACT.
-  (IV) WHERE THE VACANT HOUSING ACCOMMODATIONS ARE  COMBINED,  MODIFIED,
+  (C) NOTWITHSTANDING SUBPARAGRAPHS (A) AND (B) OF THIS PARAGRAPH,  SUCH
+ INCREASES  MAY  BE DENIED BASED ON THE OCCURRENCE OF SUCH VACANCY DUE TO
+ HARASSMENT, FRAUD, OR OTHER ACTS OF EVASION WHICH MAY REQUIRE THAT  SUCH
+ RENT BE SET IN ACCORDANCE WITH THIS SUBDIVISION.
+  (D)  WHERE  THE  VACANT HOUSING ACCOMMODATIONS ARE COMBINED, MODIFIED,
  DIVIDED OR THE DIMENSION OF SUCH HOUSING ACCOMMODATION OTHERWISE ALTERED
- AND  THESE  CHANGES ARE BEING MADE PURSUANT TO A PRESERVATION REGULATORY
- AGREEMENT WITH A FEDERAL, STATE OR LOCAL GOVERNMENTAL AGENCY OR  INSTRU-
- MENTALITY,  THE  RENT STABILIZED RENTS CHARGED THEREAFTER SHALL BE BASED
+ AND THESE CHANGES ARE BEING MADE PURSUANT TO A  PRESERVATION  REGULATORY
+ AGREEMENT  WITH A FEDERAL, STATE OR LOCAL GOVERNMENTAL AGENCY OR INSTRU-
+ MENTALITY, THE RENT STABILIZED RENTS CHARGED THEREAFTER SHALL  BE  BASED
  ON AN INITIAL RENT SET BY SUCH AGENCY OR INSTRUMENTALITY.
-  (V) WHERE AN OWNER SUBSTANTIALLY DECREASES THE OUTER DIMENSIONS  OF  A
- VACANT  HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR RENT
- OF SUCH HOUSING ACCOMMODATION, DECREASED  BY  THE  SAME  PERCENTAGE  THE
+  (E)  WHERE  AN OWNER SUBSTANTIALLY DECREASES THE OUTER DIMENSIONS OF A
+ VACANT HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR  RENT
+ OF  SUCH  HOUSING  ACCOMMODATION,  DECREASED  BY THE SAME PERCENTAGE THE
  SQUARE FOOTAGE OF THE ORIGINAL APARTMENT WAS DECREASED BY AND SUCH OTHER
- INCREASES  AUTHORIZED  BY  THIS  ACT  INCLUDING ANY APPLICABLE GUIDELINE
- INCREASE AND INDIVIDUAL APARTMENT IMPROVEMENT  INCREASE  THAT  COULD  BE
+ INCREASES AUTHORIZED BY THIS CHAPTER INCLUDING ANY APPLICABLE  GUIDELINE
+ INCREASE  AND  INDIVIDUAL  APARTMENT  IMPROVEMENT INCREASE THAT COULD BE
+ S. 2980--B  3
+ 
  AUTHORIZED FOR THE APARTMENT PRIOR TO THE ALTERATION OF THE OUTER DIMEN-
  SIONS.
- S. 2980--A  4
+  (F)(I)  WHEN  AN OWNER COMBINES TWO OR MORE RENT REGULATED APARTMENTS,
+ THE OWNER MAY USE EACH OF THE PREVIOUS APARTMENTS' REMAINING  INDIVIDUAL
+ APARTMENT  IMPROVEMENT  ALLOWANCES FOR THE PURPOSES OF A TEMPORARY INDI-
+ VIDUAL APARTMENT IMPROVEMENT RENT INCREASE. THE OWNER SHALL SUBSEQUENTLY
+ DESIGNATE A SURVIVING APARTMENT FOR THE PURPOSES  OF  REGISTRATION  THAT
+ HAS  THE  SAME  APARTMENT NUMBER AS ONE OF THE PRIOR APARTMENTS. IF THAT
+ PRIOR APARTMENT HAS ANY REIMBURSABLE  INDIVIDUAL  APARTMENT  IMPROVEMENT
+ MONEY  REMAINING AFTER THE COMBINATION, THAT MONEY MAY BE REIMBURSED FOR
+ FUTURE INDIVIDUAL APARTMENT IMPROVEMENTS UNDERTAKEN  WITHIN  THE  SUBSE-
+ QUENT FIFTEEN YEARS FOLLOWING THE COMBINATION.
+  (II)  IN  ORDER  FOR  AN  OWNER  TO QUALIFY FOR A TEMPORARY INDIVIDUAL
+ APARTMENT IMPROVEMENT RENT INCREASE WHEN APARTMENTS  ARE  COMBINED,  THE
+ REQUIREMENTS  FOR  AN  INDIVIDUAL  APARTMENT  IMPROVEMENT, INCLUDING ALL
+ NOTIFICATION REQUIREMENTS UNDER THIS CHAPTER SHALL BE MET.
+  (G) OWNERS SHALL MAINTAIN  THE  RECORDS  AND  RENT  HISTORIES  OF  ALL
+ COMBINED  APARTMENTS,  BOTH  PRIOR  TO  AND  POST  COMBINATION,  FOR THE
+ PURPOSES OF RENT SETTING, OVERCHARGE AND ALL OTHER PROCEEDINGS TO  WHICH
+ THE RECORDS ARE APPLICABLE.
+  §  2-a. Subdivision (a) of section 10-b of section 4 of chapter 576 of
+ the laws of 1974, constituting the emergency tenant  protection  act  of
+ nineteen  seventy-four,  is amended by adding a new paragraph 13 to read
+ as follows:
+  13. (I) WHERE AN OWNER COMBINES TWO OR MORE  VACANT  HOUSING  ACCOMMO-
+ DATIONS  OR  COMBINES  A  VACANT  HOUSING ACCOMMODATION WITH AN OCCUPIED
+ ACCOMMODATION, SUCH INITIAL RENT  FOR  SUCH  NEW  HOUSING  ACCOMMODATION
+ SHALL  BE  THE  COMBINED  LEGAL  RENT FOR BOTH PREVIOUS HOUSING ACCOMMO-
+ DATIONS, SUBJECT TO ANY APPLICABLE GUIDELINE  INCREASES  AND  ANY  OTHER
+ INCREASES  AUTHORIZED BY THIS CHAPTER INCLUDING ANY INDIVIDUAL APARTMENT
+ IMPROVEMENT INCREASES APPLICABLE FOR BOTH HOUSING ACCOMMODATIONS. IF  AN
+ OWNER  COMBINES  A  RENT  REGULATED  ACCOMMODATION WITH AN APARTMENT NOT
+ SUBJECT TO RENT REGULATION, THE RESULTING APARTMENT SHALL BE SUBJECT  TO
+ THIS ACT.  IF AN OWNER INCREASES THE AREA OF AN APARTMENT NOT SUBJECT TO
+ RENT REGULATION BY ADDING SPACE THAT WAS PREVIOUSLY PART OF A RENT REGU-
+ LATED APARTMENT, EACH APARTMENT SHALL BE SUBJECT TO THIS ACT.
+  (II)  WHERE  AN OWNER SUBSTANTIALLY INCREASES THE OUTER DIMENSION OF A
+ VACANT HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR  RENT
+ OF  SUCH  HOUSING ACCOMMODATION, INCREASED BY A PERCENTAGE THAT IS EQUAL
+ TO THE  PERCENTAGE  INCREASE  IN  THE  DWELLING  SPACE  AND  SUCH  OTHER
+ INCREASES  AUTHORIZED  BY  THIS  ACT  INCLUDING ANY APPLICABLE GUIDELINE
+ INCREASE AND INDIVIDUAL APARTMENT IMPROVEMENT  INCREASE  THAT  COULD  BE
+ AUTHORIZED FOR THE UNIT PRIOR TO THE ALTERATION OF THE OUTER DIMENSIONS.
+  (III)  NOTWITHSTANDING  SUBPARAGRAPHS  (I) AND (II) OF THIS PARAGRAPH,
+ SUCH INCREASES MAY BE DENIED BASED ON THE OCCURRENCE OF SUCH VACANCY DUE
+ TO HARASSMENT, FRAUD, OR OTHER ACTS OF EVASION WHICH  MAY  REQUIRE  THAT
+ SUCH RENT BE SET IN ACCORDANCE WITH SECTION TWELVE OF THIS ACT.
+  (IV)  WHERE  THE VACANT HOUSING ACCOMMODATIONS ARE COMBINED, MODIFIED,
+ DIVIDED OR THE DIMENSION OF SUCH HOUSING ACCOMMODATION OTHERWISE ALTERED
+ AND THESE CHANGES ARE BEING MADE PURSUANT TO A  PRESERVATION  REGULATORY
+ AGREEMENT  WITH A FEDERAL, STATE OR LOCAL GOVERNMENTAL AGENCY OR INSTRU-
+ MENTALITY, THE RENT STABILIZED RENTS CHARGED THEREAFTER SHALL  BE  BASED
+ ON AN INITIAL RENT SET BY SUCH AGENCY OR INSTRUMENTALITY.
+  (V)  WHERE  AN OWNER SUBSTANTIALLY DECREASES THE OUTER DIMENSIONS OF A
+ VACANT HOUSING ACCOMMODATION, SUCH INITIAL RENT SHALL BE THE PRIOR  RENT
+ OF  SUCH  HOUSING  ACCOMMODATION,  DECREASED  BY THE SAME PERCENTAGE THE
+ S. 2980--B  4
  
+ SQUARE FOOTAGE OF THE ORIGINAL APARTMENT WAS DECREASED BY AND SUCH OTHER
+ INCREASES AUTHORIZED BY THIS  ACT  INCLUDING  ANY  APPLICABLE  GUIDELINE
+ INCREASE  AND  INDIVIDUAL  APARTMENT  IMPROVEMENT INCREASE THAT COULD BE
+ AUTHORIZED FOR THE APARTMENT PRIOR TO THE ALTERATION OF THE OUTER DIMEN-
+ SIONS.
   (VI)(1)  WHEN AN OWNER COMBINES TWO OR MORE RENT REGULATED APARTMENTS,
  THE OWNER MAY USE EACH OF THE PREVIOUS APARTMENTS' REMAINING  INDIVIDUAL
  APARTMENT  IMPROVEMENT  ALLOWANCES FOR THE PURPOSES OF A TEMPORARY INDI-
  VIDUAL APARTMENT IMPROVEMENT RENT INCREASE. THE OWNER SHALL SUBSEQUENTLY
- DESIGNATE  A  SURVIVING  APARTMENT FOR THE PURPOSES OF REGISTRATION THAT
- HAS THE SAME APARTMENT NUMBER AS ONE OF THE PRIOR  APARTMENTS.  IF  THAT
- PRIOR  APARTMENT  HAS  ANY REIMBURSABLE INDIVIDUAL APARTMENT IMPROVEMENT
- MONEY REMAINING AFTER THE COMBINATION, THAT MONEY MAY BE REIMBURSED  FOR
- FUTURE  INDIVIDUAL  APARTMENT  IMPROVEMENTS UNDERTAKEN WITHIN THE SUBSE-
+ DESIGNATE A SURVIVING APARTMENT FOR THE PURPOSES  OF  REGISTRATION  THAT
+ HAS  THE  SAME  APARTMENT NUMBER AS ONE OF THE PRIOR APARTMENTS. IF THAT
+ PRIOR APARTMENT HAS ANY REIMBURSABLE  INDIVIDUAL  APARTMENT  IMPROVEMENT
+ MONEY  REMAINING AFTER THE COMBINATION, THAT MONEY MAY BE REIMBURSED FOR
+ FUTURE INDIVIDUAL APARTMENT IMPROVEMENTS UNDERTAKEN  WITHIN  THE  SUBSE-
  QUENT FIFTEEN YEARS FOLLOWING THE COMBINATION.
   (2) IN ORDER FOR AN OWNER TO QUALIFY FOR A TEMPORARY INDIVIDUAL APART-
  MENT  IMPROVEMENT  RENT  INCREASE  WHEN  APARTMENTS  ARE  COMBINED,  THE
- REQUIREMENTS  FOR  AN  INDIVIDUAL  APARTMENT  IMPROVEMENT, INCLUDING ALL
+ REQUIREMENTS FOR AN  INDIVIDUAL  APARTMENT  IMPROVEMENT,  INCLUDING  ALL
  NOTIFICATION REQUIREMENTS UNDER THIS ACT SHALL BE MET.
-  (VII) OWNERS SHALL MAINTAIN THE RECORDS  AND  RENT  HISTORIES  OF  ALL
- COMBINED  APARTMENTS,  BOTH  PRIOR  TO  AND  POST  COMBINATION,  FOR THE
- PURPOSES OF RENT SETTING, OVERCHARGE AND ALL OTHER PROCEEDINGS TO  WHICH
+  (VII)  OWNERS  SHALL  MAINTAIN  THE  RECORDS AND RENT HISTORIES OF ALL
+ COMBINED APARTMENTS,  BOTH  PRIOR  TO  AND  POST  COMBINATION,  FOR  THE
+ PURPOSES  OF RENT SETTING, OVERCHARGE AND ALL OTHER PROCEEDINGS TO WHICH
  THE RECORDS ARE APPLICABLE.
-  §  3.  The  opening  paragraph  of  paragraph  (a) of subdivision 4 of
- section 14 of the public housing law, as added by  chapter  116  of  the
+  § 3. The opening paragraph  of  paragraph  (a)  of  subdivision  4  of
+ section  14  of  the  public housing law, as added by chapter 116 of the
  laws of 1997, is amended to read as follows:
-  that  unless otherwise prohibited by occupancy restrictions based upon
- income limitations pursuant to federal, state or local law,  regulations
- or  other  requirements  of  governmental  agencies,  any  member of the
- tenant's family, as defined in paragraph (c) of this subdivision,  shall
- succeed  to  the  rights  of a tenant under such acts and laws where the
+  that unless otherwise prohibited by occupancy restrictions based  upon
+ income  limitations pursuant to federal, state or local law, regulations
+ or other requirements  of  governmental  agencies,  any  member  of  the
+ tenant's  family, as defined in paragraph (c) of this subdivision, shall
+ succeed to the rights of a tenant under such acts  and  laws  where  the
  tenant has permanently vacated the housing accommodation and such family
- member has resided with the tenant in the  housing  accommodation  as  a
- primary  residence for a period of no less than two years, or where such
+ member  has  resided  with  the tenant in the housing accommodation as a
+ primary residence for a period of no less than two years, or where  such
  person is a "senior citizen" or a "disabled person," as defined in para-
- graph (c) of this subdivision, for a period of no less  than  one  year,
+ graph  (c)  of  this subdivision, for a period of no less than one year,
  immediately prior to the permanent vacating of the housing accommodation
- by  the  tenant, or from the inception of the tenancy or commencement of
- the relationship, if for less than such periods.  FOR THE  PURPOSES  OF
- THIS  PARAGRAPH,  "PERMANENTLY  VACATED"  SHALL  MEAN  THE DATE WHEN THE
- TENANT OF RECORD PHYSICALLY MOVES OUT OF THE HOUSING  ACCOMMODATION  AND
- PERMANENTLY  CEASES  TO USE IT AS THEIR PRIMARY RESIDENCE, REGARDLESS OF
- SUBSEQUENT CONTACTS WITH THE UNIT OR THE SIGNING OF  LEASE  RENEWALS  OR
+ by the tenant, or from the inception of the tenancy or  commencement  of
+ the  relationship,  if  for less than such periods.  FOR THE PURPOSES OF
+ THIS PARAGRAPH, "PERMANENTLY VACATED"  SHALL  MEAN  THE  DATE  WHEN  THE
+ TENANT  OF  RECORD PHYSICALLY MOVES OUT OF THE HOUSING ACCOMMODATION AND
+ PERMANENTLY CEASES TO USE IT AS THEIR PRIMARY RESIDENCE,  REGARDLESS  OF
+ SUBSEQUENT  CONTACTS  WITH  THE UNIT OR THE SIGNING OF LEASE RENEWALS OR
  CONTINUATION OF RENT PAYMENTS. The minimum periods of required residency
- set  forth  in this subdivision shall not be deemed to be interrupted by
- any period  during  which  the  "family  member"  temporarily  relocates
+ set forth in this subdivision shall not be deemed to be  interrupted  by
+ any  period  during  which  the  "family  member"  temporarily relocates
  because he or she:
   § 4. Paragraph 5 of subdivision a of section 5 of section 4 of chapter
- 576  of  the  laws of 1974, constituting the emergency tenant protection
+ 576 of the laws of 1974, constituting the  emergency  tenant  protection
  act of nineteen seventy-four, is amended to read as follows:
   (5)  housing  accommodations  in  buildings  completed  or  buildings
- substantially  rehabilitated  as family units on or after January first,
+ substantially rehabilitated as family units on or after  January  first,
  nineteen hundred seventy-four; PROVIDED THAT AN OWNER CLAIMING EXEMPTION
  FROM RENT STABILIZATION ON THE BASIS OF SUBSTANTIAL REHABILITATION SHALL
  SEEK APPROVAL FROM STATE DIVISION OF HOUSING AND COMMUNITY RENEWAL WITH-
- IN ONE YEAR OF THE COMPLETION OF THE SUBSTANTIAL REHABILITATION, OR  FOR
+ IN  ONE YEAR OF THE COMPLETION OF THE SUBSTANTIAL REHABILITATION, OR FOR
+ S. 2980--B  5
+ 
  ANY BUILDING PREVIOUSLY ALLEGED TO HAVE BEEN SUBSTANTIALLY REHABILITATED
- BEFORE  THE  EFFECTIVE  DATE  OF THE CHAPTER OF THE LAWS OF TWO THOUSAND
- TWENTY-THREE THAT AMENDED THIS PARAGRAPH,  WITHIN  SIX  MONTHS  OF  SUCH
+ BEFORE THE EFFECTIVE DATE OF THE CHAPTER OF THE  LAWS  OF  TWO  THOUSAND
+ TWENTY-THREE  THAT  AMENDED  THIS  PARAGRAPH,  WITHIN SIX MONTHS OF SUCH
  EFFECTIVE  DATE,  AND  ULTIMATELY  OBTAIN  SUCH APPROVAL, WHICH SHALL BE
  DENIED ON THE FOLLOWING GROUNDS:
- S. 2980--A  5
- 
   (A) THE OWNER OR ITS PREDECESSORS IN INTEREST HAVE ENGAGED IN  HARASS-
  MENT  OF  TENANTS  IN  THE  FIVE  YEARS  PRECEDING THE COMPLETION OF THE
  SUBSTANTIAL REHABILITATION;
@@ -247,114 +251,114 @@ S T A T E  O F  N E W  Y O R K
   (C) THE OWNER'S OR ITS PREDECESSORS IN INTEREST'S ACTS OR OMISSIONS IN
  FAILING TO MAINTAIN THE BUILDING MATERIALLY CONTRIBUTED TO THE SERIOUSLY
  DETERIORATED CONDITION OF THE PREMISES; OR
-  (D)  THE  SUBSTANTIAL REHABILITATION WORK WAS PERFORMED IN A PIECEMEAL
- FASHION AND WAS NOT COMPLETED IN A REASONABLE  AMOUNT  OF  TIME,  DURING
+  (D) THE SUBSTANTIAL REHABILITATION WORK WAS PERFORMED IN  A  PIECEMEAL
+ FASHION  AND  WAS  NOT  COMPLETED IN A REASONABLE AMOUNT OF TIME, DURING
  WHICH PERIOD THE BUILDING WAS AT LEAST EIGHTY PERCENT VACANT;
-  §  5.  This  act  shall take effect immediately and shall apply to all
+  § 5. This act shall take effect immediately and  shall  apply  to  all
  pending proceedings on and after such date; provided that the amendments
  to section 26-511 of chapter 4 of title 26 of the administrative code of
  the city of New York made by section two of this act shall expire on the
- same date as such law expires and shall not  affect  the  expiration  of
+ same  date  as  such  law expires and shall not affect the expiration of
  such law as provided under section 26-520 of such law.
  
   PART B
  
   Section 1. Subparagraph (g) of paragraph 1 of subdivision g of section
  26-405 of the administrative code of the city of New York, as amended by
- section  27  of  part Q of chapter 39 of the laws of 2019, is amended to
+ section 27 of part Q of chapter 39 of the laws of 2019,  is  amended  to
  read as follows:
   (g) There has been since July first, nineteen hundred seventy, a major
- capital improvement essential for the  preservation  energy  efficiency,
- functionality,  or infrastructure of the entire building, improvement of
+ capital  improvement  essential  for the preservation energy efficiency,
+ functionality, or infrastructure of the entire building, improvement  of
  the structure including heating, windows, plumbing and roofing but shall
- not be for operational costs or unnecessary cosmetic  improvements.  The
- temporary  increase  based  upon  a major capital improvement under this
- subparagraph for any order of the commissioner issued after  the  effec-
- tive  date  of  the  chapter  of  the laws of two thousand nineteen that
- amended this subparagraph shall be in an amount sufficient  to  amortize
- the  cost  of  the improvements pursuant to this subparagraph (g) over a
- twelve-year period for buildings with thirty-five or fewer  units  or  a
+ not  be  for operational costs or unnecessary cosmetic improvements. The
+ temporary increase based upon a major  capital  improvement  under  this
+ subparagraph  for  any order of the commissioner issued after the effec-
+ tive date of the chapter of the  laws  of  two  thousand  nineteen  that
+ amended  this  subparagraph shall be in an amount sufficient to amortize
+ the cost of the improvements pursuant to this subparagraph  (g)  over  a
+ twelve-year  period  for  buildings with thirty-five or fewer units or a
  twelve and one-half year period for buildings with more than thirty-five
- units,  and  shall be removed from the legal regulated rent thirty years
- from the date the increase became effective inclusive of  any  increases
+ units, and shall be removed from the legal regulated rent  thirty  years
+ from  the  date the increase became effective inclusive of any increases
  granted by the applicable rent guidelines board. Temporary major capital
- improvement  increases  shall  be collectible prospectively on the first
- day of the first month beginning sixty days from  the  date  of  mailing
- notice  of  approval to the tenant. Such notice shall disclose the total
- monthly increase in rent and the first month in which the  tenant  would
- be  required  to pay the temporary increase. An approval for a temporary
+ improvement increases shall be collectible prospectively  on  the  first
+ day  of  the  first  month beginning sixty days from the date of mailing
+ notice of approval to the tenant. Such notice shall disclose  the  total
+ monthly  increase  in rent and the first month in which the tenant would
+ be required to pay the temporary increase. An approval for  a  temporary
  major  capital  improvement  increase  shall  not  include  retroactive
  payments. The collection of any increase shall not exceed two percent in
  any year from the effective date of the order granting the increase over
- the  rent  set forth in the schedule of gross rents, with collectability
- of any dollar excess above said sum to  be  spread  forward  in  similar
- increments  and added to the rent as established or set in future years.
- Upon vacancy, the landlord may add any remaining balance of  the  tempo-
- rary  major  capital  improvement  increase to the legal regulated rent.
- Notwithstanding any other provision of the law, for  any  renewal  lease
- commencing  on  or  after  June  14,  2019,  the  collection of any rent
- increases due to any major capital improvements  approved  on  or  after
- June  16,  2012 and before June 16, 2019 shall not exceed two percent in
- S. 2980--A  6
+ the rent set forth in the schedule of gross rents,  with  collectability
+ of  any  dollar  excess  above  said sum to be spread forward in similar
+ increments and added to the rent as established or set in future  years.
+ Upon  vacancy,  the landlord may add any remaining balance of the tempo-
+ S. 2980--B  6
  
- any year for any tenant in occupancy  on  the  date  the  major  capital
- improvement  was  approved[,];  PROVIDED,  HOWEVER, NO APPLICATION FOR A
- MAJOR CAPITAL IMPROVEMENT RENT INCREASE SHALL BE APPROVED BY  THE  DIVI-
- SION  OF  HOUSING AND COMMUNITY RENEWAL UNLESS THE OWNER OF THE PROPERTY
+ rary major capital improvement increase to  the  legal  regulated  rent.
+ Notwithstanding  any  other  provision of the law, for any renewal lease
+ commencing on or after  June  14,  2019,  the  collection  of  any  rent
+ increases  due  to  any  major capital improvements approved on or after
+ June 16, 2012 and before June 16, 2019 shall not exceed two  percent  in
+ any  year  for  any  tenant  in  occupancy on the date the major capital
+ improvement was approved[,]; PROVIDED, HOWEVER,  NO  APPLICATION  FOR  A
+ MAJOR  CAPITAL  IMPROVEMENT RENT INCREASE SHALL BE APPROVED BY THE DIVI-
+ SION OF HOUSING AND COMMUNITY RENEWAL UNLESS THE OWNER OF  THE  PROPERTY
  HAS FILED ALL COPIES OF PERMITS PERTAINING TO THE MAJOR CAPITAL IMPROVE-
  MENT WORK WITH SUCH APPLICATION.  ANY APPLICATION SUBMITTED WITH FRAUDU-
  LENT PERMITS OR WITHOUT REQUIRED PERMITS SHALL BE DENIED; or
   § 2. Paragraph 6 of subdivision c of section 26-511 of the administra-
- tive code of the city of New York, as separately amended by  section  12
- of  part  K  of chapter 36 and section 28 of part Q of chapter 39 of the
+ tive  code  of the city of New York, as separately amended by section 12
+ of part K of chapter 36 and section 28 of part Q of chapter  39  of  the
  laws of 2019, is amended to read as follows:
-  (6) provides criteria whereby the commissioner may act  upon  applica-
- tions  by  owners  for  increases  in  excess  of the level of fair rent
- increase established under this law provided, however, that such  crite-
- ria  shall  provide  (a) as to hardship applications, for a finding that
+  (6)  provides  criteria whereby the commissioner may act upon applica-
+ tions by owners for increases in  excess  of  the  level  of  fair  rent
+ increase  established under this law provided, however, that such crite-
+ ria shall provide (a) as to hardship applications, for  a  finding  that
  the level of fair rent increase is not sufficient to enable the owner to
- maintain approximately the same average annual net income  (which  shall
- be  computed  without regard to debt service, financing costs or manage-
- ment fees) for the three year period ending on or within six  months  of
- the  date  of  an application pursuant to such criteria as compared with
- annual net income, which prevailed on the average over the period  nine-
- teen  hundred  sixty-eight  through nineteen hundred seventy, or for the
+ maintain  approximately  the same average annual net income (which shall
+ be computed without regard to debt service, financing costs  or  manage-
+ ment  fees)  for the three year period ending on or within six months of
+ the date of an application pursuant to such criteria  as  compared  with
+ annual  net income, which prevailed on the average over the period nine-
+ teen hundred sixty-eight through nineteen hundred seventy,  or  for  the
  first three years of operation if the building was completed since nine-
- teen hundred sixty-eight or for the first three  fiscal  years  after  a
+ teen  hundred  sixty-eight  or  for the first three fiscal years after a
  transfer of title to a new owner provided the new owner can establish to
- the  satisfaction  of  the commissioner that he or she acquired title to
- the building as a result of a bona fide sale of the entire building  and
- that  the new owner is unable to obtain requisite records for the fiscal
- years nineteen hundred  sixty-eight  through  nineteen  hundred  seventy
- despite  diligent  efforts to obtain same from predecessors in title and
- further provided that the new owner can provide financial data  covering
- a  minimum  of  six  years under his or her continuous and uninterrupted
- operation of the building to meet the three year to three  year  compar-
- ative  test  periods  herein provided; and (b) as to completed building-
- wide major capital improvements, for a finding  that  such  improvements
+ the satisfaction of the commissioner that he or she  acquired  title  to
+ the  building as a result of a bona fide sale of the entire building and
+ that the new owner is unable to obtain requisite records for the  fiscal
+ years  nineteen  hundred  sixty-eight  through  nineteen hundred seventy
+ despite diligent efforts to obtain same from predecessors in  title  and
+ further  provided that the new owner can provide financial data covering
+ a minimum of six years under his or  her  continuous  and  uninterrupted
+ operation  of  the building to meet the three year to three year compar-
+ ative test periods herein provided; and (b) as  to  completed  building-
+ wide  major  capital  improvements, for a finding that such improvements
  are deemed depreciable under the Internal Revenue Code and that the cost
- is  to  be amortized over a twelve-year period for a building with thir-
- ty-five or fewer housing accommodations, or a twelve  and  one-half-year
+ is to be amortized over a twelve-year period for a building  with  thir-
+ ty-five  or  fewer housing accommodations, or a twelve and one-half-year
  period for a building with more than thirty-five housing accommodations,
- for  any  determination  issued by the division of housing and community
+ for any determination issued by the division of  housing  and  community
  renewal after the effective date of the [the] chapter of the laws of two
- thousand nineteen that amended this paragraph and shall be removed  from
- the  legal regulated rent thirty years from the date the increase became
- effective inclusive of any increases  granted  by  the  applicable  rent
+ thousand  nineteen that amended this paragraph and shall be removed from
+ the legal regulated rent thirty years from the date the increase  became
+ effective  inclusive  of  any  increases  granted by the applicable rent
  guidelines board. Temporary major capital improvement increases shall be
- collectible  prospectively on the first day of the first month beginning
- sixty days from the date of mailing notice of approval  to  the  tenant.
- Such  notice  shall  disclose the total monthly increase in rent and the
- first month in which the tenant would be required to pay  the  temporary
+ collectible prospectively on the first day of the first month  beginning
+ sixty  days  from  the date of mailing notice of approval to the tenant.
+ Such notice shall disclose the total monthly increase in  rent  and  the
+ first  month  in which the tenant would be required to pay the temporary
  increase. An approval for a temporary major capital improvement increase
- shall  not  include retroactive payments. The collection of any increase
- shall not exceed two percent in any year from the effective date of  the
- order  granting  the increase over the rent set forth in the schedule of
- gross rents, with collectability of any dollar excess above said sum  to
+ shall not include retroactive payments. The collection of  any  increase
+ S. 2980--B  7
+ 
+ shall  not exceed two percent in any year from the effective date of the
+ order granting the increase over the rent set forth in the  schedule  of
+ gross  rents, with collectability of any dollar excess above said sum to
  be  spread forward in similar increments and added to the rent as estab-
  lished or set in future years.  Upon vacancy, the landlord may  add  any
- S. 2980--A  7
- 
  remaining balance of the temporary major capital improvement increase to
  the  legal  regulated  rent.  Notwithstanding any other provision of the
  law, for any renewal lease commencing on or after  June  14,  2019,  the
@@ -406,13 +410,13 @@ S T A T E  O F  N E W  Y O R K
  paragraph  over  a twelve-year period for a building with thirty-five or
  fewer housing accommodations, or a twelve  and  one-half  period  for  a
  building  with more than thirty-five housing accommodations and shall be
+ S. 2980--B  8
+ 
  removed from the legal regulated rent thirty years  from  the  date  the
  increase  became  effective  inclusive  of  any increases granted by the
  applicable rent guidelines board, for any determination  issued  by  the
  division  of  housing  and community renewal after the effective date of
  the chapter of the laws of two thousand nineteen that amended this para-
- S. 2980--A  8
-
  graph. Temporary major capital improvement increases shall be  collecta-
  ble  prospectively  on  the first day of the first month beginning sixty
  days from the date of mailing notice of approval to the  tenant.  Such
@@ -464,131 +468,131 @@ S T A T E  O F  N E W  Y O R K
  major  capital  improvement  increase  shall  not  include  retroactive
  payments. The collection of any increase shall not exceed two percent in
  any year from the effective date of the order granting the increase over
+ S. 2980--B  9
+ 
  the  rent  set forth in the schedule of gross rents, with collectability
  of any dollar excess above said sum to  be  spread  forward  in  similar
  increments  and added to the rent as established or set in future years.
- Upon vacancy, the landlord may add any remaining balance of  the  tempo-
- rary  major  capital  improvement  increase to the legal regulated rent.
- S. 2980--A  9
- 
- Notwithstanding any other provision of the law, for  any  renewal  lease
- commencing  on  or  after  June  14,  2019,  the  collection of any rent
- increases due to any major capital improvements  approved  on  or  after
- June  16,  2012 and before June 16, 2019 shall not exceed two percent in
- any year for any tenant in occupancy  on  the  date  the  major  capital
- improvement  was approved; provided, however, where an application for a
- temporary major capital improvement increase has been  filed,  a  tenant
+ Upon  vacancy,  the landlord may add any remaining balance of the tempo-
+ rary major capital improvement increase to  the  legal  regulated  rent.
+ Notwithstanding  any  other  provision of the law, for any renewal lease
+ commencing on or after  June  14,  2019,  the  collection  of  any  rent
+ increases  due  to  any  major capital improvements approved on or after
+ June 16, 2012 and before June 16, 2019 shall not exceed two  percent  in
+ any  year  for  any  tenant  in  occupancy on the date the major capital
+ improvement was approved; provided, however, where an application for  a
+ temporary  major  capital  improvement increase has been filed, a tenant
  shall have sixty days from the date of mailing of a notice of a proceed-
- ing  in  which  to  answer  or  reply. The state division of housing and
- community renewal shall provide any responding tenant with  the  reasons
- for  the  division's  approval  or denial of such application; PROVIDED,
- HOWEVER, NO APPLICATION FOR A MAJOR CAPITAL  IMPROVEMENT  RENT  INCREASE
- SHALL  BE  APPROVED  BY  THE  DIVISION  OF HOUSING AND COMMUNITY RENEWAL
- UNLESS THE OWNER OF  THE  PROPERTY  HAS  FILED  ALL  COPIES  OF  PERMITS
- PERTAINING  TO THE MAJOR CAPITAL IMPROVEMENT WORK WITH SUCH APPLICATION.
- ANY APPLICATION SUBMITTED WITH FRAUDULENT PERMITS  OR  WITHOUT  REQUIRED
+ ing in which to answer or reply.  The  state  division  of  housing  and
+ community  renewal  shall provide any responding tenant with the reasons
+ for the division's approval or denial  of  such  application;  PROVIDED,
+ HOWEVER,  NO  APPLICATION  FOR A MAJOR CAPITAL IMPROVEMENT RENT INCREASE
+ SHALL BE APPROVED BY THE  DIVISION  OF  HOUSING  AND  COMMUNITY  RENEWAL
+ UNLESS  THE  OWNER  OF  THE  PROPERTY  HAS  FILED  ALL COPIES OF PERMITS
+ PERTAINING TO THE MAJOR CAPITAL IMPROVEMENT WORK WITH SUCH  APPLICATION.
+ ANY  APPLICATION  SUBMITTED  WITH FRAUDULENT PERMITS OR WITHOUT REQUIRED
  PERMITS SHALL BE DENIED; or
-  §  5. This act shall take effect immediately; provided that the amend-
- ments to section 26-405 of the city rent and rehabilitation law made  by
- section  one  of  this act shall remain in full force and effect only as
- long as the public emergency requiring the  regulation  and  control  of
- residential  rents and evictions continues, as provided in subdivision 3
- of section 1 of the local emergency housing rent control act;  provided,
+  § 5. This act shall take effect immediately; provided that the  amend-
+ ments  to section 26-405 of the city rent and rehabilitation law made by
+ section one of this act shall remain in full force and  effect  only  as
+ long  as  the  public  emergency requiring the regulation and control of
+ residential rents and evictions continues, as provided in subdivision  3
+ of  section 1 of the local emergency housing rent control act; provided,
  further, that the amendments to section 26-511 of the rent stabilization
  law of nineteen hundred sixty-nine made by section two of this act shall
- expire  on  the  same  date as such law expires and shall not affect the
- expiration of such law as provided under section 26-520 of such law,  as
+ expire on the same date as such law expires and  shall  not  affect  the
+ expiration  of such law as provided under section 26-520 of such law, as
  from time to time amended.
  
   PART C
  
-  Section  1.  Subdivision  3  of section 302-a of the multiple dwelling
- law, as added by chapter 911 of the laws of 1965, is amended to read  as
+  Section 1. Subdivision 3 of section 302-a  of  the  multiple  dwelling
+ law,  as added by chapter 911 of the laws of 1965, is amended to read as
  follows:
-  3.  a. If (i) the official records of the department shall note that a
- rent impairing violation exists OR EXISTED  in  respect  to  a  multiple
+  3. a. If (i) the official records of the department shall note that  a
+ rent  impairing  violation  exists  OR  EXISTED in respect to a multiple
  dwelling and that notice of such violation has been given by the depart-
  ment, by mail, to the owner last registered with the department and (ii)
- such  note  of the violation [is] WAS not cancelled or removed of record
- within [six] THREE  months  after  the  date  of  such  notice  of  such
- violation,  then  for the period that such violation remains uncorrected
+ such note of the violation [is] WAS not cancelled or removed  of  record
+ within  [six]  THREE  months  after  the  date  of  such  notice of such
+ violation, then for the period that such violation  remains  uncorrected
  after the expiration of said [six] THREE months, no rent shall be recov-
- ered by any owner for any premises in such multiple dwelling used  by  a
- resident  thereof for human habitation in which the condition constitut-
+ ered  by  any owner for any premises in such multiple dwelling used by a
+ resident thereof for human habitation in which the condition  constitut-
  ing such rent impairing violation exists, provided, however, that if the
- violation is one that requires approval of plans by the  department  for
- the  corrective  work  and  if plans for such corrective work shall have
- been duly filed within [three months] ONE MONTH from the date of  notice
- of  such  violation  by the department to the owner last registered with
+ violation  is  one that requires approval of plans by the department for
+ the corrective work and if plans for such  corrective  work  shall  have
+ been  duly filed within [three months] ONE MONTH from the date of notice
+ of such violation by the department to the owner  last  registered  with
  the department, the [six-months] THREE MONTH period aforementioned shall
- not begin to run until the date that plans for the corrective  work  are
- approved  by  the department; if plans are not filed within said [three-
+ not  begin  to run until the date that plans for the corrective work are
+ S. 2980--B  10
+ 
+ approved by the department; if plans are not filed within  said  [three-
  months] ONE MONTH period or if so filed, they are disapproved and amend-
- ments are not duly filed within thirty days after the date of  notifica-
+ ments  are not duly filed within thirty days after the date of notifica-
  tion of the disapproval by the department to the person having filed the
  plans,  the  [six-months]  THREE MONTH period shall be computed as if no
- S. 2980--A  10
- 
  plans whatever had been filed under this proviso. If a condition consti-
  tuting a rent impairing violation exists  in  the  part  of  a  multiple
  dwelling  used  in  common  by  the  residents  or in the part under the
- control  of the owner thereof, the violation shall be deemed to exist in
+ control of the owner thereof, the violation shall be deemed to exist  in
  the respective premises of each resident of the multiple dwelling.
-  b. The provisions of subparagraph a shall not apply if (i) the  condi-
+  b.  The provisions of subparagraph a shall not apply if (i) the condi-
  tion referred to in the department's notice to the owner last registered
- with  the department did not in fact exist, notwithstanding the notation
- thereof in the records of the department; (ii) the  condition  which  is
+ with the department did not in fact exist, notwithstanding the  notation
+ thereof  in  the  records of the department; (ii) the condition which is
  the subject of the violation has in fact been corrected WITHIN THE THREE
- MONTH  PERIOD REQUIRED BY SUBPARAGRAPH A OF THIS SUBDIVISION, though the
- note thereof in the department has not been removed or cancelled;  (iii)
- the  violation  has been caused by the resident from whom rent is sought
- to be collected or by members of his family  or  by  his  guests  or  by
- another  resident  of the multiple dwelling or the members of the family
- of such other resident or by his guests, or (iv) the resident  proceeded
- against  for  rent  has  refused  entry  to the owner for the purpose of
+ MONTH PERIOD REQUIRED BY SUBPARAGRAPH A OF THIS SUBDIVISION, though  the
+ note  thereof in the department has not been removed or cancelled; (iii)
+ the violation has been caused by the resident from whom rent  is  sought
+ to  be  collected  or  by  members  of his family or by his guests or by
+ another resident of the multiple dwelling or the members of  the  family
+ of  such other resident or by his guests, or (iv) the resident proceeded
+ against for rent has refused entry to  the  owner  for  the  purpose  of
  correcting the condition giving rise to the violation.
-  c. To raise a defense under subparagraph a in any  action  to  recover
+  c.  To  raise  a defense under subparagraph a in any action to recover
  rent or in any special proceeding for the recovery of possession because
- of  non-payment of rent, the resident must affirmatively plead and prove
+ of non-payment of rent, the resident must affirmatively plead and  prove
  the material facts under subparagraph a[, and must also deposit with the
- clerk of the court in which the action or proceeding is pending  at  the
- time  of filing of the resident's answer the amount of rent sought to be
- recovered in  the  action  or  upon  which  the  proceeding  to  recover
- possession  is  based,  to be held by the clerk of the court until final
+ clerk  of  the court in which the action or proceeding is pending at the
+ time of filing of the resident's answer the amount of rent sought to  be
+ recovered  in  the  action  or  upon  which  the  proceeding  to recover
+ possession is based, to be held by the clerk of the  court  until  final
  disposition of the action or proceeding at which time the rent deposited
  shall be paid to the owner, if the owner prevails, or be returned to the
- resident if the resident prevails. Such deposit of  rent  shall  vitiate
- any  right  on  the  part  of the owner to terminate the lease or rental
+ resident  if  the  resident prevails. Such deposit of rent shall vitiate
+ any right on the part of the owner to  terminate  the  lease  or  rental
  agreement of the resident because of nonpayment of rent].
-  d. If a resident voluntarily pays rent or an installment of rent  when
+  d.  If a resident voluntarily pays rent or an installment of rent when
  he OR SHE would be privileged to withhold the same under subparagraph a,
- he  OR  SHE shall [not thereafter] have [any] A claim or cause of action
- to recover back the rent or installment of rent so paid.  A  voluntary
+ he OR SHE shall [not thereafter] have [any] A claim or cause  of  action
+ to  recover  back  the rent or installment of rent so paid.  A voluntary
  payment within the meaning hereof shall mean payment other than one made
  pursuant to a judgment in an action or special proceeding.
-  e.  [If  upon  the  trial of any action to recover rent or any special
+  e. [If upon the trial of any action to recover  rent  or  any  special
  proceeding for the recovery of possession because of non-payment of rent
- it shall appear that the  resident  has  raised  a  defense  under  this
- section  in  bad faith, or has caused the violation or has refused entry
- to the owner for the purpose of correcting the condition giving rise  to
- the  violation,  the court, in its discretion, may impose upon the resi-
+ it  shall  appear  that  the  resident  has  raised a defense under this
+ section in bad faith, or has caused the violation or has  refused  entry
+ to  the owner for the purpose of correcting the condition giving rise to
+ the violation, the court, in its discretion, may impose upon  the  resi-
  dent the reasonable costs of the owner, including counsel fees, in main-
  taining the action or proceeding not to exceed one hundred dollars.] THE
- DEPARTMENT SHALL NOTIFY THE RESIDENT AND OWNER  WHEN  A  RENT  IMPAIRING
- VIOLATION  HAS  BEEN  PLACED  IN THEIR APARTMENT. THE NOTIFICATION SHALL
- INCLUDE A LIST OF THE RENT IMPAIRING VIOLATIONS PLACED AND  AN  EXPLANA-
+ DEPARTMENT  SHALL  NOTIFY  THE  RESIDENT AND OWNER WHEN A RENT IMPAIRING
+ VIOLATION HAS BEEN PLACED IN THEIR  APARTMENT.  THE  NOTIFICATION  SHALL
+ INCLUDE  A  LIST OF THE RENT IMPAIRING VIOLATIONS PLACED AND AN EXPLANA-
  TION OF THE RESIDENT'S RIGHT TO RAISE THE RENT IMPAIRING VIOLATIONS AS A
- DEFENSE  IN  ANY ACTION TO RECOVER RENT OR IN ANY SPECIAL PROCEEDING FOR
+ DEFENSE IN ANY ACTION TO RECOVER RENT OR IN ANY SPECIAL  PROCEEDING  FOR
  THE RECOVERY OF POSSESSION BECAUSE OF NON-PAYMENT OF RENT.
-  § 2. Subdivisions 10 and 11  of  section  713  of  the  real  property
- actions and proceedings law, subdivision 10 as amended by chapter 467 of
- the  laws of 1981 and subdivision 11 as added by chapter 312 of the laws
- of 1962, are amended to read as follows:
- S. 2980--A  11
+ S. 2980--B  11
  
-  10. The person in possession has entered the property  or  remains  in
+  §  2.  Subdivisions  10  and  11  of  section 713 of the real property
+ actions and proceedings law, subdivision 10 as amended by chapter 467 of
+ the laws of 1981 and subdivision 11 as added by chapter 312 of the  laws
+ of 1962, are amended to read as follows:
+  10.  The  person  in possession has entered the property or remains in
  possession by force or unlawful means and he or SHE OR his OR HER prede-
- cessor  in  interest  was not in quiet possession for three years before
+ cessor in interest was not in quiet possession for  three  years  before
  the time of the forcible or unlawful entry or detainer and the petition-
  er  was  peaceably  in  actual possession at the time of the forcible or
  unlawful entry or in constructive possession at the time of the forcible
@@ -633,41 +637,46 @@ S T A T E  O F  N E W  Y O R K
  as provided in section seven hundred fifty-three of this article.
   § 4. This act shall take effect immediately and  shall  apply  to  all
  pending proceedings on and after such date.
-
+ 
   PART D
  
   Section  1.  Legislative  findings.  The  legislature hereby finds and
  declares that:
+ S. 2980--B  12
+ 
   (a) the pool of rent regulated apartments in New York  state  contains
  an unacceptably high number of apartments in which the current rents are
  based  on prior rents that exceeded the legal regulated rent at the time
  they were charged, but for which remedies were limited under the law  in
- S. 2980--A  12
- 
  effect  before  the  effective  date of the Housing Stability and Tenant
  Protection Act of 2019 (HSTPA);
-  (b)  it is public policy prospectively to reduce, insofar as possible,
- those rents to a level in line with what they would  have  been  in  the
+  (b) it is public policy prospectively to reduce, insofar as  possible,
+ those  rents  to  a  level in line with what they would have been in the
  absence of the unlawful rent setting and deregulations that were permit-
- ted  under  prior law to go unremedied, and therefore to impose the rent
- calculation standards of the HSTPA prospectively from the  date  of  its
- enactment,  including in cases where the pre-HSTPA rent has already been
+ ted under prior law to go unremedied, and therefore to impose  the  rent
+ calculation  standards  of  the HSTPA prospectively from the date of its
+ enactment, including in cases where the pre-HSTPA rent has already  been
  established by a court or administrative agency;
-  (c) the purpose of the prospective  application  of  the  penalty  and
- record  review  provisions  of  the  HSTPA  is  to prevent the perpetual
- collection of unlawful and inflated rents, and to encourage  the  volun-
- tary  registration  of any rent stabilized apartment for which any prior
- annual registration statement has not been filed, and to  encourage  the
+  (c)  the  purpose  of  the  prospective application of the penalty and
+ record review provisions of  the  HSTPA  is  to  prevent  the  perpetual
+ collection  of  unlawful and inflated rents, and to encourage the volun-
+ tary registration of any rent stabilized apartment for which  any  prior
+ annual  registration  statement has not been filed, and to encourage the
  voluntary recalculation of unreliable pre-HSTPA rents;
-  (d)  in  light  of  court decisions arising under the HSTPA, including
- REGINA METRO V. DHCR, it is public policy that  the  legislature  define
- clearly  the  prospective  reach  of  that law, and limit, to the extent
+  (d) in light of court decisions arising  under  the  HSTPA,  including
+ REGINA  METRO  V.  DHCR, it is public policy that the legislature define
+ clearly the prospective reach of that law,  and  limit,  to  the  extent
  required by the constitution, the retroactive reach of that law;
-  (e) despite REGINA, the scope of the fraud exception to the  pre-HSTPA
- four-year  rule  for calculating rents remains unsettled and the subject
- of litigation, and it is therefore public policy  that  the  legislature
- codify,  without  expanding or reducing the liability of landlords under
- pre-HSTPA law, the standard for applying that exception;
+  (e)  despite REGINA, the scope of the fraud exception to the pre-HSTPA
+ four-year rule for calculating rents remains unsettled and  the  subject
+ of  litigation,  and courts have diverged from the controlling authority
+ of THORNTON V. BARON and GRIMM V. DHCR to  impose  a  common  law  fraud
+ standard  that  is not found in these cases and is inconsistent with the
+ intent of the legislature to discourage and penalize fraud  against  the
+ rent  regulatory  system  itself, as well as against individual tenants,
+ and it is therefore public policy that the legislature  codify,  without
+ expanding  or  reducing  the liability of landlords under pre-HSTPA law,
+ the standard for applying that exception;
   (f) the New York state  division  of  housing  and  community  renewal
  (DHCR) misinterpreted the rent stabilization law for a significant peri-
  od  of  time with respect to the regulatory obligations arising from the
@@ -691,6 +700,8 @@ S T A T E  O F  N E W  Y O R K
  rent calculation formula that, insofar as possible,  derives  the  legal
  regulated  rents  for  apartments  from reliable registration statements
  served upon tenants and made available to the public; and
+ S. 2980--B  13
+ 
   (h) because pre-HSTPA law with respect to the maintenance by landlords
  of rent records was complex, and has an ongoing impact upon  the  calcu-
  lation  of post-HSTPA rents, it is necessary to codify the pre-HSTPA law
@@ -700,8 +711,6 @@ S T A T E  O F  N E W  Y O R K
   § 2. (a) The legal rent for all rent  stabilized  apartments  for  the
  period  from  July 1, 2019 and thereafter shall be determined in accord-
  ance with Part F of the HSTPA. Where the legal regulated rent for a rent
- S. 2980--A  13
- 
  stabilized apartment for the period prior to  June  14,  2019  has  been
  determined  by  any  court  or administrative agency, that determination
  shall not foreclose a recalculation of the post-HSTPA rent, except  that
@@ -717,7 +726,7 @@ S T A T E  O F  N E W  Y O R K
  er shall be determined in accordance with Part F of the HSTPA. The legal
  regulated  rent  for the portion of any overcharge claim involving rents
  paid prior to June 14, 2019 shall be  determined  under  pre-HSTPA  law,
- including the default formula in cases of fraud, as codified herein.
+ including the default formula in cases of fraud, as codified herein;
   (c)  Nothing  in  this  act,  or  the  HSTPA,  or  prior law, shall be
  construed as restricting, impeding or diminishing the use of records  of
  any  age  or  type,  going  back  to  any date that may be relevant, for
@@ -732,37 +741,40 @@ S T A T E  O F  N E W  Y O R K
  Nothing in this act shall be construed as limiting such exceptions or as
  limiting the application of any equitable doctrine that extends statutes
  of limitations generally. With respect to the calculation of legal rents
- for the period prior to June 14, 2019, an owner shall be deemed to  have
- committed  fraud  if the owner shall have committed a material breach of
- any duty, arising under statutory,  administrative  or  common  law,  to
- disclose  truthfully  to  any  tenant,  government agency or judicial or
- administrative tribunal, the rent, regulatory status, or lease  informa-
- tion,  for  purposes  of  claiming  an unlawful rent or claiming to have
- deregulated an apartment. The following conduct  shall  be  presumed  to
- have  been  the  product of such fraud: (1) the unlawful deregulation of
- any apartment, including such deregulation as results from  claiming  an
- unlawful  increase  such as would have brought the rent over the deregu-
- lation threshold that existed under prior law, unless the  landlord  can
- prove  good faith reliance on a directive or ruling by an administrative
- agency or court; or (2) beginning October 1, 2011, failing to  register,
- as  rent stabilized, any apartment in a building receiving J-51 or 421-a
- benefits;
-  (e) In accordance with the practice of the New York state division  of
- housing and community renewal prior to June 14, 2019, where fraud is not
- established,  base  rents  of apartments unlawfully deregulated shall be
- calculated as the average of rents for comparable rent stabilized apart-
- ments in the building, rather than the  default  formula  applicable  to
- cases involving fraud;
-  (f)  For  the  period  prior  to June 14, 2019, neither the version of
- subdivision g of section 26-516 of the administrative code of  the  city
- of  New  York  then  in effect, nor the version of section 2523.7 of the
- rent stabilization code  (9  NYCRR  2523.7)  then  in  effect  shall  be
- construed  as  permitting the destruction of rent records for units that
- S. 2980--A  14
+ for the period either prior to or subsequent to June 14, 2019, an  owner
+ shall  be deemed to have committed fraud if the owner shall have commit-
+ ted a material breach of any duty, arising under statutory,  administra-
+ tive  or  common  law,  to disclose truthfully to any tenant, government
+ agency or judicial or  administrative  tribunal,  the  rent,  regulatory
+ status,  or lease information, for purposes of claiming an unlawful rent
+ or claiming to have deregulated an apartment, whether or not the owner's
+ conduct would be considered fraud under the common law, and  whether  or
+ not a complaining tenant specifically relied on untruthful or misleading
+ statements  in  registrations, leases, or other documents. The following
+ conduct shall be presumed to have been the product of  such  fraud:  (1)
+ the  unlawful deregulation of any apartment, including such deregulation
+ as results from claiming an unlawful increase such as would have brought
+ the rent over the deregulation threshold that existed under  prior  law,
+ unless  the  landlord  can  prove  good faith reliance on a directive or
+ ruling by an administrative agency or court; or (2) beginning October 1,
+ S. 2980--B  14
  
- have not been properly and timely registered. Where  records  have  been
+ 2011, failing to register, as rent stabilized, any apartment in a build-
+ ing receiving J-51 or 421-a benefits;
+  (e)  In accordance with the practice of the New York state division of
+ housing and community renewal prior to June 14, 2019, where fraud is not
+ established, base rents of apartments unlawfully  deregulated  shall  be
+ calculated as the average of rents for comparable rent stabilized apart-
+ ments  in  the  building,  rather than the default formula applicable to
+ cases involving fraud;
+  (f) For the period prior to June 14,  2019,  neither  the  version  of
+ subdivision  g  of section 26-516 of the administrative code of the city
+ of New York then in effect, nor the version of  section  2523.7  of  the
+ rent  stabilization  code  (9  NYCRR  2523.7)  then  in  effect shall be
+ construed as permitting the destruction of rent records for  units  that
+ have  not  been  properly and timely registered. Where records have been
  permitted to be destroyed by virtue of proper registration, and no other
- law  required  the  maintenance of such records, and where the owner has
+ law required the maintenance of such records, and where  the  owner  has
  proven  that  such  records  were  actually destroyed in accordance with
  prior law and that such destruction took place prior to June  15,  2019,
  the  registration  served  and filed prior to such lawful destruction of
@@ -786,13 +798,104 @@ S T A T E  O F  N E W  Y O R K
  registered, the rent shall be calculated in accordance with the  default
  formula.
   § 3. This act shall take effect immediately.
+ 
+  PART E
+ 
+  Section  1. Subdivision e of section 26-517 of the administrative code
+ of the city of New York, as amended by chapter 253 of the laws of  1993,
+ is amended to read as follows:
+  e.  The  failure  to  file  a proper and timely initial or annual rent
+ registration statement shall, until such time as  such  registration  is
+ filed,  bar  an owner from applying for or collecting any rent in excess
+ of the legal regulated rent in effect on the date of the last  preceding
+ registration  statement  or  if  no such statements have been filed, the
+ legal regulated rent in effect on the date  that  the  housing  accommo-
+ dation  became subject to the registration requirements of this section.
+ The filing of a late registration shall result in the prospective elimi-
+ nation of such sanctions and provided that increases in the legal  regu-
+ lated rent were lawful except for the failure to file a timely registra-
+ tion,  the  owner,  upon  the service and filing of a late registration,
+ S. 2980--B  15
+ 
+ shall not be found to have collected an overcharge at any time prior  to
+ the filing of the late registration. [If such late registration is filed
+ subsequent  to the filing of an overcharge complaint, the owner shall be
+ assessed a late filing surcharge for each late registration in an amount
+ equal to fifty percent of the timely rent registration fee.] IN ADDITION
+ TO  ALL OTHER REQUIREMENTS SET FORTH IN THIS SUBDIVISION, IN THE EVENT A
+ TIMELY RENT REGISTRATION IS NOT FILED AND AFTER NOTICE  OF  SUCH  DELIN-
+ QUENCY  IS  PROVIDED  BY  THE  STATE  DIVISION  OF HOUSING AND COMMUNITY
+ RENEWAL TO THE OWNER IN THE FORM OF ELECTRONIC  MAIL  AND  MAIL  TO  THE
+ ADDRESS  LISTED  IN  THE OWNER'S MOST RECENT REGISTRATION STATEMENT, THE
+ OWNER SHALL BE SUBJECT TO A FINE OF FIVE HUNDRED  DOLLARS  PER  UNREGIS-
+ TERED  UNIT  FOR  EACH MONTH THE REGISTRATION IS DELINQUENT. SUCH A FINE
+ SHALL BE IMPOSED BY ORDER, AND SUCH  ORDER  IMPOSING  A  FINE  SHALL  BE
+ DEEMED  A  FINAL DETERMINATION FOR THE PURPOSES OF JUDICIAL REVIEW. SUCH
+ FINE MAY, UPON THE EXPIRATION OF THE PERIOD FOR SEEKING REVIEW  PURSUANT
+ TO ARTICLE SEVENTY-EIGHT OF THE CIVIL PRACTICE LAW AND RULES, BE DOCKET-
+ ED  AND ENFORCED IN THE MANNER OF A JUDGMENT OF THE SUPREME COURT BY THE
+ STATE DIVISION OF HOUSING AND COMMUNITY RENEWAL.
+  § 2. Subdivision e of section 12-a of section 4 of chapter 576 of  the
+ laws  of  1974 constituting the emergency tenant protection act of nine-
+ teen seventy-four, as amended by chapter 253 of the  laws  of  1993,  is
+ amended to read as follows:
+  e.  The  failure  to  file  a proper and timely initial or annual rent
+ registration statement shall, until such time as  such  registration  is
+ filed,  bar  an owner from applying for or collecting any rent in excess
+ of the legal regulated rent in effect on the date of the last  preceding
+ registration  statement  or  if  no such statements have been filed, the
+ legal regulated rent in effect on the date  that  the  housing  accommo-
+ dation  became subject to the registration requirements of this section.
+ The filing of a late registration shall result in the prospective elimi-
+ nation of such sanctions and provided that increases in the legal  regu-
+ lated rent were lawful except for the failure to file a timely registra-
+ tion,  the  owner,  upon  the service and filing of a late registration,
+ shall not be found to have collected an overcharge at any time prior  to
+ the filing of the late registration. [If such late registration is filed
+ subsequent  to the filing of an overcharge complaint, the owner shall be
+ assessed a late filing surcharge for each late registration in an amount
+ equal to fifty percent of the timely rent registration fee.] IN ADDITION
+ TO ALL OTHER REQUIREMENTS SET FORTH IN THIS SUBDIVISION, IN THE EVENT  A
+ TIMELY  RENT  REGISTRATION  IS NOT FILED AND AFTER NOTICE OF SUCH DELIN-
+ QUENCY IS PROVIDED BY THE DIVISION OF HOUSING AND COMMUNITY  RENEWAL  TO
+ THE  OWNER IN THE FORM OF ELECTRONIC MAIL AND MAIL TO THE ADDRESS LISTED
+ IN THE OWNER'S MOST RECENT REGISTRATION STATEMENT, THE  OWNER  SHALL  BE
+ SUBJECT TO A FINE OF FIVE HUNDRED DOLLARS PER UNREGISTERED UNIT FOR EACH
+ MONTH  THE  REGISTRATION  IS DELINQUENT. SUCH A FINE SHALL BE IMPOSED BY
+ ORDER, AND SUCH ORDER IMPOSING A FINE SHALL BE DEEMED A  FINAL  DETERMI-
+ NATION  FOR  THE  PURPOSES  OF  JUDICIAL REVIEW. SUCH FINE MAY, UPON THE
+ EXPIRATION OF THE PERIOD FOR SEEKING REVIEW PURSUANT TO  ARTICLE  SEVEN-
+ TY-EIGHT  OF  THE CIVIL PRACTICE LAW AND RULES, BE DOCKETED AND ENFORCED
+ IN THE MANNER OF A JUDGMENT OF THE SUPREME  COURT  BY  THE  DIVISION  OF
+ HOUSING AND COMMUNITY RENEWAL.
+  §  3. Subdivision 1 of section 14 of the public housing law is amended
+ by adding a new paragraph (x) to read as follows:
+  (X) ENFORCE THE EMERGENCY TENANT PROTECTION ACT OF  NINETEEN  SEVENTY-
+ FOUR,  THE EMERGENCY HOUSING RENT CONTROL LAW, THE LOCAL EMERGENCY HOUS-
+ ING RENT CONTROL ACT, THE RENT STABILIZATION LAW OF THE CITY OF NEW YORK
+ S. 2980--B  16
+ 
+ AND ANY REGULATIONS, RULES AND POLICIES  ENACTED  PURSUANT  THERETO,  IN
+ ADDITION TO ANY OTHER LAWS, RULES OR REGULATIONS RELATED TO HOUSING THAT
+ IS FINANCED, ADMINISTERED, OVERSEEN OR OTHERWISE REGULATED BY THE AGENCY
+ OR  ITS  RELATED  ENTITIES WHICH CONSTITUTE COMPONENT PARTS OF THE DIVI-
+ SION; SUCH ENFORCEMENT AUTHORITY SHALL INCLUDE, BUT NOT BE  LIMITED  TO,
+ ALL  OF  THE POWERS GRANTED BY THE OTHER PROVISIONS OF THIS SUBDIVISION,
+ THE STATUTES, RULES,  REGULATIONS  AND  OTHER  DOCUMENTS  GOVERNING  THE
+ ADMINISTRATION  OF  HOUSING  BY THE DIVISION, AND, WHERE APPLICABLE, THE
+ POWER TO ISSUE ORDERS.
+  § 4. This act shall take effect immediately, provided that the  amend-
+ ments  to  section 26-517 of chapter 4 of title 26 of the administrative
+ code of the city of New York made by  section  one  of  this  act  shall
+ expire  on  the  same  date as such law expires and shall not affect the
+ expiration of such law as provided under section 26-520 of such law.
   § 2. Severability. If any clause, sentence, paragraph, section or part
- of  this act shall be adjudged by any court of competent jurisdiction to
- be invalid and after exhaustion of  all  further  judicial  review,  the
- judgment  shall not affect, impair, or invalidate the remainder thereof,
- but shall be confined in its operation to the  clause,  sentence,  para-
- graph,  section or part of this act directly involved in the controversy
+ of this act shall be adjudged by any court of competent jurisdiction  to
+ be  invalid  and  after  exhaustion  of all further judicial review, the
+ judgment shall not affect, impair, or invalidate the remainder  thereof,
+ but  shall  be  confined in its operation to the clause, sentence, para-
+ graph, section or part of this act directly involved in the  controversy
  in which the judgment shall have been rendered.
-  § 3. This act shall take effect immediately  provided,  however,  that
- the  applicable effective date of Parts A through D of this act shall be
+  §  3.  This  act shall take effect immediately provided, however, that
+ the applicable effective date of Parts A through E of this act shall  be
  as specifically set forth in the last section of such Parts.
