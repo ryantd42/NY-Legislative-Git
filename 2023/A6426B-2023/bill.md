@@ -1,6 +1,6 @@
 # Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from New York Jesus Baptist Church
 
-**Bill ID:** A6426B
+**Bill ID:** A6426BA
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the county of Nassau assessor to accept an application for a real pro
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6426
+  6426--A
  
   2023-2024 Regular Sessions
  
@@ -26,39 +26,39 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. RA -- read once and referred to the Committee on
-  Real Property Taxation
+  Real Property Taxation -- committee discharged, bill amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT in relation to authorizing the town of North Hempstead, county of
-  Nassau assessor to accept an  application  for  a  real  property  tax
-  exemption from New York Jesus Baptist Church
-
+ AN  ACT  in  relation  to  authorizing  the county of Nassau assessor to
+  accept an application for a real property tax exemption from New  York
+  Jesus Baptist Church
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Notwithstanding any other provision of law to the contrary,
- the assessor of the town of North Hempstead, county of Nassau is  hereby
- authorized  to  accept from New York Jesus Baptist Church an application
- for exemption from real property taxes pursuant to section 420-a and 462
- of the real property tax law with respect to  the  2022-2023  assessment
- roll  for  all of the 2022-2023 school taxes and all of the 2023 general
- taxes for the parcel owned by such organization located  at  167  Willis
- Avenue,  village  of Mineola, town of North Hempstead, county of Nassau,
- otherwise known as Nassau county tax map  section  09,  block  411,  lot
- 06640.  If accepted, the application shall be reviewed as if it had been
- received on or before the  taxable  status  date  established  for  such
- assessment roll.
+ the assessor of the county of Nassau is hereby authorized to accept from
+ New York Jesus Baptist Church an application  for  exemption  from  real
+ property  taxes  pursuant  to section 420-a and 462 of the real property
+ tax law with respect to the 2022-2023 assessment roll  for  all  of  the
+ 2022-2023  school taxes and all of the 2023 general taxes for the parcel
+ owned by such organization located at  167  Willis  Avenue,  village  of
+ Mineola,  town  of North Hempstead, county of Nassau, otherwise known as
+ Nassau county tax map section 09, block 411, lot 06640. If accepted, the
+ application shall be reviewed as if it had been received  on  or  before
+ the taxable status date established for such assessment roll.
   If  satisfied  that  such  organization would otherwise be entitled to
  such exemption  if  such  organization  had  filed  an  application  for
- exemption  by  the  appropriate taxable status date, the assessor of the
- town of North Hempstead, upon  approval  by  the  North  Hempstead  town
- board,  may  make  appropriate  correction  to the subject roll. If such
- exemption is granted and such organization, therefore, shall  have  paid
- any  tax with respect to the subject roll, the applicable governing body
- or tax department may, in its sole discretion, provide for the refund of
- those taxes paid and cancel those  taxes,  fines,  penalties,  liens  or
- interest remaining unpaid.
+ exemption  by  the  appropriate  taxable status date, the assessor, upon
+ approval  by  the  Nassau  county  legislature,  may  make  appropriate
+ correction  to  the  subject roll. If such exemption is granted and such
+ organization, therefore, shall have paid any tax  with  respect  to  the
+ subject  roll,  the  applicable governing body or tax department may, in
+ its sole discretion, provide for the refund  of  those  taxes  paid  and
+ cancel  those  taxes,  fines,  penalties,  liens  or  interest remaining
+ unpaid.
   § 2. This act shall take effect immediately.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10661-01-3
+  LBD10661-03-3
