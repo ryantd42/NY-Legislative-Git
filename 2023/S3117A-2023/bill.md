@@ -1,6 +1,6 @@
 # Includes Lyme disease and other tick-borne diseases as occupational diseases for purposes of workers' compensation
 
-**Bill ID:** S3117A
+**Bill ID:** S3117AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Includes Lyme disease and other tick-borne diseases as occupational diseases for
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3117
+  3117--A
  
   2023-2024 Regular Sessions
  
@@ -26,38 +26,73 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Labor
+  printed to be  committed  to  the  Committee  on  Labor  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the workers' compensation law, in relation to  including
-  Lyme  disease  and  other tick-borne diseases as occupational diseases
-  for purposes of workers' compensation
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN  ACT to amend the workers' compensation law, in relation to including
+  Lyme disease and other tick-borne diseases  as  occupational  diseases
+  for purposes of workers' compensation; and to amend the insurance law,
+  in relation to coverage of long term medical care for Lyme disease and
+  other tick-borne diseases
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Paragraph 30 of subdivision 2 of section 3 of the workers'
- compensation law, as renumbered by chapter 665 of the laws of  1971,  is
- renumbered  paragraph  31  and  a  new  paragraph 30 is added to read as
+  Section 1. Paragraph 30 of subdivision 2 of section 3 of the  workers'
+ compensation  law,  as renumbered by chapter 665 of the laws of 1971, is
+ renumbered paragraph 31 and a new paragraph  30  is  added  to  read  as
  follows:
  30. LYME DISEASE AND OTHER  30. ANY PROCESS INVOLVING
  TICK-BORNE DISEASES.  OUTDOOR ACTIVITY OR
   TREATMENT OF ANIMALS.
-  § 2. The closing paragraph of subdivision 2 of section 3 of the  work-
+  §  2. The closing paragraph of subdivision 2 of section 3 of the work-
  ers' compensation law, as amended by chapter 666 of the laws of 1971, is
  amended to read as follows:
-  Nothing  in paragraph [thirty] THIRTY-ONE of this subdivision shall be
- construed to apply to  any  disability  or  death  due  to  any  disease
+  Nothing in paragraph [thirty] THIRTY-ONE of this subdivision shall  be
+ construed  to  apply  to  any  disability  or  death  due to any disease
  described in paragraph twenty-nine of this subdivision.
-  §  3. Subdivision 9 of section 201 of the workers' compensation law is
+  § 3. Subdivision 9 of section 201 of the workers' compensation law  is
  amended by adding a new paragraph C to read as follows:
-  C. "DISABILITY" ALSO INCLUDES DISABILITY CAUSED BY  OR  IN  CONNECTION
+  C.  "DISABILITY"  ALSO  INCLUDES DISABILITY CAUSED BY OR IN CONNECTION
  WITH LYME DISEASE AND OTHER TICK-BORNE DISEASES.
-  § 4. This act shall take effect on the one hundred twentieth day after
- it  shall have become a law. Effective immediately, the addition, amend-
- ment and/or repeal of any rules or regulations necessary for the  imple-
- mentation of this act on its effective date are authorized to be made on
- or before such effective date.
+  § 4. Subsection (i) of section 3216 of the insurance law is amended by
+ adding a new paragraph 39 to read as follows:
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01432-01-3
+  LBD01432-05-3
+ S. 3117--A  2
+ 
+  (39)  EVERY INSURER ISSUING A POLICY OF ACCIDENT AND HEALTH  INSURANCE
+ FOR  DELIVERY  IN THIS STATE SHALL PROVIDE  COVERAGE  FOR  ALL COSTS FOR
+ TREATMENT OF LYME DISEASE  (LYME  BORRELIOSIS)  AND  OTHER  TICK-BORNE
+ DISEASES.  SUCH  TREATMENT  MAY  INCLUDE INTRAVENOUS ANTIBIOTIC THERAPY,
+ ORAL  ANTIBIOTIC  THERAPY, OR ANY OTHER TREATMENT, OR ANY COMBINATION OF
+ TREATMENTS, PROVIDED  SUCH  TREATMENT  IS  RECOMMENDED  BY  A  PHYSICIAN
+ LICENSED TO PRACTICE MEDICINE IN THE STATE OF NEW YORK.
+  § 5. Subsection (k) of section 3221 of the insurance law is amended by
+ adding a new paragraph  23 to read as follows:
+  (23) EVERY GROUP OR BLANKET POLICY DELIVERED OR ISSUED FOR DELIVERY IN
+ THIS  STATE  WHICH PROVIDES HOSPITAL, SURGICAL OR MEDICAL COVERAGE SHALL
+ PROVIDE COVERAGE FOR ALL COSTS  FOR  TREATMENT  OF  LYME  DISEASE  (LYME
+ BORRELIOSIS)  AND  OTHER TICK-BORNE DISEASES. SUCH TREATMENT MAY INCLUDE
+ INTRAVENOUS ANTIBIOTIC THERAPY, ORAL ANTIBIOTIC THERAPY,  OR  ANY  OTHER
+ TREATMENT,  OR ANY COMBINATION OF TREATMENTS, PROVIDED SUCH TREATMENT IS
+ RECOMMENDED BY A PHYSICIAN LICENSED TO PRACTICE MEDICINE IN THE STATE OF
+ NEW YORK.
+  § 6. Section  4303  of  the insurance law is amended by adding  a  new
+ subsection (vv) to read as follows:
+  (VV)  EVERY  MEDICAL  EXPENSE  INDEMNITY CORPORATION, HOSPITAL SERVICE
+ CORPORATION AND HEALTH SERVICE CORPORATION WHICH PROVIDES  COVERAGE  FOR
+ MEDICAL,  SURGICAL  OR MAJOR MEDICAL CARE SHALL PROVIDE COVERAGE FOR ALL
+ COSTS FOR TREATMENT OF LYME DISEASE (LYME BORRELIOSIS) AND  OTHER  TICK-
+ BORNE DISEASES. SUCH TREATMENT MAY INCLUDE INTRAVENOUS ANTIBIOTIC THERA-
+ PY,  ORAL ANTIBIOTIC THERAPY, OR ANY OTHER TREATMENT, OR ANY COMBINATION
+ OF TREATMENTS, PROVIDED SUCH TREATMENT IS  RECOMMENDED  BY  A  PHYSICIAN
+ LICENSED TO PRACTICE MEDICINE IN THE STATE OF NEW YORK.
+  § 7. This act shall take effect on the one hundred twentieth day after
+ it  shall have become a law. Effective immediately, the addition, amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation of this act on its effective date are authorized to be  made  and
+ completed on or before such effective date.
