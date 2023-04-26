@@ -1,0 +1,63 @@
+# Relates to the installation of appliances or fixtures by tenants
+
+**Bill ID:** S6539
+**Session:** 2023
+**Sponsor:** Robert Jackson
+**Status:** In Senate Committee
+
+## Summary
+
+Prohibits landlords from restricting the installation of appliances or fixtures by tenants; provides that the landlord is not compelled to change utilities for such installation; prohibits surcharge where tenant pays utilities directly to provider.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6539
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  April 26, 2023
+  ___________
+ 
+ Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Judiciary
+ 
+ AN ACT to amend the real property law, in relation to  the  installation
+  of appliances or fixtures by tenants
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The real property law is amended by adding  a  new  section
+ 226-aa to read as follows:
+  §  226-AA.  INSTALLATION  OF  APPLIANCES  OR FIXTURES BY TENANT. 1. NO
+ LANDLORD SHALL RESTRICT THE INSTALLATION OF APPLIANCES OR FIXTURES BY  A
+ RESIDENTIAL TENANT, SO LONG AS THE APPLIANCES OR FIXTURES ARE IN COMPLI-
+ ANCE  WITH  APPLICABLE  BUILDING  CODES  OR  OTHER PROVISIONS OF LAW AND
+ FURTHER PROVIDED THE  RESIDENTIAL  TENANT  HAS  SOUGHT  IN  WRITING  AND
+ OBTAINED  WRITTEN  CONSENT  FROM THE LANDLORD FOR SUCH INSTALLATION. THE
+ LANDLORD SHALL RESPOND IN WRITING TO A RESIDENTIAL TENANT'S REQUEST  FOR
+ SUCH  RESIDENTIAL TENANT TO INSTALL APPLIANCES OR FIXTURES WITHIN THIRTY
+ DAYS OF SUCH REQUEST. ANY DENIAL OF A RESIDENTIAL  TENANT'S  REQUEST  TO
+ INSTALL  APPLIANCES  OR  FIXTURES  SHALL INCLUDE THE SPECIFIC REASON FOR
+ SUCH DENIAL AND REFERENCE THE  SPECIFIC  APPLICABLE  BUILDING  CODES  OR
+ OTHER  PROVISIONS  OF LAW WITH WHICH SUCH INSTALLATION IS NOT IN COMPLI-
+ ANCE.
+  2. NOTHING IN THIS SECTION SHALL  REQUIRE  A  LANDLORD  TO  ALTER  THE
+ UNIT'S  UTILITIES  FOR THE INSTALLATION OF ANY APPLIANCES OR FIXTURES BY
+ THE RESIDENTIAL TENANT.
+  3. THE IMPOSITION OF ANY SURCHARGE FOR THE INSTALLATION OR  USE  OF  A
+ RESIDENTIAL  TENANT-INSTALLED  APPLIANCE  OR FIXTURE IS PROHIBITED WHERE
+ THE RESIDENTIAL TENANT PAYS FOR THE APPLICABLE UTILITY SERVICE  DIRECTLY
+ TO THE PROVIDER.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09422-02-3
