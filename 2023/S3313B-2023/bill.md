@@ -1,6 +1,6 @@
 # Replaces the terms "mentally retarded", "mental retardation" and variants thereof with "developmentally disabled" and "developmental disability"
 
-**Bill ID:** S3313B
+**Bill ID:** S3313BA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Replaces the terms "mentally retarded", "mental retardation" and variants thereo
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3313
+  3313--A
  
   2023-2024 Regular Sessions
  
@@ -26,216 +26,28 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Disabilities
+  printed to be committed to the Committee on Disabilities --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the county law, the criminal procedure law, the legisla-
-  tive law, the mental hygiene law, the private housing finance law, the
-  public authorities law, the social services law and the New York state
-  medical care facilities finance agency act, in relation  to  replacing
-  the  terms "mentally retarded" and "mental retardation" with "develop-
+ AN  ACT  to  amend the legislative law, the private housing finance law,
+  the public authorities law and the New York state medical care facili-
+  ties finance agency act, in relation to replacing the terms  "mentally
+  retarded" and "mental retardation" and variants thereof with "develop-
   mentally disabled" and "developmental disability"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision 1 of section 707 of the county law, as added by
- chapter 1 of the laws of 1995, is amended to read as follows:
-  1.  Notwithstanding any other provision of law to the contrary, upon a
- finding in an ex parte proceeding that expert  services  are  reasonably
- necessary  for  the  prosecution  of the case whether in connection with
- issues relating to guilt or sentencing or  that  investigative  services
- relating  to  a  separate  sentencing proceeding or [mental retardation]
- DEVELOPMENTAL DISABILITY hearing pursuant to section 400.27 of the crim-
- inal procedure law are  reasonably  necessary,  the  trial  court  shall
- authorize  the  payment  of fees and expenses for such services.  Upon a
- finding that timely procurement of such services could  not  practicably
- await  prior  authorization,  the  court may authorize the provision and
- payment for such services nunc pro tunc.
-  § 2. Paragraph (b) of subdivision 9, paragraphs (a),  (b),  (c),  (d),
- (e)  and (f) of subdivision 12, paragraphs (a) and (c) of subdivision 13
- and the opening paragraph of paragraph (a) and paragraph (c) of subdivi-
- sion 14 of section 400.27 of the criminal procedure law,  paragraph  (b)
- of subdivision 9, paragraphs (a), (b), (c), (d), (e) and (f) of subdivi-
- sion 12 and paragraph (a) of subdivision 13 as added by chapter 1 of the
- laws  of 1995, paragraph (c) of subdivision 13 as amended by chapter 230
- of the laws of 2004 and the opening paragraph of paragraph (a) and para-
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD06636-02-3
- S. 3313  2
- 
- graph (c) of subdivision 14 as amended by section 9 of part LLL of chap-
- ter 59 of the laws of 2019, are amended to read as follows:
-  (b)  The defendant was [mentally retarded] A PERSON WITH DEVELOPMENTAL
- DISABILITIES at the time of the crime, or the defendant's mental capaci-
- ty was impaired or his ability to conform his conduct  to  the  require-
- ments  of  law  was  impaired  but  not so impaired in either case as to
- constitute a defense to prosecution;
-  (a) Upon the conviction of a defendant for the offense  of  murder  in
- the  first  degree  as  defined  in section 125.27 of the penal law, the
- court shall, upon oral or written motion of the defendant based  upon  a
- showing  that there is reasonable cause to believe that the defendant is
- [mentally retarded] A PERSON WITH DEVELOPMENTAL  DISABILITIES,  promptly
- conduct  a  hearing without a jury to determine whether the defendant is
- [mentally retarded] A PERSON WITH DEVELOPMENTAL DISABILITIES.  Upon  the
- consent  of  both  parties, such a hearing, or a portion thereof, may be
- conducted by the court contemporaneously with  the  separate  sentencing
- proceeding  in  the  presence  of the sentencing jury, which in no event
- shall be the trier of fact with respect to the hearing. At such  hearing
- the defendant has the burden of proof by a preponderance of the evidence
- that  he or she is [mentally retarded] A PERSON WITH DEVELOPMENTAL DISA-
- BILITIES. The court shall defer rendering any finding pursuant  to  this
- subdivision  as to whether the defendant is [mentally retarded] A PERSON
- WITH DEVELOPMENTAL DISABILITIES until a sentence is imposed pursuant  to
- this section.
-  (b)  In  the event the defendant is sentenced pursuant to this section
- to life imprisonment without parole or to a term of imprisonment for the
- class A-I felony of murder in the first degree other than a sentence  of
- life  imprisonment  without parole, the court shall not render a finding
- with respect to whether the defendant is [mentally  retarded]  A  PERSON
- WITH DEVELOPMENTAL DISABILITIES.
-  (c)  In  the event the defendant is sentenced pursuant to this section
- to death, the court shall thereupon render a  finding  with  respect  to
- whether the defendant is [mentally retarded] A PERSON WITH DEVELOPMENTAL
- DISABILITIES.  If the court finds the defendant is [mentally retarded] A
- PERSON WITH DEVELOPMENTAL DISABILITIES, the court shall  set  aside  the
- sentence of death and sentence the defendant either to life imprisonment
- without  parole or to a term of imprisonment for the class A-I felony of
- murder in the first degree other than a sentence  of  life  imprisonment
- without  parole.  If  the  court  finds  the  defendant is not [mentally
- retarded] A PERSON WITH DEVELOPMENTAL DISABILITIES, then  such  sentence
- of death shall not be set aside pursuant to this subdivision.
-  (d)  In the event that a defendant is convicted of murder in the first
- degree pursuant to subparagraph (iii) of paragraph  (a)  of  subdivision
- one  of  section 125.27 of the penal law, and the killing occurred while
- the defendant was confined or under  custody  in  a  state  correctional
- facility  or  local correctional institution, and a sentence of death is
- imposed, such sentence may not be set aside pursuant to this subdivision
- upon the ground that the defendant is [mentally retarded] A PERSON  WITH
- DEVELOPMENTAL  DISABILITIES.  Nothing in this paragraph or paragraph (a)
- of this subdivision shall preclude a defendant from presenting  mitigat-
- ing  evidence  of  [mental  retardation] DEVELOPMENTAL DISABILITY at the
- separate sentencing proceeding.
-  (e) The foregoing provisions of this subdivision notwithstanding, at a
- reasonable time prior to the commencement of trial  the  defendant  may,
- upon a written motion alleging reasonable cause to believe the defendant
- is  [mentally  retarded] A PERSON WITH DEVELOPMENTAL DISABILITIES, apply
- S. 3313  3
- 
- for an order directing that a [mental retardation]  DEVELOPMENTAL  DISA-
- BILITY  hearing  be  conducted  prior  to  trial. If, upon review of the
- defendant's motion and any response thereto, the court finds  reasonable
- cause  to  believe  the  defendant  is [mentally retarded] A PERSON WITH
- DEVELOPMENTAL DISABILITIES, it shall promptly conduct a hearing  without
- a  jury  to  determine  whether  the  defendant is [mentally retarded] A
- PERSON WITH DEVELOPMENTAL DISABILITIES. In the  event  the  court  finds
- after the hearing that the defendant is not [mentally retarded] A PERSON
- WITH  DEVELOPMENTAL  DISABILITIES, the court must, prior to commencement
- of trial, enter an order so stating, but nothing in this paragraph shall
- preclude a defendant from  presenting  mitigating  evidence  of  [mental
- retardation]  DEVELOPMENTAL DISABILITY at a separate sentencing proceed-
- ing. In the event the court finds after the hearing that the  defendant,
- based  upon  a  preponderance  of the evidence, is [mentally retarded] A
- PERSON  WITH  DEVELOPMENTAL  DISABILITIES,  the  court  must,  prior  to
- commencement  of  trial,  enter an order so stating. Unless the order is
- reversed on an appeal by the people or unless the  provisions  of  para-
- graph  (d)  of  this subdivision apply, a separate sentencing proceeding
- under this section shall not be conducted if the defendant is thereafter
- convicted of murder in  the  first  degree.  In  the  event  a  separate
- sentencing  proceeding is not conducted, the court, upon conviction of a
- defendant for the crime of murder in the first  degree,  shall  sentence
- the  defendant  to  life imprisonment without parole or to a sentence of
- imprisonment for the class A-I felony of  murder  in  the  first  degree
- other  than  a sentence of life imprisonment without parole.  Whenever a
- [mental retardation] DEVELOPMENTAL DISABILITY  hearing  is  held  and  a
- finding  is  rendered  pursuant  to  this  paragraph,  the court may not
- conduct a hearing pursuant to paragraph (a)  of  this  subdivision.  For
- purposes  of  this  subdivision and paragraph (b) of subdivision nine of
- this section, ["mental retardation"]  "DEVELOPMENTAL  DISABILITY"  means
- significantly  subaverage  general  intellectual  functioning  existing
- concurrently with deficits in adaptive behavior  which  were  manifested
- before the age of eighteen.
-  (f)  In  the event the court enters an order pursuant to paragraph (e)
- of this subdivision finding that the defendant is [mentally retarded]  A
- PERSON  WITH  DEVELOPMENTAL  DISABILITIES,  the  people may appeal as of
- right from the order pursuant to subdivision ten of  section  450.20  of
- this  chapter.  Upon  entering  such  an order the court must afford the
- people a reasonable period of time, which shall not  be  less  than  ten
- days, to determine whether to take an appeal from the order finding that
- the  defendant  is [mentally retarded] A PERSON WITH DEVELOPMENTAL DISA-
- BILITIES. The taking of an appeal by the people stays the  effectiveness
- of  the  court's order and any order fixing a date for trial. Within six
- months of the effective date of this subdivision, the court  of  appeals
- shall  adopt rules to ensure that appeals pursuant to this paragraph are
- expeditiously perfected, reviewed and determined so that pretrial delays
- are minimized. Prior to adoption of the  rules,  the  court  of  appeals
- shall  issue  proposed  rules  and receive written comments thereon from
- interested parties.
-  (a) As used in this subdivision, the term "psychiatric evidence" means
- evidence of mental disease,  defect  or  condition  in  connection  with
- either a mitigating factor defined in this section or a [mental retarda-
- tion]  DEVELOPMENTAL  DISABILITY  hearing pursuant to this section to be
- offered by a psychiatrist, psychologist or other person who has received
- training, or education, or has experience relating  to  the  identifica-
- S. 3313  4
- 
- tion,  diagnosis,  treatment  or  evaluation  of  mental disease, mental
- defect or mental condition.
-  (c)  When  a defendant serves notice pursuant to this subdivision, the
- district attorney may make application, upon notice  to  the  defendant,
- for  an order directing that the defendant submit to an examination by a
- psychiatrist, licensed psychologist, or licensed clinical social  worker
- designated  by  the  district  attorney,  for  the  purpose of rebutting
- evidence offered by the defendant with  respect  to  a  mental  disease,
- defect,  or  condition  in  connection  with  either a mitigating factor
- defined in this section, including  whether  the  defendant  was  acting
- under  duress,  was  mentally  or  emotionally  disturbed  or  [mentally
- retarded] WAS A PERSON WITH DEVELOPMENTAL DISABILITIES, or was under the
- influence of alcohol or any drug. If the  application  is  granted,  the
- district  attorney  shall schedule a time and place for the examination,
- which shall be recorded. Counsel for the people and the defendant  shall
- have  the  right  to  be present at the examination. A transcript of the
- examination shall be made available to the defendant  and  the  district
- attorney  promptly  after  its conclusion.  The district attorney shall
- promptly serve on the defendant a written copy of the findings and eval-
- uation of the examiner. If  the  court  finds  that  the  defendant  has
- wilfully  refused  to cooperate fully in an examination pursuant to this
- paragraph, it shall, upon request of the district attorney, instruct the
- jury that the defendant did not submit to or  cooperate  fully  in  such
- psychiatric examination. When a defendant is subjected to an examination
- pursuant  to  an  order  issued in accordance with this subdivision, any
- statement made by the defendant for the purpose of the examination shall
- be inadmissible in evidence  against  him  in  any  criminal  action  or
- proceeding  on  any issue other than that of whether a mitigating factor
- has been established or whether the defendant is [mentally  retarded]  A
- PERSON WITH DEVELOPMENTAL DISABILITIES, but such statement is admissible
- upon  such an issue whether or not it would otherwise be deemed a privi-
- leged communication.
-  At a reasonable time prior to the sentencing proceeding or  a  [mental
- retardation] DEVELOPMENTAL DISABILITY hearing:
-  (c)  If,  after  complying  with  the provisions of this section or an
- order pursuant thereto, a party finds either before or during a sentenc-
- ing proceeding or [mental retardation] DEVELOPMENTAL DISABILITY hearing,
- additional material subject to discovery or covered by court order,  the
- party shall promptly make disclosure or apply for a protective order.
-  §  3.  Subdivision 10 of section 450.20 of the criminal procedure law,
- as added by chapter 1 of the  laws  of  1995,  is  amended  to  read  as
- follows:
-  10.  An order, entered pursuant to paragraph (e) of subdivision twelve
- of section 400.27, finding that the defendant is [mentally  retarded]  A
- PERSON WITH DEVELOPMENTAL DISABILITIES.
-  §  4.  That portion of subdivision 1 of section 5-a of the legislative
- law entitled "ASSEMBLYMEN SERVING IN SPECIAL CAPACITY",  as  amended  by
- section  3  of  part XX of chapter 56 of the laws of 2009, is amended to
- read as follows:
+  Section 1.  That portion of subdivision 1 of section 5-a of the legis-
+ lative law  entitled  "ASSEMBLYMEN  SERVING  IN  SPECIAL  CAPACITY",  as
+ amended  by  section  3 of part XX of chapter 56 of the laws of 2009, is
+ amended to read as follows:
  
   ASSEMBLYMEN SERVING IN SPECIAL CAPACITY
-
+ 
  Chairman of assembly ways and means committee ................... 34,000
  Ranking minority member of assembly ways and means
- S. 3313  5
- 
   committee ...................................................... 20,500
  Chairman of assembly judiciary committee ........................ 18,000
  Ranking minority member of assembly judiciary
@@ -247,6 +59,12 @@ S T A T E  O F  N E W  Y O R K
  Ranking minority member of assembly banks committee .............. 9,500
  Chairman of assembly committee on cities ........................ 15,000
  Ranking minority member of assembly committee on cities .......... 9,500
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06636-03-3
+ S. 3313--A  2
+ 
  Chairman of assembly education committee ........................ 18,000
  Ranking minority member of assembly education committee ......... 11,000
  Chairman of assembly health committee ........................... 15,000
@@ -292,8 +110,6 @@ S T A T E  O F  N E W  Y O R K
   committee ....................................................... 9,000
  Chairman of assembly small business committee ................... 12,500
  Ranking minority member of assembly small business
- S. 3313  6
- 
   committee ....................................................... 9,000
  Chairman of assembly transportation committee ................... 15,000
  Ranking minority member of assembly transportation
@@ -304,6 +120,8 @@ S T A T E  O F  N E W  Y O R K
  Chairman of assembly aging committee ............................ 12,500
  Ranking minority member of assembly aging committee .............. 9,000
  Chairman of the assembly alcoholism and drug abuse
+ S. 3313--A  3
+ 
   committee ...................................................... 12,500
  Ranking minority member of the assembly
   alcoholism and drug abuse committee ............................. 9,000
@@ -343,15 +161,13 @@ S T A T E  O F  N E W  Y O R K
  Co-chairman of the administrative regulations review
   commission ..................................................... 12,500
  
-  § 5. Paragraph a of subdivision 1 of section 47-b of the private hous-
+  § 2. Paragraph a of subdivision 1 of section 47-b of the private hous-
  ing  finance  law,  as  amended  by  chapter 479 of the laws of 2022, is
  amended to read as follows:
   a. "Community mental health and developmental  disabilities  facility"
  shall  mean a building, a unit within a building, a laboratory, a class-
  room, a housing unit, a dining hall, an activities center, a library, or
  any structure on  or  improvement  to  real  property  of  any  kind  or
- S. 3313  7
- 
  description, including fixtures and equipment which are an integral part
  of such building, unit or structure or improvement, a walkway, a roadway
  or a parking lot and improvements and connections for water, sewer, gas,
@@ -362,35 +178,19 @@ S T A T E  O F  N E W  Y O R K
  provide  community  mental  health  services  in  accordance  with  the
  provisions of article forty-one of title E of the  mental  hygiene  law,
  which  is  utilized or to be utilized for the administration and conduct
+ S. 3313--A  4
+
  of programs for people living with either  mental  illness  or  develop-
  mental  disabilities,  or both, and for the provision of services there-
  for. A community mental health and [retardation] DEVELOPMENTAL DISABILI-
- TIES facility shall also mean and include a residential facility  to  be
- operated  as  a  community  residence  for  the mentally disabled, and a
- treatment facility for use in the conduct  of  an  alcoholism  treatment
- program  or  of  a  substance  abuse treatment program as defined in the
+ TIES  facility  shall also mean and include a residential facility to be
+ operated as a community residence  for  the  mentally  disabled,  and  a
+ treatment  facility  for  use  in the conduct of an alcoholism treatment
+ program or of a substance abuse treatment  program  as  defined  in  the
  mental hygiene law.
-  § 6. An undesignated paragraph of paragraph (b) of  subdivision  2  of
- section  1676  of the public authorities law, as added by chapter 433 of
+  §  3.  An  undesignated paragraph of paragraph (b) of subdivision 2 of
+ section 1676 of the public authorities law, as added by chapter  433  of
  the laws of 1988, is amended to read as follows:
-  New Hope  Community,  Inc.,  a  not-for-profit  corporation,  for  the
- financing,  construction  and  development  of  residences for [mentally
- retarded and developmentally disabled] adults WITH A DEVELOPMENTAL DISA-
- BILITY on forty acres of land  purchased  from  Leon  and  Dave  Scharf,
- d.b.a.  New Hope Rehabilitation Center, located on State Route 52 in the
- Town of Fallsburg, to replace existing residential  facilities  operated
- by New Hope Rehabilitation Center.
-  §  7.  An  undesignated paragraph of paragraph (b) of subdivision 2 of
- section 1676 of the public authorities law, as added by chapter  384  of
- the laws of 1998, is amended to read as follows:
-  Terence  Cardinal  Cooke  Health Care Center for the, financing, refi-
- nancing, construction, reconstruction, renovation, development, improve-
- ment, expansion, and equipping of facilities to  serve  aged,  disabled,
- AND  chronically  impaired, [mentally retarded and developmentally disa-
- bled persons] AND PERSONS WHO HAVE A DEVELOPMENTAL DISABILITY.
-  § 8. An undesignated paragraph of subdivision 1 of section 1680 of the
- public authorities law, as added by chapter 433 of the laws of 1988,  is
- amended to read as follows:
   New  Hope  Community,  Inc.,  a  not-for-profit  corporation,  for the
  financing, construction and  development  of  residences  for  [mentally
  retarded and developmentally disabled] adults WITH A DEVELOPMENTAL DISA-
@@ -398,77 +198,72 @@ S T A T E  O F  N E W  Y O R K
  d.b.a. New Hope Rehabilitation Center, located on State Route 52 in  the
  Town  of  Fallsburg, to replace existing residential facilities operated
  by New Hope Rehabilitation Center.
-  § 9. An undesignated paragraph of subdivision 1 of section 1680 of the
- public authorities law, as added by chapter 384 of the laws of 1998,  is
+  § 4. An undesignated paragraph of paragraph (b) of  subdivision  2  of
+ section  1676  of the public authorities law, as added by chapter 384 of
+ the laws of 1998, is amended to read as follows:
+  Terence Cardinal Cooke Health Care Center for the[,] financing,  refi-
+ nancing, construction, reconstruction, renovation, development, improve-
+ ment,  expansion,  and  equipping of facilities to serve aged, disabled,
+ AND chronically impaired, [mentally retarded and  developmentally  disa-
+ bled persons] AND PERSONS WHO HAVE A DEVELOPMENTAL DISABILITY.
+  § 5. An undesignated paragraph of subdivision 1 of section 1680 of the
+ public  authorities law, as added by chapter 433 of the laws of 1988, is
+ amended to read as follows:
+  New Hope  Community,  Inc.,  a  not-for-profit  corporation,  for  the
+ financing,  construction  and  development  of  residences for [mentally
+ retarded and developmentally disabled] adults WITH A DEVELOPMENTAL DISA-
+ BILITY on forty acres of land  purchased  from  Leon  and  Dave  Scharf,
+ d.b.a.  New Hope Rehabilitation Center, located on State Route 52 in the
+ Town of Fallsburg, to replace existing residential  facilities  operated
+ by New Hope Rehabilitation Center.
+  § 6. An undesignated paragraph of subdivision 1 of section 1680 of the
+ public  authorities law, as added by chapter 384 of the laws of 1998, is
  amended to read as follows:
   Terence Cardinal Cooke Health Care Center for the financing, refinanc-
  ing, construction, reconstruction, renovation, development, improvement,
- expansion,  and  equipping  of  facilities  to serve aged, disabled, AND
- chronically impaired, [mentally retarded  and  developmentally  disabled
+ expansion, and equipping of facilities  to  serve  aged,  disabled,  AND
+ chronically  impaired,  [mentally  retarded and developmentally disabled
  persons] AND PERSONS WHO HAVE A DEVELOPMENTAL DISABILITY.
- S. 3313  8
- 
-  §  10.  Paragraph  (e) of subdivision 6 of section 384-b of the social
- services law, as amended by chapter 691 of the laws of 1991, is  amended
- to read as follows:
-  (e)  In  every  proceeding upon a ground set forth in paragraph (c) of
- subdivision four the judge shall order the parent to be examined by, and
- shall take the testimony of, a qualified psychiatrist or a  psychologist
- licensed  pursuant  to  article one hundred fifty-three of the education
- law as defined in section 730.10 of the criminal procedure  law  in  the
- case  of a parent alleged to be mentally ill or [retarded] A PERSON WITH
- DEVELOPMENTAL DISABILITIES, such  psychologist  or  psychiatrist  to  be
- appointed  by the court pursuant to section thirty-five of the judiciary
- law. The parent and the authorized agency shall have the right to submit
- other psychiatric, psychological or  medical  evidence.  If  the  parent
- refuses  to  submit  to such court-ordered examination, or if the parent
- renders himself OR HERSELF unavailable therefor whether before or  after
- the initiation of a proceeding under this section, by departing from the
- state  or  by  concealing  himself  OR  HERSELF  therein,  the appointed
- psychologist or psychiatrist, upon the basis of other available informa-
- tion, including, but not limited to, agency, hospital or clinic records,
- may testify without an examination of such parent,  provided  that  such
- other information affords a reasonable basis for his OR HER opinion.
-  §  11. Paragraphs a and b of subdivision 7 of section 9-a of section 1
- of chapter 392 of the laws of 1973,  constituting  the  New  York  state
- medical  care  facilities  finance  agency  act, paragraph a as added by
+  § 7. Paragraphs a and b of subdivision 7 of section 9-a of  section  1
+ of  chapter  392  of  the  laws of 1973, constituting the New York state
+ medical care facilities finance agency act,  paragraph  a  as  added  by
  chapter 58 of the laws of 1987 and paragraph b as amended by chapter 506
  of the laws of 1997, are amended to read as follows:
-  a. The agency shall have the power to acquire by lease  or  deed  from
+  a.  The  agency  shall have the power to acquire by lease or deed from
  the facilities development corporation any real property acquired by the
- corporation  pursuant  to  the  provisions of subdivision six of section
- nine of the facilities development corporation act (i) for  the  purpose
+ corporation pursuant to the provisions of  subdivision  six  of  section
+ nine  of  the facilities development corporation act (i) for the purpose
  of constructing, reconstructing, rehabilitating or improving thereon one
  or more community mental health and [retardation] DEVELOPMENTAL DISABIL-
  ITIES facilities or (ii) for the purpose of financing or refinancing the
+ S. 3313--A  5
+ 
  acquisition, construction, reconstruction, rehabilitation or improvement
- thereon  of one or more community mental health and [retardation] DEVEL-
+ thereon of one or more community mental health and [retardation]  DEVEL-
  OPMENTAL DISABILITIES facilities, pursuant to the provisions of this act
- and the facilities development corporation act.  The agency  is  hereby
+ and  the  facilities  development corporation act.  The agency is hereby
  authorized to lease or sublease such real property and facilities there-
- on  to the corporation for the purpose of making the same available to a
- city or a county not wholly within a city,  for  use  and  occupancy  in
- accordance  with  the provisions of a lease, sublease or other agreement
+ on to the corporation for the purpose of making the same available to  a
+ city  or  a  county  not  wholly within a city, for use and occupancy in
+ accordance with the provisions of a lease, sublease or  other  agreement
  between the corporation and such city or county.
-  b. In the event that the agency shall fail, within  five  years  after
- the  date  of  a lease or conveyance of such real property from property
- from such city or county to the corporation, to construct,  reconstruct,
- rehabilitate  or  improve  the community mental health and [retardation]
- DEVELOPMENTAL DISABILITIES facility or facility thereon for  which  such
- lease  or  conveyance  was made, as provided for in a lease, sublease or
- other financing agreement entered into by such city or  county  and  the
- corporation,  then, subject to the terms of any lease, sublease or other
+  b.  In  the  event that the agency shall fail, within five years after
+ the date of a lease or conveyance of such real  property  from  property
+ from  such city or county to the corporation, to construct, reconstruct,
+ rehabilitate or improve the community mental  health  and  [retardation]
+ DEVELOPMENTAL  DISABILITIES  facility or facility thereon for which such
+ lease or conveyance was made, as provided for in a  lease,  sublease  or
+ other  financing  agreement  entered into by such city or county and the
+ corporation, then, subject to the terms of any lease, sublease or  other
  financing agreement undertaken by the agency, such real property and any
- facilities thereon shall revert to the corporation with right of  re-en-
- try  thereupon,  and  such  lease  or deed shall be made subject to such
- condition of reverter and re-entry. Provided, however, that as a  condi-
+ facilities  thereon shall revert to the corporation with right of re-en-
+ try thereupon, and such lease or deed shall  be  made  subject  to  such
+ condition  of reverter and re-entry. Provided, however, that as a condi-
  tion precedent to the exercise of such right of re-entry the corporation
  shall pay to the agency an amount equal to the sum of the purchase price
- S. 3313  9
- 
- of  such  real  property,  the  depreciated cost of any community mental
- health and [retardation] DEVELOPMENTAL DISABILITIES facility or  facili-
- ties  constructed,  reconstructed, rehabilitated or improved thereon and
+ of such real property, the depreciated  cost  of  any  community  mental
+ health  and [retardation] DEVELOPMENTAL DISABILITIES facility or facili-
+ ties constructed, reconstructed, rehabilitated or improved  thereon  and
  all  other costs of the agency incident to the acquisition of such lands
  and the financing of  construction,  reconstruction,  rehabilitation  or
  improvement  relating  to such community mental health and [retardation]
@@ -486,12 +281,12 @@ S T A T E  O F  N E W  Y O R K
  relating to such community mental health and [retardation] DEVELOPMENTAL
  DISABILITIES facility, all as provided in the aforesaid lease,  sublease
  or other financing agreement entered into with the corporation.
-  § 12. This act shall take effect immediately; provided, however, that:
+  § 8. This act shall take effect immediately; provided, however, that:
   (a)  the  amendments  to an undesignated paragraph of paragraph (b) of
  subdivision 2 of section 1676 of the  public  authorities  law  made  by
- section seven of this act shall not affect the expiration of such undes-
- ignated paragraph and shall be deemed repealed therewith; and
-  (b)  the  amendments  to an undesignated paragraph of subdivision 1 of
- section 1680 of the public authorities law made by section nine of  this
- act  shall  not affect the expiration of such undesignated paragraph and
- shall be deemed repealed therewith.
+ section  four  of  this act shall not affect the repeal of such undesig-
+ nated paragraph and shall be deemed repealed therewith; and
+  (b) the amendments to an undesignated paragraph of  subdivision  1  of
+ section  1680  of the public authorities law made by section six of this
+ act shall not affect the repeal of such undesignated paragraph and shall
+ be deemed repealed therewith.
