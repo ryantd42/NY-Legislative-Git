@@ -1,6 +1,6 @@
 # Modifies the allocation of revenue from the hotel and motel taxes in Chautauqua county and extends the authorization for such taxes; repealer
 
-**Bill ID:** A6581A
+**Bill ID:** A6581AA
 **Session:** 2023
 **Sponsor:** Andrew Goodell
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Modifies the allocation of revenue from the hotel and motel taxes in Chautauqua 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6581
+  6581--A
  
   2023-2024 Regular Sessions
  
@@ -26,47 +26,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. GOODELL -- read once and referred to the Commit-
-  tee on Ways and Means
+  tee on Ways and Means -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the tax law, in relation to allocation of  revenue  from
-  the  hotel  and motel taxes in Chautauqua county; to amend chapter 405
-  of the laws of 2007, amending  the  tax  law  relating  to  increasing
-  hotel/motel  taxes  in Chautauqua county, in relation to extending the
+ AN  ACT  to amend the tax law, in relation to allocation of revenue from
+  the hotel and motel taxes in Chautauqua county; to amend  chapter  405
+  of  the  laws  of  2007,  amending  the tax law relating to increasing
+  hotel/motel taxes in Chautauqua county, in relation to  extending  the
   expiration of such provisions; to repeal certain provisions of the tax
   law  relating  thereto;  and  providing  for  the  repeal  of  certain
   provisions upon expiration thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision 9 of  section  1202-j  of  the  tax  law,  such
+  Section  1.  Subdivision  9  of  section  1202-j  of the tax law, such
  section as added by chapter 366 of the laws of 1989, is REPEALED.
-  §  2.  Section  1202-j  of the tax law, as added by chapter 366 of the
- laws of 1989, is amended by adding  a  new  subdivision  9  to  read  as
+  § 2. Section 1202-j of the tax law, as added by  chapter  366  of  the
+ laws  of  1989,  is  amended  by  adding  a new subdivision 9 to read as
  follows:
-  (9)  ALL  REVENUES  RESULTING FROM THE IMPOSITION OF THE TAX UNDER THE
- LOCAL LAWS SHALL BE PAID INTO THE TREASURY OF THE COUNTY  OF  CHAUTAUQUA
- TO  BENEFIT  TOURISM,  RECREATION, AND RELATED ECONOMIC DEVELOPMENT. THE
- REVENUE DERIVED FROM SUCH TAX, AFTER DEDUCTING THE AMOUNT  PROVIDED  FOR
- ADMINISTERING  SUCH TAX AND SUCH PROGRAMS AS SO AUTHORIZED BY LOCAL LAW,
+  (9) ALL REVENUES RESULTING FROM THE IMPOSITION OF THE  TAX  UNDER  THE
+ LOCAL  LAWS  SHALL BE PAID INTO THE TREASURY OF THE COUNTY OF CHAUTAUQUA
+ TO BENEFIT TOURISM, RECREATION, AND RELATED  ECONOMIC  DEVELOPMENT.  THE
+ REVENUE  DERIVED  FROM SUCH TAX, AFTER DEDUCTING THE AMOUNT PROVIDED FOR
+ ADMINISTERING SUCH TAX AND SUCH PROGRAMS AS SO AUTHORIZED BY LOCAL  LAW,
  SHALL BE ALLOCATED AS FOLLOWS:
   A. THREE-FIFTHS OF SUCH REVENUES SHALL BE CREDITED TO AND DEPOSITED IN
  A SPECIAL TOURISM AND CONVENTION FUND, THEREAFTER TO BE ALLOCATED BY THE
  COUNTY GOVERNMENT OF CHAUTAUQUA COUNTY THROUGH THE COUNTY BUDGET PROCESS
  SOLELY FOR THE PURPOSES OF ENHANCING AND PROMOTING TOURISM, CONVENTIONS,
- TRADE SHOWS, SPECIAL EVENTS AND OTHER DIRECTLY  RELATED  AND  SUPPORTING
- ACTIVITIES  INCLUDING,  BUT  NOT  LIMITED  TO,  PROGRAMS  TO IMPROVE THE
- AESTHETIC QUALITIES OF THE COUNTY; TO IMPROVE INFRASTRUCTURE RELATED  TO
- TOURISM,  CONVENTIONS  AND TRADE SHOWS; TO DEVELOP, OPERATE AND MAINTAIN
- PARKS, RECREATIONAL FACILITIES AND TOURIST ATTRACTIONS; AND  SUCH  OTHER
+ TRADE  SHOWS,  SPECIAL  EVENTS AND OTHER DIRECTLY RELATED AND SUPPORTING
+ ACTIVITIES INCLUDING, BUT  NOT  LIMITED  TO,  PROGRAMS  TO  IMPROVE  THE
+ AESTHETIC  QUALITIES OF THE COUNTY; TO IMPROVE INFRASTRUCTURE RELATED TO
+ TOURISM, CONVENTIONS AND TRADE SHOWS; TO DEVELOP, OPERATE  AND  MAINTAIN
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10726-02-3
- A. 6581  2
+  LBD10726-03-3
+ A. 6581--A  2
  
- PROGRAMS  AS  AUTHORIZED  BY LOCAL LAW; PROVIDED, HOWEVER, THAT AT LEAST
- ONE-HALF OF SUCH AMOUNT SHALL BE  ALLOCATED  FOR  THE  OFFICIAL  TOURISM
+ PARKS,  RECREATIONAL  FACILITIES AND TOURIST ATTRACTIONS; AND SUCH OTHER
+ PROGRAMS AS AUTHORIZED BY LOCAL LAW; PROVIDED, HOWEVER,  THAT  AT  LEAST
+ ONE-HALF  OF  SUCH  AMOUNT  SHALL  BE ALLOCATED FOR THE OFFICIAL TOURISM
  PROMOTION AGENCY OF THE COUNTY FOR MARKETING, ADVERTISING, AND PROMOTING
  THE COUNTY.
   B.  ANY  AMOUNT OF REVENUES DERIVED FROM SUCH TAX OVER THREE-FIFTHS OF
@@ -119,19 +120,19 @@ S T A T E  O F  N E W  Y O R K
  ATE AND MAINTAIN PARKS, RECREATIONAL FACILITIES AND TOURIST ATTRACTIONS;
  AND SUCH OTHER PROGRAMS AS AUTHORIZED BY  LOCAL  LAW.  SUCH  LOCAL  LAWS
  SHALL  PROVIDE  THAT  THE  COUNTY  SHALL BE AUTHORIZED TO RETAIN UP TO A
+ A. 6581--A  3
+
  MAXIMUM OF TEN PERCENT OF SUCH REVENUE TO DEFER THE  NECESSARY  EXPENSES
  OF THE COUNTY IN ADMINISTERING SUCH TAX.
- A. 6581  3
- 
   §  4.  Section  2 of chapter 405 of the laws of 2007, amending the tax
  law relating to increasing hotel/motel taxes in  Chautauqua  county,  as
  amended by section 1 of item B of subpart D of part XXX of chapter 58 of
  the laws of 2020, is amended to read as follows:
   §  2. This act shall take effect December 1, 2007 and shall expire and
- be deemed repealed November 30, [2023] 2026.
+ be deemed repealed November 30, [2023] 2025.
   § 5. This act shall take effect immediately;  provided  however,  that
  the  provisions  of  sections  one and two of this act shall take effect
  December 1, 2023; provided further,  however,  that  the  provisions  of
  section two of this act shall expire and be deemed repealed November 30,
- 2026,  when  upon  such date the provisions of section three of this act
+ 2025,  when  upon  such date the provisions of section three of this act
  shall take effect.
