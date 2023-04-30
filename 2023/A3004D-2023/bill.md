@@ -1,6 +1,6 @@
 # CAPITAL PROJECTS BUDGET
 
-**Bill ID:** A3004DC
+**Bill ID:** A3004DD
 **Session:** 2023
 **Sponsor:** Unknown
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Makes appropriations for the support of government - Capital Projects Budget.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  S. 4004--C  A. 3004--C
+  S. 4004--D  A. 3004--D
  
   S E N A T E - A S S E M B L Y
  
@@ -30,42 +30,45 @@ S T A T E  O F  N E W  Y O R K
   to said committee  --  committee  discharged,  bill  amended,  ordered
   reprinted  as  amended  and recommitted to said committee -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- IN ASSEMBLY -- A BUDGET BILL, submitted  by  the  Governor  pursuant  to
-  article  seven  of  the  Constitution -- read once and referred to the
-  Committee on Ways and Means --  committee  discharged,  bill  amended,
-  ordered  reprinted  as  amended  and  recommitted to said committee --
-  again reported from said committee with amendments, ordered  reprinted
-  as  amended  and  recommitted to said committee -- again reported from
-  said committee with  amendments,  ordered  reprinted  as  amended  and
-  recommitted to said committee
+ IN  ASSEMBLY  --  A  BUDGET  BILL, submitted by the Governor pursuant to
+  article seven of the Constitution -- read once  and  referred  to  the
+  Committee  on  Ways  and  Means -- committee discharged, bill amended,
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  again  reported from said committee with amendments, ordered reprinted
+  as amended and recommitted to said committee --  again  reported  from
+  said  committee  with  amendments,  ordered  reprinted  as amended and
+  recommitted to said committee -- again reported  from  said  committee
+  with  amendments, ordered reprinted as amended and recommitted to said
+  committee
  
  AN ACT making appropriations for the support of government
  
   CAPITAL PROJECTS BUDGET
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. a) The several amounts specified in this chapter for  capi-
+  Section  1. a) The several amounts specified in this chapter for capi-
  tal projects, or so much thereof as shall be necessary to accomplish the
  purpose  of  the  appropriations,  are  appropriated  by  comprehensive
  construction programs (hereinafter referred to by the abbreviation CCP),
- purposes, and projects designated by the appropriations, and  authorized
- to  be  made  available as hereinafter provided to the respective public
- officers; such appropriations shall  be  deemed  to  provide  all  costs
- necessary  and  pertinent to accomplish the intent of the appropriations
- and are appropriated in accordance with the provisions of section 93  of
- the state finance law.
-  b)  Any  amounts  specified  in  this chapter for advances for capital
- projects, or so much thereof as shall be  necessary  to  accomplish  the
+ purposes,  and projects designated by the appropriations, and authorized
+ to be made available as hereinafter provided to  the  respective  public
+ officers;  such  appropriations  shall  be  deemed  to provide all costs
+ necessary and pertinent to accomplish the intent of  the  appropriations
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD12554-07-3
-  2  12554-07-3
+  LBD12554-08-3
+  2  12554-08-3
  
+ and  are appropriated in accordance with the provisions of section 93 of
+ the state finance law.
+  b)  Any  amounts  specified  in  this chapter for advances for capital
+ projects, or so much thereof as shall be  necessary  to  accomplish  the
  purpose  of  the  appropriations,  are  appropriated  by  comprehensive
  construction programs (hereinafter referred to by the abbreviation CCP),
  purposes and projects designated by the appropriations as advances  from
@@ -104,10 +107,10 @@ S T A T E  O F  N E W  Y O R K
  the chairperson of the assembly ways and means committee.
   e) The appropriations contained in this chapter shall be available for
  the fiscal year beginning on April 1, 2023 except as otherwise noted.
-  3  12554-07-3
+  3  12554-08-3
  
   ADIRONDACK PARK AGENCY
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   APPROPRIATIONS  REAPPROPRIATIONS
@@ -159,12 +162,12 @@ S T A T E  O F  N E W  Y O R K
   ties, including personal service and payment of liabilities incurred
   prior to April 1, 2010 (13GI1003) (81010) ..........................
   500,000 ............................................. (re. $500,000)
-  4  12554-07-3
+  4  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
   CAPITAL PROJECTS  2023-24
-
+ 
  For the comprehensive construction programs,
   purposes  and projects as herein specified
   in accordance with the following:
@@ -217,7 +220,7 @@ S T A T E  O F  N E W  Y O R K
   palities  with  a  population of more than
   two million, for  such  pounds,  shelters,
   humane  societies,  or  rescue facilities,
-  5  12554-07-3
+  5  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -274,10 +277,10 @@ S T A T E  O F  N E W  Y O R K
   projects  for alterations, rehabilitation,
   and improvements at the  New  York  feder-
   ation  of growers and processors agribusi-
-  6  12554-07-3
+  6  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
-
+ 
   CAPITAL PROJECTS  2023-24
  
   ness child development centers  (60AB2307)
@@ -332,8 +335,8 @@ S T A T E  O F  N E W  Y O R K
  For payment of the costs including  personal
   services,  nonpersonal  services,  fringe
   benefits and  indirect  costs,  of  alter-
-  7  12554-07-3
- 
+  7  12554-08-3
+
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
   CAPITAL PROJECTS  2023-24
@@ -359,10 +362,10 @@ S T A T E  O F  N E W  Y O R K
   tion of various facilities, including  the
   payment  of  liabilities incurred prior to
   April 1, 2023 (60RI2303) (11493) ............. 2,000,000
-  8  12554-07-3
+  8  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  NEW FACILITIES PURPOSE (CCP)
@@ -417,7 +420,7 @@ S T A T E  O F  N E W  Y O R K
   commissioner  on  a  competitive  basis  until such funds are extin-
   guished as follows: (a) In municipalities with a population of  less
   than two million, for such pounds, shelters or humane societies that
-  9  12554-07-3
+  9  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -474,7 +477,7 @@ S T A T E  O F  N E W  Y O R K
   5,000,000 ......................................... (re. $5,000,000)
   For  services  and  expenses of GrowNYC related to the Bronx Food Hub.
   All or a portion of the funds appropriated hereby  may  be  suballo-
-  10  12554-07-3
+  10  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -532,7 +535,7 @@ S T A T E  O F  N E W  Y O R K
   facilities  and  signage;  or  for  the costs of construction, reno-
   vation,  alteration,  rehabilitation,  improvements,  installation,
   acquisition,  repair  or  replacement  of  water systems, restrooms,
-  11  12554-07-3
+  11  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -590,7 +593,7 @@ S T A T E  O F  N E W  Y O R K
   vation,  alteration,  rehabilitation,  improvements,  installation,
   acquisition,  repair  or  replacement  of  water systems, restrooms,
   septic systems, and/or storm water management systems on fairgrounds
-  12  12554-07-3
+  12  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -634,7 +637,7 @@ S T A T E  O F  N E W  Y O R K
   relation to these grants, including personal  service,  non-personal
   service,  fringe  benefits,  and  indirect  costs (60AS1807) (11433)
   5,000,000 ......................................... (re. $3,072,000)
-
+ 
  By chapter 54, section 1, of the laws of 2017:
   For payment to agricultural or horticultural corporations  and  county
   extension  service associations that are eligible to receive premium
@@ -648,7 +651,7 @@ S T A T E  O F  N E W  Y O R K
   horticultural  corporations  or  county extension services on a non-
   competitive basis until such funds are exhausted (60LF1707)  (11414)
   ... 5,000,000 ..................................... (re. $2,151,000)
-  13  12554-07-3
+  13  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -706,8 +709,8 @@ S T A T E  O F  N E W  Y O R K
   section 3, of the laws of 2006:
   For services and expenses related to the Fredonia Vineyard  Laboratory
   (60030607) (11491) ... 2,000,000 ..................... (re. $28,000)
-  14  12554-07-3
- 
+  14  12554-08-3
+
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -764,7 +767,7 @@ S T A T E  O F  N E W  Y O R K
   (11420) ... 600,000 ................................. (re. $577,000)
   For services and expenses related to the purchase  or  replacement  of
   laboratory equipment (60ES19AS) (11421) ... 115,000 .. (re. $34,000)
-  15  12554-07-3
+  15  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -814,14 +817,14 @@ S T A T E  O F  N E W  Y O R K
   portion of the funds appropriated  hereby  may  be  suballocated  or
   transferred to any department, agency or public authority (60NY2003)
   (10300) ... 15,000,000 ........................... (re. $10,770,000)
- 
+
  By chapter 54, section 1, of the laws of 2019:
   For  services  and  expenses  related to New York Works Infrastructure
   projects for alterations,  rehabilitation,  improvements,  and  land
   acquisition  at  the  state fair, including personal service and the
   payment of liabilities incurred prior to April 1,  2019.  All  or  a
   portion  of  the  funds  appropriated  hereby may be suballocated or
-  16  12554-07-3
+  16  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -879,7 +882,7 @@ S T A T E  O F  N E W  Y O R K
   For payment of the  costs  including  personal  services,  nonpersonal
   services,  fringe benefits and indirect costs, of alterations, reha-
   bilitation  and  improvements  including  preventive  maintenance,
-  17  12554-07-3
+  17  12554-08-3
  
   DEPARTMENT OF AGRICULTURE AND MARKETS
  
@@ -904,7 +907,7 @@ S T A T E  O F  N E W  Y O R K
   replacement, refurbishment and energy conservation of various facil-
   ities, including the payment of liabilities incurred prior to  April
   1, 2019 (60RI1903) (11493) ... 2,000,000 .......... (re. $2,000,000)
-  18  12554-07-3
+  18  12554-08-3
  
   COUNCIL ON ARTS
  
@@ -931,7 +934,7 @@ S T A T E  O F  N E W  Y O R K
   For  construction  and  rehabilitation  projects for Regional Arts and
   Cultural Councils outside of New York City  (61RA2208)  (12125)  ...
   10,000,000 ....................................... (re. $10,000,000)
-  19  12554-07-3
+  19  12554-08-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -940,7 +943,7 @@ S T A T E  O F  N E W  Y O R K
  For  the comprehensive construction programs, purposes and
   projects as herein  specified  in  accordance  with  the
   following:
-
+ 
   APPROPRIATIONS  REAPPROPRIATIONS
  
   Capital Projects Funds - Other .....  2,836,000  35,851,000
@@ -950,7 +953,7 @@ S T A T E  O F  N E W  Y O R K
  
  IT INITIATIVE PROGRAM (CCP) .................................. 2,836,000
   --------------
- 
+
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Program Improvement/Change Purpose
@@ -959,7 +962,7 @@ S T A T E  O F  N E W  Y O R K
   acquisition and development of technology,
   including but not  limited  to  equipment,
   software and services (OS012308) (51919) ..... 2,836,000
-  20  12554-07-3
+  20  12554-08-3
  
   DEPARTMENT OF AUDIT AND CONTROL
  
@@ -980,7 +983,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and expenses related to the acquisition and development
   of technology, including but not limited to equipment, software  and
   services (OS012008) (51919) ... 10,100,000 ........ (re. $8,916,000)
-  21  12554-07-3
+  21  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -993,12 +996,12 @@ S T A T E  O F  N E W  Y O R K
   following:
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   Capital Projects Funds - Other......  1,077,721,000  3,436,964,000
   ----------------  ----------------
   All Funds ........................  1,077,721,000  3,436,964,000
   ================  ================
-
+ 
  GENERAL MAINTENANCE AND IMPROVEMENTS (CCP) ................. 384,222,000
   --------------
  
@@ -1038,7 +1041,7 @@ S T A T E  O F  N E W  Y O R K
   not be limited to, projects in the follow-
   ing schedule.  Notwithstanding  any  other
   law  to  the contrary, all or a portion of
-  22  12554-07-3
+  22  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1050,7 +1053,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated  or transferred to the dormi-
   tory  authority  of  the state of New York
   for such purpose (30032303) (15420) ........ 384,222,000
- 
+
   Project Schedule
  PROJECT  AMOUNT
  ----------------------------------------------------------
@@ -1096,7 +1099,7 @@ S T A T E  O F  N E W  Y O R K
   various facilities ............................. 2,838
  For university-wide maintenance or
   capital improvement costs at senior
-  23  12554-07-3
+  23  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1154,8 +1157,8 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total .......................................  384,222
   --------------
-  24  12554-07-3
-
+  24  12554-08-3
+ 
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
   SENIOR COLLEGES
@@ -1212,7 +1215,7 @@ S T A T E  O F  N E W  Y O R K
   subject  to a plan developed and submitted
   annually by the  city  university  of  New
   York  and  approved by the director of the
-  25  12554-07-3
+  25  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1252,7 +1255,7 @@ S T A T E  O F  N E W  Y O R K
   university of New York which are appropri-
   ated by the state and otherwise authorized
   by law (30CF2350) (40800) ................... 16,782,000
-  26  12554-07-3
+  26  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1266,7 +1269,7 @@ S T A T E  O F  N E W  Y O R K
  
  GENERAL MAINTENANCE AND IMPROVEMENTS (CCP) ................. 119,667,000
   --------------
- 
+
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Preservation of Facilities Purpose
@@ -1293,7 +1296,7 @@ S T A T E  O F  N E W  Y O R K
   located  or  transferred  to the dormitory
   authority of the state  of  New  York  for
   such purpose (30CC2303) (81067) ............ 119,667,000
-  27  12554-07-3
+  27  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1351,7 +1354,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide maintenance to
   various facilities ............................. 3,193
  Lehman College
-  28  12554-07-3
+  28  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1408,7 +1411,7 @@ S T A T E  O F  N E W  Y O R K
  For university-wide maintenance or
   capital improvement costs at senior
   colleges attributable to bathroom
-  29  12554-07-3
+  29  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1466,7 +1469,7 @@ S T A T E  O F  N E W  Y O R K
  Graduate School and University Center
   Campus-wide projects ................................ 60
  Honors college
-  30  12554-07-3
+  30  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1524,7 +1527,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide maintenance to
   various facilities ............................. 5,433
  City College
-  31  12554-07-3
+  31  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1582,14 +1585,14 @@ S T A T E  O F  N E W  Y O R K
   capital improvement costs at senior
   colleges attributable to ADA needs ............... 6,180
  For university-wide maintenance or
-  32  12554-07-3
+  32  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
   SENIOR COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   capital improvement costs at senior
   colleges attributable to certificate of
   occupancy/public assembly needs .................. 2,060
@@ -1620,7 +1623,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ........................................ 103,000
   ==============
- 
+
   For  additional  services  and  expenses  related  to  alterations and
   improvements to existing facilities for capital maintenance, includ-
   ing but not limited to capital design, construction, reconstruction,
@@ -1640,7 +1643,7 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
  PROJECT  AMOUNT
  ----------------------------------------------------------
-  33  12554-07-3
+  33  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1697,7 +1700,7 @@ S T A T E  O F  N E W  Y O R K
   capital improvement costs at senior
   colleges attributable to the findings of
   condition surveys for preservation of
-  34  12554-07-3
+  34  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1755,7 +1758,7 @@ S T A T E  O F  N E W  Y O R K
   environmental protection, energy conservation, accreditation, facil-
   ities  for  the  physically  disabled,  preventative maintenance and
   related projects, including costs incurred prior to  April  1,  2016
-  35  12554-07-3
+  35  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1812,14 +1815,14 @@ S T A T E  O F  N E W  Y O R K
   various facilities ............................. 3,914
  John Jay College of Criminal Justice
   Campus-wide maintenance to
-  36  12554-07-3
+  36  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
   SENIOR COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   various facilities ............................. 2,163
  Lehman College
   Campus-wide maintenance to
@@ -1870,12 +1873,12 @@ S T A T E  O F  N E W  Y O R K
   upgrade needs .................................... 2,060
  For university-wide maintenance or
   capital improvement costs at senior
-  37  12554-07-3
+  37  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
   SENIOR COLLEGES
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   colleges attributable to bathroom
@@ -1927,7 +1930,7 @@ S T A T E  O F  N E W  Y O R K
   various facilities .............................. 14,000
  Brooklyn College
   Campus-wide critical maintenance to
-  38  12554-07-3
+  38  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -1985,7 +1988,7 @@ S T A T E  O F  N E W  Y O R K
   infrastructure needs ............................ 20,500
  For university-wide critical maintenance or
   capital improvement costs at senior
-  39  12554-07-3
+  39  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2043,7 +2046,7 @@ S T A T E  O F  N E W  Y O R K
   plan developed and submitted annually by the city university of  New
   York  and  approved  by  the  director  of the budget, and which may
   include, but not be limited to, projects in the following  schedule.
-  40  12554-07-3
+  40  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2101,7 +2104,7 @@ S T A T E  O F  N E W  Y O R K
   costs incurred prior to April 1, 2012, and subject to a plan  devel-
   oped  and  submitted annually by the city university of New York and
   approved by the director of the budget, and which may  include,  but
-  41  12554-07-3
+  41  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2159,7 +2162,7 @@ S T A T E  O F  N E W  Y O R K
   capital improvement costs at senior
   colleges attributable to the findings of
   condition surveys for health and safety
-  42  12554-07-3
+  42  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2217,7 +2220,7 @@ S T A T E  O F  N E W  Y O R K
   colleges attributable to mechanical and
   infrastructure needs ............................ 23,000
   --------------
-  43  12554-07-3
+  43  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2275,7 +2278,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide critical maintenance to
   various facilities .............................. 10,000
  Queens College
-  44  12554-07-3
+  44  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2333,7 +2336,7 @@ S T A T E  O F  N E W  Y O R K
   colleges attributable to asbestos
   abatement needs .................................. 1,700
  For university-wide critical maintenance or
-  45  12554-07-3
+  45  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2391,7 +2394,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide critical maintenance to
   various facilities ............................... 1,500
  Hunter College
-  46  12554-07-3
+  46  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2449,7 +2452,7 @@ S T A T E  O F  N E W  Y O R K
   technology equipment needs ....................... 5,000
  For university-wide critical maintenance or
   capital improvement costs at senior
-  47  12554-07-3
+  47  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2504,7 +2507,7 @@ S T A T E  O F  N E W  Y O R K
   amounts  hereby  appropriated  may be suballocated or transferred to
   the dormitory authority of the state of New York  for  such  purpose
   (30020950) (15420) ... 284,222,000 ............... (re. $17,375,000)
-  48  12554-07-3
+  48  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2562,7 +2565,7 @@ S T A T E  O F  N E W  Y O R K
  For university-wide critical maintenance or
   capital improvement costs at senior
   colleges attributable to certificate of
-  49  12554-07-3
+  49  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2618,7 +2621,7 @@ S T A T E  O F  N E W  Y O R K
   April  1, 2008, and subject to a plan submitted annually by the city
   university of New York and approved by the director  of  the  budget
   (30080850) (15502) ... 23,232,000 ................. (re. $2,732,000)
-  50  12554-07-3
+  50  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2676,7 +2679,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide critical maintenance
   to various facilities ........................... 21,117
  College of Staten Island
-  51  12554-07-3
+  51  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2733,7 +2736,7 @@ S T A T E  O F  N E W  Y O R K
   improvement costs at senior
   colleges attributable to
   educational technology initiative
-  52  12554-07-3
+  52  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2791,7 +2794,7 @@ S T A T E  O F  N E W  Y O R K
  Baruch College
   17 Lexington Ave. Building
   Renovation/Field Building
-  53  12554-07-3
+  53  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2849,7 +2852,7 @@ S T A T E  O F  N E W  Y O R K
  University-wide
   CUNY ERP (CUNY FIRST) ............ 142,000
   Advanced Science Research Center,
-  54  12554-07-3
+  54  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2907,7 +2910,7 @@ S T A T E  O F  N E W  Y O R K
   organization as the  collective bargaining
   representative  for  all  persons who will
   perform work pursuant to all contracts for
-  55  12554-07-3
+  55  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -2964,7 +2967,7 @@ S T A T E  O F  N E W  Y O R K
   Building at New York City College of Tech-
   nology ........................................... 5,000
  For expansion of the Central Plant  at  City
-  56  12554-07-3
+  56  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3022,7 +3025,7 @@ S T A T E  O F  N E W  Y O R K
   Marshak Building ................................ 13,800
   Science Facility ................................ 57,700
  College of Staten Island
-  57  12554-07-3
+  57  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3080,7 +3083,7 @@ S T A T E  O F  N E W  Y O R K
   acquisition, reconstruction, rehabilitation and equipment; including
   but  not  limited  to health and safety, preservation of facilities,
   new facilities, program improvement or program change, environmental
-  58  12554-07-3
+  58  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3138,7 +3141,7 @@ S T A T E  O F  N E W  Y O R K
   of  facilities,  and  which
   provides that only contractors
   and subcontractors who sign  a
-  59  12554-07-3
+  59  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3196,7 +3199,7 @@ S T A T E  O F  N E W  Y O R K
   ment  between the agency and a
   labor organization  establish-
   ing  the labor organization as
-  60  12554-07-3
+  60  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3254,7 +3257,7 @@ S T A T E  O F  N E W  Y O R K
   may be suballocated or transferred to the dormitory authority of the
   state of New York for such purpose (30030450) (15529) ..............
   1,095,000,000 .................................... (re. $92,069,000)
-  61  12554-07-3
+  61  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3312,7 +3315,7 @@ S T A T E  O F  N E W  Y O R K
   supporting the decision to
   enter into such an  agree-
   ment  establishes  that it
-  62  12554-07-3
+  62  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3370,7 +3373,7 @@ S T A T E  O F  N E W  Y O R K
   research  center  at  City
   College,  which  means  a
   prehire  collective
-  63  12554-07-3
+  63  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3428,7 +3431,7 @@ S T A T E  O F  N E W  Y O R K
   trical distribution and
   heating and cooling system
   requirements; and other
-  64  12554-07-3
+  64  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3486,7 +3489,7 @@ S T A T E  O F  N E W  Y O R K
   section 3, of the laws of 1995, for:
   Alterations and improvements for health and safety (30018701)  (15505)
   ...  ..... 8,507,000 ................................. (re. $2,000)
-  65  12554-07-3
+  65  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3544,7 +3547,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide maintenance to
   various facilities ............................. 3,796
  Medgar Evers College
-  66  12554-07-3
+  66  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3602,7 +3605,7 @@ S T A T E  O F  N E W  Y O R K
  For university-wide maintenance or
   capital improvement costs at senior
   colleges attributable to educational
-  67  12554-07-3
+  67  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3658,7 +3661,7 @@ S T A T E  O F  N E W  Y O R K
   the amounts hereby appropriated may be suballocated  or  transferred
   to the dormitory authority of the state of New York for such purpose
   (30032103) (15420) ... 284,222,000 .............. (re. $262,719,000)
-  68  12554-07-3
+  68  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3716,7 +3719,7 @@ S T A T E  O F  N E W  Y O R K
   needs ............................................ 9,220
  For university-wide maintenance or
   capital improvement costs at senior
-  69  12554-07-3
+  69  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3774,7 +3777,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and expenses related to alterations and improvements to
   existing facilities  for  capital  maintenance,  including  but  not
   limited  to  capital design, construction, reconstruction, rehabili-
-  70  12554-07-3
+  70  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3831,7 +3834,7 @@ S T A T E  O F  N E W  Y O R K
   various facilities ............................. 1,870
  Queens College
   Campus-wide maintenance to
-  71  12554-07-3
+  71  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3889,7 +3892,7 @@ S T A T E  O F  N E W  Y O R K
   facilities upgrade needs ......................... 1,050
  For university-wide maintenance or
   capital improvement costs at senior
-  72  12554-07-3
+  72  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -3947,7 +3950,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide maintenance to
   various facilities ............................. 6,331
  John Jay College of Criminal Justice
-  73  12554-07-3
+  73  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4005,7 +4008,7 @@ S T A T E  O F  N E W  Y O R K
   colleges attributable to energy
   conservation needs ............................... 4,098
  For university-wide maintenance or
-  74  12554-07-3
+  74  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4062,7 +4065,7 @@ S T A T E  O F  N E W  Y O R K
   various facilities ............................. 2,511
  Brooklyn College
   Campus-wide maintenance to
-  75  12554-07-3
+  75  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4120,7 +4123,7 @@ S T A T E  O F  N E W  Y O R K
   infrastructure needs ............................. 7,210
  For university-wide maintenance or
   capital improvement costs at senior
-  76  12554-07-3
+  76  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4178,7 +4181,7 @@ S T A T E  O F  N E W  Y O R K
   (15524) ...  ..... 5,933,000 ..................... (re. $2,524,000)
  
  By chapter 54, section 1, of the laws of 1994, for:
-  77  12554-07-3
+  77  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4235,7 +4238,7 @@ S T A T E  O F  N E W  Y O R K
   oped  and  submitted annually by the city university of New York and
   approved by the  director  of  the  budget  (30A42208)  (40812)  ...
   110,000,000 ..................................... (re. $110,000,000)
-  78  12554-07-3
+  78  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4277,7 +4280,7 @@ S T A T E  O F  N E W  Y O R K
   tation,  equipment  and  personal  service  costs  including  costs
   incurred prior to April 1, 2020 (30MB2008) (40807) .................
   100,000,000 ..................................... (re. $100,000,000)
-  79  12554-07-3
+  79  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4335,7 +4338,7 @@ S T A T E  O F  N E W  Y O R K
   Roof Repairs ...................  2,400  1,200
   Kitchen and Cafeteria Renovation  5,600  2,800
  For university-wide community college
-  80  12554-07-3
+  80  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4393,7 +4396,7 @@ S T A T E  O F  N E W  Y O R K
   Perimeter Security Lighting ....  600  300
   199 Chambers Upgrade ...........  4,596  2,298
  Hostos Community College
-  81  12554-07-3
+  81  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4450,7 +4453,7 @@ S T A T E  O F  N E W  Y O R K
   limited  to, projects in the following schedule. Notwithstanding any
   other law to the contrary, all or a portion of  the  amounts  hereby
   appropriated  may  be  suballocated  or transferred to the dormitory
-  82  12554-07-3
+  82  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4508,7 +4511,7 @@ S T A T E  O F  N E W  Y O R K
   Pool Upgrades ..................  2,000  1,000
   Science and Resiliency Institute  10,000  5,000
  LaGuardia Community College
-  83  12554-07-3
+  83  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4565,7 +4568,7 @@ S T A T E  O F  N E W  Y O R K
   to various facilities ..........  3,500  1,750
  Bronx Community College
   Campus-wide critical maintenance
-  84  12554-07-3
+  84  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4623,7 +4626,7 @@ S T A T E  O F  N E W  Y O R K
  Borough of Manhattan Community
   College
   Campus-wide critical maintenance
-  85  12554-07-3
+  85  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4681,7 +4684,7 @@ S T A T E  O F  N E W  Y O R K
   to various facilities ..........  14,400  7,200
  Bronx Community College
   Campus-wide critical maintenance
-  86  12554-07-3
+  86  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4739,7 +4742,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide Roofing,
   Ph. I ..........................  4,068  2,034
  Kingsborough Community College
-  87  12554-07-3
+  87  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4796,7 +4799,7 @@ S T A T E  O F  N E W  Y O R K
   Ph. I ........................  18,626  9,313
  Kingsborough Community College
   Mechanical and Infrastructure
-  88  12554-07-3
+  88  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4854,7 +4857,7 @@ S T A T E  O F  N E W  Y O R K
   TOTAL STATE  50 PERCENT
   & LOCAL SHARE  STATE SHARE
  ----------------------------------------------------------
-  89  12554-07-3
+  89  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4911,7 +4914,7 @@ S T A T E  O F  N E W  Y O R K
   tenance or capital improvement
   costs at community colleges
   attributable to science lab
-  90  12554-07-3
+  90  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -4969,7 +4972,7 @@ S T A T E  O F  N E W  Y O R K
   provement costs at community
   colleges attributable to the
   findings of condition sur-
-  91  12554-07-3
+  91  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5026,7 +5029,7 @@ S T A T E  O F  N E W  Y O R K
   -------  ------
   Total ..........................  17,538  8,769
   =======  ======
-  92  12554-07-3
+  92  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5083,7 +5086,7 @@ S T A T E  O F  N E W  Y O R K
   --------  --------
   Total ........................  133,160  66,580
   ========  ========
-  93  12554-07-3
+  93  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5141,7 +5144,7 @@ S T A T E  O F  N E W  Y O R K
  Medgar Evers College
   Athletic Fields ................... 1,960  980
  Bronx Community College
-  94  12554-07-3
+  94  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5199,7 +5202,7 @@ S T A T E  O F  N E W  Y O R K
   projects, including costs incurred prior to April 1,  2003,  subject
   to  an  annual plan developed by the city university and approved by
   the state director of the budget, and which may include, but not  be
-  95  12554-07-3
+  95  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5256,7 +5259,7 @@ S T A T E  O F  N E W  Y O R K
   or  transferred  to the dormitory authority of the state of New York
   for such purpose (303198C1) (81067) ................................
   109,700,000 ...................................... (re. $14,375,000)
-  96  12554-07-3
+  96  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5314,7 +5317,7 @@ S T A T E  O F  N E W  Y O R K
   An additional advance for
   state financial assistance
   to community colleges for
-  97  12554-07-3
+  97  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5372,7 +5375,7 @@ S T A T E  O F  N E W  Y O R K
   preservation of facilities, new facilities  program  improvement  or
   program  change,  environmental  protection,  energy  conservation,
   accreditation, facilities for the physically disabled,  and  related
-  98  12554-07-3
+  98  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5429,7 +5432,7 @@ S T A T E  O F  N E W  Y O R K
   (thousands of dollars)
  Borough Manhattan Community College
   Childhood Center HVAC Upgrades ...  2,176  1,088
-  99  12554-07-3
+  99  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5486,7 +5489,7 @@ S T A T E  O F  N E W  Y O R K
   limited  to, projects in the following schedule. Notwithstanding any
   other law to the contrary, all or a portion of  the  amounts  hereby
   appropriated  may  be  suballocated  or transferred to the dormitory
-  100  12554-07-3
+  100  12554-08-3
  
   CITY UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE CITY UNIVERSITY CONSTRUCTION FUND)
@@ -5534,7 +5537,7 @@ S T A T E  O F  N E W  Y O R K
   -------  ------
   Total ........................  96,966  48,483
   =======  ======
-  101  12554-07-3
+  101  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5592,7 +5595,7 @@ S T A T E  O F  N E W  Y O R K
   ............................................. 16,000,000
  
   Capital Projects Funds - Other
-  102  12554-07-3
+  102  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5650,7 +5653,7 @@ S T A T E  O F  N E W  Y O R K
   correctional industries program, including
   related departmental administrative costs,
   for program improvement or program  change
-  103  12554-07-3
+  103  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5658,7 +5661,7 @@ S T A T E  O F  N E W  Y O R K
  
   including  liabilities  incurred  prior to
   April 1, 2023 (10IN2308) (19701) ............. 3,000,000
-  104  12554-07-3
+  104  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5715,7 +5718,7 @@ S T A T E  O F  N E W  Y O R K
   provided by the department of corrections and community  supervision
   for new and reappropriated projects (10502150) (81065) .............
   16,000,000 ........................................... (re. $99,000)
-  105  12554-07-3
+  105  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5772,7 +5775,7 @@ S T A T E  O F  N E W  Y O R K
   trative costs, for environmental protection or improvements  includ-
   ing  liabilities  incurred prior to April 1, 2017 (10061706) (81062)
   ... 24,000,000 ...................................... (re. $587,000)
-  106  12554-07-3
+  106  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5829,7 +5832,7 @@ S T A T E  O F  N E W  Y O R K
   trative  costs, for health and safety including liabilities incurred
   prior to April 1, 2021 (10012101) (81028) ..........................
   23,000,000 ....................................... (re. $23,000,000)
-  107  12554-07-3
+  107  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5886,7 +5889,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 50, section 1, of the laws of 2007:
   Alterations  and improvements, including related departmental adminis-
   trative costs, for health and safety including liabilities  incurred
-  108  12554-07-3
+  108  12554-08-3
 
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -5943,7 +5946,7 @@ S T A T E  O F  N E W  Y O R K
   1, 2020 (10M32003) (81091) ... 15,000,000 ......... (re. $9,036,000)
  
  By chapter 54, section 1, of the laws of 2019:
-  109  12554-07-3
+  109  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -6001,7 +6004,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2012:
   Alterations and improvements, including related departmental  adminis-
   trative  costs, for the preservation of facilities including liabil-
-  110  12554-07-3
+  110  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -6059,7 +6062,7 @@ S T A T E  O F  N E W  Y O R K
   137,000,000 .......................................... (re. $31,000)
   Alterations and improvements, including related departmental  adminis-
   trative  costs,  for  preventative maintenance that will prolong the
-  111  12554-07-3
+  111  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
 
@@ -6117,7 +6120,7 @@ S T A T E  O F  N E W  Y O R K
   trative costs, for program improvement or program  change  including
   liabilities  incurred  prior  to  April  1,  2019 (10081908) (81063)
   164,000,000 ...................................... (re. $21,378,000)
-  112  12554-07-3
+  112  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -6174,7 +6177,7 @@ S T A T E  O F  N E W  Y O R K
   trative  costs,  for program improvement or program change including
   liabilities incurred prior  to  April  1,  2011  (10081108)  (81063)
   76,000,000 ........................................... (re. $20,000)
-  113  12554-07-3
+  113  12554-08-3
  
   DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
  
@@ -6203,7 +6206,7 @@ S T A T E  O F  N E W  Y O R K
   trative  costs,  for program improvement or program change including
   liabilities incurred prior  to  April  1,  2006  (10080608)  (81063)
   44,000,000 ............................................ (re. $1,000)
-  114  12554-07-3
+  114  12554-08-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -6261,7 +6264,7 @@ S T A T E  O F  N E W  Y O R K
   funds  to  purchase commodities, services,
   and  technology  through  centralized
   contracts  established  by  the  office of
-  115  12554-07-3
+  115  12554-08-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -6317,7 +6320,7 @@ S T A T E  O F  N E W  Y O R K
   cated  or  transferred  to any department,
   agency, public authority or the  judiciary
   (CJDC2308) .................................. 50,000,000
-  116  12554-07-3
+  116  12554-08-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -6375,7 +6378,7 @@ S T A T E  O F  N E W  Y O R K
   centralized  contracts established by the office of general services
   under section 163 of the state  finance  law,  and  such  recipients
   shall  be  deemed for such purpose to be authorized users within the
-  117  12554-07-3
+  117  12554-08-3
  
   DIVISION OF CRIMINAL JUSTICE SERVICES
  
@@ -6420,7 +6423,7 @@ S T A T E  O F  N E W  Y O R K
   163  of  the state finance law. All or a portion of the funds appro-
   priated herein may be  suballocated  to  any  department  or  agency
   (CJSS2008) (55970) ... 25,000,000 ................ (re. $25,000,000)
-  118  12554-07-3
+  118  12554-08-3
  
   EDUCATION DEPARTMENT
  
@@ -6477,7 +6480,7 @@ S T A T E  O F  N E W  Y O R K
   libraries and library systems chartered by
   the  regents  of  the state of New York or
   established by an act of the  legislature,
-  119  12554-07-3
+  119  12554-08-3
  
   EDUCATION DEPARTMENT
  
@@ -6535,7 +6538,7 @@ S T A T E  O F  N E W  Y O R K
   Office of the Professions Electronic Licensing Account -
   32222
   Program Improvement/Change Purpose
-  120  12554-07-3
+  120  12554-08-3
  
   EDUCATION DEPARTMENT
  
@@ -6593,7 +6596,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Capital Projects Funds - Other
-  121  12554-07-3
+  121  12554-08-3
  
   EDUCATION DEPARTMENT
  
@@ -6609,7 +6612,7 @@ S T A T E  O F  N E W  Y O R K
   developed  by the education department and
   approved by the  director  of  the  budget
   (11RD2308) (23370) ........................... 2,994,000
-  122  12554-07-3
+  122  12554-08-3
  
   EDUCATION DEPARTMENT
  
@@ -6626,12 +6629,24 @@ S T A T E  O F  N E W  Y O R K
   operating  condition  subject  to  a plan developed by the education
   department and approved by the director  of  the  budget  (11MR2203)
   (21860) ... 6,000,000 ............................. (re. $5,695,000)
- 
+  For  the  maintenance  and operation of various facilities and systems
+  including personal services, fringe  benefits  and  indirect  costs.
+  Notwithstanding  any  other law to the contrary, all or a portion of
+  the funds appropriated herein may be suballocated or transferred  to
+  any  department,  agency, or public authority (11PS2203) (23304) ...
+  4,200,000 ......................................... (re. $1,491,000)
+
  By chapter 54, section 1, of the laws of 2021:
   For various minor rehabilitation projects to keep facilities in a safe
-  operating  condition  subject  to  a plan developed by the education
-  department and approved by the director  of  the  budget  (11MR2103)
+  operating condition subject to a plan  developed  by  the  education
+  department  and  approved  by  the director of the budget (11MR2103)
   (21860) ... 3,400,000 ............................. (re. $3,002,000)
+  For the maintenance and operation of various  facilities  and  systems
+  including  personal  services,  fringe  benefits and indirect costs.
+  Notwithstanding any other law to the contrary, all or a  portion  of
+  the  funds appropriated herein may be suballocated or transferred to
+  any department, agency, or public authority (11PS2103)  (23304)  ...
+  4,200,000 ......................................... (re. $1,532,000)
  
  By chapter 54, section 1, of the laws of 2020:
   For various minor rehabilitation projects to keep facilities in a safe
@@ -6644,11 +6659,23 @@ S T A T E  O F  N E W  Y O R K
   operating  condition  subject  to  a plan developed by the education
   department and approved by the director  of  the  budget  (11021903)
   (21860) ... 3,400,000 ............................. (re. $2,226,000)
+  For  the  maintenance  and operation of various facilities and systems
+  including personal services, fringe  benefits  and  indirect  costs.
+  Notwithstanding  any  other law to the contrary, all or a portion of
+  the funds appropriated herein may be suballocated or transferred  to
+  any  department,  agency, or public authority (11PS1903) (23304) ...
+  4,100,000 ........................................... (re. $278,000)
  
  By chapter 54, section 1, of the laws of 2018:
   For various minor rehabilitation projects to keep facilities in a safe
-  operating  condition  subject  to  a plan developed by the education
-  department and approved by the director  of  the  budget  (11021803)
+  operating condition subject to a plan  developed  by  the  education
+  123  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  department  and  approved  by  the director of the budget (11021803)
   (21860) ... 3,400,000 ............................. (re. $1,144,000)
  
  By chapter 54, section 1, of the laws of 2017:
@@ -6666,12 +6693,6 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2015:
   For various minor rehabilitation projects to keep facilities in a safe
   operating  condition  subject  to  a plan developed by the education
-  123  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   department and approved by the director  of  the  budget  (11021503)
   (21860) ... 3,400,000 ............................... (re. $501,000)
  
@@ -6706,6 +6727,12 @@ S T A T E  O F  N E W  Y O R K
   New  York  and  the  City  University  of New York provided that the
   amount appropriated herein shall be subject to a plan  developed  by
   the education department and approved by the director of the budget.
+  124  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   Notwithstanding any other provision of law to the contrary and subject
   to  the  approval  of  the  director of the budget, a portion of the
   funds appropriated herein may be transferred to the State University
@@ -6724,12 +6751,6 @@ S T A T E  O F  N E W  Y O R K
   implement the breakfast after  the  bell  school  breakfast  program
   beginning  in  the  2018-19 school year pursuant to a chapter of the
   laws of 2018 for equipment purchases, provided, however,  that  such
-  124  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
   grants shall be limited to no more than $5,000 per school, and shall
   be  awarded based on an application developed by the state education
   department. Eligible equipment purchases shall include, but  not  be
@@ -6763,6 +6784,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 53, section 1, of the laws of 2002, as amended by chapter 55,
   section 1, of the laws of 2016:
+  125  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   For renovation projects to preserve and  revamp  the  collections  and
   exhibits of the state museum, library and archives subject to a plan
   approved by the director of the budget (11030203) (23456) ..........
@@ -6782,12 +6809,6 @@ S T A T E  O F  N E W  Y O R K
   For preservation and stewardship of collections in the cultural educa-
   tion  center,  including environmental controls, the preservation of
   records, and the purchase and installment of map and microform cabi-
-  125  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   nets, compact shelving, and museum cabinetry (11060808) (21866) ....
   4,325,000 ........................................... (re. $580,000)
  
@@ -6800,12 +6821,12 @@ S T A T E  O F  N E W  Y O R K
  By chapter 53, section 1, of the laws of 2007, as amended by chapter 55,
   section 1, of the laws of 2016:
   Cultural education storage facility. For costs of a new storage facil-
-  ity  for  the collections of the state museum, library and archives,
-  subject to a plan jointly submitted by the  board  of  the  cultural
-  education  trust  and the cultural education department and approved
-  by the division of the budget provided, however, that a  portion  of
-  the  funds  appropriated herein may be used to conduct a feasibility
-  study and a land  review  prior  to  the  submission  of  such  plan
+  ity for the collections of the state museum, library  and  archives,
+  subject  to  a  plan  jointly submitted by the board of the cultural
+  education trust and the cultural education department  and  approved
+  by  the  division of the budget provided, however, that a portion of
+  the funds appropriated herein may be used to conduct  a  feasibility
+  study  and  a  land  review  prior  to  the  submission of such plan
   (11010707) (21878) ... 60,000,000 ................ (re. $59,736,000)
  
  EDUCATION BUILDING (CCP)
@@ -6815,11 +6836,16 @@ S T A T E  O F  N E W  Y O R K
   Preservation of Facilities Purpose
  
  By chapter 53, section 1, of the laws of 2006:
-  For  partial  roof replacement of the education building and education
-  building addition to keep facilities in a safe  operating  condition
+  For partial roof replacement of the education building  and  education
+  building  addition  to keep facilities in a safe operating condition
   subject to a plan developed by the education department and approved
   by the director of the budget (11030603) (23454) ...................
   1,700,000 ........................................... (re. $160,000)
+  126  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  LIBRARY CONSTRUCTION (CCP)
  
@@ -6840,47 +6866,48 @@ S T A T E  O F  N E W  Y O R K
   provisions in subdivision 5 of section 273-a of the education law on
   and  upon  approval  by  the  commissioner  (11LC2208)  (23486)  ...
   [14,000,000] 34,000,000 .......................... (re. $34,000,000)
-  126  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  The appropriation made by chapter 54, section 1, of the laws of 2021, as
   supplemented  by a transfer in accordance with state finance law, is
   hereby amended and reappropriated to read:
-  For  total  approved  project  costs  pursuant to section 273-a of the
+  For total approved project costs pursuant  to  section  273-a  of  the
   education law, for approved projects, excluding feasibility studies,
-  plans or similar activities, for the acquisition of vacant land  and
+  plans  or similar activities, for the acquisition of vacant land and
   the acquisition, construction, renovation or rehabilitation, includ-
-  ing  leasehold  improvements,  of  buildings of public libraries and
+  ing leasehold improvements, of buildings  of  public  libraries  and
   library systems chartered by the regents of the state of New York or
-  established by an act of the legislature,  subject  to  distribution
+  established  by  an  act of the legislature, subject to distribution
   provisions in subdivision 5 of section 273-a of the education law on
   and upon approval by the commissioner (11LC2108) (23486) ...........
   [14,000,000] 34,000,000 .......................... (re. $34,000,000)
  
  By chapter 54, section 1, of the laws of 2020:
-  For  total  approved  project  costs  pursuant to section 273-a of the
+  For total approved project costs pursuant  to  section  273-a  of  the
   education law, for approved projects, excluding feasibility studies,
-  plans or similar activities, for the acquisition of vacant land  and
+  plans  or similar activities, for the acquisition of vacant land and
   the acquisition, construction, renovation or rehabilitation, includ-
-  ing  leasehold  improvements,  of  buildings of public libraries and
+  ing leasehold improvements, of buildings  of  public  libraries  and
   library systems chartered by the regents of the state of New York or
-  established by an act of the legislature,  subject  to  distribution
+  established  by  an  act of the legislature, subject to distribution
   provisions in subdivision 5 of section 273-a of the education law on
   and upon approval by the commissioner (11LC2008) (23486) ...........
   14,000,000 ........................................ (re. $1,257,000)
  
  By chapter 54, section 1, of the laws of 2019, as amended by chapter 54,
   section 1, of the laws of 2021:
-  For  total  approved  project  costs  pursuant to section 273-a of the
+  For total approved project costs pursuant  to  section  273-a  of  the
   education law, for approved projects, excluding feasibility studies,
-  plans or similar activities, for the acquisition of vacant land  and
+  plans  or similar activities, for the acquisition of vacant land and
   the acquisition, construction, renovation or rehabilitation, includ-
-  ing  leasehold  improvements,  of  buildings of public libraries and
+  127  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  ing leasehold improvements, of buildings  of  public  libraries  and
   library systems chartered by the regents of the state of New York or
-  established by an act of the legislature,  subject  to  distribution
+  established  by  an  act of the legislature, subject to distribution
   provisions in subdivision 5 of section 273-a of the education law on
   and upon approval by the commissioner (11011908) (23486) ...........
   34,000,000 ........................................ (re. $2,406,000)
@@ -6897,12 +6924,7 @@ S T A T E  O F  N E W  Y O R K
   provisions in subdivision 5 of section 273-a of the education law on
   and upon approval by the commissioner (11001808) (23486) ...........
   34,000,000 ........................................ (re. $1,439,000)
-  127  12554-07-3
  
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
  NON-PUBLIC SCHOOL HEALTH AND SAFETY PROJECTS (CCP)
  
   Capital Projects Funds - Other
@@ -6919,7 +6941,7 @@ S T A T E  O F  N E W  Y O R K
   plan  developed by the commissioner of education and approved by the
   director of the budget (11SE2201) (55990) ..........................
   45,000,000 ....................................... (re. $45,000,000)
-
+ 
  By chapter 54, section 1, of the laws of 2021:
   For services and expenses of health  and  safety  equipment,  security
   personnel  and  related assessments and training needs for Nonpublic
@@ -6935,6 +6957,12 @@ S T A T E  O F  N E W  Y O R K
   2021 (11SE2001) (55990) ... 15,000,000 ........... (re. $15,000,000)
  
  By chapter 54, section 1, of the laws of 2019:
+  128  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   For services and expenses of health  and  safety  equipment,  security
   personnel  and  related assessments and training needs for Nonpublic
   Schools, provided, however, that no  more  than  $4,500,000  of  the
@@ -6942,24 +6970,19 @@ S T A T E  O F  N E W  Y O R K
   2020 (11SE1901) (55990) ... 15,000,000 ............ (re. $9,822,000)
  
  By chapter 54, section 1, of the laws of 2018:
-  For services and expenses of health  and  safety  equipment,  security
-  personnel  and  related assessments and training needs for Nonpublic
-  Schools, provided, however, that no  more  than  $4,500,000  of  the
-  funds  appropriated herein shall be made available prior to April 1,
+  For  services  and  expenses  of health and safety equipment, security
+  personnel and related assessments and training needs  for  Nonpublic
+  Schools,  provided,  however,  that  no  more than $4,500,000 of the
+  funds appropriated herein shall be made available prior to April  1,
   2019 (11SE1801) (55990) ... 15,000,000 ............ (re. $6,949,000)
  
  By chapter 53, section 1, of the laws of 2017, as transferred by chapter
   54, section 1, of the laws of 2018:
-  For services and expenses of health  and  safety  equipment,  security
-  personnel  and  related assessments and training needs for Nonpublic
-  Schools, provided, however, that no  more  than  $4,500,000  of  the
-  funds  appropriated herein shall be made available prior to April 1,
+  For  services  and  expenses  of health and safety equipment, security
+  personnel and related assessments and training needs  for  Nonpublic
+  Schools,  provided,  however,  that  no  more than $4,500,000 of the
+  funds appropriated herein shall be made available prior to April  1,
   2018 (11SE1701) (55990) ... 15,000,000 ............ (re. $4,315,000)
-  128  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  By chapter 53, section 1, of the laws of 2016, as amended by chapter 54,
   section 1, of the laws of 2019:
@@ -6991,35 +7014,35 @@ S T A T E  O F  N E W  Y O R K
   Program Improvement/Change Purpose
  
  By chapter 54, section 1, of the laws of 2017:
-  For payment of the costs of  capital  projects  undertaken  by  or  on
-  behalf  of  school  districts  for  the acquisition of smart schools
-  classroom technology to be loaned to children attending a  nonpublic
-  school  located in the school district, except a nonpublic school to
-  which tuition is paid under articles 85 or 89 of the education  law,
-  in  accordance with the requirements of section 755 of the education
-  law and guidelines developed by the commissioner  of  education,  in
-  connection  with  the smart schools investment plans first submitted
-  to the education department prior to April 15, 2017 and approved  by
-  the smart schools review board pursuant to subdivision 16 of section
-  3641 of the education law.
-  Each  school  district shall be eligible to receive an allocation from
-  the funds appropriated herein equal to the product of the enrollment
-  of all such nonpublic schools in the 2014-15 school year  multiplied
-  by  the  per  pupil amount, provided that the liability of the state
-  and the amount to be distributed or otherwise expended by the  state
-  to  provide  such  loans shall be limited to the amount appropriated
-  herein. The per pupil amount shall equal the  quotient  of  (i)  the
-  amount  budgeted  by  such  school  district  in  its approved smart
-  schools investment plan for  servers,  wireless  access  points  and
-  other  portable  connectivity  devices  to  be acquired as part of a
-  school connectivity project, divided by (ii) the  total  public  and
-  129  12554-07-3
+  129  12554-08-3
  
   EDUCATION DEPARTMENT
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  nonpublic  school  enrollment in such school district in the 2014-15
+  For payment of the costs of  capital  projects  undertaken  by  or  on
+  behalf  of  school  districts  for  the acquisition of smart schools
+  classroom technology to be loaned to children attending a  nonpublic
+  school  located in the school district, except a nonpublic school to
+  which  tuition is paid under articles 85 or 89 of the education law,
+  in accordance with the requirements of section 755 of the  education
+  law  and  guidelines  developed by the commissioner of education, in
+  connection with the smart schools investment plans  first  submitted
+  to  the education department prior to April 15, 2017 and approved by
+  the smart schools review board pursuant to subdivision 16 of section
+  3641 of the education law.
+  Each school district shall be eligible to receive an  allocation  from
+  the funds appropriated herein equal to the product of the enrollment
+  of  all such nonpublic schools in the 2014-15 school year multiplied
+  by the per pupil amount, provided that the liability  of  the  state
+  and  the amount to be distributed or otherwise expended by the state
+  to provide such loans shall be limited to  the  amount  appropriated
+  herein.  The  per  pupil  amount shall equal the quotient of (i) the
+  amount budgeted by  such  school  district  in  its  approved  smart
+  schools  investment  plan  for  servers,  wireless access points and
+  other portable connectivity devices to be  acquired  as  part  of  a
+  school  connectivity  project,  divided by (ii) the total public and
+  nonpublic school enrollment in such school district in  the  2014-15
   school year.
   Provided  further that no school district shall be eligible to receive
   an allocation to support the loan of smart schools  classroom  tech-
@@ -7048,6 +7071,12 @@ S T A T E  O F  N E W  Y O R K
   to  a plan developed by the education department in conjunction with
   the office of information technology services and  approved  by  the
   director of the budget.
+  130  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   Funds  appropriated  herein  may  be  suballocated  to any other state
   department, agency, or public benefit corporation,  to  achieve  the
   purpose of this appropriation (11EL2208) (55992) ...................
@@ -7071,12 +7100,6 @@ S T A T E  O F  N E W  Y O R K
   not limited to equipment, software, hardware and  services,  subject
   to  a plan developed by the education department in conjunction with
   the office of information technology services and  approved  by  the
-  130  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   director  of  the  budget. Funds appropriated herein may be suballo-
   cated to any other  state  department,  agency,  or  public  benefit
   corporation, to achieve the purpose of this appropriation (11EL2008)
@@ -7092,7 +7115,7 @@ S T A T E  O F  N E W  Y O R K
   cated  to  any  other  state  department,  agency, or public benefit
   corporation, to achieve the purpose of this appropriation (11EL1908)
   (55992) ... 7,200,000 ............................... (re. $174,000)
- 
+
  By chapter 54, section 1, of the laws of 2018:
   For services and expenses related to the development of an  electronic
   licensing  system  for  the office of the professions, including but
@@ -7105,6 +7128,11 @@ S T A T E  O F  N E W  Y O R K
   (55992) ... 4,300,000 ............................... (re. $789,000)
  
  SAFETY AND SECURITY PROJECTS FOR AT RISK FACILITIES (CCP)
+  131  12554-08-3
+
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Capital Projects Funds - Other
   Capital Project Fund - 30000
@@ -7129,12 +7157,6 @@ S T A T E  O F  N E W  Y O R K
   shall be deemed for such purposes to be  "authorized  users"  within
   the  meaning  of  paragraph k of subdivision 1 of section 163 of the
   state finance law. Notwithstanding section 93 of the  state  finance
-  131  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   law or any provision of law to the contrary, the amount appropriated
   herein  may  be transferred or suballocated to the division of home-
   land security and emergency services to  accomplish  the  intent  of
@@ -7162,54 +7184,53 @@ S T A T E  O F  N E W  Y O R K
   changed  with any other appropriation within the safety and security
   for at-risk facilities comprehensive construction program (11HS1908)
   (55970) ... 25,000,000 ........................... (re. $24,588,000)
+  132  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  By chapter 54, section 1, of the laws of 2017, as amended by chapter 54,
   section 1, of the laws of 2020:
-  For competitive grants to provide  safety  and  security  projects  at
+  For  competitive  grants  to  provide  safety and security projects at
   nonpublic schools, community centers and day care facilities at risk
-  of  hate  crimes  or  attacks  because of their ideology, beliefs or
-  mission. Provided that an  assessment  of  facilities  at  risk  may
-  include,  but  not be limited to, considerations of the vulnerabili-
-  ties of the organization based on its location and  membership,  and
-  the  potential consequences of a hate crime or attack at the facili-
-  ty, and provided further that recipients of  such  grants  shall  be
-  entitled  to  use  such funds to purchase commodities, services, and
-  technology through centralized contracts established by  the  office
-  of  general services under section 163 of the state finance law, and
-  such recipients shall be deemed for such purposes to be  "authorized
+  of hate crimes or attacks because  of  their  ideology,  beliefs  or
+  mission.  Provided  that  an  assessment  of  facilities at risk may
+  include, but not be limited to, considerations of  the  vulnerabili-
+  ties  of  the organization based on its location and membership, and
+  the potential consequences of a hate crime or attack at the  facili-
+  ty,  and  provided  further  that recipients of such grants shall be
+  entitled to use such funds to purchase  commodities,  services,  and
+  technology  through  centralized contracts established by the office
+  of general services under section 163 of the state finance law,  and
+  such  recipients shall be deemed for such purposes to be "authorized
   users" within the meaning of paragraph k of subdivision 1 of section
-  163  of the state finance law. The amount appropriated herein may be
+  163 of the state finance law. The amount appropriated herein may  be
   transferred or suballocated to the division of homeland security and
-  emergency services to accomplish the intent  of  this  appropriation
+  emergency  services  to  accomplish the intent of this appropriation
   (11HS1708) (55970) ... 25,000,000 ................. (re. $7,011,000)
  
  SCHOOLS FOR NATIVE AMERICAN RESERVATIONS (CCP)
  
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
-  132  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   Health and Safety Purpose
  
  By chapter 53, section 1, of the laws of 2009:
-  For  various rehabilitation and renovation projects to keep facilities
+  For various rehabilitation and renovation projects to keep  facilities
   at the St. Regis Mohawk Elementary School in a safe operating condi-
-  tion subject to a plan developed by  the  education  department  and
+  tion  subject  to  a  plan developed by the education department and
   approved by the director of the budget (11020901) (23464) ..........
   4,000,000 ............................................ (re. $88,000)
-
+ 
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Preservation of Facilities Purpose
  
  By chapter 53, section 1, of the laws of 2004:
-  For  various rehabilitation and renovation projects to keep facilities
+  For various rehabilitation and renovation projects to keep  facilities
   at the St. Regis Mohawk Elementary School in a safe operating condi-
-  tion subject to a plan developed by  the  education  department  and
+  tion  subject  to  a  plan developed by the education department and
   approved by the director of the budget (11040403) (21876) ..........
   4,500,000 ............................................. (re. $2,000)
  
@@ -7218,11 +7239,17 @@ S T A T E  O F  N E W  Y O R K
   Program Improvement/Change Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For  various rehabilitation and renovation projects to keep facilities
-  at the state-owned St. Regis  Mohawk  School,  the  Onondaga  Nation
-  School,  and  the Tuscarora Nation School in a safe and satisfactory
-  operating condition subject to a plan  developed  by  the  education
-  department  and  approved  by  the director of the budget (11NA2208)
+  For various rehabilitation and renovation projects to keep  facilities
+  at  the  state-owned  St.  Regis  Mohawk School, the Onondaga Nation
+  School, and the Tuscarora Nation School in a safe  and  satisfactory
+  133  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  operating  condition  subject  to  a plan developed by the education
+  department and approved by the director  of  the  budget  (11NA2208)
   (23368) ... 35,700,000 ........................... (re. $35,700,000)
  
  SCHOOL FOR THE BLIND (CCP)
@@ -7232,12 +7259,12 @@ S T A T E  O F  N E W  Y O R K
   Program Improvement/Change Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For various rehabilitation and renovation projects to keep  facilities
-  at  the  School  for  the Blind in a safe and satisfactory operating
-  condition subject to a plan developed by  the  education  department
+  For  various rehabilitation and renovation projects to keep facilities
+  at the School for the Blind in a  safe  and  satisfactory  operating
+  condition  subject  to  a plan developed by the education department
   and approved by the director of the budget (11BB2208) (23468) ......
   3,200,000 ......................................... (re. $3,200,000)
-
+ 
  SCHOOL FOR THE BLIND - BATAVIA (CCP)
  
   Capital Projects Funds - Other
@@ -7245,21 +7272,15 @@ S T A T E  O F  N E W  Y O R K
   Health and Safety Purpose
  
  By chapter 53, section 1, of the laws of 2009:
-  133  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
-  For  various rehabilitation and renovation projects to keep facilities
+  For various rehabilitation and renovation projects to keep  facilities
   at the School for the Blind in a safe operating condition subject to
-  a plan developed by the education department  and  approved  by  the
+  a  plan  developed  by  the education department and approved by the
   director of the budget (11030901) (23468) ... 800,000 . (re. $1,000)
  
  By chapter 53, section 1, of the laws of 2008:
-  For  security  and fire alarm system upgrades, physical plant improve-
-  ments to infrastructure around  Severne  Hall,  backflow  prevention
-  devices,  and  roof  replacement  on  Knight  Hall and Hamilton Hall
+  For security and fire alarm system upgrades, physical  plant  improve-
+  ments  to  infrastructure  around  Severne Hall, backflow prevention
+  devices, and roof replacement  on  Knight  Hall  and  Hamilton  Hall
   (11050801) (21870) ... 2,330,000 .................... (re. $670,000)
  
  SCHOOL FOR THE DEAF (CCP)
@@ -7269,9 +7290,9 @@ S T A T E  O F  N E W  Y O R K
   Program Improvement/Change Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For various rehabilitation and renovation projects to keep  facilities
-  at  the  School  for  the  Deaf in a safe and satisfactory operating
-  condition subject to a plan developed by  the  education  department
+  For  various rehabilitation and renovation projects to keep facilities
+  at the School for the Deaf in  a  safe  and  satisfactory  operating
+  condition  subject  to  a plan developed by the education department
   and approved by the director of the budget (11RD2208) (23468) ......
   1,800,000 ......................................... (re. $1,800,000)
  
@@ -7279,6 +7300,12 @@ S T A T E  O F  N E W  Y O R K
  
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
+  134  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   Health and Safety Purpose
  
  By chapter 53, section 1, of the laws of 2008:
@@ -7303,12 +7330,6 @@ S T A T E  O F  N E W  Y O R K
   provisions of the smart schools bond act of 2014.
   The director of the budget is hereby authorized to  designate  to  the
   state  comptroller  specific  appropriations  made  from the capital
-  134  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   projects fund for purposes for which smart schools bond fund expend-
   itures are authorized. The state comptroller shall at the  commence-
   ment of each month certify to the director of the budget, the chair-
@@ -7337,6 +7358,12 @@ S T A T E  O F  N E W  Y O R K
  SMART SCHOOLS IMPLEMENTATION (CCP)
  
   Capital Projects Funds - Other
+  135  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   Capital Projects Fund - Smart Schools (Bondable) - 30000
   Educational Purpose
  
@@ -7361,18 +7388,12 @@ S T A T E  O F  N E W  Y O R K
   accommodate  pre-kindergarten  programs;  instructional  space  to
   replace transportable classroom units; and high-tech  school  safety
   and  security projects. Pursuant to school districts' approved smart
-  135  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   schools investment plans, all or a portion of the funds appropriated
   hereby may be suballocated or transferred to any department, agency,
   or public authority.
-  No  part  of  this  appropriation  shall  be  made  available prior to
-  approval of the smart schools bond act of 2014 by the voters at  the
-  general  election  to be held in November of 2014 (11SR14ED) (56144)
+  No part of  this  appropriation  shall  be  made  available  prior  to
+  approval  of the smart schools bond act of 2014 by the voters at the
+  general election to be held in November of 2014  (11SR14ED)  (56144)
   ... 2,000,000,000 ............................. (re. $1,360,163,000)
  
  SMART SCHOOLS SPECIAL EDUCATION PROJECTS (CCP)
@@ -7382,20 +7403,26 @@ S T A T E  O F  N E W  Y O R K
   Educational Purpose
  
  By chapter 54, section 1, of the laws of 2014:
-  For payment of the costs of  capital  projects  undertaken  by  or  on
-  behalf  of special act school districts, state-supported schools for
-  the blind and deaf and approved private special  education  schools,
-  pursuant  to  investment  plans approved by the smart schools review
+  For  payment  of  the  costs  of  capital projects undertaken by or on
+  behalf of special act school districts, state-supported schools  for
+  the  blind  and deaf and approved private special education schools,
+  pursuant to investment plans approved by the  smart  schools  review
   board established by subdivision 16 of section 3641 of the education
-  law, for  acquisition  or  installation  of  educational  technology
-  equipment.  Costs of such projects may include but not be limited to
+  law,  for  acquisition  or  installation  of  educational technology
+  equipment. Costs of such projects may include but not be limited  to
   interactive  whiteboards;  computer  servers;  desktop,  laptop  and
-  tablet  computers;  and  high-speed  broadband and wireless Internet
+  tablet computers; and high-speed  broadband  and  wireless  Internet
   connectivity;  design,  planning,  site  acquisition,  construction,
-  reconstruction  or  rehabilitation of instructional space to replace
+  reconstruction or rehabilitation of instructional space  to  replace
   transportable classroom units; and high-tech school safety and secu-
-  rity projects. This appropriation shall be  made  available  to  the
-  same  extent  as funds are authorized and made available pursuant to
+  rity  projects.  This  appropriation  shall be made available to the
+  136  12554-08-3
+ 
+  EDUCATION DEPARTMENT
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  same extent as funds are authorized and made available  pursuant  to
   the smart schools bond act of 2014 (110014ED) (56156) ..............
   5,000,000 ......................................... (re. $2,537,000)
  
@@ -7404,27 +7431,21 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Fund - Other
   Capital Projects Fund - 30000
   Program Improvement/Change Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2021:
-  For services and expenses related to the development of  a  modernized
+  For  services  and expenses related to the development of a modernized
   state aid data system, including but not limited to equipment, soft-
-  ware,  hardware  and  services,  subject  to a plan developed by the
-  education department in conjunction with the office  of  information
-  technology  services  and  approved  by  the director of the budget.
-  Funds appropriated herein may be suballocated  to  any  other  state
-  department,  agency,  or  public benefit corporation, to achieve the
+  ware, hardware and services, subject to  a  plan  developed  by  the
+  education  department  in conjunction with the office of information
+  technology services and approved by  the  director  of  the  budget.
+  Funds  appropriated  herein  may  be suballocated to any other state
+  department, agency, or public benefit corporation,  to  achieve  the
   purpose of this appropriation subject to approval by the director of
   the budget (11SA2108) (23343) ... 41,000,000 ..... (re. $40,867,000)
  
  STATE SUPPORTED SCHOOLS FOR THE BLIND AND DEAF (CCP)
  
   Capital Projects Funds - Other
-  136  12554-07-3
- 
-  EDUCATION DEPARTMENT
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   Capital Projects Fund - 30000
   Health and Safety Purpose
  
@@ -7445,7 +7466,7 @@ S T A T E  O F  N E W  Y O R K
   tioned based on a plan developed by  the  education  department  and
   approved by the director of the budget (11421901) (23303) ..........
   30,000,000 ....................................... (re. $28,409,000)
-  137  12554-07-3
+  137  12554-08-3
  
   STATE BOARD OF ELECTIONS
  
@@ -7484,7 +7505,7 @@ S T A T E  O F  N E W  Y O R K
   ways and means committee (EL012308)(23527)
   ............................................. 15,000,000
   --------------
-  138  12554-07-3
+  138  12554-08-3
  
   STATE BOARD OF ELECTIONS
  
@@ -7542,7 +7563,7 @@ S T A T E  O F  N E W  Y O R K
   details of the reimbursement claims process and timeframes, provided
   that  local boards of election claims shall include such information
   as necessary to support state financing mechanisms.  Notwithstanding
-  139  12554-07-3
+  139  12554-08-3
  
   STATE BOARD OF ELECTIONS
  
@@ -7552,8 +7573,8 @@ S T A T E  O F  N E W  Y O R K
   by  appropriated  may  be suballocated or transferred to any depart-
   ment, agency or public authority (EL011908) (23523) ................
   14,700,000 .......................................... (re. $743,000)
-  140  12554-07-3
- 
+  140  12554-08-3
+
   ENERGY RESEARCH AND DEVELOPMENT AUTHORITY
  
   CAPITAL PROJECTS  2023-24
@@ -7575,7 +7596,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   EmPower Plus Program Purpose
- 
+
  The  sum of $200,000,000 is hereby appropri-
   ated for  services  and  expenses,  loans,
   grants,  and  other costs related to clean
@@ -7607,7 +7628,7 @@ S T A T E  O F  N E W  Y O R K
   including obligations pursuant to the West
   Valley demonstration project act (Pub.  L.
   96-368)(03WV23G6) (44406) ................... 25,800,000
-  141  12554-07-3
+  141  12554-08-3
  
   ENERGY RESEARCH AND DEVELOPMENT AUTHORITY
  
@@ -7634,7 +7655,7 @@ S T A T E  O F  N E W  Y O R K
   York nuclear service center, including obligations pursuant  to  the
   West  Valley  demonstration  project  act (Pub. L. 96-368)(03WV22G6)
   (44406) ... 23,600,000 ........................... (re. $23,600,000)
-  142  12554-07-3
+  142  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -7652,7 +7673,7 @@ S T A T E  O F  N E W  Y O R K
   ----------------  ----------------
   All Funds ........................  2,017,800,000  16,948,546,000
   ================  ================
- 
+
  ADMINISTRATION (CCP) ........................................ 95,000,000
   --------------
  
@@ -7675,7 +7696,7 @@ S T A T E  O F  N E W  Y O R K
   accordance  with  section  3-0321  of  the
   environmental  conservation law (09GI2351)
   (25613) ...................................... 5,000,000
- 
+
   Capital Projects Funds - Federal
   Federal Capital Projects Fund - 31364
   ENCON Federal Infrastructure and Jobs Act
@@ -7692,10 +7713,10 @@ S T A T E  O F  N E W  Y O R K
   reconstruction,  preservation, and operat-
   ing costs. Any portion of  this  appropri-
   ation  may  be  transferred to state oper-
-  143  12554-07-3
+  143  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
+
   CAPITAL PROJECTS  2023-24
  
   ations  and  aid  to  localities.
@@ -7750,10 +7771,10 @@ S T A T E  O F  N E W  Y O R K
   contracts for  the  development  of  local
   climate  resiliency  plans  and adaptation
   projects, and (b) up to  $200,000  to  the
-  144  12554-07-3
+  144  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
+
   CAPITAL PROJECTS  2023-24
  
   department  of agriculture and markets for
@@ -7808,7 +7829,7 @@ S T A T E  O F  N E W  Y O R K
   forests  and woodlands located on agricul-
   tural  land  for  the  purpose  of  carbon
   sequestration  and  to promote sustainable
-  145  12554-07-3
+  145  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -7830,7 +7851,7 @@ S T A T E  O F  N E W  Y O R K
   Environmental Protection Fund
   Open Space Account - 30454
   Environment and Recreation Purpose
- 
+
  For  services  and  expenses of projects and
   purposes authorized by section 92-s of the
   state finance law to receive funding  from
@@ -7866,8 +7887,8 @@ S T A T E  O F  N E W  Y O R K
   Center,  Lake George watershed, Lake Cham-
   plain  watershed,  Boeselager  forestry,
   Rensselaer  Plateau,  Oomsdale  Farm  and
-  146  12554-07-3
- 
+  146  12554-08-3
+
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   CAPITAL PROJECTS  2023-24
@@ -7924,7 +7945,7 @@ S T A T E  O F  N E W  Y O R K
   for re-treeing public  lands  impacted  by
   the  invasive species; (b) notwithstanding
   any law to the contrary,  $3,000,000  from
-  147  12554-07-3
+  147  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -7981,7 +8002,7 @@ S T A T E  O F  N E W  Y O R K
   and control projects  notwithstanding  any
   law  to  the  contrary, $1,000,000 of such
   amount shall be made available for Cornell
-  148  12554-07-3
+  148  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8038,7 +8059,7 @@ S T A T E  O F  N E W  Y O R K
  Notwithstanding any law to the contrary, for
   the Finger  Lakes-Lake  Ontario  Watershed
   Protection Alliance (09FL23ER) (24835) ....... 2,750,000
-  149  12554-07-3
+  149  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8096,12 +8117,12 @@ S T A T E  O F  N E W  Y O R K
   ated water protection programs some or all
   of which may be allocated  to  the  United
   States  Geological  Survey  or  the  New
-  150  12554-07-3
+  150  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   CAPITAL PROJECTS  2023-24
-
+ 
   England Interstate Water Pollution Control
   Commission; $150,000  for  the  Chautauqua
   Lake Association; $95,000 for the Chautau-
@@ -8154,8 +8175,8 @@ S T A T E  O F  N E W  Y O R K
   prescribed fire program. Such funding  for
   grants  shall be provided on a competitive
   basis in consultation with  the  New  York
-  151  12554-07-3
-
+  151  12554-08-3
+ 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   CAPITAL PROJECTS  2023-24
@@ -8212,8 +8233,8 @@ S T A T E  O F  N E W  Y O R K
   updates to existing local waterfront revi-
   talization  program  plans  to  mitigate
   future  physical  climate  risks;  and
-  152  12554-07-3
-
+  152  12554-08-3
+ 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   CAPITAL PROJECTS  2023-24
@@ -8270,7 +8291,7 @@ S T A T E  O F  N E W  Y O R K
   sustainable use of the forest preserve and
   other  state  lands that are threatened by
   overuse;  Catskill  and  Adirondack  camp
-  153  12554-07-3
+  153  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8328,12 +8349,12 @@ S T A T E  O F  N E W  Y O R K
   law to  the  contrary,  for  services  and
   expenses  of  the  Hudson River Park Trust
   for projects related to the development of
-  154  12554-07-3
+  154  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   CAPITAL PROJECTS  2023-24
- 
+
   the  Hudson  River  Park  consistent  with
   provisions  of  chapter 592 of the laws of
   1998, including but not limited to utility
@@ -8365,7 +8386,7 @@ S T A T E  O F  N E W  Y O R K
   Environmental Protection Fund
   Solid Waste Account - 30452
   Environment and Recreation Purpose
-
+ 
  For services and expenses  of  projects  and
   purposes authorized by section 92-s of the
   state  finance law to receive funding from
@@ -8385,7 +8406,7 @@ S T A T E  O F  N E W  Y O R K
   profit  food  banks  for projects for food
   donation and the recycling of food  scraps
   (09MR23ER) (24814) .......................... 19,000,000
-  155  12554-07-3
+  155  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8443,10 +8464,10 @@ S T A T E  O F  N E W  Y O R K
   mental and/or related public health issues
   to  be  addressed  by  the  project.  Such
   groups  shall  be  primarily  focused  on
-  156  12554-07-3
+  156  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
- 
+
   CAPITAL PROJECTS  2023-24
  
   addressing  the  environmental  and/or
@@ -8501,7 +8522,7 @@ S T A T E  O F  N E W  Y O R K
   States  Geological  Survey  for  the  Long
   Island  Ground  Water  study  (09EH23ER)
   (25703) ..................................... 12,750,000
-  157  12554-07-3
+  157  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8523,7 +8544,7 @@ S T A T E  O F  N E W  Y O R K
   facilities and systems including  personal
   services,  fringe  benefits  and  indirect
   costs (09FM23MO) (81107) ..................... 6,000,000
- 
+
  FISH AND WILDLIFE (CCP) ...................................... 6,500,000
   --------------
  
@@ -8545,7 +8566,7 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Capital Projects Fund
   Endangered and Threatened Species Mitigation Bank Fund
   Fish and Wildlife Purpose
- 
+
  For services and expenses,  related  to  the
   projects  undertaken  to  facilitate a net
   conservation  benefit  to  endangered  and
@@ -8558,7 +8579,7 @@ S T A T E  O F  N E W  Y O R K
  
  LANDS AND FORESTS (CCP) ..................................... 65,000,000
   --------------
-  158  12554-07-3
+  158  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8615,12 +8636,12 @@ S T A T E  O F  N E W  Y O R K
   the  acquisition  of  property  including
   suballocation  to  other state departments
   and agencies (09MR23A1) (24708) ............. 20,000,000
-  159  12554-07-3
+  159  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
   CAPITAL PROJECTS  2023-24
-
+ 
  NEW YORK WORKS (CCP) ........................................ 90,000,000
   --------------
  
@@ -8673,7 +8694,7 @@ S T A T E  O F  N E W  Y O R K
   of  the  budget including suballocation to
   other  state  departments  and  agencies
   (09RI2351) (24855) .......................... 41,000,000
-  160  12554-07-3
+  160  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8707,7 +8728,7 @@ S T A T E  O F  N E W  Y O R K
   claims including  suballocation  to  other
   state  departments and agencies (09442351)
   (24860) ..................................... 26,000,000
- 
+
   Capital Projects Funds - Federal
   Federal Capital Projects Fund
   ENCON Federal Capital Account - 31364
@@ -8731,7 +8752,7 @@ S T A T E  O F  N E W  Y O R K
   work  at sites contaminated with hazardous
   waste. No portion  of  this  appropriation
   shall be available for expenditure until a
-  161  12554-07-3
+  161  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8770,7 +8791,7 @@ S T A T E  O F  N E W  Y O R K
   Hazardous Waste Remedial Fund
   Hazardous Waste Cleanup Account - 31506
   Hazardous Waste Purpose
- 
+
  For  payment of the state share of the costs
   of  hazardous  waste  site  remediation
   projects,  in  accordance with title 13 of
@@ -8789,7 +8810,7 @@ S T A T E  O F  N E W  Y O R K
   law  and  including  costs  incidental and
   appurtenant  thereto,  provided  that  a
   portion  of  such  amount may be available
-  162  12554-07-3
+  162  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8825,7 +8846,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Solid Waste Management Purpose
-
+ 
  For services and capital expenses related to
   the  waste  management and cleanup program
   as put forth in section 27-1915  of  envi-
@@ -8847,7 +8868,7 @@ S T A T E  O F  N E W  Y O R K
   (09OS2356) (25720) .......................... 21,200,000
  
   Capital Projects Funds - Federal
-  163  12554-07-3
+  163  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8905,7 +8926,7 @@ S T A T E  O F  N E W  Y O R K
   reinstallation,  upgrade,  monitoring  and
   maintenance  of  a  statewide  network  of
   stream  flow  gauges,  including  personal
-  164  12554-07-3
+  164  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -8963,7 +8984,7 @@ S T A T E  O F  N E W  Y O R K
   ated  for the costs of clean water infras-
   tructure  projects,  including  services,
   expenses,  and  indirect  costs, including
-  165  12554-07-3
+  165  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9021,10 +9042,10 @@ S T A T E  O F  N E W  Y O R K
   ment  of  information  technology  systems
   related  to  water  quality  pursuant  to
   section  3-0315  of  the  environmental
-  166  12554-07-3
+  166  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
-
+ 
   CAPITAL PROJECTS  2023-24
  
   conservation  law. All or a portion of the
@@ -9051,7 +9072,7 @@ S T A T E  O F  N E W  Y O R K
   undertaken  pursuant  to  water  resources
   purposes including suballocation to  other
   state departments and agencies (09WF2357) .... 3,000,000
-  167  12554-07-3
+  167  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9087,7 +9108,7 @@ S T A T E  O F  N E W  Y O R K
   For  employee  fringe benefits and indirect costs related to employees
   paid from department capital projects  funds  and  capital  accounts
   (09FG1950) (25729) ... 24,700,000 ................. (re. $8,846,000)
- 
+
  By chapter 54, section 1, of the laws of 2017:
   For  alterations,  rehabilitation  and improvements at education camps
   and centers including personal service, fringe benefits and indirect
@@ -9109,7 +9130,7 @@ S T A T E  O F  N E W  Y O R K
   For  alterations,  rehabilitation  and improvements at education camps
   and centers including personal service, fringe benefits and indirect
   costs (09ED1350) (24806) ... 1,000,000 .............. (re. $469,000)
-  168  12554-07-3
+  168  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9167,7 +9188,7 @@ S T A T E  O F  N E W  Y O R K
   localities. Notwithstanding any  other  inconsistent  provisions  of
   law,  funding appropriated herein is authorized for suballocation or
   transfer to other state departments, agencies, and authorities,  and
-  169  12554-07-3
+  169  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9195,7 +9216,7 @@ S T A T E  O F  N E W  Y O R K
   Clean Air Fund
   Mobile Source Account
   Air Resources Purpose
-
+ 
  By chapter 55, section 1, of the laws of 1999:
   For  services and expenses relating to the implementation and adminis-
   tration of the clean air mobile source  program  (09MO9955)  (24808)
@@ -9225,7 +9246,7 @@ S T A T E  O F  N E W  Y O R K
   enter  into  contracts  for  state assistance payments for the state
   share of costs for air  quality  projects,  provided  however,  that
   moneys  herein  appropriated  pursuant  to  subdivision 1 of section
-  170  12554-07-3
+  170  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -9283,7 +9304,7 @@ S T A T E  O F  N E W  Y O R K
   to section 56-0607 of the environmental conservation law  for  other
   air quality projects may be suballocated to the environmental facil-
   ities corporation. Notwithstanding any other provision of law to the
-  171  12554-07-3
+  171  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9341,7 +9362,7 @@ S T A T E  O F  N E W  Y O R K
   article  56  of the environmental conservation law upon the issuance
   of a certificate of approval of availability by the director of  the
   division of the budget. The state comptroller shall at the commence-
-  172  12554-07-3
+  172  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9399,7 +9420,7 @@ S T A T E  O F  N E W  Y O R K
   of the senate finance committee, and the chairman  of  the  assembly
   ways  and  means committee the amounts disbursed from this appropri-
   ation for "Air Quality  Improvement  Disbursements"  for  the  month
-  173  12554-07-3
+  173  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9456,7 +9477,7 @@ S T A T E  O F  N E W  Y O R K
   ation for "Air Quality  Improvement  Disbursements"  for  the  month
   preceding such certification (09BA9755) (24809) ....................
   80,000,000 ....................................... (re. $22,568,000)
-  174  12554-07-3
+  174  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9514,7 +9535,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 1974, as amended by chapter 54,
   section 3, of the laws of 1988, for: The state share of the cost  of
-  175  12554-07-3
+  175  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9572,7 +9593,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Clean Water/Clean Air Implementation Fund
   Clean Water/Clean Air Implementation-DEC Account - 30501
-  176  12554-07-3
+  176  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9630,7 +9651,7 @@ S T A T E  O F  N E W  Y O R K
   Clean Water, Clean Air, And Green Jobs Environmental Bond Act Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  177  12554-07-3
+  177  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9688,7 +9709,7 @@ S T A T E  O F  N E W  Y O R K
   sion  of  zero emission school buses, and supporting infrastructure,
   not less than $100,000,000 for  climate  adaptation  and  mitigation
   projects,  and not less than $200,000,000 for disbursement to reduce
-  178  12554-07-3
+  178  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9746,7 +9767,7 @@ S T A T E  O F  N E W  Y O R K
   department, agency, or public authority including but not limited to
   the  environmental  facilities corporation and New York state energy
   research and development authority.
-  179  12554-07-3
+  179  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9804,7 +9825,7 @@ S T A T E  O F  N E W  Y O R K
  ENVIRONMENT AND RECREATION (CCP)
  
   Capital Projects Funds - Other
-  180  12554-07-3
+  180  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9861,7 +9882,7 @@ S T A T E  O F  N E W  Y O R K
   and education to improve soil resiliency to climate  variations  and
   mitigate greenhouse gas emissions by carbon sequestration (09CR22ER)
   (25718) ... 16,750,000 ........................... (re. $16,750,000)
-  181  12554-07-3
+  181  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -9919,7 +9940,7 @@ S T A T E  O F  N E W  Y O R K
   of  the  environmental  conservation  law  including  clean  vehicle
   projects;  notwithstanding  any  law  to  the  contrary,  including
   $500,000  for  a  resiliency  planting  program; up to $500,000 for:
-  182  12554-07-3
+  182  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -9976,7 +9997,7 @@ S T A T E  O F  N E W  Y O R K
   Hudson Valley; and up to $500,000 for: grants to municipalities  for
   aquisition of community forests (09CS20ER) (25701) .................
   10,150,000 ........................................ (re. $9,921,000)
-  183  12554-07-3
+  183  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10034,7 +10055,7 @@ S T A T E  O F  N E W  Y O R K
   projects;  notwithstanding  any  law  to  the  contrary,  including
   $500,000 for a resiliency planting program (09CS19ER) (25701) ......
   10,650,000 ....................................... (re. $10,266,000)
-  184  12554-07-3
+  184  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10092,7 +10113,7 @@ S T A T E  O F  N E W  Y O R K
   the development of  statewide  greenhouse  gas  inventories,  demon-
   stration projects, community engagement and applied research related
   to  the  transportation  sector  or  methane  and  other short-lived
-  185  12554-07-3
+  185  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10149,7 +10170,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any law to the contrary,  to  address  greenhouse  gas
   emissions  outside  of the power sector including but not limited to
   the development of inventories, demonstration projects  and  applied
-  186  12554-07-3
+  186  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10207,7 +10228,7 @@ S T A T E  O F  N E W  Y O R K
   Five  Rivers  Environmental Education Center, Lake George watershed,
   Lake Champlain watershed, Boeselager forestry,  Rensselaer  Plateau,
   Oomsdale  Farm and Surrounding Landscape, Turtle Conservation Sites,
-  187  12554-07-3
+  187  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10265,7 +10286,7 @@ S T A T E  O F  N E W  Y O R K
   commission;  $359,500  for  the  Delaware  river  basin  commission;
   $14,100  for the Ohio river basin commission; $41,600 for the Inter-
   state environmental commission; and  $38,000  for  the  New  England
-  188  12554-07-3
+  188  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10323,7 +10344,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any law to the contrary,  for  the  Finger  Lakes-Lake
   Ontario Watershed Protection Alliance (09FL22ER) (24835) ...........
   2,500,000 ......................................... (re. $2,500,000)
-  189  12554-07-3
+  189  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10381,7 +10402,7 @@ S T A T E  O F  N E W  Y O R K
   $450,000  for the Peconic Estuary Partnership, including $60,000 for
   the Great Lakes commission (09GL22ER) (24830) ......................
   22,500,000 ....................................... (re. $22,434,000)
-  190  12554-07-3
+  190  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10439,7 +10460,7 @@ S T A T E  O F  N E W  Y O R K
   City Watershed Lands, Taconic Ridge/Harlem Valley, Albany Pine Bush,
   Five  Rivers  Environmental Education Center, Lake George watershed,
   Lake Champlain watershed, Boeselager forestry,  Rensselaer  Plateau,
-  191  12554-07-3
+  191  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10497,7 +10518,7 @@ S T A T E  O F  N E W  Y O R K
   commission;  $359,500  for  the  Delaware  river  basin  commission;
   $14,100  for the Ohio river basin commission; $41,600 for the Inter-
   state environmental commission; and  $38,000  for  the  New  England
-  192  12554-07-3
+  192  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10555,7 +10576,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  any  law  to  the contrary, for the Finger Lakes-Lake
   Ontario Watershed Protection Alliance (09FL21ER) (24835) ...........
   2,300,000 ......................................... (re. $2,300,000)
-  193  12554-07-3
+  193  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -10613,7 +10634,7 @@ S T A T E  O F  N E W  Y O R K
   including  but  not limited to southern pine beetle, including up to
   $500,000 to Cornell University for  the  control  of  hemlock  wooly
   adelgid,  and including grants related to the control and management
-  194  12554-07-3
+  194  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10671,7 +10692,7 @@ S T A T E  O F  N E W  Y O R K
   Watershed, Catharine  Valley  Complex,  High-Tor/Bristol  Hills/Bare
   Hill  State  Unique  Area,  Lake  Ontario  and Lake Erie Shorelines,
   Islands and Niagara River, Long Island Trails and  Greenways,  Bronx
-  195  12554-07-3
+  195  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -10729,7 +10750,7 @@ S T A T E  O F  N E W  Y O R K
   Cornell Cooperative Extension of Suffolk County for nutrient manage-
   ment  planning and implementation activities; and (c) $250,000 shall
   be made available to Cornell for the pesticide management  education
-  196  12554-07-3
+  196  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10787,7 +10808,7 @@ S T A T E  O F  N E W  Y O R K
   harmful  algal  blooms; including up to $3,000,000 to Suffolk county
   to provide a 50 percent match for a program developed  in  consulta-
   tion  with  the  department  for  research,  development  and  pilot
-  197  12554-07-3
+  197  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10845,7 +10866,7 @@ S T A T E  O F  N E W  Y O R K
   1,500,000 ......................................... (re. $1,500,000)
  
  By chapter 54, section 1, of the laws of 2019:
-  198  12554-07-3
+  198  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10903,7 +10924,7 @@ S T A T E  O F  N E W  Y O R K
   made available for such programs in  cities  and  towns  with  popu-
   lations  of  65,000  or  more;  (b)  notwithstanding  any law to the
   contrary, $2,500,000 from the land  acquisition  allocation  to  the
-  199  12554-07-3
+  199  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -10960,7 +10981,7 @@ S T A T E  O F  N E W  Y O R K
   tats;  research  to  understand, prevent and recover from pollinator
   losses; and outreach and education; and including $100,000  for  the
   Cary Institute of Ecosystem Studies to support the Catskill environ-
-  200  12554-07-3
+  200  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11018,7 +11039,7 @@ S T A T E  O F  N E W  Y O R K
   (24837) ... 17,750,000 ............................ (re. $6,672,000)
   Notwithstanding any law to the contrary for New York ocean  and  Great
   Lakes  ecosystem  conservation  projects, consistent with the policy
-  201  12554-07-3
+  201  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11076,7 +11097,7 @@ S T A T E  O F  N E W  Y O R K
   Corridor/Hudson  River  Estuary  and  Greenway  Trail/  Hudson River
   School Art Trail, Hudson Valley/New  York  City  Foodshed,  Catskill
   Unfragmented  Forest,  Catskill  River  and Road Corridors, New York
-  202  12554-07-3
+  202  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11134,7 +11155,7 @@ S T A T E  O F  N E W  Y O R K
   services and expenses of  the  Cornell  University  Integrated  Pest
   Management  program;  (b)  $500,000  shall  be made available to the
   Cornell Cooperative Extension of Suffolk County for nutrient manage-
-  203  12554-07-3
+  203  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11192,7 +11213,7 @@ S T A T E  O F  N E W  Y O R K
   to provide a 50 percent match for a program developed  in  consulta-
   tion  with  the  department  for  research,  development  and  pilot
   projects to develop cost effective methods to address  nitrogen  and
-  204  12554-07-3
+  204  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11250,7 +11271,7 @@ S T A T E  O F  N E W  Y O R K
   Planning  and  Policy Commission for the implementation and adminis-
   tration of a prescribed fire program. Such funding for grants  shall
   be provided on a competitive basis in consultation with the New York
-  205  12554-07-3
+  205  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11308,7 +11329,7 @@ S T A T E  O F  N E W  Y O R K
   Islands  and  Niagara River, Long Island Trails and Greenways, Bronx
   Harlem  Greenway,  Harbor  Herons  Wildlife  Complex,  Schunnemunk
   Mountain/Moodna Creek/Woodcock Mountain/Hudson Highlands Connectivi-
-  206  12554-07-3
+  206  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11366,7 +11387,7 @@ S T A T E  O F  N E W  Y O R K
   University, including research  related  to  the  potential  adverse
   impacts of pesticides such as neonicitinoids, pursuant to a contract
   with the department of agriculture and markets, including the devel-
-  207  12554-07-3
+  207  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11424,7 +11445,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any law to the contrary for New York ocean  and  Great
   Lakes  ecosystem  conservation  projects, consistent with the policy
   articulated in article 14 of  the  environmental  conservation  law;
-  208  12554-07-3
+  208  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -11482,7 +11503,7 @@ S T A T E  O F  N E W  Y O R K
   and  Wetlands, Saratoga County, State Forest and Wildlife Management
   Area Protection, Follensby  Park,  Undeveloped  Lake  George  Shore,
   Whitney  Park, Finch Woodlands, Washington County, Washington County
-  209  12554-07-3
+  209  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11540,7 +11561,7 @@ S T A T E  O F  N E W  Y O R K
   (24833) ... 8,000,000 ............................. (re. $3,437,000)
   Agriculture and farmland protection  activities,  notwithstanding  any
   law  to  the contrary, $1,000,000 shall be made available to the tug
-  210  12554-07-3
+  210  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -11598,7 +11619,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  any  law to the contrary for New York ocean and Great
   Lakes ecosystem conservation projects, consistent  with  the  policy
   articulated  in  article  14  of the environmental conservation law;
-  211  12554-07-3
+  211  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11656,7 +11677,7 @@ S T A T E  O F  N E W  Y O R K
   Central  Pine Barrens, Hudson River projects, Western Suffolk/Nassau
   Special Groundwater Protection Areas, Mott Haven-Port Morris  Water-
   front, Bronx River Greenway, Inner City/Underserved Community Parks,
-  212  12554-07-3
+  212  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11714,7 +11735,7 @@ S T A T E  O F  N E W  Y O R K
   Agriculture and farmland protection  activities,  notwithstanding  any
   law  to  the contrary, $1,000,000 shall be made available to the tug
   hill tomorrow land trust for  army  compatible  use  buffer  program
-  213  12554-07-3
+  213  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11772,7 +11793,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2014:
   For  services  and  expenses  of  projects  and purposes authorized by
   section 92-s of the state finance law to receive  funding  from  the
-  214  12554-07-3
+  214  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11830,7 +11851,7 @@ S T A T E  O F  N E W  Y O R K
   costs  and/or  technical  assistance;  (c) $250,000 for a resiliency
   planting program; (d)  notwithstanding  any  law  to  the  contrary,
   $1,500,000  for  land  acquisition  in  Department  of Environmental
-  215  12554-07-3
+  215  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11887,7 +11908,7 @@ S T A T E  O F  N E W  Y O R K
   1,500,000 ............................................ (re. $35,000)
  
  By chapter 54, section 1, of the laws of 2013:
-  216  12554-07-3
+  216  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -11945,7 +11966,7 @@ S T A T E  O F  N E W  Y O R K
   trusts, provided that up to ten percent of such amount may  be  made
   available  for administrative costs and/or technical assistance; (c)
   notwithstanding any law to the contrary, $1,000,000 for land  acqui-
-  217  12554-07-3
+  217  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12003,7 +12024,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and  expenses  of  projects  and purposes authorized by
   section 92-s of the state finance law to receive  funding  from  the
   open  space  account in accordance with a programmatic and financial
-  218  12554-07-3
+  218  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12061,7 +12082,7 @@ S T A T E  O F  N E W  Y O R K
   Central Pine Barrens, Hudson River projects, Western  Suffolk/Nassau
   Special  Groundwater Protection Areas, Inner City/Underserved Commu-
   nity Parks, Long Pond/Butler Woods, Staten Island Greenbelt,  Staten
-  219  12554-07-3
+  219  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12119,7 +12140,7 @@ S T A T E  O F  N E W  Y O R K
   of  wastewater  treatment improvement projects undertaken by munici-
   palities to upgrade municipal systems to meet  stormwater,  combined
   sewer  overflow,  sanitary  sewer  overflow and wastewater treatment
-  220  12554-07-3
+  220  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -12177,7 +12198,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any law to the contrary, for the implementation of the
   recommendations of the invasive species task force prepared pursuant
   to chapter 324 of the laws of 2003 and for the purposes set forth in
-  221  12554-07-3
+  221  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12235,7 +12256,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any law to the contrary, for the implementation of the
   recommendations of the invasive species task force prepared pursuant
   to chapter 324 of the laws of 2003 and for the purposes set forth in
-  222  12554-07-3
+  222  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12293,7 +12314,7 @@ S T A T E  O F  N E W  Y O R K
   Corridor,  Junius  Ponds  State  Forest and Wildlife Management Area
   Protection, Tonawanda Creek Watershed, Two Rivers State Park, Finger
   Lakes Shoreline, Buffalo/Niagara River Corridors, Northern Montezuma
-  223  12554-07-3
+  223  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12351,7 +12372,7 @@ S T A T E  O F  N E W  Y O R K
   to chapter 324 of the laws of 2003 and for the purposes set forth in
   chapter 674 of  the  laws  of  2007  provided  that  not  less  than
   $1,000,000  be  made available for invasive species eradication, and
-  224  12554-07-3
+  224  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12409,7 +12430,7 @@ S T A T E  O F  N E W  Y O R K
   and Wildlife Management Area Protection, Tonawanda Creek  Watershed,
   Two Rivers State Park, Finger Lakes Shoreline, Buffalo/Niagara River
   Corridors,  Northern  Montezuma Wetlands, HiTor/Bristol Hills, Brad-
-  225  12554-07-3
+  225  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12467,7 +12488,7 @@ S T A T E  O F  N E W  Y O R K
   Pinelands  Maritime  Reserve  Projects, Pine Barrens Core Compatible
   Growth Area  and  Critical  Resource  Area,  Western  Suffolk/Nassau
   Special Groundwater Protection Area, Inner City/Underserved Communi-
-  226  12554-07-3
+  226  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12525,7 +12546,7 @@ S T A T E  O F  N E W  Y O R K
   made  available  for  such  programs  in  cities with populations of
   65,000 or  more;  (e)  notwithstanding  any  law  to  the  contrary,
   $500,000  from  the  land  acquisition  allocation to the land trust
-  227  12554-07-3
+  227  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12583,7 +12604,7 @@ S T A T E  O F  N E W  Y O R K
   projects .......................... 11,003
  Non-agricultural  non-point
   source abatement and
-  228  12554-07-3
+  228  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12641,7 +12662,7 @@ S T A T E  O F  N E W  Y O R K
   Lead/Tahawus,  Undeveloped Lake George Shore, Whitney Park, Northern
   Flow River Corridors, Recreational Trail Linkages and Networks,  Bog
   River/Beaver  River  Headwater  Complex,  Maumee  Swamp, Moose River
-  229  12554-07-3
+  229  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12698,7 +12719,7 @@ S T A T E  O F  N E W  Y O R K
  Finger  Lakes-Lake  Ontario
   Watershed  Protection  Alli-
   ance ............................... 1,500
-  230  12554-07-3
+  230  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12755,7 +12776,7 @@ S T A T E  O F  N E W  Y O R K
   Creek/Hampton  Brook Woods; Statewide Small Projects; Working Forest
   Lands; State Park and State Historic Site Protection;  and  Northern
   Putnam Greenway (09E603ER) (24753) ... 62,410,000 .... (re. $32,000)
-  231  12554-07-3
+  231  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12813,7 +12834,7 @@ S T A T E  O F  N E W  Y O R K
   Preserve, Cedarlands, Pilot Knob,  Floodwood  Camp,  Lake  Champlain
   Shoreline  and Wetlands, Wilton Wildlife Preserve and Park, National
   Lead/Tahawus, Undeveloped Lake George Shore, Whitney Park,  Northern
-  232  12554-07-3
+  232  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12871,7 +12892,7 @@ S T A T E  O F  N E W  Y O R K
   section  92-s  of  the state finance law to receive funding from the
   open space account in accordance with a programmatic  and  financial
   plan  to be approved by the director of the budget, including subal-
-  233  12554-07-3
+  233  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12928,7 +12949,7 @@ S T A T E  O F  N E W  Y O R K
  Non-point source abatement and
   control projects ................... 6,500
  Soil  and  water  conservation
-  234  12554-07-3
+  234  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -12984,7 +13005,7 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
  PROJECT  AMOUNT
  --------------------------------------------
-  235  12554-07-3
+  235  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13041,7 +13062,7 @@ S T A T E  O F  N E W  Y O R K
   project schedule
  PROJECT  AMOUNT
  --------------------------------------------
-  236  12554-07-3
+  236  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13099,7 +13120,7 @@ S T A T E  O F  N E W  Y O R K
  Biodiversity  stewardship  and
   research ............................. 275
  County  agriculture  and farm-
-  237  12554-07-3
+  237  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13157,7 +13178,7 @@ S T A T E  O F  N E W  Y O R K
   graphic  and other relevant data for such areas demonstrate that the
   areas are densely populated  and  have  sustained  physical  deteri-
   oration,  decay,  neglect  or  disinvestment  or where a substantial
-  238  12554-07-3
+  238  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13215,7 +13236,7 @@ S T A T E  O F  N E W  Y O R K
   ities to address issues  relating  to  overuse;  (viii)  and  up  to
   $600,000 to the Department of Environmental Conservation to initiate
   a procurement for a Visitor Use Management Framework that will serve
-  239  12554-07-3
+  239  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13273,7 +13294,7 @@ S T A T E  O F  N E W  Y O R K
   parks projects which are in or primarily  serve  areas  where  demo-
   graphic  and other relevant data for such areas demonstrate that the
   areas are densely populated  and  have  sustained  physical  deteri-
-  240  12554-07-3
+  240  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13330,7 +13351,7 @@ S T A T E  O F  N E W  Y O R K
   address issues relating to overuse including up to $800,000 to Essex
   County  to  address  issues  of  overuse  in  the  Adirondack  Park
   (09ST21ER) (24702) ... 34,451,800 ................ (re. $28,894,000)
-  241  12554-07-3
+  241  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13388,7 +13409,7 @@ S T A T E  O F  N E W  Y O R K
   otherwise disadvantaged and  is  underserved  with  respect  to  the
   existing  recreational  opportunities  in  the  area;  and including
   $250,000 for Tivoli Park; $500,000 for the Hudson River Valley Trail
-  242  12554-07-3
+  242  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13445,7 +13466,7 @@ S T A T E  O F  N E W  Y O R K
   16,000,000 ........................................ (re. $1,902,000)
  
  By chapter 54, section 1, of the laws of 2019:
-  243  12554-07-3
+  243  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13503,7 +13524,7 @@ S T A T E  O F  N E W  Y O R K
   pretation,  and  inventories, and response to forest pests including
   southern pine beetle; Forest Preserve and state forest unit  manage-
   ment  planning;  invasive  species management; conservation easement
-  244  12554-07-3
+  244  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13561,7 +13582,7 @@ S T A T E  O F  N E W  Y O R K
   Grants;  $120,000  to  the  State  University of New York college of
   environmental science and forestry  and  $180,000  to  Paul  Smith's
   College for the support of the Adirondack Park interpretive centers,
-  245  12554-07-3
+  245  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13619,7 +13640,7 @@ S T A T E  O F  N E W  Y O R K
   the contrary, not less than, $10,000,000 for waterfront  revitaliza-
   tion projects which are in or primarily serve areas where demograph-
   ic and other relevant data for such areas demonstrate that the areas
-  246  12554-07-3
+  246  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13677,7 +13698,7 @@ S T A T E  O F  N E W  Y O R K
   $500,000  from the public access and stewardship allocation to Parks
   & Trails New York for the purpose of awarding grants  on  a  compet-
   itive basis to local parks and department of environmental conserva-
-  247  12554-07-3
+  247  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13735,7 +13756,7 @@ S T A T E  O F  N E W  Y O R K
   under  the jurisdiction of the department of environmental conserva-
   tion or the office of parks, recreation  and  historic  preservation
   for access opportunities for people with disabilities; access to the
-  248  12554-07-3
+  248  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -13793,7 +13814,7 @@ S T A T E  O F  N E W  Y O R K
   graphic and other relevant data for such areas demonstrate that  the
   areas  are  densely  populated  and  have sustained physical deteri-
   oration, decay, neglect or  disinvestment  or  where  a  substantial
-  249  12554-07-3
+  249  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13851,7 +13872,7 @@ S T A T E  O F  N E W  Y O R K
   tion projects which are in or primarily serve areas where demograph-
   ic and other relevant data for such areas demonstrate that the areas
   are  densely  populated  and  have sustained physical deterioration,
-  250  12554-07-3
+  250  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -13909,7 +13930,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2013:
   For services and expenses  of  projects  and  purposes  authorized  by
   section  92-s  of  the state finance law to receive funding from the
-  251  12554-07-3
+  251  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -13966,7 +13987,7 @@ S T A T E  O F  N E W  Y O R K
   section  92-s  of  the state finance law to receive funding from the
   parks, recreation and historic preservation  account  in  accordance
   with  a programmatic and financial plan to be approved by the direc-
-  252  12554-07-3
+  252  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14024,7 +14045,7 @@ S T A T E  O F  N E W  Y O R K
   areas are densely populated  and  have  sustained  physical  deteri-
   oration,  decay,  neglect  or  disinvestment  or where a substantial
   proportion of the residential population is  of  low  income  or  is
-  253  12554-07-3
+  253  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14082,7 +14103,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  any law to the contrary, for state parks and land and
   easement infrastructure, access and stewardship projects which shall
   include capital projects: (i) on state parks and state  owned  lands
-  254  12554-07-3
+  254  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14140,7 +14161,7 @@ S T A T E  O F  N E W  Y O R K
   existing recreational opportunities in the area, and notwithstanding
   any  law  to  the  contrary,  $500,000  for Olmstead Park (09MP09ER)
   (24701) ... 20,813,000 ............................ (re. $3,256,000)
-  255  12554-07-3
+  255  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14198,7 +14219,7 @@ S T A T E  O F  N E W  Y O R K
   ties and safety improvements; public beach facility development  and
   improvement;  public  access  improvements  at  day use areas; state
   historic site exterior  restoration;  and  cabin  area  and  camping
-  256  12554-07-3
+  256  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14256,7 +14277,7 @@ S T A T E  O F  N E W  Y O R K
   1998;  provided,  however,  such  funds  shall  not be available for
   suballocation to any public benefit corporation or public  authority
   with  the  exception  of  the  Hudson  River Park Trust and shall be
-  257  12554-07-3
+  257  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14314,7 +14335,7 @@ S T A T E  O F  N E W  Y O R K
   opportunities in the area; and provided further this  section  shall
   not  be  construed  to restrict the use of any additional monies for
   such projects and not less than $1,500,000 for the Albany Pine  Bush
-  258  12554-07-3
+  258  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14372,7 +14393,7 @@ S T A T E  O F  N E W  Y O R K
   1998;  provided,  however,  such  funds  shall  not be available for
   suballocation to any public benefit corporation or public  authority
   with  the  exception  of  the  Hudson  River Park Trust and shall be
-  259  12554-07-3
+  259  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14430,7 +14451,7 @@ S T A T E  O F  N E W  Y O R K
   not  be  construed  to restrict the use of any additional monies for
   such  projects;  (g)  notwithstanding  any  law  to  the  contrary,
   $1,000,000  from  the  waterfront  revitalization allocation for the
-  260  12554-07-3
+  260  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14485,7 +14506,7 @@ S T A T E  O F  N E W  Y O R K
   tion programs ..................... 12,500
  Parks, recreation and historic
   preservation projects ............. 12,565
-  261  12554-07-3
+  261  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14541,7 +14562,7 @@ S T A T E  O F  N E W  Y O R K
   of expenses and the payment of liabilities incurred prior  to  April
   1, 2002, up to the limit of $11 million (09E302ER) (24752) .........
   47,935,000 .......................................... (re. $628,000)
-  262  12554-07-3
+  262  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -14599,7 +14620,7 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
  PROJECT  AMOUNT
  --------------------------------------------
-  263  12554-07-3
+  263  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14657,7 +14678,7 @@ S T A T E  O F  N E W  Y O R K
   project schedule
  PROJECT  AMOUNT
  --------------------------------------------
-  264  12554-07-3
+  264  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14714,7 +14735,7 @@ S T A T E  O F  N E W  Y O R K
  --------------------------------------------
   (thousands of dollars)
  Local  waterfront  revitaliza-
-  265  12554-07-3
+  265  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14772,7 +14793,7 @@ S T A T E  O F  N E W  Y O R K
   groups to build the capacity of such groups, provided that up to ten
   percent  may be made available for administrative costs and/or tech-
   nical assistance. Community impact and job training grants shall  be
-  266  12554-07-3
+  266  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14830,7 +14851,7 @@ S T A T E  O F  N E W  Y O R K
   3,950,000 ......................................... (re. $3,950,000)
  
  By chapter 54, section 1, of the laws of 2021:
-  267  12554-07-3
+  267  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14888,7 +14909,7 @@ S T A T E  O F  N E W  Y O R K
   affected  community.  The  results  of  the  investigation  shall be
   disseminated to members of the affected community. Community  groups
   eligible for funding must provide services within the same community
-  268  12554-07-3
+  268  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -14946,7 +14967,7 @@ S T A T E  O F  N E W  Y O R K
   ...  764,000 ........................................ (re. $314,000)
   Municipal  waste  reduction  or  recycling projects, and $2,000,000 of
   such amount shall be made available for municipalities and  not-for-
-  269  12554-07-3
+  269  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15003,7 +15024,7 @@ S T A T E  O F  N E W  Y O R K
   with  the  Northeast waste management officials' association for the
   Interstate Chemicals Clearing house (09PP20ER) (24815) .............
   4,000,000 ......................................... (re. $2,843,000)
-  270  12554-07-3
+  270  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15061,7 +15082,7 @@ S T A T E  O F  N E W  Y O R K
   served  communities,  and  which  are undertaken by the state, or on
   behalf of the state  by  municipalities,  or  not-for-profit  corpo-
   rations;  and  $3,000,000 of such amount shall be made available for
-  271  12554-07-3
+  271  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15118,7 +15139,7 @@ S T A T E  O F  N E W  Y O R K
   Brownfield opportunity area grants as authorized pursuant  to  section
   970-r of the general municipal law (09BO19ER) (25702) ..............
   1,500,000 ......................................... (re. $1,500,000)
-  272  12554-07-3
+  272  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15176,7 +15197,7 @@ S T A T E  O F  N E W  Y O R K
   issues to be addressed by the project. Such groups shall be primari-
   ly  focused  on  addressing  the environmental and/or related public
   health issues of the residents of the affected community  and  shall
-  273  12554-07-3
+  273  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15234,7 +15255,7 @@ S T A T E  O F  N E W  Y O R K
   facilitating access by  title  1  schools  to  outdoor  recreational
   activities,  public  lands  and parks; improvements to environmental
   quality; or environmental job training,  in  environmental  justice,
-  274  12554-07-3
+  274  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15292,7 +15313,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses  of  projects  and  purposes  authorized  by
   section  92-s  of  the state finance law to receive funding from the
   solid waste account in accordance with a programmatic and  financial
-  275  12554-07-3
+  275  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15350,7 +15371,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2017:
   For  services  and  expenses  of  projects  and purposes authorized by
   section 92-s of the state finance law to receive  funding  from  the
-  276  12554-07-3
+  276  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15407,7 +15428,7 @@ S T A T E  O F  N E W  Y O R K
   1,000,000 ........................................... (re. $183,000)
 
  By chapter 54, section 1, of the laws of 2013:
-  277  12554-07-3
+  277  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15464,7 +15485,7 @@ S T A T E  O F  N E W  Y O R K
   Secondary materials regional marketing assistance and energy conserva-
   tion services projects (09SM10ER) (24816) ..........................
   1,000,000 ......................................... (re. $1,000,000)
-  278  12554-07-3
+  278  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15520,7 +15541,7 @@ S T A T E  O F  N E W  Y O R K
   a Cornell University program to assess breast  cancer  and  environ-
   mental risk factors in New York State (09E206ER) (24751) ...........
   23,770,500 ........................................ (re. $5,418,000)
-  279  12554-07-3
+  279  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -15578,7 +15599,7 @@ S T A T E  O F  N E W  Y O R K
   any natural resource damages
   to the Hudson River ................ 1,300
  Pesticides program ................... 2,475
-  280  12554-07-3
+  280  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15636,7 +15657,7 @@ S T A T E  O F  N E W  Y O R K
   projects ........................... 6,500
  Services and expenses  of  the
   assessment  and  recovery of
-  281  12554-07-3
+  281  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15694,7 +15715,7 @@ S T A T E  O F  N E W  Y O R K
  Municipal waste  reduction  or
   recycling projects ................. 6,225
  Secondary  materials  regional
-  282  12554-07-3
+  282  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15750,7 +15771,7 @@ S T A T E  O F  N E W  Y O R K
   plan  to be approved by the director of the budget, including subal-
   location to other state departments and agencies (09E297ER)  (24751)
   ... 31,110,000 ...................................... (re. $562,000)
-  283  12554-07-3
+  283  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15808,7 +15829,7 @@ S T A T E  O F  N E W  Y O R K
   including  the  payment  of liabilities incurred during state fiscal
   year 2001-02 for biodiversity stewardship  and  research,  soil  and
   water  conservation  districts.  Finger Lakes-Lake Ontario Watershed
-  284  12554-07-3
+  284  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15866,7 +15887,7 @@ S T A T E  O F  N E W  Y O R K
  Biodiversity  stewardship  and
   research ............................. 750
  County  agriculture  and farm-
-  285  12554-07-3
+  285  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15924,7 +15945,7 @@ S T A T E  O F  N E W  Y O R K
  Parks, recreation and historic
   preservation projects .............. 8,500
  Hudson River Park ................... 15,000
-  286  12554-07-3
+  286  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -15981,7 +16002,7 @@ S T A T E  O F  N E W  Y O R K
  Services and expenses  of  the
   assessment  and  recovery of
   any natural resource damages
-  287  12554-07-3
+  287  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16039,7 +16060,7 @@ S T A T E  O F  N E W  Y O R K
   The sum of $84,369,000, or so much thereof  as  may  be  necessary  is
   hereby appropriated from the "environmental quality protection fund"
   as  established by section 97-a of the state finance law for payment
-  288  12554-07-3
+  288  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16096,7 +16117,7 @@ S T A T E  O F  N E W  Y O R K
   shall  also  be  delivered  to the public officers of the respective
   state department or agency  to  which  such  capital  projects  fund
   appropriations are made available (01371610) (80906) ...............
-  289  12554-07-3
+  289  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16154,7 +16175,7 @@ S T A T E  O F  N E W  Y O R K
   budget.
   The state comptroller shall at the commencement of each month  certify
   to  the  director of the division of the budget, the commissioner of
-  290  12554-07-3
+  290  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16212,7 +16233,7 @@ S T A T E  O F  N E W  Y O R K
   to the director of the division of the budget, the  commissioner  of
   environmental  conservation,  the  chairman  of  the  senate finance
   committee, and the chairman of the assembly ways and means committee
-  291  12554-07-3
+  291  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16269,7 +16290,7 @@ S T A T E  O F  N E W  Y O R K
   environmental conservation,  the  chairman  of  the  senate  finance
   committee, and the chairman of the assembly ways and means committee
   the  amounts  disbursed  from  this appropriation for "Environmental
-  292  12554-07-3
+  292  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16326,7 +16347,7 @@ S T A T E  O F  N E W  Y O R K
   (09FM20MO) (81107) ... 6,000,000 .................. (re. $1,603,000)
  
  FISH AND WILDLIFE (CCP)
-  293  12554-07-3
+  293  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16383,7 +16404,7 @@ S T A T E  O F  N E W  Y O R K
   Fish and Wildlife Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  294  12554-07-3
+  294  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16441,7 +16462,7 @@ S T A T E  O F  N E W  Y O R K
   Green  Certification  for  state forests, including suballocation to
   other state departments and agencies (09LF2053) (25766) ............
   4,000,000 ......................................... (re. $2,796,000)
-  295  12554-07-3
+  295  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16499,7 +16520,7 @@ S T A T E  O F  N E W  Y O R K
   ing personal services, fringe benefits and indirect costs, including
   suballocation  to  other  state  departments and agencies (09SW1053)
   (24843) ... 500,000 ................................. (re. $101,000)
-  296  12554-07-3
+  296  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16557,7 +16578,7 @@ S T A T E  O F  N E W  Y O R K
   section 3, of the laws of 1990:
   For demolition of buildings at the former Edgewood  Hospital  site  on
   Long Island (09168953) (24852) ... 3,450,000 ........ (re. $891,000)
-  297  12554-07-3
+  297  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16614,7 +16635,7 @@ S T A T E  O F  N E W  Y O R K
   (24847) ... 10,000,000 ........................... (re. $10,000,000)
  
  By chapter 55, section 1, of the laws of 2016:
-  298  12554-07-3
+  298  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16672,7 +16693,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2021:
   For  the federal share of capital projects undertaken pursuant to fish
   and wildlife and marine resources purposes including the acquisition
-  299  12554-07-3
+  299  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16730,7 +16751,7 @@ S T A T E  O F  N E W  Y O R K
   flood  management,  including  but not limited to various dam safety
   projects and the demolition  of  unsafe  structures  on  state-owned
   land; various flood protection projects including the state share of
-  300  12554-07-3
+  300  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -16788,7 +16809,7 @@ S T A T E  O F  N E W  Y O R K
   Hudson  and Essex county to acquire a conservation easement or other
   interest and for which the fee owner of any such property authorizes
   such project; vehicles  and  equipment;  water  quality  improvement
-  301  12554-07-3
+  301  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16846,7 +16867,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2018:
   For services, expenses, and indirect costs related to New  York  Works
   projects  including but not limited to air monitoring infrastructure
-  302  12554-07-3
+  302  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16904,7 +16925,7 @@ S T A T E  O F  N E W  Y O R K
   service, non-personal service and fringe benefits, including  subal-
   location  to other state departments and agencies (09NY1651) (25768)
   ... 40,000,000 .................................... (re. $5,748,000)
-  303  12554-07-3
+  303  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -16962,7 +16983,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Operational Services Purpose
-  304  12554-07-3
+  304  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17020,7 +17041,7 @@ S T A T E  O F  N E W  Y O R K
   15,000,000 .......................................... (re. $599,000)
   For  replacement  of  vehicles  and  heavy duty construction equipment
   (09EQ1751) (24856) ... 1,000,000 .................. (re. $1,000,000)
-  305  12554-07-3
+  305  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17078,7 +17099,7 @@ S T A T E  O F  N E W  Y O R K
   (09DF1351) (24858) ... 750,000 ...................... (re. $443,000)
  
  By chapter 54, section 1, of the laws of 2012:
-  306  12554-07-3
+  306  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17135,7 +17156,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2017:
   For services and expenses of the department to complete or remediate a
   department-regulated project using the  proceeds  specified  in  the
-  307  12554-07-3
+  307  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17193,7 +17214,7 @@ S T A T E  O F  N E W  Y O R K
   ful  natural  resource  damages  claims,  and suballocation to other
   state departments and agencies (09440751) (24860) ..................
   26,000,000 ........................................ (re. $5,595,000)
-  308  12554-07-3
+  308  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17251,7 +17272,7 @@ S T A T E  O F  N E W  Y O R K
  RECREATION (CCP)
  
   Capital Projects Funds - Other
-  309  12554-07-3
+  309  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17309,7 +17330,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2021:
   For payment by the state, as  reimbursement  or  as  an  advance  from
   responsible  parties  or volunteers for remedial and monitoring work
-  310  12554-07-3
+  310  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17367,7 +17388,7 @@ S T A T E  O F  N E W  Y O R K
   at  sites  contaminated  with  hazardous  waste.  No portion of this
   appropriation shall be available for expenditure until  a  party  or
   parties  either  responsible for a site or volunteering to cleanup a
-  311  12554-07-3
+  311  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17425,7 +17446,7 @@ S T A T E  O F  N E W  Y O R K
   parties  either  responsible for a site or volunteering to cleanup a
   site have entered into an agreement with  the  commissioner  of  the
   department  of  environmental  conservation  or  the  commissioner's
-  312  12554-07-3
+  312  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17483,7 +17504,7 @@ S T A T E  O F  N E W  Y O R K
   designee,  and  which  agreement  is approved by the director of the
   budget, providing for repayment to the state of an amount  equal  to
   the  amount disbursed from this appropriation. A copy of such agree-
-  313  12554-07-3
+  313  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -17541,7 +17562,7 @@ S T A T E  O F  N E W  Y O R K
   For  payment  by  the  state,  as  reimbursement or as an advance from
   responsible parties for remedial and  monitoring  work  at  inactive
   hazardous  waste disposal sites or from volunteers for the voluntary
-  314  12554-07-3
+  314  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17599,7 +17620,7 @@ S T A T E  O F  N E W  Y O R K
   Hazardous Waste Remedial Fund
   Environmental Restoration Projects Account - 31504
   Hazardous Waste Purpose
-  315  12554-07-3
+  315  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17657,7 +17678,7 @@ S T A T E  O F  N E W  Y O R K
   remediation projects, in accordance with title 13 of article  27  of
   the  environmental  conservation  law  and section 97-b of the state
   finance law, for projects, and for payment of state costs associated
-  316  12554-07-3
+  316  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17715,7 +17736,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2017:
   For payment of the state share of the costs of  hazardous  waste  site
   remediation  projects,  in accordance with title 13 of article 27 of
-  317  12554-07-3
+  317  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17773,7 +17794,7 @@ S T A T E  O F  N E W  Y O R K
   remediation  projects,  in accordance with title 13 of article 27 of
   the environmental conservation law and section  97-b  of  the  state
   finance law, for projects, and for payment of state costs associated
-  318  12554-07-3
+  318  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -17831,7 +17852,7 @@ S T A T E  O F  N E W  Y O R K
   remediation  projects,  in accordance with title 13 of article 27 of
   the environmental conservation law and section  97-b  of  the  state
   finance law, for projects, and for payment of state costs associated
-  319  12554-07-3
+  319  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17889,7 +17910,7 @@ S T A T E  O F  N E W  Y O R K
   For  payment  of  the state share of the costs of hazardous waste site
   remediation projects, in accordance with title 13 of article  27  of
   the  environmental  conservation  law  and section 97-b of the state
-  320  12554-07-3
+  320  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -17946,7 +17967,7 @@ S T A T E  O F  N E W  Y O R K
   as provided for in section 27-1411 of the environmental conservation
   law,  including personal services and related fringe benefits of the
   departments  of  environmental  conservation,  health  and  law  and
-  321  12554-07-3
+  321  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -18004,7 +18025,7 @@ S T A T E  O F  N E W  Y O R K
   For  the  personal  services  and fringe benefits of the department of
   environmental conservation including suballocation to the department
   of health related to the  brownfield  cleanup  program  pursuant  to
-  322  12554-07-3
+  322  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18062,7 +18083,7 @@ S T A T E  O F  N E W  Y O R K
   title 14 of article 27 of the environmental conservation law and the
   voluntary cleanup program including costs incurred prior to April 1,
   2015 (09BC15F7) (24867) ... 6,000,000 ............... (re. $630,000)
-  323  12554-07-3
+  323  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18119,7 +18140,7 @@ S T A T E  O F  N E W  Y O R K
   projects; and, suballocation to other state  departments  and  agen-
   cies; and for other brownfield site cleanup hazardous waste purposes
   (09TG09F7) (24866) ... 2,250,000 .................. (re. $2,250,000)
-  324  12554-07-3
+  324  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18177,7 +18198,7 @@ S T A T E  O F  N E W  Y O R K
   15,000,000 ....................................... (re. $15,000,000)
   For the personal services and fringe benefits  of  the  department  of
   environmental conservation including suballocation to the department
-  325  12554-07-3
+  325  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18234,7 +18255,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 55, section 1, of the laws of 2003, as amended by chapter 55,
   section 1, of the laws of 2009:
-  326  12554-07-3
+  326  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18291,7 +18312,7 @@ S T A T E  O F  N E W  Y O R K
   of article 52 of the environmental conservation law,  for  projects,
   including  costs  incidental  and  appurtenant  thereto  (09HW97F7)
   (24870) ...  ..... 30,000,000 ...................... (re. $501,000)
-  327  12554-07-3
+  327  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18347,7 +18368,7 @@ S T A T E  O F  N E W  Y O R K
   of  article  52 of the environmental conservation law, for projects,
   including  costs  incidental  and  appurtenant  thereto  (095390F7)
   (24870) ...  ..... 173,575,000 .................. (re. $10,170,000)
-  328  12554-07-3
+  328  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18404,7 +18425,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2020:
   For services and capital expenses related to the waste management  and
   cleanup  program  as  put  forth in article 27-1915 of environmental
-  329  12554-07-3
+  329  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18462,7 +18483,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2022:
   For services and capital expenses associated with costs incurred under
   Article 12 of the Navigation Law, and  for  cleanup,  investigation,
-  330  12554-07-3
+  330  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18520,7 +18541,7 @@ S T A T E  O F  N E W  Y O R K
   maintenance  of existing flood control projects; for coastal erosion
   hazard area mapping of the state's Atlantic Ocean  and  Great  Lakes
   coastlines  and  the  state  share of costs associated with matching
-  331  12554-07-3
+  331  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18578,7 +18599,7 @@ S T A T E  O F  N E W  Y O R K
   for the state share of costs associated with the installation and/or
   reinstallation, upgrade, monitoring and maintenance of  a  statewide
   network  of  stream flow gauges, including personal service, nonper-
-  332  12554-07-3
+  332  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18636,7 +18657,7 @@ S T A T E  O F  N E W  Y O R K
   maintenance of existing flood control projects; for coastal  erosion
   hazard  area  mapping  of the state's Atlantic Ocean and Great Lakes
   coastlines and the state share of  costs  associated  with  matching
-  333  12554-07-3
+  333  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18693,7 +18714,7 @@ S T A T E  O F  N E W  Y O R K
   services and fringe benefits, including suballocation to other state
   departments and agencies (09FL1063) (24881) ........................
   1,000,000 ........................................... (re. $373,000)
-  334  12554-07-3
+  334  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18751,7 +18772,7 @@ S T A T E  O F  N E W  Y O R K
   For an advance payment by the state for the  local  costs  of  various
   shore protection projects. No portion of this appropriation shall be
   available  until the respective county has entered into an agreement
-  335  12554-07-3
+  335  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18808,7 +18829,7 @@ S T A T E  O F  N E W  Y O R K
   Westhampton, West of Shinnecock, Orchard Beach and the  Jones  Inlet
   Beach Nourishment Project (09W39863) (25889) .......................
   490,000 ............................................. (re. $490,000)
-  336  12554-07-3
+  336  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18866,7 +18887,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2022:
   An advance for costs incurred relating to work required for the safety
   of  dams  and other structures impounding water, to be reimbursed in
-  337  12554-07-3
+  337  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18924,7 +18945,7 @@ S T A T E  O F  N E W  Y O R K
   watershed;  for  a  program to upgrade or replace septic systems and
   cesspools pursuant to section 1285-u of the public authorities  law;
   for  water  infrastructure  emergency assistance pursuant to section
-  338  12554-07-3
+  338  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -18982,7 +19003,7 @@ S T A T E  O F  N E W  Y O R K
   waste  sites;  for  replacement of lead drinking water service lines
   pursuant to section 1114 of the public health law; for New York City
   for  water  quality  projects  located  within  the  New  York  City
-  339  12554-07-3
+  339  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19040,7 +19061,7 @@ S T A T E  O F  N E W  Y O R K
   provisions of section 97-b of the state finance law, provided howev-
   er that no more than 5,000,000 of such appropriation may be expended
   for investigation, mitigation and remediation of solid waste  sites;
-  340  12554-07-3
+  340  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19098,7 +19119,7 @@ S T A T E  O F  N E W  Y O R K
   er that no more than 5,000,000 of such appropriation may be expended
   for investigation, mitigation and remediation of solid waste  sites;
   for  replacement  of  lead  drinking water service lines pursuant to
-  341  12554-07-3
+  341  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19156,7 +19177,7 @@ S T A T E  O F  N E W  Y O R K
   improvement  projects,  including  nonagricultural  nonpoint  source
   abatement  and  control  projects,  municipal  wastewater  treatment
   projects, and municipal separate storm sewer  system  projects,  and
-  342  12554-07-3
+  342  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19214,7 +19235,7 @@ S T A T E  O F  N E W  Y O R K
   available for water quality infrastructure projects  for  compliance
   with environmental and public health laws and regulations related to
   water  quality. All or a portion of the funds may be suballocated or
-  343  12554-07-3
+  343  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19272,7 +19293,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Capital Projects Fund
   SRF Capitalization Grants Account - 31359
   Water Resources Purpose
-  344  12554-07-3
+  344  12554-08-3
 
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19329,7 +19350,7 @@ S T A T E  O F  N E W  Y O R K
   for  clean  water  projects,  provided  however,  that moneys herein
   appropriated pursuant to paragraph (i) of subdivision 1  of  section
   56-0303  of  the  environmental  conservation law for state facility
-  345  12554-07-3
+  345  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19386,7 +19407,7 @@ S T A T E  O F  N E W  Y O R K
   including costs incidental and appurtenant thereto and  for  payment
   of  reimbursements  to the clean water/clean air implementation fund
   for services and expenses of state departments and agencies, includ-
-  346  12554-07-3
+  346  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19444,7 +19465,7 @@ S T A T E  O F  N E W  Y O R K
  State parks projects ................. 4,000
  Municipal  parks  projects and
   historic  preservation  and
-  347  12554-07-3
+  347  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19502,7 +19523,7 @@ S T A T E  O F  N E W  Y O R K
  Onondaga  Lake  water  quality
   improvement projects .............. 15,000
  New York Harbor water  quality
-  348  12554-07-3
+  348  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -19559,7 +19580,7 @@ S T A T E  O F  N E W  Y O R K
   commissioner of environmental  conservation,  the  chairman  of  the
   senate  finance committee, and the chairman of the assembly ways and
   means committee the amounts disbursed from  this  appropriation  for
-  349  12554-07-3
+  349  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19617,7 +19638,7 @@ S T A T E  O F  N E W  Y O R K
  New  York Harbor water quality
   improvement projects ............... 2,000
  Great  Lakes  water  quality
-  350  12554-07-3
+  350  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19675,7 +19696,7 @@ S T A T E  O F  N E W  Y O R K
   The  state comptroller shall at the commencement of each month certify
   to the director of the division of the budget, the  commissioner  of
   environmental  conservation,  the  chairman  of  the  senate finance
-  351  12554-07-3
+  351  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19733,7 +19754,7 @@ S T A T E  O F  N E W  Y O R K
  Onondaga  Lake  water  quality
   improvement projects .............. 20,000
  New  York Harbor water quality
-  352  12554-07-3
+  352  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19791,7 +19812,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  the  provisions  of  any  general or special law, the
   moneys hereby appropriated shall be available for clean water quali-
   ty projects in accordance with title 3 of article 56 of the environ-
-  353  12554-07-3
+  353  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -19848,7 +19869,7 @@ S T A T E  O F  N E W  Y O R K
  Hudson  River  water  quality
   improvement projects ............... 2,000
  Long Island Sound water quali-
-  354  12554-07-3
+  354  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19906,7 +19927,7 @@ S T A T E  O F  N E W  Y O R K
   law to enter into contracts for state assistance  payments  for  the
   state  share  of  costs  for clean water projects, provided however,
   that moneys herein appropriated pursuant to paragraph (i) of  subdi-
-  355  12554-07-3
+  355  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -19964,7 +19985,7 @@ S T A T E  O F  N E W  Y O R K
   For the state share of the costs  of  construction  of  water  quality
   improvement  projects, including the payment of liabilities incurred
   prior to April 1, 1981, in accordance with the provisions  of  title
-  356  12554-07-3
+  356  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20021,7 +20042,7 @@ S T A T E  O F  N E W  Y O R K
   Nassau County Sewer District 3 ...............  11,920  1,490
  New York City
   City of New York: Newtown
-  357  12554-07-3
+  357  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20078,7 +20099,7 @@ S T A T E  O F  N E W  Y O R K
   Town and Village of Catskill .................  96  12
   Town of Catskill .............................  192  24
  Herkimer County
-  358  12554-07-3
+  358  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20136,7 +20157,7 @@ S T A T E  O F  N E W  Y O R K
   Subtotal-New Projects ........................  $5,628
  Statewide
   Supplement to various previously
-  359  12554-07-3
+  359  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20194,7 +20215,7 @@ S T A T E  O F  N E W  Y O R K
   Aurora ..........................................  3,448  431
   Southtown's Sewage Treatment Agency ............... 22,944  2,757
  Niagara
-  360  12554-07-3
+  360  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20252,7 +20273,7 @@ S T A T E  O F  N E W  Y O R K
   Village of Holcomb ................................  392  49
  Orange
   Village of Montgomery .............................  1,576  197
-  361  12554-07-3
+  361  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20309,7 +20330,7 @@ S T A T E  O F  N E W  Y O R K
   Town of Port Henry ................................  40  5
   Town of Willsboro .................................  80  10
  Franklin
-  362  12554-07-3
+  362  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20367,7 +20388,7 @@ S T A T E  O F  N E W  Y O R K
  Suffolk
   Village of Greenport and Town of Southold .........  1,064  133
   Town of Huntington ................................  312  39
-  363  12554-07-3
+  363  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20425,7 +20446,7 @@ S T A T E  O F  N E W  Y O R K
   environmental  conservation,  the  chairman  of  the  senate finance
   committee, and the chairman of the assembly ways and means committee
   the amounts expended  from  this  appropriation  for  Water  Quality
-  364  12554-07-3
+  364  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20483,7 +20504,7 @@ S T A T E  O F  N E W  Y O R K
   Town of Oneonta ................................  302  38
  Suffolk
   Suffolk County sewer district (project C-36-
-  365  12554-07-3
+  365  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
 
@@ -20541,7 +20562,7 @@ S T A T E  O F  N E W  Y O R K
  Rensselaer
   Town of Schodack (C-36-1117) ...................  10
  Rockland
-  366  12554-07-3
+  366  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20599,7 +20620,7 @@ S T A T E  O F  N E W  Y O R K
   environmental  conservation,  the  chairman  of  the  senate finance
   committee, and the chairman of the assembly ways and means committee
   the amounts disbursed from  this  appropriation  for  Water  Quality
-  367  12554-07-3
+  367  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20657,7 +20678,7 @@ S T A T E  O F  N E W  Y O R K
   Town of Williamson ............................  2,424  303
  Westchester
   Blind Brook sewer district ....................  1,368  171
-  368  12554-07-3
+  368  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20713,7 +20734,7 @@ S T A T E  O F  N E W  Y O R K
   project schedule
   ESTIMATED
   ELIGIBLE  ESTIMATED
-  369  12554-07-3
+  369  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20771,7 +20792,7 @@ S T A T E  O F  N E W  Y O R K
   Montgomery County Sewer District No. 1 ........  1,400  175
  Niagara
   Town of Newfane ...............................  670  84
-  370  12554-07-3
+  370  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20828,7 +20849,7 @@ S T A T E  O F  N E W  Y O R K
  Sullivan
   Village of Monticello, Town of Thompson .......  1,471  184
   Town of Fallsburg .............................  15,336  1,917
-  371  12554-07-3
+  371  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20886,7 +20907,7 @@ S T A T E  O F  N E W  Y O R K
  Herkimer
   Town of Webb ..................................  400  50
  Livingston
-  372  12554-07-3
+  372  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -20944,7 +20965,7 @@ S T A T E  O F  N E W  Y O R K
   Village of Cambridge ..........................  48  6
  Westchester
   Irvington Extension ...........................  1,552  194
-  373  12554-07-3
+  373  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -21002,7 +21023,7 @@ S T A T E  O F  N E W  Y O R K
   improvement  expenditures  for  eligible  water  quality improvement
   projects as defined by section 51-0303 of the environmental  conser-
   vation  law upon the issuance of a certificate of approval of avail-
-  374  12554-07-3
+  374  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -21060,7 +21081,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 1984, as amended by chapter 55,
   section 1, of the laws of 2006:
-  375  12554-07-3
+  375  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -21118,7 +21139,7 @@ S T A T E  O F  N E W  Y O R K
   The  sum  of  two hundred eighty-six million three hundred thirty-four
   thousand dollars ($286,334,000), or so much thereof as may be neces-
   sary, is hereby appropriated from the Capital Projects Fund  to  the
-  376  12554-07-3
+  376  12554-08-3
  
   DEPARTMENT OF ENVIRONMENTAL CONSERVATION
  
@@ -21139,7 +21160,7 @@ S T A T E  O F  N E W  Y O R K
   comptroller,  the  chairman  of the senate finance committee and the
   chairman of the assembly ways and means committee (01385057) (24892)
   ...  278,484,000 .................................... (re. $630,000)
-  377  12554-07-3
+  377  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21196,7 +21217,7 @@ S T A T E  O F  N E W  Y O R K
   cated or transferred  to  any  department,
   agency,  or  public  authority  (25FM23MO)
   (81107) ...................................... 6,392,000
-  378  12554-07-3
+  378  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21254,7 +21275,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Division for Youth Facilities Improvement Fund
   OCF Improvement Projects Account - 31701
-  379  12554-07-3
+  379  12554-08-3
 
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21302,7 +21323,7 @@ S T A T E  O F  N E W  Y O R K
   to  existing  facilities  or  programs,
   including liabilities  incurred  prior  to
   April 1, 2023 (25082308) (14051) ............ 18,000,000
-  380  12554-07-3
+  380  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21360,7 +21381,7 @@ S T A T E  O F  N E W  Y O R K
   50,000,000 ....................................... (re. $50,000,000)
  
  DESIGN AND CONSTRUCTION SUPERVISION (CCP)
-  381  12554-07-3
+  381  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
 
@@ -21418,7 +21439,7 @@ S T A T E  O F  N E W  Y O R K
   services for the purpose of preparation and review of  plans,  spec-
   ifications,  estimates, services, construction management and super-
   vision, inspection studies, appraisals, surveys, testing  and  envi-
-  382  12554-07-3
+  382  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21475,7 +21496,7 @@ S T A T E  O F  N E W  Y O R K
   service (25GS1330) (81088) ... 7,000,000 ............ (re. $187,000)
  
  By chapter 54, section 1, of the laws of 2012:
-  383  12554-07-3
+  383  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21533,7 +21554,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2019:
   For  the  maintenance  and operation of various facilities and systems
   including personal services, fringe benefits and indirect costs.
-  384  12554-07-3
+  384  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21591,7 +21612,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2018:
   For  the  preparation  and review of plans, specifications, estimates,
   studies,  inspections,  appraisals  and  surveys,  and  payment  of
-  385  12554-07-3
+  385  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21648,7 +21669,7 @@ S T A T E  O F  N E W  Y O R K
   For the cost of  maintaining  the  Tonawanda  Indian  Community  House
   pursuant to chapter 549 of the laws of 1936 (25T31903) (14022) .....
   100,000 .............................................. (re. $64,000)
-  386  12554-07-3
+  386  12554-08-3
 
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21706,7 +21727,7 @@ S T A T E  O F  N E W  Y O R K
   preservation  of existing facilities and programs, including liabil-
   ities incurred prior to April 1, 2013 (25GM1303) (14021) ...........
   1,725,000 ........................................... (re. $901,000)
-  387  12554-07-3
+  387  12554-08-3
 
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21763,7 +21784,7 @@ S T A T E  O F  N E W  Y O R K
   For the cost of  maintaining  the  Tonawanda  Indian  Community  House
   pursuant to chapter 549 of the laws of 1936 (25T30803) (14022) .....
   325,000 ............................................. (re. $325,000)
-  388  12554-07-3
+  388  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
 
@@ -21820,7 +21841,7 @@ S T A T E  O F  N E W  Y O R K
   and  estimates for environmental protection or improvements at vari-
   ous youth facilities, including liabilities incurred prior to  April
   1, 2020 (25EN2006) (14043) ... 5,000,000 .......... (re. $5,000,000)
-  389  12554-07-3
+  389  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21876,7 +21897,7 @@ S T A T E  O F  N E W  Y O R K
   and  estimates for environmental protection or improvements at vari-
   ous youth facilities, including liabilities incurred prior to  April
   1, 2013 (25EN1306) (14043) ... 5,000,000 .......... (re. $2,864,000)
-  390  12554-07-3
+  390  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21934,7 +21955,7 @@ S T A T E  O F  N E W  Y O R K
   April 1, 2020 (25012001) (14042) ... 6,000,000 .... (re. $5,300,000)
  
  By chapter 54, section 1, of the laws of 2019:
-  391  12554-07-3
+  391  12554-08-3
 
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -21992,7 +22013,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2012, as amended by chapter 54,
   section 1, of the laws of 2013:
-  392  12554-07-3
+  392  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -22050,7 +22071,7 @@ S T A T E  O F  N E W  Y O R K
   For  payment  of the cost of construction, reconstruction and improve-
   ments, including the preparation of designs, plans,  specifications,
   and  estimates  for  the  preservation  of  existing  facilities and
-  393  12554-07-3
+  393  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -22108,7 +22129,7 @@ S T A T E  O F  N E W  Y O R K
   For  payment  of the cost of construction, reconstruction and improve-
   ments, including the preparation of designs, plans,  specifications,
   and  estimates  for  the  preservation  of  existing  facilities and
-  394  12554-07-3
+  394  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -22166,7 +22187,7 @@ S T A T E  O F  N E W  Y O R K
   tion  of  designs,  plans, specifications and estimates, for new and
   existing capital projects and programs including,  but  not  limited
   to,  preparation  of plans, administration, maintenance and improve-
-  395  12554-07-3
+  395  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -22224,7 +22245,7 @@ S T A T E  O F  N E W  Y O R K
   For payment of the cost of construction, reconstruction, security  and
   other  improvements,  including  the  preparation of designs, plans,
   specifications and estimates related to improvements or  changes  to
-  396  12554-07-3
+  396  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
  
@@ -22281,7 +22302,7 @@ S T A T E  O F  N E W  Y O R K
   other improvements, including the  preparation  of  designs,  plans,
   specifications  and  estimates related to improvements or changes to
   existing facilities  or  programs,  including  liabilities  incurred
-  397  12554-07-3
+  397  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
 
@@ -22324,7 +22345,7 @@ S T A T E  O F  N E W  Y O R K
   existing facilities  or  programs,  including  liabilities  incurred
   prior to April 1, 2008 (25A80808) (14051) ..........................
   13,840,000 ........................................ (re. $6,091,000)
-  398  12554-07-3
+  398  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22382,7 +22403,7 @@ S T A T E  O F  N E W  Y O R K
   in expedited homeless project development,
   and  including,  without  deposit  to  the
   homeless housing and  assistance  account,
-  399  12554-07-3
+  399  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22440,7 +22461,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation for any fiscal year  may  be
   used  to  pay  for technical assistance in
   support of project development and  opera-
-  400  12554-07-3
+  400  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22476,7 +22497,7 @@ S T A T E  O F  N E W  Y O R K
   services and may be provided  by  individ-
   uals and not-for-profit or business corpo-
   rations (27VT23G5) (52357) ................... 5,000,000
-  401  12554-07-3
+  401  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22534,7 +22555,7 @@ S T A T E  O F  N E W  Y O R K
   purposes  of  necessary  health  and safety improvements to existing
   emergency shelters located in local social services districts with a
   population of less than five million. Notwithstanding any inconsist-
-  402  12554-07-3
+  402  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22592,7 +22613,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2021:
   For  services  and  expenses,  including  the  payments  on  contracts
   executed  prior  to  April  1,  2021,  related  to  implementing the
-  403  12554-07-3
+  403  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22650,7 +22671,7 @@ S T A T E  O F  N E W  Y O R K
   commissioner  of  the  office of temporary and disability assistance
   and approved by the director  of  the  budget.  Notwithstanding  any
   inconsistent  provision  of  law, up to two percent of the appropri-
-  404  12554-07-3
+  404  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22708,7 +22729,7 @@ S T A T E  O F  N E W  Y O R K
   ing, legal services and financial services and may  be  provided  by
   individuals  and  not-for-profit or business corporations (270820G5)
   (52309) ... 5,000,000 ............................. (re. $5,000,000)
-  405  12554-07-3
+  405  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22766,7 +22787,7 @@ S T A T E  O F  N E W  Y O R K
   2019; provided, however, that if an insufficient  number  of  viable
   proposals for persons with AIDS are received, the balance of funding
   can  be used for the development of permanent, emergency and transi-
-  406  12554-07-3
+  406  12554-08-3
  
   DEPARTMENT OF FAMILY ASSISTANCE
   OFFICE OF TEMPORARY AND DISABILITY ASSISTANCE
@@ -22783,7 +22804,7 @@ S T A T E  O F  N E W  Y O R K
   and  financial  services and may be provided by individuals and not-
   for-profit or business corporations (270819G5) (52309) .............
   5,000,000 ......................................... (re. $5,000,000)
-  407  12554-07-3
+  407  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -22841,7 +22862,7 @@ S T A T E  O F  N E W  Y O R K
   services,  nonpersonal  services,  fringe
   benefits and  indirect  costs.  Notwith-
   standing  any  other  law to the contrary,
-  408  12554-07-3
+  408  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -22897,7 +22918,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Health and Safety Purpose
-  409  12554-07-3
+  409  12554-08-3
 
   OFFICE OF GENERAL SERVICES
  
@@ -22955,7 +22976,7 @@ S T A T E  O F  N E W  Y O R K
  
  For preventive maintenance on state  facili-
   ties  including personal services, nonper-
-  410  12554-07-3
+  410  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -22978,7 +22999,7 @@ S T A T E  O F  N E W  Y O R K
   conversion  of  light duty vehicles in the
   New York state fleet to electric  vehicles
   (05602305) (26248) .......................... 17,000,000
-  411  12554-07-3
+  411  12554-08-3
  
   OFFICE OF GENERAL SERVICES
 
@@ -23035,7 +23056,7 @@ S T A T E  O F  N E W  Y O R K
   or  programs, including the payment of liabilities incurred prior to
   April 1, 2020, providing that moneys hereby  appropriated  shall  be
   available  to  the  office  net  of disallowances, refunds, rebates,
-  412  12554-07-3
+  412  12554-08-3
  
   OFFICE OF GENERAL SERVICES
 
@@ -23093,7 +23114,7 @@ S T A T E  O F  N E W  Y O R K
   with  section  203-a of the executive law. Notwithstanding any other
   provision of the law to the contrary, the office of general services
   in consultation with the division of homeland security and emergency
-  413  12554-07-3
+  413  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23150,7 +23171,7 @@ S T A T E  O F  N E W  Y O R K
   tures and their contents in an amount not less than  the  limits  of
   coverage that would be applicable if such state-owned structures and
   their  contents  had  been covered by standard flood insurance poli-
-  414  12554-07-3
+  414  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23208,7 +23229,7 @@ S T A T E  O F  N E W  Y O R K
   Energy Conservation Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  415  12554-07-3
+  415  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23265,7 +23286,7 @@ S T A T E  O F  N E W  Y O R K
   ... 12,400,000 ................................... (re. $10,928,000)
  
  By chapter 55, section 1, of the laws of 2016:
-  416  12554-07-3
+  416  12554-08-3
  
   OFFICE OF GENERAL SERVICES
 
@@ -23322,7 +23343,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Preservation of Facilities Purpose
-  417  12554-07-3
+  417  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23380,7 +23401,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding  any  provision  of  law,  rule  or  regulation to the
   contrary, of the amounts appropriated  herein,  $25,000,000  may  be
   made  available  for  expenses  that will result in the reduction of
-  418  12554-07-3
+  418  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23438,7 +23459,7 @@ S T A T E  O F  N E W  Y O R K
   made available for expenses that will result  in  the  reduction  of
   vacant  and underutilized space within buildings owned and leased by
   the office of general services. The office of general services shall
-  419  12554-07-3
+  419  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23495,7 +23516,7 @@ S T A T E  O F  N E W  Y O R K
   1, 2016 (05NR1603) (26217) ... 14,000,000 ......... (re. $5,364,000)
  
  By chapter 54, section 1, of the laws of 2015:
-  420  12554-07-3
+  420  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23551,7 +23572,7 @@ S T A T E  O F  N E W  Y O R K
   (26216) ... 3,650,000 ............................. (re. $3,650,000)
  
  By chapter 50, section 1, of the laws of 2009:
-  421  12554-07-3
+  421  12554-08-3
  
   OFFICE OF GENERAL SERVICES
 
@@ -23609,7 +23630,7 @@ S T A T E  O F  N E W  Y O R K
  
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
-  422  12554-07-3
+  422  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23667,7 +23688,7 @@ S T A T E  O F  N E W  Y O R K
   15,000,000 ........................................... (re. $15,000)
  
  SUSTAINABILITY (CCP)
-  423  12554-07-3
+  423  12554-08-3
  
   OFFICE OF GENERAL SERVICES
  
@@ -23691,7 +23712,7 @@ S T A T E  O F  N E W  Y O R K
   out the State, including the payment of liabilities  incurred  prior
   to April 1, 2009 (050109SU) (26226) ................................
   13,300,000 ....................................... (re. $10,343,000)
-  424  12554-07-3
+  424  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -23749,7 +23770,7 @@ S T A T E  O F  N E W  Y O R K
   tor of the division of the budget, for the
   acquisition of real property,  preparation
   of  plans,  design,  construction,  reno-
-  425  12554-07-3
+  425  12554-08-3
 
   DEPARTMENT OF HEALTH
  
@@ -23806,7 +23827,7 @@ S T A T E  O F  N E W  Y O R K
   Such  allocation  shall serve as the basis
   of  distribution  to  eligible  facilities
   (12EQ23MO) ................................... 3,266,000
-  426  12554-07-3
+  426  12554-08-3
  
   DEPARTMENT OF HEALTH
 
@@ -23864,7 +23885,7 @@ S T A T E  O F  N E W  Y O R K
  For  services and expenses related to infor-
   mation technology projects  undertaken  by
   the  department  of  health, including the
-  427  12554-07-3
+  427  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -23920,7 +23941,7 @@ S T A T E  O F  N E W  Y O R K
   dormitory authority of the  state  of  New
   York  for  capital  projects  (12592303)
   (29780) ..................................... 12,000,000
-  428  12554-07-3
+  428  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -23978,7 +23999,7 @@ S T A T E  O F  N E W  Y O R K
   ment,  software,  personal service, fringe
   benefits, and indirect costs. For purposes
   of the program, all  such  activities  are
-  429  12554-07-3
+  429  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24025,7 +24046,7 @@ S T A T E  O F  N E W  Y O R K
  For  services  and  expenses  of  the  state
   revolving funds program (12DW2357) (26666)
   ............................................. 30,000,000
-  430  12554-07-3
+  430  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24082,7 +24103,7 @@ S T A T E  O F  N E W  Y O R K
   1,200,000,000 ................................... (re. $472,469,000)
  
  ECONOMIC DEVELOPMENT (CCP)
-  431  12554-07-3
+  431  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24139,7 +24160,7 @@ S T A T E  O F  N E W  Y O R K
   statewide, made available pursuant to section 2825-g of  the  public
   health law. A portion of the funds appropriated herein may be subal-
   located or transferred to any department, agency, or public authori-
-  432  12554-07-3
+  432  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24196,7 +24217,7 @@ S T A T E  O F  N E W  Y O R K
   community need;
   (e) The extent to  which  the  applicant  has  access  to  alternative
   financing;
-  433  12554-07-3
+  433  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24254,7 +24275,7 @@ S T A T E  O F  N E W  Y O R K
   amount appropriated herein. No expenditures may be  made  from  this
   appropriation  to a facility until a facility specific plan has been
   submitted to the department of health and has been approved  by  the
-  434  12554-07-3
+  434  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24311,7 +24332,7 @@ S T A T E  O F  N E W  Y O R K
   (h) The extent to  which  the  applicant  has  engaged  the  community
   affected  by  the  proposed  capital project and the manner in which
   community engagement has shaped such capital project; and
-  435  12554-07-3
+  435  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24369,7 +24390,7 @@ S T A T E  O F  N E W  Y O R K
   ess, to eligible applicants as determined  by  the  commissioner  of
   health  for  purposes  in support of essential health care services.
   Such purposes may include renovating  or  replacing  inefficient  or
-  436  12554-07-3
+  436  12554-08-3
  
   DEPARTMENT OF HEALTH
 
@@ -24427,7 +24448,7 @@ S T A T E  O F  N E W  Y O R K
   later than sixty days after the close  of  the  quarter,  and  shall
   include, for each award, the name of the applicant, a description of
   the  project or purpose, the amount of the award, disbursement date,
-  437  12554-07-3
+  437  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24485,7 +24506,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to information  technology  projects
   undertaken  by  the  department  of health, including the payment of
   liabilities incurred prior to April 1, 2022 PURSUANT TO A PLAN  THAT
-  438  12554-07-3
+  438  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24542,7 +24563,7 @@ S T A T E  O F  N E W  Y O R K
   projects (12592103) (29780) ... 8,000,000 ......... (re. $4,773,000)
  
  By chapter 54, section 1, of the laws of 2020:
-  439  12554-07-3
+  439  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24599,7 +24620,7 @@ S T A T E  O F  N E W  Y O R K
   projects (12591603) (29780) ... 8,000,000 ......... (re. $3,868,000)
  
  By chapter 54, section 1, of the laws of 2015:
-  440  12554-07-3
+  440  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24657,7 +24678,7 @@ S T A T E  O F  N E W  Y O R K
   For minor alterations, improvements and preventive maintenance of  St.
   Albans  Nursing  Home,  Helen  Hayes  Hospital, Oxford Nursing Home,
   Batavia Nursing Home, and Montrose Nursing Home  including  prepara-
-  441  12554-07-3
+  441  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24715,7 +24736,7 @@ S T A T E  O F  N E W  Y O R K
   ment  account of the centralized services fund of the New York state
   office of general services. Upon the request of the commissioner  of
   the  department  of health and approval of the director of the divi-
-  442  12554-07-3
+  442  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24772,7 +24793,7 @@ S T A T E  O F  N E W  Y O R K
   sion  of  the budget, funds of this appropriation may be transferred
   to the dormitory authority of the state  of  New  York  for  capital
   projects (12601303) (81010) ... 7,600,000 ......... (re. $3,902,000)
-  443  12554-07-3
+  443  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24829,7 +24850,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2021:
   For  federal  grants  for  the  safe  drinking  water  revolving  fund
   (12022157) (26888) ... 70,000,000 ................ (re. $31,909,000)
-  444  12554-07-3
+  444  12554-08-3
  
   DEPARTMENT OF HEALTH
  
@@ -24883,7 +24904,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2010:
   For  federal  grants  for  the  safe  drinking  water  revolving  fund
   (12021057) (26888) ... 157,183,000 ............... (re. $30,067,000)
-  445  12554-07-3
+  445  12554-08-3
 
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -24940,7 +24961,7 @@ S T A T E  O F  N E W  Y O R K
   vation of facilities including liabilities
   incurred prior to April 1, 2023 (ERPF2303)
   (81108) ...................................... 3,000,000
-  446  12554-07-3
+  446  12554-08-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -24998,7 +25019,7 @@ S T A T E  O F  N E W  Y O R K
   source,  including liabilities incurred prior to April 1, 2013. This
   appropriation may be available to provide advances  in  anticipation
   of  reimbursement  for the repair, rehabilitation, or replacement of
-  447  12554-07-3
+  447  12554-08-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -25056,7 +25077,7 @@ S T A T E  O F  N E W  Y O R K
   statewide public safety communications  network.  Expenditures  from
   this  appropriation  shall reduce appropriations for grants from the
   statewide public safety communications account for the same  purpose
-  448  12554-07-3
+  448  12554-08-3
  
   DIVISION OF HOMELAND SECURITY AND EMERGENCY SERVICES
  
@@ -25110,7 +25131,7 @@ S T A T E  O F  N E W  Y O R K
   Alterations  and  improvements  for  the  preservation  of  facilities
   including  liabilities  incurred  prior  to April 1, 2017 (ERPF1703)
   (81108) ... 1,000,000 ............................... (re. $457,000)
-  449  12554-07-3
+  449  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25168,7 +25189,7 @@ S T A T E  O F  N E W  Y O R K
   private  housing  finance  law  for  the
   purposes of carrying out the provisions of
   article XIX of the private housing finance
-  450  12554-07-3
+  450  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25225,7 +25246,7 @@ S T A T E  O F  N E W  Y O R K
   governor's  office  of  storm  recovery in
   such detail as required by the director of
   the budget. The amounts appropriated here-
-  451  12554-07-3
+  451  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25283,7 +25304,7 @@ S T A T E  O F  N E W  Y O R K
  
  For allocation  as  follows:  For  contracts
   with  not-for-profit corporations or muni-
-  452  12554-07-3
+  452  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25340,7 +25361,7 @@ S T A T E  O F  N E W  Y O R K
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   Preservation of Facilities Purpose
-  453  12554-07-3
+  453  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25398,7 +25419,7 @@ S T A T E  O F  N E W  Y O R K
   palities  to  provide state fiscal assist-
   ance to administer main street or downtown
   revitalization  projects  for  communities
-  454  12554-07-3
+  454  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25456,7 +25477,7 @@ S T A T E  O F  N E W  Y O R K
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
-  455  12554-07-3
+  455  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25510,7 +25531,7 @@ S T A T E  O F  N E W  Y O R K
   transferred to any state department, agen-
   cy, or public authority for  the  purposes
   stated herein ................................ 7,000,000
-  456  12554-07-3
+  456  12554-08-3
 
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
@@ -25529,21 +25550,27 @@ S T A T E  O F  N E W  Y O R K
   home  program pursuant to article XXV of the private housing finance
   law (08052207)(31409) ... 1,000,000 ................. (re. $457,000)
  
+ By chapter 54, section 1, of the laws of 2021:
+  For allocation as follows: For contract with  eligible  applicants  to
+  provide  financial  assistance  for the actual costs of an access to
+  home program pursuant to article XXV of the private housing  finance
+  law (08052107) (31409) ... 1,000,000 .............. (re. $1,000,000)
+ 
  ADAPTIVE REUSE AFFORDABLE HOUSING PROGRAM (CCP)
  
   Capital Projects Funds - Other
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
-
- By chapter 54, section 1, of the laws of 2021,  as  amended  by  chapter
+ 
+ By  chapter  54,  section  1, of the laws of 2021, as amended by chapter
   151, section 2, of the laws of 2021:
-  To  support  the  creation  of  the  adaptive reuse affordable housing
-  program to finance conversion of  commercial  properties  and  hotel
-  properties  in  the  city  of  New York for the purposes of creating
-  permanent affordable residential housing. The  amounts  appropriated
-  herein  may  be suballocated or transferred to any state department,
-  agency, or public authority for purposes  stated  herein  (08232107)
+  To support the creation  of  the  adaptive  reuse  affordable  housing
+  program  to  finance  conversion  of commercial properties and hotel
+  properties in the city of New York  for  the  purposes  of  creating
+  permanent  affordable  residential housing. The amounts appropriated
+  herein may be suballocated or transferred to any  state  department,
+  agency,  or  public  authority for purposes stated herein (08232107)
   (31491) ... 100,000,000 ......................... (re. $100,000,000)
  
  AFFORDABLE HOUSING CORPORATION (CCP)
@@ -25554,29 +25581,29 @@ S T A T E  O F  N E W  Y O R K
   New Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For  allocation  as  follows:  For  deposit  in the affordable housing
-  development account created pursuant to section 59-b of the  private
-  housing  finance law for the purposes of carrying out the provisions
-  of article XIX of the private housing finance law. No funds shall be
-  expended from this appropriation until the director  of  the  budget
-  has  approved  a  financial plan submitted by the affordable housing
-  corporation in such detail as required by the director of the  budg-
-  et.
-  Up  to  5  percent  of  the  funds appropriated herein may be used for
-  administrative purposes (08012207) (31424) .........................
-  26,000,000 ....................................... (re. $26,000,000)
-  For additional funding for the affordable housing corporation program.
-  For allocation as follows: For deposit  in  the  affordable  housing
+  For allocation as follows:  For  deposit  in  the  affordable  housing
   development  account created pursuant to section 59-b of the private
-  457  12554-07-3
+  housing finance law for the purposes of carrying out the  provisions
+  of article XIX of the private housing finance law. No funds shall be
+  expended  from  this  appropriation until the director of the budget
+  has approved a financial plan submitted by  the  affordable  housing
+  corporation  in such detail as required by the director of the budg-
+  et.
+  457  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  housing finance law for the purposes of carrying out the  provisions
+  Up to 5 percent of the funds  appropriated  herein  may  be  used  for
+  administrative purposes (08012207) (31424) .........................
+  26,000,000 ....................................... (re. $26,000,000)
+  For additional funding for the affordable housing corporation program.
+  For  allocation  as  follows:  For deposit in the affordable housing
+  development account created pursuant to section 59-b of the  private
+  housing  finance law for the purposes of carrying out the provisions
   of article XIX of the private housing finance law. No funds shall be
-  expended  from  this  appropriation until the director of the budget
+  expended from this appropriation until the director  of  the  budget
   has  approved  a  financial plan submitted by the affordable housing
   corporation in such detail as required by the director of the  budg-
   et.  The  amounts  appropriated herein may be suballocated or trans-
@@ -25619,38 +25646,25 @@ S T A T E  O F  N E W  Y O R K
   26,000,000 ....................................... (re. $26,000,000)
  
  By chapter 54, section 1, of the laws of 2019:
-  For  allocation  as  follows:  For  deposit  in the affordable housing
-  development account created pursuant to section 59-b of the  private
-  housing  finance law for the purposes of carrying out the provisions
-  of article XIX of the private housing finance law. No funds shall be
-  expended from this appropriation until the director  of  the  budget
-  has  approved  a  financial plan submitted by the affordable housing
-  458  12554-07-3
+  458  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  corporation in such detail as required by the director of the  budg-
+  For  allocation  as  follows:  For  deposit  in the affordable housing
+  development account created pursuant to section 59-b of the  private
+  housing  finance law for the purposes of carrying out the provisions
+  of article XIX of the private housing finance law. No funds shall be
+  expended  from  this  appropriation until the director of the budget
+  has approved a financial plan submitted by  the  affordable  housing
+  corporation  in such detail as required by the director of the budg-
   et.
-  Up  to  5  percent  of  the  funds appropriated herein may be used for
+  Up to 5 percent of the funds  appropriated  herein  may  be  used  for
   administrative purposes (08011907) (31424) .........................
   26,000,000 ....................................... (re. $26,000,000)
  
  By chapter 54, section 1, of the laws of 2018:
-  For allocation as follows:  For  deposit  in  the  affordable  housing
-  development  account created pursuant to section 59-b of the private
-  housing finance law for the purposes of carrying out the  provisions
-  of article XIX of the private housing finance law. No funds shall be
-  expended  from  this  appropriation until the director of the budget
-  has approved a financial plan submitted by  the  affordable  housing
-  corporation  in such detail as required by the director of the budg-
-  et.
-  Up to 5 percent of the funds  appropriated  herein  may  be  used  for
-  administrative purposes (08011807) (31424) .........................
-  26,000,000 ....................................... (re. $20,538,000)
- 
- By chapter 54, section 1, of the laws of 2017:
   For  allocation  as  follows:  For  deposit  in the affordable housing
   development account created pursuant to section 59-b of the  private
   housing  finance law for the purposes of carrying out the provisions
@@ -25660,10 +25674,10 @@ S T A T E  O F  N E W  Y O R K
   corporation in such detail as required by the director of the  budg-
   et.
   Up  to  5  percent  of  the  funds appropriated herein may be used for
-  administrative purposes (08011707) (31424) .........................
-  26,000,000 ........................................ (re. $1,300,000)
+  administrative purposes (08011807) (31424) .........................
+  26,000,000 ....................................... (re. $20,538,000)
  
- By chapter 55, section 1, of the laws of 2016:
+ By chapter 54, section 1, of the laws of 2017:
   For allocation as follows:  For  deposit  in  the  affordable  housing
   development  account created pursuant to section 59-b of the private
   housing finance law for the purposes of carrying out the  provisions
@@ -25673,29 +25687,29 @@ S T A T E  O F  N E W  Y O R K
   corporation  in such detail as required by the director of the budg-
   et.
   Up to 5 percent of the funds  appropriated  herein  may  be  used  for
-  administrative purposes (08011607) (31424) .........................
-  26,000,000 ........................................ (re. $1,025,000)
+  administrative purposes (08011707) (31424) .........................
+  26,000,000 ........................................ (re. $1,300,000)
  
- By chapter 54, section 1, of the laws of 2015:
+ By chapter 55, section 1, of the laws of 2016:
   For  allocation  as  follows:  For  deposit  in the affordable housing
   development account created pursuant to section 59-b of the  private
   housing  finance law for the purposes of carrying out the provisions
   of article XIX of the private housing finance law. No funds shall be
   expended from this appropriation until the director  of  the  budget
   has  approved  a  financial plan submitted by the affordable housing
-  459  12554-07-3
+  corporation in such detail as required by the director of the  budg-
+  et.
+  Up  to  5  percent  of  the  funds appropriated herein may be used for
+  administrative purposes (08011607) (31424) .........................
+  26,000,000 ........................................ (re. $1,025,000)
+
+ By chapter 54, section 1, of the laws of 2015:
+  459  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  corporation in such detail as required by the director of the  budg-
-  et.
-  Up  to  5  percent  of  the  funds appropriated herein may be used for
-  administrative purposes (08011507) (31424) .........................
-  29,000,000 .......................................... (re. $700,000)
- 
- By chapter 54, section 1, of the laws of 2014:
   For allocation as follows:  For  deposit  in  the  affordable  housing
   development  account created pursuant to section 59-b of the private
   housing finance law for the purposes of carrying out the  provisions
@@ -25705,6 +25719,19 @@ S T A T E  O F  N E W  Y O R K
   corporation  in such detail as required by the director of the budg-
   et.
   Up to 5 percent of the funds  appropriated  herein  may  be  used  for
+  administrative purposes (08011507) (31424) .........................
+  29,000,000 .......................................... (re. $700,000)
+ 
+ By chapter 54, section 1, of the laws of 2014:
+  For  allocation  as  follows:  For  deposit  in the affordable housing
+  development account created pursuant to section 59-b of the  private
+  housing  finance law for the purposes of carrying out the provisions
+  of article XIX of the private housing finance law. No funds shall be
+  expended from this appropriation until the director  of  the  budget
+  has  approved  a  financial plan submitted by the affordable housing
+  corporation in such detail as required by the director of the  budg-
+  et.
+  Up  to  5  percent  of  the  funds appropriated herein may be used for
   administrative purposes (08011407) (31424) .........................
   25,000,000 .......................................... (re. $950,000)
  
@@ -25714,38 +25741,38 @@ S T A T E  O F  N E W  Y O R K
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
-  For  allocation  as  follows:  For the purpose of capital projects and
-  other improvements in support of recovery and rebuilding efforts  in
+  For allocation as follows: For the purpose  of  capital  projects  and
+  other  improvements in support of recovery and rebuilding efforts in
   areas of New York state impacted by natural disasters to be adminis-
-  tered  by  the housing trust fund corporation by means of the gover-
+  tered by the housing trust fund corporation by means of  the  gover-
   nor's office of storm recovery. No funds shall be expended from this
   appropriation until the director of the budget has approved a finan-
-  cial plan submitted by the housing trust fund corporation on  behalf
-  of  the  governor's  office  of  storm  recovery  in  such detail as
-  required by the director of the  budget.  The  amounts  appropriated
-  herein  may  be suballocated or transferred to any state department,
+  cial  plan submitted by the housing trust fund corporation on behalf
+  of the governor's  office  of  storm  recovery  in  such  detail  as
+  required  by  the  director  of the budget. The amounts appropriated
+  herein may be suballocated or transferred to any  state  department,
   agency,  or  public  authority  for  the  purposes  stated  herein
   (08202207) (30915) ... 77,000,000 ................ (re. $77,000,000)
  
  By chapter 54, section 1, of the laws of 2021:
-  For  allocation  as  follows:  For the purpose of capital projects and
-  other improvements in support of recovery and rebuilding efforts  in
+  For allocation as follows: For the purpose  of  capital  projects  and
+  other  improvements in support of recovery and rebuilding efforts in
   areas of New York state impacted by natural disasters to be adminis-
-  tered  by  the housing trust fund corporation by means of the gover-
+  tered by the housing trust fund corporation by means of  the  gover-
   nor's office of storm recovery. No funds shall be expended from this
-  appropriation until the director of the budget has approved a finan-
-  cial plan submitted by the housing trust fund corporation on  behalf
-  of  the  governor's  office  of  storm  recovery  in  such detail as
-  required by the director of the  budget.  The  amounts  appropriated
-  herein  may  be suballocated or transferred to any state department,
-  460  12554-07-3
- 
+  460  12554-08-3
+
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
+  appropriation until the director of the budget has approved a finan-
+  cial  plan submitted by the housing trust fund corporation on behalf
+  of the governor's  office  of  storm  recovery  in  such  detail  as
+  required  by  the  director  of the budget. The amounts appropriated
+  herein may be suballocated or transferred to any  state  department,
   agency,  or  public  authority  for  the  purposes  stated  herein
   (08202107) (30915) ... 130,000,000 ............... (re. $16,960,000)
  
@@ -25755,23 +25782,8 @@ S T A T E  O F  N E W  Y O R K
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
- 
+
  The appropriation made by chapter 54, section 1, of the laws of 2022, is
-  hereby amended and reappropriated to read:
-  For  allocation  as  follows:  For  [deposit in the housing trust fund
-  account created pursuant to section  59-a  of  the  private  housing
-  finance  law  and  subject to the provisions of article XVIII of the
-  private housing finance law  for]  the  purpose  of  maximizing  the
-  state's  utilization  of  federal  low income housing tax credits in
-  conjunction with the issuance of tax exempt bonds  used  to  finance
-  affordable  housing  construction.  THE AMOUNTS APPROPRIATED HEREIN
-  MAY BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT,  AGENCY,
-  OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
-  Up  to  5  percent  of  the  funds appropriated herein may be used for
-  administrative purposes (08032207) (31423) .........................
-  14,000,000 ....................................... (re. $14,000,000)
- 
- The appropriation made by chapter 54, section 1, of the laws of 2021, is
   hereby amended and reappropriated to read:
   For allocation as follows: For [deposit  in  the  housing  trust  fund
   account  created  pursuant  to  section  59-a of the private housing
@@ -25783,10 +25795,10 @@ S T A T E  O F  N E W  Y O R K
   MAY  BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT, AGENCY,
   OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
   Up to 5 percent of the funds  appropriated  herein  may  be  used  for
-  administrative purposes (08032107) (31423) .........................
-  14,000,000 ....................................... (re. $13,300,000)
+  administrative purposes (08032207) (31423) .........................
+  14,000,000 ....................................... (re. $14,000,000)
  
- The appropriation made by chapter 54, section 1, of the laws of 2020, is
+ The appropriation made by chapter 54, section 1, of the laws of 2021, is
   hereby amended and reappropriated to read:
   For  allocation  as  follows:  For  [deposit in the housing trust fund
   account created pursuant to section  59-a  of  the  private  housing
@@ -25797,33 +25809,33 @@ S T A T E  O F  N E W  Y O R K
   affordable  housing  construction.  THE AMOUNTS APPROPRIATED HEREIN
   MAY BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT,  AGENCY,
   OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
-  461  12554-07-3
+  Up  to  5  percent  of  the  funds appropriated herein may be used for
+  administrative purposes (08032107) (31423) .........................
+  14,000,000 ....................................... (re. $13,300,000)
+ 
+ The appropriation made by chapter 54, section 1, of the laws of 2020, is
+  hereby amended and reappropriated to read:
+  For allocation as follows: For [deposit  in  the  housing  trust  fund
+  account  created  pursuant  to  section  59-a of the private housing
+  finance law and subject to the provisions of article  XVIII  of  the
+  private  housing  finance  law  for]  the  purpose of maximizing the
+  state's utilization of federal low income  housing  tax  credits  in
+  461  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
+  conjunction  with  the  issuance of tax exempt bonds used to finance
+  affordable housing construction.  THE AMOUNTS  APPROPRIATED  HEREIN
+  MAY  BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT, AGENCY,
+  OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
   Up  to  5  percent  of  the  funds appropriated herein may be used for
   administrative purposes (08032007) (31423) .........................
   14,000,000 ....................................... (re. $13,300,000)
  
  The appropriation made by chapter 54, section 1, of the laws of 2019, is
   hereby amended and reappropriated to read:
-  For  allocation  as  follows:  For  [deposit in the housing trust fund
-  account created pursuant to section  59-a  of  the  private  housing
-  finance  law  and  subject to the provisions of article XVIII of the
-  private housing finance law  for]  the  purpose  of  maximizing  the
-  state's  utilization  of  federal  low income housing tax credits in
-  conjunction with the issuance of tax exempt bonds  used  to  finance
-  affordable  housing  construction.  THE AMOUNTS APPROPRIATED HEREIN
-  MAY BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT,  AGENCY,
-  OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
-  Up  to  5  percent  of  the  funds appropriated herein may be used for
-  administrative purposes (08031907) (31423) .........................
-  14,000,000 ....................................... (re. $13,300,000)
- 
- The appropriation made by chapter 54, section 1, of the laws of 2018, is
-  hereby amended and reappropriated to read:
   For allocation as follows: For [deposit  in  the  housing  trust  fund
   account  created  pursuant  to  section  59-a of the private housing
   finance law and subject to the provisions of article  XVIII  of  the
@@ -25834,6 +25846,21 @@ S T A T E  O F  N E W  Y O R K
   MAY  BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT, AGENCY,
   OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
   Up to 5 percent of the funds  appropriated  herein  may  be  used  for
+  administrative purposes (08031907) (31423) .........................
+  14,000,000 ....................................... (re. $13,300,000)
+ 
+ The appropriation made by chapter 54, section 1, of the laws of 2018, is
+  hereby amended and reappropriated to read:
+  For  allocation  as  follows:  For  [deposit in the housing trust fund
+  account created pursuant to section  59-a  of  the  private  housing
+  finance  law  and  subject to the provisions of article XVIII of the
+  private housing finance law  for]  the  purpose  of  maximizing  the
+  state's  utilization  of  federal  low income housing tax credits in
+  conjunction with the issuance of tax exempt bonds  used  to  finance
+  affordable  housing  construction.  THE AMOUNTS APPROPRIATED HEREIN
+  MAY BE SUBALLOCATED OR TRANSFERRED TO ANY STATE DEPARTMENT,  AGENCY,
+  OR PUBLIC AUTHORITY FOR THE PURPOSES STATED HEREIN.
+  Up  to  5  percent  of  the  funds appropriated herein may be used for
   administrative purposes (08031807) (31423) .........................
   14,000,000 ........................................ (re. $4,948,000)
  
@@ -25845,79 +25872,79 @@ S T A T E  O F  N E W  Y O R K
   New Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  In  support  of a comprehensive, statewide multi-year housing program.
-  The commissioner shall provide, in electronic  excel  format  or  as
-  requested  by  the  Legislature, an annual report to the director of
+  In support of a comprehensive, statewide multi-year  housing  program.
+  The  commissioner  shall  provide,  in electronic excel format or as
+  requested by the Legislature, an annual report to  the  director  of
   the budget, the speaker of the Assembly, and the temporary president
   of the Senate, on or before July 1 of each year, that summarizes the
-  activities undertaken pursuant to the funding made available in  the
-  2022-23  state fiscal year housing program (ccp). Such annual report
-  shall be cumulative and shall  include  an  itemized  list  of  each
-  project  utilizing  funds  appropriated  by  the 2022-23 fiscal year
-  housing program (ccp), including a brief description of the project,
-  462  12554-07-3
+  activities  undertaken pursuant to the funding made available in the
+  462  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  project address, county, awardee, total budget,  amount  of  capital
-  subsidy  appropriated by the housing program (ccp), relevant section
-  of the housing program (ccp), number of units,  area  median  income
+  2022-23 state fiscal year housing program (ccp). Such annual  report
+  shall  be  cumulative  and  shall  include  an itemized list of each
+  project utilizing funds appropriated  by  the  2022-23  fiscal  year
+  housing program (ccp), including a brief description of the project,
+  project  address,  county,  awardee, total budget, amount of capital
+  subsidy appropriated by the housing program (ccp), relevant  section
+  of  the  housing  program (ccp), number of units, area median income
   requirements  if  applicable,  month  and  year  construction  will
   commence,  projected  date  of  occupancy,  and  project  phase
   (construction,  complete,  defunded).  In  addition  to  the  annual
-  report, the commissioner shall provide, in electronic  excel  format
+  report,  the  commissioner shall provide, in electronic excel format
   or as requested by the Legislature, a summary update to the director
   of the budget, the speaker of the Assembly, and the temporary presi-
   dent of the Senate, on or before January 1 of each year. Such summa-
-  ry  update  shall  include total commitments against each subprogram
-  within the 2022-23 fiscal year housing program (ccp),  total  number
-  of  projects  supported  with those commitments, and total number of
-  affordable units within those  projects.  Such  report  and  summary
-  update  shall  continue  to be provided until such time as the final
-  disbursement of funds appropriated in the 2022-23 state fiscal  year
+  ry update shall include total commitments  against  each  subprogram
+  within  the  2022-23 fiscal year housing program (ccp), total number
+  of projects supported with those commitments, and  total  number  of
+  affordable  units  within  those  projects.  Such report and summary
+  update shall continue to be provided until such time  as  the  final
+  disbursement  of funds appropriated in the 2022-23 state fiscal year
   housing program (ccp) has occurred. Notwithstanding any other law to
   the contrary, the amounts appropriated herein may be suballocated or
   transferred to any state department, agency, or public authority for
   the purposes stated herein.
-  1.  A  total of $1,500,000,000 shall be made available for the purpose
-  of providing capital and operating subsidies for the development  or
-  preservation  of  supportive housing units throughout the state over
+  1. A total of $1,500,000,000 shall be made available for  the  purpose
+  of  providing capital and operating subsidies for the development or
+  preservation of supportive housing units throughout the  state  over
   the next five years.
-  2. A total of $1,000,000,000 shall be made available for  the  purpose
-  of  providing capital subsidies for the new construction or adaptive
-  reuse of rental housing that advance one or  more  of  the  specific
-  housing  priorities of the state. Up to 5 percent of the funds allo-
+  2.  A  total of $1,000,000,000 shall be made available for the purpose
+  of providing capital subsidies for the new construction or  adaptive
+  reuse  of  rental  housing  that advance one or more of the specific
+  housing priorities of the state. Up to 5 percent of the funds  allo-
   cated herein may be used for administrative purposes.
-  3. A total of $300,000,000 shall be made available for the purpose  of
+  3.  A total of $300,000,000 shall be made available for the purpose of
   developing  or  rehabilitating  senior  rental  affordable  housing
   targeted to low-income seniors, aged 60 and above.
   4. A total of $80,000,000 for purposes of the rural and urban communi-
-  ty investment fund program created pursuant to article XXVII of  the
+  ty  investment fund program created pursuant to article XXVII of the
   private housing finance law.
-  5.  A  total of $90,000,000 shall be made available for the purpose of
-  providing capital  subsidies  for  the  new  construction,  adaptive
-  reuse,  or reconstruction of rental housing affordable to households
+  5. A total of $90,000,000 shall be made available for the  purpose  of
+  providing  capital  subsidies  for  the  new  construction, adaptive
+  reuse, or reconstruction of rental housing affordable to  households
   that earn between 60 percent and 130 percent of AMI and that advance
   one or more of the specific housing priorities of the state.
-  6. A total of $450,000,000 shall be made available for the purpose  of
+  6.  A total of $450,000,000 shall be made available for the purpose of
   substantial or moderate rehabilitation of site-specific multi-family
   rental housing.
-  7.  A total of $120,000,000 shall be made available for the purpose of
-  providing capital subsidies to preserve  and  improve  Mitchell-Lama
+  7. A total of $120,000,000 shall be made available for the purpose  of
+  providing  capital  subsidies  to preserve and improve Mitchell-Lama
   properties in the state.
-  8.  A total of $150,000,000 shall be made available for the purpose of
-  substantial or moderate rehabilitation  and/or  the  demolition  and
-  replacement  through  new construction of site-specific multi-family
-  rental housing currently owned  by  federally-supervised  or  state-
-  supervised public housing authorities outside of New York city.
-  463  12554-07-3
+  8. A total of $150,000,000 shall be made available for the purpose  of
+  substantial  or  moderate  rehabilitation  and/or the demolition and
+  463  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
+  replacement through new construction of  site-specific  multi-family
+  rental  housing currently owned by federally-supervised or state-su-
+  pervised public housing authorities outside of New York city.
   9.  A  total of $60,000,000 shall be made available for the purpose of
   substantial or  moderate  rehabilitation  and  new  construction  of
   buildings of 5 to 50 units.
@@ -25961,24 +25988,24 @@ S T A T E  O F  N E W  Y O R K
   units  throughout  the state over the next five years, as determined
   by a competitive selection process (08111807) (30904) ..............
   132,000,000 ..................................... (re. $132,000,000)
-
+ 
  By chapter 54, section 1, of the laws of 2017, as amended by chapter 54,
   section 1, of the laws of 2020:
   In support of a comprehensive, statewide multi-year  housing  program.
   The  commissioner  shall  provide,  in electronic excel format or as
   requested by the Legislature, an annual report to  the  director  of
+  464  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   the budget, the speaker of the Assembly, and the temporary president
   of the Senate, on or before July 1 of each year, that summarizes the
   activities  undertaken pursuant to the funding made available in the
-  464  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
-  2016-17 and 2017-18 state fiscal year housing  program  (ccp).  Such
+  2016-17  and  2017-18  state fiscal year housing program (ccp). Such
   annual report shall be cumulative and shall include an itemized list
-  of  each  project  utilizing  funds  appropriated by the 2016-17 and
+  of each project utilizing funds  appropriated  by  the  2016-17  and
   2017-18  state  fiscal year housing program (ccp), including a brief
   description of the project, street address, county,  awardee,  total
   budget,  amount  of  capital  subsidy  appropriated  by  the housing
@@ -26025,15 +26052,15 @@ S T A T E  O F  N E W  Y O R K
   $45,000,000 for purposes of the rural and urban community investment
   fund program created pursuant to article XXVII of the private  hous-
   ing finance law.
-  5.  When  combined  with other funds made available in the 2016-17 and
-  2017-18 state fiscal year housing program (ccp), up to  a  total  of
-  $150,000,000  shall  be  made available for the purpose of providing
-  465  12554-07-3
+  465  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
+  5.  When  combined  with other funds made available in the 2016-17 and
+  2017-18 state fiscal year housing program (ccp), up to  a  total  of
+  $150,000,000  shall  be  made available for the purpose of providing
   capital subsidies for  the  new  construction,  adaptive  reuse,  or
   reconstruction  of rental housing affordable to households that earn
   between 60 percent and 130 percent of AMI and that  advance  one  or
@@ -26083,17 +26110,17 @@ S T A T E  O F  N E W  Y O R K
   use  of  such  funds,  which  shall  be consistent with any existing
   procedures, can provide stronger resident protections,  and  conform
   with any other applicable federal rules and/or regulations. In cases
-  when  there  is  a  property  manager  other than the public housing
-  authority that receives these  funds,  then  such  property  manager
-  shall  be  required  to  take actions including, but not limited to,
-  466  12554-07-3
+  466  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  providing clear and  accessible  information  to  residents  before,
-  during,  and  after  becoming the property manager; provide language
+  when  there  is  a  property  manager  other than the public housing
+  authority that receives these  funds,  then  such  property  manager
+  shall  be  required  to  take actions including, but not limited to,
+  providing  clear  and  accessible  information  to residents before,
+  during, and after becoming the property  manager;  provide  language
   assistance to residents with limited English proficiency; and recog-
   nize  a legitimate resident organization as the residents' represen-
   tative, invite such resident organization to  all  resident  engage-
@@ -26141,75 +26168,75 @@ S T A T E  O F  N E W  Y O R K
   population of one million or more,  one  hundred  percent  of  which
   shall  be  affordable to households that earn up to sixty percent of
   the area median income adjusted for family size. Priority  shall  be
-  given  to  applicants  incorporated  pursuant  to the not-for-profit
-  corporation law, with  prior  experience  in  community  development
-  projects  with  at least a fifty-one percent controlling interest in
-  467  12554-07-3
+  467  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  such project.  Not-for-profits  shall  strive  to  develop  projects
-  utilizing  state  or  city-owned  land and such utilization shall be
-  prioritized in the agency review of such project (08111707)  (30904)
+  given  to  applicants  incorporated  pursuant  to the not-for-profit
+  corporation law, with  prior  experience  in  community  development
+  projects  with  at least a fifty-one percent controlling interest in
+  such  project.  Not-for-profits  shall  strive  to  develop projects
+  utilizing state or city-owned land and  such  utilization  shall  be
+  prioritized  in the agency review of such project (08111707) (30904)
   ... 541,525,000 ................................. (re. $541,525,000)
  
  By chapter 55, section 1, of the laws of 2016, as amended by chapter 54,
   section 1, of the laws of 2020:
   In support of a comprehensive, statewide multi-year housing program.
-  The  commissioner  shall  provide,  in  electronic  excel format or as
-  requested by the Legislature, an annual report to  the  director  of
+  The commissioner shall provide,  in  electronic  excel  format  or  as
+  requested  by  the  Legislature, an annual report to the director of
   the budget, the speaker of the Assembly, and the temporary president
   of the Senate, on or before July 1 of each year, that summarizes the
-  activities  undertaken pursuant to the funding made available in the
-  2016-17 and 2017-18 state fiscal year housing  program  (ccp).  Such
+  activities undertaken pursuant to the funding made available in  the
+  2016-17  and  2017-18  state fiscal year housing program (ccp). Such
   annual report shall be cumulative and shall include an itemized list
-  of  each  project  utilizing  funds  appropriated by the 2016-17 and
-  2017-18 state fiscal year housing program (ccp), including  a  brief
-  description  of  the project, street address, county, awardee, total
-  budget, amount  of  capital  subsidy  appropriated  by  the  housing
+  of each project utilizing funds  appropriated  by  the  2016-17  and
+  2017-18  state  fiscal year housing program (ccp), including a brief
+  description of the project, street address, county,  awardee,  total
+  budget,  amount  of  capital  subsidy  appropriated  by  the housing
   program (ccp), relevant section of the housing program (ccp), bonded
-  or  cash,  amount  of each additional public funding source, funding
-  program, number of units, area median income requirements if  appli-
-  cable,  month and year construction will commence, projected date of
+  or cash, amount of each additional public  funding  source,  funding
+  program,  number of units, area median income requirements if appli-
+  cable, month and year construction will commence, projected date  of
   occupancy,  and  project  phase  (in  development,  engineering,
   construction, complete, defunded). Such annual report shall continue
-  to  be  provided  until such time as the final disbursement of funds
-  appropriated in the 2016-17 and 2017-18 state  fiscal  year  housing
+  to be provided until such time as the final  disbursement  of  funds
+  appropriated  in  the  2016-17 and 2017-18 state fiscal year housing
   program (ccp) has occurred.
-  Notwithstanding  any  other law to the contrary, the amounts appropri-
-  ated herein may be suballocated to any state department, agency,  or
-  public  authority  for  the  purposes stated herein. Notwithstanding
-  section 40 of the state finance law or any other law to the  contra-
-  ry,  all  assistance  appropriations  made  from  this account shall
-  remain in full force and effect in  accordance,  in  the  aggregate,
-  with  the  following  schedule:  not  more than $303,384,000 for the
-  period April 1, 2017 through and past March 31, 2018, not more  than
-  an  additional $354,715,000 for the period April 1, 2018 through and
-  past March 31, 2019, not more than an  additional  $359,565,000  for
-  the  period  April  1, 2019 through and past March 31, 2020, and not
-  more than an additional $365,811,000 for the period  April  1,  2020
+  Notwithstanding any other law to the contrary, the  amounts  appropri-
+  ated  herein may be suballocated to any state department, agency, or
+  public authority for the  purposes  stated  herein.  Notwithstanding
+  section  40 of the state finance law or any other law to the contra-
+  ry, all assistance  appropriations  made  from  this  account  shall
+  remain  in  full  force  and effect in accordance, in the aggregate,
+  with the following schedule: not  more  than  $303,384,000  for  the
+  period  April 1, 2017 through and past March 31, 2018, not more than
+  an additional $354,715,000 for the period April 1, 2018 through  and
+  past  March  31,  2019, not more than an additional $359,565,000 for
+  the period April 1, 2019 through and past March 31,  2020,  and  not
+  more  than  an  additional $365,811,000 for the period April 1, 2020
   through and past March 31, 2021 as indicated below:
-  1.  When  combined  with other funds made available in the 2016-17 and
-  2017-18 state fiscal year housing program (ccp), up to  a  total  of
-  $950,000,000  shall  be  made available for the purpose of providing
+  1. When combined with other funds made available in  the  2016-17  and
+  2017-18  state  fiscal  year housing program (ccp), up to a total of
+  $950,000,000 shall be made available for the  purpose  of  providing
   capital and operating subsidies for the development of 6,000 or more
-  supportive housing units throughout the state  over  the  next  five
+  supportive  housing  units  throughout  the state over the next five
   years, as determined by a competitive selection process.
-  2.  When  combined  with other funds made available in the 2016-17 and
-  2017-18 state fiscal year housing program (ccp), up to  a  total  of
-  $472,025,000  shall  be  made available for the purpose of providing
-  capital subsidies for the new  construction  or  adaptive  reuse  of
-  rental  housing  affordable to households that earn up to 60 percent
-  468  12554-07-3
+  2. When combined with other funds made available in  the  2016-17  and
+  2017-18  state  fiscal  year housing program (ccp), up to a total of
+  468  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  of area median income (AMI) and that advance  one  or  more  of  the
-  specific  housing  priorities  of  the state. Up to 5 percent of the
+  $472,025,000 shall be made available for the  purpose  of  providing
+  capital  subsidies  for  the  new  construction or adaptive reuse of
+  rental housing affordable to households that earn up to  60  percent
+  of  area  median  income  (AMI)  and that advance one or more of the
+  specific housing priorities of the state. Up to  5  percent  of  the
   funds allocated herein may be used for administrative purposes.
   3.  When  combined  with other funds made available in the 2016-17 and
   2017-18 state fiscal year housing program (ccp), up to  a  total  of
@@ -26257,17 +26284,17 @@ S T A T E  O F  N E W  Y O R K
   posted  on  each  applicable housing authority's website in a timely
   manner to properly inform such public housing authority tenants. The
   residents of public housing that receives and  uses  such  funds  to
-  participate  in  such  federal  program  shall be provided a uniform
-  lease agreement that provides, at a minimum,  terms  and  conditions
-  consistent  with  those  found  in the public housing lease they had
-  469  12554-07-3
+  469  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  prior to the public housing having received any such  funds.  Public
-  housing  authorities  that  receive  and  use  such  funds  shall be
+  participate  in  such  federal  program  shall be provided a uniform
+  lease agreement that provides, at a minimum,  terms  and  conditions
+  consistent  with  those  found  in the public housing lease they had
+  prior  to  the public housing having received any such funds. Public
+  housing authorities  that  receive  and  use  such  funds  shall  be
   required to: provide resident education, which shall include compre-
   hensive  information  about  any  anticipated  changes to the public
   housing; provide  language  assistance  to  residents  with  limited
@@ -26315,34 +26342,34 @@ S T A T E  O F  N E W  Y O R K
   13.  When  combined with other funds made available in the 2016-17 and
   2017-18 state fiscal year housing program (ccp), up to  a  total  of
   $200,000,000 shall be made available, pursuant to a plan approved by
-  the  director  of the budget, in consultation with the New York city
-  housing authority chair and the dormitory authority of the state  of
-  New York, for the purpose of capital projects and other improvements
-  470  12554-07-3
+  470  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
+  the  director  of the budget, in consultation with the New York city
+  housing authority chair and the dormitory authority of the state  of
+  New York, for the purpose of capital projects and other improvements
   related  to  housing  developments owned or operated by the New York
   city housing authority; provided further to the extent  practicable,
   the  New  York  city housing authority in its administration of such
-  funds  shall  include  employment  opportunities  for  NYCHA tenants
-  consistent with section 3 of the housing and urban  development  act
+  funds shall  include  employment  opportunities  for  NYCHA  tenants
+  consistent  with  section 3 of the housing and urban development act
   of 1968.
-  14.  When  combined with other funds made available in the 2016-17 and
-  2017-18 state fiscal year housing program (ccp), up to  a  total  of
-  $100,000,000  shall be made available for the preservation, restora-
-  tion or creation of affordable housing units  in  a  city  having  a
-  population  of  one  million  or  more, one hundred percent of which
-  shall be affordable to households that earn up to sixty  percent  of
-  the  area  median income adjusted for family size. Priority shall be
-  given to applicants  incorporated  pursuant  to  the  not-for-profit
-  corporation  law,  with  prior  experience  in community development
-  projects with at least a fifty-one percent controlling  interest  in
-  such  project.  Not-for-profits  shall  strive  to  develop projects
-  utilizing state or city-owned land and  such  utilization  shall  be
-  prioritized  in the agency review of such project (08111607) (30904)
+  14. When combined with other funds made available in the  2016-17  and
+  2017-18  state  fiscal  year housing program (ccp), up to a total of
+  $100,000,000 shall be made available for the preservation,  restora-
+  tion  or  creation  of  affordable  housing units in a city having a
+  population of one million or more,  one  hundred  percent  of  which
+  shall  be  affordable to households that earn up to sixty percent of
+  the area median income adjusted for family size. Priority  shall  be
+  given  to  applicants  incorporated  pursuant  to the not-for-profit
+  corporation law, with  prior  experience  in  community  development
+  projects  with  at least a fifty-one percent controlling interest in
+  such project.  Not-for-profits  shall  strive  to  develop  projects
+  utilizing  state  or  city-owned  land and such utilization shall be
+  prioritized in the agency review of such project (08111607)  (30904)
   ... 1,383,475,000 ............................... (re. $108,191,000)
  
  HOUSING OPPORTUNITIES PROGRAM FOR THE ELDERLY (CCP)
@@ -26353,44 +26380,6 @@ S T A T E  O F  N E W  Y O R K
   Preservation of Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For allocation as follows: For contracts  with  not-for-profit  corpo-
-  rations  or  municipalities to provide state financial assistance to
-  administer emergency home repairs programs which provide grants  and
-  loans  in  an  amount not to exceed $10,000 per unit for the cost of
-  correcting any condition which poses a threat to the life, health or
-  safety of a low income elderly homeowner pursuant to article XXIX of
-  the private housing finance law. No funds  shall  be  expended  from
-  this  appropriation  until the director of the budget has approved a
-  financial plan submitted by the housing trust  fund  corporation  on
-  behalf  of the housing opportunities for the elderly program in such
-  detail as required by the director of the budget.
-  Up to 5 percent of the funds  appropriated  herein  may  be  used  for
-  administrative purposes (08082203)  (31422) ........................
-  1,400,000 ......................................... (re. $1,400,000)
-  For  additional  funding for the housing opportunities program for the
-  elderly. For allocation as  follows:  For  contracts  with  not-for-
-  profit  corporations  or  municipalities  to provide state financial
-  assistance to  administer  emergency  home  repairs  programs  which
-  provide grants and loans in an amount not to exceed $10,000 per unit
-  for the cost of correcting any condition which poses a threat to the
-  life, health or safety of a low income elderly homeowner pursuant to
-  article  XXIX  of the private housing finance law. No funds shall be
-  expended from this appropriation until the director  of  the  budget
-  471  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
-  has  approved  a  financial plan submitted by the housing trust fund
-  corporation on behalf of the housing opportunities for  the  elderly
-  program  in  such  detail as required by the director of the budget.
-  The  amounts  appropriated herein may be suballocated or transferred
-  to any  state  department,  agency,  or  public  authority  for  the
-  purposes stated herein [(08082203) (31422)] (08HO2203) (31518) .....
-  2,000,000 ......................................... (re. $2,000,000)
- 
- By chapter 54, section 1, of the laws of 2021:
   For  allocation  as  follows: For contracts with not-for-profit corpo-
   rations or municipalities to provide state financial  assistance  to
   administer  emergency home repairs programs which provide grants and
@@ -26403,6 +26392,44 @@ S T A T E  O F  N E W  Y O R K
   behalf of the housing opportunities for the elderly program in  such
   detail as required by the director of the budget.
   Up  to  5  percent  of  the  funds appropriated herein may be used for
+  administrative purposes (08082203)  (31422) ........................
+  1,400,000 ......................................... (re. $1,400,000)
+  For additional funding for the housing opportunities program  for  the
+  elderly.  For allocation as follows: For contracts with not-for-pro-
+  fit  corporations  or  municipalities  to  provide  state  financial
+  assistance  to  administer  emergency  home  repairs  programs which
+  provide grants and loans in an amount not to exceed $10,000 per unit
+  for the cost of correcting any condition which poses a threat to the
+  471  12554-08-3
+
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  life, health or safety of a low income elderly homeowner pursuant to
+  article XXIX of the private housing finance law. No funds  shall  be
+  expended  from  this  appropriation until the director of the budget
+  has  approved  a  financial plan submitted by the housing trust fund
+  corporation on behalf of the housing opportunities for  the  elderly
+  program  in  such  detail as required by the director of the budget.
+  The amounts appropriated herein may be suballocated  or  transferred
+  to  any  state  department,  agency,  or  public  authority  for the
+  purposes stated herein [(08082203) (31422)] (08HO2203) (31518) .....
+  2,000,000 ......................................... (re. $2,000,000)
+
+ By chapter 54, section 1, of the laws of 2021:
+  For allocation as follows: For contracts  with  not-for-profit  corpo-
+  rations  or  municipalities to provide state financial assistance to
+  administer emergency home repairs programs which provide grants  and
+  loans  in  an  amount not to exceed $10,000 per unit for the cost of
+  correcting any condition which poses a threat to the life, health or
+  safety of a low income elderly homeowner pursuant to article XXIX of
+  the private housing finance law. No funds  shall  be  expended  from
+  this  appropriation  until the director of the budget has approved a
+  financial plan submitted by the housing trust  fund  corporation  on
+  behalf  of the housing opportunities for the elderly program in such
+  detail as required by the director of the budget.
+  Up to 5 percent of the funds  appropriated  herein  may  be  used  for
   administrative purposes (08082103) (31422) .........................
   1,400,000 ........................................... (re. $836,000)
  
@@ -26414,12 +26441,12 @@ S T A T E  O F  N E W  Y O R K
   New Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For services and expenses of the housing our  neighbors  with  dignity
+  For  services  and  expenses of the housing our neighbors with dignity
   program to acquire vacant commercial properties and distressed hotel
-  properties  throughout  the  State  of  New  York for the purpose of
-  conversion to permanent affordable rental housing. Up to  5  percent
-  of  the  funds  allocated  herein  may  be  used  for administrative
-  purposes. The amounts appropriated herein  may  be  suballocated  or
+  properties throughout the State of  New  York  for  the  purpose  of
+  conversion  to  permanent affordable rental housing. Up to 5 percent
+  of the  funds  allocated  herein  may  be  used  for  administrative
+  purposes.  The  amounts  appropriated  herein may be suballocated or
   transferred to any state department, agency, or public authority for
   the purposes stated herein (08232207) (31520) ......................
   100,000,000 ..................................... (re. $100,000,000)
@@ -26429,16 +26456,15 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Administration Purpose
- 
- By  chapter 54, section 1, of the laws of 1990, as added by chapter 215,
-  section 10, of the laws of 1990,  and  as  amended  by  chapter  55,
-  section 1, of the laws of 1996:
-  472  12554-07-3
+  472  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
+ By chapter 54, section 1, of the laws of 1990, as added by chapter  215,
+  section  10,  of  the  laws  of  1990, and as amended by chapter 55,
+  section 1, of the laws of 1996:
   For transfer to the Housing Program Fund for the non-bondable costs of
   projects  authorized  by appropriations in the Housing Program Fund.
   Upon certification of such non-bondable costs by the director of the
@@ -26484,22 +26510,22 @@ S T A T E  O F  N E W  Y O R K
   Up  to  5  percent  of  the  funds appropriated herein may be used for
   administrative purposes (08042107) (31421) .........................
   44,200,000 ....................................... (re. $42,245,000)
- 
+
  By chapter 54, section 1, of the laws of 2020:
   For allocation as follows: For  deposit  in  the  housing  trust  fund
   account  created  pursuant  to  section  59-a of the private housing
-  finance law for the purposes of carrying out the provisions of arti-
-  cle XVIII of  the  private  housing  finance  law  including  up  to
-  $300,000  to offset housing trust fund corporation costs of adminis-
-  473  12554-07-3
+  473  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
+  finance law for the purposes of carrying out the provisions of arti-
+  cle XVIII of  the  private  housing  finance  law  including  up  to
+  $300,000  to offset housing trust fund corporation costs of adminis-
   tering the low income housing trust fund program established by such
-  article. No funds shall be expended from  this  appropriation  until
-  the  director  of the budget has approved a financial plan submitted
+  article.  No  funds  shall be expended from this appropriation until
+  the director of the budget has approved a financial  plan  submitted
   by the housing trust fund corporation on behalf of the housing trust
   fund program in such detail as required by the director of the budg-
   et.
@@ -26545,18 +26571,17 @@ S T A T E  O F  N E W  Y O R K
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
- 
- By chapter 54, section 1, of the laws of 2022:
-  For allocation as follows: For  contract  with  not-for-profit  corpo-
-  rations  and  municipalities  to  provide state fiscal assistance to
-  474  12554-07-3
+  474  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
-  administer main  street  or  downtown  revitalization  projects  for
-  communities  pursuant to article XXVI of the private housing finance
+ 
+ By chapter 54, section 1, of the laws of 2022:
+  For  allocation  as  follows:  For contract with not-for-profit corpo-
+  rations and municipalities to provide  state  fiscal  assistance  to
+  administer  main  street  or  downtown  revitalization  projects for
+  communities pursuant to article XXVI of the private housing  finance
   law (08062207) (31413) ... 4,200,000 .............. (re. $4,200,000)
  
  By chapter 54, section 1, of the laws of 2021:
@@ -26572,6 +26597,13 @@ S T A T E  O F  N E W  Y O R K
   administer  main  street  or  downtown  revitalization  projects for
   communities pursuant to article XXVI of the private housing  finance
   law (08062007) (31413) ... 4,200,000 .............. (re. $1,614,000)
+ 
+ By chapter 54, section 1, of the laws of 2019:
+  For  allocation  as  follows:  For contract with not-for-profit corpo-
+  rations and municipalities to provide  state  fiscal  assistance  to
+  administer  main  street  or  downtown  revitalization  projects for
+  communities pursuant to article XXVI of the private housing  finance
+  law (08061907) (31413) ... 4,200,000 ................ (re. $334,000)
  
  MANUFACTURED HOME ADVANTAGE PROGRAM (CCP)
  
@@ -26597,26 +26629,26 @@ S T A T E  O F  N E W  Y O R K
   For  allocation  as follows: For the purposes of a mobile and manufac-
   tured home advantage program to fund loans and grants for the acqui-
   sition, demolition, or replacement and/or repair of mobile or  manu-
-  factured  homes  and/or  mobile or manufactured home parks. No funds
-  shall be expended from this appropriation until the director of  the
-  budget  has approved a financial plan submitted by the administering
-  agency in such detail as required by the  director  of  the  budget.
-  Notwithstanding any other law to the contrary, the amounts appropri-
-  ated  herein may be suballocated or transferred to any state depart-
-  ment, agency, or public authority for  the  purposes  stated  herein
-  (08212103) (30917) ... 5,000,000 .................. (re. $5,000,000)
- 
- By chapter 54, section 1, of the laws of 2020:
-  475  12554-07-3
+  475  12554-08-3
  
   DIVISION OF HOUSING AND COMMUNITY RENEWAL
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
-  For  allocation  as follows: For the purposes of a mobile and manufac-
-  tured home advantage program to fund loans and grants for the acqui-
-  sition, demolition, or replacement and/or repair of mobile or  manu-
+
   factured  homes  and/or  mobile or manufactured home parks. No funds
+  shall be expended from this appropriation until the director of  the
+  budget  has approved a financial plan submitted by the administering
+  agency  in  such  detail  as required by the director of the budget.
+  Notwithstanding any other law to the contrary, the amounts appropri-
+  ated herein may be suballocated or transferred to any state  depart-
+  ment,  agency,  or  public  authority for the purposes stated herein
+  (08212103) (30917) ... 5,000,000 .................. (re. $5,000,000)
+ 
+ By chapter 54, section 1, of the laws of 2020:
+  For allocation as follows: For the purposes of a mobile  and  manufac-
+  tured home advantage program to fund loans and grants for the acqui-
+  sition,  demolition, or replacement and/or repair of mobile or manu-
+  factured homes and/or mobile or manufactured home  parks.  No  funds
   shall  be expended from this appropriation until the director of the
   budget has approved a financial plan submitted by the  administering
   agency  in  such  detail  as required by the director of the budget.
@@ -26625,13 +26657,26 @@ S T A T E  O F  N E W  Y O R K
   ment,  agency,  or  public  authority for the purposes stated herein
   (08212003) (30917) ... 5,000,000 .................. (re. $3,743,000)
  
+ By chapter 54, section 1, of the laws of 2019:
+  For allocation as follows: For the purposes of a mobile  and  manufac-
+  tured home advantage program to fund loans and grants for the acqui-
+  sition,  demolition, or replacement and/or repair of mobile or manu-
+  factured homes and/or mobile or manufactured home  parks.  No  funds
+  shall  be expended from this appropriation until the director of the
+  budget has approved a financial plan submitted by the  administering
+  agency in such detail as required by the director of the budget.
+  Notwithstanding  any  other law to the contrary, the amounts appropri-
+  ated herein may be suballocated or transferred to any state  depart-
+  ment,  agency,  or  public  authority for the purposes stated herein
+  (08211903) (30917) ... 5,000,000 .................. (re. $3,748,000)
+ 
  MITCHELL-LAMA PRESERVATION AND HOMEOWNERSHIP PROGRAM (CCP)
  
   Capital Projects Funds - Other
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
   For services and expenses of a Mitchell-Lama preservation and homeown-
   ership program to preserve and improve Mitchell-Lama properties  and
@@ -26642,9 +26687,15 @@ S T A T E  O F  N E W  Y O R K
   herein may be used for administrative purposes. The  amounts  appro-
   priated  herein  may  be  suballocated  or  transferred to any state
   department, agency, or public  authority  for  the  purposes  stated
+  476  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+
   herein (08252203) (31522) ..........................................
   100,000,000 ..................................... (re. $100,000,000)
-
+ 
  MITCHELL LAMA REHABILITATION AND PRESERVATION PROGRAM AND ALL AFFORDABLE
   PROGRAM (CCP)
  
@@ -26665,29 +26716,23 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Federal
   Federal Capital Projects Fund
   Federal Capital Projects Account - 31350
-  476  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   New Facilities Purpose
  
  The appropriation made by chapter 54, section 1, of the laws of 1991, as
-  amended  by  chapter  54,  section 1, of the laws of 2021, is hereby
+  amended by chapter 54, section 1, of the laws  of  2021,  is  hereby
   amended and reappropriated to read:
-  For expenditure of funds made available pursuant to  the  CranstonGon-
-  zales  National  Affordable  Housing  Act (, being P.L. 101-625) for
-  activities authorized pursuant to article XXIV of the Private  Hous-
+  For  expenditure  of funds made available pursuant to the CranstonGon-
+  zales National Affordable Housing Act (, being P.L.  101-625)  for
+  activities  authorized pursuant to article XXIV of the Private Hous-
   ing  Finance  Law.  Notwithstanding  any  other  provision  of  law,
   [$76,800,000] $82,800,000 of the amount appropriated herein shall be
   used for payment of administrative costs incurred in the implementa-
-  tion of article XXIV of the private housing finance law for  Federal
-  aid  made available under the HOME Investment Partnership Program to
-  pay State personal service  and  fringe  benefit  costs  related  to
-  administration  of the HOME program. Such funds allocated for admin-
-  istration shall be set aside prior to the distribution of  funds  to
-  projects  as required by article XXIV of the private housing finance
+  tion  of article XXIV of the private housing finance law for Federal
+  aid made available under the HOME Investment Partnership Program  to
+  pay  State  personal  service  and  fringe  benefit costs related to
+  administration of the HOME program. Such funds allocated for  admin-
+  istration  shall  be set aside prior to the distribution of funds to
+  projects as required by article XXIV of the private housing  finance
   law (08019107) (31414) ...  125,132,000 .......... (re. $10,100,000)
  
  NEW YORK CITY HOUSING AUTHORITY PROGRAM (CCP)
@@ -26699,10 +26744,16 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2019, as amended by chapter 54,
   section 1, of the laws of 2020:
+  477  12554-08-3
+
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   For the purposes of capital projects and other improvements to address
-  issues including, but not limited to lead  at  housing  developments
-  owned  or  operated by the New York city housing authority, pursuant
-  to a plan approved by the director of the  budget,  in  consultation
+  issues  including,  but  not limited to lead at housing developments
+  owned or operated by the New York city housing  authority,  pursuant
+  to  a  plan  approved by the director of the budget, in consultation
   with  the  New  York  city housing authority chair and the dormitory
   authority of the state of New York; provided further to  the  extent
   practicable,  the  New  York  city housing authority in its adminis-
@@ -26712,7 +26763,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated  or  transferred  to  any  state department, agency, or
   public authority for the purposes stated herein  (08191907)  (30913)
   ... 100,000,000 ................................. (re. $100,000,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018, as amended by chapter 54,
   section 1, of the laws of 2020:
   For  the purpose of capital projects and other improvements to address
@@ -26723,24 +26774,18 @@ S T A T E  O F  N E W  Y O R K
   ty. Notwithstanding any other law to the contrary,  funds  appropri-
   ated  herein  shall be made available pursuant to a plan established
   under section 402-d of the public housing law.  All  work  conducted
-  477  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
-
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   utilizing the funds appropriated herein must be conducted exclusive-
   ly in accordance with the terms and conditions of the plan described
   therein;  provided  further  to the extent practicable, the New York
-  city  housing  authority  in  its administration of such funds shall
-  include employment opportunities for NYCHA tenants  consistent  with
-  section 3 of the housing and urban development act of 1968. Notwith-
-  standing  any  law to the contrary, no funds made available pursuant
-  to chapter 54 of the laws of 2017 for  capital  projects  and  other
-  improvements  related  to  housing developments owned or operated by
-  the New York city housing authority shall  be  allocated  until  the
-  establishment  of  a  plan  pursuant  to section 402-d of the public
-  housing law. The amounts appropriated herein may be suballocated  or
+  city housing authority in its administration  of  such  funds  shall
+  include  employment  opportunities for NYCHA tenants consistent with
+  section 3  of  the  housing  and  urban  development  act  of  1968.
+  Notwithstanding  any  law  to  the contrary, no funds made available
+  pursuant to chapter 54 of the laws of 2017 for capital projects  and
+  other improvements related to housing developments owned or operated
+  by  the New York city housing authority shall be allocated until the
+  establishment of a plan pursuant to  section  402-d  of  the  public
+  housing  law. The amounts appropriated herein may be suballocated or
   transferred to any state department, agency, or public authority for
   the purposes stated herein (08191807) (30913) ......................
   250,000,000 ..................................... (re. $250,000,000)
@@ -26755,12 +26800,18 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2021:
   For services and expenses of a public housing program. Funds appropri-
   ated herein should be used for weatherization, heating needs, eleva-
-  tors,  lead remediation, and other critical maintenance projects for
-  public housing across the state. Of the amounts appropriated  herein
-  $200,000,000  shall  be  suballocated  to  the New York city housing
-  authority. Provided further that $125,000,000 shall  be  distributed
-  to  public housing throughout the state based on a plan submitted by
-  the division of housing and community renewal and  approved  by  the
+  tors, lead remediation, and other critical maintenance projects  for
+  public  housing across the state. Of the amounts appropriated herein
+  478  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  $200,000,000 shall be suballocated to  the  New  York  city  housing
+  authority.  Provided  further that $125,000,000 shall be distributed
+  to public housing throughout the state based on a plan submitted  by
+  the  division  of  housing and community renewal and approved by the
   director of the budget (08252107) (31494) ..........................
   325,000,000 ..................................... (re. $325,000,000)
  
@@ -26772,20 +26823,14 @@ S T A T E  O F  N E W  Y O R K
   New Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For  services  and expenses of a public housing assistance program for
-  public housing across the state. Of the amounts appropriated  herein
-  $350,000,000  shall  be  suballocated  to  the New York city housing
+  For services and expenses of a public housing assistance  program  for
+  public  housing across the state. Of the amounts appropriated herein
+  $350,000,000 shall be suballocated to  the  New  York  city  housing
   authority. Provided further that $50,000,000 shall be distributed to
   public housing throughout the state based on a plan submitted by the
   division of housing and community renewal and approved by the direc-
-  tor of the budget. The amounts appropriated herein may  be  suballo-
-  cated  or  transferred  to  any  state department, agency, or public
-  478  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+  tor  of  the budget. The amounts appropriated herein may be suballo-
+  cated or transferred to any  state  department,  agency,  or  public
   authority for the purposes stated herein (08262207) (31524) ........
   400,000,000 ..................................... (re. $400,000,000)
  
@@ -26808,8 +26853,27 @@ S T A T E  O F  N E W  Y O R K
   Up  to  5  percent  of  the  funds appropriated herein may be used for
   administrative purposes (08052203) (31420) .........................
   6,400,000 ......................................... (re. $6,400,000)
-
+ 
  By chapter 54, section 1, of the laws of 2021:
+  For allocation as follows: For services and expenses of a public hous-
+  ing modernization program. Of the amount  appropriated  herein,  the
+  sum  of  $400,000  may  be  allocated for capital project activities
+  associated with article XII of the  public  housing  law.  No  funds
+  shall  be expended from this appropriation until the director of the
+  479  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  budget has approved a financial plan submitted by the housing  trust
+  fund  corporation  on  behalf  of  the  public housing modernization
+  program in such detail as required by the director of the budget.
+  Up  to  5  percent  of  the  funds appropriated herein may be used for
+  administrative purposes (08062103) (31420) .........................
+  6,400,000 ......................................... (re. $6,400,000)
+ 
+ By chapter 54, section 1, of the laws of 2020:
   For allocation as follows: For services and expenses of a public hous-
   ing modernization program. Of the amount  appropriated  herein,  the
   sum  of  $400,000  may  be  allocated for capital project activities
@@ -26819,34 +26883,15 @@ S T A T E  O F  N E W  Y O R K
   fund  corporation  on  behalf  of  the  public housing modernization
   program in such detail as required by the director of the budget.
   Up to 5 percent of the funds  appropriated  herein  may  be  used  for
-  administrative purposes (08062103) (31420) .........................
-  6,400,000 ......................................... (re. $6,400,000)
- 
- By chapter 54, section 1, of the laws of 2020:
-  For allocation as follows: For services and expenses of a public hous-
-  ing  modernization  program.  Of the amount appropriated herein, the
-  sum of $400,000 may be  allocated  for  capital  project  activities
-  associated  with  article  XII  of  the public housing law. No funds
-  shall be expended from this appropriation until the director of  the
-  budget  has approved a financial plan submitted by the housing trust
-  fund corporation on  behalf  of  the  public  housing  modernization
-  program in such detail as required by the director of the budget.
-  Up  to  5  percent  of  the  funds appropriated herein may be used for
   administrative purposes (08052003) (31420) .........................
   6,400,000 ......................................... (re. $6,400,000)
  
  By chapter 54, section 1, of the laws of 2019:
   For allocation as follows: For services and expenses of a public hous-
-  ing modernization program. Of the amount  appropriated  herein,  the
-  479  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
-  sum  of  $400,000  may  be  allocated for capital project activities
-  associated with article XII of the  public  housing  law.  No  funds
-  shall  be expended from this appropriation until the director of the
+  ing  modernization  program.  Of the amount appropriated herein, the
+  sum of $400,000 may be  allocated  for  capital  project  activities
+  associated  with  article  XII  of  the public housing law. No funds
+  shall be expended from this appropriation until the director of  the
   budget  has approved a financial plan submitted by the housing trust
   fund corporation on  behalf  of  the  public  housing  modernization
   program in such detail as required by the director of the budget.
@@ -26873,6 +26918,12 @@ S T A T E  O F  N E W  Y O R K
   sum of $400,000 shall be allocated for  capital  project  activities
   associated  with  article  XII  of  the public housing law. No funds
   shall be expended from this appropriation until the director of  the
+  480  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   budget  has approved a financial plan submitted by the housing trust
   fund corporation on  behalf  of  the  public  housing  modernization
   program in such detail as required by the director of the budget.
@@ -26896,12 +26947,6 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2015:
   For allocation as follows: For services and expenses of a public hous-
   ing  modernization  program.  Of the amount appropriated herein, the
-  480  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   sum of $400,000 shall be allocated for  capital  project  activities
   associated  with  article  XII  of  the public housing law. No funds
   shall be expended from this appropriation until the director of  the
@@ -26931,6 +26976,12 @@ S T A T E  O F  N E W  Y O R K
   sum of $400,000 shall be allocated for  capital  project  activities
   associated  with  article  XII  of  the public housing law. No funds
   shall be expended from this appropriation until the director of  the
+  481  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   budget  has approved a financial plan submitted by the housing trust
   fund corporation on  behalf  of  the  public  housing  modernization
   program in such detail as required by the director of the budget.
@@ -26954,12 +27005,6 @@ S T A T E  O F  N E W  Y O R K
  PUBLIC HOUSING PRESERVATION PROGRAM (CCP)
  
   Capital Projects Funds - Other
-  481  12554-07-3
- 
-  DIVISION OF HOUSING AND COMMUNITY RENEWAL
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   Preservation of Facilities Purpose
@@ -26977,18 +27022,23 @@ S T A T E  O F  N E W  Y O R K
   ... 20,000,000 ................................... (re. $16,276,000)
  
  SMALL RENTAL HOUSING DEVELOPMENT INITIATIVE (CCP)
- 
+
   Capital Projects Funds - Other
   Housing Program Fund
   Housing Trust Fund Corporation Account - 31851
   New Facilities Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
   For services and expenses of a small rental housing development initi-
   ative for capital developments under 20 units. The amounts appropri-
   ated  herein may be suballocated or transferred to any state depart-
   ment, agency, or public authority for  the  purposes  stated  herein
   (08242207) (31526) ...  7,000,000 ................. (re. $7,000,000)
+  482  12554-08-3
+ 
+  DIVISION OF HOUSING AND COMMUNITY RENEWAL
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  STATE HOUSING BOND FUND (CCP)
  
@@ -27009,7 +27059,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 27, section 4, of the laws of 1949, as amended by chapter 55,
   section 1, of the laws of 1996, for:
   Loan contracts for public housing (01347407) (80920) ... (re. $50,000)
-  482  12554-07-3
+  483  12554-08-3
  
   HUDSON RIVER PARK TRUST
  
@@ -27039,7 +27089,7 @@ S T A T E  O F  N E W  Y O R K
   related  to the development of the Hudson River park in coordination
   with  a  matching  payment  by  New  York  city  in  the  amount  of
   $50,000,000 (29HR1806) (42903) ... 50,000,000 .... (re. $32,332,000)
-  483  12554-07-3
+  484  12554-08-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -27073,7 +27123,7 @@ S T A T E  O F  N E W  Y O R K
   ment,  agency,  or  public  benefit corpo-
   ration, to achieve this purpose (00IT2308)
   (51919) .................................... 130,700,000
-  484  12554-07-3
+  485  12554-08-3
  
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
@@ -27131,8 +27181,8 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2018:
   For  services  and  expenses related to technology equipment, software
   and services with a demonstrated return  on  investment  or  service
-  485  12554-07-3
-
+  486  12554-08-3
+ 
   OFFICE OF INFORMATION TECHNOLOGY SERVICES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -27142,7 +27192,7 @@ S T A T E  O F  N E W  Y O R K
   other  state  department,  agency, or public benefit corporation, to
   achieve this purpose (00IT1808) (51919) ............................
   85,700,000 ........................................ (re. $7,778,000)
- 
+
  By chapter 54, section 1, of the laws of 2017:
   For  services  and  expenses related to technology equipment, software
   and services with a demonstrated return  on  investment  or  service
@@ -27164,7 +27214,7 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Capital Projects Fund
   Information Technology Capital Financing Account - 32215
   Program Improvement/Change Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2014:
   Amounts  appropriated  herein  may  be  made available, subject to the
   identification and transferability of appropriate revenue,  for  the
@@ -27174,13 +27224,13 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Federal
   Federal Capital Projects Fund Federal Capital Projects Account - 31350
   Program Improvement/Change Purpose
- 
+
  By chapter 54, section 1, of the laws of 2020:
   For the federal share, from  any  federal  agency  under  any  federal
   program,  of development costs related to the integrated eligibility
   system  program,  including  technology  equipment,  software  and
   services (00IE2008) (51919) ... 150,000,000 ..... (re. $124,892,000)
-  486  12554-07-3
+  487  12554-08-3
  
   DEPARTMENT OF LAW
  
@@ -27207,10 +27257,10 @@ S T A T E  O F  N E W  Y O R K
   acquisition and development of technology,
   including but not  limited  to  equipment,
   software and services (36012308) (51919) ..... 2,750,000
-  487  12554-07-3
+  488  12554-08-3
  
   DEPARTMENT OF LAW
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  IT INITIATIVE PROGRAM (CCP)
@@ -27238,15 +27288,15 @@ S T A T E  O F  N E W  Y O R K
   For  services  and expenses related to the acquisition and development
   of technology, including but not limited to equipment, software  and
   services (36011808) (51919) ... 1,000,000 ............ (re. $11,000)
-
+ 
  By chapter 54, section 1, of the laws of 2017:
   For  services  and expenses related to the acquisition and development
   of technology, including but not limited to equipment, software  and
   services (36011708) (51919) ... 5,000,000 ............ (re. $30,000)
-  488  12554-07-3
+  489  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS  2023-24
@@ -27268,7 +27318,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Minor Rehabilitation Purpose
- 
+
  For  minor  alterations  and improvements to
   various facilities, including the  payment
   of  liabilities incurred prior to April 1,
@@ -27277,7 +27327,7 @@ S T A T E  O F  N E W  Y O R K
   until a comprehensive plan of projects has
   been approved by the director of the budg-
   et (53032389) (11826) ........................ 5,500,000
-
+ 
   Capital Projects Funds - Other
   Mental Hygiene Facilities Capital Improvement Fund
   OASAS-Community Facilities Account - 32305
@@ -27299,7 +27349,7 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Facilities Capital Improvement Fund
   OASAS-Community Facilities Account - 32305
   Preservation of Facilities Purpose
-  489  12554-07-3
+  490  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27356,12 +27406,12 @@ S T A T E  O F  N E W  Y O R K
  
  FACILITIES MAINTENANCE AND OPERATIONS (CCP) .................. 3,500,000
   --------------
-  490  12554-07-3
+  491  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
-
+ 
   CAPITAL PROJECTS  2023-24
  
   Capital Projects Funds - Other
@@ -27414,7 +27464,7 @@ S T A T E  O F  N E W  Y O R K
  
  NON-BONDABLE PROJECTS (CCP) .................................. 1,000,000
   --------------
-  491  12554-07-3
+  492  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27441,10 +27491,10 @@ S T A T E  O F  N E W  Y O R K
   the  budget,  this  appropriation  may  be
   transferred to the dormitory authority  of
   the state of New York (53NB23NB) (81042) ..... 1,000,000
-  492  12554-07-3
+  493  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -27470,7 +27520,7 @@ S T A T E  O F  N E W  Y O R K
   priation until a comprehensive plan of projects has been approved by
   the director of the budget (53032189) (11826) ......................
   4,000,000 ......................................... (re. $4,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2020:
   For  minor alterations and improvements to various facilities, includ-
   ing the payment of liabilities incurred  prior  to  April  1,  2020,
@@ -27499,7 +27549,7 @@ S T A T E  O F  N E W  Y O R K
   For  minor alterations and improvements to various facilities, includ-
   ing the payment of liabilities incurred  prior  to  April  1,  2017,
   provided, however, that no expenditures may be made from this appro-
-  493  12554-07-3
+  494  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27557,7 +27607,7 @@ S T A T E  O F  N E W  Y O R K
   a competitive bid or request for proposal process. Prior to an award
   being  granted to an applicant pursuant to this process, the commis-
   sioner shall formally notify in writing  the  chair  of  the  senate
-  494  12554-07-3
+  495  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27615,7 +27665,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2020:
   For the acquisition of property, design,  construction  and  extensive
   rehabilitation  of facilities for the purpose of delivering chemical
-  495  12554-07-3
+  496  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27673,7 +27723,7 @@ S T A T E  O F  N E W  Y O R K
   office of addiction services and supports and approved by the direc-
   tor of the budget (53AA1107) (11828) ...............................
   40,273,000 ........................................ (re. $2,744,000)
-  496  12554-07-3
+  497  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27731,12 +27781,12 @@ S T A T E  O F  N E W  Y O R K
   and construction management account pursuant to one or more  certif-
   icates approved by the director of the budget for purposes of carry-
   ing  out  the  projects provided for herein. No expenditure shall be
-  497  12554-07-3
+  498  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   made from this appropriation until a spending plan for the  proposed
@@ -27763,7 +27813,7 @@ S T A T E  O F  N E W  Y O R K
   has  been  submitted  by the commissioner of the office of addiction
   services and supports and approved by the  director  of  the  budget
   (53020707) (11830) ... 25,400,000 ................. (re. $6,686,000)
-
+ 
  By chapter 54, section 1, of the laws of 2006, as amended by chapter 54,
   section 1, of the laws of 2020:
   For  the  acquisition  of  property design, construction and rehabili-
@@ -27789,7 +27839,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Mental Hygiene Facilities Capital Improvement Fund
   OASAS-Community Facilities Account - 32305
-  498  12554-07-3
+  499  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -27846,10 +27896,10 @@ S T A T E  O F  N E W  Y O R K
   appropriation until  a  comprehensive  plan  of  projects  has  been
   approved by the director of the budget (53031703) (11827) ..........
   32,000,000 ....................................... (re. $13,534,000)
-  499  12554-07-3
+  500  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -27893,7 +27943,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation until  a  comprehensive  plan  of  projects  has  been
   approved by the director of the budget (53030703) (11827) ..........
   27,423,000 ........................................ (re. $6,132,000)
-
+ 
  By chapter 54, section 1, of the laws of 2006:
   For  alterations  and improvements for preservation of various facili-
   ties including rehabilitation projects and the acquisition of  prop-
@@ -27904,14 +27954,14 @@ S T A T E  O F  N E W  Y O R K
  
   Capital Projects Funds - Other
   Mental Hygiene Facilities Capital Improvement Fund
-  500  12554-07-3
+  501  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   OASAS-Community Facilities Account - 32305
   Program Improvement/Change Purpose
  
@@ -27962,10 +28012,10 @@ S T A T E  O F  N E W  Y O R K
   the director of the budget, without a competitive bid or request for
   proposal process. Prior to an award being granted  to  an  applicant
   pursuant  to this process, the commissioner shall formally notify in
-  501  12554-07-3
+  502  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -28000,7 +28050,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Preparation of Plans Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
   For  payment  to the design and construction management account of the
   centralized services fund of the New York state  office  of  general
@@ -28020,7 +28070,7 @@ S T A T E  O F  N E W  Y O R K
   inspection, studies, appraisals, surveys, testing and  environmental
   impact statements for new projects (53PP2130) (81088) ..............
   4,000,000 ......................................... (re. $4,000,000)
-  502  12554-07-3
+  503  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -28037,7 +28087,7 @@ S T A T E  O F  N E W  Y O R K
   inspection, studies, appraisals, surveys, testing and  environmental
   impact statements for new projects (53PP2030) (81088) ..............
   4,000,000 ......................................... (re. $4,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2019:
   For  payment  to the design and construction management account of the
   centralized services fund of the New York state  office  of  general
@@ -28078,7 +28128,7 @@ S T A T E  O F  N E W  Y O R K
   For  the  maintenance  and operation of various facilities and systems
   including personal services,  fringe  benefits  and  indirect  costs
   (53FM21MO) (81107) ... 3,000,000 .................. (re. $1,576,000)
-  503  12554-07-3
+  504  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -28120,7 +28170,7 @@ S T A T E  O F  N E W  Y O R K
   priation until a comprehensive plan of projects has been approved by
   the director of the budget (53HD2089) (11833) ......................
   2,000,000 ......................................... (re. $2,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2019:
   For  minor alterations and improvements to various facilities, includ-
   ing the payment of liabilities incurred  prior  to  April  1,  2019,
@@ -28136,10 +28186,10 @@ S T A T E  O F  N E W  Y O R K
   priation until a comprehensive plan of projects has been approved by
   the director of the budget (53HD1889) (11833) ......................
   1,000,000 ........................................... (re. $999,000)
-  504  12554-07-3
+  505  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -28183,7 +28233,7 @@ S T A T E  O F  N E W  Y O R K
   priation until a comprehensive plan of projects has been approved by
   the director of the budget (53HD1389) (11833) ......................
   1,000,000 ........................................... (re. $233,000)
-
+ 
  By chapter 54, section 1, of the laws of 2012:
   For  minor alterations and improvements to various facilities, includ-
   ing the payment of liabilities incurred  prior  to  April  1,  2012,
@@ -28191,9 +28241,9 @@ S T A T E  O F  N E W  Y O R K
   priation until a comprehensive plan of projects has been approved by
   the director of the budget (53HD1289) (11833) ......................
   1,000,000 ........................................... (re. $195,000)
- 
+
  By chapter 54, section 1, of the laws of 2011:
-  505  12554-07-3
+  506  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -28251,7 +28301,7 @@ S T A T E  O F  N E W  Y O R K
   budget, this appropriation may be transferred or suballocated to any
   other department, agency, or public authority (53A22003) (81040) ...
   10,000,000 ....................................... (re. $10,000,000)
-  506  12554-07-3
+  507  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -28272,7 +28322,7 @@ S T A T E  O F  N E W  Y O R K
   budget, this appropriation may be transferred or suballocated to any
   other department, agency, or public authority (53A21903) (81040) ...
   10,000,000 ....................................... (re. $10,000,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018, as amended by chapter 54,
   section 1, of the laws of 2020:
   For  alterations  and improvements for preservation of various facili-
@@ -28309,10 +28359,10 @@ S T A T E  O F  N E W  Y O R K
   sive plan of projects has been approved by the director of the budg-
   et. This appropriation may be used for the cost of potential  claims
   against contracts awarded by the dormitory authority of the state of
-  507  12554-07-3
+  508  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -28367,8 +28417,8 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2011, as amended by chapter 54,
   section 1, of the laws of 2020:
-  508  12554-07-3
-
+  509  12554-08-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
@@ -28425,10 +28475,10 @@ S T A T E  O F  N E W  Y O R K
   For transfer to  the  Mental  Hygiene  Capital  Improvement  Fund  for
   reimbursement  of  the  non-bondable  cost  of  community facilities
   authorized by appropriations or  reappropriations  funded  from  the
-  509  12554-07-3
+  510  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF ADDICTION SERVICES AND SUPPORTS
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -28441,10 +28491,10 @@ S T A T E  O F  N E W  Y O R K
   ation  may be transferred to the dormitory authority of the state of
   New York (53NB22NB) (81042) ........................................
   1,000,000 ......................................... (re. $1,000,000)
-  510  12554-07-3
+  511  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS  2023-24
@@ -28454,7 +28504,7 @@ S T A T E  O F  N E W  Y O R K
   following:
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   Capital Projects Funds - Other .....  1,460,472,000  2,860,793,000
   ----------------  ----------------
   All Funds ........................  1,460,472,000  2,860,793,000
@@ -28466,7 +28516,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Infrastructure Purpose
-
+ 
  State aid to municipalities and other public
   and  not-for-profit  agencies for acquisi-
   tion, rehabilitation, and/or  improvements
@@ -28499,14 +28549,14 @@ S T A T E  O F  N E W  Y O R K
   Mental Health Facilities Capital Improvement Fund
   OMH-Community Facilities Account - 32303
   Infrastructure Purpose
-  511  12554-07-3
+  512  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS  2023-24
-
+ 
  For  the  acquisition  of  property,
   construction  and  rehabilitation  of  new
   facilities  and/or  relocation of existing
@@ -28557,12 +28607,12 @@ S T A T E  O F  N E W  Y O R K
   of property, construction of  new  facili-
   ties and/or relocation of existing compre-
   hensive  psychiatric  emergency  programs
-  512  12554-07-3
+  513  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
-
+ 
   CAPITAL PROJECTS  2023-24
  
   and/or  psychiatric  inpatient  programs
@@ -28615,7 +28665,7 @@ S T A T E  O F  N E W  Y O R K
   construction,  reconstruction,  rehabili-
   tation  and  improvements,  including  the
   preparation  of designs, plans, specifica-
-  513  12554-07-3
+  514  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -28673,14 +28723,14 @@ S T A T E  O F  N E W  Y O R K
   bitable  condition  and for which no state
   agency has long-term use.  This  appropri-
   ation  may  be  used  for  payment  to the
-  514  12554-07-3
+  515  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS  2023-24
-
+ 
   design and construction management account
   of the centralized services  fund  of  the
   New  York state office of general services
@@ -28701,7 +28751,7 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Facilities Capital Improvement Fund
   MH Capital Improvement Account - 32309
   Infrastructure Purpose
-
+ 
  For payment of the cost of land acquisition,
   construction,  reconstruction,  rehabili-
   tation  and  improvements,  including  the
@@ -28731,7 +28781,7 @@ S T A T E  O F  N E W  Y O R K
   construction  management  account  of  the
   centralized  services fund of the New York
   state office of general services or to the
-  515  12554-07-3
+  516  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -28785,8 +28835,8 @@ S T A T E  O F  N E W  Y O R K
   to this appropriation may be allocated and
   distributed by  the  commissioner  of  the
   office of mental health (50IE23A4) .......... 18,000,000
-  516  12554-07-3
- 
+  517  12554-08-3
+
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
@@ -28843,10 +28893,10 @@ S T A T E  O F  N E W  Y O R K
   cies for acquisition, rehabilitation, and/or improvements to  exist-
   ing  community  mental health facilities as required to address code
   violations, health and safety issues,  and/or  structural/mechanical
-  517  12554-07-3
+  518  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -28901,14 +28951,14 @@ S T A T E  O F  N E W  Y O R K
   capital  projects  and  programs.  Notwithstanding  any inconsistent
   provision of  law,  within  the  amounts  hereby  appropriated,  the
   commissioner  of  the  office of mental health may provide state aid
-  518  12554-07-3
+  519  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   grants of up to 100 per centum of reasonable capital  costs  associ-
   ated  with  the  acquisition,  rehabilitation,  and/or  improvements
   (501118A4) (37015) ... 6,000,000 .................. (re. $6,000,000)
@@ -28959,14 +29009,14 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2013, as amended by chapter 54,
   section 1, of the laws of 2021:
-  519  12554-07-3
+  520  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   State  aid to municipalities and other public and not-for-profit agen-
   cies for acquisition, rehabilitation, and/or improvements to  exist-
   ing  community  mental health facilities as required to address code
@@ -29004,7 +29054,7 @@ S T A T E  O F  N E W  Y O R K
   grants  of  up to 100 per centum of reasonable capital costs associ-
   ated  with  the  acquisition,  rehabilitation,  and/or  improvements
   (50101289) (36972) ... 6,000,000 .................. (re. $5,915,000)
-
+ 
  By chapter 54, section 1, of the laws of 2011, as amended by chapter 54,
   section 1, of the laws of 2021:
   State  aid to municipalities and other public and not-for-profit agen-
@@ -29017,7 +29067,7 @@ S T A T E  O F  N E W  Y O R K
   services for the purpose of preparation and review of  plans,  spec-
   ifications,  estimates, services, construction management and super-
   vision, inspection, studies, appraisals, surveys, testing and  envi-
-  520  12554-07-3
+  521  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29052,7 +29102,7 @@ S T A T E  O F  N E W  Y O R K
   grants of up to 100 per centum of reasonable capital  costs  associ-
   ated  with  the  acquisition,  rehabilitation,  and/or  improvements
   (50101089) (36972) ... 6,000,000 .................... (re. $332,000)
- 
+
  By chapter 54, section 1, of the laws of 2009, as amended by chapter 54,
   section 1, of the laws of 2021:
   State aid to municipalities and other public and not-for-profit  agen-
@@ -29072,15 +29122,15 @@ S T A T E  O F  N E W  Y O R K
   grants of up to 100 per centum of reasonable capital  costs  associ-
   ated  with  the  acquisition,  rehabilitation,  and/or  improvements
   (50100989) (36972) ... 6,000,000 .................. (re. $2,833,000)
-
+ 
  By chapter 54, section 1, of the laws of 2008, as amended by chapter 54,
   section 1, of the laws of 2021:
-  521  12554-07-3
+  522  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   State aid to municipalities and other public and not-for-profit  agen-
@@ -29133,7 +29183,7 @@ S T A T E  O F  N E W  Y O R K
   services for the purpose of preparation and review of  plans,  spec-
   ifications,  estimates, services, construction management and super-
   vision, inspection, studies, appraisals, surveys, testing and  envi-
-  522  12554-07-3
+  523  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29148,7 +29198,7 @@ S T A T E  O F  N E W  Y O R K
   grants of up to 100 per centum of reasonable capital  costs  associ-
   ated  with  the  acquisition,  rehabilitation,  and/or  improvements
   (50100689) (36972) ... 6,000,000 .................... (re. $111,000)
- 
+
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   New Facilities Purpose
@@ -29191,7 +29241,7 @@ S T A T E  O F  N E W  Y O R K
   cies  licensed,  certified,  or  approved  by  the  office of mental
   health, to support increased capacity and expansion of mental health
   and substance use treatment services which may include  but  not  be
-  523  12554-07-3
+  524  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29248,7 +29298,7 @@ S T A T E  O F  N E W  Y O R K
   not-for-profit  agencies, approved by the commissioner of the office
   of mental health, pursuant to article 41 of the mental  hygiene  law
   (50CR20A4) (37024) ... 60,000,000 ................ (re. $57,296,000)
-  524  12554-07-3
+  525  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29304,10 +29354,10 @@ S T A T E  O F  N E W  Y O R K
   preservation,  restructuring,  or expansion of children's behavioral
   health services (501218A4) (37019) .................................
   10,000,000 ........................................ (re. $7,000,000)
-  525  12554-07-3
+  526  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -29336,7 +29386,7 @@ S T A T E  O F  N E W  Y O R K
   preservation,  restructuring,  or expansion of children's behavioral
   health services (501217A4) (37019) .................................
   10,000,000 ........................................ (re. $6,159,000)
-
+ 
  By chapter 55, section 1, of the laws of 2016, as amended by chapter 54,
   section 1, of the laws of 2018:
   For the acquisition of property, construction  and  rehabilitation  of
@@ -29362,12 +29412,12 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2008:
   For payment to municipalities and not-for-profit  community  providers
   for  the acquisition of property, design, construction and rehabili-
-  526  12554-07-3
+  527  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   tation of housing for mentally ill persons. To the extent  that  any
@@ -29419,8 +29469,8 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2005, as amended by chapter 54,
   section 1, of the laws of 2014:
-  527  12554-07-3
-
+  528  12554-08-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
@@ -29477,7 +29527,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Mental Hygiene Facilities Capital Improvement Fund
   OMH-Community Facilities Account - 32303
-  528  12554-07-3
+  529  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29486,7 +29536,7 @@ S T A T E  O F  N E W  Y O R K
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Preservation of Facilities Purpose
- 
+
  By chapter 54, section 1, of the laws of 2013:
   For  the  acquisition  of property, construction and rehabilitation of
   new facilities and/or relocation of existing community mental health
@@ -29535,8 +29585,8 @@ S T A T E  O F  N E W  Y O R K
   not-for-profit  agencies, approved by the commissioner of the office
   of mental health, pursuant to article 41 of the mental hygiene  law.
   Notwithstanding  any  other provision of law to the contrary, any of
-  529  12554-07-3
-
+  530  12554-08-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
@@ -29552,7 +29602,7 @@ S T A T E  O F  N E W  Y O R K
   of  the  senate  finance  committee and the chairman of the assembly
   ways and means committee (50230803) (36977) ........................
   28,000,000 ....................................... (re. $10,931,000)
-
+ 
  By chapter 54, section 1, of the laws of 2007, as amended by chapter 54,
   section 1, of the laws of 2014:
   For the acquisition of property, construction  and  rehabilitation  of
@@ -29570,7 +29620,7 @@ S T A T E  O F  N E W  Y O R K
   of  the  senate  finance  committee and the chairman of the assembly
   ways and means committee (50230703) (36977) ........................
   112,000,000 ...................................... (re. $25,864,000)
- 
+
  By chapter 54, section 1, of the laws of 2006, as amended by chapter 54,
   section 1, of the laws of 2014:
   For the acquisition of property, construction  and  rehabilitation  of
@@ -29593,12 +29643,12 @@ S T A T E  O F  N E W  Y O R K
   For the acquisition of property, construction,  rehabilitation  and/or
   relocation  of existing community mental health facilities under the
   auspice of municipalities and other public and not-for-profit  agen-
-  530  12554-07-3
+  531  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   cies,  approved  by the commissioner of the office of mental health,
@@ -29651,7 +29701,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation  may  be  transferred or suballocated to the dormitory
   authority of the  state  of  New  York.  Notwithstanding  any  other
   provision  of  law  to the contrary, any of the amounts appropriated
-  531  12554-07-3
+  532  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29709,7 +29759,7 @@ S T A T E  O F  N E W  Y O R K
   mental  health  and with the approval of the director of the budget,
   who shall file such  approval  with  the  department  of  audit  and
   control  and  copies thereof with the chairman of the senate finance
-  532  12554-07-3
+  533  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29719,7 +29769,7 @@ S T A T E  O F  N E W  Y O R K
  
   committee and the chairman of the assembly ways and means  committee
   (50061102) (36910) ... 36,477,000 ................... (re. $100,000)
- 
+
  By chapter 54, section 1, of the laws of 2010, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  payment  of  the  cost  of land acquisition, construction, recon-
@@ -29767,12 +29817,12 @@ S T A T E  O F  N E W  Y O R K
   assigned to such capital projects. Upon request of the  commissioner
   of  mental  health  and approval by the director of the budget, this
   appropriation may be transferred or suballocated  to  the  dormitory
-  533  12554-07-3
+  534  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   authority  of  the  state  of  New  York.  Notwithstanding any other
@@ -29814,7 +29864,7 @@ S T A T E  O F  N E W  Y O R K
   control  and  copies thereof with the chairman of the senate finance
   committee and the chairman of the assembly ways and means  committee
   (50011301) (81028) ... 28,737,000 ................ (re. $13,831,000)
- 
+
  By chapter 54, section 1, of the laws of 2012, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  payment  of the cost of construction, reconstruction and improve-
@@ -29825,10 +29875,10 @@ S T A T E  O F  N E W  Y O R K
   has  been approved by the director of the budget. This appropriation
   may be used for payment of personal service, indirect cost recovery,
   and fringe benefit costs associated with New  York  State  employees
-  534  12554-07-3
+  535  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -29883,7 +29933,7 @@ S T A T E  O F  N E W  Y O R K
   and  fringe  benefit  costs associated with New York State employees
   assigned to such capital projects. Upon request of the  commissioner
   of  mental  health  and approval by the director of the budget, this
-  535  12554-07-3
+  536  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29941,7 +29991,7 @@ S T A T E  O F  N E W  Y O R K
   of  mental  health  and approval by the director of the budget, this
   appropriation may be transferred or suballocated  to  the  dormitory
   authority  of  the  state  of  New  York.  Notwithstanding any other
-  536  12554-07-3
+  537  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -29999,7 +30049,7 @@ S T A T E  O F  N E W  Y O R K
   comprehensive  plan of projects has been approved by the director of
   the budget. This appropriation may be used for payment  of  personal
   service, indirect cost recovery, and fringe benefit costs associated
-  537  12554-07-3
+  538  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30057,8 +30107,8 @@ S T A T E  O F  N E W  Y O R K
   comprehensive  plan of projects has been approved by the director of
   the budget. This appropriation may be used for payment  of  personal
   service, indirect cost recovery, and fringe benefit costs associated
-  538  12554-07-3
- 
+  539  12554-08-3
+
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
@@ -30115,7 +30165,7 @@ S T A T E  O F  N E W  Y O R K
   For  payment  of the cost of construction, reconstruction and improve-
   ments, including the preparation of designs,  plans,  specifications
   and estimates related to improvements or changes to existing facili-
-  539  12554-07-3
+  540  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30172,12 +30222,12 @@ S T A T E  O F  N E W  Y O R K
   approval of the director of the budget, who shall file such approval
   with the department of audit and control and copies thereof with the
   chairman of the senate finance committee and  the  chairman  of  the
-  540  12554-07-3
+  541  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   assembly ways and means committee (50081108) (81063) ...............
@@ -30229,7 +30279,7 @@ S T A T E  O F  N E W  Y O R K
   approval of the director of the budget, who shall file such approval
   with the department of audit and control and copies thereof with the
   chairman of the senate finance committee and  the  chairman  of  the
-  541  12554-07-3
+  542  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30275,7 +30325,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Infrastructure Purpose
- 
+
  By chapter 54, section 1, of the laws of 2022:
   For  payment  of  the  cost  of land acquisition, construction, recon-
   struction, rehabilitation and improvements, including  the  prepara-
@@ -30287,8 +30337,8 @@ S T A T E  O F  N E W  Y O R K
   and safety, preservation of facilities,  accreditation  and  program
   improvement or program changes, maintenance and operation of various
   facilities and systems including personal services, fringe benefits,
-  542  12554-07-3
- 
+  543  12554-08-3
+
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
@@ -30344,12 +30394,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2020, as amended by chapter 54,
   section 1, of the laws of 2021:
-  543  12554-07-3
+  544  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For payment of the cost  of  land  acquisition,  construction,  recon-
@@ -30402,7 +30452,7 @@ S T A T E  O F  N E W  Y O R K
   and supervision, inspection, studies, appraisals,  surveys,  testing
   and  environmental  impact statements for new, existing and reappro-
   priated capital projects and programs. Upon request of  the  commis-
-  544  12554-07-3
+  545  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30416,7 +30466,7 @@ S T A T E  O F  N E W  Y O R K
   the  budget,  funds  from  this appropriation may be suballocated or
   transferred  to  any  department,  agency,  or  public  authority
   (50IS19A4) (37017) ... 86,750,000 ................ (re. $11,638,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   For  payment  of  the  cost  of land acquisition, construction, recon-
   struction, rehabilitation and improvements, including  the  prepara-
@@ -30460,10 +30510,10 @@ S T A T E  O F  N E W  Y O R K
   facilities and systems including personal services, fringe benefits,
   and  indirect  costs; provided, however, that no expenditures may be
   made from this appropriation until a comprehensive plan of  projects
-  545  12554-07-3
+  546  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -30517,12 +30567,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2015, as amended by chapter 54,
   section 1, of the laws of 2020:
-  546  12554-07-3
+  547  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For  payment  of  the  cost  of land acquisition, construction, recon-
@@ -30575,7 +30625,7 @@ S T A T E  O F  N E W  Y O R K
   construction  management  and  supervision,  inspection,  studies,
   appraisals, surveys, testing and environmental impact statements for
   new,  existing  and  reappropriated  capital  projects and programs.
-  547  12554-07-3
+  548  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30633,7 +30683,7 @@ S T A T E  O F  N E W  Y O R K
   tion  of  designs,  plans,  specifications  and  estimates, for new,
   existing and reappropriated capital projects and programs including,
   but not limited to, preparation of  plans,  administration,  mainte-
-  548  12554-07-3
+  549  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30690,7 +30740,7 @@ S T A T E  O F  N E W  Y O R K
   the  director  of the budget, this appropriation may be suballocated
   or transferred  to  any  department,  agency,  or  public  authority
   (50A420A4) (37017) ... 375,000,000 .............. (re. $371,681,000)
-  549  12554-07-3
+  550  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30748,7 +30798,7 @@ S T A T E  O F  N E W  Y O R K
   the state of New York for the purpose of preparation and  review  of
   plans,  specifications, estimates, services, construction management
   and supervision, inspection, studies, appraisals,  surveys,  testing
-  550  12554-07-3
+  551  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -30789,7 +30839,7 @@ S T A T E  O F  N E W  Y O R K
   the director of the budget, this appropriation may  be  suballocated
   or  transferred  to  any  department,  agency,  or  public authority
   (50A417A4) (37017) ... 275,000,000 .............. (re. $199,502,000)
-
+ 
  By chapter 55, section 1, of the laws of 2016, as amended by chapter 54,
   section 1, of the laws of 2020:
   For payment of the cost  of  land  acquisition,  construction,  recon-
@@ -30806,14 +30856,14 @@ S T A T E  O F  N E W  Y O R K
   appropriation may be  used  for  payment  of  personal  service  and
   nonpersonal  service,  including  fringe benefits, and indirect cost
   recovery, related to the administration of the capital projects  and
-  551  12554-07-3
+  552  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   programs provided by the office of mental health. Additionally, this
   appropriation may be used for payment to the design and construction
   management  account of the centralized services fund of the New York
@@ -30863,14 +30913,14 @@ S T A T E  O F  N E W  Y O R K
   this appropriation may be transferred to the office for people  with
   developmental  disabilities and the office of addiction services and
   supports for payment to the dormitory authority of the state of  New
-  552  12554-07-3
+  553  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   York in relation to the preparation of plans (50A415A4) (37017) ....
   275,000,000 ...................................... (re. $37,821,000)
  
@@ -30909,7 +30959,7 @@ S T A T E  O F  N E W  Y O R K
   51,493,000 .......................................... (re. $294,000)
  
   (APPROPRIATED TO THE FACILITIES DEVELOPMENT CORPORATION)
-
+ 
  EXECUTIVE DIRECTION (CCP)
  
   Capital Projects Funds - Other
@@ -30921,8 +30971,8 @@ S T A T E  O F  N E W  Y O R K
   (1) The payment of all claims for personal injury, death  or  property
   damage  for which the New York State Medical Care Facilities Finance
   Agency or the facilities development corporation  or  the  dormitory
-  553  12554-07-3
- 
+  554  12554-08-3
+
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE OF MENTAL HEALTH
@@ -30963,14 +31013,14 @@ S T A T E  O F  N E W  Y O R K
   services  and supports for payment to the dormitory authority of the
   state of New York (00638103) (36978) ...............................
   4,000,000 ......................................... (re. $2,445,000)
-  554  12554-07-3
+  555  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS  2023-24
-
+ 
  For  the comprehensive construction programs, purposes and
   projects as herein  specified  in  accordance  with  the
   following:
@@ -31021,14 +31071,14 @@ S T A T E  O F  N E W  Y O R K
   and/or grant to family care providers, for
   payment to other public housing  agencies,
   including  municipal,  county,  state  and
-  555  12554-07-3
+  556  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS  2023-24
-
+ 
   federal housing agencies,  public  benefit
   corporations  or  authorities,  or private
   corporations and for capital  development,
@@ -31078,7 +31128,7 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Facilities Capital Improvement Fund
   OPWDD-State Facilities Account - 32310
   Infrastructure Purpose
-  556  12554-07-3
+  557  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31136,12 +31186,12 @@ S T A T E  O F  N E W  Y O R K
   with developmental disabilities, to  cover
   a  portion  of  the  development  costs of
   private, public and/or  non-profit  organ-
-  557  12554-07-3
+  558  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
-
+ 
   CAPITAL PROJECTS  2023-24
  
   izations, including corporations and part-
@@ -31194,14 +31244,14 @@ S T A T E  O F  N E W  Y O R K
   management  account  of  the  centralized
   services fund of the New York state office
   of general services or  to  the  dormitory
-  558  12554-07-3
+  559  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS  2023-24
-
+ 
   authority  for  the purpose of preparation
   and review of plans, specifications, esti-
   mates, services,  construction  management
@@ -31252,14 +31302,14 @@ S T A T E  O F  N E W  Y O R K
   approval  by  the  director of the budget,
   funds  from  this  appropriation  may  be
   transferred to the office of mental health
-  559  12554-07-3
+  560  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS  2023-24
-
+ 
   and  the  office of addiction services and
   supports  for  payment  to  the  dormitory
   authority of the state of New York for the
@@ -31277,10 +31327,10 @@ S T A T E  O F  N E W  Y O R K
   facilities and systems including  personal
   services,  fringe  benefits  and  indirect
   costs (51FM23MO) (81107) .................... 44,000,000
-  560  12554-07-3
+  561  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -31335,7 +31385,7 @@ S T A T E  O F  N E W  Y O R K
   funds  appropriated herein may be suballocated or transferred to any
   other public housing agencies, including  municipal,  county,  state
   and federal housing agencies, public benefit corporations or author-
-  561  12554-07-3
+  562  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31393,18 +31443,18 @@ S T A T E  O F  N E W  Y O R K
   other  public  housing  agencies, including municipal, county, state
   and federal housing agencies, public benefit corporations or author-
   ities, or private corporations, provided, however, that no  expendi-
-  562  12554-07-3
+  563  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   tures may be made from this appropriation until a comprehensive plan
   of  projects  has  been  approved  by  the  director  of  the budget
   (510121A4) (37884) ... 39,600,000 ................ (re. $25,709,000)
-
+ 
  By chapter 54, section 1, of the laws of 2020:
   For  acquisition, alterations, improvements, and preservation of vari-
   ous community program and institutional program facilities,  includ-
@@ -31451,10 +31501,10 @@ S T A T E  O F  N E W  Y O R K
   and federal housing agencies, public benefit corporations or author-
   ities, or private corporations, provided, however, that no  expendi-
   tures may be made from this appropriation until a comprehensive plan
-  563  12554-07-3
+  564  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -31508,7 +31558,7 @@ S T A T E  O F  N E W  Y O R K
   and federal housing agencies, public benefit corporations or author-
   ities, or private corporations, provided, however, that no  expendi-
   tures may be made from this appropriation until a comprehensive plan
-  564  12554-07-3
+  565  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31565,17 +31615,17 @@ S T A T E  O F  N E W  Y O R K
   and federal housing agencies, public benefit corporations or author-
   ities, or private corporations, provided, however, that no  expendi-
   tures may be made from this appropriation until a comprehensive plan
-  565  12554-07-3
+  566  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   of  projects  has  been  approved  by  the  director  of  the budget
   (510118A4) (37884) ... 31,400,000 ................... (re. $228,000)
-
+ 
  By chapter 54, section 1, of the laws of 2017:
   For  acquisition, alterations, improvements, and preservation of vari-
   ous community program and institutional program facilities,  includ-
@@ -31622,10 +31672,10 @@ S T A T E  O F  N E W  Y O R K
   and federal housing agencies, public benefit corporations or author-
   ities, or private corporations, provided, however, that no  expendi-
   tures may be made from this appropriation until a comprehensive plan
-  566  12554-07-3
+  567  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -31668,7 +31718,7 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Facilities Capital Improvement Fund
   OPWDD-State Facilities Account - 32310
   Infrastructure Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
   For  acquisition, alterations, improvements, and preservation of vari-
   ous community program and institutional program facilities,  includ-
@@ -31680,8 +31730,8 @@ S T A T E  O F  N E W  Y O R K
   of  the  net  cost of feasibility studies, property options, capital
   renovations, acquisition of property,  construction,  rehabilitation
   and  capital costs incidental and appurtenant to facilities required
-  567  12554-07-3
-
+  568  12554-08-3
+ 
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
@@ -31733,12 +31783,12 @@ S T A T E  O F  N E W  Y O R K
   priation until a comprehensive plan of projects has been approved by
   the director of the budget (510222A4) (37884) ......................
   15,000,000 ....................................... (re. $15,000,000)
-
+ 
  By chapter 54, section 1, of the laws of 2021:
   For  acquisition, alterations, improvements, and preservation of vari-
   ous community program and institutional program facilities,  includ-
   ing,  but not limited to, rehabilitation projects, health and safety
-  568  12554-07-3
+  569  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31796,10 +31846,10 @@ S T A T E  O F  N E W  Y O R K
   private corporations for the purposes stated above, provided, howev-
   er, that no expenditures may be made from this appropriation until a
   comprehensive  plan of projects has been approved by the director of
-  569  12554-07-3
+  570  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -31854,7 +31904,7 @@ S T A T E  O F  N E W  Y O R K
   of the loan or grant, for a maximum term of 30 years, or other long-
   er term consistent with the requirements of another regulatory agen-
   cy. Upon request of the commissioner of the office for  people  with
-  570  12554-07-3
+  571  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -31912,14 +31962,14 @@ S T A T E  O F  N E W  Y O R K
   the office for  people  with  developmental  disabilities,  for  the
   acquisition of property, construction and rehabilitation of support-
   ive  housing  units  for  individuals with intellectual and develop-
-  571  12554-07-3
+  572  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   mental disabilities. Further, the office for  people  with  develop-
   mental disabilities shall have a lien on the real property developed
   with  such  state aid, loans or grants, which shall be in the amount
@@ -31970,7 +32020,7 @@ S T A T E  O F  N E W  Y O R K
   ships established pursuant to the private housing finance law and/or
   any  other  statutory  provisions, for supportive housing units that
   have been set aside for individuals with intellectual  and  develop-
-  572  12554-07-3
+  573  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32028,10 +32078,10 @@ S T A T E  O F  N E W  Y O R K
   the mental hygiene law, the commissioner of the  office  for  people
   with  developmental  disabilities  may  make  the funds appropriated
   herein available pursuant to terms and conditions established by the
-  573  12554-07-3
+  574  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -32062,7 +32112,7 @@ S T A T E  O F  N E W  Y O R K
   er, that no expenditures may be made from this appropriation until a
   comprehensive  plan of projects has been approved by the director of
   the budget (510217A4) (37884) ... 15,000,000 ...... (re. $4,376,000)
-
+ 
  By chapter 55, section 1, of the laws of 2016, as amended by chapter 54,
   section 1, of the laws of 2018:
   For acquisition, alterations, improvements, and preservation of  vari-
@@ -32086,7 +32136,7 @@ S T A T E  O F  N E W  Y O R K
   providers,  for payment to other state and federal housing agencies,
   private corporations and for capital development,  improvements  and
   alterations  of  residential housing or day program alternatives not
-  574  12554-07-3
+  575  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32144,14 +32194,14 @@ S T A T E  O F  N E W  Y O R K
   residential and day service programs and environmental modifications
   and adaptive technology services at voluntary not-for-profit provid-
   er  operated community residential facilities, certified family care
-  575  12554-07-3
+  576  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   homes and private residences, as a loan and/or grant to family  care
   providers,  for payment to other state and federal housing agencies,
   private corporations and for capital development,  improvements  and
@@ -32164,7 +32214,7 @@ S T A T E  O F  N E W  Y O R K
   made from this appropriation until a comprehensive plan of  projects
   has  been  approved by the director of the budget (510214A4) (37884)
   ... 10,000,000 ................................... (re. $10,000,000)
- 
+
  DESIGN AND CONSTRUCTION SUPERVISION (CCP)
  
   Capital Projects Funds - Other
@@ -32202,14 +32252,14 @@ S T A T E  O F  N E W  Y O R K
   approval  of  the  director of the budget, this appropriation may be
   transferred or suballocated to the dormitory authority of the  state
   of New York. Upon approval by the director of the budget, funds from
-  576  12554-07-3
+  577  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   this appropriation may be transferred to the office of mental health
   and the office of addiction services and supports for payment to the
   dormitory  authority of the state of New York for the preparation of
@@ -32251,7 +32301,7 @@ S T A T E  O F  N E W  Y O R K
   and the office of addiction services and supports for payment to the
   dormitory authority of the state of New York for the preparation  of
   plans purpose (51F21930) (81088) ... 6,000,000 .... (re. $1,713,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018, as amended by chapter 54,
   section 1, of the laws of 2020:
   For  payment  to the design and construction management account of the
@@ -32260,14 +32310,14 @@ S T A T E  O F  N E W  Y O R K
   tion and  review  of  plans,  specifications,  estimates,  services,
   construction  management  and  supervision,  inspection,  studies,
   appraisals, surveys, testing and environmental impact statements for
-  577  12554-07-3
- 
+  578  12554-08-3
+
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   new and existing projects associated with the community services and
   institutional services programs. Upon the request of the commission-
   er of the office for people with developmental disabilities and  the
@@ -32318,7 +32368,7 @@ S T A T E  O F  N E W  Y O R K
   ration so to do from the proceeds of insurance under the  provisions
   of  paragraph (b) of section 3.04 of the Agreement of Lease; and (3)
   payments to the New York State Medical Care Facilities Finance Agen-
-  578  12554-07-3
+  579  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32375,7 +32425,7 @@ S T A T E  O F  N E W  Y O R K
   facilities development corporation may assign to the New York  State
   Medical  Care  Facilities  Finance  Agency all or any portion of the
   moneys hereby appropriated for the purposes hereinabove set forth.
-  579  12554-07-3
+  580  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32433,12 +32483,12 @@ S T A T E  O F  N E W  Y O R K
   to the dormitory authority of the state of New York for the prepara-
   tion of plans purpose (51WC1230) (81094) ...........................
   2,000,000 ........................................... (re. $346,000)
-  580  12554-07-3
+  581  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Capital Projects Funds - Other
@@ -32464,7 +32514,7 @@ S T A T E  O F  N E W  Y O R K
   for  payment to the dormitory authority of the state of New York for
   the preparation of plans purpose (51F12230) (81088) ................
   7,000,000 ......................................... (re. $7,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2021:
   For payment to the design and construction management account  of  the
   centralized  services  fund  of the New York state office of general
@@ -32491,10 +32541,10 @@ S T A T E  O F  N E W  Y O R K
   tion  and  review  of  plans,  specifications,  estimates, services,
   construction  management  and  supervision,  inspection,  studies,
   appraisals, surveys, testing and environmental impact statements for
-  581  12554-07-3
+  582  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
-
+ 
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -32549,7 +32599,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Health and Safety Purpose
-  582  12554-07-3
+  583  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32607,7 +32657,7 @@ S T A T E  O F  N E W  Y O R K
   bilities and approval by the director of the budget, this  appropri-
   ation  may be transferred to the dormitory authority of the state of
   New York, provided, however, that no expenditures may be  made  from
-  583  12554-07-3
+  584  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32635,7 +32685,7 @@ S T A T E  O F  N E W  Y O R K
   ties  and approval by the director of the budget, this appropriation
   may be transferred to the dormitory authority of the  state  of  New
   York (51M21103) (37855) ... 5,000,000 ................ (re. $46,000)
-
+ 
  By chapter 54, section 1, of the laws of 2010, as amended by chapter 54,
   section 1, of the laws of 2011:
   For  minor  maintenance, preservation and alterations of facilities on
@@ -32665,7 +32715,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2018:
   For  alterations  and  improvements  for health and safety projects at
   various facilities. This appropriation may be used for the  cost  of
-  584  12554-07-3
+  585  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32707,7 +32757,7 @@ S T A T E  O F  N E W  Y O R K
   the  director  of the budget, this appropriation may be suballocated
   or transferred to the dormitory authority of the state of  New  York
   (51H31101) (81078) ... 44,855,000 ................ (re. $18,693,000)
-
+ 
  By chapter 54, section 1, of the laws of 2010, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  alterations  and  improvements  for health and safety projects at
@@ -32723,7 +32773,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2018:
   For alterations and improvements for health  and  safety  projects  at
   various  facilities.  This appropriation may be used for the cost of
-  585  12554-07-3
+  586  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32737,7 +32787,7 @@ S T A T E  O F  N E W  Y O R K
   the  director  of the budget, this appropriation may be suballocated
   or transferred to the dormitory authority of the state of  New  York
   (51H30801) (81078) ... 33,200,000 ................. (re. $7,589,000)
- 
+
  By chapter 54, section 1, of the laws of 2007, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  alterations  and  improvements  for health and safety projects at
@@ -32781,14 +32831,14 @@ S T A T E  O F  N E W  Y O R K
  STATE-OPERATED COMMUNITY SERVICES PROGRAM (CCP)
  
   Capital Projects Funds - Other
-  586  12554-07-3
+  587  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
- 
+
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   Capital Projects Fund - 30000
   New Facilities Purpose
  
@@ -32818,7 +32868,7 @@ S T A T E  O F  N E W  Y O R K
   Mental Hygiene Facilities Capital Improvement Fund
   OPWDD-State Facilities Account - 32310
   Fire Safety Purpose
- 
+
  By chapter 54, section 1, of the laws of 2013, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  alterations  and  improvements  for  fire  safety and life safety
@@ -32831,7 +32881,7 @@ S T A T E  O F  N E W  Y O R K
   may  be  made  from this appropriation until a comprehensive plan of
   projects has been approved by the director of the budget  (51FS13F3)
   (37880) ... 16,000,000 ........................... (re. $13,434,000)
- 
+
  By chapter 54, section 1, of the laws of 2012, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  alterations  and  improvements  for  fire  safety and life safety
@@ -32839,7 +32889,7 @@ S T A T E  O F  N E W  Y O R K
   ities for persons with developmental disabilities. Upon  request  of
   the  commissioner  of the office for people with developmental disa-
   bilities and approval by the director of the budget, this  appropri-
-  587  12554-07-3
+  588  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32897,7 +32947,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation  may  be  suballocated or transferred to the dormitory
   authority of the state of New York. Upon request of the commissioner
   of the  office  for  people  with  developmental  disabilities,  and
-  588  12554-07-3
+  589  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32954,7 +33004,7 @@ S T A T E  O F  N E W  Y O R K
   cated or transferred to the dormitory authority of the state of  New
   York,  provided, however, that no expenditures may be made from this
   appropriation until  a  comprehensive  plan  of  projects  has  been
-  589  12554-07-3
+  590  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -32964,7 +33014,7 @@ S T A T E  O F  N E W  Y O R K
  
   approved by the director of the budget (51PR1203) (37857) ..........
   1,000,000 ........................................... (re. $812,000)
- 
+
  By chapter 54, section 1, of the laws of 2011, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  renovation  and  minor  rehabilitation and improvements of state-
@@ -33012,7 +33062,7 @@ S T A T E  O F  N E W  Y O R K
   5,900,000 ......................................... (re. $5,900,000)
  
  By chapter 54, section 1, of the laws of 2012:
-  590  12554-07-3
+  591  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33038,7 +33088,7 @@ S T A T E  O F  N E W  Y O R K
   appropriation until  a  comprehensive  plan  of  projects  has  been
   approved by the director of the budget (51B11207) (37860) ..........
   5,740,000 ......................................... (re. $5,740,000)
-
+ 
  By chapter 54, section 1, of the laws of 2011:
   For  state  aid, to municipalities and other public and not-for-profit
   agencies, including the payment of  liabilities  incurred  prior  to
@@ -33069,7 +33119,7 @@ S T A T E  O F  N E W  Y O R K
   provider  operated  community  residential and day service programs,
   provided, however, that no expenditures may be made from this appro-
   priation until a comprehensive plan of projects has been approved by
-  591  12554-07-3
+  592  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33127,7 +33177,7 @@ S T A T E  O F  N E W  Y O R K
   thereto,  consistent  with  section 41.34 of the mental hygiene law,
   and for the acquisition  of  property,  construction  and  rehabili-
   tation, including the payment of preoperational costs incurred prior
-  592  12554-07-3
+  593  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33185,7 +33235,7 @@ S T A T E  O F  N E W  Y O R K
   mental disabilities, pursuant to article 41 of  the  mental  hygiene
   law and for management fees associated with voluntary not-for-profit
   operated  projects to be financed through dormitory authority of the
-  593  12554-07-3
+  594  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
@@ -33243,19 +33293,19 @@ S T A T E  O F  N E W  Y O R K
   be made from  this  appropriation  until  a  comprehensive  plan  of
   projects  has  been  approved  by  the  director of the budget. Upon
   request of the commissioner of the office for people  with  develop-
-  594  12554-07-3
+  595  12554-08-3
  
   DEPARTMENT OF MENTAL HYGIENE
  
   OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   mental disabilities and approval by the director of the budget, this
   appropriation  may  be  suballocated or transferred to the dormitory
   authority of the state of New York (51FV12F3) (37881) ..............
   31,000,000 ....................................... (re. $31,000,000)
-  595  12554-07-3
+  596  12554-08-3
  
   METROPOLITAN TRANSPORTATION AUTHORITY
  
@@ -33266,9 +33316,9 @@ S T A T E  O F  N E W  Y O R K
   ----------------  ----------------
   All Funds ........................  0  6,618,222,000
   ================  ================
- 
- METROPOLITAN TRANSPORTATION AUTHORITY (CCP)
 
+ METROPOLITAN TRANSPORTATION AUTHORITY (CCP)
+ 
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Mass Transit Purpose
@@ -33313,7 +33363,7 @@ S T A T E  O F  N E W  Y O R K
   ing the commitment of the state of New York to fund, over  a  multi-
   year  period,  $7,336,000,000  of  capital  costs  related  to  such
   program. Funds appropriated herein shall be made  available  in  the
-  596  12554-07-3
+  597  12554-08-3
  
   METROPOLITAN TRANSPORTATION AUTHORITY
  
@@ -33370,7 +33420,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - Rebuild and Renew New York (Bondable) - 30000
   Mass Transit Purpose
-  597  12554-07-3
+  598  12554-08-3
  
   METROPOLITAN TRANSPORTATION AUTHORITY
  
@@ -33420,7 +33470,7 @@ S T A T E  O F  N E W  Y O R K
   elements  set  forth in the 2005-2009 capital program plans approved
   by the metropolitan transportation authority capital program  review
   board (26BA07MT) (43805) ... 352,000,000 ............ (re. $456,000)
-  598  12554-07-3
+  599  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33477,7 +33527,7 @@ S T A T E  O F  N E W  Y O R K
   services,  fringe  benefits  and  indirect
   costs.  Notwithstanding  any  other law to
   the contrary, all  or  a  portion  of  the
-  599  12554-07-3
+  600  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33534,7 +33584,7 @@ S T A T E  O F  N E W  Y O R K
   militia  including  related  departmental
   administrative  costs  incurred  prior  to
   April 1, 2023 (07FL2308) .................... 75,000,000
-  600  12554-07-3
+  601  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33591,7 +33641,7 @@ S T A T E  O F  N E W  Y O R K
   Alterations  and  improvements  for  the  preservation  of  facilities
   including liabilities incurred prior to  April  1,  2021  (07SP2103)
   (38709) ... 13,200,000 ............................ (re. $3,794,000)
-  601  12554-07-3
+  602  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33648,7 +33698,7 @@ S T A T E  O F  N E W  Y O R K
   the New York state military museum  and  veterans  research  center,
   through the use of donated funds (07MM2008) (81115) ................
   10,000,000 ....................................... (re. $10,000,000)
-  602  12554-07-3
+  603  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33706,7 +33756,7 @@ S T A T E  O F  N E W  Y O R K
   the funds appropriated herein may be suballocated or transferred  to
   any  department,  agency, or public authority (07FM22MO) (81107) ...
   4,000,000 ......................................... (re. $4,000,000)
-  603  12554-07-3
+  604  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33764,7 +33814,7 @@ S T A T E  O F  N E W  Y O R K
   funds  appropriated herein may be suballocated or transferred to any
   department, agency, or public authority (07MF19MO) (81107) .........
   7,000,000 ........................................... (re. $592,000)
-  604  12554-07-3
+  605  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33821,7 +33871,7 @@ S T A T E  O F  N E W  Y O R K
   Alterations  and  improvements  for  the  preservation  of  facilities
   including liabilities incurred prior to  April  1,  2021  (07MB2103)
   (81010) ... 15,000,000 ........................... (re. $12,462,000)
-  605  12554-07-3
+  606  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33879,7 +33929,7 @@ S T A T E  O F  N E W  Y O R K
  
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
-  606  12554-07-3
+  607  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33936,7 +33986,7 @@ S T A T E  O F  N E W  Y O R K
   Alterations  and  improvements  for  the  preservation  of  facilities
   including  liabilities  incurred  prior  to April 1, 2018 (07FO1803)
   (81010) ... 18,000,000 ............................ (re. $4,133,000)
-  607  12554-07-3
+  608  12554-08-3
  
   DIVISION OF MILITARY AND NAVAL AFFAIRS
  
@@ -33968,7 +34018,7 @@ S T A T E  O F  N E W  Y O R K
   federal military and state organized  militia  facilities  including
   related departmental administrative costs incurred prior to April 1,
   2020 (07FJ2008) (81063) ... 100,000,000 .......... (re. $72,628,000)
-  608  12554-07-3
+  609  12554-08-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34014,7 +34064,7 @@ S T A T E  O F  N E W  Y O R K
  Nonpersonal service (231223TS) (57050) ........ 94,470,000
  Fringe benefits (231323TS) (60090) ............ 93,981,000
  Indirect costs (231423TS) (58850) .............. 4,826,000
-  609  12554-07-3
+  610  12554-08-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34072,7 +34122,7 @@ S T A T E  O F  N E W  Y O R K
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer  Authority  as  defined  in  the 2019-20 state fiscal year state
   operations appropriation for the  budget  division  program  of  the
-  610  12554-07-3
+  611  12554-08-3
  
   DEPARTMENT OF MOTOR VEHICLES
  
@@ -34098,7 +34148,7 @@ S T A T E  O F  N E W  Y O R K
   hamlet  within  the  town of Brookhaven within the county of Suffolk
   with a population of not less than seven thousand nor more than  ten
   thousand (39012) ... 2,500,000 .................... (re. $2,500,000)
-  611  12554-07-3
+  612  12554-08-3
  
   OLYMPIC REGIONAL DEVELOPMENT AUTHORITY
  
@@ -34145,7 +34195,7 @@ S T A T E  O F  N E W  Y O R K
   a strategic modernization  and  investment
   plan  by  the  director of the division of
   the budget (20222304) (44705) ............... 80,000,000
-  612  12554-07-3
+  613  12554-08-3
  
   OLYMPIC REGIONAL DEVELOPMENT AUTHORITY
  
@@ -34196,7 +34246,7 @@ S T A T E  O F  N E W  Y O R K
   approval of a strategic modernization and  investment  plan  by  the
   director of the division of the budget (20011903) (44705) ..........
   70,000,000 .......................................... (re. $312,000)
-  613  12554-07-3
+  614  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34252,7 +34302,7 @@ S T A T E  O F  N E W  Y O R K
   other  state  agencies  for  such eligible
   projects subject to the  approval  of  the
   director of the budget (49FE2303) (39911) ... 20,000,000
-  614  12554-07-3
+  615  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34310,7 +34360,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Miscellaneous Capital Projects Fund
   Parks and Recreation Resource Account - 32209
-  615  12554-07-3
+  616  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34367,7 +34417,7 @@ S T A T E  O F  N E W  Y O R K
  
  NEW YORK WORKS (CCP) ....................................... 202,500,000
   --------------
-  616  12554-07-3
+  617  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34398,7 +34448,7 @@ S T A T E  O F  N E W  Y O R K
   priated  hereby  may  be  suballocated  or
   transferred to any department,  agency  or
   public authority (49NY2303) (39944) ........ 202,500,000
-  617  12554-07-3
+  618  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34456,7 +34506,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated to other state  agencies  for  such  eligible  projects
   subject  to  the  approval  of the director of the budget (49FE2103)
   (39911) ... 20,000,000 ........................... (re. $20,000,000)
-  618  12554-07-3
+  619  12554-08-3
 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34513,7 +34563,7 @@ S T A T E  O F  N E W  Y O R K
   and  for  the  construction,  expansion  and rehabilitation of state
   facilities for recreation. Portions of  this  appropriation  may  be
   suballocated  to  other  state  agencies  for such eligible projects
-  619  12554-07-3
+  620  12554-08-3
 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34571,7 +34621,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2019:
   For  alterations,  rehabilitation  and  improvements  of  various park
   facilities and historic sites, including personal  service  and  the
-  620  12554-07-3
+  621  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34629,7 +34679,7 @@ S T A T E  O F  N E W  Y O R K
   payment  of  liabilities  incurred prior to April 1, 2012, including
   suballocation to other state  departments  and  agencies  (49GI1203)
   (39926) ... 25,000,000 .............................. (re. $393,000)
-  621  12554-07-3
+  622  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34687,7 +34737,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to boating access and maintenance in
   accordance with a plan to be approved by the director of the  budget
   (49LV1403) (39926) ... 1,300,000 ..................... (re. $40,000)
-  622  12554-07-3
+  623  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34744,7 +34794,7 @@ S T A T E  O F  N E W  Y O R K
   (49PA1603) (39926) ... 500,000 ...................... (re. $500,000)
  
  By chapter 54, section 1, of the laws of 2015:
-  623  12554-07-3
+  624  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34801,7 +34851,7 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Capital Projects Fund
   Parks Capital Investment Account - 32207
   Preservation of Facilities Purpose
-  624  12554-07-3
+  625  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34858,7 +34908,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2014:
   For  rehabilitation,  replacement  and  refurbishment of facilities at
   various parks and historic sites, including the payment  of  liabil-
-  625  12554-07-3
+  626  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -34879,28 +34929,28 @@ S T A T E  O F  N E W  Y O R K
   ities incurred prior to April 1, 2012 (49RR1203) (39926) ...........
   500,000 ............................................. (re. $119,000)
  
- By  chapter  54,  section  1, of the laws of 2011, is hereby amended and
-  reappropriated to read:
-  For rehabilitation, replacement and  refurbishment  of  facilities  at
-  various  parks  and historic sites, including the payment of liabil-
+ The appropriation made by chapter 54, section 1, of the laws of 2011, is
+  hereby amended and reappropriated to read:
+  For  rehabilitation,  replacement  and  refurbishment of facilities at
+  various parks and historic sites, including the payment  of  liabil-
   ities  incurred  prior  to  April  1,  2011  [(49RR1003)](49RR11003)
   (39926) ... 500,000 ................................. (re. $270,000)
  
  By chapter 55, section 1, of the laws of 2010:
-  For  rehabilitation,  replacement  and  refurbishment of facilities at
-  various parks and historic sites, including the payment  of  liabil-
+  For rehabilitation, replacement and  refurbishment  of  facilities  at
+  various  parks  and historic sites, including the payment of liabil-
   ities incurred prior to April 1, 2010 (49RR1003) (39926) ...........
   500,000 ............................................. (re. $445,000)
  
  By chapter 55, section 1, of the laws of 2009:
-  For  rehabilitation,  replacement  and  refurbishment of facilities at
-  various parks and historic sites, including the payment  of  liabil-
+  For rehabilitation, replacement and  refurbishment  of  facilities  at
+  various  parks  and historic sites, including the payment of liabil-
   ities incurred prior to April 1, 2009 (49RR0903) (39926) ...........
   500,000 ............................................. (re. $208,000)
 
  By chapter 55, section 1, of the laws of 2008:
-  For  rehabilitation,  replacement  and  refurbishment of facilities at
-  various parks and historic sites, including the payment  of  liabil-
+  For rehabilitation, replacement and  refurbishment  of  facilities  at
+  various  parks  and historic sites, including the payment of liabil-
   ities incurred prior to April 1, 2008 (49RR0803) (39926) ...........
   500,000 .............................................. (re. $67,000)
  
@@ -34910,21 +34960,21 @@ S T A T E  O F  N E W  Y O R K
   Preservation of Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  For  rehabilitation  and  improvements  at  various parks and historic
-  sites, including the payment of liabilities incurred prior to  April
-  1,  2022,  including  suballocation  to  other state departments and
+  For rehabilitation and improvements  at  various  parks  and  historic
+  sites,  including the payment of liabilities incurred prior to April
+  1, 2022, including suballocation  to  other  state  departments  and
   agencies (49NR2203) (39926) ... 1,500,000 ......... (re. $1,500,000)
 
  By chapter 54, section 1, of the laws of 2021:
-  626  12554-07-3
+  627  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  For rehabilitation and improvements  at  various  parks  and  historic
-  sites,  including the payment of liabilities incurred prior to April
-  1, 2021, including suballocation  to  other  state  departments  and
+  For  rehabilitation  and  improvements  at  various parks and historic
+  sites, including the payment of liabilities incurred prior to  April
+  1,  2021,  including  suballocation  to  other state departments and
   agencies (49NR2103) (39926) ... 1,500,000 ......... (re. $1,500,000)
  
  By chapter 54, section 1, of the laws of 2020:
@@ -34974,7 +35024,7 @@ S T A T E  O F  N E W  Y O R K
   sites,  including the payment of liabilities incurred prior to April
   1, 2013, including suballocation  to  other  state  departments  and
   agencies (49NR1303) (39926) ... 1,500,000 ............ (re. $14,000)
-  627  12554-07-3
+  628  12554-08-3
 
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35031,7 +35081,7 @@ S T A T E  O F  N E W  Y O R K
   including personal service and the payment of  liabilities  incurred
   prior to April 1, 2018 (49EC1805) (81036) ..........................
   700,000 ............................................. (re. $230,000)
-  628  12554-07-3
+  629  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35089,7 +35139,7 @@ S T A T E  O F  N E W  Y O R K
   5,800,000 ......................................... (re. $3,666,000)
  
  By chapter 54, section 1, of the laws of 2021:
-  629  12554-07-3
+  630  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35146,7 +35196,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2018:
   To improve accessibility of facilities for  the  disabled  at  various
   parks and historic sites, including personal service and the payment
-  630  12554-07-3
+  631  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
 
@@ -35204,7 +35254,7 @@ S T A T E  O F  N E W  Y O R K
   4,700,000 ......................................... (re. $4,551,000)
  
  By chapter 54, section 1, of the laws of 2021:
-  631  12554-07-3
+  632  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35262,7 +35312,7 @@ S T A T E  O F  N E W  Y O R K
   For  health  and  safety projects at various parks and historic sites,
   including personal service and the payment of  liabilities  incurred
   prior  to  April  1,  2014,  including  suballocation to other state
-  632  12554-07-3
+  633  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35319,7 +35369,7 @@ S T A T E  O F  N E W  Y O R K
   For alterations,  rehabilitation  and  improvements  of  various  park
   facilities  and  historic  sites  including personal service and the
   payment of liabilities incurred prior to April  1,  2020,  including
-  633  12554-07-3
+  634  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35376,7 +35426,7 @@ S T A T E  O F  N E W  Y O R K
   payment  of  liabilities  incurred prior to April 1, 2013, including
   suballocation to other state  departments  and  agencies  (49031303)
   (81010) ... 9,500,000 ............................... (re. $757,000)
-  634  12554-07-3
+  635  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35434,7 +35484,7 @@ S T A T E  O F  N E W  Y O R K
   rehabilitation,  maintenance  and  improvement  of  the Empire State
   Trail, provided that not less than $2,500,000  is  provided  to  the
   olympic  regional  development  authority,  including  $500,000  for
-  635  12554-07-3
+  636  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35491,7 +35541,7 @@ S T A T E  O F  N E W  Y O R K
   including personal service and the payment of  liabilities  incurred
   prior  to  April 1, 2019. All or a portion of the funds appropriated
   hereby may be suballocated or transferred to any department,  agency
-  636  12554-07-3
+  637  12554-08-3
  
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
@@ -35526,6 +35576,19 @@ S T A T E  O F  N E W  Y O R K
   or public authority (49NY1703) (39944) .............................
   122,500,000 ...................................... (re. $12,484,000)
  
+ By chapter 55, section 1, of the laws of 2016:
+  For  services  and  expenses  related to New York Works Infrastructure
+  projects at state parks and historic sites, provided that  not  less
+  than  $2.5  million  is provided to the olympic regional development
+  authority, including $500,000 for  Belleayre  Mountain  Ski  Center,
+  including  but not limited to lift maintenance, building maintenance
+  and  other  infrastructure  and  preventive  maintenance  projects,
+  including  personal  service and the payment of liabilities incurred
+  prior to April 1, 2016. All or a portion of the  funds  appropriated
+  hereby  may be suballocated or transferred to any department, agency
+  or public authority (49NY1603) (39944) .............................
+  92,500,000 ........................................ (re. $3,777,000)
+ 
  OUTDOOR RECREATION DEVELOPMENT FUND (CCP)
  
   Capital Projects Funds - Other
@@ -35533,29 +35596,29 @@ S T A T E  O F  N E W  Y O R K
   Outdoor Recreation Development Bond Fund Account - 30750
   Bond Proceeds Purpose
  
- By  chapter  558,  section  19,  of  the  laws of 1965, and chapter 558,
-  section 20, of the laws of 1965,  as  consolidated  by  chapter  54,
-  section  7,  of  the  laws  of  1976,  and as amended by chapter 55,
-  section 1, of the laws of 1996, for:
-  The sale of bonds as authorized pursuant to the provisions of  chapter
-  five  hundred fifty-eight of the laws of nineteen hundred sixty-five
-  known as the "Outdoor Recreation Development Bond Act"  for  payment
-  to  the  capital projects fund as created by section ninety-three of
-  the state finance law for disbursements from such fund  pursuant  to
-  appropriations  for  the  development  and  acquisition of lands for
-  outdoor recreation and for historic sites for the purposes,  in  the
-  manner  and to the extent specified in the outdoor recreation devel-
-  opment act as enacted by chapter five  hundred  fifty-eight  of  the
-  laws  of  nineteen hundred sixty-five, and as such disbursements are
-  hereinafter referred  to  as  "Outdoor  Recreation  Development  and
-  Acquisition of Lands Disbursements" and "Outdoor Recreation Develop-
-  637  12554-07-3
- 
+ By chapter 558, section 19, of  the  laws  of  1965,  and  chapter  558,
+  section  20,  of  the  laws  of 1965, as consolidated by chapter 54,
+  638  12554-08-3
+
   OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
-  ment  and  Acquisition  of  Land  for  Historic Sites Disbursements"
+  section 7, of the laws of  1976,  and  as  amended  by  chapter  55,
+  section 1, of the laws of 1996, for:
+  The  sale of bonds as authorized pursuant to the provisions of chapter
+  five hundred fifty-eight of the laws of nineteen hundred  sixty-five
+  known  as  the "Outdoor Recreation Development Bond Act" for payment
+  to the capital projects fund as created by section  ninety-three  of
+  the  state  finance law for disbursements from such fund pursuant to
+  appropriations for the development  and  acquisition  of  lands  for
+  outdoor  recreation  and for historic sites for the purposes, in the
+  manner and to the extent specified in the outdoor recreation  devel-
+  opment  act  as  enacted  by chapter five hundred fifty-eight of the
+  laws of nineteen hundred sixty-five, and as such  disbursements  are
+  hereinafter  referred  to  as  "Outdoor  Recreation  Development and
+  Acquisition of Lands Disbursements" and "Outdoor Recreation Develop-
+  ment and Acquisition  of  Land  for  Historic  Sites  Disbursements"
   (01377210) (80918) .................................. (re. $230,000)
  
  PARKS - EQBA 86 (CCP)
@@ -35593,6 +35656,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 1988, as amended by chapter 54,
   section 3, of the laws of 1989:
+  639  12554-08-3
+ 
+  OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
+
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
   For payment of the state share of the costs of historic  preservation,
   municipal  park, and urban cultural park projects in accordance with
   the provisions of title 9 of article 52 of the environmental conser-
@@ -35607,61 +35676,61 @@ S T A T E  O F  N E W  Y O R K
   moneys hereby appropriated shall be available for historic preserva-
   tion,  municipal  park,  and  urban  cultural  park expenditures for
   approved historic preservation, municipal park, and  urban  cultural
-  638  12554-07-3
- 
-  OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
- 
-  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
   park  projects  in  accordance  with section 52-0901 of the environ-
   mental conservation law  upon  the  issuance  of  a  certificate  of
   approval  of  availability  by  the  director of the division of the
   budget.
   The state comptroller, shall at the commencement of each month certify
-  to  the  director of the division of the budget, the commissioner of
-  the office of  parks,  recreation  and  historic  preservation,  the
-  chairman  of  the  senate finance committee, and the chairman of the
-  assembly ways and means committee the amounts  disbursed  from  this
-  appropriation  for  Historic  Preservation, Municipal Park and Urban
-  Cultural Park Disbursements for the  month  preceding  such  certif-
+  to the director of the division of the budget, the  commissioner  of
+  the  office  of  parks,  recreation  and  historic preservation, the
+  chairman of the senate finance committee, and the  chairman  of  the
+  assembly  ways  and  means committee the amounts disbursed from this
+  appropriation for Historic Preservation, Municipal  Park  and  Urban
+  Cultural  Park  Disbursements  for  the month preceding such certif-
   ication (49EQ8807) (39909) ... 35,000,000 ........... (re. $595,000)
  
  By chapter 54, section 1, of the laws of 1987:
-  For  payment of the state share of the costs of historic preservation,
-  municipal parks and urban cultural park projects in accordance  with
-  the  provisions  of  title nine of article fifty-two of the environ-
-  mental conservation law, for projects,  included  in  the  following
-  schedule,  including costs incidental and appurtenant thereto, here-
-  inafter referred to as "Historic Preservation,  Municipal  Park  and
-  Urban  Cultural  Parks Disbursements." The commissioner shall submit
-  to the chairmen of the senate finance  committee  and  the  assembly
-  ways  and  means committee a list of proposed grants and the amounts
-  thereof not less than  fourteen  days  prior  to  approval  of  such
+  For payment of the state share of the costs of historic  preservation,
+  municipal  parks and urban cultural park projects in accordance with
+  the provisions of title nine of article fifty-two  of  the  environ-
+  mental  conservation  law,  for  projects, included in the following
+  schedule, including costs incidental and appurtenant thereto,  here-
+  inafter  referred  to  as "Historic Preservation, Municipal Park and
+  Urban Cultural Parks Disbursements." The commissioner  shall  submit
+  to  the  chairmen  of  the senate finance committee and the assembly
+  ways and means committee a list of proposed grants and  the  amounts
+  thereof  not  less  than  fourteen  days  prior  to approval of such
   grants.
-  Notwithstanding  the  provisions  of  any  general or special law, the
+  Notwithstanding the provisions of any  general  or  special  law,  the
   moneys hereby appropriated shall be available for historic preserva-
-  tion, municipal  park  and  urban  cultural  park  expenditures  for
-  approved  historic  preservation,  municipal park and urban cultural
-  park projects in accordance with section  52-0901  of  the  environ-
-  mental  conservation  law  upon  the  issuance  of  a certificate of
-  approval of availability by the director  of  the  division  of  the
+  tion,  municipal  park  and  urban  cultural  park  expenditures for
+  approved historic preservation, municipal park  and  urban  cultural
+  park  projects  in  accordance  with section 52-0901 of the environ-
+  mental conservation law  upon  the  issuance  of  a  certificate  of
+  approval  of  availability  by  the  director of the division of the
   budget.
   The state comptroller, shall at the commencement of each month certify
-  to  the  director of the division of the budget, the commissioner of
-  environmental conservation,  the  chairman  of  the  senate  finance
+  to the director of the division of the budget, the  commissioner  of
+  environmental  conservation,  the  chairman  of  the  senate finance
   committee, and the chairman of the assembly ways and means committee
   the amounts disbursed from this appropriation for Historic Preserva-
-  tion,  Municipal  Park and Urban Cultural Park Disbursements for the
+  640  12554-08-3
+ 
+  OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
+ 
+  CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
+ 
+  tion, Municipal Park and Urban Cultural Park Disbursements  for  the
   month preceding such certification (49EQ8707) (39909) ..............
   30,000,000 ........................................ (re. $1,007,000)
-  639  12554-07-3
+  641  12554-08-3
  
   NEW YORK POWER AUTHORITY
  
   CAPITAL PROJECTS  2023-24
  
   APPROPRIATIONS  REAPPROPRIATIONS
- 
+
   Capital Projects Funds - Other .....  7,500,000  10,795,000
   ----------------  ----------------
   All Funds ........................  7,500,000  10,795,000
@@ -35682,10 +35751,10 @@ S T A T E  O F  N E W  Y O R K
   state finance law including the payment of
   liabilities  prior  to  April  1,  2023.
   (95012316)(46201) ............................ 7,500,000
-  640  12554-07-3
+  642  12554-08-3
  
   NEW YORK POWER AUTHORITY
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  EMPIRE STATE TRAIL (CCP)
@@ -35704,7 +35773,7 @@ S T A T E  O F  N E W  Y O R K
   appropriated herein  may  be  suballocated  or  transferred  to  any
   department, agency or public authority (95ET17ER) (81112) ..........
   77,000,000 ....................................... (re. $10,795,000)
-  641  12554-07-3
+  643  12554-08-3
  
   PUBLIC EMPLOYMENT RELATIONS BOARD
  
@@ -35722,7 +35791,7 @@ S T A T E  O F  N E W  Y O R K
   ================  ================
  
  PUBLIC EMPLOYMENT RELATIONS BOARD (CCP)
-
+ 
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   New Facilities Purpose
@@ -35733,16 +35802,16 @@ S T A T E  O F  N E W  Y O R K
   essing  of  applications  for  assistance  and faster correspondence
   between the agency and applicants (31012208) (48001) ...............
   2,500,000 ......................................... (re. $2,500,000)
-  642  12554-07-3
+  644  12554-08-3
  
   DEPARTMENT OF STATE
- 
+
   CAPITAL PROJECTS  2023-24
  
  For  the comprehensive construction programs, purposes and
   projects as herein  specified  in  accordance  with  the
   following:
-
+ 
   APPROPRIATIONS  REAPPROPRIATIONS
  
   Capital Projects Funds - Other .....  202,000,000  646,231,000
@@ -35780,7 +35849,7 @@ S T A T E  O F  N E W  Y O R K
   administered  through  the  NY  Forward
   program  designed  and  executed  by  the
   department of state (19CP2309) (51275) ..... 200,000,000
-
+ 
  MAINTENANCE AND REPAIR (CCP) ................................. 2,000,000
   --------------
  
@@ -35791,7 +35860,7 @@ S T A T E  O F  N E W  Y O R K
  For payments to provide for  the  regulation
   of  cemetery  corporations and maintenance
   of abandoned  cemetery  property  and  the
-  643  12554-07-3
+  645  12554-08-3
  
   DEPARTMENT OF STATE
  
@@ -35801,7 +35870,7 @@ S T A T E  O F  N E W  Y O R K
   paragraph (h) of section 1507 of the  not-
   for-profit  corporation  law  (19CR2303)
   (51272) ...................................... 2,000,000
-  644  12554-07-3
+  646  12554-08-3
  
   DEPARTMENT OF STATE
  
@@ -35859,10 +35928,10 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2019:
   For services and expenses, loans, grants, and  costs  associated  with
   program  administration,  including  the  payment  of  liabilities
-  645  12554-07-3
+  647  12554-08-3
  
   DEPARTMENT OF STATE
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   incurred prior to April 1, 2019. All  or  a  portion  of  the  funds
@@ -35892,7 +35961,7 @@ S T A T E  O F  N E W  Y O R K
   Dedicated Infrastructure Investment Fund
   Infrastructure Investment Account - 33050
   Economic Development Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2017, as amended by chapter 54,
   section 1, of the laws of 2020:
   For  services  and  expenses, loans, grants, and costs associated with
@@ -35917,7 +35986,7 @@ S T A T E  O F  N E W  Y O R K
   Preservation of Facilities Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  646  12554-07-3
+  648  12554-08-3
  
   DEPARTMENT OF STATE
  
@@ -35942,7 +36011,7 @@ S T A T E  O F  N E W  Y O R K
   Hazardous Waste Remedial Fund
   Hazardous Waste Oversight and Assistance Account - 31505
   Hazardous Waste Purpose
- 
+
  By chapter 54, section 1, of the laws of 2013:
   For the following purposes: non-bondable services and expenses associ-
   ated with the brownfield cleanup  and  hazardous  waste  remediation
@@ -35950,7 +36019,7 @@ S T A T E  O F  N E W  Y O R K
   municipal  law;  and,  suballocation  to other state departments and
   agencies; and for other  brownfield  site  cleanup  hazardous  waste
   purposes (191313F7) (81096) ... 10,000,000 .......... (re. $331,000)
-  647  12554-07-3
+  649  12554-08-3
  
   DIVISION OF STATE POLICE
  
@@ -35959,9 +36028,9 @@ S T A T E  O F  N E W  Y O R K
  For  the comprehensive construction programs, purposes and
   projects as herein  specified  in  accordance  with  the
   following:
- 
-  APPROPRIATIONS  REAPPROPRIATIONS
 
+  APPROPRIATIONS  REAPPROPRIATIONS
+ 
   Capital Projects Fund - Other ......  237,464,000  186,925,000
   ----------------  ----------------
   All Funds ........................  237,464,000  186,925,000
@@ -36008,7 +36077,7 @@ S T A T E  O F  N E W  Y O R K
   (06JU2308) (50109) .......................... 30,000,000
  
   Capital Projects Funds - Other
-  648  12554-07-3
+  650  12554-08-3
  
   DIVISION OF STATE POLICE
  
@@ -36066,7 +36135,7 @@ S T A T E  O F  N E W  Y O R K
   the design, construction and outfitting of
   new  stations  and  zone  headquarters,
   including, but not limited to the costs of
-  649  12554-07-3
+  651  12554-08-3
  
   DIVISION OF STATE POLICE
  
@@ -36091,7 +36160,7 @@ S T A T E  O F  N E W  Y O R K
   of  plans, design, construction, equipment
   and  furnishings,  including  liabilities
   incurred prior to April 1, 2023 (06SL2307) . 100,000,000
-  650  12554-07-3
+  652  12554-08-3
  
   DIVISION OF STATE POLICE
  
@@ -36142,14 +36211,14 @@ S T A T E  O F  N E W  Y O R K
   Alterations and improvements for health and safety  including  liabil-
   ities incurred prior to April 1, 2019 (06HS1901) (81028) ...........
   2,000,000 ......................................... (re. $1,897,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   Alterations  and  improvements for health and safety including liabil-
   ities incurred prior to April 1, 2018 (06HS1801) (81028) ...........
   2,000,000 ......................................... (re. $1,946,000)
  
  By chapter 54, section 1, of the laws of 2017:
-  651  12554-07-3
+  653  12554-08-3
  
   DIVISION OF STATE POLICE
  
@@ -36162,7 +36231,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Preservation of Facilities Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
   Alterations  and  improvements  for the preservation of facilities and
   the replacement, maintenance and repair of equipment  and  equipment
@@ -36174,7 +36243,7 @@ S T A T E  O F  N E W  Y O R K
   the  replacement,  maintenance and repair of equipment and equipment
   parts  including  liabilities  incurred  prior  to  April  1,  2021
   (06PF2103) (81010) ... 45,500,000 ................ (re. $28,153,000)
- 
+
  By chapter 54, section 1, of the laws of 2020:
   Alterations  and  improvements  for the preservation of facilities and
   the replacement, maintenance and repair of equipment  and  equipment
@@ -36207,12 +36276,12 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses associated with the design, construction and
   renovation  of  evidence  storage  facilities at troop headquarters,
   including but not limited  to  the  costs  of  studies,  appraisals,
-  652  12554-07-3
+  654  12554-08-3
  
   DIVISION OF STATE POLICE
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   surveys,  preparation of plans, design, construction, equipment, and
   renovations including liabilities incurred prior to  April  1,  2022
   (06EV2208) (50121) ... 6,000,000 .................. (re. $6,000,000)
@@ -36240,7 +36309,7 @@ S T A T E  O F  N E W  Y O R K
   surveys,  preparation of plans, design, construction, equipment, and
   renovations including liabilities incurred prior to  April  1,  2019
   (06EV1908) (50121) ... 6,000,000 .................. (re. $5,845,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   For services and expenses associated with the design, construction and
   renovation  of  evidence  storage  facilities at troop headquarters,
@@ -36264,14 +36333,14 @@ S T A T E  O F  N E W  Y O R K
   tion of plans,  design,  construction,  equipment,  and  renovations
   including  liabilities  incurred  prior  to April 1, 2016 (06EV1608)
   (50121) ... 6,000,000 ............................. (re. $5,756,000)
-  653  12554-07-3
+  655  12554-08-3
  
   DIVISION OF STATE POLICE
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  NEW FACILITIES (CCP)
-
+ 
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   New Facilities Purpose
@@ -36307,19 +36376,19 @@ S T A T E  O F  N E W  Y O R K
   surveys,  preparations of plans, design, construction, equipment and
   furnishings, including liabilities incurred prior to April  1,  2019
   (06NF1907) (81009) ... 6,000,000 .................. (re. $3,721,000)
-  654  12554-07-3
+  656  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS  2023-24
- 
+
  For  the comprehensive construction programs, purposes and
   projects as herein  specified  in  accordance  with  the
   following:
  
   APPROPRIATIONS  REAPPROPRIATIONS
-
+ 
   Capital Projects Funds - Other .....  1,881,068,000  4,861,622,000
   ----------------  ----------------
   All Funds ........................  1,881,068,000  4,861,622,000
@@ -36365,7 +36434,7 @@ S T A T E  O F  N E W  Y O R K
   replacement  is  more  cost-effective  and
   energy-efficient than full renovation  and
   does  not  exceed  existing square footage
-  655  12554-07-3
+  657  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36423,7 +36492,7 @@ S T A T E  O F  N E W  Y O R K
  Empire State
   Campus-wide maintenance projects ................... 461
  Environmental Science and Forestry
-  656  12554-07-3
+  658  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36481,8 +36550,8 @@ S T A T E  O F  N E W  Y O R K
  
  For  services and expenses related to alter-
   ations and improvements to various facili-
-  657  12554-07-3
-
+  659  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -36539,7 +36608,7 @@ S T A T E  O F  N E W  Y O R K
   ations and improvements to research facil-
   ities including but not limited to capital
   design,  construction,  reconstruction,
-  658  12554-07-3
+  660  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36590,14 +36659,14 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ........................................ 150,000
   ==============
- 
+
  PROJECT ADMINISTRATION (CCP) ................................ 26,353,000
   --------------
  
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Administration Purpose
-  659  12554-07-3
+  661  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36616,7 +36685,7 @@ S T A T E  O F  N E W  Y O R K
  
  STATE UNIVERSITY RESIDENCE HALL REHABILITATION FUND (CCP) ... 75,000,000
   --------------
-
+ 
   Capital Projects Funds - Other
   SUNY Residence Halls Rehabilitation and Repair Fund
   SUNY Residence Halls Rehabilitation and Repair Account -
@@ -36638,7 +36707,7 @@ S T A T E  O F  N E W  Y O R K
   located to the dormitory authority  and/or
   the  state university of New York for such
   purpose (28D32303) (45926) .................. 75,000,000
-  660  12554-07-3
+  662  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -36680,7 +36749,7 @@ S T A T E  O F  N E W  Y O R K
   state  university construction fund or the
   dormitory authority of the  state  of  New
   York for such purposes (28CC2308) (45931) .. 106,020,000
-  661  12554-07-3
+  663  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36738,13 +36807,13 @@ S T A T E  O F  N E W  Y O R K
   provided by private firms, including but not limited to the prepara-
   tion of designs, plans, specifications  and  estimates;  underground
   utilities; acquisition of property; construction, reconstruction and
-  662  12554-07-3
+  664  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   rehabilitation; construction management and supervision; appraisals,
   surveys,  testing  and  environmental  impact  statements; equipment
   costs for state university educational facility  projects;  and  the
@@ -36796,7 +36865,7 @@ S T A T E  O F  N E W  Y O R K
  Brockport
   Campus-wide maintenance projects ................. 4,820
  Brooklyn Health Science Center (HSC)
-  663  12554-07-3
+  665  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36854,7 +36923,7 @@ S T A T E  O F  N E W  Y O R K
   (HSC) and Long Island State Veterans Home:
   Campus-wide maintenance projects ................ 24,649
  Syracuse Health Science Center (HSC)
-  664  12554-07-3
+  666  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36872,7 +36941,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total .......................................... 550,000
   --------------
- 
+
   For  services  and expenses related to alterations and improvements to
   facilities  and  capital  maintenance  for  educational  opportunity
   centers (28E02203) ... 10,000,000 ................ (re. $10,000,000)
@@ -36911,7 +36980,7 @@ S T A T E  O F  N E W  Y O R K
  Buffalo College
   Campus-wide maintenance projects ................. 5,777
  Buffalo University
-  665  12554-07-3
+  667  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -36969,8 +37038,8 @@ S T A T E  O F  N E W  Y O R K
  SUNY Polytechnic
   Campus-wide maintenance projects ................. 1,094
  University-wide Alterations and Improvements
-  666  12554-07-3
-
+  668  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -37002,7 +37071,7 @@ S T A T E  O F  N E W  Y O R K
   York and approved by the director  of  the  budget,  and  which  may
   include,  but  not be limited to, projects in the following schedule
   (28F12003) (45913) ... 550,000,000 .............. (re. $373,935,000)
-
+ 
   Project Schedule
  PROJECT  AMOUNT
  ----------------------------------------------------------
@@ -37026,7 +37095,7 @@ S T A T E  O F  N E W  Y O R K
  Canton
   Campus-wide maintenance projects ................. 1,781
  Cobleskill
-  667  12554-07-3
+  669  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37084,7 +37153,7 @@ S T A T E  O F  N E W  Y O R K
   For priority capital maintenance or
   capital improvement projects to support the
   preservation of facilities ................... 396,600
-  668  12554-07-3
+  670  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37141,7 +37210,7 @@ S T A T E  O F  N E W  Y O R K
  Delhi
   Campus-wide maintenance projects ................. 1,885
  Empire State
-  669  12554-07-3
+  671  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37198,7 +37267,7 @@ S T A T E  O F  N E W  Y O R K
   For  services and expenses of SUNY hospitals for alterations, improve-
   ments, services and expenses, and new  facilities,  including  costs
   incurred  prior  to April 1, 2019 subject to a plan developed by the
-  670  12554-07-3
+  672  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37219,7 +37288,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ........................................ 100,000
   ==============
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   For  services  and expenses related to alterations and improvements to
   existing facilities  for  capital  maintenance,  including  but  not
@@ -37256,7 +37325,7 @@ S T A T E  O F  N E W  Y O R K
  Buffalo University
   Campus-wide maintenance projects ................ 18,002
  Canton
-  671  12554-07-3
+  673  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37314,8 +37383,8 @@ S T A T E  O F  N E W  Y O R K
  University-wide Alterations and Improvements
   Maintenance undistributed
   For  priority  capital  maintenance  or
-  672  12554-07-3
-
+  674  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -37372,7 +37441,7 @@ S T A T E  O F  N E W  Y O R K
  Delhi
   Campus-wide maintenance projects ................. 2,411
  Empire State
-  673  12554-07-3
+  675  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37430,7 +37499,7 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
  PROJECT  AMOUNT
  ----------------------------------------------------------
-  674  12554-07-3
+  676  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37463,7 +37532,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ......................................... 77,300
   ==============
-
+ 
   For  services  and expenses related to alterations and improvements to
   facilities  and  capital  maintenance  for  educational  opportunity
   centers (28E01803) (45936) ... 10,000,000 ......... (re. $9,361,000)
@@ -37488,7 +37557,7 @@ S T A T E  O F  N E W  Y O R K
   For services and expenses related to alterations and  improvements  to
   existing  facilities  for  capital  maintenance,  including  but not
   limited to capital design, construction,  reconstruction,  rehabili-
-  675  12554-07-3
+  677  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37546,7 +37615,7 @@ S T A T E  O F  N E W  Y O R K
  Geneseo
   Campus-wide maintenance projects ................. 3,697
  Maritime
-  676  12554-07-3
+  678  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37602,7 +37671,7 @@ S T A T E  O F  N E W  Y O R K
   the  budget,  and which may include, but not be limited to, projects
   in the following schedule (28F41703) (45930) .......................
   100,000,000 ...................................... (re. $64,748,000)
-  677  12554-07-3
+  679  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37660,13 +37729,13 @@ S T A T E  O F  N E W  Y O R K
  Oneonta
   Campus-wide projects ............................. 2,583
  Optometry
-  678  12554-07-3
- 
+  680  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   Campus-wide projects ............................... 584
  Oswego
   Campus-wide projects ............................. 3,739
@@ -37712,13 +37781,13 @@ S T A T E  O F  N E W  Y O R K
   a plan developed by the state university of New York and approved by
   the director of the budget (28F11603) (45913) ......................
   200,000,000 ....................................... (re. $4,945,000)
-
+ 
   Project Schedule
  PROJECT  AMOUNT
  ----------------------------------------------------------
   (thousands of dollars)
  Albany
-  679  12554-07-3
+  681  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37775,8 +37844,8 @@ S T A T E  O F  N E W  Y O R K
  Oswego
   Campus-wide maintenance projects ................. 6,100
  Plattsburgh
-  680  12554-07-3
-
+  682  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -37833,7 +37902,7 @@ S T A T E  O F  N E W  Y O R K
   emergencies and remediation of environmental hazards; to ensure  the
   functionality  of  major  building  systems  such as fire alarms and
   sprinklers,  electrical,  mechanical,  plumbing,  heating/cooling
-  681  12554-07-3
+  683  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37890,7 +37959,7 @@ S T A T E  O F  N E W  Y O R K
  Maritime
   Campus-wide maintenance projects ................... 500
  Morrisville
-  682  12554-07-3
+  684  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -37947,7 +38016,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 55, section 1, of the laws of 2016, as amended by chapter 73,
   section 1 of part M, of the laws of 2016:
-  683  12554-07-3
+  685  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38004,13 +38073,13 @@ S T A T E  O F  N E W  Y O R K
  Cornell
   Campus-wide projects ............................. 1,400
  Cortland
-  684  12554-07-3
+  686  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   Campus-wide projects ............................... 700
  Delhi
   Campus-wide projects ............................... 300
@@ -38062,7 +38131,7 @@ S T A T E  O F  N E W  Y O R K
   and safety, and energy conservation needs,
   asbestos and PCB remediation; fire  alarms
   and  sprinklers;  electrical,  mechanical,
-  685  12554-07-3
+  687  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38119,7 +38188,7 @@ S T A T E  O F  N E W  Y O R K
  Brooklyn Health Science Center (HSC)
   Campus-wide maintenance projects ................. 4,007
  Buffalo College
-  686  12554-07-3
+  688  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38176,7 +38245,7 @@ S T A T E  O F  N E W  Y O R K
  Syracuse Health Science Center (HSC)
   Campus-wide maintenance projects ................. 3,627
  SUNY Polytechnic
-  687  12554-07-3
+  689  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38205,7 +38274,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total .......................................... 200,000
   ==============
-
+ 
   For services and expenses for alterations and improvements to existing
   facilities  for  capital  maintenance, at Stony Brook, including the
   health science center (HSC), including but not  limited  to  service
@@ -38234,7 +38303,7 @@ S T A T E  O F  N E W  Y O R K
   provided  by private firms, including preparation of designs, plans,
   specifications and  estimates;  facility  reconstruction,  rehabili-
   tation,  equipment;  for health and safety improvements and upgrades
-  688  12554-07-3
+  690  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38292,11 +38361,11 @@ S T A T E  O F  N E W  Y O R K
  Farmingdale
   Campus-wide critical maintenance projects ....... 14,524
  Fredonia
-  689  12554-07-3
+  691  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Campus-wide critical maintenance projects ....... 12,161
@@ -38348,7 +38417,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total .......................................... 402,000
   ==============
-  690  12554-07-3
+  692  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38405,7 +38474,7 @@ S T A T E  O F  N E W  Y O R K
   incurred  prior  to April 1, 2014 subject to a plan developed by the
   state  university  and  approved  by  the  director  of  the  budget
   (28F21403) (45929) ... 19,000,000 ................... (re. $514,000)
-  691  12554-07-3
+  693  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38420,7 +38489,7 @@ S T A T E  O F  N E W  Y O R K
   (HSC)  Campus-wide  projects,  including
   facility rehabilitation and  research  lab
   renovations ..................................... 19,000
-
+ 
   Notwithstanding any provision of law this appropriation shall be allo-
   cated  only  pursuant  to  a  plan setting forth an itemized list of
   projects with the amount to be received by each, or the  methodology
@@ -38431,7 +38500,7 @@ S T A T E  O F  N E W  Y O R K
   approved by a majority vote of all members  elected  to  the  senate
   upon a roll call vote (28F41403) (45906) ...........................
   49,000,000 ........................................ (re. $4,311,000)
- 
+
  By chapter 54, section 1, of the laws of 2013:
   Advances  for  alterations  and improvements to facilities for capital
   critical  maintenance,  including  but  not  limited to services and
@@ -38463,7 +38532,7 @@ S T A T E  O F  N E W  Y O R K
   (HSC)  Campus-wide  projects,  including
   improvements  to  the  Campus  Electrical
   Distribution System ............................. 60,000
-  692  12554-07-3
+  694  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38521,8 +38590,8 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide projects, including New Utili-
   ty Chases - BSB ................................. 12,699
  Buffalo College
-  693  12554-07-3
-
+  695  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -38578,11 +38647,11 @@ S T A T E  O F  N E W  Y O R K
   Access and Ring Road ............................. 9,513
  Oneonta
   Campus-wide  projects,  including  Upgrade
-  694  12554-07-3
+  696  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   tele Communication and Data Systems ............. 13,896
@@ -38636,13 +38705,13 @@ S T A T E  O F  N E W  Y O R K
   critical maintenance, including but  not  limited  to  services  and
   expenses,  service  agreements or service contracts and memoranda of
   understanding; for capital design including  the  cost  of  services
-  695  12554-07-3
+  697  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   provided  by private firms, including preparation of designs, plans,
   specifications and estimates; for property acquisition, and facility
   reconstruction, rehabilitation, equipment;  for  health  and  safety
@@ -38694,7 +38763,7 @@ S T A T E  O F  N E W  Y O R K
   Improvements .................................... 24,779
  Buffalo University
   Campus-wide projects, including Hayes Hall
-  696  12554-07-3
+  698  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38752,7 +38821,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide  projects,  including  Rehab
   Office Areas ..................................... 3,108
  Oswego
-  697  12554-07-3
+  699  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38810,7 +38879,7 @@ S T A T E  O F  N E W  Y O R K
   specifications and estimates; for property acquisition, and facility
   reconstruction, rehabilitation, equipment;  for  health  and  safety
   improvements  and upgrades to preserve or enhance facility function-
-  698  12554-07-3
+  700  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38834,7 +38903,7 @@ S T A T E  O F  N E W  Y O R K
   governor and the chancellor of the  state  university  of  New  York
   pursuant  to  the  NY-SUNY  2020  challenge grant program (28F11003)
   (45913) ... 550,000,000 ........................... (re. $6,700,000)
-
+ 
   Project Schedule
  PROJECT  AMOUNT
  ----------------------------------------------------------
@@ -38868,13 +38937,13 @@ S T A T E  O F  N E W  Y O R K
   vations to Chaney Dining Center ................ 5,401
  Cobleskill
   Campus-wide  projects,  including  Rehab
-  699  12554-07-3
+  701  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   Locker Rooms-Bldg. 14A ......................... 7,150
  Cornell
   Campus-wide projects, including Martha Van
@@ -38926,7 +38995,7 @@ S T A T E  O F  N E W  Y O R K
   Parking ....................................... 14,045
  Potsdam
   Campus-wide projects, including Rehab HVAC
-  700  12554-07-3
+  702  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -38984,7 +39053,7 @@ S T A T E  O F  N E W  Y O R K
   resource conservation, and accreditation; to finance costs attribut-
   able  to executive order 111, ADA and code compliance needs, claims,
   emergencies and remediation of environmental hazards; to ensure  the
-  701  12554-07-3
+  703  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39041,7 +39110,7 @@ S T A T E  O F  N E W  Y O R K
   Replacement - Various Buildings ................ 6,989
  Cornell
   Campus-wide  projects,  including  Warren
-  702  12554-07-3
+  704  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39099,11 +39168,11 @@ S T A T E  O F  N E W  Y O R K
   Sisson Halls - Replace Windows ................ 13,837
  Purchase
   Campus-wide projects, including Rehab HVAC
-  703  12554-07-3
- 
+  705  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   - Visual Arts Bldg ............................ 18,143
@@ -39157,7 +39226,7 @@ S T A T E  O F  N E W  Y O R K
   ties; and to provide for facilities for  the  disabled  and  related
   projects  including costs incurred prior to April 1, 2008 subject to
   a plan developed by the state university and approved by the  direc-
-  704  12554-07-3
+  706  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39215,7 +39284,7 @@ S T A T E  O F  N E W  Y O R K
   Campus-wide critical maintenance  projects
   such as Warren Hall Renovation ................ 33,624
  Cortland
-  705  12554-07-3
+  707  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39272,7 +39341,7 @@ S T A T E  O F  N E W  Y O R K
  Oswego
   Campus-wide critical maintenance  projects
   such  as Penfield Library Renovation and
-  706  12554-07-3
+  708  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39322,7 +39391,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ........................................ 550,000
   ==============
- 
+
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Program Improvement/Change Purpose
@@ -39330,7 +39399,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2022:
   For  services  and expenses related to alterations and improvements to
   various facilities including but  not  limited  to  capital  design,
-  707  12554-07-3
+  709  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39388,7 +39457,7 @@ S T A T E  O F  N E W  Y O R K
   April 1, 2021 and subject to a plan developed and submitted annually
   by  the state university of New York and approved by the director of
   the budget (28F22108) (45939) ... 100,000,000 .... (re. $99,883,000)
-  708  12554-07-3
+  710  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39445,11 +39514,11 @@ S T A T E  O F  N E W  Y O R K
   incurred prior to April 1, 2017 subject to a plan developed  by  the
   state  university  and  approved  by  the  director  of  the  budget
   (28FI1708) (45921) ... 100,000,000 ............... (re. $17,859,000)
-  709  12554-07-3
+  711  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Project Schedule
@@ -39463,7 +39532,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ........................................ 100,000
   ==============
- 
+
  By chapter 55, section 1, of the laws of 2016, as transferred by chapter
   54, section 1, of the laws of 2018:
   For  services  and  expenses  of  upstate  university hospital capital
@@ -39503,16 +39572,16 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2014:
   Advances for the cost of studies, site acquisitions, planning, design,
   construction, reconstruction, renovation, and equipment necessary to
-  710  12554-07-3
+  712  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   establish a school of pharmacy at the state university of  New  York
   at Binghamton (28F11408) (45922) ... 10,000,000 ..... (re. $916,000)
-
+ 
  By chapter 54, section 1, of the laws of 2013:
   Advances for the design and construction of an emerging technology and
   entrepreneurial  complex, as identified and approved by the governor
@@ -39561,13 +39630,13 @@ S T A T E  O F  N E W  Y O R K
  ----------------------------------------------------------
   (thousands of dollars)
  Brooklyn ......................................... 150,000
-  711  12554-07-3
- 
+  713  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   For  university-wide  projects  which  may
   include but are not limited to:
   -Ambulatory Services Expansion, Phase I
@@ -39618,8 +39687,8 @@ S T A T E  O F  N E W  Y O R K
   Campus Center Expansion/
   Improvements ...................... 30,000
   Campus Revitalization/Site
-  712  12554-07-3
-
+  714  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -39676,7 +39745,7 @@ S T A T E  O F  N E W  Y O R K
  Buffalo College
   Renovate/Addition Science
   Building - Phase I ................ 45,000
-  713  12554-07-3
+  715  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39734,7 +39803,7 @@ S T A T E  O F  N E W  Y O R K
   or creating a Clinical/Translational
   Research facility and an incubator
   facility on the downtown campus,
-  714  12554-07-3
+  716  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39792,7 +39861,7 @@ S T A T E  O F  N E W  Y O R K
   Campus Utility Master Plan ......... 1,000
   Farnsworth Hall .................... 6,000
  Empire State
-  715  12554-07-3
+  717  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -39849,8 +39918,8 @@ S T A T E  O F  N E W  Y O R K
   Campus Center for Student Life
   & Learning ......................... 4,500
  Oswego
-  716  12554-07-3
-
+  718  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -39907,11 +39976,11 @@ S T A T E  O F  N E W  Y O R K
   ogy.  Notwithstanding  any
   provision of  law  to  the
   contrary,  the  state
-  717  12554-07-3
+  719  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   university  construction
@@ -39965,8 +40034,8 @@ S T A T E  O F  N E W  Y O R K
   ferred to any  department,
   agency, or public authori-
   ty  pursuant  to  a  plan
-  718  12554-07-3
-
+  720  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -39990,7 +40059,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Schedule Subtotal ............ 1,675,613
   ==============
-
+ 
  By chapter 53, section 1, of the laws of 2007, as amended by chapter 54,
   section 1, of the laws of 2018:
   Advance for alterations and improvements to various facilities includ-
@@ -40022,7 +40091,7 @@ S T A T E  O F  N E W  Y O R K
   such as Harder Hall Window Replacement ............. 515
  Alfred State
   Campus-wide  critical maintenance projects
-  719  12554-07-3
+  721  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40080,7 +40149,7 @@ S T A T E  O F  N E W  Y O R K
   and Illick Hall ................................. 23,000
   Campus-wide  critical maintenance projects
   such as Replace Underground Communications
-  720  12554-07-3
+  722  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40138,7 +40207,7 @@ S T A T E  O F  N E W  Y O R K
  Potsdam
   Campus-wide critical maintenance  projects
   such  as  Maxcy,  Stillman & Raymond Halls
-  721  12554-07-3
+  723  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40195,13 +40264,13 @@ S T A T E  O F  N E W  Y O R K
   technology, environmental, protection, energy conservation, accredi-
   tation,  facilities for the physically disabled and related projects
   including costs incurred prior to April 1, 2006 subject  to  a  plan
-  722  12554-07-3
+  724  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   developed  by  the  state university and approved by the director of
   the budget (28F10608) (45922) ... 49,723,000 ........ (re. $992,000)
  
@@ -40253,13 +40322,13 @@ S T A T E  O F  N E W  Y O R K
   ment ............................................ 60,000
  Brockport
   New Student Recreation Center/Multipurpose
-  723  12554-07-3
+  725  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   Fieldhouse ...................................... 15,000
  Brooklyn HSC
   Basic Science Building Renovation ............... 20,000
@@ -40311,11 +40380,11 @@ S T A T E  O F  N E W  Y O R K
   improvements  on the parcel of land trans-
   ferred by the state to Cornell  University
   and  leased  to the CAFTP for this purpose
-  724  12554-07-3
+  726  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   pursuant to chapter 463  of  the  laws  of
@@ -40369,13 +40438,13 @@ S T A T E  O F  N E W  Y O R K
   of  law to the contrary, the state univer-
   sity construction fund is  hereby  author-
   ized  to enter into a service agreement to
-  725  12554-07-3
+  727  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   transfer  up  to  $10,000,000  in  state
   university capital construction funds to a
   not-for-profit  corporation  to be created
@@ -40404,7 +40473,7 @@ S T A T E  O F  N E W  Y O R K
   the chancellor of the state university of New York pursuant  to  the
   NY-SUNY 2020 challenge grant program (28F10508) (45922) ............
   234,400,000 ......................................... (re. $203,000)
-
+ 
   Project Schedule
  PROJECT  AMOUNT
  --------------------------------------------
@@ -40427,8 +40496,8 @@ S T A T E  O F  N E W  Y O R K
   appropriation,  for  the
   construction  of  a  power
   substation for the  center
-  726  12554-07-3
-
+  728  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -40485,7 +40554,7 @@ S T A T E  O F  N E W  Y O R K
   from  the state university
   construction fund  to  the
   Fuller  road  management
-  727  12554-07-3
+  729  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40543,11 +40612,11 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2020:
   An  additional  advance  for  alterations  and improvements to various
   facilities including services and expenses, service contracts, memo-
-  728  12554-07-3
+  730  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   randum of understanding, capital design, construction,  acquisition,
@@ -40601,8 +40670,8 @@ S T A T E  O F  N E W  Y O R K
   643 of the laws of 1997 ......... 75,000
   East Campus Cancer Research
   Bldg/Equipment School of
-  729  12554-07-3
- 
+  731  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
  
@@ -40658,7 +40727,7 @@ S T A T E  O F  N E W  Y O R K
   Downstate's Biotechnology
   Incubator Project ................ 3,000
  Canton
-  730  12554-07-3
+  732  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40716,11 +40785,11 @@ S T A T E  O F  N E W  Y O R K
   stadium and new engineering
   building ........................ 22,200
   Stony Brook Long Island Children's
-  731  12554-07-3
+  733  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Hospital / MART Center ........... 5,000
@@ -40774,7 +40843,7 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
   AMOUNT
  --------------------------------------------
-  732  12554-07-3
+  734  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40812,7 +40881,7 @@ S T A T E  O F  N E W  Y O R K
   ----------
   69,000
   ==========
- 
+
  By chapter 53, section 1, of the laws of 2004, as amended by chapter 54,
   section 1, of the laws of 2012:
  Advance for alterations and improvements to various facilities including
@@ -40830,7 +40899,7 @@ S T A T E  O F  N E W  Y O R K
   the chancellor of the state university of New York pursuant  to  the
   NY-SUNY 2020 challenge grant program (28F80408) (45922) ............
   1,612,000,000 ..................................... (re. $3,386,000)
-  733  12554-07-3
+  735  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40887,7 +40956,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total .......................................... 350,000
   ==============
-  734  12554-07-3
+  736  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40921,7 +40990,7 @@ S T A T E  O F  N E W  Y O R K
   revenue transfers from various  external  revenue  sources  and  the
   payment of liabilities prior to April 1, 2013 (28C11350) (45925) ...
   25,000,000 ....................................... (re. $16,586,000)
-
+ 
  By chapter 54, section 1, of the laws of 2012:
   Alterations  and  improvements for projects university-wide including,
   services and expenses, new facilities, and projects approved  pursu-
@@ -40944,7 +41013,7 @@ S T A T E  O F  N E W  Y O R K
   fer from various external revenue sources and the payment of liabil-
   ities incurred prior to April 1, 2004 (28080450) (45925) ...........
   150,000,000 ...................................... (re. $17,401,000)
-  735  12554-07-3
+  737  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -40961,7 +41030,7 @@ S T A T E  O F  N E W  Y O R K
   State University Capital Projects Fund
   State University Capital Projects Account - 32400
   Preservation of Facilities Purpose
- 
+
  By chapter 54, section 1, of the laws of 2020:
   Alterations and improvements for projects  university-wide  including,
   services  and expenses, new facilities, and projects approved pursu-
@@ -41001,7 +41070,7 @@ S T A T E  O F  N E W  Y O R K
   SUNY Residence Halls Rehabilitation and Repair Fund
   SUNY Residence Halls Rehabilitation and Repair Account - 30100
   Preservation of Facilities Purpose
-  736  12554-07-3
+  738  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -41055,15 +41124,15 @@ S T A T E  O F  N E W  Y O R K
   priated may be transferred or suballocated to the dormitory authori-
   ty and/or  the  state  university  of  New  York  for  such  purpose
   (28D31903) (45926) ... 50,000,000 ................. (re. $7,488,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   Alterations  and  improvements  for  residence  hall  rehabilitation
   projects and for residence hall renovations including  services  and
-  737  12554-07-3
+  739  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   expenses,  to  be  financed by a transfer from the debt service fund
@@ -41110,14 +41179,14 @@ S T A T E  O F  N E W  Y O R K
   priated may be transferred or suballocated to the dormitory authori-
   ty  and/or  the  state  university  of  New  York  for  such purpose
   (28D31403) (45926) ... 50,000,000 ................. (re. $2,802,000)
-
+ 
  By chapter 54, section 1, of the laws of 2013:
   Alterations  and  improvements  for  residence  hall  rehabilitation
   projects  and  for residence hall renovations including services and
   expenses, to be financed by a transfer from the  debt  service  fund
   state  university  dormitory  income  fund or other external revenue
   sources subject to a plan developed  by  the  state  university  and
-  738  12554-07-3
+  740  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
@@ -41165,7 +41234,7 @@ S T A T E  O F  N E W  Y O R K
   appropriated  may  be  transferred to the dormitory authority and/or
   the State University  of  New  York  for  such  purposes  (28D30803)
   (45926) ... 123,000,000 ........................... (re. $1,131,000)
-
+ 
  By chapter 53, section 1, of the laws of 2003:
   Alterations  and  improvements  for  residence  hall  rehabilitation
   projects and for residence hall renovations including  services  and
@@ -41175,22 +41244,22 @@ S T A T E  O F  N E W  Y O R K
   and approved by the director of the budget.
   Notwithstanding any other law to the contrary, all or a portion of the
   amounts hereby appropriated may  be  transferred  to  the  dormitory
-  739  12554-07-3
+  741  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   (APPROPRIATED TO THE STATE UNIVERSITY CONSTRUCTION FUND)
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   authority for such purposes (28D30303) (45926) .....................
   100,000,000 ......................................... (re. $184,000)
-  740  12554-07-3
+  742  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
  GENERAL MAINTENANCE AND IMPROVEMENTS (CCP)
  
   Capital Projects Funds - Other
@@ -41226,7 +41295,7 @@ S T A T E  O F  N E W  Y O R K
   the state university construction fund or the dormitory authority of
   the state of New York for such purposes (28NF98C1) (81067) .........
   175,000,000 ....................................... (re. $1,000,000)
-
+ 
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Health and Safety Purpose
@@ -41241,7 +41310,7 @@ S T A T E  O F  N E W  Y O R K
   upgrades,  new  facilities, program improvements or program changes,
   environmental protection, energy conservation, accreditation, facil-
   ities for the physically disabled, and related  projects,  including
-  741  12554-07-3
+  743  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41299,13 +41368,13 @@ S T A T E  O F  N E W  Y O R K
   to community colleges for alterations and  improvements  to  various
   facilities  including service contracts, memoranda of understanding,
   capital design, construction, acquisition, reconstruction, rehabili-
-  742  12554-07-3
+  744  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   tation, equipment and personal service costs; for health and safety,
   preservation of facilities,  technology  upgrades,  new  facilities,
   program  improvements  or program changes, environmental protection,
@@ -41318,7 +41387,7 @@ S T A T E  O F  N E W  Y O R K
   sity construction fund or the dormitory authority of  the  state  of
   New York for such purposes (28CC2108) (45931) ......................
   14,617,000 ....................................... (re. $14,042,000)
-
+ 
  By chapter 54, section 1, of the laws of 2020:
   For  services and expenses for the state share of financial assistance
   to community colleges for alterations and  improvements  to  various
@@ -41357,7 +41426,7 @@ S T A T E  O F  N E W  Y O R K
   37,060,000 ....................................... (re. $18,475,000)
  
   Project Schedule
-  743  12554-07-3
+  745  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41415,7 +41484,7 @@ S T A T E  O F  N E W  Y O R K
   projects .....................  1,150  575
   Lab and Classroom Renovations ..  1,000  500
  Genesee Community College
-  744  12554-07-3
+  746  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41468,12 +41537,12 @@ S T A T E  O F  N E W  Y O R K
   ----------  ----------
   Total ........................  74,120  37,060
   ==========  ==========
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   For  services and expenses for the state share of financial assistance
   to community colleges for alterations and  improvements  to  various
   facilities  including service contracts, memoranda of understanding,
-  745  12554-07-3
+  747  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41531,8 +41600,8 @@ S T A T E  O F  N E W  Y O R K
   New Academic Building ............  40,754  20,377
  Finger Lakes Community College
   Parking and Utility Upgrades .....  750  375
-  746  12554-07-3
-
+  748  12554-08-3
+ 
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
@@ -41588,7 +41657,7 @@ S T A T E  O F  N E W  Y O R K
   Campus Safety Office Relocation ..  142  71
   Campus Wayfinding ................  178  89
  Suffolk County Community College
-  747  12554-07-3
+  749  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41631,7 +41700,7 @@ S T A T E  O F  N E W  Y O R K
   the state university construction fund or the dormitory authority of
   the state of New York for such purposes (28CC1708) (45931) .........
   55,079,000 ....................................... (re. $16,771,000)
-
+ 
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL SHARE  50 PERCENT
@@ -41646,7 +41715,7 @@ S T A T E  O F  N E W  Y O R K
   Furniture Fixtures and
   Equipment ........................ 1,300  650
  Clinton Community College
-  748  12554-07-3
+  750  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41704,8 +41773,8 @@ S T A T E  O F  N E W  Y O R K
   Roof and Parking Upgrades .......... 2,950  1,475
   Health and Safety .................. 1,000  500
   Library Renovation ................. 1,000  500
-  749  12554-07-3
- 
+  751  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
@@ -41762,7 +41831,7 @@ S T A T E  O F  N E W  Y O R K
   23,053,000 ........................................ (re. $5,689,000)
  
   Project Schedule
-  750  12554-07-3
+  752  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41820,11 +41889,11 @@ S T A T E  O F  N E W  Y O R K
  Schenectady Community College
   Elston Hall Facility Improvements .. 1,276  638
   Roof Repairs Phase 3 ................. 300  150
-  751  12554-07-3
+  753  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Boiler Replacements .................. 120  60
@@ -41853,7 +41922,7 @@ S T A T E  O F  N E W  Y O R K
   ----------  ----------
   Total ........................... 46,106  23,053
   ==========  ==========
-
+ 
  By chapter 54, section 1, of the laws of 2015, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  services and expenses for the state share of financial assistance
@@ -41877,11 +41946,11 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
-  752  12554-07-3
+  754  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   & LOCAL SHARE  STATE SHARE
@@ -41935,7 +42004,7 @@ S T A T E  O F  N E W  Y O R K
   but not be limited to, projects in the following schedule.  Notwith-
   standing any other law to the contrary, all  or  a  portion  of  the
   amounts  hereby  appropriated  may be suballocated or transferred to
-  753  12554-07-3
+  755  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -41945,7 +42014,7 @@ S T A T E  O F  N E W  Y O R K
   the state university construction fund or the dormitory authority of
   the state of New York for such purposes (28CC1508) (45912) .........
   62,153,000 ....................................... (re. $14,188,000)
-
+ 
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
@@ -41993,11 +42062,11 @@ S T A T E  O F  N E W  Y O R K
   Concrete Repairs ................  1,200  600
   ADA Renovations .................  700  350
   Site Improvements ...............  950  475
-  754  12554-07-3
+  756  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Site and Road Improvements ......  1,400  700
@@ -42050,7 +42119,7 @@ S T A T E  O F  N E W  Y O R K
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
-  755  12554-07-3
+  757  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42108,11 +42177,11 @@ S T A T E  O F  N E W  Y O R K
   Health and Safety Projects ......... 1,000  500
   Security Upgrades .................. 2,200  1,100
  North Country Community College
-  756  12554-07-3
+  758  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Campus Wide Capital Renovations ...... 400  200
@@ -42166,7 +42235,7 @@ S T A T E  O F  N E W  Y O R K
  ----------------------------------------------------------
   (thousands of dollars)
  Adirondack Community College
-  757  12554-07-3
+  759  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42223,13 +42292,13 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2012, as amended by chapter 54,
   section 1, of the laws of 2018:
-  758  12554-07-3
+  760  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   An  advance  for  the state share of financial assistance to community
   colleges for alterations  and  improvements  to  various  facilities
   including  service  contracts,  memorandum of understanding, capital
@@ -42281,8 +42350,8 @@ S T A T E  O F  N E W  Y O R K
   College-wide ......................... 500  250
   Burt Flickinger Athletic Cen-
   Ter Renovation ....................... 354  177
-  759  12554-07-3
- 
+  761  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
@@ -42339,7 +42408,7 @@ S T A T E  O F  N E W  Y O R K
   Science Engineering and
   Technology Center  ................. 21,100  10,550
   Main Power Plant Upgrade ............ 1,000  500
-  760  12554-07-3
+  762  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42384,7 +42453,7 @@ S T A T E  O F  N E W  Y O R K
   construction fund or the dormitory authority of  the  state  of  New
   York for such purposes (28CC1108) (45912) ..........................
   31,571,000 ........................................ (re. $4,739,000)
- 
+
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
@@ -42397,13 +42466,13 @@ S T A T E  O F  N E W  Y O R K
  Fashion Institute of Technology
   Gladys Marcus Library
   Collections Facility  .............  1,000  500
-  761  12554-07-3
+  763  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   Broadcast Studio  .................  1,372  686
   Wellness Center  ..................  1,000  500
  Finger Lakes Community College
@@ -42437,7 +42506,7 @@ S T A T E  O F  N E W  Y O R K
   ----------  ----------
   Total  .......................... 63,142  31,571
   ==========  ==========
- 
+
   For additional advances for the state share of financial assistance to
   community  colleges  for  alterations  and  improvements  to various
   facilities including service contracts, memorandum of understanding,
@@ -42455,7 +42524,7 @@ S T A T E  O F  N E W  Y O R K
   799,750 ............................................. (re. $799,000)
  
   Project Schedule
-  762  12554-07-3
+  764  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42512,8 +42581,8 @@ S T A T E  O F  N E W  Y O R K
   FIT Labs Increase .................. 4,500  2,250
   Gladys Marcus Library Special
   Collections ...................... 1,000  500
-  763  12554-07-3
- 
+  765  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
@@ -42563,13 +42632,13 @@ S T A T E  O F  N E W  Y O R K
   construction fund or the dormitory authority of  the  state  of  New
   York for such purposes (28CC0908) (45910) ..........................
   45,700,000 ....................................... (re. $11,138,000)
- 
+
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
   & LOCAL SHARE  STATE SHARE
  ----------------------------------------------------------
-  764  12554-07-3
+  766  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42627,7 +42696,7 @@ S T A T E  O F  N E W  Y O R K
   To supplement campus-wide
   improvements for projects
   previously approved:
-  765  12554-07-3
+  767  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42685,7 +42754,7 @@ S T A T E  O F  N E W  Y O R K
   Washington Hall - Retaining Wall
   and Lab Exhaust ............................. 460  230
   Miscellaneous Repairs ....................... 200  100
-  766  12554-07-3
+  768  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42743,7 +42812,7 @@ S T A T E  O F  N E W  Y O R K
  Onondaga Community College
   Athletics Complex ........................ 33,000  16,500
   Technology Improvements ................... 1,782  891
-  767  12554-07-3
+  769  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42801,7 +42870,7 @@ S T A T E  O F  N E W  Y O R K
   Infrastructure Improvements ............... 1,182  591
   Athletic Field Access/Roadways .............. 252  126
   HVAC Upgrades ............................. 1,574  787
-  768  12554-07-3
+  770  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42859,8 +42928,8 @@ S T A T E  O F  N E W  Y O R K
   Improvements .............................. 2,866  1,433
   Physical Education Building
   Renovations ............................... 4,196  2,098
-  769  12554-07-3
- 
+  771  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
@@ -42890,7 +42959,7 @@ S T A T E  O F  N E W  Y O R K
   transferred  to the state university construction fund or the dormi-
   tory authority of the state of New York for such purposes (28FE0608)
   (45907) ... 41,700,000 .............................. (re. $669,000)
- 
+
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
@@ -42916,7 +42985,7 @@ S T A T E  O F  N E W  Y O R K
  Niagara County Community College
   Bookstore Expansion Project  1,000  500
  Orange County Community College
-  770  12554-07-3
+  772  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42973,7 +43042,7 @@ S T A T E  O F  N E W  Y O R K
  Suffolk County Community College
   Culinary Equipment & Technology Expenses 300  150
   Fire Sprinkler System ...............  546  273
-  771  12554-07-3
+  773  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -42988,7 +43057,7 @@ S T A T E  O F  N E W  Y O R K
   -------  -------
   Total.............................. 81,872  40,936
   =======  =======
-
+ 
  By chapter 53, section 1, of the laws of 2005, as amended by chapter 54,
   section 1, of the laws of 2018:
   An  advance  for  state financial assistance to community colleges for
@@ -43031,13 +43100,13 @@ S T A T E  O F  N E W  Y O R K
   Academic and Career Advancement
   Center ..............................  1,000  500
  Onondaga Community College
-  772  12554-07-3
+  774  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   Academic Building - HVAC,
   electrical, mechancial
   systems upgrades ....................  526  263
@@ -43089,13 +43158,13 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 53, section 1, of the laws of 2003, as amended by chapter 54,
   section 1, of the laws of 2012:
-  773  12554-07-3
+  775  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   State  financial  assistance to community colleges for alterations and
   improvements to various facilities including services and  expenses,
   capital design, construction, acquisition, reconstruction, rehabili-
@@ -43147,7 +43216,7 @@ S T A T E  O F  N E W  Y O R K
  Ulster County Community College ........ 674  337
  Westchester Community College ........ 3,164  1,582
  University-Wide
-  774  12554-07-3
+  776  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -43162,7 +43231,7 @@ S T A T E  O F  N E W  Y O R K
   --------
   Total ..............................  25,000
   ========
- 
+
   State  financial  assistance to community colleges for alterations and
   improvements for technology including costs incurred prior to  April
   1,  2003  subject  to  a  plan developed by the state university and
@@ -43171,7 +43240,7 @@ S T A T E  O F  N E W  Y O R K
   priated may be suballocated or transferred to the  state  university
   construction fund for such purposes (28RT0308) (45911) .............
   10,000,000 ........................................... (re. $71,000)
-
+ 
  By chapter 53, section 1, of the laws of 2003, as amended by chapter 54,
   section 1, of the laws of 2018:
   An  advance  for  state financial assistance to community colleges for
@@ -43188,7 +43257,7 @@ S T A T E  O F  N E W  Y O R K
   transferred to the state university construction fund or the  dormi-
   tory authority of the state of New York for such purposes (28FC0308)
   (45912) ... 175,000,000 .......................... (re. $17,335,000)
- 
+
   Project Schedule
   ESTIMATED  ESTIMATED
   TOTAL STATE  50 PERCENT
@@ -43205,8 +43274,8 @@ S T A T E  O F  N E W  Y O R K
  Broome Community College ............. 9,600  4,800
   For university-wide projects which
   may include, but are not limited to:
-  775  12554-07-3
- 
+  777  12554-08-3
+
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
  
@@ -43263,7 +43332,7 @@ S T A T E  O F  N E W  Y O R K
   may include, but are not limited to:
   -Auditorium & Performing Arts
   Program Facility
-  776  12554-07-3
+  778  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -43321,7 +43390,7 @@ S T A T E  O F  N E W  Y O R K
   -Athletic Facilities Master Plan
   (Ice Arena, Field House) update
  Monroe Community College ............ 28,388  14,194
-  777  12554-07-3
+  779  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -43379,7 +43448,7 @@ S T A T E  O F  N E W  Y O R K
   -Van Curler Room renovations
   -Property acquisition
  Suffolk County Community College .... 30,600  15,300
-  778  12554-07-3
+  780  12554-08-3
  
   STATE UNIVERSITY OF NEW YORK
   COMMUNITY COLLEGES
@@ -43425,12 +43494,12 @@ S T A T E  O F  N E W  Y O R K
   --------
   Total ........................................ 175,000
   ========
-  779  12554-07-3
+  781  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS  2023-24
- 
+
  For  the comprehensive construction programs, purposes and
   projects as herein  specified  in  accordance  with  the
   following:
@@ -43447,7 +43516,7 @@ S T A T E  O F  N E W  Y O R K
  
  AIRPORT OR AVIATION STATE PROGRAM (CCP) ..................... 14,000,000
   --------------
- 
+
   Capital Projects Funds - Other
   Dedicated Highway and Bridge Trust Fund
   Aviation Purpose Account - 30053
@@ -43482,7 +43551,7 @@ S T A T E  O F  N E W  Y O R K
   Preparation of Plans Purpose
  
  New York Metropolitan Transportation Council
-  780  12554-07-3
+  782  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -43502,7 +43571,7 @@ S T A T E  O F  N E W  Y O R K
  Indirect costs (17M92330) (58850) ................ 314,000
  
  Watertown Jefferson County Area Transportation Council
-
+ 
  For the continuing comprehensive transporta-
   tion  planning  and  coordinated  support
   undertaken as  part  of  the  united  work
@@ -43540,8 +43609,8 @@ S T A T E  O F  N E W  Y O R K
   portion  of  the funds appropriated herein
   may be suballocated or transferred to  any
   department,  agency,  or  public authority
-  781  12554-07-3
-
+  783  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS  2023-24
@@ -43598,7 +43667,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
  
   Capital Projects Funds - Federal
-  782  12554-07-3
+  784  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -43607,7 +43676,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Capital Projects Fund
   Federal Capital Projects Account - 31350
   Aviation Purpose
- 
+
  For  payment  by  the  state  of the federal
   share of the cost,  including  payment  of
   liabilities  incurred  prior  to  April 1,
@@ -43655,12 +43724,12 @@ S T A T E  O F  N E W  Y O R K
   existing  facilities,  for the acquisition
   of land and construction of new facilities
   for highway maintenance purposes, for  the
-  783  12554-07-3
+  785  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS  2023-24
-
+ 
   contract  engineering services provided by
   private firms, including  the  payment  of
   liabilities  incurred  prior  to  April 1,
@@ -43689,7 +43758,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Mass Transit Purpose
- 
+
  For the costs of mass transportation capital
   projects and facilities including replace-
   ment  of  buses  meeting federal standards
@@ -43713,7 +43782,7 @@ S T A T E  O F  N E W  Y O R K
  --------------------------------------------
  To the Capital District trans-
   portation  authority  for
-  784  12554-07-3
+  786  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -43770,8 +43839,8 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Omnibus and Transit Purpose
-  785  12554-07-3
-
+  787  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS  2023-24
@@ -43827,10 +43896,10 @@ S T A T E  O F  N E W  Y O R K
   100 percent of the match  amount  for  the
   project.  Upon  such  application,  the
   commissioner  of  transportation  shall
-  786  12554-07-3
+  788  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS  2023-24
  
   review and approve eligible activities for
@@ -43885,7 +43954,7 @@ S T A T E  O F  N E W  Y O R K
   payment  of  liabilities incurred prior to
   April 1, 2023,  of  the  construction  and
   improvement  of  passenger  rail,  freight
-  787  12554-07-3
+  789  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -43911,7 +43980,7 @@ S T A T E  O F  N E W  Y O R K
  
  NEW YORK STATE AGENCY FUND (CCP) ............................ 50,000,000
   --------------
-
+ 
   Fiduciary Funds
   Miscellaneous New York State Agency Fund
   DOT Land Acquisition Projects Account - 60606
@@ -43943,7 +44012,7 @@ S T A T E  O F  N E W  Y O R K
   ing  approval of a certificate of approval
   of availability for  moneys  appropriated,
   the  commissioner  of transportation shall
-  788  12554-07-3
+  790  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44001,7 +44070,7 @@ S T A T E  O F  N E W  Y O R K
   portion  of  the funds appropriated herein
   may be interchanged, or  transferred  from
   this  appropriation  to  any other capital
-  789  12554-07-3
+  791  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44058,7 +44127,7 @@ S T A T E  O F  N E W  Y O R K
   transit  systems  other  than  those  mass
   transit  operating  agencies which receive
   money from the metropolitan transportation
-  790  12554-07-3
+  792  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44116,10 +44185,10 @@ S T A T E  O F  N E W  Y O R K
   Dedicated Highway and Bridge Trust Fund
   Aviation Purpose Account - 30053
   Aviation Purpose
-  791  12554-07-3
+  793  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS  2023-24
  
  For  Aviation  Bureau  including  personal
@@ -44174,7 +44243,7 @@ S T A T E  O F  N E W  Y O R K
   April  1,  2023,  of state highways, park-
   ways, bridges, the New York State Thruway,
   Indian reservation roads,  and  facilities
-  792  12554-07-3
+  794  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44232,12 +44301,12 @@ S T A T E  O F  N E W  Y O R K
  Capital projects (17082322) (60551) .......... 449,150,000
  For the payment of the costs, including  the
   payment  of  liabilities incurred prior to
-  793  12554-07-3
+  795  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS  2023-24
- 
+
   April 1, 2023, of the acquisition of prop-
   erty  related  to  construction,  recon-
   struction,  reconditioning  and  preserva-
@@ -44254,7 +44323,7 @@ S T A T E  O F  N E W  Y O R K
   Preparation of Plans Purpose
  
  Capital Project Management and Traffic and Safety
-
+ 
  For  capital  project management and traffic
   and safety, including  personal  services,
   nonpersonal services, fringe benefits, and
@@ -44290,7 +44359,7 @@ S T A T E  O F  N E W  Y O R K
  
  For engineering services, including personal
   services, nonpersonal services, and fringe
-  794  12554-07-3
+  796  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44347,7 +44416,7 @@ S T A T E  O F  N E W  Y O R K
   stated (53264).
  Personal service (17R12330) (50000) ........... 15,165,000
  Nonpersonal service (17R42330) (57050) ........... 302,000
-  795  12554-07-3
+  797  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44355,7 +44424,7 @@ S T A T E  O F  N E W  Y O R K
  
  Fringe benefits (17R82330) (60090) ............ 10,169,000
  Indirect costs (17R92330) (58850) ................ 472,000
-
+ 
  OTHER TRANSPORTATION AID (CCP) ............................. 877,797,000
   --------------
  
@@ -44405,7 +44474,7 @@ S T A T E  O F  N E W  Y O R K
   such amounts will not be less than  90.169
   percent  of the "funding level" as defined
   in subdivision 5 of section  10-c  of  the
-  796  12554-07-3
+  798  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44463,7 +44532,7 @@ S T A T E  O F  N E W  Y O R K
   reimbursement of eligible costs  of  local
   highway  and  bridge  projects pursuant to
   section 16-a of chapter 329 of the laws of
-  797  12554-07-3
+  799  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44504,12 +44573,12 @@ S T A T E  O F  N E W  Y O R K
   other  transportation  facilities  for
   projects  with a service life of ten years
   or more (17TR2321) (54229) ................. 140,000,000
-  798  12554-07-3
+  800  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   All or a portion of the disbursements made pursuant to the reappropri-
   ations  made hereinafter from the dedicated highway and bridge trust
   fund may be repaid from the  proceeds  of  bonds  and  notes  issued
@@ -44561,7 +44630,7 @@ S T A T E  O F  N E W  Y O R K
   2,530,000,000 .................................... (re. $23,010,000)
  
  AIRPORT OR AVIATION PROGRAM (CCP)
-  799  12554-07-3
+  801  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44618,7 +44687,7 @@ S T A T E  O F  N E W  Y O R K
   transportation shall certify that each airport or  aviation  project
   progressed under the program categories listed in the schedule below
   has received federal approval and the amount of federally authorized
-  800  12554-07-3
+  802  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44626,7 +44695,7 @@ S T A T E  O F  N E W  Y O R K
  
   level of financial assistance (17238914) (53230) ...  .............
   2,800,000 ............................................. (re. $3,000)
-
+ 
  By  chapter  54,  section  1, of the laws of 1988, as amended by chapter
   262, section 1, of the laws of 1988:
   For state aid to municipal corporations, private airports  as  author-
@@ -44652,7 +44721,7 @@ S T A T E  O F  N E W  Y O R K
   has  received federal approval and the federally authorized level of
   financial assistance (17238814) (53230) ...  ......................
   10,400,000 ........................................... (re. $52,000)
-
+ 
  By chapter 54, section 1, of the laws of 1987:
   For state aid to municipal  corporations  and  to  the  department  of
   transportation for the preparation of designs, plans, specifications
@@ -44674,12 +44743,12 @@ S T A T E  O F  N E W  Y O R K
   program categories listed in the schedule below has received federal
   approval  and the federally authorized level of financial assistance
   (17168714) (53230) ...  ..... 3,900,000 ............ (re. $183,000)
-  801  12554-07-3
+  803  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
  By chapter 54, section 1, of the laws of 1986, as amended by chapter 54,
   section 3, of the laws of 1988:
   For  state  aid  to  municipal  corporations  and to the department of
@@ -44732,7 +44801,7 @@ S T A T E  O F  N E W  Y O R K
   capital expenditures.
   The commissioner of transportation shall secure and  use  any  federal
   funds  which  are  or  may become available for the purposes of this
-  802  12554-07-3
+  804  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44785,11 +44854,11 @@ S T A T E  O F  N E W  Y O R K
   (17178414) (53230) ...  ............................ (re. $313,000)
  
   REPUBLIC AND STEWART AIRPORTS
-
+ 
  By chapter 54, section 7, of the laws of 1973, as transferred by chapter
   370, section 3, of the laws of 1982, and as amended by  chapter  54,
   section 3, of the laws of 1986:
-  803  12554-07-3
+  805  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44818,7 +44887,7 @@ S T A T E  O F  N E W  Y O R K
   below:
  
   AIRPORT OR AVIATION CAPITAL PROJECTS
- 
+
   project schedule
   ADDITIONAL
   ADDITIONAL ESTIMATED  ADDITIONAL
@@ -44847,7 +44916,7 @@ S T A T E  O F  N E W  Y O R K
   been issued by the director of the budget and a copy of such certif-
   icate filed with the state comptroller, the chairman of  the  senate
   finance  committee  and  the chairman of the assembly ways and means
-  804  12554-07-3
+  806  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44905,7 +44974,7 @@ S T A T E  O F  N E W  Y O R K
   construction of such facilities.
   Funds shall not be allocated for projects at Stewart airport from this
   appropriation for infrastructure improvements or  other  development
-  805  12554-07-3
+  807  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -44954,7 +45023,7 @@ S T A T E  O F  N E W  Y O R K
   the program, other than state owned airports, has  received  federal
   approval  and the federally authorized level of financial assistance
   (17232214) (54293) ... 14,000,000 ................ (re. $14,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2021:
   For state aid to municipal corporations, private airports  as  author-
   ized  by  section  14-h of the transportation law and for payment of
@@ -44962,8 +45031,8 @@ S T A T E  O F  N E W  Y O R K
   acquisition,  construction,  reconstruction,  and  improvement  of
   airport or aviation capital projects, including the  acquisition  of
   real property and liabilities incurred prior to April 1, 2021.
-  806  12554-07-3
-
+  808  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -44995,7 +45064,7 @@ S T A T E  O F  N E W  Y O R K
   projects  currently  authorized  that  are  deemed  essential to the
   health and safety of  the  public,  or  (b)  essential  governmental
   services (17232014) (54293) ... 4,000,000 ......... (re. $4,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2019:
   For  state  aid to municipal corporations, private airports as author-
   ized by section 14-h of the transportation law and  for  payment  of
@@ -45020,8 +45089,8 @@ S T A T E  O F  N E W  Y O R K
   Prior  to  requesting  approval of a certificate of approval of avail-
   ability for moneys appropriated, the commissioner of  transportation
   shall certify that each airport or aviation project progressed under
-  807  12554-07-3
- 
+  809  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -45078,7 +45147,7 @@ S T A T E  O F  N E W  Y O R K
   54, section 1, of the laws of 2017:
   For state aid to municipal corporations, private airports  as  author-
   ized  by  section  14-h of the transportation law and for payment of
-  808  12554-07-3
+  810  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45136,10 +45205,10 @@ S T A T E  O F  N E W  Y O R K
   upon certification by the commissioner of transportation at the  end
   of the calendar year (17231214) (54293) ............................
   1,000,000 ........................................... (re. $420,000)
-  809  12554-07-3
+  811  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  By chapter 54, section 1, of the laws of 2011, as transferred by chapter
@@ -45194,8 +45263,8 @@ S T A T E  O F  N E W  Y O R K
   real property and liabilities incurred prior to April 1, 2009.
   Prior to requesting approval of a certificate of  approval  of  avail-
   ability  for moneys appropriated, the commissioner of transportation
-  810  12554-07-3
- 
+  812  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -45243,7 +45312,7 @@ S T A T E  O F  N E W  Y O R K
   upon certification by the commissioner of transportation at the  end
   of the calendar year (17230814) (54293) ............................
   8,000,000 ......................................... (re. $6,575,000)
-
+ 
  By chapter 55, section 1, of the laws of 2007, as transferred by chapter
   54, section 1, of the laws of 2017:
   For  state  aid to municipal corporations, private airports as author-
@@ -45252,7 +45321,7 @@ S T A T E  O F  N E W  Y O R K
   acquisition,  construction,  reconstruction,  and  improvement  of
   airport  or  aviation capital projects, including the acquisition of
   real property and liabilities incurred prior to April 1, 2007.
-  811  12554-07-3
+  813  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45309,8 +45378,8 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 55, section 1, of the laws of 2004, as transferred by chapter
   54, section 1, of the laws of 2017:
-  812  12554-07-3
-
+  814  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -45342,7 +45411,7 @@ S T A T E  O F  N E W  Y O R K
   program, other than  state  owned  airports,  has  received  federal
   approval  and the federally authorized level of financial assistance
   (17230214) (54293) ... 8,000,000 ..................... (re. $66,000)
- 
+
  By chapter 55, section 1, of the laws of 2001, as transferred by chapter
   54, section 1, of the laws of 2017:
   For state aid to municipal corporations, private airports  as  author-
@@ -45367,10 +45436,10 @@ S T A T E  O F  N E W  Y O R K
   54, section 1, of the laws of 2017:
   For state aid to municipal corporations, private airports  as  author-
   ized  by  section  14-h of the transportation law and for payment of
-  813  12554-07-3
+  815  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   the cost of projects at  Stewart  and  Republic  Airports,  for  the
@@ -45424,8 +45493,8 @@ S T A T E  O F  N E W  Y O R K
   the program categories listed in a project schedule other than state
   owned airports, has received  federal  approval  and  the  federally
   authorized level of financial assistance.
-  814  12554-07-3
- 
+  816  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -45454,7 +45523,7 @@ S T A T E  O F  N E W  Y O R K
   with  a  common  purpose  and may be interchanged without limitation
   subject to the approval of the director  of  the  budget  (17249714)
   (54293) ...  ..... 4,500,000 ........................ (re. $11,000)
- 
+
  By chapter 54, section 1, of the laws of 1995, as transferred by chapter
   54, section 1, of the laws of 2017:
   For  state  aid to municipal corporations, private airports as author-
@@ -45481,7 +45550,7 @@ S T A T E  O F  N E W  Y O R K
   expenses related thereto.
   The  commissioner  of  transportation shall secure and use any federal
   funds which are or may become available for  the  purposes  of  this
-  815  12554-07-3
+  817  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45539,7 +45608,7 @@ S T A T E  O F  N E W  Y O R K
   shall not exceed the amount by which $3,000,000 exceeds the  sum  of
   the  amount  in such state fiscal year necessary for the state share
   of federal projects provided pursuant to section 14-h of the  trans-
-  816  12554-07-3
+  818  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45597,7 +45666,7 @@ S T A T E  O F  N E W  Y O R K
   For  payment of the costs of operating and capital projects including,
   but not limited to, acquisition of  real  property  and  facilities;
   construction,  reconstruction, demolition and improvement of capital
-  817  12554-07-3
+  819  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45612,7 +45681,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Capital Projects Fund
   DOT American Recovery and Reinvestment Act Account - 31372
   American Recovery and Reinvestment Act Purpose
- 
+
  By chapter 55, section 1, of the laws of 2009:
   For  Transit  Capital  Assistance  funded  by Title 12 of the American
   Recovery and Reinvestment Act of  2009.  Funds  appropriated  herein
@@ -45654,7 +45723,7 @@ S T A T E  O F  N E W  Y O R K
   and  Reinvestment  Act  of  2009. Funds appropriated herein shall be
   subject to all applicable reporting and accountability  requirements
   contained in such act.
-  818  12554-07-3
+  820  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45684,7 +45753,7 @@ S T A T E  O F  N E W  Y O R K
   Transportation Capital Facilities Bond Fund
   Transportation Capital Facilities Bond Fund Account - 30630
   Bond Proceeds Purpose
- 
+
  By chapter 54, section 9, of the laws of 1981, as amended by chapter 55,
   section 1, of the laws of 2008:
   The  sum  of  $17,305,787,  or  so much thereof as may be necessary is
@@ -45711,7 +45780,7 @@ S T A T E  O F  N E W  Y O R K
   assembly ways and means committee. Such certificate may  be  amended
   from  time to time by the director of the division of the budget and
   a copy of each such amendment shall be filed with  the  state  comp-
-  819  12554-07-3
+  821  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45769,7 +45838,7 @@ S T A T E  O F  N E W  Y O R K
   through transportation infrastructure renewal bond act of 1983.
   The moneys hereby appropriated, when  made  available  pursuant  to  a
   certificate  of  approval  of availability issued by the director of
-  820  12554-07-3
+  822  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45827,7 +45896,7 @@ S T A T E  O F  N E W  Y O R K
   services, fringe benefits and  the  contract  services  provided  by
   private  firms,  including,  but  not limited to, the preparation of
   designs, plans, specifications and estimates;  construction  manage-
-  821  12554-07-3
+  823  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45884,7 +45953,7 @@ S T A T E  O F  N E W  Y O R K
   with a common purpose and may  be  interchanged  without  limitation
   subject  to  the  approval  of the director of the budget (17H19630)
   (53244) ...  ..... 471,758,000 ................... (re. $2,833,000)
-  822  12554-07-3
+  824  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -45942,10 +46011,10 @@ S T A T E  O F  N E W  Y O R K
   with grant agreements approved by the federal transit administration
   or the federal highway administration (53243).
   Personal service (17M12130) (50000) ... 4,518,000 ... (re. $3,357,000)
-  823  12554-07-3
+  825  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   Nonpersonal service (17M42130) (57050) ...............................
@@ -45999,8 +46068,8 @@ S T A T E  O F  N E W  Y O R K
   11,416,000 ........................................ (re. $7,794,000)
   Fringe benefits (17M81730) (60090) ... 2,690,000 ...... (re. $263,000)
   Indirect costs (17M91730) (58850) ... 197,000 ........... (re. $5,000)
-  824  12554-07-3
- 
+  826  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -46030,7 +46099,7 @@ S T A T E  O F  N E W  Y O R K
   8,977,108 ......................................... (re. $6,515,000)
   Fringe benefits (17M81530) (60090) ... 560,252 ......... (re. $27,000)
   Indirect costs (17M91530) (58850) ... 25,886 ............ (re. $2,000)
- 
+
  By chapter 54, section 1, of the laws of 2014, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  the  continuing comprehensive transportation planning and coordi-
@@ -46056,8 +46125,8 @@ S T A T E  O F  N E W  Y O R K
   10,450,902 ........................................ (re. $7,199,000)
   Fringe benefits (17M81330) (60090) ... 323,259 ........ (re. $323,000)
   Indirect costs (17M91330) (58850) ... 44,494 ........... (re. $44,000)
-  825  12554-07-3
- 
+  827  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -46092,7 +46161,7 @@ S T A T E  O F  N E W  Y O R K
   with grant agreements approved by the federal transit administration
   or the federal highway administration (17NC1030) (53243) ...........
   6,462,022 ......................................... (re. $6,430,000)
-
+ 
  By chapter 55, section 1, of the laws of 2009, as amended by chapter 54,
   section 1, of the laws of 2018:
   For the continuing comprehensive transportation planning  and  coordi-
@@ -46101,7 +46170,7 @@ S T A T E  O F  N E W  Y O R K
   with grant agreements approved by the federal transit administration
   or the federal highway administration (17NC0930) (53243) ...........
   3,325,948 ......................................... (re. $2,786,000)
- 
+
  By chapter 55, section 1, of the laws of 2008, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  the  continuing comprehensive transportation planning and coordi-
@@ -46113,12 +46182,12 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 55, section 1, of the laws of 2007, as amended by chapter 54,
   section 1, of the laws of 2018:
-  826  12554-07-3
+  828  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   For the continuing comprehensive transportation planning  and  coordi-
   nated  support  undertaken  as  part  of the united work programs of
   participating local planning or municipal agreements  in  accordance
@@ -46171,7 +46240,7 @@ S T A T E  O F  N E W  Y O R K
   with grant agreements approved by the federal transit administration
   or the federal highway administration (54203).
   Personal service (17W12230) (50000) ... 178,000 ....... (re. $178,000)
-  827  12554-07-3
+  829  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46228,10 +46297,10 @@ S T A T E  O F  N E W  Y O R K
   [103,000] 114,000 ................................... (re. $113,000)
   Fringe benefits (17W81830) (60090) ... 86,000 .......... (re. $81,000)
   Indirect costs (17W91830) (58850) ... 9,000 ............. (re. $9,000)
-  828  12554-07-3
+  830  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  The appropriation made by chapter 54, section 1, of the laws of 2017, as
@@ -46245,7 +46314,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (17W41730) (57050) ...............................
   [590,000] 1,261,000 ................................. (re. $696,000)
   Indirect costs (17W91730) (58850) ... 35,000 ........... (re. $22,000)
- 
+
  FEDERAL AID HIGHWAYS BONDABLE PURPOSE (CCP)
  
   Capital Projects Funds - Other
@@ -46285,7 +46354,7 @@ S T A T E  O F  N E W  Y O R K
   Federal Aid Highways Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  829  12554-07-3
+  831  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46343,7 +46412,7 @@ S T A T E  O F  N E W  Y O R K
   1, 2021 (17032120) (53163) ... 2,010,000,000 .. (re. $1,114,397,000)
   For  the  federal  share,  from  any  federal agency under any federal
   program, of the acquisition of  property  for  state  transportation
-  830  12554-07-3
+  832  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46400,7 +46469,7 @@ S T A T E  O F  N E W  Y O R K
   reconditioning  and  preservation,  including the payment of liabil-
   ities incurred prior to April 1, 2020 (17RW2020) (54259) ...........
   50,000,000 ....................................... (re. $49,875,000)
-  831  12554-07-3
+  833  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46445,7 +46514,7 @@ S T A T E  O F  N E W  Y O R K
   reconditioning  and  preservation,  including the payment of liabil-
   ities incurred prior to April 1, 2019 (17RW1920) (54259) ...........
   50,000,000 ....................................... (re. $49,009,000)
-
+ 
  By chapter 54, section 1, of the laws of 2019, as amended by chapter 54,
   section 1, of the laws of 2021:
   For the federal share of engineering costs, or for  reimbursements  to
@@ -46457,8 +46526,8 @@ S T A T E  O F  N E W  Y O R K
   supervision;  and  appraisals,  surveys,  testing, and environmental
   impact  statements  for  transportation  projects,  the  payment  of
   liabilities  incurred prior to April 1, 2019 and other such purposes
-  832  12554-07-3
-
+  834  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -46514,7 +46583,7 @@ S T A T E  O F  N E W  Y O R K
   vision;  and  appraisals, surveys, testing, and environmental impact
   statements for transportation projects, the payment  of  liabilities
   incurred prior to April 1, 2018 and other such purposes as specified
-  833  12554-07-3
+  835  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46522,7 +46591,7 @@ S T A T E  O F  N E W  Y O R K
  
   in  section  89-b  of  the  state  finance law as amended (17EC1820)
   (54261) ... 160,000,000 ......................... (re. $113,438,000)
- 
+
  By chapter 54, section 1, of the laws of 2017:
   For  the  federal  share,  from  any  federal agency under any federal
   program, of state transportation projects including but not  limited
@@ -46571,10 +46640,10 @@ S T A T E  O F  N E W  Y O R K
   transportation (FAST) act and related prior and  successive  federal
   legislation,  and the payment of liabilities incurred prior to April
   1, 2016 (17031620) (53163) ... 1,711,000,000 .... (re. $517,834,000)
-  834  12554-07-3
+  836  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For the federal share, from  any  federal  agency  under  any  federal
@@ -46629,10 +46698,10 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2021:
   For  the  federal share of engineering costs, or for reimbursements to
   the dedicated highway and bridge trust fund  of  the  department  of
-  835  12554-07-3
+  837  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   transportation, of the federal share of engineering costs, including
@@ -46671,7 +46740,7 @@ S T A T E  O F  N E W  Y O R K
   reconditioning and preservation, including the  payment  of  liabil-
   ities incurred prior to April 1, 2014 (17RW1420) (54259) ...........
   50,000,000 ....................................... (re. $18,530,000)
-
+ 
  By chapter 54, section 1, of the laws of 2014, as amended by chapter 54,
   section 1, of the laws of 2021:
   For  the  federal share of engineering costs, or for reimbursements to
@@ -46687,7 +46756,7 @@ S T A T E  O F  N E W  Y O R K
   (17EG1420) (54260) ... 225,000,000 ............... (re. $46,727,000)
   For the federal share of engineering costs, or for  reimbursements  to
   the  dedicated  highway  and  bridge trust fund of the department of
-  836  12554-07-3
+  838  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46744,10 +46813,10 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2011, as amended by chapter 54,
   section 1, of the laws of 2013:
-  837  12554-07-3
+  839  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For  the  federal  share,  from  any  federal agency under any federal
@@ -46802,7 +46871,7 @@ S T A T E  O F  N E W  Y O R K
   activities  including but not limited to the preparation of designs,
   plans, specifications and  estimates;  construction  management  and
   supervision;  and  appraisals,  surveys,  testing, and environmental
-  838  12554-07-3
+  840  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46860,7 +46929,7 @@ S T A T E  O F  N E W  Y O R K
   bridge trust fund of the department of transportation, including but
   not  limited  to fringe benefits, and the contract services provided
   by private  firms;  personal  services,  nonpersonal  services,  for
-  839  12554-07-3
+  841  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46893,7 +46962,7 @@ S T A T E  O F  N E W  Y O R K
   common purpose and may be interchanged without limitation subject to
   the approval of the director of budget (17440720) (53247) ..........
   50,000,000 ....................................... (re. $14,754,000)
- 
+
   PERSONAL SERVICE
  
  Personal service--regular ...................... 5,000,000
@@ -46918,7 +46987,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2013:
   For  the  federal share of state transportation projects including but
   not limited  to  construction,  reconstruction,  reconditioning  and
-  840  12554-07-3
+  842  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -46957,7 +47026,7 @@ S T A T E  O F  N E W  Y O R K
   and any other such purposes as specified  in  section  89-b  of  the
   state finance law as amended (17030520) (53163) ....................
   1,580,000,000 .................................... (re. $56,297,000)
-
+ 
  By chapter 55, section 1, of the laws of 2004, as amended by chapter 54,
   section 1, of the laws of 2013:
   For  the  federal share of state transportation projects including but
@@ -46976,10 +47045,10 @@ S T A T E  O F  N E W  Y O R K
   and  any  other  such  purposes  as specified in section 89-b of the
   state finance law as amended (17030420) (53163) ....................
   1,610,000,000 .................................... (re. $67,360,000)
-  841  12554-07-3
+  843  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  By chapter 55, section 1, of the laws of 2003, as amended by chapter 54,
@@ -47018,7 +47087,7 @@ S T A T E  O F  N E W  Y O R K
   payment of liabilities incurred prior to April 1, 2002 and any other
   such purposes as specified in section 89-b of the state finance  law
   as amended (17030220) (53163) ... 1,451,000,000 .. (re. $54,637,000)
- 
+
  By chapter 55, section 1, of the laws of 2001, as amended by chapter 54,
   section 1, of the laws of 2013:
   For  the  federal share of state transportation projects including but
@@ -47034,7 +47103,7 @@ S T A T E  O F  N E W  Y O R K
   management  and  supervision;  and appraisals, surveys, testing, and
   environmental impact statements  for  transportation  projects,  the
   payment of liabilities incurred prior to April 1, 2001 and any other
-  842  12554-07-3
+  844  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47092,7 +47161,7 @@ S T A T E  O F  N E W  Y O R K
   services,  for  activities including but not limited to the prepara-
   tion of designs, plans, specifications and  estimates;  construction
   management  and  supervision;  and appraisals, surveys, testing, and
-  843  12554-07-3
+  845  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47150,8 +47219,8 @@ S T A T E  O F  N E W  Y O R K
   of  1991, payment of reimbursements to the engineering services fund
   of the department of transportation, including but  not  limited  to
   fringe  benefits,  and  the  contract  services  provided by private
-  844  12554-07-3
- 
+  846  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -47201,14 +47270,14 @@ S T A T E  O F  N E W  Y O R K
   (17039120) (53163) ...  ... 690,000,000 ......... (re. $17,297,000)
  
  FEDERAL AIRPORT OR AVIATION (CCP)
-
+ 
   Capital Projects Funds - Federal
   Federal Capital Projects Fund
   Federal Capital Projects Account - 31350
   Aviation Purpose
  
  By chapter 54, section 1, of the laws of 2022:
-  845  12554-07-3
+  847  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47265,7 +47334,7 @@ S T A T E  O F  N E W  Y O R K
   airport and aviation facilities at Republic airport,  including  the
   cost  of  acquisition of real property, the acquisition of equipment
   and other related incidental expenses thereto and  for  the  federal
-  846  12554-07-3
+  848  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47285,7 +47354,7 @@ S T A T E  O F  N E W  Y O R K
   designed prior to federal approval upon the written assurance by the
   commissioner  of  transportation that federal funds are likely to be
   forth-coming (17522014) (53248) ... 6,000,000 ..... (re. $6,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2019:
   For payment by the state of the federal share of the  cost,  including
   payment  of  liabilities  incurred  prior  to  April  1,  2019,  of
@@ -47323,8 +47392,8 @@ S T A T E  O F  N E W  Y O R K
   et, to carry out the purposes of this appropriation.
   Prior to requesting a certificate of approval of availability for  any
   of  the moneys authorized herein, the commissioner of transportation
-  847  12554-07-3
- 
+  849  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -47381,10 +47450,10 @@ S T A T E  O F  N E W  Y O R K
   forthcoming (17521614) (53248) ... 6,000,000 ...... (re. $6,000,000)
  
  By chapter 54, section 1, of the laws of 2015:
-  848  12554-07-3
+  850  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For payment by the state of the federal share of the  cost,  including
@@ -47439,7 +47508,7 @@ S T A T E  O F  N E W  Y O R K
   and other related incidental expenses thereto and  for  the  federal
   share  of  consultant  services  in  carrying out federally approved
   aviation studies.
-  849  12554-07-3
+  851  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47497,7 +47566,7 @@ S T A T E  O F  N E W  Y O R K
   of the moneys authorized herein, the commissioner of  transportation
   shall certify to the director of the budget that the federal govern-
   ment has agreed to finance the federal share of the project.  Howev-
-  850  12554-07-3
+  852  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47507,7 +47576,7 @@ S T A T E  O F  N E W  Y O R K
   designed prior to federal approval upon the written assurance by the
   commissioner of transportation that federal funds are likely  to  be
   forthcoming (17521114) (53248) ... 6,000,000 ...... (re. $2,476,000)
- 
+
  By chapter 55, section 1, of the laws of 2010:
   For  payment  by the state of the federal share of the cost, including
   payment  of  liabilities  incurred  prior  to  April  1,  2010,  of
@@ -47555,7 +47624,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 55, section 1, of the laws of 2007:
   For  payment  by the state of the federal share of the cost, including
   payment  of  liabilities  incurred  prior  to  April  1,  2007,  of
-  851  12554-07-3
+  853  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47613,10 +47682,10 @@ S T A T E  O F  N E W  Y O R K
   aviation studies.
   Within the amount appropriated herein, authorization is granted to the
   department  of  transportation to enter into all necessary contracts
-  852  12554-07-3
+  854  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   and agreements, subject to the approval of the director of the budg-
@@ -47670,7 +47739,7 @@ S T A T E  O F  N E W  Y O R K
   improvements related to the expansion of Fort Drum, with or  without
   Federal  aid, including the payment of liabilities incurred prior to
   April 1, 1987 (17068711) (53273) ... 36,926,559 ... (re. $9,489,000)
-  853  12554-07-3
+  855  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47728,7 +47797,7 @@ S T A T E  O F  N E W  Y O R K
   with a common purpose and may  be  interchanged  without  limitation
   subject to the approval of the director of the division of the budg-
   et.
-  854  12554-07-3
+  856  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47786,7 +47855,7 @@ S T A T E  O F  N E W  Y O R K
   accordance  with the provisions of article ten of the transportation
   law or other highway/bridge projects identified in the project sche-
   dule below, for the costs of preparation of designs, plans, specifi-
-  855  12554-07-3
+  857  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47844,7 +47913,7 @@ S T A T E  O F  N E W  Y O R K
   inspection  of  construction;  and  for  the  cost  of  engineering
   services. No expenditures shall be made from this appropriation  for
   personal services and expenses other than consulting services.
-  856  12554-07-3
+  858  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47896,12 +47965,12 @@ S T A T E  O F  N E W  Y O R K
   ..................................................... (re. $314,000)
  
  MAINTENANCE FACILITIES (CCP)
-
+ 
   Capital Projects Funds - Other
   Dedicated Highway and Bridge Trust Fund
   Highway and Bridge Capital Account - 30051
   Equipment Management Facilities Purpose
-  857  12554-07-3
+  859  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47959,7 +48028,7 @@ S T A T E  O F  N E W  Y O R K
   for the acquisition, alterations,  and  rehabilitation  of  existing
   facilities,  for  the  acquisition  of  land and construction of new
   facilities for highway maintenance purposes, for the contract  engi-
-  858  12554-07-3
+  860  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -47984,7 +48053,7 @@ S T A T E  O F  N E W  Y O R K
   neering services provided by private firms, including the payment of
   liabilities  incurred  prior to April 1, 2019 (17251913) (53249) ...
   27,405,000 ........................................ (re. $1,620,000)
- 
+
  By chapter 54, section 1, of the laws of 2018:
   For the preparation of designs, plans, specifications  and  estimates,
   for  the  acquisition,  alterations,  and rehabilitation of existing
@@ -48011,13 +48080,13 @@ S T A T E  O F  N E W  Y O R K
   neering services provided by private firms, including the payment of
   liabilities incurred prior to April 1, 2016 (17251613) (53249) .....
   15,965,000 ........................................ (re. $8,123,000)
- 
+
  By chapter 54, section 1, of the laws of 2015:
   For the preparation of designs, plans, specifications  and  estimates,
   for  the  acquisition,  alterations,  and rehabilitation of existing
   facilities, for the acquisition of  land  and  construction  of  new
   facilities  for highway maintenance purposes, for the contract engi-
-  859  12554-07-3
+  861  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48044,7 +48113,7 @@ S T A T E  O F  N E W  Y O R K
   neering services provided by private firms, including the payment of
   liabilities incurred prior to April 1, 2013 (17251313) (53249) .....
   15,965,000 ............................................ (re. $8,000)
-
+ 
  By chapter 54, section 1, of the laws of 2012:
   For  the  preparation of designs, plans, specifications and estimates,
   for the acquisition, alterations,  and  rehabilitation  of  existing
@@ -48071,11 +48140,11 @@ S T A T E  O F  N E W  Y O R K
   engineering  services  provided  by  private  firms,  including  the
   payment of liabilities incurred prior to April  1,  2010  (17251013)
   (53249) ... 15,965,000 ............................ (re. $7,965,000)
-
+ 
  By chapter 55, section 1, of the laws of 2009:
   For  the  preparation of designs, plans, specifications and estimates,
   for the acquisition, alterations,  and  rehabilitation  of  existing
-  860  12554-07-3
+  862  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48100,7 +48169,7 @@ S T A T E  O F  N E W  Y O R K
   Dedicated Highway and Bridge Trust Fund
   Highway and Bridge Capital Account - 30051
   Preparation of Plans Purpose
- 
+
  By chapter 54, section 1, of the laws of 2022:
   For payment to the design and construction management account  of  the
   centralized  services  fund  of the New York state office of general
@@ -48133,7 +48202,7 @@ S T A T E  O F  N E W  Y O R K
   authorized unless the director of the division of the budget  certi-
   fies  that  such  obligations or spending can be accommodated within
   the State's multi-year financial plan  without  adversely  affecting
-  861  12554-07-3
+  863  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48191,7 +48260,7 @@ S T A T E  O F  N E W  Y O R K
   ifications, estimates, services, construction management and  super-
   vision,  inspection, studies, appraisals, surveys, testing and envi-
   ronmental impact statements, including the  payment  of  liabilities
-  862  12554-07-3
+  864  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48205,7 +48274,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Mass Transit Purpose
-
+ 
  By chapter 54, section 1, of the laws of 2022:
   For  the  costs of mass transportation capital projects and facilities
   including  replacement  of  buses  meeting  federal  standards  for
@@ -48248,7 +48317,7 @@ S T A T E  O F  N E W  Y O R K
   capital  projects in support
   of  public  transportation
   services  provided  directly
-  863  12554-07-3
+  865  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48306,7 +48375,7 @@ S T A T E  O F  N E W  Y O R K
   regional  transportation
   authority  for  capital
   projects  in  support  of
-  864  12554-07-3
+  866  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48364,7 +48433,7 @@ S T A T E  O F  N E W  Y O R K
   transit bus garages or other mass transportation projects and facil-
   ities approved by the commissioner of transportation in a program of
   projects. Such funding may be part of a total  project  of  which  a
-  865  12554-07-3
+  867  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48422,10 +48491,10 @@ S T A T E  O F  N E W  Y O R K
   ance under the provisions of
   section  18-b  of the trans-
   portation law,  for  capital
-  866  12554-07-3
+  868  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   projects  in  support  of
@@ -48480,7 +48549,7 @@ S T A T E  O F  N E W  Y O R K
  To the Niagara Frontier trans-
   portation  authority  for
   capital  projects in support
-  867  12554-07-3
+  869  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48538,8 +48607,8 @@ S T A T E  O F  N E W  Y O R K
  To  the  Central  New  York
   regional  transportation
   authority  for  capital
-  868  12554-07-3
- 
+  870  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -48595,7 +48664,7 @@ S T A T E  O F  N E W  Y O R K
   projects.  Such  funding  may  be part of a total project of which a
   portion is federally funded. The moneys hereby appropriated  are  to
   be  made  available  for projects undertaken by mass transit systems
-  869  12554-07-3
+  871  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48653,10 +48722,10 @@ S T A T E  O F  N E W  Y O R K
   sioner  of  transportation
   with  the  approval  of  the
   director of the budget ......... 3,958,200
-  870  12554-07-3
+  872  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   --------------
@@ -48711,12 +48780,12 @@ S T A T E  O F  N E W  Y O R K
   politan commuter transporta-
   tion district, as defined in
   section 1262 of  the  public
-  871  12554-07-3
+  873  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   authorities law and eligible
   to receive operating assist-
   ance under the provisions of
@@ -48769,8 +48838,8 @@ S T A T E  O F  N E W  Y O R K
   authority  for  capital
   projects  in  support  of
   public  transportation  bus
-  872  12554-07-3
- 
+  874  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -48827,7 +48896,7 @@ S T A T E  O F  N E W  Y O R K
   projects  in  support  of
   public  transportation
   services  provided  directly
-  873  12554-07-3
+  875  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48885,7 +48954,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ........................ 121,547,600
   --------------
-  874  12554-07-3
+  876  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -48943,7 +49012,7 @@ S T A T E  O F  N E W  Y O R K
   construction, reconstruction, and improvement of mass transportation
   capital projects including the acquisition  of  real  property,  for
   other  mass  transportation  projects including local transportation
-  875  12554-07-3
+  877  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49001,8 +49070,8 @@ S T A T E  O F  N E W  Y O R K
   funds previously awarded to the City and reallocated to  the  metro-
   politan  transportation  authority  (MTA),  and  (ii)  the federally
   authorized level of financial assistance transferred  by  resolution
-  876  12554-07-3
- 
+  878  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -49059,7 +49128,7 @@ S T A T E  O F  N E W  Y O R K
   of  the metropolitan planning organization (MPO) to the metropolitan
   transportation authority (MTA) and credited to the City by  the  MTA
   for capital expenses.
-  877  12554-07-3
+  879  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49117,12 +49186,12 @@ S T A T E  O F  N E W  Y O R K
   ble and that the match amount requested does not  exceed  the  state
   share  of the federally authorized level of financial assistance. In
   addition, the City must provide an application to  the  commissioner
-  878  12554-07-3
+  880  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   of  transportation  certifying  that the work to be funded under the
   project has been performed and that the City has reimbursed the  MTA
   for  100  percent  of  the  match  amount for the project. Upon such
@@ -49174,12 +49243,12 @@ S T A T E  O F  N E W  Y O R K
   ability for the moneys  hereby  appropriated,  the  commissioner  of
   transportation  shall  certify  that each omnibus project progressed
   under the program has received federal approval.
-  879  12554-07-3
+  881  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   Such certificate shall report the federally authorized level of finan-
   cial assistance (17OM1729) (53252) .................................
   18,500,000 ....................................... (re. $11,535,000)
@@ -49225,14 +49294,14 @@ S T A T E  O F  N E W  Y O R K
   Such certificate shall report the federally authorized level of finan-
   cial assistance (17OM1629) (53252) .................................
   18,500,000 ........................................ (re. $2,456,000)
- 
+
  By chapter 53, section 1, of the laws of 2015, as amended by chapter 55,
   section 1, of the laws of 2016:
   For  state  aid  to  municipal  corporations  for  the  preparation of
   designs, plans, specifications and estimates, for  the  acquisition,
   construction, reconstruction, and improvement of mass transportation
   capital  projects  including  the  acquisition of real property, for
-  880  12554-07-3
+  882  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49290,10 +49359,10 @@ S T A T E  O F  N E W  Y O R K
   portation shall make available directly to  the  City  of  New  York
   (City)  an  amount  commensurate with the state share of (i) federal
   funds previously awarded to the City and reallocated to  the  metro-
-  881  12554-07-3
+  883  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   politan  transportation  authority  (MTA),  and  (ii)  the federally
@@ -49323,7 +49392,7 @@ S T A T E  O F  N E W  Y O R K
   Such certificate shall report the federally authorized level of finan-
   cial assistance (17OM1429) (53252) .................................
   18,500,000 ........................................ (re. $4,124,000)
-
+ 
  By chapter 54, section 1, of the laws of 2013, as amended by chapter 54,
   section 1, of the laws of 2018:
   For state  aid  to  municipal  corporations  for  the  preparation  of
@@ -49348,8 +49417,8 @@ S T A T E  O F  N E W  Y O R K
   nonfederal  share  of  the  federally  authorized level of financial
   assistance transferred to the MTA, but in no event shall  the  state
   share  exceed  10  percent  of  project  costs.  Prior to requesting
-  882  12554-07-3
-
+  884  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -49406,7 +49475,7 @@ S T A T E  O F  N E W  Y O R K
   commissioner of transportation certifying that the work to be funded
   under  the  project  has  been performed and that the City has reim-
   bursed the MTA for 100 percent of the match amount for the  project.
-  883  12554-07-3
+  885  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49462,7 +49531,7 @@ S T A T E  O F  N E W  Y O R K
   under the program has received federal  approval.  Such  certificate
   shall  report the federally authorized level of financial assistance
   (17OM1129) (53252) ... 4,694,992 .................... (re. $928,000)
-  884  12554-07-3
+  886  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49519,7 +49588,7 @@ S T A T E  O F  N E W  Y O R K
   other mass transportation projects  including  local  transportation
   planning  studies.  Notwithstanding  any  inconsistent provisions of
   law, the state share of such projects shall be  50  percent  of  the
-  885  12554-07-3
+  887  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49576,7 +49645,7 @@ S T A T E  O F  N E W  Y O R K
   politan transportation  authority  (MTA),  and  (ii)  the  federally
   authorized  level  of financial assistance transferred by resolution
   of the metropolitan planning organization (MPO) to the  metropolitan
-  886  12554-07-3
+  888  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49634,10 +49703,10 @@ S T A T E  O F  N E W  Y O R K
   City, the City shall certify to the commissioner  of  transportation
   that each eligible project progressed under this provision is feder-
   ally  eligible  and  that the match amount requested does not exceed
-  887  12554-07-3
+  889  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   the state share of  the  federally  authorized  level  of  financial
@@ -49692,7 +49761,7 @@ S T A T E  O F  N E W  Y O R K
   Prior to requesting approval of a certificate of  approval  of  avail-
   ability  for  the  moneys  hereby  appropriated, the commissioner of
   transportation shall certify that each  omnibus  project  progressed
-  888  12554-07-3
+  890  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49701,7 +49770,7 @@ S T A T E  O F  N E W  Y O R K
   under  the  program  has received federal approval. Such certificate
   shall report the federally authorized level of financial  assistance
   (17OM0629) (53252) ... 1,000,246 .................... (re. $464,000)
- 
+
  By chapter 55, section 1, of the laws of 2005, as amended by chapter 54,
   section 1, of the laws of 2018:
   For  state  aid  to  municipal  corporations  for  the  preparation of
@@ -49750,7 +49819,7 @@ S T A T E  O F  N E W  Y O R K
   other  mass  transportation  projects including local transportation
   planning studies. Notwithstanding  any  inconsistent  provisions  of
   law,  the  state  share  of such projects shall be 50 percent of the
-  889  12554-07-3
+  891  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49808,7 +49877,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 55, section 1, of the laws of 2003, as amended by chapter 54,
   section 1, of the laws of 2018:
-  890  12554-07-3
+  892  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49866,7 +49935,7 @@ S T A T E  O F  N E W  Y O R K
   section 1, of the laws of 2018:
   For  state  aid  to  municipal  corporations  for  the  preparation of
   designs, plans, specifications and estimates, for  the  acquisition,
-  891  12554-07-3
+  893  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49924,7 +49993,7 @@ S T A T E  O F  N E W  Y O R K
   including  the acquisition of real property and liabilities incurred
   prior to April one, nineteen hundred eighty-six  (17OS8629)  (53252)
   ... 641,834 ......................................... (re. $141,000)
-  892  12554-07-3
+  894  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -49981,7 +50050,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Non-MTA Capital Purpose
-  893  12554-07-3
+  895  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50039,7 +50108,7 @@ S T A T E  O F  N E W  Y O R K
   against, or spending from this  appropriation  shall  be  authorized
   unless  the  director  of  the division of the budget certifies that
   such obligations or spending can be accommodated within the  State's
-  894  12554-07-3
+  896  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50050,7 +50119,7 @@ S T A T E  O F  N E W  Y O R K
   deemed  essential  to  the  health  and safety of the public, or (b)
   essential governmental services (17NM2031) (53253) .................
   18,500,000 ....................................... (re. $18,500,000)
- 
+
  By chapter 54, section 1, of the laws of 2019:
   For  the  payment of the costs of mass transportation capital projects
   and facilities including replacement of buses meeting federal stand-
@@ -50097,12 +50166,12 @@ S T A T E  O F  N E W  Y O R K
   hereby appropriated are to be made available for projects undertaken
   by mass transit systems other  than  those  mass  transit  operating
   agencies  which  receive  money from the metropolitan transportation
-  895  12554-07-3
+  897  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   authority dedicated tax fund (17NP1831) (54207) ....................
   20,000,000 ........................................ (re. $9,937,000)
  
@@ -50154,10 +50223,10 @@ S T A T E  O F  N E W  Y O R K
   agencies  which  receive  money from the metropolitan transportation
   authority dedicated tax fund (17NM1631) (53253) ....................
   18,500,000 ........................................ (re. $7,438,000)
-  896  12554-07-3
+  898  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
  By chapter 53, section 1, of the laws of 2015, as amended by chapter 55,
@@ -50211,7 +50280,7 @@ S T A T E  O F  N E W  Y O R K
   hereby appropriated are to be made available for projects undertaken
   by mass transit systems other  than  those  mass  transit  operating
   agencies  which  receive  money from the metropolitan transportation
-  897  12554-07-3
+  899  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50237,7 +50306,7 @@ S T A T E  O F  N E W  Y O R K
   agencies  which  receive  money from the metropolitan transportation
   authority dedicated tax fund (17NM1231) (53253) ....................
   18,500,000 ....................................... (re. $18,500,000)
-
+ 
  By chapter 54, section 1, of the laws of 2011, as amended by chapter 55,
   section 1, of the laws of 2016:
   For the payment of the costs of mass transportation  capital  projects
@@ -50269,12 +50338,12 @@ S T A T E  O F  N E W  Y O R K
   tution for the required non-federal matching shares of the  federal-
   ly-funded  portion  of  the project to which it is added. The moneys
   hereby appropriated are to be made available for projects undertaken
-  898  12554-07-3
+  900  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   by mass transit systems other  than  those  mass  transit  operating
   agencies  which  receive  money from the metropolitan transportation
   authority dedicated tax fund (17NM1031) (53253) ....................
@@ -50327,10 +50396,10 @@ S T A T E  O F  N E W  Y O R K
   program  of projects. Such funding may be part of a total project of
   which a portion is federally funded but shall not be used in substi-
   tution for the required non-federal matching shares of the  federal-
-  899  12554-07-3
+  901  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   ly-funded  portion  of  the project to which it is added. The moneys
@@ -50383,7 +50452,7 @@ S T A T E  O F  N E W  Y O R K
   agencies  which  receive  money from the metropolitan transportation
   authority dedicated tax fund (17NM0531) (53253) ....................
   3,441,336 ......................................... (re. $3,441,000)
-  900  12554-07-3
+  902  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50406,7 +50475,7 @@ S T A T E  O F  N E W  Y O R K
   agencies  which  receive  money from the metropolitan transportation
   authority dedicated tax fund (17NM0431) (53253) ....................
   1,732,542 ......................................... (re. $1,675,000)
- 
+
  By chapter 55, section 1, of the laws of 2003, as amended by chapter 54,
   section 1, of the laws of 2018:
   For the payment of the costs of mass transportation  capital  projects
@@ -50440,7 +50509,7 @@ S T A T E  O F  N E W  Y O R K
   hereby appropriated are to be made available for projects undertaken
   by mass transit systems other  than  those  mass  transit  operating
   agencies  which  receive  money from the metropolitan transportation
-  901  12554-07-3
+  903  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50498,12 +50567,12 @@ S T A T E  O F  N E W  Y O R K
   tution for the required non-federal matching shares of the  federal-
   ly-funded  portion  of  the project to which it is added. The moneys
   hereby appropriated are to be made available for projects undertaken
-  902  12554-07-3
+  904  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   by mass transit systems other  than  those  mass  transit  operating
   agencies  which  receive  money from the metropolitan transportation
   authority dedicated tax fund (17NM9931) (53253) ....................
@@ -50556,10 +50625,10 @@ S T A T E  O F  N E W  Y O R K
   of passenger rail, freight rail, and, notwithstanding any inconsist-
   ent provisions of law,  for  port  capital  facilities  outside  the
   jurisdiction  of  the  port  authority  of  New York and New Jersey,
-  903  12554-07-3
+  905  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   including but not limited to the acquisition,  construction,  recon-
@@ -50571,7 +50640,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding the provisions of section 89-b of  the  state  finance
   law,  for  contractual  agreements  entered  into for rail passenger
   service (17172241) (54278) ... 44,330,000 ........ (re. $44,330,000)
- 
+
  By chapter 54, section 1, of the laws of 2021:
   For the payment of the costs, including  the  payment  of  liabilities
   incurred prior to April 1, 2021, of the construction and improvement
@@ -50614,7 +50683,7 @@ S T A T E  O F  N E W  Y O R K
   the division of the budget certifies that such obligations or spend-
   ing can be accommodated within the State's multi-year financial plan
   without adversely affecting the funding available  for  (a)  capital
-  904  12554-07-3
+  906  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50639,7 +50708,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding the provisions of section 89-b of  the  state  finance
   law,  for  contractual  agreements  entered  into for rail passenger
   service (17171941) (54278) ... 44,330,000 ........ (re. $10,504,000)
-
+ 
  By chapter 54, section 1, of the laws of 2018:
   For the payment of the costs, including  the  payment  of  liabilities
   incurred prior to April 1, 2018, of the construction and improvement
@@ -50671,7 +50740,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding the provisions of section 89-b of  the  state  finance
   law,  for  contractual  agreements  entered  into for rail passenger
   service (17171741) (54278) ... 44,330,000 ......... (re. $8,212,000)
-  905  12554-07-3
+  907  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50692,7 +50761,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding the provisions of section 89-b of  the  state  finance
   law,  for  contractual  agreements  entered  into for rail passenger
   service (17171641) (54278) ... 44,330,000 ......... (re. $7,417,000)
-
+ 
  By chapter 54, section 1, of the laws of 2015:
   For the payment of the costs, including  the  payment  of  liabilities
   incurred prior to April 1, 2015, of the construction and improvement
@@ -50729,10 +50798,10 @@ S T A T E  O F  N E W  Y O R K
   construction,  reconstruction,  improvement or rehabilitation of any
   railroad capital  facility  and  any  capital  improvement  used  in
   connection  herewith,  and  for  the acquisition of real property or
-  906  12554-07-3
+  908  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
-
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   interests in real property  required  or  expected  to  be  required
@@ -50773,7 +50842,7 @@ S T A T E  O F  N E W  Y O R K
   rail  passenger service, and for the acquisition of real property or
   interests in real property  required  or  expected  to  be  required
   therefor (17161041) (53256) ... 15,300,000 ........ (re. $1,100,000)
-
+ 
  By chapter 55, section 1, of the laws of 2009:
   Notwithstanding  the  provisions  of section 89-b of the state finance
   law, for the construction and  improvement  of  passenger  and  rail
@@ -50786,8 +50855,8 @@ S T A T E  O F  N E W  Y O R K
   therefor (17150941) (53256) ... 7,500,000 ........... (re. $130,000)
  
  By chapter 55, section 1, of the laws of 2008:
-  907  12554-07-3
-
+  909  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -50843,7 +50912,7 @@ S T A T E  O F  N E W  Y O R K
   railroad  capital  facility  and  any  capital  improvement  used in
   connection herewith, for contractual  agreements  entered  into  for
   rail  passenger service, and for the acquisition of real property or
-  908  12554-07-3
+  910  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -50871,7 +50940,7 @@ S T A T E  O F  N E W  Y O R K
   connection  herewith,  and  for  the acquisition of real property or
   interests in real property  required  or  expected  to  be  required
   therefore (17150041) (53256) ... 10,000,000 ......... (re. $349,000)
- 
+
  By  chapter  55,  section  1, of the laws of 1999, as amended by chapter
   295, part A, section 1, of the laws of 2001:
   For the state share  of  the  construction  and  improvement  of  rail
@@ -50901,12 +50970,12 @@ S T A T E  O F  N E W  Y O R K
  
  By  chapter 54, section 1, of the laws of 1993, as added by chapter 259,
   section 4, of the laws of 1993:
-  909  12554-07-3
+  911  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   For payment of the federal share of high speed  ground  transportation
   projects  including  high  speed  conventional rail, very high speed
   rail and magnetic levitation systems. The moneys hereby appropriated
@@ -50916,7 +50985,7 @@ S T A T E  O F  N E W  Y O R K
   construction,  reconstruction, improvement and rehabilitation of any
   capital facility (17419312) (53110) ...  ..........................
   20,000,000 ....................................... (re. $12,309,000)
- 
+
   RAIL SERVICE PRESERVATION
  
  By chapter 257, section 8, of the laws of 1975, as  amended  by  chapter
@@ -50958,7 +51027,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - Infrastructure Renewable (Bondable) - 30000
   Omnibus and Transit Bondable Purpose
-  910  12554-07-3
+  912  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51015,10 +51084,10 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 1984, as amended by chapter 54,
   section 3, of the laws of 1986:
-  911  12554-07-3
+  913  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For payment to  the  department  of  transportation  pursuant  to  the
@@ -51073,12 +51142,12 @@ S T A T E  O F  N E W  Y O R K
   1983 notwithstanding any inconsistent provisions of law and pursuant
   to  the  provisions of section fourteen-d of the transportation law,
   as the commissioner may elect for the purpose of  improving  freight
-  912  12554-07-3
+  914  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   service,  and  including  all costs incidental thereto in accordance
   with the following schedule (17158441) (53282) ...  ...............
   ..................................................... (re. $339,000)
@@ -51097,7 +51166,7 @@ S T A T E  O F  N E W  Y O R K
   governor, the majority leader of the senate, and the speaker of  the
   assembly, or their designees (17M100MR) (53284) ....................
   150,000,000 ...................................... (re. $31,298,000)
-
+ 
  MUNICIPAL HIGHWAY - RAILROAD CROSSING ALTERATIONS (CCP)
  
   Capital Projects Funds - Other
@@ -51111,7 +51180,7 @@ S T A T E  O F  N E W  Y O R K
   ration  structures,  pursuant to the provisions of section 91 of the
   railroad law, and in accordance with the schedule  below  (17108826)
   (53285) ...  ..... 1,700,000 ....................... (re. $443,000)
- 
+
  By chapter 54, section 1, of the laws of 1986:
   For  payment  of  the state share of the cost of the reconstruction or
   removal of existing highway-railway grade crossing  or  grade  sepa-
@@ -51131,7 +51200,7 @@ S T A T E  O F  N E W  Y O R K
   used  to  reduce  the total project cost prior to the calculation of
   the state and local shares in accordance with section ninety-one  of
   the railroad law.
-  913  12554-07-3
+  915  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51188,15 +51257,15 @@ S T A T E  O F  N E W  Y O R K
  By chapter 54, section 1, of the laws of 2018:
   For that portion of liabilities incurred by the department  of  trans-
   portation  on  behalf  of  entities  other than state departments or
-  914  12554-07-3
- 
+  916  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   agencies  pursuant  to  the  highway  law  or  transportation  law
   (17501822) (53259) ... 50,000,000 ................ (re. $49,988,000)
-
+ 
  By chapter 54, section 1, of the laws of 2017:
   For  that  portion of liabilities incurred by the department of trans-
   portation on behalf of entities  other  than  state  departments  or
@@ -51246,7 +51315,7 @@ S T A T E  O F  N E W  Y O R K
   (17501022) (53259) ... 50,000,000 ................ (re. $10,619,000)
  
  By chapter 55, section 1, of the laws of 2009:
-  915  12554-07-3
+  917  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51304,7 +51373,7 @@ S T A T E  O F  N E W  Y O R K
   portation  on  behalf  of  entities  other than state departments or
   agencies  pursuant  to  the  highway  law  or  transportation  law
   (17500122) (53259) ... 50,000,000 ................. (re. $6,981,000)
-  916  12554-07-3
+  918  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51315,7 +51384,7 @@ S T A T E  O F  N E W  Y O R K
   portation on behalf of entities  other  than  state  departments  or
   agencies  pursuant  to  the  highway  law  or  transportation  law
   (17500022) (53259) ... 50,000,000 ................ (re. $15,837,000)
- 
+
  By chapter 55, section 1, of the laws of 1999:
   For that portion of liabilities incurred by the department  of  trans-
   portation  on  behalf  of  entities  other than state departments or
@@ -51360,9 +51429,9 @@ S T A T E  O F  N E W  Y O R K
   improved public transportation  service;  and  liabilities  incurred
   prior to April 1, 2022 (17AC2214) (54202) ..........................
   150,000,000 ..................................... (re. $150,000,000)
-
+ 
  By chapter 54, section 1, of the laws of 2021:
-  917  12554-07-3
+  919  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51420,12 +51489,12 @@ S T A T E  O F  N E W  Y O R K
   the contract services provided by private firms; demolition;  recon-
   struction;  and  improvement  of airport or aviation-related facili-
   ties. Eligible project costs may also include  measures  to  enhance
-  918  12554-07-3
+  920  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
- 
+
   connections to airports through roadway redesign; increased parking;
   improved  public  transportation  service;  and liabilities incurred
   prior to April 1,  2020.  Provided,  however,  that  no  obligations
@@ -51478,8 +51547,8 @@ S T A T E  O F  N E W  Y O R K
   For  state  aid  to  municipal  corporations  and  private airports as
   authorized by section 14-h of the transportation law and for payment
   of the cost of projects at Stewart and Republic  airports,  for  the
-  919  12554-07-3
-
+  921  12554-08-3
+ 
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
@@ -51536,7 +51605,7 @@ S T A T E  O F  N E W  Y O R K
   benefit corporations, except a bi-state authority, and other  owners
   of  public-use  airports  located in counties or cities with a popu-
   lation of less than one million; for projects related  to  passenger
-  920  12554-07-3
+  922  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51571,7 +51640,7 @@ S T A T E  O F  N E W  Y O R K
   authorized by section 14-l of the transportation law, including  the
   acquisition of real property and liabilities incurred prior to April
   1, 2015 (17551514) (53101) ... 10,000,000 ......... (re. $5,503,000)
-
+ 
  By chapter 54, section 1, of the laws of 2014:
   For  state  aid  to  municipal  corporations  and  private airports as
   authorized by section 14-h of the transportation law and for payment
@@ -51594,12 +51663,12 @@ S T A T E  O F  N E W  Y O R K
   For  state  aid  to  municipal  corporations  and  private airports as
   authorized by section 14-h of the transportation law and for payment
   of the cost of projects at Stewart and Republic  airports,  for  the
-  921  12554-07-3
- 
+  923  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   acquisition,  construction,  reconstruction,  and  improvement  of
   airport or aviation capital projects, including the  acquisition  of
   real property and liabilities incurred prior to April 1, 2013.
@@ -51652,12 +51721,12 @@ S T A T E  O F  N E W  Y O R K
   local  roads  and bridges; airport, freight and passenger rail, port
   and transit  projects  or  multi-modal  facilities,  including  work
   appurtenant  and  ancillary  thereto. Project costs funded from this
-  922  12554-07-3
- 
+  924  12554-08-3
+
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   appropriation may include but shall not be limited to  construction,
   reconstruction,  reconditioning and preservation, the acquisition of
   property, and engineering  services,  including  personal  services,
@@ -51710,7 +51779,7 @@ S T A T E  O F  N E W  Y O R K
   appurtenant and ancillary thereto. Project costs  funded  from  this
   appropriation  may include but shall not be limited to construction,
   reconstruction, reconditioning and preservation, the acquisition  of
-  923  12554-07-3
+  925  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51747,7 +51816,7 @@ S T A T E  O F  N E W  Y O R K
   to emergencies, environmental concerns, federal mandates, unforeseen
   conditions,  design  changes or other factors (17992022) (54201) ...
   2,030,000,000 ................................. (re. $1,422,310,000)
-
+ 
  By chapter 54, section 1, of the laws of 2019:
   Transportation infrastructure and facilities in the five-year  depart-
   ment  of  transportation  plan  for 2015-16 through 2019-20, for the
@@ -51768,10 +51837,10 @@ S T A T E  O F  N E W  Y O R K
   testing  and  environmental  impact  statements  for  transportation
   infrastructure projects (17991922) (54201) .........................
   196,175,000 ...................................... (re. $54,699,000)
-  924  12554-07-3
+  926  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   For the payment of the costs, which  shall  be  reimbursed  from  bond
@@ -51826,7 +51895,7 @@ S T A T E  O F  N E W  Y O R K
   For  the  payment  of  the  costs, which shall be reimbursed from bond
   proceeds, including the payment of  liabilities  incurred  prior  to
   April  1,  2018,  of state highways, parkways, bridges, the New York
-  925  12554-07-3
+  927  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -51884,10 +51953,10 @@ S T A T E  O F  N E W  Y O R K
   State Thruway, Indian reservation roads, and  facilities,  including
   work  appurtenant  and  ancillary thereto. Project costs funded from
   this  appropriation  may  include  but  shall  not  be  limited  to
-  926  12554-07-3
+  928  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   construction,  reconstruction,  reconditioning and preservation, and
@@ -51942,7 +52011,7 @@ S T A T E  O F  N E W  Y O R K
   For  the  payment  of  the  costs, which shall be reimbursed from bond
   proceeds, including the payment of  liabilities  incurred  prior  to
   April  1, 2017, of state and local bridges, including work appurten-
-  927  12554-07-3
+  929  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52000,12 +52069,12 @@ S T A T E  O F  N E W  Y O R K
   ant and ancillary thereto. Project costs funded from this  appropri-
   ation  may  include but shall not be limited to construction, recon-
   struction, reconditioning and preservation, and the  acquisition  of
-  928  12554-07-3
+  930  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
-
+ 
   property, and for engineering services, including personal services,
   nonpersonal  services,  fringe  benefits,  and the contract services
   provided by private firms, and including  but  not  limited  to  the
@@ -52031,7 +52100,7 @@ S T A T E  O F  N E W  Y O R K
   vision; and appraisals, surveys, testing  and  environmental  impact
   statements for transportation projects (17LA1622) (54241) ..........
   150,000,000 ..................................... (re. $119,556,000)
-
+ 
  By chapter 54, section 1, of the laws of 2015:
   For  the  payment  of  the  costs, which shall be reimbursed from bond
   proceeds, including the payment of  liabilities  incurred  prior  to
@@ -52058,7 +52127,7 @@ S T A T E  O F  N E W  Y O R K
   the acquisition of property, and for engineering services, including
   personal  services,  nonpersonal  services, fringe benefits, and the
   contract services provided by private firms, and including  but  not
-  929  12554-07-3
+  931  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52116,7 +52185,7 @@ S T A T E  O F  N E W  Y O R K
   155,000,000 ....................................... (re. $6,260,000)
  
  By chapter 54, section 1, of the laws of 2012:
-  930  12554-07-3
+  932  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52163,7 +52232,7 @@ S T A T E  O F  N E W  Y O R K
   than  those mass transit operating agencies which receive money from
   the  metropolitan  transportation  authority  dedicated  tax  fund
   (17EB2231) (54222) ... 20,000,000 ................ (re. $20,000,000)
- 
+
  By chapter 54, section 1, of the laws of 2021:
   For  the  costs of mass transportation capital projects and facilities
   including  replacement  of  buses  meeting  federal  standards  for
@@ -52174,10 +52243,10 @@ S T A T E  O F  N E W  Y O R K
   projects.  Such  funding  may  be part of a total project of which a
   portion is federally funded but shall not be  used  in  substitution
   for the required non-federal matching shares of the federally-funded
-  931  12554-07-3
+  933  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
- 
+
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   portion  of  the  project  to  which  it is added. The moneys hereby
@@ -52232,7 +52301,7 @@ S T A T E  O F  N E W  Y O R K
   the  State's  multi-year  financial plan without adversely affecting
   the funding available for (a) capital projects currently  authorized
   that are deemed essential to the health and safety of the public, or
-  932  12554-07-3
+  934  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52288,7 +52357,7 @@ S T A T E  O F  N E W  Y O R K
   cies  which  receive  money  from  the  metropolitan  transportation
   authority dedicated tax fund (17551931) (53102) ....................
   27,500,000 ....................................... (re. $18,594,000)
-  933  12554-07-3
+  935  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52335,7 +52404,7 @@ S T A T E  O F  N E W  Y O R K
   cies  which  receive  money  from  the  metropolitan  transportation
   authority dedicated tax fund (17551731) (53102) ....................
   27,500,000 ........................................ (re. $3,220,000)
-
+ 
  By chapter 55, section 1, of the laws of 2016:
   For the costs of mass transportation capital projects  and  facilities
   including  replacement  of  buses  meeting  federal  standards  for
@@ -52346,10 +52415,10 @@ S T A T E  O F  N E W  Y O R K
   projects. Such funding may be part of a total  project  of  which  a
   portion  is  federally  funded but shall not be used in substitution
   for the required non-federal matching shares of the federally-funded
-  934  12554-07-3
- 
-  DEPARTMENT OF TRANSPORTATION
+  936  12554-08-3
 
+  DEPARTMENT OF TRANSPORTATION
+ 
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   portion of the project to which  it  is  added.  The  moneys  hereby
@@ -52404,7 +52473,7 @@ S T A T E  O F  N E W  Y O R K
   portion  is  federally  funded but shall not be used in substitution
   for the required non-federal matching shares of the  federallyfunded
   portion  of  the  project  to  which  it is added. The moneys hereby
-  935  12554-07-3
+  937  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52462,7 +52531,7 @@ S T A T E  O F  N E W  Y O R K
   Long Island Rail Road to improve emissions standards, and the amount
   of  up  to  $1,000,000  for  other diesel train engine retrofit uses
   (17552141) (53104) ... 17,500,000 ................ (re. $17,500,000)
-  936  12554-07-3
+  938  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52520,7 +52589,7 @@ S T A T E  O F  N E W  Y O R K
   Of this appropriation, the amount of up to $3,000,000 will be provided
   to the metropolitan transportation authority  for  costs  associated
   with implementing a program to upgrade diesel train engines owned by
-  937  12554-07-3
+  939  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52578,7 +52647,7 @@ S T A T E  O F  N E W  Y O R K
   struction,  improvement  or  rehabilitation  of any railroad capital
   facility and any capital improvement used  in  connection  herewith,
   and  for the acquisition of real property or interests in real prop-
-  938  12554-07-3
+  940  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52635,7 +52704,7 @@ S T A T E  O F  N E W  Y O R K
   916,751,000 ...................................... (re. $13,982,000)
  
  NON-FEDERALLY AIDED HIGHWAY CAPITAL PROJECTS (CCP)
-  939  12554-07-3
+  941  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52691,7 +52760,7 @@ S T A T E  O F  N E W  Y O R K
   division  of  the budget, are deemed fully incorporated herein and a
   part of this appropriation as if fully stated (17011814) (54205).
   Expense accounts (00000) ... 1,186,000 ................ (re. $177,000)
-  940  12554-07-3
+  942  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -52749,7 +52818,7 @@ S T A T E  O F  N E W  Y O R K
   104,419,000 ...................................... (re. $50,054,000)
   Fringe benefits (170821HM) (60090) ... 88,334,000 .. (re. $10,443,000)
   Indirect costs (170921HM) (58850) ... 3,973,000 ....... (re. $456,000)
-  941  12554-07-3
+  943  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -52807,7 +52876,7 @@ S T A T E  O F  N E W  Y O R K
   section 10-d of the highway law, and snow and ice control  on  state
   highways,  including personal services, nonpersonal services, fringe
   benefits and contractual services  provided  by  private  firms  and
-  942  12554-07-3
+  944  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52865,7 +52934,7 @@ S T A T E  O F  N E W  Y O R K
   highways  and  preventive  maintenance on state roads and bridges as
   defined in paragraph (a) of subdivision 1 of  section  10-d  of  the
   highway  law,  including  personal  services,  nonpersonal services,
-  943  12554-07-3
+  945  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52923,7 +52992,7 @@ S T A T E  O F  N E W  Y O R K
   defined in paragraph (a) of subdivision 1 of  section  10-d  of  the
   highway  law,  including  personal  services,  nonpersonal services,
   fringe benefits and contractual services provided by  private  firms
-  944  12554-07-3
+  946  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -52981,7 +53050,7 @@ S T A T E  O F  N E W  Y O R K
  Travel ............................. 900,000
  Contractual services ............ 81,000,000
  Equipment ....................... 13,500,000
-  945  12554-07-3
+  947  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53037,7 +53106,7 @@ S T A T E  O F  N E W  Y O R K
  Travel ........................... 1,000,000
  Contractual services ............ 90,000,000
  Equipment ....................... 15,000,000
-  946  12554-07-3
+  948  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53091,7 +53160,7 @@ S T A T E  O F  N E W  Y O R K
   Amount  available  for
   personal service ........... 248,326,267
   --------------
-  947  12554-07-3
+  949  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53149,7 +53218,7 @@ S T A T E  O F  N E W  Y O R K
   vision  2-a of section 12 of
   the highway law ............... 11,261,000
   --------------
-  948  12554-07-3
+  950  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53206,7 +53275,7 @@ S T A T E  O F  N E W  Y O R K
  
  For  the purchase of transpor-
   tation  related  equipment,
-  949  12554-07-3
+  951  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53264,7 +53333,7 @@ S T A T E  O F  N E W  Y O R K
   incurred prior to April 1, 2007, of snow and ice  control  on  state
   highways  and  preventive  maintenance on state roads and bridges as
   defined in paragraph (a) of subdivision 1 of  section  10-d  of  the
-  950  12554-07-3
+  952  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53322,7 +53391,7 @@ S T A T E  O F  N E W  Y O R K
   operation of interstate  84,
   the  department of transpor-
   tation  and  the  thruway
-  951  12554-07-3
+  953  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53380,7 +53449,7 @@ S T A T E  O F  N E W  Y O R K
   highway law,  including  personal  services,  nonpersonal  services,
   fringe  benefits  and contractual services provided by private firms
   and municipalities. Such costs shall not include the costs of  vehi-
-  952  12554-07-3
+  954  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53438,7 +53507,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 55, section 1, of the laws of 2003:
   For the construction  or  improvement  of  highway,  bridge  and  rail
   freight  projects related to industrial access, including the acqui-
-  953  12554-07-3
+  955  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53495,7 +53564,7 @@ S T A T E  O F  N E W  Y O R K
   date  of  acceptance of the project by the department of transporta-
   tion except that the repayment may occur over a period of up  to  10
   years  when total project costs exceed $1,000,000. All projects must
-  954  12554-07-3
+  956  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53553,7 +53622,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any inconsistent provision of law, the commissioner of
   transportation  may waive the requirement to repay 40 percent of the
   cost of a project provided that private funds are dedicated  to  the
-  955  12554-07-3
+  957  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53611,7 +53680,7 @@ S T A T E  O F  N E W  Y O R K
   private  firms,  including  but  not  limited  to the preparation of
   designs, plans, specifications and estimates;  construction  manage-
   ment  and supervision; and appraisals, surveys, testing and environ-
-  956  12554-07-3
+  958  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53669,7 +53738,7 @@ S T A T E  O F  N E W  Y O R K
   The  moneys  so appropriated shall be made available pursuant to rules
   and regulations promulgated by the  commissioner  of  transportation
   establishing  the  maximum  amount  of assistance to be provided for
-  957  12554-07-3
+  959  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53727,7 +53796,7 @@ S T A T E  O F  N E W  Y O R K
   cost of such industrial access project and related economic develop-
   ment for at least 40 percent of the total  cost  of  the  industrial
   access  project  and related economic development and the industrial
-  958  12554-07-3
+  960  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53785,7 +53854,7 @@ S T A T E  O F  N E W  Y O R K
   surveys, testing and environmental impact statements for transporta-
   tion projects. Project costs  funded  from  this  appropriation  may
   include  but  shall  not be limited to construction, reconstruction,
-  959  12554-07-3
+  961  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
 
@@ -53842,7 +53911,7 @@ S T A T E  O F  N E W  Y O R K
   $5,000,000 of this appropriation may be used for traffic maintenance
   and  traffic  protection  services provided by the division of state
   police.
-  960  12554-07-3
+  962  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53900,7 +53969,7 @@ S T A T E  O F  N E W  Y O R K
   cipality to finance local bridge projects through state nonfederally
   aided highway funds appropriated herein when the use of federal  aid
   funds for such local bridge projects would not be cost effective and
-  961  12554-07-3
+  963  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -53958,7 +54027,7 @@ S T A T E  O F  N E W  Y O R K
   ment of transportation  including  work  appurtenant  and  ancillary
   thereto, for the state share of federally authorized high speed rail
   improvement projects, and for the cost of administrative services of
-  962  12554-07-3
+  964  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54016,7 +54085,7 @@ S T A T E  O F  N E W  Y O R K
   limited  to  the  preparation  of designs, plans, specifications and
   estimates; construction management and supervision, and  appraisals,
   surveys, testing and environmental impact statements for transporta-
-  963  12554-07-3
+  965  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54073,7 +54142,7 @@ S T A T E  O F  N E W  Y O R K
   $5,000,000 of this appropriation may be used for traffic maintenance
   and  traffic  protection  services provided by the division of state
   police.
-  964  12554-07-3
+  966  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -54131,7 +54200,7 @@ S T A T E  O F  N E W  Y O R K
   Personal service (17011622) (50000) ... 5,000,000 ...... (re. $31,000)
   Nonpersonal service (17041622) (57050) ...............................
   20,000,000 ........................................ (re. $1,302,000)
-  965  12554-07-3
+  967  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54189,7 +54258,7 @@ S T A T E  O F  N E W  Y O R K
   For  the  payment  of  the costs, including the payment of liabilities
   incurred prior to April 1, 2015,  of  the  acquisition  of  property
   related  to construction, reconstruction, reconditioning and preser-
-  966  12554-07-3
+  968  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54246,7 +54315,7 @@ S T A T E  O F  N E W  Y O R K
   bridge projects from this appropriation shall not exceed  $2,500,000
   in state fiscal year 2014-15 (53164).
   Personal service (17011422) (50000) ... 6,000,000 ..... (re. $190,000)
-  967  12554-07-3
+  969  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
 
@@ -54304,7 +54373,7 @@ S T A T E  O F  N E W  Y O R K
   ment  of  transportation  including  work  appurtenant and ancillary
   thereto, for the state share of federally authorized high speed rail
   improvement projects, and for the cost of administrative services of
-  968  12554-07-3
+  970  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54362,7 +54431,7 @@ S T A T E  O F  N E W  Y O R K
   into  agreements  with  any  municipality  to  finance  local bridge
   projects through state non-federally aided highway  funds  appropri-
   ated  herein when the use of federal aid funds for such local bridge
-  969  12554-07-3
+  971  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54420,7 +54489,7 @@ S T A T E  O F  N E W  Y O R K
   es, the New York State Thruway, Indian reservation roads, and facil-
   ities  for which the responsibility is vested with the state depart-
   ment of transportation  including  work  appurtenant  and  ancillary
-  970  12554-07-3
+  972  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54477,7 +54546,7 @@ S T A T E  O F  N E W  Y O R K
   Amount available for nonper-
   sonal service ............... 13,000,000
   --------------
-  971  12554-07-3
+  973  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54531,7 +54600,7 @@ S T A T E  O F  N E W  Y O R K
   common purpose and may be interchanged without limitation subject to
   the approval of the director of the budget (17020922) (53164) ......
   516,550,000 ...................................... (re. $18,827,000)
-  972  12554-07-3
+  974  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54589,7 +54658,7 @@ S T A T E  O F  N E W  Y O R K
   testing  and  environmental  impact  statements  for  transportation
   projects.  Project  costs funded from this appropriation may include
   but shall not be limited to construction,  reconstruction,  recondi-
-  973  12554-07-3
+  975  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54647,7 +54716,7 @@ S T A T E  O F  N E W  Y O R K
   ==============
  
  By chapter 55, section 1, of the laws of 2007:
-  974  12554-07-3
+  976  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54705,7 +54774,7 @@ S T A T E  O F  N E W  Y O R K
  Contractual services ............. 7,231,000
  Equipment ........................ 3,582,000
   --------------
-  975  12554-07-3
+  977  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54762,7 +54831,7 @@ S T A T E  O F  N E W  Y O R K
   common purpose and may be interchanged without limitation subject to
   the approval of the director of the budget (17020622) (53164) ......
   667,502,000 ....................................... (re. $2,198,000)
-  976  12554-07-3
+  978  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54818,7 +54887,7 @@ S T A T E  O F  N E W  Y O R K
   common purpose and may be interchanged without limitation subject to
   the  approval  of  the  director  of  the  budget (17020522) (53164)
   ...  ... 604,125,000 ............................. (re. $2,158,000)
-  977  12554-07-3
+  979  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54876,7 +54945,7 @@ S T A T E  O F  N E W  Y O R K
   ities for which the responsibility is vested with the state  depart-
   ment  of  transportation  including  work  appurtenant and ancillary
   thereto, the cost of administrative services of  the  department  of
-  978  12554-07-3
+  980  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54933,7 +55002,7 @@ S T A T E  O F  N E W  Y O R K
   supervision;  and  appraisals,  surveys,  testing  and environmental
   impact statements for transportation projects. Project costs  funded
   from  this  appropriation  may  include  but shall not be limited to
-  979  12554-07-3
+  981  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -54991,7 +55060,7 @@ S T A T E  O F  N E W  Y O R K
   ment of transportation and the cost of services provided by  private
   firms,  including  but  not  limited  to the preparation of designs,
   plans, specifications and  estimates;  construction  management  and
-  980  12554-07-3
+  982  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55049,7 +55118,7 @@ S T A T E  O F  N E W  Y O R K
   the federal aid and state matching funds saved as a  result  of  the
   use  of  non-federal  aid  funds  for local bridge projects are made
   available for bridge projects on the state highway system. The total
-  981  12554-07-3
+  983  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55105,7 +55174,7 @@ S T A T E  O F  N E W  Y O R K
   sonal  services,  fringe  benefits  and  the  contractual  services
   provided by private firms (17049922) (53261) .......................
   346,818,000 ......................................... (re. $596,000)
-  982  12554-07-3
+  984  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55163,7 +55232,7 @@ S T A T E  O F  N E W  Y O R K
   bridge projects from this appropriation shall not exceed  $2,500,000
   in state fiscal year 1997-98 (17029722) (53164) ....................
   915,748,000 ....................................... (re. $4,251,000)
-  983  12554-07-3
+  985  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
 
@@ -55221,7 +55290,7 @@ S T A T E  O F  N E W  Y O R K
   the  federal  aid  and state matching funds saved as a result of the
   use of non-federal aid funds for  local  bridge  projects  are  made
   available for bridge projects on the state highway system. The total
-  984  12554-07-3
+  986  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55279,7 +55348,7 @@ S T A T E  O F  N E W  Y O R K
   funds  for  such  local bridge projects would not be cost effective.
   Federal aid and state matching funds saved as a result of the use of
   non-federal aid funds for local bridge projects shall be made avail-
-  985  12554-07-3
+  987  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55337,7 +55406,7 @@ S T A T E  O F  N E W  Y O R K
   For  capital  project  management  and  traffic  and safety, including
   personal services, nonpersonal services, fringe  benefits,  and  the
   contract services provided by private firms (53263).
-  986  12554-07-3
+  988  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55394,7 +55463,7 @@ S T A T E  O F  N E W  Y O R K
   For  capital  project  management  and  traffic  and safety, including
   personal services, nonpersonal services, fringe  benefits,  and  the
   contract services provided by private firms (53263).
-  987  12554-07-3
+  989  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55452,7 +55521,7 @@ S T A T E  O F  N E W  Y O R K
   personal services, nonpersonal services,  fringe  benefits  and  the
   contract  services  provided  by  private  firms  (17H21130) (53263)
   58,657,000 .......................................... (re. $259,000)
-  988  12554-07-3
+  990  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55509,7 +55578,7 @@ S T A T E  O F  N E W  Y O R K
   Interchange and Transfer Authority and the IT Interchange and Trans-
   fer  Authority  as  defined  in  the 2021-22 state fiscal year state
   operations appropriation for the  budget  division  program  of  the
-  989  12554-07-3
+  991  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55567,7 +55636,7 @@ S T A T E  O F  N E W  Y O R K
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (53262).
   Personal service (17A11830) (50000) ... 31,604,000 .... (re. $788,000)
-  990  12554-07-3
+  992  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55623,7 +55692,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (17A91530) (58850) ... 790,000 .......... (re. $11,000)
  
  By chapter 54, section 1, of the laws of 2014:
-  991  12554-07-3
+  993  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55681,7 +55750,7 @@ S T A T E  O F  N E W  Y O R K
  Temporary service .................. 824,000
  Holiday/overtime compensation .... 1,261,000
   --------------
-  992  12554-07-3
+  994  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55739,7 +55808,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 55, section 1, of the laws of 2009, as amended by chapter 55,
   section 1, of the laws of 2010:
-  993  12554-07-3
+  995  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55797,7 +55866,7 @@ S T A T E  O F  N E W  Y O R K
   10,741,000 ....................................... (re. $10,741,000)
   Fringe benefits (17E82230) (60090) ...................................
   156,139,000 ..................................... (re. $104,049,000)
-  994  12554-07-3
+  996  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55855,7 +55924,7 @@ S T A T E  O F  N E W  Y O R K
   operations  appropriation  for  the  budget  division program of the
   division of the budget, are deemed fully incorporated herein  and  a
   part of this appropriation as if fully stated (53166).
-  995  12554-07-3
+  997  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55913,7 +55982,7 @@ S T A T E  O F  N E W  Y O R K
   testing,  and  environmental  impact  statements  for transportation
   projects, and for suballocation of $575,000 to  the  office  of  the
   inspector general.
-  996  12554-07-3
+  998  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -55970,7 +56039,7 @@ S T A T E  O F  N E W  Y O R K
   199,520,000 ...................................... (re. $28,698,000)
  
  By chapter 55, section 1, of the laws of 2016:
-  997  12554-07-3
+  999  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56028,7 +56097,7 @@ S T A T E  O F  N E W  Y O R K
   services, and fringe benefits, including, but not  limited  to,  the
   preparation  of  designs,  plans,  specifications  and  estimates;
   construction management and supervision;  and  appraisals,  surveys,
-  998  12554-07-3
+  1000  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56086,7 +56155,7 @@ S T A T E  O F  N E W  Y O R K
   services, fringe benefits and  the  contract  services  provided  by
   private  firms,  including,  but  not limited to, the preparation of
   designs, plans, specifications and estimates;  construction  manage-
-  999  12554-07-3
+  1001  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56143,7 +56212,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Amount available for capital
   projects ................... 168,968,000
-  1000  12554-07-3
+  1002  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56201,7 +56270,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   175,000
   --------------
-  1001  12554-07-3
+  1003  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56258,7 +56327,7 @@ S T A T E  O F  N E W  Y O R K
  Travel ............................. 928,000
  Contractual services ............. 6,367,000
  Equipment ........................ 1,995,000
-  1002  12554-07-3
+  1004  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56316,7 +56385,7 @@ S T A T E  O F  N E W  Y O R K
   private firms, including, but not limited  to,  the  preparation  of
   designs,  plans,  specifications and estimates; construction manage-
   ment and supervision; and appraisals, surveys, testing, and environ-
-  1003  12554-07-3
+  1005  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56372,7 +56441,7 @@ S T A T E  O F  N E W  Y O R K
   vision;  and appraisals, surveys, testing,
   and environmental  impact  statements  for
   transportation projects:
-  1004  12554-07-3
+  1006  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56429,7 +56498,7 @@ S T A T E  O F  N E W  Y O R K
  For  suballocation of $192,000
   to the office of the inspec-
   tor general for services and
-  1005  12554-07-3
+  1007  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56486,7 +56555,7 @@ S T A T E  O F  N E W  Y O R K
   services,  fringe  benefits  and  the  contract services provided by
   private firms, including, but not limited  to,  the  preparation  of
   designs,  plans,  specifications and estimates; construction manage-
-  1006  12554-07-3
+  1008  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56538,7 +56607,7 @@ S T A T E  O F  N E W  Y O R K
   Amount  available  for
   personal service ............. 1,000,000
   --------------
-  1007  12554-07-3
+  1009  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -56596,7 +56665,7 @@ S T A T E  O F  N E W  Y O R K
   part of this appropriation as if fully stated (53264).
   Personal service (17R12230) (50000) ..................................
   15,165,000 ........................................ (re. $9,874,000)
-  1008  12554-07-3
+  1010  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -56653,7 +56722,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (17R41930) (57050) ... 302,000 .... (re. $180,000)
   Fringe benefits (17R81930) (60090) ... 7,974,000 .... (re. $1,249,000)
   Indirect costs (17R91930) (58850) ... 491,000 .......... (re. $79,000)
-  1009  12554-07-3
+  1011  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -56711,7 +56780,7 @@ S T A T E  O F  N E W  Y O R K
   private firms (53264).
   Nonpersonal service (17R41530) (57050) ... 174,000 ...... (re. $4,000)
   Fringe benefits (17R81530) (60090) ... 6,340,000 ...... (re. $306,000)
-  1010  12554-07-3
+  1012  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56768,7 +56837,7 @@ S T A T E  O F  N E W  Y O R K
   For real estate services,  including  personal  services,  nonpersonal
   services,  fringe  benefits  and  the  contract services provided by
   private firms (17H31030) (53264) ... 20,183,000 ... (re. $2,045,000)
-  1011  12554-07-3
+  1013  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56826,7 +56895,7 @@ S T A T E  O F  N E W  Y O R K
   Indirect costs (170917PT) (58850) ... 191,000 .......... (re. $30,000)
  
  By chapter 55, section 1, of the laws of 2016:
-  1012  12554-07-3
+  1014  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
 
@@ -56880,7 +56949,7 @@ S T A T E  O F  N E W  Y O R K
   Amount  available  for
   personal service ............. 5,862,000
   --------------
-  1013  12554-07-3
+  1015  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56938,7 +57007,7 @@ S T A T E  O F  N E W  Y O R K
   division  of  the budget, are deemed fully incorporated herein and a
   part of this appropriation as if fully stated (54263).
   Personal service (172115PT) (50000) ... 3,175,000 ... (re. $1,279,000)
-  1014  12554-07-3
+  1016  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -56995,7 +57064,7 @@ S T A T E  O F  N E W  Y O R K
   Nonpersonal service (171414PT) (57050) ... 66,000 ...... (re. $19,000)
   Fringe benefits (171814PT) (60090) ... 399,000 ......... (re. $96,000)
   Indirect costs (171914PT) (58850) ... 19,000 ............ (re. $4,000)
-  1015  12554-07-3
+  1017  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -57053,7 +57122,7 @@ S T A T E  O F  N E W  Y O R K
   palities, the amount distributed pursuant to section 16  of  chapter
   329  of  the  laws  of  1991 shall be deemed to be $129,156,000. The
   amount distributed pursuant to section 16-a of chapter  329  of  the
-  1016  12554-07-3
+  1018  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57111,7 +57180,7 @@ S T A T E  O F  N E W  Y O R K
   For capital grants to cities, towns and villages for the reimbursement
   of eligible capital costs of local highway and bridge projects with-
   in such municipality.
-  1017  12554-07-3
+  1019  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57169,7 +57238,7 @@ S T A T E  O F  N E W  Y O R K
   computing  allocations  to  municipalities,  the  amount distributed
   pursuant to section 16 of chapter 329 of the laws of 1991  shall  be
   deemed to be $15,844,000. The amount distributed pursuant to section
-  1018  12554-07-3
+  1020  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57227,7 +57296,7 @@ S T A T E  O F  N E W  Y O R K
   chapter 329 of the laws of 1991, as added by section  9  of  chapter
   330  of  the laws of 1991, as amended. The department of transporta-
   tion shall provide such information to the municipalities as may  be
-  1019  12554-07-3
+  1021  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57285,7 +57354,7 @@ S T A T E  O F  N E W  Y O R K
   funding level to be deemed distributed to  each  municipality  under
   this  paragraph  shall be reduced in equal proportion. To the extent
   that the total of remaining payment  allocations  calculated  herein
-  1020  12554-07-3
+  1022  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57343,7 +57412,7 @@ S T A T E  O F  N E W  Y O R K
   The sum of $379,300,000 to counties, cities, towns  and  villages  for
   reimbursement of eligible costs of local highway and bridge projects
   pursuant to sections 16 and 16-a of chapter 329 of the laws of 1991,
-  1021  12554-07-3
+  1023  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57401,7 +57470,7 @@ S T A T E  O F  N E W  Y O R K
   allocations to municipalities, the amount  distributed  pursuant  to
   section  16-a  of chapter 329 of the laws of 1991 shall be deemed to
   be $65,000,000. To the extent that the total of payment  allocations
-  1022  12554-07-3
+  1024  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57459,7 +57528,7 @@ S T A T E  O F  N E W  Y O R K
   special  law,  the  amounts  deemed  distributed  in accordance with
   section 16 of chapter 329 of the laws of 1991 shall be  adjusted  so
   that such amounts will not be less than 13.421 percent of the "fund-
-  1023  12554-07-3
+  1025  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57517,7 +57586,7 @@ S T A T E  O F  N E W  Y O R K
   pursuant to sections 16 and 16-a of chapter 329 of the laws of 1991,
   as  added  by  section  9  of  chapter  330  of the laws of 1991, as
   amended. For  the  purposes  of  computing  allocations  to  munici-
-  1024  12554-07-3
+  1026  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57574,7 +57643,7 @@ S T A T E  O F  N E W  Y O R K
   calculated  herein  varies  from $65,000,000, the payment amounts to
   each locality shall be adjusted by a uniform percentage so that  the
   total payments equal $65,000,000.
-  1025  12554-07-3
+  1027  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57632,7 +57701,7 @@ S T A T E  O F  N E W  Y O R K
   way law for each such municipality. In order to achieve  the  objec-
   tives  of  section  16  of  chapter  329 of the laws of 1991, to the
   extent necessary, the amounts in excess of  13.421  percent  of  the
-  1026  12554-07-3
+  1028  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57690,7 +57759,7 @@ S T A T E  O F  N E W  Y O R K
   deemed to be $19,460,000. The amount distributed pursuant to section
   16-a of chapter 329 of the laws  of  1991  shall  be  deemed  to  be
   $39,337,000.  Notwithstanding  the  provisions  of  any  general  or
-  1027  12554-07-3
+  1029  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57748,7 +57817,7 @@ S T A T E  O F  N E W  Y O R K
   palities,  the  amount distributed pursuant to section 16 of chapter
   329 of the laws of 1991 shall be  deemed  to  be  $125,540,000.  The
   amount  distributed  pursuant  to section 16-a of chapter 329 of the
-  1028  12554-07-3
+  1030  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57806,7 +57875,7 @@ S T A T E  O F  N E W  Y O R K
   allocations  to  municipalities,  the amount distributed pursuant to
   section 16-a of chapter 329 of the laws of 1991 shall be  deemed  to
   be  $40,000,000. To the extent that the total of payment allocations
-  1029  12554-07-3
+  1031  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57864,7 +57933,7 @@ S T A T E  O F  N E W  Y O R K
   investment  and  jobs  act  (IIJA)  or bipartisan infrastructure law
   (BIL) and any successor legislation (17012212) (54288) .............
   500,000,000 ..................................... (re. $499,998,000)
-  1030  12554-07-3
+  1032  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57922,7 +57991,7 @@ S T A T E  O F  N E W  Y O R K
   provisions  of  the  rebuild New York through transportation infras-
   tructure renewal bond act of 1983, notwithstanding any  inconsistent
   provisions of law, and in accordance with the schedule shown below.
-  1031  12554-07-3
+  1033  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -57980,7 +58049,7 @@ S T A T E  O F  N E W  Y O R K
   by the director of the budget, such repayment agreement to include a
   repayment  schedule  which  states  the  date  or dates on which the
   authority will be notified of advance payments made and the date  or
-  1032  12554-07-3
+  1034  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58038,7 +58107,7 @@ S T A T E  O F  N E W  Y O R K
   the budget notification of any such payment. Such amount or  amounts
   so withheld by the state comptroller shall be used for the repayment
   of the state advances hereby authorized. When such amount or amounts
-  1033  12554-07-3
+  1035  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58096,7 +58165,7 @@ S T A T E  O F  N E W  Y O R K
   preservation  and  development fund pursuant to the energy conserva-
   tion through improved transportation bond act  of  nineteen  hundred
   seventy-nine  for payment to the capital projects fund for disburse-
-  1034  12554-07-3
+  1036  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58154,7 +58223,7 @@ S T A T E  O F  N E W  Y O R K
   filed with the state comptroller, the chairman of the senate finance
   committee,  and  the chairman of the assembly ways and means commit-
   tee. Such certificate may be amended from time to time by the direc-
-  1035  12554-07-3
+  1037  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
 
@@ -58212,7 +58281,7 @@ S T A T E  O F  N E W  Y O R K
   portation fund until a certificate of approval of availability shall
   have been issued by the director of the budget, and a copy  of  such
   certificate of approval filed with the state comptroller, the chair-
-  1036  12554-07-3
+  1038  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58270,7 +58339,7 @@ S T A T E  O F  N E W  Y O R K
   tation,  including  fringe  benefits,  and  the  contract  services
   provided by private firms, for activities including but not  limited
   to  the preparation of designs, plans, specifications and estimates;
-  1037  12554-07-3
+  1039  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58326,7 +58395,7 @@ S T A T E  O F  N E W  Y O R K
   with a common purpose and may  be  interchanged  without  limitation
   subject to the approval of the director of the division of the budg-
   et.
-  1038  12554-07-3
+  1040  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58384,7 +58453,7 @@ S T A T E  O F  N E W  Y O R K
   ant to such agreement to the credit of the capital projects fund.
   For  80 percent of the costs of capital local bridge projects advanced
   pursuant to the provisions of the accelerated capacity and transpor-
-  1039  12554-07-3
+  1041  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58442,7 +58511,7 @@ S T A T E  O F  N E W  Y O R K
   construction  management  and  supervision; and appraisals, surveys,
   testing  and  environmental  impact  statements  for  transportation
   projects.
-  1040  12554-07-3
+  1042  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58499,7 +58568,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Mass Transit Purpose
-  1041  12554-07-3
+  1043  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58557,7 +58626,7 @@ S T A T E  O F  N E W  Y O R K
   ment, reconditioning and  preservation  of  rail  freight  and  rail
   passenger  facilities, pursuant to the provisions of section 14-j of
   the transportation law, including, but not limited  to,  preparation
-  1042  12554-07-3
+  1044  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
 
@@ -58614,7 +58683,7 @@ S T A T E  O F  N E W  Y O R K
   Intermodal Center ............................ 1,500,000
  For payment to the  Onondaga  County  Indus-
   trial  Development Agency for services and
-  1043  12554-07-3
+  1045  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58672,7 +58741,7 @@ S T A T E  O F  N E W  Y O R K
   required  or  expected  to  be  required in connection therewith, of
   airports and aviation facilities,  equipment  and  related  projects
   exclusive of those airports and facilities under the jurisdiction of
-  1044  12554-07-3
+  1046  12554-08-3
 
   DEPARTMENT OF TRANSPORTATION
  
@@ -58730,7 +58799,7 @@ S T A T E  O F  N E W  Y O R K
   planning  and  design,  construction,  reconstruction,  replacement,
   improvement,  reconditioning,  rehabilitation  and  preservation,
   including the acquisition of real  property  and  interests  therein
-  1045  12554-07-3
+  1047  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58788,7 +58857,7 @@ S T A T E  O F  N E W  Y O R K
   tion.
   No  part of this appropriation shall be made available for the payment
   of liabilities incurred prior to the approval  of  the  rebuild  and
-  1046  12554-07-3
+  1048  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58846,7 +58915,7 @@ S T A T E  O F  N E W  Y O R K
   of:  the  canal  system  and appurtenances thereto; moveable bridges
   that cross over the canal  system;  and  pedestrian  and/or  bicycle
   trails, pathways and bridges serving transportation needs. Costs may
-  1047  12554-07-3
+  1049  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58904,7 +58973,7 @@ S T A T E  O F  N E W  Y O R K
   of  designs,  plans,  specifications  and  estimates;  construction
   management and supervision; and  appraisals,  surveys,  testing  and
   environmental impact statements for transportation projects.
-  1048  12554-07-3
+  1050  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -58962,7 +59031,7 @@ S T A T E  O F  N E W  Y O R K
   ments either on or off the state highway system; and the improvement
   and/or elimination of highway-railroad grade crossings either on  or
   off the state highway system.
-  1049  12554-07-3
+  1051  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59020,7 +59089,7 @@ S T A T E  O F  N E W  Y O R K
   dedicated highway and bridge trust fund of the department of  trans-
   portation,  including  but not limited to personal services, nonper-
   sonal services, fringe benefits, and the contract services  provided
-  1050  12554-07-3
+  1052  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59077,7 +59146,7 @@ S T A T E  O F  N E W  Y O R K
   designs,  plans,  specifications and estimates; construction manage-
   ment and supervision; and appraisals, surveys, testing and  environ-
   mental impact statements for transportation projects.
-  1051  12554-07-3
+  1053  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59134,7 +59203,7 @@ S T A T E  O F  N E W  Y O R K
   (170509MT) (53299) ... 10,000,000 ................. (re. $2,423,000)
  
  By chapter 55, section 1, of the laws of 2008:
-  1052  12554-07-3
+  1054  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59192,7 +59261,7 @@ S T A T E  O F  N E W  Y O R K
   facilities  exclusive  of  those  under the jurisdiction of the port
   authority of New York and  New  Jersey  or  the  canal  corporation.
   Costs  may  include  highways and bridges either on or off the state
-  1053  12554-07-3
+  1055  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59250,7 +59319,7 @@ S T A T E  O F  N E W  Y O R K
  By chapter 55, section 1, of the laws of 2005:
   For the costs, pursuant to the provisions of the rebuild and renew New
   York transportation bond act of 2005 and article 22 of the transpor-
-  1054  12554-07-3
+  1056  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59308,7 +59377,7 @@ S T A T E  O F  N E W  Y O R K
   Costs  may  include  highways  and  bridges either on or off the state
   highway system necessary or reasonably expected to be necessary as a
   project component or incidental  to  projects  otherwise  authorized
-  1055  12554-07-3
+  1057  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59366,7 +59435,7 @@ S T A T E  O F  N E W  Y O R K
   therein required or expected to be required in connection therewith,
   of:  intercity passenger rail and freight rail facilities and equip-
   ment; ports, marine terminals and marine  transportation  facilities
-  1056  12554-07-3
+  1058  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59424,7 +59493,7 @@ S T A T E  O F  N E W  Y O R K
   For the costs, pursuant to the provisions of the rebuild and renew New
   York transportation bond act of 2005 and article 22 of the transpor-
   tation law, of capital projects to  be  reimbursed  from  bond  fund
-  1057  12554-07-3
+  1059  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59481,7 +59550,7 @@ S T A T E  O F  N E W  Y O R K
   of  the  rebuild  New  York  through  transportation  infrastructure
   renewal bond act of 1983 for payment from the port, marine terminal,
   canal and waterway account.
-  1058  12554-07-3
+  1060  12554-08-3
  
   DEPARTMENT OF TRANSPORTATION
  
@@ -59538,7 +59607,7 @@ S T A T E  O F  N E W  Y O R K
   the provisions  of  the  rebuild  New  York  through  transportation
   infrastructure renewal bond act of 1983 (71A58810) (80922) .........
   116,580,000 ...................................... (re. $25,712,000)
-  1059  12554-07-3
+  1061  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59596,7 +59665,7 @@ S T A T E  O F  N E W  Y O R K
   ated for the regional economic development
   council initiative. Funding will be pursu-
   ant to a plan developed by the chief exec-
-  1060  12554-07-3
+  1062  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59654,7 +59723,7 @@ S T A T E  O F  N E W  Y O R K
  The sum of $19,000,000 is  hereby  appropri-
   ated  for  services  and  expenses for the
   redevelopment of Monument  Square  in  the
-  1061  12554-07-3
+  1063  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59711,7 +59780,7 @@ S T A T E  O F  N E W  Y O R K
   Miscellaneous Capital Projects Fund
   New York Racing Capital Improvement Fund
   Economic Development Purpose
-  1062  12554-07-3
+  1064  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59745,7 +59814,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated or transferred to any depart-
   ment,  agency,  or  public  authority
   (91BM2309) ................................. 455,000,000
-  1063  12554-07-3
+  1065  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59803,7 +59872,7 @@ S T A T E  O F  N E W  Y O R K
   ment  in  infrastructure  to  provide  high-speed internet access to
   municipalities, rural  broadband  deployment,  right-of-way  access,
   last-mile  and middle-mile support, cellular siting, digital equity,
-  1064  12554-07-3
+  1066  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59860,7 +59929,7 @@ S T A T E  O F  N E W  Y O R K
   for  the  Pace University Performing Arts Center. Funds appropriated
   herein shall be for, including but not limited to,  the  acquisition
   of  real property, preparation of plans, design, construction, reno-
-  1065  12554-07-3
+  1067  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59917,7 +59986,7 @@ S T A T E  O F  N E W  Y O R K
   The  sum  of  $8,000,000  is  hereby  appropriated  for  services  and
   expenses, loans, and grants, related to the market New York program,
   including but not limited  to,  projects  that  enhance  or  promote
-  1066  12554-07-3
+  1068  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59975,7 +60044,7 @@ S T A T E  O F  N E W  Y O R K
   Notwithstanding any inconsistent provision of law,  for  services  and
   expenses,  loans, grants, and costs associated with program adminis-
   tration, of projects and purposes authorized  below,  including  the
-  1067  12554-07-3
+  1069  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -59997,7 +60066,7 @@ S T A T E  O F  N E W  Y O R K
   Economic  Development  Fund.  Funds appropriated herein shall be for
   services and expenses, loans, and grants, related to  the  New  York
   Works Economic Development Fund (91101909) (47006) .................
-  220,000,000 ..................................... (re. $214,715,000)
+  220,000,000 ..................................... (re. $214,391,000)
   The  sum  of  $150,000,000  is  hereby  appropriated  for the regional
   economic development council initiative. Funding will be pursuant to
   a plan developed by the chief executive  officer  of  the  New  York
@@ -60033,7 +60102,7 @@ S T A T E  O F  N E W  Y O R K
   services  and  expenses,  loans, and grants, related to the New York
   Works Economic Development Fund, provided that  up  to  $425,000,000
   shall  be  available from this appropriation for the construction of
-  1068  12554-07-3
+  1070  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60091,7 +60160,7 @@ S T A T E  O F  N E W  Y O R K
   The  sum  of  $8,000,000  is  hereby  appropriated  for  services  and
   expenses, loans, and grants, related to the market New York program,
   including  but  not  limited  to,  projects  that enhance or promote
-  1069  12554-07-3
+  1071  12554-08-3
 
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60149,7 +60218,7 @@ S T A T E  O F  N E W  Y O R K
   $45,000,000 shall be available from  this  appropriation  for  reno-
   vations  to  LIRR  stations, including but no limited to Great Neck,
   Valley Stream,  Merrick,  Bellmore,  Baldwin,  Deer  Park,  Syosset,
-  1070  12554-07-3
+  1072  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60207,7 +60276,7 @@ S T A T E  O F  N E W  Y O R K
   15,000,000 ....................................... (re. $15,000,000)
   The  sum  of  $25,000,000  is hereby appropriated for the NY CUNY 2020
   challenge grant program, notwithstanding any inconsistent  provision
-  1071  12554-07-3
+  1073  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60264,7 +60333,7 @@ S T A T E  O F  N E W  Y O R K
   Cluster Program. Such moneys will be awarded by the New  York  state
   urban  development  corporation at its discretion (91161609) (47013)
   ... 30,000,000 ................................... (re. $13,806,000)
-  1072  12554-07-3
+  1074  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60322,7 +60391,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ....................... 35,000,000
   ==============
-  1073  12554-07-3
+  1075  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60379,7 +60448,7 @@ S T A T E  O F  N E W  Y O R K
   expenses  of  the  empire state economic development fund, including
   the payment of liabilities incurred prior to April 1, 2013. All or a
   portion of the funds appropriated  hereby  may  be  suballocated  or
-  1074  12554-07-3
+  1076  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60437,7 +60506,7 @@ S T A T E  O F  N E W  Y O R K
   of  law, shall be available to all colleges, universities and commu-
   nity colleges as defined by section 350 of the Education Law, except
   that no funds shall be made available from  this  appropriation  for
-  1075  12554-07-3
+  1077  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60494,7 +60563,7 @@ S T A T E  O F  N E W  Y O R K
   appropriated  hereby  may  be  suballocated  or  transferred  to any
   department, agency, or public authority (91021409) (44409) .........
   30,000,000 ........................................ (re. $5,749,000)
-  1076  12554-07-3
+  1078  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60551,7 +60620,7 @@ S T A T E  O F  N E W  Y O R K
   corporation for approval ...... 75,000,000
  Renovation  and  expansion  of
   MacArthur airport ............. 20,000,000
-  1077  12554-07-3
+  1079  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60607,7 +60676,7 @@ S T A T E  O F  N E W  Y O R K
   hereby may be suballocated or transferred to any department, agency,
   or public authority (91100809) (47364) .............................
   115,000,000 ....................................... (re. $5,440,000)
-  1078  12554-07-3
+  1080  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60665,7 +60734,7 @@ S T A T E  O F  N E W  Y O R K
   executive officer of the New York  state  urban  development  corpo-
   ration  of  a  business  plan that identifies regionally significant
   projects, as  defined  in  economic  development  law,  article  17,
-  1079  12554-07-3
+  1081  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60723,7 +60792,7 @@ S T A T E  O F  N E W  Y O R K
   Dedicated Infrastructure Investment Fund
   Infrastructure Investment Account - 33050
   ECONOMIC DEVELOPMENT PURPOSE
-  1080  12554-07-3
+  1082  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60781,7 +60850,7 @@ S T A T E  O F  N E W  Y O R K
   trials,  health  robotics  and veterinary science. Eligible costs of
   such initiative may include but not be limited to laboratory  space,
   equipment,  technology,  research  and  development, venture capital
-  1081  12554-07-3
+  1083  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60839,7 +60908,7 @@ S T A T E  O F  N E W  Y O R K
   Capital Projects Funds - Other
   Capital Projects Fund - 30000
   Economic Development Purpose
-  1082  12554-07-3
+  1084  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60897,7 +60966,7 @@ S T A T E  O F  N E W  Y O R K
   Economic Development Purpose
  
  Buffalo Regional Innovation Cluster
-  1083  12554-07-3
+  1085  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -60954,7 +61023,7 @@ S T A T E  O F  N E W  Y O R K
  
  By chapter 54, section 1, of the laws of 2014, as amended by chapter 54,
   section 1, of the laws of 2018:
-  1084  12554-07-3
+  1086  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61011,7 +61080,7 @@ S T A T E  O F  N E W  Y O R K
   Regional Development Purpose
  
  Community Revitalization Projects
-  1085  12554-07-3
+  1087  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61069,7 +61138,7 @@ S T A T E  O F  N E W  Y O R K
   ment projects including but not limited to those listed in the sche-
   dule  below,  subject to a plan submitted by the chairman of the New
   York state urban development corporation and approved by the  direc-
-  1086  12554-07-3
+  1088  12554-08-3
 
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61127,7 +61196,7 @@ S T A T E  O F  N E W  Y O R K
   Innovation and Excellence in
   Homeland Security ............. 25,000,000
  Renaissance  Square  Project
-  1087  12554-07-3
+  1089  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61185,7 +61254,7 @@ S T A T E  O F  N E W  Y O R K
  Fredonia  Agricultural  Exper-
   imental  Station  -  Cornell
   University ..................... 3,359,000
-  1088  12554-07-3
+  1090  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61237,7 +61306,7 @@ S T A T E  O F  N E W  Y O R K
  State University of  New  York
   at  New Paltz-Old Main Reno-
   vation ......................... 3,000,000
-  1089  12554-07-3
+  1091  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61294,7 +61363,7 @@ S T A T E  O F  N E W  Y O R K
   pilot program. Such funds  appropriated  shall  be  suballocated  or
   transferred  to  New  York energy research and development authority
   (911006A3) (47378) ... 15,000,000 ................ (re. $15,000,000)
-  1090  12554-07-3
+  1092  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61350,7 +61419,7 @@ S T A T E  O F  N E W  Y O R K
   (INDEX) ....................... 75,000,000
  New  York  State  Veterinary
   Diagnostic Laboratory ......... 50,000,000
-  1091  12554-07-3
+  1093  12554-08-3
  
   NEW YORK STATE URBAN DEVELOPMENT CORPORATION
  
@@ -61388,7 +61457,7 @@ S T A T E  O F  N E W  Y O R K
   or a portion of the funds appropriated hereby may be suballocated or
   transferred  to  any  department,  agency,  or  public  authority
   (910115UR) (43502) ... 1,500,000,000 ............ (re. $841,867,000)
-  1092  12554-07-3
+  1094  12554-08-3
  
   DEPARTMENT OF VETERANS' SERVICES
  
@@ -61427,7 +61496,7 @@ S T A T E  O F  N E W  Y O R K
   construction, and  maintenance  and  oper-
   ations  of  the state's veterans' cemetery
   (VEFC2303) ................................... 2,000,000
-  1093  12554-07-3
+  1095  12554-08-3
  
   [DIVISION] DEPARTMENT OF VETERANS' SERVICES
  
@@ -61485,7 +61554,7 @@ S T A T E  O F  N E W  Y O R K
   GRANTS  ADMINISTERED  BY THE DORMITORY AUTHORITY OF THE STATE OF NEW
   YORK FOR PAYMENT OF CAPITAL COSTS OF  DESIGN,  CONSTRUCTION,  RECON-
   STRUCTION,  REHABILITATION,  AND  EQUIPMENT  FOR FACILITIES OWNED OR
-  1094  12554-07-3
+  1096  12554-08-3
  
   [DIVISION] DEPARTMENT OF VETERANS' SERVICES
  
@@ -61502,7 +61571,7 @@ S T A T E  O F  N E W  Y O R K
   hereby appropriated may be suballocated or transferred to the dormi-
   tory authority of the state of New York for such purpose  (VENP2208)
   (54812) ... 5,000,000 ............................. (re. $5,000,000)
-  1095  12554-07-3
+  1097  12554-08-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -61537,7 +61606,7 @@ S T A T E  O F  N E W  Y O R K
   ized  services  fund of the New York state
   office  of  general  services  (VSSF2303)
   (19920) ...................................... 1,500,000
-  1096  12554-07-3
+  1098  12554-08-3
  
   OFFICE OF VICTIM SERVICES
  
@@ -61566,7 +61635,7 @@ S T A T E  O F  N E W  Y O R K
   by  the  design and construction account of the centralized services
   fund of the New York state office  of  general  services  (VSSF2103)
   (19920) ... 4,300,000 ............................... (re. $744,000)
-  1097  12554-07-3
+  1099  12554-08-3
  
   WORKERS' COMPENSATION BOARD
  
@@ -61595,7 +61664,7 @@ S T A T E  O F  N E W  Y O R K
   For  services  and expenses related to the acquisition and development
   of technology, including but not limited to equipment, software  and
   services (35011508) (55209) ... 60,000,000 ....... (re. $20,676,000)
-  1098  12554-07-3
+  1100  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61653,7 +61722,7 @@ S T A T E  O F  N E W  Y O R K
   York state council on the arts in  consul-
   tation with the dormitory authority of the
   state  of New York. The guidelines for the
-  1099  12554-07-3
+  1101  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61680,7 +61749,7 @@ S T A T E  O F  N E W  Y O R K
   suballocated or transferred to any depart-
   ment,  agency,  or  public  authority
   (ACNP2308) (85021) .......................... 20,000,000
-  1100  12554-07-3
+  1102  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61738,7 +61807,7 @@ S T A T E  O F  N E W  Y O R K
   including up to $400,000 in costs associated with  program  adminis-
   tration  to  eligible  nonprofit arts and cultural organizations for
   the arts and cultural facilities improvement program.  Such  program
-  1101  12554-07-3
+  1103  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61796,7 +61865,7 @@ S T A T E  O F  N E W  Y O R K
   available through a competitive process to be determined exclusively
   by the New York state council on the arts. The determination of this
   competitive  process and guidelines shall be limited to the New York
-  1102  12554-07-3
+  1104  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61854,7 +61923,7 @@ S T A T E  O F  N E W  Y O R K
   guidelines for the program and competitive process shall also ensure
   that  such  funding  is made available for uses throughout the state
   and takes into account regional distribution, and shall  be  subject
-  1103  12554-07-3
+  1105  12554-08-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61873,7 +61942,7 @@ S T A T E  O F  N E W  Y O R K
   the  funds appropriated herein may be suballocated or transferred to
   any department, agency, or public authority (ACNP1708) (85021) .....
   10,000,000 .......................................... (re. $771,000)
-  1104  12554-07-3
+  1106  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61907,7 +61976,7 @@ S T A T E  O F  N E W  Y O R K
   or a portion of the funds appropriated hereby may be suballocated or
   transferred  to  any  department,  agency,  or  public  authority
   (91CF97A3) (80551) ... 423,500,000 ................ (re. $2,583,000)
-  1105  12554-07-3
+  1107  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -61965,7 +62034,7 @@ S T A T E  O F  N E W  Y O R K
   in  cases  involving  the  acquisition  of
   non-fixed equipment  and  capital  assets,
   including  vehicles, with a useful life of
-  1106  12554-07-3
+  1108  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62012,7 +62081,7 @@ S T A T E  O F  N E W  Y O R K
   other  state  department, agency or public
   benefit  corporation,  to  achieve  this
   purpose (CR002309) (85106) ................. 385,000,000
-  1107  12554-07-3
+  1109  12554-08-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62070,7 +62139,7 @@ S T A T E  O F  N E W  Y O R K
   assembly,  and president pro temp of the senate. Notwithstanding any
   provision of law to the contrary, funds appropriated herein  may  be
   (i)  interchanged,  (ii)  transferred from this appropriation to any
-  1108  12554-07-3
+  1110  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62084,7 +62153,7 @@ S T A T E  O F  N E W  Y O R K
   state  department,  agency or public benefit corporation, to achieve
   this purpose (CR002209) (85106) ....................................
   385,000,000 ..................................... (re. $385,000,000)
-  1109  12554-07-3
+  1111  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62142,7 +62211,7 @@ S T A T E  O F  N E W  Y O R K
   Program ..................................... 62,500,000
   --------------
   243,325,000
-  1110  12554-07-3
+  1112  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62200,7 +62269,7 @@ S T A T E  O F  N E W  Y O R K
   Program ...................... 150,000,000
   --------------
   Total ........................ 589,700,000
-  1111  12554-07-3
+  1113  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62209,7 +62278,7 @@ S T A T E  O F  N E W  Y O R K
   CAPITAL PROJECTS - REAPPROPRIATIONS  2023-24
  
   ==============
-  1112  12554-07-3
+  1114  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62265,7 +62334,7 @@ S T A T E  O F  N E W  Y O R K
   or  transferred  to  any  department,  agency,  or  public authority
   (DP010409) (80380) .................................................
   345,750,000 ....................................... (re. $2,996,000)
-  1113  12554-07-3
+  1115  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62292,7 +62361,7 @@ S T A T E  O F  N E W  Y O R K
   All or a portion of the funds appropriated hereby may be  suballocated
   to any department, agency, or public authority (TD0005RD) (80595) ..
   249,000,000 ...................................... (re. $57,831,000)
-  1114  12554-07-3
+  1116  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
 
@@ -62326,7 +62395,7 @@ S T A T E  O F  N E W  Y O R K
   matching grant board created  pursuant  to
   part U of chapter 63 of the laws  of  2005
   as amended (MG0923MG) (42301) ............... 40,000,000
-  1115  12554-07-3
+  1117  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62383,7 +62452,7 @@ S T A T E  O F  N E W  Y O R K
   facilities capital matching grants program. Awards and grants  shall
   be  administered  by  the  New  York  state higher education capital
   matching grant board created pursuant to part U of chapter 63 of the
-  1116  12554-07-3
+  1118  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62410,7 +62479,7 @@ S T A T E  O F  N E W  Y O R K
   matching grant board created pursuant to part U of chapter 63 of the
   laws of 2005 as amended (MG0805MG) (42301) .........................
   150,000,000 ...................................... (re. $14,150,000)
-  1117  12554-07-3
+  1119  12554-08-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62445,7 +62514,7 @@ S T A T E  O F  N E W  Y O R K
   appropriated herein  may  be  suballocated  or  transferred  to  any
   department, agency or public authority (80ET17ER) (81112) ..........
   123,000,000 ...................................... (re. $11,054,000)
-  1118  12554-07-3
+  1120  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62480,7 +62549,7 @@ S T A T E  O F  N E W  Y O R K
   may  be  suballocated  or  transferred to any department, agency, or
   public authority (CC000509) (80597) ................................
   350,000,000 ..................................... (re. $350,000,000)
-  1119  12554-07-3
+  1121  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62518,7 +62587,7 @@ S T A T E  O F  N E W  Y O R K
   priation may be suballocated or transferred to any department, agen-
   cy, or public authority (02011909) (85030) .........................
   100,000,000 ...................................... (re. $40,413,000)
-  1120  12554-07-3
+  1122  12554-08-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62571,7 +62640,7 @@ S T A T E  O F  N E W  Y O R K
   or  (iii)  suballocated  to  any  other  state department, agency or
   public benefit  corporation,  to  achieve  this  purpose  (LO112209)
   (85104) ... 185,000,000 ......................... (re. $185,000,000)
-  1121  12554-07-3
+  1123  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62629,7 +62698,7 @@ S T A T E  O F  N E W  Y O R K
   NANCE OR IMPROVEMENTS. Funding from this appropriation shall be made
   available  through  a [competitive process that shall include repre-
   sentatives from multiple state agencies  to  be  determined  by  the
-  1122  12554-07-3
+  1124  12554-08-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
 
@@ -62687,7 +62756,7 @@ S T A T E  O F  N E W  Y O R K
   tions  that  serve  New  Yorkers.  Provided  that  such  investments
   include, but are not limited  to:  technology  upgrades  related  to
   improving  electronic  records,  data  analysis, or confidentiality;
-  1123  12554-07-3
+  1125  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62745,7 +62814,7 @@ S T A T E  O F  N E W  Y O R K
   portion  of  the  funds  appropriated  herein may be suballocated or
   transferred  to  any  department,  agency,  or  public  authority
   (92NP1703) (80606) ... 20,000,000 ................ (re. $20,000,000)
-  1124  12554-07-3
+  1126  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
 
@@ -62803,7 +62872,7 @@ S T A T E  O F  N E W  Y O R K
   ed  to,  the  Office  of Children and Family Services, the Office of
   Temporary and Disability Assistance,  the  Office  for  People  with
   Developmental  Disabilities,  the  Office  of Mental Health, and for
-  1125  12554-07-3
+  1127  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62823,7 +62892,7 @@ S T A T E  O F  N E W  Y O R K
   transferred  to  any  department,  agency,  or  public  authority
   (92NP1603) (80606) .................................................
   50,000,000 ....................................... (re. $17,565,000)
-  1126  12554-07-3
+  1128  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62849,7 +62918,7 @@ S T A T E  O F  N E W  Y O R K
   All  or a portion of the funds appropriated hereby may be suballocated
   to any department, agency, or public authority (ED0005RE) (80596) ..
   89,750,000 ........................................ (re. $6,397,000)
-  1127  12554-07-3
+  1129  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62907,7 +62976,7 @@ S T A T E  O F  N E W  Y O R K
   All or a portion of the funds appropriated hereby  may  be  suballo-
   cated or transferred to any department, agency, or public authority,
   according to the following:
-  1128  12554-07-3
+  1130  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -62964,7 +63033,7 @@ S T A T E  O F  N E W  Y O R K
   ... 170,000,000 ................................. (re. $170,000,000)
   The  sum  of  $85,000,000  is  hereby  appropriated  for  services and
   expenses, loans, grants, and costs associated with economic develop-
-  1129  12554-07-3
+  1131  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63022,7 +63091,7 @@ S T A T E  O F  N E W  Y O R K
   using  the  criteria  outlined  above.  Provided  further that, with
   guidence and oversight of the commissioner of the office  of  tempo-
   rary  and  disability assistance, each local anti-poverty task force
-  1130  12554-07-3
+  1132  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63080,7 +63149,7 @@ S T A T E  O F  N E W  Y O R K
   multiagency  supportive  housing  program  to  provide  housing  and
   support services for vulnerable New Yorkers including but not limit-
   ed to seniors, veterans,  victims  of  domestic  violence,  formerly
-  1131  12554-07-3
+  1133  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63138,7 +63207,7 @@ S T A T E  O F  N E W  Y O R K
   annually; (b) total amount of private funds committed annually  and,
   if  applicable,  the  amount of such funds that has been invested by
   such parties; (c) the location of each  area  receiving  investments
-  1132  12554-07-3
+  1134  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63196,7 +63265,7 @@ S T A T E  O F  N E W  Y O R K
   public health law.
   Notwithstanding  any  other  provision  of  the  laws to the contrary,
   amounts appropriated herein, including the $83,500,000 which may  be
-  1133  12554-07-3
+  1135  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63253,7 +63322,7 @@ S T A T E  O F  N E W  Y O R K
   for  projects  with a common purpose and may be interchanged without
   limitation subject to the approval of the  director  of  the  budget
   (930715SP) (80349) ... 150,000,000 .............. (re. $124,515,000)
-  1134  12554-07-3
+  1136  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63291,7 +63360,7 @@ S T A T E  O F  N E W  Y O R K
   support research and development of forestry and forest products, as
   defined  by  the  commissioner of agriculture and markets (930915SP)
   (80647) ... 50,000,000 ............................ (re. $8,430,000)
-  1135  12554-07-3
+  1137  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63349,7 +63418,7 @@ S T A T E  O F  N E W  Y O R K
   public  park  conservancies or not-for-profit corporations organized
   for the purpose of investing in parks owned by the state or  munici-
   pal  corporations,  as defined in section 2 of the general municipal
-  1136  12554-07-3
+  1138  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63407,7 +63476,7 @@ S T A T E  O F  N E W  Y O R K
   11-B,  11-C, or 11-D of the public authorities law; a public benefit
   corporation as defined in section 2 of chapter 1016 of the  laws  of
   1969; a college or university established pursuant to section 352 of
-  1137  12554-07-3
+  1139  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63465,7 +63534,7 @@ S T A T E  O F  N E W  Y O R K
   acquisition  by  an  eligible entity of capital assets with a useful
   life of not less than ten years purchased for the  sole  purpose  of
   preserving  and  protecting infrastructure that is owned, controlled
-  1138  12554-07-3
+  1140  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
 
@@ -63523,7 +63592,7 @@ S T A T E  O F  N E W  Y O R K
   For payment of the capital costs of construction,  improvement,  reha-
   bilitation  or  reconstruction of facilities owned by eligible enti-
   ties; the acquisition of capital facilities and assets  by  eligible
-  1139  12554-07-3
+  1141  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63581,7 +63650,7 @@ S T A T E  O F  N E W  Y O R K
   budget,  be  (i)  interchanged, (ii) transferred from this appropri-
   ation to any other appropriation of any state department, agency  or
   public benefit corporation, or (iii) suballocated to any other state
-  1140  12554-07-3
+  1142  12554-08-3
 
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63639,7 +63708,7 @@ S T A T E  O F  N E W  Y O R K
   state of New York or established  by  an  act  of  the  legislature;
   public  park  conservancies or not for profit corporations organized
   for the purpose of investing in parks owned by the state or  munici-
-  1141  12554-07-3
+  1143  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63696,7 +63765,7 @@ S T A T E  O F  N E W  Y O R K
   December 31, 2019. Notwithstanding any other law  to  the  contrary,
   the  amounts  appropriated herein may be suballocated or transferred
   to any  state  department,  agency,  or  public  authority  for  the
-  1142  12554-07-3
+  1144  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63754,7 +63823,7 @@ S T A T E  O F  N E W  Y O R K
   Costs may include, but shall not be limited to  engineering  services,
   construction, project management, right-of-way acquisition, and work
   appurtenant  and ancillary thereto. No funds from this appropriation
-  1143  12554-07-3
+  1145  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63812,7 +63881,7 @@ S T A T E  O F  N E W  Y O R K
   for  the purpose of investing in parks owned by the state or munici-
   pal corporations, as defined in section 2 of the  general  municipal
   law;  and  not  for  profit  fire  districts, fire commissions, fire
-  1144  12554-07-3
+  1146  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63870,7 +63939,7 @@ S T A T E  O F  N E W  Y O R K
   of the laws of 1969; a college or university established pursuant to
   section 352 of the education law, section 6203 of the education  law
   or  section 6302 of the education law; an independent not-for-profit
-  1145  12554-07-3
+  1147  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63928,7 +63997,7 @@ S T A T E  O F  N E W  Y O R K
   ipal  law.  Eligible  entities shall consist of the state; municipal
   corporations as defined in section 2 of the general  municipal  law;
   sanitation districts; special districts as defined in subdivision 16
-  1146  12554-07-3
+  1148  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -63970,7 +64039,7 @@ S T A T E  O F  N E W  Y O R K
   fit corporation, or (iii) suballocated to any  other  state  depart-
   ment,  agency or public benefit corporation, to achieve this purpose
   (SM1013SM) (80001) ... 385,000,000 ................ (re. $3,006,000)
-  1147  12554-07-3
+  1149  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -64009,7 +64078,7 @@ S T A T E  O F  N E W  Y O R K
   cated  or  transferred  to any department,
   agency,  or  public  authority  (2PCE2308)
   (85066) .................................... 100,000,000
-  1148  12554-07-3
+  1150  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -64067,7 +64136,7 @@ S T A T E  O F  N E W  Y O R K
   equipment.  All or a portion of the funds appropriated hereby may be
   suballocated or transferred to any  department,  agency,  or  public
   authority (2PCE1908) (85066) ... 93,000,000 ...... (re. $62,073,000)
-  1149  12554-07-3
+  1151  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -64116,7 +64185,7 @@ S T A T E  O F  N E W  Y O R K
   hereby may be suballocated or transferred to any department, agency,
   or public authority (2P080808) (80469) .............................
   141,000,000 ....................................... (re. $8,408,000)
-  1150  12554-07-3
+  1152  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -64161,7 +64230,7 @@ S T A T E  O F  N E W  Y O R K
   --------------
   Total ...................... 215,650,000
   ==============
-  1151  12554-07-3
+  1153  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -64219,7 +64288,7 @@ S T A T E  O F  N E W  Y O R K
   Center. The funds appropriated hereby shall be  used  in  accordance
   with  applicable federal transportation statutes and regulations and
   may be suballocated for transportation purposes to the  Metropolitan
-  1152  12554-07-3
+  1154  12554-08-3
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES
  
@@ -64229,7 +64298,7 @@ S T A T E  O F  N E W  Y O R K
  
   Transportation Authority. (17WT0220) (80556) .......................
   342,000,000 ..................................... (re. $110,382,000)
-  1153  12554-07-3
+  1155  12554-08-3
  
   TABLE OF CONTENTS
   Page
@@ -64272,94 +64341,94 @@ S T A T E  O F  N E W  Y O R K
  
   HOUSING AND COMMUNITY RENEWAL, DIVISION OF ....................... 449
  
-  HUDSON RIVER PARK TRUST .......................................... 482
+  HUDSON RIVER PARK TRUST .......................................... 483
  
-  INFORMATION TECHNOLOGY SERVICES, OFFICE OF ....................... 483
+  INFORMATION TECHNOLOGY SERVICES, OFFICE OF ....................... 484
  
-  LAW, DEPARTMENT OF ............................................... 486
+  LAW, DEPARTMENT OF ............................................... 487
  
   MENTAL HYGIENE, DEPARTMENT OF
  
-  ADDICTION SERVICES AND SUPPORTS, OFFICE OF ..................... 488
+  ADDICTION SERVICES AND SUPPORTS, OFFICE OF ..................... 489
  
-  MENTAL HEALTH, OFFICE OF ....................................... 510
+  MENTAL HEALTH, OFFICE OF ....................................... 511
 
-  PEOPLE WITH DEVELOPMENTAL DISABILITIES, OFFICE FOR ............. 554
-  1154  12554-07-3
+  PEOPLE WITH DEVELOPMENTAL DISABILITIES, OFFICE FOR ............. 555
+  1156  12554-08-3
  
   TABLE OF CONTENTS
   Page
  
-  METROPOLITAN TRANSPORTATION AUTHORITY ............................ 595
+  METROPOLITAN TRANSPORTATION AUTHORITY ............................ 596
  
-  MILITARY AND NAVAL AFFAIRS, DIVISION OF .......................... 598
+  MILITARY AND NAVAL AFFAIRS, DIVISION OF .......................... 599
  
-  MOTOR VEHICLES, DEPARTMENT OF .................................... 608
+  MOTOR VEHICLES, DEPARTMENT OF .................................... 609
  
-  OLYMPIC REGIONAL DEVELOPMENT AUTHORITY ........................... 611
+  OLYMPIC REGIONAL DEVELOPMENT AUTHORITY ........................... 612
  
-  PARKS, RECREATION AND HISTORIC PRESERVATION, OFFICE OF ........... 613
+  PARKS, RECREATION AND HISTORIC PRESERVATION, OFFICE OF ........... 614
  
-  POWER AUTHORITY, NEW YORK ........................................ 639
+  POWER AUTHORITY, NEW YORK ........................................ 641
  
-  PUBLIC EMPLOYMENT RELATIONS BOARD ................................ 641
+  PUBLIC EMPLOYMENT RELATIONS BOARD ................................ 643
 
-  STATE, DEPARTMENT OF ............................................. 642
+  STATE, DEPARTMENT OF ............................................. 644
  
-  STATE POLICE, DIVISION OF ........................................ 647
+  STATE POLICE, DIVISION OF ........................................ 649
  
-  STATE UNIVERSITY OF NEW YORK ..................................... 654
+  STATE UNIVERSITY OF NEW YORK ..................................... 656
  
-  TRANSPORTATION, DEPARTMENT OF .................................... 779
+  TRANSPORTATION, DEPARTMENT OF .................................... 781
  
-  URBAN DEVELOPMENT CORPORATION, NEW YORK STATE ................... 1059
+  URBAN DEVELOPMENT CORPORATION, NEW YORK STATE ................... 1061
  
-  VETERANS' SERVICES, DEPARTMENT OF ............................... 1092
+  VETERANS' SERVICES, DEPARTMENT OF ............................... 1094
  
-  VICTIM SERVICES, OFFICE OF ...................................... 1095
+  VICTIM SERVICES, OFFICE OF ...................................... 1097
  
-  WORKERS' COMPENSATION BOARD ..................................... 1097
+  WORKERS' COMPENSATION BOARD ..................................... 1099
  
   MISCELLANEOUS -- ALL STATE DEPARTMENTS AND AGENCIES:
  
-  ARTS AND CULTURAL FACILITIES IMPROVEMENT PROGRAM .............. 1098
+  ARTS AND CULTURAL FACILITIES IMPROVEMENT PROGRAM .............. 1100
  
-  COMMUNITY ENHANCEMENT FACILITIES ASSISTANCE PROGRAM ........... 1104
+  COMMUNITY ENHANCEMENT FACILITIES ASSISTANCE PROGRAM ........... 1106
  
   COMMUNITY  RESILIENCY,  ECONOMIC  SUSTAINABILITY,  AND
-  TECHNOLOGY PROGRAM .......................................... 1105
+  TECHNOLOGY PROGRAM .......................................... 1107
  
-  ECONOMIC DEVELOPMENT - CAPITAL ................................ 1109
+  ECONOMIC DEVELOPMENT - CAPITAL ................................ 1111
  
-  ECONOMIC DEVELOPMENT PROGRAM .................................. 1112
+  ECONOMIC DEVELOPMENT PROGRAM .................................. 1114
  
-  HIGH TECHNOLOGY AND DEVELOPMENT PROGRAM ....................... 1113
+  HIGH TECHNOLOGY AND DEVELOPMENT PROGRAM ....................... 1115
  
   HIGHER EDUCATION FACILITIES  CAPITAL  MATCHING  GRANTS
-  PROGRAM ..................................................... 1114
+  PROGRAM ..................................................... 1116
  
-  HUDSON RIVER VALLEY GREENWAY COMMUNITIES COUNCIL .............. 1117
+  HUDSON RIVER VALLEY GREENWAY COMMUNITIES COUNCIL .............. 1119
  
-  JACOB JAVITS CONVENTION CENTER ................................ 1118
+  JACOB JAVITS CONVENTION CENTER ................................ 1120
  
-  LAKE ONTARIO RESILIENCY AND ECONOMIC DEVELOPMENT .............. 1119
-  1155  12554-07-3
+  LAKE ONTARIO RESILIENCY AND ECONOMIC DEVELOPMENT .............. 1121
+  1157  12554-08-3
  
   TABLE OF CONTENTS
   Page
 
-  LOCAL COMMUNITY ASSISTANCE PROGRAM ............................ 1120
+  LOCAL COMMUNITY ASSISTANCE PROGRAM ............................ 1122
  
-  NONPROFIT INFRASTRUCTURE CAPITAL INVESTMENT PROGRAM ........... 1121
+  NONPROFIT INFRASTRUCTURE CAPITAL INVESTMENT PROGRAM ........... 1123
  
-  REGIONAL ECONOMIC DEVELOPMENT PROGRAM ......................... 1126
+  REGIONAL ECONOMIC DEVELOPMENT PROGRAM ......................... 1128
  
-  SPECIAL INFRASTRUCTURE ACCOUNT, NEW YORK STATE ................ 1127
+  SPECIAL INFRASTRUCTURE ACCOUNT, NEW YORK STATE ................ 1129
  
-  STATE AND MUNICIPAL FACILITIES PROGRAM ........................ 1135
+  STATE AND MUNICIPAL FACILITIES PROGRAM ........................ 1137
  
-  STATE EQUIPMENT FINANCE PROGRAM ............................... 1147
+  STATE EQUIPMENT FINANCE PROGRAM ............................... 1149
  
-  STRATEGIC INVESTMENT PROGRAM .................................. 1150
+  STRATEGIC INVESTMENT PROGRAM .................................. 1152
  
-  WORLD TRADE CENTER -- DEPARTMENT OF TRANSPORTATION ............ 1151
+  WORLD TRADE CENTER -- DEPARTMENT OF TRANSPORTATION ............ 1153
