@@ -1,6 +1,6 @@
 # Extends the authorization for the town of Wallkill to adopt a hotel or motel tax of up to 5%
 
-**Bill ID:** A6553A
+**Bill ID:** A6553AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Extends the authorization for the town of Wallkill to adopt a hotel or motel tax
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6553
+  6553--A
  
   2023-2024 Regular Sessions
  
@@ -26,21 +26,21 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. GUNTHER -- read once and referred to the Commit-
-  tee on Ways and Means
+  tee on Ways and Means -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend chapter 373 of the laws of 2020, amending  the  tax  law
+ AN  ACT  to  amend  chapter 373 of the laws of 2020 amending the tax law
   relating to authorizing the town of Wallkill to adopt a hotel or motel
-  tax  of  up  to  5%, in relation to extending the effectiveness of the
-  provisions thereof
-
+  tax of up to 5%, in relation to extending the effectiveness thereof
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Section 2 of chapter 373 of the laws of 2020, amending the
+  Section  1.  Section 2 of chapter 373 of the laws of 2020 amending the
  tax law relating to authorizing the town of Wallkill to adopt a hotel or
  motel tax of up to 5%, is amended to read as follows:
   § 2. This act shall take effect immediately and shall  expire  and  be
- deemed repealed September 1, [2023] 2026.
+ deemed repealed September 1, [2023] 2025.
   § 2. This act shall take effect immediately.
  
  
@@ -50,4 +50,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10695-01-3
+  LBD10695-02-3
