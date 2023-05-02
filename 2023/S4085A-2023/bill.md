@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system in the town of Lewisboro as the "John Jay High School Veterans Memorial Highway"
 
-**Bill ID:** S4085A
+**Bill ID:** S4085AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in the town of Lewisboro as the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4085
+  4085--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system in the town of Lewisboro  as  the  "John  Jay
   High School Veterans Memorial Highway"
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -41,8 +43,9 @@ S T A T E  O F  N E W  Y O R K
  JAY HIGH SCHOOL VETERANS MEMORIAL HIGHWAY".  ALL  THAT  PORTION  OF  THE
  STATE  HIGHWAY  SYSTEM  CONSTITUTING  STATE ROUTE 121 BEGINNING WITH ITS
  INTERSECTION AT ROUTE 35 OLD POST ROAD AND ENDING WITH ITS  INTERSECTION
- AT  GIDEON REYNOLDS ROAD, SHALL BE DESIGNATED AND KNOWN AS THE "JOHN JAY
- HIGH SCHOOL VETERANS MEMORIAL HIGHWAY".
+ AT GIDEON REYNOLDS ROAD IN THE TOWN OF LEWISBORO, COUNTY OF WESTCHESTER,
+ SHALL  BE  DESIGNATED  AND  KNOWN  AS THE "JOHN JAY HIGH SCHOOL VETERANS
+ MEMORIAL HIGHWAY".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this  act.  However,  to  avoid
@@ -50,18 +53,9 @@ S T A T E  O F  N E W  Y O R K
  nation called for pursuant to section one of this act shall  be  one  of
  ceremonial  nature  and  the  official name of such highway shall not be
  changed as a result of this act.
-  § 3. Such signing required pursuant to section two of this  act  shall
- at a minimum include the following language:
- "In  honor and in memory of the John Jay High School students who served
- and gave their lives for our country:
-  Pfc. Kenneth Richard Jaconetti
-  Lt. Cmdr. George Russell Matthews
-  Pfc. Philip Grant Chipchase
-  Lance Cpl. Howard J. Alaimo
-  Cpl. James J. Jackowski
-  Cpl. Bert D. Corcoran"
-  § 4. This act shall take effect immediately.
+  § 3. This act shall take effect immediately.
+ 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05457-01-3
+  LBD05457-03-3
