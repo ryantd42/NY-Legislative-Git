@@ -1,6 +1,6 @@
 # Designates a portion of the highway system the "Fort Hamilton Veterans Memorial Highway"
 
-**Bill ID:** A6287D
+**Bill ID:** A6287DA
 **Session:** 2023
 **Sponsor:** Alec Brook-Krasny
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Designates a portion of the highway system in Kings county as the "Fort Hamilton
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6287
+  6287--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,10 @@ S T A T E  O F  N E W  Y O R K
   April 3, 2023
   ___________
  
- Introduced  by  M.  of  A. BROOK-KRASNY -- read once and referred to the
-  Committee on Transportation
+ Introduced  by  M. of A. BROOK-KRASNY, TANNOUSIS, CHANG -- read once and
+  referred to the Committee on Transportation --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system in Kings county  as  the  "Brooklyn  Veterans
@@ -41,20 +43,19 @@ S T A T E  O F  N E W  Y O R K
  "BROOKLYN  VETERANS  MEMORIAL  HIGHWAY". ALL THAT PORTION OF THE HIGHWAY
  SYSTEM CONSTITUTING INTERSTATE ROUTE 278 IN THE COUNTY OF KINGS FROM ITS
  SOUTHERN BOUNDARY AT THE VERRAZANO-NARROWS BRIDGE CONTINUING NORTH UNTIL
- THE QUEENS COUNTY LINE SHALL BE DESIGNATED AND KNOWN  AS  THE  "BROOKLYN
- VETERANS MEMORIAL HIGHWAY".
-  §  2. The commissioner of transportation shall provide for the instal-
- lation and maintenance of adequate signing of the state  highway  system
- as  designated  pursuant  to  section one of this act; provided that, to
- avoid any confusion and to limit any possible  disruption  of  commerce,
- the  designation called for pursuant to section one of this act shall be
+ THE POINT AT WHICH SUCH ROUTE CROSSES 6TH AVENUE SHALL BE DESIGNATED AND
+ KNOWN AS THE "BROOKLYN VETERANS MEMORIAL HIGHWAY".
+  § 2. The commissioner of transportation shall provide for the  instal-
+ lation  and  maintenance of adequate signing of the state highway system
+ as designated pursuant to section one of this  act;  provided  that,  to
+ avoid  any  confusion  and to limit any possible disruption of commerce,
+ the designation called for pursuant to section one of this act shall  be
  one of ceremonial nature and the official name of such highway shall not
  be changed as a result of this act.
-  § 3. This act shall take effect on the thirtieth day  after  it  shall
+  §  3.  This  act shall take effect on the thirtieth day after it shall
  have become a law.
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10288-01-3
+  LBD10288-02-3
