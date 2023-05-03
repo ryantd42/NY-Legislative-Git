@@ -1,0 +1,74 @@
+# Provides for a tax credit for certain persons relocating to the state to provide or receive reproductive care or gender-affirming care
+
+**Bill ID:** S6637
+**Session:** 2023
+**Sponsor:** Michelle Hinchey
+**Status:** In Senate Committee
+
+## Summary
+
+Provides for a tax credit for certain persons relocating to the state to provide or receive reproductive care or gender-affirming care.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6637
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 3, 2023
+  ___________
+ 
+ Introduced  by  Sen. HINCHEY -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Budget and Revenue
+ 
+ AN ACT to amend the tax law, in  relation  to  establishing  a  personal
+  income  tax  credit  for  certain  persons  relocating to the state to
+  provide or receive reproductive care or gender-affirming care
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  606  of  the  tax law is amended by adding a new
+ subsection (ooo) to read as follows:
+  (OOO) CREDIT FOR REPRODUCTIVE OR GENDER-AFFIRMING CARE. (1) FOR  TAXA-
+ BLE  YEARS  ENDING ON OR AFTER DECEMBER THIRTY-FIRST, TWO THOUSAND TWEN-
+ TY-THREE AND ENDING BEFORE DECEMBER THIRTY-FIRST, TWO  THOUSAND  THIRTY-
+ THREE,  EACH  INDIVIDUAL  TAXPAYER WHO (A) IS A HEALTHCARE PROVIDER WHO,
+ FOR THE PURPOSE OF PROVIDING REPRODUCTIVE CARE OR GENDER-AFFIRMING  CARE
+ IN  THIS  STATE,  PERMANENTLY  RELOCATES DURING THE TAXABLE YEAR TO THIS
+ STATE FROM A STATE WITH MORE RESTRICTIVE ABORTION LAWS OR MORE  RESTRIC-
+ TIVE LAWS CONCERNING ACCESS TO GENDER-AFFIRMING CARE OR (B) IS A PATIENT
+ OR THE PARENT OR GUARDIAN OF A PATIENT WHO, FOR THE PURPOSE OF RECEIVING
+ REPRODUCTIVE  CARE  OR  GENDER-AFFIRMING CARE IN THIS STATE, PERMANENTLY
+ RELOCATES DURING THE TAXABLE YEAR TO THIS STATE FROM A STATE  WITH  MORE
+ RESTRICTIVE ABORTION LAWS OR MORE RESTRICTIVE LAWS CONCERNING THE ACCESS
+ TO  GENDER-AFFIRMING  CARE  IS  ENTITLED  TO  A CREDIT AGAINST THE TAXES
+ IMPOSED BY THIS ARTICLE IN THE AMOUNT OF FIVE HUNDRED DOLLARS. A TAXPAY-
+ ER DESCRIBED IN THIS SUBSECTION WHO PERMANENTLY RELOCATES TO THIS  STATE
+ ON OR AFTER JUNE TWENTY-FOURTH, TWO THOUSAND TWENTY-TWO BUT BEFORE JANU-
+ ARY  FIRST, TWO THOUSAND TWENTY-THREE MAY CLAIM THE CREDIT ON HIS OR HER
+ INDIVIDUAL INCOME TAX RETURN FOR THE TAXABLE  YEAR  ENDING  ON  DECEMBER
+ THIRTY-FIRST, TWO THOUSAND TWENTY-THREE.
+  (2)  IN  NO  EVENT  SHALL  A  CREDIT  UNDER THIS SUBSECTION REDUCE THE
+ TAXPAYER'S LIABILITY TO LESS THAN ZERO. IF  THE  AMOUNT  OF  THE  CREDIT
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10902-01-3
+ S. 6637  2
+ 
+ EXCEEDS  THE  TAX  LIABILITY FOR THE YEAR, THE EXCESS MAY BE REFUNDED TO
+ THE TAXPAYER.
+  (3)  AS  USED IN THIS SUBSECTION, "HEALTHCARE PROVIDER" MEANS A PHYSI-
+ CIAN LICENSED TO PRACTICE MEDICINE IN ALL OF ITS BRANCHES,  AN  ADVANCED
+ PRACTICE  REGISTERED  NURSE, A REGISTERED PROFESSIONAL NURSE, A LICENSED
+ PRACTICAL NURSE, A PHYSICIAN ASSISTANT, OR A PHARMACIST.
+  § 2. This act shall take effect immediately and shall apply to taxable
+ years beginning on and after January 1, 2023.
