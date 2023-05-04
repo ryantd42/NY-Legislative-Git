@@ -1,6 +1,6 @@
 # Relates to the use of consumer credit history for certain purposes
 
-**Bill ID:** S1731DA
+**Bill ID:** S1731DB
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Prohibits the use of consumer credit history in hiring, employment and licensing
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1731--A
+  1731--B
  
   2023-2024 Regular Sessions
  
@@ -29,45 +29,46 @@ S T A T E  O F  N E W  Y O R K
   RAMOS, RIVERA, THOMAS -- read twice  and  ordered  printed,  and  when
   printed  to  be  committed  to the Committee on Consumer Protection --
   committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
-
+  recommitted  to  said committee -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
+ 
  AN ACT to amend the general business law, in relation to prohibiting the
-  disclosure  or use of a person's consumer credit history to an employ-
+  disclosure or use of a person's consumer credit history to an  employ-
   er,  labor  organization,  employment  agency  or  agent  thereof  for
   purposes of employment decisions
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 380-a of the general business  law  is  amended  by
+  Section  1.  Section  380-a  of the general business law is amended by
  adding a new subdivision (v) to read as follows:
-  (V)  THE  TERM  "CONSUMER CREDIT HISTORY" MEANS AN INDIVIDUAL'S CREDIT
- WORTHINESS, CREDIT STANDING, CREDIT  CAPACITY  OR  PAYMENT  HISTORY,  AS
+  (V) THE TERM "CONSUMER CREDIT HISTORY" MEANS  AN  INDIVIDUAL'S  CREDIT
+ WORTHINESS,  CREDIT  STANDING,  CREDIT  CAPACITY  OR PAYMENT HISTORY, AS
  INDICATED BY:
   (1) A CONSUMER CREDIT REPORT;
   (2) CREDIT SCORE; OR
-  (3)  INFORMATION  AN  EMPLOYER  OBTAINS  DIRECTLY  FROM THE INDIVIDUAL
- REGARDING (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE  INDIVIDUAL'S
- NUMBER  OF  CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS, CHARGED-OFF DEBTS,
- ITEMS IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES,  OR
+  (3) INFORMATION AN  EMPLOYER  OBTAINS  DIRECTLY  FROM  THE  INDIVIDUAL
+ REGARDING  (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE INDIVIDUAL'S
+ NUMBER OF CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS,  CHARGED-OFF  DEBTS,
+ ITEMS  IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES, OR
  (II) BANKRUPTCIES, JUDGMENTS OR LIENS.
-  A  CONSUMER  CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR OTHER COMMUNI-
+  A CONSUMER CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR  OTHER  COMMUNI-
  CATION OF ANY INFORMATION BY A CONSUMER REPORTING AGENCY THAT BEARS ON A
- CONSUMER'S CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR  CREDIT
+ CONSUMER'S  CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR CREDIT
  HISTORY.
-  §  2.  Subdivision (d) of section 380-b of the general business law is
- relettered subdivision (g) and three new subdivisions (d), (e)  and  (f)
+  § 2. Subdivision (d) of section 380-b of the general business  law  is
+ relettered  subdivision  (g) and three new subdivisions (d), (e) and (f)
  are added to read as follows:
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00590-02-3
- S. 1731--A  2
+  LBD00590-07-3
+ S. 1731--B  2
  
-  (D)  (1) EXCEPT AS PROVIDED IN THIS SUBDIVISION, IT SHALL BE AN UNLAW-
+  (D) (1) EXCEPT AS PROVIDED IN THIS SUBDIVISION, IT SHALL BE AN  UNLAW-
  FUL DISCRIMINATORY PRACTICE FOR AN EMPLOYER, LABOR ORGANIZATION, EMPLOY-
- MENT AGENCY OR ANY AGENT THEREOF TO REQUEST OR  TO  USE  FOR  EMPLOYMENT
- PURPOSES  THE  CONSUMER CREDIT HISTORY OF AN APPLICANT FOR EMPLOYMENT OR
+ MENT  AGENCY  OR  ANY  AGENT THEREOF TO REQUEST OR TO USE FOR EMPLOYMENT
+ PURPOSES THE CONSUMER CREDIT HISTORY OF AN APPLICANT FOR  EMPLOYMENT  OR
  EMPLOYEE,  OR  OTHERWISE  DISCRIMINATE  AGAINST AN APPLICANT OR EMPLOYEE
  WITH REGARD TO HIRING, COMPENSATION,  OR THE TERMS, CONDITIONS OR PRIVI-
  LEGES OF EMPLOYMENT BASED ON THE CONSUMER CREDIT HISTORY OF  THE  APPLI-
@@ -87,20 +88,20 @@ S T A T E  O F  N E W  Y O R K
  MAY  NOT USE CONSUMER CREDIT HISTORY INFORMATION FOR EMPLOYMENT PURPOSES
  UNLESS THE POSITION IS AN APPOINTED POSITION IN WHICH A HIGH  DEGREE  OF
  PUBLIC TRUST, AS DEFINED BY THE COMMISSION IN RULES, HAS BEEN REPOSED.
-  (IV) IN A POSITION IN WHICH AN EMPLOYEE IS REQUIRED TO BE BONDED UNDER
- STATE OR FEDERAL LAW;
-  (V) IN A POSITION IN WHICH AN EMPLOYEE IS REQUIRED TO POSSESS SECURITY
- CLEARANCE UNDER FEDERAL LAW OR THE LAW OF ANY STATE;
-  (VI)  IN  A  NON-CLERICAL  POSITION  HAVING  REGULAR  ACCESS  TO TRADE
+  (IV)  PERSONS  IN  A  POSITION  IN WHICH AN EMPLOYEE IS REQUIRED TO BE
+ BONDED UNDER STATE OR FEDERAL LAW;
+  (V) PERSONS IN A POSITION IN WHICH AN EMPLOYEE IS REQUIRED TO  POSSESS
+ SECURITY CLEARANCE UNDER FEDERAL LAW OR THE LAW OF ANY STATE;
+  (VI) PERSONS IN A NON-CLERICAL POSITION HAVING REGULAR ACCESS TO TRADE
  SECRETS, INTELLIGENCE INFORMATION OR NATIONAL SECURITY INFORMATION;
-  (VII) IN A POSITION: (A) HAVING SIGNATORY AUTHORITY OVER  THIRD  PARTY
- FUNDS  OR  ASSETS  VALUED  AT  TEN THOUSAND DOLLARS OR MORE; OR (B) THAT
- INVOLVES A FIDUCIARY RESPONSIBILITY TO THE EMPLOYER WITH  THE  AUTHORITY
- TO  ENTER FINANCIAL AGREEMENTS VALUED AT TEN THOUSAND DOLLARS OR MORE ON
- BEHALF OF THE EMPLOYER; OR
-  (VIII) IN A POSITION WITH REGULAR DUTIES THAT ALLOW  THE  EMPLOYEE  TO
- MODIFY  DIGITAL SECURITY SYSTEMS ESTABLISHED TO PREVENT THE UNAUTHORIZED
- USE OF THE EMPLOYER'S OR CLIENT'S NETWORKS OR DATABASES.
+  (VII) PERSONS IN A POSITION: (A) HAVING SIGNATORY AUTHORITY OVER THIRD
+ PARTY  FUNDS  OR  ASSETS  VALUED AT TEN THOUSAND DOLLARS OR MORE; OR (B)
+ THAT INVOLVES A  FIDUCIARY  RESPONSIBILITY  TO  THE  EMPLOYER  WITH  THE
+ AUTHORITY  TO  ENTER FINANCIAL AGREEMENTS VALUED AT TEN THOUSAND DOLLARS
+ OR MORE ON BEHALF OF THE EMPLOYER; OR
+  (VIII) PERSONS IN A  POSITION  WITH  REGULAR  DUTIES  THAT  ALLOW  THE
+ EMPLOYEE  TO  MODIFY DIGITAL SECURITY SYSTEMS ESTABLISHED TO PREVENT THE
+ UNAUTHORIZED USE OF THE EMPLOYER'S OR CLIENT'S NETWORKS OR DATABASES.
   (3) AS USED IN THIS SUBDIVISION THE FOLLOWING  TERMS  SHALL  HAVE  THE
  FOLLOWING MEANINGS:
   (I) "INTELLIGENCE INFORMATION" MEANS RECORDS AND DATA COMPILED FOR THE
@@ -120,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  AND NOT BEING READILY ASCERTAINABLE BY PROPER MEANS BY OTHER PERSONS WHO
  CAN OBTAIN ECONOMIC VALUE FROM ITS DISCLOSURE OR USE; (B) IS THE SUBJECT
  OF EFFORTS THAT ARE REASONABLE UNDER THE CIRCUMSTANCES TO  MAINTAIN  ITS
- S. 1731--A  3
+ S. 1731--B  3
  
  SECRECY; AND (C) CAN REASONABLY BE SAID TO BE THE END PRODUCT OF SIGNIF-
  ICANT  INNOVATION.  THE  TERM  "TRADE  SECRETS" DOES NOT INCLUDE GENERAL
@@ -177,16 +178,18 @@ S T A T E  O F  N E W  Y O R K
  information  (i)  in  connection with a credit transaction involving the
  consumer on whom the information is to be furnished  and  involving  the
  extension  of  credit  to, or review or collection of an account of, the
- consumer, or (ii) [for employment purposes, or (iii)] in connection with
- S. 1731--A  4
+ consumer, or (ii) for employment purposes, EXCEPT THAT A CONSUMER REPORT
+ S. 1731--B  4
  
- the underwriting of insurance involving the consumer, or [(iv)] (III) in
- connection with a determination of  the  consumer's  eligibility  for  a
- license  or  other  benefit  granted  by  a governmental instrumentality
- required  by  law to consider an applicant's financial responsibility or
- status, or [(v)] (IV) to a person in connection with a  business  trans-
- action  involving  the consumer where the user has a legitimate business
- need for such information, or [(vi)] (V) in connection with  the  rental
- or lease of a residence.
+ MAY BE FURNISHED FOR SUCH PURPOSES ONLY IF SUCH REPORT EXCLUDES INFORMA-
+ TION THAT BEARS ON A  CONSUMER'S  CREDIT  WORTHINESS,  CREDIT  STANDING,
+ CREDIT  CAPACITY  OR  CREDIT  HISTORY,  or  (iii) in connection with the
+ underwriting  of insurance involving the consumer, or (iv) in connection
+ with a determination of the consumer's  eligibility  for  a  license  or
+ other  benefit granted by a governmental instrumentality required by law
+ to consider an applicant's financial responsibility or status, or (v) to
+ a person in connection with a business transaction involving the consum-
+ er where the user has a legitimate business need for  such  information,
+ or (vi) in connection with the rental or lease of a residence.
   § 5. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.
