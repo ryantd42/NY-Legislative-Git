@@ -1,6 +1,6 @@
 # Relates to designating a portion of the state highway system as "Specialist Gerald B. Penn Memorial Bridge"
 
-**Bill ID:** A6624A
+**Bill ID:** A6624AA
 **Session:** 2023
 **Sponsor:** David DiPietro
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in the town of Boston, county o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6624
+  6624--A
  
   2023-2024 Regular Sessions
  
@@ -26,25 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. DiPIETRO -- read once and referred to the Commit-
-  tee on Transportation
+  tee  on  Transportation -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
-  the  state  highway  system  as  "Specialist  Gerald  B. Penn Memorial
+  the state highway  system  as  "Specialist  Gerald  B.  Penn  Memorial
   Bridge"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 344-o to
  read as follows:
-  §  344-O.  PORTION  OF  THE  STATE HIGHWAY SYSTEM TO BE DESIGNATED AND
- KNOWN AS THE "SPECIALIST GERALD  B.  PENN  MEMORIAL  BRIDGE".  ALL  THAT
- PORTION OF THE STATE HIGHWAY SYSTEM CONSTITUTING THE BRIDGE ON ROUTE TWO
- HUNDRED  NINETEEN,  DESIGNATED  BRIDGE NUMBER 1071050, WHICH CROSSES THE
- EIGHTEEN MILE CREEK 3.1 MILES SOUTH OF THE JUNCTION OF THE SOUTHERN TIER
- EXPRESSWAY AND ROUTE TWO HUNDRED NINETEEN, IN THE TOWN OF BOSTON, COUNTY
- OF ERIE, SHALL BE KNOWN AS THE "SPECIALIST  GERALD  B.  PENN  MEMORIAL
- BRIDGE".
+  § 344-O. PORTION OF THE STATE HIGHWAY  SYSTEM  TO  BE  DESIGNATED  AND
+ KNOWN  AS  THE  "SPECIALIST  GERALD  B.  PENN MEMORIAL BRIDGE". ALL THAT
+ PORTION OF THE STATE HIGHWAY SYSTEM CONSTITUTING THE  SOUTHBOUND  BRIDGE
+ ON  STATE  ROUTE TWO HUNDRED NINETEEN, DESIGNATED BRIDGE NUMBER 1071050,
+ WHICH CROSSES OVER SHERO ROAD, IN THE TOWN OF BOSTON,  COUNTY  OF  ERIE,
+ SHALL BE KNOWN AS THE "SPECIALIST GERALD B.  PENN MEMORIAL BRIDGE".
   §  2. The commissioner of transportation shall provide for the instal-
  lation and maintenance of adequate signing of the state  highway  system
  as  designated  pursuant  to  section one of this act. However, to avoid
@@ -58,4 +57,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00594-01-3
+  LBD00594-02-3
