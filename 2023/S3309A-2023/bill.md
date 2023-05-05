@@ -1,6 +1,6 @@
 # Permits Gold Star families to use any of the public campsites, parks and other public places of recreation in this state free of charge
 
-**Bill ID:** S3309A
+**Bill ID:** S3309AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Permits Gold Star families to use any of the public campsites, parks and other p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3309
+  3309--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,15 @@ S T A T E  O F  N E W  Y O R K
   January 30, 2023
   ___________
  
- Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Cultural Affairs, Tourism,
-  Parks and Recreation
- 
+ Introduced  by  Sens.  SKOUFIS, MARTINEZ, WEIK -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Cultural
+  Affairs, Tourism, Parks and Recreation -- committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
+
  AN ACT to amend the parks, recreation and historic preservation law,  in
   relation to Gold Star families
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -48,25 +50,26 @@ S T A T E  O F  N E W  Y O R K
  conditions as apply to the general public, but without  the  payment  of
  any fees or other charges for the use of such campsites, parks and other
  public places of recreation.
-  2. FOR THE PURPOSES OF THIS SECTION "VETERAN" SHALL MEAN A RESIDENT OF
- THIS  STATE  WHO: (A) HAS SERVED IN THE UNITED STATES ARMY, NAVY, MARINE
- CORPS, AIR FORCE OR COAST GUARD; OR (B) HAS SERVED  ON  ACTIVE  DUTY  OR
- ORDERED  TO  ACTIVE  DUTY AS DEFINED IN 10 USC 101 (D)(1) AS A MEMBER OF
- THE NATIONAL GUARD OR OTHER RESERVE COMPONENT OF THE ARMED FORCES OF THE
- UNITED STATES; OR (C) HAS SERVED ON ACTIVE DUTY  OR  ORDERED  TO  ACTIVE
- DUTY  FOR  THE  STATE,  AS  A  MEMBER  OF THE STATE ORGANIZED MILITIA AS
- DEFINED IN SUBDIVISION NINE OF SECTION ONE OF THE MILITARY LAW, AND  HAS
- BEEN  RELEASED  FROM  SUCH SERVICE DOCUMENTED BY AN HONORABLE OR GENERAL
- DISCHARGE, OR HAS A QUALIFYING CONDITION, AS DEFINED  IN  SECTION  THREE
- HUNDRED  FIFTY  OF THE EXECUTIVE LAW, AND HAS RECEIVED A DISCHARGE OTHER
+  2.  FOR  THE  PURPOSES  OF THIS SECTION "VETERAN" SHALL:  (A) HAVE THE
+ SAME MEANING AS SUCH TERM IS DEFINED IN SECTION  ONE  OF  THE  VETERANS'
+ SERVICES  LAW  AND  SHALL  BE A RESIDENT OF THIS STATE WHO HAS SERVED ON
+ ACTIVE DUTY OR ORDERED  TO  ACTIVE  DUTY  AND  HAS  BEEN  DISCHARGED  OR
+ RELEASED  THEREFROM  UNDER  CONDITIONS OTHER THAN DISHONORABLE, OR HAS A
+ QUALIFYING CONDITION,  AS  DEFINED  IN  SECTION  ONE  OF  THE  VETERANS'
+ SERVICES  LAW,  AND  HAS  RECEIVED A DISCHARGE OTHER THAN BAD CONDUCT OR
+ DISHONORABLE FROM SUCH SERVICE, OR IS  A  DISCHARGED  LGBT  VETERAN,  AS
+ DEFINED IN SECTION ONE OF THE VETERANS' SERVICES LAW, AND HAS RECEIVED A
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07477-01-3
- S. 3309  2
+  LBD07477-03-3
+ S. 3309--A  2
  
- THAN BAD CONDUCT OR DISHONORABLE FROM SUCH SERVICE, OR IS  A  DISCHARGED
- LGBT VETERAN, AS DEFINED IN SECTION THREE HUNDRED FIFTY OF THE EXECUTIVE
- LAW, AND HAS RECEIVED A DISCHARGE OTHER THAN BAD CONDUCT OR DISHONORABLE
- FROM SUCH SERVICE.
-  § 2. This act shall take effect immediately.
+ DISCHARGE  OTHER  THAN BAD CONDUCT OR DISHONORABLE FROM SUCH SERVICE; OR
+ (B) MEAN AN INDIVIDUAL WHO HAS SERVED  ON  ACTIVE  DUTY  OR  ORDERED  TO
+ ACTIVE  DUTY FOR THE STATE AS A MEMBER OF THE STATE ORGANIZED MILITIA AS
+ DEFINED  IN  SUBDIVISION NINE OF SECTION ONE OF THE MILITARY LAW AND WHO
+ WAS  DISCHARGED  OR  RELEASED  THEREFROM  UNDER  CONDITIONS  OTHER  THAN
+ DISHONORABLE.
+  §  2. This act shall take effect on the first of April next succeeding
+ the date on which it shall have become a law.
