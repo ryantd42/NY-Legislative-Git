@@ -1,6 +1,6 @@
 # Relates to the general powers and duties of the canal corporation
 
-**Bill ID:** A1700A
+**Bill ID:** A1700AA
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the general powers and duties of the canal corporation; requires the 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1700
+  1700--A
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. BUTTENSCHON, CLARK, LUNSFORD, MANKTELOW, NORRIS,
   STIRPE, WALSH, WOERNER -- read once and referred to the  Committee  on
-  Corporations, Authorities and Commissions
- 
+  Corporations,  Authorities  and  Commissions  -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
+
  AN  ACT  to  amend  the canal law, in relation to the general powers and
   duties of the canal corporation
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -46,16 +48,16 @@ S T A T E  O F  N E W  Y O R K
   8-A.  MAINTAIN AND PRESERVE THE INTEGRITY OF THE ERIE CANAL'S HISTORIC
  RESOURCES, INCLUDING ITS STRUCTURES, FLOATING PLANT, AND UNIQUE LANDSIDE
  FEATURES.
-  14. Permit COMMERCIAL boat [owners] COMPANIES operating upon the canal
- system to use state drydocks, TRAVEL  LIFTS,  OR  OTHER  FACILITIES  FOR
- REQUIRED  COAST  GUARD  DRYDOCK  INSPECTIONS,  FOR NON-NAVIGATION SEASON
- STORAGE, OR while making emergency repairs to  their  vessels  AT  RATES
+  14. Permit boat owners operating upon the canal system  to  use  state
+ drydocks  while  making  emergency  repairs to their vessels.  PROVIDED,
+ HOWEVER, THAT COMMERCIAL BOAT COMPANIES OPERATING UPON THE CANAL  SYSTEM
+ MAY BE PERMITTED TO USE STATE DRYDOCKS, TRAVEL LIFTS OR OTHER FACILITIES
+ FOR  REQUIRED COAST GUARD DRYDOCK INSPECTIONS, FOR NON-NAVIGATION SEASON
+ STORAGE, OR WHILE MAKING EMERGENCY REPAIRS TO  THEIR  VESSELS  AT  RATES
  PRESCRIBED  UNDER SUBCHAPTER D OF CHAPTER III OF TITLE TWENTY-ONE OF THE
- NEW YORK STATE CODES, RULES AND REGULATIONS.
-  § 2. This act shall take effect immediately
- 
- 
+ NEW YORK STATE CODES, RULES, AND REGULATIONS.
+  § 2. This act shall take effect immediately.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00480-01-3
+  LBD00480-02-3
