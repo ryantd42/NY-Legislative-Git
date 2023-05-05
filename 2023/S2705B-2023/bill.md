@@ -1,6 +1,6 @@
 # Relates to resource exemptions for applicants for public assistance programs
 
-**Bill ID:** S2705B
+**Bill ID:** S2705BA
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to resource exemptions for applicants for public assistance programs; am
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2705
+  2705--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 24, 2023
   ___________
  
- Introduced  by  Sen. PERSAUD -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Social Services
- 
+ Introduced  by  Sens.  PERSAUD, HOYLMAN-SIGAL, SALAZAR -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Social  Services -- reported favorably from said committee and commit-
+  ted to the Committee on Finance -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN ACT to amend  the  social  services  law,  in  relation  to  resource
   exemptions for applicants for public assistance programs; and to amend
   part  B  of  chapter 436 of the laws of 1997, constituting the welfare
@@ -51,24 +54,24 @@ S T A T E  O F  N E W  Y O R K
   2. The following resources shall be exempt and disregarded  in  calcu-
  lating the amount of benefits of any [household under] APPLICANT FOR any
  public assistance program: (a) cash and liquid or nonliquid resources up
- to [two] TEN thousand [five hundred] dollars for applicants, [three] TEN
- thousand  [seven  hundred fifty] dollars for applicants in households in
- which any member is sixty years of age or older or is  disabled  or  ten
- thousand  dollars for recipients, (b) an amount up to [four] SEVEN thou-
- sand [six hundred] fifty dollars in a separate bank account  established
- by  an  individual while currently in receipt of assistance for the sole
- purpose of enabling the individual to purchase a  first  or  replacement
- vehicle  for  the  recipient  to seek, obtain or maintain employment, so
+ to  [two]  TEN  thousand  [five  hundred] dollars [for applicants, three
+ thousand seven hundred fifty dollars for  applicants  in  households  in
+ which  any  member  is sixty years of age or older or is disabled or ten
+ thousand dollars for recipients], (b) an amount up to [four thousand six
+ hundred] SEVEN THOUSAND fifty dollars in a separate bank account  estab-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05293-01-3
- S. 2705  2
+  LBD05293-03-3
+ S. 2705--A  2
  
- long as the funds are not used for any other purpose, (c) an amount  [up
- to  one thousand four] EQUAL TO THE GREATER OF FIVE THOUSAND ONE hundred
- SIXTY-FIVE dollars OR  THE  MAXIMUM  TUITION  ASSISTANCE  PROGRAM  AWARD
- AVAILABLE  FOR  THE  CURRENT  ACADEMIC  YEAR  in a separate bank account
+ lished by an individual while currently in receipt of assistance for the
+ sole  purpose of enabling the individual to purchase a first or replace-
+ ment vehicle for the recipient to seek, obtain or  maintain  employment,
+ so  long  as the funds are not used for any other purpose, (c) an amount
+ [up to one thousand four] EQUAL TO THE  GREATER  OF  FIVE  THOUSAND  ONE
+ hundred  SIXTY-FIVE  dollars  OR  THE MAXIMUM TUITION ASSISTANCE PROGRAM
+ AWARD AVAILABLE FOR THE CURRENT ACADEMIC YEAR in a separate bank account
  established by an individual while currently in  receipt  of  assistance
  for  the purpose of paying tuition at a two-year or four-year accredited
  post-secondary educational institution, so long as  the  funds  are  not
@@ -96,7 +99,7 @@ S T A T E  O F  N E W  Y O R K
  ence  savings account established in accordance with article eighty-four
  of the mental hygiene law, (L) RETIREMENT ACCOUNTS,  INCLUDING  BUT  NOT
  LIMITED TO INDIVIDUAL RETIREMENT ACCOUNTS, 401(K)'S, 403(B)'S, AND KEOGH
- PLANS, AND (M) ALL 529 COLLEGE SAVINGS PLANS.
+ PLANS, AND (M) ALL 529  COLLEGE SAVINGS PLANS.
   If  federal  law  or regulations require the exemption or disregard of
  additional income and resources in determining need for  family  assist-
  ance,  or medical assistance not exempted or disregarded pursuant to any
@@ -117,11 +120,11 @@ S T A T E  O F  N E W  Y O R K
   [3.]  4. OWNERSHIP OF ALL OTHER PERSONAL PROPERTY NOT EXEMPT IN SUBDI-
  VISIONS TWO AND THREE OF THIS SECTION, SHALL BE EVALUATED BASED UPON ITS
  EQUITY VALUE.
+ S. 2705--A  3
+ 
   5. The department is  authorized  to  establish  regulations  defining
  income  and  resources, CONSISTENT WITH THIS SECTION. [The department is
  further authorized to  promulgate  regulations  it  deems  necessary  to
- S. 2705  3
-
  prevent  the  improper establishment and use of accounts for purchase of
  first or replacement vehicles.]
   §  2.  Subdivision  (c) of section 153 of part B of chapter 436 of the
