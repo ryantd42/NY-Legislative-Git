@@ -1,0 +1,70 @@
+# Prohibits the sale of sodium nitrate and sodium nitrite to any person under the age of twenty-one
+
+**Bill ID:** A6798
+**Session:** 2023
+**Sponsor:** Grace Lee
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Prohibits the sale of sodium nitrate and sodium nitrite to any person under the age of twenty-one.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6798
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 8, 2023
+  ___________
+ 
+ Introduced by M. of A. LEE -- read once and referred to the Committee on
+  Consumer Affairs and Protection
+ 
+ AN ACT to amend the general business law, in relation to prohibiting the
+  sale  of sodium nitrate and sodium nitrite to any person under the age
+  of twenty-one
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The general business law is amended by adding a new section
+ 399-hhh to read as follows:
+  §  399-HHH.  SALE OF SODIUM NITRATE AND SODIUM NITRITE.  1. NO PERSON,
+ CORPORATION, PARTNERSHIP, LIMITED LIABILITY COMPANY, FIRM OR  ANY  OTHER
+ BUSINESS ENTITY DOING BUSINESS WITHIN THIS STATE SHALL SELL OR OFFER FOR
+ SALE  SODIUM  NITRATE  OR  SODIUM NITRITE TO ANY PERSON UNDER THE AGE OF
+ TWENTY-ONE.
+  2. ANY PERSON, CORPORATION, PARTNERSHIP,  LIMITED  LIABILITY  COMPANY,
+ FIRM, OR ANY OTHER BUSINESS ENTITY DOING BUSINESS WITHIN THE STATE SELL-
+ ING, OFFERING FOR SALE, OR DISTRIBUTING SODIUM NITRATE OR SODIUM NITRITE
+ SHALL  REQUIRE  PROOF  OF  LEGAL  AGE PRIOR TO ALLOWING AN INDIVIDUAL TO
+ PURCHASE OR RECEIVE A SHIPMENT OF SODIUM NITRATE OR SODIUM NITRITE. SUCH
+ IDENTIFICATION NEED NOT BE REQUIRED OF  ANY  INDIVIDUAL  WHO  REASONABLY
+ APPEARS TO BE AT LEAST THIRTY YEARS OF AGE, PROVIDED, HOWEVER, THAT SUCH
+ APPEARANCE SHALL NOT CONSTITUTE A DEFENSE IN ANY PROCEEDING ALLEGING THE
+ SALE  OR DISTRIBUTION OF SODIUM NITRATE OR SODIUM NITRITE TO AN INDIVID-
+ UAL UNDER TWENTY-ONE YEARS OF AGE.
+  3. ANY PERSON, CORPORATION, PARTNERSHIP,  LIMITED  LIABILITY  COMPANY,
+ FIRM  OR  ANY OTHER BUSINESS ENTITY THAT VIOLATES THE PROVISIONS OF THIS
+ SECTION SHALL BE SUBJECT TO A CIVIL PENALTY OF NOT MORE THAN TWO HUNDRED
+ FIFTY DOLLARS FOR AN INITIAL OFFENSE AND  NOT  MORE  THAN  FIVE  HUNDRED
+ DOLLARS  FOR  THE  SECOND  AND  EACH  SUBSEQUENT  OFFENSE, PROVIDED THIS
+ SECTION SHALL NOT BE CONSTRUED TO LIMIT  ANY  OTHER  CRIMINAL  OR  CIVIL
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02657-01-3
+ A. 6798  2
+ 
+ LIABILITY  SUCH  PERSON,  CORPORATION,  PARTNERSHIP,  LIMITED  LIABILITY
+ COMPANY, FIRM OR OTHER BUSINESS ENTITY MAY BE SUBJECT TO UNDER LAW.
+  §  2.  This  act shall take effect on the thirtieth day after it shall
+ have become a law.
