@@ -1,6 +1,6 @@
 # Relates to establishing speed limits N.Y. city
 
-**Bill ID:** S2422B
+**Bill ID:** S2422BA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Senate Committee
@@ -16,7 +16,8 @@ Relates to establishing speed limits in cities with populations in excess of one
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2422
+  2422--A
+  Cal. No. 271
  
   2023-2024 Regular Sessions
  
@@ -25,10 +26,13 @@ S T A T E  O F  N E W  Y O R K
   January 20, 2023
   ___________
  
- Introduced  by Sens. HOYLMAN-SIGAL, BAILEY, BRISPORT, CLEARE, GOUNARDES,
-  JACKSON, KAVANAGH,  KENNEDY,  KRUEGER,  LIU,  MYRIE,  PERSAUD,  RAMOS,
-  RIVERA, SALAZAR, SEPULVEDA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+ Introduced  by  Sens. HOYLMAN-SIGAL, BAILEY, BRISPORT, CLEARE, GONZALEZ,
+  GOUNARDES, JACKSON, KAVANAGH, KENNEDY,  KRUEGER,  LIU,  MAYER,  MYRIE,
+  PERSAUD,  RAMOS, RIVERA, SALAZAR, SEPULVEDA, SERRANO -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Transportation  --  reported favorably from said committee, ordered to
+  first and second report, ordered  to  a  third  reading,  amended  and
+  ordered reprinted, retaining its place in the order of third reading
  
  AN ACT to amend the vehicle and traffic law, in relation to establishing
   speed  limits  in  cities  with  populations  in excess of one million
@@ -56,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
  city or within designated areas of such city higher or  lower  than  the
  fifty-five  miles  per hour maximum statutory limit. No such speed limit
  applicable throughout such city or within designated areas of such  city
- shall  be  established at less than [twenty-five] TWENTY miles per hour,
- except that school speed limits may  be  established  at  no  less  than
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02070-01-3
- S. 2422  2
+  LBD02070-02-3
+ S. 2422--A  2
  
+ shall  be  established at less than [twenty-five] TWENTY miles per hour,
+ except that school speed limits may  be  established  at  no  less  than
  fifteen  miles  per  hour  pursuant to the provisions of section sixteen
  hundred forty-three of this article.
   (b)  A  city  shall not lower OR RAISE a speed limit by more than five
@@ -78,34 +82,38 @@ S T A T E  O F  N E W  Y O R K
  TWENTY  miles  per  hour at which motor vehicles may proceed on or along
  designated highways within such city for the explicit purpose of  imple-
  menting  traffic  calming  measures  as  such  term  is  defined herein;
- provided, however, that no speed limit shall be set below [fifteen] FIVE
+ provided, however, that no speed limit shall be set below [fifteen]  TEN
  miles per hour nor shall such speed limit be established where the traf-
- fic calming measure to be  implemented  consists  solely  of  a  traffic
+ fic  calming  measure  to  be  implemented  consists solely of a traffic
  control sign.  Establishment of such a speed limit shall, where applica-
- ble,  be  in  compliance with the provisions of sections sixteen hundred
- twenty-four and sixteen hundred eighty-four  of  this  [chapter]  TITLE.
- Nothing  contained  herein shall be deemed to alter or affect the estab-
- lishment of school speed limits pursuant to the  provisions  of  section
- sixteen  hundred  forty-three  of this article. For the purposes of this
- paragraph, "traffic calming measures" shall mean any physical  engineer-
- ing  measure or measures that reduce the negative effects of motor vehi-
- cle use, alter driver behavior and improve conditions for  non-motorized
+ ble, be in compliance with the provisions of  sections  sixteen  hundred
+ twenty-four  and  sixteen  hundred  eighty-four of this [chapter] TITLE.
+ Nothing contained herein shall be deemed to alter or affect  the  estab-
+ lishment  of  school  speed limits pursuant to the provisions of section
+ sixteen hundred forty-three of this article. For the  purposes  of  this
+ paragraph,  "traffic calming measures" shall mean any physical engineer-
+ ing measure or measures that reduce the negative effects of motor  vehi-
+ cle  use, alter driver behavior and improve conditions for non-motorized
  street users such as pedestrians and bicyclists.
-  (b)  Any  city  establishing  maximum speed limits below [twenty-five]
- TWENTY miles per hour pursuant to clause (i) of this subparagraph  shall
- submit  a  report to the governor, the temporary president of the senate
- and the speaker of the assembly on or before March first,  two  thousand
- fifteen  and biannually thereafter on the results of using traffic calm-
- ing measures and speed limits lower than [twenty-five] TWENTY miles  per
- hour  as  authorized  by  this paragraph. This report shall also be made
- available to the public by such city on its website. Such  report  shall
+  (b) Any city establishing maximum  speed  limits  below  [twenty-five]
+ TWENTY  miles per hour pursuant to clause (i) of this subparagraph shall
+ submit a report to the governor, the temporary president of  the  senate
+ and  the  speaker of the assembly on or before March first, two thousand
+ fifteen and biannually thereafter on the results of using traffic  calm-
+ ing  measures and speed limits lower than [twenty-five] TWENTY miles per
+ hour as authorized by this paragraph. This report  shall  also  be  made
+ available  to  the public by such city on its website. Such report shall
  include, but not be limited to the following:
-  (i)  a  description  of  the designated highways where traffic calming
- measures and a lower speed limit were established and
-  (ii) a description of the specific traffic calming measures  used  and
- the maximum speed limit established and
-  (iii)  a  comparison  of  the  aggregate type, number, and severity of
- accidents reported on streets on which street calming measures and lower
+  (i) a description of the designated  highways  where  traffic  calming
+ measures and a lower speed limit were established [and];
+  (ii)  a  description of the specific traffic calming measures used and
+ the maximum speed limit established [and];
+  (iii) AN EXPLANATION OF THE REASONS FOR SETTING  LOWER  SPEED  LIMITS,
+ HOW  THOSE LOWER SPEED LIMITS COMPLY WITH ENGINEERING STANDARDS, AND HOW
+ THEY WILL ENSURE THAT MOTOR VEHICLES CAN OPERATE AT  SAFE  SPEEDS  IN  A
+ MANNER THAT OPTIMIZES ALL ROAD USERS' SAFETY AND CONVENIENCE; AND
+  (IV) a comparison of the aggregate type, number, and severity of acci-
+ dents  reported  on  streets  on which street calming measures and lower
  speed limits were implemented in the year preceding  the  implementation
  of  such measures and policies and the year following the implementation
  of such measures and policies, to the extent this information  is  main-
