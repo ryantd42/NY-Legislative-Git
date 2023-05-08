@@ -1,6 +1,6 @@
 # Relates to prohibiting the unauthorized installation of certain security devices on residential buildings
 
-**Bill ID:** S358BA
+**Bill ID:** S358BB
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Prohibits the installation of certain security devices used to control access to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  358--A
+  358--B
   Cal. No. 325
  
   2023-2024 Regular Sessions
@@ -32,7 +32,8 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee  on  Consumer  Protection  --
   reported  favorably  from  said committee, ordered to first and second
   report, ordered to a third reading,  amended  and  ordered  reprinted,
-  retaining its place in the order of third reading
+  retaining its place in the order of third reading -- again amended and
+  ordered reprinted, retaining its place in the order of third reading
  
  AN ACT to amend the general business law, in relation to prohibiting the
   unauthorized  installation of  certain security devices on residential
@@ -47,15 +48,15 @@ S T A T E  O F  N E W  Y O R K
  ITED.  NO  PERSON,  FIRM,  PARTNERSHIP, ASSOCIATION OR CORPORATION SHALL
  INSTALL ANY KEYLESS SECURITY DEVICE USED TO CONTROL AND SECURE ACCESS TO
  THE COMMON AREAS OF ANY RESIDENTIAL BUILDING WITHOUT THE EXPRESS WRITTEN
- CONSENT OF THE OWNER, PROPERTY MANAGER, BOARD OF DIRECTORS,  OR  AUTHOR-
+ CONSENT OF THE OWNER, BOARD OF MANAGERS, BOARD OF DIRECTORS, OR  AUTHOR-
  IZED  PARTY  OF  SUCH PROPERTY. WHERE A KEYLESS SECURITY DEVICE HAS BEEN
  AUTHORIZED, ANY INSTALLATION OF SUCH DEVICE SHALL BE  PERFORMED  BY,  OR
- WITH THE CONSENT OF, THE OWNER, PROPERTY MANAGER, BOARD OF DIRECTORS, OR
- AUTHORIZED PARTY IN PLACE IN SUCH BUILDING.
+ WITH  THE  CONSENT  OF,  THE OWNER, PROPERTY MANAGER, BOARD OF MANAGERS,
+ BOARD OF DIRECTORS, OR AUTHORIZED PARTY IN PLACE IN SUCH BUILDING.
   § 2. This act shall take effect immediately.
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01646-02-3
+  LBD01646-05-3
