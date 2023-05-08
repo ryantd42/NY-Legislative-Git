@@ -1,6 +1,6 @@
 # Relates to designating a portion of the state highway system as "Specialist Gerald B. Penn Memorial Bridge"
 
-**Bill ID:** S6579A
+**Bill ID:** S6579AA
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in the town of Boston, county o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6579
+  6579--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. GALLIVAN -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway  system  as  "Specialist  Gerald  B.  Penn  Memorial
   Bridge"
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -39,18 +41,16 @@ S T A T E  O F  N E W  Y O R K
  read as follows:
   § 344-O. PORTION OF THE STATE HIGHWAY  SYSTEM  TO  BE  DESIGNATED  AND
  KNOWN  AS  THE  "SPECIALIST  GERALD  B.  PENN MEMORIAL BRIDGE". ALL THAT
- PORTION OF THE STATE HIGHWAY SYSTEM CONSTITUTING THE BRIDGE ON ROUTE TWO
- HUNDRED NINETEEN, DESIGNATED BRIDGE NUMBER 1071050,  WHICH  CROSSES  THE
- EIGHTEEN MILE CREEK 3.1 MILES SOUTH OF THE JUNCTION OF THE SOUTHERN TIER
- EXPRESSWAY AND ROUTE TWO HUNDRED NINETEEN, IN THE TOWN OF BOSTON, COUNTY
- OF  ERIE,  SHALL  BE  KNOWN  AS THE "SPECIALIST GERALD B.  PENN MEMORIAL
- BRIDGE".
-  § 2. The commissioner of transportation shall provide for the  instal-
- lation  and  maintenance of adequate signing of the state highway system
- as designated pursuant to section one of this  act.  However,  to  avoid
- confusion  and  to limit any possible disruption of commerce, the desig-
- nation called for pursuant to section one of this act shall  be  one  of
- ceremonial  nature  and  the  official  name of such bridge shall not be
+ PORTION OF THE STATE HIGHWAY SYSTEM CONSTITUTING THE  SOUTHBOUND  BRIDGE
+ ON  STATE  ROUTE TWO HUNDRED NINETEEN, DESIGNATED BRIDGE NUMBER 1071050,
+ WHICH CROSSES OVER SHERO ROAD, IN THE TOWN OF BOSTON,  COUNTY  OF  ERIE,
+ SHALL BE KNOWN AS THE "SPECIALIST GERALD B.  PENN MEMORIAL BRIDGE".
+  §  2. The commissioner of transportation shall provide for the instal-
+ lation and maintenance of adequate signing of the state  highway  system
+ as  designated  pursuant  to  section one of this act. However, to avoid
+ confusion and to limit any possible disruption of commerce,  the  desig-
+ nation  called  for  pursuant to section one of this act shall be one of
+ ceremonial nature and the official name of  such  bridge  shall  not  be
  changed as a result of this act.
   § 3. This act shall take effect immediately.
  
@@ -58,4 +58,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00594-01-3
+  LBD00594-03-3
