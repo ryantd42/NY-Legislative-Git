@@ -1,6 +1,6 @@
 # Prohibits individuals in certain positions from taking any position with a business or entity doing business with an agency or industrial development authority
 
-**Bill ID:** S520A
+**Bill ID:** S520AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Prohibits individuals in certain positions from taking any position with a busin
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  520
+  520--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general municipal law, in  relation  to  prohibiting
   individuals in certain positions from taking any position with a busi-
   ness or entity doing business with an industrial development authority
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -42,22 +44,33 @@ S T A T E  O F  N E W  Y O R K
  of  an  agency  or  industrial development authority established by this
  chapter or created by the public authorities law shall be subject to the
  provisions of article eighteen of this chapter.
-  2. NO MEMBER, OFFICER, EMPLOYEE OR INDEPENDENT CONTRACTOR OF ANY AGEN-
- CY OR INDUSTRIAL DEVELOPMENT AUTHORITY ESTABLISHED BY  THIS  CHAPTER  OR
- THE  PUBLIC  AUTHORITIES  LAW  SHALL  TAKE ANY POSITION, WHETHER PAID OR
+  2. (A) NO MEMBER, OFFICER, EMPLOYEE OR INDEPENDENT CONTRACTOR  OF  ANY
+ AGENCY  OR  INDUSTRIAL DEVELOPMENT AUTHORITY ESTABLISHED BY THIS CHAPTER
+ OR THE PUBLIC AUTHORITIES LAW SHALL TAKE ANY POSITION, WHETHER  PAID  OR
  UNPAID, INCLUDING BUT NOT LIMITED TO AN INDEPENDENT CONTRACTOR, WITH ANY
- BUSINESS OR ENTITY APPLYING FOR OR RECEIVING FINANCIAL  ASSISTANCE  FROM
- SUCH  AGENCY  OR  INDUSTRIAL  DEVELOPMENT AUTHORITY WHILE EMPLOYED BY OR
+ BUSINESS  OR  ENTITY APPLYING FOR OR RECEIVING FINANCIAL ASSISTANCE FROM
+ SUCH AGENCY OR INDUSTRIAL DEVELOPMENT AUTHORITY  WHILE  EMPLOYED  BY  OR
  RENDERING SERVICES TO SUCH AGENCY OR INDUSTRIAL DEVELOPMENT AUTHORITY OR
- WITHIN TWO YEARS AFTER TERMINATION OF SUCH EMPLOYMENT  OR  RENDERING  OF
+ WITHIN  TWO  YEARS  AFTER TERMINATION OF SUCH EMPLOYMENT OR RENDERING OF
  SERVICES.
+  (B) THESE RESTRICTIONS SHALL NOT APPLY TO WORKERS, CONTRACTORS, COMPA-
+ NIES, AND CORPORATIONS PERFORMING MAINTENANCE, REPAIRS  OR  IMPROVEMENTS
+ TO  THE PREMISES OWNED OR LEASED BY THE INDUSTRIAL DEVELOPMENT AUTHORITY
+ INCLUDING, BUT NOT LIMITED TO, MAINTENANCE WORKERS,  LANDSCAPERS,  SNOW-
+ PLOWERS,  PLUMBERS,  ELECTRICIANS,  PAINTERS  AND  OTHER TRADES WORKERS.
+ THESE RESTRICTIONS SHALL NOT APPLY TO A MEMBER  OF  A  UNION  WHO  IS  A
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02770-02-3
+ S. 520--A  2
+ 
+ MEMBER OF THE INDUSTRIAL DEVELOPMENT AUTHORITY BOARD AND WHOSE UNION HAS
+ MEMBERS  WHO WORK FOR AN ENTITY WHICH RECEIVES OR IS APPLYING FOR FINAN-
+ CIAL ASSISTANCE FROM THE INDUSTRIAL DEVELOPMENT AUTHORITY.
   3.  ANY  PERSON WHO KNOWINGLY AND WILLFULLY VIOLATES THE PROVISIONS OF
  SUBDIVISION TWO OF THIS SECTION AND IS COMPENSATED OR RECEIVES ANY BENE-
  FIT DUE TO SUCH VIOLATION SHALL PAY A CIVIL PENALTY  TO  THE  AGENCY  OR
  INDUSTRIAL  DEVELOPMENT  AUTHORITY  IN AN AMOUNT EQUAL TO FIVE TIMES THE
  COMPENSATION OR BENEFIT RECEIVED BY SUCH PERSON.
   § 2. This act shall take effect immediately.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02770-01-3
