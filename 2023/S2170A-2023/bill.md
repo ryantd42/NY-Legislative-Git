@@ -1,6 +1,6 @@
 # Allows home-schooled children to participate in interscholastic athletic activities and drivers ed in the district where they reside
 
-**Bill ID:** S2170A
+**Bill ID:** S2170AA
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Allows home-schooled children to participate in interscholastic athletic activit
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2170
+  2170--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens.  LIU, MAY, ORTT -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Education
+  and when printed to be committed to  the  Committee  on  Education  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the education law, in relation to the  participation  of
   home-schooled pupils in certain school activities
@@ -38,7 +40,7 @@ S T A T E  O F  N E W  Y O R K
  new subdivision 3 to read as follows:
   3. WHENEVER SUCH COURSE OF INSTRUCTION IS OFFERED WITHIN A DISTRICT, A
  CHILD  RESIDING  WITHIN  THAT  DISTRICT  BUT NOT ATTENDING THE SCHOOL AT
- WHICH SUCH COURSE IS OFFERED, SHALL BE ALLOWED TO  PARTICIPATE  IN  SUCH
+ WHICH SUCH COURSE IS OFFERED, MAY BE  ALLOWED  TO  PARTICIPATE  IN  SUCH
  COURSE,  PROVIDED  SUCH  CHILD  OTHERWISE MEETS THE REQUIREMENTS OF SUCH
  COURSE AND PAYS FEES RELATED TO SUCH COURSE, IF ANY.
   § 2. The education law is amended by adding a new  section  3202-a  to
@@ -46,7 +48,7 @@ S T A T E  O F  N E W  Y O R K
   §  3202-A.  PARTICIPATION OF HOME-SCHOOLED STUDENTS IN ATHLETIC ACTIV-
  ITIES. WHENEVER A  DISTRICT  SHALL  OFFER  AN  INTERSCHOLASTIC  ATHLETIC
  ACTIVITY,  A  CHILD RESIDING WITHIN SUCH DISTRICT BUT NOT ATTENDING SUCH
- SCHOOL, SHALL BE ALLOWED AN OPPORTUNITY TO PARTICIPATE IN SUCH  ATHLETIC
+ SCHOOL, MAY BE ALLOWED AN OPPORTUNITY TO PARTICIPATE  IN  SUCH  ATHLETIC
  ACTIVITY;  PROVIDED,  THAT  SUCH  CHILD IS NOT A PUPIL AT ANOTHER SCHOOL
  WITHIN SUCH DISTRICT.
   § 3. This act shall take effect on the one hundred twentieth day after
@@ -56,4 +58,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06037-01-3
+  LBD06037-02-3
