@@ -1,0 +1,66 @@
+# Relates to the substitution of brand name epinephrine auto-injectors with alternate epinephrine auto-injectors
+
+**Bill ID:** A6988
+**Session:** 2023
+**Sponsor:** Jonathan Jacobson
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to the substitution of brand name epinephrine auto-injectors with alternate epinephrine auto-injectors in certain cases.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6988
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 9, 2023
+  ___________
+ 
+ Introduced by M. of A. JACOBSON -- read once and referred to the Commit-
+  tee on Higher Education
+ 
+ AN  ACT  to  amend the education law, in relation to the substitution of
+  brand name epinephrine auto-injectors with alternate epinephrine auto-
+  injectors for dispensation by pharmacists
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Section 6816-a of the education law is amended by adding a
+ new subdivision 6 to read as follows:
+  6. (A) NOTWITHSTANDING SUBDIVISION TWO OF THIS SECTION  OR  ANY  OTHER
+ SECTION  OF  LAW  TO  THE CONTRARY, WHEN A PATIENT IS PRESCRIBED A BRAND
+ NAME EPINEPHRINE AUTO-INJECTOR, A PHARMACIST MAY SUBSTITUTE AN ALTERNATE
+ EPINEPHRINE AUTO-INJECTOR CONTAINING THE SAME ACTIVE INGREDIENTS, DOSAGE
+ FORM AND STRENGTH AS THE  BRAND  NAME  PRODUCT  PRESCRIBED,  ORDERED  OR
+ DEMANDED,  REGARDLESS OF WHETHER THE ALTERNATE EPINEPHRINE AUTO-INJECTOR
+ IS INCLUDED IN THE LATEST LIST OF INTERCHANGEABLE DRUG PRODUCTS FOR  THE
+ PRESCRIBED EPINEPHRINE AUTO-INJECTOR DEVICE, PROVIDED THAT:
+  (I)  THE  PRESCRIBER  DOES NOT INDICATE THAT THE PRESCRIPTION THEREFOR
+ SHALL BE DISPENSED AS WRITTEN PURSUANT TO PARAGRAPH (A)  OF  SUBDIVISION
+ SIX OF SECTION SIXTY-EIGHT HUNDRED TEN OF THIS ARTICLE;
+  (II) THE ALTERNATE EPINEPHRINE AUTO-INJECTOR AVAILABLE WOULD REFLECT A
+ LOWER UNIT COST TO THE PURCHASER;
+  (III)  THE PHARMACIST HAS ADVISED THE PURCHASER OF THE AVAILABILITY OF
+ AN ALTERNATE EPINEPHRINE AUTO-INJECTOR AND OBTAINED CONSENT TO  DISPENSE
+ THE ALTERNATE EPINEPHRINE AUTO-INJECTOR; AND
+  (IV)  THE PHARMACIST HAS COUNSELED THE PATIENT OR PERSON AUTHORIZED TO
+ ACT ON THE PATIENT'S BEHALF ON THE PROPER USAGE AND  OPERATING  FEATURES
+ OF THE ALTERNATE EPINEPHRINE AUTO-INJECTOR.
+  (B) FOR PURPOSES OF THIS SUBDIVISION "EPINEPHRINE AUTO-INJECTOR" SHALL
+ HAVE THE SAME MEANING AS PROVIDED IN PARAGRAPH (B) OF SUBDIVISION ONE OF
+ SECTION THREE THOUSAND-C OF THE PUBLIC HEALTH LAW.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08848-01-3
