@@ -1,6 +1,6 @@
 # Makes major revisions to provisions of the alcoholic beverage control law relating to the issuance of licenses and hours of operation
 
-**Bill ID:** S6785B
+**Bill ID:** S6785BA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to the effectiveness of provisions of law relating to the powers of the 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6785
+  6785--A
  
   2023-2024 Regular Sessions
  
@@ -27,102 +27,103 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the alcoholic beverage control law, in relation  to  the
-  hours  during  which  liquor  and/or wine stores may be open on Sunday
-  (Part A); to amend the  alcoholic  beverage  control  law,  in
-  relation  to  permitting the sale of beer  at  retail  on Sundays; and
-  to repeal certain provisions of such law  relating thereto  (Part  B);
+ AN  ACT  to amend the alcoholic beverage control law, in relation to the
+  hours during which liquor and/or wine stores may  be  open  on  Sunday
+  (Part  A);  to  amend  the  alcoholic  beverage  control  law,  in
+  relation to permitting the sale of beer  at  retail  on Sundays;  and
+  to  repeal  certain provisions of such law  relating thereto (Part B);
   to amend the alcoholic  beverage  control  law, in relation to author-
   izing special permits to remain open during certain hours of the morn-
-  ing  (Part  C);  to amend the alcoholic  beverage  control  law,  in
-  relation  to permitting  certain  retail licensees to  purchase  wine
-  and  liquor from certain other retail licensees (Part D); to amend the
+  ing (Part C); to amend the alcoholic  beverage  control  law,  in
+  relation  to permitting  certain  retail licensees to purchase wine
+  and liquor from certain other retail licensees (Part D); to amend  the
   alcoholic  beverage  control  law,  in  relation  to permissible sales
-  by license holders (Part E); to amend the alcoholic  beverage  control
-  law,  in relation to allowing multiple off-premises licenses (Part F);
-  to amend the alcoholic beverage control law, in relation to  licensing
-  restrictions  for manufacturers and wholesalers of alcoholic beverages
+  by  license  holders (Part E); to amend the alcoholic beverage control
+  law, in relation to allowing multiple off-premises licenses (Part  F);
+  to  amend the alcoholic beverage control law, in relation to licensing
+  restrictions for manufacturers and wholesalers of alcoholic  beverages
   and retail licensees (Part G); to amend the alcoholic beverage control
-  law, in relation to the approval of seven day licenses to sell  liquor
-  at  retail  for  consumption off  the premises (Part H); to amend the
-  alcoholic beverage control law, in  relation  to  adjusting  licensing
-  fees  regarding  certain  alcoholic  beverages  (Part I); to amend the
-  alcoholic beverage control  law,  in  relation  to  notifying  munici-
+  law,  in relation to the approval of seven day licenses to sell liquor
+  at retail for consumption off  the premises (Part H);  to  amend  the
+  alcoholic  beverage  control  law,  in relation to adjusting licensing
+  fees regarding certain alcoholic beverages  (Part  I);  to  amend  the
+  alcoholic  beverage  control  law,  in  relation  to notifying munici-
   palities of the filing of certain applications (Part J); to  amend the
   alcoholic beverage control law, in relation to changes of ownership of
   a  licensed business (Part K); to amend the alcoholic beverage control
-  law,  in relation  to  the  issuance  of temporary retail permits; and
-  to amend chapter 396 of the  laws  of  2010  amending  the  alcoholic
-  beverage  control  law  relating to liquidator's permits and temporary
-  retail permits, in relation to the effectiveness thereof (Part L);  to
-  amend  the alcoholic beverage control law, in relation to the issuance
+  law, in relation  to  the  issuance  of temporary retail permits;  and
+  to  amend chapter 396 of the  laws  of  2010  amending  the  alcoholic
+  beverage control  law  relating to liquidator's permits and  temporary
+  retail  permits, in relation to the effectiveness thereof (Part L); to
+  amend the alcoholic beverage control law, in relation to the  issuance
   of temporary wholesale permits (Part M); to amend the alcoholic bever-
-  age control law, in  relation  to  licenses  issued  for  on  premises
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11092-02-3
- S. 6785  2
+  LBD11092-03-3
+ S. 6785--A  2
  
-  consumption  within  two  hundred  feet  of  a  building occupied as a
-  school, church, synagogue or other place of worship (Part N);  and  to
+  age  control  law,  in  relation  to  licenses  issued for on premises
+  consumption within two hundred  feet  of  a  building  occupied  as  a
+  school,  church,  synagogue or other place of worship (Part N); and to
   repeal  paragraphs b and f of subdivision 7 of section 64 of the alco-
-  holic  beverage control law relating to restricting licenses for prem-
+  holic beverage control law relating to restricting licenses for  prem-
   ises located within five hundred feet of other licensed premises (Part
   O)
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  This  act enacts into law major components of legislation
- necessary to implement certain provisions regarding licensing and  sales
- under  the  alcoholic  beverage  control law.  Each component is wholly
- contained within a Part identified as Parts A through O.  The  effective
- date  for  each  particular  provision contained within such Part is set
- forth in the last section of such Part. Any  provision  in  any  section
+  Section 1. This act enacts into law major  components  of  legislation
+ necessary  to implement certain provisions regarding licensing and sales
+ under the alcoholic beverage control law.  Each  component  is  wholly
+ contained  within  a Part identified as Parts A through O. The effective
+ date for each particular provision contained within  such  Part  is  set
+ forth  in  the  last  section of such Part. Any provision in any section
  contained within a Part, including the effective date of the Part, which
- makes  a  reference  to a section "of this act", when used in connection
+ makes a reference to a section "of this act", when  used  in  connection
  with that particular component, shall be deemed to mean and refer to the
  corresponding section of the Part in which it is found. Section three of
  this act sets forth the general effective date of this act.
  
   PART A
  
-  Section 1. Subparagraph (i) of paragraph  (a)  of  subdivision  14  of
+  Section  1.  Subparagraph  (i)  of  paragraph (a) of subdivision 14 of
  section 105 of the alcoholic beverage control law, as amended by section
- 1  of  part  EE of chapter 55 of the laws of 2022, is amended to read as
+ 1 of part EE of chapter 55 of the laws of 2022, is amended  to  read  as
  follows:
   (i) On Sunday before [twelve] TEN o'clock [post meridian] ANTE MERIDI-
  AN and after [nine] TEN o'clock post meridian.
   § 2. This act shall take effect immediately.
  
   PART B
- 
-  Section 1. Section 105-a of the  alcoholic  beverage  control  law  is
+
+  Section  1.  Section  105-a  of  the alcoholic beverage control law is
  REPEALED.
-  §  2.  Subdivision  4  of section 34 of the alcoholic beverage control
- law, as added by chapter 522 of the laws of 2018, is amended to read  as
+  § 2. Subdivision 4 of section 34 of  the  alcoholic  beverage  control
+ law,  as added by chapter 522 of the laws of 2018, is amended to read as
  follows:
-  4.  No  tasting  shall  be  held  during  the  hours prohibited by the
- provisions of [sections] SECTION  one  hundred  five  [and  one  hundred
- five-a] of this chapter.
-  § 3. Subdivision (d) of section 54-b of the alcoholic beverage control
- law,  as added by chapter 232 of the laws of 2015, is amended to read as
- follows:
-  (d) No tasting shall be  held  during  the  hours  prohibited  by  the
+  4. No tasting shall  be  held  during  the  hours  prohibited  by  the
  provisions  of  [sections]  SECTION  one  hundred  five [and one hundred
  five-a] of this chapter.
-  § 4. Subdivision (d) of section 59-a of the alcoholic beverage control
+  § 3. Subdivision (d) of section 54-b of the alcoholic beverage control
  law, as added by chapter 232 of the laws of 2015, is amended to read  as
  follows:
   (d)  No  tasting  shall  be  held  during  the hours prohibited by the
- provisions of section one hundred five [and one hundred five-a] of  this
+ provisions of [sections] SECTION  one  hundred  five  [and  one  hundred
+ five-a] of this chapter.
+  § 4. Subdivision (d) of section 59-a of the alcoholic beverage control
+ law,  as added by chapter 232 of the laws of 2015, is amended to read as
+ follows:
+  (d) No tasting shall be  held  during  the  hours  prohibited  by  the
+ provisions  of section one hundred five [and one hundred five-a] of this
  chapter.
- S. 6785  3
+ S. 6785--A  3
  
-  §  5. Subdivision 6 of section 117-a of the alcoholic beverage control
+  § 5. Subdivision 6 of section 117-a of the alcoholic beverage  control
  law is REPEALED.
   §  6.  Subdivision  4 of section 130 of the alcoholic beverage control
  law, as amended by chapter 186 of the laws of 1949, is amended  to  read
@@ -177,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
   § 3. This act shall take effect immediately.
  
   PART E
- S. 6785  4
+ S. 6785--A  4
  
   Section  1.  Subdivision  4  of  section  63 of the alcoholic beverage
  control law, as amended by section 3 of part H of chapter 58 of the laws
@@ -235,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  who is authorized to sell beer at retail from  selling  at  retail:  (i)
  candy,  chewing  gum and cough drops; (ii) non-refrigerated salsa; (iii)
  cigarette lighters, lighter fluid, matches and ashtrays;  (iv)  barbecue
- S. 6785  5
+ S. 6785--A  5
  
  and  picnic-related  products and supplies, which shall include, but not
  be limited to, charcoal, grills, propane gas, plastic  and  paper  cups,
@@ -293,7 +294,7 @@ S T A T E  O F  N E W  Y O R K
  ing  of a sealed container OR CONTAINERS of liquor, wine or wine product
  and other merchandise reasonably used in connection  with  the  prepara-
  tion,  storage,  PROMOTION,  GIFTING,  CONSUMPTION or service of liquor,
- S. 6785  6
+ S. 6785--A  6
  
  wine or wine products provided that such other merchandise shall not  be
  potable  or  edible  AND  SUBJECT  TO  SUCH RULES AND REGULATIONS AS THE
@@ -309,7 +310,7 @@ S T A T E  O F  N E W  Y O R K
   § 2. This act shall take effect immediately.
  
   PART G
-
+ 
   Section  1. The opening paragraph of paragraph (a) of subdivision 1 of
  section 101 of the alcoholic beverage control law, as amended by chapter
  318 of the laws of 2016, is amended to read as follows:
@@ -332,7 +333,7 @@ S T A T E  O F  N E W  Y O R K
   § 3. This act shall take effect immediately.
  
   PART H
- 
+
   Section 1. Subdivision 6 of  section  63  of  the  alcoholic  beverage
  control law, as added by chapter 1024 of the laws of 1965, is amended to
  read as follows:
@@ -350,8 +351,8 @@ S T A T E  O F  N E W  Y O R K
  age  control  law,  subdivision  3 as amended by section 12 of part Z of
  chapter 85 of the laws of 2002 and subdivision 4 as amended  by  chapter
  297 of the laws of 2016, are amended to read as follows:
- S. 6785  7
-
+ S. 6785--A  7
+ 
   3.  The  license fee for such permit shall be [twenty-six] TWENTY-FIVE
  dollars per year, or for any part  thereof,  and  the  permit  shall  be
  issued for the calendar year.
@@ -408,8 +409,8 @@ S T A T E  O F  N E W  Y O R K
  statement  shall  be  accepted  for all purposes as the equivalent of an
  affidavit, and if false, shall subject the person making  and  executing
  the same to the same penalties as if he OR SHE had been duly sworn. Such
- S. 6785  8
- 
+ S. 6785--A  8
+
  permit  shall  be  issued in the form prescribed by the liquor authority
  and shall run concurrently with the annual term of the brewer's  license
  or  of  the wholesale beer license, and the fee for such permit shall be
@@ -465,7 +466,7 @@ S T A T E  O F  N E W  Y O R K
  by  rule  of the liquor authority. The corporate change fee provided for
  herein shall not be applicable to more than one license held by the same
  corporation.
- S. 6785  9
+ S. 6785--A  9
  
   (c) Notwithstanding any corporate change approved by the authority,  a
  licensed  corporation or limited liability company shall be bound by the
@@ -523,8 +524,8 @@ S T A T E  O F  N E W  Y O R K
  cities  having  a  population  of  one hundred thousand or over, and one
  hundred sixty dollars elsewhere; provided, however, that where the prem-
  ises to be licensed remain open only within the period commencing  April
- S. 6785  10
- 
+ S. 6785--A  10
+
  first and ending October thirty-first of any one year or only within the
  period  commencing  October first and ending the following April thirti-
  eth, the liquor authority, in its discretion,  may  grant  a  summer  or
@@ -580,7 +581,7 @@ S T A T E  O F  N E W  Y O R K
  of the laws of 2016, subdivision 4 as amended by chapter 703 of the laws
  of 2022, and subdivision 10 as added by chapter 331 of the laws of 2004,
  is amended to read as follows:
- S. 6785  11
+ S. 6785--A  11
  
   § 66. License fees. 1. The annual fee for a distiller's license, class
  A, shall be twelve thousand dollars.
@@ -638,7 +639,7 @@ S T A T E  O F  N E W  Y O R K
  ber first and ending the following April thirtieth, the liquor authority
  may,  in its discretion, grant a summer or winter license effective only
  for such appropriate period of time, for which a license  fee  shall  be
- S. 6785  12
+ S. 6785--A  12
  
  paid to be pro-rated for the period for which such license is effective,
  at  the  rate  provided  for  in the city, town or village in which such
@@ -696,8 +697,8 @@ S T A T E  O F  N E W  Y O R K
  premises, pursuant to section fifty-four  of  this  chapter,  shall,  by
  virtue  of  such  license and upon payment to the liquor authority of an
  additional fee in the sum of one hundred sixty-five  dollars  in  cities
- S. 6785  13
- 
+ S. 6785--A  13
+
  having  a  population of one hundred thousand or over and [eighty-three]
  EIGHTY dollars elsewhere, be granted  authorization  to  sell  from  the
  licensed premises wine products in sealed containers for consumption off
@@ -754,7 +755,7 @@ S T A T E  O F  N E W  Y O R K
   3.  The  annual  fee  for  a license to sell wine at retail, not to be
  consumed on the premises, shall be six hundred forty  dollars  for  each
  such  place  where  such business is carried on in cities having a popu-
- S. 6785  14
+ S. 6785--A  14
  
  lation of one million or more; in cities having less  than  one  million
  population  and  more  than  one  hundred thousand, three hundred twenty
@@ -812,7 +813,7 @@ S T A T E  O F  N E W  Y O R K
  permit was effective, with the same  rights  and  subject  to  the  same
  restrictions  and  liabilities  as if he had been the original applicant
  for and the original holder, or one of either of them, of  such  license
- S. 6785  15
+ S. 6785--A  15
  
  or permit, providing the approval of the liquor authority shall be first
  obtained.  Before  continuing  such  business,  such receiver, assignee,
@@ -870,7 +871,7 @@ S T A T E  O F  N E W  Y O R K
  dollars. IF THE AUTHORITY DOES NOT ACT WITHIN NINETY DAYS OF RECEIPT  OF
  SUCH  APPLICATION, THE CHANGE SHALL BE DEEMED APPROVED. PROVIDED, HOWEV-
  ER, ANY CHANGE WHICH IS IN VIOLATION OF ANY PROVISION OF  THIS  CHAPTER,
- S. 6785  16
+ S. 6785--A  16
  
  INCLUDING  BUT  NOT  LIMITED  TO  THOSE IN SECTIONS ONE HUNDRED ONE, ONE
  HUNDRED TWENTY-SIX, AND ONE HUNDRED TWENTY-EIGHT OF  THIS  CHAPTER,  MAY
@@ -926,7 +927,7 @@ S T A T E  O F  N E W  Y O R K
  required in this section. The authority may, in  its  discretion,  issue
  additional  [thirty] NINETY day extensions upon payment of the appropri-
  ate fee.
- S. 6785  17
+ S. 6785--A  17
 
   § 3. Subdivision 6 of section 97-a of the alcoholic  beverage  control
  law, as added by chapter 396 of the laws of 2010, is amended to read  as
@@ -983,7 +984,7 @@ S T A T E  O F  N E W  Y O R K
  THE WHOLESALE LICENSE BEING APPLIED FOR; AND
   (C)  THE  APPLICANT  HAS  SUBSTANTIALLY COMPLIED WITH THE REQUIREMENTS
  NECESSARY TO OBTAIN SUCH LICENSE.
- S. 6785  18
+ S. 6785--A  18
  
   4. THE APPLICATION FOR A PERMIT SHALL BE APPROVED  OR  DENIED  BY  THE
  LIQUOR AUTHORITY WITHIN FORTY-FIVE DAYS AFTER THE RECEIPT OF SUCH APPLI-
@@ -1015,27 +1016,28 @@ S T A T E  O F  N E W  Y O R K
  2009, is amended to read as follows:
   (a) on the same street or avenue and within  two  hundred  feet  of  a
  building  occupied  exclusively  as a school, church, synagogue or other
- place of worship; PROVIDED, HOWEVER, THAT SUCH  RESTRICTION  SHALL  ONLY
- APPLY  TO IF THE SCHOOL, CHURCH, SYNAGOGUE OR OTHER PLACE OF WORSHIP HAS
- OCCUPIED ITS CURRENT LOCATION, IN WHOLE OR IN PART, FOR  AT  LEAST  FIVE
- YEARS  PRIOR  TO THE DATE OF APPLICATION FOR A LICENSE TO SELL LIQUOR AT
- RETAIL FOR CONSUMPTION ON THE PREMISES, or
+ place of worship; PROVIDED, HOWEVER, THAT SUCH RESTRICTION RELATED TO  A
+ CHURCH,  SYNAGOGUE  OR  OTHER  PLACE  OF WORSHIP SHALL ONLY APPLY IF THE
+ CHURCH, SYNAGOGUE OR OTHER PLACE OF WORSHIP  HAS  OCCUPIED  ITS  CURRENT
+ LOCATION, IN WHOLE OR IN PART, FOR AT LEAST FIVE YEARS PRIOR TO THE DATE
+ OF APPLICATION FOR A LICENSE TO SELL LIQUOR AT RETAIL FOR CONSUMPTION ON
+ THE PREMISES, or
   § 2. This act shall take effect immediately.
  
   PART O
  
-  Section 1. Paragraphs b and f of subdivision 7 of section  64  of  the
+  Section  1.  Paragraphs  b and f of subdivision 7 of section 64 of the
  alcoholic beverage control law are REPEALED.
   § 2. This act shall take effect immediately.
   § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
- sion,  section  or  part  of  this act shall be adjudged by any court of
- competent jurisdiction to be invalid, such judgment  shall  not  affect,
- impair,  or  invalidate  the remainder thereof, but shall be confined in
- its operation to the clause, sentence, paragraph,  subdivision,  section
+ sion, section or part of this act shall be  adjudged  by  any  court  of
+ competent  jurisdiction  to  be invalid, such judgment shall not affect,
+ impair, or invalidate the remainder thereof, but shall  be  confined  in
+ its  operation  to the clause, sentence, paragraph, subdivision, section
  or part thereof directly involved in the controversy in which such judg-
  ment shall have been rendered. It is hereby declared to be the intent of
- the  legislature  that  this  act  would  have been enacted even if such
+ the legislature that this act would  have  been  enacted  even  if  such
  invalid provisions had not been included herein.
-  § 3. This act shall take effect immediately  provided,  however,  that
- the  applicable effective date of Parts A through O of this act shall be
+  §  3.  This  act shall take effect immediately provided, however, that
+ the applicable effective date of Parts A through O of this act shall  be
  as specifically set forth in the last section of such Parts.
