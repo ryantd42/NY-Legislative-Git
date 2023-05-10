@@ -1,6 +1,6 @@
 # Provides for the declination of a designation as a candidate or nomination for a party position under special circumstance
 
-**Bill ID:** A2736B
+**Bill ID:** A2736BA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for the declination of a designation as a candidate or nomination for a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2736
+  2736--A
  
   2023-2024 Regular Sessions
  
@@ -27,37 +27,34 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. PAULIN, LAVINE, L. ROSENTHAL, DICKENS, SEAWRIGHT,
   COLTON, GALLAGHER, BURDICK, KELLES, SAYEGH, WOERNER, SEPTIMO, SIMON --
-  read once and referred to the Committee on Election Law
- 
- AN  ACT  to  amend  the  election  law, in relation to providing for the
-  declination of a designation as a candidate or nomination for a  party
+  read  once  and referred to the Committee on Election Law -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
+ AN ACT to amend the election law,  in  relation  to  providing  for  the
+  declination  of a designation as a candidate or nomination for a party
   position under special circumstances
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The election law is amended by adding a new  section  6-159
- to read as follows:
-  § 6-159. SPECIAL CIRCUMSTANCE DECLINATION. 1. NOTWITHSTANDING THE DATE
- SPECIFIED IN THE NOTICE REQUIRED PURSUANT TO SECTION 6-144 OF THIS ARTI-
- CLE,  A  PERSON  DESIGNATED  AS  A CANDIDATE FOR NOMINATION OR FOR PARTY
- POSITION, OR NOMINATED FOR AN OFFICE, MAY, IN A CERTIFICATE  SIGNED  AND
- ACKNOWLEDGED  BY HIM OR HER, AND FILED NO LATER THAN THREE BUSINESS DAYS
- BEFORE THE CERTIFICATION OF THE BALLOT  FOR  AN  ELECTION,  DECLINE  THE
- DESIGNATION OR NOMINATION ONLY UNDER THE FOLLOWING EXTRAORDINARY CIRCUM-
- STANCES:
-  (A) THE PERSON HAS RECEIVED A DIAGNOSIS OF A LIFE-THREATENING ILLNESS;
-  (B) THE PERSON HAS BEEN INDICTED FOR A CRIME; OR
-  (C) THE PERSON HAS RESIGNED THE OFFICE FOR WHICH THEY ARE NOMINATED OR
- DESIGNATED TO RUN FOR RE-ELECTION, FOR ANY REASON.
-  2.  THE  PROVISIONS OF THIS ARTICLE REGARDING FILLING A VACANCY WHEN A
- DESIGNATION OR NOMINATION IS DECLINED SHALL APPLY FOLLOWING THE CREATION
- OF VACANCY DUE TO SPECIAL CIRCUMSTANCES AS HEREIN PROVIDED, EXCEPT  THAT
- THE  CERTIFICATE  OF  SUBSTITUTION  SHALL BE RECEIVED BY THE APPROPRIATE
- BOARD OF ELECTIONS NOT LATER THAN TWO BUSINESS DAYS AFTER SUCH  DECLINA-
- TION IS RECEIVED BY THE BOARD.
+  Section  1.  Paragraph  (c)  of  subdivision 7 of section 6-146 of the
+ election law, as added by chapter 178 of the laws of  2022,  is  amended
+ and two new paragraphs (d) and (e) are added to read as follows:
+  (c)  where the person so nominated or designated has been convicted of
+ one or more misdemeanors or felonies under state or federal law  at  any
+ time after such person's designation or nomination[.]; OR
+  (D) WHERE THE PERSON SO NOMINATED OR DESIGNATED HAS RECEIVED A DIAGNO-
+ SIS OF A LIFE-THREATENING ILLNESS AT ANY TIME AFTER SUCH PERSON'S DESIG-
+ NATION OR NOMINATION; OR
+  (E)  WHERE  THE  PERSON  SO  NOMINATED  OR DESIGNATED HAS RESIGNED THE
+ OFFICE FOR WHICH THEY ARE NOMINATED OR DESIGNATED TO  RUN  FOR  RE-ELEC-
+ TION,  FOR  ANY  REASON,  AT ANY TIME AFTER SUCH PERSON'S DESIGNATION OR
+ NOMINATION.
   § 2. This act shall take effect immediately.
-
+ 
+ 
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05710-01-3
+  LBD05710-02-3
