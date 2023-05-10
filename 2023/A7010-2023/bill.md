@@ -1,0 +1,63 @@
+# Requires prescription containers for opioid medications to have a red cap top and a printed warning
+
+**Bill ID:** A7010
+**Session:** 2023
+**Sponsor:** John T. McDonald III
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires prescription containers for opioid medications to have a red cap top and a printed warning about the risks of overdose and addiction.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7010
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 10, 2023
+  ___________
+ 
+ Introduced by M. of A. McDONALD -- read once and referred to the Commit-
+  tee on Health
+ 
+ AN  ACT to amend the public health law, in relation to requiring red cap
+  tops with a printed warning for opioid medications
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section  1. The opening paragraph and paragraphs (b) and (c) of subdi-
+ vision 4 of section 3331 of the public health law, as added  by  chapter
+ 415 of the laws of 1981, are amended to read as follows:
+  No such substance [may] SHALL be dispensed unless it is enclosed with-
+ in a suitable and durable container, and:
+  (b)  Such  container  shall be identified as a controlled substance by
+ [either]:
+  (i) an orange label;
+  (ii) a label of another color over which  is  superimposed  an  orange
+ transparent adhesive tape; or
+  (iii) an auxiliary orange label affixed to the front of such container
+ and  bearing  the  legend,  prominently  marked  or  printed "Controlled
+ Substance, Dangerous Unless Used As Directed";
+  (c) SUCH CONTAINER SHALL BE SEALED WITH A RED CAP TOP WITH THE PRINTED
+ WORDS:  "CAUTION: OPIOID. RISK OF OVERDOSE AND ADDICTION", OR SUCH SIMI-
+ LAR WORDING AS DEVELOPED AND APPROVED BY THE DEPARTMENT. IF RED CAP TOPS
+ ARE NOT READILY AVAILABLE DUE TO PRODUCTION DELAYS, SUCH REQUIREMENT MAY
+ BE SATISFIED BY PLACING RED STICKERS ON TOP OF EXISTING  CAPS,  PROVIDED
+ THAT SUCH RED STICKERS COVER MOST, IF NOT ALL, OF SUCH CAP TOPS; AND
+  (D)  Any label, transparency, or auxiliary label shall be applied in a
+ manner which would inhibit its removal.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10594-03-3
