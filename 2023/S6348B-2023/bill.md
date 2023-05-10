@@ -1,6 +1,6 @@
 # Enacts the "tenants organizing act"
 
-**Bill ID:** S6348B
+**Bill ID:** S6348BA
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "tenants organizing act"; allows tenants' groups, committees or other
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6348
+  6348--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,47 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MAY  --  read  twice and ordered printed, and when
-  printed to be committed to the Committee on Judiciary
+  printed to be committed to the Committee  on  Judiciary  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the real property  law,  in  relation  to  enacting  the
-  "tenants organizing for power act"
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN  ACT  to  amend  the  real  property law, in relation to enacting the
+  "tenants organizing act"
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Short title. This act shall be known and may  be  cited  as
- the "tenants organizing for power act".
-  §  2. Section 230 of the real property law, as added by chapter 809 of
+  Section  1.  Short  title. This act shall be known and may be cited as
+ the "tenants organizing act".
+  § 2. Section 230 of the real property law, as added by chapter 809  of
  the laws of 1975  and subdivision 2 as amended by chapter 90 of the laws
  of 1995, is amended to read as follows:
-  § 230. Right of tenants to  form,  join  or  participate  in  tenants'
- groups.  1.  FOR THE PURPOSES OF THIS SECTION, THE TERM "TENANTS' ORGAN-
- IZATION" MEANS A BONA FIDE  ORGANIZATION  OF  TENANTS  WHO  REPRESENT  A
- MAJORITY  OF THE OCCUPIED RENTAL UNITS IN A RENTAL HOUSING PROPERTY WITH
- FIVE UNITS OR MORE, OR A BONA FIDE ORGANIZATION WORKING TO ACHIEVE  SUCH
- STATUS.  TENANTS'  ORGANIZATIONS MAY ENGAGE IN THE FOLLOWING ACTIVITIES,
- INCLUDING BUT NOT LIMITED  TO:  (A)  INITIATING  CONTACT  WITH  TENANTS,
- INCLUDING  BY  CONDUCTING DOOR-TO-DOOR SURVEYS, TO ASCERTAIN INTEREST IN
- AND/OR SEEK SUPPORT FOR FORMING A TENANT ORGANIZATION;  (B)  JOINING  OR
+  §  230.  Right  of  tenants  to  form, join or participate in tenants'
+ groups. 1. FOR THE PURPOSES OF THIS SECTION, THE TERM  "TENANTS'  ORGAN-
+ IZATION"  MEANS  A  BONA  FIDE  ORGANIZATION  OF TENANTS WHO REPRESENT A
+ MAJORITY OF THE OCCUPIED RENTAL UNITS IN A RENTAL HOUSING PROPERTY  WITH
+ FIVE  UNITS OR MORE, OR A BONA FIDE ORGANIZATION WORKING TO ACHIEVE SUCH
+ STATUS. TENANTS' ORGANIZATIONS MAY ENGAGE IN THE  FOLLOWING  ACTIVITIES,
+ INCLUDING  BUT  NOT  LIMITED  TO:  (A)  INITIATING CONTACT WITH TENANTS,
+ INCLUDING BY CONDUCTING DOOR-TO-DOOR SURVEYS, TO ASCERTAIN  INTEREST  IN
+ AND/OR  SEEK  SUPPORT  FOR FORMING A TENANT ORGANIZATION; (B) JOINING OR
  SUPPORTING ANOTHER TENANT ORGANIZATION; (C) DISTRIBUTING LITERATURE; (D)
  REQUESTING  OR  PROVIDING  INFORMATION;  (E)  OFFERING  ASSISTANCE;  (F)
- CONVENING MEETINGS, WHICH MAY  OCCUR  WITHOUT  A  LANDLORD  OR  LANDLORD
+ CONVENING  MEETINGS,  WHICH  MAY  OCCUR  WITHOUT  A LANDLORD OR LANDLORD
  REPRESENTATIVE PRESENT; OR (G) OTHERWISE ACTING ON BEHALF OF ONE OR MORE
  TENANTS IN THE BUILDING REGARDING ISSUES OF COMMON INTEREST OR CONCERN.
-  2.  No  landlord  shall  interfere with the right of a tenant to form,
- join or participate in the lawful activities of any group, committee  or
- other  organization  formed  to protect the rights of tenants; nor shall
- any landlord harass, punish, penalize, diminish, or withhold any  right,
- benefit or privilege of a tenant under his OR HER tenancy for exercising
- such right.
+  2. No landlord shall interfere with the right of  a  tenant  to  form,
+ join  or participate in the lawful activities of any group, committee or
+ other organization formed to protect the rights of  tenants;  nor  shall
+ any  landlord harass, punish, penalize, diminish, or withhold any right,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10771-05-3
- S. 6348  2
+  LBD10771-06-3
+ S. 6348--A  2
  
+ benefit or privilege of a tenant under his OR HER tenancy for exercising
+ such right.
   [2.]  3.  Tenants'  groups, committees or other tenants' organizations
  shall have the right to meet without being required to pay a fee in  any
  location  on the premises including a community or social room where use
