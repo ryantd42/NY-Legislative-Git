@@ -1,6 +1,6 @@
 # Establishes a temporary state commission to conduct a feasibility study on the formation and control of a state public bank
 
-**Bill ID:** S1755CA
+**Bill ID:** S1755CB
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes a temporary state commission to conduct a feasibility study to evalu
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1755--A
+  1755--B
  
   2023-2024 Regular Sessions
  
@@ -28,12 +28,16 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen. SANDERS -- read twice and ordered printed, and when
   printed to be  committed  to  the  Committee  on  Banks  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to  said  committee  --  reported  favorably  from  said committee and
+  committed to the Committee on Finance --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN  ACT  establishing  a  commission to determine what benefits a public
+ AN ACT establishing a commission to determine  what  benefits  a  public
   bank or network of public banks owned by the state of New York or by a
-  public authority constituted by the state of New York can provide; and
-  providing for the repeal of such provisions upon expiration thereof
+  public  authority  constituted  by  the state of New York can provide;
+  making an appropriation therefor; and providing for the repeal of such
+  provisions upon expiration thereof
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -54,16 +58,16 @@ S T A T E  O F  N E W  Y O R K
  state  including,  but not limited to, the New York bankers association,
  at least one member  shall represent community  banking,  and  no  more
  than  one  member may be a representative of any financial services firm
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02072-04-3
+ S. 1755--B  2
+ 
  located within the state,  including, but not limited to, the  New  York
  state small business development center;
   (ii)  three  members  shall be appointed by the temporary president of
  the senate, one of whom shall be a member of the senate;
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02072-02-3
- S. 1755--A  2
- 
   (iii) one member shall be appointed by  the  minority  leader  of  the
  senate;
   (iv)  three members shall be appointed by the speaker of the assembly,
@@ -114,29 +118,38 @@ S T A T E  O F  N E W  Y O R K
  the financial results of such public banks;
   (e) a legal analysis of whether the proposed structure  and  operation
  of such public bank complies with the New York state constitution;
+ S. 1755--B  3
+
   (f)  an  analysis  of  how  the  proposed governance structure of such
  public bank would protect such public bank from unlawful insider  trans-
  actions and apparent conflicts of interest;
   (g)  a fiscal analysis of the benefits associated with the creation of
  such public bank, including, but not  limited  to,  cost  savings,  jobs
- S. 1755--A  3
- 
  created,  jobs retained, economic activity generated and private capital
  leveraged;
-  (h)  a  qualitative assessment of social and environmental benefits of
+  (h) a qualitative assessment of social and environmental  benefits  of
  such public bank;
-  (i) a review of feasibility studies on public banking,  including  the
- city  of  Philadelphia public bank feasibility study and the city of San
+  (i)  a  review of feasibility studies on public banking, including the
+ city of Philadelphia public bank feasibility study and the city  of  San
  Francisco public bank feasibility study; and
   (j) a review of AB-857 (2019 Cal. Stats. Ch. 442).
-  § 4. No earlier than six months and no later than seven  months  after
- the  effective date of this act, the commission shall submit a report to
- the governor, the temporary president of the senate, the speaker of  the
- assembly,  the  chair of the senate banks committee and the chair of the
- assembly banks committee on the findings and conclusions  of  the  study
- conducted  pursuant  to  sections  two  and  three of this act and shall
- submit any legislative recommendations deemed to  be  necessary.  Such
- report  shall  be contemporaneously published on the official website of
+  §  4.  The sum of five hundred thousand dollars ($500,000), or so much
+ thereof as may be necessary, is hereby appropriated to the department of
+ financial services from any moneys in the state treasury in the  general
+ fund to the credit of the state purposes account not otherwise appropri-
+ ated  for the purposes of carrying out the provisions of this act.  Such
+ sum shall be payable on the audit and warrant of the  state  comptroller
+ on  vouchers  certified  or  approved by the superintendent of financial
+ services, or his duly designated representative in the  manner  provided
+ by law.
+  §  5.  No earlier than six months and no later than seven months after
+ the effective date of this act, the commission shall submit a report  to
+ the  governor, the temporary president of the senate, the speaker of the
+ assembly, the chair of the senate banks committee and the chair  of  the
+ assembly  banks  committee  on the findings and conclusions of the study
+ conducted pursuant to sections two and  three  of  this  act  and  shall
+ submit  any  legislative  recommendations  deemed to be necessary.  Such
+ report shall be contemporaneously published on the official  website  of
  the department of financial services.
-  § 5. This act shall take effect immediately and shall  expire  and  be
+  §  6.  This  act shall take effect immediately and shall expire and be
  deemed repealed one year after such effective date.
