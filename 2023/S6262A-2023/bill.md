@@ -1,6 +1,6 @@
 # Relates to the Ocean Beach Volunteer and Exempt Firefighters' Benevolent Association, Inc's purpose and use of foreign fire insurance premium taxes
 
-**Bill ID:** S6262A
+**Bill ID:** S6262AA
 **Session:** 2023
 **Sponsor:** Alexis Weik
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Relates to the Ocean Beach Volunteer and Exempt Firefighters' Benevolent Associa
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6262
+  6262--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  WEIK  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend chapter 493 of the laws of 1987 creating the Ocean Beach
   Volunteer and Exempt Firefighters'  Benevolent  Association,  Incorpo-
@@ -36,38 +38,13 @@ S T A T E  O F  N E W  Y O R K
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Sections  2,  3  and 7 of chapter 493 of the laws of 1987
- creating the Ocean Beach Volunteer and Exempt  Firefighters'  Benevolent
- Association,  Incorporated  and providing for its powers and duties, are
+  Section  1. Sections 3 and 7 of chapter 493 of the laws of 1987 creat-
+ ing the Ocean Beach Volunteer and Exempt Firefighters' Benevolent  Asso-
+ ciation,  Incorporated  and  providing  for  its  powers and duties, are
  amended to read as follows:
-  § 2. Persons eligible to membership. All persons who are now  or  have
- been,  or hereafter shall be active volunteer members of the Ocean Beach
- Volunteer Fire Department and who  have  heretofore  acquired  or  shall
- hereafter acquire the status of exempt volunteer firefighters as defined
- in  section two hundred of the general municipal law or any other appli-
- cable law by virtue of having rendered service in said fire  company  in
- the  village of Ocean Beach, Suffolk county, and all persons who are now
- or hereafter shall be active volunteer members of said  fire  department
- shall  be  eligible  for  membership  in the corporation hereby created;
- provided that any person who has been expelled or removed for cause from
- membership in any fire department or company shall not  be  eligible  to
- membership  in  such  corporation.  The membership of any person in such
- corporation shall terminate when his membership as an  active  volunteer
- member  of  the  Ocean  Beach  Volunteer Fire Department shall terminate
- before such persons shall have acquired the status of  exempt  volunteer
- firefighters  as defined in section two hundred of the general municipal
- law by virtue of having rendered services to such fire department.  PAID
- FIREFIGHTERS, IF ANY, OF THE  OCEAN  BEACH  VOLUNTEER  FIRE  DEPARTMENT,
- SHALL NOT BE ELIGIBLE FOR MEMBERSHIP IN THE CORPORATION.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07259-01-3
- S. 6262  2
- 
-  §  3. Purposes. [The purposes of such corporation shall be the mainte-
- nance of suitable headquarters for, and the promotion of friendly  asso-
- ciation  for the betterment of the members of such corporation and their
+  § 3. Purposes. [The purposes of such corporation shall be the  mainte-
+ nance  of suitable headquarters for, and the promotion of friendly asso-
+ ciation for the betterment of the members of such corporation and  their
  relations with the community, for the promotion of fraternal intercourse
  among  the  members  of such corporation, to study and disseminate among
  the members of such corporation the most efficient  manner  of  fighting
@@ -82,6 +59,12 @@ S T A T E  O F  N E W  Y O R K
  IN  THE  PERFORMANCE OF THEIR DUTIES, AND THEIR FAMILIES; TO PROMOTE AND
  SAFEGUARD THE WELFARE OF THE VOLUNTEER MEMBERS OF SUCH CORPORATION,  AND
  THEIR  FAMILIES;  TO MAINTAIN A SUITABLE HEADQUARTERS FOR THE MEMBERS OF
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07259-03-3
+ S. 6262--A  2
+ 
  SUCH CORPORATION; TO PROVIDE FOR THE HEALTH AND SAFETY OF THE  VOLUNTEER
  MEMBERS  OF SUCH CORPORATION; AND TO ENHANCE THE MORALE OF THE VOLUNTEER
  MEMBERS OF SUCH CORPORATION BY PROVIDING SOCIAL AND RECREATIONAL  ACTIV-
