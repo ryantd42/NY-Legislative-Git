@@ -1,6 +1,6 @@
 # Extends the authorization for Chautauqua county to impose an additional one percent rate of sales and compensating use taxes
 
-**Bill ID:** A6692A
+**Bill ID:** A6692AA
 **Session:** 2023
 **Sponsor:** Andrew Goodell
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Extends the authorization for Chautauqua county to impose an additional one perc
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6692
+  6692--A
  
   2023-2024 Regular Sessions
  
@@ -26,46 +26,47 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. GOODELL -- read once and referred to the Commit-
-  tee on Ways and Means
+  tee on Ways and Means -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the tax law, in relation to extending the  authorization
-  for  Chautauqua  county  to  impose  an additional one percent rate of
+ AN  ACT to amend the tax law, in relation to extending the authorization
+  for Chautauqua county to impose an  additional  one  percent  rate  of
   sales and compensating use taxes
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Clause 38 of subparagraph (i) of the opening paragraph of
- section 1210 of the tax law, as amended  by  section  1  of  item  F  of
- subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
+  Section 1. Clause 38 of subparagraph (i) of the opening  paragraph  of
+ section  1210  of  the  tax  law,  as  amended by section 1 of item F of
+ subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
  read as follows:
-  (38) the  county  of  Chautauqua  is  hereby  further  authorized  and
- empowered  to  adopt  and  amend  local  laws, ordinances or resolutions
- imposing such taxes at a rate that is: (i) one and  one-quarter  percent
- additional  to the three percent rate authorized above in this paragraph
- for such county for the period beginning March first, two thousand  five
+  (38)  the  county  of  Chautauqua  is  hereby  further  authorized and
+ empowered to adopt and  amend  local  laws,  ordinances  or  resolutions
+ imposing  such  taxes at a rate that is: (i) one and one-quarter percent
+ additional to the three percent rate authorized above in this  paragraph
+ for  such county for the period beginning March first, two thousand five
  and ending August thirty-first, two thousand six; (ii) one percent addi-
- tional  to the three percent rate authorized above in this paragraph for
- such county for the period beginning September first, two  thousand  six
- and  ending November thirtieth, two thousand seven; (iii) three-quarters
- of one percent additional to the three percent rate authorized above  in
- this  paragraph for such county for the period beginning December first,
+ tional to the three percent rate authorized above in this paragraph  for
+ such  county  for the period beginning September first, two thousand six
+ and ending November thirtieth, two thousand seven; (iii)  three-quarters
+ of  one percent additional to the three percent rate authorized above in
+ this paragraph for such county for the period beginning December  first,
  two thousand seven and ending November thirtieth, two thousand ten; (iv)
- one-half of one percent additional to the three percent rate  authorized
- above  in this paragraph for such county for the period beginning Decem-
- ber first, two thousand ten and ending November thirtieth, two  thousand
- fifteen;  and  (v)  one  percent  additional  to  the three percent rate
+ one-half  of one percent additional to the three percent rate authorized
+ above in this paragraph for such county for the period beginning  Decem-
+ ber  first, two thousand ten and ending November thirtieth, two thousand
+ fifteen; and (v) one  percent  additional  to  the  three  percent  rate
  authorized above in this clause for such county for the period beginning
- December first, two thousand fifteen and ending November thirtieth,  two
- thousand [twenty-three] TWENTY-SIX;
-
+ December  first, two thousand fifteen and ending November thirtieth, two
+ thousand [twenty-three] TWENTY-FIVE;
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10663-02-3
- A. 6692  2
+  LBD10663-03-3
+ A. 6692--A  2
  
-  §  2. Section 1262-o of the tax law, as amended by section 2 of item F
- of subpart C of part XXX of chapter 58 of the laws of 2020,  is  amended
+  § 2. Section 1262-o of the tax law, as amended by section 2 of item  F
+ of  subpart  C of part XXX of chapter 58 of the laws of 2020, is amended
  to read as follows:
   §  1262-o.  Disposition of net collections from the additional rate of
  sales and compensating use taxes in the county of Chautauqua.  Notwith-
@@ -117,10 +118,10 @@ S T A T E  O F  N E W  Y O R K
  qua imposes the additional one percent rate of  sales  and  compensating
  use  taxes  authorized by such section twelve hundred ten for all or any
  of the period beginning December first, two thousand fifteen and  ending
- November  thirtieth,  two thousand [twenty-three] TWENTY-SIX, the county
+ November  thirtieth, two thousand [twenty-three] TWENTY-FIVE, the county
  shall allocate three-twentieths of the net collections  from  the  addi-
  tional  one  percent  to the cities, towns and villages in the county on
- A. 6692  3
+ A. 6692--A  3
  
  the basis of their respective populations, determined in accordance with
  the latest decennial federal census or special population  census  taken
