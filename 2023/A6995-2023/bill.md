@@ -1,0 +1,79 @@
+# Requires healthcare facilities to maintain a fifty percent operating threshold of certain reusable healthcare protective textiles in their inventory
+
+**Bill ID:** A6995
+**Session:** 2023
+**Sponsor:** Amanda Septimo
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires healthcare facilities to maintain a fifty percent operating threshold of certain reusable healthcare protective textiles in their inventory unless a reprieve is provided for supply chain issues; provides a fine may be assessed for failure to comply, as determined by the commissioner.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6995
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 10, 2023
+  ___________
+ 
+ Introduced  by M. of A. SEPTIMO, STIRPE -- read once and referred to the
+  Committee on Health
+ 
+ AN ACT to amend the public health law, in relation to requiring  health-
+  care  facilities  to  maintain  a fifty percent operating threshold of
+  certain reusable healthcare protective textiles in their inventory
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Section 2803 of the public health law is amended by adding
+ a new subdivision 14 to read as follows:
+  14. (A) THE COMMISSIONER SHALL ENSURE THAT ALL  HEALTHCARE  FACILITIES
+ AS  DEFINED IN PARAGRAPH (B) OF THIS SUBDIVISION POSSESS AND MAINTAIN AN
+ OPERATING THRESHOLD OF AT LEAST FIFTY PERCENT OF ALL  REUSABLE  PERSONAL
+ PROTECTIVE  EQUIPMENT  (PPE) AS PROVIDED BY A HYGIENICALLY CLEAN LAUNDRY
+ SERVICE PROVIDER; PROVIDED, HOWEVER, THAT UPON REQUEST,  THE  DEPARTMENT
+ MAY GRANT AN EXTENSION OR REPRIEVE, AT ITS SOLE AND EXCLUSIVE DISCRETION
+ IF THE HEALTHCARE FACILITY DEMONSTRATES, TO THE COMMISSIONER'S SATISFAC-
+ TION, THAT SUCH HEALTHCARE FACILITY'S INABILITY TO MEET SUCH REQUIREMENT
+ IS SOLELY ATTRIBUTABLE TO SUPPLY CHAIN ISSUES THAT ARE BEYOND THE HOSPI-
+ TAL'S  CONTROL AND PURCHASING PPE AT MARKET RATES WOULD FACILITATE PRICE
+ GOUGING BY PPE VENDORS.
+  (B) FOR PURPOSES OF THIS SUBDIVISION, THE FOLLOWING TERMS  SHALL  HAVE
+ THE FOLLOWING MEANINGS:
+  (I) "HEALTHCARE FACILITY" SHALL MEAN HOSPITALS, SKILLED NURSING FACIL-
+ ITIES,  OUTPATIENT  CARE  CENTERS,  LONG-TERM  CARE FACILITIES, PHYSICAL
+ THERAPY CENTERS,  COMPREHENSIVE  OUTPATIENT  REHABILITATION  FACILITIES,
+ END-STAGE  RENAL  DISEASE FACILITIES, HOSPICE, PHYSICIAN'S OFFICES, NON-
+ PHYSICIAN PROVIDER'S OFFICES, AND LABORATORIES;
+  (II) "PERSONAL PROTECTIVE EQUIPMENT (PPE)" SHALL MEAN  ANY  PROTECTIVE
+ TEXTILE WHICH IS AVAILABLE IN REUSABLE FORMAT, WHERE DEEMED FEASIBLE AND
+ ACCEPTABLE,  CONSISTENT  WITH  FEDERAL CENTERS FOR DISEASE CONTROL GUID-
+ ANCE; AND
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11130-01-3
+ A. 6995  2
+ 
+  (III) "OPERATING THRESHOLD" SHALL MEAN A CONSTANTLY ROTATING STOCK  OF
+ PPE  TEXTILES BEING USED, RETURNED TO A LAUNDRY FACILITY, PROCESSED BY A
+ HYGIENICALLY CLEAN CERTIFIED FACILITY,  AND  RETURNED  TO  A  HEALTHCARE
+ FACILITY FOR USE.
+  (C) FAILURE TO POSSESS AND MAINTAIN SUCH A SUPPLY OF PPE MAY RESULT IN
+ A  FINE  TO  BE DETERMINED BY THE DEPARTMENT; PROVIDED, HOWEVER, THAT NO
+ SUCH REVOCATION OR SUSPENSION SHALL BE ORDERED UNLESS THE DEPARTMENT HAS
+ PROVIDED THE HEALTHCARE FACILITY WITH  A  THIRTY-DAY  GRACE  PERIOD,  TO
+ ACHIEVE COMPLIANCE WITH THE REQUIREMENTS OF PARAGRAPH (A) OF THIS SUBDI-
+ VISION.
+  §  2. This act shall take effect one year after it shall have become a
+ law.
