@@ -1,0 +1,75 @@
+# Relates to a license to sell liquor at retail for consumption on certain premises
+
+**Bill ID:** S6860
+**Session:** 2023
+**Sponsor:** Sean Ryan
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to authorizing a license to sell liquor at retail for consumption on-premises, notwithstanding certain restrictions regarding proximity to a school, church, synagogue, or other place of worship, for certain property located in the county of Erie.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  6860
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 11, 2023
+  ___________
+ 
+ Introduced  by  Sen.  RYAN  --  read twice and ordered printed, and when
+  printed to be committed to the Committee on Commerce, Economic  Devel-
+  opment and Small Business
+ 
+ AN  ACT  to  amend  the alcoholic beverage control law, in relation to a
+  license to sell liquor at retail for consumption on certain premises
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subdivision  7  of  section  64 of the alcoholic beverage
+ control law is amended by adding a  new  paragraph  (e-15)  to  read  as
+ follows:
+  (E-15)  NOTWITHSTANDING THE PROVISIONS OF PARAGRAPH (A) OF THIS SUBDI-
+ VISION, THE  AUTHORITY  MAY  ISSUE  A  RETAIL  LICENSE  FOR  ON-PREMISES
+ CONSUMPTION  FOR  A  PREMISES  WHICH SHALL BE LOCATED WITHIN TWO HUNDRED
+ FEET OF A BUILDING OCCUPIED AS A  SCHOOL,  CHURCH,  SYNAGOGUE  OR  OTHER
+ PLACE  OF  WORSHIP, PROVIDED SUCH PREMISES CONSTITUTE A PREMISES FOR THE
+ SALE OF FOOD OR BEVERAGES AT RETAIL  FOR  CONSUMPTION  ON  THE  PREMISES
+ LOCATED  WHOLLY WITHIN THE BOUNDARIES OF THE COUNTY OF ERIE, BOUNDED AND
+ DESCRIBED AS FOLLOWS:
+  ALL THAT TRACT OR PARCEL OF LAND, SITUATE IN THE VILLAGE OF  WILLIAMS-
+ VILLE, TOWN OF AMHERST, COUNTY OF ERIE AND STATE OF NEW YORK, BEING PART
+ OF LOT NO. 1, TOWNSHIP 12, RANGE 4 OF THE HOLLAND LAND COMPANY'S SURVEY,
+ BOUNDED AND DESCRIBED AS FOLLOWS:
+  BEGINNING AT THE INTERSECTION OF THE NORTHERLY LINE OF MAIN STREET (99
+ FEET  WIDE)  WITH  THE  WESTERLY  LINE  OF  GROVE STREET (20 FEET WIDE);
+ RUNNING THENCE NORTHERLY ALONG THE WESTERLY  LINE  OF  GROVE  STREET,  A
+ DISTANCE  OF  111.52  FEET TO A POINT; THENCE WESTERLY PARALLEL WITH THE
+ NORTHERLY LINE OF MAIN STREET A DISTANCE  OF  51.50  FEET  TO  A  POINT;
+ THENCE SOUTHERLY PARALLEL WITH THE WESTERLY LINE OF GROVE, A DISTANCE OF
+ 59.13  FEET  TO  THE  NORTHWEST  CORNER  OF LANDS CONVEYED TO MICHAEL A.
+ LAURIE BY DEED RECORDED IN THE ERIE COUNTY CLERK'S OFFICE IN LIBER 10918
+ OF DEEDS AT PAGE 218; THENCE EASTERLY ALONG THE NORTHERLY LINE OF  LANDS
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11097-01-3
+ S. 6860  2
+ 
+ SO CONVEYED TO LAURIE BY DEED AFORESAID, A DISTANCE OF 21.29 FEET TO THE
+ NORTHEAST  CORNER  THEREOF;  THENCE SOUTHERLY ALONG THE EASTERLY LINE OF
+ LANDS SO CONVEYED TO LAURIE BY DEED AFORESAID, DISTANCE OF 52.19 FEET TO
+ THE SOUTHEAST CORNER THEREOF AND THE NORTHERLY LINE OF MAIN STREET, SAID
+ SOUTHEAST  CORNER  OF  LAURIE BEING A DISTANCE OF 29.75 FEET WESTERLY OF
+ THE POINT OF BEGINNING; THENCE EASTERLY ALONG THE NORTHERLY LINE OF MAIN
+ STREET, A DISTANCE OF 29.75 FEET TO THE POINT OF BEGINNING.
+  § 2. This act shall take effect immediately.
