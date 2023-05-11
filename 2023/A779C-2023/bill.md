@@ -1,6 +1,6 @@
 # Relates to the use of consumer credit history for certain purposes
 
-**Bill ID:** A779C
+**Bill ID:** A779CA
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Prohibits the use of consumer credit history in hiring, employment and licensing
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  779
+  779--A
  
   2023-2024 Regular Sessions
  
@@ -29,45 +29,46 @@ S T A T E  O F  N E W  Y O R K
   REYES, TAYLOR, SAYEGH, EPSTEIN, STIRPE, HYNDMAN, STECK,  COOK,  GLICK,
   CRUZ, ZEBROWSKI, WALLACE, FALL, DARLING -- Multi-Sponsored by -- M. of
   A.  SIMON  --  read  once  and  referred  to the Committee on Consumer
-  Affairs and Protection
-
+  Affairs and Protection -- committee discharged, bill amended,  ordered
+  reprinted as amended and recommitted to said committee
+ 
  AN ACT to amend the general business law, in relation to prohibiting the
-  disclosure or use of a person's consumer credit history to an  employ-
+  disclosure  or use of a person's consumer credit history to an employ-
   er,  labor  organization,  employment  agency  or  agent  thereof  for
   purposes of employment decisions
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Section  380-a  of the general business law is amended by
+  Section 1. Section 380-a of the general business  law  is  amended  by
  adding a new subdivision (v) to read as follows:
-  (V) THE TERM "CONSUMER CREDIT HISTORY" MEANS  AN  INDIVIDUAL'S  CREDIT
- WORTHINESS,  CREDIT  STANDING,  CREDIT  CAPACITY  OR PAYMENT HISTORY, AS
+  (V)  THE  TERM  "CONSUMER CREDIT HISTORY" MEANS AN INDIVIDUAL'S CREDIT
+ WORTHINESS, CREDIT STANDING, CREDIT  CAPACITY  OR  PAYMENT  HISTORY,  AS
  INDICATED BY:
   (1) A CONSUMER CREDIT REPORT;
   (2) CREDIT SCORE; OR
-  (3) INFORMATION AN  EMPLOYER  OBTAINS  DIRECTLY  FROM  THE  INDIVIDUAL
- REGARDING  (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE INDIVIDUAL'S
- NUMBER OF CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS,  CHARGED-OFF  DEBTS,
- ITEMS  IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES, OR
+  (3)  INFORMATION  AN  EMPLOYER  OBTAINS  DIRECTLY  FROM THE INDIVIDUAL
+ REGARDING (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE  INDIVIDUAL'S
+ NUMBER  OF  CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS, CHARGED-OFF DEBTS,
+ ITEMS IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES,  OR
  (II) BANKRUPTCIES, JUDGMENTS OR LIENS.
-  A CONSUMER CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR  OTHER  COMMUNI-
+  A  CONSUMER  CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR OTHER COMMUNI-
  CATION OF ANY INFORMATION BY A CONSUMER REPORTING AGENCY THAT BEARS ON A
- CONSUMER'S  CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR CREDIT
+ CONSUMER'S CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR  CREDIT
  HISTORY.
-  § 2. Subdivision (d) of section 380-b of the general business  law  is
- relettered  subdivision  (g) and three new subdivisions (d), (e) and (f)
+  §  2.  Subdivision (d) of section 380-b of the general business law is
+ relettered subdivision (g) and three new subdivisions (d), (e)  and  (f)
  are added to read as follows:
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00590-01-3
- A. 779  2
+  LBD00590-06-3
+ A. 779--A  2
  
-  (D) (1) EXCEPT AS PROVIDED IN THIS SUBDIVISION, IT SHALL BE AN  UNLAW-
+  (D)  (1) EXCEPT AS PROVIDED IN THIS SUBDIVISION, IT SHALL BE AN UNLAW-
  FUL DISCRIMINATORY PRACTICE FOR AN EMPLOYER, LABOR ORGANIZATION, EMPLOY-
- MENT  AGENCY  OR  ANY  AGENT THEREOF TO REQUEST OR TO USE FOR EMPLOYMENT
- PURPOSES THE CONSUMER CREDIT HISTORY OF AN APPLICANT FOR  EMPLOYMENT  OR
+ MENT AGENCY OR ANY AGENT THEREOF TO REQUEST OR  TO  USE  FOR  EMPLOYMENT
+ PURPOSES  THE  CONSUMER CREDIT HISTORY OF AN APPLICANT FOR EMPLOYMENT OR
  EMPLOYEE,  OR  OTHERWISE  DISCRIMINATE  AGAINST AN APPLICANT OR EMPLOYEE
  WITH REGARD TO HIRING, COMPENSATION,  OR THE TERMS, CONDITIONS OR PRIVI-
  LEGES OF EMPLOYMENT BASED ON THE CONSUMER CREDIT HISTORY OF  THE  APPLI-
@@ -81,14 +82,58 @@ S T A T E  O F  N E W  Y O R K
  OR POLICE OFFICERS, AS SUCH TERMS ARE DEFINED  IN  SUBDIVISIONS  THIRTY-
  THREE  AND  THIRTY-FOUR  OF  SECTION 1.20 OF THE CRIMINAL PROCEDURE LAW,
  RESPECTIVELY, OR IN A POSITION WITH A LAW ENFORCEMENT  OR  INVESTIGATIVE
- FUNCTION IN A LAW ENFORCEMENT AGENCY.
-  (3) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT BE CONSTRUED TO AFFECT
- THE  OBLIGATIONS  OF  PERSONS REQUIRED BY STATE OR LOCAL LAW RELATING TO
- DISCLOSURES BY PUBLIC EMPLOYEES OF CONFLICTS OF INTEREST.
+ FUNCTION IN A LAW ENFORCEMENT AGENCY;
+  (III)  PERSONS  IN  A  POSITION THAT IS SUBJECT TO BACKGROUND INVESTI-
+ GATION BY A STATE AGENCY, PROVIDED, HOWEVER, THAT THE APPOINTING  AGENCY
+ MAY  NOT USE CONSUMER CREDIT HISTORY INFORMATION FOR EMPLOYMENT PURPOSES
+ UNLESS THE POSITION IS AN APPOINTED POSITION IN WHICH A HIGH  DEGREE  OF
+ PUBLIC TRUST, AS DEFINED BY THE COMMISSION IN RULES, HAS BEEN REPOSED.
+  (IV)  PERSONS  IN  A  POSITION  IN WHICH AN EMPLOYEE IS REQUIRED TO BE
+ BONDED UNDER STATE OR FEDERAL LAW;
+  (V) PERSONS IN A POSITION IN WHICH AN EMPLOYEE IS REQUIRED TO  POSSESS
+ SECURITY CLEARANCE UNDER FEDERAL LAW OR THE LAW OF ANY STATE;
+  (VI) PERSONS IN A NON-CLERICAL POSITION HAVING REGULAR ACCESS TO TRADE
+ SECRETS, INTELLIGENCE INFORMATION OR NATIONAL SECURITY INFORMATION;
+  (VII) PERSONS IN A POSITION: (A) HAVING SIGNATORY AUTHORITY OVER THIRD
+ PARTY  FUNDS  OR  ASSETS  VALUED AT TEN THOUSAND DOLLARS OR MORE; OR (B)
+ THAT INVOLVES A  FIDUCIARY  RESPONSIBILITY  TO  THE  EMPLOYER  WITH  THE
+ AUTHORITY  TO  ENTER FINANCIAL AGREEMENTS VALUED AT TEN THOUSAND DOLLARS
+ OR MORE ON BEHALF OF THE EMPLOYER; OR
+  (VIII) PERSONS IN A  POSITION  WITH  REGULAR  DUTIES  THAT  ALLOW  THE
+ EMPLOYEE  TO  MODIFY DIGITAL SECURITY SYSTEMS ESTABLISHED TO PREVENT THE
+ UNAUTHORIZED USE OF THE EMPLOYER'S OR CLIENT'S NETWORKS OR DATABASES.
+  (3) AS USED IN THIS SUBDIVISION THE FOLLOWING  TERMS  SHALL  HAVE  THE
+ FOLLOWING MEANINGS:
+  (I) "INTELLIGENCE INFORMATION" MEANS RECORDS AND DATA COMPILED FOR THE
+ PURPOSE OF CRIMINAL INVESTIGATION OR COUNTERTERRORISM, INCLUDING RECORDS
+ AND  DATA  RELATING TO THE ORDER OR SECURITY OF A CORRECTIONAL FACILITY,
+ REPORTS OF INFORMANTS, INVESTIGATORS OR OTHER PERSONS, OR FROM ANY  TYPE
+ OF  SURVEILLANCE ASSOCIATED WITH AN IDENTIFIABLE INDIVIDUAL, OR INVESTI-
+ GATION OR ANALYSIS OF POTENTIAL TERRORIST THREATS;
+  (II) "NATIONAL SECURITY INFORMATION" MEANS ANY KNOWLEDGE  RELATING  TO
+ THE  NATIONAL DEFENSE OR FOREIGN RELATIONS OF THE UNITED STATES, REGARD-
+ LESS OF ITS PHYSICAL FORM OR CHARACTERISTICS, THAT IS OWNED BY, PRODUCED
+ BY OR FOR, OR IS UNDER THE CONTROL OF THE UNITED STATES  GOVERNMENT  AND
+ IS  DEFINED AS SUCH BY THE UNITED STATES GOVERNMENT AND ITS AGENCIES AND
+ DEPARTMENTS; AND
+  (III) "TRADE SECRETS" MEANS INFORMATION THAT: (A) DERIVES  INDEPENDENT
+ ECONOMIC  VALUE, ACTUAL OR POTENTIAL, FROM NOT BEING GENERALLY KNOWN TO,
+ AND NOT BEING READILY ASCERTAINABLE BY PROPER MEANS BY OTHER PERSONS WHO
+ CAN OBTAIN ECONOMIC VALUE FROM ITS DISCLOSURE OR USE; (B) IS THE SUBJECT
+ OF EFFORTS THAT ARE REASONABLE UNDER THE CIRCUMSTANCES TO  MAINTAIN  ITS
+ A. 779--A  3
+ 
+ SECRECY; AND (C) CAN REASONABLY BE SAID TO BE THE END PRODUCT OF SIGNIF-
+ ICANT  INNOVATION.  THE  TERM  "TRADE  SECRETS" DOES NOT INCLUDE GENERAL
+ PROPRIETARY COMPANY INFORMATION SUCH AS HANDBOOKS AND POLICIES. THE TERM
+ "REGULAR  ACCESS TO TRADE SECRETS" DOES NOT INCLUDE ACCESS TO OR THE USE
+ OF CLIENT, CUSTOMER OR MAILING LISTS.
   (4) NOTHING IN  THIS  SUBDIVISION  SHALL  PRECLUDE  AN  EMPLOYER  FROM
  REQUESTING  OR RECEIVING CONSUMER CREDIT HISTORY INFORMATION PURSUANT TO
- A LAWFUL SUBPOENA, COURT ORDER  OR  SPECIFIC  LAW  ENFORCEMENT  INVESTI-
- GATION.
+ A LAWFUL SUBPOENA, COURT ORDER OR LAW ENFORCEMENT INVESTIGATION.
+  (5) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT BE CONSTRUED TO AFFECT
+ THE OBLIGATIONS OF PERSONS REQUIRED BY STATE OR LOCAL  LAW  RELATING  TO
+ DISCLOSURES BY PUBLIC EMPLOYEES OF CONFLICTS OF INTEREST.
   (E)  (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SUBDIVISION, IT SHALL BE
  AN UNLAWFUL DISCRIMINATORY PRACTICE FOR ANY STATE OR MUNICIPAL AGENCY TO
  REQUEST  OR  USE  FOR  LICENSING  OR  PERMITTING  PURPOSES  INFORMATION
@@ -120,29 +165,31 @@ S T A T E  O F  N E W  Y O R K
  IS GREATER THAN THE PROTECTION PROVIDED BY THIS SECTION.
   § 3. The division of human rights shall request information from state
  and local agencies and non-governmental employers  regarding  the  agen-
- A. 779  3
- 
  cies'  and  employers'  use of the exemptions established in subdivision
  (d) of section 380-b of the general business law for purposes of  hiring
  and  employment. Within two years of the effective date of this act, the
- division  of  human  rights  shall  submit  to  the legislature a report
- concerning the results of such request and any  relevant  feedback  from
+ division of human rights  shall  submit  to  the  legislature  a  report
+ concerning  the  results  of such request and any relevant feedback from
  agencies and employers.
-  §  4.  Paragraph  3 of subdivision (a) of section 380-b of the general
- business law, as amended by chapter 797 of the laws of 1984, is  amended
+  § 4. Paragraph 3 of subdivision (a) of section 380-b  of  the  general
+ business  law, as amended by chapter 797 of the laws of 1984, is amended
  to read as follows:
-  (3)  To  a  person  whom  it  has reason to believe intends to use the
- information (i) in connection with a credit  transaction  involving  the
- consumer  on  whom  the information is to be furnished and involving the
- extension of credit to, or review or collection of an  account  of,  the
- consumer, or (ii) [for employment purposes, or (iii)] in connection with
- the underwriting of insurance involving the consumer, or [(iv)] (III) in
- connection  with  a  determination  of  the consumer's eligibility for a
- license or other  benefit  granted  by  a  governmental  instrumentality
- required  by  law to consider an applicant's financial responsibility or
- status, or [(v)] (IV) to a person in connection with a  business  trans-
- action  involving  the consumer where the user has a legitimate business
- need for such information, or [(vi)] (V) in connection with  the  rental
- or lease of a residence.
+  (3) To a person whom it has reason  to  believe  intends  to  use  the
+ information  (i)  in  connection with a credit transaction involving the
+ consumer on whom the information is to be furnished  and  involving  the
+ extension  of  credit  to, or review or collection of an account of, the
+ consumer, or (ii) for employment purposes, EXCEPT THAT A CONSUMER REPORT
+ A. 779--A  4
+ 
+ MAY BE FURNISHED FOR SUCH PURPOSES ONLY IF SUCH REPORT EXCLUDES INFORMA-
+ TION THAT BEARS ON A  CONSUMER'S  CREDIT  WORTHINESS,  CREDIT  STANDING,
+ CREDIT  CAPACITY  OR  CREDIT  HISTORY,  or  (iii) in connection with the
+ underwriting  of insurance involving the consumer, or (iv) in connection
+ with a determination of the consumer's  eligibility  for  a  license  or
+ other  benefit granted by a governmental instrumentality required by law
+ to consider an applicant's financial responsibility or status, or (v) to
+ a person in connection with a business transaction involving the consum-
+ er where the user has a legitimate business need for  such  information,
+ or (vi) in connection with the rental or lease of a residence.
   § 5. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.
