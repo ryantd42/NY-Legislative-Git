@@ -1,6 +1,6 @@
 # Extends the county of Westchester's additional one percent rate of sales and compensating use tax
 
-**Bill ID:** S6823A
+**Bill ID:** S6823AA
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Extends the county of Westchester's additional one percent rate of sales and com
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6823
+  6823--A
  
   2023-2024 Regular Sessions
  
@@ -27,104 +27,105 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  MAYER  -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the tax law, in  relation  to  revising  the  period  of
-  authorization  for  the county of Westchester's additional one percent
-  rate of sales and compensating use tax; and to amend  chapter  272  of
-  the  laws  of  1991,  amending  the  tax law relating to the method of
-  disposition of sales and compensating use tax revenue  in  Westchester
+ AN  ACT  to  amend  the  tax  law, in relation to revising the period of
+  authorization for the county of Westchester's additional  one  percent
+  rate  of  sales  and compensating use tax; and to amend chapter 272 of
+  the laws of 1991, amending the tax  law  relating  to  the  method  of
+  disposition  of  sales and compensating use tax revenue in Westchester
   county and enacting the Westchester county spending limitation act, in
-  relation  to  revising  the  period of authorization for the county of
-  Westchester's additional one percent rate of  sales  and  compensating
+  relation to revising the period of authorization  for  the  county  of
+  Westchester's  additional  one  percent rate of sales and compensating
   use tax
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Clause 42 of subparagraph (i) of the opening  paragraph  of
- section  1210  of  the  tax  law, as amended by section 1 of item EEE of
- subpart C of part XXX of chapter 58 of the laws of 2020, is  amended  to
+  Section  1.  Clause 42 of subparagraph (i) of the opening paragraph of
+ section 1210 of the tax law, as amended by section  1  of  item  EEE  of
+ subpart  C  of part XXX of chapter 58 of the laws of 2020, is amended to
  read as follows:
-  (42)  the  county  of  Westchester  is  hereby  further authorized and
- empowered to adopt and  amend  local  laws,  ordinances  or  resolutions
- imposing  such  taxes  at  a  rate that is one percent additional to the
- three percent rate authorized above in this paragraph  for  such  county
- for  the period beginning August first, two thousand nineteen and ending
- November thirtieth, two thousand [twenty-three] TWENTY-SIX;
-  § 2. Subdivision e of section 4 and sections 5, 7 and  16  of  chapter
- 272  of the laws of 1991, amending the tax law relating to the method of
- disposition of sales and compensating use  tax  revenue  in  Westchester
- county  and  enacting the Westchester county spending limitation act, as
- amended by section 2 of item EEE of subpart C of part XXX of chapter  58
+  (42) the county  of  Westchester  is  hereby  further  authorized  and
+ empowered  to  adopt  and  amend  local  laws, ordinances or resolutions
+ imposing such taxes at a rate that is  one  percent  additional  to  the
+ three  percent  rate  authorized above in this paragraph for such county
+ for the period beginning August first, two thousand nineteen and  ending
+ November thirtieth, two thousand [twenty-three] TWENTY-FIVE;
+  §  2.  Subdivision  e of section 4 and sections 5, 7 and 16 of chapter
+ 272 of the laws of 1991, amending the tax law relating to the method  of
+ disposition  of  sales  and  compensating use tax revenue in Westchester
+ county and enacting the Westchester county spending limitation  act,  as
+ amended  by section 2 of item EEE of subpart C of part XXX of chapter 58
  of the laws of 2020, are amended to read as follows:
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10181-01-3
- S. 6823  2
+  LBD10181-02-3
+ S. 6823--A  2
  
-  e.  "Spending  limitation" means the maximum amount of county spending
- established in county fiscal years 1992, 1993, 1994, 1995,  1996,  1997,
- 1998,  1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009,
- 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020,  2021,
- 2022 [and], 2023, 2024, 2025 AND 2026.
+  e. "Spending limitation" means the maximum amount of  county  spending
+ established  in  county fiscal years 1992, 1993, 1994, 1995, 1996, 1997,
+ 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008,  2009,
+ 2010,  2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021,
+ 2022 [and], 2023, 2024 AND 2025.
   § 5. Establishment of annual spending limitation. a. For county fiscal
  years  1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002,
  2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,  2014,
- 2015,  2016,  2017, 2018, 2019, 2020, 2021, 2022 [and], 2023, 2024, 2025
- AND 2026 there shall be in effect an  annual  spending  limitation.  The
- spending  limitation shall be derived from a fixed percentage reflecting
- the ratio of base  year  spending  to  county  personal  income.  County
- personal  income for such calculation shall be for the period January 1,
- 1986 through December 31, 1986. Such  percentage  shall  be  applied  to
- county  personal  income for the period January 1, 1989 through December
- 31, 1989, to determine the spending limitation for  county  fiscal  year
- 1992;  to determine the spending limitation for county fiscal year 1993,
- such percentage shall be applied to county personal income for the peri-
- od January 1, 1990 through December 31, 1990; to determine the  spending
+ 2015,  2016,  2017,  2018,  2019, 2020, 2021, 2022 [and], 2023, 2024 AND
+ 2025 there shall be in effect an annual spending limitation. The  spend-
+ ing  limitation  shall be derived from a fixed percentage reflecting the
+ ratio of base year spending to county personal income.  County  personal
+ income  for  such  calculation  shall  be for the period January 1, 1986
+ through December 31, 1986. Such percentage shall be  applied  to  county
+ personal  income  for  the  period  January 1, 1989 through December 31,
+ 1989, to determine the spending limitation for county fiscal year  1992;
+ to  determine  the spending limitation for county fiscal year 1993, such
+ percentage shall be applied to county personal  income  for  the  period
+ January  1,  1990  through  December 31, 1990; to determine the spending
  limitation for county fiscal year 1994, such percentage shall be applied
- to  county personal income for the period January 1, 1991 through Decem-
- ber 31, 1991; to determine the spending  limitation  for  county  fiscal
- year  1995,  such  percentage shall be applied to county personal income
- for the period January 1, 1992 through December 31, 1992;  to  determine
- the  spending  limitation  for  county fiscal year 1996, such percentage
- shall be applied to county personal income for  the  period  January  1,
+ to county personal income for the period January 1, 1991 through  Decem-
+ ber  31,  1991;  to  determine the spending limitation for county fiscal
+ year 1995, such percentage shall be applied to  county  personal  income
+ for  the  period January 1, 1992 through December 31, 1992; to determine
+ the spending limitation for county fiscal  year  1996,  such  percentage
+ shall  be  applied  to  county personal income for the period January 1,
  1993 through December 31, 1993; to determine the spending limitation for
- county  fiscal  year  1997,  such  percentage shall be applied to county
- personal income for the period January  1,  1994  through  December  31,
- 1994;  to determine the spending limitation for county fiscal year 1998,
+ county fiscal year 1997, such percentage  shall  be  applied  to  county
+ personal  income  for  the  period  January 1, 1994 through December 31,
+ 1994; to determine the spending limitation for county fiscal year  1998,
  such percentage shall be applied to county personal income for the peri-
- od January 1, 1995 through December 31, 1995; to determine the  spending
+ od  January 1, 1995 through December 31, 1995; to determine the spending
  limitation for county fiscal year 1999, such percentage shall be applied
- to  county personal income for the period January 1, 1996 through Decem-
- ber 31, 1996; to determine the spending  limitation  for  county  fiscal
- year  2000,  such  percentage shall be applied to county personal income
- for the period January 1, 1997 through December 31, 1997;  to  determine
- the  spending  limitation  for  county fiscal year 2001, such percentage
- shall be applied to county personal income for  the  period  January  1,
+ to county personal income for the period January 1, 1996 through  Decem-
+ ber  31,  1996;  to  determine the spending limitation for county fiscal
+ year 2000, such percentage shall be applied to  county  personal  income
+ for  the  period January 1, 1997 through December 31, 1997; to determine
+ the spending limitation for county fiscal  year  2001,  such  percentage
+ shall  be  applied  to  county personal income for the period January 1,
  1998 through December 31, 1998; to determine the spending limitation for
- county  fiscal  year  2002,  such  percentage shall be applied to county
- personal income for the period January  1,  1999  through  December  31,
- 1999;  to determine the spending limitation for county fiscal year 2003,
+ county fiscal year 2002, such percentage  shall  be  applied  to  county
+ personal  income  for  the  period  January 1, 1999 through December 31,
+ 1999; to determine the spending limitation for county fiscal year  2003,
  such percentage shall be applied to county personal income for the peri-
- od January 1, 2000 through December 31, 2000; to determine the  spending
+ od  January 1, 2000 through December 31, 2000; to determine the spending
  limitation for county fiscal year 2004, such percentage shall be applied
- to  county personal income for the period January 1, 2001 through Decem-
- ber 31, 2001; to determine the spending  limitation  for  county  fiscal
- year  2005,  such  percentage shall be applied to county personal income
- for the period January 1, 2002 through December 31, 2002;  to  determine
- the  spending  limitation  for  county fiscal year 2006, such percentage
- shall be applied to county personal income for  the  period  January  1,
+ to county personal income for the period January 1, 2001 through  Decem-
+ ber  31,  2001;  to  determine the spending limitation for county fiscal
+ year 2005, such percentage shall be applied to  county  personal  income
+ for  the  period January 1, 2002 through December 31, 2002; to determine
+ the spending limitation for county fiscal  year  2006,  such  percentage
+ shall  be  applied  to  county personal income for the period January 1,
  2003 through December 31, 2003; to determine the spending limitation for
- the  county fiscal year 2007, such percentage shall be applied to county
- personal income for the period January  1,  2004  through  December  31,
- 2004;  to  determine  the spending limitation for the county fiscal year
- S. 6823  3
+ the county fiscal year 2007, such percentage shall be applied to  county
+ personal  income  for  the  period  January 1, 2004 through December 31,
+ 2004; to determine the spending limitation for the  county  fiscal  year
+ S. 6823--A  3
  
  2008, such percentage shall be applied to county personal income for the
- period January 1, 2005 through  December  31,  2005;  to  determine  the
- spending  limitation  for  the  county fiscal year 2009, such percentage
+ period  January  1,  2005  through  December  31, 2005; to determine the
+ spending limitation for the county fiscal  year  2009,  such  percentage
  shall  be  applied  to  county personal income for the period January 1,
  2006 through December 31, 2006; to determine the spending limitation for
  the county fiscal year 2010, such percentage shall be applied to  county
@@ -169,25 +170,22 @@ S T A T E  O F  N E W  Y O R K
  JANUARY 1, 2021 THROUGH DECEMBER 31, 2021; AND TO DETERMINE THE SPENDING
  LIMITATION FOR THE COUNTY FISCAL YEAR 2025,  SUCH  PERCENTAGE  SHALL  BE
  APPLIED TO COUNTY PERSONAL INCOME FOR THE PERIOD JANUARY 1, 2022 THROUGH
- DECEMBER  31,  2022;  AND  TO  DETERMINE THE SPENDING LIMITATION FOR THE
- COUNTY FISCAL YEAR 2026, SUCH PERCENTAGE  SHALL  BE  APPLIED  TO  COUNTY
- PERSONAL  INCOME  FOR  THE  PERIOD  JANUARY 1, 2023 THROUGH DECEMBER 31,
- 2023.
-  b. The spending limitation shall serve as a statutory  cap  on  county
- spending  to be reflected in the tentative budget as well as the enacted
+ DECEMBER 31, 2022.
+  b.  The  spending  limitation shall serve as a statutory cap on county
+ spending to be reflected in the tentative budget as well as the  enacted
  budget for county fiscal years beginning in 1992.
-  § 7. Mandatory tax reduction. In the event that  the  county  spending
- subject  to the spending limitation exceeds such limitation in the adop-
- S. 6823  4
+  §  7.  Mandatory  tax reduction. In the event that the county spending
+ subject to the spending limitation exceeds such limitation in the  adop-
+ tive  county budget for county fiscal year 1992, 1993, 1994, 1995, 1996,
+ 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007,  2008,
+ 2009,  2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020,
+ S. 6823--A  4
 
- tive county budget for county fiscal year 1992, 1993, 1994, 1995,  1996,
- 1997,  1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008,
- 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019,  2020,
- 2021, 2022 [or], 2023, 2024, 2025 OR 2026 then section 1262-b of the tax
- law shall be repealed.
+ 2021, 2022 [or], 2023, 2024 OR 2025 then section 1262-b of the  tax  law
+ shall be repealed.
   §  16. This act shall take effect immediately, provided, however, that
  sections one through seven of this act shall be in full force and effect
- until November 30, [2023] 2026.
+ until November 30, [2023] 2025.
   § 3. This act shall take effect immediately; provided,  however,  that
  the amendments to sections 4, 5 and 7 of chapter 272 of the laws of 1991
  made  by section two of this act shall not affect the expiration of such
