@@ -1,0 +1,54 @@
+# Relates to attachments to utility poles for broadband service
+
+**Bill ID:** A7119A
+**Session:** 2023
+**Sponsor:** Demond Meeks
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to attachments to utility poles for broadband service; provides that for a broadband internet provider that does not provide regulated telephone service, a pole owner shall not require such broadband internet provider to obtain a certificate of public convenience and necessity as a condition to making attachments to utility poles solely owned or jointly-owned by the pole owner.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7119
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 11, 2023
+  ___________
+ 
+ Introduced  by M. of A. MEEKS -- read once and referred to the Committee
+  on Corporations, Authorities and Commissions
+ 
+ AN ACT to amend the public service law, in relation  to  attachments  to
+  utility poles for broadband service
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Section 119-a of the  public  service  law  is  amended  by
+ adding a new subdivision 1-a to read as follows:
+  1-A.  WITH  RESPECT  TO  A  BROADBAND  INTERNET PROVIDER THAT DOES NOT
+ PROVIDE REGULATED TELEPHONE SERVICE, A POLE OWNER SHALL NOT REQUIRE SUCH
+ BROADBAND INTERNET PROVIDER TO OBTAIN A CERTIFICATE  OF  PUBLIC  CONVEN-
+ IENCE  AND  NECESSITY  UNDER  SECTION  NINETY-NINE  OF THIS CHAPTER AS A
+ CONDITION TO MAKING ATTACHMENTS TO UTILITY POLES SOLELY OWNED OR JOINTLY
+ OWNED BY THE POLE OWNER.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09744-01-3
