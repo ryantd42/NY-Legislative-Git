@@ -1,6 +1,6 @@
 # Relates to authorizing a five mile per hour speed limit for open streets in cities having a population in excess of one million
 
-**Bill ID:** A1416A
+**Bill ID:** A1416AA
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to authorizing a five mile per hour speed limit for open streets in citi
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1416
+  1416--A
  
   2023-2024 Regular Sessions
  
@@ -26,43 +26,52 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. EPSTEIN -- read once and referred to the Commit-
-  tee on Transportation
+  tee on Transportation -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the vehicle and traffic law, in relation to  authorizing
-  a  five  mile per hour speed limit for open streets in cities having a
+ AN  ACT to amend the vehicle and traffic law, in relation to authorizing
+  a five mile per hour speed limit for open streets in cities  having  a
   population in excess of one million
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subparagraph  (a)  of  paragraph 26 of subdivision (a) of
- section 1642 of the vehicle and traffic law, as added by chapter 248  of
- the laws of 2014, is amended to read as follows:
-  (a)  With  respect  to  highways  (which term for the purposes of this
- paragraph shall include private roads open to public motor vehicle traf-
- fic) in such city, other than state highways maintained by the state  on
- which  the department of transportation shall have established higher or
- lower speed limits than the statutory fifty-five miles  per  hour  speed
- limit as provided in section sixteen hundred twenty of this title, or on
- which  the  department of transportation shall have designated that such
- city shall not establish any maximum speed limit as provided in  section
- sixteen  hundred  twenty-four  of this title, subject to the limitations
- imposed by section sixteen hundred eighty-four of this title, establish-
- ment of maximum speed limits at which vehicles may proceed  within  such
- city  or  within  designated areas of such city higher or lower than the
- fifty-five miles per hour maximum statutory limit. No such  speed  limit
- applicable  throughout such city or within designated areas of such city
- shall be established at less than twenty-five  miles  per  hour,  except
- that  school  speed  limits  may  be established at no less than fifteen
- miles per hour pursuant to the provisions  of  section  sixteen  hundred
- forty-three  of  this  article AND EXCEPT THAT OPEN STREETS SPEED LIMITS
- MAY BE ESTABLISHED AT NO LESS THAN FIVE MILES PER HOUR.
+  Section 1. Subparagraph (a) of paragraph  27  of  subdivision  (a)  of
+ section  1642  of the vehicle and traffic law, as amended by chapter 248
+ of the laws of 2014, is amended to read as follows:
+  (a) Establishment of maximum speed limits below twenty-five miles  per
+ hour at which motor vehicles may proceed on or along designated highways
+ within  such city for the explicit purpose of implementing traffic calm-
+ ing measures as such term is defined herein OR FOR THE EXPLICIT  PURPOSE
+ OF  IMPLEMENTING  AN OPEN STREET; provided, however, that no speed limit
+ shall be set below fifteen miles per hour nor shall such speed limit  be
+ established where the traffic calming measure to be implemented consists
+ solely  of  a traffic control sign, AND PROVIDED, FURTHER, THAT NO SPEED
+ LIMIT SHALL BE SET BELOW FIVE MILES PER HOUR ON AN OPEN STREET.  Estab-
+ lishment of such a speed limit shall, where applicable, be in compliance
+ with  the provisions of sections sixteen hundred twenty-four and sixteen
+ hundred eighty-four of this [chapter] ARTICLE. Nothing contained  herein
+ shall  be  deemed  to  alter or affect the establishment of school speed
+ limits pursuant to the provisions of section sixteen hundred forty-three
+ of this article. For the purposes of this  paragraph,  "traffic  calming
+ measures"  shall  mean any physical engineering measure or measures that
+ reduce the negative effects of motor vehicle use, alter driver  behavior
+ and  improve conditions for non-motorized street users such as pedestri-
+ ans and bicyclists, AND "OPEN STREET" SHALL MEAN A STREET OR SEGMENT  OF
+ A STREET DESIGNATED BY THE NEW YORK CITY DEPARTMENT OF TRANSPORTATION AS
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00664-02-3
+ A. 1416--A  2
+ 
+ SUCH PURSUANT TO SECTION 19-107.1 OF THE ADMINISTRATIVE CODE OF THE CITY
+ OF NEW YORK, ON WHICH MOTOR VEHICLE ACCESS IS CONTROLLED BY BARRIERS AND
+ SIGNAGE  OR  OTHER  TRAFFIC  CALMING  MEASURES, AND ON WHICH PRIORITY IS
+ GIVEN  TO PEDESTRIANS, INDIVIDUALS USING BICYCLES, AND OTHER NON-VEHICU-
+ LAR STREET USERS.
   § 2. This act shall take effect on the ninetieth day  after  it  shall
  have become a law. Effective immediately, the addition, amendment and/or
  repeal  of  any  rule  or regulation necessary for the implementation of
  this act on its effective date are authorized to be made  and  completed
  on or before such effective date.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD00664-01-3
