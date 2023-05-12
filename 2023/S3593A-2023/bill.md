@@ -1,6 +1,6 @@
 # Establishes a legal services veterans tax credit for attorneys who perform certain services for veterans and disabled veterans
 
-**Bill ID:** S3593A
+**Bill ID:** S3593AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes a legal services veterans tax credit of up to $1,500 for any attorne
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3593
+  3593--A
  
   2023-2024 Regular Sessions
  
@@ -26,18 +26,20 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Budget and Revenue
+  printed to be committed to the Committee  on  Budget  and  Revenue  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the  tax  law,  in  relation  to  establishing  a  legal
   services  veterans  tax credit for attorneys who perform certain civil
   cases and services for veterans and disabled veterans
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1.  Section  210-B  of the tax law is amended by adding a new
- subdivision 59 to read as follows:
-  59. LEGAL SERVICES VETERANS TAX CREDIT. (A) GENERAL. A TAXPAYER  SHALL
+ subdivision 60 to read as follows:
+  60. LEGAL SERVICES VETERANS TAX CREDIT. (A) GENERAL. A TAXPAYER  SHALL
  BE  ALLOWED  A  CREDIT,  TO BE COMPUTED AS PROVIDED IN THIS SUBDIVISION,
  AGAINST THE TAX IMPOSED BY THIS ARTICLE FOR ANY ATTORNEY WHO PERFORMS  A
  MINIMUM  OF  FIFTY HOURS OF PRO BONO LEGAL SERVICES FOR CIVIL CASES TO A
@@ -56,24 +58,25 @@ S T A T E  O F  N E W  Y O R K
  SHALL HAVE THE FOLLOWING MEANINGS:
   (I)  "VETERAN"  SHALL  HAVE  THE  SAME MEANING AS SET FORTH IN SECTION
  EIGHTY-FIVE OF THE CIVIL SERVICE LAW.
-  (II) "DISABLED VETERAN" SHALL HAVE THE SAME MEANING AS  SET  FORTH  IN
- SECTION EIGHTY-FIVE OF THE CIVIL SERVICE LAW.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01417-02-3
- S. 3593  2
+  LBD01417-05-3
+ S. 3593--A  2
  
+  (II) "DISABLED VETERAN" SHALL HAVE THE SAME MEANING AS  SET  FORTH  IN
+ SECTION EIGHTY-FIVE OF THE CIVIL SERVICE LAW.
   §  2. Subparagraph (B) of paragraph 1 of subsection (i) of section 606
- of the tax law is amended by adding a new clause (1) to read as follows:
+ of the tax law is amended by  adding  a  new  clause  (li)  to  read  as
+ follows:
  
- (1) LEGAL SERVICES VETERANS TAX  AMOUNT OF CREDIT UNDER SUBDIVISION
- CREDIT UNDER SUBSECTION (OOO)  FIFTY-NINE OF SECTION TWO
+ (LI) LEGAL SERVICES VETERANS TAX  AMOUNT OF CREDIT UNDER SUBDIVISION
+ CREDIT UNDER SUBSECTION (PPP)  SIXTY OF SECTION TWO
   HUNDRED TEN-B
-
+ 
   §  3. Section 606 of the tax law is amended by adding a new subsection
- (ooo) to read as follows:
-  (OOO) LEGAL SERVICES VETERANS TAX  CREDIT.  (1)  GENERAL.  A  TAXPAYER
+ (ppp) to read as follows:
+  (PPP) LEGAL SERVICES VETERANS TAX  CREDIT.  (1)  GENERAL.  A  TAXPAYER
  SHALL  BE  ALLOWED  A  CREDIT,  TO  BE  COMPUTED  AS  PROVIDED  IN  THIS
  SUBSECTION, AGAINST THE TAX IMPOSED BY THIS ARTICLE FOR ANY ATTORNEY WHO
  PERFORMS A MINIMUM OF FIFTY HOURS OF PRO BONO LEGAL SERVICES  FOR  CIVIL
