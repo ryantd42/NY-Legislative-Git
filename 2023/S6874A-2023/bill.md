@@ -1,6 +1,6 @@
 # Makes technical corrections regarding the public financing of elections; repealer
 
-**Bill ID:** S6874A
+**Bill ID:** S6874AA
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Makes technical corrections regarding the public financing of elections.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6874
+  6874--A
  
   2023-2024 Regular Sessions
  
@@ -26,48 +26,50 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MYRIE  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Elections
+  printed to be committed to the Committee  on  Elections  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the election law and the state finance law, in  relation
-  to  making  technical  corrections  regarding  the public financing of
-  elections; and to repeal certain provisions of part ZZZ of chapter  58
-  of  the laws of 2020 amending the state finance law relating to estab-
+ AN  ACT to amend the election law and the state finance law, in relation
+  to making technical corrections  regarding  the  public  financing  of
+  elections;  and to repeal certain provisions of part ZZZ of chapter 58
+  of the laws of 2020 amending the state finance law relating to  estab-
   lishing the New York state campaign finance fund, in relation thereto
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivisions 1, 11, 13, and 19 of section 14-200-a of the
- election law, as added by section 4 of part ZZZ of  chapter  58  of  the
+  Section 1. Subdivisions 1, 11, 13, and 19 of section 14-200-a  of  the
+ election  law,  as  added  by section 4 of part ZZZ of chapter 58 of the
  laws of 2020, are amended to read as follows:
-  1.  "authorized committee" means the single political committee desig-
- nated by a candidate pursuant to [these recommendations] THIS  TITLE  to
- receive  contributions  and  make  expenditures in support of the candi-
+  1. "authorized committee" means the single political committee  desig-
+ nated  by  a candidate pursuant to [these recommendations] THIS TITLE to
+ receive contributions and make expenditures in  support  of  the  candi-
  date's campaign for such election.
-  11. (a) "matchable contribution" means a contribution  not  less  than
- five  dollars  and  not  more  than  AN  AGGREGATE  OF two hundred fifty
+  11.  (a)  "matchable  contribution" means a contribution not less than
+ five dollars and not  more  than  AN  AGGREGATE  OF  two  hundred  fifty
  dollars[, for a candidate for public office to be voted on by the voters
  of the entire state or for nomination to any such office, a contribution
- for any covered elections held in the same election  cycle,  made  by  a
- natural  person  who is a resident in the state of New York to a partic-
- ipating candidate, and for a candidate for election to the state  assem-
- bly or state senate or for nomination to any such office, a contribution
  for  any  covered  elections  held in the same election cycle, made by a
- natural person who is also a resident of such state  assembly  or  state
- senate  district  from  which  such  candidate  is seeking nomination or
+ natural person who is a resident in the state of New York to  a  partic-
+ ipating  candidate, and for a candidate for election to the state assem-
+ bly or state senate or for nomination to any such office, a contribution
+ for any covered elections held in the same election  cycle,  made  by  a
+ natural  person  who  is also a resident of such state assembly or state
+ senate district from which  such  candidate  is  seeking  nomination  or
  election,] PER UNIQUE CONTRIBUTOR, MADE TO A PARTICIPATING CANDIDATE FOR
- ANY COVERED ELECTION HELD IN THE SAME  ELECTION  CYCLE,  that  has  been
- reported  in  full  to  the  PCFB in accordance with sections 14-102 and
- 14-104 of this article by the candidate's  authorized  committee  [and],
+ ANY  COVERED  ELECTION  HELD  IN  THE SAME ELECTION CYCLE, that has been
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03149-02-3
- S. 6874  2
+  LBD03149-03-3
+ S. 6874--A  2
  
- has  been  contributed  on  or before the day of the applicable primary,
- general, runoff, or special election, AND: (I) IS FOR  A  CANDIDATE  FOR
- PUBLIC  OFFICE  TO  BE VOTED ON BY THE VOTERS OF THE ENTIRE STATE OR FOR
+ reported in full to the PCFB in  accordance  with  sections  14-102  and
+ 14-104  of  this  article by the candidate's authorized committee [and],
+ has been contributed on or before the day  of  the  applicable  primary,
+ general,  runoff,  or  special election, AND: (I) IS FOR A CANDIDATE FOR
+ PUBLIC OFFICE TO BE VOTED ON BY THE VOTERS OF THE ENTIRE  STATE  OR  FOR
  NOMINATION TO ANY SUCH OFFICE, AND HAS BEEN MADE BY A NATURAL PERSON WHO
  IS  A  RESIDENT IN THE STATE OF NEW YORK; OR (II) IS FOR A CANDIDATE FOR
  ELECTION TO THE STATE ASSEMBLY OR STATE SENATE OR FOR NOMINATION TO  ANY
@@ -118,68 +120,68 @@ S T A T E  O F  N E W  Y O R K
  [it] THE PCFB shall give authorized and political committees an opportu-
  nity  to respond to and correct potential violations and give candidates
  an opportunity to address questions [it] THE PCFB has concerning [their]
+ S. 6874--A  3
+ 
  THE CANDIDATE'S matchable contribution claims or other issues concerning
  eligibility for receiving public matching funds pursuant to this title.
- S. 6874  3
- 
-  § 3. Paragraph (i) of subdivision  1  and  subdivision  2  of  section
+  §  3.  Paragraph  (i)  of  subdivision  1 and subdivision 2 of section
  14-203 of the election law, as added by section 4 of part ZZZ of chapter
  58 of the laws of 2020, are amended to read as follows:
-  (i)  not have accepted contributions in amounts exceeding the contrib-
+  (i) not have accepted contributions in amounts exceeding the  contrib-
  ution limits set forth for candidates in paragraphs [a and b] C AND D of
- subdivision one of section 14-114 of this article  during  the  election
+ subdivision  one  of  section 14-114 of this article during the election
  cycle for which the candidate seeks certification;
-  (i)  Provided  however,  that,  if  a candidate accepted contributions
- exceeding such limits, such acceptance shall not prevent  the  candidate
- from  being certified by the PCFB if the candidate in a reasonable time,
- as determined by rule, pays to the fund or returns  to  the  contributor
- the  portion  of  any contribution that exceeded the applicable contrib-
+  (i) Provided however, that,  if  a  candidate  accepted  contributions
+ exceeding  such  limits, such acceptance shall not prevent the candidate
+ from being certified by the PCFB if the candidate in a reasonable  time,
+ as  determined  by  rule, pays to the fund or returns to the contributor
+ the portion of any contribution that exceeded  the  applicable  contrib-
  ution limit.
-  (ii) If the candidate is unable to return such funds in  a  reasonable
- time,  as  determined  by  rule,  because  they have already been spent,
- acceptance of contributions exceeding the limits shall not  prevent  the
- candidate  from  being certified by the PCFB if the candidate submits an
- affidavit agreeing to pay to the fund all portions of any  contributions
- that  exceeded  the  limit  no later than thirty days before the general
- election. If a candidate provides the PCFB with such an  affidavit,  any
- disbursement  of public MATCHING funds to the candidate shall be reduced
- by no more than twenty-five percent until the total amount owed  by  the
+  (ii)  If  the candidate is unable to return such funds in a reasonable
+ time, as determined by rule,  because  they  have  already  been  spent,
+ acceptance  of  contributions exceeding the limits shall not prevent the
+ candidate from being certified by the PCFB if the candidate  submits  an
+ affidavit  agreeing to pay to the fund all portions of any contributions
+ that exceeded the limit no later than thirty  days  before  the  general
+ election.  If  a candidate provides the PCFB with such an affidavit, any
+ disbursement of public MATCHING funds to the candidate shall be  reduced
+ by  no  more than twenty-five percent until the total amount owed by the
  candidate is repaid.
   (iii) Nothing in this section shall be interpreted to require a candi-
- date  who  retains  funds  raised  during any previous election cycle to
+ date who retains funds raised during  any  previous  election  cycle  to
  forfeit such funds. Funds raised during a previous election cycle may be
- retained and used by the candidate for the candidate's campaign  in  the
- next  election  cycle  but  funds  shall not [qualify for satisfying] BE
- COUNTED TOWARD the APPLICABLE threshold for [participating]  ELIGIBILITY
- A  CANDIDATE  MUST  MEET  TO  PARTICIPATE in the public campaign finance
- program established in this title nor  shall  they  be  eligible  to  be
- matched.  [The PCFB shall adopt regulations to ensure that contributions
+ retained  and  used by the candidate for the candidate's campaign in the
+ next election cycle but funds shall  not  [qualify  for  satisfying]  BE
+ COUNTED  TOWARD the APPLICABLE threshold for [participating] ELIGIBILITY
+ A CANDIDATE MUST MEET TO PARTICIPATE  in  the  public  campaign  finance
+ program  established  in  this  title  nor  shall they be eligible to be
+ matched. The PCFB shall adopt regulations to ensure  that  contributions
  that would satisfy the applicable contribution limits authorized in this
- title shall be transferred into the appropriate campaign account.]
-  (iv) Contributions received and expenditures made by the candidate  or
- an  authorized committee of the candidate prior to the effective date of
- this title shall not constitute a violation of  this  title.  Unexpended
- contributions  shall  be  treated the same as [campaign surpluses] FUNDS
+ title shall be transferred into the appropriate campaign account.
+  (iv)  Contributions received and expenditures made by the candidate or
+ an authorized committee of the candidate prior to the effective date  of
+ this  title  shall  not constitute a violation of this title. Unexpended
+ contributions shall be treated the same as  [campaign  surpluses]  FUNDS
  RAISED DURING A PREVIOUS ELECTION CYCLE under subparagraph (iii) of this
- paragraph. Nothing in this [recommendation] TITLE shall be construed  to
- limit,  in  any way, any candidate or public official from expending any
+ paragraph.  Nothing in this [recommendation] TITLE shall be construed to
+ limit, in any way, any candidate or public official from  expending  any
  portion of pre-existing campaign funds for any lawful purpose other than
  those related to his or her campaign.
-  (v) A candidate who has raised matchable  contributions  but,  in  the
- case  of  a covered primary, general or special election, is not opposed
- by another candidate on the ballot who is not a write-in  candidate,  or
- who  chooses not to accept [matchable] PUBLIC MATCHING funds, may retain
- such contributions and apply them in  accord  with  this  title  to  the
- candidate's  next  campaign,  should  there be one, in the next election
+  (v)  A  candidate  who  has raised matchable contributions but, in the
+ case of a covered primary, general or special election, is  not  opposed
+ by  another  candidate on the ballot who is not a write-in candidate, or
+ who chooses not to accept [matchable] PUBLIC MATCHING funds, may  retain
+ such  contributions  and  apply  them  in  accord with this title to the
+ candidate's next campaign, should there be one,  in  the  next  election
  cycle.
-  2. Threshold for eligibility. (a) The threshold  for  eligibility  for
+  2.  Threshold  for  eligibility. (a) The threshold for eligibility for
  public funding for participating candidates shall be in the case of:
-  (i)  governor, not less than five hundred thousand dollars in contrib-
- utions [including at least five thousand matchable  contributions  shall
+  (i) governor, not less than five hundred thousand dollars in  contrib-
+ utions  [including  at least five thousand matchable contributions shall
+ S. 6874--A  4
+
  be counted toward this qualifying threshold] FROM RESIDENTS OF THE STATE
- S. 6874  4
- 
- OF  NEW YORK, INCLUDING MATCHABLE CONTRIBUTIONS FROM AT LEAST FIVE THOU-
+ OF NEW YORK, INCLUDING MATCHABLE CONTRIBUTIONS FROM AT LEAST FIVE  THOU-
  SAND UNIQUE CONTRIBUTORS;
   (ii)  lieutenant  governor, attorney general and comptroller, not less
  than one hundred thousand dollars in contributions [including  at  least
@@ -234,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
   § 4. Subdivisions 1, 2, and 5 of section 14-204 of the  election  law,
  as added by section 4 of part ZZZ of chapter 58 of the laws of 2020, are
  amended to read as follows:
- S. 6874  5
+ S. 6874--A  5
  
   1.  In  any primary election, receipt of public funds by participating
  candidates and by their [participating] AUTHORIZED committees shall  not
@@ -292,7 +294,7 @@ S T A T E  O F  N E W  Y O R K
  contribution report filed in compliance  with  section  14-104  of  this
  article.  Within  two days of determining that a candidate for a covered
  office is eligible for public matching funds, it shall authorize payment
- S. 6874  6
+ S. 6874--A  6
 
  of the applicable PUBLIC matching funds owed to the candidate. The  PCFB
  shall  schedule at least three payment dates in the thirty days prior to
@@ -350,7 +352,7 @@ S T A T E  O F  N E W  Y O R K
  written  notice and opportunity to be heard. During the period of his or
  her term as a commissioner appointed hereunder, each  such  commissioner
  is  barred  from  making, or soliciting from other persons, any contrib-
- S. 6874  7
+ S. 6874--A  7
  
  utions to candidates for election to the offices of governor, lieutenant
  governor, attorney general, comptroller,  member  of  the  assembly,  or
@@ -408,7 +410,7 @@ S T A T E  O F  N E W  Y O R K
  neous payment will be deducted from any future payment, if any,  and  if
  no  future  payment  is  to  be  made then neither the candidate nor the
  committee shall be liable to repay the excess amount to  the  PCFB.  The
- S. 6874  8
+ S. 6874--A  8
  
  candidate  and  the  candidate's  authorized  committee  are jointly and
  severally liable for any repayments to the PCFB.
@@ -466,7 +468,7 @@ S T A T E  O F  N E W  Y O R K
  that it may assess directly on violators.] The  PCFB  shall  investigate
  referrals and complaints. After investigation, it may recommend dismiss-
  al,  settlement,  civil action, or referral to law enforcement. The PCFB
- S. 6874  9
+ S. 6874--A  9
  
  may assess penalties and it is authorized to commence a civil action  in
  court to enforce all penalties and recover money due.
@@ -524,7 +526,7 @@ S T A T E  O F  N E W  Y O R K
  working days after such voucher is received by the state comptroller.
   5. Commencing in two thousand twenty-five, if the [surplus] MONEYS  in
  the  fund on April first of the year after a year in which a governor is
- S. 6874  10
+ S. 6874--A  10
  
  elected exceeds twenty-five percent of the disbursements from  the  fund
  over  the  previous  four  years, the excess shall revert to the general
@@ -582,7 +584,7 @@ S T A T E  O F  N E W  Y O R K
  senator  or member of the assembly an amount equivalent to the number of
  enrolled voters in the candidate's party in the district in which he  or
  she  is  a candidate, excluding voters in inactive status, multiplied by
- S. 6874  11
+ S. 6874--A  11
  
  $.25 and in the case of any election for state senator or member of  the
  assembly, an amount equivalent to the number of registered voters in the
