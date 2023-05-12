@@ -1,6 +1,6 @@
 # Relates to alternative forms of identification for renters insurance
 
-**Bill ID:** A125B
+**Bill ID:** A125BA
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to alternative forms of identification for renters insurance, including 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  125
+  125--A
  
   2023-2024 Regular Sessions
  
@@ -28,17 +28,19 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. CRUZ, BURDICK, SIMON, DARLING, McDONOUGH, GLICK,
-  GOODELL -- read once and referred to the Committee on Insurance
- 
+  GOODELL -- read once and referred to the  Committee  on  Insurance  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the insurance law, in relation to alternative  forms  of
   identification for renters insurance
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The insurance law is amended by adding a new  section  3422
+  Section 1. The insurance law is amended by adding a new  section  3423
  to read as follows:
-  §  3422.  RENTERS  INSURANCE;  ALTERNATIVE  FORMS  OF  IDENTIFICATION.
+  §  3423.  RENTERS  INSURANCE;  ALTERNATIVE  FORMS  OF  IDENTIFICATION.
  NOTWITHSTANDING ANY OTHER PROVISION OF THIS CHAPTER OR ANY OTHER LAW  TO
  THE  CONTRARY,  EVERY  INSURER  ISSUING A POLICY OR CONTRACT FOR RENTERS
  INSURANCE, SHALL ACCEPT, IN LIEU OF A SOCIAL SECURITY NUMBER, A  MUNICI-
@@ -54,7 +56,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02052-01-3
+  LBD02052-02-3
