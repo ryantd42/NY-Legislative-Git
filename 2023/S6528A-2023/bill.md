@@ -1,6 +1,6 @@
 # Relates to cosmetologists
 
-**Bill ID:** S6528A
+**Bill ID:** S6528AA
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Requires the secretary of state to promulgate rules and regulations requiring th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6528
+  6528--A
  
   2023-2024 Regular Sessions
  
@@ -26,13 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  BAILEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Consumer Protection
+  printed to be committed to the Committee  on  Consumer  Protection  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
- AN ACT to amend the general business law, in relation to cosmetologists
+ AN ACT to amend the general business law, in relation to  the  substance
+  of  training  and  testing  requirements for cosmetologists or natural
+  hair stylists
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Section  404  of  the general business law, as amended by
  chapter 80 of the laws of 2015, is amended to read as follows:
   § 404. Rules and regulations. The secretary shall promulgate rules and
@@ -52,32 +56,31 @@ S T A T E  O F  N E W  Y O R K
  setting forth the educational  requirements  for  nail  specialists  and
  trainees  shall include education in the area of causes of infection and
  bacteriology. REGULATIONS SETTING FORTH THE EDUCATIONAL REQUIREMENTS FOR
- COSMETOLOGISTS, NATURAL HAIR STYLISTS, AND TRAINEES SHALL INCLUDE EDUCA-
- TION REGARDING THE PROVISION OF SERVICES TO INDIVIDUALS  WITH  ALL  HAIR
- TYPES  AND TEXTURES, INCLUDING, BUT NOT LIMITED TO, VARIOUS CURL OR WAVE
- PATTERNS, HAIR STRAND THICKNESSES, AND VOLUMES OF HAIR. In  promulgating
- such  rules  and  regulations the secretary shall consult with the state
- education department, the advisory  committee  established  pursuant  to
- this  article,  any  other state agencies and private industry represen-
+ COSMETOLOGISTS OR NATURAL HAIR STYLISTS SHALL INCLUDE EDUCATION  REGARD-
+ ING  THE  PROVISION  OF  SERVICES TO INDIVIDUALS WITH ALL HAIR TYPES AND
+ TEXTURES, INCLUDING, BUT NOT LIMITED TO, VARIOUS CURL OR WAVE  PATTERNS,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11005-01-3
- S. 6528  2
+  LBD11005-02-3
+ S. 6528--A  2
  
- tatives as may be appropriate in determining minimum  training  require-
- ments.
-  §  2.  Subdivision  2  of  section 407 of the general business law, as
+ HAIR STRAND THICKNESSES, AND VOLUMES OF HAIR. In promulgating such rules
+ and  regulations  the  secretary  shall consult with the state education
+ department, the advisory committee established pursuant to this article,
+ any  other state agencies and private industry representatives as may be
+ appropriate in determining minimum training requirements.
+  § 2. Subdivision 2 of section 407 of  the  general  business  law,  as
  added by chapter 509 of the laws of 1992, is amended to read as follows:
-  2. The secretary shall prepare examination questions  for  persons  to
- qualify  for  licensure  under this article.  SUCH EXAMINATION QUESTIONS
+  2.  The  secretary  shall prepare examination questions for persons to
+ qualify for licensure under this  article.  SUCH  EXAMINATION  QUESTIONS
  SHALL  INCLUDE,  WHERE  APPLICABLE,  QUESTIONS  RELATING  TO  PROVIDING
- SERVICES  TO  INDIVIDUALS WITH VARYING HAIR TYPES AND TEXTURES. All such
+ SERVICES TO INDIVIDUALS WITH VARYING HAIR TYPES AND TEXTURES.  All  such
  examinations shall be the same for all persons for the license sought at
- any given examination. Such test shall not be limited  to  any  specific
+ any  given  examination.  Such test shall not be limited to any specific
  method or system.
   § 3. This act shall take effect on the one hundred eightieth day after
- it  shall have become a law. Effective immediately, the addition, amend-
+ it shall have become a law. Effective immediately, the addition,  amend-
  ment and/or repeal of any rule or regulation necessary for the implemen-
- tation of this act on its effective date are authorized to be  made  and
+ tation  of  this act on its effective date are authorized to be made and
  completed on or before such effective date.
