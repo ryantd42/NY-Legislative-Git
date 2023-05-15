@@ -1,0 +1,140 @@
+# Provides for enrollment in medical assistance programs for incarcerated individuals
+
+**Bill ID:** A7216
+**Session:** 2023
+**Sponsor:** Amy Paulin
+**Status:** In Assembly Committee
+
+## Summary
+
+Provides for enrollment of eligible incarcerated persons in the medical assistance for needy persons program; provides for enrollment of incarcerated individuals in other medical assistance programs, where eligible.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7216
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 15, 2023
+  ___________
+ 
+ Introduced by M. of A. PAULIN -- read once and referred to the Committee
+  on Health
+ 
+ AN  ACT  to  amend  the  correction  law and the social services law, in
+  relation to the enrollment of incarcerated individuals in the  medical
+  assistance for needy persons program
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 71 of the correction law is amended by adding a new
+ subdivision 9 to read as follows:
+  9. (A) THE COMMISSIONER SHALL TAKE ALL STEPS NECESSARY TO ENROLL  INTO
+ THE  MEDICAL  ASSISTANCE FOR NEEDY PERSONS PROGRAM UNDER TITLE ELEVEN OF
+ ARTICLE FIVE OF THE SOCIAL SERVICES LAW ANY ELIGIBLE INDIVIDUAL  COMMIT-
+ TED  TO  THE CUSTODY OF THE DEPARTMENT, UNLESS THE DEPARTMENT DETERMINES
+ THAT SUCH APPLICATION IS UNNECESSARY BECAUSE THE INDIVIDUAL WAS ENROLLED
+ IN THE MEDICAL ASSISTANCE PROGRAM AT THE TIME OF THEIR INCARCERATION AND
+ IS EXPECTED TO REMAIN SO AT THE TIME OF RELEASE OR BECAUSE THE  INDIVID-
+ UAL  IS INELIGIBLE FOR ENROLLMENT IN SUCH PROGRAM OR DOES NOT WISH TO BE
+ ENROLLED. PROVIDED, HOWEVER, THAT NO SUCH MEDICAL  ASSISTANCE  SHALL  BE
+ FURNISHED  FOR ANY CARE, SERVICES, OR SUPPLIES PROVIDED DURING SUCH TIME
+ AS THE PERSON IS INCARCERATED EXCEPT  AS  AUTHORIZED  UNDER  SUBDIVISION
+ ONE-A OF SECTION THREE HUNDRED SIXTY-SIX OF THE SOCIAL SERVICES LAW. FOR
+ INDIVIDUALS  SUCCESSFULLY ENROLLED UNDER THIS SUBDIVISION, ANY DOCUMENTS
+ RELATING TO ENROLLMENT SHALL BE KEPT IN THE INDIVIDUAL'S  RECORDS  UNTIL
+ THE  INDIVIDUAL'S  RELEASE  FROM  CUSTODY,  AT WHICH TIME SUCH DOCUMENTS
+ SHALL BE PROVIDED TO THE INDIVIDUAL.
+  (B) WHERE AN INDIVIDUAL IS FOUND INELIGIBLE FOR THE MEDICAL ASSISTANCE
+ PROGRAM, THE DEPARTMENT SHALL MAKE DILIGENT EFFORTS TO DETERMINE WHETHER
+ THE INDIVIDUAL IS ELIGIBLE FOR ANY OTHER MEDICAL INSURANCE PROGRAM  AND,
+ IF  SO,  ASSIST THE INDIVIDUAL IN APPLYING TO THE PROGRAM FOR WHICH THEY
+ ARE ELIGIBLE IF THEY WISH TO ENROLL IN SUCH PROGRAM.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02422-01-3
+ A. 7216  2
+ 
+  § 2. The correction law is amended by adding a new  section  500-q  to
+ read as follows:
+  §  500-Q.  MEDICAID ENROLLMENT. 1. WHERE PRACTICABLE, FOR ANY ELIGIBLE
+ INDIVIDUAL INCARCERATED IN A LOCAL  CORRECTIONAL  FACILITY,  THE  SUPER-
+ INTENDENT OF SUCH FACILITY SHALL TAKE ALL STEPS NECESSARY FOR ENROLLMENT
+ INTO THE MEDICAL ASSISTANCE FOR NEEDY PERSONS PROGRAM UNDER TITLE ELEVEN
+ OF  ARTICLE  FIVE  OF THE SOCIAL SERVICES LAW, UNLESS THE SUPERINTENDENT
+ DETERMINES THAT SUCH APPLICATION IS UNNECESSARY BECAUSE  THE  INDIVIDUAL
+ WAS  ENROLLED  IN  THE  MEDICAL  ASSISTANCE PROGRAM AT THE TIME OF THEIR
+ INCARCERATION AND IS EXPECTED TO REMAIN SO AT THE TIME  OF  RELEASE,  OR
+ BECAUSE  THE  INDIVIDUAL IS INELIGIBLE FOR ENROLLMENT IN SUCH PROGRAM OR
+ DOES NOT WISH TO BE ENROLLED. PROVIDED, HOWEVER, THAT  NO  SUCH  MEDICAL
+ ASSISTANCE  SHALL  BE  FURNISHED  FOR  ANY  CARE,  SERVICES, OR SUPPLIES
+ PROVIDED DURING SUCH TIME  AS  THE  PERSON  IS  INCARCERATED  EXCEPT  AS
+ AUTHORIZED UNDER SUBDIVISION ONE-A OF SECTION THREE HUNDRED SIXTY-SIX OF
+ THE  SOCIAL  SERVICES  LAW.  FOR INDIVIDUALS SUCCESSFULLY ENROLLED UNDER
+ THIS SUBDIVISION, ANY DOCUMENTS RELATING TO ENROLLMENT SHALL BE KEPT  IN
+ THE INDIVIDUAL'S RECORDS UNTIL THE INDIVIDUAL'S RELEASE FROM CUSTODY, AT
+ WHICH TIME SUCH DOCUMENTS SHALL BE PROVIDED TO THE INDIVIDUAL.
+  2.  WHERE AN INDIVIDUAL IS FOUND INELIGIBLE FOR THE MEDICAL ASSISTANCE
+ PROGRAM, THE SUPERINTENDENT SHALL MAKE  DILIGENT  EFFORTS  TO  DETERMINE
+ WHETHER  THE  INDIVIDUAL  IS  ELIGIBLE  FOR  ANY OTHER MEDICAL INSURANCE
+ PROGRAM AND, IF SO, ASSIST THE INDIVIDUAL IN APPLYING TO THE PROGRAM FOR
+ WHICH THEY ARE ELIGIBLE IF THEY WISH TO ENROLL IN SUCH PROGRAM.
+  § 3. Paragraph (b) of subdivision 3 of section  366-a  of  the  social
+ services  law,  as amended by chapter 41 of the laws of 1992, is amended
+ to read as follows:
+  (b) notify the applicant in writing of the decision,  and  where  such
+ applicant  is  found eligible, provide a tamper resistant identification
+ card containing a photo image of  the  applicant  for  use  in  securing
+ medical assistance under this title provided, however, that an identifi-
+ cation  card  need  not  contain a photo image of a person other than an
+ adult member of an eligible household or a single-person eligible house-
+ hold. The department is not required to provide, but shall seek  practi-
+ cal  methods  for  providing,  a card with such picture to a person when
+ such person is homebound or is a resident of a residential  health  care
+ facility,  or  an  in-patient  psychiatric  facility,  or is expected to
+ remain hospitalized for an extended period.  WHERE  THE  APPLICANT  IS
+ INCARCERATED  BY THE DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION
+ OR IN A LOCAL CORRECTIONAL FACILITY AS DEFINED IN  SECTION  TWO  OF  THE
+ CORRECTION  LAW, THE APPROPRIATE SOCIAL SERVICES OFFICIAL OR THE DEPART-
+ MENT OF HEALTH OR ITS AGENT SHALL PROVIDE SUCH  IDENTIFICATION  CARD  TO
+ THE DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION OR LOCAL CORREC-
+ TIONAL  FACILITY  FOR KEEPING WITH THE INCARCERATED INDIVIDUAL'S RECORDS
+ UNTIL SUCH INDIVIDUAL IS  RELEASED.  The  commissioner  shall  have  the
+ authority  to  define  categories  of recipients who are not required to
+ have a photo identification card  where  such  card  would  be  limited,
+ unnecessary or impracticable.
+  §  4.  Section  71  of  the  correction law is amended by adding a new
+ subdivision 10 read as follows:
+  10. (A) THE COMMISSIONER, IN CONSULTATION  WITH  THE  COMMISSIONER  OF
+ HEALTH,  SHALL  STUDY  AND  REPORT ANNUALLY ON ENROLLMENT IN THE MEDICAL
+ ASSISTANCE FOR NEEDY PERSONS PROGRAM OF APPLICANTS IN THE CUSTODY OF THE
+ DEPARTMENT OR LOCAL CORRECTIONAL FACILITIES. THE  REPORT  SHALL  INCLUDE
+ HOW MANY INDIVIDUALS IN THE CUSTODY OF EACH FACILITY WERE:
+ A. 7216  3
+ 
+  (I) ENROLLED IN MEDICAL ASSISTANCE OR OTHER MEDICAL INSURANCE PROGRAMS
+ AT THE TIME OF THEIR INCARCERATION;
+  (II) ENROLLED INTO SUCH PROGRAMS DURING THEIR INCARCERATION, INCLUDING
+ WHETHER  THEY WERE ENROLLED THROUGH SOCIAL SERVICES DISTRICTS OR THE NEW
+ YORK STATE HEALTH BENEFITS EXCHANGE PORTAL;
+  (III) RELEASED WITH PROOF OF ENROLLMENT IN SUCH PROGRAMS; AND
+  (IV) RELEASED WITHOUT PROOF OF ENROLLMENT IN SUCH PROGRAMS.
+  (B) THE FIRST REPORT UNDER THIS SUBDIVISION  SHALL  BE  COMPLETED  AND
+ SUBMITTED  TO  THE  GOVERNOR, THE TEMPORARY PRESIDENT OF THE SENATE, AND
+ THE SPEAKER OF THE ASSEMBLY NO LATER THAN ONE YEAR AFTER  THE  EFFECTIVE
+ DATE OF THIS SUBDIVISION.
+  § 5. This act shall take effect on the one hundred eightieth day after
+ it  shall  have become a law. Effective immediately, the commissioner of
+ health, the commissioner of corrections and community  supervision,  and
+ the  superintendents  of  local correctional facilities shall make regu-
+ lations and take other actions reasonably  necessary  to  implement  the
+ provisions of this act on its effective date.
