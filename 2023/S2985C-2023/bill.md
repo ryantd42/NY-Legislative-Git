@@ -1,6 +1,6 @@
 # Enacts the "housing affordability, resiliency, and energy efficiency investment act of 2023"
 
-**Bill ID:** S2985CB
+**Bill ID:** S2985CC
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Enacts the "housing affordability, resiliency, and energy efficiency investment 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2985--B
+  2985--C
  
   2023-2024 Regular Sessions
  
@@ -30,101 +30,104 @@ S T A T E  O F  N E W  Y O R K
   on  Housing,  Construction  and  Community  Development  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to said committee  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
+  reprinted  as  amended  and  recommitted to said committee -- reported
+  favorably from said  committee  and  committed  to  the  Committee  on
+  Finance  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
- AN  ACT  to  amend the general municipal law, the local finance law, the
-  private housing finance  law,  and  the  New  York  city  charter,  in
+ AN ACT to amend the general municipal law, the local  finance  law,  the
+  private  housing  finance  law,  and  the  New  York  city charter, in
   relation to enacting the "housing affordability, resiliency, and ener-
   gy efficiency investment act of 2023"
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Short title. This act shall be known and may  be  cited  as
+  Section  1.  Short  title. This act shall be known and may be cited as
  the "housing affordability, resiliency, and energy efficiency investment
  act of 2023".
-  §  2.  Paragraphs  a, c and g of subdivision 1 of section 696-a of the
- general municipal law, as amended by chapter 320 of the  laws  of  1999,
+  § 2. Paragraphs a, c and g of subdivision 1 of section  696-a  of  the
+ general  municipal  law,  as amended by chapter 320 of the laws of 1999,
  are amended to read as follows:
-  a.  Notwithstanding  the  provisions  of any general, special or local
- law, an agency is hereby authorized to make or contract to  make  grants
- or  loans to the owner of any property that is part of an urban develop-
- ment action area project for the purpose of  (i)  rehabilitation  of  an
- existing  private  or multiple dwelling OR CONSTRUCTION OF A NEW PRIVATE
- OR MULTIPLE DWELLING, (ii) providing site  improvements,  INCIDENTAL  OR
- APPURTENANT  TO  SUCH  REHABILITATION  OR  SUCH CONSTRUCTION, WITHIN THE
+  a. Notwithstanding the provisions of any  general,  special  or  local
+ law,  an  agency is hereby authorized to make or contract to make grants
+ or loans to the owner of any property that is part of an urban  develop-
+ ment  action  area  project  for the purpose of (i) rehabilitation of an
+ existing private or multiple dwelling OR CONSTRUCTION OF A  NEW  PRIVATE
+ OR  MULTIPLE  DWELLING,  (ii) providing site improvements, INCIDENTAL OR
+ APPURTENANT TO SUCH REHABILITATION  OR  SUCH  CONSTRUCTION,  WITHIN  THE
  URBAN DEVELOPMENT ACTION AREA IN WHICH THE URBAN DEVELOPMENT ACTION AREA
- PROJECT IS LOCATED, including, but  not  limited  to,  water  and  sewer
+ PROJECT  IS  LOCATED,  including,  but  not  limited to, water and sewer
  facilities, sidewalks, landscaping, PARKS AND OPEN SPACE, SOCIAL, RECRE-
- ATIONAL,  COMMUNAL  AND OTHER NON-RESIDENTIAL FACILITIES AND THE OUTFIT-
- TING THEREOF, the curing of problems caused by abnormal site conditions,
- excavation and  construction  of  footings  and  foundations  and  other
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07187-04-3
- S. 2985--B  2
+  LBD07187-05-3
+ S. 2985--C  2
  
+ ATIONAL, COMMUNAL AND OTHER NON-RESIDENTIAL FACILITIES AND  THE  OUTFIT-
+ TING THEREOF, the curing of problems caused by abnormal site conditions,
+ excavation  and  construction  of  footings  and  foundations  and other
  improvements  associated  with the provision of infrastructure, or (iii)
  providing for other costs of construction for the development of private
  and multiple dwelling housing accommodations.
   c. Any loan made in accordance with this section shall be secured by a
- note  and mortgage upon the property improved, OTHER THAN ANY SUCH PROP-
- ERTY TITLE TO WHICH IS HELD BY THE MUNICIPALITY or, in  the  case  of  a
- condominium,  a  note  and  mortgage  upon each of the [housing accommo-
+ note and mortgage upon the property improved, OTHER THAN ANY SUCH  PROP-
+ ERTY  TITLE  TO  WHICH  IS HELD BY THE MUNICIPALITY or, in the case of a
+ condominium, a note and mortgage upon  each  of  the  [housing  accommo-
  dations] CONDOMINIUM UNITS aided by such loan, or in the case of a coop-
- erative housing corporation, a  note  and  mortgage  upon  the  economic
- interest  in  such  corporation of each tenant-shareholder aided by such
- loan, or upon the property improved, OTHER THAN ANY SUCH PROPERTY  TITLE
- TO  WHICH IS HELD BY THE MUNICIPALITY, or upon both such economic inter-
- est or property; provided, however, that all or part of  any  such  loan
+ erative  housing  corporation,  a  note  and  mortgage upon the economic
+ interest in such corporation of each tenant-shareholder  aided  by  such
+ loan,  or upon the property improved, OTHER THAN ANY SUCH PROPERTY TITLE
+ TO WHICH IS HELD BY THE MUNICIPALITY, or upon both such economic  inter-
+ est  or  property;  provided, however, that all or part of any such loan
  may be unsecured if necessary to satisfy the requirements of any partic-
  ipating lender, AND, PROVIDED FURTHER, THAT THE LIEN CREATED BY THE NOTE
- AND  MORTGAGE  MAY  BE  RECORDED IN AN EQUAL OR SUBORDINATE POSITION, OR
- SUBSEQUENTLY MADE EQUAL OR  SUBORDINATE,  TO  A  LIEN  RECORDED  BY  ANY
- PARTICIPATING  LENDER  AGAINST  SUCH PROPERTY. Such loan shall be repaid
+ AND MORTGAGE MAY BE RECORDED IN AN EQUAL  OR  SUBORDINATE  POSITION,  OR
+ SUBSEQUENTLY  MADE  EQUAL  OR  SUBORDINATE,  TO  A  LIEN RECORDED BY ANY
+ PARTICIPATING LENDER AGAINST SUCH PROPERTY. Such loan  shall  be  repaid
  over such period as the agency shall determine.
-  g. For purposes of this [section] ARTICLE,  (I)  the  term  "mortgage"
- shall  include  any  pledge  or  assignment of shares or assignment of a
+  g.  For  purposes  of  this [section] ARTICLE, (I) the term "mortgage"
+ shall include any pledge or assignment of  shares  or  assignment  of  a
  proprietary lease in a cooperative housing corporation where such pledge
- or assignment is intended as security for the performance  of  an  obli-
- gation  and  which  imposes a lien on or affects title to such shares or
+ or  assignment  is  intended as security for the performance of an obli-
+ gation and which imposes a lien on or affects title to  such  shares  or
  such proprietary lease; AND (II) THE TERM "OWNER" SHALL MEAN AN INDIVID-
- UAL, PARTNERSHIP, CORPORATION OR OTHER ENTITY,  INCLUDING  A  NON-PROFIT
+ UAL,  PARTNERSHIP,  CORPORATION  OR OTHER ENTITY, INCLUDING A NON-PROFIT
  COMPANY, A MUTUAL COMPANY, OR A HOUSING DEVELOPMENT FUND COMPANY, HAVING
- RECORD  OR BENEFICIAL TITLE IN FEE SIMPLE TO REAL PROPERTY OR THE LESSEE
+ RECORD OR BENEFICIAL TITLE IN FEE SIMPLE TO REAL PROPERTY OR THE  LESSEE
  THEREOF UNDER A LEASE HAVING A TERM OF AT LEAST FORTY-NINE YEARS.
   § 3. Section 696-a of the general municipal law, as amended by chapter
  465 of the laws of 1993, is amended to read as follows:
   § 696-a. Loans. Notwithstanding the provisions of any general, special
  or local law, an agency is hereby authorized to make or contract to make
- grants or loans[: (i)] to the owner of any property that is part  of  an
- urban  development action area project for the purpose of: (I) rehabili-
- tation of an existing private or multiple dwelling OR CONSTRUCTION OF  A
- NEW  PRIVATE  OR  MULTIPLE DWELLING, (ii) [for the purpose of] providing
- site improvements, INCIDENTAL OR APPURTENANT TO SUCH  REHABILITATION  OR
+ grants  or  loans[: (i)] to the owner of any property that is part of an
+ urban development action area project for the purpose of: (I)  rehabili-
+ tation  of an existing private or multiple dwelling OR CONSTRUCTION OF A
+ NEW PRIVATE OR MULTIPLE DWELLING, (ii) [for the  purpose  of]  providing
+ site  improvements,  INCIDENTAL OR APPURTENANT TO SUCH REHABILITATION OR
  SUCH CONSTRUCTION, WITHIN THE URBAN DEVELOPMENT ACTION AREA IN WHICH THE
- URBAN  DEVELOPMENT  ACTION  AREA  PROJECT IS LOCATED, including, but not
- limited to, water and sewer facilities,  sidewalks,  landscaping,  PARKS
+ URBAN DEVELOPMENT ACTION AREA PROJECT IS  LOCATED,  including,  but  not
+ limited  to,  water  and sewer facilities, sidewalks, landscaping, PARKS
  AND OPEN SPACE, SOCIAL, RECREATIONAL, COMMUNAL AND OTHER NON-RESIDENTIAL
- FACILITIES  AND THE OUTFITTING THEREOF, the curing of problems caused by
- abnormal site conditions, excavation and construction  of  footings  and
- foundations  and  other  improvements  associated  with the provision of
- infrastructure, or (iii) [for the purpose of] providing for other  costs
- of  construction  for  the  development of private and multiple dwelling
- housing accommodations. In the case of a grant made under  this  section
- for  the  rehabilitation of an existing multiple dwelling intended to be
- converted to a condominium or cooperative form of ownership or  for  the
- development  of one to four unit housing accommodations or a condominium
+ FACILITIES AND THE OUTFITTING THEREOF, the curing of problems caused  by
+ abnormal  site  conditions,  excavation and construction of footings and
+ foundations and other improvements  associated  with  the  provision  of
+ infrastructure,  or (iii) [for the purpose of] providing for other costs
+ of construction for the development of  private  and  multiple  dwelling
+ housing  accommodations.  In the case of a grant made under this section
+ for the rehabilitation of an existing multiple dwelling intended  to  be
+ converted  to  a condominium or cooperative form of ownership or for the
+ development of one to four unit housing accommodations or a  condominium
  or cooperative housing corporation, such grant shall require a regulato-
- ry agreement with the agency limiting profits. Any loan made in  accord-
- ance  with this section shall be secured by a note and mortgage upon the
- property improved, OTHER THAN ANY SUCH PROPERTY TITLE TO WHICH  IS  HELD
- BY  THE MUNICIPALITY, or, in the case of a condominium, a note and mort-
- S. 2985--B  3
+ ry  agreement with the agency limiting profits. Any loan made in accord-
+ S. 2985--C  3
  
- gage upon each of the [housing accommodations] CONDOMINIUM  UNITS  aided
- by  such  loan,  or  in the case of a cooperative housing corporation, a
+ ance with this section shall be secured by a note and mortgage upon  the
+ property  improved,  OTHER THAN ANY SUCH PROPERTY TITLE TO WHICH IS HELD
+ BY THE MUNICIPALITY, or, in the case of a condominium, a note and  mort-
+ gage  upon  each of the [housing accommodations] CONDOMINIUM UNITS aided
+ by such loan, or in the case of a  cooperative  housing  corporation,  a
  note and mortgage upon the economic interest in such corporation of each
  tenant-shareholder  aided  by  such loan, or upon the property improved,
  OTHER THAN ANY SUCH PROPERTY TITLE TO WHICH IS HELD BY THE MUNICIPALITY,
@@ -176,68 +179,68 @@ S T A T E  O F  N E W  Y O R K
  IN CONSIDERATION FOR THE FINANCING, REGULATION, SUPERVISION AND AUDIT OF
  SUCH LOAN, OR FOR REGULATION, SUPERVISION AND AUDIT OF SUCH GRANT.  SUCH
  CHARGES  SHALL  BE  PAID INTO THE TREASURY OF THE MUNICIPALITY REQUIRING
+ S. 2985--C  4
+ 
  THE CHARGES AND SHALL BE PAID AND DEPOSITED IN THE GENERAL FUND  OF  ANY
  SUCH MUNICIPALITY.
- S. 2985--B  4
- 
   §  696-F.  SERVICING.  AN AGENCY MAY MAKE PROVISION IN A NOTE AND LOAN
  AGREEMENT OR BY SEPARATE AGREEMENT FOR THE PERFORMANCE OF LOAN OR  GRANT
  SERVICING FUNCTIONS, INCLUDING, BUT NOT LIMITED TO, FUNCTIONS RELATED TO
  LENDING  OR  PROVIDING  A  GRANT  FOR  CONSTRUCTION, AS MAY GENERALLY BE
  PERFORMED BY AN INSTITUTIONAL LENDER. SUCH AGENCY MAY ACT IN SUCH CAPAC-
- ITY  OR APPOINT OR CONSENT TO THE APPOINTMENT OF A FINANCIAL INSTITUTION
- OR OTHER QUALIFIED ENTITY, AS DETERMINED BY SUCH AGENCY, TO ACT IN  SUCH
- CAPACITY  ON BEHALF OF SUCH AGENCY. SUCH AGENCY MAY PAY A REASONABLE AND
- CUSTOMARY FEE TO SUCH FINANCIAL INSTITUTION OR  OTHER  QUALIFIED  ENTITY
- APPOINTED  BY  SUCH AGENCY, OR TO WHOSE APPOINTMENT SUCH AGENCY PROVIDED
+ ITY OR APPOINT OR CONSENT TO THE APPOINTMENT OF A FINANCIAL  INSTITUTION
+ OR  OTHER QUALIFIED ENTITY, AS DETERMINED BY SUCH AGENCY, TO ACT IN SUCH
+ CAPACITY ON BEHALF OF SUCH AGENCY. SUCH AGENCY MAY PAY A REASONABLE  AND
+ CUSTOMARY  FEE  TO  SUCH FINANCIAL INSTITUTION OR OTHER QUALIFIED ENTITY
+ APPOINTED BY SUCH AGENCY, OR TO WHOSE APPOINTMENT SUCH  AGENCY  PROVIDED
  CONSENT, FOR THE PERFORMANCE OF SUCH LOAN OR GRANT SERVICING FUNCTIONS.
-  § 5. Subdivision 41 of paragraph a  of  section  11.00  of  the  local
- finance  law,  as amended by chapter 400 of the laws of 1994, is amended
+  §  5.  Subdivision  41  of  paragraph  a of section 11.00 of the local
+ finance law, as amended by chapter 400 of the laws of 1994,  is  amended
  to read as follows:
-  41. Housing. The effectuating of any of the  purposes  of  the  public
+  41.  Housing.  The  effectuating  of any of the purposes of the public
  housing law, other than making loans to limited profit housing companies
- pursuant  to  article  two of the private housing finance law, and other
+ pursuant to article two of the private housing finance  law,  and  other
  than making loans to owners of existing multiple dwellings, fifty years;
  bonds issued by a housing authority pursuant to section forty-one of the
- public housing law and guaranteed by a municipality pursuant to  section
- ninety-five  of  the  public housing law, five years, in addition to the
- foregoing period of fifty  years,  for  the  temporary  financing  of  a
- project  prior  to the permanent financing thereof; evidences of indebt-
- edness issued to the state pursuant to paragraph c of section  20.00  of
- this  chapter, three years, in addition to the foregoing period of fifty
- years for the temporary financing of a project prior  to  the  permanent
+ public  housing law and guaranteed by a municipality pursuant to section
+ ninety-five of the public housing law, five years, in  addition  to  the
+ foregoing  period  of  fifty  years,  for  the  temporary financing of a
+ project prior to the permanent financing thereof; evidences  of  indebt-
+ edness  issued  to the state pursuant to paragraph c of section 20.00 of
+ this chapter, three years, in addition to the foregoing period of  fifty
+ years  for  the  temporary financing of a project prior to the permanent
  financing thereof; loans to limited profit housing companies pursuant to
- article  two of the private housing finance law, fifty-five years; loans
+ article two of the private housing finance law, fifty-five years;  loans
  OR GRANTS to owners of existing private or multiple dwellings, NON-RESI-
- DENTIAL PROPERTY, OR VACANT LAND pursuant to the provisions  of  article
- eight,  article  eight-A,  article  eight-B,  article  eleven or article
+ DENTIAL  PROPERTY,  OR VACANT LAND pursuant to the provisions of article
+ eight, article eight-A,  article  eight-B,  article  eleven  or  article
  fifteen  of  the  private  housing  finance  law,  or  loans  for  the
- construction  of  multiple  dwellings  pursuant to article eleven of the
- private housing finance law, or loans OR GRANTS for the  pre-development
+ construction of multiple dwellings pursuant to  article  eleven  of  the
+ private  housing finance law, or loans OR GRANTS for the pre-development
  costs or construction of private or multiple dwellings pursuant to arti-
  cle twenty-two of the private housing finance law, thirty years.
   § 6. Section 2 of the private housing finance law is amended by adding
  two new subdivisions 30 and 31 to read as follows:
   30. "CLIMATE RESILIENCY IMPROVEMENTS." IMPROVEMENTS FOR THE PURPOSE OF
- PROTECTING  LAND OR ANY STRUCTURES THEREON FROM DAMAGE RESULTING FROM OR
+ PROTECTING LAND OR ANY STRUCTURES THEREON FROM DAMAGE RESULTING FROM  OR
  WHICH MAY RESULT FROM CHANGES IN CLIMATE, INCLUDING, BUT NOT LIMITED TO,
  EXTREME WEATHER EVENTS, ABNORMAL TEMPERATURES, AND SEA LEVEL RISE, OR OF
- REDUCING THE IMPACT OF THE  OPERATION  OF  SUCH  STRUCTURES  ON  CLIMATE
- CHANGE,  INCLUDING,  BUT NOT LIMITED TO, IMPROVEMENTS THAT REDUCE ENERGY
+ REDUCING  THE  IMPACT  OF  THE  OPERATION  OF SUCH STRUCTURES ON CLIMATE
+ CHANGE, INCLUDING, BUT NOT LIMITED TO, IMPROVEMENTS THAT  REDUCE  ENERGY
  CONSUMPTION OR PROMOTE THE EFFICIENT USE OF NATURAL RESOURCES.
-  31. "PRIVATE LENDER." ONE OR MORE BANKING ORGANIZATIONS,  FOUNDATIONS,
- LABOR  UNIONS,  CREDIT UNIONS, EMPLOYERS' ASSOCIATIONS, VETERANS' ORGAN-
- IZATIONS, COLLEGES, UNIVERSITIES, EDUCATIONAL INSTITUTIONS,  CHILD  CARE
- INSTITUTIONS,  HOSPITALS,  MEDICAL RESEARCH INSTITUTES, INSURANCE COMPA-
+  31.  "PRIVATE LENDER." ONE OR MORE BANKING ORGANIZATIONS, FOUNDATIONS,
+ LABOR UNIONS, CREDIT UNIONS, EMPLOYERS' ASSOCIATIONS,  VETERANS'  ORGAN-
+ IZATIONS,  COLLEGES,  UNIVERSITIES, EDUCATIONAL INSTITUTIONS, CHILD CARE
+ INSTITUTIONS, HOSPITALS, MEDICAL RESEARCH INSTITUTES,  INSURANCE  COMPA-
  NIES, TRUSTEES OR FIDUCIARIES, TRUSTEES OF PENSIONS AND RETIREMENT FUNDS
- AND SYSTEMS, CORPORATIONS, PARTNERSHIPS, INDIVIDUALS OR  OTHER  ENTITIES
- OR  ANY COMBINATION OF THE FOREGOING, AND SHALL INCLUDE ANY PUBLIC BENE-
+ AND  SYSTEMS,  CORPORATIONS, PARTNERSHIPS, INDIVIDUALS OR OTHER ENTITIES
+ OR ANY COMBINATION OF THE FOREGOING, AND SHALL INCLUDE ANY PUBLIC  BENE-
  FIT CORPORATION AND THE UNITED STATES OF AMERICA AND ANY OF ITS AGENCIES
- AND DEPARTMENTS. AS USED IN THIS DEFINITION, THE  TERMS  "TRUSTEES"  AND
- "FIDUCIARIES"  SHALL  INCLUDE ANY FIDUCIARY OR FIDUCIARIES HOLDING FUNDS
- S. 2985--B  5
+ AND  DEPARTMENTS.  AS  USED IN THIS DEFINITION, THE TERMS "TRUSTEES" AND
+ S. 2985--C  5
  
- FOR INVESTMENT AND THE TERM "BANKING ORGANIZATIONS" SHALL HAVE THE  SAME
+ "FIDUCIARIES" SHALL INCLUDE ANY FIDUCIARY OR FIDUCIARIES  HOLDING  FUNDS
+ FOR  INVESTMENT AND THE TERM "BANKING ORGANIZATIONS" SHALL HAVE THE SAME
  MEANING AS IN SUBDIVISION ELEVEN OF SECTION TWO OF THE BANKING LAW.
   § 7. Section 400 of the private housing finance law is amended to read
  as follows:
@@ -292,9 +295,9 @@ S T A T E  O F  N E W  Y O R K
  plus a proportion of income of gainfully employed members under the  age
  of  twenty-one years, the proportion to be determined by the agency. The
  agency may exclude a proportion of the income of other  members  of  the
- family  over  the age of twenty-one years for the purpose of determining
- S. 2985--B  6
+ S. 2985--C  6
 
+ family  over  the age of twenty-one years for the purpose of determining
  eligibility for commencement of occupancy or continued occupancy, or for
  establishing rental of such family, or for all such purposes].
   b.  Notwithstanding the provisions of paragraph a of this subdivision,
@@ -350,7 +353,7 @@ S T A T E  O F  N E W  Y O R K
   § 11. Subdivisions 2-a, 2-b, 2-c and 4 of section 402 of  the  private
  housing finance law, subdivision 2-a as added by chapter 213 of the laws
  of  1975, subdivision 2-b as amended by chapter 362 of the laws of 2000,
- S. 2985--B  7
+ S. 2985--C  7
  
  and subdivision 2-c as amended by chapter 101 of the laws of  1994,  are
  amended to read as follows:
@@ -408,7 +411,7 @@ S T A T E  O F  N E W  Y O R K
  tation  or  improvement,  as  estimated by the agency, unless the agency
  makes a written determination that the owner has insufficient  resources
  to  pay  for  the remaining two per centum of the value of the property,
- S. 2985--B  8
+ S. 2985--C  8
 
  after completion of such installation, elimination, or  other  rehabili-
  tation  or  improvement,  as estimated by the agency, in which case such
@@ -465,7 +468,7 @@ S T A T E  O F  N E W  Y O R K
  finance law, subdivision 2, paragraphs a, b and c of subdivision  3  and
  subdivision 4 as amended by chapter 904 of the laws of 1962, are amended
  to read as follows:
- S. 2985--B  9
+ S. 2985--C  9
  
   2.  [In  the event that after any person or family included within the
  provisions of paragraph a of subdivision three of section  four  hundred
@@ -522,7 +525,7 @@ S T A T E  O F  N E W  Y O R K
  total amount of tax exemption and tax abatement granted to the owner has
  been paid to the municipality, the excess, if any, of  surcharges  shall
  be paid to the municipality in reduction of the loan.
- S. 2985--B  10
+ S. 2985--C  10
  
   [5. Any person or family whose removal is required by any provision of
  this article shall be subject to removal by summary proceedings.]
@@ -580,7 +583,7 @@ S T A T E  O F  N E W  Y O R K
   § 16. Subdivision 1 of section 452 of the private housing finance law,
  as amended by chapter 923 of the laws of 1983,  is  amended  and  a  new
  subdivision 1-a is added to read as follows:
- S. 2985--B  11
+ S. 2985--C  11
  
   1.  Notwithstanding  the  provisions  of any general, special or local
  law, a municipality is hereby authorized:
@@ -638,7 +641,7 @@ S T A T E  O F  N E W  Y O R K
  SUCH MULTIPLE DWELLING.
   5.  The supervising agency may [charge] REQUIRE THE PAYMENT OF CHARGES
  BY the owner of such existing multiple  dwelling  [reasonable  fees]  IN
- S. 2985--B  12
+ S. 2985--C  12
  
  CONSIDERATION  for  THE  financing, regulation, supervision and audit OF
  SUCH LOAN.  Such [fees] CHARGES shall be [kept by the municipality in  a
@@ -695,7 +698,7 @@ S T A T E  O F  N E W  Y O R K
  rehabilitation  OR  PRESERVATION of such dwellings is necessary in order
  to aid in the prevention and elimination of slums  and  blight  in  such
  areas and  neighborhoods.
- S. 2985--B  13
+ S. 2985--C  13
  
   It  further  is found that there exists in such municipalities a seri-
  ously inadequate supply of safe and  sanitary  [owner-occupied]  one  to
@@ -753,7 +756,7 @@ S T A T E  O F  N E W  Y O R K
   (A)  to  make,  or contract to make, loans to [low and moderate income
  owner-occupants] OWNERS of one to four unit existing private or multiple
  dwellings within its territorial limits, subject to  the  limitation  of
- S. 2985--B  14
+ S. 2985--C  14
  
  subdivisions two through seven of this section, in such amounts as shall
  be  required  for the rehabilitation, IMPROVEMENT OR ACQUISITION of such
@@ -811,7 +814,7 @@ S T A T E  O F  N E W  Y O R K
  section 9--501 of the uniform commercial code, and from the date of such
  filing the municipality shall have a lien  against  said  real  property
  improvement for the amount advanced or so much thereof as remains unpaid
- S. 2985--B  15
+ S. 2985--C  15
  
  together with the interest thereon. Upon payment of all sums advanced by
  the  municipality  and  interest  thereon,  and  upon demand of the then
@@ -869,7 +872,7 @@ S T A T E  O F  N E W  Y O R K
   § 23. Subdivisions 1 and 2 of  section  473  of  the  private  housing
  finance law, as added by chapter 786 of the laws of 1987, are amended to
  read as follows:
- S. 2985--B  16
+ S. 2985--C  16
  
   1.  No  such  loan  shall  be  made to an [owner-occupant] OWNER of an
  existing private or multiple dwelling unless the [owner-occupant]  OWNER
@@ -927,7 +930,7 @@ S T A T E  O F  N E W  Y O R K
   §  26.  Subdivision  1 of section 576-c of the private housing finance
  law, as amended by section 1 of chapter 254 of  the  laws  of  1998,  is
  amended to read as follows:
- S. 2985--B  17
+ S. 2985--C  17
  
   1.  In  addition  to  the powers granted to municipalities pursuant to
  this article, a municipality, acting by its supervising agency, may make
@@ -985,7 +988,7 @@ S T A T E  O F  N E W  Y O R K
  with a formula established or approved by  the  company,  or  a  private
  developer  which has agreed to limit profits or rate of return of inves-
  tors in accordance with a formula established or approved by the  compa-
- S. 2985--B  18
+ S. 2985--C  18
  
  ny,  which  agrees  to  provide  housing  accommodations exclusively for
  persons and families of low income, at least thirty percent of whom  are
@@ -1042,7 +1045,7 @@ S T A T E  O F  N E W  Y O R K
  THE REQUIREMENTS OF SUCH AGREEMENT  SHALL  SUPPLEMENT  ANY  REQUIREMENTS
  IMPOSED  ON  SUCH HOUSING ACCOMMODATION PURSUANT TO ANY OTHER PROVISIONS
  OF LAW.
- S. 2985--B  19
+ S. 2985--C  19
  
   2. ANY AGREEMENT BETWEEN A STATE OR MUNICIPAL AGENCY, POLITICAL SUBDI-
  VISION, PUBLIC BENEFIT  CORPORATION,  OR  INSTRUMENTALITY  DESCRIBED  IN
@@ -1099,7 +1102,7 @@ S T A T E  O F  N E W  Y O R K
  QUALIFIED  ENTITY APPOINTED BY SUCH AGENCY, OR TO WHOSE APPOINTMENT SUCH
  AGENCY PROVIDED CONSENT, FOR THE  PERFORMANCE  OF  SUCH  LOAN  OR  GRANT
  SERVICING FUNCTIONS.
- S. 2985--B  20
+ S. 2985--C  20
  
   §  29.  Section  800 of the private housing finance law, as amended by
  chapter 456 of the laws of 2003, is amended to read as follows:
@@ -1157,8 +1160,8 @@ S T A T E  O F  N E W  Y O R K
  adding a new subdivision 5-a to read as follows:
   5-A. "PARTICIPATION LOAN" AND THE MUNICIPALITY'S  "PARTICIPATION"  IN,
  "PORTION"  OF,  OR  "INVESTMENT" IN A LOAN, OR WORDS OF SIMILAR MEANING,
- S. 2985--B  21
-
+ S. 2985--C  21
+ 
  SHALL MEAN ANY LOAN OR GRANT MADE BY THE MUNICIPALITY OR  THE  NEW  YORK
  CITY  HOUSING  DEVELOPMENT  CORPORATION  PURSUANT TO THIS ARTICLE EITHER
  WITH OR WITHOUT A PRIVATE INVESTOR, PROVIDED, HOWEVER,  THAT  PROVISIONS
@@ -1215,7 +1218,7 @@ S T A T E  O F  N E W  Y O R K
  CONDITIONS,  EXCAVATION AND CONSTRUCTION OF FOOTINGS AND FOUNDATIONS AND
  OTHER IMPROVEMENTS ASSOCIATED WITH THE PROVISION OF  INFRASTRUCTURE  FOR
  HOUSING ACCOMMODATIONS, OR (III) PROVIDING FOR OTHER COSTS OF DEVELOPING
- S. 2985--B  22
+ S. 2985--C  22
  
  HOUSING  ACCOMMODATIONS,  and  such private investors and a municipality
  may jointly participate or invest in the making of  temporary  loans  or
@@ -1273,7 +1276,7 @@ S T A T E  O F  N E W  Y O R K
  cost of acquisition or for refinancing, the amount of  a  municipality's
  portion of such loan shall not exceed one and one-half times the cost of
  rehabilitation, conversion or construction.
- S. 2985--B  23
+ S. 2985--C  23
 
   (c) The amount of any such loan, together with the amount of all prior
  liens  and  encumbrances, shall not exceed, except in the case of a loan
@@ -1331,7 +1334,7 @@ S T A T E  O F  N E W  Y O R K
   6.  "Loan" shall mean a [first] mortgage loan made by a private lender
  in participation with the city of New York to a sponsor for the  purpose
  of  construction  of  an  eligible project including a loan in which the
- S. 2985--B  24
+ S. 2985--C  24
  
  portion of the loan funded by the agency is represented  by  a  separate
  note and mortgage.
@@ -1388,7 +1391,7 @@ S T A T E  O F  N E W  Y O R K
  eligible  site  such portion shall in no event exceed fifteen percent of
  the total amount of such loan or the appraised value of the site, which-
  ever is the lesser.
- S. 2985--B  25
+ S. 2985--C  25
 
   4.] If the eligible project is to consist of one to four unit dwelling
  accommodations or cooperative or condominium units, the  agency's  share
@@ -1445,7 +1448,7 @@ S T A T E  O F  N E W  Y O R K
  after until the first vacancy occurs at which time  the  unit  shall  be
  decontrolled.]  Initial rentals for all rental units shall be set by the
  agency.
- S. 2985--B  26
+ S. 2985--C  26
  
   [7.] 6. If the eligible project is a  rental  project  annual  profits
  shall  be limited to an amount set by the agency for as long as the loan
@@ -1502,7 +1505,7 @@ S T A T E  O F  N E W  Y O R K
  income, and that such project is otherwise consistent with the  purposes
  of  this article; (ii) the project site is suitable, there is a need for
  the housing type proposed in the area to be served and  the  project  is
- S. 2985--B  27
+ S. 2985--C  27
  
  feasible;  and  (iii) it is reasonable to anticipate that financing will
  be obtained and the agency makes a finding to that effect.
@@ -1556,11 +1559,11 @@ S T A T E  O F  N E W  Y O R K
  the  continued  affordability  or  economic  viability  of  the eligible
  project. Such written determination shall document the basis upon  which
  the loan was determined to be eligible for evaporation.
-  § 36. Paragraph (g) of subdivision 6 of section 1802 of the charter of
- the  city  of  New York, as amended by vote of the people of the city of
- New York at the general election held in November of 1989, is amended to
- read as follows:
- S. 2985--B  28
+  §  36.  Paragraph (g) of subdivision 6 of section 1802 of the New York
+ city charter, as amended by vote of the people of the city of  New  York
+ at  the general election held in November of 1989, is amended to read as
+ follows:
+ S. 2985--C  28
  
   (g) [impose and collect] REQUIRE THE PAYMENT OF charges [and fees]  IN
  CONSIDERATION  for  the  financing, regulation, supervision and audit of
