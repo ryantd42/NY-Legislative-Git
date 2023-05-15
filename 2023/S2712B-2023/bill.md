@@ -1,6 +1,6 @@
 # Relates to paying drug-impaired driving surcharges to counties to reduce drug-impaired driving incidences
 
-**Bill ID:** S2712B
+**Bill ID:** S2712BA
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Pays drug-impaired driving surcharges to counties for programs and initiatives t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2712
+  2712--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. KENNEDY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
- 
+  printed to be committed to the Committee on Transportation -- reported
+  favorably from said  committee  and  committed  to  the  Committee  on
+  Finance  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to amend the vehicle and traffic law, in relation to paying drug-
   impaired driving surcharges to counties to reduce drug-impaired  driv-
   ing incidences
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,15 +59,15 @@ S T A T E  O F  N E W  Y O R K
  cle;  and  (3)  imposed  upon  a  conviction  for:  aggravated vehicular
  assault, pursuant to  section  120.04-a  of  the  penal  law;  vehicular
  assault  in  the  first  degree, pursuant to section 120.04 of the penal
- law; vehicular assault in the second degree, pursuant to section  120.03
- of  the  penal  law;  aggravated vehicular homicide, pursuant to section
- 125.14 of the penal law; vehicular manslaughter  in  the  first  degree,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07149-01-3
- S. 2712  2
+  LBD07149-05-3
+ S. 2712--A  2
  
+ law; vehicular assault in the second degree, pursuant to section  120.03
+ of  the  penal  law;  aggravated vehicular homicide, pursuant to section
+ 125.14 of the penal law; vehicular manslaughter  in  the  first  degree,
  pursuant  to section 125.13 of the penal law; and vehicular manslaughter
  in the second degree, pursuant to section 125.12 of the  penal  law,  as
  provided in section eighteen hundred three of this chapter. IN ADDITION,
@@ -118,11 +121,11 @@ S T A T E  O F  N E W  Y O R K
  by a statement in such form and detail as the comptroller shall provide.
  The comptroller shall pay  these  funds  to  the  county  in  which  the
  violation occurs.
+ S. 2712--A  3
+ 
   [(c)]  D.  Upon receipt of any monies referred to in this section, the
  county shall deposit them in a separate account entitled "special  traf-
  fic options program for driving while intoxicated".
- S. 2712  3
- 
   § 3. Subdivisions 1 and 2 of section 1809-c of the vehicle and traffic
  law, as added by section 37 of part J of chapter 62 of the laws of 2003,
  are amended to read as follows:
@@ -163,25 +166,16 @@ S T A T E  O F  N E W  Y O R K
  following  collection of such surcharges, the collecting authority shall
  pay such money to the state comptroller to be deposited to  the  general
  fund;  PROVIDED,  HOWEVER, COMMENCING ON APRIL FIRST, TWO THOUSAND TWEN-
- TY-FIVE, FIFTY PERCENT OF SUCH SURCHARGE SHALL  BE  PAID  TO  THE  STATE
- COMPTROLLER  TO  BE  DEPOSITED  TO THE GENERAL FUND AND FIFTY PERCENT OF
- SUCH SURCHARGE SHALL BE PAID TO COUNTIES PURSUANT TO SUBDIVISION ONE  OF
- SECTION ELEVEN HUNDRED NINETY-SEVEN OF THIS CHAPTER AND SHALL BE USED BY
- EACH  SUCH COUNTY FOR PROGRAMS AND INITIATIVES SPECIFICALLY DESIGNED AND
- ESTABLISHED TO  REDUCE  THE  INCIDENCE  OF  DRUG-IMPAIRED  DRIVING;  AND
- PROVIDED  FURTHER,  COMMENCING  APRIL FIRST, TWO THOUSAND TWENTY-SIX AND
- EVERY FISCAL YEAR THEREAFTER, ONE  HUNDRED  PERCENT  OF  SUCH  SURCHARGE
- SHALL  BE PAID TO COUNTIES PURSUANT TO SUBDIVISION ONE OF SECTION ELEVEN
- HUNDRED NINETY-SEVEN OF THIS CHAPTER AND SHALL  BE  USED  BY  EACH  SUCH
- COUNTY  FOR  PROGRAMS  AND  INITIATIVES SPECIFICALLY DESIGNED AND ESTAB-
- LISHED TO REDUCE THE INCIDENCE OF DRUG-IMPAIRED DRIVING.
-  § 5. The commissioner of motor vehicles shall annually certify to  the
- division  of  the  budget  that  all  program plans eligible for funding
- pursuant to this act are in  full  compliance  with  the  provisions  of
- section  1197  of  the  vehicle and traffic law establishing the special
- S. 2712  4
- 
+ TY-FOUR, SUCH SURCHARGE SHALL BE PAID TO COUNTIES PURSUANT  TO  SUBDIVI-
+ SION  ONE  OF  SECTION  ELEVEN  HUNDRED NINETY-SEVEN OF THIS CHAPTER AND
+ SHALL BE USED BY EACH SUCH COUNTY FOR PROGRAMS AND  INITIATIVES  SPECIF-
+ ICALLY DESIGNED AND ESTABLISHED TO REDUCE THE INCIDENCE OF DRUG-IMPAIRED
+ DRIVING.
+  §  5. The commissioner of motor vehicles shall annually certify to the
+ division of the budget that  all  program  plans  eligible  for  funding
+ pursuant  to  this  act  are  in  full compliance with the provisions of
+ section 1197 of the vehicle and traffic  law  establishing  the  special
  traffic options program for driving while intoxicated, the rules promul-
- gated pursuant to  15  NYCRR  172  relating  to  such  program  and  the
+ gated  pursuant  to  15  NYCRR  172  relating  to  such  program and the
  provisions of this act.
   § 6. This act shall take effect April 1, 2024.
