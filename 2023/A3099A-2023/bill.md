@@ -1,6 +1,6 @@
 # Provides for victim statements at the sentencing of a defendant for a misdemeanor
 
-**Bill ID:** A3099A
+**Bill ID:** A3099AA
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts Emma's Law, providing for victim statements at the sentencing of a defend
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3099
+  3099--A
  
   2023-2024 Regular Sessions
  
@@ -27,10 +27,12 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A.  WOERNER, BUTTENSCHON, THIELE, COLTON, STERN,
   HEVESI, JACOBSON, SEAWRIGHT, PHEFFER AMATO, SILLITTI, DeSTEFANO, SMUL-
-  LEN, HAWLEY,  ANGELINO,  J. A. GIGLIO,  K. BROWN,  DURSO,  GOODELL  --
-  Multi-Sponsored  by -- M. of A. SIMON -- read once and referred to the
-  Committee on Codes
-
+  LEN, HAWLEY, ANGELINO, J. A. GIGLIO, K. BROWN, DURSO,  GOODELL,  McDO-
+  NALD,  KELLES,  BENDETT,  MANKTELOW  -- Multi-Sponsored by -- M. of A.
+  SIMON -- read once and referred to the Committee on Codes -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+ 
  AN ACT to amend the criminal procedure law, in relation to victim state-
   ments at the sentencing of a defendant for a misdemeanor
  
@@ -39,28 +41,23 @@ S T A T E  O F  N E W  Y O R K
  
   Section  1.  Short  title. This act shall be known and may be cited as
  "Emma's Law".
-  § 2. Subparagraph 1 of paragraph (a) and paragraph (b) of  subdivision
- 2  of  section  380.50  of the criminal procedure law, subparagraph 1 of
- paragraph (a) as amended by chapter 499 of the laws of  1993  and  para-
- graph  (b)  as  added by chapter 307 of the laws of 1992, are amended to
- read as follows:
-  (1) the victim as indicated in the accusatory instrument OR  AS  INDI-
- CATED  IN  THE  PRE-SENTENCE INVESTIGATION CONDUCTED PURSUANT TO SECTION
- 390.20 OF THIS TITLE; or
-  (b) If the defendant is being sentenced for a  felony  the  court,  if
- requested  at  least ten days prior to the sentencing date, shall accord
- the victim the right to make a statement with regard to any matter rele-
- vant to the question of  sentence.  [The]  IF  THE  DEFENDANT  IS  BEING
- SENTENCED FOR A MISDEMEANOR, IF REQUESTED AT LEAST TEN DAYS PRIOR TO THE
- SENTENCING  DATE,  THE  COURT  MAY ACCORD THE VICTIM THE RIGHT TO MAKE A
- STATEMENT WITH  REGARD  TO  ANY  MATTER  RELEVANT  TO  THE  QUESTION  OF
- SENTENCE.  IN  EITHER CASE, THE court shall notify the defendant no less
- than seven days prior to sentencing of the victim's  intent  to  make  a
- statement at sentencing. If the defendant does not receive timely notice
- pursuant  to  this  subdivision,  the defendant may request a reasonable
- adjournment.
+  § 2. Paragraph (b) of subdivision 2 of section 380.50 of the  criminal
+ procedure  law,  as added by chapter 307 of the laws of 1992, is amended
+ to read as follows:
+  (b) If the defendant is being sentenced for (1) a  felony,  OR  (2)  A
+ MISDEMEANOR  TO  WHICH  THE  DEFENDANT PLED  GUILTY  AFTER  BEING
+ CHARGED WITH A FELONY OFFENSE IN AN INDICTMENT OR INFORMATION IN SUPERI-
+ OR COURT WHERE SUCH FELONY OFFENSE RESULTED IN SERIOUS  PHYSICAL  INJURY
+ TO  THE  VICTIM, THEN the court, if requested at least ten days prior to
+ the sentencing date, shall accord the victim the right to make a  state-
+ ment with regard to any matter relevant to the question of sentence. The
+ court  shall  notify  the  defendant  no  less  than seven days prior to
+ sentencing of the victim's intent to make a statement at sentencing.  If
+ the  defendant  does not receive timely notice pursuant to this subdivi-
+ sion, the defendant may request a reasonable adjournment.
   § 3. This act shall take effect immediately.
+ 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05831-01-3
+  LBD05831-02-3
