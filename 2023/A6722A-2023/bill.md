@@ -1,6 +1,6 @@
 # Allows Benjamin Doty to be eligible to take the civil service exam for the position of Columbia county deputy sheriff
 
-**Bill ID:** A6722A
+**Bill ID:** A6722AA
 **Session:** 2023
 **Sponsor:** Didi Barrett
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Allows Benjamin Doty to be eligible to take the civil service exam for the posit
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6722
+  6722--A
  
   2023-2024 Regular Sessions
  
@@ -26,31 +26,34 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. BARRETT -- read once and referred to the Commit-
-  tee on Governmental Employees
+  tee on Governmental Employees -- committee discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN ACT to allow Benjamin Doty to be eligible to take the  civil  service
-  exam for the position of Columbia County Sheriff
+ AN  ACT  to allow Benjamin Doty to be eligible to take the civil service
+  exam for the position of deputy sheriff for the Columbia County  Sher-
+  iff's Office
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Notwithstanding the provisions of section 58 of  the  civil
  service  law  or  any  other  provision of law to the contrary, Benjamin
  Doty, who has been continuously employed by the village of Millerton, in
  the county of Dutchess, as a part-time police officer, and in the  town-
  ship of Germantown, in the county of Columbia, as a part-time Patrolman,
  shall  be eligible to take the competitive civil service examination for
- the position of Sheriff and shall, contingent upon  his  score  on  such
- examination,  be eligible to be placed on the eligible list for appoint-
- ment as a full-time Sheriff.
+ the position of deputy sheriff and shall, contingent upon his  score  on
+ such  examination,  be  eligible  to  be placed on the eligible list for
+ appointment as a full-time deputy sheriff for the Columbia county  sher-
+ iff's office.
   § 2. Benjamin Doty shall otherwise be subject to the merit and fitness
- provisions of the civil service law applicable to full-time Sheriffs.
+ provisions of the civil service law applicable to full-time deputy sher-
+ iffs.
   § 3. This act shall take effect immediately.
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09309-01-3
+  LBD09309-04-3
