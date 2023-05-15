@@ -1,6 +1,6 @@
 # Relates to promoting animal fighting; and repeals certain provisions of such law relating thereto
 
-**Bill ID:** S3431A
+**Bill ID:** S3431AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Relates to promoting animal fighting and appropriately punishing individuals ass
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3431
+  3431--A
+  Cal. No. 676
  
   2023-2024 Regular Sessions
  
@@ -27,7 +28,9 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sens. SKOUFIS, HELMING, HINCHEY -- read twice and ordered
   printed, and when printed to be committed to the Committee on Agricul-
-  ture
+  ture -- reported favorably from said committee, ordered to  first  and
+  second  report,  ordered  to  a  third  reading,  amended  and ordered
+  reprinted, retaining its place in the order of third reading
  
  AN ACT to amend the agriculture and markets law, in relation to  detect-
   ing,  disrupting and dismantling violent enterprise animal cruelty and
@@ -56,40 +59,43 @@ S T A T E  O F  N E W  Y O R K
  SECURE A CAT, RABBIT, OR OTHER SMALL ANIMAL BEYOND THE GRASP OF THE DOG;
   (III) A TREADMILL, WHICH MEANS AN EXERCISE  DEVICE  CONSISTING  OF  AN
  ENDLESS BELT ON WHICH THE ANIMAL WALKS OR RUNS WITHOUT CHANGING PLACES;
-  (IV) A SPRINGPOLE, WHICH MEANS A BITING SURFACE ATTACHED TO A STRETCH-
- ABLE  DEVICE,  SUSPENDED  AT  A  HEIGHT SUFFICIENT TO PREVENT A DOG FROM
- REACHING THE BITING SURFACE WHILE TOUCHING THE GROUND;
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03170-01-3
- S. 3431  2
+  LBD03170-08-3
+ S. 3431--A  2
  
-  (V) A FIGHTING PIT, WHICH MEANS A WALLED AREA,  OR  OTHERWISE  DEFINED
+  (IV) A SPRINGPOLE, WHICH MEANS A BITING SURFACE ATTACHED TO A STRETCH-
+ ABLE  DEVICE,  SUSPENDED  AT  A  HEIGHT SUFFICIENT TO PREVENT A DOG FROM
+ REACHING THE BITING SURFACE WHILE TOUCHING THE GROUND;
+  (V)  A  FIGHTING  PIT, WHICH MEANS A WALLED AREA, OR OTHERWISE DEFINED
  AREA, DESIGNED TO CONTAIN AN ANIMAL FIGHT; AND
-  (VI)  ANY OTHER INSTRUMENT COMMONLY USED IN THE FURTHERANCE OF PITTING
+  (VI) ANY OTHER INSTRUMENT COMMONLY USED IN THE FURTHERANCE OF  PITTING
  AN ANIMAL AGAINST ANOTHER ANIMAL.
-  § 2. Section 351 of the agriculture and markets law is REPEALED and  a
+  §  2. Section 351 of the agriculture and markets law is REPEALED and a
  new section 351 is added to read as follows:
-  §  351.  PROMOTING  ANIMAL  FIGHTING  IN THE THIRD DEGREE. A PERSON IS
- GUILTY OF PROMOTING ANIMAL  FIGHTING  IN  THE  THIRD  DEGREE  WHEN  SUCH
+  § 351. PROMOTING ANIMAL FIGHTING IN THE  THIRD  DEGREE.  A  PERSON  IS
+ GUILTY  OF  PROMOTING  ANIMAL  FIGHTING  IN  THE  THIRD DEGREE WHEN SUCH
  PERSON:
-  1.  OWNS,  POSSESSES, SELLS, TRANSFERS OR MANUFACTURES ANIMAL FIGHTING
- PARAPHERNALIA WITH THE INTENT THAT SUCH PARAPHERNALIA BE USED TO  ENGAGE
- IN OR OTHERWISE PROMOTE OR FACILITATE ANIMAL FIGHTING; OR
-  2.  IS KNOWINGLY PRESENT AS A SPECTATOR AT A PLACE WHERE AN EXHIBITION
- OF ANIMAL FIGHTING IS BEING CONDUCTED.
+  1. OWNS, POSSESSES, SELLS, TRANSFERS OR MANUFACTURES  ANIMAL  FIGHTING
+ PARAPHERNALIA UNDER CIRCUMSTANCES EVINCING AN INTENT THAT SUCH PARAPHER-
+ NALIA  BE  USED  TO  ENGAGE IN OR OTHERWISE PROMOTE OR FACILITATE ANIMAL
+ FIGHTING; OR
+  2.  IS PRESENT AT ANY PLACE WHERE AN EXHIBITION OF ANIMAL FIGHTING  IS
+ BEING CONDUCTED AND SUCH PERSON HAS KNOWLEDGE THAT SUCH AN EXHIBITION IS
+ BEING CONDUCTED.
   PROMOTING ANIMAL FIGHTING IN THE THIRD DEGREE IS A CLASS B MISDEMEANOR
- AND, FOR PURPOSES OF PARAGRAPH (B) OF SUBDIVISION ONE OF SECTION  160.10
+ AND,  FOR PURPOSES OF PARAGRAPH (B) OF SUBDIVISION ONE OF SECTION 160.10
  OF THE CRIMINAL PROCEDURE LAW, SHALL BE TREATED AS A MISDEMEANOR DEFINED
  IN THE PENAL LAW.
-  §  3.  The  agriculture  and markets law is amended by adding four new
+  § 3. The agriculture and markets law is amended  by  adding  four  new
  sections 351-a, 351-b, 351-c and 351-d to read as follows:
-  § 351-A. PROMOTING ANIMAL FIGHTING IN THE SECOND DEGREE. A  PERSON  IS
- GUILTY  OF  PROMOTING  ANIMAL  FIGHTING  IN  THE SECOND DEGREE WHEN SUCH
+  §  351-A.  PROMOTING ANIMAL FIGHTING IN THE SECOND DEGREE. A PERSON IS
+ GUILTY OF PROMOTING ANIMAL FIGHTING  IN  THE  SECOND  DEGREE  WHEN  SUCH
  PERSON:
-  1. OWNS, POSSESSES, OR KEEPS ANY ANIMAL  WITH  THE  INTENT  THAT  SUCH
- ANIMAL ENGAGE IN, OR IN ANY WAY FACILITATE, ANIMAL FIGHTING; OR
+  1.  OWNS,  POSSESSES, OR KEEPS ANY ANIMAL UNDER CIRCUMSTANCES EVINCING
+ AN INTENT THAT SUCH ANIMAL ENGAGE IN, OR IN ANY WAY  FACILITATE,  ANIMAL
+ FIGHTING; OR
   2.  COMMITS THE CRIME OF PROMOTING ANIMAL FIGHTING IN THE THIRD DEGREE
  IN VIOLATION OF SUBDIVISION ONE OF SECTION THREE  HUNDRED  FIFTY-ONE  OF
  THIS  ARTICLE AND HAS BEEN CONVICTED WITHIN THE PREVIOUS FIVE YEARS OF A
@@ -105,47 +111,38 @@ S T A T E  O F  N E W  Y O R K
  ONE-B,  THREE  HUNDRED  FIFTY-THREE,  THREE HUNDRED FIFTY-THREE-A, THREE
  HUNDRED FIFTY-SIX, THREE HUNDRED FIFTY-NINE, THREE HUNDRED SIXTY-ONE, OR
  THREE HUNDRED SIXTY-SIX OF THIS ARTICLE, OR
-  (B) HAS PAID AN ADMISSION FEE AS A SPECTATOR WHO IS KNOWINGLY PRESENT,
- MADE A WAGER, OR OTHERWISE ACTIVELY CONTRIBUTED, IN ANY MANNER,  TO  THE
- EXHIBITION OF ANIMAL FIGHTING BEING CONDUCTED.
-  PROMOTING  ANIMAL FIGHTING IN THE SECOND DEGREE IS A CLASS A MISDEMEA-
- NOR AND, FOR PURPOSES OF PARAGRAPH (B) OF  SUBDIVISION  ONE  OF  SECTION
- 160.10  OF THE CRIMINAL PROCEDURE LAW, SHALL BE TREATED AS A MISDEMEANOR
+  (B) HAS PAID AN ADMISSION FEE, MADE A  WAGER,  OR  OTHERWISE  ACTIVELY
+ CONTRIBUTED,  IN  ANY MANNER, TO THE EXHIBITION OF ANIMAL FIGHTING BEING
+ CONDUCTED.
+  PROMOTING ANIMAL FIGHTING IN THE SECOND DEGREE IS A CLASS A  MISDEMEA-
+ NOR  AND,  FOR  PURPOSES  OF PARAGRAPH (B) OF SUBDIVISION ONE OF SECTION
+ 160.10 OF THE CRIMINAL PROCEDURE LAW, SHALL BE TREATED AS A  MISDEMEANOR
  DEFINED IN THE PENAL LAW.
-  § 351-B. PROMOTING ANIMAL FIGHTING IN THE FIRST DEGREE.  A  PERSON  IS
- GUILTY  OF  PROMOTING  ANIMAL  FIGHTING  IN  THE  FIRST DEGREE WHEN SUCH
+  §  351-B.  PROMOTING  ANIMAL FIGHTING IN THE FIRST DEGREE. A PERSON IS
+ GUILTY OF PROMOTING ANIMAL  FIGHTING  IN  THE  FIRST  DEGREE  WHEN  SUCH
  PERSON:
-  1. CAUSES AN ANIMAL TO ENGAGE IN ANIMAL FIGHTING;
-  2. TRAINS AN ANIMAL WITH THE INTENT THAT SUCH ANIMAL ENGAGE IN  ANIMAL
- FIGHTING;
-  3.  BREEDS,  TRANSFERS,  SELLS,  OR OFFERS FOR SALE AN ANIMAL WITH THE
- INTENT THAT SUCH ANIMAL ENGAGE IN ANIMAL FIGHTING;
- S. 3431  3
+ S. 3431--A  3
  
+  1. CAUSES AN ANIMAL TO ENGAGE IN ANIMAL FIGHTING;
+  2.  TRAINS  AN ANIMAL UNDER CIRCUMSTANCES EVINCING AN INTENT THAT SUCH
+ ANIMAL ENGAGE IN ANIMAL FIGHTING;
+  3. BREEDS, TRANSFERS, SELLS,  OR  OFFERS  FOR  SALE  AN  ANIMAL  UNDER
+ CIRCUMSTANCES  EVINCING  AN  INTENT  THAT  SUCH  ANIMAL ENGAGE IN ANIMAL
+ FIGHTING;
   4. PERMITS ANY ACT DESCRIBED IN SUBDIVISION ONE, TWO OR THREE OF  THIS
  SECTION TO OCCUR ON PREMISES UNDER HIS OR HER CONTROL; OR
   5.  OWNS, POSSESSES, HARBORS, OR KEEPS ANY ANIMAL ON PREMISES WHERE AN
- EXHIBITION OF ANIMAL FIGHTING IS BEING CONDUCTED WITH  THE  INTENT  THAT
- SUCH ANIMAL ENGAGE IN ANIMAL FIGHTING.
+ EXHIBITION OF ANIMAL FIGHTING IS  BEING  CONDUCTED  UNDER  CIRCUMSTANCES
+ EVINCING AN INTENT THAT SUCH ANIMAL ENGAGE IN ANIMAL FIGHTING.
   PROMOTING ANIMAL FIGHTING IN THE FIRST DEGREE IS A CLASS E FELONY.
   §  351-C.  PROMOTING ENTERPRISE ANIMAL FIGHTING. A PERSON IS GUILTY OF
  PROMOTING ENTERPRISE ANIMAL FIGHTING WHEN SUCH PERSON:
   1. COMMITS THE CRIME OF PROMOTING ANIMAL FIGHTING IN THE FIRST  DEGREE
- IN  VIOLATION OF SUBDIVISION ONE OF SECTION THREE HUNDRED FIFTY-ONE-B OF
- THIS ARTICLE AS PART OF, DURING, OR  IN  CONNECTION  WITH  A  CONTINUOUS
- EXHIBITION  OF  ANIMAL  FIGHTING  THAT INCLUDES MORE THAN TWO ANIMALS IN
- SUCCESSIVE ACTS OF ANIMAL FIGHTING;
-  2. COMMITS THE CRIME OF PROMOTING ANIMAL FIGHTING IN THE FIRST  DEGREE
  IN  VIOLATION  OF  SUBDIVISION  TWO  OR  THREE  OF SECTION THREE HUNDRED
  FIFTY-ONE-B OF THIS ARTICLE AND  IS  IN  POSSESSION  OF  MORE  THAN  SIX
- ANIMALS WITH THE INTENT THAT SUCH ANIMALS ENGAGE IN, OR OTHERWISE FACIL-
- ITATE, ANIMAL FIGHTING;
-  3.  COMMITS THE CRIME OF PROMOTING ANIMAL FIGHTING IN THE FIRST DEGREE
- IN VIOLATION OF SUBDIVISION FOUR OF SECTION THREE HUNDRED FIFTY-ONE-B OF
- THIS ARTICLE WHERE SUCH ACT IS A CONTINUOUS EXHIBITION OF ANIMAL  FIGHT-
- ING  THAT  INCLUDES  MORE  THAN TWO ANIMALS IN SUCCESSIVE ACTS OF ANIMAL
- FIGHTING; OR
-  4. COMMITS THE CRIME OF PROMOTING ANIMAL FIGHTING IN THE FIRST  DEGREE
+ ANIMALS  UNDER CIRCUMSTANCES EVINCING AN INTENT THAT SUCH ANIMALS ENGAGE
+ IN, OR OTHERWISE FACILITATE, ANIMAL FIGHTING;
+  2. COMMITS THE CRIME OF PROMOTING ANIMAL FIGHTING IN THE FIRST  DEGREE
  IN  VIOLATION  OF  SECTION THREE HUNDRED FIFTY-ONE-B OF THIS ARTICLE AND
  HAS BEEN CONVICTED, WITHIN THE PREVIOUS FIVE YEARS, OF  A  VIOLATION  OF
  SECTION  THREE  HUNDRED  FIFTY-ONE-A,  THREE  HUNDRED FIFTY-ONE-B, THREE
@@ -158,45 +155,46 @@ S T A T E  O F  N E W  Y O R K
  THREE HUNDRED FIFTY-ONE-A OF THIS ARTICLE, IN ADDITION TO THE  PENALTIES
  PROVIDED IN SECTION THREE HUNDRED SEVENTY-FOUR OF THIS ARTICLE AND THOSE
  PROVIDED  IN  THE  OTHER LAWS OF THIS STATE, THE COURT MAY IMPOSE A FINE
- WHICH SHALL NOT EXCEED TEN THOUSAND DOLLARS. WHEN A PERSON IS  CONVICTED
- OF AN OFFENSE DEFINED IN SECTION THREE HUNDRED FIFTY-ONE-B OF THIS ARTI-
- CLE,  IN  ADDITION  TO  THE  PENALTIES PROVIDED IN SECTION THREE HUNDRED
- SEVENTY-FOUR OF THIS ARTICLE AND THOSE PROVIDED IN  THE  OTHER  LAWS  OF
- THIS  STATE,  THE  COURT MAY IMPOSE A FINE WHICH SHALL NOT EXCEED TWENTY
- THOUSAND DOLLARS. WHEN A PERSON IS CONVICTED OF AN  OFFENSE  DEFINED  IN
- SECTION  THREE  HUNDRED  FIFTY-ONE-C OF THIS ARTICLE, IN ADDITION TO THE
- PENALTIES PROVIDED IN SECTION THREE HUNDRED SEVENTY-FOUR OF THIS ARTICLE
- AND THOSE PROVIDED IN THE OTHER LAWS OF THIS STATE, THE COURT MAY IMPOSE
- A FINE WHICH SHALL NOT EXCEED THIRTY THOUSAND DOLLARS.
+ WHICH SHALL NOT EXCEED  FIFTEEN  THOUSAND  DOLLARS.  WHEN  A  PERSON  IS
+ CONVICTED  OF AN OFFENSE DEFINED IN SECTION THREE HUNDRED FIFTY-ONE-B OF
+ THIS ARTICLE, IN ADDITION TO THE PENALTIES  PROVIDED  IN  SECTION  THREE
+ HUNDRED  SEVENTY-FOUR  OF  THIS  ARTICLE AND THOSE PROVIDED IN THE OTHER
+ LAWS OF THIS STATE, THE COURT MAY IMPOSE A FINE WHICH SHALL  NOT  EXCEED
+ TWENTY-FIVE  THOUSAND  DOLLARS. WHEN A PERSON IS CONVICTED OF AN OFFENSE
+ DEFINED IN SECTION THREE HUNDRED FIFTY-ONE-C OF THIS ARTICLE,  IN  ADDI-
+ TION  TO THE PENALTIES PROVIDED IN SECTION THREE HUNDRED SEVENTY-FOUR OF
+ THIS ARTICLE AND THOSE PROVIDED IN THE OTHER LAWS  OF  THIS  STATE,  THE
+ COURT  MAY  IMPOSE  A  FINE  WHICH SHALL NOT EXCEED THIRTY-FIVE THOUSAND
+ DOLLARS.
   § 4. Paragraph a of subdivision 8 of section 374  of  the  agriculture
- and  markets  law,  as  amended  by  chapter 594 of the laws of 2003 and
- subdivision 8 as renumbered by chapter 479  of  the  laws  of  2009,  is
- amended to read as follows:
-  a.  In  addition to any other penalty provided by law, upon conviction
- for any violation of section  three  hundred  fifty-one,  THREE  HUNDRED
+ and  markets  law,  as  amended by chapter 594 of the laws of 2003, such
+ subdivision as renumbered by chapter 479 of the laws of 2009, is amended
+ to read as follows:
+  a. In addition to any other penalty provided by law,  upon  conviction
+ for  any  violation  of  section  three hundred fifty-one, THREE HUNDRED
  FIFTY-ONE-A, THREE HUNDRED FIFTY-ONE-B, THREE HUNDRED FIFTY-ONE-C, three
- hundred  fifty-three,  three hundred fifty-three-a, three hundred fifty-
+ hundred fifty-three, three hundred fifty-three-a, three  hundred  fifty-
  three-b,  three  hundred  fifty-five,  three  hundred  fifty-six,  three
- hundred  fifty-nine, three hundred sixty, three hundred sixty-one, three
- S. 3431  4
+ hundred fifty-nine, three hundred sixty, three hundred sixty-one,  three
+ hundred  sixty-five  or  three  hundred sixty-eight of this article, the
+ convicted person may, after a duly held hearing pursuant to paragraph  f
+ of  this  subdivision,  be  ordered  by  the court to forfeit, to a duly
+ S. 3431--A  4
  
- hundred sixty-five or three hundred sixty-eight  of  this  article,  the
- convicted  person may, after a duly held hearing pursuant to paragraph f
- of this subdivision, be ordered by the  court  to  forfeit,  to  a  duly
- incorporated  society for the prevention of cruelty to animals or a duly
- incorporated humane society or authorized agents thereof, the animal  or
- animals  which  are  the  basis of the conviction. Upon such an order of
- forfeiture, the convicted person shall be deemed  to  have  relinquished
- all  rights to the animals which are the basis of the conviction, except
+ incorporated society for the prevention of cruelty to animals or a  duly
+ incorporated  humane society or authorized agents thereof, the animal or
+ animals which are the basis of the conviction. Upon  such  an  order  of
+ forfeiture,  the  convicted  person shall be deemed to have relinquished
+ all rights to the animals which are the basis of the conviction,  except
  those granted in paragraph d of this subdivision.
   § 5. Severability clause. If any clause, sentence, paragraph, subdivi-
- sion, section or part of this act shall be  adjudged  by  any  court  of
- competent  jurisdiction  to  be invalid, such judgment shall not affect,
- impair, or invalidate the remainder thereof, but shall  be  confined  in
- its  operation  to the clause, sentence, paragraph, subdivision, section
+ sion,  section  or  part  of  this act shall be adjudged by any court of
+ competent jurisdiction to be invalid, such judgment  shall  not  affect,
+ impair,  or  invalidate  the remainder thereof, but shall be confined in
+ its operation to the clause, sentence, paragraph,  subdivision,  section
  or part thereof directly involved in the controversy in which such judg-
  ment shall have been rendered. It is hereby declared to be the intent of
- the legislature that this act would  have  been  enacted  even  if  such
+ the  legislature  that  this  act  would  have been enacted even if such
  invalid provisions had not been included herein.
-  §  6.  This  act shall take effect on the ninetieth day after it shall
+  § 6. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
