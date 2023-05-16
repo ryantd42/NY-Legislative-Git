@@ -1,0 +1,70 @@
+# Requires correctional facilities to distribute sexually protective devices to incarcerated individuals
+
+**Bill ID:** S7004
+**Session:** 2023
+**Sponsor:** Brad Hoylman-Sigal
+**Status:** In Senate Committee
+
+## Summary
+
+Requires correctional facilities to regularly distribute sexually protective devices free of charge to incarcerated individuals.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7004
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 16, 2023
+  ___________
+ 
+ Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
+  when printed to be committed to the Committee on Crime Victims,  Crime
+  and Correction
+ 
+ AN ACT to amend the correction law, in relation to requiring correction-
+  al facilities to distribute sexually protective devices to incarcerat-
+  ed individuals
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The correction law is amended by adding a new  section  609
+ to read as follows:
+  §  609.  DISTRIBUTION  OF  SEXUALLY PROTECTIVE DEVICES TO INCARCERATED
+ INDIVIDUALS. 1. THE WARDEN OR SUPERINTENDENT OF EACH OF THE INSTITUTIONS
+ WITHIN THE JURISDICTION OF THE DEPARTMENT OF CORRECTIONS  AND  COMMUNITY
+ SUPERVISION  SHALL REGULARLY DISTRIBUTE SEXUALLY PROTECTIVE DEVICES FREE
+ OF CHARGE TO EACH INCARCERATED INDIVIDUAL IN HIS OR  HER  CUSTODY.  SUCH
+ DISTRIBUTION  SHALL BE PART OF A ROUTINE PROGRAM AND SHALL NOT REQUIRE A
+ REQUEST BY AN INCARCERATED INDIVIDUAL.
+  2.  DISTRIBUTION  OF  PRE-EXPOSURE  PROPHYLAXIS  ("PREP")  FOR  THE
+ PREVENTION OF HIV TO INCARCERATED INDIVIDUALS. THE WARDEN OR SUPERINTEN-
+ DENT  OF EACH OF THE INSTITUTIONS WITHIN THE JURISDICTION OF THE DEPART-
+ MENT OF CORRECTIONS AND COMMUNITY SUPERVISION SHALL REGULARLY DISTRIBUTE
+ PRE-EXPOSURE PROPHYLAXIS FOR THE PREVENTION OF HIV TO INCARCERATED INDI-
+ VIDUALS FREE OF CHARGE TO EACH INCARCERATED INDIVIDUAL  IN  HIS  OR  HER
+ CUSTODY  WHO  REQUESTS  IT. SUCH DISTRIBUTION SHALL BE PART OF A ROUTINE
+ PROGRAM AND INCARCERATED INDIVIDUALS SHALL REGULARLY BE  MADE  AWARE  OF
+ THE OPPORTUNITY TO PROCURE PREP.
+  3. THE POSSESSION OF A SEXUALLY PROTECTIVE DEVICE OR PREP SHALL NOT BE
+ CONSIDERED EVIDENCE OF ANY OFFENSE FOR THE PURPOSE OF IMPOSING PENALTIES
+ OR CRIMINAL LIABILITY AGAINST THE INCARCERATED INDIVIDUAL.
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09817-02-3
+ S. 7004  2
+ 
+  4.  FOR  THE  PURPOSES OF THIS SECTION, A "SEXUALLY PROTECTIVE DEVICE"
+ SHALL MEAN ANY ONE OF THE FOLLOWING INTENDED  TO  PREVENT  PREGNANCY  OR
+ SEXUALLY TRANSMITTED INFECTION: A MALE OR FEMALE CONDOM OR A DENTAL DAM.
+  §  2.  This  act shall take effect on the thirtieth day after it shall
+ have become a law.
