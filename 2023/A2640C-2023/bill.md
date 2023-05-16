@@ -1,6 +1,6 @@
 # Authorizes the town of Dickinson to establish hotel and motel taxes within such town
 
-**Bill ID:** A2640CA
+**Bill ID:** A2640CB
 **Session:** 2023
 **Sponsor:** Joe Angelino
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the town of Dickinson to establish hotel and motel taxes within such 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2640--A
+  2640--B
  
   2023-2024 Regular Sessions
  
@@ -28,11 +28,13 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M.  of A. ANGELINO, LEMONDES, MORINELLO -- read once and
   referred to the Committee on Ways and Means --  committee  discharged,
   bill  amended,  ordered  reprinted  as amended and recommitted to said
-  committee
- 
- AN ACT to amend the tax law, in relation  to  authorizing  the  town  of
-  Dickinson to establish hotel and motel taxes
+  committee -- again  reported  from  said  committee  with  amendments,
+  ordered reprinted as amended and recommitted to said committee
 
+ AN  ACT  to  amend  the  tax law, in relation to authorizing the town of
+  Dickinson to establish hotel and motel taxes; and  providing  for  the
+  repeal of such provisions upon expiration thereof
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  AS OTHERWISE MAY BE PROVIDED BY SUCH LOCAL LAWS.
   (3)  SUCH  LOCAL LAWS MAY PROVIDE THAT ANY TAXES IMPOSED SHALL BE PAID
  BY THE PERSON LIABLE THEREFOR TO THE OWNER OF THE ROOM FOR HIRE  IN  THE
- TOURIST  HOME,  INN, CLUB, HOTEL, MOTEL OR OTHER SIMILAR PLACE OF PUBLIC
- ACCOMMODATION OCCUPIED OR TO THE PERSON ENTITLED TO BE PAID THE RENT  OR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06593-02-3
- A. 2640--A  2
+  LBD06593-03-3
+ A. 2640--B  2
  
+ TOURIST  HOME,  INN, CLUB, HOTEL, MOTEL OR OTHER SIMILAR PLACE OF PUBLIC
+ ACCOMMODATION OCCUPIED OR TO THE PERSON ENTITLED TO BE PAID THE RENT  OR
  CHARGE  FOR  THE  ROOM  FOR  HIRE IN THE TOURIST HOME, INN, CLUB, HOTEL,
  MOTEL OR OTHER SIMILAR PLACE OF PUBLIC ACCOMMODATION OCCUPIED FOR AND ON
  ACCOUNT OF THE TOWN OF DICKINSON IMPOSING THE TAX AND THAT SUCH OWNER OR
@@ -119,10 +121,10 @@ S T A T E  O F  N E W  Y O R K
  PENALTIES THEREON AS MAY BE PROVIDED FOR BY LOCAL  LAWS  OR  REGULATIONS
  SHALL BE FIRST DEPOSITED AND THERE SHALL BE FILED AN UNDERTAKING, ISSUED
  BY  A  SURETY  COMPANY AUTHORIZED TO TRANSACT BUSINESS IN THIS STATE AND
+ A. 2640--B  3
+ 
  APPROVED BY THE SUPERINTENDENT OF FINANCIAL SERVICES AS TO SOLVENCY  AND
  RESPONSIBILITY,  IN  SUCH AMOUNT AS A JUSTICE OF THE SUPREME COURT SHALL
- A. 2640--A  3
- 
  APPROVE TO THE EFFECT THAT IF SUCH PROCEEDING BE DISMISSED  OR  THE  TAX
  CONFIRMED THE PETITIONER WILL PAY ALL COSTS AND CHARGES WHICH MAY ACCRUE
  IN THE PROSECUTION OF SUCH PROCEEDING; OR
@@ -165,4 +167,5 @@ S T A T E  O F  N E W  Y O R K
  ANY PERSON OR CIRCUMSTANCE SHALL BE HELD INVALID, THE REMAINDER OF  THIS
  SECTION  AND  THE  APPLICATION  OF  SUCH  PROVISION  TO OTHER PERSONS OR
  CIRCUMSTANCES SHALL NOT BE AFFECTED THEREBY.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect immediately and shall  expire  and  be
+ deemed repealed September 1, 2025.
