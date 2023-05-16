@@ -1,6 +1,6 @@
 # Authorizes an occupancy tax in the town of Putnam Valley, in the county of Putnam
 
-**Bill ID:** S6919A
+**Bill ID:** S6919AA
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the town of Putnam Valley, in Putnam county to adopt and amend local 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6919
+  6919--A
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. ROLISON -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the tax law, in relation to authorizing an occupancy tax
-  in the town of Putnam Valley, in Putnam county
-
+  in  the town of Putnam Valley, in Putnam county; and providing for the
+  repeal of such provisions upon expiration thereof
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
   (3) SUCH LOCAL LAWS MAY PROVIDE THAT ANY TAXES IMPOSED SHALL  BE  PAID
  BY  THE  PERSON LIABLE THEREFOR TO THE OWNER OF THE ROOM FOR HIRE IN THE
  TOURIST HOME, INN, CLUB, HOTEL, MOTEL OR OTHER SIMILAR PLACE  OF  PUBLIC
- ACCOMMODATION  OCCUPIED OR TO THE PERSON ENTITLED TO BE PAID THE RENT OR
- CHARGE FOR THE ROOM FOR HIRE IN THE  TOURIST  HOME,  INN,  CLUB,  HOTEL,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11254-01-3
- S. 6919  2
+  LBD11254-03-3
+ S. 6919--A  2
  
+ ACCOMMODATION  OCCUPIED OR TO THE PERSON ENTITLED TO BE PAID THE RENT OR
+ CHARGE FOR THE ROOM FOR HIRE IN THE  TOURIST  HOME,  INN,  CLUB,  HOTEL,
  MOTEL OR OTHER SIMILAR PLACE OF PUBLIC ACCOMMODATION OCCUPIED FOR AND ON
  ACCOUNT  OF  THE  TOWN  OF  PUTNAM VALLEY IMPOSING THE TAX AND THAT SUCH
  OWNER OR PERSON ENTITLED TO BE PAID THE RENT OR CHARGE SHALL  BE  LIABLE
@@ -119,10 +121,10 @@ S T A T E  O F  N E W  Y O R K
  SHALL BE FIRST DEPOSITED AND THERE SHALL BE FILED AN UNDERTAKING, ISSUED
  BY  A  SURETY  COMPANY AUTHORIZED TO TRANSACT BUSINESS IN THIS STATE AND
  APPROVED BY THE SUPERINTENDENT OF FINANCIAL SERVICES OF THIS STATE AS TO
+ S. 6919--A  3
+
  SOLVENCY AND RESPONSIBILITY, IN SUCH AMOUNT AS A JUSTICE OF THE  SUPREME
  COURT  SHALL  APPROVE TO THE EFFECT THAT IF SUCH PROCEEDING BE DISMISSED
- S. 6919  3
-
  OR THE TAX CONFIRMED THE PETITIONER WILL PAY ALL COSTS AND CHARGES WHICH
  MAY ACCRUE IN THE PROSECUTION OF SUCH PROCEEDING; OR
   B.  AT  THE OPTION OF THE PETITIONER, SUCH UNDERTAKING MAY BE IN A SUM
@@ -164,4 +166,5 @@ S T A T E  O F  N E W  Y O R K
  ANY PERSON OR CIRCUMSTANCE SHALL BE HELD INVALID, THE REMAINDER OF  THIS
  SECTION  AND  THE  APPLICATION  OF  SUCH  PROVISION  TO OTHER PERSONS OR
  CIRCUMSTANCES SHALL NOT BE AFFECTED THEREBY.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect immediately and shall  expire  and  be
+ deemed repealed 2 years after such date.
