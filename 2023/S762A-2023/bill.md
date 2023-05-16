@@ -1,6 +1,6 @@
 # Provides treatment for sexually transmitted diseases to minors without a parent's or guardian's consent
 
-**Bill ID:** S762A
+**Bill ID:** S762AA
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides treatment for sexually transmitted diseases to minors without a parent'
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  762
+  762--A
  
   2023-2024 Regular Sessions
  
@@ -25,61 +25,69 @@ S T A T E  O F  N E W  Y O R K
   January 6, 2023
   ___________
  
- Introduced  by  Sens. KRUEGER, BAILEY, HOYLMAN, PARKER, RIVERA, SALAZAR,
-  SANDERS, SERRANO -- read twice and ordered printed, and  when  printed
-  to be committed to the Committee on Health
- 
- AN  ACT to amend the public health law, in relation to providing medical
+ Introduced  by  Sens.  KRUEGER,  BAILEY,  COMRIE, HOYLMAN-SIGAL, PARKER,
+  RIVERA, SALAZAR, SANDERS, SERRANO -- read twice and  ordered  printed,
+  and when printed to be committed to the Committee on Health -- commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
+
+ AN ACT to amend the public health law, in relation to providing  medical
   care to minors for sexually transmitted diseases without a parent's or
   guardian's consent
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Section 2305 of the public health law, as amended by chap-
- ter 878 of the laws of 1980, the section heading and subdivisions 1  and
- 2  as amended by section 35 of part E of chapter 56 of the laws of 2013,
+  Section 1. Section 2305 of the public health law, as amended by  chap-
+ ter  878 of the laws of 1980, the section heading and subdivisions 1 and
+ 2 as amended by section 35 of part E of chapter 56 of the laws of  2013,
  is amended to read as follows:
-  § 2305. Sexually transmitted diseases; CARE AND treatment [by licensed
- physician or staff physician of a hospital; prescriptions];  CONSENT  BY
- MINORS.  1. No person, other than a [licensed physician, or, in a hospi-
- tal, a staff physician] HEALTH CARE PRACTITIONER, shall diagnose,  treat
- or  prescribe  for  a person who is infected with a sexually transmitted
- disease, or who has been exposed to infection with a sexually  transmit-
- ted  disease,  or  dispense  or  sell a drug, medicine or remedy for the
- treatment of such person except on  prescription  of  a  [duly  licensed
- physician] HEALTH CARE PRACTITIONER.
-  2.  (A)  A  [licensed physician, or in a hospital, a staff physician,]
- HEALTH CARE PRACTITIONER may diagnose, treat or prescribe TREATMENT  FOR
- A  SEXUALLY  TRANSMITTED  DISEASE for a person under the age of [twenty-
- one] EIGHTEEN years without the consent or knowledge of the  parents  or
- [guardian]  GUARDIANS of said person, where such person is infected with
- a sexually transmitted disease, or has been exposed to infection with  a
- sexually transmitted disease.
-  (B)  A HEALTH CARE PRACTITIONER MAY PROVIDE HEALTH CARE RELATED TO THE
- PREVENTION OF A SEXUALLY TRANSMISSIBLE DISEASE, INCLUDING  ADMINISTERING
- VACCINES,  TO  A  PERSON  UNDER  THE  AGE  OF EIGHTEEN YEARS WITHOUT THE
+  §  2305. Sexually transmitted diseases; CARE AND treatment by licensed
+ physician or staff physician of a hospital, PHYSICIAN  ASSISTANT,  NURSE
+ PRACTITIONER,  LICENSED MIDWIFE; prescriptions; CONSENT BY MINORS. 1. No
+ person, other than a licensed physician, or,  in  a  hospital,  a  staff
+ physician,  OR  A  PHYSICIAN  ASSISTANT, NURSE PRACTITIONER, OR LICENSED
+ MIDWIFE ACTING WITHIN THEIR LAWFUL SCOPE OF  PRACTICE,  shall  diagnose,
+ treat  or  prescribe for a person who is infected with a sexually trans-
+ mitted disease, or who has been exposed to  infection  with  a  sexually
+ transmitted  disease, or dispense or sell a drug, medicine or remedy for
+ the treatment of such person except on prescription of a  duly  licensed
+ physician.
+  2. (A) A licensed physician, or in a hospital, a staff physician, OR A
+ PHYSICIAN  ASSISTANT,  NURSE  PRACTITIONER,  OR  LICENSED MIDWIFE ACTING
+ WITHIN THEIR LAWFUL SCOPE OF PRACTICE, may diagnose, treat or  prescribe
+ TREATMENT  FOR A SEXUALLY TRANSMITTED DISEASE for a person under the age
+ of [twenty-one] EIGHTEEN years without the consent or knowledge  of  the
+ parents  or  [guardian]  GUARDIANS  of said person, where such person is
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02224-01-3
- S. 762  2
+  LBD02224-08-3
+ S. 762--A  2
  
- CONSENT OR KNOWLEDGE  OF  THE  PARENTS  OR  GUARDIANS  OF  SUCH  PERSON,
+ infected with a sexually transmitted disease, or  has  been  exposed  to
+ infection with a sexually transmitted disease.
+  (B)  A  LICENSED  PHYSICIAN, OR IN A HOSPITAL, A STAFF PHYSICIAN, OR A
+ PHYSICIAN ASSISTANT, NURSE  PRACTITIONER,  OR  LICENSED  MIDWIFE  ACTING
+ WITHIN  THEIR  LAWFUL SCOPE OF PRACTICE, MAY PROVIDE HEALTH CARE RELATED
+ TO THE PREVENTION OF A SEXUALLY TRANSMISSIBLE DISEASE, INCLUDING  ADMIN-
+ ISTERING  VACCINES,  TO A PERSON UNDER THE AGE OF EIGHTEEN YEARS WITHOUT
+ THE CONSENT OR KNOWLEDGE OF THE PARENTS OR  GUARDIANS  OF  SUCH  PERSON,
  PROVIDED  THAT  THE  PERSON HAS CAPACITY TO CONSENT TO THE CARE, WITHOUT
  REGARD TO THE PERSON'S AGE, AND THE PERSON CONSENTS.
-  (C)  ANY  RELEASE  OF  PATIENT INFORMATION REGARDING VACCINES PROVIDED
+  (C) ANY RELEASE OF PATIENT  INFORMATION  REGARDING  VACCINES  PROVIDED
  UNDER THIS SECTION SHALL BE CONSISTENT WITH SECTIONS SEVENTEEN AND EIGH-
  TEEN OF THIS CHAPTER AND OTHER APPLICABLE LAWS AND REGULATIONS.
-  3. For the purposes of this section, [the term]
-  (A) "hospital" shall mean a hospital as  defined  in  article  twenty-
- eight of this chapter; AND
-  (B) "HEALTH CARE PRACTITIONER" SHALL MEAN A PERSON LICENSED, CERTIFIED
- OR  OTHERWISE  AUTHORIZED TO PRACTICE UNDER TITLE EIGHT OF THE EDUCATION
- LAW, ACTING WITHIN HIS OR HER LAWFUL SCOPE OF PRACTICE.
+  (D)  NOTHING IN THIS SECTION SHALL BE CONSTRUED TO EXPAND THE SCOPE OF
+ PRACTICE OF ANY INDIVIDUAL LICENSED, CERTIFIED OR AUTHORIZED UNDER TITLE
+ EIGHT OF THE EDUCATION LAW, NOR DOES THIS SECTION GIVE ANY SUCH INDIVID-
+ UAL THE AUTHORITY TO ACT OUTSIDE THEIR SCOPE OF PRACTICE, AS DEFINED  IN
+ TITLE EIGHT OF THE EDUCATION LAW.
+  3.  For the purposes of this section, the term "hospital" shall mean a
+ hospital as defined in article twenty-eight of this chapter.
   § 2. The first undesignated paragraph of  section  17  of  the  public
  health law, as amended by chapter 322 of the laws of 2017, is amended to
- read ad follows:
+ read as follows:
   Upon  the written request of any competent patient, parent or guardian
  of an infant, a guardian appointed pursuant to article eighty-one of the
  mental hygiene law, or  conservator  of  a  conservatee,  an  examining,
@@ -112,21 +120,21 @@ S T A T E  O F  N E W  Y O R K
  where requested for the purpose of supporting an application,  claim  or
  appeal  for  any  government  benefit or program, provided that, where a
  provider maintains medical records in electronic form, it shall  provide
+ S. 762--A  3
+ 
  the  copy in either electronic or paper form, as required by the govern-
  ment benefit or program, or at the patient's request.
   § 3. Paragraph (i) of subdivision 3 of section 18 of the public health
- law, as added by chapter 634 of the laws of 2004, is amended to read  as
+ law,  as added by chapter 634 of the laws of 2004, is amended to read as
  follows:
-  (i)  The release of patient information shall be subject to: (i) arti-
- cle twenty-seven-F of this chapter in the case of  confidential  HIV-re-
- lated  information;  (ii) section seventeen of this article and sections
- [twenty-three hundred one,] twenty-three hundred  six  and  twenty-three
- S. 762  3
- 
+  (i) The release of patient information shall be subject to: (i)  arti-
+ cle  twenty-seven-F  of this chapter in the case of confidential HIV-re-
+ lated information; (ii) section seventeen of this article  and  sections
+ [twenty-three  hundred  one,]  twenty-three hundred six and twenty-three
  hundred eight of this chapter in the case of termination of a pregnancy,
  and CARE AND treatment for a sexually transmitted disease; (iii) article
  thirty-three of the mental hygiene law; and (iv) any other provisions of
- law  creating  special  requirements  relating to the release of patient
- information, including the  federal  health  insurance  portability  and
+ law creating special requirements relating to  the  release  of  patient
+ information,  including  the  federal  health  insurance portability and
  accountability act of 1996 and its implementing regulations.
   § 4. This act shall take effect immediately.
