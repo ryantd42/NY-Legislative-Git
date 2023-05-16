@@ -1,6 +1,6 @@
 # Sets a seven year limit to the real property tax exemption for unimproved property of mandatory class nonprofit organizations
 
-**Bill ID:** A4045A
+**Bill ID:** A4045AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Sets a 7-year limit to the real property tax exemption for unimproved property o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4045
+  4045--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. GUNTHER, COOK -- read once and referred to the
-  Committee on Real Property Taxation
+  Committee on Real Property  Taxation  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the real property tax law, in relation to  the  duration
   of  the  exemption for property of mandatory class nonprofit organiza-
@@ -57,16 +59,18 @@ S T A T E  O F  N E W  Y O R K
  condition  that  the title thereto shall revert in case any building not
  intended and suitable for one or more such  purposes  shall  be  erected
  upon such premises or some part thereof.
-  17.  NOTWITHSTANDING  ANY  PROVISION  OF THIS SECTION TO THE CONTRARY,
- REAL PROPERTY USED FOR THE PURPOSE OF A  CHILDREN'S  OVERNIGHT  CAMP  OR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03722-02-3
- A. 4045  2
+  LBD03722-03-3
+ A. 4045--A  2
  
+  17.  NOTWITHSTANDING  ANY  PROVISION  OF THIS SECTION TO THE CONTRARY,
+ REAL PROPERTY USED FOR THE PURPOSE OF A  CHILDREN'S  OVERNIGHT  CAMP  OR
  SUMMER  DAY  CAMP, AS SUCH TERMS ARE DEFINED IN SECTION THIRTEEN HUNDRED
- NINETY-TWO OF THE PUBLIC HEALTH LAW, SHALL BE EXEMPT FROM THE PROVISIONS
- OF THIS SECTION.
+ NINETY-TWO OF THE PUBLIC HEALTH LAW, AND REAL PROPERTY OWNED BY  A  NOT-
+ FOR-PROFIT  CONSERVATION  ORGANIZATION  AS DEFINED IN SUBDIVISION TWO OF
+ SECTION 49-0303 OF THE ENVIRONMENTAL CONSERVATION LAW  SHALL  BE  EXEMPT
+ FROM THE PROVISIONS OF THIS SECTION.
   §  2. This act shall take effect on the first of January next succeed-
  ing the date on which it shall have become a law.
