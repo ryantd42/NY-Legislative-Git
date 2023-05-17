@@ -1,0 +1,128 @@
+# Enacts the "New York State Resident Experience Act of 2024"
+
+**Bill ID:** A7324B
+**Session:** 2023
+**Sponsor:** John T. McDonald III
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires state agencies to measure, collect, report, and utilize metrics relating to the experience of residents interacting with agencies to improve provision of services to the people of the state, and to provide a biannual report to the governor and legislature.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7324
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 17, 2023
+  ___________
+ 
+ Introduced by M. of A. McDONALD -- read once and referred to the Commit-
+  tee on Governmental Operations
+ 
+ AN  ACT to amend the executive law, in relation to enacting the New York
+  State Citizen Experience Act of 2023
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section  1.  Short  title. This act shall be known and may be cited as
+ the "New York State Citizen Experience Act of 2023"
+  § 2. Legislative intent. The legislature finds that the New York state
+ government serves the people of the state of New York and should seek to
+ continually improve the provision of services based on citizen feedback.
+ While many state  agencies,  offices,  and  programs  provide  excellent
+ service  to  New  Yorkers,  there  are  many areas ripe for improvement,
+ particularly  within  agencies  that  provide  extensive  citizen-facing
+ services. Providing quality services to citizens improves the confidence
+ of  New  Yorkers  in their government and helps agencies achieve greater
+ impact  and  fulfill  their  missions.  Improving  service  to  citizens
+ requires agencies to leverage technology, collect and share standardized
+ data,  and develop customer-centered mindsets and service strategies. It
+ is the legislature's belief that all agencies should strive  to  provide
+ high-quality,  courteous, effective, and efficient services to New York-
+ ers and seek to measure, collect, report, and utilize  metrics  relating
+ to  the  experience of citizens interacting with agencies to continually
+ improve provision of services to the people of the state of New York.
+  § 3. The executive law is amended by adding a  new  section  171-a  to
+ read as follows:
+  §  171-A.  COLLECTION OF VOLUNTARY CITIZEN EXPERIENCE FEEDBACK. 1. FOR
+ PURPOSES OF THIS SECTION, THE FOLLOWING TERMS SHALL HAVE  THE  FOLLOWING
+ MEANINGS:
+  (A)  "COVERED  AGENCY"  MEANS  AN AGENCY UNDER THE EXECUTIVE BRANCH OF
+ STATE GOVERNMENT THAT PROVIDES OR  FUNDS  CITIZEN-FACING  SERVICES  THAT
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11206-01-3
+ A. 7324  2
+ 
+ HAVE  A  HIGH  IMPACT  ON  THE PUBLIC DUE TO A LARGE CITIZEN BASE AND/OR
+ INVOLVE SERVICES THAT HAVE A CRITICAL EFFECT ON THOSE SERVED.
+  (B)  "VOLUNTARY  CITIZEN  EXPERIENCE  FEEDBACK"  MEANS A RESPONSE TO A
+ COLLECTION OF INFORMATION CONDUCTED BY A COVERED  AGENCY  IN  ACCORDANCE
+ WITH THIS ACT.
+  2.  (A)  WITHIN NINETY DAYS OF THE EFFECTIVE DATE OF THIS SECTION, THE
+ GOVERNOR SHALL DESIGNATE THE COVERED AGENCIES REQUIRED TO COLLECT VOLUN-
+ TARY CITIZEN EXPERIENCE DATA. THE GOVERNOR  SHALL  MAINTAIN  A  LIST  OF
+ DESIGNATED COVERED AGENCIES AND MAY UPDATE THIS LIST AT ANY TIME.
+  (B)  WITHIN ONE YEAR OF SUCH DESIGNATION BY THE GOVERNOR, EACH COVERED
+ AGENCY SHALL SOLICIT THE  COLLECTION  OF  VOLUNTARY  CITIZEN  EXPERIENCE
+ FEEDBACK WITH RESPECT TO ANY SERVICE OFFERED BY OR TRANSACTIONS WITH THE
+ COVERED AGENCY.
+  (C)  THE  COVERED AGENCY SHALL DEVELOP A SET OF STANDARDIZED QUESTIONS
+ THAT ADDRESS:
+  (I) OVERALL SATISFACTION OF CITIZENS WITH THE SPECIFIC INTERACTION  OR
+ SERVICE RECEIVED;
+  (II)  THE  EXTENT  TO  WHICH  CITIZENS  WERE  ABLE TO ACCOMPLISH THEIR
+ INTENDED TASK OR PURPOSE;
+  (III) WHETHER THE CITIZEN WAS TREATED WITH RESPECT  AND  PROFESSIONAL-
+ ISM;
+  (IV) WHETHER THE CITIZEN BELIEVES THEY WERE SERVED IN A TIMELY MANNER;
+ AND
+  (V) ANY ADDITIONAL METRICS AS DETERMINED BY THE COVERED AGENCY.
+  (D)  TO THE EXTENT PRACTICABLE, THE VOLUNTARY CITIZEN EXPERIENCE FEED-
+ BACK SHALL BE COLLECTED ACROSS ALL PLATFORMS OR CHANNELS  THROUGH  WHICH
+ THE  COVERED AGENCY INTERACTS WITH CITIZENS OR OTHER ENTITIES TO DELIVER
+ INFORMATION OR SERVICES, AND THE VOLUNTARY CITIZEN  EXPERIENCE  FEEDBACK
+ COLLECTED  UNDER  THIS SECTION SHALL BE TIED TO SPECIFIC TRANSACTIONS OR
+ INTERACTIONS WITH CITIZENS UTILIZING PROGRAMS OR SERVICES OFFERED BY THE
+ COVERED AGENCY.
+  3. (A) ANY RESPONSE TO THE SOLICITATION OF VOLUNTARY  CITIZEN  EXPERI-
+ ENCE FEEDBACK SHALL REMAIN ANONYMOUS;
+  (B) ANY INDIVIDUAL OR ENTITY WHO DECLINES TO PARTICIPATE IN THE SOLIC-
+ ITATION  OF  VOLUNTARY  CITIZEN EXPERIENCE FEEDBACK SHALL NOT BE TREATED
+ DIFFERENTLY BY THE COVERED AGENCY FOR PURPOSES OF PROVIDING SERVICES  OR
+ INFORMATION;
+  (C) THE VOLUNTARY NATURE OF THE SOLICITATION MUST BE CLEAR;
+  (D) ANY SOLICITATION OF VOLUNTARY CITIZEN EXPERIENCE FEEDBACK SHALL BE
+ LIMITED  TO ONE SOLICITATION PER INTERACTION WITH AN INDIVIDUAL OR ENTI-
+ TY;
+  (E) TO THE EXTENT PRACTICABLE, THE SOLICITATION OF  VOLUNTARY  CITIZEN
+ EXPERIENCE  FEEDBACK SHALL BE MADE AT THE POINT OF SERVICE WITH AN INDI-
+ VIDUAL OR ENTITY;
+  (F) ANY INSTRUMENT FOR COLLECTING VOLUNTARY CITIZEN  EXPERIENCE  FEED-
+ BACK SHALL BE ACCESSIBLE TO INDIVIDUALS WITH DISABILITIES; AND
+  (G)  ANY  APPLICABLE  INTERNAL  AGENCY  DATA GOVERNANCE POLICIES SHALL
+ REMAIN IN EFFECT WITH RESPECT TO THE  COLLECTION  OF  VOLUNTARY  CITIZEN
+ EXPERIENCE FEEDBACK FROM ANY INDIVIDUAL OR ENTITY.
+  4.  (A)  EACH COVERED AGENCY SHALL REPORT TO THE GOVERNOR AND LEGISLA-
+ TURE, ON A BIANNUAL BASIS FROM THE INITIAL COLLECTION OF VOLUNTARY CITI-
+ ZEN EXPERIENCE FEEDBACK, ON THE OUTCOME OF THE COVERED AGENCY'S  EFFORTS
+ OVER THE PREVIOUS TWO YEARS.
+  (B)  THE  REPORT  SHALL  INCLUDE AN ANALYSIS OF THE CITIZEN EXPERIENCE
+ FEEDBACK COLLECTED, A DESCRIPTION OF HOW THE COVERED  AGENCY  USED  SUCH
+ FEEDBACK,  AN  ASSESSMENT  OF  OUTCOME IMPROVEMENT SINCE THE MOST RECENT
+ A. 7324  3
+ 
+ REPORT WAS ISSUED, AND ANY RECOMMENDATIONS FOR SYSTEMS,  PROCESSES,  AND
+ PROCEDURES TO IMPROVE CITIZEN EXPERIENCE WITH THE COVERED AGENCY.
+  § 4. This act shall take effect immediately.
