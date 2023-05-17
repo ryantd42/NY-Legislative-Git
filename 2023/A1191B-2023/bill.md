@@ -1,6 +1,6 @@
 # Requires the department of environmental conservation, in coordination with NYSERDA, to submit an annual agency climate expenditure report
 
-**Bill ID:** A1191BA
+**Bill ID:** A1191BB
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Requires the department of environmental conservation, in coordination with NYSE
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1191--A
+  1191--B
  
   2023-2024 Regular Sessions
  
@@ -25,49 +25,52 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by  M. of A. EPSTEIN, LEVENBERG, GIBBS, REYES, SIMON -- read
-  once and referred to the Committee on  Environmental  Conservation  --
-  committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
+ Introduced  by M. of A. EPSTEIN, LEVENBERG, GIBBS, REYES, SIMON, COLTON,
+  OTIS -- read once and  referred  to  the  Committee  on  Environmental
+  Conservation  -- committee discharged, bill amended, ordered reprinted
+  as amended and recommitted to said committee -- reported and  referred
+  to the Committee on Rules -- Rules Committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to the Committee on Rules
  
- AN ACT to amend the  environmental  conservation  law,  in  relation  to
-  requiring  the  department  of  environmental conservation, in coordi-
+ AN  ACT  to  amend  the  environmental  conservation law, in relation to
+  requiring the department of  environmental  conservation,  in  coordi-
   nation with the New York state energy research and development author-
   ity, to submit an annual agency climate expenditure report
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The environmental conservation law is amended by adding a
+  Section 1. The environmental conservation law is amended by  adding  a
  new section 75-0121 to read as follows:
  § 75-0121. AGENCY CLIMATE EXPENDITURE REPORTING.
-  1. DEFINITIONS. FOR THE PURPOSES OF THIS SECTION, THE FOLLOWING  TERMS
+  1.  DEFINITIONS. FOR THE PURPOSES OF THIS SECTION, THE FOLLOWING TERMS
  SHALL HAVE THE FOLLOWING MEANINGS:
-  (A)  "AGENCY"  MEANS  ANY DEPARTMENT, BOARD, BUREAU, COMMISSION, DIVI-
+  (A) "AGENCY" MEANS ANY DEPARTMENT, BOARD,  BUREAU,  COMMISSION,  DIVI-
  SION, OFFICE, OR COMMITTEE OF THE STATE, OR STATE AUTHORITY.
-  (B) "STATE AUTHORITY" SHALL MEAN A PUBLIC AUTHORITY OR PUBLIC  BENEFIT
- CORPORATION  CREATED BY OR EXISTING UNDER THE PUBLIC AUTHORITIES LAW, OR
- ANY OTHER LAW OF THE STATE OF NEW YORK, WITH ONE OR MORE OF ITS  MEMBERS
+  (B)  "STATE AUTHORITY" SHALL MEAN A PUBLIC AUTHORITY OR PUBLIC BENEFIT
+ CORPORATION CREATED BY OR EXISTING UNDER THE PUBLIC AUTHORITIES LAW,  OR
+ ANY  OTHER LAW OF THE STATE OF NEW YORK, WITH ONE OR MORE OF ITS MEMBERS
  APPOINTED BY THE GOVERNOR OR WHO SERVE AS MEMBERS BY VIRTUE OF HOLDING A
- CIVIL  OFFICE  OF  THE  STATE, OTHER THAN AN INTERSTATE OR INTERNATIONAL
- AUTHORITY OR PUBLIC BENEFIT CORPORATION, INCLUDING SUBSIDIARIES OF  SUCH
+ CIVIL OFFICE OF THE STATE, OTHER THAN  AN  INTERSTATE  OR  INTERNATIONAL
+ AUTHORITY  OR PUBLIC BENEFIT CORPORATION, INCLUDING SUBSIDIARIES OF SUCH
  PUBLIC AUTHORITY OR PUBLIC BENEFIT CORPORATION.
-  (C)  "STATE  CLIMATE  GOALS"  MEANS  THE GOALS AND REQUIREMENTS AS SET
+  (C) "STATE CLIMATE GOALS" MEANS THE  GOALS  AND  REQUIREMENTS  AS  SET
  FORTH IN CHAPTER ONE HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN.
   2. ANNUAL AGENCY CLIMATE EXPENDITURE REPORT.  THE DEPARTMENT, IN COOR-
  DINATION WITH THE NEW YORK STATE ENERGY RESEARCH AND DEVELOPMENT AUTHOR-
- ITY SHALL SUBMIT TO THE TEMPORARY PRESIDENT OF THE SENATE AND THE SPEAK-
- ER OF THE ASSEMBLY, AS EARLY AS PRACTICABLE, BUT NO LATER  THAN  JANUARY
- THIRTIETH  OF  EACH  YEAR,  AN ANNUAL AGENCY CLIMATE EXPENDITURE REPORT.
+ ITY  SHALL  SUBMIT TO THE TEMPORARY PRESIDENT OF THE SENATE, THE SPEAKER
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00524-05-3
- A. 1191--A  2
+  LBD00524-06-3
+ A. 1191--B  2
  
+ OF THE ASSEMBLY, THE MINORITY LEADER OF THE  SENATE,  AND  THE  MINORITY
+ LEADER OF THE ASSEMBLY, AS EARLY AS PRACTICABLE, BUT NO LATER THAN JANU-
+ ARY THIRTIETH OF EACH YEAR, AN ANNUAL AGENCY CLIMATE EXPENDITURE REPORT.
  SUCH REPORT SHALL CONTAIN A COMPREHENSIVE ESTIMATE AND SUMMARY OF SPEND-
- ING, TO ACHIEVE THE STATE CLIMATE GOALS FOR EACH INDIVIDUAL  AGENCY  AND
- FOR  THE  STATE AS A WHOLE, BROKEN DOWN FOR EACH INDIVIDUAL CLIMATE GOAL
+ ING,  TO  ACHIEVE THE STATE CLIMATE GOALS FOR EACH INDIVIDUAL AGENCY AND
+ FOR THE STATE AS A WHOLE, BROKEN DOWN FOR EACH INDIVIDUAL  CLIMATE  GOAL
  INCLUDING:
   (A) AMOUNTS OF FUNDS SPENT IN THE PRIOR FISCAL YEAR;
   (B) FUNDS NEEDED FOR THE UPCOMING FISCAL YEAR; AND
