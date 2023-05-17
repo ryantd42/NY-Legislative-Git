@@ -1,6 +1,6 @@
 # Relates to designating the Zone Sergeant James G. Sweeney Memorial Bridge
 
-**Bill ID:** A5223CA
+**Bill ID:** A5223CB
 **Session:** 2023
 **Sponsor:** Anil Beephan Jr.
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in the town of East Fishkill th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5223--A
+  5223--B
  
   2023-2024 Regular Sessions
  
@@ -27,35 +27,36 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. BEEPHAN -- read once and referred to the Commit-
   tee on Transportation -- committee discharged, bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
- 
+  reprinted  as  amended  and recommitted to said committee -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the highway law, in relation to designating a portion of
-  the  state  highway  system as the "Zone Sergeant James G. Sweeney New
-  York State Police Memorial Bridge"
+  the state highway system as the "Zone Sergeant James G. Sweeney  Memo-
+  rial Bridge"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 344-o to
  read as follows:
-  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
- "ZONE SERGEANT JAMES G. SWEENEY NEW YORK STATE POLICE MEMORIAL  BRIDGE".
- ALL  THAT PORTION OF THE STATE HIGHWAY SYSTEM CONSTITUTING THE EASTBOUND
- AND WESTBOUND BRIDGES ON INTERSTATE EIGHTY-FOUR EAST  AND  WEST  AT  THE
- JUNCTION  OF  LIME KILN ROAD EXITS, IN THE TOWN OF EAST FISHKILL, COUNTY
- OF DUTCHESS, CROSSING INTERSTATE ROUTE EIGHTY-FOUR SHALL  BE  DESIGNATED
- AND  KNOWN  AS THE "ZONE SERGEANT JAMES G. SWEENEY NEW YORK STATE POLICE
- MEMORIAL BRIDGE".
-  § 2. The commissioner of transportation shall provide for the  instal-
- lation  and  maintenance of adequate signing of the state highway system
- as designated pursuant to section one of this  act.  However,  to  avoid
- confusion  and  to limit any possible disruption of commerce, the desig-
- nation called for pursuant to section one of this act shall  be  one  of
- ceremonial  nature  and  the  official  name of such bridge shall not be
+  § 344-O. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
+ "ZONE  SERGEANT  JAMES G. SWEENEY MEMORIAL BRIDGE".  ALL THAT PORTION OF
+ THE STATE HIGHWAY SYSTEM CONSTITUTING THE EASTBOUND AND WESTBOUND BRIDG-
+ ES ON INTERSTATE EIGHTY-FOUR EAST AND WEST AT THE JUNCTION OF LIME  KILN
+ ROAD  EXITS,  IN THE TOWN OF EAST FISHKILL, COUNTY OF DUTCHESS, CROSSING
+ INTERSTATE ROUTE EIGHTY-FOUR SHALL BE DESIGNATED AND KNOWN AS THE  "ZONE
+ SERGEANT JAMES G. SWEENEY MEMORIAL BRIDGE".
+  §  2. The commissioner of transportation shall provide for the instal-
+ lation and maintenance of adequate signing of the state  highway  system
+ as  designated  pursuant  to  section one of this act. However, to avoid
+ confusion and to limit any possible disruption of commerce,  the  desig-
+ nation  called  for  pursuant to section one of this act shall be one of
+ ceremonial nature and the official name of  such  bridge  shall  not  be
  changed as a result of this act.
   § 3. This act shall take effect immediately.
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09095-06-3
+  LBD09095-09-3
