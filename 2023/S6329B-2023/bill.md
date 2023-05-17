@@ -1,6 +1,6 @@
 # Authorizes the assessor of the town of Brookhaven, county of Suffolk to accept an application for a real property tax exemption from De Bethesda Eglise
 
-**Bill ID:** S6329B
+**Bill ID:** S6329BA
 **Session:** 2023
 **Sponsor:** Dean Murray
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the assessor of the town of Brookhaven, county of Suffolk to accept a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6329
+  6329--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MURRAY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT in relation to authorizing the assessor of the town  of  Brookha-
   ven,  county  of  Suffolk to accept an application for a real property
   tax exemption from De Bethesda Eglise
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,7 +45,7 @@ S T A T E  O F  N E W  Y O R K
  rolls for all of the 2020 and 2021 general taxes for the parcel owned by
  such organization located at 48 Edgewater Drive, in the hamlet of Mastic
  Beach, town of Brookhaven, county of Suffolk, otherwise known as Suffolk
- county tax map district 0209, section 013.00, block 06.00,  lot  004.00.
+ county tax map district 0200, section 975.00, block 12.00, lot  004.000.
  If  accepted,  the  application  shall  be  reviewed  as  if it had been
  received on or before the  taxable  status  date  established  for  such
  assessment rolls.
@@ -60,4 +62,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10196-01-3
+  LBD10196-03-3
