@@ -1,6 +1,6 @@
 # Relates to establishing ground rent rebates for eligible homeowners and renters in the Battery Park project area
 
-**Bill ID:** S2963A
+**Bill ID:** S2963AA
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to establishing ground rent rebates for eligible homeowners and renters 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2963
+  2963--A
  
   2023-2024 Regular Sessions
  
@@ -27,12 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sen. KAVANAGH -- read twice and ordered printed, and when
   printed to be committed to the Committee on Corporations,  Authorities
-  and Commissions
+  and  Commissions  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend  the  public authorities law, in relation to freezing
-  eligible homeowners' and renters' ground  rent  in  the  Battery  Park
-  project area
-
+ AN ACT to amend the public authorities law, in relation to  establishing
+  ground rent rebates for eligible homeowners and renters in the Battery
+  Park project area
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -58,13 +59,13 @@ S T A T E  O F  N E W  Y O R K
  PRECEDING THE YEAR IN WHICH A HOMEOWNER FIRST BECOMES AN ELIGIBLE  HOME-
  OWNER  OR  A  RENTER  FIRST  BECOMES  AN ELIGIBLE RENTER; IN THE EVENT A
  PREVIOUSLY ELIGIBLE HOMEOWNER OR A PREVIOUSLY  ELIGIBLE  RENTER  BECOMES
- INELIGIBLE  BECAUSE THE HOMEOWNER'S OR RENTER'S HOUSEHOLD INCOME EXCEEDS
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07261-01-3
- S. 2963  2
+  LBD07261-02-3
+ S. 2963--A  2
  
+ INELIGIBLE  BECAUSE THE HOMEOWNER'S OR RENTER'S HOUSEHOLD INCOME EXCEEDS
  ONE HUNDRED FIFTY PERCENT OF THE AREA MEDIAN INCOME FOR TWO  CONSECUTIVE
  YEARS,  THE REBATE BASE YEAR SHALL BE RESET TO BE THE YEAR PRECEDING ANY
  SUBSEQUENT YEAR IN WHICH THE HOMEOWNER OR RENTER AGAIN BECOMES ELIGIBLE;
