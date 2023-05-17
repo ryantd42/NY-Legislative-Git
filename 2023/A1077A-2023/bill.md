@@ -1,6 +1,6 @@
 # Requires an operator of a motor vehicle to exercise due care to avoid colliding with a vehicle which is parked, stopped, or standing on the shoulder of a parkway or controlled-access highway
 
-**Bill ID:** A1077A
+**Bill ID:** A1077AA
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Requires an operator of a motor vehicle to exercise due care to avoid colliding 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1077
+  1077--A
  
   2023-2024 Regular Sessions
  
@@ -28,53 +28,54 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M.  of  A.  ZEBROWSKI,  COLTON,  GUNTHER, LUPARDO, OTIS,
   PAULIN, SANTABARBARA -- Multi-Sponsored by --  M.  of  A.  BRAUNSTEIN,
   COOK, GLICK, JEAN-PIERRE -- read once and referred to the Committee on
-  Transportation
- 
+  Transportation  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the vehicle and traffic law, in relation to requiring an
-  operator  of  a  motor vehicle to exercise due care to avoid colliding
-  with a disabled vehicle or a motor vehicle  involved  in  an  accident
-  which is parked, stopped, or standing on the shoulder of a highway
+  operator of a motor vehicle to exercise due care  to  avoid  colliding
+  with  a  motor  vehicle  which  is parked, stopped, or standing on the
+  shoulder of a parkway or a controlled-access highway
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 1144-a of the vehicle and traffic law,  as  amended
- by  chapter  458 of the laws of 2011, the section heading as amended and
- subdivision (c) as added by chapter 97 of the laws of 2016,  subdivision
- (a)  as  amended by chapter 248 of the laws of 2013, and subdivision (b)
- as amended by chapter 504 of the laws of 2022, is  amended  to  read  as
+  Section  1.  Section 1144-a of the vehicle and traffic law, as amended
+ by chapter 458 of the laws of 2011, the section heading as  amended  and
+ subdivision  (c) as added by chapter 97 of the laws of 2016, subdivision
+ (a) as amended by chapter 248 of the laws of 2013, and  subdivision  (b)
+ as  amended  by  chapter  504 of the laws of 2022, is amended to read as
  follows:
-  §  1144-a. Operation of vehicles when approaching a parked, stopped or
+  § 1144-a. Operation of vehicles when approaching a parked, stopped  or
  standing authorized emergency vehicle [or], hazard vehicle [or], vehicle
- displaying a blue or green light OR DISABLED VEHICLE. (a) Every operator
- of a motor vehicle shall exercise due care to avoid  colliding  with  an
- authorized emergency vehicle which is parked, stopped or standing on the
- shoulder  or  any  portion of such highway and such authorized emergency
- vehicle is displaying one or more  red  or  combination  red  and  white
- lights  pursuant  to  the  provisions  of  paragraph  two of subdivision
- forty-one of section three hundred seventy-five of this  chapter  or  is
- displaying  one  or  more  blue, combination blue and red or combination
- blue, red and white lights pursuant to the provisions of subparagraph  b
- of  paragraph  four  of  subdivision  forty-one of section three hundred
- seventy-five of this chapter. For operators of motor vehicles  on  park-
- ways or controlled access highways, such due care shall include, but not
- be limited to, moving from a lane which contains or is immediately adja-
+ displaying  a  blue or green light OR CERTAIN OTHER MOTOR VEHICLES.  (a)
+ Every operator of a motor vehicle  shall  exercise  due  care  to  avoid
+ colliding  with an authorized emergency vehicle which is parked, stopped
+ or standing on the shoulder or any portion  of  such  highway  and  such
+ authorized  emergency  vehicle is displaying one or more red or combina-
+ tion red and white lights pursuant to the provisions of paragraph two of
+ subdivision forty-one of section  three  hundred  seventy-five  of  this
+ chapter  or  is displaying one or more blue, combination blue and red or
+ combination blue, red and white lights pursuant  to  the  provisions  of
+ subparagraph  b  of  paragraph  four of subdivision forty-one of section
+ three hundred seventy-five of this chapter. For operators of motor vehi-
+ cles on parkways or controlled access  highways,  such  due  care  shall
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03232-01-3
- A. 1077  2
+  LBD03232-04-3
+ A. 1077--A  2
  
- cent  to the shoulder where such authorized emergency vehicle displaying
- one or more red, blue or white or  any  combination  of  red  and  white
- lights  or blue or combination blue and red or combination blue, red and
- white lights pursuant to the provisions of paragraph two or subparagraph
- b  of  paragraph four, as applicable of subdivision forty-one of section
- three hundred seventy-five of this chapter is parked, stopped or  stand-
- ing to another lane, provided that such movement otherwise complies with
- the  requirements  of  this  chapter  including, but not limited to, the
- provisions of sections eleven hundred  ten  of  this  title  and  eleven
- hundred twenty-eight of this title.
+ include,  but not be limited to, moving from a lane which contains or is
+ immediately adjacent to the shoulder  where  such  authorized  emergency
+ vehicle  displaying one or more red, blue or white or any combination of
+ red  and white lights or blue or combination blue and red or combination
+ blue, red and white lights pursuant to the provisions of  paragraph  two
+ or  subparagraph  b  of  paragraph  four,  as  applicable of subdivision
+ forty-one of section three  hundred  seventy-five  of  this  chapter  is
+ parked, stopped or standing to another lane, provided that such movement
+ otherwise  complies with the requirements of this chapter including, but
+ not limited to, the provisions of sections eleven hundred  ten  of  this
+ title and eleven hundred twenty-eight of this title.
   (b) Every operator of a motor vehicle shall exercise due care to avoid
  colliding  with a hazard vehicle which is parked, stopped or standing on
  the shoulder or on any portion of such highway and such  hazard  vehicle
@@ -120,9 +121,9 @@ S T A T E  O F  N E W  Y O R K
  shoulder or any portion of such highway. For operators of motor vehicles
  on  parkways or controlled access highways, such due care shall include,
  but not be limited to, moving from a lane which  contains  or  is  imme-
- diately  adjacent  to  the shoulder where such vehicle displaying a blue
- A. 1077  3
+ A. 1077--A  3
  
+ diately  adjacent  to  the shoulder where such vehicle displaying a blue
  light pursuant to the provisions of paragraph  four  or  a  green  light
  pursuant to the provisions of paragraph five of subdivision forty-one of
  section three hundred seventy-five of this chapter is parked, stopped or
@@ -130,16 +131,16 @@ S T A T E  O F  N E W  Y O R K
  with the requirements of this chapter including, but not limited to, the
  provisions  of  sections  eleven  hundred ten and eleven hundred twenty-
  eight of this title.
-  (D) EVERY OPERATOR OF A MOTOR VEHICLE SHALL EXERCISE DUE CARE TO AVOID
- COLLIDING WITH A DISABLED VEHICLE OR A  MOTOR  VEHICLE  INVOLVED  IN  AN
- ACCIDENT  WHICH  IS  PARKED,  STOPPED OR STANDING ON THE SHOULDER OR ANY
- PORTION OF SUCH HIGHWAY. FOR OPERATORS OF MOTOR VEHICLES ON PARKWAYS  OR
- CONTROLLED  ACCESS  HIGHWAYS,  SUCH  DUE  CARE SHALL INCLUDE, BUT NOT BE
+  (D) EVERY OPERATOR OF A MOTOR VEHICLE ON A  PARKWAY  AND  ON  A  CONT-
+ ROLLED-ACCESS  HIGHWAY SHALL EXERCISE DUE CARE TO AVOID COLLIDING WITH A
+ MOTOR VEHICLE WHICH IS PARKED, STOPPED OR STANDING ON  THE  SHOULDER  OR
+ ANY  PORTION  OF  SUCH  PARKWAY  OR  CONTROLLED-ACCESS  HIGHWAY. FOR THE
+ PURPOSES OF THIS SUBDIVISION, SUCH DUE CARE SHALL INCLUDE,  BUT  NOT  BE
  LIMITED TO, MOVING FROM A LANE WHICH CONTAINS OR IS IMMEDIATELY ADJACENT
- TO THE SHOULDER WHERE SUCH DISABLED VEHICLE OR MOTOR VEHICLE INVOLVED IN
- AN ACCIDENT IS PARKED, STOPPED OR STANDING  TO  ANOTHER  LANE,  PROVIDED
- THAT  SUCH  MOVEMENT  OTHERWISE  COMPLIES  WITH THE REQUIREMENTS OF THIS
- CHAPTER INCLUDING, BUT NOT LIMITED TO, THE PROVISIONS OF SECTIONS ELEVEN
- HUNDRED TEN AND ELEVEN HUNDRED TWENTY-EIGHT OF THIS TITLE.
+ TO  THE SHOULDER WHERE SUCH MOTOR VEHICLE IS PARKED, STOPPED OR STANDING
+ TO ANOTHER LANE, PROVIDED THAT SUCH MOVEMENT OTHERWISE COMPLIES WITH THE
+ REQUIREMENTS  OF  THIS  CHAPTER  INCLUDING,  BUT  NOT  LIMITED  TO,  THE
+ PROVISIONS  OF  SECTIONS  ELEVEN  HUNDRED TEN AND ELEVEN HUNDRED TWENTY-
+ EIGHT OF THIS TITLE.
   § 2. This act shall take effect on the one hundred eightieth day after
  it shall have become a law.
