@@ -1,6 +1,6 @@
 # Requires the small business revolving loan fund to target and market to veteran-owned enterprises and service disabled veteran-owned enterprises
 
-**Bill ID:** S1671A
+**Bill ID:** S1671AA
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires the small business revolving loan fund to target and market to veteran-
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1671
+  1671--A
  
   2023-2024 Regular Sessions
  
@@ -27,57 +27,58 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. ADDABBO -- read twice and ordered printed, and when
   printed to be committed to the Committee on Corporations,  Authorities
-  and Commissions
+  and  Commissions  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the New York state urban development corporation act, in
   relation to requiring the small business revolving loan fund to target
-  and  market to veteran-owned enterprises and service-disabled veteran-
+  and market to veteran-owned enterprises and service-disabled  veteran-
   owned enterprises
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision 3 of section 16-t of section 1 of chapter 174
- of the laws of 1968, constituting the New York state  urban  development
- corporation  act,  as  amended  by  chapter  254 of the laws of 2016, is
+  Section 1. Subdivision 3 of section 16-t of section 1 of  chapter  174
+ of  the  laws of 1968, constituting the New York state urban development
+ corporation act, as amended by chapter 254  of  the  laws  of  2016,  is
  amended to read as follows:
-  3. Program loans to small businesses  and  micro-businesses  shall  be
- targeted  and marketed to minority and women-owned enterprises, VETERAN-
- OWNED ENTERPRISES AS SET  FORTH  IN  15  U.S.C.  SECTION  632(Q)(3),  AS
- AMENDED  FROM  TIME  TO  TIME, AND SERVICE-DISABLED VETERAN-OWNED ENTER-
- PRISES AS SET FORTH IN ARTICLE SEVENTEEN-B OF  THE  EXECUTIVE  LAW,  and
- other  small  businesses and micro-businesses that are having difficulty
- accessing traditional credit markets. Program loans to small  businesses
- and  micro-businesses  shall  be  used for the creation and retention of
+  3.  Program  loans  to  small businesses and micro-businesses shall be
+ targeted and marketed to minority and women-owned enterprises,  VETERAN-
+ OWNED  ENTERPRISES  AS  SET  FORTH  IN  15  U.S.C. SECTION 632(Q)(3), AS
+ AMENDED FROM TIME TO TIME,  AND  SERVICE-DISABLED  VETERAN-OWNED  ENTER-
+ PRISES  AS SET FORTH IN ARTICLE THREE OF THE VETERANS' SERVICES LAW, and
+ other small businesses and micro-businesses that are  having  difficulty
+ accessing  traditional credit markets. Program loans to small businesses
+ and micro-businesses shall be used for the  creation  and  retention  of
  jobs, as defined by the corporation, including: (a) working capital; (b)
  the acquisition and/or improvement of real property; (c) the acquisition
- of machinery and equipment, property or improvement; or  (d)  the  refi-
- nancing  of  debt obligations. There shall be two categories of loans to
- small businesses and micro-businesses: a micro loan that  shall  have  a
- principal  amount  that  is less than twenty-five thousand dollars and a
- regular loan that shall have a principal amount not  less  than  twenty-
- five  thousand  dollars.  Prior  to receiving program funds, the lending
- organization must certify to the corporation  that  such  loan  complies
- with  this section and rules and regulations promulgated for the program
+ of  machinery  and  equipment, property or improvement; or (d) the refi-
+ nancing of debt obligations. There shall be two categories of  loans  to
+ small  businesses  and  micro-businesses: a micro loan that shall have a
+ principal amount that is less than twenty-five thousand  dollars  and  a
+ regular  loan  that  shall have a principal amount not less than twenty-
+ five thousand dollars. Prior to receiving  program  funds,  the  lending
+ organization  must  certify  to  the corporation that such loan complies
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04336-01-3
- S. 1671  2
+  LBD04336-03-3
+ S. 1671--A  2
  
+ with this section and rules and regulations promulgated for the  program
  and that the lending organization has performed its obligations pursuant
- to and is in compliance with this section, the program rules  and  regu-
+ to  and  is in compliance with this section, the program rules and regu-
  lations  and all agreements entered into between the corporation and the
- lending  organization.  The  program  funds  amount  used by the lending
- organization to fund a program applicant loan shall  not  be  more  than
- fifty  percent  of  the principal amount of such loan. The program funds
+ lending organization. The program  funds  amount  used  by  the  lending
+ organization  to  fund  a  program applicant loan shall not be more than
+ fifty percent of the principal amount of such loan.  The  program  funds
  amount used by the lending organization to fund a program applicant loan
- shall not be greater than one hundred and twenty-five thousand  dollars.
- Minority-  and  women-owned  business  enterprises, VETERAN-OWNED ENTER-
+ shall  not be greater than one hundred and twenty-five thousand dollars.
+ Minority- and women-owned  business  enterprises,  VETERAN-OWNED  ENTER-
  PRISES AS SET FORTH IN 15 U.S.C. SECTION 632(Q)(3), AS AMENDED FROM TIME
- TO TIME, AND SERVICE-DISABLED VETERAN-OWNED ENTERPRISES AS SET FORTH  IN
- ARTICLE  SEVENTEEN-B OF THE EXECUTIVE LAW, and other small businesses or
- micro-businesses who access such program loans  under  this  subdivision
+ TO  TIME, AND SERVICE-DISABLED VETERAN-OWNED ENTERPRISES AS SET FORTH IN
+ ARTICLE THREE OF THE VETERANS' SERVICES LAW, and other small  businesses
+ or micro-businesses who access such program loans under this subdivision
  shall  not  be  precluded from accessing such short-term financing loans
  provided under subdivision eleven of this section.
   § 2. This act shall take effect immediately.
