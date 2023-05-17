@@ -1,6 +1,6 @@
 # Prohibits contracts for the purchase or financing of a dog, cat, or rabbit from including provisions allowing repossession of the animal
 
-**Bill ID:** A4058B
+**Bill ID:** A4058BA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Prohibits contracts for the purchase or financing of a dog, cat, or rabbit from 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4058
+  4058--A
  
   2023-2024 Regular Sessions
  
@@ -26,32 +26,34 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Agriculture
+  Committee  on  Agriculture  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN ACT to amend the general business law,  in  relation  to  prohibiting
-  online  pet dealers from leasing and financing the sale or adoption of
-  an animal
+ AN  ACT  to  amend  the general business law, in relation to prohibiting
+  contracts for the purchase or financing of a dog, cat, or rabbit  from
+  including provisions allowing repossession of the animal
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The general business law is amended by adding a new section
- 753-g to read as follows:
-  §  753-G.  PROHIBITION OF LEASING OR FINANCING THE SALE OR ADOPTION OF
- AN ANIMAL. 1. AN ONLINE PET RETAILER SHALL NOT  OFFER,  BROKER,  MAKE  A
- REFERRAL  FOR,  OR OTHERWISE FACILITATE A LOAN OR OTHER FINANCING OPTION
- FOR THE ADOPTION OR SALE OF A DOG, CAT OR RABBIT.
-  2. FOR THE PURPOSES OF THIS SECTION, "ONLINE  PET  RETAILER"  MEANS  A
- PERSON  ENGAGED  IN  THE  BUSINESS  OF SELLING DOGS, CATS OR RABBITS, AT
- RETAIL, ONLINE THROUGH AN INTERNET WEBSITE.
-  3. THIS SECTION SHALL NOT APPLY TO A LOAN OR  OTHER  FINANCING  OPTION
- FOR THE PURCHASE OF A SERVICE ANIMAL.
+  Section 1. Section 753-e of the general  business  law,  as  added  by
+ chapter 272 of the laws of 2018, is amended to read as follows:
+  §  753-e.  Prohibited contracts. No contract for the purchase of a dog
+ [or a], cat, OR RABBIT, or the financing of such purchase shall  include
+ any  provisions  which authorize the use of a dog [or a], cat, OR RABBIT
+ as security where such dog [or], cat, OR RABBIT may  be  repossessed  by
+ the  seller  or lender contingent on the purchaser making payments under
+ such contract. Provided, however, nothing in this section shall prohibit
+ the purchase of a dog [or], cat, OR RABBIT through an unsecured personal
+ loan, nor be construed to limit the enforcement of other  provisions  of
+ this article, article [twenty-six-a] TWENTY-SIX-A of the agriculture and
+ markets law or other rights or remedies which are otherwise available to
+ all  parties  under any other law.  THE PROVISIONS OF THIS SECTION SHALL
+ APPLY TO THE SALE OF A DOG, CAT, OR RABBIT THROUGH AN ONLINE WEBSITE.
   § 2. This act shall take effect immediately.
-
- 
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02748-01-3
+  LBD02748-02-3
