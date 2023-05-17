@@ -1,6 +1,6 @@
 # Authorizes the North Shore Land Alliance, Inc. to file with the county of Nassau assessor an application for a retroactive real property tax exemption
 
-**Bill ID:** S6885A
+**Bill ID:** S6885AA
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the North Shore Land Alliance, Inc. to file with the county of Nassau
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6885
+  6885--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MARTINS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT in relation to authorizing the North Shore  Land  Alliance,  Inc.
   to file with the county of Nassau assessor an application for a retro-
   active real property tax exemption
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -39,8 +41,8 @@ S T A T E  O F  N E W  Y O R K
  the assessor of the county of Nassau is hereby authorized to accept from
  the North Shore Land Alliance, Inc. an application  for  exemption  from
  real  property  taxes pursuant to section 420-a of the real property tax
- law for the 2023-2024 assessment roll for all of  the  2023-2024  school
- taxes  and all of the 2024 general taxes for the parcel conveyed to such
+ law for the 2022-2023 assessment roll for all of  the  2022-2023  school
+ taxes  and all of the 2023 general taxes for the parcel conveyed to such
  organization located at Foxfield Lane, village of Oyster Bay Cove,  town
  of Oyster Bay, county of Nassau, otherwise known as Nassau county parcel
  ID  section  27 block G lots 1750 and 1751. If accepted, the application
@@ -60,4 +62,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11027-01-3
+ S  LBD11027-04-3
