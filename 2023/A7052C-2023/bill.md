@@ -1,6 +1,6 @@
 # Relates to joining multistate voter list maintenance organizations
 
-**Bill ID:** A7052C
+**Bill ID:** A7052CA
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Permits the state board of elections to join certain multistate voter list maint
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7052
+  7052--A
  
   2023-2024 Regular Sessions
  
@@ -26,105 +26,65 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. SILLITTI -- read once and referred to the Commit-
-  tee on Election Law
+  tee  on  Election  Law  -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend  the election law and the vehicle and traffic law, in
+ AN ACT to amend the election law and the vehicle  and  traffic  law,  in
   relation to joining multistate voter list maintenance organizations
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Legislative  findings and intent. A multistate voter list
- maintenance organization is a coordinating  entity  between  the  states
- that aids them in removing ineligible voters from their voter rolls. The
- Electronic  Registration  Information  Center (ERIC) is a public charity
- non-profit membership organization comprising 32 states and the District
- of Columbia. ERIC's purpose is to assist states in improving the accura-
- cy of America's voter rolls and increasing access to voter  registration
- for all eligible citizens. Keeping voter rolls up to date is a challenge
- because, every day, voters move or pass away. Voters don't always remem-
- ber  to  update  their registration. At least every 60 days, each member
- submits their voter registration data and licensing  and  identification
- data  from  departments of motor vehicles (DMV) to ERIC.  ERIC refers to
- this data as Member Data. ERIC's technical staff uses sophisticated data
- matching software to compare Member Data from all member  states,  some-
- times  with  data from other sources, to create the following four "list
- maintenance" reports. (1) Cross-State Movers Report:  Identifies  voters
- who  appear  to  have  moved  from one ERIC state to another using voter
- registration data and DMV data; (2) In-State Movers Report:  Identifies
- voters  who  appear to have moved within the state using voter registra-
- tion and department of motor vehicle data; (3) Duplicate Report:  Iden-
- tifies voters with duplicate registrations in the same state using voter
- registration  data;  and (4) Deceased Report: Identifies voters who have
- died using voter registration data and Social Security death data  known
- as  the  Limited Access Death Master File. As the official record of all
- eligible voters in a state, a state's voter registration rolls  are  the
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD10609-01-3
- A. 7052  2
- 
- foundation  of  free,  fair,  and  accurate elections. Illegal voting is
- exceedingly rare but maintaining accurate voter rolls reduces the oppor-
- tunity for such behavior and  it  helps  build  confidence  in  election
- outcomes.
-  § 2. Article 5 of the election law is amended by adding a new title 10
- to read as follows:
+  Section 1. Article 5 of the election law is amended by  adding  a  new
+ title 10 to read as follows:
   TITLE X
   MULTISTATE VOTER LIST MAINTENANCE ORGANIZATION MEMBERSHIP AUTHORIZATION
  SECTION 5-1000. JOINING  A  MULTISTATE  VOTER LIST MAINTENANCE ORGANIZA-
   TION.
-  5-1001. DESIGNATING A MEMBER REPRESENTATIVE.
-  5-1002. AUTHORIZATION TO SHARE REGISTRATION RECORDS WITH  MULTI-
+  5-1001. AUTHORIZATION TO SHARE REGISTRATION RECORDS WITH  MULTI-
   STATE VOTER LIST MAINTENANCE ORGANIZATION.
   §  5-1000.  JOINING  A MULTISTATE VOTER LIST MAINTENANCE ORGANIZATION.
- THE CO-CHAIRS OF THE STATE BOARD OF ELECTIONS MAY JOIN THE  STATE  AS  A
- MEMBER  IN  ONE  OR MORE MULTISTATE VOTER LIST MAINTENANCE ORGANIZATIONS
- INCLUDING, BUT NOT LIMITED TO, THE ELECTRONIC  REGISTRATION  INFORMATION
- CENTER  OR ITS SUCCESSOR. THE COMMISSIONER IS AUTHORIZED TO EXPEND FUNDS
- AS AVAILABLE FOR MEMBERSHIP FEES, DUES AND  OTHER  EXPENSES  RELATED  TO
- SUCH MEMBERSHIP.
-  §  5-1001.  DESIGNATING  A MEMBER REPRESENTATIVE. THE CO-CHAIRS OF THE
- STATE BOARD OF ELECTIONS SHALL DESIGNATE A MEMBER OF THE STATE BOARD  OF
- ELECTIONS  AS  A  REPRESENTATIVE TO THE BOARD OF DIRECTORS OF ANY MULTI-
- STATE VOTER LIST MAINTENANCE ORGANIZATION THAT THE STATE IS A MEMBER  OF
- INCLUDING,  BUT  NOT LIMITED TO, THE ELECTRONIC REGISTRATION INFORMATION
- CENTER OR ITS SUCCESSOR.
-  § 5-1002. AUTHORIZATION TO SHARE REGISTRATION RECORDS WITH  MULTISTATE
- VOTER  LIST  MAINTENANCE  ORGANIZATION.  1.  NOTWITHSTANDING ANY OTHER
- PROVISION OF LAW, THE MEMBER  REPRESENTATIVE  DESIGNATED  UNDER  SECTION
- 5-1001  OF  THIS  TITLE MAY PROVIDE TO THE MULTISTATE VOTER LIST MAINTE-
- NANCE ORGANIZATION THAT THEY ARE A MEMBER OF THE BOARD OF  DIRECTORS  OF
- THE  FOLLOWING INFORMATION FROM THE STATEWIDE VOTER REGISTRATION LIST AS
- DEFINED IN SECTION 5-614 OF THIS ARTICLE:
-  (A) ALL NAME FIELDS;
-  (B) ALL ADDRESS FIELDS;
-  (C) ACTIVITY DATES AS DEFINED BY THE MULTISTATE VOTER LIST MAINTENANCE
- ORGANIZATION'S BOARD OF DIRECTORS;
-  (D) AFFIRMATIVE DOCUMENTATION OF CITIZENSHIP,  PROVIDED,  HOWEVER,  NO
- DOCUMENTATION  SHALL  BE  SENT  TO ANY MULTISTATE VOTER LIST MAINTENANCE
- ORGANIZATION AFFIRMING THAT A PERSON IS NOT A CITIZEN; AND
-  (E) TYPE OF DOCUMENTATION OF CITIZENSHIP PRESENTED, IF ANY.
-  2. THE MEMBER REPRESENTATIVE DESIGNATED UNDER SECTION 5-1001  OF  THIS
- TITLE  MAY  ALSO  PROVIDE  ANY  INFORMATION TO THE MULTISTATE VOTER LIST
- MAINTENANCE ORGANIZATION PROVIDED TO SUCH MEMBER REPRESENTATIVE FROM THE
- DEPARTMENT OF MOTOR VEHICLES PURSUANT TO SECTION TWO HUNDRED  NINETEEN-A
- OF THE VEHICLE AND TRAFFIC LAW.
-  §  3.  The  vehicle and traffic law is amended by adding a new section
+ NEW YORK STATE MAY JOIN AS A MEMBER STATE  IN  ONE  OR  MORE  MULTISTATE
+ VOTER  LIST MAINTENANCE ORGANIZATIONS INCLUDING, BUT NOT LIMITED TO, THE
+ ELECTRONIC REGISTRATION INFORMATION CENTER OR ITS SUCCESSOR. THE COMMIS-
+ SIONER IS AUTHORIZED TO EXPEND FUNDS AS AVAILABLE FOR  MEMBERSHIP  FEES,
+ DUES AND OTHER EXPENSES RELATED TO SUCH MEMBERSHIPS.
+  §  5-1001. AUTHORIZATION TO SHARE REGISTRATION RECORDS WITH MULTISTATE
+ VOTER  LIST  MAINTENANCE  ORGANIZATION.  1.  NOTWITHSTANDING  ANY  OTHER
+ PROVISION OF LAW, THE STATE BOARD OF ELECTIONS MAY PROVIDE TO THE MULTI-
+ STATE VOTER LIST MAINTENANCE ORGANIZATION, OF WHICH THE STATE BOARD IS A
+ MEMBER, THE VOTER REGISTRATION INFORMATION REQUIRED BY THE ORGANIZATION,
+ AS SPECIFIED IN THE ORGANIZATION'S MEMBERSHIP AGREEMENT.
+  2.  THE  STATE BOARD OF ELECTIONS MAY  ALSO  PROVIDE TO THE MULTISTATE
+ VOTER LIST MAINTENANCE ORGANIZATION, TO  WHICH  THE  STATE  BOARD  IS  A
+ MEMBER,  ANY  INFORMATION  PROVIDED TO THEM FROM THE DEPARTMENT OF MOTOR
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10609-05-3
+ A. 7052--A  2
+ 
+ VEHICLES PURSUANT TO SECTION TWO HUNDRED  NINETEEN-A OF THE VEHICLE  AND
+ TRAFFIC LAW.
+  §  2.  The  vehicle and traffic law is amended by adding a new section
  219-a to read as follows:
   § 219-A. STATE MEMBERSHIP  IN  A  MULTISTATE  VOTER  LIST  MAINTENANCE
- ORGANIZATION.  1.  THE  COMMISSIONER  IS  AUTHORIZED  TO  PROVIDE TO THE
- STATE'S MEMBER REPRESENTATIVE TO A  MULTISTATE  VOTER  LIST  MAINTENANCE
- ORGANIZATION,  DESIGNATED  UNDER SECTION 5-1001 OF THE ELECTION LAW, THE
- FOLLOWING INFORMATION: (A) ALL NAME FIELDS; (B) ALL ADDRESS FIELDS;  (C)
- AFFIRMATIVE  DOCUMENTATION  OF CITIZENSHIP; (D) TYPE OF DOCUMENTATION OF
- CITIZENSHIP PRESENTED; (E) DMV ID NUMBER; (F) LAST FOUR  DIGITS  OF  THE
- VOTER'S  SOCIAL  SECURITY  NUMBER;  (G) CURRENT RECORD STATUS; (H) PHONE
- A. 7052  3
- 
- NUMBER; AND (I) E-MAIL ADDRESS, PROVIDED THAT THE CONDITIONS  AND  TERMS
- OF  MEMBERSHIP  ARE  CONSISTENT  WITH THE PROVISIONS OF THIS CHAPTER AND
- TITLE TEN OF ARTICLE FIVE OF THE ELECTION LAW PERTAINING TO SUCH MEMBER-
- SHIP OR RECIPROCAL RECOGNITION OF VEHICLE REGISTRATIONS.
+ ORGANIZATION.  FOR  THE  PURPOSES OF PARTICIPATING IN A MULTISTATE VOTER
+ LIST MAINTENANCE ORGANIZATION, AS AUTHORIZED IN SECTION  5-1001  OF  THE
+ ELECTION  LAW,  THE  COMMISSIONER  IS AUTHORIZED TO PROVIDE TO THE STATE
+ BOARD OF ELECTIONS ALL INFORMATION  REQUIRED  BY  THE  ORGANIZATION,  AS
+ SPECIFIED  IN THE ORGANIZATION'S MEMBERSHIP AGREEMENT, INCLUDING BUT NOT
+ LIMITED TO THE DRIVER'S:
+  1. DMV ID NUMBER;
+  2. LAST FOUR DIGITS OF THE DRIVER'S SOCIAL SECURITY NUMBER;
+  3. CURRENT RECORD STATUS;
+  4. PHONE NUMBER; AND
+  5. E-MAIL ADDRESS, PROVIDED THAT THE CONDITIONS AND TERMS  OF  MEMBER-
+ SHIP ARE CONSISTENT WITH THE PROVISIONS OF THIS CHAPTER AND TITLE TEN OF
+ ARTICLE FIVE OF THE ELECTION LAW PERTAINING TO SUCH MEMBERSHIP OR RECIP-
+ ROCAL RECOGNITION OF VEHICLE REGISTRATIONS.
+  §  3. New York state must make good faith efforts to join a multistate
+ voter list maintenance organization promptly after the effective date of
+ this act and must complete its registration with a multistate voter list
+ maintenance organization on or before December 31, 2025.
   § 4. This act shall take effect immediately.
