@@ -1,6 +1,6 @@
 # Relates to the minimum age for certain lifeguards
 
-**Bill ID:** S6467A
+**Bill ID:** S6467AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Provides that lifeguards at swimming pools, bathing beaches, and children's camp
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6467
+  6467--A
  
   2023-2024 Regular Sessions
  
@@ -26,38 +26,42 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
+  printed to be committed  to  the  Committee  on  Health  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the public health law, in relation to  the  minimum  age
+ AN  ACT  to  amend the public health law, in relation to the minimum age
   for lifeguards
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
   Section 1. Section 225 of the public health law is amended by adding a
  new subdivision 5-d to read as follows:
   5-D. THE STATE SANITARY CODE SHALL:
-  (A) REQUIRE ALL SWIMMING POOLS, BATHING BEACHES, AND CHILDREN'S  CAMPS
- TO EMPLOY QUALIFIED LIFEGUARDS THAT MEET THE FOLLOWING QUALIFICATIONS:
+  (A)  REQUIRE  THAT  ALL  LIFEGUARDS  EMPLOYED AT CHILDREN'S OVERNIGHT,
+ SUMMER DAY, AND TRAVELLING SUMMER DAY CAMPS AS DEFINED IN SECTION  THIR-
+ TEEN  HUNDRED  NINETY-TWO OF THIS CHAPTER, MEET THE FOLLOWING QUALIFICA-
+ TIONS:
   (I) BE AT LEAST SEVENTEEN YEARS OF AGE, EXCEPT:
-  (A)  A  MAXIMUM OF FIFTY PERCENT OF THE REQUIRED TOTAL NUMBER OF LIFE-
- GUARDS ON DUTY MAY BE AT LEAST FIFTEEN YEARS OF AGE  PROVIDED  THEY  ARE
- UNDER THE DIRECT SUPERVISION OF AN AQUATIC SUPERVISORY STAFF, SUPERVISO-
- RY  LIFEGUARD,  OR  CAMP  AQUATICS DIRECTOR AS REQUIRED BY PARTS SIX AND
+  (A) A MAXIMUM OF FIFTY PERCENT OF THE REQUIRED TOTAL NUMBER  OF  LIFE-
+ GUARDS  ON  DUTY  MAY BE AT LEAST FIFTEEN YEARS OF AGE PROVIDED THEY ARE
+ UNDER THE SUPERVISION OF A CAMP AQUATICS DIRECTOR AS  REQUIRED  BY  PART
  SEVEN OF THE STATE SANITARY CODE; AND
   (B) LIFEGUARDS REQUIRED FOR WILDERNESS SWIMMING MUST BE AT LEAST EIGH-
  TEEN YEARS OF AGE; AND
-  (II) MEET LIFEGUARDING, FIRST AID AND CPR  CERTIFICATION  REQUIREMENTS
- AS REQUIRED IN PARTS SIX AND SEVEN OF THE STATE SANITARY CODE; AND
+  (II)  MEET  LIFEGUARDING, FIRST AID AND CPR CERTIFICATION REQUIREMENTS
+ FOR MINIMUM LIFEGUARD SUPERVISION LEVELS AS REQUIRED IN  PARTS  SIX  AND
+ SEVEN OF THE STATE SANITARY CODE; AND
   (B)  REQUIRE  ALL QUALIFIED LIFEGUARDS WHILE ON DUTY AT THE WATERFRONT
  TO NOT BE ENGAGED IN DUTIES OR ACTIVITIES WHICH DISTRACT THEM  FROM  THE
  DIRECT SUPERVISION OF THE WATERFRONT.
-  §  2.  This  act  shall take effect on the ninetieth day it shall have
- become a law. Effective  immediately,  the  addition,  amendment  and/or
- repeal  of  any  rule  or regulation necessary for the implementation of
- this act on its effective date are authorized to be made  and  completed
+  §  2.  This  act shall take effect on the ninetieth day after it shall
+ have become a law. Effective immediately, the addition, amendment and/or
+ repeal of any rule or regulation necessary  for  the  implementation  of
+ this  act  on its effective date are authorized to be made and completed
  on or before such effective date.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10068-01-3
+  LBD10068-02-3
