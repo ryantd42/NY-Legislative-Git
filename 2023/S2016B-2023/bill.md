@@ -1,6 +1,6 @@
 # Aligns utility regulation with state climate justice and emission reduction targets; and repeals certain provisions of the public service law relating to gas service and sale
 
-**Bill ID:** S2016B
+**Bill ID:** S2016BA
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Aligns utility regulation with state climate justice and emission reduction targ
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2016
+  2016--A
  
   2023-2024 Regular Sessions
  
@@ -25,18 +25,21 @@ S T A T E  O F  N E W  Y O R K
   January 18, 2023
   ___________
  
- Introduced  by  Sens.  KRUEGER,  MAY,  BRISPORT,  BROUK, CLEARE, COONEY,
-  GIANARIS, GOUNARDES, HARCKHAM, HOYLMAN-SIGAL, KAVANAGH, MYRIE,  RAMOS,
-  RIVERA,  SALAZAR, STAVISKY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on  Energy  and  Telecommuni-
-  cations
-
- AN  ACT  to  amend  the public service law and the transportation corpo-
-  rations law, in relation to aligning  utility  regulation  with  state
-  climate justice and emission reduction targets; to repeal section 66-b
-  of the public service law relating to continuation of gas service; and
-  to  repeal section 66-g of the public service law relating to the sale
-  of indigenous natural gas for generation of electricity
+ Introduced  by  Sens.  KRUEGER,  MAY,  BRESLIN, BRISPORT, BROUK, CLEARE,
+  COONEY, FERNANDEZ, GIANARIS, GONZALEZ, GOUNARDES,  HARCKHAM,  HINCHEY,
+  HOYLMAN-SIGAL,  JACKSON, KAVANAGH, LIU, MYRIE, RAMOS, RIVERA, SALAZAR,
+  SEPULVEDA, SERRANO, STAVISKY, WEBB -- read twice and ordered  printed,
+  and  when printed to be committed to the Committee on Energy and Tele-
+  communications  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+ 
+ AN  ACT  to amend the public service law, the public authorities law and
+  the transportation corporations law, in relation to  aligning  utility
+  regulation  with state climate justice and emission reduction targets;
+  to repeal section 66-b of the public service law relating to continua-
+  tion of gas service; and to repeal section 66-g of the public  service
+  law  relating to the sale  of indigenous natural gas for generation of
+  electricity
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -56,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  emissions  in  our  state.  New York state's buildings also produce more
  local air pollution than any other state in the  country,  resulting  in
  negative health outcomes such as increased rates of asthma, particularly
- among  children,  and  heart disease. Therefore, reducing greenhouse gas
- emissions and toxic air pollution emitted  from  New  York's  buildings,
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02688-02-3
- S. 2016  2
+  LBD02688-06-3
+ S. 2016--A  2
  
+ among  children,  and  heart disease. Therefore, reducing greenhouse gas
+ emissions and toxic air pollution emitted  from  New  York's  buildings,
  especially  in disadvantaged communities, is necessary to meet the CLCPA
  mandates.
   3. To meet the state's bold climate and equity mandates, New York will
@@ -71,12 +74,11 @@ S T A T E  O F  N E W  Y O R K
  enable strategic planning and investments in neighborhood-scale building
  decarbonization and help bring the  statewide  gas  distribution  system
  into  alignment  with  the  two  thousand  thirty and two thousand fifty
- greenhouse gas emission reduction mandates in  article  seventy-five  of
- the  environmental  conservation  law  through  an orderly and equitable
- process, coordinated with appropriate investments in the electric system
- to ensure all New Yorkers have non-discriminatory, affordable access  to
- the  energy  needed  for heating, cooling, and powering the buildings in
- which they live and work.
+ greenhouse gas emission reduction  mandates  in  the  CLCPA  through  an
+ orderly  and equitable process, coordinated with appropriate investments
+ in the electric system to ensure all New Yorkers have  non-discriminato-
+ ry,  affordable  access  to  the energy needed for heating, cooling, and
+ powering the buildings in which they live and work.
   4. The New York public service  law  not  only  contains  barriers  to
  neighborhood-scale  building  decarbonization  solutions such as thermal
  energy networks, but also works  at  cross  purposes  with  the  state's
@@ -86,11 +88,10 @@ S T A T E  O F  N E W  Y O R K
  law  is  a  major  obstacle  to  utilities developing neighborhood-scale
  building decarbonization projects that would facilitate bringing the gas
  system into alignment with the two  thousand  thirty  and  two  thousand
- fifty greenhouse gas emission reduction mandates in article seventy-five
- of  the  environmental  conservation  law  in a manner that can mitigate
- costs for all utility customers, reduces greenhouse  gas  emissions  and
- co-pollutants impacting local air quality, and provides a transition for
- impacted workers.
+ fifty  greenhouse  gas  emission  reduction  mandates  in the CLCPA in a
+ manner that can mitigate costs for all utility customers, reduces green-
+ house gas emissions and co-pollutants impacting local air  quality,  and
+ provides a transition for impacted workers.
   b.  Statutorily  mandated  utility system extension allowances require
  existing ratepayers to subsidize  gas  infrastructure  hookups  for  new
  customers.  According  to  a recent joint filing with the Public Service
@@ -120,8 +121,8 @@ S T A T E  O F  N E W  Y O R K
  declared, but not yet achieved, a goal that  customers  should  not  pay
  more than 6% of their income for utility energy services, a number based
  on a nationally accepted standard.
- S. 2016  3
- 
+ S. 2016--A  3
+
   7.  Thus,  it  is  the  intent of the legislature to enact the NY Home
  Energy Affordable Transition Act for the following purposes:
   a.  to  ensure  that  the  public service law regarding regulation and
@@ -158,31 +159,31 @@ S T A T E  O F  N E W  Y O R K
  commission, which shall possess the powers and duties hereinafter speci-
  fied,  and also all powers necessary or proper to enable it to carry out
  the purposes of this chapter AND TO ENABLE ACHIEVEMENT  OF  THE  CLIMATE
- JUSTICE  AND  EMISSION REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE OF THE
- ENVIRONMENTAL CONSERVATION LAW, AND SUCH SUCCESSORS IN LAW AND  FUNCTION
- AS  MAY  ARISE  FROM TIME TO TIME.  The commission shall consist of five
- members, to be appointed by the governor, by and  with  the  advice  and
- consent  of the senate. A commissioner shall be designated as [chairman]
- CHAIRPERSON of the commission by the governor to serve in such  capacity
- at the pleasure of the governor or until his OR HER term as commissioner
- expires  whichever  first  occurs.  At least one commissioner shall have
- experience in utility consumer advocacy. No more than three  commission-
- ers  may  be  members  of  the  same political party unless, pursuant to
- action taken under subdivision  two  of  this  section,  the  number  of
- commissioners  shall  exceed  five,  and in such event no more than four
+ JUSTICE  AND  EMISSION  REDUCTION MANDATES IN CHAPTER ONE HUNDRED SIX OF
+ THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND  FUNC-
+ TION  AS  MAY  ARISE FROM TIME TO TIME.  The commission shall consist of
+ five members, to be appointed by the governor, by and  with  the  advice
+ and consent of the senate. A commissioner shall be designated as [chair-
+ man]  CHAIRPERSON  of  the  commission  by the governor to serve in such
+ capacity at the pleasure of the governor or until his  OR  HER  term  as
+ commissioner  expires  whichever first occurs. At least one commissioner
+ shall have experience in utility consumer advocacy. No more  than  three
+ commissioners  may be members of the same political party unless, pursu-
+ ant to action taken under subdivision two of this section, the number of
+ commissioners shall exceed five, and in such event  no  more  than  four
  commissioners may be members of the same political party.
-  § 4. Subdivisions 1 and 2 of section 5  of  the  public  service  law,
- subdivision  1  as  amended and subdivision 2 as added by chapter 155 of
- the laws of 1970, paragraph i of subdivision 1 as added by  chapter  375
+  §  4.  Subdivisions  1  and  2 of section 5 of the public service law,
+ subdivision 1 as amended and subdivision 2 as added by  chapter  155  of
+ the  laws  of 1970, paragraph i of subdivision 1 as added by chapter 375
  of the laws of 2022, are amended to read as follows:
-  1.  The  jurisdiction,  supervision,  powers  and duties of the public
+  1. The jurisdiction, supervision, powers  and  duties  of  the  public
  service commission shall extend under this chapter:
- S. 2016  4
+ S. 2016--A  4
  
   [b.]  A.  To  the  manufacture,  conveying,  transportation,  sale  or
- distribution  of  gas  (natural  or manufactured or mixture of both) and
- electricity for light, heat, COOLING, or power, to  gas  plants  and  to
- electric  plants  and  to the persons or corporations owning, leasing or
+ distribution of gas (natural or manufactured or  mixture  of  both)  and
+ electricity  for  light,  heat,  COOLING, or power, to gas plants and to
+ electric plants and to the persons or corporations  owning,  leasing  or
  operating the same.
   [c.]  B. To the manufacture, holding, distribution, transmission, sale
  or furnishing of steam for heat or power, to steam  plants  and  to  the
@@ -227,59 +228,89 @@ S T A T E  O F  N E W  Y O R K
  to  its  jurisdiction  to  formulate  and carry out long-range programs,
  individually or cooperatively,  for  the  performance  of  their  public
  service  responsibilities,  INCLUDING  THE  ACHIEVEMENT  OF  THE CLIMATE
- JUSTICE AND EMISSION REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE  OF  THE
- ENVIRONMENTAL  CONSERVATION  LAW, with economy, efficiency, and care for
- the public safety, the preservation  of  environmental  values  and  the
+ JUSTICE AND EMISSION REDUCTION MANDATES IN CHAPTER ONE  HUNDRED  SIX  OF
+ THE  LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND FUNC-
+ TION AS MAY ARISE FROM TIME TO TIME, with economy, efficiency, and  care
+ for  the public safety, the preservation of environmental values and the
  conservation of natural resources.
-  §  5.  Section 30 of the public service law, as amended by chapter 686
+  § 5. Section 30 of the public service law, as amended by  chapter  686
  of the laws of 2002, is amended to read as follows:
-  § 30. Residential gas, electric and  steam  service  policy.  1.  This
- article  shall  apply  to  the  provision of all or any part of the gas,
- S. 2016  5
+ S. 2016--A  5
  
- electric or steam service provided to any residential  customer  by  any
- gas,  electric  or steam and municipalities corporation or municipality.
- It is hereby declared to be the policy of this state that the  continued
- provision of [all or any part of such gas,] electric [and steam service]
- SERVICES  to  all  residential customers without unreasonable qualifica-
- tions or lengthy delays is necessary for the preservation of the  health
- and  general  welfare, IS CONSISTENT WITH THE ACHIEVEMENT OF THE STATE'S
- CLIMATE JUSTICE AND EMISSION REDUCTION MANDATES, and is  in  the  public
- interest.  IT IS FURTHER THE POLICY OF THIS STATE THAT GAS SERVICE FOR
+  § 30. Residential  gas,  electric  and  steam  service policy. 1. This
+ article shall apply to the provision of all or  any  part  of  the  gas,
+ electric  or  steam  service provided to any residential customer by any
+ gas, electric or steam and municipalities corporation  or  municipality.
+ It  is hereby declared to be the policy of this state that the continued
+ provision of [all or any part of such gas,] electric and steam [service]
+ SERVICES to all residential customers  without  unreasonable  qualifica-
+ tions  or lengthy delays is necessary for the preservation of the health
+ and general welfare, IS CONSISTENT WITH THE ACHIEVEMENT OF  THE  STATE'S
+ CLIMATE  JUSTICE  AND  EMISSION REDUCTION MANDATES, and is in the public
+ interest.  IT IS FURTHER THE POLICY OF THIS STATE THAT GAS  SERVICE  FOR
  EXISTING RESIDENTIAL CUSTOMERS MUST BE PROVIDED IN A MANNER THAT IS SAFE
  AND ADEQUATE, NOT UNJUSTLY DISCRIMINATORY OR UNDULY PREFERENTIAL, AND IN
- ALL RESPECTS JUST AND REASONABLE, WHILE PROVIDING FOR AN ORDERLY  RIGHT-
- SIZING  OF  THE  GAS DISTRIBUTION SYSTEM TO ACHIEVE CONSISTENCY WITH THE
- CLIMATE JUSTICE AND EMISSION REDUCTION MANDATES IN ARTICLE  SEVENTY-FIVE
- OF  THE  ENVIRONMENTAL  CONSERVATION  LAW,  PRIORITIZING LOW-TO-MODERATE
- INCOME CUSTOMERS AND DISADVANTAGED COMMUNITIES  AS  DEFINED  IN  ARTICLE
- SEVENTY-FIVE  OF  THE  ENVIRONMENTAL  CONSERVATION  LAW, AND ENCOURAGING
- NEIGHBORHOOD-SCALE TRANSITIONS.
+ ALL  RESPECTS JUST AND REASONABLE, WHILE PROVIDING FOR AN ORDERLY RIGHT-
+ SIZING OF THE GAS DISTRIBUTION SYSTEM TO ACHIEVE  CONSISTENCY  WITH  THE
+ CLIMATE  JUSTICE  AND EMISSION REDUCTION MANDATES IN CHAPTER ONE HUNDRED
+ SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND
+ FUNCTION AS MAY ARISE FROM TIME TO  TIME,  PRIORITIZING  LOW-TO-MODERATE
+ INCOME  CUSTOMERS  AND  DISADVANTAGED  COMMUNITIES AS DEFINED IN SECTION
+ 75-0101 OF THE ENVIRONMENTAL CONSERVATION LAW, AND ENCOURAGING NEIGHBOR-
+ HOOD-SCALE TRANSITIONS.
   2. THE COMMISSION SHALL REGULATE FOR THE CONTINUED  PROVISION  OF  GAS
  SERVICE  TO  ALL  EXISTING  RESIDENTIAL CUSTOMERS WHO CHOOSE TO CONTINUE
  SERVICE, UNLESS THE DISCONTINUANCE OF SERVICE IS PART OF  A  PROCESS  OF
  ORDERLY  RIGHT-SIZING OF THE GAS DISTRIBUTION SYSTEM TO ACHIEVE CONSIST-
- ENCY WITH THE CLIMATE JUSTICE AND EMISSION REDUCTION MANDATES IN ARTICLE
- SEVENTY-FIVE OF THE ENVIRONMENTAL CONSERVATION  LAW.  AS  PART  OF  SUCH
- PROCESS,  THE  COMMISSION SHALL TAKE ANY SUCH ACTION, AFTER NOTICE AND A
- HEARING, AS IS NECESSARY TO FACILITATE THE  ACHIEVEMENT  OF  CONSISTENCY
- WITH  THE  CLIMATE  JUSTICE  AND  EMISSION REDUCTION MANDATES IN ARTICLE
- SEVENTY-FIVE OF THE ENVIRONMENTAL CONSERVATION LAW, BUT IN DOING  SO  IT
- SHALL ACTIVELY ENCOURAGE A TRANSITION AWAY FROM FUELS WITH HIGH LIFE-CY-
- CLE GREENHOUSE GAS EMISSIONS AND ON-SITE CO-POLLUTANT EMISSIONS, ENCOUR-
- AGE  NEIGHBORHOOD-SCALE  TRANSITIONS,  AND  ENSURE  THAT ALL RESIDENTIAL
- CUSTOMERS HAVE ACCESS TO ELECTRICITY FOR HEATING  AND  COOLING  SERVICES
- WITHOUT  UNREASONABLE  QUALIFICATIONS,  UNREASONABLE  COSTS,  OR LENGTHY
- DELAYS, WITH A GOAL THAT LOW-TO-MODERATE INCOME  CUSTOMERS,  DEFINED  AS
- HOUSEHOLDS  WITH  ANNUAL  INCOMES AT OR BELOW EIGHTY PERCENT OF THE AREA
- MEDIAN INCOME OF THE COUNTY OR METRO AREA WHERE THEY  RESIDE,  INCLUDING
- THOSE WHO ARE ALREADY ELIGIBLE FOR THE COMMISSION'S ENERGY AFFORDABILITY
- PROGRAM,  ARE  ADEQUATELY  PROTECTED FROM BEARING ENERGY BURDENS GREATER
- THAN SIX PERCENT OF THEIR INCOME, INCLUDING ANY UNDUE BURDENS IMPOSED BY
- THE COST TO PURCHASE AND OPERATE ELECTRIC EQUIPMENT NEEDED TO FACILITATE
- THE ACHIEVEMENT OF THE CLIMATE JUSTICE AND EMISSION  REDUCTION  MANDATES
- IN ARTICLE SEVENTY-FIVE OF THE ENVIRONMENTAL CONSERVATION LAW.
-  § 6. Subdivisions  1, 3 and 4 of section 31 of the public service law,
+ ENCY WITH THE CLIMATE JUSTICE AND EMISSION REDUCTION MANDATES IN CHAPTER
+ ONE HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND  SUCH  SUCCES-
+ SORS  IN  LAW  AND  FUNCTION AS MAY ARISE FROM TIME TO TIME.  AS PART OF
+ SUCH PROCESS, THE COMMISSION SHALL TAKE ANY SUCH  ACTION,  AFTER  NOTICE
+ AND A HEARING, AS IS NECESSARY TO FACILITATE THE ACHIEVEMENT OF CONSIST-
+ ENCY WITH THE CLIMATE JUSTICE AND EMISSION REDUCTION MANDATES IN CHAPTER
+ ONE  HUNDRED  SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCES-
+ SORS IN LAW AND FUNCTION AS MAY ARISE FROM TIME TO TIME, BUT IN DOING SO
+ IT SHALL ACTIVELY ENCOURAGE A TRANSITION AWAY FROM FUELS WITH HIGH LIFE-
+ CYCLE GREENHOUSE  GAS  EMISSIONS  AND  ON-SITE  CO-POLLUTANT  EMISSIONS,
+ ENCOURAGE  NEIGHBORHOOD-SCALE  TRANSITIONS, AND ENSURE THAT ALL RESIDEN-
+ TIAL CUSTOMERS HAVE  ACCESS  TO  ELECTRICITY  FOR  HEATING  AND  COOLING
+ SERVICES  WITHOUT  UNREASONABLE  QUALIFICATIONS,  UNREASONABLE COSTS, OR
+ LENGTHY DELAYS, WITH  A  GOAL  THAT  LOW-TO-MODERATE  INCOME  CUSTOMERS,
+ DEFINED  AS HOUSEHOLDS WITH ANNUAL INCOMES AT OR BELOW EIGHTY PERCENT OF
+ THE AREA MEDIAN INCOME OF THE COUNTY OR METRO AREA  WHERE  THEY  RESIDE,
+ INCLUDING  THOSE  WHO  ARE  ALREADY ELIGIBLE FOR THE COMMISSION'S ENERGY
+ AFFORDABILITY PROGRAM, ARE  ADEQUATELY  PROTECTED  FROM  BEARING  ENERGY
+ BURDENS  GREATER  THAN  SIX PERCENT OF THEIR INCOME, INCLUDING ANY UNDUE
+ BURDENS IMPOSED BY THE COST TO PURCHASE AND OPERATE  ELECTRIC  EQUIPMENT
+ NEEDED TO FACILITATE THE ACHIEVEMENT OF THE CLIMATE JUSTICE AND EMISSION
+ REDUCTION  MANDATES  IN CHAPTER ONE HUNDRED SIX OF THE LAWS OF TWO THOU-
+ SAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND FUNCTION AS MAY ARISE FROM
+ TIME TO TIME.
+  § 6. Subdivision 1 of section 1020-cc of the public  authorities  law,
+ as  amended  by section 11 of part A of chapter 173 of the laws of 2013,
+ is amended to read as follows:
+  1. All contracts of the authority shall be subject to  the  provisions
+ of  the  state  finance law relating to contracts made by the state. The
+ authority shall also establish rules and  regulations  with  respect  to
+ providing  to  its residential gas, electric and steam utility customers
+ S. 2016--A  6
+ 
+ those rights and protections provided in article two  and  sections  one
+ hundred seventeen and one hundred eighteen of the public service law and
+ section  one  hundred  thirty-one-s  of  the  social services law.  THE
+ AUTHORITY  SHALL  ALSO  ENSURE  LOW-TO-MODERATE  INCOME  CUSTOMERS  ARE
+ ADEQUATELY PROTECTED  FROM  BEARING  ENERGY  BURDENS  GREATER  THAN  SIX
+ PERCENT OF THEIR INCOME PURSUANT TO SUBDIVISION TWO OF SECTION THIRTY OF
+ THE PUBLIC SERVICE LAW. The authority shall conform to any safety stand-
+ ards  regarding  manual  lockable disconnect switches for solar electric
+ generating equipment established by the public service commission pursu-
+ ant to subparagraph (ii)  of  paragraph  (a)  of  subdivision  five  and
+ subparagraph  (ii)  of  paragraph  (a)  of subdivision five-a of section
+ sixty-six-j of the public service law. The authority shall let contracts
+ for construction or purchase of supplies, materials, or equipment pursu-
+ ant to section one hundred three and paragraph (e) of  subdivision  four
+ of section one hundred twenty-w of the general municipal law.
+  §  7. Subdivisions 1, 3 and 4 of section 31 of the public service law,
  as added by chapter 713 of the laws of 1981,  are  amended  to  read  as
  follows:
   1.  Every  gas corporation, electric corporation or municipality shall
@@ -289,100 +320,101 @@ S T A T E  O F  N E W  Y O R K
  SUBJECT  TO  ANY  ORDERS  OR  REGULATIONS  LIMITING OR DISCONTINUING GAS
  SERVICE THAT  ARE  IMPLEMENTED  BY  THE  COMMISSION  TO  FACILITATE  THE
  ACHIEVEMENT  OF  CONSISTENCY  WITH  THE  CLIMATE  JUSTICE  AND  EMISSION
- REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE OF THE ENVIRONMENTAL  CONSER-
- VATION  LAW,  AND  PROVIDED FURTHER THAT the commission may require that
+ REDUCTION MANDATES IN CHAPTER ONE HUNDRED SIX OF THE LAWS OF  TWO  THOU-
+ SAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND FUNCTION AS MAY ARISE FROM
+ TIME  TO TIME, AND PROVIDED FURTHER THAT the commission may require that
  requests for service be in  writing  under  circumstances  as  it  deems
- S. 2016  6
- 
  necessary  and  proper  as set forth by regulation, and provided further
  that the applicant:
-  (a)  makes  full payment for residential utility service provided to a
+  (a) makes full payment for residential utility service provided  to  a
  prior account in [his] THE APPLICANT'S name; or
-  (b) agrees to make payments under  a  deferred  payment  plan  of  any
+  (b)  agrees  to  make  payments  under  a deferred payment plan of any
  amounts due for service to a prior account in [his] THE APPLICANT'S name
- and  makes  a  down  payment  based on criteria to be established by the
- commission. No such down payment shall exceed one-half of any money  due
+ and makes a down payment based on criteria  to  be  established  by  the
+ commission.  No such down payment shall exceed one-half of any money due
  from an applicant for residential utility service, or three months aver-
  age billing, whichever is less; or
-  (c)  is a recipient of public assistance, supplemental security income
- or additional state payments pursuant to the social services law, or  is
- an  applicant  for  such assistance, income or payments, and the utility
+  (c) is a recipient of public assistance, supplemental security  income
+ or  additional state payments pursuant to the social services law, or is
+ an applicant for such assistance, income or payments,  and  the  utility
  corporation or the municipality receives payment from, or is notified of
- the applicant's eligibility for utility payments by the social  services
- official  of  the  social services district in which such person resides
- for amounts due for service to a prior account in the applicant's  name,
- together  with  guarantee of future payments to the extent authorized by
+ the  applicant's eligibility for utility payments by the social services
+ official of the social services district in which  such  person  resides
+ for  amounts due for service to a prior account in the applicant's name,
+ together with guarantee of future payments to the extent  authorized  by
  the social services law; AND
   (D) RECEIVES CLEAR, TIMELY INFORMATION FROM THE GAS CORPORATION, ELEC-
  TRIC CORPORATION,  MUNICIPALITY, OR RETAIL ENERGY SERVICE COMPANY, WRIT-
  TEN IN PLAIN LANGUAGE, AVAILABLE IN THE TOP TWELVE MOST COMMON NON-ENGL-
- ISH LANGUAGES SPOKEN BY LIMITED  ENGLISH  PROFICIENT  NEW  YORKERS,  AND
- APPROVED  BY  THE  COMMISSION AFTER STAKEHOLDER INPUT, ON INCENTIVES AND
- OPPORTUNITIES FOR  INSTALLING,  ENERGY-EFFICIENT  ELECTRIC  HEATING  AND
+ ISH  LANGUAGES  SPOKEN  BY  LIMITED  ENGLISH PROFICIENT NEW YORKERS, AND
+ APPROVED BY THE COMMISSION AFTER STAKEHOLDER INPUT,  ON  INCENTIVES  AND
+ OPPORTUNITIES  FOR  INSTALLING,  ENERGY-EFFICIENT  ELECTRIC  HEATING AND
  COOLING  TECHNOLOGIES,  WEATHERIZATION,  DEMAND-SIDE  MANAGEMENT,  AND
  DISTRIBUTED ENERGY RESOURCE PROGRAMS.
-  (E) NOTHING IN THIS SUBDIVISION SHALL BE CONSTRUED TO PROHIBIT  EXIST-
+ S. 2016--A  7
+ 
+  (E)  NOTHING IN THIS SUBDIVISION SHALL BE CONSTRUED TO PROHIBIT EXIST-
  ING GAS CUSTOMERS, IN ACCORDANCE WITH SECTION THIRTY OF THIS ARTICLE AND
- SUBJECT  TO  ANY  OTHER  REGULATIONS IMPLEMENTED BY THE COMMISSION, FROM
+ SUBJECT TO ANY OTHER REGULATIONS IMPLEMENTED  BY  THE  COMMISSION,  FROM
  RECONNECTING TO THE GAS DISTRIBUTION SYSTEM FOLLOWING A GAS INTERRUPTION
  DUE TO EMERGENCY REPAIRS OR REMEDIATION OF LEAKING EQUIPMENT.
-  3. Subject to the requirements of subdivisions four and five  of  this
+  3.  Subject  to the requirements of subdivisions four and five of this
  section, AND IN ACCORDANCE WITH SECTION THIRTY OF THIS ARTICLE, whenever
- a  residential  customer  moves  to  a  new residence within the service
- territory of the same utility  corporation  or  municipality,  [he]  THE
- APPLICANT  shall be eligible to receive service at the new residence and
- such service shall be considered  a  continuation  of  service  [in  all
- respects]  AS OPERATIONALLY FEASIBLE BASED ON INFRASTRUCTURE AND COMMOD-
- ITY AVAILABILITY AT THE SITE OF THE NEW  RESIDENCE,  with  any  deferred
+ a residential customer moves to  a  new  residence  within  the  service
+ territory  of  the  same  utility  corporation or municipality, [he] THE
+ APPLICANT shall be eligible to receive service at the new residence  and
+ such  service  shall  be  considered  a  continuation of service [in all
+ respects] AS OPERATIONALLY FEASIBLE BASED ON INFRASTRUCTURE AND  COMMOD-
+ ITY  AVAILABILITY  AT  THE  SITE OF THE NEW RESIDENCE, with any deferred
  payment agreement honored, and with all rights of such customer and such
  utility corporation provided by this article unimpaired.
-  4.  In  the case of any application for service to a building which is
- not supplied with electricity or gas, a utility corporation  or  munici-
- pality  shall  be obligated to provide ELECTRIC service to such a build-
- ing, AND TO PROVIDE GAS SERVICE FOR SUCH A BUILDING IN  ACCORDANCE  WITH
+  4. In the case of any application for service to a building  which  is
+ not  supplied  with electricity or gas, a utility corporation or munici-
+ pality shall be obligated to provide ELECTRIC service to such  a  build-
+ ing,  AND  TO PROVIDE GAS SERVICE FOR SUCH A BUILDING IN ACCORDANCE WITH
  COMMISSION REGULATION, provided however, that the commission may require
- applicants  for  service  to buildings [located in excess of one hundred
+ applicants for service to buildings [located in excess  of  one  hundred
  feet from gas or electric transmission lines] to pay or agree in writing
- to pay material and  installation  costs  relating  to  the  applicant's
+ to  pay  material  and  installation  costs  relating to the applicant's
  proportion of the pipe, conduit, duct or wire, or other facilities to be
  installed.
-  §  7. Section 12 of the transportation corporations law, as separately
- amended by chapters 713 and 895 of the laws of 1981, is amended to  read
+  § 8. Section 12 of the transportation corporations law, as  separately
+ amended  by chapters 713 and 895 of the laws of 1981, is amended to read
  as follows:
- S. 2016  7
- 
-  §  12.  Gas and electricity must be supplied on application IN ACCORD-
- ANCE WITH COMMISSION RULES AND REGULATIONS. Except in  the  case  of  an
- application  for  residential utility service pursuant to article two of
- the public service law, upon written application of the owner  or  occu-
- pant  of  any  building  [within  one  hundred feet of any main of a gas
- corporation or gas and electric corporation, or a line  of  an  electric
- corporation  or gas and electric corporation, appropriate to the service
- requested,] and payment by [him] THE APPLICANT of  all  money  due  from
- [him]  THE  APPLICANT to the corporation, it shall supply [gas or] elec-
- tricity as may be required for  [lighting]  such  building  AND  IT  MAY
- PROVIDE  GAS FOR SUCH BUILDING IN ACCORDANCE WITH COMMISSION REGULATION,
- notwithstanding there be rent or compensation  in  arrears  for  gas  or
+  § 12. Gas and electricity must be supplied on application  IN  ACCORD-
+ ANCE  WITH  COMMISSION  RULES  AND REGULATIONS. Except in the case of an
+ application for residential utility service pursuant to article  two  of
+ the  public  service law, upon written application of the owner or occu-
+ pant of any building [within one hundred feet  of  any  main  of  a  gas
+ corporation  or  gas  and electric corporation, or a line of an electric
+ corporation or gas and electric corporation, appropriate to the  service
+ requested,]  and  payment  by  [him] THE APPLICANT of all money due from
+ [him] THE APPLICANT to the corporation, it shall supply [gas  or]  elec-
+ tricity  as  may  be  required  for  [lighting] such building AND IT MAY
+ PROVIDE GAS FOR SUCH BUILDING IN ACCORDANCE WITH COMMISSION  REGULATION,
+ notwithstanding  there  be  rent  or  compensation in arrears for gas or
  electricity supplied, or for meter, wire, pipe or fittings furnished, to
- a  former  occupant  thereof,  unless  such owner or occupant shall have
- undertaken or agreed with the former occupant to  pay  or  to  exonerate
+ a former occupant thereof, unless such  owner  or  occupant  shall  have
+ undertaken  or  agreed  with  the former occupant to pay or to exonerate
  [him] THEM from the payment of such arrears, and shall refuse or neglect
- to  pay  the  same; and if for the space of ten days after such applica-
- tion, and the deposit of a  reasonable  sum  as  provided  in  the  next
- section,  if required, the corporation shall refuse or neglect to supply
- gas or [electric light] ELECTRICITY as required, such corporation  shall
+ to pay the same; and if for the space of ten days  after  such  applica-
+ tion,  and  the  deposit  of  a  reasonable  sum as provided in the next
+ section, if required, the corporation shall refuse or neglect to  supply
+ gas  or [electric light] ELECTRICITY as required, such corporation shall
  forfeit and pay to the applicant the sum of ten dollars, and the further
- sum  of  five dollars for every day thereafter during which such refusal
- or neglect shall continue; provided that no such  corporation  shall  be
- required  to lay service pipes or wires for the purpose of supplying gas
- or electric light to any applicant where the ground in which  such  pipe
+ sum of five dollars for every day thereafter during which  such  refusal
+ or  neglect  shall  continue; provided that no such corporation shall be
+ required to lay service pipes or wires for the purpose of supplying  gas
+ or  electric  light to any applicant where the ground in which such pipe
  or wire is required to be laid shall be frozen, or shall otherwise pres-
- ent  serious  obstacles to laying the same; nor unless the applicant, if
- required, shall deposit in advance with the corporation a sum  of  money
- sufficient  to  pay the cost of [his proportion] THE APPLICANT'S PORTION
- of the pipe, conduit, duct or wire required to  be  installed,  and  the
+ ent serious obstacles to laying the same; nor unless the  applicant,  if
+ required,  shall  deposit in advance with the corporation a sum of money
+ S. 2016--A  8
+ 
+ sufficient to pay the cost of [his proportion] THE  APPLICANT'S  PORTION
+ of  the  pipe,  conduit,  duct or wire required to be installed, and the
  expense of the installation of such portion.
-  § 8. Subdivision 2 of section 66 of the public service law, as amended
+  § 9. Subdivision 2 of section 66 of the public service law, as amended
  by  chapter  877  of  the laws of 1953, is amended and a new subdivision
  12-e is added to read as follows:
   2. Investigate and ascertain, from time to time, the  quality  of  gas
@@ -407,8 +439,6 @@ S T A T E  O F  N E W  Y O R K
  acquiring  by  purchase, manufacture or otherwise a supply thereof to be
  mixed with such natural gas, in order to render adequate service to  the
  customers  of such corporation or to maintain a proper and uniform pres-
- S. 2016  8
- 
  sure; and have power after an investigation and a hearing to  order  any
  corporation  having  authority under any general or special law or under
  any charter or franchise, to lay down, erect or maintain  wires,  pipes,
@@ -433,25 +463,27 @@ S T A T E  O F  N E W  Y O R K
  PROVIDED  THAT  SUCH  CURTAILMENT  OR DISCONTINUANCE SHALL BE CONSISTENT
  WITH A PLAN FOR THE PHASE-OUT OF THE USE OF A GAS DISTRIBUTION SYSTEM TO
  ACHIEVE CONSISTENCY WITH THE  CLIMATE  JUSTICE  AND  EMISSION  REDUCTION
- MANDATES  IN ARTICLE SEVENTY-FIVE OF THE ENVIRONMENTAL CONSERVATION LAW,
- INCLUDING THE OPPORTUNITY FOR THE FULL RECOVERY OF THE UTILITY'S INVEST-
- MENT IN SUCH  SYSTEM,  ENCOURAGING  NEIGHBORHOOD-SCALE  TRANSITIONS  FOR
- CLEAN  HEATING  AND  COOLING,  PRIORITIZING DISADVANTAGED COMMUNITIES AS
- DEFINED IN ARTICLE SEVENTY-FIVE OF THE ENVIRONMENTAL  CONSERVATION  LAW,
- AND  ACCOMPANIED  BY  COORDINATION  ASSISTANCE  AND,  WHERE  REASONABLY
- REQUIRED, FINANCIAL ASSISTANCE IN THE  IDENTIFICATION  AND  ADOPTION  OF
- ALTERNATIVES,  AND  MAY  PROHIBIT  THE  USE  OF  NATURAL GAS IN WASTEFUL
- DEVICES AND PRACTICES, AS DEFINED BY THE COMMISSION, AND REQUIRE CONSER-
- VATION AND EFFICIENCY IN GAS USAGE.
+ MANDATES  IN  CHAPTER  ONE HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINE-
+ TEEN, AND SUCH SUCCESSORS IN LAW AND FUNCTION AS MAY ARISE FROM TIME  TO
+ TIME,  ENCOURAGING  NEIGHBORHOOD-SCALE TRANSITIONS FOR CLEAN HEATING AND
+ COOLING, PRIORITIZING DISADVANTAGED COMMUNITIES AS  DEFINED  IN  SECTION
+ S. 2016--A  9
+
+ 75-0101  OF THE ENVIRONMENTAL CONSERVATION LAW, AND ACCOMPANIED BY COOR-
+ DINATION ASSISTANCE AND, WHERE REASONABLY REQUIRED, FINANCIAL ASSISTANCE
+ IN THE IDENTIFICATION AND ADOPTION OF ALTERNATIVES, AND MAY PROHIBIT THE
+ USE  OF NATURAL GAS IN WASTEFUL DEVICES AND PRACTICES, AS DEFINED BY THE
+ COMMISSION, AND REQUIRE CONSERVATION AND EFFICIENCY IN GAS USAGE.
   12-E. THE COMMISSION SHALL REVIEW THE  CAPITAL  CONSTRUCTION  PLAN  OF
  EACH  GAS CORPORATION AND ESTABLISH A PROCESS TO EXAMINE FEASIBLE ALTER-
  NATIVES TO SUCH CONSTRUCTION IN ORDER TO ACHIEVE  CONSISTENCY  WITH  THE
- CLIMATE  JUSTICE AND EMISSION REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE
- OF THE ENVIRONMENTAL CONSERVATION  LAW,  ENCOURAGING  NEIGHBORHOOD-SCALE
+ CLIMATE  JUSTICE  AND EMISSION REDUCTION MANDATES IN CHAPTER ONE HUNDRED
+ SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND
+ FUNCTION AS MAY ARISE FROM TIME TO TIME, ENCOURAGING  NEIGHBORHOOD-SCALE
  TRANSITIONS  AWAY  FROM  FUELS WITH HIGH LIFE-CYCLE GREENHOUSE GAS EMIS-
  SIONS AND ON-SITE CO-POLLUTANT EMISSIONS,  PRIORITIZING  LOW-TO-MODERATE
- INCOME  CUSTOMERS  AND  DISADVANTAGED  COMMUNITIES AS DEFINED IN ARTICLE
- SEVENTY-FIVE OF THE ENVIRONMENTAL CONSERVATION LAW. SUCH  PROCESS  SHALL
+ INCOME  CUSTOMERS  AND  DISADVANTAGED  COMMUNITIES AS DEFINED IN SECTION
+ 75-0101 OF THE ENVIRONMENTAL  CONSERVATION  LAW.  SUCH  PROCESS  SHALL
  INCLUDE  THRESHOLDS  AND  CRITERIA  FOR THE TYPES OF PROJECTS SUBJECT TO
  SUCH EXAMINATION. THE COMMISSION SHALL  REQUIRE  PARTICIPATION  IN  SUCH
  PROCESS BY EACH ELECTRIC CORPORATION WITH A SERVICE AREA OVERLAPPING THE
@@ -461,15 +493,13 @@ S T A T E  O F  N E W  Y O R K
  ING. ANY COSTS INCURRED BY SUCH ELECTRIC  CORPORATION  FOR  SUCH  CORPO-
  RATION'S  PARTICIPATION  SHALL  BE  SUBJECT  TO  AN OPPORTUNITY FOR FULL
  RECOVERY, AS DETERMINED BY THE COMMISSION.
-  § 9. Section 66-a of the public service law, as added by chapter 7  of
+  § 10. Section 66-a of the public service law, as added by chapter 7 of
  the laws of 1948, subdivision 1 as amended and subdivision 3 as added by
  chapter 582 of the laws of 1975, subdivision 2 as amended by chapter 722
  of the laws of 1977, is amended to read as follows:
- S. 2016  9
- 
-  § 66-a. Conservation  of  gas,  declaration  of  policy, delegation of
- power.  1. It is hereby declared to be the policy  of  this  state  that
- when  there  develops  in  any area a situation under which a gas corpo-
+  § 66-a. Conservation of gas,  declaration  of  policy,  delegation  of
+ power.  1.  It  is hereby declared to be the policy of this state that
+ when there develops in any area a situation under  which  a  gas  corpo-
  ration supplying gas to such area is unable to meet the reasonable needs
  of  its  consumers  and  of  persons or corporations applying for new or
  additional gas service, the available supply of gas shall  be  allocated
@@ -487,73 +517,77 @@ S T A T E  O F  N E W  Y O R K
   2. Notwithstanding the provisions of any statute or any franchise held
  by a gas corporation, the commission shall have power, upon the  finding
  that CONTINUED GAS SERVICE IS NOT CONSISTENT WITH THE ACHIEVEMENT OF THE
- CLIMATE  JUSTICE AND EMISSION REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE
- OF THE ENVIRONMENTAL CONSERVATION LAW, OR THAT there exists such a shor-
- tage of gas in any area in the state, that the gas corporation supplying
- such area is unable and will be unable to secure or  produce  sufficient
- gas  to  meet  the  reasonable  needs of its customers and of persons or
- corporations applying for new or additional gas service, to require such
- corporation to immediately discontinue the supplying  of  gas  to  addi-
- tional  customers  or of supplying additional service to present custom-
- ers, for such purpose or purposes as may be designated  by  the  commis-
- sion,  or  to  customers  using  gas  for  a  purpose  prohibited by the
- commission pursuant to this act, and that  upon  the  finding  that  the
- supply  of  gas  available  is  and  will  be insufficient to supply the
- demands of all consumers receiving service, to require such  gas  corpo-
- ration  to  curtail  or  discontinue  service  to  any or all classes of
- customers of such gas corporation.  In  imposing  such  a  direction  or
- requirement,  the  commission shall give consideration first to existing
- domestic uses and uses deemed to  be  necessary  by  the  commission  to
- protect  public health and safety and to avoid undue hardship [and shall
- be limited to the period of the emergency provided that the  gas  corpo-
- ration  affected  shall  make such restriction, curtailing or discontin-
- uance applicable to all customers or applicants for service  in  a  like
+ CLIMATE  JUSTICE  AND EMISSION REDUCTION MANDATES IN CHAPTER ONE HUNDRED
+ SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND
+ FUNCTION AS MAY ARISE FROM TIME TO TIME, OR THAT  there  exists  such  a
+ shortage  of  gas  in  any  area  in the state, that the gas corporation
+ supplying such area is unable and will be unable to  secure  or  produce
+ sufficient  gas  to  meet  the  reasonable needs of its customers and of
+ persons or corporations applying for new or additional gas  service,  to
+ require such corporation to immediately discontinue the supplying of gas
+ S. 2016--A  10
+ 
+ to  additional  customers  or of supplying additional service to present
+ customers, for such purpose or purposes as  may  be  designated  by  the
+ commission,  or  to  customers using gas for a purpose prohibited by the
+ commission  pursuant  to  this  act,  and that upon the finding that the
+ supply of gas available is  and  will  be  insufficient  to  supply  the
+ demands  of  all consumers receiving service, to require such gas corpo-
+ ration to curtail or discontinue  service  to  any  or  all  classes  of
+ customers  of  such  gas  corporation.  In  imposing such a direction or
+ requirement, the commission shall give consideration first  to  existing
+ domestic  uses  and  uses  deemed  to  be necessary by the commission to
+ protect public health and safety and to avoid undue hardship [and  shall
+ be  limited  to the period of the emergency provided that the gas corpo-
+ ration affected shall make such restriction,  curtailing  or  discontin-
+ uance  applicable  to  all customers or applicants for service in a like
  class. If the commission determines that good cause exists for supplying
- service  to  additional customers or for supplying additional service to
- some existing customers, notwithstanding the curtailment  or  discontin-
- uance  of  service  to other existing customers, it shall, to the extent
+ service to additional customers or for supplying additional  service  to
+ some  existing  customers, notwithstanding the curtailment or discontin-
+ uance of service to other existing customers, it shall,  to  the  extent
  feasible, allocate gas with equal priority to new or additional domestic
- uses of gas and commercial or industrial  processes  which  require  gas
- because  there  is  no practical substitute for it in such proportion as
- the commission determines to be reasonable.  Provided that  the  commis-
- sion  shall be permitted, after public hearing, to authorize any natural
- gas produced from lands under the waters of Lake Erie  to  be  used  for
- process  or  feedstock  requirements].  The  commission is authorized to
+ uses  of  gas  and  commercial or industrial processes which require gas
+ because there is no practical substitute for it in  such  proportion  as
+ the  commission  determines to be reasonable.  Provided that the commis-
+ sion shall be permitted, after public hearing, to authorize any  natural
+ gas  produced  from  lands  under the waters of Lake Erie to be used for
+ process or feedstock requirements].  The  commission  is  authorized  to
  adopt such rules, regulations and orders as are necessary or appropriate
  to carry out these delegated powers.
-  3. In carrying out the delegated powers provided for in this  section,
+  3.  In carrying out the delegated powers provided for in this section,
  the commission shall, to the extent practicable, determine and establish
- S. 2016  10
- 
  gas conservation measures or standards, INCLUDING ENERGY EFFICIENT ELEC-
- TRIFICATION  OF GAS END USES. The commission may require compliance with
+ TRIFICATION OF GAS END USES. The commission may require compliance  with
  such measures or standards as a condition of receiving service.
   4.  THE COMMISSION SHALL DETERMINE CONDITIONS UNDER WHICH NEW OR ADDI-
  TIONAL GAS SERVICE IS WARRANTED NOTWITHSTANDING  THE  NEED  TO  CONSERVE
  RESOURCES  FOR  SERVICE  TO EXISTING GAS CUSTOMERS.  SUCH DETERMINATION
  SHALL BE CONSISTENT WITH THE ACHIEVEMENT  OF  THE  CLIMATE  JUSTICE  AND
- EMISSION REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE OF THE ENVIRONMENTAL
- CONSERVATION  LAW,  AND MAY TAKE INTO ACCOUNT FACTORS INCLUDING ECONOMIC
- DEVELOPMENT, IMPACTS ON NEW AND EXISTING CUSTOMERS INCLUDING LOW-TO-MOD-
- ERATE INCOME CUSTOMERS, IMPACTS ON SYSTEM SAFETY  AND  ADEQUACY,  EQUITY
- TOWARD  EXISTING CUSTOMERS WITH LIMITED CONVERSION ALTERNATIVES, AND THE
- FEASIBILITY OF NEIGHBORHOOD-SCALE ALTERNATIVES TO USAGE  OF  FUELS  WITH
- HIGH  LIFE-CYCLE GREENHOUSE GAS EMISSIONS AND ON-SITE CO-POLLUTANT EMIS-
- SIONS, INCLUDING THERMAL ENERGY NETWORKS.
-  5. THE COMMISSION SHALL  REQUIRE  GAS  AND/OR  ELECTRIC  UTILITIES  TO
- PROVIDE  COORDINATION ASSISTANCE AND FINANCIAL ASSISTANCE, IN SUCH FORMS
- AS THE COMMISSION DEEMS REASONABLY REQUIRED TO  IMPLEMENT  STATE  ENERGY
+ EMISSION  REDUCTION  MANDATES  IN CHAPTER ONE HUNDRED SIX OF THE LAWS OF
+ TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND  FUNCTION  AS  MAY
+ ARISE  FROM  TIME  TO  TIME, AND MAY TAKE INTO ACCOUNT FACTORS INCLUDING
+ ECONOMIC DEVELOPMENT, IMPACTS ON NEW AND  EXISTING  CUSTOMERS  INCLUDING
+ LOW-TO-MODERATE INCOME CUSTOMERS, IMPACTS ON SYSTEM SAFETY AND ADEQUACY,
+ EQUITY  TOWARD  EXISTING CUSTOMERS WITH LIMITED CONVERSION ALTERNATIVES,
+ AND THE FEASIBILITY OF NEIGHBORHOOD-SCALE ALTERNATIVES TO USAGE OF FUELS
+ WITH HIGH LIFE-CYCLE GREENHOUSE GAS EMISSIONS AND  ON-SITE  CO-POLLUTANT
+ EMISSIONS, INCLUDING THERMAL ENERGY NETWORKS.
+  5.  THE  COMMISSION  SHALL  REQUIRE  GAS  AND/OR ELECTRIC UTILITIES TO
+ PROVIDE COORDINATION ASSISTANCE AND FINANCIAL ASSISTANCE, IN SUCH  FORMS
+ AS  THE  COMMISSION  DEEMS REASONABLY REQUIRED TO IMPLEMENT STATE ENERGY
  POLICY, TO IDENTIFY AND ADOPT ALTERNATIVES WHERE APPLICATIONS FOR NEW OR
  ADDITIONAL GAS SERVICE ARE DENIED AND ENCOURAGE NEIGHBORHOOD-SCALE TRAN-
  SITIONS.
-  § 10. Section 66-b of the public service law is REPEALED.
-  §  11.  The public service law is amended by adding a new section 66-u
+  § 11. Section 66-b of the public service law is REPEALED.
+  § 12. The public service law is amended by adding a new  section  66-w
  to read as follows:
-  § 66-U.  EXPANSION  OF  GAS  DISTRIBUTION  INFRASTRUCTURE.  EXCEPT  AS
- PROVIDED  IN  THIS  SECTION,  AND NOTWITHSTANDING ANY OTHER PROVISION OF
- THIS CHAPTER, AFTER DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-FOUR,  NO
- GAS  CORPORATION  SHALL  COMMENCE  CONSTRUCTION  OF NEW GAS DISTRIBUTION
- INFRASTRUCTURE THE RESULT  OF WHICH WOULD BE TO EXPAND THE  AVAILABILITY
+  §  66-W.  EXPANSION  OF  GAS  DISTRIBUTION  INFRASTRUCTURE.  EXCEPT AS
+ PROVIDED IN THIS SECTION, AND NOTWITHSTANDING  ANY  OTHER  PROVISION  OF
+ S. 2016--A  11
+ 
+ THIS  CHAPTER, AFTER DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-FOUR, NO
+ GAS CORPORATION SHALL COMMENCE  CONSTRUCTION  OF  NEW  GAS  DISTRIBUTION
+ INFRASTRUCTURE  THE RESULT  OF WHICH WOULD BE TO EXPAND THE AVAILABILITY
  OF  SERVICE  INTO  GEOGRAPHIC  AREAS WHERE GAS SERVICE WAS NOT AVAILABLE
  PRIOR TO THAT DATE AS DEFINED BY THE APPLICABLE UTILITY'S CERTIFICATE OF
  PUBLIC CONVENIENCE AND NECESSITY APPROVED BY THE COMMISSION.  NO  SUCH
@@ -572,32 +606,32 @@ S T A T E  O F  N E W  Y O R K
  OR  A  MIXTURE  OF  BOTH) FOR LIGHT, HEAT OR POWER, BUT DOES NOT INCLUDE
  PROPERTY USED SOLELY FOR OR IN CONNECTION WITH THE BUSINESS OF  SELLING,
  DISTRIBUTING OR FURNISHING OF GAS IN ENCLOSED CONTAINERS.
-  § 12. Section 66-g of the public service law is REPEALED.
-  §  13.  The public service law is amended by adding a new section 77-a
+  § 13. Section 66-g of the public service law is REPEALED.
+  §  14.  The public service law is amended by adding a new section 77-a
  to read as follows:
   § 77-A. ALIGNING UTILITY REGULATION WITH CLIMATE JUSTICE AND  EMISSION
  REDUCTION  MANDATES.  1.  WITHIN THREE MONTHS OF THE EFFECTIVE DATE OF
  THIS SECTION, THE COMMISSION SHALL INITIATE A  PROCEEDING,  OR  MULTIPLE
  PROCEEDINGS, AS IT DEEMS APPROPRIATE, TO CONSIDER AND ACT ON THE MATTERS
  IDENTIFIED  IN  THIS  SECTION IN ORDER TO BETTER ALIGN ITS REGULATION OF
- UTILITY SERVICES WITH THE TIMELY ACHIEVEMENT  OF  CONSISTENCY  WITH  THE
- S. 2016  11
- 
- CLIMATE JUSTICE AND EMISSION REDUCTION  MANDATES IN ARTICLE SEVENTY-FIVE
- OF  THE  ENVIRONMENTAL CONSERVATION  LAW. IF THE COMMISSION IS  ALREADY
- ENGAGED IN A PROCEEDING ADDRESSING ONE OR MORE OF THE  MATTERS  IDENTI-
- FIED  IN THIS SECTION, IT SHALL NOT BE REQUIRED TO OPEN A NEW PROCEEDING
- ON THAT MATTER.  FOLLOWING  COMPLETION  OF  ALL  PROCEEDINGS  INITIATED
- PURSUANT  TO  THIS SECTION, THE COMMISSION SHALL INITIATE REGULAR SUBSE-
+ UTILITY SERVICES WITH THE TIMELY ACHIEVEMENT, OF  CONSISTENCY  WITH  THE
+ CLIMATE  JUSTICE  AND EMISSION REDUCTION MANDATES IN CHAPTER ONE HUNDRED
+ SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND
+ FUNCTION AS MAY ARISE FROM TIME TO TIME. IF THE COMMISSION IS  ALREADY
+ ENGAGED  IN  A PROCEEDING ADDRESSING ONE OR MORE OF THE  MATTERS IDENTI-
+ FIED IN THIS SECTION, IT SHALL NOT BE REQUIRED TO OPEN A NEW  PROCEEDING
+ ON  THAT  MATTER.  FOLLOWING  COMPLETION  OF ALL PROCEEDINGS INITIATED
+ PURSUANT TO THIS SECTION, THE COMMISSION SHALL INITIATE  REGULAR  SUBSE-
  QUENT  PROCEEDINGS,  AS  IT  DEEMS  NECESSARY, TO ENSURE  THE  ACHIEVE-
- MENT  OF  THE  GOALS  OUTLINED  IN THIS SECTION.  THE PROCEEDING OR
+ MENT  OF  THE  GOALS  OUTLINED  IN THIS SECTION.  THE  PROCEEDING  OR
  PROCEEDINGS SHALL INCLUDE:
   (A) WITHIN ONE YEAR OF THE EFFECTIVE DATE OF THIS SECTION, A REVIEW OF
- THE PUBLIC SERVICE LAW AND ITS CURRENT  RULES  AND  POLICY  GUIDANCE  TO
- IDENTIFY  ANY  LAW,  RULE, GUIDANCE, OR LACK THEREOF, THAT  MAY  INHIBIT
+ THE  PUBLIC  SERVICE  LAW  AND  ITS CURRENT RULES AND POLICY GUIDANCE TO
+ IDENTIFY ANY LAW, RULE, GUIDANCE, OR LACK THEREOF, THAT  MAY  INHIBIT
  TIMELY,  EQUITABLE  ACHIEVEMENT  OF  CONSISTENCY WITH THE  CLIMATE
- JUSTICE  AND EMISSION REDUCTION  MANDATES IN ARTICLE SEVENTY-FIVE OF THE
- ENVIRONMENTAL  CONSERVATION  LAW.  THE  COMMISSION  SHALL  REPORT TO THE
+ JUSTICE AND EMISSION REDUCTION MANDATES IN CHAPTER ONE  HUNDRED  SIX  OF
+ THE  LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND FUNC-
+ TION AS MAY ARISE FROM TIME TO TIME.  THE COMMISSION SHALL REPORT TO THE
  LEGISLATURE  ITS  PROGRESS  AND FINDINGS, IDENTIFY SUBSEQUENT ACTIONS IT
  WILL TAKE, AND MAKE RECOMMENDATIONS  FOR  ANY  STATUTORY  AMENDMENTS  OR
  OTHER  ACTIONS  THAT MAY  BE NEEDED TO FACILITATE THE TIMELY ACHIEVEMENT
@@ -607,7 +641,10 @@ S T A T E  O F  N E W  Y O R K
  ALLOWANCES FOR THE EXTENSION OF GAS AND  ELECTRIC  UTILITY  SERVICES  TO
  ENSURE  THAT UTILITY SERVICE IS PROVIDED IN A MANNER CONSISTENT WITH THE
  ACHIEVEMENT OF THE CLIMATE JUSTICE AND EMISSION  REDUCTION  MANDATES  IN
- ARTICLE  SEVENTY-FIVE  OF  THE ENVIRONMENTAL CONSERVATION LAW. IN ESTAB-
+ S. 2016--A  12
+ 
+ CHAPTER  ONE  HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH
+ SUCCESSORS IN LAW AND FUNCTION AS MAY ARISE FROM TIME TO TIME. IN ESTAB-
  LISHING RULES GOVERNING THE ALLOWANCE FOR THE EXTENSION OF GAS  SERVICE,
  THE  COMMISSION  SHALL  ELIMINATE  ALL  MAIN  AND SERVICE LINE EXTENSION
  ALLOWANCES FOR GAS SERVICE AND  MAY  INCREASE  ALLOWANCES  FOR  ELECTRIC
@@ -625,12 +662,13 @@ S T A T E  O F  N E W  Y O R K
  ISSUANCE OF THE ORDER, TO RESTRUCTURE ITS PLAN FOR ADDRESSING THE  LEAK-
  PRONE GAS MAINS AND SERVICE LINES ON ITS SYSTEM TO FACILITATE THE ORDER-
  LY  RIGHT-SIZING  OF  THE GAS DISTRIBUTION SYSTEM TO ACHIEVE CONSISTENCY
- WITH THE CLIMATE JUSTICE AND  EMISSION  REDUCTION  MANDATES  IN  ARTICLE
- SEVENTY-FIVE  OF  THE  ENVIRONMENTAL  CONSERVATION LAW WHILE MAINTAINING
- SAFETY AND RELIABILITY OF THE GAS SYSTEM, SUBJECT TO ALL RELEVANT FEDER-
- AL LAWS AND  REGULATIONS.  TO  ACCOMPLISH  THIS,  THE  COMMISSION  SHALL
- REQUIRE  EACH GAS CORPORATION, IN COORDINATION WITH ANY AND ALL ELECTRIC
- CORPORATIONS WITH OVERLAPPING SERVICE AREAS, TO PURSUE A  GEOGRAPHICALLY
+ WITH THE CLIMATE JUSTICE AND EMISSION REDUCTION MANDATES IN CHAPTER  ONE
+ HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN
+ LAW AND FUNCTION AS MAY ARISE FROM TIME TO TIME, WHILE MAINTAINING SAFE-
+ TY  AND  RELIABILITY  OF THE GAS SYSTEM, SUBJECT TO ALL RELEVANT FEDERAL
+ LAWS AND REGULATIONS. TO ACCOMPLISH THIS, THE COMMISSION  SHALL  REQUIRE
+ EACH  GAS  CORPORATION, IN COORDINATION WITH ANY AND ALL ELECTRIC CORPO-
+ RATIONS WITH OVERLAPPING  SERVICE  AREAS,  TO  PURSUE  A  GEOGRAPHICALLY
  TARGETED  APPROACH  TO  IMPLEMENTING ALTERNATIVE SOLUTIONS THAT MINIMIZE
  THE REPLACEMENT OF LEAK-PRONE GAS MAINS AND SERVICE LINES WHILE  ENCOUR-
  AGING  NEIGHBORHOOD-SCALE  FULL  BUILDING  ELECTRIFICATION,  INCLUDING
@@ -639,8 +677,6 @@ S T A T E  O F  N E W  Y O R K
  LINE. THE COMMISSION SHALL REQUIRE EACH GAS  CORPORATION,  AFTER  NOTICE
  AND  COMMENT,  TO  ESTABLISH  CRITERIA  FOR  EVALUATING WHETHER SPECIFIC
  SEGMENTS OF LEAK-PRONE MAINS AND SERVICE LINES ARE CANDIDATES FOR SUCH A
- S. 2016  12
- 
  GEOGRAPHICALLY TARGETED APPROACH AND TO EVALUATE THEIR ENTIRE  INVENTORY
  OF  LEAK-PRONE  PIPES  TO  CREATE A STRATEGIC DECOMMISSIONING RANKING IN
  WHICH IT RANKS THE SEGMENTS IN TERMS OF THE  ABILITY  TO  ELECTRIFY  ALL
@@ -656,12 +692,15 @@ S T A T E  O F  N E W  Y O R K
   (D)  IN ORDER TO MAXIMIZE THE COST SAVINGS AND BENEFITS OF THE TRANSI-
  TION OF THE ELECTRIC SYSTEM FOR THE EQUITABLE, ORDERLY,  AND  AFFORDABLE
  ACHIEVEMENT  OF  CONSISTENCY  WITH  THE  CLIMATE  JUSTICE  AND  EMISSION
- REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE OF THE ENVIRONMENTAL  CONSER-
- VATION  LAW,  WITHIN  ONE YEAR OF THE EFFECTIVE DATE OF THIS SECTION THE
+ REDUCTION MANDATES IN CHAPTER ONE HUNDRED SIX OF THE LAWS OF  TWO  THOU-
+ SAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND FUNCTION AS MAY ARISE FROM
+ TIME  TO TIME, WITHIN ONE YEAR OF THE EFFECTIVE DATE OF THIS SECTION THE
  COMMISSION SHALL ISSUE AN ORDER REQUIRING ALL ELECTRIC  CORPORATIONS  TO
  PURSUE  ALL  AVAILABLE ELECTRIC ENERGY EFFICIENCY AND DEMAND FLEXIBILITY
  MEASURES THAT  ARE  COST-EFFECTIVE,  RELIABLE,  AND  FEASIBLE.  NO  LESS
  FREQUENTLY  THAN  EVERY  THREE  YEARS, THE COMMISSION SHALL IDENTIFY THE
+ S. 2016--A  13
+ 
  STATEWIDE ACHIEVABLE POTENTIAL FOR ENERGY EFFICIENCY AND  DEMAND  FLEXI-
  BILITY  MEASURES FOR THE SUBSEQUENT TEN-YEAR PERIOD AND ESTABLISH ANNUAL
  ENERGY EFFICIENCY AND  DEMAND  FLEXIBILITY  TARGETS  FOR  EACH  ELECTRIC
@@ -671,37 +710,38 @@ S T A T E  O F  N E W  Y O R K
  SION SHALL COMPLETE A PROCEEDING TO DEVELOP AND ISSUE A REPORT  EVALUAT-
  ING  AND  CONSIDERING RATE MAKING STRATEGIES TO ENCOURAGE AND FACILITATE
  ACHIEVEMENT OF THE CLIMATE JUSTICE AND EMISSION  REDUCTION  MANDATES  IN
- ARTICLE  SEVENTY-FIVE OF THE ENVIRONMENTAL CONSERVATION LAW.  THE REPORT
- SHALL EXPLORE OPTIONS FOR DEVELOPING AND ASSESSING THE IMPACTS OF  RATES
- FOR  ELECTRIC, GAS, STEAM, AND THERMAL ENERGY NETWORKS ON TOTAL CUSTOMER
- ENERGY COSTS, AND SHALL EXPLORE OPTIONS FOR INTEGRATING COST SHARING AND
- RECOVERY ACROSS UTILITIES AND SERVICES. THE REPORT SHALL  ALSO  IDENTIFY
- STATUTORY  BARRIERS TO THE IMPLEMENTATION OF SUCH STRATEGIES. IN CONSID-
- ERING SUCH RATE MAKING STRATEGIES, THE COMMISSION SHALL HAVE A  GOAL  OF
- ENSURING  THAT  ALL  LOW-TO-MODERATE INCOME RESIDENTIAL CUSTOMERS PAY NO
- MORE THAN SIX PERCENT OF THEIR INCOME FOR ELECTRICITY.
+ CHAPTER  ONE  HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN, AND SUCH
+ SUCCESSORS IN LAW AND FUNCTION AS MAY ARISE FROM  TIME  TO  TIME.  THE
+ REPORT SHALL EXPLORE OPTIONS FOR DEVELOPING AND ASSESSING THE IMPACTS OF
+ RATES  FOR  ELECTRIC,  GAS,  STEAM, AND THERMAL ENERGY NETWORKS ON TOTAL
+ CUSTOMER ENERGY COSTS, AND SHALL EXPLORE OPTIONS  FOR  INTEGRATING  COST
+ SHARING  AND  RECOVERY  ACROSS  UTILITIES AND SERVICES. THE REPORT SHALL
+ ALSO IDENTIFY STATUTORY BARRIERS TO THE IMPLEMENTATION OF  SUCH  STRATE-
+ GIES.  IN  CONSIDERING SUCH RATE MAKING STRATEGIES, THE COMMISSION SHALL
+ HAVE A GOAL OF ENSURING  THAT  ALL  LOW-TO-MODERATE  INCOME  RESIDENTIAL
+ CUSTOMERS PAY NO MORE THAN SIX PERCENT OF THEIR INCOME FOR ELECTRICITY.
   (F) WITHIN ONE YEAR OF THE EFFECTIVE DATE OF THIS SECTION, THE COMMIS-
- SION SHALL DETERMINE, BASED  ON  THE  BEST  AVAILABLE  INFORMATION,  THE
- GREENHOUSE  GAS EMISSION REDUCTIONS NECESSARY TO BRING THE STATEWIDE GAS
+ SION  SHALL  DETERMINE,  BASED  ON  THE  BEST AVAILABLE INFORMATION, THE
+ GREENHOUSE GAS EMISSION REDUCTIONS NECESSARY TO BRING THE STATEWIDE  GAS
  DISTRIBUTION SYSTEM INTO ALIGNMENT WITH THE STATEWIDE TWO THOUSAND THIR-
- TY AND TWO THOUSAND FIFTY GREENHOUSE GAS EMISSION REDUCTION  TARGETS  IN
- ARTICLE  SEVENTY-FIVE  OF  THE  ENVIRONMENTAL  CONSERVATION LAW, AND SET
+ TY  AND  TWO THOUSAND FIFTY GREENHOUSE GAS EMISSION REDUCTION TARGETS IN
+ CHAPTER ONE HUNDRED SIX OF THE LAWS OF TWO THOUSAND NINETEEN,  AND  SUCH
+ SUCCESSORS  IN  LAW AND FUNCTION AS MAY ARISE FROM TIME TO TIME, AND SET
  INTERIM  EMISSION REDUCTION TARGETS FOR EACH  GAS  UTILITY  AS  WELL  AS
  DEVELOPING A PERIODIC PROCESS TO REVIEW AND UPDATE SUCH TARGETS;
   (G) WITHIN ONE YEAR OF THE EFFECTIVE DATE OF THIS SECTION, THE COMMIS-
  SION  SHALL REVISE ITS RULES AND REGULATIONS FOR CONDUCTING BENEFIT-COST
  ANALYSES SO THAT THE METHODOLOGY AND THE BASE  FINANCIAL  AND  FRAMEWORK
  ASSUMPTIONS  FOR THE ANALYSIS SUPPORT ACHIEVEMENT OF THE CLIMATE JUSTICE
- AND EMISSION REDUCTION MANDATES IN ARTICLE SEVENTY-FIVE OF THE  ENVIRON-
- MENTAL CONSERVATION LAW. SUCH REVISIONS SHALL INCLUDE, BUT NOT BE LIMIT-
- ED TO:
-  (1)  GREENHOUSE  GAS  EMISSION  REDUCTION  MANDATES SHALL BE USED AS A
- CONSTRAINT IN DESIGNING THE SCENARIOS TO BE ANALYZED SUCH THAT  ALL  THE
- S. 2016  13
- 
- SCENARIOS  SHALL  COMPLY  WITH  THE  STATUTORY  GREENHOUSE  GAS EMISSION
- REQUIREMENTS AND ANY INTERIM TARGETS SET BY THE DEPARTMENT  OF  ENVIRON-
- MENTAL  CONSERVATION OR THE COMMISSION  IN ORDER TO INTERNALIZE THE COST
+ AND EMISSION REDUCTION MANDATES IN CHAPTER ONE HUNDRED SIX OF  THE  LAWS
+ OF TWO THOUSAND NINETEEN, AND SUCH SUCCESSORS IN LAW AND FUNCTION AS MAY
+ ARISE  FROM  TIME  TO  TIME.  SUCH REVISIONS SHALL INCLUDE, BUT NOT BE
+ LIMITED TO:
+  (1) GREENHOUSE GAS EMISSION REDUCTION MANDATES  SHALL  BE  USED  AS  A
+ CONSTRAINT  IN  DESIGNING THE SCENARIOS TO BE ANALYZED SUCH THAT ALL THE
+ SCENARIOS SHALL  COMPLY  WITH  THE  STATUTORY  GREENHOUSE  GAS  EMISSION
+ REQUIREMENTS  AND  ANY INTERIM TARGETS SET BY THE DEPARTMENT OF ENVIRON-
+ MENTAL CONSERVATION OR THE COMMISSION  IN ORDER TO INTERNALIZE THE  COST
  OF ACHIEVING SUCH TARGETS IN THE BENEFIT-COST ANALYSIS.
   (2) QUANTIFICATION OF PUBLIC HEALTH IMPACTS FROM IMPROVEMENTS IN AMBI-
  ENT  AND INDOOR AIR QUALITY. WHEN QUANTITATIVE METRICS ARE NOT POSSIBLE,
@@ -717,21 +757,23 @@ S T A T E  O F  N E W  Y O R K
   (4) IN INSTANCES WHERE AN ALTERNATIVE FUEL HAS AN ENVIRONMENTAL ATTRI-
  BUTE, ONLY ATTRIBUTE ALTERNATIVE FUELS WITH EMISSION REDUCTION  BENEFITS
  UNDER  THE  BENEFIT-COST  ANALYSIS  IF  THE ENVIRONMENTAL ATTRIBUTES ARE
+ S. 2016--A  14
+ 
  RETAINED BY THE UTILITY FOR THE BENEFIT OF THE UTILITY'S CUSTOMERS OR BY
  THE END-USE CUSTOMER.
-  (5) USE ACCURATE DEPRECIATION SCHEDULES THAT ASSUME THE FULL VALUE  OF
+  (5)  USE ACCURATE DEPRECIATION SCHEDULES THAT ASSUME THE FULL VALUE OF
  ANY NEW GAS ASSET IS FULLY DEPRECIATED NO LATER THAN TWO THOUSAND FIFTY,
- ABSENT  DEMONSTRATION  THAT  THE  SPECIFIC  ASSET WILL REMAIN IN SERVICE
- BEYOND TWO THOUSAND FIFTY, AND EARLIER IF IT IS LIKELY THAT  SUCH  ASSET
- WILL  NEED  TO  BE PHASED OUT OR RETIRED BEFORE TWO THOUSAND FIFTY GIVEN
- ANY INTERIM GREENHOUSE GAS EMISSION REDUCTION TARGETS OR  GEOGRAPHICALLY
+ ABSENT DEMONSTRATION THAT THE SPECIFIC  ASSET  WILL  REMAIN  IN  SERVICE
+ BEYOND  TWO  THOUSAND FIFTY, AND EARLIER IF IT IS LIKELY THAT SUCH ASSET
+ WILL NEED TO BE PHASED OUT OR RETIRED BEFORE TWO  THOUSAND  FIFTY  GIVEN
+ ANY  INTERIM GREENHOUSE GAS EMISSION REDUCTION TARGETS OR GEOGRAPHICALLY
  TARGETED STRATEGIC ASSET RETIREMENT.
-  (6)  ASSESS  DEMOGRAPHIC  IMPACTS BY MEASURING WITH AS MUCH GEOGRAPHIC
+  (6) ASSESS DEMOGRAPHIC IMPACTS BY MEASURING WITH  AS  MUCH  GEOGRAPHIC
  GRANULARITY AS POSSIBLE AND CONSIDERING DIFFERENT LEVELS OF EXPOSURE AND
- RISK FACTORS FOR IMPACTS ON DISADVANTAGED COMMUNITIES  AND  OTHER  POPU-
+ RISK  FACTORS  FOR  IMPACTS ON DISADVANTAGED COMMUNITIES AND OTHER POPU-
  LATIONS WITH VULNERABILITY TO CHANGES INDUCED BY REGULATION.
   2. NOTHING IN THIS CHAPTER OR ANY OTHER LAW OF NEW YORK STATE SHALL BE
- INTERPRETED  OR  OTHERWISE  CONSTRUED  AS PREEMPTING A MUNICIPALITY FROM
+ INTERPRETED OR OTHERWISE CONSTRUED AS  PREEMPTING  A  MUNICIPALITY  FROM
  ADOPTING BUILDING CODES OR OTHER REGULATIONS REGARDING ON-SITE EMISSIONS
  FOR NEW AND EXISTING BUILDINGS WITHIN THEIR LOCALITIES.
-  § 14. This act shall take effect immediately.
+  § 15. This act shall take effect immediately.
