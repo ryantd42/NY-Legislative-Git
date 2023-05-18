@@ -1,0 +1,63 @@
+# Authorizes Chabad of Oceanside to receive a retroactive exemption from real property taxes
+
+**Bill ID:** S7133
+**Session:** 2023
+**Sponsor:** Patricia Canzoneri-Fitzpatrick
+**Status:** In Senate Committee
+
+## Summary
+
+Authorizes Chabad of Oceanside to receive a retroactive exemption from real property taxes.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7133
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 18, 2023
+  ___________
+ 
+ Introduced  by  Sen.  CANZONERI-FITZPATRICK  --  read  twice and ordered
+  printed, and when printed to be committed to the  Committee  on  Local
+  Government
+ 
+ AN  ACT  authorizing  Chabad  of  Oceanside  to  receive  a  retroactive
+  exemption from real property taxes
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Notwithstanding any other provision of law to the contrary,
+ the assessor of the county of Nassau is hereby authorized to accept from
+ Chabad  of  Oceanside  an  application  for exemption from real property
+ taxes pursuant to section 420-a  of  the  real  property  tax  law  with
+ respect  to the 2020-2021 assessment roll for a portion of the 2020-2021
+ school taxes and all of the 2020 general taxes for the  parcel  conveyed
+ to  such  organization  located at 3700 Oceanside Road, in the hamlet of
+ Oceanside, town of Hempstead,  county  of  Nassau,  otherwise  known  as
+ Nassau  county  parcel  ID  section 60 block 90 lot 27. If accepted, the
+ application shall be reviewed as if it had been received  on  or  before
+ the taxable status date established for such roll.
+  If  satisfied  that  such  organization would otherwise be entitled to
+ such exemption  if  such  organization  had  filed  an  application  for
+ exemption  by  the  appropriate  taxable status date, the assessor, upon
+ approval  by  the  Nassau  county  legislature,  may  make  appropriate
+ correction  to  the subject rolls. If such exemption is granted and such
+ organization, therefore, shall have paid any tax  with  respect  to  the
+ subject  rolls,  the applicable governing body or tax department may, in
+ its sole discretion, provide for the refund  of  those  taxes  paid  and
+ cancel  those  taxes,  fines,  penalties,  liens  or  interest remaining
+ unpaid.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00363-01-3
