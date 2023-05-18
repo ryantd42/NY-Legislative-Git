@@ -1,6 +1,6 @@
 # Relates to distinctive license plates issued to congressional medal of honor recipients
 
-**Bill ID:** A3305BA
+**Bill ID:** A3305BB
 **Session:** 2023
 **Sponsor:** Sarah Clark
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Provides for the issuance of distinctive license plates to the spouse of a congr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3305--A
+  3305--B
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of A. CLARK, JENSEN -- read once and referred to the
   Committee on Transportation --  committee  discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
- 
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  again reported from said committee with amendments, ordered  reprinted
+  as amended and recommitted to said committee
+
  AN  ACT to amend the vehicle and traffic law, in relation to distinctive
   license plates issued to congressional medal of honor recipients
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -42,11 +44,10 @@ S T A T E  O F  N E W  Y O R K
  laws of 2001, is amended to read as follows:
   §  404-p.  Distinctive plates for congressional medal of honor recipi-
  ents. 1. Any congressional medal of honor  recipient  residing  in  this
- state, THE SPOUSE OF ANY  SUCH RECIPIENT, OR THE SURVIVING SPOUSE OF ANY
- SUCH  DECEASED RECIPIENT, shall, upon request, be issued a license plate
- bearing the words "congressional medal of  honor".  IF  A  DISTINCTIVE
- LICENSE  PLATE  IS  ISSUED  TO  A CONGRESSIONAL MEDAL OF HONOR RECIPIENT
- PURSUANT TO THIS SECTION, ADDITIONAL DISTINCTIVE LICENSE PLATES  MAY  BE
+ state  OR  THE  SPOUSE  OF  ANY  SUCH RECIPIENT shall, upon request, be
+ issued a license plate bearing the words "congressional medal of honor".
+ IF A DISTINCTIVE PLATE IS ISSUED  TO  A  CONGRESSIONAL  MEDAL  OF  HONOR
+ RECIPIENT PURSUANT TO THIS SECTION, ADDITIONAL DISTINCTIVE PLATES MAY BE
  ISSUED  FOR  EVERY  VEHICLE  REGISTERED IN THE NAME OF THE CONGRESSIONAL
  MEDAL OF HONOR RECIPIENT RESIDING IN THIS STATE OR THE  SPOUSE  OF  SUCH
  CONGRESSIONAL  MEDAL  OF  HONOR  RECIPIENT. Application for said license
@@ -54,12 +55,13 @@ S T A T E  O F  N E W  Y O R K
  the commissioner shall prescribe.
   2. The distinctive plate authorized herein shall be issued upon proof,
  satisfactory  to  the  commissioner, that the applicant OR THE SPOUSE OF
- SUCH APPLICANT is a congressional medal of honor recipient.
+ THE APPLICANT is a congressional medal of honor recipient.
   3. A distinctive plate issued pursuant to this section shall be issued
  in the same manner as other number plates, provided,  however,  that  no
  registration fee or service charge shall be charged for such plate.
-  § 3. This act shall take effect immediately.
+  §  3.  This  act shall take effect on the thirtieth day after it shall
+ have become a law.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02686-03-3
+  LBD02686-05-3
