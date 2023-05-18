@@ -1,6 +1,6 @@
 # Relates to land used in agricultural production
 
-**Bill ID:** A3786A
+**Bill ID:** A3786AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Includes certain land that is owned or rented as a farm operation for the produc
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3786
+  3786--A
  
   2023-2024 Regular Sessions
  
@@ -26,38 +26,73 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. GUNTHER -- read once and referred to the Commit-
-  tee on Agriculture
+  tee on Agriculture --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the agriculture and markets law,  in  relation  to  land
+ AN  ACT  to  amend  the agriculture and markets law, in relation to land
   used in agricultural production
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section 1. The opening paragraph of subdivision 4 of  section  301  of
- the  agriculture  and markets law, as amended by chapter 344 of the laws
- of 2012, is amended to read as follows:
-  "Land used in agricultural production" means not less than seven acres
- of land used as a single operation in the preceding two  years  for  the
- production  for  sale  of  crops,  livestock or livestock products of an
- average gross sales value of ten thousand dollars or more; or, not  less
- than  seven  acres  of land used in the preceding two years to support a
- commercial horse boarding operation or  a  commercial  equine  operation
- with annual gross receipts of ten thousand dollars or more. Land used in
- agricultural  production shall not include land or portions thereof used
- for processing or retail merchandising of such crops, livestock or live-
- stock products, PROVIDED, HOWEVER, THAT THIS EXCLUSION SHALL  NOT  APPLY
- TO  FIELD  CROPS  GROWN  AND CONSUMED ON A FARM BY ANIMALS ON SUCH FARM.
- Land used in agricultural production shall also include:
-  § 2. This act shall take effect on the thirtieth day  after  it  shall
- have  become  a  law and shall apply to assessment rolls prepared on the
- basis of a taxable status date occurring on or after such  date.  Effec-
- tive  immediately,  the addition, amendment and/or repeal of any rule or
- regulation necessary for the implementation of this act on its effective
- date are authorized to be made and completed on or before such effective
- date.
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
  
+  Section 1. Subdivision 4 of section 301 of the agriculture and markets
+ law is amended by adding two new paragraphs o and p to read as follows:
+  O.  LAND THAT IS OWNED OR RENTED AS A FARM OPERATION FOR THE PRECEDING
+ TWO YEARS FOR THE PRODUCTION FOR SALE OF CROPS, LIVESTOCK  OR  LIVESTOCK
+ PRODUCTS,  THAT  CONSISTS OF (1) NOT LESS THAN SEVEN ACRES AND AN ANNUAL
+ GROSS SALES VALUE OF FIVE THOUSAND DOLLARS OR MORE;  OR  (2)  LESS  THAN
+ SEVEN  ACRES  AND  AN  ANNUAL  GROSS SALES VALUE OF THIRTY-FIVE THOUSAND
+ DOLLARS OR MORE. SUCH FARM OPERATION SHALL ALSO  BE  ABLE  TO  ESTABLISH
+ THAT  THE  FARM  OPERATION  WILL MEET THE GROSS SALES VALUE REQUIREMENTS
+ DESCRIBED IN PARAGRAPH F OF  THIS  SUBDIVISION  WITHIN  THREE  YEARS  OF
+ ATTAINING  AN  AGRICULTURAL ASSESSMENT. THE COMMISSIONER OR THE ADVISORY
+ BOARD ESTABLISHED PURSUANT TO SECTION THREE HUNDRED NINE-A OF THIS ARTI-
+ CLE SHALL CREATE A SET OF METRICS AND CONSIDERATIONS USED  BY  ASSESSORS
+ TO DETERMINE WHETHER THE FARM OPERATION WILL MEET SUCH GROSS SALES VALUE
+ REQUIREMENT  WITHIN  THREE  YEARS.  ASSESSORS SHALL USE SUCH METRICS AND
+ CONSIDERATIONS AND SHALL GIVE SPECIAL CONSIDERATION TO  FARM  OPERATIONS
+ THAT  WERE AWARDED ANY STATE OR FEDERAL GRANTS, IN PARTICULAR GRANTS FOR
+ BEGINNING FARMERS AND GRANTS FOR ECONOMICALLY AND SOCIALLY DISADVANTAGED
+ FARMERS. THE COMMISSIONER OR THE ADVISORY BOARD ESTABLISHED PURSUANT  TO
+ SECTION  THREE  HUNDRED  NINE-A  OF  THIS ARTICLE SHALL MONITOR THE FARM
+ OPERATION'S PROGRESS, AS WELL AS CONNECT TO RESOURCES TO ENSURE THE FARM
+ OPERATION MEETS THE GROSS SALES VALUE REQUIREMENT WITHIN THE TIME ALLOT-
+ TED. LAND THAT RECEIVES AN AGRICULTURAL ASSESSMENT AND IS UNABLE TO MEET
+ THE REQUIRED GROSS SALES VALUE WITHIN THREE YEARS AS DESCRIBED  IN  THIS
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04380-01-3
+  LBD04380-05-3
+ A. 3786--A  2
+ 
+ PARAGRAPH  SHALL  NO  LONGER BE CONSIDERED LAND  USED  IN AGRICULTURAL
+ PRODUCTION PURSUANT TO THIS SUBDIVISION.
+  P.  LAND  OF  NOT  LESS  THAN SEVEN ACRES THAT IS OWNED OR RENTED BY A
+ NEWLY ESTABLISHED FARM OPERATION FOR THE PRODUCTION FOR SALE  OF  CROPS,
+ LIVESTOCK  OR LIVESTOCK PRODUCTS IN ITS FIRST OR SECOND YEAR OF AGRICUL-
+ TURAL PRODUCTION, WHICH DOES NOT INDEPENDENTLY SATISFY THE  GROSS  SALES
+ VALUE  REQUIREMENT,  BUT IS ABLE TO ESTABLISH THAT THE FARMING OPERATION
+ WILL MEET THE GROSS SALES VALUE REQUIREMENTS DESCRIBED IN PARAGRAPH F OF
+ THIS SUBDIVISION WITHIN FIVE YEARS OF ATTAINING AN AGRICULTURAL  ASSESS-
+ MENT.  THE  COMMISSIONER  OR  THE ADVISORY BOARD ESTABLISHED PURSUANT TO
+ SECTION THREE HUNDRED NINE-A OF THIS  ARTICLE  SHALL  CREATE  A  SET  OF
+ METRICS  AND  CONSIDERATIONS  USED BY ASSESSORS TO DETERMINE WHETHER THE
+ FARM OPERATION WILL MEET SUCH GROSS SALES VALUE REQUIREMENT WITHIN  FIVE
+ YEARS.  ASSESSORS  SHALL  USE  SUCH METRICS AND CONSIDERATIONS AND SHALL
+ GIVE SPECIAL CONSIDERATION TO FARM  OPERATIONS  THAT  WERE  AWARDED  ANY
+ STATE  OR FEDERAL GRANTS, IN PARTICULAR GRANTS FOR BEGINNING FARMERS AND
+ GRANTS FOR ECONOMICALLY AND SOCIALLY DISADVANTAGED FARMERS. THE  COMMIS-
+ SIONER  OR  THE  ADVISORY  BOARD  ESTABLISHED  PURSUANT TO SECTION THREE
+ HUNDRED NINE-A OF  THIS  ARTICLE  SHALL  MONITOR  THE  FARM  OPERATION'S
+ PROGRESS  AS  WELL  AS CONNECT TO RESOURCES TO ENSURE THE FARM OPERATION
+ MEETS THE GROSS SALES VALUE REQUIREMENT WITHIN THE TIME  ALLOTTED.  LAND
+ THAT  RECEIVES  AN  AGRICULTURAL  ASSESSMENT  AND  IS UNABLE TO MEET THE
+ REQUIRED GROSS SALES VALUE IN FIVE YEARS AS DESCRIBED IN THIS  PARAGRAPH
+ SHALL  NO  LONGER  BE  CONSIDERED  LAND  USED IN AGRICULTURAL PRODUCTION
+ PURSUANT TO THIS SUBDIVISION.
+  § 2. This act shall take effect one year after it shall have become  a
+ law and shall apply to assessment rolls prepared on the basis of a taxa-
+ ble  status date occurring on or after such date. Effective immediately,
+ the addition, amendment and/or repeal of any rule or  regulation  neces-
+ sary  for  the  implementation  of  this  act  on its effective date are
+ authorized to be made and completed on or before such effective date.
