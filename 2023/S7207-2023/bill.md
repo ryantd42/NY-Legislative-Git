@@ -1,0 +1,67 @@
+# Establishes the office of financial resilience
+
+**Bill ID:** S7207
+**Session:** 2023
+**Sponsor:** Kevin S. Parker
+**Status:** In Senate Committee
+
+## Summary
+
+Establishes the office of financial resilience to develop and implement new programs and initiatives for the purpose of supporting local economies and promoting resilient financial models.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7207
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 18, 2023
+  ___________
+ 
+ Introduced  by  Sen.  PARKER -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Banks
+ 
+ AN ACT to amend the banking law, in relation to establishing the  office
+  of financial resilience
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. The banking law is amended by adding a new  section  46  to
+ read as follows:
+  §  46.  OFFICE OF FINANCIAL RESILIENCE. 1. THERE IS HEREBY ESTABLISHED
+ WITHIN THE DEPARTMENT THE OFFICE OF  FINANCIAL  RESILIENCE.  THE  SUPER-
+ INTENDENT SHALL APPOINT THE CHIEF FINANCIAL RESILIENCE OFFICER AND CHIEF
+ COOPERATIVE  ECONOMIST  WHO  SHALL  APPOINT STAFF AND PERFORM SUCH OTHER
+ FUNCTIONS TO ENSURE THE EFFICIENT OPERATION OF  THE  OFFICE  WITHIN  THE
+ AMOUNTS MADE AVAILABLE THEREFOR BY APPROPRIATION.
+  2. THE OFFICE OF FINANCIAL RESILIENCE SHALL HAVE THE POWER AND RESPON-
+ SIBILITY TO:
+  (A) DEVELOP AND IMPLEMENT NEW PROGRAMS AND INITIATIVES FOR THE PURPOSE
+ OF  SUPPORTING LOCAL ECONOMIES AND PROMOTING RESILIENT FINANCIAL MODELS.
+ SUCH PROGRAMS AND INITIATIVES SHALL ASSIST LOCAL COMMUNITIES IN:
+  (I) CREATING COMMUNITY CURRENCIES;
+  (II) BUILDING BLOCKCHAIN-BACKED SOLUTIONS TO SUPPORT LOCAL GROWTH;
+  (III) LEARNING HOW TO IMPLEMENT COOPERATIVE  AND  PEER-TO-PEER  ECONO-
+ MIES;
+  (IV)  IMPLEMENTING STRATEGIES THAT WILL HELP COMMUNITIES CONNECT UNMET
+ NEEDS WITH RESOURCES; AND
+  (V) COORDINATING EFFORTS TO TURN STUDENT DEBT INTO FUNCTIONING CURREN-
+ CIES;
+  (B) CONDUCT WORKSHOPS ON FINANCIAL TOPICS AND OFFER FINANCIAL  ASSIST-
+ ANCE  AND  GUIDANCE  TO LOCAL COMMUNITIES INTERESTED IN BUILDING COOPER-
+ ATIVE AND PEER-TO-PEER SYSTEMS; AND
+  (C) ADVOCATE ON BEHALF OF BLOCKCHAIN STARTUPS AND COMPANIES FOCUSED ON
+ BUILDING AND SUPPORTING LOCAL ECONOMIES.
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02978-01-3
