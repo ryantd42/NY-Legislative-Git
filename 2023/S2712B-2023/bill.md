@@ -1,6 +1,6 @@
 # Relates to paying drug-impaired driving surcharges to counties to reduce drug-impaired driving incidences
 
-**Bill ID:** S2712BA
+**Bill ID:** S2712BB
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Pays drug-impaired driving surcharges to counties for programs and initiatives t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2712--A
+  2712--B
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee on Transportation -- reported
   favorably from said  committee  and  committed  to  the  Committee  on
   Finance  --  committee  discharged, bill amended, ordered reprinted as
-  amended and recommitted to said committee
-
+  amended and recommitted to said  committee  --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
+ 
  AN ACT to amend the vehicle and traffic law, in relation to paying drug-
   impaired driving surcharges to counties to reduce drug-impaired  driv-
   ing incidences
@@ -57,28 +59,28 @@ S T A T E  O F  N E W  Y O R K
  sections  eleven  hundred  ninety-two,  eleven  hundred ninety-two-a and
  findings made under section eleven hundred ninety-four-a of  this  arti-
  cle;  and  (3)  imposed  upon  a  conviction  for:  aggravated vehicular
- assault, pursuant to  section  120.04-a  of  the  penal  law;  vehicular
- assault  in  the  first  degree, pursuant to section 120.04 of the penal
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07149-05-3
- S. 2712--A  2
+  LBD07149-07-3
+ S. 2712--B  2
  
+ assault, pursuant to  section  120.04-a  of  the  penal  law;  vehicular
+ assault  in  the  first  degree, pursuant to section 120.04 of the penal
  law; vehicular assault in the second degree, pursuant to section  120.03
  of  the  penal  law;  aggravated vehicular homicide, pursuant to section
  125.14 of the penal law; vehicular manslaughter  in  the  first  degree,
  pursuant  to section 125.13 of the penal law; and vehicular manslaughter
  in the second degree, pursuant to section 125.12 of the  penal  law,  as
  provided in section eighteen hundred three of this chapter. IN ADDITION,
- ANY  SURCHARGES IMPOSED PURSUANT TO SECTIONS EIGHTEEN HUNDRED NINE-C AND
- EIGHTEEN HUNDRED NINE-E OF THIS CHAPTER SHALL BE PAID TO SUCH COUNTY  IN
- SUCH MANNER AND FOR SUCH PURPOSES AS PROVIDED FOR IN SUCH SECTIONS. Upon
- receipt  of  these  moneys,  the county shall deposit them in a separate
- account entitled "special traffic  options  program  for  driving  while
- intoxicated"  and  they  shall  be under the exclusive care, custody and
- control of the chief fiscal officer of each county participating in  the
- program.
+ ANY  SURCHARGES  IMPOSED PURSUANT TO SECTION EIGHTEEN HUNDRED NINE-C AND
+ PARAGRAPH B OF SUBDIVISION ONE OF SECTION  EIGHTEEN  HUNDRED  NINE-E  OF
+ THIS  CHAPTER  SHALL  BE PAID TO SUCH COUNTY IN SUCH MANNER AND FOR SUCH
+ PURPOSES AS PROVIDED FOR IN THIS SECTION. Upon receipt of these  moneys,
+ the  county  shall  deposit them in a separate account entitled "special
+ traffic options program for driving while intoxicated" and they shall be
+ under the exclusive care, custody and control of the chief fiscal  offi-
+ cer of each county participating in the program.
   §  2. Subdivision 9 of section 1803 of the vehicle and traffic law, as
  amended by chapter 196 of the laws of 1996 and the opening paragraph  as
  amended  by  chapter  345  of  the  laws  of 2007, is amended to read as
@@ -104,10 +106,11 @@ S T A T E  O F  N E W  Y O R K
  in the second degree, pursuant to section 125.12 of the penal  law;  and
  (4) civil penalties imposed pursuant to subdivision two of section elev-
  en  hundred ninety-four-a of this chapter, shall be paid to such county.
- IN ADDITION,  ANY  SURCHARGES  IMPOSED  PURSUANT  TO  SECTIONS  EIGHTEEN
- HUNDRED NINE-C AND EIGHTEEN HUNDRED NINE-E OF THIS CHAPTER SHALL BE PAID
- TO  SUCH  COUNTY IN SUCH MANNER AND FOR SUCH PURPOSES AS PROVIDED FOR IN
- SUCH SECTIONS.
+ IN ADDITION, ANY SURCHARGES IMPOSED PURSUANT TO SECTION EIGHTEEN HUNDRED
+ NINE-C AND PARAGRAPH B OF SUBDIVISION ONE OF  SECTION  EIGHTEEN  HUNDRED
+ NINE-E  OF  THIS CHAPTER SHALL BE PAID TO SUCH COUNTY IN SUCH MANNER AND
+ FOR SUCH PURPOSES AS PROVIDED FOR IN SECTION ELEVEN HUNDRED NINETY-SEVEN
+ OF THIS CHAPTER.
   [(a)] B. Any such fine, penalty, or forfeiture collected by any court,
  judge, magistrate or other officer referred to  in  subdivision  one  of
  section  thirty-nine  of the judiciary law, establishing a unified court
@@ -118,11 +121,11 @@ S T A T E  O F  N E W  Y O R K
  a hearing officer acting on behalf of the commissioner, shall be paid to
  the state comptroller within the first ten days of the  month  following
  collection.  Every  such payment to the comptroller shall be accompanied
+ S. 2712--B  3
+ 
  by a statement in such form and detail as the comptroller shall provide.
  The comptroller shall pay  these  funds  to  the  county  in  which  the
  violation occurs.
- S. 2712--A  3
- 
   [(c)]  D.  Upon receipt of any monies referred to in this section, the
  county shall deposit them in a separate account entitled "special  traf-
  fic options program for driving while intoxicated".
@@ -143,39 +146,36 @@ S T A T E  O F  N E W  Y O R K
  surcharge collected and it shall pay such money to the state comptroller
  who shall deposit such money in the state treasury pursuant  to  section
  one  hundred  twenty-one  of  the state finance law to the credit of the
- general fund; PROVIDED, HOWEVER, COMMENCING ON APRIL FIRST, TWO THOUSAND
- TWENTY-FOUR, ALL SUCH MONEYS SHALL  BE  PAID  TO  COUNTIES  PURSUANT  TO
- SUBDIVISION  ONE  OF SECTION ELEVEN HUNDRED NINETY-SEVEN OF THIS CHAPTER
- AND SHALL BE USED BY EACH  SUCH  COUNTY  FOR  PROGRAMS  AND  INITIATIVES
- SPECIFICALLY  DESIGNED  AND ESTABLISHED TO REDUCE THE INCIDENCE OF DRUG-
- IMPAIRED DRIVING.
-  § 4. Paragraph b of subdivision 1 and subdivision 2 of section  1809-e
- of  the  vehicle  and  traffic  law, as added by section 1 of part EE of
+ general fund; PROVIDED, HOWEVER, COMMENCING APRIL  FIRST,  TWO  THOUSAND
+ TWENTY-FOUR,  ALL  SUCH  MONEYS SHALL BE PAID TO COUNTIES IN SUCH MANNER
+ AND FOR SUCH PURPOSES AS PROVIDED FOR IN SECTION ELEVEN HUNDRED  NINETY-
+ SEVEN OF THIS CHAPTER.
+  §  4. Paragraph b of subdivision 1 and subdivision 2 of section 1809-e
+ of the vehicle and traffic law, as added by section  1  of  part  EE  of
  chapter 56 of the laws of 2008, are amended to read as follows:
   b. Notwithstanding any other provision of law, whenever proceedings in
- a court of this state result in a conviction pursuant to section  eleven
- hundred  ninety-two  of  this chapter OR SUBPARAGRAPHS (II) AND (III) OF
+ a  court of this state result in a conviction pursuant to section eleven
+ hundred ninety-two of this chapter OR SUBPARAGRAPHS (II)  AND  (III)  OF
  PARAGRAPH (A) OF SUBDIVISION TWO OR SUBPARAGRAPH (I) OF PARAGRAPH (A) OF
- SUBDIVISION THREE OF SECTION FIVE HUNDRED ELEVEN OF THIS CHAPTER,  there
+ SUBDIVISION  THREE OF SECTION FIVE HUNDRED ELEVEN OF THIS CHAPTER, there
  shall be levied, in addition to any sentence or other surcharge required
- or  permitted  by  law,  an  additional surcharge of one hundred seventy
+ or permitted by law, an additional  surcharge  of  one  hundred  seventy
  dollars.
-  2. The additional surcharges provided for in subdivision one  of  this
+  2.  The  additional surcharges provided for in subdivision one of this
  section shall be paid to the clerk of the court or administrative tribu-
  nal that rendered the conviction. Within the first ten days of the month
- following  collection of such surcharges, the collecting authority shall
- pay such money to the state comptroller to be deposited to  the  general
- fund;  PROVIDED,  HOWEVER, COMMENCING ON APRIL FIRST, TWO THOUSAND TWEN-
- TY-FOUR, SUCH SURCHARGE SHALL BE PAID TO COUNTIES PURSUANT  TO  SUBDIVI-
- SION  ONE  OF  SECTION  ELEVEN  HUNDRED NINETY-SEVEN OF THIS CHAPTER AND
- SHALL BE USED BY EACH SUCH COUNTY FOR PROGRAMS AND  INITIATIVES  SPECIF-
- ICALLY DESIGNED AND ESTABLISHED TO REDUCE THE INCIDENCE OF DRUG-IMPAIRED
- DRIVING.
-  §  5. The commissioner of motor vehicles shall annually certify to the
- division of the budget that  all  program  plans  eligible  for  funding
- pursuant  to  this  act  are  in  full compliance with the provisions of
- section 1197 of the vehicle and traffic  law  establishing  the  special
+ following collection of such surcharges, the collecting authority  shall
+ pay  such  money to the state comptroller to be deposited to the general
+ fund; PROVIDED, HOWEVER, COMMENCING APRIL FIRST,  TWO  THOUSAND  TWENTY-
+ FOUR,  THE  SURCHARGE  PROVIDED FOR IN PARAGRAPH B OF SUBDIVISION ONE OF
+ THIS SECTION SHALL BE PAID TO COUNTIES  IN  SUCH  MANNER  AND  FOR  SUCH
+ PURPOSES  AS PROVIDED FOR IN SECTION ELEVEN HUNDRED NINETY-SEVEN OF THIS
+ CHAPTER.
+  § 5. The commissioner of motor vehicles shall annually certify to  the
+ division  of  the  budget  that  all  program plans eligible for funding
+ pursuant to this act are in  full  compliance  with  the  provisions  of
+ section  1197  of  the  vehicle and traffic law establishing the special
  traffic options program for driving while intoxicated, the rules promul-
- gated  pursuant  to  15  NYCRR  172  relating  to  such  program and the
+ gated pursuant to  15  NYCRR  172  relating  to  such  program  and  the
  provisions of this act.
   § 6. This act shall take effect April 1, 2024.
