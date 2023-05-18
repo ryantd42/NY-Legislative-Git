@@ -1,0 +1,71 @@
+# Permits special education services and programs for preschool children with handicapping conditions to establish reserve funds
+
+**Bill ID:** S7215
+**Session:** 2023
+**Sponsor:** James Skoufis
+**Status:** In Senate Committee
+
+## Summary
+
+Permits special education services and programs for preschool children with handicapping conditions to establish reserve funds.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7215
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 18, 2023
+  ___________
+ 
+ Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Disabilities
+ 
+ AN ACT to amend the education law, in  relation  to  permitting  special
+  education  services and programs for preschool children with handicap-
+  ping conditions to establish reserve funds
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  4405 of the education law is amended by adding a
+ new subdivision 7 to read as follows:
+  7. FOR THE TWO THOUSAND TWENTY-THREE--TWO THOUSAND TWENTY-FOUR  SCHOOL
+ YEAR  AND  THEREAFTER,  AN  INSTITUTION SUBJECT TO THIS ARTICLE SHALL BE
+ AUTHORIZED TO RETAIN FUNDS IN EXCESS OF THEIR ALLOWABLE AND REIMBURSABLE
+ COSTS INCURRED FOR SERVICES AND  PROGRAMS  TO  STUDENTS  APPOINTED.  THE
+ AMOUNT  OF  FUNDS  THAT  MAY  BE  ANNUALLY RETAINED SHALL NOT EXCEED ONE
+ PERCENT OF THE INSTITUTION'S TOTAL ALLOWABLE AND REIMBURSABLE COSTS  FOR
+ SERVICES  AND  PROGRAMS  PROVIDED  TO  STUDENTS FOR THE SCHOOL YEAR FROM
+ WHICH THE FUNDS ARE TO BE RETAINED, PROVIDED THAT THE TOTAL  ACCUMULATED
+ BALANCE THAT MAY BE RETAINED SHALL NOT EXCEED FOUR PERCENT OF SUCH TOTAL
+ COSTS  FOR SUCH SCHOOL YEAR AND PROVIDED, FURTHER, THAT SUCH FUNDS SHALL
+ NOT BE RECOVERABLE  ON  RECONCILIATION,  SUCH  FUNDS  SHALL  BE  CARRIED
+ FORWARD  AS  TOTAL REIMBURSABLE COSTS FOR PURPOSES OF CALCULATING SUBSE-
+ QUENT YEAR PROSPECTIVE AND RECONCILIATION TUITION RATES AND  SUCH  FUNDS
+ SHALL  BE  SEPARATE  FROM  AND IN ADDITION TO ANY OTHER AUTHORIZATION TO
+ RETAIN SURPLUS FUNDS ON  RECONCILIATION.  FUNDS  MAY  BE  EXPENDED  ONLY
+ PURSUANT  TO  AN AUTHORIZATION OF THE GOVERNING BOARD OF THE INSTITUTION
+ FOR A PURPOSE EXPRESSLY AUTHORIZED AS PART OF ALLOWABLE  COSTS  FOR  THE
+ YEAR  IN  WHICH THE FUNDS ARE TO BE EXPENDED, PROVIDED THAT FUNDS MAY BE
+ EXPENDED TO PAY PRIOR  YEAR  OUTSTANDING  DEBTS.  ANY  INSTITUTION  THAT
+ RETAINS FUNDS PURSUANT TO THIS SUBDIVISION SHALL BE REQUIRED TO ANNUALLY
+ REPORT  A  STATEMENT  OF  THE  TOTAL BALANCE OF SUCH RETAINED FUNDS, THE
+ AMOUNT, IF ANY, RETAINED IN THE PRIOR SCHOOL YEAR, THE AMOUNT,  IF  ANY,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08490-01-3
+ S. 7215  2
+ 
+ DISBURSED  IN  THE PRIOR SCHOOL YEAR, AND THE FINANCIAL REPORTS THAT ARE
+ REQUIRED TO BE ANNUALLY SUBMITTED TO THE DEPARTMENT.
+  §  2.  This act shall take effect on the first of July next succeeding
+ the date on which it shall have become a law.
