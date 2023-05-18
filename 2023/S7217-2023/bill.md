@@ -1,0 +1,59 @@
+# Requires the installation of trash capture nets on certain point source outlets
+
+**Bill ID:** S7217
+**Session:** 2023
+**Sponsor:** Andrew Gounardes
+**Status:** In Senate Committee
+
+## Summary
+
+Requires the commissioner to promulgate rules and regulations requiring the department to install or cause to be installed at the outlet of any point source that empties into the waters of the state a trash capture net for purposes of collecting garbage, refuse, and other debris; defines "trash capture net" to mean a commercial grade, reusable, open-meshed material designed to capture pollutants as small as five millimeters in diameter.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7217
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 18, 2023
+  ___________
+ 
+ Introduced by Sen. GOUNARDES -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Environmental Conservation
+ 
+ AN  ACT  to amend the environmental conservation law, in relation to the
+  installation of trash capture nets
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The environmental conservation law is amended by adding a
+ new section 17-0832 to read as follows:
+ § 17-0832. ADDITIONAL REQUIREMENT; TRASH CAPTURE NETS.
+  NOTWITHSTANDING ANY OTHER PROVISION OF LAW, RULE  OR  REGULATION,  THE
+ COMMISSIONER  SHALL  PROMULGATE  RULES  AND  REGULATIONS  REQUIRING  THE
+ DEPARTMENT TO INSTALL OR CAUSE TO BE INSTALLED  AT  THE  OUTLET  OF  ANY
+ POINT  SOURCE  THAT EMPTIES INTO ANY WATERS OF THE STATE A TRASH CAPTURE
+ NET FOR PURPOSES OF COLLECTING  GARBAGE, REFUSE, AND OTHER  DEBRIS.  FOR
+ PURPOSES  OF THIS SECTION, A "TRASH CAPTURE NET" SHALL MEAN A COMMERCIAL
+ GRADE, REUSABLE, OPEN-MESHED MATERIAL DESIGNED TO CAPTURE POLLUTANTS  AS
+ SMALL AS FIVE MILLIMETERS IN DIAMETER.
+  § 2. This act shall take effect on the one hundred twentieth day after
+ it  shall  have become a law. Effective immediately the addition, amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation of this act on its effective date are authorized to be  made  and
+ completed on or before such date.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08671-01-3
