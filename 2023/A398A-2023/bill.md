@@ -1,6 +1,6 @@
 # Relates to notice of eligibility for unemployment benefits
 
-**Bill ID:** A398A
+**Bill ID:** A398AA
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to notice of eligibility for unemployment benefits; requires an employer
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  398
+  398--A
  
   2023-2024 Regular Sessions
  
@@ -26,47 +26,36 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. BURDICK -- read once and referred to the Commit-
-  tee on Labor
+  tee on Labor -- committee discharged, bill amended, ordered  reprinted
+  as amended and recommitted to said committee
  
- AN ACT to amend the labor law, in relation to notice of eligibility  for
+ AN  ACT to amend the labor law, in relation to notice of eligibility for
   unemployment benefits
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section 1. Section 590 of the labor law is amended  by  adding  a  new
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  590  of the labor law is amended by adding a new
  subdivision 2 to read as follows:
-  2.  NOTICE  OF  ELIGIBILITY.  ANY  WRITTEN NOTICE PROVIDED PURSUANT TO
- SUBDIVISION SIX OF SECTION ONE HUNDRED NINETY-FIVE OF  THIS  CHAPTER  TO
- ANY  EMPLOYEE  WHOSE  EMPLOYMENT  HAS BEEN TERMINATED OR WHOSE SCHEDULED
- WORKING HOURS HAVE BEEN REDUCED SHALL INCLUDE WRITTEN NOTICE  THAT  SUCH
- EMPLOYEE MAY BE ELIGIBLE FOR BENEFITS UNDER THIS ARTICLE AND INFORMATION
- ABOUT  APPLYING  FOR SUCH BENEFITS.  THE WRITTEN NOTICE REQUIRED BY THIS
- SUBDIVISION WILL NOT BE REQUIRED IF SUCH EMPLOYEE IS ELIGIBLE FOR OR HAS
- SUBMITTED A REQUEST FOR LEAVE-OF-ABSENCE,  VACATION  LEAVE,  BEREAVEMENT
- LEAVE,  PARENTAL  LEAVE,  PERSONAL  LEAVE,  OR ANY OTHER FORM OF PAID OR
- UNPAID LEAVE ESTABLISHED BY THE EMPLOYER OR  DOCUMENTED  IN  WRITING  OR
- SUBMITTED ONLINE.
-  §  2. Subdivision 6 of section 195 of the labor law, as added by chap-
- ter 524 of the laws of 1989, is amended to read as follows:
-  6. notify any employee terminated from employment OR  WHOSE  SCHEDULED
- WORKING  HOURS  HAVE BEEN REDUCED, in writing, of the exact date of such
- termination OR REDUCTION IN SCHEDULED WORKING HOURS as well as the exact
- date of cancellation of employee benefits  connected  with  such  termi-
- nation  OR  REDUCTION.  SUCH NOTICE SHALL ALSO INCLUDE INFORMATION ABOUT
- UNEMPLOYMENT BENEFITS UNDER ARTICLE EIGHTEEN OF THIS CHAPTER  FOR  WHICH
- SUCH  EMPLOYEE  MAY  BE  ELIGIBLE  IN ACCORDANCE WITH SUBDIVISION TWO OF
- SECTION FIVE HUNDRED NINETY OF THIS CHAPTER. In no case shall notice  of
- such  termination  OR  REDUCTION be provided more than five working days
- after the date of such termination OR REDUCTION. Failure  to  notify  an
+  2. NOTICE  OF  ELIGIBILITY  UPON  SEPARATION  FROM  EMPLOYMENT.  EVERY
+ EMPLOYER  LIABLE  UNDER THIS ARTICLE FOR CONTRIBUTIONS SHALL INFORM EACH
+ EMPLOYEE OF THEIR RIGHT TO FILE AN APPLICATION FOR UNEMPLOYMENT BENEFITS
+ WITH THE DEPARTMENT. SUCH INFORMATION SHALL BE GIVEN AT THE TIME OF EACH
+ PERMANENT OR INDEFINITE SEPARATION FROM EMPLOYMENT, REDUCTION IN  HOURS,
+ TEMPORARY SEPARATION, AND ANY OTHER INTERRUPTION OF CONTINUED EMPLOYMENT
+ THAT  RESULTS  IN  TOTAL  OR  PARTIAL UNEMPLOYMENT. SUCH NOTICE SHALL BE
+ GIVEN IN  WRITING ON A FORM FURNISHED OR APPROVED BY THE DEPARTMENT  AND
+ SHALL INCLUDE:
+  (A) THE EMPLOYER'S NAME AND REGISTRATION NUMBER;
+  (B)  THE  ADDRESS  OF THE EMPLOYER TO WHICH A REQUEST FOR REMUNERATION
+ AND EMPLOYMENT  INFORMATION  WITH  RESPECT  TO  SUCH  EMPLOYEE  MUST  BE
+ DIRECTED; AND
+  (C) SUCH OTHER INFORMATION AS IS REQUIRED BY THE COMMISSIONER.
+  §  2.  This  act  shall take effect on the sixtieth day after it shall
+ have become a law.
+ 
+ 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01131-01-3
- A. 398  2
- 
- employee  of  cancellation  of  accident or health insurance subjects an
- employer to an additional penalty pursuant to section two hundred seven-
- teen of this chapter.
-  §  3.  This  act  shall take effect on the sixtieth day after it shall
- have become a law.
+  LBD01131-02-3
