@@ -1,6 +1,6 @@
 # Relates to requiring insurance policies to cover neuropsychological exams for dyslexia
 
-**Bill ID:** A2898A
+**Bill ID:** A2898AA
 **Session:** 2023
 **Sponsor:** Robert C. Carroll
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Requires insurance policies to cover neuropsychological exams for dyslexia under
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2898
+  2898--A
  
   2023-2024 Regular Sessions
  
@@ -25,158 +25,87 @@ S T A T E  O F  N E W  Y O R K
   February 1, 2023
   ___________
  
- Introduced  by M. of A. CARROLL -- read once and referred to the Commit-
-  tee on Insurance
- 
- AN ACT to amend the insurance law,  in  relation  to  requiring  certain
+ Introduced  by M. of A. CARROLL, EPSTEIN, SHIMSKY, GONZALEZ-ROJAS, McDO-
+  NALD, DINOWITZ, GALLAGHER, SEAWRIGHT, JEAN-PIERRE, THIELE, CUNNINGHAM,
+  WOERNER, K. BROWN -- read once and referred to the Committee on Insur-
+  ance -- committee  discharged,  bill  amended,  ordered  reprinted  as
+  amended and recommitted to said committee
+
+ AN  ACT  to  amend  the  insurance law, in relation to requiring certain
   insurance policies to cover neuropsychological exams for dyslexia
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. This act shall be known and may be cited as  the  "dyslexia
+  Section  1.  This act shall be known and may be cited as the "dyslexia
  diagnosis access act".
   § 2. Legislative findings and intent. The legislature hereby finds and
  declares the following:
-  a.  Dyslexia is a specific learning disability that is neurobiological
- in origin. It is characterized  by  difficulties  with  accurate  and/or
- fluent  word  recognition  and impaired spelling and decoding abilities.
- These difficulties typically result from a deficit in  the  phonological
+  a. Dyslexia is a specific learning disability that is  neurobiological
+ in  origin.  It  is  characterized  by difficulties with accurate and/or
+ fluent word recognition and impaired spelling  and  decoding  abilities.
+ These  difficulties  typically result from a deficit in the phonological
  component of language within the brain that is often discordant with the
- person's  intelligence and other cognitive abilities. Secondary  effects
- of undetected and unaddressed dyslexia  include  anxiety,  depression,
- worsened  health,  decreased  life  expectancy, lower  education rates,
+ person's intelligence and other cognitive abilities. Secondary  effects
+ of  undetected  and  unaddressed dyslexia include  anxiety, depression,
+ worsened health, decreased life  expectancy,  lower  education  rates,
  lower employment and income rates, and increased  poverty and incarcera-
  tion rates.
-  b. Studies indicate that as many as one in  five  children  may  have
+  b.  Studies  indicate  that  as  many as one in five children may have
  dyslexia or another phonemic awareness issue. However, lack of access to
- appropriate  screening and diagnostic testing poses a barrier to compre-
- hensively tracking the incidence of dyslexia and students  are  unlikely
- to  receive  the  intervention  required  to overcome dyslexia without a
- positive diagnosis. Comprehensive neuropsychological  exams  are  recog-
- nized  as  the most effective way to positively diagnose dyslexia.  Such
- exams are often administered over the course of two days  and  currently
- may  cost  in  excess of six thousand dollars but are typically not paid
+ appropriate screening and diagnostic testing poses a barrier to  compre-
+ hensively  tracking  the incidence of dyslexia and students are unlikely
+ to receive the intervention required  to  overcome  dyslexia  without  a
+ positive  diagnosis.  Comprehensive  neuropsychological exams are recog-
+ nized as the most effective way to positively diagnose dyslexia.  Such
+ exams  are  often administered over the course of two days and currently
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01994-02-3
+ A. 2898--A  2
+ 
+ may cost in excess of six thousand dollars but are  typically  not  paid
  for by health insurance, making them unaffordable to many families.
   § 3. Subsection (i) of section 3216 of the insurance law is amended by
  adding a new paragraph 39 to read as follows:
-  (39) (A) EVERY POLICY THAT PROVIDES COVERAGE FOR  PHYSICIAN  SERVICES,
- MEDICAL,  MAJOR  MEDICAL  OR  SIMILAR  COMPREHENSIVE-TYPE COVERAGE SHALL
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD01994-01-3
- A. 2898  2
- 
- PROVIDE COVERAGE FOR TESTING FOR SUSPECTED DYSLEXIA IN  ACCORDANCE  WITH
+  (39)  (A)  EVERY POLICY THAT PROVIDES COVERAGE FOR PHYSICIAN SERVICES,
+ MEDICAL, MAJOR MEDICAL  OR  SIMILAR  COMPREHENSIVE-TYPE  COVERAGE  SHALL
+ PROVIDE  COVERAGE  FOR TESTING FOR SUSPECTED DYSLEXIA IN ACCORDANCE WITH
  THIS PARAGRAPH AND SHALL NOT EXCLUDE COVERAGE FOR THE SCREENING, DIAGNO-
  SIS OR TREATMENT OF MEDICAL CONDITIONS OTHERWISE COVERED BY THE POLICY.
-  (I)  COVERAGE  SHALL INCLUDE COMPREHENSIVE NEUROPSYCHOLOGICAL EXAMINA-
- TIONS FOR THE PURPOSES OF DIAGNOSING DYSLEXIA, PURSUANT  TO  THIS  PARA-
- GRAPH.
-  (II)  CLINICIANS'  NEUROPSYCHOLOGICAL REPORTS SHALL INCLUDE COMPREHEN-
- SIVE RECOMMENDATIONS REGARDLESS OF DIAGNOSIS, INCLUDING A PSYCHOLOGICAL,
- EMOTIONAL, AND EDUCATIONAL WELLNESS PLAN FOR THE INDIVIDUAL EVALUATED.
-  (B) COVERAGE UNDER THIS PARAGRAPH IS ONLY REQUIRED IF ONE OR  MORE  OF
- THE FOLLOWING CRITERIA ARE MET:
-  (I)  THE INSURED IS AT AN INCREASED HEREDITARY RISK FOR DYSLEXIA OWING
- TO A FAMILY HISTORY OF DYSLEXIA; OR
-  (II) THE INDIVIDUAL IS A STUDENT WHO HAS FAILED TWO (IF IN  KINDERGAR-
- TEN  OR FIRST GRADE) OR ONE (IF IN SECOND GRADE OR ABOVE) READILY AVAIL-
- ABLE LITERACY SCREENING BENCHMARK(S) OF PROVEN PSYCHOMETRIC  VALUE;  AND
- IS DEEMED AT RISK ACCORDING TO THEIR INSTRUCTOR, SCHOOL, OR OTHER SUPER-
- VISING EDUCATIONAL BODY; OR
-  (III)  THE  INDIVIDUAL'S  PEDIATRICIAN IDENTIFIES THE INDIVIDUAL AS AT
- RISK FOR DYSLEXIA AS INDICATED BY FINDINGS FROM  A  VALID  AND  RELIABLE
- SCREENER AND RECOMMENDS A NEUROPSYCHOLOGICAL EXAMINATION; OR
-  (IV)  THE  INDIVIDUAL  IS  A  STUDENT WITH A HISTORY OF RISK FACTOR(S)
- KNOWN TO IMPACT LEARNING AND EDUCATIONAL  OUTCOMES,  INCLUDING  BUT  NOT
- LIMITED TO: FETAL TOXIN EXPOSURE, PREMATURITY, AND HISTORY OF NEUROLOGI-
- CAL DISORDER, SUCH AS EPILEPSY.
-  (C)  COVERAGE  REQUIRED BY THIS PARAGRAPH SHALL BE CAPPED AT SIX THOU-
- SAND DOLLARS, INDEXED TO  INFLATION  TO  BE  ADJUSTED  EVERY  TWO  YEARS
- ACCORDING  TO  CONSUMER  PRICE  INDEX  FOR  ALL  URBAN CONSUMERS FOR THE
- NATION, AS PREPARED BY THE UNITED STATES DEPARTMENT OF  LABOR,  FOR  THE
- CALENDAR YEAR PRECEDING THE CALENDAR YEAR IN WHICH THE ADJUSTMENT TO THE
- MAXIMUM BENEFIT AMOUNT IS PROMULGATED.
-  §  4.  Section  3221  of  the insurance law is amended by adding a new
+  (B) COVERAGE SHALL INCLUDE COMPREHENSIVE  NEUROPSYCHOLOGICAL  EXAMINA-
+ TIONS  FOR  THE  PURPOSES  OF  DIAGNOSING  DYSLEXIA  AND DETERMINING THE
+ PSYCHOLOGICAL, EMOTIONAL, AND EDUCATIONAL WELLNESS NEEDS OF THE INDIVID-
+ UAL TESTED.
+  § 4. Section 3221 of the insurance law is  amended  by  adding  a  new
  subsection (u) to read as follows:
-  (U)  (1)  (A)  EVERY  POLICY  THAT  PROVIDES  COVERAGE  FOR  PHYSICIAN
- SERVICES,  MEDICAL, MAJOR MEDICAL OR SIMILAR COMPREHENSIVE-TYPE COVERAGE
- SHALL PROVIDE COVERAGE FOR TESTING FOR SUSPECTED DYSLEXIA IN  ACCORDANCE
- WITH  THIS  SUBSECTION AND SHALL NOT EXCLUDE COVERAGE FOR THE SCREENING,
- DIAGNOSIS OR TREATMENT OF MEDICAL CONDITIONS OTHERWISE  COVERED  BY  THE
- POLICY.
-  (B)  COVERAGE  SHALL INCLUDE COMPREHENSIVE NEUROPSYCHOLOGICAL EXAMINA-
- TIONS  FOR  THE  PURPOSES  OF  DIAGNOSING  DYSLEXIA,  PURSUANT  TO  THIS
- SUBSECTION.
-  (C) CLINICIANS' NEUROPSYCHOLOGICAL REPORTS SHALL INCLUDE COMPREHENSIVE
- RECOMMENDATIONS  REGARDLESS  OF  DIAGNOSIS,  INCLUDING  A PSYCHOLOGICAL,
- EMOTIONAL, AND EDUCATIONAL WELLNESS PLAN FOR THE INDIVIDUAL EVALUATED.
-  (2) COVERAGE UNDER THIS SUBSECTION IS ONLY REQUIRED IF ONE OR MORE  OF
- THE FOLLOWING CRITERIA ARE MET:
-  (A)  THE INSURED IS AT AN INCREASED HEREDITARY RISK FOR DYSLEXIA OWING
- TO A FAMILY HISTORY OF DYSLEXIA; OR
-  (B) THE INDIVIDUAL IS A STUDENT WHO HAS FAILED TWO (IF IN KINDERGARTEN
- OR FIRST GRADE) OR ONE (IF IN SECOND GRADE OR ABOVE)  READILY  AVAILABLE
- LITERACY  SCREENING  BENCHMARK(S)  OF  PROVEN PSYCHOMETRIC VALUE; AND IS
- DEEMED AT RISK ACCORDING TO THEIR INSTRUCTOR, SCHOOL, OR OTHER SUPERVIS-
- ING EDUCATIONAL BODY; OR
- A. 2898  3
- 
-  (C) THE INDIVIDUAL'S PEDIATRICIAN IDENTIFIES THE INDIVIDUAL AS AT RISK
- FOR DYSLEXIA AS INDICATED BY FINDINGS FROM A VALID AND RELIABLE SCREENER
- AND RECOMMENDS A NEUROPSYCHOLOGICAL EXAMINATION; OR
-  (D) THE INDIVIDUAL IS A STUDENT WITH A HISTORY OF RISK FACTOR(S) KNOWN
- TO  IMPACT  LEARNING AND EDUCATIONAL OUTCOMES, INCLUDING BUT NOT LIMITED
- TO: FETAL TOXIN  EXPOSURE,  PREMATURITY,  AND  HISTORY  OF  NEUROLOGICAL
- DISORDER, SUCH AS EPILEPSY.
-  (3)  COVERAGE REQUIRED BY THIS SUBSECTION SHALL BE CAPPED AT SIX THOU-
- SAND DOLLARS, INDEXED TO  INFLATION  TO  BE  ADJUSTED  EVERY  TWO  YEARS
- ACCORDING  TO  CONSUMER  PRICE  INDEX  FOR  ALL  URBAN CONSUMERS FOR THE
- NATION, AS PREPARED BY THE UNITED STATES DEPARTMENT OF  LABOR,  FOR  THE
- CALENDAR YEAR PRECEDING THE CALENDAR YEAR IN WHICH THE ADJUSTMENT TO THE
- MAXIMUM BENEFIT AMOUNT IS PROMULGATED.
-  §  5.  Section  4303  of  the insurance law is amended by adding a new
- subsection (uu) to read as follows:
-  (UU) (1)  (A)  EVERY  POLICY  THAT  PROVIDES  COVERAGE  FOR  PHYSICIAN
- SERVICES,  MEDICAL, MAJOR MEDICAL OR SIMILAR COMPREHENSIVE-TYPE COVERAGE
- SHALL PROVIDE COVERAGE FOR TESTING FOR SUSPECTED DYSLEXIA IN  ACCORDANCE
- WITH  THIS  SUBSECTION AND SHALL NOT EXCLUDE COVERAGE FOR THE SCREENING,
- DIAGNOSIS OR TREATMENT OF MEDICAL CONDITIONS OTHERWISE  COVERED  BY  THE
- POLICY.
-  (B)  COVERAGE  SHALL INCLUDE COMPREHENSIVE NEUROPSYCHOLOGICAL EXAMINA-
- TIONS  FOR  THE  PURPOSES  OF  DIAGNOSING  DYSLEXIA,  PURSUANT  TO  THIS
- SUBSECTION.
-  (C) CLINICIANS' NEUROPSYCHOLOGICAL REPORTS SHALL INCLUDE COMPREHENSIVE
- RECOMMENDATIONS  REGARDLESS  OF  DIAGNOSIS,  INCLUDING  A PSYCHOLOGICAL,
- EMOTIONAL, AND EDUCATIONAL WELLNESS PLAN FOR THE INDIVIDUAL EVALUATED.
-  (2) COVERAGE UNDER THIS SUBSECTION IS ONLY REQUIRED IF ONE OR MORE  OF
- THE FOLLOWING CRITERIA ARE MET:
-  (A)  THE INSURED IS AT AN INCREASED HEREDITARY RISK FOR DYSLEXIA OWING
- TO A FAMILY HISTORY OF DYSLEXIA; OR
-  (B) THE INDIVIDUAL IS A STUDENT WHO HAS FAILED TWO (IF IN KINDERGARTEN
- OR FIRST GRADE) OR ONE (IF IN SECOND GRADE OR ABOVE)  READILY  AVAILABLE
- LITERACY  SCREENING  BENCHMARK(S)  OF  PROVEN PSYCHOMETRIC VALUE; AND IS
- DEEMED AT RISK ACCORDING TO THEIR INSTRUCTOR, SCHOOL, OR OTHER SUPERVIS-
- ING EDUCATIONAL BODY; OR
-  (C) THE INDIVIDUAL'S PEDIATRICIAN IDENTIFIES THE INDIVIDUAL AS AT RISK
- FOR DYSLEXIA AS INDICATED BY FINDINGS FROM A VALID AND RELIABLE SCREENER
- AND RECOMMENDS A NEUROPSYCHOLOGICAL EXAMINATION; OR
-  (D) THE INDIVIDUAL IS A STUDENT WITH A HISTORY OF RISK FACTOR(S) KNOWN
- TO IMPACT LEARNING AND EDUCATIONAL OUTCOMES INCLUDING, BUT  NOT  LIMITED
- TO:  FETAL  TOXIN  EXPOSURE,  PREMATURITY,  AND  HISTORY OF NEUROLOGICAL
- DISORDER, SUCH AS EPILEPSY.
-  (3) COVERAGE REQUIRED BY THIS SUBSECTION SHALL BE CAPPED AT SIX  THOU-
- SAND  DOLLARS,  INDEXED  TO  INFLATION  TO  BE  ADJUSTED EVERY TWO YEARS
- ACCORDING TO CONSUMER PRICE  INDEX  FOR  ALL  URBAN  CONSUMERS  FOR  THE
- NATION,  AS  PREPARED  BY THE UNITED STATES DEPARTMENT OF LABOR, FOR THE
- CALENDAR YEAR PRECEDING THE CALENDAR YEAR IN WHICH THE ADJUSTMENT TO THE
- MAXIMUM BENEFIT AMOUNT IS PROMULGATED.
+  (U)  (1)  EVERY  POLICY THAT PROVIDES COVERAGE FOR PHYSICIAN SERVICES,
+ MEDICAL, MAJOR MEDICAL  OR  SIMILAR  COMPREHENSIVE-TYPE  COVERAGE  SHALL
+ PROVIDE  COVERAGE  FOR TESTING FOR SUSPECTED DYSLEXIA IN ACCORDANCE WITH
+ THIS SUBSECTION AND SHALL NOT EXCLUDE COVERAGE FOR THE SCREENING,  DIAG-
+ NOSIS  OR TREATMENT OF MEDICAL CONDITIONS OTHERWISE COVERED BY THE POLI-
+ CY.
+  (2) COVERAGE SHALL INCLUDE COMPREHENSIVE  NEUROPSYCHOLOGICAL  EXAMINA-
+ TIONS  FOR  THE  PURPOSES  OF  DIAGNOSING  DYSLEXIA  AND DETERMINING THE
+ PSYCHOLOGICAL, EMOTIONAL, AND EDUCATIONAL WELLNESS NEEDS OF THE INDIVID-
+ UAL TESTED.
+  § 5. Section 4303 of the insurance law is  amended  by  adding  a  new
+ subsection (vv) to read as follows:
+  (VV)  (1)  EVERY POLICY THAT PROVIDES COVERAGE FOR PHYSICIAN SERVICES,
+ MEDICAL, MAJOR MEDICAL  OR  SIMILAR  COMPREHENSIVE-TYPE  COVERAGE  SHALL
+ PROVIDE  COVERAGE  FOR TESTING FOR SUSPECTED DYSLEXIA IN ACCORDANCE WITH
+ THIS SUBSECTION AND SHALL NOT EXCLUDE COVERAGE FOR THE SCREENING,  DIAG-
+ NOSIS  OR TREATMENT OF MEDICAL CONDITIONS OTHERWISE COVERED BY THE POLI-
+ CY.
+  (2) COVERAGE SHALL INCLUDE COMPREHENSIVE  NEUROPSYCHOLOGICAL  EXAMINA-
+ TIONS  FOR  THE  PURPOSES  OF  DIAGNOSING  DYSLEXIA  AND DETERMINING THE
+ PSYCHOLOGICAL, EMOTIONAL, AND EDUCATIONAL WELLNESS NEEDS OF THE INDIVID-
+ UAL TESTED.
   § 6. This act shall take effect on the first of January next  succeed-
  ing  the date on which it shall have become a law and shall apply to all
  policies and contracts issued, renewed, modified, altered, or amended on
  or after such  date.  Effective  immediately,  the  addition,  amendment
  and/or repeal of any rule or regulation necessary for the implementation
  of  this  act  on  its  effective  date  are  authorized  to be made and
- completed on or before such date.
+ completed on or before such effective date.
