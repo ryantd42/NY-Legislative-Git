@@ -1,6 +1,6 @@
 # Relates to applying the Housing Stability and Tenant Protection Act of 2019 to rent calculations and rent records maintenance and destruction
 
-**Bill ID:** A4047BA
+**Bill ID:** A4047BB
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Relates to applying the Housing Stability and Tenant Protection Act of 2019 to r
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4047--A
+  4047--B
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. DINOWITZ -- read once and referred to the Commit-
   tee  on  Housing  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
- 
+  reprinted as amended  and  recommitted  to  said  committee  --  again
+  reported  from  said  committee  with amendments, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to apply the Housing Stability and Tenant Protection Act of  2019
   to rent calculations and rent records maintenance and destruction
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,109 +58,81 @@ S T A T E  O F  N E W  Y O R K
  tary registration of any rent stabilized apartment for which  any  prior
  annual  registration  statement has not been filed, and to encourage the
  voluntary recalculation of unreliable pre-HSTPA rents;
-  (d) in light of court decisions  arising  under  the  HSTPA  of  2019,
- including REGINA METRO V. DHCR, it is public policy that the legislature
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07241-03-3
- A. 4047--A  2
+  LBD07241-04-3
+ A. 4047--B  2
  
+  (d) in light of court decisions  arising  under  the  HSTPA  of  2019,
+ including REGINA METRO V. DHCR, it is public policy that the legislature
  define  clearly  the  prospective  reach  of that law, and limit, to the
  extent required by the constitution, the retroactive reach of that law;
-  (e)  despite REGINA, the scope of the fraud exception to the pre-HSTPA
- four year rule for calculating rents remains unsettled and  the  subject
- of  litigation,  and courts have diverged from the controlling authority
- of THORNTON V.  BARON and GRIMM V. DHCR to impose  a  common  law  fraud
- standard  that  is not found in these cases and is inconsistent with the
- intent of the legislature to discourage and penalize fraud  against  the
- rent  regulatory  system  itself, as well as against individual tenants,
- and it is therefore public policy that the legislature  codify,  without
- expanding  or  reducing  the liability of landlords under pre-HSTPA law,
- the standard for applying that exception;
-  (f) the New York state  division  of  housing  and  community  renewal
+  (e)  the  New  York  state  division  of housing and community renewal
  (DHCR) misinterpreted the rent stabilization law for a significant peri-
- od  of  time with respect to the regulatory obligations arising from the
+ od of time with respect to the regulatory obligations arising  from  the
  receipt of J-51 and 421-a tax benefits resulting in the unlawful deregu-
- lation of tens of thousands of rent-stabilized apartments,  the  setting
- of  unlawful  rents,  and  the collection of millions of dollars of rent
- overcharges, during a housing emergency.  Both  landlords  and  tenants
- relied  upon  the  DHCR's  misinterpretation  of the law. In REGINA, the
- Court of Appeals settled many of  the  issues  arising  from  overcharge
+ lation  of  tens of thousands of rent-stabilized apartments, the setting
+ of unlawful rents, and the collection of millions  of  dollars  of  rent
+ overcharges,  during  a  housing emergency.  Both landlords and tenants
+ relied upon the DHCR's misinterpretation of  the  law.  In  REGINA,  the
+ Court  of  Appeals  settled  many  of the issues arising from overcharge
  claims by tenants who were misled into refraining from filing overcharge
- cases  during the period when DHCR's erroneous interpretation of the law
- was in effect, but left open the issue of whether a  landlord's  ongoing
- collection  of overcharges and failure to return apartments to rent-sta-
+ cases during the period when DHCR's erroneous interpretation of the  law
+ was  in  effect, but left open the issue of whether a landlord's ongoing
+ collection of overcharges and failure to return apartments to  rent-sta-
  bilization, after the law was clarified, should be treated as fraud;
-  (g)  the integrity of the registration system for rent regulated hous-
- ing has been eroded by the use of  base  date  rents,  rather  than  the
- service  and  filing  of  reliable registration statements, to set rents
- under the law in effect between the enactment  of  the  Rent  Regulation
- Reform  Act  of  1997  and  the  HSTPA. It is therefore public policy to
- impose, prospectively from the date of the enactment  of  the  HSTPA,  a
- rent  calculation  formula  that, insofar as possible, derives the legal
- regulated rents for apartments  from  reliable  registration  statements
+  (f)  the integrity of the registration system for rent regulated hous-
+ ing  has  been  eroded  by  the  use of base date rents, rather than the
+ service and filing of reliable registration  statements,  to  set  rents
+ under  the  law  in  effect between the enactment of the Rent Regulation
+ Reform Act of 1997 and the HSTPA.  It  is  therefore  public  policy  to
+ impose,  prospectively  from  the  date of the enactment of the HSTPA, a
+ rent calculation formula that, insofar as possible,  derives  the  legal
+ regulated  rents  for  apartments  from reliable registration statements
  served upon tenants and made available to the public; and
-  (h) because pre-HSTPA law with respect to the maintenance by landlords
- of  rent  records was complex, and has an ongoing impact upon the calcu-
+  (g) because pre-HSTPA law with respect to the maintenance by landlords
+ of rent records was complex, and has an ongoing impact upon  the  calcu-
  lation of post-HSTPA rents,  it is necessary to codify the pre-HSTPA law
- that applied to the destruction of rent records prior to  the  enactment
- of  the  HSTPA,  and  to  define clearly the impact of such law upon the
+ that  applied  to the destruction of rent records prior to the enactment
+ of the HSTPA, and to define clearly the impact  of  such  law  upon  the
  prospective calculation of rents under the HSTPA.
-  § 2. (a) The legal rent for all rent  stabilized  apartments  for  the
- period  from  July 1, 2019 and thereafter shall be determined in accord-
+  §  2.  (a)  The  legal rent for all rent stabilized apartments for the
+ period from July 1, 2019 and thereafter shall be determined  in  accord-
  ance with Part F of the HSTPA. Where the legal regulated rent for a rent
- stabilized apartment for the period prior to  June  14,  2019  has  been
- determined  by  any  court  or administrative agency, that determination
- shall not foreclose a recalculation of the post-HSTPA rent, except  that
- any  pre-HSTPA  rent  that,  as of June 14, 2019, is lower than the rent
- that would be permitted to be charged under the HSTPA, shall  be  deemed
- to  be  the  lawful  rent under the HSTPA on June 15, 2019, and shall be
+ stabilized  apartment  for  the  period  prior to June 14, 2019 has been
+ determined by any court or  administrative  agency,  that  determination
+ shall  not foreclose a recalculation of the post-HSTPA rent, except that
+ any pre-HSTPA rent that, as of June 14, 2019, is  lower  than  the  rent
+ that  would  be permitted to be charged under the HSTPA, shall be deemed
+ to be the lawful rent under the HSTPA on June 15,  2019,  and  shall  be
  used as the basis for calculating subsequent rents under the HSTPA;
-  (b) Subdivision (a) of this section shall apply to all cases,  includ-
+  (b)  Subdivision (a) of this section shall apply to all cases, includ-
  ing those pending as of June 14, 2019 before any court, appellate tribu-
- nal,  or  administrative agency in which a claim for rent overcharges or
- rent arrears has been asserted with respect to rent stabilized  housing,
+ nal, or administrative agency in which a claim for rent  overcharges  or
+ rent  arrears has been asserted with respect to rent stabilized housing,
  the legal regulated rent for the period from June 14, 2019 and thereaft-
- A. 4047--A  3
- 
- er  shall  be  determined  in  accordance with Part F of the HSTPA.  The
- legal regulated rent for the portion of any overcharge  claim  involving
- rents  paid  prior  to June 14, 2019 shall be determined under pre-HSTPA
+ er shall be determined in accordance with Part F  of  the  HSTPA.  The
+ legal  regulated  rent for the portion of any overcharge claim involving
+ rents paid prior to June 14, 2019 shall be  determined  under  pre-HSTPA
  law,  including the default formula in cases of fraud, as codified here-
  in.
   (c) Nothing in this  act,  or  the  HSTPA,  or  prior  law,  shall  be
  construed  as restricting, impeding or diminishing the use of records of
  any age or type, going back to  any  date  that  may  be  relevant,  for
+ A. 4047--B  3
+
  purposes  of  determining  the  status  of  any apartment under the rent
  stabilization law;
-  (d) The legal regulated rent payable for the period prior to June  14,
- 2019  shall  be calculated in accordance with the law in effect prior to
+  (d)  The legal regulated rent payable for the period prior to June 14,
+ 2019 shall be calculated in accordance with the law in effect  prior  to
  the HSTPA, including the prior four year limitation on the consideration
- of rent records, and including the fraud exception  to  such  limitation
+ of  rent  records,  and including the fraud exception to such limitation
  and such other exceptions as existed under prior law and under the regu-
  lations of the New York state division of housing and community renewal.
  Nothing in this act shall be construed as limiting such exceptions or as
  limiting the application of any equitable doctrine that extends statutes
- of  limitations  generally.  With  respect to the calculation of legal
- rents for the period either prior to or subsequent to June 14, 2019,  an
- owner  shall  be  deemed to have committed fraud if the owner shall have
- committed a material breach of any duty, arising under statutory, admin-
- istrative or common law, to disclose truthfully to any  tenant,  govern-
- ment agency or judicial or administrative tribunal, the rent, regulatory
- status,  or lease information, for purposes of claiming an unlawful rent
- or claiming to have deregulated an apartment, whether or not the owner's
- conduct would be considered fraud under the common law, and  whether  or
- not a complaining tenant specifically relied on untruthful or misleading
- statements  in  registrations, leases, or other documents. The following
- conduct shall be presumed to have been the product of  such  fraud:  (1)
- the  unlawful deregulation of any apartment, including such deregulation
- as results from claiming an unlawful increase such as would have brought
- the rent over the deregulation threshold that existed under  prior  law,
- unless  the  landlord  can  prove  good faith reliance on a directive or
- ruling by an administrative agency or court; or (2) beginning October 1,
- 2011, failing to register, as rent stabilized, any apartment in a build-
- ing receiving J-51 or 421-a benefits;
+ of limitations generally.
   (e) In accordance with the practice of the New York state division  of
  housing and community renewal prior to June 14, 2019, where fraud is not
  established,  base  rents  of apartments unlawfully deregulated shall be
@@ -178,8 +152,6 @@ S T A T E  O F  N E W  Y O R K
  the registration served and filed prior to such  lawful  destruction  of
  records shall be presumed to be reliable, for purposes of any post-HSTPA
  calculation  of the rent, but that presumption shall be rebuttable.  The
- A. 4047--A  4
- 
  parties shall be entitled to discovery  of  any  evidence  found  to  be
  reasonably  necessary  to  demonstrate  the  legal rent. Nothing in this
  paragraph shall be interpreted as authorizing  the  destruction  of  any
