@@ -1,6 +1,6 @@
 # Establishes a moratorium on the installation of synthetic turf pending a comprehensive environmental and public health study
 
-**Bill ID:** A7158A
+**Bill ID:** A7158AA
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes a moratorium on the installation of synthetic turf pending a compreh
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7158
+  7158--A
  
   2023-2024 Regular Sessions
  
@@ -26,46 +26,45 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. LEE -- read once and referred to the Committee on
-  Environmental Conservation
+  Environmental  Conservation  --  committee  discharged,  bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN  ACT  to establish a moratorium on the installation of synthetic turf
-  pending a comprehensive environmental  and  public  health  study;  to
-  amend the environmental conservation law, in relation to environmental
-  impact assessments of the use of synthetic turf; and providing for the
-  repeal of certain provisions upon expiration thereof
+ AN ACT to establish a moratorium on the installation of  synthetic  turf
+  pending  a  comprehensive  environmental  and public health study; and
+  providing for the repeal of certain provisions upon expiration thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1.  Legislative findings. The legislature finds that  increas-
- ingly,  synthetic  turf is being installed in many locations in New York
+  Section  1.  Legislative findings. The legislature finds that increas-
+ ingly, synthetic turf is being installed in many locations in  New  York
  state, including parks, athletic fields and other settings where natural
- grass was previously grown. In recent years, crumb rubber fill is  being
- used  as  a  component  of synthetic turf and mulch. Crumb rubber is the
- result of processing waste tires,  which  contain  numerous  components,
- some  of  which are known to be hazardous to people and the environment.
+ grass  was previously grown. In recent years, crumb rubber fill is being
+ used as a component of synthetic turf and mulch.  Crumb  rubber  is  the
+ result  of  processing  waste  tires, which contain numerous components,
+ some of which are known to be hazardous to people and  the  environment.
  The hazardous components include arsenic, cadmium, chromium, lead, vana-
  dium, zinc and acetone. Health effects associated with these components,
- at dangerous levels,  include  birth  defects,  cancer,  nervous  system
- damage  and  immune  system suppression. While various options for waste
- tire use are essential to reducing the significant stockpiles  of  waste
+ at  dangerous  levels,  include  birth  defects,  cancer, nervous system
+ damage and immune system suppression. While various  options  for  waste
+ tire  use  are essential to reducing the significant stockpiles of waste
  tires, such uses should not threaten or compromise public health.
-  The  legislature  finds  that more information is necessary to make an
- informed decision on the appropriate uses of synthetic  turf  containing
- crumb  rubber.  In the interest of preventing adverse health impacts and
+  The legislature finds that more information is necessary  to  make  an
+ informed  decision  on the appropriate uses of synthetic turf containing
+ crumb rubber. In the interest of preventing adverse health  impacts  and
  contamination to natural resources, the legislature finds that a compre-
- hensive environmental and public health study on the  potential  threats
+ hensive  environmental  and public health study on the potential threats
  associated with the use of synthetic turf is warranted.
-  Therefore,  the  legislature  finds  that it is consistent with public
- policy to require such comprehensive  environmental  and  public  health
+  Therefore, the legislature finds that it  is  consistent  with  public
+ policy  to  require  such  comprehensive environmental and public health
  study to be undertaken immediately; and, in the meantime, to temporarily
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06984-01-3
- A. 7158  2
+  LBD06984-02-3
+ A. 7158--A  2
  
- suspend  the  installation of synthetic turf products that contain crumb
+ suspend the installation of synthetic turf products that  contain  crumb
  rubber.
   §  2.  Moratorium  on  the installation of synthetic turf. 1.  Defi-
  nitions. For the purposes of this act, the following  terms  shall  have
@@ -78,71 +77,52 @@ S T A T E  O F  N E W  Y O R K
  outdoor  playing or athletic fields, indoor athletic facilities or other
  venues.
   2. Moratorium. A moratorium is hereby established on the  installation
- of  synthetic  turf  for a period of 6 months from the effective date of
- this act or until the department of environmental  conservation  reports
- to  the governor and the legislature on its findings and recommendations
- as required in section three of this act.
+ of  synthetic turf on public property located within a city with a popu-
+ lation of one million or more that is also located  within  a  disadvan-
+ taged  community  established  under  the  criteria set forth in section
+ 75-0111 of the environmental conservation law for a period of  6  months
+ from  the effective date of this act or until the department of environ-
+ mental conservation reports to the governor and the legislature  on  its
+ findings and recommendations as required in section three of this act.
   § 3. Study of the use of synthetic turf. 1. The department of environ-
  mental conservation, in cooperation with the department of health, shall
- immediately undertake a review of all available  data  relating  to  the
- potential  environmental and health risks and effects of synthetic turf,
- with particular attention to the crumb rubber content of such  synthetic
+ immediately  undertake  a  review  of all available data relating to the
+ potential environmental and health risks and effects of synthetic  turf,
+ with  particular attention to the crumb rubber content of such synthetic
  turf.
-  2.  The  commissioner  of  environmental  conservation,  or his or her
+  2. The commissioner of  environmental  conservation,  or  his  or  her
  designee, shall:
   a. Solicit input from environmental and public health specialists, and
  other stakeholders in an open, public process;
   b. Examine various routes of exposure and the health and environmental
- impact of these pathways including,  but  not  limited  to,  small  fill
+ impact  of  these  pathways  including,  but  not limited to, small fill
  particle inhalation, volatility, leaching to groundwater, dermal absorp-
- tion,  and  persistence  in  the environment of original and degradation
+ tion, and persistence in the environment  of  original  and  degradation
  by-products;
   c. Prepare a report to the governor and the legislature which includes
- research and studies conducted on synthetic turf which were  the  source
- of  the report findings and recommendations for appropriate and inappro-
- priate use of synthetic turf, crumb rubber and waste tires. Such  report
- shall  be  filed  within  six  months of the effective date of this act,
- unless the commissioner of environmental conservation requests in  writ-
+ research  and  studies conducted on synthetic turf which were the source
+ of the report findings and recommendations for appropriate and  inappro-
+ priate  use of synthetic turf, crumb rubber and waste tires. Such report
+ shall be filed within six months of the  effective  date  of  this  act,
+ unless  the commissioner of environmental conservation requests in writ-
  ing, an extension of time; and
-  d.  Conduct  an  outreach program to inform local governments, private
- organizations, schools and the public regarding  the  findings  of  such
+  d. Conduct an outreach program to inform  local  governments,  private
+ organizations,  schools  and  the  public regarding the findings of such
  report. If necessary, information on safe alternatives to synthetic turf
- in  settings  where  this  material is a potential or actual health risk
+ in settings where this material is a potential  or  actual  health  risk
  should be disseminated to the public.
-  3. All other departments or agencies  of  the  state  or  subdivisions
+  3.  All  other  departments  or  agencies of the state or subdivisions
  thereof, and local governments shall, at the request of the commissioner
- of  environmental  conservation, provide expertise, assistance, and data
- that will enable such commissioner to carry out his or  her  powers  and
+ of environmental conservation, provide expertise, assistance,  and  data
+ that  will  enable  such commissioner to carry out his or her powers and
  duties.
-  §  4.  Section 8-0109 of the environmental conservation law is amended
- by adding a new subdivision 10 to read as follows:
-  10. NOTWITHSTANDING ANY LAW, RULE OR REGULATION  TO  THE  CONTRARY,  A
- SITE-SPECIFIC  ENVIRONMENTAL  IMPACT STATEMENT SHALL BE PREPARED FOR ANY
- ACTION THAT INCLUDES THE INSTALLATION OF SYNTHETIC TURF. FOR PURPOSES OF
- THIS SUBDIVISION, "SYNTHETIC TURF" MEANS ANY MATERIALS  OR  COMPOSITIONS
- THAT  INCLUDE  CRUMB  RUBBER  AS  A  COMPONENT USED IN PLACE OF GRASS TO
- A. 7158  3
- 
- SURFACE PARKS, OUTDOOR  PLAYING  OR  ATHLETIC  FIELDS,  INDOOR  ATHLETIC
- FACILITIES  OR  OTHER  VENUES.  SUCH  IMPACT STATEMENT SHALL INCLUDE THE
- POTENTIAL PUBLIC HEALTH RISKS FROM EXPOSURE TO SYNTHETIC TURF AND  MAIN-
- TENANCE  PRODUCTS,  INCLUDING INHALATION IMPACT, VOLATILITY IMPACTS, AND
- IMPACT OF HAZARDOUS LEVELS OF CONSTITUENTS OF SYNTHETIC  TURF.  ENVIRON-
- MENTAL IMPACTS SHALL  BE ASSESSED, INCLUDING MIGRATION OF CHEMICALS FROM
- THE  SYNTHETIC TURF INTO AIR, WATER AND  SOIL. SUCH STATEMENT SHALL MEET
- THE REQUIREMENTS OF THE MOST DETAILED ENVIRONMENTAL  IMPACT  STATEMENT
- REQUIRED  BY  THIS SECTION OR BY ANY SUCH RULE OR REGULATION PROMULGATED
- PURSUANT TO THIS SECTION.
-  § 5. Section 27-1901 of the environmental conservation law is  amended
- by adding a new subdivision 2-a to read as follows:
-  2-A.  "CRUMB  RUBBER"  MEANS  GROUND  RUBBER DERIVED FROM WASTE TIRES,
- WHICH CONTAIN ONE OR MORE OF THE FOLLOWING INGREDIENTS: ARSENIC,  CADMI-
- UM, CHROMIUM, LEAD, VANADIUM, ZINC, AND ACETONE.
-  §  6.  This  act shall take effect immediately; (a) provided, however,
+  § 4. This act shall take effect immediately;  (a)  provided,  however,
  that sections two and three of this act shall continue in full force and
- effect for six months from such effective date, or until the  department
- of  environmental  conservation reports to the governor and the legisla-
- ture as required by section three of this act, whichever date is  later,
+ effect  for six months from such effective date, or until the department
+ of environmental conservation reports to the governor and  the  legisla-
+ A. 7158--A  3
+ 
+ ture  as required by section three of this act, whichever date is later,
  when upon such date the provisions of sections two and three of this act
  shall be deemed repealed; and
   (b) provided that the commissioner of environmental conservation shall
