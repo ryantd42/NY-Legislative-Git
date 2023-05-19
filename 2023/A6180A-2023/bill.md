@@ -1,6 +1,6 @@
 # Relates to death certificates
 
-**Bill ID:** A6180A
+**Bill ID:** A6180AA
 **Session:** 2023
 **Sponsor:** Edward Braunstein
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Adds domestic partner, grandparents, aunts, uncles, cousins, nieces and nephews 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6180
+  6180--A
  
   2023-2024 Regular Sessions
  
@@ -26,36 +26,37 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  BRAUNSTEIN  -- read once and referred to the
-  Committee on Health
+  Committee on Health -- committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public health law, in relation to death certificates
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section  1.  Paragraph  (a)  of  subdivision  1 of section 4174 of the
- public health law, as amended by chapter 130 of the  laws  of  2012,  is
+ 
+  Section 1. Paragraph (a) of subdivision  1  of  section  4174  of  the
+ public  health  law,  as  amended by chapter 130 of the laws of 2012, is
  amended to read as follows:
-  (a)  upon request, issue to any applicant either a certified copy or a
- certified transcript of the record of any  death  registered  under  the
- provisions  of  this chapter (1) when a documented medical need has been
- demonstrated, (2) when a documented need to establish a legal  right  or
- claim  has  been demonstrated, (3) when needed for medical or scientific
- research approved by the commissioner, (4) when needed  for  statistical
- or  epidemiological  purposes  approved  by  the  commissioner, (5) upon
+  (a) upon request, issue to any applicant either a certified copy or  a
+ certified  transcript  of  the  record of any death registered under the
+ provisions of this chapter (1) when a documented medical need  has  been
+ demonstrated,  (2)  when a documented need to establish a legal right or
+ claim has been demonstrated, (3) when needed for medical  or  scientific
+ research  approved  by the commissioner, (4) when needed for statistical
+ or epidemiological purposes  approved  by  the  commissioner,  (5)  upon
  specific request by municipal, state or federal agencies for statistical
- or official purposes, (6) upon specific request of the AGENT, AS DEFINED
- IN SUBPARAGRAPH (I) OF PARAGRAPH (A) OF SUBDIVISION TWO OF SECTION  FOUR
- THOUSAND  TWO  HUNDRED ONE OF THIS CHAPTER, spouse, ON;DOMESTIC partner,
- children, siblings [or], parents , GRANDPARENTS, AUNTS, UNCLES, COUSINS,
- NIECES OR NEPHEWS of the deceased or the lawful representative  of  such
- persons,  or (7) pursuant to the order of a court of competent jurisdic-
- tion on a showing of necessity; except no certified  copy  or  certified
- transcript  of a death record shall be subject to disclosure under arti-
- cle six of the public officers law;
+ or  official purposes, (6) upon specific request of the AGENT, AS DESIG-
+ NATED PURSUANT TO SUBDIVISION THREE OF SECTION FOUR THOUSAND TWO HUNDRED
+ ONE OF THIS CHAPTER, spouse, DOMESTIC PARTNER, children, siblings  [or],
+ parents,  GRANDPARENTS, AUNTS, UNCLES, COUSINS, NIECES OR NEPHEWS of the
+ deceased or the lawful representative of such persons, or  (7)  pursuant
+ to the order of a court of competent jurisdiction on a showing of neces-
+ sity; except no certified copy or certified transcript of a death record
+ shall  be subject to disclosure under article six of the public officers
+ law;
   § 2. This act shall take effect immediately.
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10401-01-3
+  LBD10401-02-3
