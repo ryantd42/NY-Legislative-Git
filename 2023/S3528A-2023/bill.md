@@ -1,6 +1,6 @@
 # Sets standards for addiction professionals
 
-**Bill ID:** S3528A
+**Bill ID:** S3528AA
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to the scope of responsibilities of the office of addiction services and
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3528
+  3528--A
  
   2023-2024 Regular Sessions
  
@@ -27,102 +27,103 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
   printed  to  be committed to the Committee on Alcoholism and Substance
-  Abuse
+  Abuse -- committee discharged,  bill  amended,  ordered  reprinted  as
+  amended and recommitted to said committee
  
  AN ACT to amend the mental hygiene law, in relation to setting standards
   for addiction professionals
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1.  Section 19.07 of the mental hygiene law, as added by chap-
- ter  223  of  the  laws  of 1992, subdivisions (a) and (g) as amended by
- chapter 271 of the laws of 2010, subdivisions (b) and (c) as amended  by
+ ter 223 of the laws of 1992, subdivisions (a)  and  (g)  as  amended  by
+ chapter  271 of the laws of 2010, subdivisions (b) and (c) as amended by
  chapter 281 of the laws of 2019, subdivision (d) as amended by section 5
  of part I of chapter 58 of the laws of 2005 and the opening paragraph of
- paragraph  1 of subdivision (d) as amended by chapter 449 of the laws of
- 2021, subdivision (e) as amended by chapter 558 of  the  laws  of  1999,
+ paragraph 1 of subdivision (d) as amended by chapter 449 of the laws  of
+ 2021,  subdivision  (e)  as  amended by chapter 558 of the laws of 1999,
  subdivision (f) as added by chapter 383 of the laws of 1998, subdivision
- (h)  as  separately amended by chapters 322 and 494 of the laws of 2021,
- subdivision (i) as amended by section 31-a of part AA of chapter  56  of
- the  laws of 2019, subdivision (j) as amended by chapter 146 of the laws
- of 2014, subdivision (k) as added by  chapter 40 of the  laws  of  2014,
+ (h) as separately amended by chapters 322 and 494 of the laws  of  2021,
+ subdivision  (i)  as amended by section 31-a of part AA of chapter 56 of
+ the laws of 2019, subdivision (j) as amended by chapter 146 of the  laws
+ of  2014,  subdivision  (k) as added by  chapter 40 of the laws of 2014,
  subdivision (l) as added by chapter 323 of the laws of 2018, subdivision
- (m)  as  added  by  chapter  493 of the laws of 2019, subdivision (n) as
+ (m) as added by chapter 493 of the laws  of  2019,  subdivision  (n)  as
  added by chapter 190 of the laws of 2021 and subdivision (n) as added by
  chapter 762 of the laws of 2022, is amended to read as follows:
- § 19.07 Office of [alcoholism and substance  abuse  services]  ADDICTION
+ § 19.07 Office  of  [alcoholism  and substance abuse services] ADDICTION
   SERVICES AND SUPPORTS; scope of responsibilities.
-  (a)  The office of [alcoholism and substance abuse services] ADDICTION
- SERVICES AND SUPPORTS is charged with the  responsibility  for  assuring
- the  development  of  comprehensive plans, programs, and services in the
- areas of research, prevention, care, treatment, rehabilitation,  includ-
+  (a) The office of [alcoholism and substance abuse services]  ADDICTION
+ SERVICES  AND  SUPPORTS  is charged with the responsibility for assuring
+ the development of comprehensive plans, programs, and  services  in  the
+ areas  of research, prevention, care, treatment, rehabilitation, includ-
  ing relapse prevention and recovery maintenance, education, and training
- of  persons  who  [abuse  or are dependent on alcohol and/or substances]
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07098-01-3
- S. 3528  2
+  LBD07098-02-3
+ S. 3528--A  2
  
- HAVE OR ARE AT RISK OF AN ADDICTIVE DISORDER  and  their  families.  THE
- TERM  ADDICTIVE  DISORDER  SHALL  INCLUDE COMPULSIVE GAMBLING EDUCATION,
- PREVENTION AND TREATMENT CONSISTENT WITH SECTION 41.57 OF THIS  CHAPTER.
- Such  plans,  programs, and services shall be developed with the cooper-
+ of persons who [abuse or are dependent  on  alcohol  and/or  substances]
+ HAVE  OR  ARE  AT  RISK OF AN ADDICTIVE DISORDER and their families. THE
+ TERM ADDICTIVE DISORDER SHALL  INCLUDE  COMPULSIVE  GAMBLING  EDUCATION,
+ PREVENTION  AND TREATMENT CONSISTENT WITH SECTION 41.57 OF THIS CHAPTER.
+ Such plans, programs, and services shall be developed with  the  cooper-
  ation of the office, the other offices of the department where appropri-
- ate, local governments, consumers and community organizations and  enti-
+ ate,  local governments, consumers and community organizations and enti-
  ties.  The  office  shall  provide  appropriate  facilities  and  shall
- encourage the provision of facilities by local government and  community
+ encourage  the provision of facilities by local government and community
  organizations and entities. [The office is also responsible for develop-
- ing  plans,  programs and services related to compulsive gambling educa-
- tion, prevention and treatment consistent with  section  41.57  of  this
+ ing plans, programs and services related to compulsive  gambling  educa-
+ tion,  prevention  and  treatment  consistent with section 41.57 of this
  chapter.]
-  (b)  The office of [alcoholism and substance abuse services] ADDICTION
- SERVICES AND SUPPORTS shall advise and assist the governor in  improving
- services  and  developing policies designed to meet the needs of persons
- who suffer from OR ARE AT RISK OF an addictive disorder and their  fami-
- lies,  and  to  encourage their rehabilitation, maintenance of recovery,
+  (b) The office of [alcoholism and substance abuse services]  ADDICTION
+ SERVICES  AND SUPPORTS shall advise and assist the governor in improving
+ services and developing policies designed to meet the needs  of  persons
+ who  suffer from OR ARE AT RISK OF an addictive disorder and their fami-
+ lies, and to encourage their rehabilitation,  maintenance  of  recovery,
  and functioning in society.
-  (c) The office of [alcoholism and substance abuse services]  ADDICTION
- SERVICES  AND  SUPPORTS  shall  have  the responsibility for seeing that
- persons who suffer from OR ARE AT RISK  OF  an  addictive  disorder  and
+  (c)  The office of [alcoholism and substance abuse services] ADDICTION
+ SERVICES AND SUPPORTS shall have  the  responsibility  for  seeing  that
+ persons  who  suffer  from  OR  ARE AT RISK OF an addictive disorder and
  their families are provided with addiction services, care and treatment,
- and  that  such  services, care, treatment and rehabilitation is of high
- quality and effectiveness, and that the personal  and  civil  rights  of
- persons  seeking  and  receiving addiction services, care, treatment and
+ and that such services, care, treatment and rehabilitation  is  of  high
+ quality  and  effectiveness,  and  that the personal and civil rights of
+ persons seeking and receiving addiction services,  care,  treatment  and
  rehabilitation are adequately protected.
-  (d) The office of [alcoholism and substance abuse services]  ADDICTION
- SERVICES  AND SUPPORTS shall foster programs for the training and devel-
+  (d)  The office of [alcoholism and substance abuse services] ADDICTION
+ SERVICES AND SUPPORTS shall foster programs for the training and  devel-
  opment of persons capable of providing the foregoing services, including
- but not limited to a process of  issuing,  either  directly  or  through
- contract,  LICENSES,  credentials,  CERTIFICATES  OR  AUTHORIZATIONS for
+ but  not  limited  to  a  process of issuing, either directly or through
+ contract, LICENSES,  credentials,  CERTIFICATES  OR  AUTHORIZATIONS  for
  [alcoholism and substance abuse counselors or gambling] addiction [coun-
  selors] PROFESSIONALS in accordance with the following:
   (1) The office shall establish minimum qualifications [for counselors]
- AND A DEFINITION OF THE PRACTICE  OF  THE  PROFESSION  OF  AN  ADDICTION
- PROFESSIONAL  in all phases of delivery of services to persons and their
- families who are suffering from [alcohol and/or substance  abuse  and/or
- chemical  dependence  and/or  compulsive gambling that shall include] OR
- ARE AT RISK OF AN ADDICTIVE DISORDER INCLUDING, but not be  limited  to,
+ AND  A  DEFINITION  OF  THE  PRACTICE  OF THE PROFESSION OF AN ADDICTION
+ PROFESSIONAL in all phases of delivery of services to persons and  their
+ families  who  are suffering from [alcohol and/or substance abuse and/or
+ chemical dependence and/or compulsive gambling that  shall  include]  OR
+ ARE  AT  RISK OF AN ADDICTIVE DISORDER INCLUDING, but not be limited to,
  completion of approved courses of study or equivalent on-the-job experi-
- ence  in [alcoholism and substance abuse counseling and/or counseling of
- compulsive gambling] ADDICTION DISORDER SERVICES. Such approved  courses
- of  study  or  equivalent on-the-job experience shall include: providing
- trauma-informed, patient-centered care; referring individuals to  appro-
- priate  treatments for co-occurring disorders; and sensitivity training.
- Such courses shall be updated as needed to reflect evolving  best  prac-
- tices  in  harm  reduction,  treatment  and  long-term recovery. For the
- purposes of this paragraph, sensitivity training shall mean  a  form  of
- training  with  the goal of making people more aware of their own preju-
+ ence in [alcoholism and substance abuse counseling and/or counseling  of
+ compulsive  gambling] ADDICTION DISORDER SERVICES. Such approved courses
+ of study or equivalent on-the-job experience  shall  include:  providing
+ trauma-informed,  patient-centered care; referring individuals to appro-
+ priate treatments for co-occurring disorders; and sensitivity  training.
+ Such  courses  shall be updated as needed to reflect evolving best prac-
+ tices in harm reduction,  treatment  and  long-term  recovery.  For  the
+ purposes  of  this  paragraph, sensitivity training shall mean a form of
+ training with the goal of making people more aware of their  own  preju-
  dices and more sensitive to others.
-  (i) The office shall establish procedures  for  issuing,  directly  or
- through  contract, LICENSES, credentials, CERTIFICATES OR AUTHORIZATIONS
+  (i)  The  office  shall  establish procedures for issuing, directly or
+ through contract, LICENSES, credentials, CERTIFICATES OR  AUTHORIZATIONS
  to [counselors] ADDICTION PROFESSIONALS who meet minimum qualifications,
- including the establishment  of  appropriate  fees,  and  shall  further
+ including  the  establishment  of  appropriate  fees,  and shall further
  establish procedures to suspend, revoke, or annul such LICENSES, creden-
- S. 3528  3
+ S. 3528--A  3
  
- tials,  CERTIFICATES  OR  AUTHORIZATIONS for good cause. Such procedures
+ tials, CERTIFICATES OR AUTHORIZATIONS for good  cause.  Such  procedures
  shall be promulgated by the commissioner by rule or regulation.
   (ii)  The  commissioner shall establish [a credentialing] AN ADDICTION
  PROFESSIONALS board which shall provide advice concerning the LICENSING,
@@ -177,8 +178,8 @@ S T A T E  O F  N E W  Y O R K
  effective date of amendments to this section shall be deemed [C.A.S.A.C.
  designated] AN ADDICTION PROFESSIONAL CONSISTENT WITH  THEIR  EXPERIENCE
  AND EDUCATION.
- S. 3528  4
-
+ S. 3528--A  4
+ 
   (e)  Consistent  with  the  requirements of subdivision (b) of section
  5.05 of this chapter, the office shall carry out the provisions of arti-
  cle thirty-two of this chapter as such article  pertains  to  regulation
@@ -235,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  later than the first day of December of  each  year,  the  office  shall
  submit  a report regarding: (1) the adequacy and effectiveness of [alco-
  hol and substance use disorder treatment  programs]  ADDICTION  DISORDER
- S. 3528  5
+ S. 3528--A  5
  
  SERVICES  operated by the department of corrections and community super-
  vision; (2) the total number of incarcerated individuals in correctional
@@ -293,7 +294,7 @@ S T A T E  O F  N E W  Y O R K
  (2) how to recognize the signs  of  addiction;  and  (3)  the  resources
  available  for those needing assistance with heroin or opioid addiction.
  The campaign shall further be  designed  to  enhance  awareness  of  the
- S. 3528  6
+ S. 3528--A  6
  
  opioid  overdose prevention program authorized pursuant to section thir-
  ty-three hundred nine of the public health law and the  "Good  Samaritan
@@ -351,7 +352,7 @@ S T A T E  O F  N E W  Y O R K
  ers, as defined by subdivision six of section two  hundred  thirty-eight
  of the public health law, and qualified health professionals, recognized
  by  the  office  to  enable  the  implementation of the screening, brief
- S. 3528  7
+ S. 3528--A  7
  
  intervention, and referral to treatment program (SBIRT).  Such  training
  materials shall include any and all materials necessary to inform health
@@ -362,4 +363,5 @@ S T A T E  O F  N E W  Y O R K
  professionals through the  official  websites  of  the  office  and  the
  department  of  health  and by any other means deemed appropriate by the
  commissioner.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect on the first of April next  succeeding
+ the date on which it shall have become a law.
