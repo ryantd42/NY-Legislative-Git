@@ -1,6 +1,6 @@
 # Adds North Chuctanunda creek to the definition of inland waterways
 
-**Bill ID:** A3463A
+**Bill ID:** A3463AA
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Adds North Chuctanunda Creek to the definition of inland waterways.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3463
+  3463--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. SANTABARBARA -- read once and referred to the
-  Committee on Environmental Conservation
+  Committee on Environmental Conservation -- committee discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN ACT to amend the executive law, in  relation  to  adding  Chuctanunda
-  creek to the definition of inland waterways
- 
+ AN ACT to amend the executive law, in relation to adding North  Chuctan-
+  unda creek to the definition of inland waterways
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -40,24 +42,23 @@ S T A T E  O F  N E W  Y O R K
   (c) the state's major creeks comprised of the 18 Mile Creek located in
  Erie  county,  Chittenango Creek, Bash Bish and Kinderhook Creek located
  in Columbia county, Kinderhook Creek located in Rensselaer county, Bash-
- er Kill, Bushkill, Cattaraugus, Cayadutta, CHUCTANUNDA, Cincinnati, East
- Kill, Esopus  (including  upper  and  lower  branches),  Ferguson,  Fish
- (including east and west branches), Gooseberry, Great Valley, Kennyetto,
- Little Sandy, Moyer, Mud Creek located in Oneida county, Ninemile Creek,
- Onondaga,  Oriskany, Peekskill Hollow, Reall, Roeliff Jansen Kill, Rond-
- out, Sandy, Sauquoit, Schoharie, Shawangunk Kill, Six Mile Creek,  South
- Sandy,  Oatka,  Tonawanda,  West  Kill, Scajaquada, Wappinger, Webatuck,
- Wassaic, Willsey in the village of  Wurtsboro,  Wood  Creek  located  in
- Herkimer  county,  Wood  Creek  located  in  Oneida  county, Black Creek
- located in Monroe county, Black Creek located  in  Genesee  and  Wyoming
- counties, Ellicott Creek located in Erie county, Wynantskill, Claverack,
- Taghkanic,  Agawamuck,  Wyomanock,  and  Ley  Creek  and Butternut Creek
- located in Onondaga county, Nanticoke and Sawkill  (in  Ulster  county),
- Saw  Kill  and  Fall  Kill  located in Dutchess county, Otter Kill Creek
+ er Kill, Bushkill, Cattaraugus, Cayadutta, NORTH CHUCTANUNDA,  Cincinna-
+ ti,  East  Kill,  Esopus (including upper and lower branches), Ferguson,
+ Fish (including east  and  west  branches),  Gooseberry,  Great  Valley,
+ Kennyetto,  Little  Sandy,  Moyer,  Mud  Creek located in Oneida county,
+ Ninemile Creek, Onondaga, Oriskany,  Peekskill  Hollow,  Reall,  Roeliff
+ Jansen  Kill,  Rondout, Sandy, Sauquoit, Schoharie, Shawangunk Kill, Six
+ Mile Creek,  South  Sandy,  Oatka,  Tonawanda,  West  Kill,  Scajaquada,
+ Wappinger,  Webatuck, Wassaic, Willsey in the village of Wurtsboro, Wood
+ Creek located in Herkimer county, Wood Creek located in  Oneida  county,
+ Black Creek located in Monroe county, Black Creek located in Genesee and
+ Wyoming  counties,  Ellicott  Creek located in Erie county, Wynantskill,
+ Claverack, Taghkanic, Agawamuck, Wyomanock, and Ley Creek and  Butternut
+ Creek located in Onondaga county, Nanticoke and Sawkill (in Ulster coun-
+ ty), Saw Kill and Fall Kill located in Dutchess county, Otter Kill Creek
  located in Orange county, Black Meadow Creek located in Orange county;
   § 2. This act shall take effect immediately.
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07325-01-3
+  LBD07325-04-3
