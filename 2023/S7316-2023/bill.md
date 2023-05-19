@@ -1,0 +1,73 @@
+# Creates the crimes of tampering with electronic monitoring equipment in the first and second degree
+
+**Bill ID:** S7316
+**Session:** 2023
+**Sponsor:** Patricia Canzoneri-Fitzpatrick
+**Status:** In Senate Committee
+
+## Summary
+
+Creates the crimes of tampering with electronic monitoring equipment in the first and second degrees.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7316
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 19, 2023
+  ___________
+ 
+ Introduced  by  Sen.  CANZONERI-FITZPATRICK  --  read  twice and ordered
+  printed, and when printed to be committed to the Committee on Codes
+ 
+ AN ACT to amend the penal law, in relation  to  creating  the  crime  of
+  tampering with electronic monitoring equipment
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The penal law is amended by adding two new sections  145.75
+ and 145.80 to read as follows:
+ § 145.75 TAMPERING  WITH  ELECTRONIC  MONITORING EQUIPMENT IN THE SECOND
+  DEGREE.
+  1. FOR PURPOSES OF THIS  SECTION,  "ELECTRONIC  MONITORING  EQUIPMENT"
+ MEANS  AN  INSTRUMENT  OR DEVICE UTILIZED IN ACCORDANCE WITH SUBDIVISION
+ FOUR OF SECTION 65.10 OF THIS CHAPTER.
+  2. A PERSON IS GUILTY OF TAMPERING WITH ELECTRONIC  MONITORING  EQUIP-
+ MENT IN THE SECOND DEGREE WHEN, HAVING NO RIGHT TO DO SO NOR ANY REASON-
+ ABLE  GROUND TO BELIEVE THAT HE OR SHE HAS SUCH RIGHT, HE OR SHE TAMPERS
+ WITH ELECTRONIC MONITORING EQUIPMENT, OR  DAMAGES  OR  OTHERWISE  ALTERS
+ SUCH  ELECTRONIC MONITORING EQUIPMENT IN AN EFFORT TO INTERFERE WITH ANY
+ SIGNAL, IMPULSE OR DATA BEING TRANSMITTED BY SUCH ELECTRONIC  MONITORING
+ EQUIPMENT.
+  TAMPERING WITH ELECTRONIC MONITORING EQUIPMENT IN THE SECOND DEGREE IS
+ A CLASS A MISDEMEANOR.
+ § 145.80 TAMPERING  WITH  ELECTRONIC  MONITORING  EQUIPMENT IN THE FIRST
+  DEGREE.
+  1. A PERSON IS GUILTY OF TAMPERING WITH ELECTRONIC  MONITORING  EQUIP-
+ MENT  IN  THE  FIRST  DEGREE  WHEN, AS PART OF COMMITTING TAMPERING WITH
+ ELECTRONIC MONITORING EQUIPMENT IN  THE  SECOND  DEGREE  AS  DEFINED  IN
+ SECTION  145.75 OF THIS ARTICLE, THE PERSON ALSO COMMITS A CRIME THAT IS
+ CLASSIFIED AS A CLASS A OR CLASS B FELONY.
+  2. WHEN A PERSON IS CONVICTED OF TAMPERING WITH ELECTRONIC  MONITORING
+ EQUIPMENT  IN  THE  FIRST  DEGREE, THE COURT SHALL IMPOSE A SENTENCE FOR
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09184-01-3
+ S. 7316  2
+ 
+ THIS CRIME TO RUN CONSECUTIVE TO ANY SENTENCE IMPOSED FOR  A  CONVICTION
+ FOR THE CLASS A OR CLASS B FELONY THAT WAS ALSO COMMITTED.
+  TAMPERING  WITH ELECTRONIC MONITORING EQUIPMENT IN THE FIRST DEGREE IS
+ A CLASS E FELONY.
+  § 2. This act shall take effect on the first of November next succeed-
+ ing the date on which it shall have become a law.
