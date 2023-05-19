@@ -1,6 +1,6 @@
 # Classifies military monuments and memorials as parkland
 
-**Bill ID:** S2328A
+**Bill ID:** S2328AA
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Classifies military monuments and memorials as parkland; provides military monum
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2328
+  2328--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,10 @@ S T A T E  O F  N E W  Y O R K
   January 19, 2023
   ___________
  
- Introduced  by  Sen.  MAYER  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+ Introduced  by  Sens.  MAYER, SKOUFIS -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Local  Government
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
  
  AN ACT to amend the general municipal law, in  relation  to  classifying
   military monuments and memorials as parkland
@@ -57,19 +59,20 @@ S T A T E  O F  N E W  Y O R K
  in  the  municipal corporation, which shall be the official newspaper if
  one exists, within fifteen days of such public  hearing.  The  municipal
  corporation  shall also post such notice on its official website, if one
- exists, for at least fifteen days prior to such hearing. Written  notice
- shall  also  be sent by certified mail to the chief executive officer of
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02367-01-3
- S. 2328  2
+  LBD02367-03-3
+ S. 2328--A  2
  
+ exists, for at least fifteen days prior to such hearing. Written  notice
+ shall  also  be sent by certified mail to the chief executive officer of
  the municipal corporation, if one exists, prior to  the  publication  of
  the notice requirements required by this subdivision. MILITARY MONUMENTS
- OR  MEMORIALS  UNDER THIS SECTION SHALL BE CONSIDERED AS PARKLAND IN THE
- MUNICIPALITY WHEREIN SUCH PROPERTY EXISTS. ANY CHANGE IN STATUS APPROVED
- BY  THE  LOCAL  ENTITY UNDER THIS SECTION SHALL NOT BE ALIENATED, DEVEL-
- OPED, LEASED, TRANSFERRED, SOLD OR DISCONTINUED FOR USE  AS  A  MEMORIAL
- SITE UNLESS SUCH ACTION IS AUTHORIZED BY AN ACT OF THE LEGISLATURE.
+ OR  MEMORIALS  ERECTED  OR  CONSTRUCTED PURSUANT TO SECTIONS TWO HUNDRED
+ TWENTY-SIX OF THE COUNTY LAW, EIGHTY-ONE OF THE  TOWN  LAW,  SEVENTY-TWO
+ AND  SEVENTY-A  OF  THIS  ARTICLE ON PROPERTY OF A MUNICIPAL CORPORATION
+ SHALL REQUIRE AUTHORIZATION BY AN ACT OF THE LEGISLATURE  PRIOR  TO  ANY
+ CHANGE  IN  STATUS INCLUDING ALIENATION, DEVELOPMENT, LEASING, TRANSFER,
+ SALE OR DISCONTINUANCE.
   § 2. This act shall take effect immediately.
