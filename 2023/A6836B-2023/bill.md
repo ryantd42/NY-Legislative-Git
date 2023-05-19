@@ -1,6 +1,6 @@
 # Relates to wild or exotic animals
 
-**Bill ID:** A6836B
+**Bill ID:** A6836BA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that "wild animal" means indigenous, non-domesticated animals native to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6836
+  6836--A
  
   2023-2024 Regular Sessions
  
@@ -26,23 +26,28 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Environmental Conservation
+  Committee on Environmental Conservation -- committee discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the environmental conservation law, in relation to  wild
   or exotic animals
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Paragraph e of subdivision 6  of  section  11-0103  of  the
  environmental  conservation law, as amended by chapter 10 of the laws of
  2005, is amended to read as follows:
-  e. "Wild OR EXOTIC animal" shall not  include  "companion  animal"  as
- defined  in  section  three hundred fifty of the agriculture and markets
- law.  "WILD ANIMAL" MEANS INDIGENOUS, NON-DOMESTICATED ANIMALS NATIVE TO
- THE COUNTRY IN WHICH THEY LIVE. "EXOTIC ANIMAL" MEANS A WILD ANIMAL WITH
- AN ORIGIN OF A DIFFERENT CONTINENT. Wild OR EXOTIC animal includes,  and
- is limited to, any or all of the following GENUS, orders and families:
+  e. ["Wild animal" shall not include "companion animal" as  defined  in
+ section  three  hundred  fifty of the agriculture and markets law.  Wild
+ animal  includes,]  "WILD  ANIMAL"  MEANS  INDIGENOUS,  NON-DOMESTICATED
+ ANIMALS  NATIVE TO THE COUNTRY IN WHICH THEY LIVE. "EXOTIC ANIMAL" MEANS
+ A WILD ANIMAL WITH AN ORIGIN OF A DIFFERENT CONTINENT.  THE  TERMS  WILD
+ ANIMAL AND EXOTIC ANIMAL SHALL NOT INCLUDE "COMPANION ANIMAL" AS DEFINED
+ IN  SECTION THREE HUNDRED FIFTY OF THE AGRICULTURE AND MARKETS LAW. WILD
+ ANIMALS AND EXOTIC ANIMALS INCLUDE and [is] ARE limited to, any  or  all
+ of the following orders [and], families, AND GENERA:
   (1) Nonhuman primates and prosimians,
   (2) Felidae and all hybrids thereof, with the exception of the species
  Felis  catus (domesticated and feral cats, which shall mean domesticated
@@ -54,40 +59,32 @@ S T A T E  O F  N E W  Y O R K
   (3)  Canidae (with the exception of domesticated dogs and captive bred
  fennec foxes (vulpes zerda)),
   (4) Ursidae,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10398-08-3
+ A. 6836--A  2
+ 
   (5) All reptiles that are venomous by nature, pursuant  to  department
  regulation, and the following species and orders: Burmese Python (Python
  m.  bivittatus),  Reticulated  Python (Python reticulatus), African Rock
  Python  (Python  sabae),  Green  Anaconda  (Eunectes  maurinus),  Yellow
  Anaconda  (Eunectes  notaeus),  Australian  Amethystine  Python (Morelia
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD10398-05-3
- A. 6836  2
- 
  amethistina and Morelia  kinghorni),  Indian  Python  (Python  molurus),
  Asiatic  (water) Monitor (Varanus salvator), Nile Monitor (Varanus nilo-
  citus), White Throat Monitor (Varanus albigularis), Black Throat Monitor
  (Varanus albigularis ionides) and Crocodile Monitor (Varanus salvadori),
  Komodo Dragon (Varanus komodensis) and any hybrid thereof,
   (6) Crocodylia,
-  (7)  MACROPODIDAE  INCLUDING  BUT NOT LIMITED TO KANGAROOS, WALLABIES,
+  (7) MACROPODIDAE INCLUDING BUT NOT LIMITED  TO  KANGAROOS,  WALLABIES,
  TREE-KANGAROOS, WALLAROOS, PADEMELONS AND QUOKKAS,
   (8) CETACEA (INCLUDING WHALES AND DOLPHINS),
   (9) ELEPHANTIDAE (ELEPHANTS),
   (10) HYAENIDAE (HYENAS),
   (11) PERISSODACTYLA (INCLUDING RHINOCEROSES, TAPIRS AND ZEBRAS),
   (12) PINNIPEDIA (INCLUDING SEALS, SEA LIONS AND WALRUSES),
-  (13) STRUTHIO (OSTRICHES),
-  (14) CASUARIIFORMES (INCLUDING CASSOWARIES AND EMUS),
-  (15) XENARTHRA (INCLUDING SLOTHS, ANTEATERS AND ARMADILLOS),
-  (16) VIVERRIDAE (INCLUDING BEARCATS),
-  (17) CYNOMYS, AND
-  (18) CAPYBARAS.
-  § 2. Paragraph a of subdivision 1 of section 11-0512 of  the  environ-
- mental  conservation law, as amended by chapter 326 of the laws of 2012,
- is amended to read as follows:
-  a. knowingly possess, harbor,  sell,  barter,  transfer,  exchange  or
- import  any  wild  OR  EXOTIC animal for use as a pet in New York state,
- except as provided in subdivision three of this section; or
-  § 3. This act shall take effect immediately.
+  (13) XENARTHRA (INCLUDING SLOTHS, ANTEATERS AND ARMADILLOS),
+  (14) VIVERRIDAE (INCLUDING BEARCATS),
+  (15) CYNOMYS, AND
+  (16) CAPYBARAS.
+  § 2. This act shall take effect immediately.
