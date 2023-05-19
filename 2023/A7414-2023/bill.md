@@ -1,0 +1,67 @@
+# Relates to health insurance coverage for surviving spouses or domestic partners of members of the New York city fire department
+
+**Bill ID:** A7414
+**Session:** 2023
+**Sponsor:** Stacey Pheffer Amato
+**Status:** Assembly Floor Calendar
+
+## Summary
+
+Provides for health insurance coverage for surviving spouses or domestic partners of deceased active members of the New York city fire department who are enrolled in a health insurance plan.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7414
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 19, 2023
+  ___________
+ 
+ Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
+  Committee on Governmental Employees
+ 
+ AN ACT to amend the administrative code of the  city  of  New  York,  in
+  relation  to health insurance coverage for surviving spouses or domes-
+  tic partners of members of the New York city fire department
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Subparagraph  (ii)  of  paragraph  2  of subdivision b of
+ section 12-126 of the administrative code of the city of  New  York,  as
+ amended  by  chapter  430  of  the  laws  of 2010, is amended to read as
+ follows:
+  (ii) Where [a] AN ACTIVE OR retired member of the fire department dies
+ and is enrolled in a health insurance  plan,  the  surviving  spouse  OR
+ DOMESTIC  PARTNER  shall  be afforded the right to such health insurance
+ coverage and health  insurance  coverage  which  is  predicated  on  the
+ insured's  enrollment  in  the hospital and medical program for the aged
+ and disabled under the social security act as is provided  for  retirees
+ and their dependents as set forth in subparagraph (i) of this paragraph,
+ provided  such surviving spouse OR DOMESTIC PARTNER pays one hundred two
+ percent of the group rate for such coverage, with two  percent  intended
+ to cover administrative costs incurred, provided such spouse OR DOMESTIC
+ PARTNER  elects  such  health  insurance coverage within one year of the
+ death of his or her spouse OR DOMESTIC PARTNER.  For purposes  of  this
+ subparagraph,  "retired  member  of  the  fire department" shall include
+ persons who, immediately prior to retirement, were employed by the  fire
+ department  of the city of New York in a title whose duties are those of
+ an emergency medical technician or advanced emergency medical technician
+ (as those terms are defined in section three thousand one of the  public
+ health  law), or whose duties required the direct supervision of employ-
+ ees whose duties  are  those  of  an  emergency  medical  technician  or
+ advanced  emergency  medical  technician  (as those terms are defined in
+ section three thousand one of the public health law).
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10194-01-3
