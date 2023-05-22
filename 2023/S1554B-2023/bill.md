@@ -1,6 +1,6 @@
 # Creates a temporary commission to conduct a comprehensive study on the current utilization of paid family leave, make recommendations on how to increase access and the visibility of the program
 
-**Bill ID:** S1554BA
+**Bill ID:** S1554BB
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Creates a temporary commission to conduct a comprehensive study on the current u
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1554--A
+  1554--B
  
   2023-2024 Regular Sessions
  
@@ -28,43 +28,48 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen. ADDABBO -- read twice and ordered printed, and when
   printed to be  committed  to  the  Committee  on  Labor  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
- 
- AN  ACT  in  relation  to  creating  a temporary commission to conduct a
-  comprehensive study on the current utilization of paid  family  leave,
-  make  recommendations  on how to increase access and the visibility of
-  the program; and providing for the  repeal  of  such  provisions  upon
+  to  said  committee  --  committee  discharged,  bill amended, ordered
+  reprinted as amended and recommitted to said committee
+
+ AN ACT in relation to creating  a  temporary  commission  to  conduct  a
+  comprehensive  study  on the current utilization of paid family leave,
+  make recommendations on how to increase access and the  visibility  of
+  the  program;  and  providing  for  the repeal of such provisions upon
   expiration thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. A temporary state commission is hereby created to conduct a
- comprehensive study, and prepare a report on the current utilization  of
+ comprehensive  study, and prepare a report on the current utilization of
  paid family leave under article 9 of the workers' compensation law.
-  §  2.  (a)  The  commission  shall  consist of ten members, six such
- members each to serve for a term of one year  and  to  be  appointed  as
- follows: two shall be appointed by the temporary president of the senate
- and  one by the minority leader of the senate; two shall be appointed by
- the speaker of the assembly and one by the minority leader of the assem-
- bly.  The  commissioner  of  labor,  the  superintendent  of  financial
- services, the chair of the Business Council of the State of New York and
- the  chair  of  the  workers' compensation board shall also serve on the
- commission. The chair of the workers' compensation board shall serve  as
- the  chair of the commission. Vacancies in the membership of the commis-
- sion and among its officers shall be filled in the manner  provided  for
- original appointments.
-  (b)  The  members  of the commission shall receive no compensation for
- their services, but shall be allowed their actual and necessary expenses
- incurred in the performance of their duties hereunder.
+  § 2. (a) The commission shall consist of twelve members  appointed  by
+ the  governor  as  follows:  (i)  a  representative of organized labor
+ appointed upon recommendation of the New York State American  Federation
+ of  Labor-Congress of Industrial Organizations; (ii) a representative of
+ the business community appointed upon  recommendation  of  the  Business
+ Council  of  New York State, Incorporated; (iii) two persons upon recom-
+ mendation of the temporary president of  the senate;  (iv)  one  person
+ upon  recommendation  of  the  minority  leader  of  the senate; (v) two
+ persons upon recommendation of the speaker of  the  assembly;  (vi)  one
+ person upon recommendation of the minority leader of the assembly; (vii)
+ the  commissioner  of  labor;  (viii)  the  superintendent  of financial
+ services; (ix) the chair of the workers' compensation board; and (x) one
+ other person in the governor's discretion. The  chair  of  the  workers'
+ compensation board shall serve as the chair of the commission. Vacancies
+ in  the  membership  of  the  commission and among its officers shall be
+ filled in the manner provided for original appointments.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04732-03-3
- S. 1554--A  2
+  LBD04732-05-3
+ S. 1554--B  2
  
-  § 3. The study shall examine the current utilization  of  paid  family
- leave  under  article  9 of the workers' compensation law, including but
+  (b) The members of the commission shall receive  no  compensation  for
+ their services, but shall be allowed their actual and necessary expenses
+ incurred in the performance of their duties hereunder.
+  §  3.  The  study shall examine the current utilization of paid family
+ leave under article 9 of the workers' compensation  law,  including  but
  not limited to:
   (a) demographic information of persons receiving such benefits includ-
  ing but not limited to:
