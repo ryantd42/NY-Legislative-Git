@@ -1,6 +1,6 @@
 # Extends certain provisions relating to a partial tax abatement for residential real property held in the cooperative or condominium form
 
-**Bill ID:** S3252A
+**Bill ID:** S3252AA
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Extends certain provisions relating to a partial tax abatement for residential r
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3252
+  3252--A
+  Cal. No. 845
  
   2023-2024 Regular Sessions
  
@@ -25,9 +26,12 @@ S T A T E  O F  N E W  Y O R K
   January 30, 2023
   ___________
  
- Introduced  by  Sen.  LIU  --  read  twice and ordered printed, and when
-  printed to be committed to the Committee on Cities 1
- 
+ Introduced by Sens. LIU, CHU -- read twice and ordered printed, and when
+  printed  to  be  committed  to  the  Committee on Cities 1 -- reported
+  favorably from said committee, ordered to  first  and  second  report,
+  ordered  to  a third reading, amended and ordered reprinted, retaining
+  its place in the order of third reading
+
  AN ACT to amend the real property tax  law,  in  relation  to  extending
   certain provisions relating to a partial tax abatement for residential
   real property held in the cooperative or condominium form of ownership
@@ -54,21 +58,21 @@ S T A T E  O F  N E W  Y O R K
  shall not be eligible to receive a partial abatement  pursuant  to  this
  section;  and  provided, further, that in the fiscal years commencing in
  calendar years two thousand twelve  through  two  thousand  [twenty-two]
- TWENTY-FOUR  no more than a maximum of three dwelling units owned by any
+ TWENTY-SIX  no  more than a maximum of three dwelling units owned by any
  unit owner in a single building, one of which must be the primary  resi-
- dence  of such unit owner, shall be eligible to receive a partial abate-
- ment pursuant to paragraphs (d-1), (d-2), (d-3) and (d-4) of this subdi-
- vision.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08043-01-3
- S. 3252  2
+  LBD08043-03-3
+ S. 3252--A  2
  
-  (b) In a city having a population of one  million  or  more,  dwelling
- units  owned  by  tenant-stockholders  who, as of the applicable taxable
- status date, own no more than three dwelling units in any  one  property
- held  in the cooperative form of ownership, shall be eligible to receive
+ dence  of such unit owner, shall be eligible to receive a partial abate-
+ ment pursuant to paragraphs (d-1), (d-2), (d-3) and (d-4) of this subdi-
+ vision.
+  (b)  In  a  city  having a population of one million or more, dwelling
+ units owned by tenant-stockholders who, as  of  the  applicable  taxable
+ status  date,  own no more than three dwelling units in any one property
+ held in the cooperative form of ownership, shall be eligible to  receive
  a  partial  abatement of real property taxes, as set forth in paragraphs
  (c), (d), (d-1), (d-2), (d-3), (d-4), (d-5) and (d-6) of  this  subdivi-
  sion; provided, however, that a property held in the cooperative form of
@@ -80,7 +84,7 @@ S T A T E  O F  N E W  Y O R K
  shall not be eligible to receive a partial abatement  pursuant  to  this
  section;  and  provided, further, that in the fiscal years commencing in
  calendar years two thousand twelve  through  two  thousand  [twenty-two]
- TWENTY-FOUR  no more than a maximum of three dwelling units owned by any
+ TWENTY-SIX  no  more than a maximum of three dwelling units owned by any
  tenant-stockholder in a single building, one of which must be the prima-
  ry residence of such tenant-stockholder, shall be eligible to receive  a
  partial  abatement  pursuant to paragraphs (d-1), (d-2), (d-3) and (d-4)
@@ -103,7 +107,7 @@ S T A T E  O F  N E W  Y O R K
  twenty-five percent, twenty-six and one-half  percent  and  twenty-eight
  and  one-tenth  percent  respectively. In the fiscal years commencing in
  calendar years two thousand fifteen through  two  thousand  [twenty-two]
- TWENTY-FOUR  eligible  dwelling  units  in  property  whose average unit
+ TWENTY-SIX  eligible  dwelling  units  in  property  whose  average unit
  assessed value is less than or equal to  fifty  thousand  dollars  shall
  receive  a  partial abatement of the real property taxes attributable to
  or due on such dwelling units of twenty-eight and one-tenth percent.
@@ -115,72 +119,72 @@ S T A T E  O F  N E W  Y O R K
  attributable to or due on such dwelling units of twenty-two and one-half
  percent, twenty-three and eight-tenths percent and twenty-five and  two-
  tenths  percent respectively. In the fiscal years commencing in calendar
- years two thousand fifteen through two thousand [twenty-two] TWENTY-FOUR
+ years two thousand fifteen through two thousand [twenty-two]  TWENTY-SIX
  eligible dwelling units in property whose average unit assessed value is
- more than fifty thousand dollars, but less than or equal  to  fifty-five
- thousand dollars, shall receive a partial abatement of the real property
- taxes  attributable  to or due on such dwelling units of twenty-five and
- two-tenths percent.
- S. 3252  3
+ more  than  fifty thousand dollars, but less than or equal to fifty-five
+ S. 3252--A  3
  
-  (d-3) In the fiscal years commencing in calendar  years  two  thousand
+ thousand dollars, shall receive a partial abatement of the real property
+ taxes attributable to or due on such dwelling units of  twenty-five  and
+ two-tenths percent.
+  (d-3)  In  the  fiscal years commencing in calendar years two thousand
  twelve, two thousand thirteen and two thousand fourteen, eligible dwell-
- ing  units  in  property  whose average unit assessed value is more than
- fifty-five thousand dollars, but less than or equal  to  sixty  thousand
- dollars,  shall  receive  a partial abatement of the real property taxes
- attributable to or due on such dwelling units of twenty  percent,  twen-
- ty-one  and  two-tenths  percent, and twenty-two and five-tenths percent
+ ing units in property whose average unit assessed  value  is  more  than
+ fifty-five  thousand  dollars,  but less than or equal to sixty thousand
+ dollars, shall receive a partial abatement of the  real  property  taxes
+ attributable  to  or due on such dwelling units of twenty percent, twen-
+ ty-one and two-tenths percent, and twenty-two  and  five-tenths  percent
  respectively. In the fiscal years commencing in calendar years two thou-
- sand fifteen through  two  thousand  [twenty-two]  TWENTY-FOUR  eligible
- dwelling  units  in  property  whose average unit assessed value is more
- than fifty-five thousand dollars, but less than or equal to sixty  thou-
- sand  dollars,  shall  receive  a partial abatement of the real property
- taxes attributable to or due on such dwelling units  of  twenty-two  and
+ sand  fifteen  through  two  thousand  [twenty-two]  TWENTY-SIX eligible
+ dwelling units in property whose average unit  assessed  value  is  more
+ than  fifty-five thousand dollars, but less than or equal to sixty thou-
+ sand dollars, shall receive a partial abatement  of  the  real  property
+ taxes  attributable  to  or due on such dwelling units of twenty-two and
  five-tenths percent.
-  (d-4)  In  the  fiscal years commencing in calendar years two thousand
- twelve through two thousand [twenty-two] TWENTY-FOUR, eligible  dwelling
- units  in  property whose average unit assessed value is more than sixty
- thousand dollars shall receive a partial abatement of the real  property
- taxes  attributable  to  or  due on such dwelling units of seventeen and
+  (d-4) In the fiscal years commencing in calendar  years  two  thousand
+ twelve  through  two thousand [twenty-two] TWENTY-SIX, eligible dwelling
+ units in property whose average unit assessed value is more  than  sixty
+ thousand  dollars shall receive a partial abatement of the real property
+ taxes attributable to or due on such dwelling  units  of  seventeen  and
  one-half percent.
   § 3. Paragraph (a) of subdivision 3 of section 467-a of the real prop-
- erty tax law, as amended by chapter 184 of the laws of 2021, is  amended
+ erty  tax law, as amended by chapter 184 of the laws of 2021, is amended
  to read as follows:
-  (a)  An  application for an abatement pursuant to this section for the
- fiscal year commencing in  calendar  year  nineteen  hundred  ninety-six
- shall  be  made  no  later than the fifteenth day of September, nineteen
- hundred ninety-six. An application for an  abatement  pursuant  to  this
+  (a) An application for an abatement pursuant to this section  for  the
+ fiscal  year  commencing  in  calendar  year nineteen hundred ninety-six
+ shall be made no later than the fifteenth  day  of  September,  nineteen
+ hundred  ninety-six.  An  application  for an abatement pursuant to this
  section for the fiscal year commencing in calendar year nineteen hundred
- ninety-seven  shall  be made no later than the first day of April, nine-
- teen hundred ninety-seven. An application for an abatement  pursuant  to
- this  section  for  the fiscal year commencing in calendar year nineteen
+ ninety-seven shall be made no later than the first day of  April,  nine-
+ teen  hundred  ninety-seven. An application for an abatement pursuant to
+ this section for the fiscal year commencing in  calendar  year  nineteen
  hundred ninety-eight shall be made no later than the first day of April,
- nineteen hundred ninety-eight. An application for an abatement  pursuant
+ nineteen  hundred ninety-eight. An application for an abatement pursuant
  to this section for the fiscal year commencing in calendar year nineteen
- hundred  ninety-nine  shall  be made in accordance with this subdivision
+ hundred ninety-nine shall be made in accordance  with  this  subdivision
  and subdivision three-a of this section. An application for an abatement
  pursuant to this section for the fiscal year commencing in calendar year
- two thousand shall be made no later than the fifteenth day of  February,
- two  thousand.  An application for an abatement pursuant to this section
- for the fiscal year commencing in calendar year two thousand  one  shall
- be  made  in accordance with this subdivision and subdivision three-b of
- this section. An application for an abatement pursuant to  this  section
- for  the  fiscal year commencing in calendar year two thousand two shall
- be made no later than the fifteenth day of February, two  thousand  two.
- An  application for an abatement pursuant to this section for the fiscal
- year commencing in calendar year two thousand three  shall  be  made  no
- later  than the fifteenth day of February, two thousand three. An appli-
- cation for an abatement pursuant to this section  for  the  fiscal  year
- commencing  in  calendar year two thousand four shall be made in accord-
- ance with this subdivision and subdivision three-c of this  section.  An
- application  for  an  abatement  pursuant to this section for the fiscal
- year commencing in calendar year two thousand  five  shall  be  made  no
+ two  thousand shall be made no later than the fifteenth day of February,
+ two thousand. An application for an abatement pursuant to  this  section
+ for  the  fiscal year commencing in calendar year two thousand one shall
+ be made in accordance with this subdivision and subdivision  three-b  of
+ this  section.  An application for an abatement pursuant to this section
+ for the fiscal year commencing in calendar year two thousand  two  shall
+ be  made  no later than the fifteenth day of February, two thousand two.
+ An application for an abatement pursuant to this section for the  fiscal
+ year  commencing  in  calendar  year two thousand three shall be made no
+ later than the fifteenth day of February, two thousand three. An  appli-
+ cation  for  an  abatement  pursuant to this section for the fiscal year
+ commencing in calendar year two thousand four shall be made  in  accord-
+ ance  with  this subdivision and subdivision three-c of this section. An
+ application for an abatement pursuant to this  section  for  the  fiscal
+ year  commencing  in  calendar  year  two thousand five shall be made no
  later than the fifteenth day of February, two thousand five. An applica-
- tion  for  an  abatement  pursuant  to  this section for the fiscal year
- commencing in calendar year two thousand six shall be made no later than
- the fifteenth day of February, two thousand six. An application  for  an
- S. 3252  4
+ S. 3252--A  4
  
+ tion for an abatement pursuant to  this  section  for  the  fiscal  year
+ commencing in calendar year two thousand six shall be made no later than
+ the  fifteenth  day of February, two thousand six. An application for an
  abatement  pursuant  to  this  section for the fiscal year commencing in
  calendar year two thousand  seven  shall  be  made  no  later  than  the
  fifteenth day of February, two thousand seven. An application for abate-
@@ -201,8 +205,7 @@ S T A T E  O F  N E W  Y O R K
  with subdivision three-e of this section. The date  or  dates  by  which
  applications for an abatement pursuant to this section shall be made for
  the  fiscal  years  beginning  in  calendar  years two thousand fourteen
- through two thousand [twenty-two] TWENTY-FOUR shall  be  established  by
- the  commissioner  of  finance by rule, provided that such date or dates
- shall not be later than the fifteenth day of February for such  calendar
- years.
+ through two thousand [twenty-two] TWENTY-SIX shall be established by the
+ commissioner of finance by rule, provided that such date or dates  shall
+ not be later than the fifteenth day of February for such calendar years.
   § 4. This act shall take effect immediately.
