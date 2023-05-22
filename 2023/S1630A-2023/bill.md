@@ -1,6 +1,6 @@
 # Relates to customers with documented need for essential electricity for medical needs
 
-**Bill ID:** S1630A
+**Bill ID:** S1630AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that each electric corporation shall establish a unique priority phone 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1630
+  1630--A
  
   2023-2024 Regular Sessions
  
@@ -27,70 +27,44 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
   printed to be committed to the Committee on  Energy  and  Telecommuni-
-  cations
+  cations  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
- AN  ACT  to  amend the public service law, in relation to customers with
-  life-saving equipment during a service disruption
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN ACT to amend the public service law, in relation  to  customers  with
+  documented need for essential electricity for medical needs
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. 1. Definitions. For purposes of this section:
-  "customer with life-saving equipment" shall have the same meaning as a
- person  living in a residence that uses a life support system as defined
- in subdivision 12 of section 65 of the public service law.
-  2. a. The  public  service  commission  shall  commence  a  rulemaking
- proceeding  to  set  minimum requirements regarding customers with life-
- saving equipment. Such rulemaking  proceeding  shall  establish  a  plan
- that,  in the event of an electric service disruption, requires electric
- corporations to:
-  i. provide backup generators capable of powering life-saving equipment
- to customers with life-saving equipment, including refueling or recharg-
- ing services; or
-  ii. provide temporary lodging accommodations at a location capable  of
- powering  life-saving  equipment,  including  but not limited to compen-
- sation for hotel rooms or hospital admissions, based on the duration  of
- the electric service disruption to customers with life-saving equipment;
- and
-  iii.  prioritize  electric service restoration to customers with life-
- saving equipment.
-  b. Upon adoption by the commission, each  electric  corporation  shall
- incorporate  the  established  minimum  requirements  into its emergency
- response plan pursuant to subdivision 21 of section  66  of  the  public
- service law and shall inform its customers of such information via posts
- on its website, e-mail and bill inserts.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD00902-01-3
- S. 1630  2
- 
-  § 2. The public service law is amended by adding a new section 65-c to
- read as follows:
-  §  65-C.  CUSTOMERS  WITH LIFE-SAVING EQUIPMENT.  1. DEFINITIONS. FOR
- PURPOSES OF THIS SECTION:
-  "CUSTOMER WITH LIFE-SAVING EQUIPMENT" SHALL HAVE THE SAME MEANING AS A
- PERSON LIVING IN A RESIDENCE THAT USES A LIFE SUPPORT SYSTEM AS  DEFINED
- IN SUBDIVISION TWELVE OF SECTION SIXTY-FIVE OF THIS ARTICLE.
-  2.  CUSTOMERS  WITH  LIFE-SAVING  EQUIPMENT. (A) ELECTRIC CORPORATIONS
- SHALL ESTABLISH A UNIQUE PRIORITY PHONE  NUMBER  THAT  SHALL  REMAIN  IN
- OPERATION  EVERY  DAY  OF THE YEAR FOR CUSTOMERS WITH LIFE-SAVING EQUIP-
- MENT.
-  (B)INFORMATION REGARDING SUCH PHONE NUMBER SHALL BE PROVIDED  IN  BILL
- INSERTS,  VIA  E-MAIL, AND POSTED ON ELECTRIC CORPORATIONS' WEBSITES AND
- SHALL INCLUDE REMINDERS FOR EXISTING CUSTOMERS WITH  LIFE-SAVING  EQUIP-
- MENT  TO  CALL  SUCH NUMBER TO ENSURE THEY ARE STILL REGISTERED WITH THE
- ELECTRIC CORPORATION AS A CUSTOMER WITH LIFE-SAVING EQUIPMENT.
-  (C) CUSTOMERS WITH LIFE-SAVING EQUIPMENT SHALL BE ABLE  TO  CALL  SUCH
- NUMBER  ESTABLISHED  BY  PARAGRAPH  (A) OF THIS SUBDIVISION AT ANY TIME,
- INCLUDING A TIME PRECEDING OR DURING AN ELECTRIC SERVICE DISRUPTION TO:
-  I. REGISTER WITH AN ELECTRIC CORPORATION SO AS TO  BE  PLACED  ON  ITS
- CURRENT  LIST  OF  CUSTOMERS  WHO  USE  LIFE SUPPORT SYSTEMS PURSUANT TO
- SUBDIVISION TWELVE OF SECTION SIXTY-FIVE OF THIS ARTICLE;
+  Section 1.  Paragraph (g) of subdivision 21 of  section  66  of  the
+ public  service  law  is relettered paragraph (i) and two new paragraphs
+ (g) and (h) are added to read as follows:
+  (G) EACH ELECTRIC CORPORATION SHALL ESTABLISH A UNIQUE PRIORITY  PHONE
+ NUMBER  THAT SHALL REMAIN IN OPERATION EVERY DAY OF THE YEAR FOR CUSTOM-
+ ERS WHO HAVE DOCUMENTED THEIR NEED FOR ESSENTIAL ELECTRICITY FOR MEDICAL
+ NEEDS.  SUCH ELECTRIC CORPORATION SHALL PROVIDE NOTICE  AND  IDENTIFICA-
+ TION  OF SUCH PHONE NUMBER THROUGH BILL INSERTS, VIA E-MAIL, AND ON SUCH
+ ELECTRIC CORPORATION'S WEBSITE.  SUCH NOTICE AND  IDENTIFICATION  SHALL
+ INCLUDE  INFORMATION  RELATING TO HOW EXISTING CUSTOMERS CAN ENSURE THEY
+ ARE STILL REGISTERED WITH THE ELECTRIC CORPORATION AS A CUSTOMER WHO HAS
+ DOCUMENTED THEIR NEED FOR ESSENTIAL ELECTRICITY FOR  MEDICAL  NEEDS  FOR
+ THE PURPOSES OF THIS SECTION.
+  (H) CUSTOMERS WHO HAVE DOCUMENTED THEIR NEED FOR ESSENTIAL ELECTRICITY
+ FOR MEDICAL NEEDS SHALL BE ABLE TO CALL SUCH NUMBER ESTABLISHED BY PARA-
+ GRAPH (G) OF THIS SUBDIVISION AT ANY TIME, INCLUDING A TIME PRECEDING OR
+ DURING AN ELECTRIC SERVICE DISRUPTION TO:
+  I.  REGISTER WITH AN ELECTRIC CORPORATION AS A CUSTOMER NEEDING ESSEN-
+ TIAL ELECTRICITY FOR MEDICAL NEEDS;
   II. RECEIVE INFORMATION OR PROJECTIONS REGARDING  THE  SEVERITY  OF  A
  STORM, STORM-LIKE ELECTRIC EMERGENCY OR SYSTEM EMERGENCY, IF APPLICABLE;
   III.  REPORT  AN  OUTAGE  OR  RECEIVE INSTRUCTIONS ON HOW TO REPORT AN
  OUTAGE;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00902-05-3
+ S. 1630--A  2
+ 
   IV. RECEIVE UPDATED INFORMATION REGARDING THE ESTIMATED TIME OF RESTO-
  RATION, INCLUDING WEBSITE LINKS TO  OUTAGE  MAPS  UPDATED  EVERY  THIRTY
  MINUTES, IF APPLICABLE;
@@ -112,4 +86,4 @@ S T A T E  O F  N E W  Y O R K
   XI.  RECEIVE  INFORMATION REGARDING THE FACILITATION OF TRANSPORTATION
  TO THE NEAREST HOSPITAL OR FACILITY THAT IS CAPABLE  OF  POWERING  LIFE-
  SAVING EQUIPMENT, IF APPLICABLE.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
