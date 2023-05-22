@@ -1,6 +1,6 @@
 # Relates to the next generation 911 system, an emergency services internet protocol network
 
-**Bill ID:** S4583A
+**Bill ID:** S4583AA
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires the state shall offer a statewide emergency services internet protocol 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4583
+  4583--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. MARTINEZ -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
- 
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  reported  favorably from said committee and committed to the Committee
+  on Finance -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to amend the county law, in relation to the next  generation  911
   system, an emergency services internet protocol network
  
@@ -45,13 +48,12 @@ S T A T E  O F  N E W  Y O R K
  TEXT, OR SHORT MESSAGE SERVICE (SMS), OR ANY OTHER TECHNOLOGICAL MEANS.
   (B) "NEXT  GENERATION  911  SYSTEM  PROVIDER"  MEANS  AN  ENTITY  THAT
  PROVIDES NEXT GENERATION OR IP-ENABLED 911 SYSTEM TO A PSAP.
-  2.  THE  STATE SHALL OFFER A STATEWIDE ESINET AVAILABLE FOR CONNECTION
- TO LOCAL PSAPS.
+  2. SUBJECT TO APPROPRIATIONS, THE STATE SHALL OFFER A STATEWIDE ESINET
+ AVAILABLE FOR CONNECTION TO LOCAL PSAPS.
   § 2. This act shall take effect immediately.
- 
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09137-01-3
+  LBD09137-03-3
