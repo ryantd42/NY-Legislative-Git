@@ -1,6 +1,6 @@
 # Establishes a fiscal cliff task force to conduct a study on fiscal cliffs in the state's public assistance programs and to make recommendations related thereto
 
-**Bill ID:** S7259A
+**Bill ID:** S7259AA
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Establishes a fiscal cliff task force to conduct a study on fiscal cliffs in the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7259
+  7259--A
  
   2023-2024 Regular Sessions
  
@@ -26,44 +26,46 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. PERSAUD -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Social Services
+  printed to be committed to the Committee on Social Services -- commit-
+  tee discharged, bill amended, ordered reprinted as amended and  recom-
+  mitted to said committee
  
- AN ACT establishing a fiscal cliff task force  to  conduct  a  study  on
-  fiscal  cliffs  in  the state's public assistance programs and to make
-  recommendations related thereto; and providing for the repeal of  such
+ AN  ACT  establishing  a  fiscal  cliff task force to conduct a study on
+  fiscal cliffs in the state's public assistance programs  and  to  make
+  recommendations  related thereto; and providing for the repeal of such
   provision upon expiration thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. (a) There is hereby established a fiscal cliff  task  force
- to  study  fiscal  cliffs  in the state's public assistance programs and
- make recommendations on how to reduce and eliminate such fiscal  cliffs.
- For  the  purposes of this section, the term "fiscal cliff" shall mean a
- sudden decrease in public benefits that can occur with a small  increase
+  Section  1.  (a) There is hereby established a fiscal cliff task force
+ to study fiscal cliffs in the state's  public  assistance  programs  and
+ make  recommendations on how to reduce and eliminate such fiscal cliffs.
+ For the purposes of this section, the term "fiscal cliff" shall  mean  a
+ sudden  decrease in public benefits that can occur with a small increase
  in earnings.
-  (b)  (i)  The  task  force  shall consist of nineteen members, each to
- serve for a term  ending  December  31,  2024.  Such  members  shall  be
- appointed  as follows:  two members shall be appointed by the temporary
- president of the senate; one member shall be appointed by  the  minority
- leader  of  the senate; two members shall be appointed by the speaker of
- the assembly; one member shall be appointed by the  minority  leader  of
- the  assembly;  five  members  shall be appointed by the governor; three
- local social services district commissioners or their  designees  having
- relevant  experience in administering public benefits shall be appointed
- by the governor, of which one district shall have five million  or  more
- inhabitants;  the commissioner of the office of temporary and disability
- assistance or his or her designee; the commissioner of health or his  or
- her  designee;  the  commissioner  of taxation and finance or his or her
- designee; the commissioner of the department of  labor  or  his  or  her
+  (b) (i) The task force shall consist  of  nineteen  members,  each  to
+ serve  for  a  term  ending  December  31,  2025.  Such members shall be
+ appointed as follows:  two members shall be appointed by  the  temporary
+ president  of  the senate; one member shall be appointed by the minority
+ leader of the senate; two members shall be appointed by the  speaker  of
+ the  assembly;  one  member shall be appointed by the minority leader of
+ the assembly; five members shall be appointed  by  the  governor;  three
+ local  social  services district commissioners or their designees having
+ relevant experience in administering public benefits shall be  appointed
+ by  the  governor, of which one district shall have five million or more
+ inhabitants; the commissioner of the office of temporary and  disability
+ assistance  or his or her designee; the commissioner of health or his or
+ her designee; the commissioner of taxation and finance  or  his  or  her
+ designee;  the  commissioner  of  the  department of labor or his or her
  designee; the commissioner of the office of children and family services
- or his or her designee.  Appointments shall be made within sixty days of
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10565-03-3
- S. 7259  2
+  LBD10565-04-3
+ S. 7259--A  2
  
+ or his or her designee.  Appointments shall be made within sixty days of
  the effective date of this section. Vacancies in the task force shall be
  filled in the manner provided for original appointments.
   (ii) All appointments shall be coordinated to ensure geographic repre-
@@ -118,11 +120,11 @@ S T A T E  O F  N E W  Y O R K
   (f) The task force shall make a preliminary report to the governor and
  the legislature of its findings, conclusions, recommendations and activ-
  ities  already  undertaken  by the task force, not later than January 1,
- 2024, and a final report of its findings,  conclusions,  recommendations
- and  activities  already  undertaken  by  the task force, not later than
- S. 7259  3
+ 2025, and a final report of its findings,  conclusions,  recommendations
+ S. 7259--A  3
  
- September  1,  2024  and  shall  submit  with  its  reports  legislative
+ and  activities  already  undertaken  by  the task force, not later than
+ September  1,  2025  and  shall  submit  with  its  reports  legislative
  proposals as it deems necessary to implement its recommendations.
   §  2.  This  act  shall take effect immediately and shall expire three
  years after it  shall  have  become  a  law  when  upon  such  date  the
