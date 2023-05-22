@@ -1,6 +1,6 @@
 # Enacts the "just energy transition act"
 
-**Bill ID:** S2935DB
+**Bill ID:** S2935DC
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts the "just energy transition act"; requires a study of competitive options
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2935--B
+  2935--C
   Cal. No. 237
  
   2023-2024 Regular Sessions
@@ -27,47 +27,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sens. PARKER, GIANARIS, GONZALEZ, HARCKHAM, HOYLMAN-SIGAL,
-  MYRIE,  RAMOS,  SEPULVEDA  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on  Energy  and  Telecommuni-
-  cations  --  reported  favorably from said committee, ordered to first
-  and second report, ordered to a third  reading,  amended  and  ordered
-  reprinted,  retaining its place in the order of third reading -- again
-  amended and ordered reprinted, retaining its place  in  the  order  of
-  third reading
+  JACKSON,  MARTINEZ,  MYRIE, RAMOS, SEPULVEDA -- read twice and ordered
+  printed, and when printed to be committed to the Committee  on  Energy
+  and  Telecommunications  --  reported  favorably  from said committee,
+  ordered to first and  second  report,  ordered  to  a  third  reading,
+  amended  and  ordered  reprinted,  retaining its place in the order of
+  third reading -- again amended and ordered  reprinted,  retaining  its
+  place  in  the  order  of  third  reading -- again amended and ordered
+  reprinted, retaining its place in the order of third reading
  
  AN ACT enacting the "just energy transition act"
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Short title.  This act shall be known and may be  cited  as
+  Section  1.  Short title.  This act shall be known and may be cited as
  the "just energy transition act".
-  §  2.  Legislative  findings and statement of purpose. The legislature
+  § 2. Legislative findings and statement of  purpose.  The  legislature
  hereby finds, determines and declares:
-  (a) New York state, especially New York city,  is  reliant  on  fossil
- fuels  for energy production, making the transition to renewable sources
- for the downstate electricity system key to achieving  the  requirements
- of  section  4  of  the  New York state climate leadership and community
- protection act, including that seventy percent of the state's  electric-
- ity  be  from  renewable  energy  sources  by the year 2030 and that one
+  (a)  New  York  state,  especially New York city, is reliant on fossil
+ fuels for energy production, making the transition to renewable  sources
+ for  the  downstate electricity system key to achieving the requirements
+ of section 4 of the New York  state  climate  leadership  and  community
+ protection  act, including that seventy percent of the state's electric-
+ ity be from renewable energy sources by  the  year  2030  and  that  one
  hundred percent of the state's electricity be from zero-emission sources
  by the year 2040.
-  (b) New York state is committed to  the  responsible  replacement  and
- redevelopment  of its fossil fueled generation facilities that currently
+  (b)  New  York  state  is committed to the responsible replacement and
+ redevelopment of its fossil fueled generation facilities that  currently
  ensure resource adequacy in the state, especially in locations where the
- health benefits to historically disadvantaged communities can  be  maxi-
- mized,  and  where the cost effective phasing-out of such facilities can
+ health  benefits  to historically disadvantaged communities can be maxi-
+ mized, and where the cost effective phasing-out of such  facilities  can
  be done while helping to ensure a just transition for the existing work-
  force.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06171-06-3
- S. 2935--B  2
+  LBD06171-08-3
+ S. 2935--C  2
  
-  (c) A public policy purpose would be served and the interests  of  the
- people  of  the  state would be advanced by directing the New York state
- energy research and development  authority,  in  consultation  with  the
+  (c)  A  public policy purpose would be served and the interests of the
+ people of the state would be advanced by directing the  New  York  state
+ energy  research  and  development  authority,  in consultation with the
  department of public service and the department of environmental conser-
  vation,  to  continue the development of the study commenced in 2022, as
  referenced in the climate action council scoping plan of  strategies  to
@@ -119,7 +120,7 @@ S T A T E  O F  N E W  Y O R K
  determined,  after  notice and provision for the opportunity to comment,
  ensure resource adequacy, while achieving the  requirements  of  section
  66-p of the public service law;
- S. 2935--B  3
+ S. 2935--C  3
  
   (iii)  provide significant environmental, health and other benefits to
  disadvantaged communities as such  communities  will  be  defined  under
@@ -177,8 +178,89 @@ S T A T E  O F  N E W  Y O R K
  facilities  shall  be electricity that is generated from non-state-owned
  low impact run-of-river facilities located in the state that  provide  a
  year-round electricity capacity resource.
- S. 2935--B  4
+ S. 2935--C  4
  
+  (c)(i)  Any  projects  pursuant to this section, or the study provided
+ herein, shall be  deemed  public  work  and  shall  be  subject  to  and
+ performed  in  accordance  with  articles 8 and 9 of the labor law. Each
+ contract for such project shall contain a provision  that  such  project
+ shall  only  be  undertaken  pursuant  to a project labor agreement. For
+ purposes of this section, "project labor agreement" shall  mean  a  pre-
+ hire  collective  bargaining agreement between the New York state energy
+ research and development authority, a  third  party  on  behalf  of  the
+ authority, or a recipient of support under this section, and a bona fide
+ building  and  construction  trade  labor  organization establishing the
+ labor organization as the collective bargaining representative  for  all
+ persons  who  will  perform  work  on  a  public work project, and which
+ provides that only contractors and subcontractors who sign a pre-negoti-
+ ated agreement with the labor organization can perform project work. All
+ contractors and  subcontractors  associated  with  this  work  shall  be
+ required  to  utilize apprenticeship agreements as defined by article 23
+ of the labor law.
+  (ii) The New York state energy research and development authority,  or
+ public service commission, where appropriate, shall include requirements
+ in  any  procurement  or  development  of  a renewable energy generating
+ project, as defined in this subdivision, that the components  and  parts
+ shall  be  produced  or  made in whole or substantial part in the United
+ States, its territories  or  possessions.  The  New  York  state  energy
+ research and development authority's president and chief executive offi-
+ cer,  or  his  or her designee may waive the procurement and development
+ requirements set forth in this paragraph  if  such  official  determines
+ that: the requirements would not be in the public interest; the require-
+ ments  would result in unreasonable costs; obtaining such infrastructure
+ components and parts in the United States would increase the cost  of  a
+ renewable  energy  generating project by an unreasonable amount; or such
+ components or parts cannot be produced, made, or assembled in the United
+ States in sufficient and reasonably available quantities or of satisfac-
+ tory quality. Such determination shall be made on  an  annual  basis  no
+ later than December thirty-first, after providing notice and an opportu-
+ nity  for  public comment, and such determination shall be made publicly
+ available, in writing, on the New York state energy research and  devel-
+ opment  authority's  website with a detailed explanation of the findings
+ leading to such determination. If the New York state energy research and
+ development authority's president and chief executive officer, or his or
+ her designee, has issued  determinations  for  three  consecutive  years
+ finding  that  no  such  waiver is warranted pursuant to this paragraph,
+ then the New York state energy research and development authority  shall
+ no  longer  be  required to provide the annual determination required by
+ this paragraph.
+  (d)(i) The commissioner of labor, in consultation with labor organiza-
+ tions, shall develop a  comprehensive  plan  to  transition,  train,  or
+ retrain  employees  that are impacted by projects undertaken pursuant to
+ this act, or the study provided in section three of this act. This  plan
+ shall  include a method of allowing displaced and transitioning workers,
+ including affected labor organizations, to notify  the  commissioner  of
+ the  loss  of  employment, their previous title, and previous wage rates
+ including whether they previously  received  medical  and/or  retirement
+ benefits. The plan shall require employers to notify the commissioner of
+ workers laid off or discharged due to this act.
+  (ii)  The  commissioner  of  labor  shall create a program pursuant to
+ which, where applicable and feasible, newly  created  job  opportunities
+ S. 2935--C  5
+ 
+ shall  be offered to a pool of transitioning workers who have lost their
+ employment or will be losing  their  employment  in  the  energy  sector
+ through  projects undertaken pursuant to this act, or the study provided
+ in  section  three  of this act. Such program shall include a method for
+ the commissioner of labor to communicate names and  contact  information
+ for  displaced or transitioning workers to public entities that may have
+ job opportunities for such workers every 90 days.
+  (e) Notwithstanding any provision of law to the contrary,  all  rights
+ or  benefits,  including  terms  and  conditions  of  employment,  and
+ protection of civil service and  collective  bargaining  status  of  all
+ existing public employees and the work jurisdiction, covered job titles,
+ and  work assignments, set forth in the civil service law and collective
+ bargaining  agreements  with  labor  organizations  representing  public
+ employees  shall  be  preserved and  protected. Nothing in this section
+ shall result in the:  (i) displacement of any currently employed  worker
+ or  loss of position (including partial displacement as such a reduction
+ in the hours of non-overtime work, wages,  or  employment  benefits)  or
+ result  in  the impairment of existing collective bargaining agreements;
+ (ii) transfer of existing duties and functions  related  to  maintenance
+ and  operations  currently performed by existing employees of authorized
+ entities to a contracting entity; or (iii) transfer of future duties and
+ functions ordinarily performed by employees of authorized entities to  a
+ contracting entity.
   §  6.  The  Long  Island  power authority shall establish a program or
  programs in its service territory consistent with the recommendation  of
  the  study  conducted  pursuant  to  section  three  of  this  act,  the
