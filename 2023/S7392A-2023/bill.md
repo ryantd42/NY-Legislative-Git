@@ -1,6 +1,6 @@
 # Relates to the dangers to safety and health and the creation of a public nuisance caused by the sale, manufacturing, distribution, importing, and marketing of firearms
 
-**Bill ID:** S7392A
+**Bill ID:** S7392AA
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Relates to the dangers to safety and health and the creation of a public nuisanc
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7392
+  7392--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MYRIE  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Codes
+  printed to be  committed  to  the  Committee  on  Codes  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the general business law, in relation  to  ensuring  all
-  firearm  industry  members are responsible for such member's unreason-
-  able conduct
-
+ AN  ACT to amend the general business law, in relation to the dangers to
+  safety and health and the creation of a public nuisance caused by  the
+  sale,  manufacturing,  distribution,  importing,  and  marketing  of
+  firearms
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -49,7 +52,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11598-01-3
+  LBD11598-02-3
