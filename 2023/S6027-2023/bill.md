@@ -1,6 +1,6 @@
 # Relates to designating a portion of the state highway system as the "Dr. Robert C. "Doc" Schelin Memorial Highway"
 
-**Bill ID:** S6027
+**Bill ID:** S6027A
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Relates to designating a portion of the state highway system as the "Doc Schelin
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6027
+  6027--A
  
   2023-2024 Regular Sessions
  
@@ -26,22 +26,25 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  WEBER  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
-  the state highway system as the "Doc Schelin Memorial Highway"
+  the state highway system as the "Dr. Robert C. "Doc" Schelin  Memorial
+  Highway"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 345-b to
  read as follows:
-  §  345-B.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
- "DOC SCHELIN MEMORIAL HIGHWAY". ALL THAT PORTION OF  THE  STATE  HIGHWAY
- SYSTEM CONSTITUTING STATE ROUTE THREE HUNDRED FORTY BETWEEN THORPE DRIVE
- AND STATE ROUTE THREE HUNDRED THREE IN THE TOWN OF ORANGETOWN, COUNTY OF
- ROCKLAND,  SHALL  BE  DESIGNATED  AND KNOWN AS THE "DOC SCHELIN MEMORIAL
- HIGHWAY".
+  § 345-B. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
+ "DR. ROBERT C. "DOC" SCHELIN MEMORIAL HIGHWAY".  ALL THAT PORTION OF THE
+ STATE  HIGHWAY  SYSTEM  CONSTITUTING  STATE  ROUTE  THREE  HUNDRED FORTY
+ BETWEEN THORPE DRIVE AND STATE ROUTE THREE HUNDRED THREE IN THE TOWN  OF
+ ORANGETOWN,  COUNTY  OF  ROCKLAND,  SHALL BE DESIGNATED AND KNOWN AS THE
+ "DR. ROBERT C. "DOC" SCHELIN MEMORIAL HIGHWAY".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this act.  However,  to  avoid
@@ -53,7 +56,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09451-01-3
+  LBD09451-02-3
