@@ -1,6 +1,6 @@
 # Prohibits unlawful dissemination or publication of intimate images created by digitization and of sexually explicit depictions of an individual; repealer
 
-**Bill ID:** A3596A
+**Bill ID:** A3596AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Includes "deep fake" images created by digitization within the definition of unl
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3596
+  3596--A
+  Cal. No. 16
  
   2023-2024 Regular Sessions
  
@@ -26,13 +27,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PAULIN, DINOWITZ, SEAWRIGHT, DICKENS, GUNTHER,
-  JACKSON, SIMON, STECK, ZINERMAN, McDONOUGH, SILLITTI, SEPTIMO --  read
-  once and referred to the Committee on Codes
+  JACKSON, SIMON, STECK, ZINERMAN, McDONOUGH, SILLITTI, SEPTIMO,  KELLES
+  --  read  once and referred to the Committee on Codes -- advanced to a
+  third reading,  passed  by  Assembly  and  delivered  to  the  Senate,
+  recalled  from  the  Senate,  vote reconsidered, bill amended, ordered
+  reprinted, retaining its place on the order of third reading
  
- AN  ACT  to amend the penal law and the civil rights law, in relation to
-  unlawful dissemination or publication of intimate  images  created  by
-  digitization and of sexually explicit depictions of an individual; and
-  to repeal certain provisions of the penal law relating thereto
+ AN ACT to amend the penal law, in relation to unlawful dissemination  or
+  publication of intimate images created by digitization and of sexually
+  explicit depictions of an individual; and to repeal certain provisions
+  of such law relating thereto
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -56,41 +60,30 @@ S T A T E  O F  N E W  Y O R K
  vision ten of section 130.00 of this chapter with another person]; and
   (b) [such still or video image was  [taken  under  circumstances]  THE
  ACTOR  KNEW OR REASONABLY SHOULD HAVE KNOWN THAT THE PERSON DEPICTED DID
- NOT CONSENT TO SUCH DISSEMINATION OR PUBLICATION, INCLUDING THE  DISSEM-
- INATION  OR PUBLICATION OF AN IMAGE TAKEN WITH THE CONSENT OF THE PERSON
- DEPICTED when [the] SUCH person [depicted] had a reasonable  expectation
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03895-01-3
- A. 3596  2
+  LBD03895-03-3
+ A. 3596--A  2
  
+ NOT CONSENT TO SUCH DISSEMINATION OR PUBLICATION, INCLUDING THE  DISSEM-
+ INATION  OR PUBLICATION OF AN IMAGE TAKEN WITH THE CONSENT OF THE PERSON
+ DEPICTED when [the] SUCH person [depicted] had a reasonable  expectation
  that  the  image  would remain private [and the actor knew or reasonably
  should have known the person depicted intended for the  still  or  video
  image  to  remain  private], regardless of whether the actor was present
  when [the still or video] SUCH image was taken.
   2. For  purposes  of  this  section THE FOLLOWING TERMS SHALL HAVE THE
  FOLLOWING MEANINGS:
-  (A)  "intimate  part"  means the naked genitals, pubic area, anus or
+  (A) "intimate  part" means the naked genitals,  pubic  area,  anus  or
  female nipple of the person[.];
-  (B) "DISSEMINATE"  AND  "PUBLISH"  SHALL HAVE THE  SAME  MEANING  AS
+  (B)  "DISSEMINATE"  AND  "PUBLISH"  SHALL HAVE THE SAME MEANING AS
  DEFINED IN SECTION 250.40 OF THIS TITLE;
-  (C)  "SEXUAL CONDUCT" SHALL HAVE THE SAME MEANING AS DEFINED IN SUBDI-
+  (C) "SEXUAL CONDUCT" SHALL HAVE THE SAME MEANING AS DEFINED IN  SUBDI-
  VISION TEN OF SECTION 130.00 OF THIS CHAPTER; AND
-  (D) "DIGITIZATION" SHALL MEAN TO ALTER AN IMAGE IN A REALISTIC  MANNER
- UTILIZING  AN  IMAGE  OR  IMAGES  OF  A  PERSON,  OTHER  THAN THE PERSON
+  (D)  "DIGITIZATION" SHALL MEAN TO ALTER AN IMAGE IN A REALISTIC MANNER
+ UTILIZING AN IMAGE  OR  IMAGES  OF  A  PERSON,  OTHER  THAN  THE  PERSON
  DEPICTED, OR COMPUTER GENERATED IMAGES.
-  § 1-a. Subdivision 2-a of section 245.15 of the penal law is REPEALED.
-  § 2. Paragraph a of subdivision 2 of section 52-c of the civil  rights
- law,  as added by chapter 304 of the laws of 2020, is amended to read as
- follows:
-  a. A depicted individual shall have a cause of action against a person
- who, discloses, disseminates or publishes OR WITH INTENT TO  CAUSE  HARM
- TO THE EMOTIONAL, FINANCIAL OR PHYSICAL WELFARE OF ANOTHER PERSON, HE OR
- SHE  THREATENS  TO  DISCLOSE,  DISSEMINATE  OR PUBLISH sexually explicit
- material related to the depicted individual, and  the  person  knows  or
- reasonably  should  have  known the depicted individual in that material
- did not consent to its creation, disclosure, dissemination, or  publica-
- tion.
+  § 2. Subdivision 2-a of section 245.15 of the penal law is REPEALED.
   §  3.  This  act  shall take effect on the sixtieth day after it shall
  have become a law.
