@@ -1,6 +1,6 @@
 # Authorizes the Jamesport Fire District to file an application for exemption from real property taxes
 
-**Bill ID:** A3316B
+**Bill ID:** A3316BA
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the Jamesport Fire District to file an application for exemption from
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3316
+  3316--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. J. A. GIGLIO -- read once and referred to the
-  Committee on Real Property Taxation
+  Committee on Real Property  Taxation  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT in relation to authorizing the Jamesport Fire  District  to  file
   an application for exemption from real property taxes
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -38,11 +40,12 @@ S T A T E  O F  N E W  Y O R K
  the assessor of the  town  of  Riverhead, county  of  Suffolk,  is here-
  by authorized to accept from the Jamesport Fire District, an application
  for exemption  from  real property taxes pursuant to section 464 of  the
- real  property  tax law with respect to the 2021-2022 assessment roll,
- for  the  parcels  owned  by such organization, with such parcels  being
- located  at  41  Manor Lane, in the village of Jamesport, town of River-
- head, county of Suffolk, otherwise known  as  Suffolk county  tax  map
- district  0600, section  068.00,  block 02.00, lot 010.006.
+ real  property  tax  law  with  respect to the 2021-2022 and 2022-2023
+ assessment rolls, for  the  parcels  owned  by such  organization,  with
+ such  parcels  being  located at 41 Manor Lane, in the village of James-
+ port, town of Riverhead, county of Suffolk, otherwise known  as  Suffolk
+ county  tax  map  district  0600, section  068.00,  block  02.00,  lot
+ 010.006.
   If accepted, the application shall be  reviewed  as  if  it  had  been
  received on or before the taxable status date established for such roll.
  If  satisfied that such organization would otherwise be entitled to such
@@ -56,8 +59,7 @@ S T A T E  O F  N E W  Y O R K
  taxes  paid, along  with  any  fines  or penalties paid, and cancel  any
  taxes, fines,  penalties, interest, or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06966-01-3
+  LBD06966-02-3
