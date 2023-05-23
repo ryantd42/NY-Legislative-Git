@@ -1,6 +1,6 @@
 # Provides for automatic enrollment and recertification simplification for Medicaid eligible recipients
 
-**Bill ID:** S4622BA
+**Bill ID:** S4622BB
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for automatic enrollment and recertification simplification for Medicai
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4622--A
+  4622--B
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   when printed to be committed to the Committee on  Health  --  reported
   favorably  from  said  committee  and  committed  to  the Committee on
   Finance -- committee discharged, bill amended,  ordered  reprinted  as
-  amended and recommitted to said committee
-
+  amended  and  recommitted  to  said committee -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
+ 
  AN  ACT  to  amend the public health law and the social services law, in
   relation to automatic enrollment  and  recertification  simplification
   for Medicaid eligible recipients
@@ -60,8 +62,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02420-03-3
- S. 4622--A  2
+  LBD02420-05-3
+ S. 4622--B  2
  
   § 2. Paragraph (b) of subdivision 2 of section  366-a  of  the  social
  services  law, as added by section 51 of part A of chapter 1 of the laws
@@ -118,14 +120,13 @@ S T A T E  O F  N E W  Y O R K
  date.  Provided,  further, that sections two and three of this act shall
  only take effect when the  federal  center  for  Medicaid  and  Medicare
  services  (CMS)  approves in writing to the state commissioner of health
- that the changes do not affect  eligibility requirements and that feder-
- S. 4622--A  3
+ that the changes do not affect federal financial participation; provided
+ S. 4622--B  3
  
- al financial participation is not affected; provided  that  the  commis-
- sioner  of  health shall notify the legislative bill drafting commission
- upon the occurrence of the enactment of the legislation provided for  in
- sections  two  and  three  of  this act in order that the commission may
- maintain an accurate and timely effective data base of the official text
- of the laws of the state of New York in furtherance of effectuating  the
- provisions  of section 44 of the legislative law and section 70-b of the
- public officers law.
+ that the commissioner of health shall notify the legislative bill draft-
+ ing commission upon the occurrence of the enactment of  the  legislation
+ provided  for  in  sections  two and three of this act in order that the
+ commission  may  maintain  an accurate and timely effective data base of
+ the official text of the laws of the state of New York in furtherance of
+ effectuating the provisions of section 44 of  the  legislative  law  and
+ section 70-b of the public officers law.
