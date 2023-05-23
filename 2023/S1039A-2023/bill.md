@@ -1,6 +1,6 @@
 # Relates to procedures to be followed in appointing a hearing officer for removal and disciplinary action against certain public employees
 
-**Bill ID:** S1039A
+**Bill ID:** S1039AA
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Provides procedures to be followed in appointing a hearing officer for removal a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1039
+  1039--A
  
   2023-2024 Regular Sessions
  
@@ -25,18 +25,23 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Civil Service and Pensions
- 
+ Introduced  by Sens. JACKSON, MANNION -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Civil Service and
+  Pensions -- reported favorably from said committee  and  committed  to
+  the  Committee  on  Finance  --  committee  discharged,  bill amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN ACT to amend the civil service law, in relation to hearing procedures
   for certain public employees
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision  2 of section 75 of the civil service law, as
- amended by chapter 226 of the laws of 1994, is amended and a new  subdi-
- vision 2-b is added to read as follows:
+  Section  1.  Subdivision  2  and  paragraph  (a) of subdivision 2-a of
+ section 75 of the civil service law, subdivision 2 as amended by chapter
+ 226 of the laws of 1994 and paragraph (a) of subdivision 2-a as added by
+ chapter 674 of the laws of 2022, are amended and a new  subdivision  2-b
+ is added to read as follows:
   2.  Procedure;  NEW  YORK CITY EMPLOYEES. [An] FOR ANY EMPLOYEE IN THE
  SERVICE OF THE CITY OF NEW YORK DESCRIBED IN PARAGRAPH  (A),  (B),  (C),
  (D),  OR  (E) OF SUBDIVISION ONE OF THIS SECTION, IF SUCH employee [who]
@@ -54,93 +59,136 @@ S T A T E  O F  N E W  Y O R K
  in a reasonable period of time the employer has the right to then  ques-
  tion  the  employee. A hearing officer under this section shall have the
  power to find that a reasonable period of time was or was not  afforded.
- In  the event the hearing officer finds that a reasonable period of time
- was not afforded then any and all statements obtained  from  said  ques-
- tioning  as  well as any evidence or information obtained as a result of
- said questioning shall be excluded, provided, however, that this  subdi-
- vision  shall  not  modify  or  replace any written collective agreement
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03619-01-3
- S. 1039  2
+  LBD03619-03-3
+ S. 1039--A  2
  
- between a public employer and employee organization negotiated  pursuant
- to  article  fourteen  of this chapter. A person against whom removal or
- other disciplinary action is proposed shall have written notice  thereof
- and  of  the  reasons therefor, shall be furnished a copy of the charges
- preferred against him OR HER and shall be allowed at  least  eight  days
- for  answering  the same in writing. The hearing upon such charges shall
- be held by the officer or body having the power  to  remove  the  person
- against  whom such charges are preferred, or by a deputy or other person
- designated by such officer or body in writing for that purpose. In  case
- a  deputy  or  other  person  is so designated, he OR SHE shall, for the
- purpose of such hearing, be vested with all the powers of  such  officer
+ In  the event the hearing officer finds that a reasonable period of time
+ was not afforded then any and all statements obtained  from  said  ques-
+ tioning  as  well as any evidence or information obtained as a result of
+ said  questioning shall be excluded, provided, however, that this subdi-
+ vision shall not modify or  replace  any  written  collective  agreement
+ between  a public employer and employee organization negotiated pursuant
+ to article fourteen of this chapter. A person against  whom  removal  or
+ other  disciplinary action is proposed shall have written notice thereof
+ and of the reasons therefor, shall be furnished a copy  of  the  charges
+ preferred  against  him  OR HER and shall be allowed at least eight days
+ for answering the same in writing. The hearing upon such  charges  shall
+ be  held  by  the  officer or body having the power to remove the person
+ against whom such charges are preferred, or by a deputy or other  person
+ designated  by such officer or body in writing for that purpose. In case
+ a deputy or other person is so designated, he  OR  SHE  shall,  for  the
+ purpose  of  such hearing, be vested with all the powers of such officer
  or body and shall make a record of such hearing which shall, with his OR
- HER  recommendations, be referred to such officer or body for review and
- decision. The person or persons holding such  hearing  shall,  upon  the
- request  of the person against whom charges are preferred, permit him OR
+ HER recommendations, be referred to such officer or body for review  and
+ decision.  The  person  or  persons holding such hearing shall, upon the
+ request of the person against whom charges are preferred, permit him  OR
  HER to be represented by counsel, or by a representative of a recognized
  or certified employee organization, and shall allow him OR HER to summon
- witnesses in his OR HER behalf. The burden of  proving  incompetency  or
- misconduct  shall be upon the person alleging the same.  Compliance with
+ witnesses  in  his  OR HER behalf. The burden of proving incompetency or
+ misconduct shall be upon the person alleging the same.  Compliance  with
  technical rules of evidence shall not be required.
+  (a)  Notwithstanding  any  other  provision  of  law  to the contrary,
+ including but not limited to subdivision four of section seventy-six  of
+ this  title,  any paid officer or member of an organized fire company or
+ fire department of a city of less than one million population, or  town,
+ village or fire district who is represented by a certified or recognized
+ employee organization pursuant to article fourteen of this chapter shall
+ not  be  subjected to the penalty of dismissal from service or any other
+ discipline if the hearing, upon such charge, has been conducted by some-
+ one other than an independent hearing officer to be  agreed  to  by  the
+ employer and the person against whom disciplinary action is proposed. If
+ the  parties  are  unable  to  agree upon a hearing officer, the hearing
+ officer shall be selected from a list of seven names to be  provided  by
+ the  public  employment relations board. The public employment relations
+ board shall maintain a list of independent  hearing  officers  for  this
+ purpose  AND  FOR  THE  PURPOSE  DESCRIBED  IN SUBDIVISION TWO-B OF THIS
+ SECTION. The parties shall select the  hearing  officer  by  alternately
+ striking  names  from  the  list  of seven. The hearing officer shall be
+ vested with all powers of the appointing authority,  shall  conduct  and
+ make  a  record  of  the hearing, and shall render a final decision. The
+ cost incurred in obtaining such independent  hearing  officer  shall  be
+ divided  equally between the parties; provided that as may be determined
+ upon the circumstances of the case, the hearing officer shall be author-
+ ized to allocate such cost on the basis of the frivolous nature  of  any
+ claim  made  or  any  defense  interposed.  In  order to find a claim or
+ defense to be frivolous, the hearing officer must find at least  one  of
+ the following:
+  (i)  the  claim  or  defense  was  commenced, used or continued in bad
+ faith, solely to delay or prolong the resolution of  the  action  or  to
+ harass or maliciously injure another; or
+  (ii)  the  claim  or  defense  was commenced or continued in bad faith
+ without any reasonable basis in law or fact. If the claim or defense was
+ S. 1039--A  3
+ 
+ promptly discontinued when the party learned or should have learned that
+ the claim or defense lacked such reasonable basis, the  hearing  officer
+ may  find  that the party did not act in bad faith. A person served with
+ charges  may  then,  however, elect in writing to proceed with a hearing
+ pursuant to the  procedures  established  in  subdivision  two  of  this
+ section in lieu of the procedures set forth in this subdivision.
   2-B.  PROCEDURE;  NON-NEW  YORK  CITY  EMPLOYEES.  FOR  ANY  EMPLOYEE
- DESCRIBED  IN PARAGRAPH (A), (B), (C), OR (E) OF SUBDIVISION ONE OF THIS
+ DESCRIBED IN PARAGRAPH (A), (B), (C), OR (E) OF SUBDIVISION ONE OF  THIS
  SECTION NOT IN THE SERVICE OF THE CITY OF NEW YORK, THE FOLLOWING PROCE-
- DURE SHALL APPLY: AN EMPLOYEE UNDER THIS SUBDIVISION WHO AT THE TIME  OF
- QUESTIONING  APPEARS  TO  BE  A POTENTIAL SUBJECT OF DISCIPLINARY ACTION
- SHALL HAVE A RIGHT TO REPRESENTATION BY HIS OR HER CERTIFIED  OR  RECOG-
- NIZED  EMPLOYEE  ORGANIZATION UNDER ARTICLE FOURTEEN OF THIS CHAPTER AND
+ DURE  SHALL APPLY: AN EMPLOYEE UNDER THIS SUBDIVISION WHO AT THE TIME OF
+ QUESTIONING APPEARS TO BE A POTENTIAL  SUBJECT  OF  DISCIPLINARY  ACTION
+ SHALL  HAVE  A RIGHT TO REPRESENTATION BY HIS OR HER CERTIFIED OR RECOG-
+ NIZED EMPLOYEE ORGANIZATION UNDER ARTICLE FOURTEEN OF THIS  CHAPTER  AND
  SHALL BE NOTIFIED IN ADVANCE, IN WRITING, OF SUCH RIGHT. A STATE EMPLOY-
- EE WHO IS DESIGNATED MANAGERIAL OR CONFIDENTIAL UNDER  ARTICLE  FOURTEEN
- OF  THIS  CHAPTER,  SHALL,  AT THE TIME OF QUESTIONING, WHERE IT APPEARS
+ EE  WHO  IS DESIGNATED MANAGERIAL OR CONFIDENTIAL UNDER ARTICLE FOURTEEN
+ OF THIS CHAPTER, SHALL, AT THE TIME OF  QUESTIONING,  WHERE  IT  APPEARS
  THAT SUCH EMPLOYEE IS A POTENTIAL SUBJECT OF DISCIPLINARY ACTION, HAVE A
  RIGHT TO REPRESENTATION AND SHALL BE NOTIFIED IN ADVANCE, IN WRITING, OF
- SUCH RIGHT. IF REPRESENTATION IS REQUESTED A REASONABLE PERIOD  OF  TIME
- SHALL  BE  AFFORDED  TO  OBTAIN  SUCH REPRESENTATION. IF THE EMPLOYEE IS
- UNABLE TO OBTAIN REPRESENTATION WITHIN A REASONABLE PERIOD OF  TIME  THE
- EMPLOYER  HAS THE RIGHT TO THEN QUESTION THE EMPLOYEE. A HEARING OFFICER
+ SUCH  RIGHT.  IF REPRESENTATION IS REQUESTED A REASONABLE PERIOD OF TIME
+ SHALL BE AFFORDED TO OBTAIN SUCH  REPRESENTATION.  IF  THE  EMPLOYEE  IS
+ UNABLE  TO  OBTAIN REPRESENTATION WITHIN A REASONABLE PERIOD OF TIME THE
+ EMPLOYER HAS THE RIGHT TO THEN QUESTION THE EMPLOYEE. A HEARING  OFFICER
  UNDER THIS SECTION SHALL HAVE THE POWER TO FIND THAT A REASONABLE PERIOD
- OF TIME WAS OR WAS NOT AFFORDED. IN THE EVENT THE HEARING OFFICER  FINDS
- THAT  A  REASONABLE  PERIOD  OF  TIME  WAS NOT AFFORDED THEN ANY AND ALL
- STATEMENTS OBTAINED FROM SAID QUESTIONING AS WELL  AS  ANY  EVIDENCE  OR
- INFORMATION  OBTAINED AS A RESULT OF SAID QUESTIONING SHALL BE EXCLUDED,
+ OF  TIME WAS OR WAS NOT AFFORDED. IN THE EVENT THE HEARING OFFICER FINDS
+ THAT A REASONABLE PERIOD OF TIME WAS  NOT  AFFORDED  THEN  ANY  AND  ALL
+ STATEMENTS  OBTAINED  FROM  SAID  QUESTIONING AS WELL AS ANY EVIDENCE OR
+ INFORMATION OBTAINED AS A RESULT OF SAID QUESTIONING SHALL BE  EXCLUDED,
  PROVIDED, HOWEVER, THAT THIS SUBDIVISION SHALL NOT MODIFY OR REPLACE ANY
- WRITTEN COLLECTIVE AGREEMENT BETWEEN  A  PUBLIC  EMPLOYER  AND  EMPLOYEE
- ORGANIZATION  NEGOTIATED PURSUANT TO ARTICLE FOURTEEN OF THIS CHAPTER. A
- PERSON AGAINST WHOM REMOVAL OR OTHER  DISCIPLINARY  ACTION  IS  PROPOSED
- SHALL  HAVE  WRITTEN NOTICE THEREOF AND OF THE REASONS THEREOF, SHALL BE
- FURNISHED A COPY OF THE CHARGES PREFERRED AGAINST HIM OR HER  AND  SHALL
- BE  ALLOWED  AT  LEAST EIGHT DAYS FOR ANSWERING THE SAME IN WRITING. THE
- HEARING UPON SUCH CHARGES SHALL BE HELD BY A HEARING OFFICER  WHO  SHALL
- BE  A  MEMBER  OF THE AMERICAN ARBITRATION ASSOCIATION, AND SUCH HEARING
- OFFICER SHALL BE SELECTED BY THE MUTUAL AGREEMENT OF THE PERSON  AGAINST
- WHOM  DISCIPLINARY  ACTION  IS  PROPOSED AND OF THE EMPLOYING OFFICER OR
- BODY. IF SUCH MUTUAL AGREEMENT CANNOT BE REACHED, THEN THE HEARING OFFI-
- CER SHALL BE SELECTED PURSUANT TO THE RULES OF THE AMERICAN  ARBITRATION
- ASSOCIATION.  SUCH  HEARING OFFICER SHALL, FOR THE PURPOSE OF SUCH HEAR-
- ING, BE VESTED WITH ALL THE POWERS OF SUCH OFFICER  OR  BODY  AND  SHALL
- S. 1039  3
- 
- MAKE  A  RECORD OF SUCH HEARING WHICH SHALL, WITH HIS OR HER RECOMMENDA-
- TIONS AND DECISION, BE REFERRED TO SUCH OFFICER OR BODY FOR  IMPLEMENTA-
- TION.  THE  HEARING OFFICER HOLDING SUCH HEARING SHALL, UPON THE REQUEST
- OF  THE  PERSON AGAINST WHOM CHARGES ARE PREFERRED, PERMIT HIM OR HER TO
- BE REPRESENTED BY COUNSEL, OR BY A REPRESENTATIVE  OF  A  RECOGNIZED  OR
- CERTIFIED  EMPLOYEE  ORGANIZATION,  AND SHALL ALLOW HIM OR HER TO SUMMON
+ WRITTEN  COLLECTIVE  AGREEMENT  BETWEEN  A  PUBLIC EMPLOYER AND EMPLOYEE
+ ORGANIZATION NEGOTIATED PURSUANT TO ARTICLE FOURTEEN OF THIS CHAPTER.  A
+ PERSON  AGAINST  WHOM  REMOVAL  OR OTHER DISCIPLINARY ACTION IS PROPOSED
+ SHALL HAVE WRITTEN NOTICE THEREOF AND OF THE REASONS THEREOF,  SHALL  BE
+ FURNISHED  A  COPY OF THE CHARGES PREFERRED AGAINST HIM OR HER AND SHALL
+ BE ALLOWED AT LEAST EIGHT DAYS FOR ANSWERING THE SAME  IN  WRITING.  THE
+ HEARING  UPON  SUCH CHARGES SHALL BE HELD BY A HEARING OFFICER WHO SHALL
+ BE SELECTED BY THE MUTUAL AGREEMENT OF THE PERSON AGAINST WHOM DISCIPLI-
+ NARY ACTION IS PROPOSED AND OF THE EMPLOYING OFFICER OR  BODY.  IF  SUCH
+ MUTUAL  AGREEMENT  CANNOT  BE REACHED, THEN THE HEARING OFFICER SHALL BE
+ SELECTED FROM A LIST OF SEVEN NAMES TO BE PROVIDED BY THE PUBLIC EMPLOY-
+ MENT RELATIONS BOARD PURSUANT TO SUBDIVISION TWO-A OF THIS SECTION.  THE
+ PARTIES  SHALL  SELECT THE HEARING OFFICER BY ALTERNATELY STRIKING NAMES
+ FROM THE LIST OF SEVEN. SUCH HEARING OFFICER SHALL, FOR THE  PURPOSE  OF
+ SUCH  HEARING, BE VESTED WITH ALL THE POWERS OF SUCH OFFICER OR BODY AND
+ SHALL MAKE A RECORD OF SUCH HEARING WHICH SHALL, WITH HIS OR HER  RECOM-
+ MENDATIONS  AND DECISION, BE REFERRED TO SUCH OFFICER OR BODY FOR IMPLE-
+ MENTATION. THE HEARING OFFICER HOLDING  SUCH  HEARING  SHALL,  UPON  THE
+ REQUEST  OF THE PERSON AGAINST WHOM CHARGES ARE PREFERRED, PERMIT HIM OR
+ HER TO BE REPRESENTED BY COUNSEL, OR BY A REPRESENTATIVE OF A RECOGNIZED
+ OR CERTIFIED EMPLOYEE ORGANIZATION, AND SHALL ALLOW HIM OR HER TO SUMMON
  WITNESSES ON HIS OR HER BEHALF. THE BURDEN OF  PROVING  INCOMPETENCY  OR
  MISCONDUCT  SHALL  BE UPON THE PERSON ALLEGING THE SAME. COMPLIANCE WITH
- TECHNICAL RULES OF EVIDENCE SHALL NOT BE REQUIRED. THE  HEARING  OFFICER
- SHALL  BE PAID A FEE WHICH IS EQUIVALENT TO THE NORMAL AND CUSTOMARY FEE
- PAID TO HIM OR HER FOR SERVICES AS AN ARBITRATOR UNDER THE  AUSPICES  OF
- THE  AMERICAN  ARBITRATION  ASSOCIATION.  PROVIDED,  HOWEVER,  THAT  THE
- PROVISIONS OF THIS SUBDIVISION SHALL NOT SUPERSEDE OR APPLY TO AN EXIST-
- ING HEARING OFFICER POLICY AND PROCEDURE THAT IS THE RESULT OF A COLLEC-
- TIVE BARGAINING AGREEMENT BETWEEN AN EMPLOYER AND A RECOGNIZED OR CERTI-
- FIED EMPLOYEE ORGANIZATION OR ANY HEARING OFFICER POLICY  AND  PROCEDURE
- CURRENTLY  EXISTING  FOR STATE EMPLOYEES DESIGNATED MANAGERIAL OR CONFI-
- DENTIAL WHICH WAS IN EFFECT ON THE EFFECTIVE DATE OF THIS SUBDIVISION.
+ TECHNICAL RULES OF EVIDENCE SHALL NOT BE REQUIRED.  THE COST INCURRED IN
+ OBTAINING THE INDEPENDENT  HEARING  OFFICER  SHALL  BE  DIVIDED  EQUALLY
+ BETWEEN THE PARTIES; PROVIDED THAT AS MAY BE DETERMINED UPON THE CIRCUM-
+ STANCES OF THE CASE, THE HEARING OFFICER SHALL BE AUTHORIZED TO ALLOCATE
+ SUCH  COST ON THE BASIS OF THE FRIVOLOUS NATURE OF ANY CLAIM MADE OR ANY
+ S. 1039--A  4
+ 
+ DEFENSE INTERPOSED IN THE MANNER PROVIDED FOR IN PARAGRAPH (A) OF SUBDI-
+ VISION TWO-A OF THIS SECTION.  PROVIDED, HOWEVER, THAT THE PROVISIONS OF
+ THIS SUBDIVISION SHALL NOT SUPERSEDE OR APPLY  TO  AN  EXISTING  HEARING
+ OFFICER POLICY AND PROCEDURE THAT IS THE RESULT OF A COLLECTIVE BARGAIN-
+ ING AGREEMENT BETWEEN AN EMPLOYER AND A RECOGNIZED OR CERTIFIED EMPLOYEE
+ ORGANIZATION  OR  ANY  HEARING  OFFICER  POLICY  AND PROCEDURE CURRENTLY
+ EXISTING FOR STATE EMPLOYEES DESIGNATED MANAGERIAL OR CONFIDENTIAL WHICH
+ WAS IN EFFECT ON THE EFFECTIVE DATE OF THIS SUBDIVISION.
   § 2. Subdivision 3 of section 75 of the civil service law, as  amended
  by chapter 710 of the laws of 1984, is amended to read as follows:
   3.  Suspension  pending  determination of charges; penalties; NEW YORK
@@ -178,8 +226,6 @@ S T A T E  O F  N E W  Y O R K
  the  city  of  New  York  may  be suspended without pay for a period not
  exceeding thirty days. If such officer is found guilty of  the  charges,
  the police commissioner of such department may punish the police officer
- S. 1039  4
- 
  pursuant to the provisions of sections 14-115 and 14-123 of the adminis-
  trative code of the city of New York.
   3-B.  SUSPENSION  PENDING DETERMINATION OF CHARGES; PENALTIES; NON-NEW
@@ -188,24 +234,20 @@ S T A T E  O F  N E W  Y O R K
  THE CITY OF NEW YORK, PENDING THE HEARING AND DETERMINATION  OF  CHARGES
  OF INCOMPETENCY OR MISCONDUCT, THE OFFICER OR EMPLOYEE AGAINST WHOM SUCH
  CHARGES  HAVE BEEN PREFERRED MAY BE SUSPENDED FOR A PERIOD NOT EXCEEDING
- THIRTY DAYS. THE SUSPENSION SHALL BE WITH PAY, EXCEPT THE  EMPLOYEE  MAY
- BE SUSPENDED WITHOUT PAY IF THE EMPLOYEE HAS ENTERED A GUILTY PLEA TO OR
- HAS  BEEN  CONVICTED  OF  A FELONY CRIME CONCERNING THE CRIMINAL SALE OR
- POSSESSION OF A CONTROLLED SUBSTANCE OR  A  PRECURSOR  OF  A  CONTROLLED
- SUBSTANCE.  IF  SUCH OFFICER OR EMPLOYEE IS FOUND GUILTY OF THE CHARGES,
- THE PENALTY OR PUNISHMENT MAY CONSIST OF A  REPRIMAND,  A  FINE  NOT  TO
- EXCEED  ONE  HUNDRED  DOLLARS TO BE DEDUCTED FROM THE SALARY OR WAGES OF
- SUCH OFFICER OR EMPLOYEE,  SUSPENSION  WITHOUT  PAY  FOR  A  PERIOD  NOT
- EXCEEDING TWO MONTHS, DEMOTION IN GRADE AND TITLE, OR DISMISSAL FROM THE
- SERVICE;  PROVIDED,  HOWEVER,  THAT  THE TIME DURING WHICH AN OFFICER OR
- EMPLOYEE IS SUSPENDED WITHOUT PAY MAY  BE  CONSIDERED  AS  PART  OF  THE
- PENALTY.  IF  HE OR SHE IS ACQUITTED, HE OR SHE SHALL BE RESTORED TO HIS
- OR HER POSITION. IF SUCH OFFICER OR EMPLOYEE IS FOUND GUILTY, A COPY  OF
- THE  CHARGES,  HIS  OR  HER  WRITTEN ANSWER THERETO, A TRANSCRIPT OF THE
- HEARING, AND THE DETERMINATION SHALL BE  FILED  IN  THE  OFFICE  OF  THE
- DEPARTMENT  OR  AGENCY  IN WHICH HE OR SHE HAS BEEN EMPLOYED, AND A COPY
- THEREOF SHALL BE FILED WITH THE CIVIL SERVICE COMMISSION  HAVING  JURIS-
- DICTION  OVER  SUCH  POSITION.  A  COPY OF THE TRANSCRIPT OF THE HEARING
- SHALL, UPON REQUEST OF THE OFFICER OR EMPLOYEE AFFECTED, BE FURNISHED TO
- HIM OR HER WITHOUT CHARGE.
+ THIRTY DAYS. THE SUSPENSION SHALL BE WITH  PAY.  IF  SUCH  OFFICER  OR
+ EMPLOYEE  IS  FOUND GUILTY OF THE CHARGES, THE PENALTY OR PUNISHMENT MAY
+ CONSIST OF A REPRIMAND, A FINE NOT TO EXCEED ONE HUNDRED DOLLARS  TO  BE
+ S. 1039--A  5
+ 
+ DEDUCTED  FROM  THE SALARY OR WAGES OF SUCH OFFICER OR EMPLOYEE, SUSPEN-
+ SION WITHOUT PAY FOR A PERIOD NOT  EXCEEDING  TWO  MONTHS,  DEMOTION  IN
+ GRADE AND TITLE, OR DISMISSAL FROM THE SERVICE.  IF HE OR SHE IS ACQUIT-
+ TED, HE OR SHE SHALL BE RESTORED TO HIS OR HER POSITION. IF SUCH OFFICER
+ OR  EMPLOYEE  IS FOUND GUILTY, A COPY OF THE CHARGES, HIS OR HER WRITTEN
+ ANSWER THERETO, A TRANSCRIPT OF THE HEARING, AND THE DETERMINATION SHALL
+ BE FILED IN THE OFFICE OF THE DEPARTMENT OR AGENCY IN WHICH  HE  OR  SHE
+ HAS  BEEN  EMPLOYED,  AND  A  COPY THEREOF SHALL BE FILED WITH THE CIVIL
+ SERVICE COMMISSION HAVING JURISDICTION OVER SUCH POSITION. A COPY OF THE
+ TRANSCRIPT OF THE HEARING SHALL, UPON REQUEST OF THE OFFICER OR EMPLOYEE
+ AFFECTED, BE FURNISHED TO HIM OR HER WITHOUT CHARGE.
   § 4. This act shall take effect immediately.
