@@ -1,6 +1,6 @@
 # Makes technical corrections relating to the MTA and the Penn Station Access Project; repealer
 
-**Bill ID:** A7061A
+**Bill ID:** A7061AA
 **Session:** 2023
 **Sponsor:** Kenny Burgos
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Makes technical corrections relating to the MTA and the Penn Station Access Proj
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7061
+  7061--A
  
   2023-2024 Regular Sessions
  
@@ -26,24 +26,25 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. BURGOS -- read once and referred to the Committee
-  on Cities
+  on  Cities -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend chapter 544 of the laws of 2022, authorizing the city of
-  New  York  to  discontinue a portion of real property in the county of
-  the Bronx as parkland and to grant easements for improvements  to  the
-  railroad  right-of-way  to  bring Metro-North railroad service to four
-  new stations in the Bronx and to Pennsylvania Station in  the  county,
-  in relation to making technical corrections thereto; to repeal section
-  6 of chapter 544 of the laws of 2022, authorizing the city of New York
-  to  discontinue  a portion of real property in the county of the Bronx
-  as parkland and to grant easements for improvements  to  the  railroad
-  right-of-way  to  bring  Metro-North  railroad  service  to  four  new
-  stations in the Bronx and to Pennsylvania Station in the  county;  and
-  to  authorize  the  city  of New York to discontinue a portion of real
-  property in the county of the Bronx as parkland and to grant easements
-  for improvements to the railroad  right-of-way  to  bring  Metro-North
-  railroad service to four new stations in the Bronx and to Pennsylvania
-  Station in the county of New York
+  New York to discontinue a portion of real property in  the  county  of
+  the  Bronx as parkland and to grant easements for improvements  to the
+  railroad right-of-way  to  bring Metro-North railroad service to  four
+  new  stations in the Bronx and to Pennsylvania Station in  the county,
+  in relation to authorizing the city  of  New  York  to  discontinue  a
+  portion of real property in the county of the Bronx as parkland and to
+  grant easements for improvements to the railroad right-of-way to bring
+  Metro-North  railroad service to four new stations in the Bronx and to
+  Pennsylvania Station in the county of New York  and  making  technical
+  corrections  thereto;  and  to  repeal section 6 of chapter 544 of the
+  laws of 2022, authorizing the  city  of  New  York  to  discontinue  a
+  portion of real property in the county of the Bronx as parkland and to
+  grant  easements  for  improvements  to the railroad right-of-way  to
+  bring Metro-North railroad service to four new stations in  the  Bronx
+  and to Pennsylvania Station in  the county
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -57,71 +58,71 @@ S T A T E  O F  N E W  Y O R K
   Section  1. Subject to the provisions of this act, but notwithstanding
  any provision of law to the contrary, the city of  New  York  is  hereby
  authorized  to discontinue the use as parklands [of] the lands described
- in section three of this act and to grant easements AFFECTING SUCH LANDS
- to the metropolitan transportation authority, upon such terms and condi-
+ in [section] SECTIONS three AND THREE-A of this act and to  grant  ease-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11069-02-3
- A. 7061  2
+  LBD11069-03-3
+ A. 7061--A  2
  
- tions as the city  OF  NEW  YORK  AND  THE  METROPOLITAN  TRANSPORTATION
- AUTHORITY  shall  determine,  to  enable the metropolitan transportation
- authority and Metro-North commuter railroad company,  [an  affiliate]  A
- SUBSIDIARY  of  the metropolitan transportation authority, to [construct
- improvements and] gain ingress and egress to and  from  railroad  equip-
- ment,  stations  and  right-of-way  on  such  former  parkland,  [and to
- construct below surface and surface utility infrastructure,] in order to
- bring Metro-North commuter railroad company service to four new stations
- in the Bronx and to Pennsylvania Station in the county of  New  York  IN
- CONNECTION WITH THE CAPITAL PROJECT KNOWN AS PENN STATION ACCESS.
-  §  2.  Section  2  of chapter 544 of the laws of 2022, authorizing the
+ ments AFFECTING SUCH LANDS to the metropolitan transportation authority,
+ upon  such terms and conditions as the city OF NEW YORK shall determine,
+ to enable the  metropolitan  transportation  authority  and  Metro-North
+ commuter  railroad company, [an affiliate] A SUBSIDIARY of the metropol-
+ itan  transportation  authority,  to  construct  improvements  and  gain
+ ingress  and  egress to and from railroad equipment, stations and right-
+ of-way on such former parkland, [and  to  construct  below  surface  and
+ surface  utility infrastructure,] in order to bring Metro-North commuter
+ railroad company service to four new stations in the Bronx and to  Penn-
+ sylvania  Station in the county of New York IN CONNECTION WITH THE CAPI-
+ TAL PROJECT KNOWN AS PENN STATION ACCESS.
+  § 2. Section 2 of chapter 544 of the laws  of  2022,  authorizing  the
  city of New York to discontinue a portion of real property in the county
- of the Bronx as parkland and to grant easements for improvements to  the
- railroad  right-of-way to bring Metro-North railroad service to four new
- stations in the Bronx and to Pennsylvania  Station  in  the  county,  is
+ of  the Bronx as parkland and to grant easements for improvements to the
+ railroad right-of-way to bring Metro-North railroad service to four  new
+ stations  in  the  Bronx  and  to Pennsylvania Station in the county, is
  amended to read as follows:
-  §  2.  The  authorization provided in section one of this act shall be
+  § 2. The authorization provided in section one of this  act  shall  be
  effective only upon the condition that the city of New York dedicates an
- amount equal to or greater than the fair market VALUE of  the  parklands
+ amount  equal  to or greater than the fair market VALUE of the parklands
  being discontinued towards the acquisition of new parklands and/or capi-
  tal improvements to existing parklands and recreational facilities with-
  in the borough of the Bronx.
-  §  3.  Section  3  of chapter 544 of the laws of 2022, authorizing the
+  § 3. Section 3 of chapter 544 of the laws  of  2022,  authorizing  the
  city of New York to discontinue a portion of real property in the county
- of the Bronx as parkland and to grant easements for improvements to  the
- railroad  right-of-way to bring Metro-North railroad service to four new
- stations in the Bronx and to Pennsylvania  Station  in  the  county,  is
+ of  the Bronx as parkland and to grant easements for improvements to the
+ railroad right-of-way to bring Metro-North railroad service to four  new
+ stations  in  the  Bronx  and  to Pennsylvania Station in the county, is
  amended to read as follows:
-  §  3.  The lands hereby authorized to be discontinued as parklands and
- for which easements may be granted to  the  metropolitan  transportation
- authority  are located in the county of the Bronx, city and state of New
+  § 3. The lands hereby authorized to be discontinued as  parklands  and
+ for  which  easements  may be granted to the metropolitan transportation
+ authority are located in the county of the Bronx, city and state of  New
  York, and are bounded and described as follows:
   Easement 1 on BLOCK 3861, PART OF LOT 14:
-  ALL THAT CERTAIN LOT, PIECE OR PARCEL  OF  LAND  SITUATED,  LYING  AND
- BEING  IN  THE BOROUGH OF THE BRONX, COUNTY OF BRONX, CITY, AND STATE OF
+  ALL  THAT  CERTAIN  LOT,  PIECE  OR PARCEL OF LAND SITUATED, LYING AND
+ BEING IN THE BOROUGH OF THE BRONX, COUNTY OF BRONX, CITY, AND  STATE  OF
  NEW YORK BOUNDED AND DESCRIBED AS FOLLOWS:
   AREA STE-115-03: HORIZONTAL LIMITS
-  Beginning at a point in the southeast line of Block 3861, Lot  14,  as
- depicted  to  the  City of New York (Reputed Owner) as per Reel 770 Page
- 1136, as recorded in the Register's Office of  the  City  of  New  York,
- Borough  of the Bronx, same being a northwest line of Block 3861, Lot 8,
- being N 65°40'15" W, distant 242.23 feet from the  intersection  of  the
+  Beginning  at  a point in the southeast line of Block 3861, Lot 14, as
+ depicted to the City of New York (Reputed Owner) as per  Reel  770  Page
+ 1136,  as  recorded  in  the  Register's Office of the City of New York,
+ Borough of the Bronx, same being a northwest line of Block 3861, Lot  8,
+ being  N  65°40'15"  W, distant 242.23 feet from the intersection of the
  northeast line of E.  172nd Street (60 feet wide) and the northwest line
  of Bronx River Avenue (100 feet wide) to a common corner of said Lots 14
- and  8,  N  30°52'59" E, distant 246.92 feet along a common line between
- said Lots 14 and 8 to the said Point of Beginning having  coordinates  N
+ and 8, N 30°52'59" E, distant 246.92 feet along a  common  line  between
+ said  Lots  14 and 8 to the said Point of Beginning having coordinates N
  242,522.5836, E 1,016,853.7105, and running thence;
-  Northwesterly,  leaving  said  common  line,  crossing  said Lot 14, N
+  Northwesterly, leaving said common  line,  crossing  said  Lot  14,  N
  59°07'01" W, a distance of 7.66 feet to a point, thence;
-  Northeasterly, continuing  across  said  Lot  14,  N  30°52'59"  E,  a
+  Northeasterly,  continuing  across  said  Lot  14,  N  30°52'59"  E, a
  distance of 103.45 feet to a point, thence;
-  Southeasterly,  continuing  across  said  Lot  14,  S  59°07'01"  E, a
- distance of 7.66 feet to a point, said point being in  the  common  line
+  Southeasterly, continuing  across  said  Lot  14,  S  59°07'01"  E,  a
+ distance  of  7.66  feet to a point, said point being in the common line
  between said Lots 14 and 8, thence;
- A. 7061  3
- 
-  Southwesterly,  along  said  common line, S 30°52'59" W, a distance of
+ A. 7061--A  3
+
+  Southwesterly, along said common line, S 30°52'59" W,  a  distance  of
  103.45 feet to the Point or Place of Beginning and containing 792 square
  feet (0.018 acres) of land more or less.
   Easement  2 on BLOCK 3861, PART OF LOT 14: ALL THAT CERTAIN LOT, PIECE
@@ -177,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
  32°14'48" W, a distance of 107.59 feet to a point, thence;
   Southwesterly,  continuing  across  said  Lot  14,  S  31°33'35"  W, a
  distance of 88.17 feet to a point, thence;
- A. 7061  4
+ A. 7061--A  4
  
   Southwesterly, continuing  across  said  Lot  14,  S  30°22'14"  W,  a
  distance of 18.00 feet to a point, thence;
@@ -235,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  depicted to the City of New York (Reputed Owner) as per  Reel  290  Page
  20,  as  recorded  in  the  Register's  Office  of the City of New York,
  Borough of the Bronx, same being a southeast line of Block 3861, Lot 14,
- A. 7061  5
+ A. 7061--A  5
  
  being N 65°39'02" W, distant 315.96 feet from the  intersection  of  the
  southwest  line  of  East  174th Street (80 feet wide) and the northwest
@@ -292,7 +293,7 @@ S T A T E  O F  N E W  Y O R K
  right, having a radius of 112.86 feet, an arc length of 20.56 feet,  and
  a  chord  that bears S 53°51'05" W, a distance of 20.53 feet to a point,
  thence;
- A. 7061  6
+ A. 7061--A  6
  
   Southwesterly, continuing across said Lot 114, along a  curve  to  the
  left, having a radius of 201.86 feet, an arc length of 24.58 feet, and a
@@ -350,7 +351,7 @@ S T A T E  O F  N E W  Y O R K
  and containing 1,388 square feet (0.032 acres) of land more or less.
   Easement  7] on BLOCK [4435] 4335 PART OF LOT 2: ALL THAT CERTAIN LOT,
  PIECE OR PARCEL OF LAND SITUATED, LYING AND BEING IN THE BOROUGH [&]  OF
- A. 7061  7
+ A. 7061--A  7
  
  THE BRONX, COUNTY OF [THE] BRONX, CITY AND STATE OF NEW YORK BOUNDED AND
  DESCRIBED AS FOLLOWS:
@@ -407,7 +408,7 @@ S T A T E  O F  N E W  Y O R K
  of 30.65 feet to a point, thence;
   Northwesterly, continuing across said Lot 2, N 41°59'32" W, a distance
  of 25.49 feet to a point, thence;
- A. 7061  8
+ A. 7061--A  8
  
   Northwesterly, continuing across said Lot 2,  along  a  curve  to  the
  right,  having a radius of 180.94 feet, an arc length of 49.78 feet, and
@@ -465,7 +466,7 @@ S T A T E  O F  N E W  Y O R K
  ter's Office of the City of New York, Borough of the Bronx, as successor
  in  title  to  the New York, New Haven and Hartford Railroad through the
  Consolidated Rail Corporation (Conrail) and the Regional  Rail  Reorgan-
- A. 7061  9
+ A. 7061--A  9
 
  ization  Act  of  1973,  same being a point on the southeasterly line of
  Block 5650 Lot 2, as depicted to the City of New York per the Tax Map of
@@ -509,163 +510,148 @@ S T A T E  O F  N E W  Y O R K
  amended to read as follows:
   § 4. In the event that the city of  New  York  received  any  funding,
  support  or  assistance  from  the  federal government for the purchase,
- maintenance or improvement of the parklands set forth in  section  three
- of  this  act  OR SECTION EIGHT OF A CHAPTER OF THE LAWS OF TWO THOUSAND
- TWENTY-THREE AMENDING CHAPTER 544 OF THE LAWS OF  2022,  the  discontin-
- uance  and  alienation  of such parkland authorized by the provisions of
- this act shall not occur until the city of New York  has  complied  with
- any  federal  AND  STATE  requirements  pertaining  to the alienation or
- conversion of such parklands, including satisfying the secretary of  the
- interior  AND  THE OFFICE OF PARKS, RECREATION AND HISTORIC PRESERVATION
- that the alienation or conversion complies with all conditions which the
- secretary of the interior AND COMMISSIONER deems necessary to assure the
- substitution of other lands shall be  equivalent in fair  market  value
- and RECREATIONAL usefulness to the lands being alienated or converted.
+ maintenance or improvement of  the  parklands  set  forth  in  [section]
+ SECTIONS  three  AND  THREE-A of this act, the discontinuance and alien-
+ ation of such parkland authorized by the provisions of  this  act  shall
+ not  occur  until  the  city  of  New York has complied with any federal
+ requirements pertaining to the alienation or conversion  of  such  park-
+ lands,  including  satisfying  the  secretary  of  the interior that the
+ alienation or conversion complies with all conditions which  the  secre-
+ tary of the interior deems necessary to assure the substitution of other
+ lands shall be  equivalent in fair market value and RECREATIONAL useful-
+ ness to the lands being alienated or converted.
   §  5.  Section  6  of chapter 544 of the laws of 2022, authorizing the
  city of New York to discontinue a portion of real property in the county
- A. 7061  10
- 
  of the Bronx as parkland and to grant easements for improvements to  the
  railroad  right-of-way to bring Metro-North railroad service to four new
+ A. 7061--A  10
+ 
  stations in the Bronx and to Pennsylvania  Station  in  the  county,  is
  REPEALED.
-  §  6.  Subject  to the provisions of this act, but notwithstanding any
- provision of law to the contrary, the city of New York is hereby author-
- ized to discontinue the use as parklands the lands described in  section
- eight  of  this  act  and to grant easements affecting such lands to the
- metropolitan transportation authority, upon such terms and conditions as
- the city of New York and the metropolitan transportation authority shall
- determine, to  enable  the  metropolitan  transportation  authority  and
- Metro-North  commuter railroad company, a subsidiary of the metropolitan
- transportation authority, to construct railroad  utility  infrastructure
- improvements,  in  order  to bring Metro-North commuter railroad company
- service to four new stations in the Bronx and to Pennsylvania Station in
- the county of New York in connection with the capital project  known  as
- Penn Station Access.
-  §  7.  The  authorization provided in section six of this act shall be
- effective only upon the condition that the city of New York dedicates an
- amount equal to or greater than the fair market value of  the  parklands
- being discontinued towards the acquisition of new parklands and/or capi-
- tal improvements to existing parklands and recreational facilities with-
- in the borough of the Bronx.
-  §  8.  The lands hereby authorized to be discontinued as parklands and
- for which easements may be granted to  the  metropolitan  transportation
- authority  are located in the county of the Bronx, city and state of New
- York, and are bounded and described as follows:
-  Easement 7 on BRONX BLOCK 3861 PART OF LOT 14
+  § 6. Chapter 544 of the laws of 2022, authorizing the city of New York
+ to  discontinue a portion of real property in the county of the Bronx as
+ parkland and to grant easements for improvements to the railroad  right-
+ of-way to bring Metro-North railroad service to four new stations in the
+ Bronx  and to Pennsylvania Station in the county, is amended by adding a
+ new section 3-a to read as follows:
+  § 3-A. THE LANDS HEREBY AUTHORIZED TO BE DISCONTINUED AS PARKLANDS AND
+ FOR WHICH EASEMENTS MAY BE GRANTED TO  THE  METROPOLITAN  TRANSPORTATION
+ AUTHORITY  ARE LOCATED IN THE COUNTY OF THE BRONX, CITY AND STATE OF NEW
+ YORK, AND ARE BOUNDED AND DESCRIBED AS FOLLOWS:
+  EASEMENT 7 ON BRONX BLOCK 3861 PART OF LOT 14
   ALL THAT CERTAIN LOT, PIECE OR PARCEL  OF  LAND  SITUATED,  LYING  AND
  BEING  IN  THE BOROUGH & COUNTY OF THE BRONX, CITY AND STATE OF NEW YORK
  BOUNDED AND DESCRIBED AS FOLLOWS:
   AREA OCS-81H 1/2: (PERMANENT EASEMENT)
-  Beginning at a point, said point being on the  northwesterly  side  of
- Block 3861 Lot 8, as depicted to National Railroad Passenger Corporation
- (Amtrak)  (Reputed Owner), as per Reel 105 Page 1496, as recorded in the
- Register's Office of the City of New York,  Borough  of  The  Bronx,  as
- successor in title to New York, New Haven and Hartford Railroad, through
- the  Consolidated  Rail  Reorganization Act of 1973, being the following
- seven courses and distances from a point, said point  being  the  inter-
- section  of  the  southwesterly side of East 174th Street (80 Feet Wide)
- with the northwesterly side of Bronx River Avenue (100  Feet  Wide),  as
- depicted  on  Bronx  Record  Map  Section  38,  amended and corrected to
- 01/20/1947, last revised 08/08/2001,  as  recorded  in  the  Topographic
- Bureau of the Bronx Borough President's Office,
-  1. Along said southwesterly side of East 174th Street, North 65°38'27"
- West  a distance of 237.44 feet, to a point, said point being the inter-
- section of the northwesterly side of said  National  Railroad  Passenger
- Corporation with the southwesterly side of East 174th Street, also being
- the  northeasterly  corner  of property depicted to The City of New York
- (Reputed Owner) as Parcel 1 as per  Deed  Liber  1111  Page  379,  dated
- December  23,  1940, as recorded in the Register's Office of the City of
- New York, Borough of the Bronx, thence;
-  2. Along the northwesterly side of said property of National  Railroad
- Passenger Corporation, southwesterly along the arc of a curve bearing to
- the  left, said curve having a radius of 2,345.01 feet, an arc length of
- A. 7061  11
+  BEGINNING AT A POINT, SAID POINT BEING ON THE  NORTHWESTERLY  SIDE  OF
+ BLOCK 3861 LOT 8, AS DEPICTED TO NATIONAL RAILROAD PASSENGER CORPORATION
+ (AMTRAK)  (REPUTED OWNER), AS PER REEL 105 PAGE 1496, AS RECORDED IN THE
+ REGISTER'S OFFICE OF THE CITY OF NEW YORK,  BOROUGH  OF  THE  BRONX,  AS
+ SUCCESSOR IN TITLE TO NEW YORK, NEW HAVEN AND HARTFORD RAILROAD, THROUGH
+ THE  CONSOLIDATED  RAIL  REORGANIZATION ACT OF 1973, BEING THE FOLLOWING
+ SEVEN COURSES AND DISTANCES FROM A POINT, SAID POINT  BEING  THE  INTER-
+ SECTION  OF  THE  SOUTHWESTERLY SIDE OF EAST 174TH STREET (80 FEET WIDE)
+ WITH THE NORTHWESTERLY SIDE OF BRONX RIVER AVENUE (100  FEET  WIDE),  AS
+ DEPICTED  ON  BRONX  RECORD  MAP  SECTION  38,  AMENDED AND CORRECTED TO
+ 01/20/1947, LAST REVISED 08/08/2001,  AS  RECORDED  IN  THE  TOPOGRAPHIC
+ BUREAU OF THE BRONX BOROUGH PRESIDENT'S OFFICE,
+  1. ALONG SAID SOUTHWESTERLY SIDE OF EAST 174TH STREET, NORTH 65°38'27"
+ WEST  A DISTANCE OF 237.44 FEET, TO A POINT, SAID POINT BEING THE INTER-
+ SECTION OF THE NORTHWESTERLY SIDE OF SAID  NATIONAL  RAILROAD  PASSENGER
+ CORPORATION WITH THE SOUTHWESTERLY SIDE OF EAST 174TH STREET, ALSO BEING
+ THE  NORTHEASTERLY  CORNER  OF PROPERTY DEPICTED TO THE CITY OF NEW YORK
+ (REPUTED OWNER) AS PARCEL 1 AS PER  DEED  LIBER  1111  PAGE  379,  DATED
+ DECEMBER  23,  1940, AS RECORDED IN THE REGISTER'S OFFICE OF THE CITY OF
+ NEW YORK, BOROUGH OF THE BRONX, THENCE;
+  2. ALONG THE NORTHWESTERLY SIDE OF SAID PROPERTY OF NATIONAL  RAILROAD
+ PASSENGER CORPORATION, SOUTHWESTERLY ALONG THE ARC OF A CURVE BEARING TO
+ THE  LEFT, SAID CURVE HAVING A RADIUS OF 2,345.01 FEET, AN ARC LENGTH OF
+ 5.92 FEET, WHICH BEARS A CHORD SOUTH 30°49'43" WEST A DISTANCE  OF  5.92
+ FEET, TO A POINT, THENCE;
+  3.  CONTINUING  ALONG  THE  SAME, SOUTHWESTERLY SOUTH 37°10'01" WEST A
+ DISTANCE OF 183.61 FEET, TO A POINT, THENCE;
+  4. CONTINUING ALONG THE SAME, SOUTHWESTERLY SOUTH  24°39'41"  WEST,  A
+ DISTANCE OF 183.61 FEET, TO A POINT, THENCE;
+  5.  CONTINUING  ALONG  THE SAME, SOUTHEASTERLY SOUTH 59°05'10" EAST, A
+ DISTANCE OF 5.00 FEET, TO A POINT, THENCE;
+  6. CONTINUING ALONG THE SAME, SOUTHWESTERLY SOUTH  30°54'50"  WEST,  A
+ DISTANCE OF 165.46 FEET, TO AN ANGLE POINT IN THE UNITED STATES PIERHEAD
+ AND BULKHEAD LINE ESTABLISHED ON AUGUST 9, 1940, ALSO BEING THE SOUTHER-
+ LY  CORNER OF SAID LAND DEPICTED TO THE CITY OF NEW YORK (REPUTED OWNER)
+ AS PARCEL 1 AS PER DEED LIBER 1111 PAGE 379, ALSO BEING A POINT  ON  THE
+ SOUTHEASTERLY  SIDE OF BLOCK 3861 LOT 14, AS DEPICTED TO THE CITY OF NEW
+ YORK, AS PER REEL 770 PAGE 1176, DATED JUNE 25TH 1987,  AS  RECORDED  IN
+ A. 7061--A  11
  
- 5.92 feet, which bears a chord South 30°49'43" West a distance  of  5.92
- feet, to a point, thence;
-  3.  Continuing  along  the  same, southwesterly South 37°10'01" West a
- distance of 183.61 feet, to a point, thence;
-  4. Continuing along the same, southwesterly South  24°39'41"  West,  a
- distance of 183.61 feet, to a point, thence;
-  5.  Continuing  along  the same, southeasterly South 59°05'10" East, a
- distance of 5.00 feet, to a point, thence;
-  6. Continuing along the same, southwesterly South  30°54'50"  West,  a
- distance of 165.46 feet, to an angle point in the United States pierhead
- and bulkhead line established on August 9, 1940, also being the souther-
- ly  corner of said land depicted to The City of New York (Reputed Owner)
- as Parcel 1 as per Deed Liber 1111 Page 379, also being a point  on  the
- southeasterly  side of Block 3861 Lot 14, as depicted to The City of New
- York, as per Reel 770 Page 1176, dated June 25th 1987,  as  recorded  in
- the  Register's  Office  of  the City of New York, Borough of the Bronx,
- thence;
-  7. Continuing along said common line of  National  Railroad  Passenger
- Corporation  and  The  City  of  New York, southwesterly South 30°54'50"
- West, a distance of 168.84 feet, to a point, said point being the  Point
- of  Beginning,  having  coordinates  N: 242,780.829 E: 1,017,019.931 and
- running thence; Southwesterly, along said common line,  South  30°54'50"
- West, a distance of 14.00 feet, to a point, thence;
-  Through  said  land  of  The  City  of  New  York, northwesterly North
- 59°05'10" West, a distance of 10.00 feet, thence;
-  Continuing through land of The City of New York,  northeasterly  North
- 30°54'50" East, a distance of 14.00 feet, thence;
-  Continuing  through  land of The City of New York, southeasterly South
- 59°05'10" East, a distance of 10.00 feet, to a point on said common line
- between National Railroad Passenger Corporation  and  The  City  of  New
- York,  at  the  Point of Beginning and containing 140 square feet (0.003
- acres) more or less.
-  Easement 8 on BRONX BLOCK 3861 PART OF LOT 114
-  ALL THAT CERTAIN LOT, PIECE OR PARCEL  OF  LAND  SITUATED,  LYING  AND
- BEING  IN  THE BOROUGH & COUNTY OF THE BRONX, CITY AND STATE OF NEW YORK
+ THE  REGISTER'S  OFFICE  OF  THE CITY OF NEW YORK, BOROUGH OF THE BRONX,
+ THENCE;
+  7.  CONTINUING  ALONG  SAID COMMON LINE OF NATIONAL RAILROAD PASSENGER
+ CORPORATION AND THE CITY OF  NEW  YORK,  SOUTHWESTERLY  SOUTH  30°54'50"
+ WEST,  A DISTANCE OF 168.84 FEET, TO A POINT, SAID POINT BEING THE POINT
+ OF BEGINNING, HAVING COORDINATES N:  242,780.829  E:  1,017,019.931  AND
+ RUNNING  THENCE;  SOUTHWESTERLY, ALONG SAID COMMON LINE, SOUTH 30°54'50"
+ WEST, A DISTANCE OF 14.00 FEET, TO A POINT, THENCE;
+  THROUGH SAID LAND  OF  THE  CITY  OF  NEW  YORK,  NORTHWESTERLY  NORTH
+ 59°05'10" WEST, A DISTANCE OF 10.00 FEET, THENCE;
+  CONTINUING  THROUGH  LAND OF THE CITY OF NEW YORK, NORTHEASTERLY NORTH
+ 30°54'50" EAST, A DISTANCE OF 14.00 FEET, THENCE;
+  CONTINUING THROUGH LAND OF THE CITY OF NEW YORK,  SOUTHEASTERLY  SOUTH
+ 59°05'10" EAST, A DISTANCE OF 10.00 FEET, TO A POINT ON SAID COMMON LINE
+ BETWEEN  NATIONAL  RAILROAD  PASSENGER  CORPORATION  AND THE CITY OF NEW
+ YORK, AT THE POINT OF BEGINNING AND CONTAINING 140  SQUARE  FEET  (0.003
+ ACRES) MORE OR LESS.
+  EASEMENT 8 ON BRONX BLOCK 3861 PART OF LOT 114
+  ALL  THAT  CERTAIN  LOT,  PIECE  OR PARCEL OF LAND SITUATED, LYING AND
+ BEING IN THE BOROUGH & COUNTY OF THE BRONX, CITY AND STATE OF  NEW  YORK
  BOUNDED AND DESCRIBED AS FOLLOWS:
   AREA OCS-82H 1/3: (PERMANENT EASEMENT)
-  Beginning at a point, said point being on the  northwesterly  side  of
- Block 3861 Lot 8, as depicted to National Railroad Passenger Corporation
- (Amtrak) (Reputed Owner), as per Reel 105, Page 1496, as recorded in the
- Register's  Office  of  the  City  of New York, Borough of The Bronx, as
- successor in title to New York, New Haven and Hartford Railroad, through
- the Consolidated Rail Reorganization Act of 1973,  being  the  following
- seven  courses  and  distances from a point, said point being the inter-
- section of the southwesterly side of East 174th Street  (80  Feet  Wide)
- with  the  northwesterly  side of Bronx River Avenue (100 Feet Wide), as
- depicted on Bronx Record  Map  Section  38,  amended  and  corrected  to
- 01/20/1947,  last  revised  08/08/2001,  as  recorded in the Topographic
- Bureau of the Bronx Borough President's Office,
-  1. Along said southwesterly side of East 174th Street, North 65°38'27"
- West a distance of 237.44 feet, to a point, said point being the  inter-
- section  of  the  northwesterly side of said National Railroad Passenger
- Corporation with the southwesterly side of East 174th Street, also being
- the northeasterly corner of property depicted to The City  of  New  York
- (Reputed  Owner)  as  Parcel  1  as  per Deed Liber 1111 Page 379, dated
- A. 7061  12
+  BEGINNING  AT  A  POINT, SAID POINT BEING ON THE NORTHWESTERLY SIDE OF
+ BLOCK 3861 LOT 8, AS DEPICTED TO NATIONAL RAILROAD PASSENGER CORPORATION
+ (AMTRAK) (REPUTED OWNER), AS PER REEL 105, PAGE 1496, AS RECORDED IN THE
+ REGISTER'S OFFICE OF THE CITY OF NEW YORK,  BOROUGH  OF  THE  BRONX,  AS
+ SUCCESSOR IN TITLE TO NEW YORK, NEW HAVEN AND HARTFORD RAILROAD, THROUGH
+ THE  CONSOLIDATED  RAIL  REORGANIZATION ACT OF 1973, BEING THE FOLLOWING
+ SEVEN COURSES AND DISTANCES FROM A POINT, SAID POINT  BEING  THE  INTER-
+ SECTION  OF  THE  SOUTHWESTERLY SIDE OF EAST 174TH STREET (80 FEET WIDE)
+ WITH THE NORTHWESTERLY SIDE OF BRONX RIVER AVENUE (100  FEET  WIDE),  AS
+ DEPICTED  ON  BRONX  RECORD  MAP  SECTION  38,  AMENDED AND CORRECTED TO
+ 01/20/1947, LAST REVISED 08/08/2001,  AS  RECORDED  IN  THE  TOPOGRAPHIC
+ BUREAU OF THE BRONX BOROUGH PRESIDENT'S OFFICE,
+  1. ALONG SAID SOUTHWESTERLY SIDE OF EAST 174TH STREET, NORTH 65°38'27"
+ WEST  A DISTANCE OF 237.44 FEET, TO A POINT, SAID POINT BEING THE INTER-
+ SECTION OF THE NORTHWESTERLY SIDE OF SAID  NATIONAL  RAILROAD  PASSENGER
+ CORPORATION WITH THE SOUTHWESTERLY SIDE OF EAST 174TH STREET, ALSO BEING
+ THE  NORTHEASTERLY  CORNER  OF PROPERTY DEPICTED TO THE CITY OF NEW YORK
+ (REPUTED OWNER) AS PARCEL 1 AS PER  DEED  LIBER  1111  PAGE  379,  DATED
+ DECEMBER  23,  1940, AS RECORDED IN THE REGISTER'S OFFICE OF THE CITY OF
+ NEW YORK, BOROUGH OF THE BRONX, THENCE;
+  2. ALONG THE NORTHWESTERLY SIDE OF SAID PROPERTY OF NATIONAL  RAILROAD
+ PASSENGER CORPORATION, SOUTHWESTERLY ALONG THE ARC OF A CURVE BEARING TO
+ THE  LEFT, SAID CURVE HAVING A RADIUS OF 2,345.01 FEET, AN ARC LENGTH OF
+ 5.92 FEET, WHICH BEARS A CHORD SOUTH 30°49'43" WEST A DISTANCE  OF  5.92
+ FEET, TO A POINT, THENCE;
+  3.  CONTINUING  ALONG  THE  SAME, SOUTHWESTERLY SOUTH 37°10'01" WEST A
+ DISTANCE OF 183.61 FEET, TO A POINT, THENCE;
+  4. CONTINUING ALONG THE SAME, SOUTHWESTERLY SOUTH  24°39'41"  WEST,  A
+ DISTANCE OF 183.61 FEET, TO A POINT, THENCE;
+  5.  CONTINUING  ALONG  THE SAME, SOUTHEASTERLY SOUTH 59°05'10" EAST, A
+ DISTANCE OF 5.00 FEET, TO A POINT, THENCE;
+  6. CONTINUING ALONG THE SAME, SOUTHWESTERLY SOUTH  30°54'50"  WEST,  A
+ DISTANCE OF 64.31 FEET, TO A POINT, SAID POINT BEING THE POINT OF BEGIN-
+ A. 7061--A  12
  
- December 23, 1940, as recorded in the Register's Office of the  City  of
- New York, Borough of the Bronx, thence;
-  2.  Along the northwesterly side of said property of National Railroad
- Passenger Corporation, southwesterly along the arc of a curve bearing to
- the left, said curve having a radius of 2,345.01 feet, an arc length  of
- 5.92  feet,  which bears a chord South 30°49'43" West a distance of 5.92
- feet, to a point, thence;
-  3. Continuing along the same, southwesterly  South  37°10'01"  West  a
- distance of 183.61 feet, to a point, thence;
-  4.  Continuing  along  the same, southwesterly South 24°39'41" West, a
- distance of 183.61 feet, to a point, thence;
-  5. Continuing along the same, southeasterly South  59°05'10"  East,  a
- distance of 5.00 feet, to a point, thence;
-  6.  Continuing  along  the same, southwesterly South 30°54'50" West, a
- distance of 64.31 feet, to a point, said point being the Point of Begin-
- ning, having coordinates N: 243,012.463  E:  1,017,158.637  and  running
- thence;
-  Southwesterly,  continuing  along  said  common  line, South 30°54'50"
- West, a distance of 14.00 feet, to a point, thence;
-  Through said land  of  The  City  of  New  York,  northwesterly  North
- 59°05'10" West, a distance of 10.00 feet, thence;
-  Continuing  through  land of The City of New York, northeasterly North
- 30°54'50" East, a distance of 14.00 feet, thence;
-  Continuing through land of The City of New York,  southeasterly  South
- 59°05'10" East, a distance of 10.00 feet, to a point on said common line
- between  National  Railroad  Passenger  Corporation  and The City of New
- York, at the Point of Beginning and containing 140  square  feet  (0.003
- acres) more or less.
-  §  9.  This  act  shall take effect immediately and shall be deemed to
+ NING,  HAVING  COORDINATES  N:  243,012.463 E: 1,017,158.637 AND RUNNING
+ THENCE;
+  SOUTHWESTERLY,  CONTINUING  ALONG  SAID  COMMON  LINE, SOUTH 30°54'50"
+ WEST, A DISTANCE OF 14.00 FEET, TO A POINT, THENCE;
+  THROUGH SAID LAND  OF  THE  CITY  OF  NEW  YORK,  NORTHWESTERLY  NORTH
+ 59°05'10" WEST, A DISTANCE OF 10.00 FEET, THENCE;
+  CONTINUING  THROUGH  LAND OF THE CITY OF NEW YORK, NORTHEASTERLY NORTH
+ 30°54'50" EAST, A DISTANCE OF 14.00 FEET, THENCE;
+  CONTINUING THROUGH LAND OF THE CITY OF NEW YORK,  SOUTHEASTERLY  SOUTH
+ 59°05'10" EAST, A DISTANCE OF 10.00 FEET, TO A POINT ON SAID COMMON LINE
+ BETWEEN  NATIONAL  RAILROAD  PASSENGER  CORPORATION  AND THE CITY OF NEW
+ YORK, AT THE POINT OF BEGINNING AND CONTAINING 140  SQUARE  FEET  (0.003
+ ACRES) MORE OR LESS.
+  §  7.  This  act  shall take effect immediately and shall be deemed to
  have been in full force and effect on and after August 17, 2022.
