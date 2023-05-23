@@ -1,6 +1,6 @@
 # Provides for automatic enrollment and recertification simplification for Medicaid eligible recipients
 
-**Bill ID:** S4622B
+**Bill ID:** S4622BA
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for automatic enrollment and recertification simplification for Medicai
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4622
+  4622--A
  
   2023-2024 Regular Sessions
  
@@ -25,91 +25,107 @@ S T A T E  O F  N E W  Y O R K
   February 13, 2023
   ___________
  
- Introduced  by  Sen.  RIVERA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
- 
- AN ACT to amend the public health law and the social  services  law,  in
-  relation  to  automatic  enrollment and recertification simplification
-  for Medicaid eligible recipients
+ Introduced  by  Sens. RIVERA, MAY -- read twice and ordered printed, and
+  when printed to be committed to the Committee on  Health  --  reported
+  favorably  from  said  committee  and  committed  to  the Committee on
+  Finance -- committee discharged, bill amended,  ordered  reprinted  as
+  amended and recommitted to said committee
 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN  ACT  to  amend the public health law and the social services law, in
+  relation to automatic enrollment  and  recertification  simplification
+  for Medicaid eligible recipients
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Paragraph  (b)  of subdivision 7 of section 4403-f of the
- public health law is amended by adding a new subparagraph (iv)  to  read
+  Section 1. Paragraph (b) of subdivision 7 of  section  4403-f  of  the
+ public  health  law is amended by adding a new subparagraph (iv) to read
  as follows:
   (IV) WHERE A PERSON DETERMINED ELIGIBLE FOR MEDICAID ("MEDICAID RECIP-
  IENT") HAS BEEN DETERMINED BY THE COMMISSIONER OR HIS OR HER DESIGNEE TO
- REQUIRE  COMMUNITY-BASED LONG TERM CARE SERVICES FOR MORE THAN A CONTIN-
- UOUS PERIOD OF ONE HUNDRED TWENTY DAYS, AND THE MEDICAID  RECIPIENT  HAS
- NOT  SELECTED AND ENROLLED IN A MANAGED LONG TERM CARE PLAN PRIOR TO ANY
- EXPIRATION DATE OF SUCH DETERMINATION OF NEED FOR LONG TERM CARE,  AFTER
- BEING  PROVIDED WITH INFORMATION TO MAKE AN INFORMED CHOICE, THE COMMIS-
- SIONER SHALL ASSIGN THE RECIPIENT TO A  MANAGED  LONG  TERM  CARE  PLAN,
- TAKING  INTO  ACCOUNT  CONSISTENCY WITH ANY PRIOR COMMUNITY-BASED DIRECT
- CARE WORKERS HAVING RECENTLY SERVED THE RECIPIENT,  QUALITY  PERFORMANCE
- CRITERIA,  CAPACITY, AND GEOGRAPHIC ACCESSIBILITY.  THE COMMISSIONER MAY
- ASSIGN PARTICIPANTS PURSUANT TO SUCH CRITERIA ON A WEIGHTED  BASIS.  A
- RECIPIENT  ASSIGNED TO A MANAGED LONG TERM CARE PLAN UNDER THIS SUBPARA-
+ REQUIRE COMMUNITY-BASED LONG TERM CARE SERVICES FOR MORE THAN A  CONTIN-
+ UOUS  PERIOD  OF ONE HUNDRED TWENTY DAYS, AND THE MEDICAID RECIPIENT HAS
+ NOT SELECTED AND ENROLLED IN A MANAGED LONG TERM CARE PLAN PRIOR TO  ANY
+ EXPIRATION  DATE OF SUCH DETERMINATION OF NEED FOR LONG TERM CARE, AFTER
+ BEING PROVIDED WITH INFORMATION TO MAKE AN INFORMED CHOICE, THE  COMMIS-
+ SIONER  SHALL  ASSIGN  THE  RECIPIENT  TO A MANAGED LONG TERM CARE PLAN,
+ TAKING INTO ACCOUNT CONSISTENCY WITH ANY  PRIOR  COMMUNITY-BASED  DIRECT
+ CARE  WORKERS  HAVING RECENTLY SERVED THE RECIPIENT, QUALITY PERFORMANCE
+ CRITERIA, CAPACITY, AND GEOGRAPHIC ACCESSIBILITY.  THE COMMISSIONER  MAY
+ ASSIGN  PARTICIPANTS  PURSUANT  TO SUCH CRITERIA ON A WEIGHTED BASIS.  A
+ RECIPIENT ASSIGNED TO A MANAGED LONG TERM CARE PLAN UNDER THIS  SUBPARA-
  GRAPH SHALL BE DEEMED TO HAVE BEEN DETERMINED TO BE IN NEED OF LONG TERM
- CARE SERVICES FOR MORE THAN A CONTINUOUS PERIOD OF  ONE  HUNDRED  TWENTY
+ CARE  SERVICES  FOR  MORE THAN A CONTINUOUS PERIOD OF ONE HUNDRED TWENTY
  DAYS AND ELIGIBLE TO BE ENROLLED IN A MANAGED LONG TERM CARE PLAN.
-  §  2.  Paragraph  (b)  of subdivision 2 of section 366-a of the social
- services law, as added by section 51 of part A of chapter 1 of the  laws
- of 2002, is amended to read as follows:
-  (b)  Notwithstanding  the provisions of paragraph (a) of this subdivi-
- sion, an applicant or recipient may attest to the amount of his  or  her
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02420-01-3
- S. 4622  2
+  LBD02420-03-3
+ S. 4622--A  2
  
+  § 2. Paragraph (b) of subdivision 2 of section  366-a  of  the  social
+ services  law, as added by section 51 of part A of chapter 1 of the laws
+ of 2002, is amended to read as follows:
+  (b)  Notwithstanding  the provisions of paragraph (a) of this subdivi-
+ sion, an applicant or recipient may attest to the amount of his  or  her
  accumulated  resources,  unless  such  applicant or recipient is seeking
  medical assistance payment for long term care  services  FOR  THE  FIRST
  TIME.  A  RECIPIENT  WHO HAS ALREADY PROVIDED DOCUMENTATION OF RESOURCES
  MAY ATTEST TO THE AMOUNT OF ACCUMULATED RESOURCES IF IT HAS REMAINED THE
- SAME  OR IS LESS THAN THE AMOUNT ORIGINALLY DOCUMENTED.  For purposes of
- this paragraph, long term care  services  shall  mean  care,  treatment,
- maintenance,  and services described in paragraph (b) of subdivision [1]
- ONE of section three hundred  sixty-seven-f  of  this  title,  with  the
- exception  of  short term rehabilitation, as defined by the commissioner
+ SAME OR IS LESS THAN THE AMOUNT ORIGINALLY DOCUMENTED.  For purposes  of
+ this  paragraph,  long  term  care  services shall mean care, treatment,
+ maintenance, and services described in paragraph (b) of subdivision  [1]
+ ONE  of  section  three  hundred  sixty-seven-f  of this title, with the
+ exception of short term rehabilitation, as defined by  the  commissioner
  of health.
-  § 3. Paragraph (d) of subdivision 5 of section  366-a  of  the  social
- services  law,  as  amended by section 12 of part D of chapter 56 of the
- laws of 2013, is relettered paragraph (e) and three new paragraphs  (f),
+  §  3.  Paragraph  (d)  of subdivision 5 of section 366-a of the social
+ services law, as amended by section 12 of part D of chapter  56  of  the
+ laws  of 2013, is relettered paragraph (e) and three new paragraphs (f),
  (g) and (h) are added to read as follows:
-  (F)  NOTWITHSTANDING  PARAGRAPH (B) OF SUBDIVISION TWO OF THIS SECTION
- AND PARAGRAPHS (A), (B), (C) AND (D) OF THIS SUBDIVISION, THE  FOLLOWING
- RECIPIENTS  WILL  BE  RECERTIFIED AUTOMATICALLY, UNLESS THERE HAS BEEN A
+  (F) NOTWITHSTANDING PARAGRAPH (B) OF SUBDIVISION TWO OF  THIS  SECTION
+ AND  PARAGRAPHS (A), (B), (C) AND (D) OF THIS SUBDIVISION, THE FOLLOWING
+ RECIPIENTS WILL BE RECERTIFIED AUTOMATICALLY, UNLESS THERE  HAS  BEEN  A
  FINDING OF LACK OF ELIGIBILITY FOR MEDICAID:
-  (I) ENROLLEES IN MEDICAID MANAGED LONG TERM CARE PLANS AS  DEFINED  IN
+  (I)  ENROLLEES  IN MEDICAID MANAGED LONG TERM CARE PLANS AS DEFINED IN
  SECTION FORTY-FOUR HUNDRED THREE-F OF THE PUBLIC HEALTH LAW;
-  (II)  ENROLLEES  IN  MEDICAID MANAGED CARE PLANS AS DEFINED IN SECTION
- THREE HUNDRED SIXTY-FOUR-J OF  THIS  TITLE  WHO  RECEIVE  PERSONAL  CARE
- SERVICES  PURSUANT  TO PARAGRAPH (E) OF SUBDIVISION TWO OF SECTION THREE
+  (II) ENROLLEES IN MEDICAID MANAGED CARE PLANS AS  DEFINED  IN  SECTION
+ THREE  HUNDRED  SIXTY-FOUR-J  OF  THIS  TITLE  WHO RECEIVE PERSONAL CARE
+ SERVICES PURSUANT TO PARAGRAPH (E) OF SUBDIVISION TWO OF  SECTION  THREE
  HUNDRED SIXTY-FIVE-A OF THIS TITLE OR CONSUMER DIRECTED PERSONAL ASSIST-
- ANCE SERVICES PURSUANT TO SECTION THREE  HUNDRED  SIXTY-FIVE-F  OF  THIS
+ ANCE  SERVICES  PURSUANT  TO  SECTION THREE HUNDRED SIXTY-FIVE-F OF THIS
  TITLE;
-  (III)  ENROLLEES  RECEIVING  MEDICAID  IN THE AGED, BLIND AND DISABLED
- CATEGORY WHO RECEIVE FIXED INCOME  FROM  THE  SOCIAL  SECURITY  ADMINIS-
+  (III) ENROLLEES RECEIVING MEDICAID IN THE  AGED,  BLIND  AND  DISABLED
+ CATEGORY  WHO  RECEIVE  FIXED  INCOME  FROM THE SOCIAL SECURITY ADMINIS-
  TRATION (SSA); AND
   (IV) MEDICARE SAVINGS PROGRAM (MSP) RECIPIENTS WHO HAVE A FIXED INCOME
  FROM THE SOCIAL SECURITY ADMINISTRATION (SSA).
-  (G)  NOTHING  IN PARAGRAPH (E) OF THIS SUBDIVISION SHOULD BE CONSTRUED
- TO ALTER A MEDICAID RECIPIENT'S OBLIGATION TO INFORM THE PUBLIC  WELFARE
- DISTRICT  OF CHANGES IN INCOME OR OTHER FACTORS THAT MIGHT IMPACT ELIGI-
+  (G) NOTHING IN PARAGRAPH (E) OF THIS SUBDIVISION SHOULD  BE  CONSTRUED
+ TO  ALTER A MEDICAID RECIPIENT'S OBLIGATION TO INFORM THE PUBLIC WELFARE
+ DISTRICT OF CHANGES IN INCOME OR OTHER FACTORS THAT MIGHT IMPACT  ELIGI-
  BILITY PURSUANT TO SUBDIVISION FOUR OF THIS SECTION.
-  (H) UPON A FINDING OF LACK OF ELIGIBILITY,  RECIPIENTS  IDENTIFIED  IN
+  (H)  UPON  A  FINDING OF LACK OF ELIGIBILITY, RECIPIENTS IDENTIFIED IN
  PARAGRAPH (E) OF THIS SUBDIVISION WILL BE ENTITLED TO NOTICE AND HEARING
  RIGHTS AS PROVIDED IN SECTION TWENTY-TWO OF THIS CHAPTER.
   § 4. This act shall take effect on the one hundred eightieth day after
- it  shall  have  become a law; provided that the amendments to paragraph
- (b) of subdivision 7 of section 4403-f of the public health law made  by
+ it shall have become a law; provided that the  amendments  to  paragraph
+ (b)  of subdivision 7 of section 4403-f of the public health law made by
  section one of this act shall be subject to the expiration and reversion
- of  such paragraph and shall expire and be deemed repealed therewith and
- provided further that such amendments shall not  affect  the  repeal  of
- such  section  and shall expire and be deemed repealed therewith. Effec-
- tive immediately, the commissioner of health shall make regulations  and
- take  other  actions  reasonably necessary to implement this act on that
- date.
+ of such paragraph and shall expire and be deemed repealed therewith  and
+ provided  further  that  such  amendments shall not affect the repeal of
+ such section and shall expire and be deemed repealed  therewith.  Effec-
+ tive  immediately, the commissioner of health shall make regulations and
+ take other actions reasonably necessary to implement this  act  on  that
+ date.  Provided,  further, that sections two and three of this act shall
+ only take effect when the  federal  center  for  Medicaid  and  Medicare
+ services  (CMS)  approves in writing to the state commissioner of health
+ that the changes do not affect  eligibility requirements and that feder-
+ S. 4622--A  3
+ 
+ al financial participation is not affected; provided  that  the  commis-
+ sioner  of  health shall notify the legislative bill drafting commission
+ upon the occurrence of the enactment of the legislation provided for  in
+ sections  two  and  three  of  this act in order that the commission may
+ maintain an accurate and timely effective data base of the official text
+ of the laws of the state of New York in furtherance of effectuating  the
+ provisions  of section 44 of the legislative law and section 70-b of the
+ public officers law.
