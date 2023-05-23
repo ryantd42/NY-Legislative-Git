@@ -1,6 +1,6 @@
 # Extends certain provisions of the general municipal law and the local finance law relating to electronic bidding
 
-**Bill ID:** S7363A
+**Bill ID:** S7363AA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Extends certain provisions of the general municipal law and the local finance la
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7363
+  7363--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COONEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Procurement and Contracts
+  printed to be committed to the Committee on Procurement and  Contracts
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
  
  AN ACT to amend part X of chapter 62 of the laws of  2003  amending  the
   general business law and other laws generally relating to implementing
@@ -54,10 +56,11 @@ S T A T E  O F  N E W  Y O R K
  and
   (c)  section  forty  of  this act shall be deemed to have been in full
  force and effect on and after April 1, 2003.
-  § 2. This act shall take effect  immediately;  provided,  however,  if
- this  act  shall  become a law after June 1, 2023, it shall be deemed to
- have been in full force and effect on and after such date.
- 
+  § 2. This act shall take effect immediately; provided,  however,  that
+ if  this act shall become a law on or after June 1, 2023, this act shall
+ take effect immediately and shall be deemed to have been in  full  force
+ and effect on and after such date.
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11594-01-3
+  LBD11594-02-3
