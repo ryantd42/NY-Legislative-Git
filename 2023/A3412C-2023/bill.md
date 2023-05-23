@@ -1,6 +1,6 @@
 # Relates to the abolition of slavery for persons convicted of a crime
 
-**Bill ID:** A3412CA
+**Bill ID:** A3412CB
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that no incarcerated individual in any state or local prison, penitenti
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3412--A
+  3412--B
  
   2023-2024 Regular Sessions
  
@@ -29,10 +29,13 @@ S T A T E  O F  N E W  Y O R K
   GONZALEZ-ROJAS, MEEKS, FORREST, MAMDANI, CRUZ, TAYLOR, CARROLL, SHRES-
   THA, RIVERA, RAGA, GIBBS, DARLING, AUBRY, PRETLOW, GALLAGHER,  ARDILA,
   CUNNINGHAM,  ANDERSON,  BURGOS,  BORES,  WALKER,  LEVENBERG, NOVAKHOV,
-  REYES, SEPTIMO, DE LOS SANTOS, SOLAGES, JACKSON, GLICK, SIMONE -- read
-  once  and  referred  to  the  Committee  on  Correction  --  committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  REYES, SEPTIMO, DE LOS SANTOS, SOLAGES, JACKSON, GLICK, SIMONE,  CHAN-
+  DLER-WATERMAN,  ALVAREZ,  BRONSON, CLARK, L. ROSENTHAL, HEVESI, TAPIA,
+  MITAYNES, DICKENS, ZACCARO, BICHOTTE HERMELYN, LEE, LUCAS -- read once
+  and referred to the Committee on Correction --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee -- again  reported  from  said  committee  with  amendments,
+  ordered reprinted as amended and recommitted to said committee
  
   CONCURRENT RESOLUTION OF THE SENATE AND ASSEMBLY
  
@@ -50,17 +53,13 @@ S T A T E  O F  N E W  Y O R K
  REASONABLY  LIKELY  TO CAUSE THE INCARCERATED INDIVIDUAL TO BELIEVE THAT
  IF THEY DO NOT PROVIDE SUCH LABOR THAT  THEY  OR  ANOTHER  PERSON  WOULD
  SUFFER  PHYSICAL,  EMOTIONAL  OR  MENTAL  HARM,  OR OTHER ADVERSE CONSE-
- QUENCES.
-  ANY INCARCERATED INDIVIDUAL WHO VOLUNTARILY PROVIDES  LABOR  SHALL  BE
- ENTITLED  TO  ALL LABOR PROTECTIONS THAT WOULD BE PROVIDED FOR WORK OF A
- SIMILAR NATURE, BUT FOR SUCH INDIVIDUAL'S  CONDITION  OF  INCARCERATION.
- THIS SECTION SHALL BE SELF-EXECUTING.
-  §  2.  Resolved (if the Senate concur), That the foregoing be referred
- to the first  regular  legislative  session  convening  after  the  next
+ QUENCES.  THIS SECTION SHALL BE SELF-EXECUTING.
+  § 2. Resolved (if the Senate concur), That the foregoing  be  referred
+ to  the  first  regular  legislative  session  convening  after the next
  succeeding general election of members of the assembly, and, in conform-
  ity with section 1 of article 19 of the constitution, be published for 3
  months previous to the time of such election.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD89022-02-3
+  LBD89022-04-3
