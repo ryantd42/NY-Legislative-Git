@@ -1,6 +1,6 @@
 # Regulates commercial finance licensing
 
-**Bill ID:** S1450A
+**Bill ID:** S1450AA
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Regulates commercial finance licensing; sets forth the application process for s
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1450
+  1450--A
  
   2023-2024 Regular Sessions
  
@@ -26,16 +26,18 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens. SANDERS, COMRIE -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Banks
- 
- AN ACT to amend the banking law and the administrative code of the  city
-  of  New  York, in relation to regulating commercial finance licensing,
-  establishing the minority- and women-owned business protection program
+  and when printed to be committed to the Committee on Banks -- reported
+  favorably from said  committee  and  committed  to  the  Committee  on
+  Finance  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN ACT to amend the banking law and the administrative code of the  city
+  of New York, in relation to regulating commercial finance licensing
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Article  9-A of the banking law is renumbered article 9-B
+  Section 1. Article 9-A of the banking law is  renumbered  article  9-B
  and a new article 9-A is added to read as follows:
   ARTICLE IX-A
   COMMERCIAL FINANCE LICENSING
@@ -52,19 +54,18 @@ S T A T E  O F  N E W  Y O R K
   363-J. ADVERTISING.
   363-K. PROHIBITED PRACTICES OF LICENSEES.
   363-L. PENALTIES.
-  363-M. MINORITY- AND WOMEN-OWNED BUSINESS PROTECTION PROGRAM.
-  363-N. REGULATIONS.
-  363-O. SEVERABILITY.
-  § 363. DOING BUSINESS WITHOUT LICENSE  PROHIBITED.  1.  NO  PERSON  OR
- OTHER  ENTITY  SHALL  ENGAGE  IN  THE  BUSINESS  OF MAKING OR SOLICITING
- COMMERCIAL FINANCING PRODUCTS TO BUSINESSES LOCATED IN  NEW  YORK  STATE
+  363-M. REGULATIONS.
+  363-N. SEVERABILITY.
+  §  363.  DOING  BUSINESS  WITHOUT  LICENSE PROHIBITED. 1. NO PERSON OR
+ OTHER ENTITY SHALL ENGAGE  IN  THE  BUSINESS  OF  MAKING  OR  SOLICITING
+ COMMERCIAL  FINANCING  PRODUCTS  TO BUSINESSES LOCATED IN NEW YORK STATE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02866-01-3
- S. 1450  2
+  LBD02866-02-3
+ S. 1450--A  2
  
- EXCEPT  AS  AUTHORIZED  BY  THIS  ARTICLE  AND WITHOUT FIRST OBTAINING A
+ EXCEPT AS AUTHORIZED BY THIS  ARTICLE  AND  WITHOUT  FIRST  OBTAINING  A
  LICENSE FROM THE SUPERINTENDENT.
   2.  FOR  THE  PURPOSES  OF  THIS  ARTICLE, A PERSON OR ENTITY SHALL BE
  CONSIDERED AS ENGAGING IN THE BUSINESS OF  MAKING  COMMERCIAL  FINANCING
@@ -119,8 +120,8 @@ S T A T E  O F  N E W  Y O R K
  ARTICLE  NINE-B  OF  THIS  CHAPTER AND SUCH EXEMPTION SHALL NOT APPLY TO
  TRANSACTIONS SUBJECT TO THE PROVISIONS OF  THIS  ARTICLE  THAT  ARE  NOT
  EXPRESSLY REGULATED BY ARTICLE NINE-B OF THIS CHAPTER; OR
- S. 1450  3
-
+ S. 1450--A  3
+ 
   6. ANY TRANSACTION THAT IS INTENDED TO BE A PURCHASE OF THE OWNERSHIP,
  IN WHOLE OR PART, OF A BUSINESS OR COMMERCIAL ENTERPRISE.
   §  363-C.  APPLICATION  FOR  LICENSE.  1. AN APPLICATION FOR A LICENSE
@@ -176,7 +177,7 @@ S T A T E  O F  N E W  Y O R K
  BY THE APPLICANT AS A LICENSE FEE, RETAINING THE  INVESTIGATION  FEE  TO
  COVER  THE  COSTS  OF INVESTIGATING SUCH APPLICATION. THE SUPERINTENDENT
  SHALL APPROVE OR DENY EVERY APPLICATION FOR A MASTER LICENSE UNDER  THIS
- S. 1450  4
+ S. 1450--A  4
  
  ARTICLE  WITHIN  NINETY DAYS FROM THE FILING THEREOF WITH THE APPLICABLE
  FEES.
@@ -234,7 +235,7 @@ S T A T E  O F  N E W  Y O R K
  POLICIES OF A LICENSEE, WHETHER THROUGH THE OWNERSHIP OF VOTING STOCK OF
  SUCH LICENSEE, THE  OWNERSHIP  OF  VOTING  STOCK  OF  ANY  PERSON  WHICH
  POSSESSES SUCH POWER OR OTHERWISE. CONTROL SHALL BE PRESUMED TO EXIST IF
- S. 1450  5
+ S. 1450--A  5
  
  ANY  PERSON,  DIRECTLY OR INDIRECTLY, OWNS, CONTROLS OR HOLDS WITH POWER
  TO VOTE TEN PER CENTUM OR MORE OF THE VOTING STOCK OF ANY LICENSEE OR OF
@@ -292,7 +293,7 @@ S T A T E  O F  N E W  Y O R K
  INTENDENT, INVESTIGATE THE BUSINESS AND  EXAMINE  THE  BOOKS,  ACCOUNTS,
  RECORDS, AND FILES USED THEREIN OF EVERY LICENSEE IN CONNECTION WITH THE
  ACTIVITY COVERED UNDER THIS ARTICLE. FOR THAT PURPOSE THE SUPERINTENDENT
- S. 1450  6
+ S. 1450--A  6
  
  AND  DULY  DESIGNATED  REPRESENTATIVES  SHALL  HAVE  FREE  ACCESS TO THE
  OFFICES AND PLACE OF BUSINESS, BOOKS, ACCOUNTS, PAPERS, RECORDS,  FILES,
@@ -350,7 +351,7 @@ S T A T E  O F  N E W  Y O R K
  BE FILLED IN AFTER EXECUTION.
   §  363-L.  PENALTIES.  1.  ANY  COMMERCIAL FINANCING PRODUCT MADE BY A
  PERSON NOT LICENSED UNDER THIS ARTICLE, AND NOT EXEMPT, TO A BUSINESS OR
- S. 1450  7
+ S. 1450--A  7
  
  COMMERCIAL ENTERPRISE LOCATED IN THIS  STATE  SHALL  BE  VOID,  AND  THE
  PROVIDER SHALL HAVE NO RIGHT TO COLLECT OR RECEIVE ANY PRINCIPAL, INTER-
@@ -360,74 +361,13 @@ S T A T E  O F  N E W  Y O R K
  AGENTS, AND EMPLOYEES THEREOF, WHICH SHALL VIOLATE OR PARTICIPATE IN THE
  VIOLATION OF ANY OF THE PROVISIONS OF SECTION THREE HUNDRED  SIXTY-THREE
  OF THIS ARTICLE SHALL BE GUILTY OF A MISDEMEANOR.
-  §  363-M.  MINORITY-  AND  WOMEN-OWNED BUSINESS PROTECTION PROGRAM. 1.
- LEGISLATIVE FINDINGS. (A) MANY LOCAL SMALL BUSINESSES INCLUDING  MINORI-
- TY- AND WOMEN-OWNED BUSINESSES (MWBE'S) IN OUR STATE DID NOT RECEIVE ANY
- FEDERAL FUNDING UNDER THE FEDERAL PAYCHECK PROTECTION PROGRAM (PPP).
-  (B)  AS  NEW YORK STATE IS REOPENING REGIONALLY POST COVID-19, MANY OF
- OUR MWBE'S WHO DID NOT RECEIVE PPP FUNDING  ARE  IN  DESPERATE  NEED  OF
- FUNDING  TO EMPLOY AND/OR PAY STAFF, PURCHASE INVENTORY AND PAY RENT AND
- UTILITIES.
-  (C) MWBE'S  HAVE  HISTORICALLY  HAD  DIFFICULTY  ACCESSING  CREDIT  ON
- REASONABLE TERMS AND HAVE BEEN DENIED ACCESS TO CREDIT.
-  2.  ESTABLISHMENT  AND  INITIAL  FUNDING.  (A)  NOTWITHSTANDING  ANY
- PROVISION OF LAW TO THE CONTRARY, THE LEGISLATURE AND THE  EMPIRE  STATE
- DEVELOPMENT  CORPORATION  SHALL  ESTABLISH THE MINORITY- AND WOMEN-OWNED
- BUSINESS (MWBE) DEVELOPMENT AND LENDING PROGRAM.
-  (B) FUNDING FOR SUCH PROGRAM SHALL COME FROM AT LEAST FIFTY PERCENT OF
- THE FEES COLLECTED FROM LICENSEES OR ENTITIES THAT ARE  REQUIRED  TO  BE
- LICENSED  UNDER  THIS  ARTICLE.  SUCH  FUNDS MAY BE USED TO FUND ONGOING
- GRANTS TO MWBE'S THAT ARE UNABLE TO ACCESS CREDIT AT REASONABLE COSTS.
-  (C) ANY LICENSEE OFFERING A COMMERCIAL  FINANCING  PRODUCT  THROUGH  A
- CONTRACT  OR ARRANGEMENT WITH ANY BANKING ORGANIZATION OR FEDERAL CREDIT
- UNION ORGANIZED UNDER THE LAWS OF ANOTHER STATE, UNDER WHICH SUCH  BANK-
- ING  ORGANIZATION  OR  FEDERAL  CREDIT  UNION  ORIGINATES THE COMMERCIAL
- FINANCING PRODUCT, SHALL REPORT THE  TOTAL  VOLUME  OF  SUCH  COMMERCIAL
- FINANCING TRANSACTIONS IN EACH YEAR IN NEW YORK STATE TO THE SUPERINTEN-
- DENT  WHO  SHALL THEN SET A FEE PER TRANSACTION TO FUND MWBE DEVELOPMENT
- AND LENDING.
-  3. ELIGIBILITY. ENTITIES SHALL BE ELIGIBLE FOR FUNDING  PROVIDED  SUCH
- ENTITY:
-  (A) EMPLOYS LESS THAN ONE HUNDRED EMPLOYEES PER WORKPLACE;
-  (B)  EXISTED  IN NEW YORK STATE ON THE FIRST DAY OF THE STATE DISASTER
- EMERGENCY DECLARED PURSUANT TO EXECUTIVE ORDER TWO HUNDRED TWO  AND  ANY
- FURTHER AMENDMENTS OR MODIFICATIONS THERETO;
-  (C)  CAN DOCUMENT ACTUAL ECONOMIC HARM, INCLUDING, BUT NOT LIMITED TO,
- A REVENUE SHORTFALL, AS A DIRECT RESULT OF THE STATE DISASTER  EMERGENCY
- DECLARED  PURSUANT  TO  EXECUTIVE  ORDER TWO HUNDRED TWO AND ANY FURTHER
- AMENDMENTS OR MODIFICATIONS THERETO; AND
-  (D) FILED TAX RETURNS FOR CALENDAR YEAR  TWO  THOUSAND  EIGHTEEN,  TWO
- THOUSAND NINETEEN, OR TWO THOUSAND TWENTY.
-  4.  GRANTS.  THE  MWBE  PROTECTION PROGRAM SHALL PROVIDE THE FOLLOWING
- GRANTS IN AN AMOUNT EQUAL TO SIXTY PERCENT OF THE  PRIOR  YEAR  ELIGIBLE
- EXPENSES, NOT TO EXCEED ONE HUNDRED THOUSAND DOLLARS:
-  (A)  A  RENT  REIMBURSEMENT GRANT TO REIMBURSE QUALIFYING ENTITIES FOR
- RENT PAID DURING THE COVID-19 PANDEMIC, PROVIDED SUCH ENTITY  HAS  DOCU-
- MENTARY  PROOF  OF SUCH PAID RENT. RENT REIMBURSEMENT SHALL BE CAPPED AT
- THREE MONTHS OF PAID RENT DURING THE STATE OF EMERGENCY;
-  (B) A PERISHABLE INVENTORY GRANT TO REIMBURSE QUALIFYING ENTITIES  FOR
- PERISHABLE  INVENTORY  PURCHASED  PRIOR  TO THE STATE DISASTER EMERGENCY
- DECLARED PURSUANT TO EXECUTIVE ORDER TWO HUNDRED  TWO  AND  ANY  FURTHER
- S. 1450  8
-
- AMENDMENTS  OR MODIFICATIONS THERETO AND DISCARDED DUE TO SUCH EXECUTIVE
- ORDER;
-  (C)  A  PAYROLL  GRANT FOR THE COMPENSATION OF INDEPENDENT CONTRACTORS
- WHO COMPLETE THE FEDERAL TAX FORM 1099; AND
-  (D) A UTILITIES GRANT.
-  5. OVERSIGHT. THE STATE COMPTROLLER SHALL MONITOR THE MWBE  PROTECTION
- PROGRAM  TO ENSURE THE PROVISIONS OF THIS SECTION ARE PROPERLY EXECUTED.
- THE STATE COMPTROLLER SHALL SUBMIT A  REPORT  ON  SUCH  PROGRAM  TO  THE
- GOVERNOR,  THE  TEMPORARY PRESIDENT OF THE SENATE AND THE SPEAKER OF THE
- ASSEMBLY AND SHALL POST SUCH REPORT ON THE COMPTROLLER'S  WEBSITE  ON  A
- QUARTERLY BASIS DESCRIBING ANY GRANTS AWARDED UNDER SUCH PROGRAM.
-  §  363-N.  REGULATIONS.  THE  SUPERINTENDENT  IS HEREBY AUTHORIZED AND
+  §  363-M.  REGULATIONS.  THE  SUPERINTENDENT  IS HEREBY AUTHORIZED AND
  EMPOWERED TO MAKE SUCH GENERAL RULES AND REGULATIONS, AND SUCH  SPECIFIC
  RULINGS,  DEMANDS,  AND  FINDINGS  AS  MAY  BE  NECESSARY FOR THE PROPER
  CONDUCT OF THE BUSINESS  AUTHORIZED  AND  LICENSED  UNDER  AND  FOR  THE
  ENFORCEMENT  OF  THIS  ARTICLE,  IN ADDITION HERETO AND NOT INCONSISTENT
  HEREWITH.
-  § 363-O. SEVERABILITY. IF ANY PROVISION OF THIS ARTICLE OR THE  APPLI-
+  § 363-N. SEVERABILITY. IF ANY PROVISION OF THIS ARTICLE OR THE  APPLI-
  CATION  THEREOF  TO  ANY  PERSON OR CIRCUMSTANCES IS HELD TO BE INVALID,
  SUCH INVALIDITY SHALL NOT AFFECT OTHER  PROVISIONS  OR  APPLICATIONS  OF
  THIS  ARTICLE WHICH CAN BE GIVEN EFFECT WITHOUT THE INVALID PROVISION OR
@@ -466,50 +406,50 @@ S T A T E  O F  N E W  Y O R K
  department,  such  fingerprints  have  been submitted to the division of
  criminal justice services for  the  purpose  of  conducting  a  criminal
  history  search,  and  a  report of such search has been received by the
- S. 1450  9
- 
  department from such division; or (ii) is subject  to  regulation  by  a
  federal  bank  regulatory  agency and has submitted such fingerprints to
  such agency which has had a criminal history search  conducted  of  such
+ S. 1450--A  8
+ 
  individual  and has shared such information or its determination result-
  ing from such search with the department; or  (iii)  is  an  officer  or
  stockholder  of  a corporation whose common or preferred stock is regis-
- tered on a national securities  exchange,  as  provided  in  an  act  of
- congress  of  the United States entitled the "Securities Exchange Act of
+ tered  on  a  national  securities  exchange,  as  provided in an act of
+ congress of the United States entitled the "Securities Exchange  Act  of
  1934", approved June sixth, nineteen hundred thirty-four, as amended, or
  such other exchange or market system as the superintendent shall approve
- by regulation, and has submitted such fingerprints to such  exchange  or
- market  system which has had a criminal history search conducted of such
- individual and has shared such information or its determination  result-
- ing  from  such  search with the department; provided, however, that the
- superintendent may subsequently require such applicant to submit his  or
+ by  regulation,  and has submitted such fingerprints to such exchange or
+ market system which has had a criminal history search conducted of  such
+ individual  and has shared such information or its determination result-
+ ing from such search with the department; provided,  however,  that  the
+ superintendent  may subsequently require such applicant to submit his or
  her fingerprints if the superintendent has a reasonable basis for updat-
- ing  the  information  or determination resulting from the report of the
+ ing the information or determination resulting from the  report  of  the
  criminal history search conducted at the request of such federal banking
  agency, exchange or market system.
-  § 4. Subdivision 2 of section 635 of the banking law,  as  amended  by
+  §  4.  Subdivision  2 of section 635 of the banking law, as amended by
  chapter 146 of the laws of 2003, is amended to read as follows:
-  2.  "License"  when used in this article means any license duly issued
- by the superintendent  pursuant  to  the  provisions  of  article  nine,
- nine-A,  NINE-B, eleven-B, twelve-B, twelve-C, twelve-D or thirteen-B of
- this chapter or any registration certificate issued by  the  superinten-
+  2. "License" when used in this article means any license  duly  issued
+ by  the  superintendent  pursuant  to  the  provisions  of article nine,
+ nine-A, NINE-B, eleven-B, twelve-B, twelve-C, twelve-D or thirteen-B  of
+ this  chapter  or any registration certificate issued by the superinten-
  dent pursuant to the provisions of article twelve-D of this chapter.
-  §  5.  Subdivision  1 of section 652-b of the banking law, as added by
+  § 5. Subdivision 1 of section 652-b of the banking law,  as  added  by
  chapter 374 of the laws of 1979, is amended to read as follows:
-  1. It shall be unlawful for any transmitter of money or its  officers,
+  1.  It shall be unlawful for any transmitter of money or its officers,
  affiliates or subsidiaries to enter into an agreement with a check cash-
- er,  licensed  pursuant  to the provisions of article [nine-A] NINE-B of
+ er, licensed pursuant to the provisions of article  [nine-A]  NINE-B  of
  this chapter, whereby credit is extended to the check casher at the same
  time as, and on the condition that, the transmitter of money enters into
- an agreement with the check casher whereby the  check  casher  will  (1)
- sell  only the New York instruments or New York traveler's checks of the
- transmitter of money or (2) agree to the exclusive use  of  any  of  the
- other  services  of  the  transmitter of money.  This section shall not
- apply to the issuance by a transmitter of money of a  guarantee  of  any
- indebtedness  of  a  check casher licensed pursuant to the provisions of
+ an  agreement  with  the  check casher whereby the check casher will (1)
+ sell only the New York instruments or New York traveler's checks of  the
+ transmitter  of  money  or  (2) agree to the exclusive use of any of the
+ other services of the transmitter of money.  This  section  shall  not
+ apply  to  the  issuance by a transmitter of money of a guarantee of any
+ indebtedness of a check casher licensed pursuant to  the  provisions  of
  article [nine-A] NINE-B of this chapter.
   § 6. This act shall take effect on the one hundred eightieth day after
  it shall have become a law.  Effective immediately, the addition, amend-
  ment and/or repeal of any rule or regulation necessary for the implemen-
- tation of this act on its effective date are authorized to be  made  and
+ tation  of  this act on its effective date are authorized to be made and
  completed on or before such effective date.
