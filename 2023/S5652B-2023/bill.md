@@ -1,6 +1,6 @@
 # Repeals section 926-o of the general municipal law relating to the Town of Niagara industrial development agency
 
-**Bill ID:** S5652BA
+**Bill ID:** S5652BB
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Repeals provisions relating to the Town of Niagara industrial development agency
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5652--A
+  5652--B
  
   2023-2024 Regular Sessions
  
@@ -28,21 +28,18 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen.  ORTT  --  read twice and ordered printed, and when
   printed to be committed  to  the  Committee  on  Local  Government  --
   committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
+  recommitted to said committee -- committee discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
+ AN  ACT to repeal section 926-o of the general municipal law relating to
+  the Town of Niagara industrial development agency
  
- AN ACT relating to the dissolution of the  Town  of  Niagara  industrial
-  development agency and the disposition of the assets thereof
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Notwithstanding any other provision of law, the  facilities
- and  operations  of the Town of Niagara industrial development agency in
- Niagara county, as established by chapter 73 of the  laws  of  1984,  is
- hereby dissolved.  All unexpended funds, liabilities and property of the
- Town  of  Niagara  industrial development agency shall be transferred to
- the Town of Niagara.
+  Section 1. Section 926-o of the general municipal law is REPEALED.
   § 2. This act shall take effect immediately.
+ 
  
  
  
@@ -51,4 +48,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09898-03-3
+  LBD09898-05-3
