@@ -1,6 +1,6 @@
 # Enacts the Syracuse regional airport authority design-build act
 
-**Bill ID:** S7225A
+**Bill ID:** S7225AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Enacts the "Syracuse regional airport authority design-build act" allowing for t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7225
+  7225--A
  
   2023-2024 Regular Sessions
  
@@ -27,46 +27,47 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
   printed to be committed to the Committee on Corporations,  Authorities
-  and Commissions
+  and  Commissions  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  enacting  the "Syracuse regional airport authority design-build
-  act"; and providing for the repeal of such provisions upon  expiration
+ AN ACT enacting the "Syracuse regional  airport  authority  design-build
+  act";  and providing for the repeal of such provisions upon expiration
   thereof
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. This act shall be known and may be cited as  the  "Syracuse
+  Section  1.  This act shall be known and may be cited as the "Syracuse
  regional airport authority design-build act".
-  §  2.  For  purposes  of  this act, the following terms shall have the
+  § 2. For purposes of this act, the  following  terms  shall  have  the
  following meanings:
-  1. (a) "Authorized entity" shall mean the  Syracuse  regional  airport
- authority  as  established  by title thirty-four of article eight of the
+  1.  (a)  "Authorized  entity" shall mean the Syracuse regional airport
+ authority as established by title thirty-four of article  eight  of  the
  public authorities law.
-  (b) If otherwise applicable, authorized  projects  undertaken  by  the
- authorized  entity  shall be subject to section 135 of the state finance
- law and section 101 of the general  municipal  law;  provided,  however,
- that  an authorized entity may fulfill its obligations under section 135
- of the state finance law or section 101 of the general municipal law  by
- requiring  the  contractor to prepare separate specifications in accord-
- ance with section 135 of the state finance law or  section  101  of  the
+  (b)  If  otherwise  applicable,  authorized projects undertaken by the
+ authorized entity shall be subject to section 135 of the  state  finance
+ law  and  section  101  of the general municipal law; provided, however,
+ that an authorized entity may fulfill its obligations under section  135
+ of  the state finance law or section 101 of the general municipal law by
+ requiring the contractor to prepare separate specifications  in  accord-
+ ance  with  section  135  of the state finance law or section 101 of the
  general municipal law, as the case may be.
-  2.  "Authorized  project"  shall mean, in conformity with the require-
- ments of this act, any installation,  construction,  demolition,  recon-
+  2. "Authorized project" shall mean, in conformity  with  the  require-
+ ments  of  this  act, any installation, construction, demolition, recon-
  struction,  excavation,  rehabilitation,  repair,  and  renovation  in
- connection with a landside  improvement  project,  terminal  operational
- enhancement  and aircraft deicing facility located in the towns of Cice-
- ro, De Witt and Salina at the Syracuse Hancock International Airport  at
+ connection  with  a  landside  improvement project, terminal operational
+ enhancement and aircraft deicing facility located in the towns of  Cice-
+ ro,  De Witt and Salina at the Syracuse Hancock International Airport at
  1000 Colonel Eileen Collins Boulevard.
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11514-03-3
- S. 7225  2
+  LBD11514-04-3
+ S. 7225--A  2
  
-  3.  "Best  value"  shall  mean  the  basis  for awarding contracts for
- services to the bidder that  optimizes  quality,  cost  and  efficiency,
- price  and  performance  criteria, which may include, but is not limited
+  3. "Best value" shall  mean  the  basis  for  awarding  contracts  for
+ services  to  the  bidder  that  optimizes quality, cost and efficiency,
+ price and performance criteria, which may include, but  is  not  limited
  to:
   (a) the quality of the contractor's performance on previous projects;
   (b)  the  timeliness  of  the  contractor's  performance  on  previous
@@ -119,7 +120,7 @@ S T A T E  O F  N E W  Y O R K
   6. "Project labor agreement" shall have the same meaning as such  term
  is  defined pursuant to subdivision 1 of section 222 of the labor law. A
  project labor agreement shall require participation in apprentice train-
- S. 7225  3
+ S. 7225--A  3
  
  ing programs in accordance with paragraph (e) of subdivision 2  of  such
  section.
@@ -177,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
  enterprises pursuant to article 15-A of the executive law, or  certified
  pursuant  to local law as minority- or women-owned business enterprises.
  The request for proposals shall also specify the criteria to be used  to
- S. 7225  4
+ S. 7225--A  4
  
  evaluate the responses and the relative weight of each of such criteria.
  Such  criteria  shall  include  the  proposal's cost, the quality of the
@@ -235,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  ble federal requirements for prevailing wage. Any contract entered  into
  pursuant  to  this  act  shall  include  a clause requiring the selected
  contractor to obligate every tier of contractor working  on  the  public
- S. 7225  5
+ S. 7225--A  5
  
  work  to  comply  with the project labor agreement referenced in section
  four of this act, and shall include project labor  agreement  compliance
@@ -261,25 +262,27 @@ S T A T E  O F  N E W  Y O R K
  currently  employed  worker  or  loss  of  position,  including  partial
  displacement  such  as  a  reduction  in the hours of non-overtime work,
  wages or employment benefits, or result in the  impairment  of  existing
- collective  bargaining  agreements,  and (b) transfer of existing duties
- and functions related to maintenance and operations currently  performed
- by existing employees of authorized entities to a contractor.
+ collective  bargaining  agreements,  (b) transfer of existing duties and
+ functions related to maintenance and operations currently  performed  by
+ existing employees of authorized entities to a contractor, or (c) trans-
+ fer  of future duties and functions ordinarily performed by employees of
+ the authorized entities to the contracting entity.
   3. Employees of authorized entities using design-build contracts serv-
  ing in positions in newly created titles shall be assigned to the appro-
  priate bargaining unit. Nothing contained in this act shall be construed
- to  affect: (a) the existing rights of employees of such entities pursu-
- ant to an existing collective bargaining  agreement,  (b)  the  existing
+ to affect: (a) the existing rights of employees of such entities  pursu-
+ ant  to  an  existing  collective bargaining agreement, (b) the existing
  representational relationships among employee organizations representing
- employees  of such entities, or (c) the bargaining relationships between
+ employees of such entities, or (c) the bargaining relationships  between
  such entities and such employee organizations.
-  § 10. The submission of a proposal or responses or the execution of  a
- design-build  contract pursuant to this act shall not be construed to be
+  §  10. The submission of a proposal or responses or the execution of a
+ design-build contract pursuant to this act shall not be construed to  be
  a violation of section 6512 of the education law.
-  § 11. Nothing contained in this act shall limit  the  right  or  obli-
- gation  of  any  authorized  entity to comply with the provisions of any
+  §  11.  Nothing  contained  in this act shall limit the right or obli-
+ gation of any authorized entity to comply with  the  provisions  of  any
  existing contract or to award contracts as otherwise provided by law.
-  § 12. This act shall take effect immediately and shall expire  and  be
- deemed  repealed  two  years  after  such  date; provided, however, that
- public works with requests  for  qualifications  issued  prior  to  such
- repeal  shall  be  permitted  to continue under this act notwithstanding
+  §  12.  This act shall take effect immediately and shall expire and be
+ deemed repealed two years  after  such  date;  provided,  however,  that
+ public  works  with  requests  for  qualifications  issued prior to such
+ repeal shall be permitted to continue  under  this  act  notwithstanding
  such repeal.
