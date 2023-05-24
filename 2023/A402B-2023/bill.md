@@ -1,6 +1,6 @@
 # Prohibits reckless driving in parking lots
 
-**Bill ID:** A402BA
+**Bill ID:** A402BB
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Prohibits reckless driving in parking lots.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  402--A
+  402--B
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,14 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. ROZIC -- read once and referred to the Committee
   on Transportation  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
+  reprinted as amended and recommitted to said committee -- reported and
+  referred  to  the  Committee  on  Codes  -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT to amend the vehicle and traffic law, in relation to prohibiting
   reckless driving in parking lots
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -53,9 +56,9 @@ S T A T E  O F  N E W  Y O R K
  THIS SECTION SHALL NOT APPLY TO ANY AREA OR AREAS  OF  PRIVATE  PROPERTY
  COMPRISING  ALL  OR  PART  OF PROPERTY ON WHICH IS SITUATED A ONE OR TWO
  FAMILY RESIDENCE.
-  § 2. This act shall take effect immediately.
- 
- 
+  § 2. This act shall take effect on the thirtieth day  after  it  shall
+ have become a law.
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02750-03-3
+  LBD02750-06-3
