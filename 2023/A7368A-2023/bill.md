@@ -1,6 +1,6 @@
 # Enacts the Syracuse regional airport authority design-build act
 
-**Bill ID:** A7368A
+**Bill ID:** A7368AA
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Enacts the "Syracuse regional airport authority design-build act" allowing for t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7368
+  7368--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,15 @@ S T A T E  O F  N E W  Y O R K
   May 18, 2023
   ___________
  
- Introduced  by  M.  of  A.  MAGNARELLI  -- read once and referred to the
-  Committee on Corporations, Authorities and Commissions
+ Introduced  by  M. of A. MAGNARELLI, STIRPE -- read once and referred to
+  the Committee on Corporations, Authorities and Commissions --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT enacting the "Syracuse regional  airport  authority  design-build
   act";  and providing for the repeal of such provisions upon expiration
   thereof
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  enhancement and aircraft deicing facility located in the towns of  Cice-
  ro,  De Witt and Salina at the Syracuse Hancock International Airport at
  1000 Colonel Eileen Collins Boulevard.
-  3. "Best value" shall  mean  the  basis  for  awarding  contracts  for
- services  to  the  bidder  that  optimizes quality, cost and efficiency,
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11514-03-3
- A. 7368  2
+  LBD11514-05-3
+ A. 7368--A  2
  
+  3. "Best value" shall  mean  the  basis  for  awarding  contracts  for
+ services  to  the  bidder  that  optimizes quality, cost and efficiency,
  price and performance criteria, which may include, but  is  not  limited
  to:
   (a) the quality of the contractor's performance on previous projects;
@@ -118,10 +120,10 @@ S T A T E  O F  N E W  Y O R K
   6. "Project labor agreement" shall have the same meaning as such  term
  is  defined pursuant to subdivision 1 of section 222 of the labor law. A
  project labor agreement shall require participation in apprentice train-
+ A. 7368--A  3
+ 
  ing programs in accordance with paragraph (e) of subdivision 2  of  such
  section.
- A. 7368  3
- 
   §  3. Notwithstanding any general, special or local law, rule or regu-
  lation to the contrary, including but not limited to article 5-A of  the
  general  municipal  law  and  section 136-a of the state finance law, in
@@ -176,69 +178,69 @@ S T A T E  O F  N E W  Y O R K
  enterprises pursuant to article 15-A of the executive law, or  certified
  pursuant  to local law as minority- or women-owned business enterprises.
  The request for proposals shall also specify the criteria to be used  to
+ A. 7368--A  4
+ 
  evaluate the responses and the relative weight of each of such criteria.
  Such  criteria  shall  include  the  proposal's cost, the quality of the
- A. 7368  4
-
  proposal's solution, the qualifications and experience of the  proposer,
  and  other  factors deemed pertinent by the authorized entity, which may
  include, but shall not be limited to, the proposal's manner and schedule
  of project implementation, the contractor's ability to complete the work
- in  a timely and satisfactory manner, maintenance costs of the completed
- public work, maintenance of traffic approach, and community impact.  Any
- contract  awarded  pursuant to this act shall be awarded to a responsive
- and responsible proposer, which, in consideration  of  these  and  other
- specified  criteria  deemed  pertinent, offers the best value, as deter-
- mined by the authorized entity. The request for proposals shall  include
- a  statement that proposers shall designate in writing those portions of
+ in a timely and satisfactory manner, maintenance costs of the  completed
+ public  work, maintenance of traffic approach, and community impact. Any
+ contract awarded pursuant to this act shall be awarded to  a  responsive
+ and  responsible  proposer,  which,  in consideration of these and other
+ specified criteria deemed pertinent, offers the best  value,  as  deter-
+ mined  by the authorized entity. The request for proposals shall include
+ a statement that proposers shall designate in writing those portions  of
  the proposal that contain trade secrets or other proprietary information
- that are to remain confidential; that the material designated as  confi-
- dential  shall  be  readily separable from the proposal. Nothing in this
- subdivision shall be construed to prohibit the  authorized  entity  from
- negotiating  final  contract  terms  and  conditions including cost. All
- proposals submitted shall be scored according to the criteria listed  in
- the  request  for  proposals and such final scores shall be published on
+ that  are to remain confidential; that the material designated as confi-
+ dential shall be readily separable from the proposal.  Nothing  in  this
+ subdivision  shall  be  construed to prohibit the authorized entity from
+ negotiating final contract terms  and  conditions  including  cost.  All
+ proposals  submitted shall be scored according to the criteria listed in
+ the request for proposals and such final scores shall  be  published  on
  the authorized entity's website.
-  2. The  authorized  entity  awarding  a  design-build  contract  to  a
- contractor  offering the best value may but shall not be required to use
+  2.  The  authorized  entity  awarding  a  design-build  contract  to a
+ contractor offering the best value may but shall not be required to  use
  the following types of contracts:
-  (a) a cost-plus  not  to  exceed  guaranteed  maximum  price  form  of
+  (a)  a  cost-plus  not  to  exceed  guaranteed  maximum  price form of
  contract in which the authorized entity shall be entitled to monitor and
- audit  all costs. In establishing the schedule and process for determin-
- ing a guaranteed maximum price,  the  contract  between  the  authorized
+ audit all costs. In establishing the schedule and process for  determin-
+ ing  a  guaranteed  maximum  price,  the contract between the authorized
  entity and the contractor shall:
-  (i)  describe  the  scope  of the work and the cost of performing such
+  (i) describe the scope of the work and the  cost  of  performing  such
  work;
   (ii) include a detailed line-item cost breakdown;
-  (iii) include a list of all drawings, specifications and other  infor-
+  (iii)  include a list of all drawings, specifications and other infor-
  mation on which the guaranteed maximum price is based;
-  (iv)  include  the  dates of substantial and final completion on which
+  (iv) include the dates of substantial and final  completion  on  which
  the guaranteed maximum price is based; and
   (v) include a schedule of unit prices; or
   (b) a lump sum contract in which the contractor agrees to accept a set
- dollar amount for a  contract  which  comprises  a  single  bid  without
- providing  a  cost breakdown for all costs such as for equipment, labor,
- materials, as well as such contractor's profit for completing all  items
+ dollar  amount  for  a  contract  which  comprises  a single bid without
+ providing a cost breakdown for all costs such as for  equipment,  labor,
+ materials,  as well as such contractor's profit for completing all items
  of work comprising the public work.
-  §  5.  Any  contract entered into pursuant to this act shall include a
- clause requiring that any professional services  regulated  by  articles
+  § 5. Any contract entered into pursuant to this act  shall  include  a
+ clause  requiring  that  any professional services regulated by articles
  145, 147 and 148 of the education law shall be performed and stamped and
  sealed, where appropriate, by a professional licensed in accordance with
  the appropriate articles of the education law.
-  §  6.  Construction  with  respect  to any contract entered into by an
- authorized entity pursuant to this act shall be deemed a  "public  work"
- to  be  performed  in accordance with the provisions of article 8 of the
- labor law, as well as subject to sections 200, 240, 241 and 242 of  such
+  § 6. Construction with respect to any  contract  entered  into  by  an
+ authorized  entity  pursuant to this act shall be deemed a "public work"
+ to be performed in accordance with the provisions of article  8  of  the
+ labor  law, as well as subject to sections 200, 240, 241 and 242 of such
  law and enforcement of prevailing wage requirements pursuant to applica-
  ble law or, for projects or public works receiving federal aid, applica-
- ble  federal requirements for prevailing wage. Any contract entered into
- pursuant to this act shall  include  a  clause  requiring  the  selected
- contractor  to  obligate  every tier of contractor working on the public
- work to comply with the project labor agreement  referenced  in  section
- four  of  this act, and shall include project labor agreement compliance
- A. 7368  5
+ ble federal requirements for prevailing wage. Any contract entered  into
+ pursuant  to  this  act  shall  include  a clause requiring the selected
+ contractor to obligate every tier of contractor working  on  the  public
+ A. 7368--A  5
  
- monitoring and enforcement provisions  consistent  with  the  applicable
+ work  to  comply  with the project labor agreement referenced in section
+ four of this act, and shall include project labor  agreement  compliance
+ monitoring  and  enforcement  provisions  consistent with the applicable
  project labor agreement.
   §  7.  Any  contract  entered into by an authorized entity pursuant to
  this act shall comply with the  objectives  and  goals  with  regard  to
@@ -260,25 +262,27 @@ S T A T E  O F  N E W  Y O R K
  currently  employed  worker  or  loss  of  position,  including  partial
  displacement  such  as  a  reduction  in the hours of non-overtime work,
  wages or employment benefits, or result in the  impairment  of  existing
- collective  bargaining  agreements,  and (b) transfer of existing duties
- and functions related to maintenance and operations currently  performed
- by existing employees of authorized entities to a contractor.
+ collective  bargaining  agreements,  (b) transfer of existing duties and
+ functions related to maintenance and operations currently  performed  by
+ existing employees of authorized entities to a contractor, or (c) trans-
+ fer  of future duties and functions ordinarily performed by employees of
+ the authorized entities to the contracting entity.
   3. Employees of authorized entities using design-build contracts serv-
  ing in positions in newly created titles shall be assigned to the appro-
  priate bargaining unit. Nothing contained in this act shall be construed
- to  affect: (a) the existing rights of employees of such entities pursu-
- ant to an existing collective bargaining  agreement,  (b)  the  existing
+ to affect: (a) the existing rights of employees of such entities  pursu-
+ ant  to  an  existing  collective bargaining agreement, (b) the existing
  representational relationships among employee organizations representing
- employees  of such entities, or (c) the bargaining relationships between
+ employees of such entities, or (c) the bargaining relationships  between
  such entities and such employee organizations.
-  § 10. The submission of a proposal or responses or the execution of  a
- design-build  contract pursuant to this act shall not be construed to be
+  §  10. The submission of a proposal or responses or the execution of a
+ design-build contract pursuant to this act shall not be construed to  be
  a violation of section 6512 of the education law.
-  § 11. Nothing contained in this act shall limit  the  right  or  obli-
- gation  of  any  authorized  entity to comply with the provisions of any
+  §  11.  Nothing  contained  in this act shall limit the right or obli-
+ gation of any authorized entity to comply with  the  provisions  of  any
  existing contract or to award contracts as otherwise provided by law.
-  § 12. This act shall take effect immediately and shall expire  and  be
- deemed  repealed  two  years  after  such  date; provided, however, that
- public works with requests  for  qualifications  issued  prior  to  such
- repeal  shall  be  permitted  to continue under this act notwithstanding
+  §  12.  This act shall take effect immediately and shall expire and be
+ deemed repealed two years  after  such  date;  provided,  however,  that
+ public  works  with  requests  for  qualifications  issued prior to such
+ repeal shall be permitted to continue  under  this  act  notwithstanding
  such repeal.
