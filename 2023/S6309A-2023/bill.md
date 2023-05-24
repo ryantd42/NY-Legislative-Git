@@ -1,6 +1,6 @@
 # Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from the Maritime Administration, a component of the United States Department of Transportation
 
-**Bill ID:** S6309A
+**Bill ID:** S6309AA
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the county of Nassau assessor to accept an application for a real pro
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6309
+  6309--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MARTINS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT in relation to authorizing  the  county  of  Nassau  assessor  to
   accept an application for a real property tax exemption from the Mari-
@@ -40,13 +42,15 @@ S T A T E  O F  N E W  Y O R K
  the assessor of the county of Nassau is hereby authorized to accept from
  the Maritime Administration, a component of the United States Department
  of Transportation, an application for exemption from real property taxes
- pursuant to section 406 of the real property tax law with respect to the
- 2021-2022  assessment roll for all of the 2021-2022 school taxes and all
- of the 2022 general taxes for the parcel conveyed to  such  organization
- located at 307 Steamboat Road, village of Kings Point, county of Nassau,
- otherwise known as Nassau county parcel ID section 1 block 200 lot 1. If
- accepted,  the  application shall be reviewed as if it had been received
- on or before the taxable status date established for such roll.
+ pursuant to section 400 of the real property tax law with respect to the
+ 2020-2021  and  2021-2022  assessment  rolls,  for  all of the 2020-2021
+ school taxes and a portion of the 2021 general  taxes  and  all  of  the
+ 2021-2022  school taxes and all of the 2022 general taxes for the parcel
+ conveyed to such organization located at 307 Steamboat Road, Great Neck,
+ county of Nassau, otherwise known as Nassau county parcel ID  section  1
+ block 200 lot 1. If accepted, the application shall be reviewed as if it
+ had  been  received on or before the taxable status date established for
+ such roll.
   If satisfied that such organization would  otherwise  be  entitled  to
  such  exemption  if  such  organization  had  filed  an  application for
  exemption by the appropriate taxable status  date,  the  assessor,  upon
@@ -61,4 +65,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10738-01-3
+  LBD10738-03-3
