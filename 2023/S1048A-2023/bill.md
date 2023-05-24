@@ -1,6 +1,6 @@
 # Requires sellers to clearly post the price of a credit card surcharge
 
-**Bill ID:** S1048A
+**Bill ID:** S1048AA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires sellers to clearly post the credit card price inclusive of any surcharg
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1048
+  1048--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COONEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Consumer Protection
+  printed to be committed to the Committee  on  Consumer  Protection  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general business law, in relation to requiring sell-
   ers to clearly post the price of a credit card surcharge
@@ -36,22 +38,36 @@ S T A T E  O F  N E W  Y O R K
  
   Section  1. Section 518 of the general business law, as added by chap-
  ter 160 of the laws of 1984, is amended to read as follows:
-  § 518. Credit card surcharge prohibited. No seller in any sales trans-
- action may impose a surcharge on a holder who elects  to  use  a  credit
- card  in  lieu  of  payment by cash, check, or similar means UNLESS SUCH
- SELLER CLEARLY POSTS THE CREDIT CARD PRICE, INCLUSIVE OF SUCH SURCHARGE,
- AT THE LOCATION WHERE THE SALE OCCURS, AND  PROVIDED  FURTHER  THAT  THE
- FINAL  SALES  PRICE  OF  ANY  SUCH  SALES TRANSACTION, INCLUSIVE OF SUCH
- SURCHARGE, SHALL NOT AMOUNT TO A PRICE GREATER THAN THE POSTED PRICE FOR
- SUCH SALES TRANSACTION.
-  Any seller who violates the provisions of this section shall be guilty
- of a misdemeanor punishable by a fine not to exceed five hundred dollars
- or a term of imprisonment up to one year, or both.
-  § 2. This act shall take effect immediately.
- 
- 
- 
+  § 518. 1. Credit card surcharge [prohibited] NOTICE REQUIREMENT.  [No]
+ ANY seller in any sales transaction [may impose] IMPOSING a surcharge on
+ a [holder] CUSTOMER who elects to use a credit card in lieu  of  payment
+ by  cash,  check,  or similar means SHALL CLEARLY AND CONSPICUOUSLY POST
+ THE TOTAL PRICE FOR USING A CREDIT CARD IN SUCH  TRANSACTION,  INCLUSIVE
+ OF  SURCHARGE,  PROVIDED  HOWEVER, ANY SUCH SURCHARGE MAY NOT EXCEED THE
+ AMOUNT OF THE SURCHARGE CHARGED TO  THE  BUSINESS  BY  THE  CREDIT  CARD
+ COMPANY  FOR  SUCH  CREDIT CARD USE.  THE FINAL SALES PRICE OF ANY SUCH
+ SALES TRANSACTION, INCLUSIVE OF SUCH SURCHARGE, SHALL NOT  AMOUNT  TO  A
+ PRICE GREATER THAN THE POSTED PRICE FOR SUCH SALES TRANSACTION.  NOTHING
+ IN  THIS SUBDIVISION SHALL BE DEEMED TO PROHIBIT MERCHANTS FROM OFFERING
+ A TWO-TIER PRICING SYSTEM. FOR THE PURPOSES OF THIS  SECTION,  "TWO-TIER
+ PRICING SYSTEM" SHALL MEAN THE TAGGING OR POSTING OF TWO DIFFERENT PRIC-
+ ES IN WHICH THE CREDIT CARD PRICE, INCLUSIVE OF ANY SURCHARGE, IS POSTED
+ ALONGSIDE THE CASH PRICE.
+  2.  Any  seller  who  violates the provisions of this section shall be
+ [guilty of a misdemeanor punishable by a fine] LIABLE FOR A CIVIL PENAL-
+ TY, RECOVERABLE IN AN ACTION OR PROCEEDING BROUGHT IN A COURT OF  COMPE-
+ TENT  JURISDICTION  not  to  exceed  five  hundred dollars [or a term of
+ imprisonment up to one year, or both] FOR  EACH  SUCH  VIOLATION.  THE
+ PROVISIONS  OF  THIS  SUBDIVISION  MAY  BE  ENFORCED CONCURRENTLY BY THE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02683-01-3
+  LBD02683-07-3
+ S. 1048--A  2
+ 
+ DIRECTOR OR COMMISSIONER OF A MUNICIPAL CONSUMER AFFAIRS OFFICE,  OR  BY
+ THE TOWN ATTORNEY, CITY CORPORATION COUNSEL, OR OTHER LAWFUL DESIGNEE OF
+ A  MUNICIPALITY OR LOCAL GOVERNMENT, AND ALL MONEYS COLLECTED THEREUNDER
+ SHALL BE RETAINED BY SUCH MUNICIPALITY OR LOCAL GOVERNMENT.
+  §  2.  This  act  shall take effect on the sixtieth day after it shall
+ have become a law.
