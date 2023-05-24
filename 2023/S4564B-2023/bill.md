@@ -1,6 +1,6 @@
 # Relates to designating a portion of the state highway system as the "Trooper William P. Keane Memorial Bridge"
 
-**Bill ID:** S4564BA
+**Bill ID:** S4564BB
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Designates a portion of the state highway system as the "Trooper William P. Kean
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4564--A
+  4564--B
  
   2023-2024 Regular Sessions
  
@@ -28,22 +28,23 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sen. GALLIVAN -- read twice and ordered printed, and when
   printed to be committed to the Committee on Transportation --  commit-
   tee  discharged, bill amended, ordered reprinted as amended and recom-
-  mitted to said committee
- 
+  mitted to  said  committee  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN ACT to amend the highway law, in relation to designating a portion of
-  the state highway system as the "Trooper  William  P.  Keane  Memorial
+  the  state  highway  system  as the "Trooper William P. Keane Memorial
   Bridge"
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 344-o to
  read as follows:
-  § 344-O. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
- "TROOPER  WILLIAM  P.  KEANE  MEMORIAL BRIDGE". THE BRIDGE ON INTERSTATE
- ROUTE ONE HUNDRED SEVENTY-NINE, CROSSING OVER INTERSTATE ROUTE NINETY IN
- THE TOWN OF HAMBURG, COUNTY OF ERIE, SHALL BE DESIGNATED  AND  KNOWN  AS
- THE "TROOPER WILLIAM P. KEANE MEMORIAL BRIDGE".
+  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
+ "TROOPER WILLIAM P. KEANE MEMORIAL BRIDGE". THE BRIDGE  ON  STATE  ROUTE
+ ONE  HUNDRED  SEVENTY-NINE, CROSSING OVER INTERSTATE ROUTE NINETY IN THE
+ TOWN OF HAMBURG, COUNTY OF ERIE, SHALL BE DESIGNATED AND  KNOWN  AS  THE
+ "TROOPER WILLIAM P. KEANE MEMORIAL BRIDGE".
   §  2. The commissioner of transportation shall provide for the instal-
  lation and maintenance of adequate signing of the state  highway  system
  as  designated  pursuant  to section one of this act.  However, to avoid
@@ -57,4 +58,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08940-02-3
+  LBD08940-05-3
