@@ -1,6 +1,6 @@
 # Establishes a fiscal cliff task force to conduct a study on fiscal cliffs in the state's public assistance programs and to make recommendations related thereto
 
-**Bill ID:** A7424A
+**Bill ID:** A7424AA
 **Session:** 2023
 **Sponsor:** Maritza Davila
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Establishes a fiscal cliff task force to conduct a study on fiscal cliffs in the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7424
+  7424--A
  
   2023-2024 Regular Sessions
  
@@ -25,14 +25,17 @@ S T A T E  O F  N E W  Y O R K
   May 19, 2023
   ___________
  
- Introduced by M. of A. DAVILA -- read once and referred to the Committee
-  on Social Services
- 
+ Introduced  by  M. of A. DAVILA, TAYLOR, SIMPSON, MAHER -- read once and
+  referred to the Committee on Social Services -- reported and  referred
+  to  the  Committee  on  Ways  and  Means -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
+
  AN  ACT  establishing  a  fiscal  cliff task force to conduct a study on
   fiscal cliffs in the state's public assistance programs  and  to  make
   recommendations  related thereto; and providing for the repeal of such
   provision upon expiration thereof
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,7 +46,7 @@ S T A T E  O F  N E W  Y O R K
  sudden  decrease in public benefits that can occur with a small increase
  in earnings.
   (b) (i) The task force shall consist  of  nineteen  members,  each  to
- serve  for  a  term  ending  December  31,  2024.  Such members shall be
+ serve  for  a  term  ending  December  31,  2025.  Such members shall be
  appointed as follows:  two members shall be appointed by  the  temporary
  president  of  the senate; one member shall be appointed by the minority
  leader of the senate; two members shall be appointed by the  speaker  of
@@ -56,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  assistance  or his or her designee; the commissioner of health or his or
  her designee; the commissioner of taxation and finance  or  his  or  her
  designee;  the  commissioner  of  the  department of labor or his or her
- designee; the commissioner of the office of children and family services
- or his or her designee.  Appointments shall be made within sixty days of
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10565-03-3
- A. 7424  2
+  LBD10565-05-3
+ A. 7424--A  2
  
+ designee; the commissioner of the office of children and family services
+ or his or her designee.  Appointments shall be made within sixty days of
  the effective date of this section. Vacancies in the task force shall be
  filled in the manner provided for original appointments.
   (ii) All appointments shall be coordinated to ensure geographic repre-
@@ -118,11 +121,11 @@ S T A T E  O F  N E W  Y O R K
   (f) The task force shall make a preliminary report to the governor and
  the legislature of its findings, conclusions, recommendations and activ-
  ities  already  undertaken  by the task force, not later than January 1,
- 2024, and a final report of its findings,  conclusions,  recommendations
- and  activities  already  undertaken  by  the task force, not later than
- A. 7424  3
+ A. 7424--A  3
  
- September  1,  2024  and  shall  submit  with  its  reports  legislative
+ 2025, and a final report of its findings,  conclusions,  recommendations
+ and  activities  already  undertaken  by  the task force, not later than
+ September  1,  2025  and  shall  submit  with  its  reports  legislative
  proposals as it deems necessary to implement its recommendations.
   §  2.  This  act  shall take effect immediately and shall expire three
  years after it  shall  have  become  a  law  when  upon  such  date  the
