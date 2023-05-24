@@ -1,6 +1,6 @@
 # Relates to permissible activities for athletic associations, conferences, or other groups or organizations with authority over intercollegiate athletics
 
-**Bill ID:** A7107BA
+**Bill ID:** A7107BB
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to permissible activities for athletic associations, conferences, or oth
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7107--A
+  7107--B
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,18 @@ S T A T E  O F  N E W  Y O R K
   May 11, 2023
   ___________
  
- Introduced by M. of A. SOLAGES, STIRPE, HUNTER -- read once and referred
-  to the Committee on Education -- reference changed to the Committee on
-  Higher  Education  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
+ Introduced by M. of A. SOLAGES, STIRPE, HUNTER, MAGNARELLI, FAHY -- read
+  once  and  referred to the Committee on Education -- reference changed
+  to the Committee on Higher Education  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee -- reported and referred  to  the  Committee  on  Rules  --  Rules
+  Committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to the Committee on Rules
  
- AN ACT to to amend the education law, in relation to permissible  activ-
-  ities  for  athletic  associations,  conferences,  or  other groups or
-  organizations with authority over intercollegiate  athletics  and  the
-  definition of student-athlete
+ AN ACT to amend the education law, in relation to permissible activities
+  for athletic associations, conferences, or other groups  or  organiza-
+  tions with authority over intercollegiate athletics and the definition
+  of student-athlete
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -42,7 +45,7 @@ S T A T E  O F  N E W  Y O R K
  622 of the laws of 2022, is renumbered section 6438-c.
   § 2. Paragraph (a) of subdivision 1 of section 6438-c of the education
  law,  as  added  by  chapter 622 of the laws of 2022 and such section as
- renumbered by section 1 of this act, is  amended to read as follows:
+ renumbered by section one of this act, is  amended to read as follows:
   (a) "student-athlete" shall mean (I) a student enrolled at  a  college
  and  participating  in  intercollegiate athletics, OR (II) AN INDIVIDUAL
  WHO HAS COMPLETED AT LEAST THEIR SOPHOMORE YEAR OF HIGH SCHOOL OR INTER-
@@ -52,19 +55,19 @@ S T A T E  O F  N E W  Y O R K
  IPATE IN A PARTICULAR INTERSCHOLASTIC OR INTERCOLLEGIATE SPORT; and
   § 3. Paragraph (c) of subdivision 2 of section 6438-c of the education
  law,  as  added  by  chapter 622 of the laws of 2022 and such section as
- renumbered by section 1 of this act, is  amended and a new paragraph (d)
- is added to read as follows:
-  (c) An athletic association, conference, or other group  or  organiza-
- tion  with  authority over intercollegiate athletics, including, but not
- limited to, the [National Collegiate Athletic Association (NCAA)]  NCAA,
- shall  not  prevent a college from: (I) participating in intercollegiate
- athletics as a result of allowing a  student-athlete  pursuant  to  this
+ renumbered by section one of this act, is  amended and a  new  paragraph
+ (d) is added to read as follows:
+  (c)  An  athletic association, conference, or other group or organiza-
+ tion with authority over intercollegiate athletics, including,  but  not
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11248-05-3
- A. 7107--A  2
+  LBD11248-07-3
+ A. 7107--B  2
  
+ limited  to, the [National Collegiate Athletic Association (NCAA)] NCAA,
+ shall not prevent a college from: (I) participating  in  intercollegiate
+ athletics  as  a  result  of allowing a student-athlete pursuant to this
  section from earning compensation as a result of the use of the student-
  athlete's  name,  image, or likeness; OR (II) IDENTIFYING, FACILITATING,
  ENABLING, OR SUPPORTING OPPORTUNITIES  FOR  A  STUDENT-ATHLETE  TO  EARN
