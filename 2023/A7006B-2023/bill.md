@@ -1,6 +1,6 @@
 # Authorizes Congregation RSK to receive retroactive real property tax exempt status
 
-**Bill ID:** A7006B
+**Bill ID:** A7006BA
 **Session:** 2023
 **Sponsor:** Karl Brabenec
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes Congregation RSK to receive retroactive real property tax exempt stat
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7006
+  7006--A
  
   2023-2024 Regular Sessions
  
@@ -26,24 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. BRABENEC -- read once and referred to the Commit-
-  tee on Real Property Taxation
+  tee  on  Real Property Taxation -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN  ACT  in  relation to authorizing Congregation Khal Bais Usher/RSK to
-  receive retroactive real property tax exempt status
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
- BLY, DO ENACT AS FOLLOWS:
+ AN ACT in relation to authorizing Congregation RSK to  receive  retroac-
+  tive real property tax exempt status
 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
   Section 1. Notwithstanding any other provision of law to the contrary,
- the  assessor  of  the county of Rockland is hereby authorized to accept
- from Congregation Khal Bais Usher/RSK an application for exemption  from
- real  property  taxes pursuant to section 420-a of the real property tax
- law with respect to the 2021-2022  assessment  rolls  with  such  parcel
- being  located  at  68  Highview  Road, in the hamlet of Monsey, town of
- Ramapo otherwise known as Rockland county tax map section  56.06,  block
- 1,  lot  15. If accepted, the application shall be reviewed as if it had
- been received on or before the taxable status dates established for such
- rolls.
+ the assessor of the county of Rockland is hereby  authorized  to  accept
+ from  Congregation  RSK  an application for exemption from real property
+ taxes pursuant to section 420-a  of  the  real  property  tax  law  with
+ respect to the 2021-2022 assessment rolls with such parcel being located
+ at  68  Highview Road, in the hamlet of Monsey, town of Ramapo otherwise
+ known as Rockland county tax map section 56.06,  block  1,  lot  15.  If
+ accepted,  the  application shall be reviewed as if it had been received
+ on or before the taxable status dates established for such rolls.
   If satisfied that such organization would  otherwise  be  entitled  to
  such  exemption  if  such organization had acquired the subject property
  and filed an application for exemption by the appropriate taxable status
@@ -59,4 +59,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10875-02-3
+  LBD10875-04-3
