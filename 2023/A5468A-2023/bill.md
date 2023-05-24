@@ -1,6 +1,6 @@
 # Relates to the use of voice recognition features on certain products
 
-**Bill ID:** A5468A
+**Bill ID:** A5468AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to the use of voice recognition features on certain products.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5468
+  5468--A
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. GUNTHER, ZEBROWSKI, WALLACE, GLICK, SANTABARBARA,
   BUTTENSCHON,  OTIS,  SAYEGH -- read once and referred to the Committee
-  on Consumer Affairs and Protection
- 
+  on Consumer Affairs and Protection -- reported  and  referred  to  the
+  Committee  on  Codes  --  committee  discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the general business law, in  relation  to  the  use  of
   voice recognition features
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,14 +58,14 @@ S T A T E  O F  N E W  Y O R K
   (C) "VOICE RECOGNITION FEATURE" MEANS  THE  FUNCTION  OF  A  CONNECTED
  DEVICE  THAT ALLOWS THE COLLECTION, RECORDING, STORAGE, ANALYSIS, TRANS-
  MISSION, INTERPRETATION, OR OTHER USE OF SPOKEN WORDS OR OTHER SOUNDS.
-  (D) "TOY" MEANS ANY PRODUCT DESIGNED OR INTENDED BY  THE  MANUFACTURER
- TO BE USED BY CHILDREN OR ADULTS FOR AMUSEMENT OR PLAY.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03475-01-3
- A. 5468  2
+  LBD03475-02-3
+ A. 5468--A  2
  
+  (D) "TOY" MEANS ANY PRODUCT DESIGNED OR INTENDED BY  THE  MANUFACTURER
+ TO BE USED BY CHILDREN OR ADULTS FOR AMUSEMENT OR PLAY.
   2.  (A)  A PERSON OR ENTITY SHALL NOT PROVIDE THE OPERATION OF A VOICE
  RECOGNITION FEATURE WITHIN THIS  STATE  WITHOUT  PROMINENTLY  INFORMING,
  DURING  THE  INITIAL SETUP OR INSTALLATION OF A CONNECTED DEVICE, EITHER
@@ -94,9 +96,9 @@ S T A T E  O F  N E W  Y O R K
  TICE  LAW  AND  RULES.  IN SUCH ACTION, THE COURT MAY AWARD DAMAGES FOR
  ACTUAL COSTS OR LOSSES INCURRED BY THE CONSUMER.  WHENEVER  THE  COURT
  SHALL  DETERMINE  IN SUCH ACTION THAT A PERSON OR BUSINESS VIOLATED THIS
- SECTION, THE COURT MAY IMPOSE A  CIVIL  PENALTY  OF  TWO  THOUSAND  FIVE
- HUNDRED DOLLARS PER VIOLATION.
-  (B)  THE REMEDIES PROVIDED BY THIS SUBDIVISION SHALL BE IN ADDITION TO
+ SECTION, THE COURT MAY IMPOSE A CIVIL PENALTY NOT TO EXCEED TWO THOUSAND
+ FIVE HUNDRED DOLLARS PER VIOLATION.
+  (B) THE REMEDIES PROVIDED BY THIS SUBDIVISION SHALL BE IN ADDITION  TO
  ANY OTHER LAWFUL REMEDY AVAILABLE.
   § 2. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.
