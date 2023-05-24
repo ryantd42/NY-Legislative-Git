@@ -1,0 +1,59 @@
+# Authorizes Brett W. Brewer to take the competitive civil service examination for the position of police officer to be a full-time police officer for the village of Ilion
+
+**Bill ID:** S7418
+**Session:** 2023
+**Sponsor:** Mark Walczyk
+**Status:** Signed by Governor
+
+## Summary
+
+Authorizes Brett W. Brewer to take the competitive civil service examination for the position of police officer and be placed on the eligible list for employment as a full-time police officer for the village of Ilion, notwithstanding the age requirements under the civil service law.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7418
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  May 24, 2023
+  ___________
+ 
+ Introduced  by  Sen. WALCZYK -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Civil Service and Pensions
+ 
+ AN ACT in relation to authorizing Brett W. Brewer to  take  the  compet-
+  itive civil service examination for the position of police officer and
+  be  placed  on  the eligible list for employment as a full-time police
+  officer for the village of Ilion
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Notwithstanding the provisions of section 58 of the civil
+ service law, including the  age  requirements  under  paragraph  (a)  of
+ subdivision  1  of  such  section,  or any other provision of law to the
+ contrary, Brett W. Brewer, who has been  continuously  employed  by  the
+ village of Ilion, in the county of Herkimer, as a part-time police offi-
+ cer, shall be eligible to take the competitive civil service examination
+ for  the position of police officer and shall, contingent upon his score
+ on such examination, be eligible to be placed on the eligible  list  for
+ appointment  as  a  full-time  police  officer with the village of Ilion
+ police department.
+  § 2. Brett W. Brewer shall otherwise  be  subject  to  the  merit  and
+ fitness  provisions  of  the  civil  service law applicable to full-time
+ police officers.
+  § 3. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11643-01-3
