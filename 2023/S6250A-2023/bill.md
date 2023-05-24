@@ -1,6 +1,6 @@
 # Authorizes the assessor of the town of Smithtown, county of Suffolk, to accept from Mother and Unborn Baby Care of LI, Inc., an application for exemption from real property taxes
 
-**Bill ID:** S6250A
+**Bill ID:** S6250AA
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes the assessor of the town of Smithtown, county of Suffolk, to accept f
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6250
+  6250--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MATTERA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT in relation to authorizing the assessor of the town of Smithtown,
   county of Suffolk, to accept from Mother and Unborn Baby Care  of  LI,
   Inc., an application for exemption from real property taxes
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,7 +45,7 @@ S T A T E  O F  N E W  Y O R K
  assessment roll, for the parcel owned by such  organization,  with  such
  parcel being located at 91 Maple Avenue, in the town of Smithtown, coun-
  ty  of  Suffolk, otherwise known as Suffolk county tax map district 0800
- section 104.80 block 02.00 lot 007.000.  If  accepted,  the  application
+ section 104.00 block 02.00 lot 007.000.  If  accepted,  the  application
  shall  be  reviewed  as if it had been received on or before the taxable
  status date established for such rolls.
   If satisfied that such organization would  otherwise  be  entitled  to
@@ -56,8 +58,7 @@ S T A T E  O F  N E W  Y O R K
  discretion, provide for the refund of those taxes paid and cancel  those
  taxes, fines, penalties, liens or interest remaining unpaid.
   § 2. This act shall take effect immediately.
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08554-01-3
+  LBD08554-03-3
