@@ -1,0 +1,70 @@
+# Relates to the organization of industrial development agencies
+
+**Bill ID:** A7532B
+**Session:** 2023
+**Sponsor:** Michaelle C. Solages
+**Status:** Vetoed
+
+## Summary
+
+Relates to the organization of industrial development agencies and the definition of labor organization.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7532
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 25, 2023
+  ___________
+ 
+ Introduced  by M. of A. SOLAGES -- read once and referred to the Commit-
+  tee on Local Governments
+ 
+ AN ACT to amend the general municipal law, in relation to the  organiza-
+  tion  of  industrial  development agencies and the definition of labor
+  organization
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section  854  of  the general municipal law is amended by
+ adding a new subdivision 22 to read as follows:
+  (22) "LABOR ORGANIZATION" -- SHALL MEAN ANY ORGANIZATION WHICH  EXISTS
+ AND  IS  CONSTITUTED FOR THE PURPOSE, IN WHOLE OR IN PART, OF COLLECTIVE
+ BARGAINING, OR OF DEALING WITH EMPLOYERS CONCERNING GRIEVANCES, TERMS OR
+ CONDITIONS OF EMPLOYMENT, OR OF OTHER MUTUAL AID OR PROTECTION AND WHICH
+ IS NOT A COMPANY UNION.
+  § 2. Subdivision 2 of section 856 of the  general  municipal  law,  as
+ amended  by  chapter  356  of  the  laws  of 1993, is amended to read as
+ follows:
+  2. An agency shall be a corporate governmental agency, constituting  a
+ public  benefit corporation. Except as otherwise provided by special act
+ of the legislature, an agency shall consist of not less than  three  nor
+ more  than seven members who shall be appointed by the governing body of
+ each municipality and who shall serve at the pleasure of the  appointing
+ authority.  Such  members [may] SHALL include [representatives] AT LEAST
+ ONE REPRESENTATIVE of [local government,] A LOCAL LABOR ORGANIZATION AND
+ AT LEAST ONE school [boards, organized labor and business] BOARD  MEMBER
+ OF  A  SCHOOL  DISTRICT WITHIN THE JURISDICTION OF THE AGENCY.  A member
+ shall continue to hold office until his successor is appointed  and  has
+ qualified.  The  governing body of each municipality shall designate the
+ first chairman and file with the secretary of  state  a  certificate  of
+ appointment  or  reappointment of any member. Such members shall receive
+ no compensation for their services but shall be entitled to  the  neces-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08381-01-3
+ A. 7532  2
+ 
+ sary  expenses,  including traveling expenses, incurred in the discharge
+ of their duties.
+  § 3. This act shall take effect immediately.
