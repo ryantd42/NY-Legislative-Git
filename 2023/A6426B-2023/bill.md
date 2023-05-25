@@ -1,6 +1,6 @@
 # Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from New York Jesus Baptist Church
 
-**Bill ID:** A6426BA
+**Bill ID:** A6426BB
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the county of Nassau assessor to accept an application for a real pro
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6426--A
+  6426--B
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. RA -- read once and referred to the Committee on
   Real Property Taxation -- committee discharged, bill amended,  ordered
-  reprinted as amended and recommitted to said committee
- 
+  reprinted  as  amended  and  recommitted  to  said  committee -- again
+  reported from said committee with  amendments,  ordered  reprinted  as
+  amended and recommitted to said committee
+
  AN  ACT  in  relation  to  authorizing  the county of Nassau assessor to
   accept an application for a real property tax exemption from New  York
   Jesus Baptist Church
@@ -39,14 +41,14 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Notwithstanding any other provision of law to the contrary,
  the assessor of the county of Nassau is hereby authorized to accept from
  New York Jesus Baptist Church an application  for  exemption  from  real
- property  taxes  pursuant  to section 420-a and 462 of the real property
- tax law with respect to the 2022-2023 assessment roll  for  all  of  the
- 2022-2023  school taxes and all of the 2023 general taxes for the parcel
- owned by such organization located at  167  Willis  Avenue,  village  of
- Mineola,  town  of North Hempstead, county of Nassau, otherwise known as
- Nassau county tax map section 09, block 411, lot 06640. If accepted, the
- application shall be reviewed as if it had been received  on  or  before
- the taxable status date established for such assessment roll.
+ property  taxes  pursuant  to section 420-a of the real property tax law
+ with respect to the 2022-2023 assessment roll for all of  the  2022-2023
+ school  taxes  and all of the 2023 general taxes for the parcel owned by
+ such organization located at 167 Willis Avenue, village of Mineola, town
+ of North Hempstead, county of Nassau, otherwise known as  Nassau  county
+ tax  map  section 09, block 411, lot 06640. If accepted, the application
+ shall be reviewed as if it had been received on or  before  the  taxable
+ status date established for such assessment roll.
   If  satisfied  that  such  organization would otherwise be entitled to
  such exemption  if  such  organization  had  filed  an  application  for
  exemption  by  the  appropriate  taxable status date, the assessor, upon
@@ -61,4 +63,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10661-03-3
+  LBD10661-05-3
