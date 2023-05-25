@@ -1,0 +1,144 @@
+# Relates to enacting the "N.Y. state digital equity plan act"
+
+**Bill ID:** A7504
+**Session:** 2023
+**Sponsor:** Brian Cunningham
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to enacting the "N.Y. state digital equity plan act"; requires the division of broadband access to develop a state digital equity plan to increase broadband access to underserved populations by January 1, 2025.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7504
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 25, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  CUNNINGHAM  -- read once and referred to the
+  Committee on Corporations, Authorities and Commissions
+ 
+ AN ACT to amend the New York state urban development corporation act, in
+  relation to enacting the "N.Y. state digital equity plan act"
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Short  title. This act shall be known and may be cited as
+ the "N.Y. state digital equity plan act".
+  § 2. Subdivision 10 of section 16-gg of section 1 of  chapter  174  of
+ the  laws of 1968 constituting the urban development corporation act, as
+ added by section 2 of part MMM of chapter 58 of the  laws  of  2022,  is
+ amended and a new subdivision 10-a is added to read as follows:
+  10.  ConnectAll  digital  equity grant program. The ConnectAll digital
+ equity grant program is hereby established  to  support  individuals  to
+ have  the  information technology capacity needed for full participation
+ in society and the economy, including the effective implementation of  a
+ State  Digital Equity Plan or any successor plan. Grants issued pursuant
+ to this program shall be awarded in a manner and form as  determined  by
+ the  division  consistent  with all relevant federal laws, codes, rules,
+ and regulations associated with the federal Digital Equity Act as estab-
+ lished under the Infrastructure Investment and Jobs  Act.  The  division
+ shall  establish  such  State  Digital  Equity  Plan, IN ACCORDANCE WITH
+ SUBDIVISION TEN-A OF  THIS  SECTION,  and  the  procedures  to  solicit,
+ receive  and  evaluate  proposals for the program consistent with rules,
+ regulations, or guidelines established by the commissioner.
+  10-A. (A) BY JANUARY 1, 2025, THE DIVISION, IN CONSULTATION  WITH  THE
+ PUBLIC AND THE COMMISSIONER, SHALL DEVELOP A STATE DIGITAL EQUITY PLAN.
+  (B) THE STATE DIGITAL EQUITY PLAN SHALL INCLUDE THE FOLLOWING:
+  (I)  THE IDENTIFICATION OF BARRIERS TO DIGITAL EQUITY FACED BY COVERED
+ POPULATIONS IN THIS STATE. BARRIERS INCLUDE, BUT ARE NOT LIMITED TO, THE
+ FOLLOWING:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05766-01-3
+ A. 7504  2
+ 
+  (1) THE AVAILABILITY AND AFFORDABILITY OF ACCESS TO FIXED AND WIRELESS
+ BROADBAND TECHNOLOGY AT A SPEED, QUALITY, AND CAPACITY THAT IS NECESSARY
+ FOR THE INDIVIDUAL TO ACCOMPLISH COMMON TASKS;
+  (2)  ACCESSIBILITY  AND  INCLUSIVITY  OF  ONLINE  PUBLIC RESOURCES AND
+ SERVICES;
+  (3) DIGITAL LITERACY;
+  (4) AWARENESS AND USE OF MEASURES TO SECURE  THE  ONLINE  PRIVACY  AND
+ CYBERSECURITY OF AN INDIVIDUAL; AND
+  (5)  AVAILABILITY  AND AFFORDABILITY OF CONSUMER DEVICES AND TECHNICAL
+ SUPPORT FOR THOSE DEVICES.
+  (II) MEASURABLE OBJECTIVES FOR DOCUMENTING AND PROMOTING DIGITAL EQUI-
+ TY AMONG COVERED POPULATIONS LOCATED IN THE STATE;
+  (III) AN ASSESSMENT OF HOW THE OBJECTIVES DESCRIBED IN  THIS  SUBDIVI-
+ SION WILL IMPACT AND INTERACT WITH THE FOLLOWING:
+  (1)  ECONOMIC  AND WORKFORCE DEVELOPMENT GOALS, PLANS, AND OUTCOMES OF
+ THE STATE;
+  (2) EDUCATIONAL OUTCOMES, INCLUDING, BUT NOT LIMITED TO, DIGITAL EQUI-
+ TY BARRIERS FOR INDIVIDUALS WITH LEARNING DISABILITIES AND ENGLISH LEAR-
+ NERS;
+  (3) HEALTH OUTCOMES;
+  (4) CIVIC AND SOCIAL ENGAGEMENT; AND
+  (5) DELIVERY OF OTHER ESSENTIAL SERVICES.
+  (IV) A DESCRIPTION OF HOW THE DIVISION PLANS TO COLLABORATE  WITH  KEY
+ STAKEHOLDERS, INCLUDING, BUT NOT LIMITED TO, THE FOLLOWING:
+  (1) COMMUNITY ANCHOR INSTITUTIONS;
+  (2) LOCAL GOVERNMENTS;
+  (3) LOCAL EDUCATIONAL AGENCIES;
+  (4) NATIVE AMERICAN TRIBES;
+  (5) NON-PROFIT ORGANIZATIONS;
+  (6) ORGANIZATIONS THAT REPRESENT COVERED POPULATIONS;
+  (7) CIVIL RIGHTS ORGANIZATIONS;
+  (8) ENTITIES THAT CARRY OUT WORKFORCE DEVELOPMENT PROGRAMS;
+  (9) STATE AND LOCAL AGENCIES THAT ARE RESPONSIBLE FOR ADMINISTERING OR
+ SUPERVISING ADULT EDUCATION AND LITERACY ACTIVITIES;
+  (10) STATE AND LOCAL PUBLIC HOUSING AUTHORITIES;
+  (11) INTERNET SERVICE PROVIDERS; AND
+  (12) PARTNERSHIPS BETWEEN ANY OF THE ENTITIES DESCRIBED IN CLAUSES ONE
+ THROUGH ELEVEN OF THIS SUBPARAGRAPH.
+  (V)  A  LIST  OF ORGANIZATIONS WITH WHICH THE DIVISION COLLABORATED IN
+ DEVELOPING AND IMPLEMENTING THE STATE DIGITAL EQUITY PLAN; AND
+  (VI) AN ASSESSMENT OF EXISTING DIGITAL INCLUSION PROGRAMS IN THE STATE
+ AND RECOMMENDATIONS FOR NON-PROFIT ORGANIZATIONS TO SERVE COVERED  POPU-
+ LATIONS, INCLUDING OPPORTUNITIES TO INTEGRATE WITH OTHER SOCIAL SERVICES
+ OUTREACH  PROGRAMS  AND OPPORTUNITIES FOR COVERED POPULATIONS TO PARTIC-
+ IPATE IN TRAINING THEY CAN THEN LEVERAGE TO ENTER CAREERS IN THE  INFOR-
+ MATION TECHNOLOGY SECTOR.
+  (C)  NOTWITHSTANDING ANY OTHER LAW TO THE CONTRARY, THE DIVISION SHALL
+ ESTABLISH A DIGITAL EQUITY FUND TO IMPLEMENT THE  STATE  DIGITAL  EQUITY
+ PLAN.  THE  FUND  SHALL INCLUDE ALL FEDERAL FUNDING APPROPRIATED FOR THE
+ DEVELOPMENT OF A STATE DIGITAL EQUITY PLAN INCLUDING BUT NOT LIMITED  TO
+ FUNDING  FROM  THE  INFRASTRUCTURE  INVESTMENT AND JOBS ACT. INTEREST ON
+ MONEYS DEPOSITED IN THE FUND SHALL BE CREDITED TO THE FUND.
+  § 3. Subdivision 2 of section 16-gg of section 1 of chapter 174 of the
+ laws of 1968 constituting the urban development  corporation  act,  such
+ section  as  added by section 2 of part MMM of chapter 58 of the laws of
+ A. 7504  3
+ 
+ 2022, is amended by adding two new paragraphs (i) and  (j)  to  read  as
+ follows:
+  (I)  "CONSULTATION  WITH  THE  PUBLIC"  MEANS SOLICITING AND RECEIVING
+ POLICY RECOMMENDATION LETTERS FROM KEY STAKEHOLDERS AS LISTED IN SUBPAR-
+ AGRAPH (IV) OF PARAGRAPH (B)  OF  SUBDIVISION  TEN-A  OF  THIS  SECTION,
+ SOLICITING  AND  RECEIVING  PUBLIC COMMENT, AND HOSTING PUBLIC WORKSHOPS
+ AND MEETINGS.
+  (J) "COVERED POPULATIONS" MEANS DEMOGRAPHICS THAT ARE  UNDERSERVED  IN
+ REGARDS  TO  INTERNET  ACCESS AND DIGITAL LITERACY, AND INCLUDES, BUT IS
+ NOT LIMITED TO, THE FOLLOWING:
+  (I) HOUSEHOLDS WHOSE INCOME IS ONE HUNDRED FIFTY PERCENT OF THE FEDER-
+ AL POVERTY LEVEL OR LESS FOR THE PRIOR CALENDAR YEAR;
+  (II) INDIVIDUALS SIXTY YEARS OF AGE OR OLDER;
+  (III) VETERANS;
+  (IV) INDIVIDUALS WITH DISABILITIES;
+  (V) INDIVIDUALS WITH LANGUAGE BARRIERS, SUCH AS ENGLISH  LEARNERS  AND
+ INDIVIDUALS WITH LOW LITERACY LEVELS;
+  (VI) MEMBERS OF A RACIAL OR ETHNIC MINORITY GROUP; AND
+  (VII) RESIDENTS OF RURAL AREAS.
+  § 4. This act shall take effect immediately.
