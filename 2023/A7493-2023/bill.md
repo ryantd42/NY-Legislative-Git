@@ -1,0 +1,64 @@
+# Relates to establishing a coordinator for asylum seeker services
+
+**Bill ID:** A7493
+**Session:** 2023
+**Sponsor:** Jenifer Rajkumar
+**Status:** In Assembly Committee
+
+## Summary
+
+Establishes a coordinator for asylum seeker services to oversee the integration of services and benefits available to asylum seekers.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7493
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  May 25, 2023
+  ___________
+ 
+ Introduced by M. of A. RAJKUMAR -- read once and referred to the Commit-
+  tee on Governmental Operations
+ 
+ AN ACT to amend the executive law, in relation to establishing a coordi-
+  nator for asylum seeker services
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1.  The executive law is amended by adding a new  section  4-c
+ to read as follows:
+  §  4-C. COORDINATOR OF ASYLUM SEEKER SERVICES. 1. THE GOVERNOR AND THE
+ MAYOR OF THE CITY OF NEW YORK SHALL JOINTLY  APPOINT  A  COORDINATOR  OF
+ ASYLUM SEEKER SERVICES. THE COORDINATOR SHALL OVERSEE THE INTEGRATION OF
+ SERVICES  AND  BENEFITS  AVAILABLE  TO  ASYLUM SEEKERS WHO ARE CURRENTLY
+ LIVING OR ARRIVING IN NEW YORK STATE WITH THE FOLLOWING STATE  AGENCIES:
+ THE  OFFICE  OF  TEMPORARY AND DISABILITY ASSISTANCE; THE DEPARTMENTS OF
+ STATE, EDUCATION AND HEALTH; THE OFFICE OF CHILDREN AND FAMILY SERVICES;
+ THE DIVISION OF HOMELAND SECURITY AND EMERGENCY  SERVICES;  AS  WELL  AS
+ APPLICABLE LOCAL AND FEDERAL AGENCIES.
+  2. THE COORDINATOR SHALL BE RESPONSIBLE FOR A SYSTEMIC RESPONSE TO THE
+ VARIOUS  NEEDS  OF ASYLUM SEEKERS INCLUDING, BUT NOT LIMITED TO, INTAKE,
+ RESETTLEMENT ACROSS THE STATE, SUPPORT SERVICES, HEALTH  CARE,  HOUSING,
+ EDUCATION, LANGUAGE SERVICES, TRANSPORTATION, ACCESSING FEDERAL PROGRAMS
+ AND  SERVICES,  AND  ADVOCATING  FOR  FEDERAL  LEGISLATION  AND POLICIES
+ RELATED TO IMMIGRATION.
+  3. FOR THE PURPOSES OF THIS SECTION "ASYLUM SEEKER" SHALL REFER TO  AN
+ INDIVIDUAL  WHO  CHANGES THEIR COUNTRY OF USUAL RESIDENCE TO SEEK TEMPO-
+ RARY OR PERMANENT RESIDENCE IN ANOTHER COUNTRY, AND WHO HAS APPLIED  FOR
+ ASYLUM  UNDER  8  U.S.  CODE § 1158 OR IS ELIGIBLE TO APPLY; OR WHO IS A
+ REFUGEE AS DEFINED BY SECTION 101(A)(42) OF THE IMMIGRATION AND  NATION-
+ ALITY ACT (INA).
+  § 2. This act shall take effect immediately.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10576-05-3
