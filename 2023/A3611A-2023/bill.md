@@ -1,6 +1,6 @@
 # Relates to handicapping tournaments
 
-**Bill ID:** A3611A
+**Bill ID:** A3611AA
 **Session:** 2023
 **Sponsor:** J. Gary Pretlow
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Specifies who can operate a handicapping tournament; requires handicapping tourn
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3611
+  3611--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,17 @@ S T A T E  O F  N E W  Y O R K
   February 3, 2023
   ___________
  
- Introduced  by M. of A. PRETLOW -- read once and referred to the Commit-
-  tee on Racing and Wagering
+ Introduced  by M. of A. PRETLOW, BRAUNSTEIN -- read once and referred to
+  the Committee on Racing and Wagering  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the racing, pari-mutuel wagering and  breeding  law,  in
   relation to handicapping tournaments
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Section 906 of the racing, pari-mutuel wagering and  breed-
  ing  law,  as  added by chapter 2 of the laws of 1995, and as renumbered
  and subdivision 1 as amended by chapter 18 of  the  laws  of  2008,  and
@@ -56,17 +58,25 @@ S T A T E  O F  N E W  Y O R K
  may  accept  an  entry  fee  for  a  tournament until the commission has
  approved the rules and the payment of prizes of a  handicapping  tourna-
  ment.
-  (c)  The  horse  races which are the subject of the tournament must be
- races on which the operator of the tournament is authorized  to  conduct
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04616-01-3
- A. 3611  2
+  LBD04616-03-3
+ A. 3611--A  2
  
+  (c)  The  horse  races which are the subject of the tournament must be
+ races on which the operator of the tournament is authorized  to  conduct
  wagering.  [At least fifty percent of the races which are the subject of
  the tournament must be races run in New York state.]
   3.  A  handicapping  tournament  operated  in  accordance  with  the
  provisions of this section shall be considered a contest  of  skill  and
  shall not be considered gambling.
+  4.  FIVE  PERCENT  OF THE PORTION OF THE GROSS REVENUE COLLECTED BY AN
+ OPERATOR ON HANDICAPPING TOURNAMENT ENTRY FEES  FROM  NEW  YORK  PARTIC-
+ IPANTS  THAT IS NOT DISTRIBUTED AS PRIZES TO THE WINNERS OF A TOURNAMENT
+ PURSUANT TO SUBDIVISION TWO OF THIS SECTION SHALL BE  DISTRIBUTED  QUAR-
+ TERLY  BY  SUCH OPERATOR TO THE HORSEMEN'S ORGANIZATION FOR THE ADMINIS-
+ TRATIVE PURPOSES OF SAID ORGANIZATION AND FOR SUCH WELFARE  AND  MEDICAL
+ PLANS  FOR  REGULARLY EMPLOYED BACKSTRETCH EMPLOYEES PURSUANT TO SECTION
+ THREE HUNDRED EIGHTEEN OF THIS CHAPTER.
   § 2. This act shall take effect immediately.
