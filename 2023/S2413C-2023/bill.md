@@ -1,6 +1,6 @@
 # Provides for an annual adjustment for reimbursements for certain veterans funerals
 
-**Bill ID:** S2413C
+**Bill ID:** S2413CA
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Provides for an annual adjustment for reimbursements for certain veterans funera
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2413
+  2413--A
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,12 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  BAILEY -- read twice and ordered printed, and when
   printed to be committed to the Committee on Veterans, Homeland Securi-
-  ty and Military Affairs
+  ty and Military Affairs -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the general municipal law, in relation to providing  for
   an annual adjustment for reimbursements for certain veterans funerals
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -44,14 +45,23 @@ S T A T E  O F  N E W  Y O R K
  hundred forty-one of the social services law or any other law  or  those
  expenses  reimbursable  or  payable  by the federal government; provided
  however, that the total reimbursement pursuant to this subdivision shall
- not exceed two thousand dollars per burial PLUS AN ANNUAL ADJUSTMENT FOR
- ANY INCREASE IN THE COSTS OF SUCH FUNERALS AS DETERMINED BY THE NEW YORK
- STATE FUNERAL DIRECTOR ASSOCIATION.
-  § 2. This act shall take effect immediately.
- 
- 
- 
+ not exceed two thousand dollars per burial. WITH RESPECT  TO  ANY  STATE
+ FISCAL  YEAR,  THE  COMMISSIONER  OF  VETERANS' SERVICES SHALL PROVIDE A
+ PERCENTAGE INCREASE IN THE MAXIMUM AMOUNT OF FUNERAL AND BURIAL  SERVICE
+ EXPENSES  PAYABLE UNDER THIS PARAGRAPH, EQUAL TO THE PERCENTAGE BY WHICH
+ (I) THE CONSUMER PRICE INDEX (ALL ITEMS, UNITED STATES CITY AVERAGE) FOR
+ THE TWELVE-MONTH PERIOD ENDING ON THE MARCH THIRTY-FIRST  PRECEDING  THE
+ BEGINNING  OF  THE  STATE  FISCAL  YEAR  FOR WHICH THE INCREASE IS MADE,
+ EXCEEDS (II) THE  CONSUMER  PRICE  INDEX  FOR  THE  TWELVE-MONTH  PERIOD
+ PRECEDING  THE TWELVE-MONTH PERIOD DESCRIBED IN SUBPARAGRAPH (I) OF THIS
+ PARAGRAPH. SUCH PERCENTAGE INCREASE SHALL BE  ROUNDED  UP  TO  THE  NEXT
+ HIGHEST  ONE-TENTH OF ONE PERCENT AND SHALL NOT BE LESS THAN ONE PERCENT
+ NOR MORE THAN FOUR PERCENT. COMMENCING IN THE YEAR  TWO  THOUSAND  FIVE,
+ THE COMMISSIONER OF VETERANS' SERVICES, NOT LATER THAN FEBRUARY FIRST OF
+ EACH  YEAR,  SHALL  PUBLISH  THE  AMOUNT  OF THE TOTAL REIMBURSEMENT, AS
+ ADJUSTED, PAYABLE UNDER THIS SECTION.
+  § 2. This act shall take effect April 1, 2025.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01440-01-3
+  LBD01440-03-3
