@@ -1,6 +1,6 @@
 # Relates to bioheating fuel requirements
 
-**Bill ID:** A7114C
+**Bill ID:** A7114CA
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to bioheating fuel requirements; allows B100 or B99 biofuel and R100 or 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7114
+  7114--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,50 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. JONES -- read once and referred to the Committee
-  on Environmental Conservation
+  on Environmental Conservation -- committee discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN ACT to amend the  environmental  conservation  law,  in  relation  to
+ AN  ACT  to  amend  the  environmental  conservation law, in relation to
   bioheating fuel requirements
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section 1. Section 19-0327 of the environmental conservation  law,  as
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  Section 19-0327 of the environmental conservation law, as
  amended by chapter 750 of the laws of 2021, paragraph (b) of subdivision
- 1  and  subdivision  9  as  amended by chapter 5 of the laws of 2022, is
+ 1 and subdivision 9 as amended by chapter 5 of  the  laws  of  2022,  is
  amended to read as follows:
  § 19-0327. Bioheating fuel requirements.
-  (1) Definitions. For the purpose of this section, the following  terms
+  (1)  Definitions. For the purpose of this section, the following terms
  shall have the following meanings:
-  (a) ["Biodiesel"] "BIOFUEL" shall mean a fuel, designated B100 OR R99,
- that  meets  the  requirements  of  the ASTM international specification
- D6751 OR THE REQUIREMENTS OF THE ASTM INTERNATIONAL SPECIFICATION D975.
-  (b) ["Renewable Hydrocarbon Diesel" shall mean a  North  American-pro-
+  (a) ["Biodiesel"] "BIOFUEL" shall mean a fuel, PRODUCED IN NORTH AMER-
+ ICA designated B100, B99, R100, OR R99, that meets the  requirements  of
+ the  ASTM  international  specification D6751 OR THE REQUIREMENTS OF THE
+ ASTM INTERNATIONAL SPECIFICATION D975. R100 OR  R99  SHALL  NOT  INCLUDE
+ CESSED  BIOMASS WITH A FEEDSTOCK THAT IS NOT BIOMASS; PROVIDED, HOWEVER,
+ THAT BIOFUEL SHALL INCLUDE R100 OR  R99  PRODUCED  FROM  HYDROPROCESSING
+ RENEWABLE BIOMASS FEEDSTOCKS.
+  (b)  ["Renewable  Hydrocarbon Diesel" shall mean a North American-pro-
  duced fuel derived from vegetable oils, animal fats, and other renewable
- feedstocks  that  meet the requirements of ASTM international specifica-
+ feedstocks that meet the requirements of ASTM  international  specifica-
  tion D975. Renewable hydrocarbon shall not include any fuel from co-pro-
  cessed biomass with a feedstock that is not biomass.
-  (c)] "Bioheating fuel" shall mean a fuel, DESIGNATED  B100,  comprised
- of [biodiesel] BIOFUEL blended with petroleum heating oil that meets the
- requirements  of  the  ASTM  international  specification  D396,  a fuel
- comprised of domestically-produced [renewable  hydrocarbon  diesel]  R99
- with  petroleum heating oil that meets the specifications of ASTM inter-
- national specification D975, or other specifications  as  determined  by
- the commissioner.
-  [(d)]  (C)  "Heating  oil"  shall  mean  petroleum oil refined for the
- purpose of use as fuel for combustion in a space  and/or  water  heating
- system  that  meets  the  requirements  of the [ATSM] ASTM international
+  (c)]  "Bioheating  fuel"  shall  mean  a fuel, DESIGNATED B100 OR B99,
+ comprised of [biodiesel] BIOFUEL PRODUCED IN NORTH AMERICA blended  with
+ petroleum  heating  oil that meets the requirements of the ASTM interna-
+ tional specification D396, a  fuel  comprised  of  domestically-produced
+ [renewable  hydrocarbon  diesel]  R100 OR R99 with petroleum heating oil
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01634-04-3
- A. 7114  2
+  LBD01634-05-3
+ A. 7114--A  2
  
+ that meets the specifications of ASTM international specification  D975,
+ or other specifications as determined by the commissioner.
+  [(d)]  (C)  "Heating  oil"  shall  mean  petroleum oil refined for the
+ purpose of use as fuel for combustion in a space  and/or  water  heating
+ system  that  meets  the  requirements  of the [ATSM] ASTM international
  specification D396 or other specifications as determined by the  commis-
  sioner.
   [(e)]  (D)  "Feedstock"  shall mean soybean oil, oil from annual cover
@@ -106,7 +111,7 @@ S T A T E  O F  N E W  Y O R K
  by this section.
   (9) No bioheating fuel shall be sold to a customer that would void the
  manufacturer's  warranty  for  that  burner  or  boiler  type unless the
- bioheat provider warranties in writing to the customer that the  use  of
- such  bioheating  fuel  will be covered to the extent and time limits of
- the warranty then covering such burner or boiler.
+ [bioheat] BIOHEATING FUEL provider warranties in writing to the customer
+ that the use of such bioheating fuel will be covered to the  extent  and
+ time limits of the warranty then covering such burner or boiler.
   § 2. This act shall take effect immediately.
