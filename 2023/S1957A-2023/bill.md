@@ -1,6 +1,6 @@
 # Relates to handicapping tournaments
 
-**Bill ID:** S1957A
+**Bill ID:** S1957AA
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Specifies who can operate a handicapping tournament; requires handicapping tourn
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1957
+  1957--A
  
   2023-2024 Regular Sessions
  
@@ -25,10 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 17, 2023
   ___________
  
- Introduced  by  Sen. ADDABBO -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Racing, Gaming and  Wager-
-  ing
- 
+ Introduced  by  Sens. ADDABBO, COMRIE -- read twice and ordered printed,
+  and when printed to be committed to the Committee  on  Racing,  Gaming
+  and  Wagering  -- reported favorably from said committee and committed
+  to the Committee on Finance --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN  ACT  to  amend the racing, pari-mutuel wagering and breeding law, in
   relation to handicapping tournaments
  
@@ -57,17 +59,25 @@ S T A T E  O F  N E W  Y O R K
  may accept an entry fee  for  a  tournament  until  the  commission  has
  approved  the  rules and the payment of prizes of a handicapping tourna-
  ment.
-  (c) The horse races which are the subject of the  tournament  must  be
- races  on  which the operator of the tournament is authorized to conduct
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04616-01-3
- S. 1957  2
+  LBD04616-02-3
+ S. 1957--A  2
  
+  (c) The horse races which are the subject of the  tournament  must  be
+ races  on  which the operator of the tournament is authorized to conduct
  wagering. [At least fifty percent of the races which are the subject  of
  the tournament must be races run in New York state.]
   3.  A  handicapping  tournament  operated  in  accordance  with  the
  provisions of this section shall be considered a contest  of  skill  and
  shall not be considered gambling.
+  4.  FIVE  PERCENT  OF THE PORTION OF THE GROSS REVENUE COLLECTED BY AN
+ OPERATOR ON HANDICAPPING TOURNAMENT ENTRY FEES  FROM  NEW  YORK  PARTIC-
+ IPANTS  THAT IS NOT DISTRIBUTED AS PRIZES TO THE WINNERS OF A TOURNAMENT
+ PURSUANT TO SUBDIVISION TWO OF THIS SECTION SHALL BE  DISTRIBUTED  QUAR-
+ TERLY  BY  SUCH OPERATOR TO THE HORSEMEN'S ORGANIZATION FOR THE ADMINIS-
+ TRATIVE PURPOSES OF SAID ORGANIZATION AND FOR SUCH WELFARE  AND  MEDICAL
+ PLANS  FOR  REGULARLY EMPLOYED BACKSTRETCH EMPLOYEES PURSUANT TO SECTION
+ THREE HUNDRED EIGHTEEN OF THIS CHAPTER.
   § 2. This act shall take effect immediately.
