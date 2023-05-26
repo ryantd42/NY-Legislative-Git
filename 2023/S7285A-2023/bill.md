@@ -1,6 +1,6 @@
 # Enacts the "village of Washingtonville deficit financing act"
 
-**Bill ID:** S7285A
+**Bill ID:** S7285AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the village of Washingtonville, Orange county, to issue serial bonds,
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7285
+  7285--A
  
   2023-2024 Regular Sessions
  
@@ -26,19 +26,21 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT in relation to enacting the "village of  Washingtonville  deficit
   financing act"
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Short title. This act shall be known and may  be  cited  as
  the "village of Washingtonville deficit financing act".
   §  2.  Bonds. The village of Washingtonville, Orange county, is hereby
  authorized to issue serial bonds, subject to the provisions  of  section
- 10.10  of  the  local  finance  law,  on or before March 31, 2024, in an
+ 10.10  of  the  local finance law, on or before November 30, 2024, in an
  aggregate principal amount not to exceed  $4,500,000  for  the  specific
  object or purpose of liquidating the accumulated deficits of the general
  fund,  water  fund,  sewer  fund and capital projects fund as of May 31,
@@ -60,17 +62,17 @@ S T A T E  O F  N E W  Y O R K
  line items. Such budgetary reports shall compare revenue  estimates  and
  appropriations  as set forth in such budget with the actual revenues and
  expenditures made to date. All such quarterly budgetary reports shall be
- accompanied by recommendations of the mayor setting forth  any  remedial
- action necessary or desirable to resolve any unfavorable budget variance
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11571-01-3
- S. 7285  2
+  LBD11571-02-3
+ S. 7285--A  2
  
+ accompanied by recommendations of the mayor setting forth  any  remedial
+ action necessary or desirable to resolve any unfavorable budget variance
  including  the  over-estimation  of revenues and the under-estimation of
- expenditures. Each such quarterly budgetary report  shall  be  completed
- within  30  days after the end of each quarter and shall be submitted to
+ expenditures.  Each  such  quarterly budgetary report shall be completed
+ within 30 days after the end of each quarter and shall be  submitted  to
  each  member of the village board of the village of Washingtonville, the
  director of the division of the budget, the state comptroller,  and  the
  chairs  of  the senate finance committee and the assembly ways and means
