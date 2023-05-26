@@ -1,6 +1,6 @@
 # Requires residents of the state, who are foreign refugees, to register with the office of temporary and disability assistance
 
-**Bill ID:** A7319A
+**Bill ID:** A7319AA
 **Session:** 2023
 **Sponsor:** Matthew Slater
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires residents of the state, who are foreign refugees, to register with the 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7319
+  7319--A
  
   2023-2024 Regular Sessions
  
@@ -31,43 +31,44 @@ S T A T E  O F  N E W  Y O R K
   HAWLEY, LEMONDES, MAHER, MANKTELOW, MCGOWAN, MIKULIN, MILLER, MORINEL-
   LO, PALMESANO, PIROZZOLO, RA, REILLY, SIMPSON, SMULLEN, SMITH,  TAGUE,
   TANNOUSIS, WALSH -- read once and referred to the Committee on Govern-
-  mental Operations
+  mental  Operations  --  committee  discharged,  bill  amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the executive law, in relation to directing the division
-  of  homeland  security  and  emergency  services  to develop a plan to
-  ensure that refugee resettlement agencies  monitor  certain  refugees;
-  and  directing  the  office  for new Americans to conduct a background
-  check on refugees; to amend the social services law,  in  relation  to
+  of homeland security and emergency  services  to  develop  a  plan  to
+  ensure  that  refugee  resettlement agencies monitor certain refugees;
+  and directing the office for new Americans  to  conduct  a  background
+  check  on  refugees;  to amend the social services law, in relation to
   requiring aliens admitted to the United States as refugees to register
-  with  the  office of temporary and disability assistance; and to amend
-  the not-for-profit corporation law, in relation to  requiring  refugee
-  resettlement  agencies  to  submit  quarterly reports to the bureau of
-  refugee and immigrant assistance and requiring such agencies to  moni-
+  with the office of temporary and disability assistance; and  to  amend
+  the  not-for-profit  corporation law, in relation to requiring refugee
+  resettlement agencies to submit quarterly reports  to  the  bureau  of
+  refugee  and immigrant assistance and requiring such agencies to moni-
   tor refugees for a certain period of time
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision 2 of  section  709  of  the  executive  law  is
+  Section  1.  Subdivision  2  of  section  709  of the executive law is
  amended by adding a new paragraph (w) is added to read as follows:
-  (W)  DEVELOP AND IMPLEMENT A PLAN TO ENSURE THAT ALL REFUGEE RESETTLE-
- MENT AGENCIES COMPLY WITH THE REQUIREMENTS OF SECTION ONE THOUSAND  FOUR
+  (W) DEVELOP AND IMPLEMENT A PLAN TO ENSURE THAT ALL REFUGEE  RESETTLE-
+ MENT  AGENCIES COMPLY WITH THE REQUIREMENTS OF SECTION ONE THOUSAND FOUR
  HUNDRED THIRTEEN OF THE NOT-FOR-PROFIT CORPORATION LAW.
-  §  2.  Paragraphs  (m) and (n) of subdivision 5 of section 94-b of the
- executive law, as added by chapter 206 of the laws of 2014, are  amended
+  § 2. Paragraphs (m) and (n) of subdivision 5 of section  94-b  of  the
+ executive  law, as added by chapter 206 of the laws of 2014, are amended
  and a new paragraph (o) is added to read as follows:
-  (m)  Encourage  and  assist  local  governments  in the development of
- activities to enhance civic engagement among immigrants and in immigrant
- communities; [and]
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11317-01-3
- A. 7319  2
+  LBD11317-02-3
+ A. 7319--A  2
  
+  (m) Encourage and assist  local  governments  in  the  development  of
+ activities to enhance civic engagement among immigrants and in immigrant
+ communities; [and]
   (n) Beginning in two thousand fifteen, by June fifteenth of each year,
- produce a report to the governor, the speaker of the assembly,  and  the
- temporary  president  of  the  senate  describing  the activities of the
+ produce  a  report to the governor, the speaker of the assembly, and the
+ temporary president of the  senate  describing  the  activities  of  the
  office, including but not limited to, summarizing calls received through
  the  hotline and website, information on ESOL training services provided
  by the office, the number of immigrants assisted through the opportunity
@@ -118,11 +119,11 @@ S T A T E  O F  N E W  Y O R K
   9. (A) THE BUREAU OF REFUGEE AND IMMIGRANT ASSISTANCE OF THE OFFICE OF
  TEMPORARY  AND  DISABILITY  ASSISTANCE  SHALL  PROVIDE TO EACH ALIEN WHO
  RESIDES IN THE STATE, AND WHO WAS ADMITTED TO THE UNITED STATES OF AMER-
+ A. 7319--A  3
+ 
  ICA AS A REFUGEE PURSUANT TO SECTION TWO HUNDRED  SEVEN  OF  THE  UNITED
  STATES  IMMIGRATION  AND  NATIONALITY  ACT  (8 U.S.C. § 1157) OR WHO WAS
  SEEKING ASYLUM PURSUANT TO SECTION TWO HUNDRED  EIGHT  OF  SUCH  ACT  (8
- A. 7319  3
- 
  U.S.C. § 1158), THAT HE OR SHE IS REQUIRED, WITHIN THIRTY DAYS OF ENTER-
  ING THE STATE, TO:
   (I)  REGISTER AS A REFUGEE WITH THE OFFICE OF TEMPORARY AND DISABILITY
@@ -171,7 +172,7 @@ S T A T E  O F  N E W  Y O R K
   (C)  MONITORING  REQUIREMENT.  EACH  REFUGEE RESETTLEMENT AGENCY SHALL
  MONITOR REFUGEES WHO HAVE REGISTERED WITH THE OFFICE  OF  TEMPORARY  AND
  DISABILITY  ASSISTANCE PURSUANT TO SUBDIVISION NINE OF SECTION TWENTY OF
- THE SOCIAL SERVICES LAW FOR A PERIOD OF ONE YEAR OR UNTIL SUCH TIME AS A
- REFUGEE IS GRANTED PERMANENT RESIDENT STATUS BY THE UNITED STATES  CITI-
- ZENSHIP AND IMMIGRATION SERVICES, WHICHEVER SHALL OCCUR FIRST.
+ THE SOCIAL SERVICES LAW UNTIL SUCH TIME AS A REFUGEE IS  GRANTED  PERMA-
+ NENT  RESIDENT  STATUS  BY THE UNITED STATES CITIZENSHIP AND IMMIGRATION
+ SERVICES.
   § 6. This act shall take effect immediately.
