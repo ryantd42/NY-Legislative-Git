@@ -1,6 +1,6 @@
 # Authorizes Seaford Fire District to file with the county of Nassau assessor an application for a retroactive real property tax exemption
 
-**Bill ID:** A5794C
+**Bill ID:** A5794CA
 **Session:** 2023
 **Sponsor:** David McDonough
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the Seaford Fire District to file with the county of Nassau assessor 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5794
+  5794--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  McDONOUGH  --  read once and referred to the
-  Committee on Real Property Taxation
+  Committee on Real Property  Taxation  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT authorizing the Seaford Fire District to receive retroactive real
   property tax exempt status
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Notwithstanding any other provision of law to the contrary,
  the assessor of the county of Nassau is hereby authorized to accept from
  the Seaford Fire District an application for exemption from real proper-
@@ -42,7 +44,7 @@ S T A T E  O F  N E W  Y O R K
  school taxes and a portion of the 2022  general  taxes  for  the  parcel
  conveyed  to  such  organization  located  at  3844 Waverly Ave, town of
  Seaford, county of Nassau, otherwise known as Nassau  county  parcel  ID
- section  57  block  156  lot  151. If accepted, the application shall be
+ section  57  block  156  lot  51.  If accepted, the application shall be
  reviewed as if it had been received on or before the taxable status date
  established for such roll.
   If satisfied that such organization would  otherwise  be  entitled  to
@@ -57,7 +59,6 @@ S T A T E  O F  N E W  Y O R K
  unpaid.
   § 2. This act shall take effect immediately.
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10255-01-3
+  LBD10255-02-3
