@@ -1,6 +1,6 @@
 # Relates to the source of tax revenues paid to the Deer Park Volunteer Exempt Firemen's Benevolent Association for fire department use and benefit
 
-**Bill ID:** S7435A
+**Bill ID:** S7435AA
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** Stricken
@@ -16,7 +16,7 @@ Relates to the source of tax revenues paid to the Deer Park Volunteer Exempt Fir
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7435
+  7435--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MATTERA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend chapter 535 of the laws of 1968 relating to the incorpo-
   ration of the Deer Park Volunteer Exempt Firemen's Benevolent  Associ-
@@ -57,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  shall also be entitled to receive a share of the tax imposed by  section
  [five  hundred  fifty-four]  9105  of  the insurance law, based upon the
  business written in the territory with respect to which it  is  entitled
- to  collect and receive the tax under section [five hundred fifty-three]
- 9104 of the insurance law. Such taxes shall only be used  for  the  care
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11510-01-3
- S. 7435  2
+  LBD11510-03-3
+ S. 7435--A  2
  
+ to  collect and receive the tax under section [five hundred fifty-three]
+ 9104 of the insurance law. [Such taxes shall only be used for  the  care
  and  relief of disabled or indigent volunteer and exempt volunteer fire-
- men and their families. SUCH TAXES SHALL ONLY BE USED BY THE CORPORATION
- IN FURTHERANCE OF ITS PURPOSES AS SET FORTH UNDER SECTION THREE OF  THIS
- ACT.
+ men  and  their  families.]  SUCH TAXES SHALL ONLY BE USED BY THE CORPO-
+ RATION IN FURTHERANCE OF ITS PURPOSES AS SET FORTH UNDER  SECTION  THREE
+ OF THIS ACT.
   § 2. This act shall take effect immediately.
