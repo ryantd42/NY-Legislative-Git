@@ -1,6 +1,6 @@
 # Relates to designating the Zone Sergeant James G. Sweeney Memorial Bridge
 
-**Bill ID:** S5362CB
+**Bill ID:** S5362CC
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in the town of East Fishkill th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5362--B
+  5362--C
   Cal. No. 693
  
   2023-2024 Regular Sessions
@@ -33,7 +33,8 @@ S T A T E  O F  N E W  Y O R K
   retaining its place in the order of second report -- reported  favora-
   bly  from said committee, amended on second report, ordered to a third
   reading, amended and ordered reprinted, retaining  its  place  in  the
-  order of third reading
+  order of third reading -- again amended and ordered reprinted, retain-
+  ing its place in the order of third reading
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the  state highway system as the "Zone Sergeant James G. Sweeney Memo-
@@ -46,11 +47,10 @@ S T A T E  O F  N E W  Y O R K
  read as follows:
   §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
  "ZONE SERGEANT JAMES G. SWEENEY MEMORIAL BRIDGE".  ALL THAT  PORTION  OF
- THE STATE HIGHWAY SYSTEM CONSTITUTING THE EASTBOUND AND WESTBOUND BRIDG-
- ES  ON INTERSTATE EIGHTY-FOUR EAST AND WEST AT THE JUNCTION OF LIME KILN
- ROAD EXITS, IN THE TOWN OF EAST FISHKILL, COUNTY OF  DUTCHESS,  CROSSING
- INTERSTATE  ROUTE EIGHTY-FOUR SHALL BE DESIGNATED AND KNOWN AS THE "ZONE
- SERGEANT JAMES G. SWEENEY MEMORIAL BRIDGE".
+ THE  STATE  HIGHWAY  SYSTEM  CONSTITUTING  THE BRIDGE ON LIME KILN ROAD,
+ CROSSING INTERSTATE ROUTE EIGHTY-FOUR IN  THE  TOWN  OF  EAST  FISHKILL,
+ COUNTY  OF DUTCHESS, SHALL BE DESIGNATED AND KNOWN AS THE "ZONE SERGEANT
+ JAMES G. SWEENEY MEMORIAL BRIDGE".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this  act.  However,  to  avoid
@@ -62,4 +62,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09095-10-3
+  LBD09095-12-3
