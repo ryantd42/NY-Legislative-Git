@@ -1,6 +1,6 @@
 # Prohibits residential landlords from charging tenants a fee for a dishonored rent check in excess of the actual costs or fees incurred by such landlord as a result thereof
 
-**Bill ID:** S2483A
+**Bill ID:** S2483AA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Senate Committee
@@ -16,7 +16,8 @@ Prohibits residential landlords from charging tenants a fee for a dishonored ren
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2483
+  2483--A
+  Cal. No. 790
  
   2023-2024 Regular Sessions
  
@@ -26,8 +27,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Judiciary
- 
+  when printed to be committed to the Committee on Judiciary -- reported
+  favorably from said committee, ordered to  first  and  second  report,
+  ordered  to  a third reading, amended and ordered reprinted, retaining
+  its place in the order of third reading
+
  AN ACT to amend the real property law and the general  obligations  law,
   in relation to prohibiting residential landlords from charging tenants
   a  fee  for  a  dishonored rent check in excess of the actual costs or
@@ -46,24 +50,24 @@ S T A T E  O F  N E W  Y O R K
   (B) NOTWITHSTANDING ANY CONTRARY PROVISION HEREIN, A LANDLORD, LESSOR,
  SUB-LESSOR  OR  GRANTOR  MAY  DEMAND  ANY PAYMENT, FEE, OR CHARGE FROM A
  TENANT FOR THE DELIVERY OF A DISHONORED CHECK ONLY IF SUCH PAYMENT, FEE,
- OR CHARGE WAS PROVIDED FOR IN THE  INITIAL  LEASE  OR  CONTRACT  BETWEEN
- LANDLORD, LESSOR, SUB-LESSOR OR GRANTOR AND THE TENANT; PROVIDED, HOWEV-
- ER, THAT SUCH PAYMENT, FEE, OR CHARGE SHALL NOT EXCEED THE ACTUAL COSTS,
- CHARGES  OR FEES INCURRED BY LANDLORD, LESSOR, SUB-LESSOR OR GRANTOR FOR
- THE RETURN OF SUCH DISHONORED CHECK OR THE AMOUNT SET FORTH IN  SUBDIVI-
- SION THREE OF SECTION 5-328 OF THE GENERAL OBLIGATIONS LAW, WHICHEVER IS
+ OR CHARGE WAS PROVIDED FOR IN THE LEASE OR  CONTRACT  BETWEEN  LANDLORD,
+ LESSOR,  SUB-LESSOR  OR  GRANTOR AND THE TENANT; PROVIDED, HOWEVER, THAT
+ SUCH PAYMENT, FEE, OR CHARGE SHALL NOT EXCEED THE ACTUAL COSTS,  CHARGES
+ OR  FEES  INCURRED  BY  LANDLORD,  LESSOR, SUB-LESSOR OR GRANTOR FOR THE
+ RETURN OF SUCH DISHONORED CHECK OR THE AMOUNT SET FORTH  IN  SUBDIVISION
+ THREE  OF  SECTION  5-328  OF  THE GENERAL OBLIGATIONS LAW, WHICHEVER IS
  LESS.
-  (C)  AS  USED  IN  THIS SUBDIVISION, "DISHONORED CHECK" SHALL HAVE THE
- SAME MEANING AS SUCH TERM IS DEFINED IN SECTION  5-328  OF  THE  GENERAL
+  (C) AS USED IN THIS SUBDIVISION, "DISHONORED  CHECK"  SHALL  HAVE  THE
+ SAME  MEANING  AS  SUCH  TERM IS DEFINED IN SECTION 5-328 OF THE GENERAL
  OBLIGATIONS LAW.
-  § 2. Subdivision 3 of section 5-328 of the general obligations law, as
- added by chapter 529 of the laws of 1995, is amended to read as follows:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03564-01-3
- S. 2483  2
+  LBD03564-02-3
+ S. 2483--A  2
  
+  § 2. Subdivision 3 of section 5-328 of the general obligations law, as
+ added by chapter 529 of the laws of 1995, is amended to read as follows:
   3.  (A) Notwithstanding any other provision of law, any person to whom
  a check, draft or like instrument, other than a money order, bank  cash-
  ier's  check  or certified check, is tendered for any transaction, other
@@ -79,8 +83,8 @@ S T A T E  O F  N E W  Y O R K
  LESSOR OR GRANTOR FOR THE RETURN OF SUCH DISHONORED CHECK OR THE  AMOUNT
  SET  FORTH  IN  PARAGRAPH  (A)  OF  THIS SUBDIVISION, WHICHEVER IS LESS,
  PROVIDED THAT SUCH DISHONORED CHECK CHARGE WAS  CONTRACTED  FOR  IN  THE
- INITIAL  LEASE  AGREEMENT  BETWEEN THE TENANT AND LANDLORD, LESSOR, SUB-
- LESSOR OR GRANTOR IN ACCORDANCE WITH  THE  REQUIREMENTS  OF  SUBDIVISION
- TWO-A OF SECTION TWO HUNDRED THIRTY-EIGHT-A OF THE REAL PROPERTY LAW.
+ LEASE  AGREEMENT  BETWEEN THE TENANT AND LANDLORD, LESSOR, SUB-LESSOR OR
+ GRANTOR IN ACCORDANCE WITH THE  REQUIREMENTS  OF  SUBDIVISION  TWO-A  OF
+ SECTION TWO HUNDRED THIRTY-EIGHT-A OF THE REAL PROPERTY LAW.
   § 3. This act shall take effect immediately and shall apply to actions
  and proceedings commenced on and after such effective date.
