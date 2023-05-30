@@ -1,6 +1,6 @@
 # Relates to securing payment of wages for work already performed; creates an employee lien
 
-**Bill ID:** S1977A
+**Bill ID:** S1977AA
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to securing payment of wages for work already performed; creates a lien 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1977
+  1977--A
  
   2023-2024 Regular Sessions
  
@@ -25,10 +25,13 @@ S T A T E  O F  N E W  Y O R K
   January 17, 2023
   ___________
  
- Introduced  by  Sens.  RAMOS,  BAILEY,  BRISPORT,  COMRIE,  GIANARIS,
-  GOUNARDES, HOYLMAN-SIGAL,  JACKSON,  KENNEDY,  KRUEGER,  LIU,  RIVERA,
-  SALAZAR, SANDERS, SEPULVEDA, STAVISKY -- read twice and ordered print-
-  ed, and when printed to be committed to the Committee on Judiciary
+ Introduced  by Sens. RAMOS, BAILEY, BRISPORT, COMRIE, FERNANDEZ, GIANAR-
+  IS, GONZALEZ, GOUNARDES, HARCKHAM,  HOYLMAN-SIGAL,  JACKSON,  KENNEDY,
+  KRUEGER,  LIU,  MYRIE,  RIVERA,  SALAZAR, SANDERS, SEPULVEDA, SERRANO,
+  STAVISKY -- read twice and ordered printed, and  when  printed  to  be
+  committed  to the Committee on Judiciary -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to  amend the lien law, in relation to employee liens; to amend
   the labor law, in relation to employee complaints; to amend the  civil
@@ -42,7 +45,7 @@ S T A T E  O F  N E W  Y O R K
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
- 
+
   Section 1. Section 2 of the lien law is amended by  adding  three  new
  subdivisions 21, 22 and 23 to read as follows:
   21.  EMPLOYEE.  THE  TERM "EMPLOYEE", WHEN USED IN THIS CHAPTER, SHALL
@@ -56,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  TERM "EMPLOYER" SHALL NOT INCLUDE A GOVERNMENTAL AGENCY.
   23. WAGE CLAIM. THE TERM "WAGE CLAIM",  WHEN  USED  IN  THIS  CHAPTER,
  MEANS  A  CLAIM THAT AN EMPLOYEE HAS SUFFERED A VIOLATION OF SECTION ONE
- HUNDRED SEVENTY, ONE HUNDRED NINETY-THREE, ONE HUNDRED NINETY-SIX-D, SIX
- HUNDRED FIFTY-TWO OR SIX HUNDRED SEVENTY-THREE OF THE LABOR LAW  OR  THE
- RELATED  REGULATIONS  AND WAGE ORDERS PROMULGATED BY THE COMMISSIONER, A
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00720-01-3
- S. 1977  2
+  LBD00720-02-3
+ S. 1977--A  2
  
- CLAIM FOR WAGES DUE TO AN EMPLOYEE PURSUANT TO  AN  EMPLOYMENT  CONTRACT
- THAT  WERE  UNPAID  IN  VIOLATION  OF  THAT CONTRACT, OR A CLAIM THAT AN
+ HUNDRED SEVENTY, ONE HUNDRED NINETY-THREE, ONE HUNDRED NINETY-SIX-D, SIX
+ HUNDRED FIFTY-TWO OR SIX HUNDRED SEVENTY-THREE OF THE LABOR LAW  OR  THE
+ RELATED  REGULATIONS  AND WAGE ORDERS PROMULGATED BY THE COMMISSIONER, A
+ CLAIM  FOR  WAGES  DUE TO AN EMPLOYEE PURSUANT TO AN EMPLOYMENT CONTRACT
+ THAT WERE UNPAID IN VIOLATION OF THAT  CONTRACT,  OR  A  CLAIM  THAT  AN
  EMPLOYEE HAS SUFFERED A VIOLATION OF 29 U.S.C. § 206 OR 207.
   §  2. Section 3 of the lien law, as amended by chapter 137 of the laws
  of 1985, is amended to read as follows:
@@ -93,39 +96,42 @@ S T A T E  O F  N E W  Y O R K
  delivered  to  the  real  property, shall also be deemed to be materials
  furnished.
   2. EMPLOYEE'S LIEN. AN EMPLOYEE WHO HAS A WAGE CLAIM AS THAT  TERM  IS
- DEFINED IN SUBDIVISION TWENTY-THREE OF SECTION TWO OF THIS CHAPTER SHALL
- HAVE  A LIEN ON HIS OR HER EMPLOYER'S INTEREST IN PROPERTY FOR THE VALUE
- OF THAT EMPLOYEE'S WAGE CLAIM ARISING OUT OF THE  EMPLOYMENT,  INCLUDING
- LIQUIDATED  DAMAGES PURSUANT TO SUBDIVISION ONE-A OF SECTION ONE HUNDRED
- NINETY-EIGHT, SECTION SIX HUNDRED SIXTY-THREE  OR  SECTION  SIX  HUNDRED
- EIGHTY-ONE  OF  THE  LABOR LAW, OR 29 U.S.C. § 216 (B), FROM THE TIME OF
- FILING A NOTICE OF SUCH LIEN AS PRESCRIBED IN THIS CHAPTER.  AN  EMPLOY-
- EE'S LIEN BASED ON A WAGE CLAIM MAY BE HAD AGAINST THE EMPLOYER'S INTER-
- EST  IN  REAL  PROPERTY  AND AGAINST THE EMPLOYER'S INTEREST IN PERSONAL
- PROPERTY THAT CAN  BE  SUFFICIENTLY  DESCRIBED  WITHIN  THE  MEANING  OF
- SECTION  9-108 OF THE UNIFORM COMMERCIAL CODE, EXCEPT THAT AN EMPLOYEE'S
- LIEN SHALL NOT EXTEND TO DEPOSIT ACCOUNTS OR GOODS AS  THOSE  TERMS  ARE
- DEFINED IN SECTION 9-102 OF THE UNIFORM COMMERCIAL CODE.  THE DEPARTMENT
- OF  LABOR AND THE ATTORNEY GENERAL MAY OBTAIN AN EMPLOYEE'S LIEN FOR THE
- VALUE OF WAGE CLAIMS OF THE EMPLOYEES  WHO  ARE  THE  SUBJECT  OF  THEIR
- INVESTIGATIONS, COURT ACTIONS OR ADMINISTRATIVE AGENCY ACTIONS.
-  3.  AS  USED  IN  THIS  ARTICLE AND UNLESS OTHERWISE SPECIFIED, A LIEN
+ DEFINED  IN  SUBDIVISION TWENTY-THREE OF SECTION TWO OF THIS CHAPTER OR,
+ IN THE CASE OF AN EMPLOYEE  WHOSE  WAGE  CLAIM  ORIGINATES  FROM  OR  IS
+ COVERED  BY  A  COLLECTIVE  BARGAINING  AGREEMENT, HIS OR HER AUTHORIZED
+ BARGAINING REPRESENTATIVE ON BEHALF OF SUCH EMPLOYEE, SHALL HAVE A  LIEN
+ ON  HIS  OR  HER  EMPLOYER'S  INTEREST IN PROPERTY FOR THE VALUE OF THAT
+ EMPLOYEE'S WAGE CLAIM ARISING OUT OF THE  EMPLOYMENT,  INCLUDING  LIQUI-
+ DATED DAMAGES PURSUANT TO SUBDIVISION ONE-A OF SECTION ONE HUNDRED NINE-
+ TY-EIGHT,  SECTION SIX HUNDRED SIXTY-THREE OR SECTION SIX HUNDRED EIGHT-
+ Y-ONE OF THE LABOR LAW, OR 29 U.S.C. § 216 (B), FROM THE TIME OF  FILING
+ A  NOTICE OF SUCH LIEN AS PRESCRIBED IN THIS CHAPTER. AN EMPLOYEE'S LIEN
+ BASED ON A WAGE CLAIM MAY BE HAD AGAINST THE EMPLOYER'S INTEREST IN REAL
+ PROPERTY AND AGAINST THE EMPLOYER'S INTEREST IN PERSONAL  PROPERTY  THAT
+ CAN BE SUFFICIENTLY DESCRIBED WITHIN THE MEANING OF SECTION 9-108 OF THE
+ UNIFORM COMMERCIAL CODE, EXCEPT THAT AN EMPLOYEE'S LIEN SHALL NOT EXTEND
+ TO DEPOSIT ACCOUNTS OR GOODS AS THOSE TERMS ARE DEFINED IN SECTION 9-102
+ OF  THE UNIFORM COMMERCIAL CODE.  THE DEPARTMENT OF LABOR AND THE ATTOR-
+ NEY GENERAL MAY OBTAIN AN EMPLOYEE'S LIEN FOR THE VALUE OF  WAGE  CLAIMS
+ OF  THE  EMPLOYEES  WHO  ARE  THE SUBJECT OF THEIR INVESTIGATIONS, COURT
+ ACTIONS OR ADMINISTRATIVE AGENCY ACTIONS.
+  3. AS USED IN THIS ARTICLE AND  UNLESS  OTHERWISE  SPECIFIED,  A  LIEN
  SHALL MEAN AN EMPLOYEE'S LIEN OR A MECHANIC'S LIEN.
-  § 3. Subdivisions 1 and 2 of section 4 of the lien law, subdivision  1
+  §  3. Subdivisions 1 and 2 of section 4 of the lien law, subdivision 1
  as amended by chapter 515 of the laws of 1929 and subdivision 2 as added
  by chapter 704 of the laws of 1985, are amended to read as follows:
-  (1) [Such] A MECHANIC'S OR EMPLOYEE'S lien AND EMPLOYEE'S LIEN AGAINST
- REAL  PROPERTY  shall  extend to the owner's right, title or interest in
- the real property and improvements, existing at the time of  filing  the
- notice  of  lien,  or thereafter acquired, except as hereinafter in this
- article provided. If an owner assigns his OR HER interest in  such  real
- property  by  a  general assignment for the benefit of creditors, within
- thirty days prior to such filing, the lien shall extend to the  interest
- S. 1977  3
+ S. 1977--A  3
  
- thus  assigned.  If any part of the real property subjected to such lien
- be removed by the owner or by any other person, at any time  before  the
- discharge  thereof,  such  removal  shall  not  affect the rights of the
+  (1) [Such] A MECHANIC'S OR EMPLOYEE'S lien AND EMPLOYEE'S LIEN AGAINST
+ REAL PROPERTY shall extend to the owner's right, title  or  interest  in
+ the  real  property and improvements, existing at the time of filing the
+ notice of lien, or thereafter acquired, except as  hereinafter  in  this
+ article  provided.  If an owner assigns his OR HER interest in such real
+ property by a general assignment for the benefit  of  creditors,  within
+ thirty  days prior to such filing, the lien shall extend to the interest
+ thus assigned. If any part of the real property subjected to  such  lien
+ be  removed  by the owner or by any other person, at any time before the
+ discharge thereof, such removal shall  not  affect  the  rights  of  the
  lienor, either in respect to the remaining real property, or the part so
  removed.  If  labor  is  performed  for,  or  materials  furnished to, a
  contractor or subcontractor for  an  improvement,  the  MECHANIC'S  lien
@@ -170,21 +176,21 @@ S T A T E  O F  N E W  Y O R K
  such firm, or corporation, the names of partners and principal place  of
  business,  and if a foreign corporation, its principal place of business
  within the state.
+ S. 1977--A  4
+ 
   2. The name of the owner of the [real] property against whose interest
  therein a lien is claimed, and the interest of the owner as far as known
  to the lienor.
   5. The amount unpaid to the lienor for such labor or materials, OR THE
- AMOUNT OF THE WAGE CLAIM IF A WAGE CLAIM IS THE BASIS FOR  ESTABLISHMENT
- OF  THE  LIEN,  THE  ITEMS OF THE WAGE CLAIM AND THE VALUE THEREOF WHICH
+ AMOUNT  OF THE WAGE CLAIM IF A WAGE CLAIM IS THE BASIS FOR ESTABLISHMENT
+ OF THE LIEN, THE ITEMS OF THE WAGE CLAIM AND  THE  VALUE  THEREOF  WHICH
  MAKE UP THE AMOUNT FOR WHICH THE LIENOR CLAIMS A LIEN.
-  § 6. Subdivision 1 of section 10 of the lien law, as amended by  chap-
+  §  6. Subdivision 1 of section 10 of the lien law, as amended by chap-
  ter 367 of the laws of 2011, is amended to read as follows:
- S. 1977  4
- 
-  1.  (A)  Notice of MECHANIC'S lien may be filed at any time during the
- progress of the work and the furnishing of  the  materials,  or,  within
+  1. (A) Notice of MECHANIC'S lien may be filed at any time  during  the
+ progress  of  the  work  and the furnishing of the materials, or, within
  eight months after the completion of the contract, or the final perform-
- ance  of the work, or the final furnishing of the materials, dating from
+ ance of the work, or the final furnishing of the materials, dating  from
  the last item of work performed or materials furnished; provided, howev-
  er,  that  where the improvement is related to real property improved or
  to be improved with a single family dwelling, the notice  of  MECHANIC'S
@@ -228,6 +234,8 @@ S T A T E  O F  N E W  Y O R K
  date,  hour  and  minute  of  the filing of each notice of lien shall be
  entered in the proper column. Except where the county clerk maintains  a
  block  index,  the names of the owners shall be arranged in such book in
+ S. 1977--A  5
+ 
  alphabetical order. The validity of the lien and the  right  to  file  a
  notice  thereof  shall  not be affected by the death of the owner before
  notice of the lien is filed.  A NOTICE OF EMPLOYEE'S  LIEN  ON  PERSONAL
@@ -236,8 +244,6 @@ S T A T E  O F  N E W  Y O R K
  CODE.
   § 7. Section 11 of the lien law, as amended by chapter 147 of the laws
  of 1996, is amended to read as follows:
- S. 1977  5
- 
   §  11.  Service of copy of notice of lien.  1. Within five days before
  or thirty days after filing the notice of A MECHANIC'S lien, the  lienor
  shall  serve  a copy of such notice upon the owner, if a natural person,
@@ -286,37 +292,37 @@ S T A T E  O F  N E W  Y O R K
  THEREOF CONSPICUOUSLY ON SUCH PROPERTY BETWEEN THE HOURS OF NINE O'CLOCK
  IN  THE  FORENOON  AND FOUR O'CLOCK IN THE AFTERNOON, OR (III) BY REGIS-
  TERED OR CERTIFIED MAIL ADDRESSED TO ITS LAST KNOWN PLACE  OF  BUSINESS,
+ S. 1977--A  6
+ 
  OR  (IV)  BY DELIVERY TO THE SECRETARY OF THE DEPARTMENT OF STATE IN THE
  SAME MANNER AS REQUIRED BY SUBPARAGRAPH ONE OF PARAGRAPH (B) OF  SECTION
  THREE  HUNDRED  SIX  OF  THE BUSINESS CORPORATION LAW.  FAILURE TO FILE
- PROOF OF SUCH A SERVICE WITH THE COUNTY CLERK  WITHIN  THIRTY-FIVE  DAYS
- AFTER  THE NOTICE OF LIEN IS FILED SHALL TERMINATE THE NOTICE AS A LIEN.
- UNTIL SERVICE OF THE NOTICE HAS BEEN MADE, AS ABOVE PROVIDED, AN  OWNER,
+ PROOF  OF  SUCH  A SERVICE WITH THE COUNTY CLERK WITHIN THIRTY-FIVE DAYS
+ AFTER THE NOTICE OF LIEN IS FILED SHALL TERMINATE THE NOTICE AS A  LIEN.
+ UNTIL  SERVICE OF THE NOTICE HAS BEEN MADE, AS ABOVE PROVIDED, AN OWNER,
  WITHOUT KNOWLEDGE OF THE LIEN, SHALL BE PROTECTED IN ANY PAYMENT MADE IN
  GOOD FAITH TO ANY OTHER PERSON CLAIMING A LIEN.
- S. 1977  6
- 
-  §  8.  Section  11-b of the lien law, as amended by chapter 147 of the
+  § 8. Section 11-b of the lien law, as amended by chapter  147  of  the
  laws of 1996, is amended to read as follows:
   §  11-b.  Copy of notice of MECHANIC'S lien to a contractor or subcon-
  tractor.  Within five days before or thirty days after filing  a  notice
- of MECHANIC'S lien in accordance with section ten of this chapter or the
- filing  of  an amendment of notice of MECHANIC'S lien in accordance with
- section twelve-a of this [chapter] ARTICLE the lienor shall serve a copy
- of such notice or amendment by certified mail on the contractor, subcon-
- tractor, assignee or  legal  representative  for  whom  he  OR  SHE  was
- employed  or to whom he OR SHE furnished materials or if the lienor is a
- contractor or subcontractor to the person, firm or corporation with whom
- the contract was made. A lienor having a direct contractual relationship
- with a subcontractor or a sub-subcontractor but not  with  a  contractor
- shall also serve a copy of such notice or amendment by certified mail to
- the  contractor. Failure to file proof of such a service with the county
- clerk within thirty-five days after the notice of lien  is  filed  shall
- terminate the notice as a lien. Any lienor, or a person acting on behalf
- of  a lienor, who fails to serve a copy of the notice of MECHANIC'S lien
- as required by this section shall be liable  for  reasonable  attorney's
- fees,  costs  and  expenses,  as  determined  by  the court, incurred in
- obtaining such copy.
+ of  MECHANIC'S  lien  in  accordance  with section ten of this [chapter]
+ ARTICLE or the filing of an amendment of notice of  MECHANIC'S  lien  in
+ accordance  with  section  twelve-a of this [chapter] ARTICLE the lienor
+ shall serve a copy of such notice or amendment by certified mail on  the
+ contractor,  subcontractor, assignee or legal representative for whom he
+ OR SHE was employed or to whom he OR SHE furnished materials or  if  the
+ lienor  is  a  contractor or subcontractor to the person, firm or corpo-
+ ration with whom the  contract  was  made.  A  lienor  having  a  direct
+ contractual relationship with a subcontractor or a sub-subcontractor but
+ not  with  a contractor shall also serve a copy of such notice or amend-
+ ment by certified mail to the contractor. Failure to file proof of  such
+ a service with the county clerk within thirty-five days after the notice
+ of  lien is filed shall terminate the notice as a lien. Any lienor, or a
+ person acting on behalf of a lienor, who fails to serve a  copy  of  the
+ notice  of  MECHANIC'S  lien as required by this section shall be liable
+ for reasonable attorney's fees, costs and expenses, as determined by the
+ court, incurred in obtaining such copy.
   § 9. Subdivision 1 of section 12-a of the  lien  law,  as  amended  by
  chapter 1048 of the laws of 1971, is amended to read as follows:
   1. Within sixty days after the original filing, a lienor may amend his
@@ -344,6 +350,8 @@ S T A T E  O F  N E W  Y O R K
  and over any claim or lien acquired in any proceedings upon  such  judg-
  ment.  Such  liens  shall  also  have priority over advances made upon a
  contract by an owner for an improvement of real property which  contains
+ S. 1977--A  7
+ 
  an option to the contractor, his OR HER successor or assigns to purchase
  the  property,  if such advances were made after the time when the labor
  began or the first item of material was  furnished,  as  stated  in  the
@@ -352,66 +360,64 @@ S T A T E  O F  N E W  Y O R K
  under one contract, and there are conflicting liens thereon, each lienor
  shall have priority upon the particular part of  the  real  property  or
  upon  the  particular  building  or  premises  where his OR HER labor is
- S. 1977  7
- 
  performed or his OR HER materials are used. Persons shall have no prior-
  ity on account of the time of filing their respective notices of  liens,
  but  all  liens  shall  be  on a parity except as hereinafter in section
- fifty-six  of this chapter provided; and except that in all cases labor-
+ fifty-six of this chapter provided; and except that in all cases  labor-
  ers for daily or weekly wages WITH A MECHANIC'S LIEN, AND EMPLOYEES WITH
  AN EMPLOYEE'S LIEN, shall have preference over all other claimants under
  this article.
-  § 11. Section 17 of the lien law, as amended by  chapter  324  of  the
+  §  11.  Section  17  of the lien law, as amended by chapter 324 of the
  laws of 2000, is amended to read as follows:
-  §  17.  Duration  of lien. 1. (A) No MECHANIC'S lien specified in this
- article shall be a lien for a longer period  than  one  year  after  the
- notice  of  lien  has  been  filed, unless within that time an action is
- commenced to foreclose the lien, and a notice of the  pendency  of  such
- action,  whether  in  a  court of record or in a court not of record, is
+  § 17. Duration of lien. 1. (A) No MECHANIC'S lien  specified  in  this
+ article  shall  be  a  lien  for a longer period than one year after the
+ notice of lien has been filed, unless within  that  time  an  action  is
+ commenced  to  foreclose  the lien, and a notice of the pendency of such
+ action, whether in a court of record or in a court  not  of  record,  is
  filed with the county clerk of the county in which the notice of lien is
- filed, containing the names of the parties to the action, the object  of
- the  action,  a brief description of the real property affected thereby,
- and the time of filing the notice of lien; or  unless  an  extension  to
+ filed,  containing the names of the parties to the action, the object of
+ the action, a brief description of the real property  affected  thereby,
+ and  the  time  of  filing the notice of lien; or unless an extension to
  such lien, except for a lien on real property improved or to be improved
- with  a  single  family  dwelling, is filed with the county clerk of the
- county in which the notice of lien is filed within  one  year  from  the
- filing  of  the  original  notice of lien, continuing such lien and such
- lien shall be redocketed as of the date of filing such  extension.  Such
- extension  shall  contain  the  names of the lienor and the owner of the
- real property against whose interest therein such  lien  is  claimed,  a
+ with a single family dwelling, is filed with the  county  clerk  of  the
+ county  in  which  the  notice of lien is filed within one year from the
+ filing of the original notice of lien, continuing  such  lien  and  such
+ lien  shall  be redocketed as of the date of filing such extension. Such
+ extension shall contain the names of the lienor and  the  owner  of  the
+ real  property  against  whose  interest therein such lien is claimed, a
  brief description of the real property affected by such lien, the amount
- of  such  lien, and the date of filing the notice of lien. No lien shall
- be continued by such extension for more than one year  from  the  filing
- thereof.  In  the event an action is not commenced to foreclose the lien
- within such extended period, such lien shall be extinguished  unless  an
- order  be  granted  by  a court of record or a judge or justice thereof,
- continuing such lien, and such lien shall be redocketed as of  the  date
- of  granting such order and a statement made that such lien is continued
- by virtue of such order. A lien on  real  property  improved  or  to  be
- improved  with a single family dwelling may only be extended by an order
- of a court of record, or a judge or justice thereof. No  lien  shall  be
+ of such lien, and the date of filing the notice of lien. No  lien  shall
+ be  continued  by  such extension for more than one year from the filing
+ thereof. In the event an action is not commenced to foreclose  the  lien
+ within  such  extended period, such lien shall be extinguished unless an
+ order be granted by a court of record or a  judge  or  justice  thereof,
+ continuing  such  lien, and such lien shall be redocketed as of the date
+ of granting such order and a statement made that such lien is  continued
+ by  virtue  of  such  order.  A  lien on real property improved or to be
+ improved with a single family dwelling may only be extended by an  order
+ of  a  court  of record, or a judge or justice thereof. No lien shall be
  continued by court order for more than one year from the granting there-
- of,  but  a  new  order  and entry may be made in each of two successive
- years. If a lienor is made a party defendant in  an  action  to  enforce
- another  lien, and the plaintiff or such defendant has filed a notice of
- the pendency of the action within the time prescribed in  this  section,
- the  lien  of  such defendant is thereby continued. Such action shall be
+ of, but a new order and entry may be made  in  each  of  two  successive
+ years.  If  a  lienor  is made a party defendant in an action to enforce
+ another lien, and the plaintiff or such defendant has filed a notice  of
+ the  pendency  of the action within the time prescribed in this section,
+ the lien of such defendant is thereby continued. Such  action  shall  be
  deemed an action to enforce the lien of such defendant lienor. The fail-
  ure to file a notice of pendency of action shall not abate the action as
  to any person liable for the payment of the debt specified in the notice
- of lien, and the action may  be  prosecuted  to  judgment  against  such
- person.  The  provisions  of  this section in regard to continuing liens
- shall apply to liens discharged by deposit or by order on the filing  of
- an  undertaking.  Where  a  lien is discharged by deposit or by order, a
+ of  lien,  and  the  action  may  be prosecuted to judgment against such
+ person. The provisions of this section in  regard  to  continuing  liens
+ shall  apply to liens discharged by deposit or by order on the filing of
+ S. 1977--A  8
+ 
+ an undertaking. Where a lien is discharged by deposit  or  by  order,  a
  notice of pendency of action shall not be filed.
   (B) A lien, the duration of which has been extended by the filing of a
- notice of the pendency of an action as above provided,  shall  neverthe-
+ notice  of  the pendency of an action as above provided, shall neverthe-
  less terminate as a lien after such notice has been canceled as provided
- in  section  sixty-five  hundred  fourteen of the civil practice law and
- rules or has ceased to be effective as constructive notice  as  provided
- S. 1977  8
- 
- in  section  sixty-five  hundred  thirteen of the civil practice law and
+ in section sixty-five hundred fourteen of the  civil  practice  law  and
+ rules  or  has ceased to be effective as constructive notice as provided
+ in section sixty-five hundred thirteen of the  civil  practice  law  and
  rules.
   2. (A) NO EMPLOYEE'S LIEN ON REAL PROPERTY SHALL BE A LIEN FOR A LONG-
  ER  PERIOD THAN ONE YEAR AFTER THE NOTICE OF LIEN HAS BEEN FILED, UNLESS
@@ -459,19 +465,19 @@ S T A T E  O F  N E W  Y O R K
  SHALL APPLY TO LIENS DISCHARGED BY DEPOSIT OR BY ORDER ON THE FILING  OF
  AN  UNDERTAKING.  WHERE  A  LIEN IS DISCHARGED BY DEPOSIT OR BY ORDER, A
  NOTICE OF PENDENCY OF ACTION SHALL NOT BE FILED.
+ S. 1977--A  9
+ 
   (D) NOTWITHSTANDING THE FOREGOING, IF A LIENOR COMMENCES A FORECLOSURE
  ACTION OR AN ACTION TO OBTAIN A JUDGMENT ON THE WAGE  CLAIM  WITHIN  ONE
  YEAR  FROM  THE  FILING  OF  THE  NOTICE OF LIEN ON REAL PROPERTY OR THE
  RECORDING OF THE FINANCING STATEMENT CREATING LIEN ON PERSONAL PROPERTY,
  THE LIEN SHALL BE EXTENDED DURING THE PENDENCY OF THE ACTION AND FOR ONE
- HUNDRED TWENTY DAYS FOLLOWING  THE  ENTRY  OF  FINAL  JUDGMENT  IN  SUCH
- ACTION,  UNLESS THE ACTION RESULTS IN A FINAL JUDGMENT OR ADMINISTRATIVE
- ORDER IN THE LIENOR'S FAVOR ON THE WAGE CLAIMS AND THE LIENOR  COMMENCES
- S. 1977  9
-
- A  FORECLOSURE  ACTION, IN WHICH INSTANCE THE LIEN SHALL BE VALID DURING
- THE PENDENCY OF THE FORECLOSURE ACTION, PROVIDED, THAT THE LIEN WILL  BE
- AUTOMATICALLY  EXTINGUISHED  IF, AFTER A DISMISSAL WITH PREJUDICE OF THE
+ HUNDRED  TWENTY  DAYS  FOLLOWING  THE  ENTRY  OF  FINAL JUDGMENT IN SUCH
+ ACTION, UNLESS THE ACTION RESULTS IN A FINAL JUDGMENT OR  ADMINISTRATIVE
+ ORDER  IN THE LIENOR'S FAVOR ON THE WAGE CLAIMS AND THE LIENOR COMMENCES
+ A FORECLOSURE ACTION, IN WHICH INSTANCE THE LIEN SHALL BE  VALID  DURING
+ THE  PENDENCY OF THE FORECLOSURE ACTION, PROVIDED, THAT THE LIEN WILL BE
+ AUTOMATICALLY EXTINGUISHED IF, AFTER A DISMISSAL WITH PREJUDICE  OF  THE
  WAGE  CLAIMS  ON WHICH IT IS BASED, THE LIENOR FAILS TO FILE A NOTICE OF
  APPEAL WITHIN THE PRESCRIBED PERIOD TO FILE A NOTICE OF APPEAL.  IF  A
  LIEN  IS  EXTENDED  DUE  TO  THE  PENDENCY OF A FORECLOSURE ACTION OR AN
@@ -516,6 +522,8 @@ S T A T E  O F  N E W  Y O R K
   (4) Either before or after the beginning of an action by the EMPLOYER,
  owner or contractor executing a bond or undertaking in an  amount  equal
  to  one  hundred ten percent of such lien conditioned for the payment of
+ S. 1977--A  10
+ 
  any judgment which may be rendered against the property OR EMPLOYER  for
  the enforcement of the lien:
   a.  The  execution  of any such bond or undertaking by any fidelity or
@@ -525,8 +533,6 @@ S T A T E  O F  N E W  Y O R K
  provisions  of  section one thousand one hundred eleven of the insurance
  law, and has not been revoked, no justification or notice thereof  shall
  be  necessary. Any such company may execute any such bond or undertaking
- S. 1977  10
- 
  as surety by the hand of its  officers,  or  attorney,  duly  authorized
  thereto  by  resolution  of  its board of directors, a certified copy of
  which resolution, under the seal of said company, shall  be  filed  with
@@ -574,16 +580,16 @@ S T A T E  O F  N E W  Y O R K
  lienor at the mailing address contained in the notice of lien.
   d. Except as otherwise provided in this subdivision, the provisions of
  article  twenty-five  of  the  civil  practice  law and rules regulating
+ S. 1977--A  11
+ 
  undertakings is applicable to  a  bond  or  undertaking  given  for  the
  discharge  of a lien on account of private improvements OR OF AN EMPLOY-
  EE'S LIEN.
-  § 13. Section 24 of the lien law, as amended by  chapter  515  of  the
+  §  13.  Section  24  of the lien law, as amended by chapter 515 of the
  laws of 1929, is amended to read as follows:
-  §  24.  Enforcement  of  [mechanic's]  lien.  (1)  REAL  PROPERTY. The
- [mechanics'] liens ON REAL PROPERTY specified in  this  article  may  be
- enforced  against the property specified in the notice of lien and which
- S. 1977  11
- 
+  § 24.  Enforcement  of  [mechanic's]  lien.  (1)  REAL  PROPERTY.  The
+ [mechanics']  liens  ON  REAL  PROPERTY specified in this article may be
+ enforced against the property specified in the notice of lien and  which
  is subject thereto and against any person liable for the debt upon which
  the lien is founded, as prescribed in article three of this chapter.
   (2)  PERSONAL PROPERTY. AN EMPLOYEE'S LIEN ON PERSONAL PROPERTY SPECI-
@@ -632,16 +638,16 @@ S T A T E  O F  N E W  Y O R K
  such assignment. The provisions of this section shall apply to all bonds
  and mortgages and notes and mortgages and all assignments of moneys due,
  or  to  become due under building loan contracts executed by such owner,
+ S. 1977--A  12
+ 
  in like manner, and recorded or filed, from time to time as hereinbefore
  provided. In case of an assignment to trustees under the  provisions  of
  this  section,  the trustees and their successors shall be the agents of
  the assignor to receive and receipt for any and all sums advanced by the
- holder of the building loan bond and mortgage or the building loan  note
- and  mortgage  under  the building loan contract and such assignment. No
- lienor shall have any priority over the bond and mortgage  or  note  and
- mortgage  given to secure the money agreed to be advanced under a build-
- S. 1977  12
- 
+ holder  of the building loan bond and mortgage or the building loan note
+ and mortgage under the building loan contract and  such  assignment.  No
+ lienor  shall  have  any priority over the bond and mortgage or note and
+ mortgage given to secure the money agreed to be advanced under a  build-
  ing loan contract or over the advances made thereunder, by reason of any
  act preceding the making and approval of such assignment.
   §  15.  Section  38  of the lien law, as amended by chapter 859 of the
@@ -690,74 +696,74 @@ S T A T E  O F  N E W  Y O R K
   §  39-a.  Liability  of  lienor  where  lien has been declared void on
  account of wilful exaggeration. Where in any  action  or  proceeding  to
  enforce  a  mechanic's  lien  upon a private or public improvement OR AN
+ S. 1977--A  13
+ 
  EMPLOYEE'S LIEN the court shall have declared said lien to  be  void  on
  account  of  wilful  exaggeration  the person filing such notice of lien
  shall be liable in damages to the owner or contractor. The damages which
  said owner or contractor shall be entitled to recover, shall include the
- amount of any premium for a bond given to obtain the  discharge  of  the
+ amount  of  any  premium for a bond given to obtain the discharge of the
  lien or the interest on any money deposited for the purpose of discharg-
- ing  the  lien,  reasonable attorney's fees for services in securing the
- discharge of the lien, and, IN AN ACTION  OR  PROCEEDING  TO  ENFORCE  A
- S. 1977  13
- 
- MECHANIC'S  LIEN,  an amount equal to the difference by which the amount
- claimed to be due or to become due as  stated  in  the  notice  of  lien
+ ing the lien, reasonable attorney's fees for services  in  securing  the
+ discharge  of  the  lien,  and,  IN AN ACTION OR PROCEEDING TO ENFORCE A
+ MECHANIC'S LIEN, an amount equal to the difference by which  the  amount
+ claimed  to  be  due  or  to  become due as stated in the notice of lien
  exceeded the amount actually due or to become due thereon.
-  §  18.  Section  40  of the lien law, as amended by chapter 515 of the
+  § 18. Section 40 of the lien law, as amended by  chapter  515  of  the
  laws of 1929, is amended to read as follows:
-  § 40. Construction of article. This article  is  to  be  construed  in
- connection  with  article  two of this chapter, and provides proceedings
- for the enforcement of EMPLOYEE'S LIENS ON REAL  PROPERTY,  AS  WELL  AS
- liens  for labor performed and materials furnished in the improvement of
+  §  40.  Construction  of  article.  This article is to be construed in
+ connection with article two of this chapter,  and  provides  proceedings
+ for  the  enforcement  of  EMPLOYEE'S LIENS ON REAL PROPERTY, AS WELL AS
+ liens for labor performed and materials furnished in the improvement  of
  real property, created by virtue of such article.
-  § 19. Section 41 of the lien law, as amended by  chapter  807  of  the
+  §  19.  Section  41  of the lien law, as amended by chapter 807 of the
  laws of 1952, is amended to read as follows:
   § 41. Enforcement of mechanic's OR EMPLOYEE'S lien on real property. A
- mechanic's  lien  OR  EMPLOYEE'S  LIEN  on real property may be enforced
- against such property, and against a person liable  for  the  debt  upon
- which  the  lien  is  founded,  by  an action, by the lienor, his OR HER
- assignee or legal representative, in the supreme court or  in  a  county
- court  otherwise  having  jurisdiction, regardless of the amount of such
- debt, or in a court which has jurisdiction in an  action  founded  on  a
+ mechanic's lien OR EMPLOYEE'S LIEN on  real  property  may  be  enforced
+ against  such  property,  and  against a person liable for the debt upon
+ which the lien is founded, by an action,  by  the  lienor,  his  OR  HER
+ assignee  or  legal  representative, in the supreme court or in a county
+ court otherwise having jurisdiction, regardless of the  amount  of  such
+ debt,  or  in  a  court which has jurisdiction in an action founded on a
  contract for a sum of money equivalent to the amount of such debt.
-  §  20.  Section  43  of the lien law, as amended by chapter 310 of the
+  § 20. Section 43 of the lien law, as amended by  chapter  310  of  the
  laws of 1962, is amended to read as follows:
-  § 43. Action in a court  of  record;  consolidation  of  actions.  The
- provisions  of the real property actions and proceedings law relating to
- actions for the foreclosure of a mortgage upon real  property,  and  the
- sale  and the distribution of the proceeds thereof apply to actions in a
- court of record, to enforce mechanics' liens  AND  EMPLOYEES'  LIENS  on
- real  property, except as otherwise provided in this article. If actions
- are brought by different lienors in a court  of  record,  the  court  in
- which  the  first  action was brought, may, upon its own motion, or upon
- the application of any party in any of such actions, consolidate all  of
+  §  43.  Action  in  a  court  of record; consolidation of actions. The
+ provisions of the real property actions and proceedings law relating  to
+ actions  for  the  foreclosure of a mortgage upon real property, and the
+ sale and the distribution of the proceeds thereof apply to actions in  a
+ court  of  record,  to  enforce mechanics' liens AND EMPLOYEES' LIENS on
+ real property, except as otherwise provided in this article. If  actions
+ are  brought  by  different  lienors  in a court of record, the court in
+ which the first action was brought, may, upon its own  motion,  or  upon
+ the  application of any party in any of such actions, consolidate all of
  such actions.
-  §  21.  Section  46  of the lien law, as amended by chapter 515 of the
+  § 21. Section 46 of the lien law, as amended by  chapter  515  of  the
  laws of 1929, is amended to read as follows:
-  § 46. Action in a court not of record.  If  an  action  to  enforce  a
+  §  46.  Action  in  a  court  not of record. If an action to enforce a
  mechanic's lien OR EMPLOYEE'S LIEN against real property is brought in a
- court  not of record, it shall be commenced by the personal service upon
- the owner of a summons and complaint verified in the same  manner  as  a
- complaint  in  an  action  in  a court of record. The complaint must set
- forth substantially the facts contained in the notice of lien,  and  the
- substance  of  the  agreement under which the labor was performed or the
- materials were furnished, OR IF THE LIEN IS BASED UPON A WAGE  CLAIM  AS
- DEFINED  IN  SECTION TWO OF THIS CHAPTER, THE BASIS FOR SUCH WAGE CLAIM.
- The form and contents of the summons shall be the same  as  provided  by
+ court not of record, it shall be commenced by the personal service  upon
+ the  owner  of  a summons and complaint verified in the same manner as a
+ complaint in an action in a court of  record.  The  complaint  must  set
+ forth  substantially  the facts contained in the notice of lien, and the
+ substance of the agreement under which the labor was  performed  or  the
+ materials  were  furnished, OR IF THE LIEN IS BASED UPON A WAGE CLAIM AS
+ DEFINED IN SECTION TWO OF THIS CHAPTER, THE BASIS FOR SUCH  WAGE  CLAIM.
+ The  form  and  contents of the summons shall be the same as provided by
  law for the commencement of an action upon a contract in such court. The
- summons  must  be  returnable  not less than twelve nor more than twenty
- days after the date of the summons, or if service is  made  by  publica-
- tion,  after  the  day  of the last publication of the summons.  Service
- must be made at least eight days before the return day.
-  § 22. Section 50 of the lien law, as amended by  chapter  515  of  the
- laws of 1929, is amended to read as follows:
-  §  50.  Execution. Execution may be issued upon a judgment obtained in
- an action to enforce a mechanic's lien OR  AN  EMPLOYEE'S  LIEN  against
- real  property  in a court not of record, which shall direct the officer
- to sell the title and interest of the owner in the premises, upon  which
- S. 1977  14
+ summons must be returnable not less than twelve  nor  more  than  twenty
+ days  after  the  date of the summons, or if service is made by publica-
+ S. 1977--A  14
  
- the  lien  set  forth in the complaint existed at the time of filing the
+ tion, after the day of the last publication of  the  summons.  Service
+ must be made at least eight days before the return day.
+  §  22.  Section  50  of the lien law, as amended by chapter 515 of the
+ laws of 1929, is amended to read as follows:
+  § 50. Execution. Execution may be issued upon a judgment  obtained  in
+ an  action  to  enforce  a mechanic's lien OR AN EMPLOYEE'S LIEN against
+ real property in a court not of record, which shall direct  the  officer
+ to  sell the title and interest of the owner in the premises, upon which
+ the lien set forth in the complaint existed at the time  of  filing  the
  notice of lien.
   §  23.  Section  53  of the lien law, as amended by chapter 515 of the
  laws of 1929, is amended to read as follows:
@@ -805,6 +811,8 @@ S T A T E  O F  N E W  Y O R K
  DAYS FROM THE TIME OF SERVICE, OR SHOW CAUSE AT  A  SPECIAL  TERM  OF  A
  COURT OF RECORD, OR AT A COUNTY COURT, IN A COUNTY IN WHICH THE PROPERTY
  IS  SITUATED,  AT  A TIME AND PLACE SPECIFIED THEREIN, WHY THE NOTICE OF
+ S. 1977--A  15
+ 
  LIEN FILED OR THE BOND GIVEN SHOULD NOT BE VACATED AND CANCELLED, OR THE
  DEPOSIT RETURNED, AS THE CASE MAY BE. PROOF OF SUCH SERVICE AND THAT THE
  LIENOR HAS NOT COMMENCED THE ACTION TO FORECLOSE SUCH LIEN OR AN  ACTION
@@ -813,8 +821,6 @@ S T A T E  O F  N E W  Y O R K
  TIME OF APPLYING FOR SUCH ORDER.
   §  25.  Section  62  of the lien law, as amended by chapter 697 of the
  laws of 1934, is amended to read as follows:
- S. 1977  15
- 
   § 62. Bringing in new parties. A lienor who has filed a notice of lien
  after the commencement of an action in a court of record to foreclose or
  enforce AN EMPLOYEE'S LIEN OR a mechanic's lien against real property or
@@ -863,73 +869,73 @@ S T A T E  O F  N E W  Y O R K
  underpayments found to be due the employee. In any action brought by the
  commissioner in a court of competent  jurisdiction,  liquidated  damages
  shall  be calculated as an amount equal to one hundred percent of under-
+ S. 1977--A  16
+ 
  payments found to be due the employee.  EACH  EMPLOYEE  OR  HIS  OR  HER
  AUTHORIZED REPRESENTATIVE SHALL BE NOTIFIED IN WRITING OF THE OUTCOME OF
  ANY  LEGAL  ACTION  BROUGHT  ON  THE  EMPLOYEE'S BEHALF PURSUANT TO THIS
  SECTION.
-  § 28. Subdivision 5 of section 6201 of  the  civil  practice  law  and
- rules,  as  amended by chapter 860 of the laws of 1977 and as renumbered
- by chapter 618 of the laws of 1992, is amended and a new  subdivision  6
+  §  28.  Subdivision  5  of  section 6201 of the civil practice law and
+ rules, as amended by chapter 860 of the laws of 1977 and  as  renumbered
+ by  chapter  618 of the laws of 1992, is amended and a new subdivision 6
  is added to read as follows:
- S. 1977  16
- 
-  5.  the  cause  of action is based on a judgment, decree or order of a
- court of the United States or of any other court which  is  entitled  to
- full  faith  and  credit in this state, or on a judgment which qualifies
- for recognition under the provisions of article 53[.] OF  THIS  CHAPTER;
+  5. the cause of action is based on a judgment, decree or  order  of  a
+ court  of  the  United States or of any other court which is entitled to
+ full faith and credit in this state, or on a  judgment  which  qualifies
+ for  recognition  under the provisions of article 53[.] OF THIS CHAPTER;
  OR
-  6.  THE  CAUSE  OF ACTION IS BASED ON WAGE CLAIMS. "WAGE CLAIMS," WHEN
+  6. THE CAUSE OF ACTION IS BASED ON WAGE CLAIMS.  "WAGE  CLAIMS,"  WHEN
  USED IN THIS CHAPTER, SHALL INCLUDE ANY CLAIMS OF VIOLATIONS OF ARTICLES
  FIVE, SIX, AND NINETEEN OF THE LABOR LAW, SECTION TWO HUNDRED FIFTEEN OF
  THE LABOR LAW, AND THE RELATED REGULATIONS OR WAGE ORDERS PROMULGATED BY
- THE COMMISSIONER OF LABOR, INCLUDING BUT NOT LIMITED TO  ANY  CLAIMS  OF
- UNPAID,  MINIMUM, OVERTIME, AND SPREAD-OF-HOURS PAY, UNLAWFULLY RETAINED
- GRATUITIES, UNLAWFUL DEDUCTIONS FROM WAGES, UNPAID  COMMISSIONS,  UNPAID
- BENEFITS  AND WAGE SUPPLEMENTS, AND RETALIATION, AND ANY CLAIMS PURSUANT
+ THE  COMMISSIONER  OF  LABOR, INCLUDING BUT NOT LIMITED TO ANY CLAIMS OF
+ UNPAID, MINIMUM, OVERTIME, AND SPREAD-OF-HOURS PAY, UNLAWFULLY  RETAINED
+ GRATUITIES,  UNLAWFUL  DEDUCTIONS FROM WAGES, UNPAID COMMISSIONS, UNPAID
+ BENEFITS AND WAGE SUPPLEMENTS, AND RETALIATION, AND ANY CLAIMS  PURSUANT
  TO 18 U.S.C. § 1595, 29 U.S.C. § 201 ET SEQ., AND/OR EMPLOYMENT CONTRACT
- AS WELL AS THE CONCOMITANT LIQUIDATED DAMAGES AND  PENALTIES  AUTHORIZED
- PURSUANT  TO THE LABOR LAW, THE FAIR LABOR STANDARDS ACT, OR ANY EMPLOY-
+ AS  WELL  AS THE CONCOMITANT LIQUIDATED DAMAGES AND PENALTIES AUTHORIZED
+ PURSUANT TO THE LABOR LAW, THE FAIR LABOR STANDARDS ACT, OR ANY  EMPLOY-
  MENT CONTRACT.
-  § 29. Section 6210 of the civil practice law and rules,  as  added  by
+  §  29.  Section  6210 of the civil practice law and rules, as added by
  chapter 860 of the laws of 1977, is amended to read as follows:
-  §  6210.  Order  of attachment on notice; temporary restraining order;
- contents. Upon a motion on notice for an order of attachment, the  court
- may,  without  notice  to  the  defendant, grant a temporary restraining
- order prohibiting the transfer of assets by a garnishee as  provided  in
- subdivision  (b)  of section 6214. WHEN ATTACHMENT IS SOUGHT PURSUANT TO
- SUBDIVISION SIX OF SECTION  6201,  AND  IF  THE  EMPLOYER  CONTESTS  THE
- MOTION,  THE  COURT  SHALL  HOLD  A  HEARING WITHIN TEN DAYS OF WHEN THE
- EMPLOYER'S RESPONSE TO PLAINTIFFS' MOTION FOR  ATTACHMENT  IS  DUE.  The
- contents  of  the  order  of attachment granted pursuant to this section
+  § 6210. Order of attachment on notice;  temporary  restraining  order;
+ contents.  Upon a motion on notice for an order of attachment, the court
+ may, without notice to the  defendant,  grant  a  temporary  restraining
+ order  prohibiting  the transfer of assets by a garnishee as provided in
+ subdivision (b) of section 6214. WHEN ATTACHMENT IS SOUGHT  PURSUANT  TO
+ SUBDIVISION  SIX  OF  SECTION  6201,  AND  IF  THE EMPLOYER CONTESTS THE
+ MOTION, THE COURT SHALL HOLD A HEARING  WITHIN  TEN  DAYS  OF  WHEN  THE
+ EMPLOYER'S  RESPONSE  TO  PLAINTIFFS'  MOTION FOR ATTACHMENT IS DUE. The
+ contents of the order of attachment granted  pursuant  to  this  section
  shall be as provided in subdivision (a) of section 6211.
-  § 30. Subdivision (b) of section 6211 of the civil  practice  law  and
+  §  30.  Subdivision  (b) of section 6211 of the civil practice law and
  rules, as amended by chapter 566 of the laws of 1985, is amended to read
  as follows:
-  (b)  Confirmation  of  order.  Except  where an order of attachment is
- granted on the ground specified in subdivision one  OR  SIX  of  section
- 6201,  an  order of attachment granted without notice shall provide that
- within a period not to exceed five days after levy, the plaintiff  shall
- move,  on  such  notice  as the court shall direct to the defendant, the
+  (b) Confirmation of order. Except where  an  order  of  attachment  is
+ granted  on  the  ground  specified in subdivision one OR SIX of section
+ 6201, an order of attachment granted without notice shall  provide  that
+ within  a period not to exceed five days after levy, the plaintiff shall
+ move, on such notice as the court shall direct  to  the  defendant,  the
  garnishee, if any, and the sheriff, for an order confirming the order of
- attachment. Where an order of attachment without notice  is  granted  on
- the  ground  specified  in  subdivision  one OR SIX of section 6201, the
+ attachment.  Where  an  order of attachment without notice is granted on
+ the ground specified in subdivision one OR  SIX  of  section  6201,  the
  court shall direct that the statement required by section 6219 be served
- within five days, that a copy thereof be served upon the plaintiff,  and
- the  plaintiff  shall  move  within  ten  days  after  levy for an order
- confirming the order of attachment. If the plaintiff  upon  such  motion
+ within  five days, that a copy thereof be served upon the plaintiff, and
+ the plaintiff shall move  within  ten  days  after  levy  for  an  order
+ confirming  the  order  of attachment. If the plaintiff upon such motion
  shall show that the statement has not been served and that the plaintiff
- will  be unable to satisfy the requirement of subdivision (b) of section
+ will be unable to satisfy the requirement of subdivision (b) of  section
  6223 until the statement has been served, the court may grant one exten-
  sion of the time to move for confirmation for a period not to exceed ten
+ S. 1977--A  17
+ 
  days. If plaintiff fails to make such motion within the required period,
- the order of attachment and any levy thereunder shall  have  no  further
+ the  order  of  attachment and any levy thereunder shall have no further
  effect and shall be vacated upon motion. Upon the motion to confirm, the
  provisions  of  subdivision (b) of section 6223 shall apply. An order of
  attachment granted without notice may provide that the  sheriff  refrain
  from  taking  any  property  levied upon into his OR HER actual custody,
  pending further order of the court.
- S. 1977  17
- 
   § 31. Subdivisions (b) and (e) of rule 6212 of the civil practice  law
  and  rules, subdivision (b) as separately amended by chapters 15 and 860
  of the laws of 1977 and subdivision (e) as added by chapter 860  of  the
@@ -979,6 +985,8 @@ S T A T E  O F  N E W  Y O R K
  A  corporation  requested  to provide information pursuant to this para-
  graph shall make available such information in written form and  in  any
  other  format in which such information is maintained by the corporation
+ S. 1977--A  18
+ 
  and shall not be required to  provide  such  information  in  any  other
  format.  If a request made pursuant to this paragraph includes a request
  to furnish information  regarding  beneficial  owners,  the  corporation
@@ -986,66 +994,64 @@ S T A T E  O F  N E W  Y O R K
  ficial owners as is provided to the corporation by a  registered  broker
  or  dealer or a bank, association or other entity that exercises fiduci-
  ary powers in connection with the  forwarding  of  information  to  such
- S. 1977  18
- 
  owners.  The  corporation  shall  not  be required to obtain information
  about beneficial owners not in its possession.
-  §  33.  Section  630 of the business corporation law, paragraph (a) as
- amended by chapter 5 of the laws of 2016, paragraph (c)  as  amended  by
+  § 33. Section 630 of the business corporation law,  paragraph  (a)  as
+ amended  by  chapter  5 of the laws of 2016, paragraph (c) as amended by
  chapter 746 of the laws of 1963, is amended to read as follows:
- § 630. Liability  of shareholders for wages due to laborers, servants or
+ § 630. Liability of shareholders for wages due to laborers, servants  or
   employees.
-  (a) The ten largest shareholders, as determined by the fair  value  of
+  (a) The  ten  largest shareholders, as determined by the fair value of
  their beneficial interest as of the beginning of the period during which
- the  unpaid services referred to in this section are performed, of every
- domestic corporation or of any  foreign  corporation,  when  the  unpaid
+ the unpaid services referred to in this section are performed, of  every
+ domestic  corporation  or  of  any  foreign corporation, when the unpaid
  services were performed in the state, no shares of which are listed on a
- national  securities exchange or regularly quoted in an over-the-counter
- market by one or more members of a national or an affiliated  securities
- association,  shall  jointly  and severally be personally liable for all
- debts, wages or salaries due and owing to any of its laborers,  servants
- or  employees other than contractors, for services performed by them for
+ national securities exchange or regularly quoted in an  over-the-counter
+ market  by one or more members of a national or an affiliated securities
+ association, shall jointly and severally be personally  liable  for  all
+ debts,  wages or salaries due and owing to any of its laborers, servants
+ or employees other than contractors, for services performed by them  for
  such corporation. [Before such laborer, servant or employee shall charge
- such shareholder for such services, he shall give notice in  writing  to
- such  shareholder that he intends to hold him liable under this section.
- Such notice shall be given within one  hundred  and  eighty  days  after
- termination  of  such  services, except that if, within such period, the
- laborer, servant or employee demands an examination  of  the  record  of
- shareholders  under  paragraph  (b)  of  section 624 (Books and records;
- right of inspection, prima facie evidence) of this article, such  notice
- may  be  given within sixty days after he has been given the opportunity
+ such  shareholder  for such services, he shall give notice in writing to
+ such shareholder that he intends to hold him liable under this  section.
+ Such  notice  shall  be  given  within one hundred and eighty days after
+ termination of such services, except that if, within  such  period,  the
+ laborer,  servant  or  employee  demands an examination of the record of
+ shareholders under paragraph (b) of  section  624  (Books  and  records;
+ right  of inspection, prima facie evidence) of this article, such notice
+ may be given within sixty days after he has been given  the  opportunity
  to examine the record of shareholders. An action to enforce such liabil-
- ity shall be commenced  within  ninety  days  after  the  return  of  an
- execution  unsatisfied against the corporation upon a judgment recovered
- against it for such services.] The provisions of  this  paragraph  shall
- not  apply  to  an investment company registered as such under an act of
+ ity  shall  be  commenced  within  ninety  days  after  the return of an
+ execution unsatisfied against the corporation upon a judgment  recovered
+ against  it  for  such services.] The provisions of this paragraph shall
+ not apply to an investment company registered as such under  an  act  of
  congress entitled "Investment Company Act of 1940."
   (b) For the purposes of this section, wages or salaries shall mean all
- compensation and benefits payable by an employer to or for  the  account
- of  the employee for personal services rendered by such employee INCLUD-
- ING ANY CONCOMITANT LIQUIDATED DAMAGES, PENALTIES, INTEREST,  ATTORNEY'S
- FEES  OR COSTS.  These shall specifically include but not be limited to
+ compensation  and  benefits payable by an employer to or for the account
+ of the employee for personal services rendered by such employee  INCLUD-
+ ING  ANY CONCOMITANT LIQUIDATED DAMAGES, PENALTIES, INTEREST, ATTORNEY'S
+ FEES OR COSTS.  These shall specifically include but not be  limited  to
  salaries,  overtime,  vacation,  holiday  and  severance  pay;  employer
- contributions  to or payments of insurance or welfare benefits; employer
+ contributions to or payments of insurance or welfare benefits;  employer
  contributions to pension or annuity funds; and any other moneys properly
  due or payable for services rendered by such employee.
-  (c) A shareholder who has paid more than his OR  HER  pro  rata  share
- under  this  section shall be entitled to contribution pro rata from the
- other shareholders liable under this section with respect to the  excess
- so  paid,  over  and  above  his OR HER pro rata share, and may sue them
- jointly or severally or any number of them to  recover  the  amount  due
- from  them.  Such recovery may be had in a separate action. As used in
- this paragraph, "pro rata"  means  in  proportion  to  beneficial  share
- interest.  Before a shareholder may claim contribution from other share-
- holders under this paragraph, he OR SHE shall[, unless  they  have  been
- given  notice  by  a  laborer, servant or employee under paragraph (a),]
- give them notice in writing that he OR  SHE  intends  to  hold  them  so
+  (c)  A  shareholder  who  has paid more than his OR HER pro rata share
+ under this section shall be entitled to contribution pro rata  from  the
+ other  shareholders liable under this section with respect to the excess
+ so paid, over and above his OR HER pro rata  share,  and  may  sue  them
+ jointly  or  severally  or  any number of them to recover the amount due
+ from them.  Such recovery may be had in a separate action.  As  used  in
+ this  paragraph,  "pro  rata"  means  in  proportion to beneficial share
+ interest. Before a shareholder may claim contribution from other  share-
+ S. 1977--A  19
+ 
+ holders  under  this  paragraph, he OR SHE shall[, unless they have been
+ given notice by a laborer, servant or  employee  under  paragraph  (a),]
+ give  them  notice  in  writing  that  he OR SHE intends to hold them so
  liable  to  him  OR HER. Such notice shall be given by him OR HER within
  twenty days after the date that [notice was given to him by] HE  OR  SHE
  BECAME AWARE THAT a laborer, servant or employee MAY SEEK TO HOLD HIM OR
  HER LIABLE under paragraph (a).
- S. 1977  19
- 
   §  34. Subdivision (c) of section 609 of the limited liability company
  law, as amended by chapter 620 of the laws of 2019, is amended  to  read
  as follows:
@@ -1095,16 +1101,16 @@ S T A T E  O F  N E W  Y O R K
  COMPANY, ITS MEMBERS OR MANAGERS TO SHOW CAUSE WHY AN ORDER  SHOULD  NOT
  BE GRANTED PERMITTING SUCH INSPECTION BY THE APPLICANT.  UPON THE RETURN
  DAY OF THE ORDER TO SHOW CAUSE, THE COURT SHALL HEAR THE PARTIES SUMMAR-
+ S. 1977--A  20
+ 
  ILY,  BY AFFIDAVIT OR OTHERWISE, AND IF IT APPEARS THAT THE APPLICANT IS
  QUALIFIED AND ENTITLED TO SUCH INSPECTION,  THE  COURT  SHALL  GRANT  AN
  ORDER  COMPELLING SUCH INSPECTION AND AWARDING SUCH FURTHER RELIEF AS TO
- THE COURT MAY SEEM JUST AND PROPER. IF THE  APPLICANT  IS  FOUND  TO  BE
- QUALIFIED  AND  ENTITLED  TO  SUCH INSPECTION, THE COMPANY SHALL PAY ALL
- REASONABLE ATTORNEY'S FEES AND COSTS OF SAID APPLICANT  RELATED  TO  THE
+ THE  COURT  MAY  SEEM  JUST  AND PROPER. IF THE APPLICANT IS FOUND TO BE
+ QUALIFIED AND ENTITLED TO SUCH INSPECTION, THE  COMPANY  SHALL  PAY  ALL
+ REASONABLE  ATTORNEY'S  FEES  AND COSTS OF SAID APPLICANT RELATED TO THE
  DEMAND FOR INSPECTION OF THE RECORDS.
- S. 1977  20
- 
-  §  36.  This act shall take effect on the thirtieth day after it shall
+  § 36. This act shall take effect on the thirtieth day after  it  shall
  have become a law.  The procedures and rights created in this act may be
- used by employees, laborers or servants in connection  with  claims  for
- liabilities that arose prior to the effective date.
+ used  by  employees,  laborers or servants in connection with claims for
+ liabilities that arose prior to the effective date of this act.
