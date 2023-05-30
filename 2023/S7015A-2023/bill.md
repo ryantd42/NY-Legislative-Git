@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the Trooper Edward L. Cunningham Memorial Bridge
 
-**Bill ID:** S7015A
+**Bill ID:** S7015AA
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in Nassau county as the "Troope
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7015
+  7015--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  RHOADS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Trooper Edward L. Cunningham Memorial
   Bridge"
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -39,9 +41,9 @@ S T A T E  O F  N E W  Y O R K
  read as follows:
   §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
  "TROOPER EDWARD L. CUNNINGHAM MEMORIAL BRIDGE". ALL THAT PORTION OF  THE
- STATE  HIGHWAY SYSTEM CONSTITUTING THE WANTAGH STATE PARKWAY OVERPASS AT
- MERRICK ROAD IN THE TOWN OF HEMPSTEAD, COUNTY OF NASSAU, SHALL BE DESIG-
- NATED AND KNOWN AS THE "TROOPER EDWARD L. CUNNINGHAM MEMORIAL BRIDGE".
+ STATE  HIGHWAY  SYSTEM  CONSTITUTING  THE NEW YORK STATE ROUTE 27 BRIDGE
+ OVER NEW YORK STATE ROUTE 135, COUNTY OF NASSAU, SHALL BE DESIGNATED AND
+ KNOWN AS THE "TROOPER EDWARD L. CUNNINGHAM MEMORIAL BRIDGE".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this  act.  However,  to  avoid
@@ -53,7 +55,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07935-02-3
+  LBD07935-03-3
