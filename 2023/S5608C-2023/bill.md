@@ -1,6 +1,6 @@
 # Waives the residency requirement for certain county attorney positions within Essex county
 
-**Bill ID:** S5608CA
+**Bill ID:** S5608CB
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Waives the residency requirement for certain county attorney positions within Es
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5608--A
+  5608--B
   Cal. No. 701
  
   2023-2024 Regular Sessions
@@ -30,7 +30,9 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee on Investigations and Govern-
   ment Operations -- reported favorably from said committee, ordered  to
   first  and  second  report,  ordered  to  a third reading, amended and
-  ordered reprinted, retaining its place in the order of third reading
+  ordered reprinted, retaining its place in the order of  third  reading
+  --  again  amended  and  ordered reprinted, retaining its place in the
+  order of third reading
  
  AN ACT to amend the public officers law,  in  relation  to  waiving  the
   residency  requirement  for  certain  county attorney positions within
@@ -45,16 +47,18 @@ S T A T E  O F  N E W  Y O R K
  PERSON TO BE A RESIDENT OF THE POLITICAL SUBDIVISION OR MUNICIPAL CORPO-
  RATION  OF THE STATE FOR WHICH HE OR SHE SHALL BE CHOSEN OR WITHIN WHICH
  HIS OR HER OFFICIAL FUNCTIONS ARE REQUIRED TO BE  EXERCISED,  SHALL  NOT
- PREVENT  A  PERSON  FROM HOLDING THE OFFICE OF ASSISTANT PUBLIC DEFENDER
- PROVIDED THAT SUCH PERSON RESIDES IN A  COUNTY  ADJOINING  ESSEX  COUNTY
- WITHIN THE STATE OF NEW YORK; PROVIDED, HOWEVER THAT ANY PERSON PERFORM-
- ING  SUCH FUNCTIONS OR HOLDING SUCH OFFICES IN ANY OTHER COUNTY SHALL BE
- A RESIDENT OF SUCH COUNTY UNLESS OTHERWISE PROVIDED BY LAW.
+ PREVENT A PERSON FROM HOLDING THE OFFICE OF ASSISTANT PUBLIC DEFENDER OF
+ THE  COUNTY  OF  ESSEX,  PROVIDED  THAT  SUCH PERSON RESIDES IN A COUNTY
+ ADJOINING ESSEX COUNTY WITHIN THE STATE OF NEW YORK;  PROVIDED,  HOWEVER
+ THAT ANY PERSON PERFORMING SUCH FUNCTIONS OR HOLDING SUCH OFFICES IN ANY
+ OTHER  COUNTY  SHALL  BE  A  RESIDENT  OF  SUCH  COUNTY UNLESS OTHERWISE
+ PROVIDED BY LAW.  THE PROVISIONS OF THIS SUBDIVISION SHALL NOT APPLY  TO
+ ANY  PERSON  HOLDING  THE OFFICE OF FIRST ASSISTANT PUBLIC DEFENDER, THE
+ HOLDER OF WHICH WOULD ASSUME THE DUTIES OF THE PUBLIC DEFENDER UPON  THE
+ PUBLIC  DEFENDER'S ABSENCE FROM THE COUNTY OR UPON THE PUBLIC DEFENDER'S
+ INABILITY TO PERFORM HIS OR HER DUTIES.
   § 2. This act shall take effect immediately.
- 
- 
- 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10133-03-3
+  LBD10133-05-3
