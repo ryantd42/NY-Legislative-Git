@@ -1,6 +1,6 @@
 # Relates to the completion of training requirements for sheriffs and undersheriffs
 
-**Bill ID:** S2695BA
+**Bill ID:** S2695BB
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the completion of training requirements for sheriffs and undersheriff
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2695--A
+  2695--B
  
   2023-2024 Regular Sessions
  
@@ -28,10 +28,12 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sens. HARCKHAM, O'MARA, ROLISON -- read twice and ordered
   printed, and when printed to be committed to the  Committee  on  Local
   Government -- committee discharged, bill amended, ordered reprinted as
-  amended and recommitted to said committee
+  amended  and  recommitted  to  said committee -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
  
  AN ACT to amend the general municipal law, in relation to the completion
-  of training requirements for sheriffs
+  of training requirements for sheriffs and undersheriffs
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -55,10 +57,11 @@ S T A T E  O F  N E W  Y O R K
  pursuant to section eight hundred forty-two of the executive law, satis-
  factorily  completes,  a  municipal  police  basic  training program for
  temporary or probationary police officers and is awarded  a  certificate
- by  such  director  attesting thereto.  AN ELECTED OR APPOINTED SHERIFF
- SHALL NOT BE SUBJECT TO THE TRAINING REQUIREMENTS OF THIS SECTION.
+ by  such director attesting thereto.  AN ELECTED OR APPOINTED SHERIFF OR
+ UNDERSHERIFF SHALL NOT BE SUBJECT TO THE TRAINING REQUIREMENTS  OF  THIS
+ SECTION.
   § 2. This act shall take effect immediately.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06930-02-3
+  LBD06930-04-3
