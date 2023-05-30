@@ -1,6 +1,6 @@
 # Authorizes Saddle Rock Minyan to file an application for retroactive real property tax exemption
 
-**Bill ID:** S6797A
+**Bill ID:** S6797AA
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Authorizes Saddle Rock Minyan to file an application for retroactive real proper
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6797
+  6797--A
+  Cal. No. 1119
  
   2023-2024 Regular Sessions
  
@@ -26,8 +27,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MARTINS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
- 
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee discharged and said bill committed to the Committee on Rules
+  --  ordered to a third reading, amended and ordered reprinted, retain-
+  ing its place in the order of third reading
+
  AN ACT in relation to authorizing Saddle Rock Minyan to file an applica-
   tion for retroactive real property tax exemption
  
@@ -50,16 +54,16 @@ S T A T E  O F  N E W  Y O R K
   If  satisfied  that  such  organization would otherwise be entitled to
  such exemption if such organization had acquired  the  subject  property
  and filed an application for exemption by the appropriate taxable status
- date, the assessor, upon approval by the town board, may grant exemption
- from all taxation beginning on the date of the conveyance of such parcel
- to  such  organization,  and make appropriate corrections to the subject
- rolls. If such exemption is  granted  and  such  organization  therefore
- shall have paid any tax with respect to the subject rolls, the governing
- body  or  tax  department  may,  in its sole discretion, provide for the
- refund of those taxes paid  and  cancel  any  taxes,  fines,  penalties,
- interest or tax liens remaining unpaid.
+ date,  the assessor, upon approval by the Nassau county legislature, may
+ grant exemption from all taxation beginning on the date of  the  convey-
+ ance  of  such  parcel  to  such  organization,  and  make  appropriate
+ corrections to the subject rolls. If such exemption is granted and  such
+ organization  therefore  shall  have  paid  any  tax with respect to the
+ subject rolls, the governing body or tax department  may,  in  its  sole
+ discretion,  provide  for  the refund of those taxes paid and cancel any
+ taxes, fines, penalties, interest or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11138-01-3
+  LBD11138-03-3
