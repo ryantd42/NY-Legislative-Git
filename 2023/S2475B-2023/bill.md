@@ -1,6 +1,6 @@
 # Relates to certain prohibitions regarding the legal system and gender-affirming care
 
-**Bill ID:** S2475BA
+**Bill ID:** S2475BB
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Prohibits consideration of a law of another state that authorizes a child to be 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2475--A
+  2475--B
  
   2023-2024 Regular Sessions
  
@@ -25,12 +25,16 @@ S T A T E  O F  N E W  Y O R K
   January 20, 2023
   ___________
  
- Introduced  by  Sens.  HOYLMAN-SIGAL, BROUK, COONEY, GOUNARDES, HINCHEY,
-  JACKSON, MAY, PARKER, RAMOS,  RIVERA,  SEPULVEDA  --  read  twice  and
-  ordered  printed, and when printed to be committed to the Committee on
-  Judiciary -- committee discharged, bill amended, ordered reprinted  as
-  amended and recommitted to said committee
-
+ Introduced  by  Sens.  HOYLMAN-SIGAL,  BROUK,  COMRIE, COONEY, GIANARIS,
+  GOUNARDES, HINCHEY, JACKSON, KENNEDY, KRUEGER, LIU, MAY, MAYER,  PARK-
+  ER,  RAMOS, RIVERA, SEPULVEDA, WEBB -- read twice and ordered printed,
+  and when printed to be committed to  the  Committee  on  Judiciary  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee -- reported favorably from said  commit-
+  tee  and  committed to the Committee on Codes -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
+ 
  AN ACT to amend the family court act, the executive law, the civil prac-
   tice law and rules, the criminal procedure law, the education law, the
   public health law and the insurance law, in relation to gender-affirm-
@@ -54,17 +58,17 @@ S T A T E  O F  N E W  Y O R K
  STATE.
   § 2. The executive law is amended by adding a  new  section  837-x  to
  read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01793-09-3
+ S. 2475--B  2
+ 
   §  837-X.  COOPERATION  WITH  CERTAIN  OUT-OF-STATE INVESTIGATIONS. NO
  STATE OR LOCAL LAW ENFORCEMENT AGENCY SHALL COOPERATE  WITH  OR  PROVIDE
  INFORMATION  TO  ANY  INDIVIDUAL  OR  OUT-OF-STATE  AGENCY OR DEPARTMENT
  REGARDING THE PROVISION, SEEKING, OR ASSISTANCE IN PROVISION OR  SEEKING
  OF LAWFUL GENDER-AFFIRMING CARE PERFORMED IN THIS STATE. NOTHING IN THIS
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD01793-03-3
- S. 2475--A  2
- 
  SECTION  SHALL  PROHIBIT  THE  INVESTIGATION OF ANY CRIMINAL ACTIVITY IN
  THIS STATE WHICH MAY INVOLVE THE PERFORMANCE  OF  GENDER-AFFIRMING  CARE
  PROVIDED THAT NO INFORMATION RELATING TO ANY MEDICAL PROCEDURE PERFORMED
@@ -116,100 +120,93 @@ S T A T E  O F  N E W  Y O R K
  ITY  THAT  IS IN WHOLE OR PART BASED ON THE ALLEGED PROVISION OR RECEIPT
  OF, SUPPORT FOR, OR ANY THEORY OF VICARIOUS, JOINT, SEVERAL OR CONSPIRA-
  CY LIABILITY FOR GENDER-AFFIRMING CARE LAWFULLY PERFORMED  IN  NEW  YORK
+ S. 2475--B  3
+ 
  SHALL  BE  RECOGNIZED  BY THE GOVERNOR UNLESS THE EXECUTIVE AUTHORITY OF
  THE DEMANDING STATE SHALL ALLEGE IN WRITING THAT THE ACCUSED WAS PRESENT
  IN THE DEMANDING STATE AT THE TIME OF  THE  COMMISSION  OF  THE  ALLEGED
  OFFENSE, AND THAT THEREAFTER HE, SHE OR THEY FLED FROM THAT STATE.
- S. 2475--A  3
- 
   §  7.  Subdivision 1 of section 6531-b of the education law is amended
  by adding a new paragraph (c) to read as follows:
-  (C)  "GENDER-AFFIRMING  CARE"  MEANS  ANY  TYPE OF CARE PROVIDED TO AN
+  (C) "GENDER-AFFIRMING CARE" MEANS ANY TYPE  OF  CARE  PROVIDED  TO  AN
  INDIVIDUAL  TO  AFFIRM  THEIR  GENDER  IDENTITY  OR  GENDER  EXPRESSION;
- PROVIDED  THAT SURGICAL INTERVENTIONS ON MINORS WITH VARIATIONS IN THEIR
- SEX CHARACTERISTICS THAT ARE NOT SOUGHT AND INITIATED BY THE  INDIVIDUAL
+ PROVIDED THAT SURGICAL INTERVENTIONS ON MINORS WITH VARIATIONS IN  THEIR
+ SEX  CHARACTERISTICS THAT ARE NOT SOUGHT AND INITIATED BY THE INDIVIDUAL
  PATIENT ARE NOT GENDER-AFFIRMING CARE.
   § 8. Subdivision 2 of section 6531-b of the education law, as added by
  chapter 220 of the laws of 2022, is amended to read as follows:
-  2.  The  performance, recommendation, or provision of any reproductive
- health services OR GENDER-AFFIRMING CARE, as defined in subdivision  one
+  2. The performance, recommendation, or provision of  any  reproductive
+ health  services OR GENDER-AFFIRMING CARE, as defined in subdivision one
  of this section, by a health care practitioner acting within their scope
- of  practice,  for a patient who resides in a state wherein the perform-
- ance, recommendation, or provision of such reproductive health  services
- OR  GENDER  AFFIRMING-CARE  is illegal, shall not, by itself, constitute
- professional misconduct under this title, or title two-A of article  two
+ of practice, for a patient who resides in a state wherein  the  perform-
+ ance,  recommendation, or provision of such reproductive health services
+ OR GENDER AFFIRMING-CARE is illegal, shall not,  by  itself,  constitute
+ professional  misconduct under this title, or title two-A of article two
  of the public health law, or any other law, rule or regulation governing
  the licensure, certification, or authorization of such practitioner, nor
  shall any license, certification or authorization of a health care prac-
- titioner  be revoked, suspended, or annulled or otherwise subject to any
- other penalty or discipline provided in the public health  law  or  this
- title  solely on the basis that such health care practitioner performed,
- recommended, or  provided  any  such  reproductive  health  services  OR
- GENDER-AFFIRMING  CARE  for a patient who resides in a state wherein the
- performance, recommendation, or provision of  such  reproductive  health
+ titioner be revoked, suspended, or annulled or otherwise subject to  any
+ other  penalty  or  discipline provided in the public health law or this
+ title solely on the basis that such health care practitioner  performed,
+ recommended,  or  provided  any  such  reproductive  health  services OR
+ GENDER-AFFIRMING CARE for a patient who resides in a state  wherein  the
+ performance,  recommendation,  or  provision of such reproductive health
  services OR GENDER-AFFIRMING CARE is illegal.
   § 9. Subdivision 9-c of section 230 of the public health law, as added
  by chapter 220 of the laws of 2022, is amended to read as follows:
-  9-c.  (a)  Neither  the board for professional medical conduct nor the
- office of professional medical conduct shall charge a  licensee,  acting
- within  their  scope of practice, with misconduct as defined in sections
- sixty-five hundred thirty  and  sixty-five  hundred  thirty-one  of  the
- education  law, or cause a report made to the director of such office to
- be investigated beyond a preliminary review as set forth in  clause  (A)
+  9-c. (a) Neither the board for professional medical  conduct  nor  the
+ office  of  professional medical conduct shall charge a licensee, acting
+ within their scope of practice, with misconduct as defined  in  sections
+ sixty-five  hundred  thirty  and  sixty-five  hundred  thirty-one of the
+ education law, or cause a report made to the director of such office  to
+ be  investigated  beyond a preliminary review as set forth in clause (A)
  of subparagraph (i) of paragraph (a) of subdivision ten of this section,
  where such report is determined to be based solely upon the performance,
- recommendation,  or  provision  of  any  reproductive health services as
+ recommendation, or provision of  any  reproductive  health  services  as
  defined in section sixty-five hundred thirty-one-b of the education law,
  OR GENDER-AFFIRMING CARE for a particular patient by such licensee where
- such patient resides in a state wherein the performance,  recommendation
- or  provision  of  such reproductive health services OR GENDER-AFFIRMING
+ such  patient resides in a state wherein the performance, recommendation
+ or provision of such reproductive health  services  OR  GENDER-AFFIRMING
  CARE is illegal.
-  (b) When a licensee, acting within their scope  of  practice,  and  in
- accordance  with  paragraph  e of subdivision four of section sixty-five
- hundred twenty-seven of  the  education  law,  performs,  recommends  or
+  (b)  When  a  licensee,  acting within their scope of practice, and in
+ accordance with paragraph e of subdivision four  of  section  sixty-five
+ hundred  twenty-seven  of  the  education  law,  performs, recommends or
  provides any reproductive health services OR GENDER-AFFIRMING CARE for a
- patient  who resides in a state wherein the performance, recommendation,
- or provision of any such reproductive health services OR  GENDER-AFFIRM-
- ING  CARE  is illegal, such performance, recommendation, or provision of
- such reproductive health services  OR  GENDER-AFFIRMING  CARE  for  such
- patient,  shall not, by itself, constitute professional misconduct.  The
- licensee shall otherwise abide  by  all  other  applicable  professional
+ patient who resides in a state wherein the performance,  recommendation,
+ or  provision of any such reproductive health services OR GENDER-AFFIRM-
+ ING CARE is illegal, such performance, recommendation, or  provision  of
+ such  reproductive  health  services  OR  GENDER-AFFIRMING CARE for such
+ patient, shall not, by itself, constitute professional misconduct.  The
+ S. 2475--B  4
+ 
+ licensee  shall  otherwise  abide  by  all other applicable professional
  requirements.
   §  10. Section 6505-d of the education law, as added by chapter 220 of
  the laws of 2022, is amended to read as follows:
- S. 2475--A  4
- 
   § 6505-d. Evaluation of prior disciplinary history  for  authorization
  to  practice. An applicant seeking licensure, certification, or authori-
  zation pursuant to this title  who  has  been  subject  to  disciplinary
  action  by a duly authorized professional disciplinary agency of another
- jurisdiction  solely  on  the basis of having performed, recommended, or
- provided an abortion pursuant to  section  twenty-five  hundred  ninety-
- nine-bb  of the public health law, OR GENDER-AFFIRMING CARE shall not be
- denied such  licensure,  certification,  or  authorization,  unless  the
- department  determines  that  such action would have constituted profes-
- sional misconduct in this state. Provided however, that nothing in  this
+ jurisdiction solely on the basis of having  performed,  recommended,  or
+ provided  an  abortion  pursuant  to section twenty-five hundred ninety-
+ nine-bb of the public health law, OR GENDER-AFFIRMING CARE shall not  be
+ denied  such  licensure,  certification,  or  authorization,  unless the
+ department determines that such action would  have  constituted  profes-
+ sional  misconduct in this state. Provided however, that nothing in this
  section shall be construed as prohibiting the department from evaluating
  the conduct of such applicant and making a determination to be licensed,
  certified, or authorized to practice a profession under this title.
-  §  11. Section 3436-a of the insurance law, as added by chapter 221 of
- the laws of 2022, is amended to read as follows:
-  § 3436-a. [1.] Adverse action against legal reproductive  health  care
- OR  GENDER  AFFIRMING-CARE.  1.  Every  insurer which issues or renews
- medical malpractice insurance covering a health care  provider  licensed
- to  practice  in  this state shall be prohibited from taking any adverse
- action against a health care provider  solely  on  the  basis  that  the
- health  care  provider  performs  an  abortion  or provides reproductive
- health care OR GENDER-AFFIRMING CARE that is legal in the state  of  New
- York  on someone who is from out of the state. Such policy shall include
- health care providers who legally prescribe abortion medication to  out-
- of-state patients by means of telehealth.
-  2.  As  used  in  this section, "adverse action" shall mean but not be
- limited to: (a) refusing to renew or execute  a  contract  or  agreement
- with  a  health  care  provider; (b) making a report or commenting to an
- appropriate private or governmental entity regarding practices  of  such
- provider  which  may  violate  abortion  laws  in  other states; and (c)
- increasing in any charge for, or a reduction or other adverse  or  unfa-
- vorable change in the terms of coverage or amount for, any medical malp-
- ractice insurance contract or agreement with a health care provider.
+  § 11. The section heading and subsection (a) of section 3436-a of  the
+ insurance  law,  as amended by section 4 of part LL of chapter 57 of the
+ laws of 2023, are amended to read as follows:
+  Adverse action against legal reproductive health  care  OR  GENDER-AF-
+ FIRMING  CARE.  (a) Every insurer that issues or renews medical malprac-
+ tice insurance covering a health care provider licensed to  practice  in
+ this  state shall be prohibited from taking any adverse action against a
+ health care provider solely on the basis that the health  care  provider
+ performs  an abortion or provides reproductive health care OR GENDER-AF-
+ FIRMING CARE that is legal in this state on someone who is from  out  of
+ the  state.  Such policy shall include health care providers who legally
+ prescribe abortion medication to out-of-state patients by means of tele-
+ health.
   § 12. This act shall take effect immediately.
