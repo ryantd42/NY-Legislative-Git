@@ -1,6 +1,6 @@
 # Prohibits non-compete agreements and certain restrictive covenants
 
-**Bill ID:** S3100A
+**Bill ID:** S3100AA
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** Vetoed
@@ -16,7 +16,8 @@ Prohibits non-compete agreements and certain restrictive covenants; authorizes c
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3100
+  3100--A
+  Cal. No. 1335
  
   2023-2024 Regular Sessions
  
@@ -25,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   January 27, 2023
   ___________
  
- Introduced  by  Sen.  RYAN  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Labor
+ Introduced  by  Sens.  RYAN,  JACKSON,  MAYER  -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Labor --
+  reported favorably from said committee, ordered to  first  and  second
+  report,  ordered  to  a  third reading, amended and ordered reprinted,
+  retaining its place in the order of third reading
  
  AN ACT to amend the labor law, in relation  to  prohibiting  non-compete
   agreements and certain restrictive covenants
@@ -56,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
  LAWFUL  PROFESSION,  TRADE,  OR  BUSINESS  OF ANY KIND IS TO THAT EXTENT
  VOID. FOR ALL COVERED INDIVIDUALS, NO EMPLOYER  OR  ITS  AGENT,  OR  THE
  OFFICER  OR  AGENT  OF  ANY  CORPORATION, PARTNERSHIP, LIMITED LIABILITY
- COMPANY, OR OTHER ENTITY SHALL SEEK, REQUIRE, DEMAND OR  ACCEPT  A  NON-
- COMPETE AGREEMENT FROM ANY COVERED INDIVIDUAL.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05912-01-3
- S. 3100  2
+  LBD05912-03-3
+ S. 3100--A  2
  
+ COMPANY, OR OTHER ENTITY SHALL SEEK, REQUIRE, DEMAND OR  ACCEPT  A  NON-
+ COMPETE AGREEMENT FROM ANY COVERED INDIVIDUAL.
   4.  (A)  A  COVERED INDIVIDUAL, MAY BRING A CIVIL ACTION IN A COURT OF
  COMPETENT JURISDICTION AGAINST ANY EMPLOYER OR PERSONS ALLEGED  TO  HAVE
  VIOLATED  THIS  SECTION.  A  COVERED  INDIVIDUAL SHALL BRING SUCH ACTION
@@ -90,15 +94,22 @@ S T A T E  O F  N E W  Y O R K
  ITATION OF CLIENTS OF THE EMPLOYER THAT THE COVERED  INDIVIDUAL  LEARNED
  ABOUT DURING EMPLOYMENT, PROVIDED THAT SUCH AGREEMENT DOES NOT OTHERWISE
  RESTRICT COMPETITION IN VIOLATION OF THIS SECTION.
+  6.  NOTWITHSTANDING  SECTION  TWO  HUNDRED  TWO-K OF THIS CHAPTER, THE
+ PROVISIONS OF THIS SECTION SHALL APPLY TO BROADCAST EMPLOYEES AS DEFINED
+ IN SECTION TWO HUNDRED TWO-K OF THIS CHAPTER; PROVIDED, HOWEVER, IN  THE
+ EVENT  THAT  ANY  CLAUSE,  SECTION,  SENTENCE,  PARAGRAPH,  SUBDIVISION,
+ SECTION, OR PART OF THIS SECTION SHALL  BE  ADJUDGED  BY  ANY  COURT  OF
+ COMPETENT  JURISDICTION  TO  BE  INVALID, THEN SECTION TWO HUNDRED TWO-K
+ SHALL REMAIN IN EFFECT UNLESS SIMILARLY ADJUDGED TO BE INVALID.
   § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
- sion,  section  or  part  of  this act shall be adjudged by any court of
- competent jurisdiction to be invalid, such judgment  shall  not  affect,
- impair,  or  invalidate  the remainder thereof, but shall be confined in
- its operation to the clause, sentence, paragraph,  subdivision,  section
+ sion, section or part of this act shall be  adjudged  by  any  court  of
+ competent  jurisdiction  to  be invalid, such judgment shall not affect,
+ impair, or invalidate the remainder thereof, but shall  be  confined  in
+ its  operation  to the clause, sentence, paragraph, subdivision, section
  or part thereof directly involved in the controversy in which such judg-
  ment shall have been rendered. It is hereby declared to be the intent of
- the  legislature  that  this  act  would  have been enacted even if such
+ the legislature that this act would  have  been  enacted  even  if  such
  invalid provisions had not been included herein.
-  § 3. This act shall take effect on the thirtieth day  after  it  shall
- have  become  a law and shall be applicable to contracts entered into or
+  §  3.  This  act shall take effect on the thirtieth day after it shall
+ have become a law and shall be applicable to contracts entered  into  or
  modified on or after such effective date.
