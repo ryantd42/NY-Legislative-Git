@@ -1,6 +1,6 @@
 # Authorizes the state university of New York to lease a portion of the lands on the campus of SUNY Buffalo State University for the relocation and operation of the Leonardo da Vinci High School
 
-**Bill ID:** S7443A
+**Bill ID:** S7443AA
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the state university of New York to lease a portion of the lands on t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7443
+  7443--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  RYAN  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Higher Education
+  printed to be committed  to  the  Committee  on  Higher  Education  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT authorizing the state university of New York to lease  a  portion
   of  the  lands  on the campus of SUNY Buffalo State University for the
@@ -57,13 +59,13 @@ S T A T E  O F  N E W  Y O R K
   Finally, the legislature finds that granting the trustees of the state
  university of New York the authority and power to  lease  and  otherwise
  contract  to  make  available the aforementioned grounds and facility on
- the campus of the SUNY Buffalo State University for these purposes  will
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11635-02-3
- S. 7443  2
+  LBD11635-03-3
+ S. 7443--A  2
  
+ the campus of the SUNY Buffalo State University for these purposes  will
  promote  the  provision  of educational opportunities for the University
  and the surrounding community.
   §  2. Notwithstanding any other law to the contrary, the state univer-
@@ -118,125 +120,125 @@ S T A T E  O F  N E W  Y O R K
  administrative  costs for the project, attestation that the district has
  sufficient reserves to cover such costs and an outline of the time-frame
  expected for completion of the project.
+ S. 7443--A  3
+
   § 5. The city school district of the  city  of  Buffalo  shall  submit
  estimated project costs for the renovation and equipping of the Leonardo
- S. 7443  3
- 
  da  Vinci High School after completion of schematic plans and specifica-
  tions for review by the commissioner of education. If the total  project
  costs  associated  with such project exceeds the approved cost allowance
- of  such building project and the city school district has not otherwise
+ of such building project and the city school district has not  otherwise
  demonstrated to the satisfaction of the New York state education depart-
  ment the availability of additional reserves for such excess costs, then
- the district shall not proceed with the preparation of final  plans  and
+ the  district  shall not proceed with the preparation of final plans and
  specifications for such project until the project has been redesigned or
- value-engineered  to  reduce estimated project costs so as not to exceed
+ value-engineered to reduce estimated project costs so as not  to  exceed
  the above cost limits.
-  § 6. The property authorized by this  act  to  be  leased  to  Buckham
- Development  Corporation  is  generally described as Buckham Hall and is
- located on the Buffalo State University Campus, 1300 Elmwood Avenue,  in
+  §  6.  The  property  authorized  by  this act to be leased to Buckham
+ Development Corporation is generally described as Buckham  Hall  and  is
+ located  on the Buffalo State University Campus, 1300 Elmwood Avenue, in
  Buffalo, New York. The building was built in 1966 and is situated on the
- west  end of campus at the north-east corner of the intersection of Rees
- St. and Rockwell Rd. Buckham Hall is 203,437 gsf, constructed  of  steel
- skeleton  and  masonry  walls,  and  originally designed as a K-8 public
+ west end of campus at the north-east corner of the intersection of  Rees
+ St.  and  Rockwell Rd. Buckham Hall is 203,437 gsf, constructed of steel
+ skeleton and masonry walls, and originally  designed  as  a  K-8  public
  school. The building is comprised of five wings with breezeways separat-
- ing four wings from the center wing: A-wing (center) 3 stories;  B-wing,
- 2  stories; C-wing, 1 story; D-wing, 2 stories; and E-wing, 1 story. The
- main entrance is in the lobby between the A and E-wings facing Rees  St.
- with  a front lawn, concrete plaza entrance, and sidewalk along Rees St.
- The north side is lawn with sidewalks leading from building exits  north
- to  Bengal  Walk,  an east-west main pedestrian campus walkway. All that
- certain plot, piece or parcel of land, situate,  lying  and  being  more
+ ing  four wings from the center wing: A-wing (center) 3 stories; B-wing,
+ 2 stories; C-wing, 1 story; D-wing, 2 stories; and E-wing, 1 story.  The
+ main  entrance is in the lobby between the A and E-wings facing Rees St.
+ with a front lawn, concrete plaza entrance, and sidewalk along Rees  St.
+ The  north side is lawn with sidewalks leading from building exits north
+ to Bengal Walk, an east-west main pedestrian campus  walkway.  All  that
+ certain  plot,  piece  or  parcel of land, situate, lying and being more
  particularly bounded and described as follows:
-  BEGINNING  at  the  southeasterly  brick building corner of a building
+  BEGINNING at the southeasterly brick building  corner  of  a  building
  known as Buckham Hall Area "D";
   THENCE north along the easterly brick face from the said southwesterly
- building corner, a distance of one  hundred  sixty-five  and  two-tenths
+ building  corner,  a  distance  of one hundred sixty-five and two-tenths
  feet, plus or minus (165.2) to a corner of said building;
   THENCE continuing and intended to follow along the brick building face
  of said Buckham Hall the following fifty (50) directions and distances;
-  1.  THENCE  West,  a distance of one hundred seven and no tenths feet,
+  1. THENCE West, a distance of one hundred seven and  no  tenths  feet,
  plus or minus (107.0) to a corner of said building;
-  2. South, a distance of one hundred twenty-five and  two-tenths  feet,
+  2.  South,  a distance of one hundred twenty-five and two-tenths feet,
  plus or minus (125.2) to a corner of said building;
-  3.  West  thirty-eight  and six-tenths feet, plus or minus (38.6) to a
+  3. West thirty-eight and six-tenths feet, plus or minus  (38.6)  to  a
  corner of said building face;
-  4. North, a distance of twenty-nine and  seven-tenths  feet,  plus  or
+  4.  North,  a  distance  of twenty-nine and seven-tenths feet, plus or
  minus (29.7) to a corner of said building;
-  5.  West, a distance of thirty-five and six-tenths feet, plus or minus
+  5. West, a distance of thirty-five and six-tenths feet, plus or  minus
  (35.6) to a corner of said building;
-  6. North, a distance of nine and no tenths feet, plus or  minus  (9.0)
+  6.  North,  a distance of nine and no tenths feet, plus or minus (9.0)
  to a corner of said building;
-  7.  West,  a  distance of sixteen and three-tenths feet, plus or minus
+  7. West, a distance of sixteen and three-tenths feet,  plus  or  minus
  (16.3) to a corner of said building;
-  8. South, a distance of nine and no tenths feet, plus or  minus  (9.0)
+  8.  South,  a distance of nine and no tenths feet, plus or minus (9.0)
  to a corner of said building;
-  9.  West,  a  distance  of  seventy  and no tenths feet, plus or minus
+  9. West, a distance of seventy and  no  tenths  feet,  plus  or  minus
  (70.0) to a corner of said building;
-  10. North, a distance of eighteen and five-tenths feet, plus or  minus
+  10.  North, a distance of eighteen and five-tenths feet, plus or minus
  (18.5) to a corner of said building;
+ S. 7443--A  4
+ 
   11. East, a distance of six and seven-tenths feet, plus or minus (6.7)
  to a corner of said building;
- S. 7443  4
- 
   12.  North,  a  distance of one hundred forty-four and one-tenth feet,
  plus or minus (144.1) to a corner of said building;
-  13.  West,  a  distance  of  one hundred thirty-seven and three-tenths
+  13. West, a distance of  one  hundred  thirty-seven  and  three-tenths
  feet, plus or minus (137.3) to a corner of said building;
-  14. South, a distance of one hundred forty-four  feet  and  no  tenths
+  14.  South,  a  distance  of one hundred forty-four feet and no tenths
  feet, plus or minus (144.0) to a corner of said building;
   15. East, a distance of sixty-five and nine-tenths feet, plus or minus
  (65.9) to a corner of said building;
-  16.  South, a distance of eighteen and five-tenths feet, plus or minus
+  16. South, a distance of eighteen and five-tenths feet, plus or  minus
  (18.5) to a corner of said building;
   17. West, a distance of six and no tenths feet, plus or minus (6.0) to
  a corner of said building;
-  18. South, a distance of thirty-five  and  six-tenths  feet,  plus  or
+  18.  South,  a  distance  of  thirty-five and six-tenths feet, plus or
  minus (35.6) to a corner of said building;
-  19.  West,  a distance of nine and no tenths feet, plus or minus (9.0)
+  19. West, a distance of nine and no tenths feet, plus or  minus  (9.0)
  to a corner of said building;
-  20. South, a distance of sixteen and four-tenths feet, plus  or  minus
+  20.  South,  a distance of sixteen and four-tenths feet, plus or minus
  (16.4) to a corner of said building;
-  21.  East,  a  distance  of  eight and nine-tenths feet, plus or minus
+  21. East, a distance of eight and  nine-tenths  feet,  plus  or  minus
  (8.9) to a corner of said building;
-  22. South, a distance of ninety-three and  six-tenths  feet,  plus  or
+  22.  South,  a  distance  of ninety-three and six-tenths feet, plus or
  minus (93.6) to a corner of said building;
-  23.  West,  a distance of eighteen and five-tenths feet, plus or minus
+  23. West, a distance of eighteen and five-tenths feet, plus  or  minus
  (18.5) to a corner of said building;
-  24. North, a distance of nine and  nine-tenths  feet,  plus  or  minus
+  24.  North,  a  distance  of  nine and nine-tenths feet, plus or minus
  (9.9) to a corner of said building;
   25. West, a distance of eighty-one and nine-tenths feet, plus or minus
  (81.9) to a corner of said building;
-  26.  South, a distance of one hundred forty-one and seven-tenths feet,
+  26. South, a distance of one hundred forty-one and seven-tenths  feet,
  plus or minus (141.7) to a corner of said building;
-  27. East, a distance of eighty-two and no tenths feet, plus  or  minus
+  27.  East,  a distance of eighty-two and no tenths feet, plus or minus
  (82.0) to a corner of said building;
-  28.  North,  a  distance of eighty-eight and five-tenths feet, plus or
+  28. North, a distance of eighty-eight and five-tenths  feet,  plus  or
  minus (88.5) to a corner of said building;
-  29. East, a distance of eighteen and four-tenths feet, plus  or  minus
+  29.  East,  a distance of eighteen and four-tenths feet, plus or minus
  (18.4) to a corner of said building;
-  30.  South, a distance of four and no tenths feet, plus or minus (4.0)
+  30. South, a distance of four and no tenths feet, plus or minus  (4.0)
  to a corner of said building;
-  31. East, a distance of thirty-five and  eight-tenths  feet,  plus  or
+  31.  East,  a  distance  of thirty-five and eight-tenths feet, plus or
  minus (35.8) to a corner of said building;
-  32.  South, a distance of nine and no tenths feet, plus or minus (9.0)
+  32. South, a distance of nine and no tenths feet, plus or minus  (9.0)
  to a corner of said building;
-  33. East, a distance of sixteen and three-tenths feet, plus  or  minus
+  33.  East,  a distance of sixteen and three-tenths feet, plus or minus
  (16.3) to a corner of said building;
-  34.  North, a distance of nine and no tenths feet, plus or minus (9.0)
+  34. North, a distance of nine and no tenths feet, plus or minus  (9.0)
  to a corner of said building;
-  35. East, a distance of ninety-nine and  three-tenths  feet,  plus  or
+  35.  East,  a  distance  of ninety-nine and three-tenths feet, plus or
  minus (99.3) to a corner of said building;
-  36.  South, a distance of eighteen and four-tenths feet, plus or minus
+  36. South, a distance of eighteen and four-tenths feet, plus or  minus
  (18.4) to a corner of said building;
-  37. West, a distance of seventeen and nine-tenths feet, plus or  minus
+  37.  West, a distance of seventeen and nine-tenths feet, plus or minus
  (17.9) to a corner of said building;
   38. South, a distance of one hundred two and nine-tenths feet, plus or
  minus (102.9) to a corner of said building.
+ S. 7443--A  5
+ 
   39. East, a distance of eighty-nine and six-tenths feet, plus or minus
  (89.6) to a corner of said building;
- S. 7443  5
-
   40. North, a distance of one hundred two and nine-tenths feet, plus or
  minus (102.9) to a corner of said building;
   41.  West,  a  distance  of thirty-seven and five-tenths feet, plus or
@@ -290,67 +292,67 @@ S T A T E  O F  N E W  Y O R K
  ham Hall the following twenty-four (24) directions and distances;
   1. South, a distance of one hundred twenty-five and  two-tenths  feet,
  plus or minus (125.2) to a corner of said building;
+ S. 7443--A  6
+
   2.  West  thirty-eight  and six-tenths feet, plus or minus (38.6) to a
  corner of said building face;
- S. 7443  6
- 
-  3. North, a distance of twenty-nine and  seven-tenths  feet,  plus  or
+  3.  North,  a  distance  of twenty-nine and seven-tenths feet, plus or
  minus (29.7) to a corner of said building;
-  4.  West, a distance of thirty-five and six-tenths feet, plus or minus
+  4. West, a distance of thirty-five and six-tenths feet, plus or  minus
  (35.6) to a corner of said building;
-  5. North, a distance of nine and no tenths feet, plus or  minus  (9.0)
+  5.  North,  a distance of nine and no tenths feet, plus or minus (9.0)
  to a corner of said building;
-  6.  West,  a  distance of sixteen and three-tenths feet, plus or minus
+  6. West, a distance of sixteen and three-tenths feet,  plus  or  minus
  (16.3) to a corner of said building;
-  7. South, a distance of nine and no tenths feet, plus or  minus  (9.0)
+  7.  South,  a distance of nine and no tenths feet, plus or minus (9.0)
  to a corner of said building;
-  8.  West,  a  distance  of  seventy  and no tenths feet, plus or minus
+  8. West, a distance of seventy and  no  tenths  feet,  plus  or  minus
  (70.0) to a corner of said building;
-  9. North, a distance of eighteen and five-tenths feet, plus  or  minus
+  9.  North,  a distance of eighteen and five-tenths feet, plus or minus
  (18.5) to a corner of said building;
   10. East, a distance of six and seven-tenths feet, plus or minus (6.7)
  to a corner of said building;
-  11.  North,  a  distance of one hundred forty-four and one-tenth feet,
+  11. North, a distance of one hundred forty-four  and  one-tenth  feet,
  plus or minus (144.1) to a corner of said building;
-  12. West, a distance of  one  hundred  thirty-seven  and  three-tenths
+  12.  West,  a  distance  of  one hundred thirty-seven and three-tenths
  feet, plus or minus (137.3) to a corner of said building;
-  13.  South,  a  distance of one hundred forty-four and no tenths feet,
+  13. South, a distance of one hundred forty-four and  no  tenths  feet,
  plus or minus (144.0) to a corner of said building;
   14. East, a distance of sixty-five and nine-tenths feet, plus or minus
  (65.9) to a corner of said building;
-  15. South, a distance of eighteen and five-tenths feet, plus or  minus
+  15.  South, a distance of eighteen and five-tenths feet, plus or minus
  (18.5) to a corner of said building;
   16. West, a distance of six and no tenths feet, plus or minus (6.0) to
  a corner of said building;
-  17.  South,  a  distance  of  thirty-five and six-tenths feet, plus or
+  17. South, a distance of thirty-five  and  six-tenths  feet,  plus  or
  minus (35.6) to a corner of said building;
-  18. West, a distance of nine and no tenths feet, plus or  minus  (9.0)
+  18.  West,  a distance of nine and no tenths feet, plus or minus (9.0)
  to a corner of said building;
-  19.  South,  a distance of sixteen and four-tenths feet, plus or minus
+  19. South, a distance of sixteen and four-tenths feet, plus  or  minus
  (16.4) to a corner of said building;
-  20. East, a distance of eight and  nine-tenths  feet,  plus  or  minus
+  20.  East,  a  distance  of  eight and nine-tenths feet, plus or minus
  (8.9) to a corner of said building;
-  21.  South,  a  distance  of ninety-three and six-tenths feet, plus or
+  21. South, a distance of ninety-three and  six-tenths  feet,  plus  or
  minus (93.6) to a corner of said building;
-  22. West, a distance of eighteen and five-tenths feet, plus  or  minus
+  22.  West,  a distance of eighteen and five-tenths feet, plus or minus
  (18.5) to a corner of said building;
-  23.  North,  a  distance  of  nine and nine-tenths feet, plus or minus
+  23. North, a distance of nine and  nine-tenths  feet,  plus  or  minus
  (9.9) to a corner of said building;
-  24. West, a distance of eighty-one  and  nine-tenths,  plus  or  minus
+  24.  West,  a  distance  of  eighty-one and nine-tenths, plus or minus
  (81.9) to a corner of said building;
   THENCE South along the westerly wall of said Buckham Hall, Area "B", a
- distance  of  one hundred forty-one and seven-tenths feet, plus or minus
+ distance of one hundred forty-one and seven-tenths feet, plus  or  minus
  (141.7) to the POINT of BEGINNING.
   Containing within said bounds 1.78 acres, more or less, and;
-  BEGINNING at the southeasterly brick building  corner  of  a  building
+  BEGINNING  at  the  southeasterly  brick building corner of a building
  known as Buckham Hall Area "D";
   THENCE north along the easterly brick face from the said southwesterly
- building  corner,  a  distance  of one hundred sixty-five and two-tenths
+ building corner, a distance of one  hundred  sixty-five  and  two-tenths
  feet, plus or minus (165.2) to a corner of said building;
-  THENCE West, a distance of one hundred seven and no tenths feet,  plus
- or minus (107.0) to a corner of said building;
- S. 7443  7
+ S. 7443--A  7
  
+  THENCE  West, a distance of one hundred seven and no tenths feet, plus
+ or minus (107.0) to a corner of said building;
   THENCE  continuing  west,  a  distance  of one hundred thirty-five and
  two-tenths feet, more or less (135.2) to a point  distant  five  and  no
  tenths feet (5.0) east of the easterly edge of the existing sidewalk;
@@ -372,7 +374,13 @@ S T A T E  O F  N E W  Y O R K
   THENCE West at right angles, a distance of forty-five and  four-tenths
  feet, plus or minus (45.4) to the POINT of BEGINNING.
   Containing within said bounds .67 acres, more or less.
-  § 7. Paragraph a of subdivision 6 of section 3602 of the education law
+  §  7.  Nothing in this act shall  result  in  the  displacement of any
+ currently employed state worker  or  the  loss  of  position  (including
+ partial  displacement such  as  reduction  in  the  hours  of non-over-
+ time, wages or employment benefits), or  result  in  the  impairment  of
+ existing contracts for services or  collective  bargaining rights pursu-
+ ant  to existing agreements.
+  § 8. Paragraph a of subdivision 6 of section 3602 of the education law
  is amended by adding a new subparagraph 10 to read as follows:
   (10)  NOTWITHSTANDING  ANY OTHER PROVISION OF LAW TO THE CONTRARY, FOR
  THE PURPOSE OF COMPUTATION OF BUILDING AID FOR THE RENOVATION AND EQUIP-
@@ -380,7 +388,7 @@ S T A T E  O F  N E W  Y O R K
  THE  CITY  SCHOOL DISTRICT OF THE CITY OF BUFFALO THE BUILDING AID UNITS
  ASSIGNED TO THIS PROJECT SHALL REFLECT A BUILDING AID ENROLLMENT OF FOUR
  HUNDRED TWENTY STUDENTS.
-  § 8. Insofar as the provisions of this act are inconsistent  with  the
+  § 9. Insofar as the provisions of this act are inconsistent  with  the
  provisions of any law, general, special or local, the provisions of this
  act shall be controlling.
-  § 9. This act shall take effect immediately.
+  § 10. This act shall take effect immediately.
