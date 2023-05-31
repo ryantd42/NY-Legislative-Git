@@ -1,6 +1,6 @@
 # Requires certain notices be posted and provided regarding long term care insurance policy changes
 
-**Bill ID:** S2330B
+**Bill ID:** S2330BA
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Requires the superintendent of financial services to make public any rate filing
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2330
+  2330--A
+  Cal. No. 346
  
   2023-2024 Regular Sessions
  
@@ -26,78 +27,71 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MAYER  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Insurance
+  printed to be committed to the  Committee  on  Insurance  --  reported
+  favorably  from  said  committee,  ordered to first and second report,
+  ordered to a third reading, passed by  Senate  and  delivered  to  the
+  Assembly,  recalled,  vote  reconsidered,  restored  to third reading,
+  amended and ordered reprinted, retaining its place  in  the  order  of
+  third reading
  
- AN ACT to amend the insurance law,  in  relation  to  requiring  certain
-  notices  be  posted  and  provided  regarding long term care insurance
+ AN  ACT  to  amend  the  insurance law, in relation to requiring certain
+  notices be posted and provided  regarding  long  term  care  insurance
   policy changes
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Subparagraphs (E) and (F) of paragraph 6 of subsection (b)
- of section 1117 of the insurance law, as amended by chapter 424  of  the
+  Section 1. Subparagraphs (E) and (F) of paragraph 6 of subsection  (b)
+ of  section  1117 of the insurance law, as amended by chapter 424 of the
  laws of 2016, are amended and ten new  subparagraphs (G), (H), (I), (J),
  (K), (L), (M), (N), (O) and (P) are added to read as follows:
-  (E)  A graphic demonstration of the maximum daily nursing home benefit
- level provided by the policy or certificate, and  the  impact  that  the
+  (E) A graphic demonstration of the maximum daily nursing home  benefit
+ level  provided  by  the  policy or certificate, and the impact that the
  selection of any inflation protection options would have on such maximum
  daily nursing home benefit level; [and]
-  (F)  The  right  of the prospective insured, upon attaining the age of
- sixty-five years, to designate a third party who will receive a copy  of
- any  notices of nonpayment of premiums due or notice of cancellation for
+  (F) The right of the prospective insured, upon attaining  the  age  of
+ sixty-five  years, to designate a third party who will receive a copy of
+ any notices of nonpayment of premiums due or notice of cancellation  for
  nonpayment of premiums that is sent to the prospective insured[.];
-  (G) (I) A WRITTEN STATEMENT AS  TO  WHETHER  THE  INSURER  ANTICIPATES
- REQUESTING  INCREASES  OF  PREMIUM  RATES FOR SUCH POLICY OR CERTIFICATE
+  (G)  (I)  A  WRITTEN  STATEMENT  AS TO WHETHER THE INSURER ANTICIPATES
+ REQUESTING INCREASES OF PREMIUM RATES FOR  SUCH  POLICY  OR  CERTIFICATE
  OVER THE NEXT TEN YEARS; AND
-  (II) A LIST OF PAST PREMIUM RATE INCREASES FOR SUCH POLICY OR  CERTIF-
- ICATE  OVER THE PREVIOUS TEN YEARS, OR IF SUCH POLICY OR CERTIFICATE WAS
+  (II)  A LIST OF PAST PREMIUM RATE INCREASES FOR SUCH POLICY OR CERTIF-
+ ICATE OVER THE PREVIOUS TEN YEARS, OR IF SUCH POLICY OR CERTIFICATE  WAS
  NOT OFFERED OVER THE PREVIOUS TEN YEARS, PAST PREMIUM RATE INCREASES FOR
  SIMILAR POLICIES OR CERTIFICATES OVER THE PREVIOUS TEN YEARS;
-  (H) DIRECTIONS ON HOW TO OBTAIN  INFORMATION  ABOUT  THE  DEPARTMENT'S
- REVIEW  OF  ANY  RATE FILING OR APPLICATION, CONTACT INFORMATION FOR THE
- DEPARTMENT, AND INFORMATION ON HOW  TO  CONTACT  THE  INSURER  FOR  MORE
- INFORMATION;
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01132-02-3
- S. 2330  2
+  LBD01132-05-3
+ S. 2330--A  2
  
+  (H)  DIRECTIONS  ON  HOW  TO OBTAIN INFORMATION ABOUT THE DEPARTMENT'S
+ REVIEW OF ANY RATE FILING OR APPLICATION, CONTACT  INFORMATION  FOR  THE
+ DEPARTMENT,  AND  INFORMATION  ON  HOW  TO  CONTACT THE INSURER FOR MORE
+ INFORMATION;
   (I)  WHETHER OR NOT THERE IS AN INITIAL PERIOD IN WHICH RATES WILL NOT
  CHANGE, AND IF SO, WHEN THAT TIME PERIOD EXPIRES;
   (J) A DESCRIPTION OF WHETHER OR NOT THE PREMIUM MAY CHANGE, AND IF SO,
- THE  CIRCUMSTANCES  UNDER  WHICH  ANY  SUCH PREMIUM CHANGES COULD OCCUR,
+ THE CIRCUMSTANCES UNDER WHICH ANY  SUCH  PREMIUM  CHANGES  COULD  OCCUR,
  INCLUDING WHETHER THE DEPARTMENT MUST APPROVE SUCH CHANGES;
-  (K) WHETHER THE POLICY CONTAINS PROVISIONS PROVIDING FOR A  REFUND  OR
- PARTIAL  REFUND OF PREMIUM UPON THE SURRENDER OF THE POLICY, AND IF SUCH
+  (K)  WHETHER  THE POLICY CONTAINS PROVISIONS PROVIDING FOR A REFUND OR
+ PARTIAL REFUND OF PREMIUM UPON THE SURRENDER OF THE POLICY, AND IF  SUCH
  PROVISIONS EXIST, PROVIDE A DESCRIPTION OF THEIR TERMS;
-  (L) A DESCRIPTION OF THE OPTIONS POLICYHOLDERS WILL HAVE  TO  MITIGATE
+  (L)  A  DESCRIPTION OF THE OPTIONS POLICYHOLDERS WILL HAVE TO MITIGATE
  ANY FUTURE PREMIUM INCREASES;
-  (M)  A  DESCRIPTION  OF THE OPTIONS POLICYHOLDERS WILL HAVE SHOULD THE
- PREMIUMS INCREASE, AND THE POLICYHOLDER DEEMS IT IN THEIR BEST  INTEREST
+  (M) A DESCRIPTION OF THE OPTIONS POLICYHOLDERS WILL  HAVE  SHOULD  THE
+ PREMIUMS  INCREASE, AND THE POLICYHOLDER DEEMS IT IN THEIR BEST INTEREST
  TO SURRENDER THE POLICY;
-  (N)  A  STATEMENT  THAT  THE POLICYHOLDER WILL BE GIVEN AT LEAST SIXTY
+  (N) A STATEMENT THAT THE POLICYHOLDER WILL BE  GIVEN  AT  LEAST  SIXTY
  DAYS NOTICE BEFORE ANY PREMIUM CHANGE TAKES EFFECT;
   (O) A STATEMENT THAT IF THE COMPANY SEEKS TO INCREASE THE PREMIUM, THE
- DEPARTMENT WILL POST NOTICE OF THE RATE FILING ON ITS WEBSITE  PRIOR  TO
+ DEPARTMENT  WILL  POST NOTICE OF THE RATE FILING ON ITS WEBSITE PRIOR TO
  ANY DETERMINATION BY THE DEPARTMENT; AND
-  (P)  THE RIGHT OF THE PROSPECTIVE INSURED TO SUBMIT PUBLIC COMMENTS ON
- ANY RATE FILING OR APPLICATION REGARDING PREMIUM RATES  ON  THE  DEPART-
+  (P) THE RIGHT OF THE PROSPECTIVE INSURED TO SUBMIT PUBLIC COMMENTS  ON
+ ANY  RATE  FILING  OR APPLICATION REGARDING PREMIUM RATES ON THE DEPART-
  MENT'S WEBSITE.
-  §  2.  Paragraph  3 of subsection (f) of section 1117 of the insurance
- law, as added by chapter 245 of the laws of 1986, is amended to read  as
- follows:
-  (3)  (A)  the premium rates for the long term care plan are reasonably
- related to the benefits provided, [and] are self-supporting, AND ARE  IN
- THE BEST INTERESTS OF POLICYHOLDERS AND CERTIFICATE HOLDERS.
-  (B)  "BEST INTERESTS OF POLICYHOLDERS AND CERTIFICATE HOLDERS" FOR THE
- PURPOSES OF THIS PARAGRAPH SHALL MEAN THAT THE PREMIUM RATE INCREASE  IS
- SUFFICIENT  TO  COVER ANTICIPATED COSTS UNDER MODERATELY ADVERSE EXPERI-
- ENCE AND THAT THE PREMIUM RATE SCHEDULE IS  REASONABLY  EXPECTED  TO  BE
- SUSTAINABLE  OVER  THE  LIFE OF THE POLICY OR CERTIFICATE WITH NO FUTURE
- PREMIUM INCREASE ANTICIPATED; and
-  § 3. Section 1117 of the insurance law is amended by adding  four  new
+  § 2. Section 1117 of the insurance law is amended by adding  four  new
  subsections (h), (i), (j) and (k) to read as follows:
   (H)  THE  DEPARTMENT  SHALL POST ON ITS WEBSITE INFORMATION DESCRIBING
  THE PROCESS THAT IT USES IN REVIEWING AND APPROVING  PREMIUM  RATES  FOR
@@ -119,8 +113,6 @@ S T A T E  O F  N E W  Y O R K
   (1)  A  SUMMARY  OF THE DETERMINATIONS MADE AND CONSIDERATIONS USED BY
  THE DEPARTMENT REGARDING THE APPROVAL, DISAPPROVAL  OR  MODIFICATION  OF
  SUCH RATE FILING OR APPLICATION, AND
- S. 2330  3
- 
   (2)  A  STATEMENT  WITH RELEVANT DETAIL AS TO WHY THE APPROVAL, DISAP-
  PROVAL OR MODIFICATION OF THE  PROPOSAL  IS  CONSISTENT  WITH  PARAGRAPH
  THREE OF SUBSECTION (F) OF THIS SECTION.
@@ -130,21 +122,14 @@ S T A T E  O F  N E W  Y O R K
  THE  SUPERINTENDENT  WITH  RESPECT TO A RATE FILING APPLICATION WITH THE
  DEPARTMENT, SUCH INSURER, CORPORATION, HEALTH  MAINTENANCE  ORGANIZATION
  OR  FRATERNAL BENEFIT SOCIETY SHALL NOTIFY POLICYHOLDERS AND CERTIFICATE
+ S. 2330--A  3
+ 
  HOLDERS OF SUCH DECISION WITHIN FORTY-FIVE DAYS AND IN  NO  EVENT  LATER
  THAN  SIXTY  DAYS  PRIOR  TO  THE  EFFECTIVE  DATE  OF  THE PREMIUM RATE
  INCREASE.  SUCH NOTIFICATION SHALL INCLUDE:
   (1) A DESCRIPTION OF SUCH DECISION; AND
-  (2) A WRITTEN STATEMENT CONFORMING TO THE REQUIREMENTS  SET  FORTH  IN
+  (2)  A  WRITTEN  STATEMENT CONFORMING TO THE REQUIREMENTS SET FORTH IN
  SUBPARAGRAPH (G) OF PARAGRAPH SIX OF SUBSECTION (B) OF THIS SECTION.
-  §  4. The insurance law is amended by adding a new section 334 to read
- as follows:
-  § 334. MINIMUM LOSS RATIO STANDARDS; LONG TERM  CARE  INSURANCE.  IN
- ESTABLISHING  MINIMUM  BENEFIT  STANDARDS  FOR  LONG TERM CARE INSURANCE
- PLANS PURSUANT TO THIS ARTICLE, THE  SUPERINTENDENT  SHALL  ENSURE  THAT
- MINIMUM  LOSS RATIO STANDARDS ARE NO LESS FAVORABLE TO POLICYHOLDERS AND
- CERTIFICATE HOLDERS THAN THOSE SPECIFIED BY THE  MODEL  REGULATIONS  FOR
- LONG  TERM  CARE  INSURANCE  AS PUBLISHED BY THE NATIONAL ASSOCIATION OF
- INSURANCE COMMISSIONERS, AS UPDATED FROM TIME TO TIME.
-  § 5. This act shall take effect on the one hundred eightieth day after
+  § 3. This act shall take effect on the one hundred eightieth day after
  it shall have become a law, and shall apply to any rate filing submitted
  on or after such date.
