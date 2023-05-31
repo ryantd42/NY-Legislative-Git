@@ -1,6 +1,6 @@
 # Adds sewer connections to the septic system replacement fund
 
-**Bill ID:** A7538A
+**Bill ID:** A7538AA
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Adds sewer connections to the septic system replacement fund to residential sewe
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7538
+  7538--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. SILLITTI -- read once and referred to the Commit-
-  tee on Environmental Conservation
+  tee  on  Environmental  Conservation  --  committee  discharged,  bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to  amend the public authorities law, in relation to the septic
   system replacement and sewer connection fund
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Section 1285-u of the public authorities law, as added by
  section 9 of part T of chapter 57 of the laws of 2017, paragraph (a)  of
  subdivision 2 and subdivision 3 as amended by chapter 363 of the laws of
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  parcel of land, including residences and small businesses.
   (e) "Septic system project" means the replacement of a cesspool with a
  septic system, the installation, replacement  or  upgrade  of  a  septic
- system  or  septic system components, or installation of enhanced treat-
- ment technologies, including an advanced  nitrogen  removal  system,  to
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11396-02-3
- A. 7538  2
+  LBD11396-03-3
+ A. 7538--A  2
  
+ system  or  septic system components, or installation of enhanced treat-
+ ment technologies, including an advanced  nitrogen  removal  system,  to
  significantly and quantifiably reduce environmental and/or public health
  impacts  associated  with  effluent  from a cesspool or septic system to
  groundwater used as drinking water,  or  a  threatened  or  an  impaired
@@ -77,16 +79,17 @@ S T A T E  O F  N E W  Y O R K
   2.  (a) There is hereby created the state  septic  system  replacement
  AND  SEWER  CONNECTION  fund,  which shall be administered by the corpo-
  ration to reimburse property owners or at the written request of a prop-
- erty owner, the septic  system  installer  contracted  by  the  property
- owner, for up to fifty percent of the eligible costs incurred for eligi-
- ble  septic  system  projects  OR RESIDENTIAL SEWER CONNECTION PROJECTS,
- provided that no property owner shall be reimbursed more than ten  thou-
- sand  dollars and no septic system installer may be reimbursed more than
- ten thousand dollars per property.
-  (b) Eligible costs include design and installation costs, and costs of
- the system, system components, or enhanced treatment  technologies,  but
- shall  not  include  costs associated with routine maintenance such as a
- pump out of a septic tank AND SEWER CONNECTION COSTS.
+ erty owner, the septic system installer OR LICENSED  PLUMBER  contracted
+ by  the  property  owner,  for up to fifty percent of the eligible costs
+ incurred for  eligible  septic  system  projects  OR  RESIDENTIAL  SEWER
+ CONNECTION PROJECTS, provided that no property owner shall be reimbursed
+ more  than  ten  thousand  dollars  and  no  septic  system installer OR
+ LICENSED PLUMBER may be reimbursed more than ten  thousand  dollars  per
+ property.
+  (b)  Eligible  costs  include  design  and  installation  costs, SEWER
+ CONNECTION COSTS,  and  costs  of  the  system,  system  components,  or
+ enhanced  treatment technologies, but shall not include costs associated
+ with routine maintenance such as a pump out of a septic tank.
   (c) The department of environmental conservation, in consultation with
  the department of health and participating counties, shall from the list
  of participating counties establish priority geographic  areas  and,  in
@@ -118,10 +121,10 @@ S T A T E  O F  N E W  Y O R K
  must reduce nitrogen levels by at least thirty percent.
   (e)  The  corporation  shall  make payments monthly to a participating
  county upon the receipt by the corporation of a certification  from  the
+ A. 7538--A  3
+ 
  participating  county  of  the  total  costs incurred by property owners
  within its municipal boundaries for septic system  OR  SEWER  CONNECTION
- A. 7538  3
- 
  projects  within  its  municipal  boundaries  that  are  eligible  for
  reimbursement from the fund.
   3.  (a) A participating county shall notify property owners who may be
@@ -157,8 +160,8 @@ S T A T E  O F  N E W  Y O R K
  SEWER CONNECTION PROJECT;
   (iv) description of all work completed;
   (v) cost documentation and invoice or invoices for eligible costs; and
-  (vi) any written  authorization  for  a  septic  system  installer  to
- receive reimbursement directly.
+  (vi) any written authorization for a septic system installer OR  PLUM-
+ BER to receive reimbursement directly.
   (e)  Participating  counties  will  be responsible for reviewing their
  property owners' applications and approving, modifying  or  denying  the
  reimbursement requests as appropriate and issuing reimbursement payments
@@ -176,9 +179,9 @@ S T A T E  O F  N E W  Y O R K
  president of the senate and the speaker of the assembly a report regard-
  ing the program. Such report shall include, but shall not be limited to,
  the  number  and amount of grants provided, the number and amount of any
- grants denied, geographic distribution of such projects  and  any  other
- A. 7538  4
+ A. 7538--A  4
  
+ grants denied, geographic distribution of such projects  and  any  other
  information the corporation determines useful in evaluating the benefits
  of the program.
   § 2.  This act shall take effect immediately.
