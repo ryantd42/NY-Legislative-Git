@@ -1,6 +1,6 @@
 # Authorizes certain groups to adopt a plan for self-insurance as a group to be known as a public group self-insurer
 
-**Bill ID:** S6410A
+**Bill ID:** S6410AA
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Authorizes certain groups to adopt a plan for self-insurance as a group to be kn
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6410
+  6410--A
+  Cal. No. 1064
  
   2023-2024 Regular Sessions
  
@@ -25,8 +26,14 @@ S T A T E  O F  N E W  Y O R K
   April 18, 2023
   ___________
  
- Introduced  by  Sen.  RAMOS  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Insurance
+ Introduced  by  Sens.  RAMOS,  GRIFFO, SKOUFIS -- read twice and ordered
+  printed, and when printed to be committed to the Committee  on  Insur-
+  ance  --  reported  favorably from said committee and committed to the
+  Committee on Labor -- reported favorably from said committee,  ordered
+  to  first  and  second  report,  ordered to a third reading, passed by
+  Senate and delivered to the  Assembly,  recalled,  vote  reconsidered,
+  restored  to  third  reading, amended and ordered reprinted, retaining
+  its place in the order of third reading
  
  AN ACT to amend the insurance law, the workers'  compensation  law,  the
   volunteer  firefighters' benefit law, the volunteer ambulance workers'
@@ -53,54 +60,49 @@ S T A T E  O F  N E W  Y O R K
  is added to read as follows:
   (a) Any group consisting exclusively of such  employers  may  adopt  a
  plan  for  self-insurance,  as  a group, for the payment of compensation
- under this chapter to their employees, except that  no  new  groups  may
- adopt  such  a plan, and no group not composed solely of public entities
- set forth in SUBPARAGRAPH (A-1) OF THIS paragraph [a of subdivision four
- of this section] may insure any liabilities for  any  employers  on  and
- after  January  first,  two  thousand  twelve, except as provided for in
- paragraph ten of this subdivision.  Under  such  plan  the  group  shall
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10394-01-3
- S. 6410  2
+  LBD10394-02-3
+ S. 6410--A  2
  
- assume  the  liability of all the employers within the group and pay all
+ under this chapter to their employees, except that  no  new  groups  may
+ adopt  such  a plan, and no group not composed solely of public entities
+ set forth in SUBPARAGRAPH (A-1) OF THIS paragraph [a of subdivision four
+ of  this  section]  may  insure any liabilities for any employers on and
+ after January first, two thousand twelve,  except  as  provided  for  in
+ paragraph  ten  of  this  subdivision.  Under  such plan the group shall
+ assume the liability of all the employers within the group and  pay  all
  compensation for which the said employers are liable under this chapter,
- except that in the case of [municipal corporations] PUBLIC  GROUP  SELF-
- INSURERS  as [herein] defined IN SUBPARAGRAPH (A-1) OF THIS PARAGRAPH no
+ except  that  in the case of [municipal corporations] PUBLIC GROUP SELF-
+ INSURERS as [herein] defined IN SUBPARAGRAPH (A-1) OF THIS PARAGRAPH  no
  proof of financial ability or deposit of securities or cash need be made
- in compliance with this subdivision. The  group  qualifying  under  this
- subdivision  shall  be  known  as a group self-insurer and the employers
+ in  compliance  with  this  subdivision. The group qualifying under this
+ subdivision shall be known as a group  self-insurer  and  the  employers
  participating therein and covered thereby shall be known as members.
-  (A-1) ANY GROUP  CONSISTING  EXCLUSIVELY  OF  PUBLIC  CORPORATIONS  AS
- DEFINED  IN  SECTION  SIXTY-SIX  OF THE GENERAL CONSTRUCTION LAW, COUNTY
- SELF-INSURANCE PLANS ESTABLISHED UNDER ARTICLE  FIVE  OF  THIS  CHAPTER,
- BOARDS  OF COOPERATIVE EDUCATIONAL SERVICES AND CONSORTIA ESTABLISHED BY
- BOARDS OF COOPERATIVE EDUCATIONAL SERVICES MAY ADOPT A PLAN FOR SELF-IN-
- SURANCE, AS A GROUP, FOR THE PAYMENT OF COMPENSATION UNDER THIS  CHAPTER
- TO THEIR EMPLOYEES. SUCH A GROUP SHALL BE KNOWN AS A "PUBLIC GROUP SELF-
- INSURER". A COUNTY SELF-INSURANCE PLAN ESTABLISHED UNDER ARTICLE FIVE OF
- THIS CHAPTER IS NOT ITSELF A PUBLIC GROUP SELF-INSURER AND IS NOT ITSELF
- SUBJECT TO THE REQUIREMENTS OF THIS SECTION, BUT MAY JOIN A PUBLIC GROUP
- SELF-INSURER  AND, IF IT DOES SO, SHALL ASSUME ALL OF THE OBLIGATIONS OF
- ITS PARTICIPANTS TO THE PUBLIC GROUP SELF-INSURER. AN  ENTITY  WHICH  IS
- NOT  A PUBLIC CORPORATION AS DEFINED IN SECTION SIXTY-SIX OF THE GENERAL
- CONSTRUCTION LAW, A COUNTY SELF-INSURANCE PLAN ESTABLISHED UNDER ARTICLE
- FIVE OF THIS CHAPTER, A BOARD OF COOPERATIVE EDUCATIONAL SERVICES  OR  A
- CONSORTIUM  ESTABLISHED  BY  A BOARD OF COOPERATIVE EDUCATIONAL SERVICES
- MAY JOIN A PUBLIC GROUP SELF-INSURER ONLY IF IT  HAS  THE  AUTHORITY  TO
- LEVY TAXES OR IS OTHERWISE DIRECTLY CAPABLE OF GENERATING REVENUE OR ITS
- OBLIGATIONS  ARE  GUARANTEED  BY  ANOTHER  MEMBER WHICH IS SUCH A PUBLIC
- CORPORATION. A PUBLIC GROUP SELF-INSURER SHALL COMPLY WITH  ALL  OF  THE
- REQUIREMENTS OF THIS SUBDIVISION, INCLUDING ANY OBLIGATIONS IMPOSED UPON
- A  GROUP  ADMINISTRATOR, BUT IS NOT REQUIRED TO SECURE THE SERVICES OF A
- GROUP ADMINISTRATOR OR OBTAIN A LICENSE AUTHORIZING IT TO ACT AS A GROUP
- SELF-INSURER ADMINISTRATOR, TO FURNISH SATISFACTORY  PROOF  TO  THE
- CHAIR  OF  ITS  FINANCIAL ABILITY TO PAY COMPENSATION FROM ITS REVENUES,
- THEIR  SOURCE  AND  ASSURANCE OF CONTINUANCE, TO PAY A LICENSE  FEE,  OR
- TO  DEPOSIT SECURITIES, POST A BOND OR PROVIDE OTHER SECURITY, EXCEPT AS
- SPECIFICALLY PROVIDED IN THIS SUBDIVISION.
+  (A-1)  ANY  GROUP  CONSISTING  EXCLUSIVELY  OF  PUBLIC CORPORATIONS AS
+ DEFINED IN SECTION SIXTY-SIX OF THE  GENERAL  CONSTRUCTION  LAW,  COUNTY
+ SELF-INSURANCE  PLANS  ESTABLISHED  UNDER  ARTICLE FIVE OF THIS CHAPTER,
+ BOARDS OF COOPERATIVE EDUCATIONAL SERVICES AND CONSORTIA ESTABLISHED  BY
+ BOARDS OF COOPERATIVE EDUCATIONAL SERVICES, AND ANY OTHER ENTITY DEFINED
+ AS  A  PUBLIC  ENTITY  UNDER  PARAGRAPH  FIFTY-ONE  OF SUBSECTION (A) OF
+ SECTION ONE HUNDRED SEVEN OF THE INSURANCE LAW EXCEPT THE STATE  OF  NEW
+ YORK,  MAY  ADOPT A PLAN FOR SELF-INSURANCE, AS A GROUP, FOR THE PAYMENT
+ OF COMPENSATION UNDER THIS CHAPTER TO  THEIR  EMPLOYEES.  SUCH  A  GROUP
+ SHALL BE KNOWN AS A "PUBLIC GROUP SELF-INSURER". A COUNTY SELF-INSURANCE
+ PLAN  ESTABLISHED  UNDER  ARTICLE  FIVE  OF THIS CHAPTER IS NOT ITSELF A
+ PUBLIC GROUP SELF-INSURER AND IS NOT ITSELF SUBJECT TO THE  REQUIREMENTS
+ OF  THIS  SECTION,  BUT  MAY JOIN A PUBLIC GROUP SELF-INSURER AND, IF IT
+ DOES SO, SHALL ASSUME ALL OF THE OBLIGATIONS OF ITS PARTICIPANTS TO  THE
+ PUBLIC  GROUP  SELF-INSURER.  A PUBLIC GROUP SELF-INSURER SHALL COMPLY
+ WITH ALL OF THE REQUIREMENTS OF THIS SUBDIVISION,  INCLUDING  ANY  OBLI-
+ GATIONS  IMPOSED  UPON  A  GROUP  ADMINISTRATOR,  BUT IS NOT REQUIRED TO
+ SECURE THE SERVICES OF A GROUP ADMINISTRATOR OR OBTAIN A LICENSE AUTHOR-
+ IZING IT TO ACT AS A GROUP SELF-INSURER ADMINISTRATOR, TO FURNISH SATIS-
+ FACTORY  PROOF  TO  THE  CHAIR OF ITS FINANCIAL ABILITY TO  PAY  COMPEN-
+ SATION FROM ITS REVENUES,  THEIR  SOURCE  AND  ASSURANCE OF CONTINUANCE,
+ TO  PAY  A LICENSE FEE, OR TO DEPOSIT SECURITIES, POST A BOND OR PROVIDE
+ OTHER SECURITY, EXCEPT AS SPECIFICALLY PROVIDED IN THIS SUBDIVISION.
   § 3. Subdivision 3-a of section 50 of the workers' compensation law is
  amended by adding a new paragraph 3-a to read as follows:
   (3-A) IF THE CHAIR DETERMINES THAT A  PUBLIC  GROUP  SELF-INSURER  HAS
@@ -120,9 +122,9 @@ S T A T E  O F  N E W  Y O R K
  ASSUME  RESPONSIBILITY  FOR  THE CONTINUED ADMINISTRATION AND PAYMENT OF
  ALL CLAIMS AGAINST IT, PROVIDED HOWEVER THAT THE PUBLIC  GROUP  SELF-IN-
  SURER  SHALL,  WITHIN THIRTY DAYS, TURN ITS ASSETS OVER TO THE CHAIR AND
+ S. 6410--A  3
+
  THE CHAIR SHALL ASSUME THE ADMINISTRATION AND COST OF THE CLAIMS OF  THE
- S. 6410  3
- 
  PUBLIC  GROUP  SELF-INSURER  FOR A PERIOD NOT TO EXCEED ONE YEAR. DURING
  THE PERIOD OF CHAIR ADMINISTRATION OF CLAIMS, EACH MEMBER OF THE  PUBLIC
  GROUP SELF-INSURER SHALL SECURE THE SERVICES OF A LICENSED CLAIMS ADMIN-
@@ -178,7 +180,7 @@ S T A T E  O F  N E W  Y O R K
  ARE PAID WITHOUT REGARD TO ANY SUCH DEDUCTIBLE;
   (2)  APPROPRIATE  PREMIUM REDUCTIONS REFLECT THE TYPE AND LEVEL OF ANY
  DEDUCTIBLE APPROVED BY THE CHAIR AND SELECTED BY THE MEMBER;
- S. 6410  4
+ S. 6410--A  4
  
   (3) PREMIUM REDUCTIONS FOR DEDUCTIBLES ARE DETERMINED BEFORE  APPLICA-
  TION  OF  ANY  EXPERIENCE  MODIFICATION,  PREMIUM  SURCHARGE, OR PREMIUM
@@ -235,7 +237,7 @@ S T A T E  O F  N E W  Y O R K
  the  board  of supervisors, may on behalf of the plan purchase excess or
  catastrophe insurance. The cost of such insurance shall be  an  adminis-
  trative expense of the plan.
- S. 6410  5
+ S. 6410--A  5
  
   2.  THE  COMMITTEE  OR  ADMINISTRATOR,  SUBJECT TO THE APPROVAL OF THE
  BOARD OF SUPERVISORS, MAY ON BEHALF OF THE  PLAN  JOIN  A  PUBLIC  GROUP
@@ -293,7 +295,7 @@ S T A T E  O F  N E W  Y O R K
  of this section may be secured from the state fund or any  stock  corpo-
  ration,  mutual  corporation,  group self-insurers or reciprocal insurer
  authorized to transact the business of  workers'  compensation  in  this
- S. 6410  6
+ S. 6410--A  6
  
  state.  If  such  insurance  is not secured, the political subdivision
  liable shall be deemed to have elected to be a self-insurer unless it is
