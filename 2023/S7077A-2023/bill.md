@@ -1,6 +1,6 @@
 # Relates to the Wheatfield Volunteer Firefighter's Benevolent Association
 
-**Bill ID:** S7077A
+**Bill ID:** S7077AA
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Expands the use of foreign fire insurance premium taxes by the Wheatfield Volunt
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7077
+  7077--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  ORTT  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend chapter 584 of the laws of  1996  relating  to  incorpo-
   ration  of  the  Wheatfield Volunteer Firefighter's Benevolent Associ-
@@ -44,27 +46,28 @@ S T A T E  O F  N E W  Y O R K
  nance  of  suitable  headquarters  for,  and  the promotion of fraternal
  intercourse among the members of such corporation[,];  the  relief,  aid
  and  assistance  of  volunteer  firefighters  and their families who are
- INJURED, disabled or indigent [, and]; the promotion AND SAFEGUARDING of
- the welfare of the volunteer [fire service] CORPORATION AND THEIR  FAMI-
- LIES;  TO  PROVIDE FOR THE HEALTH AND SAFETY OF THE VOLUNTEER MEMBERS OF
- THE CORPORATION; AND TO ENHANCE THE MORALE OF THE VOLUNTEER  MEMBERS  OF
- THE  CORPORATION BY PROVIDING SOCIAL AND RECREATIONAL ACTIVITIES FOR THE
- VOLUNTEER MEMBERS OF THE CORPORATION, WITHIN THE TERRITORY PROTECTED  BY
- SUCH  FIRE  DEPARTMENT OF THE WHEATFIELD VOLUNTEER FIREFIGHTER'S BENEVO-
- LENT ASSOCIATION.
+ INJURED, disabled or indigent [, and the promotion of]; TO  PROMOTE  AND
+ SAFEGUARD  the  welfare  of  the volunteer [fire service] MEMBERS OF THE
+ CORPORATION, AND THEIR FAMILIES; TO PROVIDE FOR THE HEALTH AND SAFETY OF
+ THE VOLUNTEER MEMBERS OF THE CORPORATION; AND TO ENHANCE THE  MORALE  OF
+ THE  VOLUNTEER MEMBERS OF THE CORPORATION BY PROVIDING SOCIAL AND RECRE-
+ ATIONAL ACTIVITIES FOR THE VOLUNTEER MEMBERS OF THE CORPORATION AND  THE
+ PROMOTION  OF  THE VOLUNTEER FIRE SERVICE WITHIN THE TERRITORY PROTECTED
+ BY SUCH FIRE DEPARTMENT OF THE WHEATFIELD VOLUNTEER FIREFIGHTER'S BENEV-
+ OLENT ASSOCIATION.
   § 2. Section 7 of chapter 584 of the laws of 1996 relating to incorpo-
  ration of the Wheatfield Volunteer Firefighter's Benevolent  Association
  and providing for its powers and duties, is amended to read as follows:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11435-03-3
+ S. 7077--A  2
+ 
   § 7. Precept for payment of foreign fire insurance premium taxes. Such
  corporation  shall  collect  and  there  shall  be  paid to it all taxes
  imposed by section 9104 of the insurance law for fire department use and
  benefit, upon premiums for insurance against  loss  or  damage  by  fire
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD11435-01-3
- S. 7077  2
- 
  covering  property  situated  in  the  territory in which the Adams Fire
  Company Inc., St. Johnsburg Fire Company Inc., and Frontier Fire Company
  Inc., in the town of Wheatfield, county of Niagara, are or may be  obli-
