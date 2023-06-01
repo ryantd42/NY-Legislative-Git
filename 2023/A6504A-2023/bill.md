@@ -1,6 +1,6 @@
 # Requires each certificate of death to also be filed with each board of elections within the state
 
-**Bill ID:** A6504A
+**Bill ID:** A6504AA
 **Session:** 2023
 **Sponsor:** Steve Stern
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires each certificate of death to also be filed with each board of elections
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6504
+  6504--A
  
   2023-2024 Regular Sessions
  
@@ -26,50 +26,33 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. STERN, K. BROWN -- read once and referred to the
-  Committee on Health
+  Committee on Health -- committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the public health law, in  relation  to  requiring  each
-  certificate  of  death  to  also be filed with each board of elections
+ AN  ACT  to  amend  the public health law, in relation to requiring each
+  certificate of death to also be filed with  each  board  of  elections
   within the state
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Section  4140  of the public health law, subdivision 1 as
- amended by chapter 352 of the laws of 2013 and subdivision 3 as  amended
- by chapter 476 of the laws of 2002, is amended to read as follows:
-  § 4140. Deaths; registration. 1. The death of each person who has died
- in  this state shall be registered immediately and not later than seven-
- ty-two hours after death or the finding of a dead human body, by  filing
- with  the  registrar  of the district in which the death occurred or the
- body was found a certificate of such death, in a manner  and  format  as
- prescribed  by  the commissioner, which shall include through electronic
- means in accordance with section forty-one hundred forty-eight  of  this
- title.
-  2. WHEN A REGISTRAR FILES A CERTIFICATE OF DEATH UNDER SUBDIVISION ONE
- OF  THIS  SECTION, SUCH REGISTRAR SHALL ALSO FILE A CERTIFICATE OF DEATH
- WITH EACH BOARD OF ELECTIONS WITHIN THE STATE IN A MANNER PRESCRIBED  BY
- SUCH BOARD OF ELECTIONS.
-  3.  If the certificate of death is properly executed and complete, the
- registrar of the district in which the death occurred shall then issue a
- burial or removal permit to the funeral director or undertaker. In  case
- the  death  occurred  from a disease which is designated in the sanitary
- code as a communicable disease, no  permit  for  the  removal  or  other
- disposition  of  the  body shall be issued by the registrar, except to a
- funeral  director  or  undertaker  licensed  in  accordance  with  the
- provisions  of  this chapter, under such conditions as may be prescribed
- in the sanitary code.
-
+  Section 1. Subdivision 3 of section 4140 of the public health law,  as
+ amended  by  chapter  476  of  the  laws  of 2002, is amended to read as
+ follows:
+  3. The commissioner and the department of health of the  city  of  New
+ York  shall  deliver  to the state board of elections, at least monthly,
+ records in a format as mutually determined  by  both  agencies,  of  the
+ names  of  all  persons  of  voting age for whom death certificates were
+ issued. Such records shall be arranged by county of residence and  shall
+ include  the name, residence address and birth date of each such person,
+ AND BE CONVEYED THEREWITH TO EACH BOARD OF ELECTIONS WITHIN THE STATE IN
+ A MANNER PRESCRIBED BY THE STATE BOARD OF ELECTIONS.
+  § 2. This act shall take effect on the sixtieth  day  after  it  shall
+ have become a law.
+ 
+ 
+ 
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06711-01-3
- A. 6504  2
- 
-  [3.] 4. The commissioner and the department of health of the  city  of
- New  York shall deliver to the state board of elections, at least month-
- ly, records in a format as mutually determined by both agencies, of  the
- names  of  all  persons  of  voting age for whom death certificates were
- issued.  Such records shall be arranged by county of residence and shall
- include the name, residence address and birth date of each such person.
-  § 2. This act shall take effect on the thirtieth day  after  it  shall
- have become a law.
+  LBD06711-03-3
