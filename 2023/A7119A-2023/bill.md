@@ -1,6 +1,6 @@
 # Relates to attachments to utility poles for broadband service
 
-**Bill ID:** A7119A
+**Bill ID:** A7119AA
 **Session:** 2023
 **Sponsor:** Demond Meeks
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to attachments to utility poles for broadband service; provides that for
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7119
+  7119--A
  
   2023-2024 Regular Sessions
  
@@ -25,30 +25,33 @@ S T A T E  O F  N E W  Y O R K
   May 11, 2023
   ___________
  
- Introduced  by M. of A. MEEKS -- read once and referred to the Committee
-  on Corporations, Authorities and Commissions
+ Introduced  by  M. of A. MEEKS, BRONSON, WALLACE, CLARK -- read once and
+  referred to the Committee on Corporations, Authorities and Commissions
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
- AN ACT to amend the public service law, in relation  to  attachments  to
+ AN  ACT  to  amend the public service law, in relation to attachments to
   utility poles for broadband service
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Section 119-a of the  public  service  law  is  amended  by
+ 
+  Section  1.  Section  119-a  of  the  public service law is amended by
  adding a new subdivision 1-a to read as follows:
-  1-A.  WITH  RESPECT  TO  A  BROADBAND  INTERNET PROVIDER THAT DOES NOT
+  1-A. WITH RESPECT TO A  BROADBAND  INTERNET  PROVIDER  THAT  DOES  NOT
  PROVIDE REGULATED TELEPHONE SERVICE, A POLE OWNER SHALL NOT REQUIRE SUCH
- BROADBAND INTERNET PROVIDER TO OBTAIN A CERTIFICATE  OF  PUBLIC  CONVEN-
- IENCE  AND  NECESSITY  UNDER  SECTION  NINETY-NINE  OF THIS CHAPTER AS A
+ BROADBAND  INTERNET  PROVIDER  TO OBTAIN A CERTIFICATE OF PUBLIC CONVEN-
+ IENCE AND NECESSITY UNDER SECTION  NINETY-NINE  OF  THIS  CHAPTER  AS  A
  CONDITION TO MAKING ATTACHMENTS TO UTILITY POLES SOLELY OWNED OR JOINTLY
- OWNED BY THE POLE OWNER.
+ OWNED BY THE POLE OWNER.  NOTWITHSTANDING THE FOREGOING, NOTHING IN THIS
+ SUBDIVISION  SHALL  BE  CONSTRUED  TO  CONFER  UPON A BROADBAND INTERNET
+ PROVIDER THAT DOES NOT PROVIDE REGULATED TELEPHONE SERVICE ANY  AUTHORI-
+ ZATION TO OCCUPY OR USE ANY STATE OR LOCAL PUBLIC RIGHT-OF-WAY.
   § 2. This act shall take effect immediately.
- 
- 
  
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09744-01-3
+  LBD09744-03-3
