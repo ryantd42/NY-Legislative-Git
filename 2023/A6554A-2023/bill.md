@@ -1,6 +1,6 @@
 # Extends a payment in lieu of taxes for Lido Beach in the town of Hempstead
 
-**Bill ID:** A6554A
+**Bill ID:** A6554AA
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Extends the expiration of payments in lieu of taxes for Lido Beach in the town o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6554
+  6554--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. E. BROWN -- read once and referred to the Commit-
-  tee on Local Governments
+  tee  on Local Governments -- reported and referred to the Committee on
+  Ways  and  Means  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT  to amend chapter 676 of the laws of 1978, amending the town law
   relating to payment in lieu of taxes for certain property in the  town
   of Hempstead, in relation to extending the expiration thereof
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -40,7 +42,7 @@ S T A T E  O F  N E W  Y O R K
  the town of Hempstead, as amended by chapter 86 of the laws of 2018,  is
  amended to read as follows:
   §  2.  This  act shall take effect July 1, 1978 and shall be operative
- only to and including June 30, [2023] 2028.
+ only to and including June 30, [2023] 2025.
   § 2. This act shall take effect immediately.
  
  
@@ -50,4 +52,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10652-01-3
+  LBD10652-03-3
