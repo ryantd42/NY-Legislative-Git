@@ -1,6 +1,6 @@
 # Enacts the "political artificial intelligence disclaimer (PAID) act"
 
-**Bill ID:** S6638B
+**Bill ID:** S6638BA
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "political artificial intelligence disclaimer (PAID) act"; requires p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6638
+  6638--A
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  PARKER -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Elections
+  printed to be committed to the Committee  on  Elections  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the election law and the legislative law, in relation to
-  the use and disclosure of synthetic media
- 
+ AN  ACT to amend the election law, in relation to the use and disclosure
+  of synthetic media
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,21 +58,8 @@ S T A T E  O F  N E W  Y O R K
  FORM  OF  MEDIA INCLUDING TEXT, IMAGE, VIDEO OR SOUND FULLY OR PARTIALLY
  CREATED OR MODIFIED THROUGH THE USE  OF  ARTIFICIAL  INTELLIGENCE  ALGO-
  RITHMS.
-  §  3.  The  legislative law is amended by adding a new section 54-b to
- read as follows:
+  § 3. This act shall take effect January 1, 2024.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11102-01-3
- S. 6638  2
- 
-  § 54-B. DISCLOSURE OF SYNTHETIC MEDIA. 1. A BILL WHICH WAS PRODUCED BY
- OR INCLUDES ANY SYNTHETIC MEDIA SHALL CONTAIN A DISCLOSURE OF SUCH  USE.
- THE  DISCLOSURE  ON  A  BILL SHALL BE PRINTED OR TYPED IN AN APPROPRIATE
- LEGIBLE FORM TO READ AS FOLLOWS: "THIS LEGISLATION WAS CREATED WITH  THE
- ASSISTANCE OF ARTIFICIAL INTELLIGENCE".
-  2.  FOR THE PURPOSES OF THIS SECTION, "SYNTHETIC MEDIA" MEANS ANY FORM
- OF MEDIA INCLUDING TEXT,  IMAGE,  VIDEO  OR  SOUND  FULLY  OR  PARTIALLY
- CREATED  OR  MODIFIED  THROUGH  THE USE OF ARTIFICIAL INTELLIGENCE ALGO-
- RITHMS.
-  § 4. This act shall take effect January 1, 2024.
+  LBD11102-03-3
