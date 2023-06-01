@@ -1,6 +1,6 @@
 # Provides a premium reduction for physicians who complete a training strategies course relating to emergency department visits for individuals with a developmental or intellectual disability
 
-**Bill ID:** S6351B
+**Bill ID:** S6351BA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Directs the commissioner of health to approve courses for eligible physicians, n
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6351
+  6351--A
  
   2023-2024 Regular Sessions
  
@@ -25,14 +25,16 @@ S T A T E  O F  N E W  Y O R K
   April 17, 2023
   ___________
  
- Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
- 
+ Introduced by Sens. MANNION, SCARCELLA-SPANTON -- read twice and ordered
+  printed,  and  when printed to be committed to the Committee on Health
+  -- reported favorably from said committee and committed to the Commit-
+  tee  on  Finance  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the public health law and the insurance law, in relation
-  to a premium reduction for physicians,  nurses  and  other  staff  who
-  complete  a  risk  management  strategies course relating to emergency
-  department visits for individuals with a developmental or intellectual
-  disability
+  to  a  premium reduction for physicians who complete a risk management
+  strategies course relating to emergency department visits for individ-
+  uals with a developmental or intellectual disability
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  COMMISSIONER, IN CONSULTATION WITH THE OFFICE FOR PEOPLE  WITH  DEVELOP-
  MENTAL DISABILITIES, MAY PRESCRIBE BY REGULATION. AN ELIGIBLE PHYSICIAN,
  NURSE  OR  OTHER  STAFF  WHO SUCCESSFULLY COMPLETES SUCH RISK MANAGEMENT
- STRATEGIES COURSE PURSUANT TO  THIS  SECTION  SHALL  RECEIVE  CONTINUING
- MEDICAL EDUCATION CREDIT AND A CERTIFICATE OF COMPLETION.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10725-02-3
- S. 6351  2
+  LBD10725-03-3
+ S. 6351--A  2
  
+ STRATEGIES COURSE PURSUANT TO  THIS  SECTION  SHALL  RECEIVE  CONTINUING
+ MEDICAL EDUCATION CREDIT AND A CERTIFICATE OF COMPLETION.
   2.  COURSES  ON  RISK MANAGEMENT STRATEGIES DURING EMERGENCY VISITS BY
  THOSE WITH A DEVELOPMENTAL  OR  INTELLECTUAL  DISABILITY  SHALL  PROMOTE
  EVIDENCE-BASED CLINICAL GUIDELINES AND PATIENT SAFETY PROTOCOLS, WITH AN
@@ -78,27 +80,36 @@ S T A T E  O F  N E W  Y O R K
   3.  ATTENDANCE  AT ANY COURSE APPROVED BY THE COMMISSIONER PURSUANT TO
  THIS SECTION SHALL BE IN PERSON.
   4. PHYSICIANS WHO ARE BOARD CERTIFIED, NURSES AND OTHER STAFF FROM  AN
- EMERGENCY  DEPARTMENT  IN  A  GENERAL  HOSPITAL, SHALL BE ELIGIBLE FOR A
- DISABILITIES RISK MANAGEMENT STRATEGIES COURSE.
-  5. THE COMMISSIONER, IN CONSULTATION WITH THE OFFICE FOR  PEOPLE  WITH
- DEVELOPMENTAL  DISABILITIES,  SHALL BE AUTHORIZED TO PRESCRIBE ANY RULES
+ EMERGENCY DEPARTMENT IN A GENERAL HOSPITAL SHALL BE ELIGIBLE FOR A DISA-
+ BILITIES RISK MANAGEMENT STRATEGIES COURSE.
+  5.  THE  COMMISSIONER, IN CONSULTATION WITH THE OFFICE FOR PEOPLE WITH
+ DEVELOPMENTAL DISABILITIES, SHALL BE AUTHORIZED TO PRESCRIBE  ANY  RULES
  AND REGULATIONS NECESSARY TO IMPLEMENT THIS SECTION. IN PRESCRIBING SUCH
- RULES AND REGULATIONS, THE COMMISSIONER SHALL  CONSIDER  THE  RULES  AND
- REGULATIONS  PROMULGATED  BY  THE  SUPERINTENDENT  OF FINANCIAL SERVICES
- PURSUANT TO SUBSECTION (E) OF SECTION TWO THOUSAND THREE HUNDRED  FORTY-
- THREE  OF  THE  INSURANCE LAW AND MAY CONSULT WITH THE SUPERINTENDENT OF
+ RULES  AND  REGULATIONS,  THE  COMMISSIONER SHALL CONSIDER THE RULES AND
+ REGULATIONS PROMULGATED BY  THE  SUPERINTENDENT  OF  FINANCIAL  SERVICES
+ PURSUANT  TO SUBSECTION (E) OF SECTION TWO THOUSAND THREE HUNDRED FORTY-
+ THREE OF THE INSURANCE LAW AND MAY CONSULT WITH  THE  SUPERINTENDENT  OF
  FINANCIAL SERVICES.
-  § 2. Subsection (e) of section 2343 of the insurance law, as added  by
- chapter 642 of the laws of 1990, is amended to read as follows:
+  §  2. Subsection (e) of section 2343 of the insurance law, as added by
+ chapter 642 of the laws of 1990, is amended and a new subsection (f)  is
+ added to read as follows:
   (e)  The  superintendent  may approve an appropriate premium reduction
  for: (1) an insured physician who successfully completes a risk  manage-
- ment  course;  OR (2) AN INSURED PHYSICIAN, NURSE OR OTHER STAFF FROM AN
- EMERGENCY DEPARTMENT IN A GENERAL HOSPITAL WHO SUCCESSFULLY COMPLETES  A
- COURSE  AUTHORIZED  BY  THE  COMMISSIONER  OF HEALTH PURSUANT TO SECTION
- TWENTY-EIGHT HUNDRED THIRTY-TWO OF THE PUBLIC HEALTH LAW, which must  be
- approved  by  the superintendent subject to such standards as the super-
- intendent may prescribe by regulation. In  prescribing  such  regulation
+ ment  course;  OR  (2) AN INSURED PHYSICIAN WHO SUCCESSFULLY COMPLETES A
+ COURSE AUTHORIZED BY THE COMMISSIONER  OF  HEALTH  PURSUANT  TO  SECTION
+ TWENTY-EIGHT  HUNDRED THIRTY-TWO OF THE PUBLIC HEALTH LAW, which must be
+ approved by the superintendent subject to such standards as  the  super-
+ intendent  may  prescribe  by regulation. In prescribing such regulation
  the superintendent may consult with the commissioner of health.
+  (F) AN INSURED PHYSICIAN WHO SUCCESSFULLY COMPLETES A  COURSE  AUTHOR-
+ IZED  BY  THE  COMMISSIONER OF HEALTH UNDER SECTION TWENTY-EIGHT HUNDRED
+ THIRTY-TWO OF THE PUBLIC HEALTH LAW SHALL NOT,  DURING  THE  PERIOD  SET
+ FORTH  IN THE SUPERINTENDENT'S REGULATIONS PRESCRIBING STANDARDS FOR THE
+ PREMIUM REDUCTION, ALSO BE ELIGIBLE FOR ADDITIONAL PREMIUM REDUCTION FOR
+ AN INSURED PHYSICIAN MEDICAL MALPRACTICE INSURANCE POLICY FOR SUCCESSFUL
+ COMPLETION OF A RISK MANAGEMENT COURSE APPROVED  BY  THE  SUPERINTENDENT
+ UNDER PART ONE HUNDRED FIFTY-TWO OF TITLE ELEVEN OF THE NEW YORK CODE OF
+ RULES AND REGULATIONS.
   §  3. This act shall take effect one year after it shall have become a
  law and shall apply to all  insurance  policies  and  contracts  issued,
  renewed,  modified  or  altered  on  and  after such effective date. The
