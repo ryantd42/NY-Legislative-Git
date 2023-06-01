@@ -1,6 +1,6 @@
 # Authorizes the Bais Tefila of Inwood to receive retroactive real property tax exempt status
 
-**Bill ID:** A2753A
+**Bill ID:** A2753AA
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Authorizes the Bais Tefila of Inwood to receive retroactive real property tax ex
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2753
+  2753--A
+  R. R. 143
  
   2023-2024 Regular Sessions
  
@@ -26,26 +27,29 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. E. BROWN -- read once and referred to the Commit-
-  tee on Ways and Means
+  tee  on  Ways  and  Means -- reported and referred to the Committee on
+  Rules -- ordered to a third reading, passed by Assembly and  delivered
+  to  the  Senate,  recalled  from  the  Senate, vote reconsidered, bill
+  amended, ordered reprinted, retaining its place on the  special  order
+  of third reading
  
  AN ACT authorizing the Bais Tefila of Inwood to receive retroactive real
   property tax exempt status
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Notwithstanding any other provision of law to the contrary,
  the assessor of the county of Nassau is hereby authorized to accept from
  Bais Tefila of Inwood, an application for exemption from  real  property
  taxes  pursuant  to  section  420-a  of  the  real property tax law with
- respect to the 2019-2020 assessment roll  for  a  portion  of  the  2019
- general  taxes  and  all  of  the  2020  general  taxes,  and all of the
- 2019-2020 school taxes for the parcel  conveyed  to  such  organization,
- with such parcel being located at 259 Doughty Blvd, in the town of Hemp-
- stead,  otherwise  known as Nassau county tax map section 40, block 163,
- lot 216.  If accepted, the application shall be reviewed as  if  it  had
- been received on or before the taxable status dates established for such
- rolls.
+ respect to the 2019-2020 assessment roll for all  of  the  2020  general
+ taxes,  and  a  portion  of  the  2019-2020  school taxes for the parcel
+ conveyed to such organization, with such parcel  being  located  at  259
+ Doughty Blvd, in the town of Hempstead, otherwise known as Nassau county
+ tax  map  section  40, block 163, lot 216.  If accepted, the application
+ shall be reviewed as if it had been received on or  before  the  taxable
+ status dates established for such rolls.
   If  satisfied  that  such  organization would otherwise be entitled to
  such exemption if such organization had acquired  the  subject  property
  and filed an application for exemption by the appropriate taxable status
@@ -60,4 +64,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04855-01-3
+  LBD04855-03-3
