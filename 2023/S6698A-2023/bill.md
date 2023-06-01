@@ -1,6 +1,6 @@
 # Authorizes the Bais Tefila of Inwood to receive retroactive real property tax exempt status
 
-**Bill ID:** S6698A
+**Bill ID:** S6698AA
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the Bais Tefila of Inwood to receive retroactive real property tax ex
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6698
+  6698--A
  
   2023-2024 Regular Sessions
  
@@ -27,7 +27,8 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  CANZONERI-FITZPATRICK  --  read  twice and ordered
   printed, and when printed to be committed to the  Committee  on  Local
-  Government
+  Government -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT authorizing the Bais Tefila of Inwood to receive retroactive real
   property tax exempt status
@@ -39,14 +40,13 @@ S T A T E  O F  N E W  Y O R K
  the assessor of the county of Nassau is hereby authorized to accept from
  Bais Tefila of Inwood, an application for exemption from  real  property
  taxes  pursuant  to  section  420-a  of  the  real property tax law with
- respect to the 2019-2020 assessment roll  for  a  portion  of  the  2019
- general  taxes  and  all  of  the  2020  general  taxes,  and all of the
- 2019-2020 school taxes for the parcel  conveyed  to  such  organization,
- with such parcel being located at 259 Doughty Blvd, in the town of Hemp-
- stead,  otherwise  known as Nassau county tax map section 40, block 163,
- lot 216.  If accepted, the application shall be reviewed as  if  it  had
- been received on or before the taxable status dates established for such
- rolls.
+ respect to the 2019-2020 assessment roll for all  of  the  2020  general
+ taxes,  and  a  portion  of  the  2019-2020  school taxes for the parcel
+ conveyed to such organization, with such parcel  being  located  at  259
+ Doughty Blvd, in the town of Hempstead, otherwise known as Nassau county
+ tax  map  section  40, block 163, lot 216.  If accepted, the application
+ shall be reviewed as if it had been received on or  before  the  taxable
+ status dates established for such rolls.
   If  satisfied  that  such  organization would otherwise be entitled to
  such exemption if such organization had acquired  the  subject  property
  and filed an application for exemption by the appropriate taxable status
@@ -61,4 +61,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04855-01-3
+  LBD04855-02-3
