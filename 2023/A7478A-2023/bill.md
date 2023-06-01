@@ -1,6 +1,6 @@
 # Relates to residency requirements for the village clerk/treasurer and the deputy clerk for the village of Cold Spring
 
-**Bill ID:** A7478A
+**Bill ID:** A7478AA
 **Session:** 2023
 **Sponsor:** Dana Levenberg
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the village clerk/treasurer and the deputy clerk for the village of C
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7478
+  7478--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  LEVENBERG  --  read once and referred to the
-  Committee on Governmental Operations
+  Committee on Governmental Operations  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the public officers law and the village law, in relation
   to residency requirements for  the  village  clerk/treasurer  and  the
   deputy clerk for the village of Cold Spring
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,21 +45,28 @@ S T A T E  O F  N E W  Y O R K
  BE  CHOSEN OR WITHIN WHICH HIS OR HER OFFICIAL FUNCTIONS ARE REQUIRED TO
  BE EXERCISED, SHALL NOT PREVENT A PERSON  FROM  HOLDING  THE  OFFICE  OF
  VILLAGE  CLERK/TREASURER  AND  THE  DEPUTY  CLERK OF THE VILLAGE OF COLD
- SPRING, PROVIDED THAT SUCH PERSON RESIDES WITHIN THE STATE OF NEW  YORK.
- PROVIDED,  HOWEVER,  THE  PERSON  PERFORMING  THE  FUNCTIONS  OF VILLAGE
- CLERK/TREASURER AND THE DEPUTY CLERK IN ANY OTHER  VILLAGE  SHALL  BE  A
- RESIDENT  OF  SUCH  VILLAGE,  UNLESS OTHERWISE PROVIDED BY AN ACT OF THE
+ SPRING, PROVIDED THAT SUCH PERSON RESIDES IN THE COUNTY  IN  WHICH  SUCH
+ VILLAGE  IS LOCATED OR AN ADJOINING COUNTY WITHIN THE STATE OF NEW YORK.
+ PROVIDED, HOWEVER,  THE  PERSON  PERFORMING  THE  FUNCTIONS  OF  VILLAGE
+ CLERK/TREASURER  AND  THE  DEPUTY  CLERK IN ANY OTHER VILLAGE SHALL BE A
+ RESIDENT OF SUCH VILLAGE, UNLESS OTHERWISE PROVIDED BY  AN  ACT  OF  THE
  STATE LEGISLATURE.
-  § 2. Section 3-300 of the village law  is  amended  by  adding  a  new
+  §  2.  Section  3-300  of  the  village law is amended by adding a new
  subdivision 33 to read as follows:
   33. NOTWITHSTANDING ANY PROVISIONS OF THIS CHAPTER OR ANY OTHER GENER-
  AL LAW, LOCAL LAW, ORDINANCE, OR SPECIAL ACT, THE VILLAGE BOARD OF TRUS-
- TEES  OF THE INCORPORATED VILLAGE OF COLD SPRING, COUNTY OF PUTNAM, MAY,
- BY RESOLUTION, PROVIDE THAT THE VILLAGE CLERK/TREASURER AND  THE  DEPUTY
- CLERK  OF THE VILLAGE OF COLD SPRING, PUTNAM COUNTY, NEED NOT BE A RESI-
- DENT OF SUCH VILLAGE, BUT MUST BE A RESIDENT OF THE STATE OF NEW YORK.
-  § 3. This act shall take effect immediately.
+ TEES OF THE INCORPORATED VILLAGE OF COLD SPRING, COUNTY OF PUTNAM,  MAY,
+ BY  RESOLUTION,  PROVIDE THAT THE VILLAGE CLERK/TREASURER AND THE DEPUTY
+ CLERK OF THE VILLAGE OF COLD SPRING, PUTNAM COUNTY, NEED  NOT  BE  RESI-
+ DENTS  OF  SUCH  VILLAGE,  BUT SHALL BE RESIDENTS IN THE COUNTY IN WHICH
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11637-03-3
+  LBD11637-04-3
+ A. 7478--A  2
+ 
+ SUCH VILLAGE IS LOCATED OR AN ADJOINING COUNTY WITHIN THE STATE  OF  NEW
+ YORK.  PROVIDED, HOWEVER, THE PERSON PERFORMING THE FUNCTIONS OF VILLAGE
+ CLERK/TREASURER  IN  ANY  OTHER  VILLAGE  SHALL  BE  A  RESIDENT OF SUCH
+ VILLAGE, UNLESS OTHERWISE PROVIDED BY AN ACT OF THE STATE LEGISLATURE.
+  § 3. This act shall take effect immediately.
