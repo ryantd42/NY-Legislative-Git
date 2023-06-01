@@ -1,6 +1,6 @@
 # Relates to establishing new fee rates for large estates
 
-**Bill ID:** S3315A
+**Bill ID:** S3315AA
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Relates to establishing new fee rates for large estates; raises the fee rate for
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3315
+  3315--A
+  Cal. No. 1085
  
   2023-2024 Regular Sessions
  
@@ -27,11 +28,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sens.  SEPULVEDA,  PERSAUD,  SALAZAR  --  read twice and
   ordered printed, and when printed to be committed to the Committee  on
-  Judiciary
+  Judiciary  --  committee  discharged  and  said  bill committed to the
+  Committee on Rules -- ordered to a third reading, amended and  ordered
+  reprinted, retaining its place in the order of third reading
  
  AN  ACT  to  amend  the  surrogate's court procedure act, in relation to
   establishing new fee rates for large estates
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -49,15 +52,18 @@ S T A T E  O F  N E W  Y O R K
   100,000 but under 250,000 ...............................  420.00
   250,000 but under 500,000 ...............................  625.00
   500,000 [and over] BUT UNDER 750,000 ....................  1,250.00
-  750,000 BUT UNDER 1,000,000 .............................  3,000.00
-  1,000,000 BUT UNDER 2,000,000 ...........................  5,000.00
-  2,000,000 BUT UNDER 5,000,000 ...........................  7,500.00
+  750,000 BUT UNDER 1,000,000 .............................  1,875.00
+  1,000,000 BUT UNDER 2,000,000 ...........................  2,500.00
+  2,000,000 BUT UNDER 3,000,000 ...........................  5,000.00
+  3,000,000 BUT UNDER 5,000,000............................  7,500.00
   5,000,000 AND OVER ...................................... 10,000.00
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07833-02-3
+ S. 3315--A  2
  
   § 2. This act shall take effect on the thirtieth day  after  it  shall
  have  become  a law and shall apply to actions and proceedings commenced
  on or after such effective date.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07833-01-3
