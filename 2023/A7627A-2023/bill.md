@@ -1,6 +1,6 @@
 # Relates to reexamination of licensees
 
-**Bill ID:** A7627A
+**Bill ID:** A7627AA
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Permits the commissioner of motor vehicles to require any licensed driver to sub
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7627
+  7627--A
  
   2023-2024 Regular Sessions
  
@@ -26,24 +26,26 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. SIMON -- read once and referred to the Committee
-  on Transportation
+  on Transportation  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the vehicle and traffic law, in relation  to  reexamina-
+ AN  ACT  to amend the vehicle and traffic law, in relation to reexamina-
   tion of licensees
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section 1. Section 506 of the vehicle and traffic law  is  amended  by
- adding a new subdivision 6 to read as follows:
-  6.  THE  COMMISSIONER  MAY REQUIRE ANY LICENSED DRIVER TO SUBMIT TO AN
- EXAMINATION OR REEXAMINATION PRIOR TO HIS OR  HER  NORMAL  RENEWAL  DATE
- UPON  RECEIPT  OF  A  RECOMMENDATION FROM A COURT HAVING JURISDICTION OF
- TRAFFIC OFFENSES, OR THE GOVERNOR OR CHIEF  MAGISTRATE  OF  A  STATE  OR
- TERRITORY  STATING  THAT THE DRIVER'S ABILITY TO OPERATE A MOTOR VEHICLE
- SAFELY IS QUESTIONABLE.
-  § 2. This act shall take effect immediately.
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
  
+  Section  1.  Section  506 of the vehicle and traffic law is amended by
+ adding a new subdivision 6 to read as follows:
+  6. THE COMMISSIONER MAY REQUIRE ANY LICENSED DRIVER TO  SUBMIT  TO  AN
+ EXAMINATION  OR  REEXAMINATION  PRIOR  TO HIS OR HER NORMAL RENEWAL DATE
+ UPON RECEIPT OF A RECOMMENDATION FROM A  COURT  HAVING  JURISDICTION  OF
+ TRAFFIC  OFFENSES,  OR  THE  GOVERNOR  OR CHIEF MAGISTRATE OF A STATE OR
+ TERRITORY STATING THAT THE DRIVER'S ABILITY TO OPERATE A  MOTOR  VEHICLE
+ SAFELY  IS  QUESTIONABLE. IN REVIEWING SUCH LICENSED DRIVER'S QUALIFICA-
+ TIONS TO OPERATE A MOTOR VEHICLE, THE COMMISSIONER SHALL  ONLY  CONSIDER
+ THE PREVIOUS TEN YEARS OF THE LICENSED DRIVER'S DRIVING RECORD.
+  § 2. This act shall take effect immediately.
  
  
  
@@ -51,4 +53,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11391-01-3
+  LBD11391-03-3
