@@ -1,6 +1,6 @@
 # Relates to the design of uniform standards and conditions relating to the construction and operation of major renewable energy facilities
 
-**Bill ID:** S1793CB
+**Bill ID:** S1793CC
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to the design of uniform standards and conditions relating to the constr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1793--B
+  1793--C
  
   2023-2024 Regular Sessions
  
@@ -31,43 +31,44 @@ S T A T E  O F  N E W  Y O R K
   amended and recommitted to said committee -- reported  favorably  from
   said  committee and committed to the Committee on Finance -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the executive law, in relation to the design of  uniform
+ AN  ACT to amend the executive law, in relation to the design of uniform
   standards and conditions relating to the construction and operation of
-  major  renewable  energy facilities and the review of applications for
-  permits to develop such facilities; and  requires  the  office  of
-  renewable  energy  siting to establish or amend rules and regulations
+  major renewable energy facilities and the review of  applications  for
+  permits  to  develop  such  facilities; and requires the  office  of
+  renewable energy  siting to establish or amend rules  and  regulations
   pertaining  to renewable energy siting facilities
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Paragraph (c) of subdivision 3 of section 94-c of the exec-
- utive  law,  as added by section 4 of part JJJ of chapter 58 of the laws
+ utive law, as added by section 4 of part JJJ of chapter 58 of  the  laws
  of 2020, is amended to read as follows:
-  (c) The uniform standards and conditions established pursuant to  this
- section  shall  be  designed to avoid or minimize, to the maximum extent
- practicable, any potential  significant  adverse  environmental  impacts
- AND,  TO  THE  MAXIMUM EXTENT PRACTICABLE, AVOID, MINIMIZE, AND MITIGATE
+  (c)  The uniform standards and conditions established pursuant to this
+ section shall be designed to avoid or minimize, to  the  maximum  extent
+ practicable,  any  potential  significant  adverse environmental impacts
+ AND, TO THE MAXIMUM EXTENT PRACTICABLE, AVOID,  MINIMIZE,  AND  MITIGATE
  AGRICULTURAL IMPACTS TO ACTIVE AGRICULTURAL LANDS related to the siting,
  design, construction and operation of a major renewable energy facility.
  Such uniform standards and conditions shall apply to those environmental
  impacts the office determines are common to each type of major renewable
  energy facility.
-  § 2. Paragraphs (e), (f), (g),  (h),  and  (i)  of  subdivision  3  of
- section  94-c  of  the executive law are relettered paragraphs (f), (g),
+  §  2.  Paragraphs  (e),  (f),  (g),  (h),  and (i) of subdivision 3 of
+ section 94-c of the executive law are relettered  paragraphs  (f),  (g),
  (h), (i), and (j) and a new paragraph (e) is added to read as follows:
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05683-06-3
- S. 1793--B  2
+  LBD05683-08-3
+ S. 1793--C  2
  
-  (E) IN ITS REVIEW OF AN APPLICATION FOR A PERMIT TO  DEVELOP  A  MAJOR
- RENEWABLE  ENERGY FACILITY, THE OFFICE, IN CONSULTATION WITH THE DEPART-
- MENT OF AGRICULTURE AND MARKETS, SHALL ENSURE THAT A  CRITICAL  MASS  OF
- FARMLAND  WITHIN THE DESIGNATED REGION IS NOT THREATENED AND ENSURE THAT
+  (E)  IN  ITS  REVIEW OF AN APPLICATION FOR A PERMIT TO DEVELOP A MAJOR
+ RENEWABLE ENERGY FACILITY, THE OFFICE, IN CONSULTATION WITH THE  DEPART-
+ MENT  OF  AGRICULTURE  AND MARKETS, SHALL ENSURE THAT A CRITICAL MASS OF
+ FARMLAND WITHIN THE DESIGNATED REGION IS NOT THREATENED AND ENSURE  THAT
  SOLAR DEVELOPMENT SHALL NOT GREATLY HINDER THE AMOUNT OF FARMLAND WITHIN
  NEW YORK STATE AND/OR BE A POTENTIAL THREAT TO NEW YORK'S FOOD SECURITY.
  TWO  YEARS  AFTER  THE  EFFECTIVE DATE OF THIS PARAGRAPH, THE OFFICE, IN
@@ -120,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
   (3) CATEGORIES BASED ON SOLAR ARRAY LOCATION, SPECIFYING WHETHER SOLAR
  ARRAYS  ARE ROOF-MOUNTED, DESIGNATING PREFERRED SITES FOR SOLAR DEVELOP-
  MENT AND INELIGIBLE SITES;
- S. 1793--B  3
+ S. 1793--C  3
  
   (4) CATEGORIES BASED  ON  SOLAR  ARRAY  DESIGN,  INCLUDING  SPECIFYING
  WHETHER SUCH SOLAR ARRAY UTILIZES DUAL USE OR AGRIVOLTAICS; AND
@@ -138,8 +139,8 @@ S T A T E  O F  N E W  Y O R K
   (D)  REQUIRING  THE  SUBMISSION  OF A FARMLAND CONSERVATION FEE OF ONE
  PERCENT OF THE PRICE PER ACRE OF PRIME  SOIL  OR  PRIME  FARMLAND  WHICH
  SOLAR IS DEVELOPED ON. SUCH FARMLAND CONSERVATION FEE SHALL BE DEPOSITED
- IN  THE  FARMLAND  PRESERVATION  FUND  SUBACCOUNT  OF  THE ENVIRONMENTAL
- PROTECTION FUND.
+ IN  THE  AGRICULTURAL AND FARMLAND VIABILITY PROTECTION FUND ESTABLISHED
+ PURSUANT TO SECTION NINETY-NINE-PP OF THE STATE FINANCE LAW.
   (E) FARMLAND PROTECTION AND  CONSIDERATION  OF  LOCAL  ECONOMIES.  THE
  OFFICE  SHALL  TAKE  INTO  ACCOUNT  THE  REGIONAL  IMPACTS, BASED ON THE
  REGIONAL ECONOMIC DEVELOPMENT COUNCIL REGION, ON FARMLAND  PRESERVATION,
