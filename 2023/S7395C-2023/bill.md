@@ -1,6 +1,6 @@
 # Authorizes the assessor of the town of Ramapo, county of Rockland to accept an application for a real property tax exemption from Sister Servants of Mary Immaculate Inc.
 
-**Bill ID:** S7395CA
+**Bill ID:** S7395CB
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the assessor of the town of Ramapo, county of Rockland to accept an a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7395--A
+  7395--B
  
   2023-2024 Regular Sessions
  
@@ -28,27 +28,28 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen.  WEBER  -- read twice and ordered printed, and when
   printed to be committed  to  the  Committee  on  Local  Government  --
   committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
- 
- AN ACT in relation to authorizing the assessor of the  town  of  Ramapo,
-  county  of  Rockland, to accept an application for a real property tax
+  recommitted to said committee -- committee discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
+ AN  ACT  in  relation to authorizing the assessor of the town of Ramapo,
+  county of Rockland, to accept an application for a real  property  tax
   exemption from Sister Servants of Mary Immaculate Inc.
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Notwithstanding any other provision of law to the contrary,
- the  assessor  of  the  town  of  Ramapo,  county of Rockland, is hereby
- authorized to accept from Sister Servants of Mary Immaculate  Inc.  an
- application  for  exemption from real property taxes pursuant to section
- 420-a and 462 of the real property tax law with respect to the 2022-2023
- assessment rolls for all of the 2022-2023 and 2023-2024 school taxes and
- all of the 2022, 2023 and 2024 general taxes for  the  parcel  owned  by
- such  organization  located at 92 Eagle Valley Road, town of Sloatsburg,
- county of Rockland, otherwise known as Nassau  county  tax  map  section
- 38.41,  block 1, lot 1-3. If accepted, the application shall be reviewed
- as if it had been received on or before the taxable status  date  estab-
- lished for such assessment roll.
+ the assessor of the town  of  Ramapo,  county  of  Rockland,  is  hereby
+ authorized  to  accept  from Sister Servants of Mary Immaculate Inc.  an
+ application for exemption from real property taxes pursuant  to  section
+ 462  of  the real property tax law with respect to the 2022-2023 assess-
+ ment rolls for all of the 2022-2023 school taxes and all of the 2022 and
+ 2023 general taxes for the parcel owned by such organization located  at
+ 92  Eagle Valley Road, town of Sloatsburg, county of Rockland, otherwise
+ known as Nassau county tax map section  38.41,  block  1,  lot  1-3.  If
+ accepted,  the  application shall be reviewed as if it had been received
+ on or before the taxable status date  established  for  such  assessment
+ roll.
   If  satisfied  that  such  organization would otherwise be entitled to
  such exemption  if  such  organization  had  filed  an  application  for
  exemption  by  the  appropriate  taxable status date, the assessor, upon
@@ -62,4 +63,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11611-02-3
+  LBD11611-05-3
