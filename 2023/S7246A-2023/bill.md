@@ -1,6 +1,6 @@
 # Relates to youth programs sponsored by fire departments
 
-**Bill ID:** S7246A
+**Bill ID:** S7246AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to youth programs sponsored by fire departments; provides that participa
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7246
+  7246--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general municipal law, the penal law, and  the  arts
   and  cultural  affairs  law,  in  relation  to  participants  in youth
   programs sponsored by fire departments
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  approved activities. In addition, they may purchase insurance to protect
  against  liability  arising  from  approved  activities.  The  insurance
  purchased  pursuant to this subdivision may include medical and hospital
- coverage. A VOLUNTEER FIRE DEPARTMENT OR FIRE COMPANY  SHALL  NOT  ALLOW
- PARTICIPANTS IN SUCH PROGRAM TO RIDE IN ANY VEHICLE OWNED OR OPERATED BY
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01358-01-3
- S. 7246  2
+  LBD01358-03-3
+ S. 7246--A  2
  
+ coverage. A VOLUNTEER FIRE DEPARTMENT OR FIRE COMPANY  SHALL  NOT  ALLOW
+ PARTICIPANTS IN SUCH PROGRAM TO RIDE IN ANY VEHICLE OWNED OR OPERATED BY
  SUCH  VOLUNTEER  FIRE  DEPARTMENT OR FIRE COMPANY, UNLESS SUCH VOLUNTEER
- FIRE DEPARTMENT OR  FIRE  COMPANY  HAS  PURCHASED  INSURANCE  PROTECTING
- AGAINST  LIABILITY  THAT COULD ARISE FROM SUCH PARTICIPANT BEING INJURED
+ FIRE  DEPARTMENT  OR  FIRE  COMPANY  HAS  PURCHASED INSURANCE PROTECTING
+ AGAINST LIABILITY THAT COULD ARISE FROM SUCH PARTICIPANT  BEING  INJURED
  IN AN ACCIDENT WHILE RIDING IN SUCH VEHICLE.
   § 2. Section 260.10 of the penal law, as amended by chapter 447 of the
  laws of 2010, is amended to read as follows:
@@ -109,5 +111,5 @@ S T A T E  O F  N E W  Y O R K
  who hold a current American Red Cross advanced first aid  and  emergency
  care  card; OR (II) PARTICIPATION IN ACTIVITIES AUTHORIZED UNDER SECTION
  TWO HUNDRED FOUR-B OF THE GENERAL MUNICIPAL  LAW  AS  PART  OF  A  YOUTH
- PROGRAM.
+ PROGRAM OR AS AN ACTIVE VOLUNTEER MEMBER OF A FIRE DEPARTMENT.
   § 4. This act shall take effect immediately.
