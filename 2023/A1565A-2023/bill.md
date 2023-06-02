@@ -1,6 +1,6 @@
 # Establishes a deadline for changing the location of a polling place for early voting
 
-**Bill ID:** A1565A
+**Bill ID:** A1565AA
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Establishes a deadline for changing the location of a polling place for early vo
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1565
+  1565--A
  
   2023-2024 Regular Sessions
  
@@ -26,32 +26,36 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. SIMON, WEPRIN, DICKENS, THIELE, STECK, DeSTEFANO,
-  DAVILA,  STIRPE -- read once and referred to the Committee on Election
-  Law
- 
+  DAVILA,  STIRPE, ARDILA, DINOWITZ, McDONALD, NOVAKHOV -- read once and
+  referred to the Committee on Election Law -- reported and referred  to
+  the Committee on Ways and Means -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN ACT to amend the election law, in relation to establishing a deadline
   for changing the location of a polling place for an early voting peri-
   od
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision  4  of  section  8-600 of the election law is
+  Section 1. Subdivision 4 of section  8-600  of  the  election  law  is
  amended by adding a new paragraph (f) to read as follows:
-  (F) IF THE LOCATION OF AN EARLY VOTING  POLLING  PLACE  AS  DESIGNATED
- PURSUANT  TO  PARAGRAPH  (E)  OF  THIS SUBDIVISION CHANGES PRIOR TO SUCH
- EARLY VOTING PERIOD, NOTICE SHALL BE PROVIDED TO ALL  AFFECTED  ELIGIBLE
+  (F)  IF  THE  LOCATION  OF AN EARLY VOTING POLLING PLACE AS DESIGNATED
+ PURSUANT TO PARAGRAPH (E) OF THIS  SUBDIVISION  CHANGES  PRIOR  TO  SUCH
+ EARLY  VOTING  PERIOD, NOTICE SHALL BE PROVIDED TO ALL AFFECTED ELIGIBLE
  VOTERS NO LATER THAN FIVE DAYS PRIOR TO SUCH VOTING PERIOD IN ACCORDANCE
- WITH  THE COMMUNICATION PLAN ESTABLISHED PURSUANT TO SUBDIVISION FIVE OF
- THIS SECTION OR AS SOON AS PRACTICABLE IF SUCH  LOCATION  CHANGE  OCCURS
- WITHIN  FIVE  DAYS  OF  THE  COMMENCEMENT  OF  SUCH EARLY VOTING PERIOD;
- PROVIDED, HOWEVER, NO SUCH LOCATION CHANGE MAY OCCUR WITHIN  FORTY-EIGHT
- HOURS OF SUCH COMMENCEMENT.
+ WITH THE COMMUNICATION PLAN ESTABLISHED PURSUANT TO SUBDIVISION FIVE  OF
+ THIS  SECTION  OR  AS SOON AS PRACTICABLE IF SUCH LOCATION CHANGE OCCURS
+ WITHIN FIVE DAYS OF  THE  COMMENCEMENT  OF  SUCH  EARLY  VOTING  PERIOD;
+ PROVIDED,  HOWEVER, NO SUCH LOCATION CHANGE MAY OCCUR WITHIN FORTY-EIGHT
+ HOURS OF SUCH COMMENCEMENT UNLESS THERE IS ANY DISASTER WITHIN THE MEAN-
+ ING OF SECTION 3-108 OF THIS CHAPTER OR A DECLARED STATE OF EMERGENCY BY
+ THE GOVERNOR OR ANY COURT OF COMPETENT JURISDICTION IN THE COUNTY  WHERE
+ THE POLLING PLACE IS LOCATED.
   § 2. This act shall take effect immediately.
- 
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03100-01-3
+  LBD03100-03-3
