@@ -1,6 +1,6 @@
 # Prohibits the sale of ATVs and off-highway motorcycles in the city of New York
 
-**Bill ID:** S2773BA
+**Bill ID:** S2773BB
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Prohibits the sale of ATVs and off-highway motorcycles in the city of New York; 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2773--A
+  2773--B
  
   2023-2024 Regular Sessions
  
@@ -28,15 +28,12 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sens. KRUEGER, JACKSON -- read twice and ordered printed,
   and when printed to be committed to  the  Committee  on  Cities  1  --
   committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
- 
- AN ACT to amend the administrative code of the city of New York and  the
-  vehicle  and  traffic law, in relation to prohibiting the sale of ATVs
-  and off-highway motorcycles in the city of New York; and to amend  the
-  vehicle  and traffic law, in relation to requiring the purchaser of an
-  ATV  purchased  for use in the state of New York to sign a declaration
-  stating that such  purchaser  understands  all  laws  and  regulations
-  governing the use of such ATV in the state
+  recommitted to said committee -- committee discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
+ AN  ACT to amend the administrative code of the city of New York and the
+  vehicle and traffic law, in relation to prohibiting the sale  of  ATVs
+  and off-highway motorcycles in the city of New York
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -46,7 +43,7 @@ S T A T E  O F  N E W  Y O R K
  follows:
   SUBCHAPTER 13-A
   SALES OF ALL TERRAIN VEHICLES AND OFF-HIGHWAY MOTORCYCLES
-
+ 
   § 20-764 OFF-HIGHWAY MOTORCYCLE. A. FOR PURPOSES OF THIS  SECTION,  AN
  OFF-HIGHWAY  MOTORCYCLE  SHALL  HAVE  THE  SAME  DEFINITION SET FORTH IN
  SECTION ONE HUNDRED TWENTY-FIVE-A OF THE VEHICLE AND TRAFFIC LAW.
@@ -59,18 +56,18 @@ S T A T E  O F  N E W  Y O R K
  LIABLE FOR A CIVIL PENALTY OF ONE THOUSAND DOLLARS FOR A FIRST VIOLATION
  AND  A  CIVIL  PENALTY  OF  TWO  THOUSAND  DOLLARS  FOR  EACH SUBSEQUENT
  VIOLATION WITHIN ONE YEAR. EACH SALE, LEASE OR  RENTAL,  OR  ATTEMPT  TO
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07380-02-3
- S. 2773--A  2
- 
  SELL,  LEASE  OR RENT, AN OFF-HIGHWAY MOTORCYCLE SHALL BE DEEMED A SEPA-
  RATE VIOLATION.  AUTHORIZED EMPLOYEES OF  THE  DEPARTMENT,  THE  POLICE
  DEPARTMENT,  AND OF ANY OTHER AGENCY DESIGNATED BY THE MAYOR, SHALL HAVE
- THE  AUTHORITY TO ENFORCE THE PROVISIONS OF THIS SECTION. SUCH PENALTIES
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07380-04-3
+ S. 2773--B  2
+ 
+ THE AUTHORITY TO ENFORCE THE PROVISIONS OF THIS SECTION. SUCH  PENALTIES
  SHALL BE RECOVERED IN A CIVIL ACTION OR IN A PROCEEDING COMMENCED BY THE
- SERVICE OF A NOTICE OF HEARING  THAT  SHALL  BE  RETURNABLE  BEFORE  THE
+ SERVICE  OF  A  NOTICE  OF  HEARING  THAT SHALL BE RETURNABLE BEFORE THE
  ADMINISTRATIVE  TRIBUNAL  OF THE DEPARTMENT. IN ADDITION, SUCH VIOLATION
  SHALL BE A TRAFFIC INFRACTION AND SHALL BE PUNISHABLE IN ACCORDANCE WITH
  SECTION EIGHTEEN HUNDRED OF THE VEHICLE AND TRAFFIC LAW.
@@ -106,10 +103,9 @@ S T A T E  O F  N E W  Y O R K
  THE APPLICABLE FINES HAVE BEEN PAID OR A BOND  HAS  BEEN  POSTED  IN  AN
  AMOUNT  SATISFACTORY  TO  THE  COMMISSIONER OF THE AGENCY THAT IMPOUNDED
  SUCH DEVICE.
-  § 2. Subdivisions 6 and 6-a of section 2282 of the vehicle and traffic
- law, subdivision 6 as amended by chapter 402 of the  laws  of  1986  and
- subdivision  6-a  as  added  by section 1 of part D of chapter 59 of the
- laws of 2005, are amended to read as follows:
+  § 2. Subdivision 6 of section 2282 of the vehicle and traffic law,  as
+ amended  by  chapter  402  of  the  laws  of 1986, is amended to read as
+ follows:
   6. Dealers. (a) Any person who is a dealer, and who is not  registered
  as  a  dealer  pursuant to section four hundred fifteen of this chapter,
  shall register as an ATV dealer and operate in accordance with the rules
@@ -120,43 +116,16 @@ S T A T E  O F  N E W  Y O R K
  strator  registration  numbers  and  upon the payment of the appropriate
  fee, such additional numbers as shall be requested. Dealer registrations
  and dealer demonstrator registration numbers shall not be  transferable.
- S. 2773--A  3
- 
  Provided,  however,  the  commissioner  may  limit  the number of dealer
  demonstration registration numbers issued to a dealer.
-  (b)  No dealer shall sell or offer for retail sale any ATV, other than
- an ATV identified and sold for use  only  in  off-highway  competitions,
- which  is not equipped with all equipment necessary for the registration
+  (b) No dealer shall sell or offer for retail sale any ATV, other  than
+ an  ATV  identified  and  sold for use only in off-highway competitions,
+ S. 2773--B  3
+ 
+ which is not equipped with all equipment necessary for the  registration
  of an ATV.
-  (C) NO DEALER SHALL SELL OR OFFER FOR RETAIL SALE ANY ATV, OTHER  THAN
+  (C)  NO DEALER SHALL SELL OR OFFER FOR RETAIL SALE ANY ATV, OTHER THAN
  AN ATV IDENTIFIED AND SOLD FOR USE OUTSIDE THE CITY OF NEW YORK.
-  6-a.  Registration  at  time  of  sale.  (A) Every all terrain vehicle
- defined by section twenty-two hundred eighty-one of this article sold by
- a dealer shall be registered at the time of sale of such  vehicle.  Such
- registration shall be valid until the thirty-first day of August follow-
- ing the date of such sale; provided, however, that any all terrain vehi-
- cle  sold  after April first of each year shall be issued a registration
- valid until the thirty-first day of August in the year following that in
- which the all terrain vehicle is sold. Any all terrain vehicle purchased
- for use exclusively outside of the state of New York shall  not  require
- registration  at  the  time  of  purchase, and the purchaser of such all
- terrain vehicle shall sign a declaration, provided by the dealer,  which
- shall  state  that such purchaser understands the conditions under which
- an all terrain vehicle must be registered and the penalty for  violation
- of  such  registration  provisions.  EACH  SIGNED  DECLARATION  SHALL BE
- FORWARDED BY THE DEALER TO THE COMMISSIONER. THE FORM OF  SUCH  DECLARA-
- TION SHALL BE PROVIDED BY THE COMMISSIONER TO EACH DEALER.
-  (B) EACH PURCHASER OF AN ALL TERRAIN VEHICLE  PURCHASED FOR USE IN THE
- STATE  OF  NEW  YORK  SHALL  SIGN A DECLARATION, PROVIDED BY THE DEALER,
- WHICH SHALL STATE THAT SUCH PURCHASER UNDERSTANDS  ALL  LAWS  AND  REGU-
- LATIONS  GOVERNING  THE  USE OF SUCH ALL TERRAIN VEHICLE ON PUBLIC ROAD-
- WAYS, SIDEWALKS, AND PUBLIC HIGHWAYS INCLUDING  WITHOUT  LIMITATION  THE
- PROHIBITION ON OPERATING AN ALL TERRAIN VEHICLE ON PUBLIC PROPERTY WITH-
- IN  THE  CITY  OF  NEW  YORK. SUCH DECLARATION SHALL ALSO STATE THAT THE
- PURCHASER UNDERSTANDS THE PENALTIES FOR VIOLATION  OF  SUCH  LAWS.  Each
- signed declaration shall be forwarded by the dealer to the commissioner.
- The  form  of  such declaration shall be provided by the commissioner to
- each dealer.
   § 3. This act shall take effect on the first of January next  succeed-
  ing  the  date  upon  which it shall have become a law.  Effective imme-
  diately, the addition, amendment and/or repeal of any rule or regulation
