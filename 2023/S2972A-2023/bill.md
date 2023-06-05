@@ -1,6 +1,6 @@
 # Establishes a no fare program for certain police officers on the the Metro-North Commuter Railroad Company and the New York City Transit Authority
 
-**Bill ID:** S2972A
+**Bill ID:** S2972AA
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires the Long Island Rail Road, the Metro-North Commuter Railroad Company, a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2972
+  2972--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MAYER  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the public authorities law, in relation to requiring the
   Metro-North Commuter Railroad Company and the New  York  city  transit
@@ -46,35 +48,35 @@ S T A T E  O F  N E W  Y O R K
  tion on the Long Island Rail Road AND THE METRO-NORTH COMMUTER  RAILROAD
  for TRAINED AND SWORN police officers [employed by the city of New York,
  county  of Nassau, Nassau county villages and cities, county of Suffolk,
- Suffolk county villages and towns,] IN GOOD  STANDING  WITH  ACTIVE  LAW
- ENFORCEMENT  RESPONSIBILITIES WHO ARE EMPLOYED BY ANY COUNTY, TOWN, CITY
- OR VILLAGE IN THE METROPOLITAN  COMMUTER  TRANSPORTATION  DISTRICT,  the
- division  of  state  police,  AND the port authority of New York and New
- Jersey[, the Metro-North Commuter Railroad Company, the  New  York  city
- housing  authority  and  the New York city transit authority]. In estab-
- lishing such program, [which has as its goal  increased  protection  and
- improved  safety  for its commuters,] the authority [and the Long Island
- Rail Road] shall, among other things, consider: (a)  requiring  [police]
- SUCH  officers  [who ride without cost] to register with the Long Island
- Rail Road AND THE METRO-NORTH COMMUTER RAILROAD COMPANY as  a  condition
- of  riding without cost; (b) requiring such officers WHEN REGISTERING to
- [indicate during such registration process] STATE their regular  working
+ Suffolk county villages and towns, the division  of  state  police,  the
+ port  authority  of  New  York  and New Jersey, the Metro-North Commuter
+ Railroad Company, the New York city housing authority and the  New  York
+ city  transit  authority],  AS  DEFINED  IN SECTION 1.20 OF THE CRIMINAL
+ PROCEDURE LAW AND WHO ARE EMPLOYED IN  GOOD  STANDING  WITH  ACTIVE  LAW
+ ENFORCEMENT  RESPONSIBILITIES WITHIN THE METROPOLITAN COMMUTER TRANSPOR-
+ TATION DISTRICT. In establishing such program, [which has  as  its  goal
+ increased protection and improved safety for its commuters,] the author-
+ ity [and the Long Island Rail Road] shall, among other things, consider:
+ (a) requiring [police] SUCH officers [who ride without cost] to register
+ with  the  Long  Island  Rail Road AND THE METRO-NORTH COMMUTER RAILROAD
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05292-01-3
- S. 2972  2
+  LBD05292-02-3
+ S. 2972--A  2
  
- hours  and  the [Long Island Rail Road] trains that such officers expect
- to ride; [and] (c) [periodically] ANNUALLY re-registering [and  re-vali-
- dating]  such  officers;  AND (D) REQUIRING SUCH OFFICERS TO PRESENT LAW
- ENFORCEMENT  IDENTIFICATION  ALONG WITH ANY PASS THE AUTHORITY MAY ISSUE
- IN RELATION TO THIS PROGRAM. The authority [and  the  Long  Island  Rail
- Road]  shall  also have the power to consider other matters necessary to
- carry out the goals and objectives of this section.  NOTHING  IN  THIS
- SUBDIVISION SHALL LIMIT THE AUTHORITY FROM PROVIDING NO FARE TRANSPORTA-
- TION ON ANY OF ITS SUBWAYS, BUSES OR COMMUTER TRAINS FOR POLICE OFFICERS
- EMPLOYED  BY  THE CITY OF NEW YORK OR FOR POLICE OFFICERS OR PEACE OFFI-
- CERS EMPLOYED BY THE AUTHORITY OR ITS AFFILIATES.
+ COMPANY as a condition of riding without cost; (b) requiring such  offi-
+ cers  WHEN  REGISTERING  to  [indicate during such registration process]
+ STATE their regular working hours and the [Long Island Rail Road] trains
+ that  such  officers  expect  to ride; [and] (c) [periodically] ANNUALLY
+ re-registering [and re-validating] such officers; AND (D) REQUIRING SUCH
+ OFFICERS TO PRESENT LAW ENFORCEMENT IDENTIFICATION ALONG WITH  ANY  PASS
+ THE  AUTHORITY MAY ISSUE IN RELATION TO THIS PROGRAM. The authority [and
+ the Long Island Rail Road] shall also have the power to  consider  other
+ matters necessary to carry out the goals and objectives of this section.
+ NOTHING  IN THIS SUBDIVISION SHALL LIMIT THE AUTHORITY FROM PROVIDING NO
+ FARE TRANSPORTATION ON ANY OF ITS SUBWAYS, BUSES OR COMMUTER TRAINS  FOR
+ POLICE  OFFICERS EMPLOYED BY THE CITY OF NEW YORK OR FOR POLICE OFFICERS
+ OR PEACE OFFICERS EMPLOYED BY THE AUTHORITY OR ITS AFFILIATES.
   § 2. This act shall take effect on the thirtieth day  after  it  shall
  have become a law.
