@@ -1,6 +1,6 @@
 # Enacts the "fair college admissions act"
 
-**Bill ID:** S4170B
+**Bill ID:** S4170BA
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "fair college admissions act"; prohibits legacy admissions policies a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4170
+  4170--A
  
   2023-2024 Regular Sessions
  
@@ -25,14 +25,15 @@ S T A T E  O F  N E W  Y O R K
   February 3, 2023
   ___________
  
- Introduced  by  Sens.  GOUNARDES,  MYRIE,  SEPULVEDA  --  read twice and
-  ordered printed, and when printed to be committed to the Committee  on
-  Higher Education
- 
- AN  ACT  to  amend  the education law, in relation to prohibiting legacy
-  preference and early decision admission policies at  higher  education
-  institutions in this state
+ Introduced  by  Sens.  GOUNARDES,  CHU,  CLEARE,  COMRIE,  MYRIE, RAMOS,
+  SEPULVEDA -- read twice and ordered printed, and when  printed  to  be
+  committed  to  the  Committee  on  Higher  Education  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
 
+ AN ACT to amend the education law, in  relation  to  prohibiting  legacy
+  admission policies at higher education institutions in this state
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -59,94 +60,51 @@ S T A T E  O F  N E W  Y O R K
  to  students  related  to  alumni  of  a higher education institution is
  discriminatory in nature and disproportionately hurts students who  come
  from  working  class  and  low-income families, have parents who did not
+ earn a bachelor's degree, are  undocumented,  are  immigrants,  and  are
+ members of historically underrepresented minority groups formerly denied
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03099-01-3
- S. 4170  2
+  LBD03099-02-3
+ S. 4170--A  2
  
- earn a bachelor's degree, are  undocumented,  are  immigrants,  and  are
- members of historically underrepresented minority groups formerly denied
  entry  into specific higher education institutions either as a matter of
- institution  policy or the effect of historic underlying law and govern-
+ institution policy or the effect of historic underlying law and  govern-
  ment practices.
-  f. The legislature further finds that 30 percent  of  bachelor  degree
- granting institutions in the state of New York currently employ an early
- decision  admissions policy that allows students to apply in the fall of
- their senior year and receive an application  decision  by  December  in
- exchange  for  committing  to  attend  that institution and foregoing an
- opportunity to compare  financial  aid  packages  offered  by  competing
- institutions of higher education.
-  g.  The legislature further finds that at a number of higher education
- institutions, particularly highly selective institutions with low  admit
- rates, between 40 and 50 percent of enrolled students are admitted early
- decision, and early decision applicants are more than twice as likely to
- be admitted.
-  h.  The  legislature further finds that early decision admission poli-
- cies are discriminatory in nature, as they favor  students  with  strong
- college  advising  and  the ability to commit to a college or university
- without considering a financial aid package. They  put  first-generation
- students,  students  at  under-resourced high schools, and students from
- working class and low-income backgrounds at a disadvantage because  they
- lack  awareness  of the strategic benefit of applying early decision and
- do not have the luxury of committing to an institution  without  knowing
- the post-financial aid cost of attendance.
-  i.  The  legislature further finds that inequitable, unfair admissions
- policies and practices such as legacy preference and early decision  are
- a  significant  factor  behind  disparities  in college enrollment among
- students from historically underserved  racial  and  economic  subgroups
- compared  to  their  more advantaged peers at selective higher education
- institutions.
-  j. The legislature hereby declares that a prohibition on legacy  pref-
- erence  and  early  decision  admissions  policies  at  degree-granting
- colleges and universities in the state shall further the goals of educa-
- tional, economic, and social equity, helping to diversify highly  selec-
- tive  institutions  while  closing achievement gaps between historically
- advantaged and disadvantaged groups, and shall commit to  achieving  the
- same with the following provisions of this act.
+  f.  The  legislature further finds that inequitable, unfair admissions
+ policies and practices such as legacy consideration  are  a  significant
+ factor  behind  disparities  in  college  enrollment among students from
+ historically underserved racial and economic subgroups compared to their
+ more advantaged peers at selective higher education institutions.
+  g. The legislature hereby declares that a prohibition on legacy admis-
+ sion policies at degree-granting colleges and universities in the  state
+ shall  further  the  goals  of educational, economic, and social equity,
+ helping  to  diversify  highly  selective  institutions  while  closing
+ achievement  gaps  between  historically  advantaged  and  disadvantaged
+ groups, and shall commit  to  achieving  the  same  with  the  following
+ provisions of this act.
   §  3.  The  education  law is amended by adding a new section 239-c to
  read as follows:
-  § 239-C. PROHIBITION ON LEGACY PREFERENCE AND EARLY DECISION ADMISSION
- POLICIES. 1.  DEFINITIONS. AS USED IN THIS SECTION, THE FOLLOWING  TERMS
- SHALL HAVE THE FOLLOWING MEANINGS:
-  (A)  "CONSIDER  ALUMNI/AE  RELATION  AS  A FACTOR IN ADMISSIONS" SHALL
- REFER TO WHEN AN ADMISSIONS  APPLICATION  ASKS  APPLICANTS  TO  INDICATE
- WHERE  THEIR  RELATIVES  ATTENDED  COLLEGE  AND THAT SUCH INFORMATION IS
- INCLUDED AMONG THE DOCUMENTS THAT THE HIGHER EDUCATION INSTITUTION  USES
+  § 239-C. PROHIBITION ON LEGACY ADMISSION POLICIES. 1.  DEFINITIONS. AS
+ USED IN THIS SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEAN-
+ INGS:
+  (A) "CONSIDER ALUMNI/AE RELATION AS  A  FACTOR  IN  ADMISSIONS"  SHALL
+ REFER  TO  WHEN  AN  ADMISSIONS  APPLICATION ASKS APPLICANTS TO INDICATE
+ WHERE THEIR RELATIVES ATTENDED COLLEGE  AND  THAT  SUCH  INFORMATION  IS
+ INCLUDED  AMONG THE DOCUMENTS THAT THE HIGHER EDUCATION INSTITUTION USES
  TO CONSIDER AN APPLICANT FOR ADMISSION.
-  (B) "EARLY ACTION" SHALL MEAN AN ADMISSIONS PLAN THAT ALLOWS A STUDENT
- TO  APPLY  AT  AN EARLIER STAGE OF THE ADMISSIONS PROCESS AND RECEIVE AN
- EXPEDITED ADMISSIONS DECISION BUT  DOES  NOT  REQUIRE  SUCH  STUDENT  TO
- COMMIT  TO  ATTEND  SUCH INSTITUTION UPON RECEIVING A DECISION OF ADMIT-
- TANCE.
-  (C) "EARLY DECISION" SHALL MEAN  AN  ADMISSIONS  PLAN  THAT  ALLOWS  A
- STUDENT  TO  APPLY  AT  AN  EARLIER  STAGE OF THE ADMISSIONS PROCESS AND
- S. 4170  3
- 
- RECEIVE AN EXPEDITED ADMISSIONS DECISION  THAT  REQUIRES  SUCH  STUDENT,
- ABSENT UNIQUE CIRCUMSTANCES STIPULATED IN THE EARLY DECISION APPLICATION
- OR  OTHERWISE AGREED TO BY THE INSTITUTION, TO COMMIT TO ATTEND A HIGHER
- EDUCATION  INSTITUTION  SHOULD  SUCH STUDENT BE ADMITTED AND TO WITHDRAW
- ALL OTHER APPLICATIONS TO OTHER HIGHER EDUCATION INSTITUTIONS.
-  (D) "HIGHER EDUCATION INSTITUTION" SHALL MEAN THE STATE UNIVERSITY  OF
+  (B) "HIGHER EDUCATION INSTITUTION" SHALL MEAN THE STATE UNIVERSITY  OF
  NEW  YORK, AS DEFINED IN SUBDIVISION ONE OF SECTION THREE HUNDRED FIFTY-
  TWO OF THIS CHAPTER, THE CITY UNIVERSITY OF NEW YORK, AS ESTABLISHED  IN
  SECTION  SIXTY-TWO  HUNDRED  THREE  OF  THIS CHAPTER, OR ANY INSTITUTION
  GIVEN THE POWER TO CONFER DEGREES IN THIS STATE BY THE BOARD OF  REGENTS
  AS PROVIDED IN SECTION TWO HUNDRED EIGHTEEN OF THIS ARTICLE.
-  (E) "LEGACY PREFERENCE" SHALL MEAN A PREFERENCE IN ADMISSIONS GIVEN BY
- A HIGHER EDUCATION INSTITUTION TO APPLICANTS RELATED BY CONSANGUINITY OR
- AFFINITY TO ALUMNI OF SUCH INSTITUTION.
-  2. PROHIBITION. NO HIGHER EDUCATION INSTITUTION IN THIS STATE SHALL:
-  (A) CONSIDER ALUMNI/AE RELATION AS A FACTOR IN ADMISSIONS; OR
-  (B)  EXECUTE  AN  EARLY  DECISION POLICY FOR UNDERGRADUATE ADMISSIONS.
- SUCH PROHIBITION SHALL NOT APPLY, HOWEVER, TO A HIGHER EDUCATION  INSTI-
- TUTION  THAT  ASKS APPLICANTS ABOUT RELATIONS TO ALUMNI OF SUCH INSTITU-
- TION AFTER AN OFFER OF ADMISSION AND FINANCIAL AID HAS BEEN ACCEPTED FOR
- THE PURPOSES OF DATA COLLECTION AND REPORTING.  FURTHERMORE, THE  PROHI-
- BITION  HEREIN  DESCRIBED  SHALL  NOT  BE CONSTRUED TO APPLY TO AN EARLY
- ACTION POLICY AS DEFINED IN PARAGRAPH (B) OF  SUBDIVISION  ONE  OF  THIS
- SECTION.
+  2.  PROHIBITION.  NO  HIGHER EDUCATION INSTITUTION IN THIS STATE SHALL
+ CONSIDER ALUMNI/AE RELATION AS A FACTOR IN ADMISSIONS.  SUCH PROHIBITION
+ SHALL NOT APPLY, HOWEVER, TO A HIGHER EDUCATION  INSTITUTION  THAT  ASKS
+ APPLICANTS  ABOUT  RELATIONS  TO  ALUMNI/AE OF SUCH INSTITUTION AFTER AN
+ OFFER OF ADMISSION AND FINANCIAL AID HAS BEEN ACCEPTED FOR THE  PURPOSES
+ OF DATA COLLECTION AND REPORTING.
   3.  PENALTY.  A  VIOLATION  OF  SUBDIVISION  TWO OF THIS SECTION SHALL
  RESULT IN A CIVIL PENALTY OF A SUM EQUIVALENT  TO  TEN  PERCENT  OF  THE
  NUMBER OF FULL-TIME EQUIVALENT FIRST YEAR STUDENTS ENROLLED AT THE HIGH-
