@@ -1,6 +1,6 @@
 # Relates to limiting recordkeeping and reporting duties of public notaries
 
-**Bill ID:** A7241A
+**Bill ID:** A7241AA
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Limits recordkeeping and reporting duties of public notaries to electronic notar
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7241
+  7241--A
  
   2023-2024 Regular Sessions
  
@@ -25,24 +25,24 @@ S T A T E  O F  N E W  Y O R K
   May 15, 2023
   ___________
  
- Introduced  by  M.  of A. LAVINE, NORRIS, PIROZZOLO, JENSEN -- read once
-  and referred to the Committee on Judiciary
+ Introduced  by  M.  of  A.  LAVINE,  NORRIS, PIROZZOLO, JENSEN, WALLACE,
+  BRABENEC -- read once and referred to the Committee  on  Judiciary  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
- AN ACT to amend the executive law, in relation to establishing a record-
-  keeping and reporting exemption for notary publics for  acts  relating
-  to the designation and nomination of candidates
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN ACT to amend the executive law, in relation to limiting recordkeeping
+  and reporting duties of public notaries
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The executive law is amended by adding a new section  135-d
+  Section  1. The executive law is amended by adding a new section 135-d
  to read as follows:
   §  135-D.  RECORDKEEPING  AND  REPORTING.  NOTWITHSTANDING  ANY  OTHER
- PROVISION OF LAW, RULE, OR REGULATION TO THE CONTRARY, ANY ACT PERFORMED
- BY A NOTARY PUBLIC AS IT RELATES TO THE DESIGNATION  AND  NOMINATION  OF
- CANDIDATES  PURSUANT  TO  ARTICLE SIX AND SECTION 15-108 OF THE ELECTION
- LAW SHALL NOT BE REQUIRED TO BE RECORDED OR MAINTAINED  BY  SUCH  NOTARY
- PUBLIC.
+ PROVISION  OF  LAW,  RULE,  OR  REGULATION  TO  THE  CONTRARY, EXCEPT AS
+ PROVIDED BY SECTION ONE HUNDRED THIRTY-FIVE-C OF THIS ARTICLE  REGARDING
+ ELECTRONIC  NOTARIZATION,  A  NOTARY  SHALL NOT BE REQUIRED TO CREATE OR
+ RETAIN ANY OTHER NOTARIAL RECORD OF ANY NOTARIAL ACT.
   § 2. This act shall take effect immediately.
  
  
@@ -52,4 +52,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10616-01-3
+  LBD10616-02-3
