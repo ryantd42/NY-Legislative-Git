@@ -1,6 +1,6 @@
 # Provides that certain local elections held outside of New York City shall be in an even-numbered year
 
-**Bill ID:** A4282BA
+**Bill ID:** A4282BB
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Provides that certain local elections outside of New York City shall be in an ev
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4282--A
+  4282--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,9 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M.  of  A.  PAULIN,  SILLITTI, WALKER, DARLING, DICKENS,
   RAMOS, BURGOS -- read once and referred to the Committee  on  Election
   Law  --  committee  discharged,  bill  amended,  ordered  reprinted as
-  amended and recommitted to said committee
+  amended and recommitted to said committee -- again reported from  said
+  committee  with amendments, ordered reprinted as amended and recommit-
+  ted to said committee
  
  AN ACT to amend the town law, the village law, the county law,  and  the
   municipal  home  rule  law, in relation to moving certain elections to
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  TO ELECT ITS OFFICERS, INCLUDING TOWN JUSTICES, IN ODD-NUMBERED YEARS IF
  BOTH SUCH VILLAGE AND TOWN LAST HELD SUCH ELECTIONS IN  AN  ODD-NUMBERED
  YEAR PRIOR TO JANUARY  FIRST,  TWO THOUSAND TWENTY-FIVE.
-  § 2. Subdivision 4 of section 17-1703-a of the village law, as amended
- by chapter 513 of the laws of 2022, is amended to read as follows:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06852-10-3
- A. 4282--A  2
+  LBD06852-12-3
+ A. 4282--B  2
  
+  § 2. Subdivision 4 of section 17-1703-a of the village law, as amended
+ by chapter 513 of the laws of 2022, is amended to read as follows:
   4.  In  any  case in which the proposition provided for in subdivision
  one of this section shall have resulted in favor of the local government
  operating principally as a town, then, at the regular  village  election
@@ -119,32 +121,32 @@ S T A T E  O F  N E W  Y O R K
  COUNTIES  IN  THE  CITY  OF NEW YORK, TO HOLD ELECTIONS IN EVEN-NUMBERED
  YEARS FOR ANY POSITION OF A COUNTY  ELECTED  OFFICIAL,  OTHER  THAN  THE
  OFFICE  OF SHERIFF, COUNTY CLERK, DISTRICT ATTORNEY, FAMILY COURT JUDGE,
+ A. 4282--B  3
+ 
  COUNTY COURT JUDGE, SURROGATE COURT JUDGE, OR ANY COUNTY OFFICES WITH  A
  THREE-YEAR TERM PRIOR TO JANUARY FIRST, TWO THOUSAND TWENTY-FIVE.
- A. 4282--A  3
- 
   §  5.  Notwithstanding  any provision of any general, special or local
  law, charter, code, ordinance, resolution, rule  or  regulation  to  the
  contrary,  a  county elected official, or town elected official, subject
  to the requirements of sections one, two, three, or four  of  this  act,
  elected  and  serving  their  term  as of January 1, 2025 shall complete
- their full term as established in local law.  Provided, however, that if
- the completion of such full term results in the need for an election  in
- an  odd-numbered year after January 1, 2025, the county or town official
- elected at such election shall have their term expire as if  such  offi-
- cial  were elected at the previous general election held in an even-num-
+ their full term as established by law.  Provided, however, that  if  the
+ completion  of  such full term results in the need for an election in an
+ odd-numbered year after January 1, 2025, the  county  or  town  official
+ elected  at  such election shall have their term expire as if such offi-
+ cial were elected at the previous general election held in an  even-num-
  bered year. Provided, further, that such term shall not be applicable to
  any general, special, or local law pertaining to term limits. Nothing in
- this act shall prohibit a county, town, or any village subject to  arti-
- cle  seventeen of the village law, from enacting a local law to alter or
+ this  act shall prohibit a county, town, or any village subject to arti-
+ cle seventeen of the village law, from enacting a local law to alter  or
  permit alteration of an official's term limit.
-  § 6. Severability. If any provision of this act  is  held  invalid  or
- ineffective  in  whole or in part or inapplicable to any person or situ-
+  §  6.  Severability.  If  any provision of this act is held invalid or
+ ineffective in whole or in part or inapplicable to any person  or  situ-
  ation, such invalidity or holding shall not affect, impair or invalidate
- other provisions or applications of this act that can  be  given  effect
- without  the  invalid provision or application, and all other provisions
- thereof shall nevertheless be separately and  fully  effective,  and  to
+ other  provisions  or  applications of this act that can be given effect
+ without the invalid provision or application, and all  other  provisions
+ thereof  shall  nevertheless  be  separately and fully effective, and to
  this end the provisions of this act are declared to be severable.
-  §  7.  This  act  shall take effect immediately; provided however that
- sections one, two, three and four of this act shall take effect  January
+  § 7. This act shall take effect  immediately;  provided  however  that
+ sections  one, two, three and four of this act shall take effect January
  1, 2025.
