@@ -1,6 +1,6 @@
 # Relates to the collection of certain demographic information by certain state agencies, boards, departments and commissions
 
-**Bill ID:** S6584C
+**Bill ID:** S6584CA
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Requires separate collection categories for White, Middle Eastern, and North Afr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6584
+  6584--A
+  Cal. No. 1529
  
   2023-2024 Regular Sessions
  
@@ -26,52 +27,56 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. GIANARIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Finance
- 
- AN ACT to amend the executive law, in  relation  to  the  collection  of
-  certain  demographic  information  by  certain state agencies, boards,
-  departments and commissions
+  printed to be committed to  the  Committee  on  Finance  --  committee
+  discharged  and  said  bill  committed  to  the  Committee on Rules --
+  ordered to a third reading, amended and ordered  reprinted,  retaining
+  its place in the order of third reading
 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN  ACT  to  amend  the  executive law, in relation to the collection of
+  certain demographic information by  certain  state  agencies,  boards,
+  departments and commissions
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Section 170-e of the executive law, as amended by chapter
+  Section 1. Section 170-e of the executive law, as amended  by  chapter
  123 of the laws of 2022, is amended to read as follows:
   § 170-e. Collection of demographic information. 1. Every state agency,
  board, department, or commission that directly collects demographic data
- as to the ancestry or ethnic origin of residents of  the  state  of  New
- York  shall  use  separate collection categories and tabulations for the
+ as  to  the  ancestry  or ethnic origin of residents of the state of New
+ York shall use separate collection categories and  tabulations  for  the
  following Asian and Pacific Islander groups in New York state:
-  (a) each major Asian group shall include Chinese, Japanese,  Filipino,
+  (a)  each major Asian group shall include Chinese, Japanese, Filipino,
  Korean, Vietnamese, Asian Indian, Bangladeshi, Pakistani, and all of the
- ten  most  populous  Asian  groups in the most recent five-year American
+ ten most populous Asian groups in the  most  recent  five-year  American
  community survey published by the United States Census Bureau; and
-  (b) each major Pacific Islander group shall include  Native  Hawaiian,
+  (b)  each  major Pacific Islander group shall include Native Hawaiian,
  Guamanian and Chamorro, and Samoan; or
-  (c)  collection categories shall include a category for other Asian or
+  (c) collection categories shall include a category for other Asian  or
  Pacific Island group.
-  2. EVERY STATE AGENCY, BOARD, DEPARTMENT, OR COMMISSION THAT  DIRECTLY
- COLLECTS  DEMOGRAPHIC  DATA AS TO THE ANCESTRY OR ETHNIC ORIGIN OF RESI-
- DENTS OF THE STATE OF NEW YORK SHALL USE SEPARATE COLLECTION  CATEGORIES
- AND TABULATIONS FOR THE WHITE GROUP IN NEW YORK STATE.
-  3.  EVERY STATE AGENCY, BOARD, DEPARTMENT, OR COMMISSION THAT DIRECTLY
+  2.  EVERY STATE AGENCY, BOARD, DEPARTMENT, OR COMMISSION THAT DIRECTLY
  COLLECTS DEMOGRAPHIC DATA AS TO THE ANCESTRY OR ETHNIC ORIGIN  OF  RESI-
  DENTS  OF THE STATE OF NEW YORK SHALL USE SEPARATE COLLECTION CATEGORIES
- AND TABULATIONS FOR THE FOLLOWING MIDDLE EASTERN OR NORTH AFRICAN GROUPS
- IN NEW YORK STATE:
+ AND TABULATIONS FOR THE WHITE GROUP IN NEW YORK STATE.
+  3. EVERY STATE AGENCY, BOARD, DEPARTMENT, OR COMMISSION THAT  DIRECTLY
+ COLLECTS  DEMOGRAPHIC  DATA AS TO THE ANCESTRY OR ETHNIC ORIGIN OF RESI-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10311-02-3
- S. 6584  2
+  LBD10311-03-3
+ S. 6584--A  2
  
-  (A) EACH MAJOR MIDDLE EASTERN OR NORTH  AFRICAN  GROUP  SHALL  INCLUDE
- LEBANESE,  EGYPTIAN, ISRAELI, TURKISH, IRANIAN, SYRIAN, MOROCCAN, PALES-
- TINIAN, AND ALL OF THE TEN MOST POPULOUS MIDDLE EASTERN OR NORTH AFRICAN
- GROUPS IN THE MOST RECENT FIVE-YEAR AMERICAN COMMUNITY SURVEY  PUBLISHED
- BY THE UNITED STATES CENSUS BUREAU; OR
-  (B)  COLLECTION  CATEGORIES  SHALL INCLUDE A CATEGORY FOR OTHER MIDDLE
- EASTERN OR NORTH AFRICAN GROUP.
+ DENTS OF THE STATE OF NEW YORK SHALL USE SEPARATE COLLECTION  CATEGORIES
+ AND TABULATIONS FOR THE FOLLOWING MIDDLE EASTERN OR NORTH AFRICAN GROUPS
+ IN NEW YORK STATE:
+  (A)  EACH  MAJOR  NORTH AFRICAN (NA) GROUP, INCLUDING, BUT NOT LIMITED
+ TO, EGYPTIAN, MOROCCAN, ALGERIAN, TUNISIAN, AND LIBYAN; AND
+  (B) EACH MAJOR MIDDLE EASTERN (ME) GROUP, INCLUDING, BUT  NOT  LIMITED
+ TO,  YEMENI,  IRANIAN,  PALESTINIAN,  IRAQI,  LEBANESE, ISRAELI, SYRIAN,
+ ARMENIAN, AND SAUDI; AND
+  (C) OTHER MIDDLE EASTERN AND NORTH AFRICAN (MENA)  GROUPS,  INCLUDING,
+ BUT  NOT  LIMITED  TO,  TRANSNATIONAL  INDIGENOUS  MENA COMMUNITIES LIKE
+ AMAZIGH AND SYRIAC PEOPLE.
   4. Every state agency, board, department, or commission that  directly
  collects  demographic  data as to the ancestry or ethnic origin of resi-
  dents of the state of New York shall use separate collection  categories
@@ -87,36 +92,42 @@ S T A T E  O F  N E W  Y O R K
  community survey, at which time state agencies, boards,  departments  or
  commissions  may  cease to collect and report on such demographic groups
  provided they remain outside the ten most populous groups.
-  [4.] 6. The data collected pursuant to the different collection  cate-
- gories  and tabulations described in subdivision one of this section, to
- the degree that the data quality is sufficient,  shall  be  included  in
- every  demographic  report on ancestry or ethnic origins of residents of
+  6. EVERY STATE AGENCY, BOARD, DEPARTMENT, OR COMMISSION THAT  DIRECTLY
+ COLLECTS  DEMOGRAPHIC  DATA AS TO THE ANCESTRY OR ETHNIC ORIGIN OF RESI-
+ DENTS OF THE STATE OF NEW YORK SHALL ALLOW MULTIPLE  COLLECTION  CATEGO-
+ RIES TO BE SELECTED.
+  [4.]  7. The data collected pursuant to the different collection cate-
+ gories and tabulations described in subdivision one of this section,  to
+ the  degree  that  the  data quality is sufficient, shall be included in
+ every demographic report on ancestry or ethnic origins of  residents  of
  the state of New York by the state agency, board, department, or commis-
- sion published or released on or  after  December  first,  two  thousand
+ sion  published  or  released  on  or after December first, two thousand
  twenty-three; provided, however, that for the department of labor, divi-
  sion of criminal justice services, office of mental health and office of
  temporary and disability assistance such requirements shall be effective
- July  first,  two thousand twenty-four. The data shall be made available
- to the public in accordance with  state  and  federal  law,  except  for
+ July first, two thousand twenty-four. The data shall be  made  available
+ to  the  public  in  accordance  with  state and federal law, except for
  personal identifying information, which shall be deemed confidential, by
- posting  the data on the internet web site of the agency, board, depart-
- ment, or commission on or before December first,  two  thousand  twenty-
- three,  and annually thereafter; provided, however, that for the depart-
- ment of labor, division of criminal justice services, office  of  mental
- health  and  office of temporary and disability assistance such require-
- ments shall be effective July first, two thousand  twenty-four.  If  the
+ posting the data on the internet web site of the agency, board,  depart-
+ ment,  or  commission  on or before December first, two thousand twenty-
+ three, and annually thereafter; provided, however, that for the  depart-
+ ment  of  labor, division of criminal justice services, office of mental
+ health and office of temporary and disability assistance  such  require-
+ ments  shall  be  effective July first, two thousand twenty-four. If the
  data quality is determined to be insufficient for publication, an expla-
- nation  of  the  problem  with the data quality shall be included in any
- report or publication made available to the public.  This  subdivision
- shall  not  be  construed to prevent any other state agency from posting
- data collected pursuant to subdivision one of this section on the  agen-
+ nation of the problem with the data quality shall  be  included  in  any
+ report  or  publication  made available to the public.  This subdivision
+ shall not be construed to prevent any other state  agency  from  posting
+ data  collected pursuant to subdivision one of this section on the agen-
  cy's internet web site, in the manner prescribed by this section.
-  [5.]  7.  The  requirements  of  this  section  shall not apply to the
- department of labor, the division  of  criminal  justice  services,  the
- office  of  mental  health  or  the  office  of temporary and disability
+  [5.] 8. The requirements of  this  section  shall  not  apply  to  the
+ department  of  labor,  the  division  of criminal justice services, the
+ S. 6584--A  3
+ 
+ office of mental health  or  the  office  of  temporary  and  disability
  assistance until two years after this section shall have become a law.
   § 2. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.  Effective immediately, the addition, amend-
  ment and/or repeal of any rule or regulation necessary for the implemen-
- tation of this act on its effective date are authorized to be  made  and
+ tation  of  this act on its effective date are authorized to be made and
  completed on or before such effective date.
