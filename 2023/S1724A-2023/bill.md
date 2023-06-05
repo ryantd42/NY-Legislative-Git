@@ -1,6 +1,6 @@
 # Relates to operators of a vehicle overtaking a bicycle or pedestrian
 
-**Bill ID:** S1724A
+**Bill ID:** S1724AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to operators of a vehicle overtaking a bicycle or pedestrian outside the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1724
+  1724--A
  
   2023-2024 Regular Sessions
  
@@ -25,30 +25,68 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+ Introduced  by  Sens.  HARCKHAM,  PALUMBO,  SEPULVEDA  -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Transportation  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the vehicle and traffic law, in relation to operators of
-  a vehicle overtaking a bicycle from behind
+  a vehicle overtaking a bicycle or pedestrian
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1. Section 1122-a of the vehicle and traffic law, as added by
  chapter 413 of the laws of 2010, is amended to read as follows:
-  § 1122-a. Overtaking a bicycle. [The] FOR CITIES HAVING  A  POPULATION
- OF LESS THAN ONE MILLION AND TOWNS AND VILLAGES, THE operator of a vehi-
- cle  overtaking, from behind, a bicycle proceeding on the same side of a
- roadway shall pass to the left of such bicycle at a [safe]  distance  OF
- NOT LESS THAN THREE FEET until safely clear thereof.
-  § 2. This act shall take effect on the one hundred eightieth day after
- it shall have become a law.
- 
- 
- 
- 
- 
+  § 1122-a. Overtaking a bicycle OR PEDESTRIAN.  [The]  (A)  FOR  CITIES
+ HAVING A POPULATION OF LESS THAN ONE MILLION AND TOWNS AND VILLAGES, THE
+ operator  of  a vehicle overtaking, from behind, a bicycle proceeding on
+ the same side of a roadway shall pass to the left of such bicycle [at  a
+ safe distance until safely clear thereof] WITH DUE CARE.
+  (I) FOR PURPOSES OF THIS SECTION, SUCH DUE CARE SHALL INCLUDE, BUT NOT
+ BE LIMITED TO, MOVING FROM A LANE OR SHOULDER WHICH CONTAINS OR IS IMME-
+ DIATELY  ADJACENT  TO  THE  BICYCLIST TO ANOTHER LANE UNTIL SAFELY CLEAR
+ THEREOF,  PROVIDED  THAT  SUCH  MOVEMENT  OTHERWISE  COMPLIES  WITH  THE
+ REQUIREMENTS  OF  THIS  CHAPTER  INCLUDING,  BUT  NOT  LIMITED  TO,  THE
+ PROVISIONS OF SECTIONS ELEVEN HUNDRED TEN  AND  ELEVEN  HUNDRED  TWENTY-
+ EIGHT OF THIS CHAPTER.
+  (II) IF MOVING FROM AN IMMEDIATELY ADJACENT LANE TO ANOTHER LANE WOULD
+ NOT OTHERWISE COMPLY WITH THE REQUIREMENTS OF THIS CHAPTER, THE OPERATOR
+ OF  SUCH VEHICLE SHALL PASS TO THE LEFT OF SUCH BICYCLE AT A DISTANCE OF
+ NOT LESS THAN THREE FEET UNTIL SAFELY CLEAR THEREOF.
+  (III) IF MOVING FROM AN IMMEDIATELY ADJACENT LANE TO ANOTHER  LANE  OR
+ PASSING TO THE LEFT OF SUCH BICYCLE AT A DISTANCE OF NOT LESS THAN THREE
+ FEET  WOULD  NOT OTHERWISE COMPLY WITH THE REQUIREMENTS OF THIS CHAPTER,
+ THE OPERATOR OF SUCH VEHICLE SHALL ONLY  PASS  SUCH  BICYCLE  IF,  AFTER
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04965-01-3
+  LBD04965-04-3
+ S. 1724--A  2
+ 
+ CONSIDERING  THE ACTUAL AND POTENTIAL HAZARDS THEN EXISTING, DOING SO IS
+ REASONABLE AND PRUDENT UNDER THE CONDITIONS.
+  (B)  FOR  CITIES  HAVING A POPULATION OF LESS THAN ONE MILLION AND FOR
+ TOWNS AND VILLAGES, THE OPERATOR  OF  A  VEHICLE  PASSING  A  PEDESTRIAN
+ PROCEEDING  ON THE SAME SIDE OF A ROADWAY SHALL PASS TO THE LEFT OF SUCH
+ PEDESTRIAN BY:  (I) MOVING FROM A LANE OR SHOULDER WHICH CONTAINS OR  IS
+ IMMEDIATELY  ADJACENT  TO  THE  PEDESTRIAN  TO ANOTHER LANE UNTIL SAFELY
+ CLEAR THEREOF, PROVIDED THAT SUCH MOVEMENT OTHERWISE COMPLIES  WITH  THE
+ REQUIREMENTS  OF  THIS  CHAPTER  INCLUDING,  BUT  NOT  LIMITED  TO,  THE
+ PROVISIONS OF SECTIONS ELEVEN HUNDRED TEN  AND  ELEVEN  HUNDRED  TWENTY-
+ EIGHT  OF  THIS  CHAPTER; OR (II) IF MOVING FROM AN IMMEDIATELY ADJACENT
+ LANE TO ANOTHER LANE WOULD NOT OTHERWISE COMPLY WITH THE REQUIREMENTS OF
+ THIS CHAPTER, THE OPERATOR OF SUCH VEHICLE SHALL PASS  TO  THE  LEFT  OF
+ SUCH  PEDESTRIAN  AT A DISTANCE OF NOT LESS THAN THREE FEET UNTIL SAFELY
+ CLEAR THEREOF; OR (III) IF MOVING FROM AN IMMEDIATELY ADJACENT  LANE  TO
+ ANOTHER  LANE OR PASSING TO THE LEFT OF SUCH PEDESTRIAN AT A DISTANCE OF
+ NOT LESS THAN THREE FEET WOULD NOT OTHERWISE COMPLY  WITH  THE  REQUIRE-
+ MENTS OF THIS CHAPTER, THE OPERATOR OF SUCH VEHICLE SHALL ONLY PASS SUCH
+ PEDESTRIAN  IF,  AFTER CONSIDERING THE ACTUAL AND POTENTIAL HAZARDS THEN
+ EXISTING, DOING SO IS REASONABLE AND PRUDENT UNDER THE CONDITIONS.
+  (C) FOR ANY CITY NOT COVERED UNDER THE PROVISIONS OF  SUBDIVISION  (A)
+ OF  THIS  SECTION,  THE OPERATOR OF A VEHICLE OVERTAKING, FROM BEHIND, A
+ BICYCLE PROCEEDING ON THE SAME SIDE OF A ROADWAY SHALL PASS TO THE  LEFT
+ OF SUCH BICYCLE AT A SAFE DISTANCE UNTIL SAFELY CLEAR THEREOF.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
