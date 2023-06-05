@@ -1,6 +1,6 @@
 # Relates to online dating services
 
-**Bill ID:** A1057CB
+**Bill ID:** A1057CC
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Relates to how online dating services handle fraudulent members; requires certai
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1057--B
+  1057--C
+  Cal. No. 21
  
   2023-2024 Regular Sessions
  
@@ -29,42 +30,45 @@ S T A T E  O F  N E W  Y O R K
   on Consumer Affairs  and  Protection  --  committee  discharged,  bill
   amended,  ordered reprinted as amended and recommitted to said commit-
   tee -- again reported from said  committee  with  amendments,  ordered
-  reprinted as amended and recommitted to said committee
-
- AN  ACT  to amend the general business law, in relation to online dating
+  reprinted  as amended and recommitted to said committee -- advanced to
+  a third reading, passed by  Assembly  and  delivered  to  the  Senate,
+  recalled  from  the  Senate,  vote reconsidered, bill amended, ordered
+  reprinted, retaining its place on the order of third reading
+ 
+ AN ACT to amend the general business law, in relation to  online  dating
   services
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Section  394-c of the general business law, as amended by
+  Section 1. Section 394-c of the general business law,  as  amended  by
  chapter 468 of the laws of 1996, is amended to read as follows:
-  § 394-c. Limitations on certain contracts  involving  social  referral
- services.  1.  As used in this section, the following terms shall have
+  §  394-c.  Limitations  on certain contracts involving social referral
+ services.  1. As used in this section, the following  terms  shall  have
  the following meanings:
-  (a) "social referral service" shall include  any  service  for  a  fee
- providing  matching of members [of the opposite sex], by use of computer
- or any other means, for the purpose of dating [and]  OR  general  social
+  (a)  "social  referral  service"  shall  include any service for a fee
+ providing matching of members [of the opposite sex], by use of  computer
+ or  any  other  means, for the purpose of dating [and] OR general social
  contact.
-  (b)  "ancillary services" shall refer to goods or services directly or
- indirectly related to or to be provided in connection  with  the  social
- referral  service  process,  including  but  not limited to photography,
- grooming, cosmetology, dating etiquette,  dating  counseling,  or  other
+  (b) "ancillary services" shall refer to goods or services directly  or
+ indirectly  related  to  or to be provided in connection with the social
+ referral service process, including  but  not  limited  to  photography,
+ grooming,  cosmetology,  dating  etiquette,  dating counseling, or other
  services.
-  (C)  "ONLINE  DATING  SERVICE"  SHALL MEAN ANY SOCIAL REFERRAL SERVICE
- WHERE THE SERVICES ARE OFFERED PRIMARILY ONLINE, SUCH AS BY MEANS OF  AN
+  (C) "ONLINE DATING SERVICE" SHALL MEAN  ANY  SOCIAL  REFERRAL  SERVICE
+ WHERE  THE SERVICES ARE OFFERED PRIMARILY ONLINE, SUCH AS BY MEANS OF AN
  INTERNET WEBSITE OR A MOBILE APPLICATION.
-  (D)  "BANNED MEMBER" SHALL MEAN THE MEMBER WHOSE ACCOUNT OR PROFILE IS
+  (D) "BANNED MEMBER" SHALL MEAN THE MEMBER WHOSE ACCOUNT OR PROFILE  IS
  THE SUBJECT OF A FRAUD BAN.
-  (E) "FRAUD BAN" SHALL MEAN WHEN  A  MEMBER'S  ACCOUNT  OR  PROFILE  IS
- BARRED  FROM  AN ONLINE  DATING SERVICE BECAUSE, IN THE JUDGMENT OF THE
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03780-04-3
- A. 1057--B  2
+  LBD03780-07-3
+ A. 1057--C  2
  
- SERVICE, THE MEMBER POSES A SIGNIFICANT RISK  OF  ATTEMPTING  TO  OBTAIN
+  (E)  "FRAUD  BAN"  SHALL  MEAN  WHEN  A MEMBER'S ACCOUNT OR PROFILE IS
+ BARRED FROM AN ONLINE  DATING SERVICE BECAUSE, IN THE  JUDGMENT  OF  THE
+ SERVICE,  THE  MEMBER  POSES  A SIGNIFICANT RISK OF ATTEMPTING TO OBTAIN
  MONEY FROM OTHER MEMBERS THROUGH FRAUDULENT MEANS.
   (F)  "NEW  YORK  MEMBER"  SHALL  MEAN A PERSON WHO PROVIDES A NEW YORK
  RESIDENTIAL OR BILLING ADDRESS OR ZIP CODE OR IS IN NEW YORK WHEN REGIS-
@@ -106,25 +110,25 @@ S T A T E  O F  N E W  Y O R K
  by the purchaser of such service of a total amount in excess of  twenty-
  five  dollars  shall  provide  that in the event that the seller of such
  service does not furnish to the purchaser the specified  certain  number
- of  social  referrals  for  two  or more successive months the purchaser
- shall have the option to cancel the contract and to receive a refund  of
- all  monies  paid  pursuant to the cancelled contract with the exception
- that the seller shall be  entitled  to  retain  as  a  cancellation  fee
- fifteen  per  cent of the cash price or a pro rata amount for the number
- of referrals furnished to the purchaser, whichever is  greater.  Every
- such  contract shall set forth in the contract and in the bill of rights
- the manner in which such services provider determines  its  cancellation
- fee  pursuant  to this subdivision.  THIS SUBDIVISION SHALL NOT APPLY TO
- AN ONLINE DATING SERVICE WHERE THE USER CAN USE A  SEARCH  FUNCTIONALITY
- OR IS PRESENTED WITH POSSIBLE MATCHES.
-  5.  Every  contract for social referral service shall provide that the
- seller will not without the prior written consent of the purchaser sell,
- assign or otherwise transfer for business or for any  other  purpose  to
- A. 1057--B  3
+ of  social referrals, OR IN CASE OF AN ONLINE DATING SERVICE WITH SEARCH
+ FUNCTIONALITY OR ALGORITHM OR LOCATION BASED MATCHING, ANY SOCIAL REFER-
+ RAL, for two or more successive months  the  purchaser  shall  have  the
+ option to cancel the contract and to receive a refund of all monies paid
+ pursuant  to  the  cancelled contract with the exception that the seller
+ shall be entitled to retain as a cancellation fee fifteen  per  cent  of
+ the  cash  price  or  a  pro  rata  amount  for  the number of referrals
+ furnished to the purchaser, whichever is greater.  Every such  contract
+ shall  set forth in the contract and in the bill of rights the manner in
+ which such services provider determines its cancellation fee pursuant to
+ this subdivision.
+ A. 1057--C  3
  
- any  person any information and material of a personal or private nature
- acquired from a purchaser  directly  or  indirectly  including  but  not
- limited  to  answers  to  tests and questionnaires, photographs or back-
+  5. Every contract for social referral service shall provide  that  the
+ seller will not without the prior written consent of the purchaser sell,
+ assign  or  otherwise  transfer for business or for any other purpose to
+ any person any information and material of a personal or private  nature
+ acquired  from  a  purchaser  directly  or  indirectly including but not
+ limited to answers to tests and  questionnaires,  photographs  or  back-
  ground information.
   5-a.  Every  contract for a social referral service shall provide each
  purchaser with the unilateral right to place his or  her  membership  on
@@ -138,26 +142,27 @@ S T A T E  O F  N E W  Y O R K
  by the seller, for  any  reason,  all  information  and  material  of  a
  personal  or  private nature acquired from a purchaser directly or indi-
  rectly including but not limited to answers to tests and questionnaires,
- photographs or background information shall be  [promptly]  returned  by
- the  seller  to  the purchaser by certified mail AND/OR DELETED FROM ANY
- ELECTRONIC STORAGE DEVICES WITHIN A REASONABLE AMOUNT OF TIME.
-  7. (a) Every contract for social referral service shall  provide  that
- such  contract  may be cancelled without a cancellation fee within three
- business days after the date of receipt by the buyer of a  copy  of  the
- written contract.
+ photographs or background information shall be promptly returned by  the
+ seller to the purchaser by certified mail AND DELETED FROM ANY ELECTRON-
+ IC STORAGE DEVICES.
+  7.  (a)  Every contract for social referral service shall provide that
+ such contract may be cancelled without a cancellation fee  within  three
+ business  days  after  the date of PHYSICAL OR ELECTRONIC receipt by the
+ buyer of a copy of the written contract.
   (b) In every social referral service sale, the seller shall furnish to
  the buyer a fully completed copy of the contract pertaining to such sale
  at the time of its execution, which is in the same language, e.g., Span-
- ish,  as  that principally used in the oral sales presentation and which
- shows the date of the transaction and contains the name and  address  of
- the  seller, and in the immediate proximity to the space reserved in the
- contract for the signature of the buyer and in not less  than  ten-point
+ ish, as that principally used in the oral sales presentation  and  which
+ shows  the  date of the transaction and contains the name and address of
+ the seller, and in the immediate proximity to the space reserved in  the
+ contract  for  the signature of the buyer and in not less than ten-point
  bold face type, a statement in substantially the following form:
- YOU,  THE  BUYER,  MAY CANCEL THIS CONTRACT WITHOUT ANY CANCELLATION FEE
- WITHIN THREE (3) BUSINESS DAYS AFTER THE DATE OF THIS CONTRACT. SEE  THE
+ YOU, THE BUYER, MAY CANCEL THIS CONTRACT WITHOUT  ANY  CANCELLATION  FEE
+ WITHIN  THREE (3) BUSINESS DAYS AFTER THE DATE OF THIS CONTRACT. SEE THE
  ATTACHED NOTICE OF CANCELLATION FORM FOR AN EXPLANATION OF THIS RIGHT.
-  (c)  Notice  of cancellation shall be delivered by certified or regis-
- tered United States mail at the address specified in the contract.
+  (c) Notice of cancellation shall be delivered by certified  or  regis-
+ tered  United States mail at the address, OR ELECTRONICALLY AT THE EMAIL
+ ADDRESS, specified in the contract.
   (d) At the time the buyer signs the social referral service  contract,
  a completed form in duplicate, captioned "NOTICE OF CANCELLATION", which
  shall be attached to the contract and easily detachable, and which shall
@@ -174,17 +179,18 @@ S T A T E  O F  N E W  Y O R K
  CANCEL, ANY PAYMENTS MADE BY YOU UNDER THE  CONTRACT  WILL  BE  RETURNED
  WITHIN  TEN  (10)  BUSINESS DAYS FOLLOWING RECEIPT BY THE SELLER OF YOUR
  CANCELLATION NOTICE.  TO CANCEL THIS TRANSACTION, MAIL BY  CERTIFIED  OR
+ A. 1057--C  4
+ 
  REGISTERED  UNITED STATES MAIL A SIGNED AND DATED COPY OF THIS CANCELLA-
  TION NOTICE TO:
- A. 1057--B  4
- 
  (Name of Seller)  NOT LATER THAN _______________
  (Address of Seller)  (Date)
  ___________________
  
-  THIS SUBDIVISION SHALL NOT APPLY TO AN ONLINE DATING SERVICE WHERE THE
- ONLINE  DATING  SERVICE CONTRACT INCLUDES THE STATEMENT REQUIRED BY THIS
- SUBDIVISION IN A CLEAR AND CONSPICUOUS MANNER.
+  IN  CASE  OF  AN  ONLINE  DATING  SERVICE, THE CONTRACT, INCLUDING THE
+ STATEMENT REQUIRED BY THIS SUBDIVISION,  MAY  BE  FURNISHED  AND  SIGNED
+ ELECTRONICALLY,  PROVIDED  SUCH  CONTRACT  IS PROVIDED TO THE BUYER IN A
+ CLEAR AND CONSPICUOUS MANNER.
   (e) In every social referral service sale or renewal, the seller shall
  provide each purchaser with a clear and  conspicuous,  separate  written
  notice,  WHICH  MAY BE A CONSPICUOUS AND APPROPRIATELY LABELED HYPERLINK
@@ -231,12 +237,10 @@ S T A T E  O F  N E W  Y O R K
   8-a.  Every social referral service provider must establish and admin-
  ister a fair and reasonable policy for the situation in which a purchas-
  er moves to permanently reside at a location outside the service area of
- such provider.  This policy must be set  forth  in  every  contract  for
- social  referral  service.  THIS SUBDIVISION SHALL NOT APPLY TO ONLINE
- A. 1057--B  5
+ A. 1057--C  5
  
- DATING SERVICES THAT ARE GENERALLY AVAILABLE TO USERS ON A  NATIONAL  OR
- GLOBAL BASIS.
+ such provider.  This policy must be set  forth  in  every  contract  for
+ social referral service.
   9. (a) Whenever there shall be a violation of this section an applica-
  tion  may  be  made by the attorney general in the name of the people of
  the state of New York to a court or justice  having  jurisdiction  by  a
@@ -290,22 +294,21 @@ S T A T E  O F  N E W  Y O R K
   (1) CLEAR AND CONSPICUOUS;
   (2) BY E-MAIL, TEXT MESSAGE, OR OTHER APPROPRIATE  MEANS  OF  COMMUNI-
  CATION; AND
- A. 1057--B  6
+ A. 1057--C  6
  
   (3)  SENT  WITHIN TWENTY-FOUR HOURS AFTER THE FRAUD BAN, OR AT A LATER
  TIME IF THE SERVICE HAS DETERMINED, BASED ON AN  ANALYSIS  OF  EFFECTIVE
  MESSAGING,  THAT  A  DIFFERENT  TIME  IS MORE EFFECTIVE, BUT IN NO EVENT
  LATER THAN THREE DAYS AFTER THE FRAUD BAN.
-  (C)  AN ONLINE DATING SERVICE SHALL NOT BE LIABLE TO ANY PERSON, OTHER
- THAN THE STATE OF NEW YORK,  FOR DISCLOSING TO ANY MEMBER  THAT  IT  HAS
- BANNED  A  MEMBER,  THE  USER  NAME  OR ACCOUNT IDENTIFIER OF THE BANNED
- MEMBER, OR THE REASONS FOR THE ONLINE DATING SERVICE'S DECISION  TO  BAN
- SUCH  MEMBER  IN  ACCORDANCE WITH THIS SUBDIVISION WHERE SUCH DISCLOSURE
- DOES NOT CONTAIN THE PERSONALLY IDENTIFYING INFORMATION OF  THE  PERSON.
- AN  ONLINE  DATING SERVICE ALSO SHALL NOT BE LIABLE TO ANY PERSON, OTHER
- THAN THE STATE OF NEW YORK, FOR THE DECISIONS REGARDING WHETHER TO BAN A
- MEMBER, OR HOW OR WHEN TO NOTIFY A MEMBER PURSUANT TO THIS SUBDIVISION.
+  (C) AN ONLINE DATING SERVICE SHALL NOT BE LIABLE TO ANY MEMBER WHO HAS
+ AN ACCOUNT OR PROFILE THAT IS THE SUBJECT OF A FRAUD BAN, FOR DISCLOSING
+ TO  ANY  MEMBER  THAT IT HAS BANNED THE MEMBER, THE USER NAME OR ACCOUNT
+ IDENTIFIER OF THE BANNED MEMBER, OR THE REASONS FOR  THE  ONLINE  DATING
+ SERVICE'S  DECISION  TO BAN SUCH MEMBER IN ACCORDANCE WITH THIS SUBDIVI-
+ SION WHERE SUCH DISCLOSURE DOES NOT CONTAIN THEIR PERSONALLY IDENTIFYING
+ INFORMATION.
   (D) THIS SECTION DOES NOT DIMINISH OR ADVERSELY AFFECT THE PROTECTIONS
- FOR ONLINE DATING SERVICES THAT ARE AFFORDED IN 47 USC 230.
-  § 2. This act shall take effect on the sixtieth  day  after  it  shall
+ FOR ONLINE DATING SERVICES THAT ARE AFFORDED  IN  47  USC  230,  OR  ANY
+ RIGHTS OR PROTECTIONS OTHERWISE PROVIDED TO A CONSUMER IN LAW.
+  §  2.  This  act  shall take effect on the sixtieth day after it shall
  have become a law.
