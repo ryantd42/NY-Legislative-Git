@@ -1,6 +1,6 @@
 # Authorizes the county of Nassau to alienate and sell parklands to Lakeside Inn, Inc.
 
-**Bill ID:** A6726A
+**Bill ID:** A6726AA
 **Session:** 2023
 **Sponsor:** Brian F. Curran
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the county of Nassau to alienate and sell parklands to Lakeside Inn, 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6726
+  6726--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,49 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. CURRAN -- read once and referred to the Committee
-  on Local Governments
+  on  Local  Governments  -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  authorizing the county of Nassau to alienate and sell parklands
+ AN ACT authorizing the county of Nassau to alienate and  sell  parklands
   to Lakeside Inn, Inc.
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section  1.  Subject  to  the  provisions  of  this act, the county of
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Subject to the  provisions  of  this  act,  the  county  of
  Nassau, acting by and through its governing body and upon such terms and
  conditions as determined by such body is hereby authorized to discontin-
- ue as parklands and alienate the lands more  particularly  described  in
- section  three  of  this  act  to Lakeside Inn, Inc., for the purpose of
+ ue  as  parklands  and alienate the lands more particularly described in
+ section three of this act to Lakeside Inn,  Inc.,  for  the  purpose  of
  residential improvements.
-  § 2. The authorization provided in section one of this  act  shall  be
+  §  2.  The  authorization provided in section one of this act shall be
  effective only upon the condition that Lakeside Inn, Inc., convey to the
  county of Nassau, and that the county of Nassau acquire and dedicate the
- lands  described in section four of this act as parklands, provided that
- the county of Nassau has never used such lands for public open space  or
+ lands described in section four of this act as parklands, provided  that
+ the  county of Nassau has never used such lands for public open space or
  park purposes.
-  §  3. The parklands authorized by section one of this act to be alien-
+  § 3. The parklands authorized by section one of this act to be  alien-
  ated are described as follows:
   PARCEL A
+  All  that  certain  plot,  piece or parcel of land, situate, lying and
+ being in the Town of Baldwin, Nassau County,  State  of  New  York,  and
+ bounded and described by the following:
   Beginning at a point at the end of the following continuous two cours-
- es and distances from the corner  formed  by  the  intersection  of  the
- southerly  side  of  Lakeside  Place  and  the  easterly side of Milburn
+ es  and  distances  from  the  corner  formed by the intersection of the
+ southerly side of Lakeside  Place  and  the  easterly  side  of  Milburn
  Avenue;
-  (1) Southerly along the easterly  side  of  Milburn  Avenue  from  the
- corner  formed  by  the  intersection  of the southerly side of Lakeside
- Place and the easterly side of Milburn Avenue 688.84 feet.
-  (2) South 79 degrees 44 minutes East 159.13  feet  to  a  point,  said
- point  being  South 25 degrees 48 minutes West 110.45 feet from a copper
- plug in concrete, and said point being the point or place of beginning;
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11014-01-3
- A. 6726  2
+  LBD11014-02-3
+ A. 6726--A  2
  
+  (1)  Southerly  along  the  easterly  side  of Milburn Avenue from the
+ corner formed by the intersection of  the  southerly  side  of  Lakeside
+ Place and the easterly side of Milburn Avenue 688.84 feet.
+  (2)  South  79  degrees  44  minutes East 159.13 feet to a point, said
+ point being South 25 degrees 48 minutes West 110.45 feet from  a  copper
+ plug in concrete, and said point being the point or place of beginning;
   Thence running South 79 degrees 44 minutes East 3.84 feet to a point;
   Thence  South  26  degrees  45 minutes 18 seconds West 36.53 feet to a
  point;
@@ -76,6 +80,9 @@ S T A T E  O F  N E W  Y O R K
   Containing  a  total of approximately 122 sq. ft or 0.0028 acres, more
  or less.
   PARCEL B
+  All that certain plot, piece or parcel of  land,  situate,  lying  and
+ being  in  the  Town  of  Baldwin, Nassau County, State of New York, and
+ bounded and described by the following:
   Beginning at a point at the end  of  the  following  continuous  three
  courses  and distances from the corner formed by the intersection of the
  southerly side of Lakeside  Place  and  the  easterly  side  of  Milburn
@@ -97,8 +104,13 @@ S T A T E  O F  N E W  Y O R K
  place of beginning.
   Containing  a total of approximately 165 sq. ft. or 0.0038 acres, more
  or less.
-  § 4. The replacement lands to be conveyed to the county and  dedicated
- as parkland are described as follows:
+  § 4. Prior to the discontinuation  and  alienation  of  the  parklands
+ described in section three of this act, Lakeside Inn, Inc., shall convey
+ to the county of Nassau and the county of Nassau shall acquire and dedi-
+ cate as parklands such land described as follows:
+  All  that  certain  plot,  piece or parcel of land, situate, lying and
+ being in the Town of Baldwin, Nassau County,  State  of  New  York,  and
+ bounded and described by the following:
   Beginning  at  a  point  at  the end of the following continuous three
  courses and distances from the corner formed by the intersection of  the
  southerly  side  of  Lakeside  Place  and  the  easterly side of Milburn
@@ -107,22 +119,22 @@ S T A T E  O F  N E W  Y O R K
  corner  formed  by  the  intersection  of the southerly side of Lakeside
  Place and the easterly side of Milburn Avenue 688.84 feet.
   (2) South 79 degrees 44 minutes East 159.13 feet.
+ A. 6726--A  3
+
   (3) South 25 degrees 48 minutes West 35.56 feet to a point, said point
  being South 25 degrees 48 minutes West 146.01 feet from a copper plug in
  concrete and said point being the point or place of beginning;
-  Thence running South 25 degrees 48  minutes  West  129.91  feet  to  a
- point,  said  point  being  North 25 degrees 48 minutes East 119.14 feet
+  Thence  running  South  25  degrees  48  minutes West 129.91 feet to a
+ point, said point being North 25 degrees 48  minutes  East  119.14  feet
  from a stone monument;
   Thence North 21 degrees 39 minutes East 35.02 feet to a point;
-  Thence North 17 degrees 03 minutes 21 seconds East  36.38  feet  to  a
+  Thence  North  17  degrees  03 minutes 21 seconds East 36.38 feet to a
  point;
-  Thence  South  72  degrees  52  minutes 25 seconds East 7.13 feet to a
+  Thence South 72 degrees 52 minutes 25 seconds  East  7.13  feet  to  a
  point;
-  Thence North 26 degrees 12 minutes 34 seconds East  57.94  feet  to  a
+  Thence  North  26  degrees  12 minutes 34 seconds East 57.94 feet to a
  point;
- A. 6726  3
- 
-  Thence  South  65  degrees 20 minutes 07 seconds East 0.61 feet to the
+  Thence South 65 degrees 20 minutes 07 seconds East 0.61  feet  to  the
  point or place of beginning.
   Containing  a total of approximately 287 sq. ft. or 0.0066 acres, more
  or less.
