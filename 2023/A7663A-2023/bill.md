@@ -1,6 +1,6 @@
 # Authorizes the state university of New York to lease a portion of the lands on the campus of SUNY Buffalo State University for the relocation and operation of the Leonardo da Vinci High School
 
-**Bill ID:** A7663A
+**Bill ID:** A7663AA
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the state university of New York to lease a portion of the lands on t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7663
+  7663--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,46 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. RIVERA -- read once and referred to the Committee
-  on Higher Education
+  on  Higher  Education  --  committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  authorizing the state university of New York to lease a portion
-  of the lands on the campus of SUNY Buffalo State  University  for  the
-  relocation  and operation of the Leonardo da Vinci High School; and to
-  amend the education law, in relation to the  computation  of  building
-  aid  for  the  renovation  and equipping of the Leonardo da Vinci high
+ AN ACT authorizing the state university of New York to lease  a  portion
+  of  the  lands  on the campus of SUNY Buffalo State University for the
+  relocation and operation of the Leonardo da Vinci High School; and  to
+  amend  the  education  law, in relation to the computation of building
+  aid for the renovation and equipping of the  Leonardo  da  Vinci  high
   school
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Legislative findings. The legislature finds that the state
- university of New York at Buffalo State ("SUNY Buffalo  State  Universi-
+  Section 1. Legislative findings. The legislature finds that the  state
+ university  of  New York at Buffalo State ("SUNY Buffalo State Universi-
  ty") seeks to lease Buckham Hall building number 32 and surrounding land
  on the north and west sides on SUNY Buffalo State University's campus to
- the  Buckham  Development  Corporation  for  the purpose of enabling the
- Buckham Development Corporation to lease such grounds  and  facility  to
+ the Buckham Development Corporation for  the  purpose  of  enabling  the
+ Buckham  Development  Corporation  to lease such grounds and facility to
  the city school district of the city of Buffalo for the purpose of relo-
  cating such district's Leonardo da Vinci High School program.
   The legislature further finds that such an arrangement will afford the
- city  school  district  of  the  city of Buffalo the ability to renovate
- Buckham Hall for use by Leonardo da Vinci High School thereby  providing
- approximately  400  grade  9-12  city  school  district pupils access to
- college level courses and a  campus-based  experience,  and  potentially
+ city school district of the city of  Buffalo  the  ability  to  renovate
+ Buckham  Hall for use by Leonardo da Vinci High School thereby providing
+ approximately 400 grade 9-12  city  school  district  pupils  access  to
+ college  level  courses  and  a campus-based experience, and potentially
  increasing future SUNY Buffalo State University enrollment, while creat-
  ing opportunities for partnership and enrichment between the city school
  district of the city of Buffalo and SUNY Buffalo State University.
   Finally, the legislature finds that granting the trustees of the state
- university  of  New  York the authority and power to lease and otherwise
- contract to make available the aforementioned grounds  and  facility  on
- the  campus of the SUNY Buffalo State University for these purposes will
-
+ university of New York the authority and power to  lease  and  otherwise
+ contract  to  make  available the aforementioned grounds and facility on
+ the campus of the SUNY Buffalo State University for these purposes  will
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11635-02-3
- A. 7663  2
+  LBD11635-05-3
+ A. 7663--A  2
  
- promote the provision of educational opportunities  for  the  University
+ promote  the  provision  of educational opportunities for the University
  and the surrounding community.
   §  2. Notwithstanding any other law to the contrary, the state univer-
  sity of New York trustees are  authorized  and  empowered,  without  any
@@ -120,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  expected for completion of the project.
   § 5. The city school district of the  city  of  Buffalo  shall  submit
  estimated project costs for the renovation and equipping of the Leonardo
- A. 7663  3
+ A. 7663--A  3
  
  da  Vinci High School after completion of schematic plans and specifica-
  tions for review by the commissioner of education. If the total  project
@@ -177,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
  (18.5) to a corner of said building;
   11. East, a distance of six and seven-tenths feet, plus or minus (6.7)
  to a corner of said building;
- A. 7663  4
+ A. 7663--A  4
  
   12.  North,  a  distance of one hundred forty-four and one-tenth feet,
  plus or minus (144.1) to a corner of said building;
@@ -235,8 +236,8 @@ S T A T E  O F  N E W  Y O R K
  minus (102.9) to a corner of said building.
   39. East, a distance of eighty-nine and six-tenths feet, plus or minus
  (89.6) to a corner of said building;
- A. 7663  5
-
+ A. 7663--A  5
+ 
   40. North, a distance of one hundred two and nine-tenths feet, plus or
  minus (102.9) to a corner of said building;
   41.  West,  a  distance  of thirty-seven and five-tenths feet, plus or
@@ -292,7 +293,7 @@ S T A T E  O F  N E W  Y O R K
  plus or minus (125.2) to a corner of said building;
   2.  West  thirty-eight  and six-tenths feet, plus or minus (38.6) to a
  corner of said building face;
- A. 7663  6
+ A. 7663--A  6
  
   3. North, a distance of twenty-nine and  seven-tenths  feet,  plus  or
  minus (29.7) to a corner of said building;
@@ -349,7 +350,7 @@ S T A T E  O F  N E W  Y O R K
  feet, plus or minus (165.2) to a corner of said building;
   THENCE West, a distance of one hundred seven and no tenths feet,  plus
  or minus (107.0) to a corner of said building;
- A. 7663  7
+ A. 7663--A  7
  
   THENCE  continuing  west,  a  distance  of one hundred thirty-five and
  two-tenths feet, more or less (135.2) to a point  distant  five  and  no
@@ -372,7 +373,13 @@ S T A T E  O F  N E W  Y O R K
   THENCE West at right angles, a distance of forty-five and  four-tenths
  feet, plus or minus (45.4) to the POINT of BEGINNING.
   Containing within said bounds .67 acres, more or less.
-  § 7. Paragraph a of subdivision 6 of section 3602 of the education law
+  §  7.  Nothing in this act shall  result  in  the  displacement of any
+ currently employed state worker  or  the  loss  of  position  (including
+ partial  displacement such  as  reduction  in  the  hours  of non-over-
+ time, wages or employment benefits), or  result  in  the  impairment  of
+ existing contracts for services or  collective  bargaining rights pursu-
+ ant  to existing agreements.
+  § 8. Paragraph a of subdivision 6 of section 3602 of the education law
  is amended by adding a new subparagraph 10 to read as follows:
   (10)  NOTWITHSTANDING  ANY OTHER PROVISION OF LAW TO THE CONTRARY, FOR
  THE PURPOSE OF COMPUTATION OF BUILDING AID FOR THE RENOVATION AND EQUIP-
@@ -380,7 +387,7 @@ S T A T E  O F  N E W  Y O R K
  THE  CITY  SCHOOL DISTRICT OF THE CITY OF BUFFALO THE BUILDING AID UNITS
  ASSIGNED TO THIS PROJECT SHALL REFLECT A BUILDING AID ENROLLMENT OF FOUR
  HUNDRED TWENTY STUDENTS.
-  § 8. Insofar as the provisions of this act are inconsistent  with  the
+  § 9. Insofar as the provisions of this act are inconsistent  with  the
  provisions of any law, general, special or local, the provisions of this
  act shall be controlling.
-  § 9. This act shall take effect immediately.
+  § 10. This act shall take effect immediately.
