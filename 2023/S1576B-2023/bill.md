@@ -1,6 +1,6 @@
 # Relates to enacting the FIRST robotics competition and grant program
 
-**Bill ID:** S1576BA
+**Bill ID:** S1576BB
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the For Inspiration and Recognition of Science and Technology ("FIRS
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1576--A
+  1576--B
  
   2023-2024 Regular Sessions
  
@@ -25,14 +25,15 @@ S T A T E  O F  N E W  Y O R K
   January 12, 2023
   ___________
  
- Introduced  by  Sen.  BROUK  -- read twice and ordered printed, and when
-  printed to be committed to  the  Committee  on  Finance  --  committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
- 
+ Introduced  by  Sens.  BROUK, PALUMBO -- read twice and ordered printed,
+  and when printed to be  committed  to  the  Committee  on  Finance  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee -- committee discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN  ACT  to amend the education law, in relation to establishing the For
   Inspiration and Recognition of Science and Technology ("FIRST")  grant
-  program; and making an appropriation therefor
+  program
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -61,8 +62,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01587-03-3
- S. 1576--A  2
+  LBD01587-04-3
+ S. 1576--B  2
  
   4.  AWARDS.  A.  THE  COMMISSIONER SHALL GRANT AWARDS IN THE AMOUNT OF
  FIVE THOUSAND DOLLARS TO SCHOOLS THAT ARE ELIGIBLE, PURSUANT TO SUBDIVI-
@@ -78,16 +79,8 @@ S T A T E  O F  N E W  Y O R K
  PREPARATION FOR, AND ATTENDANCE AT, FIRST ROBOTICS COMPETITIONS.
   D. ADDITIONAL GRANTS SHALL ALSO BE MADE PURSUANT TO SUCH  OTHER  RULES
  AND REGULATIONS AS MAY BE PROMULGATED BY THE COMMISSIONER.
-  §  2.  The sum of two hundred fifty thousand dollars ($250,000), or so
- much thereof as may be available, is hereby appropriated to the  depart-
- ment  of  education from any moneys in the state treasury in the general
- fund to the credit of the state purposes account, not  otherwise  appro-
- priated, and made immediately available, for the purpose of carrying out
- the  provisions  of  this act. Such moneys shall be payable on the audit
- and warrant of the comptroller on vouchers certified or approved by  the
- commissioner of education in the manner prescribed by law.
-  § 3. This act shall take effect on the one hundred twentieth day after
- it  shall have become a law. Effective immediately, the addition, amend-
- ment, and/or repeal of any rule or regulation necessary for  the  imple-
- mentation  of  this  act on its effective date are authorized to be made
- and completed on or before such date.
+  §  2.  This  act  shall take effect on the one hundred twentieth day
+ after it shall have become a law. Effective immediately,  the  addition,
+ amendment,  and/or  repeal  of  any rule or regulation necessary for the
+ implementation of this act on its effective date are  authorized  to  be
+ made and completed on or before such date.
