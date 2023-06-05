@@ -1,6 +1,6 @@
 # Relates to the availability of technical assistance grants in brownfield site remedial programs
 
-**Bill ID:** A7396B
+**Bill ID:** A7396BA
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Relates to the availability of technical assistance grants in brownfield site re
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7396
+  7396--A
  
   2023-2024 Regular Sessions
  
@@ -26,46 +26,47 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. LEE -- read once and referred to the Committee on
-  Environmental Conservation
+  Environmental  Conservation  --  committee  discharged,  bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN  ACT  to amend the environmental conservation law, in relation to the
+ AN ACT to amend the environmental conservation law, in relation  to  the
   availability of technical assistance grants in brownfield site remedi-
   al programs
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision  6  of section 27-1405 of the environmental
- conservation law, as amended by section 2 of part A of  chapter  577  of
+  Section 1.  Subdivision 6 of section  27-1405  of  the  environmental
+ conservation  law,  as  amended by section 2 of part A of chapter 577 of
  the laws of 2004, is amended to read as follows:
   6. "[Citizen] COMMUNITY participation plan" shall mean the description
  of [citizen] COMMUNITY participation activities prepared and carried out
  pursuant to section 27-1417 of this title.
-  §  2.  Paragraph  (b)  of  subdivision  2 and subdivision 9 of section
+  § 2. Paragraph (b) of subdivision  2  and  subdivision  9  of  section
  27-1409 of the environmental conservation law, paragraph (b) of subdivi-
- sion 2 as amended by section 7 of part BB of chapter 56 of the  laws  of
+ sion  2  as amended by section 7 of part BB of chapter 56 of the laws of
  2015, and subdivision 9 as amended by section 4 of part A of chapter 577
  of the laws of 2004, are amended to read as follows:
   (b) [with respect to a brownfield site which the department has deter-
- mined  constitutes a significant threat to the public health or environ-
- ment the department may include a provision requiring]  the  [applicant]
- PARTICIPANT  to  provide  a  technical assistance grant, as described in
- subdivision four of section 27-1417 of this title and under  the  condi-
- tions  described therein, to an eligible party in accordance with proce-
- dures established under such program[, with the cost  of  such  a  grant
- incurred by a volunteer serving as an offset against such state costs];
-  9.  One  requiring  the  preparation and implementation of a [citizen]
- COMMUNITY participation plan consistent with the  requirements  of  this
- title  as  soon  as possible following execution of the agreement but no
- later than prior to the preparation of a  draft  remedial  investigation
- plan  by  the  applicant  which shall include a description of [citizen]
+ mined constitutes a significant threat to the public health or  environ-
+ ment  the department may include a provision requiring] the applicant to
+ provide a technical assistance grant, as described in  subdivision  four
+ of  section  27-1417  of  this  title and under the conditions described
+ therein, to an eligible party in accordance with procedures  established
+ under  such  program, with the cost of such a grant incurred by a volun-
+ teer serving as an offset against such state costs;
+  9. One requiring the preparation and  implementation  of  a  [citizen]
+ COMMUNITY  participation  plan  consistent with the requirements of this
+ title as soon as possible following execution of the  agreement  but  no
+ later  than  prior  to the preparation of a draft remedial investigation
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11147-06-3
- A. 7396  2
+  LBD11147-08-3
+ A. 7396--A  2
  
- COMMUNITY participation activities already performed  by  the  applicant
+ plan by the applicant which shall include  a  description  of  [citizen]
+ COMMUNITY  participation  activities  already performed by the applicant
  and/or the department;
   §  3.  Subparagraph  (vi) of paragraph (i) of subdivision 3 of section
  27-1415 of the environmental conservation law, as amended by  section  7
@@ -120,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  required pursuant to this section; and
   (4) a description and schedule of any additional public  participation
  activities needed to address public concerns.
- A. 7396  3
+ A. 7396--A  3
  
   3.  [Citizen] COMMUNITY participation requirements. (a) In addition to
  the formal milestones listed below, the public may provide  comments  at
@@ -177,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
   (i)  Within ten days of the issuance of a certificate of completion at
  a site which will utilize institutional  or  engineering  controls,  the
  applicant,  in  cooperation with the department, shall provide notice to
- A. 7396  4
+ A. 7396--A  4
  
  the brownfield site contact list. Such notice shall include a fact sheet
  describing such controls.
@@ -194,20 +195,19 @@ S T A T E  O F  N E W  Y O R K
  ANY BROWNFIELD SITE.  To qualify to receive such assistance, a community
  group  must  demonstrate that its membership represents the interests of
  the community affected by such site. Furthermore, the  commissioner  [is
- authorized  to]  SHALL  direct  any  applicant  OR  PARTICIPANT who is a
- responsible party, as defined in section 27-1313  of  this  article,  to
- provide  such grants. Such grants shall be known as technical assistance
- grants and may be used to obtain technical  assistance  in  interpreting
- information  with  regard  to  the nature of the hazard posed by contam-
- ination located AT or emanating from a brownfield site or sites and  the
- development  and implementation of a brownfield site remedial program or
- programs. Such grants may also be used to hire health and safety experts
- to advise affected residents on  any  health  assessments  and  for  the
- education  of  interested  affected  community members to enable them to
- more effectively participate in the  remedy  selection  process.  Grants
- awarded  under this section may not be used for the purposes of collect-
- ing field sampling data,  political  activity  or  lobbying  legislative
- bodies.
+ authorized to] SHALL direct any applicant who is a responsible party, as
+ defined in section 27-1313 of this article, to provide such grants. Such
+ grants  shall be known as technical assistance grants and may be used to
+ obtain technical assistance in interpreting information with  regard  to
+ the  nature of the hazard posed by contamination located AT or emanating
+ from a brownfield site or sites and the development  and  implementation
+ of  a brownfield site remedial program or programs. Such grants may also
+ be used to hire health and safety experts to advise  affected  residents
+ on  any  health assessments and for the education of interested affected
+ community members to enable them to more effectively participate in  the
+ remedy  selection  process. Grants awarded under this section may not be
+ used for the purposes  of  collecting  field  sampling  data,  political
+ activity or lobbying legislative bodies.
   (b)  The amount of any grant awarded under this section may not exceed
  fifty thousand dollars at any one site.
   (c) No  matching  contribution  from  the  grant  recipient  shall  be
