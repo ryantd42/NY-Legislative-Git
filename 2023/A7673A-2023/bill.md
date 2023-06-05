@@ -1,6 +1,6 @@
 # Relates to construction and mentoring programs
 
-**Bill ID:** A7673A
+**Bill ID:** A7673AA
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Relates to construction and mentoring programs; provides that an agency may esta
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7673
+  7673--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. BICHOTTE HERMELYN -- read once and referred to
-  the Committee on Cities
+  the Committee on Cities -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the New York city charter, the education law, the public
   housing law and the New York city  health  and  hospitals  corporation
-  act, in relation to construction and mentoring programs
-
+  act, in relation to construction and mentoring programs; and providing
+  for the repeal of certain provisions upon the expiration thereof
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,13 +59,13 @@ S T A T E  O F  N E W  Y O R K
  EXTENSIVE MANAGEMENT AND MENTORING EXPERIENCE, WITH THE MENTOR PROVIDING
  THE  MENTEE  WITH  ADVICE  AND TECHNICAL ASSISTANCE IN COMPETING FOR AND
  MANAGING CONTRACTS; AND (B) ASSISTANCE, AS DETERMINED BY  THE  MENTORING
- PROGRAM  AGENCY,  FOR  SUCH  A  MENTEE  BUSINESS  TO  OBTAIN BONDING FOR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11213-01-3
- A. 7673  2
+  LBD11213-03-3
+ A. 7673--A  2
  
+ PROGRAM  AGENCY,  FOR  SUCH  A  MENTEE  BUSINESS  TO  OBTAIN BONDING FOR
  CONTRACTS THAT ARE COMPETITIVELY AWARDED PURSUANT TO ANY OTHER PROVISION
  OF LAW.
   2. THE TERM "MENTORING PROGRAM AGENCY" MEANS AN AGENCY THAT HAS ESTAB-
@@ -116,16 +118,16 @@ S T A T E  O F  N E W  Y O R K
  PROGRAM CONTRACTS, FOR WHICH SUCH BUSINESSES ARE OTHERWISE QUALIFIED.
   D. IF THE TOTAL NUMBER OF QUALIFIED MENTEE BUSINESSES THAT RESPOND  TO
  A  COMPETITION  AND ARE CONSIDERED CAPABLE OF MEETING THE SPECIFICATIONS
- AND TERMS OF THE INVITATION TO COMPETE IS  LESS  THAN  TWO,  OR  IF  THE
+ AND TERMS OF THE INVITATION TO COMPETE IS LESS THAN  THREE,  OR  IF  THE
  MENTORING  PROGRAM  AGENCY  DETERMINES THAT ACCEPTANCE OF THE BEST OFFER
  WILL RESULT IN THE PAYMENT OF AN UNREASONABLE PRICE,  THE  AGENCY  SHALL
- REJECT  ALL  OFFERS  AND  WITHDRAW  THE DESIGNATION OF THE CONTRACT AS A
- A. 7673  3
+ A. 7673--A  3
  
+ REJECT  ALL  OFFERS  AND  WITHDRAW  THE DESIGNATION OF THE CONTRACT AS A
  MENTORING PROGRAM CONTRACT. IF THE AGENCY WITHDRAWS THE  DESIGNATION  OF
  SUCH CONTRACT AS A MENTORING PROGRAM CONTRACT, THE MENTEE BUSINESSES, IF
  ANY, THAT MADE OFFERS SHALL BE NOTIFIED.
-  4.  A  MENTOR  SHALL  PROVIDE  CONSTRUCTION  MANAGEMENT  SERVICES TO A
+  E.  A  MENTOR  SHALL  PROVIDE  CONSTRUCTION  MANAGEMENT  SERVICES TO A
  MENTORING PROGRAM AGENCY IN RELATION TO A MENTORING PROGRAM CONTRACT AND
  SERVICES AND ASSISTANCE TO A  MENTEE  BUSINESS,  AS  DESIGNATED  BY  THE
  MENTORING PROGRAM AGENCY, INCLUDING BUT NOT LIMITED TO THE FOLLOWING:
@@ -177,9 +179,9 @@ S T A T E  O F  N E W  Y O R K
  CENTRALIZED PROGRAM, FIFTEEN MILLION DOLLARS IN CONTRACT VALUE; AND
   (B) FOR EACH YEAR OF SUCH CENTRALIZED PROGRAM FOLLOWING THE FIRST FULL
  FISCAL  YEAR  OF  THE  CENTRALIZED  PROGRAM,  A GOAL THAT IS TWENTY-FIVE
- PERCENT GREATER THAN THE GOAL ESTABLISHED PURSUANT TO THIS  SUBPARAGRAPH
- A. 7673  4
+ A. 7673--A  4
  
+ PERCENT GREATER THAN THE GOAL ESTABLISHED PURSUANT TO THIS  SUBPARAGRAPH
  FOR  THE PRECEDING YEAR, PROVIDED THAT SUCH ANNUAL GOAL SHALL NOT EXCEED
  ONE HUNDRED FIFTY MILLION DOLLARS IN AGGREGATE CONTRACT VALUE;
   (II) ALL MENTEES PARTICIPATING IN A MENTORING PROGRAM THAT IS COMBINED
@@ -203,29 +205,43 @@ S T A T E  O F  N E W  Y O R K
  FOLLOWING INFORMATION FOR THE PRECEDING CITY FISCAL YEAR:
   1. THE TOTAL NUMBER  AND  TOTAL  DOLLAR  VALUE  OF  MENTORING  PROGRAM
  CONTRACTS FROM EACH MENTORING PROGRAM ESTABLISHED UNDER THIS SECTION;
-  2. MENTORING PROGRAM PARTICIPATION RATES; AND
-  3.  THE  DEGREE  TO WHICH A CENTRALIZED MENTORING PROGRAM, ESTABLISHED
- PURSUANT TO SUBDIVISION G OF THIS SECTION, HAS ACHIEVED  A  GOAL  ESTAB-
+  2.  A  BRIEF  DESCRIPTION  OF (I) EACH PROJECT, (II) AGENCY COMPLIANCE
+ WITH MENTORING PROGRAM CONTRACT DESIGNATION PROCEDURES, (III)  THE  TYPE
+ OF  ASSISTANCE  PROVIDED TO OBTAIN ANY SURETY BOND OR CONTRACT OF INSUR-
+ ANCE, AND (IV) THE TYPE OF TECHNICAL ASSISTANCE PROVIDED IN OBTAINING  A
+ BID,  PAYMENT,  OR  PERFORMANCE  BONDING FOR MENTORING PROGRAM CONTRACTS
+ FROM EACH MENTORING PROGRAM ESTABLISHED UNDER THIS SECTION;
+  3. MENTORING PROGRAM PARTICIPATION RATES;
+  4. THE PARTICIPATION RATE OF AND TOTAL DOLLAR VALUE OF MONIES PAID  TO
+ BUSINESSES  CERTIFIED AS MINORITY OR WOMEN-OWNED BUSINESS ENTERPRISES OR
+ EMERGING BUSINESS ENTERPRISES PURSUANT TO SECTION THIRTEEN HUNDRED  FOUR
+ OF THIS CHAPTER OR THOSE CERTIFIED AS DISADVANTAGED BUSINESS ENTERPRISES
+ PURSUANT  TO  PART TWENTY-SIX OF TITLE FORTY-NINE OF THE CODE OF FEDERAL
+ REGULATIONS OR ANY SUCCESSOR PROVISIONS; AND
+  5. THE DEGREE TO WHICH A CENTRALIZED  MENTORING  PROGRAM,  ESTABLISHED
+ PURSUANT  TO  SUBDIVISION  G OF THIS SECTION, HAS ACHIEVED A GOAL ESTAB-
  LISHED PURSUANT TO SUCH SUBDIVISION.
-  §  2. Subparagraph (iii) of paragraph (a) of subdivision 36 of section
- 2590-h of the education law, as amended by chapter 98  of  the  laws  of
+  § 2. Subparagraph (iii) of paragraph (a) of subdivision 36 of  section
+ 2590-h  of  the  education  law, as amended by chapter 98 of the laws of
  2019, is amended to read as follows:
-  (iii)  measures  to  enhance  the  ability of minority and women owned
- business enterprises pursuant to section thirteen hundred  four  of  the
- New  York  city  charter  and a certified business as defined in section
+  (iii) measures to enhance the ability  of  minority  and  women  owned
+ business  enterprises  pursuant  to section thirteen hundred four of the
+ New York city charter and a certified business  as  defined  in  section
  three hundred ten of the executive law, including firms certified pursu-
- ant to article fifteen-A of the executive law  and  firms  certified  as
- minority  and women owned business enterprises pursuant to section thir-
+ ant  to  article  fifteen-A  of the executive law and firms certified as
+ minority and women owned business enterprises pursuant to section  thir-
  teen hundred four of the New York city charter, to compete for contracts
  and to ensure their meaningful participation in the procurement process.
- The [school] CITY district shall have the  authority  to  use  the  same
- measures[,]  to enhance minority and women owned business enterprise AND
- SMALL BUSINESS participation as are available to the city  of  New  York
- pursuant  to  article  five-A  of  the  general municipal law, [section]
+ The  [school]  CITY  district  shall  have the authority to use the same
+ measures[,] to enhance minority and women owned business enterprise  AND
+ SMALL  BUSINESS  participation  as are available to the city of New York
+ pursuant to article five-A  of  the  general  municipal  law,  [section]
  SECTIONS thirteen hundred four AND THIRTEEN HUNDRED NINE of the New York
- city charter, paragraphs one and two of subdivision i of  section  three
- hundred  eleven  of  the New York city charter, and section 6-129 of the
- administrative code of the city of New York, PROVIDED THAT  THESE  POLI-
+ A. 7673--A  5
+ 
+ city  charter,  paragraphs one and two of subdivision i of section three
+ hundred eleven of the New York city charter, and section  6-129  of  the
+ administrative  code  of the city of New York, PROVIDED THAT THESE POLI-
  CIES  MAY  ESTABLISH  THAT THE CITY DISTRICT IS SUBJECT TO THE RULES AND
  GOAL AUTHORIZED UNDER SUBDIVISION G OF SECTION THIRTEEN HUNDRED NINE  OF
  SUCH CHARTER WITH RESPECT TO A MENTORING PROGRAM ESTABLISHED PURSUANT TO
@@ -236,8 +252,6 @@ S T A T E  O F  N E W  Y O R K
  SUBPARAGRAPH;
   §  3.  The public housing law is amended by adding a new section 402-g
  to read as follows:
- A. 7673  5
- 
   § 402-G. CONTRACTING WITH MINORITY AND  WOMEN  OWNED  ENTERPRISES  AND
  SMALL BUSINESSES. NOTWITHSTANDING ANY PROVISION OF ARTICLE EIGHT OF THIS
  CHAPTER  OR  ANY  OTHER PROVISION OF LAW, THE AUTHORITY IS AUTHORIZED TO
@@ -278,9 +292,36 @@ S T A T E  O F  N E W  Y O R K
  impair or invalidate the remainder of this act, but shall be confined in
  its operation to the clause, sentence, paragraph, or section of this act
  directly involved in the controversy in which the judgment was rendered.
-  § 6. This act shall take effect on the one hundred twentieth day after
- it  shall  have  become a law; provided, however, that the amendments to
- paragraph (a) of subdivision 36 of section 2590-h of the  education  law
- made  by section two of this act shall not affect the expiration of such
- section and subdivision and shall expire and be deemed  repealed  there-
- with.
+  §  6. For the purposes of this act, the following terms shall have the
+ following meanings:
+ A. 7673--A  6
+ 
+  a. "mentoring program contract" shall have the same meaning set  forth
+ in section 1309 of the New York city charter, as added by section one of
+ this  act,  and  also includes any such contract let pursuant to section
+ 402-g of the public housing law or subdivision 7 of section 8 of section
+ 1  of  chapter  1016 of the laws of 1969, constituting the New York city
+ health and hospitals corporation act, as added  by  sections  three  and
+ four of this act, respectively; and
+  b.  "school district mentoring program contract" shall mean a contract
+ let pursuant to the terms of section 1309 of the New York  city  charter
+ and  pursuant  to the authority set forth in subparagraph (iii) of para-
+ graph a of subdivision 36 of section 2590-h of  the  education  law,  as
+ amended by section two of this act.
+  § 7. This act shall take effect on the one hundred twentieth day after
+ it shall have become a law; provided, however:
+  a. sections one, three and four of this act shall expire and be deemed
+ repealed ten years after such date; provided, however, that such expira-
+ tion and repeal shall not affect the solicitation, award, or performance
+ of any mentoring program contract, or any extensions or amendments ther-
+ eto, or the authority to provide any assistance in conjunction with such
+ a mentoring program contract; and
+  b. the amendments to paragraph (a) of subdivision 36 of section 2590-h
+ of  the  education  law made by section two of this act shall not affect
+ the expiration of such section and subdivision and shall expire  and  be
+ deemed repealed therewith or ten years after such effective date, which-
+ ever shall occur earlier, provided that such expiration and repeal shall
+ not  affect  the  solicitation,  award,  or  performance  of  any school
+ district mentoring program contract, or  any  extensions  or  amendments
+ thereto,  or the authority to provide any assistance in conjunction with
+ such a school district mentoring program contract.
