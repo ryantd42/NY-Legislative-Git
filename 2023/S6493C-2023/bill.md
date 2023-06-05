@@ -1,6 +1,6 @@
 # Relates to the name and powers of the Oriskany Volunteer Exempt Firemen's Association of Oriskany, county of Oneida
 
-**Bill ID:** S6493CA
+**Bill ID:** S6493CB
 **Session:** 2023
 **Sponsor:** Joseph A. Griffo
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to the name and powers of the Oriskany Volunteer Exempt Firemen's Associ
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6493--A
+  6493--B
   Cal. No. 1297
  
   2023-2024 Regular Sessions
@@ -31,7 +31,9 @@ S T A T E  O F  N E W  Y O R K
   reported  favorably  from  said committee, ordered to first and second
   report, amended on second report, ordered to a third reading,  and  to
   be  reprinted  as  amended,  retaining its place in the order of third
-  reading
+  reading -- reported favorably from said committee  to  third  reading,
+  amended  and  ordered  reprinted,  retaining its place in the order of
+  third reading
  
  AN ACT to amend chapter 639 of the laws of 1970 incorporating the  Oris-
   kany  Volunteer  Exempt  Firemen's  Association of Oriskany, county of
@@ -58,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
  by-laws.
   § 2.  Persons eligible to membership.  All persons who are now or have
  been, or who hereafter shall be active volunteer members of the Oriskany
- Independent  Fire  and  Hose  Company, also known as Oriskany Volunteer
- Fire Department, and who have heretofore  acquired  or  shall  hereafter
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10811-02-3
- S. 6493--A  2
+  LBD10811-08-3
+ S. 6493--B  2
  
+ Independent  Fire  and  Hose  Company, also known as Oriskany Volunteer
+ Fire Department, and who have heretofore  acquired  or  shall  hereafter
  acquire the status of exempt volunteer [firemen] FIREFIGHTERS as defined
  in  section two hundred of the general municipal law or any other appli-
  cable law by virtue of having rendered service in said fire  department,
@@ -90,12 +92,10 @@ S T A T E  O F  N E W  Y O R K
  AND SAFETY OF THE VOLUNTEER MEMBERS OF THE CORPORATION, AND  TO  ENHANCE
  THE  MORALE  OF  THE  VOLUNTEER  MEMBERS OF THE CORPORATION BY PROVIDING
  SOCIAL AND RECREATIONAL ACTIVITIES FOR  THE  VOLUNTEER  MEMBERS  OF  THE
- CORPORATION  AND  TO  ACQUIRE  REAL AND PERSONAL PROPERTY SUCH AS MAY BE
- NECESSARY FOR THE PURPOSES HEREIN SET FORTH AND  the  promotion  of  the
- welfare of the volunteer fire service within the village of Oriskany and
- also  within the territory provided with fire protection by the Oriskany
- Independent Fire and Hose Company, also known as Oriskany Volunteer Fire
- Department.
+ CORPORATION  AND  the  promotion  of  the  welfare of the volunteer fire
+ service within the village of Oriskany and  also  within  the  territory
+ provided  with fire protection by the Oriskany Independent Fire and Hose
+ Company, also known as Oriskany Volunteer Fire Department.
   § 7.  Precept for payment of foreign  fire  insurance  premium  taxes.
  Notwithstanding any contrary provisions of any general, special or local
  law,  or  of  any  city  charter  or  ordinance, heretofore or hereafter
