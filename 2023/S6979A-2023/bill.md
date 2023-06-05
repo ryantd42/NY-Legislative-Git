@@ -1,6 +1,6 @@
 # Requires electronic reporting by contractors and sub-contractors for state contracts
 
-**Bill ID:** S6979A
+**Bill ID:** S6979AA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires all state agencies to require all contractors that provide services for
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6979
+  6979--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COONEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Procurement and Contracts
- 
+  printed to be committed to the Committee on Procurement and  Contracts
+  -- reported favorably from said committee and committed to the Commit-
+  tee  on  Finance  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the state finance law, in relation  to  requiring  elec-
   tronic reporting
  
@@ -41,38 +44,37 @@ S T A T E  O F  N E W  Y O R K
  sub-contractors,  that provide services for state purposes pursuant to a
  contract, to submit an annual employment report for  each  contract  for
  services  that includes for each employment category within the contract
- the NAMES OF THE EMPLOYEES AND  THE  number  of  employees  employed  to
- provide  services  under the contract, the number of hours they work and
- their total compensation under the contract. Employment reports shall be
- submitted ELECTRONICALLY IN A MANNER THAT ALLOWS SUCH DATA TO BE SEARCH-
- ABLE AND TRANSFERABLE TO  A  SPREADSHEET  OR  DATABASE  WITHOUT  FURTHER
- MANIPULATION.  THE  REPORTS SHALL BE SUBMITTED ON A FORM PRESCRIBED BY
- THE OFFICE OF  AUDIT  AND  CONTROL,  to  the  agency  that  awarded  the
- contract,  the  department  of civil service and the department of audit
- and control and shall be available for  public  inspection  and  copying
- pursuant  to  section  eighty-seven  of the public officers law provided
- that in disclosing such reports pursuant to the public officers law, the
- agency making the disclosure shall redact the [name or] social  security
- number of any individual employee that is included in such document. THE
- DEPARTMENT  OF AUDIT AND CONTROL SHALL MAINTAIN A SEARCHABLE DATABASE OF
- ALL ELECTRONIC FORMS SUBMITTED UNDER THIS PARAGRAPH AND SUCH  SEARCHABLE
- DATABASE  SHALL  BE  POSTED  ON  A  PUBLICLY AVAILABLE WEBSITE AND SHALL
- INCLUDE, BUT NEED NOT BE LIMITED TO, THE AUTHORIZING AGENCY, THE NAME OF
- THE CONTRACTOR OR SUB-CONTRACTOR, THE DATE  SUCH  CONTRACT  WAS  ENTERED
+ the number of employees employed to provide services under the contract,
+ the number of hours they work and their  total  compensation  under  the
+ contract.  Employment  reports  shall  be  submitted ELECTRONICALLY IN A
+ MANNER THAT ALLOWS SUCH DATA TO BE  SEARCHABLE  AND  TRANSFERABLE  TO  A
+ SPREADSHEET OR DATABASE WITHOUT FURTHER MANIPULATION.  THE REPORTS SHALL
+ BE SUBMITTED ON A FORM PRESCRIBED BY THE OFFICE OF AUDIT AND CONTROL, to
+ the  agency  that  awarded the contract, the department of civil service
+ and the department of audit and  control  and  shall  be  available  for
+ public  inspection  and  copying pursuant to section eighty-seven of the
+ public officers law provided that in disclosing such reports pursuant to
+ the public officers law, the agency making the disclosure  shall  redact
+ the  name  or  social security number of any individual employee that is
+ included in such document. THE DEPARTMENT OF  AUDIT  AND  CONTROL  SHALL
+ MAINTAIN  A  SEARCHABLE DATABASE OF ALL ELECTRONIC FORMS SUBMITTED UNDER
+ THIS PARAGRAPH AND SUCH SEARCHABLE DATABASE SHALL BE POSTED ON A PUBLIC-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11374-01-3
- S. 6979  2
+  LBD11374-02-3
+ S. 6979--A  2
  
- INTO, THE NAMES OF THE EMPLOYEES AND THE NUMBER OF EMPLOYEES EMPLOYED TO
- PROVIDE  SERVICES  UNDER THE CONTRACT, THE NUMBER OF HOURS THEY WORK AND
- THEIR TOTAL COMPENSATION UNDER THE CONTRACT AND THE TOTAL AMOUNT OF  THE
- CONTRACT.  IT  SHALL  BE  THE  RESPONSIBILITY OF THE AGENCY AWARDING THE
- CONTRACT TO ENSURE THAT ALL CONTRACTORS AND SUB-CONTRACTORS  SUBMIT  THE
- ANNUAL  REPORT  REQUIRED  BY  THIS  PARAGRAPH  WITHIN  ONE  YEAR  OF THE
- EXECUTION DATE OF THE CONTRACT AND  ANNUALLY  THEREAFTER  FOR  CONTRACTS
- LASTING MORE THAN ONE YEAR.
+ LY AVAILABLE WEBSITE AND SHALL INCLUDE, BUT NEED NOT BE LIMITED TO,  THE
+ AUTHORIZING  AGENCY,  THE  NAME OF THE CONTRACTOR OR SUB-CONTRACTOR, THE
+ DATE SUCH CONTRACT WAS ENTERED  INTO,  THE  JOB  TITLE,  THE  NUMBER  OF
+ EMPLOYEES EMPLOYED TO PROVIDE SERVICES UNDER THE CONTRACT, THE NUMBER OF
+ HOURS  THEY WORK AND THEIR TOTAL COMPENSATION UNDER THE CONTRACT AND THE
+ TOTAL AMOUNT OF THE CONTRACT. IT SHALL  BE  THE  RESPONSIBILITY  OF  THE
+ AGENCY AWARDING THE CONTRACT TO ENSURE THAT ALL CONTRACTORS AND SUB-CON-
+ TRACTORS  SUBMIT THE ANNUAL REPORT REQUIRED BY THIS PARAGRAPH WITHIN ONE
+ YEAR OF THE EXECUTION DATE OF THE CONTRACT AND ANNUALLY  THEREAFTER  FOR
+ CONTRACTS LASTING MORE THAN ONE YEAR.
   (II)  CONTRACTORS  AND  SUB-CONTRACTORS  WHO FAIL TO SUBMIT THE ANNUAL
  EMPLOYMENT REPORT REQUIRED BY SUBPARAGRAPH (I) OF THIS  PARAGRAPH  SHALL
  BE  NOTIFIED  IMMEDIATELY  BY THE AGENCY AWARDING THE CONTRACT THAT SUCH
