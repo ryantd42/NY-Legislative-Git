@@ -1,6 +1,6 @@
 # Requires labeling of ingredients on packages or boxes of diapers
 
-**Bill ID:** A43CB
+**Bill ID:** A43CC
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Requires a plain and conspicuous printed list of all ingredients listed in order
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  43--B
+  43--C
+  Cal. No. 187
  
   2023-2024 Regular Sessions
  
@@ -27,27 +28,30 @@ S T A T E  O F  N E W  Y O R K
   January 4, 2023
   ___________
  
- Introduced  by  M.  of A. L. ROSENTHAL, LEE -- read once and referred to
-  the  Committee  on  Consumer  Affairs  and  Protection  --  committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to  said  committee -- reported and referred to the Committee on Codes
-  -- committee discharged, bill amended, ordered  reprinted  as  amended
-  and recommitted to said committee
+ Introduced  by  M.  of  A. L. ROSENTHAL, LEE, SEAWRIGHT -- read once and
+  referred to the  Committee  on  Consumer  Affairs  and  Protection  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee -- reported and referred to the  Commit-
+  tee  on Codes -- committee discharged, bill amended, ordered reprinted
+  as amended and recommitted to said committee -- reported from  commit-
+  tee,  advanced  to  a  third  reading,  amended and ordered reprinted,
+  retaining its place on the order of third reading
  
- AN  ACT  to  amend  the general business law, in relation to labeling of
+ AN ACT to amend the general business law, in  relation  to  labeling  of
   ingredients of diapers
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The general business law is amended by adding a new section
  399-aaaaaa to read as follows:
   § 399-AAAAAA. DIAPER LABELING. 1. FOR PURPOSES OF THIS SECTION:
-  (A)  "INGREDIENT"  SHALL MEAN AN INTENTIONALLY ADDED SUBSTANCE PRESENT
+  (A) "INGREDIENT" SHALL MEAN AN INTENTIONALLY ADDED  SUBSTANCE  PRESENT
  IN A DIAPER;
-  (B) "DIAPER" SHALL  MEAN  A  TYPE  OF  UNDERWEAR  THAT  ABSORBS  WASTE
- PRODUCTS  TO  PREVENT SOILING OF OUTER CLOTHING OR THE EXTERNAL ENVIRON-
- MENT WITHOUT THE USE OF A TOILET.
+  (B)  "DIAPER"  SHALL MEAN A TYPE OF GARMENT OR PRODUCT INSERTED INTO A
+ GARMENT FOR THE PURPOSE OF ABSORBING WASTE PRODUCTS TO  PREVENT  SOILING
+ OF  OUTER  CLOTHING  OR  THE  EXTERNAL  ENVIRONMENT WITHOUT THE USE OF A
+ TOILET. THESE PRODUCTS MAY BE EITHER DISPOSABLE OR REUSABLE.
   2. NO LATER THAN TWELVE  MONTHS  AFTER  THE  EFFECTIVE  DATE  OF  THIS
  SECTION, EACH PACKAGE OR BOX CONTAINING DIAPERS SOLD IN THIS STATE SHALL
  CONTAIN  A  PLAIN  AND CONSPICUOUS PRINTED LIST OF ALL INGREDIENTS WHICH
@@ -56,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
   3.  THE  REQUIREMENTS  OF  THIS SECTION SHALL APPLY IN ADDITION TO ANY
  OTHER LABELING REQUIREMENTS ESTABLISHED PURSUANT TO ANY OTHER  PROVISION
  OF LAW.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01282-08-3
+ A. 43--C  2
+ 
   4. WHENEVER A VIOLATION OF THIS SECTION HAS OCCURRED, A CIVIL  PENALTY
  OF  ONE PERCENT OF THE MANUFACTURER'S TOTAL ANNUAL IN-STATE SALES NOT TO
  EXCEED ONE THOUSAND DOLLARS PER PACKAGE OR BOX SHALL BE IMPOSED  ON  THE
  MANUFACTURER.
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD01282-04-3
- A. 43--B  2
- 
   § 2. This act shall take effect immediately.
