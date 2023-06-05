@@ -1,0 +1,56 @@
+# Memorializing Governor Kathy Hochul to proclaim November 28, 2023, as Albanian-American Heritage Day in the State of New York
+
+**Bill ID:** K648
+**Session:** 2023
+**Sponsor:** Nader Sayegh
+**Status:** Adopted
+
+---
+
+## Full Text
+
+Assembly Resolution No. 648
+ 
+BY: M. of A. Sayegh
+ 
+  MEMORIALIZING  Governor  Kathy  Hochul to proclaim
+  November 28, 2023, as Albanian-American Heritage Day
+  in the State of New York
+ 
+  WHEREAS, It is the sense of this Legislative Body, in  keeping  with
+its  time-honored  traditions,  to  recognize and pay tribute to all who
+foster ethnic pride and enhance the profile of cultural diversity  which
+thereby strengthens the fabric of the communities of New York State; and
+ 
+  WHEREAS,  Attendant  to  such  concern,  and in full accord with its
+long-standing traditions, this  Legislative  Body  is  justly  proud  to
+memorialize  Governor  Kathy  Hochul  to  proclaim November 28, 2023, as
+Albanian-American Heritage Day in the State of New York; and
+ 
+  WHEREAS, Albania fought for its cultural and political autonomy from
+the Ottoman rule and were successful on November 28, 1912; as is typical
+of New York, the state has served as a place for many to come in  search
+of  opportunities  for upward mobility; this has remained consistent for
+Albanian-Americans as there are an estimated 500,000  Albanians  in  New
+York according to a CUNY report; and
+ 
+  WHEREAS,  The  United  States  and Albania continue to have a stable
+relationship as they are involved in many  of  the  same  organizations;
+Albania  joined  the  North  Atlantic Treaty Organization (NATO) in 2009
+which continued to strengthen the foreign relationship; and
+ 
+  WHEREAS, This Legislative  Body  is  proud  to  acknowledge  various
+cultures  of  people who add to the overall diversity of our State, and,
+on this occasion, we take the opportunity to recognize the contributions
+made by the Albanian-American community and extend best wishes to all of
+its members as they hold  appropriate  ceremonies  to  commemorate  this
+historic milestone; now, therefore, be it
+ 
+  RESOLVED,  That  this Legislative Body pause in its deliberations to
+memorialize Governor Kathy Hochul to  proclaim  November  28,  2023,  as
+Albanian-American  Heritage  Day  in  the  State  of New York; and be it
+further
+ 
+  RESOLVED, That a copy of this  Resolution,  suitably  engrossed,  be
+transmitted  to The Honorable Kathy Hochul, Governor of the State of New
+York.
