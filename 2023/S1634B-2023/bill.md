@@ -1,6 +1,6 @@
 # Relates to penalties for failure to comply with maintenance and reporting of vacant and abandoned properties, and reporting and release of information
 
-**Bill ID:** S1634BA
+**Bill ID:** S1634BB
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to penalties for failure to comply with maintenance and reporting of vac
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1634--A
+  1634--B
   Cal. No. 200
  
   2023-2024 Regular Sessions
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by Sen. KAVANAGH -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Housing, Construction  and
-  Community  Development  --  reported  favorably  from  said committee,
-  ordered to first and second report, amended on second report,  ordered
-  to  a  third  reading,  and  to be reprinted as amended, retaining its
-  place in the order of third reading
+ Introduced by Sens. KAVANAGH, ADDABBO -- read twice and ordered printed,
+  and  when  printed  to  be  committed  to  the  Committee  on Housing,
+  Construction and Community Development -- reported favorably from said
+  committee, ordered to first  and  second  report,  amended  on  second
+  report,  ordered  to  a third reading, and to be reprinted as amended,
+  retaining its place in the order of third reading -- reported  favora-
+  bly  from  said  committee  to  third  reading,  amended  and  ordered
+  reprinted, retaining its place in the order of third reading
  
  AN ACT to amend the  real  property  actions  and  proceedings  law,  in
   relation  to  penalties  for  failure  to  comply with maintenance and
@@ -49,26 +51,26 @@ S T A T E  O F  N E W  Y O R K
  faction  of the hearing officer or the court, based on the preponderance
  of the evidence, that the mortgagee or agent of a mortgagee has violated
  this section, a civil penalty may be issued by the  hearing  officer  or
- the court in the amount of up to [five hundred] ONE THOUSAND dollars per
+ the  court  in  the amount of up to [five] SIX hundred FIFTY dollars per
  day per property for each day the violation persisted.
-  §  2.  Subdivision  1 of section 1310 of the real property actions and
- proceedings law, as added by section 4 of part Q of chapter  73  of  the
+  § 2. Subdivision 1 of section 1310 of the real  property  actions  and
+ proceedings  law,  as  added by section 4 of part Q of chapter 73 of the
  laws of 2016, is amended to read as follows:
-  1.  The  department  of  financial services shall maintain a statewide
- vacant and abandoned property registry in  the  form  of  an  electronic
- database.  The  department of financial services may, in accordance with
- the applicable provisions of the state finance  law,  retain  a  private
- contractor  to  administer  such database for the purposes of satisfying
- this requirement. The information provided to the department  of  finan-
+  1. The department of financial services  shall  maintain  a  statewide
+ vacant  and  abandoned  property  registry  in the form of an electronic
+ database. The department of financial services may, in  accordance  with
+ the  applicable  provisions  of  the state finance law, retain a private
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05004-02-3
- S. 1634--A  2
+  LBD05004-04-3
+ S. 1634--B  2
  
- cial  services  pursuant  to  this  section  shall be deemed and treated
+ contractor to administer such database for the  purposes  of  satisfying
+ this  requirement.  The information provided to the department of finan-
+ cial services pursuant to this  section  shall  be  deemed  and  treated
  confidential,  provided  however,  the  superintendent  of  financial
- services,  in her or his sole discretion, may release the information if
+ services, in her or his sole discretion, may release the information  if
  it  is in the best interest of the public. Any such released information
  shall continue to be treated confidentially by the parties. The  depart-
  ment  of  financial services shall, upon written request, provide public
@@ -120,28 +122,28 @@ S T A T E  O F  N E W  Y O R K
  TO  THE DEPARTMENT OF FINANCIAL SERVICES ANY INFORMATION REQUIRED BY THE
  SUPERINTENDENT OF FINANCIAL SERVICES  ABOUT  ANY  VACANT  AND  ABANDONED
  PROPERTY  PURSUANT  TO  THIS  SECTION,  OR  FAILING  TO  MAKE AN AMENDED
+ S. 1634--B  3
+ 
  SUBMISSION WHEN ANY SUCH INFORMATION HAS MATERIALLY  CHANGED  SINCE  THE
  LATEST  SUBMISSION,  AS REQUIRED BY SUBDIVISION THREE OF THIS SECTION, A
- S. 1634--A  3
- 
  CIVIL PENALTY MAY BE ISSUED BY THE HEARING OFFICER OR THE COURT  IN  THE
  AMOUNT  OF  UP TO FIVE THOUSAND DOLLARS PER PROPERTY FOR EACH SUCH FAIL-
  URE.
-  §  5. Section 1310 of the real property actions and proceedings law is
+  § 5. Section 1310 of the real property actions and proceedings law  is
  amended by adding a new subdivision 7 to read as follows:
   7. THE SUPERINTENDENT OF FINANCIAL SERVICES SHALL PUBLISH ON OR BEFORE
- FEBRUARY FIFTEENTH EACH YEAR AN ANNUAL REPORT PRESENTING DATA  REGARDING
- PROPERTIES  THAT  APPEARED  ON  THE REGISTRY DURING THE MOST RECENT YEAR
- ENDING DECEMBER THIRTY-FIRST. SUCH DATA SHALL, AT  A  MINIMUM,  INCLUDE,
- FOR  EACH COUNTY, CITY, AND TOWN, THE TOTAL NUMBER OF PROPERTIES AND THE
- TOTAL NUMBER OF DWELLING UNITS IN SUCH PROPERTIES: (A) INCLUDED  IN  THE
- REGISTRY  AT THE BEGINNING OF THE YEAR, (B) ADDED TO THE REGISTRY DURING
- THE YEAR, (C) REMOVED  FROM  THE  REGISTRY  DURING  THE  YEAR,  AND  (D)
+ FEBRUARY  FIFTEENTH EACH YEAR AN ANNUAL REPORT PRESENTING DATA REGARDING
+ PROPERTIES THAT APPEARED ON THE REGISTRY DURING  THE  MOST  RECENT  YEAR
+ ENDING  DECEMBER  THIRTY-FIRST.  SUCH DATA SHALL, AT A MINIMUM, INCLUDE,
+ FOR EACH COUNTY, CITY, AND TOWN, THE TOTAL NUMBER OF PROPERTIES AND  THE
+ TOTAL  NUMBER  OF DWELLING UNITS IN SUCH PROPERTIES: (A) INCLUDED IN THE
+ REGISTRY AT THE BEGINNING OF THE YEAR, (B) ADDED TO THE REGISTRY  DURING
+ THE  YEAR,  (C)  REMOVED  FROM  THE  REGISTRY  DURING  THE YEAR, AND (D)
  INCLUDED IN THE REGISTRY AT THE END OF THE YEAR. FOR PROPERTIES INCLUDED
- IN  THE  REGISTRY  AT  THE END OF THE YEAR, THE DATA SHALL INDICATE, FOR
- EACH COUNTY, CITY, OR TOWN, HOW MANY PROPERTIES AND  DWELLING  UNITS  IN
- SUCH  PROPERTIES  HAVE BEEN INCLUDED IN THE REGISTRY FOR (I) SIX CONSEC-
- UTIVE MONTHS OR LESS, (II) ONE YEAR OR LESS, (III) TWO  YEARS  OR  LESS,
+ IN THE REGISTRY AT THE END OF THE YEAR, THE  DATA  SHALL  INDICATE,  FOR
+ EACH  COUNTY,  CITY,  OR TOWN, HOW MANY PROPERTIES AND DWELLING UNITS IN
+ SUCH PROPERTIES HAVE BEEN INCLUDED IN THE REGISTRY FOR (I)  SIX  CONSEC-
+ UTIVE  MONTHS  OR  LESS, (II) ONE YEAR OR LESS, (III) TWO YEARS OR LESS,
  (IV) THREE YEARS OR LESS, OR (V) LONGER THAN THREE YEARS.
-  §  6.  This  act shall take effect on the ninetieth day after it shall
+  § 6. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
