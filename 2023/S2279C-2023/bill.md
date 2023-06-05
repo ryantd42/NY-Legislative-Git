@@ -1,6 +1,6 @@
 # Requires labeling of ingredients on packages or boxes of diapers
 
-**Bill ID:** S2279CB
+**Bill ID:** S2279CC
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires a plain and conspicuous printed list of all ingredients listed in order
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2279--B
+  2279--C
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee  on  Consumer  Protection  --
   committee  discharged,  bill amended, ordered reprinted as amended and
   recommitted to said committee -- committee discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
-
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+ 
  AN  ACT  to  amend  the general business law, in relation to labeling of
   ingredients of diapers
  
@@ -42,23 +44,24 @@ S T A T E  O F  N E W  Y O R K
   § 399-AAAAAA. DIAPER LABELING. 1. FOR PURPOSES OF THIS SECTION:
   (A)  "INGREDIENT"  SHALL MEAN AN INTENTIONALLY ADDED SUBSTANCE PRESENT
  IN A DIAPER;
-  (B) "DIAPER" SHALL  MEAN  A  TYPE  OF  UNDERWEAR  THAT  ABSORBS  WASTE
- PRODUCTS  TO  PREVENT SOILING OF OUTER CLOTHING OR THE EXTERNAL ENVIRON-
- MENT WITHOUT THE USE OF A TOILET.
-  2. NO LATER THAN TWELVE  MONTHS  AFTER  THE  EFFECTIVE  DATE  OF  THIS
+  (B) "DIAPER" SHALL MEAN A TYPE OF GARMENT OR PRODUCT INSERTED  INTO  A
+ GARMENT  FOR  THE PURPOSE OF ABSORBING WASTE PRODUCTS TO PREVENT SOILING
+ OF OUTER CLOTHING OR THE EXTERNAL  ENVIRONMENT  WITHOUT  THE  USE  OF  A
+ TOILET. THESE PRODUCTS MAY BE EITHER DISPOSABLE OR REUSABLE.
+  2.  NO  LATER  THAN  TWELVE  MONTHS  AFTER  THE EFFECTIVE DATE OF THIS
  SECTION, EACH PACKAGE OR BOX CONTAINING DIAPERS SOLD IN THIS STATE SHALL
- CONTAIN  A  PLAIN  AND CONSPICUOUS PRINTED LIST OF ALL INGREDIENTS WHICH
- SHALL BE LISTED IN ORDER OF PREDOMINANCE.  SUCH LIST  SHALL  EITHER  BE
+ CONTAIN A PLAIN AND CONSPICUOUS PRINTED LIST OF  ALL  INGREDIENTS  WHICH
+ SHALL  BE  LISTED  IN ORDER OF PREDOMINANCE.  SUCH LIST SHALL EITHER BE
  PRINTED ON THE PACKAGE OR AFFIXED THERETO.
-  3.  THE  REQUIREMENTS  OF  THIS SECTION SHALL APPLY IN ADDITION TO ANY
- OTHER LABELING REQUIREMENTS ESTABLISHED PURSUANT TO ANY OTHER  PROVISION
+  3. THE REQUIREMENTS OF THIS SECTION SHALL APPLY  IN  ADDITION  TO  ANY
+ OTHER  LABELING REQUIREMENTS ESTABLISHED PURSUANT TO ANY OTHER PROVISION
  OF LAW.
   4. WHENEVER A VIOLATION OF THIS SECTION HAS OCCURRED, A CIVIL  PENALTY
- OF  ONE PERCENT OF THE MANUFACTURER'S TOTAL ANNUAL IN-STATE SALES NOT TO
- EXCEED ONE THOUSAND DOLLARS PER PACKAGE OR BOX SHALL BE IMPOSED  ON  THE
+ OF ONE PERCENT OF THE MANUFACTURER'S TOTAL ANNUAL IN-STATE SALES NOT  TO
+ EXCEED  ONE THOUSAND DOLLARS PER PACKAGE OR BOX SHALL BE IMPOSED  ON THE
  MANUFACTURER.
   § 2. This act shall take effect immediately.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01282-05-3
+  LBD01282-09-3
