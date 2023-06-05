@@ -1,6 +1,6 @@
 # Requires certain for-hire vehicles to install and maintain an interior rear-facing video camera
 
-**Bill ID:** A2806BA
+**Bill ID:** A2806BB
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires certain for-hire vehicles to install and maintain an interior rear-faci
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2806--A
+  2806--B
  
   2023-2024 Regular Sessions
  
@@ -28,47 +28,39 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M.  of  A.  RAJKUMAR,  ALVAREZ,  REYES  -- read once and
   referred to the Committee on Transportation --  committee  discharged,
   bill  amended,  ordered  reprinted  as amended and recommitted to said
-  committee
- 
- AN ACT to amend the transportation law, in relation to requiring certain
-  for-hire vehicles to install  and  maintain  an  interior  rear-facing
-  video camera
+  committee -- again  reported  from  said  committee  with  amendments,
+  ordered reprinted as amended and recommitted to said committee
+
+ AN  ACT  to  amend  the  administrative code of the city of New York, in
+  relation to requiring certain for-hire vehicles to install  and  main-
+  tain an interior rear-facing video camera
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 140 of the transportation law is amended by  adding
- a new subdivision 11 to read as follows:
-  11.  A.  ALL  COMMERCIAL MOTOR VEHICLES THAT TRANSPORT PASSENGERS FOR-
- HIRE WITH A SEATING CAPACITY OF SIX PASSENGERS OR LESS IN A CITY WITH  A
- POPULATION OF ONE MILLION OR MORE, EXCEPT FOR A BLACK CAR, LIMOUSINE, OR
- LUXURY  LIMOUSINE,  AS  SUCH  TERMS ARE DEFINED IN SECTION 19-502 OF THE
- ADMINISTRATIVE CODE OF THE CITY OF NEW YORK, OR AS OTHERWISE DEFINED  IN
- LOCAL  LAW,  SHALL BE REQUIRED TO INSTALL AND MAINTAIN AN INTERIOR REAR-
- FACING VIDEO CAMERA. SUCH VIDEO CAMERA SHALL BE RECORDING AT  ALL  TIMES
- THE  VEHICLE  IS  BEING OPERATED FOR THE PURPOSE OF FOR-HIRE TRANSPORTA-
- TION, AND AT MINIMUM SHALL:
-  (I) CAPTURE AND RECORD ANY OPERATOR OR PASSENGER WHO ENTERS  OR  EXITS
+  Section 1. Subdivision c of section 19-508 of the administrative  code
+ of  the  city of New York is relettered subdivision d and a new subdivi-
+ sion c is added to read as follows:
+  C. THE COMMISSION SHALL  REQUIRE  FOR-HIRE  VEHICLES  WITH  A  SEATING
+ CAPACITY  OF SIX PASSENGERS OR LESS THAT ARE DISPATCHED BY A LIVERY BASE
+ STATION, OTHER THAN HIGH-VOLUME FOR-HIRE SERVICES, TO INSTALL AND  MAIN-
+ TAIN  AN  INTERIOR  REAR-FACING VIDEO CAMERA. THIS REQUIREMENT SHALL NOT
+ LIMIT THE BRAND OR PROVIDER OF VIDEO CAMERAS WHICH CAN  BE  UTILIZED  TO
+ COMPLY  WITH  THIS PARAGRAPH. PROVIDED FURTHER THAT THE INSTALLATION AND
+ USE OF A FRONT-FACING  CAMERA  IS  PERMITTED  AS  LONG  AS  THE  MINIMUM
+ REQUIREMENTS  SET FORTH BELOW ARE MET, AND SO LONG AS THE FOR-HIRE VEHI-
+ CLE OWNER'S MOTOR VEHICLE INSURANCE PROVIDER  HAS  ACCESS  TO  THE  DATA
+ RECORDED  BY SUCH CAMERA UNLESS SPECIFICALLY EXEMPTED BY LAW. SUCH VIDEO
+ CAMERA SHALL BE RECORDING AT ALL TIMES THE VEHICLE IS  PROVIDING  TRANS-
+ PORTATION FOR HIRE, AND AT MINIMUM SHALL:
+  1.  CAPTURE  AND  RECORD ANY OPERATOR OR PASSENGER WHO ENTERS OR EXITS
  THE VEHICLE;
-  (II)  STORE,  AT  A MINIMUM, THE SIXTY MOST RECENT HOURS OF OPERATION;
- AND
-  (III) HAVE THE ABILITY TO TRANSMIT DATA OR OTHERWISE PROVIDE ACCESS TO
- LOCAL LAW ENFORCEMENT AND  THE  LOCAL  REGULATORY  AUTHORITY  WHICH  HAS
- LICENSED THE MOTOR VEHICLE FOR FOR-HIRE TRANSPORTATION SERVICES.
-  B.  THE  REQUIREMENT SET FORTH IN THIS SUBDIVISION SHALL NOT LIMIT THE
- BRAND OR PROVIDER OF VIDEO CAMERAS WHICH CAN BE UTILIZED TO COMPLY  WITH
- THIS  SUBDIVISION.  RATHER,  ANY  COMMERCIAL VIDEO CAMERA THAT MEETS THE
+  2. STORE, AT A MINIMUM, THE SIXTY MOST RECENT HOURS OF OPERATION; AND
+  3. HAVE THE ABILITY TO TRANSMIT DATA OR OTHERWISE  PROVIDE  ACCESS  TO
+ LOCAL LAW ENFORCEMENT AND THE COMMISSION.
+  §  2.  This  act shall take effect on the ninetieth day after it shall
+ have become a law.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02618-02-3
- A. 2806--A  2
- 
- MINIMUM REQUIREMENTS OF THIS SUBDIVISION SHALL BE CONSIDERED AS  COMPLY-
- ING WITH THIS SUBDIVISION.
-  C.  THE  REQUIREMENT SET FORTH IN THIS SUBDIVISION SHALL SUPERSEDE ANY
- LOCAL REGULATION IN A CITY WITH A POPULATION OF ONE MILLION OR  MORE  OF
- VIDEO  CAMERAS  INSTALLED  IN  COMMERCIAL  MOTOR VEHICLES ENGAGED IN THE
- FOR-HIRE TRANSPORT OF PASSENGERS.
-  § 2. This act shall take effect on the ninetieth day  after  it  shall
- have become a law.
+  LBD02618-05-3
