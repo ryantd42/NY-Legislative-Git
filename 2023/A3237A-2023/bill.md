@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system the Lieutenant Commander Phillip Wayne Johnson Memorial Bridge
 
-**Bill ID:** A3237A
+**Bill ID:** A3237AA
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** Stricken
@@ -16,7 +16,7 @@ Designates all that portion of the state highway system constituting New York st
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3237
+  3237--A
  
   2023-2024 Regular Sessions
  
@@ -26,24 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. GANDOLFO -- read once and referred to the Commit-
-  tee on Transportation
+  tee  on  Transportation -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system the "Lieutenant Commander Phillip Wayne John-
   son Memorial Bridge"
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 344-o to
  read as follows:
-  § 344-O. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
- "LIEUTENANT  COMMANDER  PHILLIP WAYNE JOHNSON MEMORIAL BRIDGE". ALL THAT
- PORTION OF THE STATE HIGHWAY SYSTEM CONSTITUTING THE WAVERLY AVE (COUNTY
- ROAD 19) OVERPASS AT SUNRISE HIGHWAY (STATE  ROUTE  27)  NEAR  EXIT  52,
- DESIGNATED  BRIDGE  NUMBER 1367500, IN THE TOWN OF BROOKHAVEN, COUNTY OF
- SUFFOLK, SHALL BE KNOWN AS THE "LIEUTENANT COMMANDER PHILLIP WAYNE JOHN-
- SON MEMORIAL BRIDGE".
+  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
+ "LIEUTENANT COMMANDER PHILLIP WAYNE JOHNSON MEMORIAL BRIDGE".  ALL  THAT
+ PORTION  OF  THE  STATE HIGHWAY SYSTEM CONSTITUTING NEW YORK STATE ROUTE
+ 112 BRIDGE OVER NEW YORK STATE ROUTE 27 IN THE TOWN OF BROOKHAVEN, COUN-
+ TY OF SUFFOLK, SHALL BE KNOWN AS THE "LIEUTENANT COMMANDER PHILLIP WAYNE
+ JOHNSON MEMORIAL BRIDGE".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this  act.  However,  to  avoid
@@ -57,4 +57,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01325-01-3
+  LBD01325-03-3
