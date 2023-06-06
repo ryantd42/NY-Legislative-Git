@@ -1,0 +1,76 @@
+# Authorizes city board councils, city-wide councils, community councils and school based management teams to conduct meetings via videoconferencing
+
+**Bill ID:** A7705
+**Session:** 2023
+**Sponsor:** Michael Benedetto
+**Status:** In Assembly Committee
+
+## Summary
+
+Authorizes city boards, city-wide councils, community councils and school based management teams to conduct meetings via videoconferencing.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7705
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  June 6, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  BENEDETTO  --  read once and referred to the
+  Committee on Education
+ 
+ AN ACT to amend the education law, in relation to meetings of  the  city
+  board, city-wide councils, community councils and school based manage-
+  ment teams
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 2590-b of the education law is amended by adding  a
+ new subdivision 9 to read as follows:
+  9.  NOTWITHSTANDING ANY PROVISION OF ARTICLE SEVEN OF THE PUBLIC OFFI-
+ CERS LAW TO THE CONTRARY, THE CITY BOARD,  CITY-WIDE  COUNCILS  AND  THE
+ COMMUNITY COUNCILS CONTINUED OR ESTABLISHED PURSUANT TO THIS SECTION MAY
+ CONDUCT  MEETINGS  OR PARTS THEREOF REQUIRED TO BE PUBLIC BY SECTION ONE
+ HUNDRED THREE OF THE PUBLIC OFFICERS LAW  REMOTELY  BY  VIDEOCONFERENCE,
+ WITHOUT  THE  PHYSICAL  PRESENCE  OF MEMBERS OF THE PUBLIC OR MEMBERS OF
+ SUCH CITY BOARD, CITY-WIDE COUNCIL OR COMMUNITY COUNCIL,  PROVIDED  THAT
+ SUCH  MEETINGS  OR  PARTS  THEREOF COMPLY WITH THE REQUIREMENTS OF PARA-
+ GRAPHS (D), (F), (G), (H) AND (I) OF  SUBDIVISION  TWO  OF  SECTION  ONE
+ HUNDRED THREE-A OF THE PUBLIC OFFICERS LAW.
+  § 2. Subparagraph (ii) of paragraph (b-1) of subdivision 15 of section
+ 2590-h the education law, as amended by chapter 345 of the laws of 2009,
+ is amended to read as follows:
+  (ii)  hold  at  least  one  meeting  per month during the school year;
+ PROVIDED, HOWEVER, THAT NOTWITHSTANDING ANY PROVISION OF  ARTICLE  SEVEN
+ OF  THE  PUBLIC  OFFICERS  LAW  TO THE CONTRARY, SCHOOL BASED MANAGEMENT
+ TEAMS MAY CONDUCT MEETINGS OR PARTS THEREOF REQUIRED  TO  BE  PUBLIC  BY
+ SECTION  ONE HUNDRED THREE OF THE PUBLIC OFFICERS LAW REMOTELY BY VIDEO-
+ CONFERENCE WITHOUT THE PHYSICAL PRESENCE OF MEMBERS  OF  THE  PUBLIC  OR
+ MEMBERS  OF SUCH SCHOOL BASED MANAGEMENT TEAMS, PROVIDED THAT SUCH MEET-
+ INGS OR PARTS THEREOF COMPLY WITH THE REQUIREMENTS  OF  PARAGRAPHS  (D),
+ (F),  (G), (H) AND (I) OF SUBDIVISION TWO OF SECTION ONE HUNDRED THREE-A
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11683-01-3
+ A. 7705  2
+ 
+ OF THE PUBLIC OFFICERS LAW. Each monthly meeting shall be held at a time
+ that is convenient for the parent representatives;
+  §  3.  This act shall take effect immediately; provided, however, that
+ the amendments to section 2590-b of the education law  made  by  section
+ one  of  this  act  shall  not affect the expiration of such section and
+ shall expire therewith; and provided further, however, that  the  amend-
+ ments  to  paragraph  (b-1)  of  subdivision 15 of section 2590-h of the
+ education law made by section two of  this  act  shall  not  affect  the
+ repeal of such paragraph and shall be deemed repealed therewith.
