@@ -1,6 +1,6 @@
 # Relates to the Nourish New York program
 
-**Bill ID:** A7678A
+**Bill ID:** A7678AA
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Permits the Nourish New York program to distribute certain funds without an appl
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7678
+  7678--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,17 @@ S T A T E  O F  N E W  Y O R K
   June 2, 2023
   ___________
  
- Introduced  by  M. of A. CRUZ -- read once and referred to the Committee
-  on Agriculture
+ Introduced  by  M.  of  A. CRUZ, SOLAGES, SILLITTI, JEAN-PIERRE, LAVINE,
+  L. ROSENTHAL, THIELE, K. BROWN  --  read  once  and  referred  to  the
+  Committee  on  Agriculture  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the agriculture and markets  law,  in  relation  to  the
   Nourish New York program
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision 1 of section 452 of the agriculture and markets
  law, as added by chapter 631 of the laws of 2021, is amended to read  as
  follows:
@@ -42,9 +44,9 @@ S T A T E  O F  N E W  Y O R K
  surplus agricultural products are provided to food relief  organizations
  at  competitive  wholesale  prices. NOTWITHSTANDING SECTIONS ONE HUNDRED
  TWELVE AND ONE HUNDRED SIXTY-THREE OF THE STATE FINANCE LAW, ANY  MONIES
- APPROPRIATED FOR THE PURPOSES OF THIS SECTION MAY BE DISTRIBUTED WITHOUT
- AN  APPLICATION  OR  COMPETITIVE PROCUREMENT PROCESS TO THE TEN REGIONAL
- FOOD BANKS. SUCH  FUNDS  SHALL  BE  DISTRIBUTED  ON  A  REGIONAL  BASIS;
+ APPROPRIATED FOR THE PURPOSES OF THIS SECTION SHALL BE DISTRIBUTED WITH-
+ OUT  AN  APPLICATION  OR  COMPETITIVE  PROCUREMENT  PROCESS  TO  THE TEN
+ REGIONAL FOOD BANKS. SUCH FUNDS SHALL BE  DISTRIBUTED  TO  EACH  REGION;
  PROVIDED,  IN REGIONS WITH MORE THAN ONE REGIONAL FOOD BANK, FUNDS SHALL
  BE DISTRIBUTED EQUALLY TO FOOD BANKS WITHIN SUCH REGION.  REGIONAL  FOOD
  BANKS MAY SUBALLOCATE FUNDS TO FOOD RELIEF ORGANIZATIONS.
@@ -52,7 +54,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11688-01-3
+  LBD11688-05-3
