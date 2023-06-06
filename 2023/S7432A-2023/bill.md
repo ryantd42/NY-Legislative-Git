@@ -1,6 +1,6 @@
 # Relates to the practice of physicians licensed in another state or territory of the United States pursuant to a reciprocal agreement
 
-**Bill ID:** S7432A
+**Bill ID:** S7432AA
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes physicians licensed in another state or territory of the United State
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7432
+  7432--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sens. MAY, MANNION -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Higher Education
+  when printed to be committed to the Committee on Higher  Education  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
- AN ACT to amend the education law, in relation to the practice of physi-
-  cians licensed in another state or  territory  of  the  United  States
-  pursuant to a reciprocal agreement
-
+ AN ACT to amend the education law and the public health law, in relation
+  to the practice of physicians licensed in another state  or  territory
+  of the United States pursuant to a reciprocal agreement
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -60,8 +62,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11038-01-3
- S. 7432  2
+  LBD11038-03-3
+ S. 7432--A  2
  
   (1) SUCH PHYSICIAN SHALL PROVIDE WRITTEN NOTIFICATION, IN A  FORM  AND
  FORMAT  ACCEPTABLE  TO  THE  DEPARTMENT,  THAT SUCH PHYSICIAN INTENDS TO
@@ -96,4 +98,9 @@ S T A T E  O F  N E W  Y O R K
   (C)  THE  AUTHORIZATION FOR ANY PHYSICIAN LICENSED IN ANOTHER STATE OR
  TERRITORY OF THE UNITED STATES TO PRACTICE IN NEW YORK STATE PURSUANT TO
  THIS SUBDIVISION SHALL EXPIRE ANNUALLY, UNLESS RENEWED.
-  § 2. This act shall take effect immediately.
+  § 2. Subdivision 2 of section 2999-cc of  the  public  health  law  is
+ amended by adding a new paragraph (aa) to read as follows:
+  (AA)  A  PHYSICIAN  PRACTICING PURSUANT TO A RECIPROCAL AGREEMENT WITH
+ THE COMMISSIONER  OF  EDUCATION  UNDER  SUBDIVISION  ELEVEN  OF  SECTION
+ SIXTY-FIVE HUNDRED TWENTY-SIX OF THE EDUCATION LAW.
+  § 3. This act shall take effect immediately.
