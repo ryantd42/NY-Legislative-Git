@@ -1,6 +1,6 @@
 # Authorizes the assessor of the town of Ramapo, county of Rockland to accept an application for a real property tax exemption from Sister Servants of Mary Immaculate Inc.
 
-**Bill ID:** S7395CB
+**Bill ID:** S7395CC
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the assessor of the town of Ramapo, county of Rockland to accept an a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7395--B
+  7395--C
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed  to  the  Committee  on  Local  Government  --
   committee  discharged,  bill amended, ordered reprinted as amended and
   recommitted to said committee -- committee discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
-
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+ 
  AN  ACT  in  relation to authorizing the assessor of the town of Ramapo,
   county of Rockland, to accept an application for a real  property  tax
   exemption from Sister Servants of Mary Immaculate Inc.
@@ -46,7 +48,7 @@ S T A T E  O F  N E W  Y O R K
  ment rolls for all of the 2022-2023 school taxes and all of the 2022 and
  2023 general taxes for the parcel owned by such organization located  at
  92  Eagle Valley Road, town of Sloatsburg, county of Rockland, otherwise
- known as Nassau county tax map section  38.41,  block  1,  lot  1-3.  If
+ known as Rockland county tax map section 03/38.41, block 1, lot 1-3.  If
  accepted,  the  application shall be reviewed as if it had been received
  on or before the taxable status date  established  for  such  assessment
  roll.
@@ -63,4 +65,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11611-05-3
+  LBD11611-06-3
