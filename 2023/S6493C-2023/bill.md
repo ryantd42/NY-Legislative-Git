@@ -1,6 +1,6 @@
 # Relates to the name and powers of the Oriskany Volunteer Exempt Firemen's Association of Oriskany, county of Oneida
 
-**Bill ID:** S6493CB
+**Bill ID:** S6493CC
 **Session:** 2023
 **Sponsor:** Joseph A. Griffo
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Relates to the name and powers of the Oriskany Volunteer Exempt Firemen's Associ
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6493--B
+  6493--C
   Cal. No. 1297
  
   2023-2024 Regular Sessions
@@ -33,41 +33,42 @@ S T A T E  O F  N E W  Y O R K
   be  reprinted  as  amended,  retaining its place in the order of third
   reading -- reported favorably from said committee  to  third  reading,
   amended  and  ordered  reprinted,  retaining its place in the order of
-  third reading
+  third reading -- again amended and ordered  reprinted,  retaining  its
+  place in the order of third reading
  
- AN ACT to amend chapter 639 of the laws of 1970 incorporating the  Oris-
-  kany  Volunteer  Exempt  Firemen's  Association of Oriskany, county of
-  Oneida, and providing for its powers and duties, in  relation  to  the
+ AN  ACT to amend chapter 639 of the laws of 1970 incorporating the Oris-
+  kany Volunteer Exempt Firemen's Association  of  Oriskany,  county  of
+  Oneida,  and  providing  for its powers and duties, in relation to the
   name and purposes of such association
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Sections 1, 2, 3 and 7 of chapter 639 of the laws  of  1970
- incorporating  the  Oriskany  Volunteer  Exempt Firemen's Association of
- Oriskany, county of Oneida, and providing for its powers and  duties  is
+  Section  1.  Sections 1, 2, 3 and 7 of chapter 639 of the laws of 1970
+ incorporating the Oriskany Volunteer  Exempt  Firemen's  Association  of
+ Oriskany,  county  of Oneida, and providing for its powers and duties is
  amended to read as follows:
   Section 1.  Incorporation; membership. A membership corporation by the
- name  of "Oriskany Volunteer Exempt [Firemen's] FIREFIGHTERS' Benevolent
- Association of Oriskany, county of Oneida" is hereby created.  It  shall
+ name of "Oriskany Volunteer Exempt [Firemen's] FIREFIGHTERS'  Benevolent
+ Association  of Oriskany, county of Oneida" is hereby created.  It shall
  be composed of such persons eligible to membership therein as hereinaft-
  er provided as shall: (a) notify the secretary of the Oriskany Independ-
  ent Fire and Hose Company, also known as Oriskany Volunteer Fire Depart-
- ment,  in  writing prior to the organization meeting of such corporation
- hereinafter provided of their desire to become  members,  or  (b)  shall
- attend  such meeting or an adjournment thereof, and also such persons so
- eligible as may become members  of  such  corporation  pursuant  to  its
+ ment, in writing prior to the organization meeting of  such  corporation
+ hereinafter  provided  of  their  desire to become members, or (b) shall
+ attend such meeting or an adjournment thereof, and also such persons  so
+ eligible  as  may  become  members  of  such corporation pursuant to its
  by-laws.
-  § 2.  Persons eligible to membership.  All persons who are now or have
- been, or who hereafter shall be active volunteer members of the Oriskany
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10811-08-3
- S. 6493--B  2
+  LBD10811-10-3
+ S. 6493--C  2
  
- Independent  Fire  and  Hose  Company, also known as Oriskany Volunteer
- Fire Department, and who have heretofore  acquired  or  shall  hereafter
+  § 2.  Persons eligible to membership.  All persons who are now or have
+ been, or who hereafter shall be active volunteer members of the Oriskany
+ Independent Fire and Hose  Company, also known  as  Oriskany  Volunteer
+ Fire  Department,  and  who  have heretofore acquired or shall hereafter
  acquire the status of exempt volunteer [firemen] FIREFIGHTERS as defined
  in  section two hundred of the general municipal law or any other appli-
  cable law by virtue of having rendered service in said fire  department,
@@ -118,5 +119,11 @@ S T A T E  O F  N E W  Y O R K
  under section [five hundred fifty-three] NINE THOUSAND ONE HUNDRED  FOUR
  of  the  insurance  law. [Such taxes shall only be used for the care and
  relief of disabled or indigent volunteer and  exempt  volunteer  firemen
- and their families.]
-  § 2.  This act shall take effect immediately.
+ and their families.] SUCH TAXES SHALL ONLY BE USED BY THE CORPORATION IN
+ FURTHERANCE OF ITS PURPOSES AS SET FORTH IN SECTION THREE OF THIS ACT.
+ S. 6493--C  3
+ 
+  §  2.  This act shall take effect immediately; provided, however, that
+ the amendments to section 7 of chapter 639 of the laws of 1970  made  by
+ section one of this act shall apply to taxes due on premiums received on
+ and after January 1, 2024.
