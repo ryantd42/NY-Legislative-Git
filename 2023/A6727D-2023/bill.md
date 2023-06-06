@@ -1,6 +1,6 @@
 # Relates to the name and powers of the Oriskany Volunteer Exempt Firemen's Association of Oriskany, county of Oneida
 
-**Bill ID:** A6727DC
+**Bill ID:** A6727DD
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Relates to the name and powers of the Oriskany Volunteer Exempt Firemen's Associ
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6727--C
+  6727--D
  
   2023-2024 Regular Sessions
  
@@ -31,7 +31,9 @@ S T A T E  O F  N E W  Y O R K
   reported and referred to the Committee on Ways and Means --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to  said  committee  -- again reported from said committee with amend-
-  ments, ordered reprinted as amended and recommitted to said committee
+  ments, ordered reprinted as amended and recommitted to said  committee
+  --  again  reported  from  said  committee  with  amendments,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend chapter 639 of the laws of 1970 incorporating the  Oris-
   kany  Volunteer  Exempt  Firemen's  Association of Oriskany, county of
@@ -56,65 +58,71 @@ S T A T E  O F  N E W  Y O R K
  attend  such meeting or an adjournment thereof, and also such persons so
  eligible as may become members  of  such  corporation  pursuant  to  its
  by-laws.
-  § 2.  Persons eligible to membership.  All persons who are now or have
- been, or who hereafter shall be active volunteer members of the Oriskany
- Independent  Fire  and  Hose  Company, also known as Oriskany Volunteer
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10811-07-3
- A. 6727--C  2
+  LBD10811-09-3
+ A. 6727--D  2
  
+  § 2.  Persons eligible to membership.  All persons who are now or have
+ been, or who hereafter shall be active volunteer members of the Oriskany
+ Independent  Fire  and  Hose  Company, also known as Oriskany Volunteer
  Fire Department, and who have heretofore  acquired  or  shall  hereafter
  acquire the status of exempt volunteer [firemen] FIREFIGHTERS as defined
  in  section two hundred of the general municipal law or any other appli-
- cable  law by virtue of having rendered service in said fire department,
- and all persons who are now  or  hereafter  shall  be  active  volunteer
- members  of said fire department shall be eligible for membership in the
- corporation hereby created;  provided  that  any  person  who  has  been
- expelled  or removed for cause from membership in any fire department or
- company shall not be eligible to membership in such  corporation.  The
- membership  of any person in such corporation shall terminate when [his]
+ cable law by virtue of having rendered service in said fire  department,
+ and  all  persons  who  are  now  or hereafter shall be active volunteer
+ members of said fire department shall be eligible for membership in  the
+ corporation  hereby  created;  provided  that  any  person  who has been
+ expelled or removed for cause from membership in any fire department  or
+ company  shall  not  be eligible to membership in such corporation.  The
+ membership of any person in such corporation shall terminate when  [his]
  THEIR membership as an active volunteer member of the Oriskany Independ-
  ent Fire and Hose Company, also known as Oriskany Volunteer Fire Depart-
- ment shall terminate before such persons shall have acquired the  status
- of  exempt  volunteer  [firemen]  FIREFIGHTERS as defined in section two
- hundred of the general  municipal  law  by  virtue  of  having  rendered
+ ment  shall terminate before such persons shall have acquired the status
+ of exempt volunteer [firemen] FIREFIGHTERS as  defined  in  section  two
+ hundred  of  the  general  municipal  law  by  virtue of having rendered
  services to such fire department.
   § 3.  Purposes.  The purposes of such corporation shall be the mainte-
- nance  of  suitable  headquarters  for,  and  the promotion of fraternal
- intercourse among the members of such corporation, the relief,  aid  and
- assistance  of such members and their families who are INJURED, disabled
- or indigent and TO PROMOTE AND SAFEGUARD THE WELFARE  OF  THE  VOLUNTEER
+ nance of suitable headquarters  for,  and  the  promotion  of  fraternal
+ intercourse  among  the members of such corporation, the relief, aid and
+ assistance of such members and their families who are INJURED,  disabled
+ or  indigent  and  TO PROMOTE AND SAFEGUARD THE WELFARE OF THE VOLUNTEER
  MEMBERS OF THE CORPORATION AND THEIR FAMILIES, TO PROVIDE FOR THE HEALTH
- AND  SAFETY  OF THE VOLUNTEER MEMBERS OF THE CORPORATION, AND TO ENHANCE
- THE MORALE OF THE VOLUNTEER MEMBERS  OF  THE  CORPORATION  BY  PROVIDING
- SOCIAL  AND  RECREATIONAL  ACTIVITIES  FOR  THE VOLUNTEER MEMBERS OF THE
- CORPORATION AND the promotion of  the  welfare  of  the  volunteer  fire
- service  within  the  village  of Oriskany and also within the territory
- provided with fire protection by the Oriskany Independent Fire and  Hose
+ AND SAFETY OF THE VOLUNTEER MEMBERS OF THE CORPORATION, AND  TO  ENHANCE
+ THE  MORALE  OF  THE  VOLUNTEER  MEMBERS OF THE CORPORATION BY PROVIDING
+ SOCIAL AND RECREATIONAL ACTIVITIES FOR  THE  VOLUNTEER  MEMBERS  OF  THE
+ CORPORATION  AND  the  promotion  of  the  welfare of the volunteer fire
+ service within the village of Oriskany and  also  within  the  territory
+ provided  with fire protection by the Oriskany Independent Fire and Hose
  Company, also known as Oriskany Volunteer Fire Department.
-  §  7.  Precept  for payment of foreign fire insurance premium taxes.
+  § 7.  Precept for payment of foreign  fire  insurance  premium  taxes.
  Notwithstanding any contrary provisions of any general, special or local
- law, or of any  city  charter  or  ordinance,  heretofore  or  hereafter
- enacted,  such  corporation  shall collect and there shall be paid to it
- all taxes imposed by section [five hundred  fifty-three]  NINE  THOUSAND
- ONE  HUNDRED FOUR of the insurance law for fire department use and bene-
+ law,  or  of  any  city  charter  or  ordinance, heretofore or hereafter
+ enacted, such corporation shall collect and there shall be  paid  to  it
+ all  taxes  imposed  by section [five hundred fifty-three] NINE THOUSAND
+ ONE HUNDRED FOUR of the insurance law for fire department use and  bene-
  fit, upon premises for insurance against loss or damage by fire covering
- property situated within the village of Oriskany, New York,  located  in
- the  town  of Whitestown, county of Oneida and state of New York, and/or
- within any duly organized territory in which  the  Oriskany  Independent
+ property  situated  within the village of Oriskany, New York, located in
+ the town of Whitestown, county of Oneida and state of New  York,  and/or
+ within  any  duly  organized territory in which the Oriskany Independent
  Fire and Hose Company, also known as Oriskany Volunteer Fire Department,
- is  or  may be obligated to render fire protection.  The officer of said
- corporation designated by its by-laws to collect and receive the  afore-
- said  tax shall have all the powers and be subject to all the provisions
- of the insurance law, relating to the  treasurer  of  fire  departments.
- Such  corporation  shall  also be entitled to receive a share of the tax
- imposed by section [five hundred fifty-four] NINE THOUSAND  ONE  HUNDRED
+ is or may be obligated to render fire protection.  The officer  of  said
+ corporation  designated by its by-laws to collect and receive the afore-
+ said tax shall have all the powers and be subject to all the  provisions
+ of  the  insurance  law,  relating to the treasurer of fire departments.
+ Such corporation shall also be entitled to receive a share  of  the  tax
+ imposed  by  section [five hundred fifty-four] NINE THOUSAND ONE HUNDRED
  FIVE of the insurance law, based upon the business written in the terri-
  tory with respect to which it is entitled to collect and receive the tax
- under  section [five hundred fifty-three] NINE THOUSAND ONE HUNDRED FOUR
- of the insurance law. [Such taxes shall only be used for  the  care  and
- relief  of  disabled  or indigent volunteer and exempt volunteer firemen
- and their families.]
-  § 2.  This act shall take effect immediately.
+ under section [five hundred fifty-three] NINE THOUSAND ONE HUNDRED  FOUR
+ of  the  insurance  law. [Such taxes shall only be used for the care and
+ relief of disabled or indigent volunteer and  exempt  volunteer  firemen
+ and their families.] SUCH TAXES SHALL ONLY BE USED BY THE CORPORATION IN
+ FURTHERANCE OF ITS PURPOSES AS SET FORTH IN SECTION THREE OF THIS ACT.
+ A. 6727--D  3
+ 
+  §  2.  This act shall take effect immediately; provided, however, that
+ the amendments to section 7 of chapter 639 of the laws of 1970  made  by
+ section one of this act shall apply to taxes due on premiums received on
+ and after January 1, 2024.
