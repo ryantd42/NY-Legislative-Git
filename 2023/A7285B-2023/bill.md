@@ -1,6 +1,6 @@
 # Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from the East Meadow Fire District
 
-**Bill ID:** A7285BA
+**Bill ID:** A7285BB
 **Session:** 2023
 **Sponsor:** John K. Mikulin
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the county of Nassau assessor to accept an application for a real pro
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7285--A
+  7285--B
  
   2023-2024 Regular Sessions
  
@@ -27,7 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. MIKULIN -- read once and referred to the Commit-
   tee on Real Property Taxation -- committee discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  reference changed to the Committee on  Ways  and  Means  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN  ACT  authorizing the county of Nassau assessor to accept an applica-
   tion for a real property tax  exemption  from  the  East  Meadow  Fire
@@ -39,7 +42,7 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Notwithstanding any other provision of law to the contrary,
  the assessor of the county of Nassau is hereby authorized to accept from
  the East Meadow Fire District, an application for  exemption  from  real
- property taxes pursuant to section 406 of the real property tax law with
+ property taxes pursuant to section 464 of the real property tax law with
  respect to the 2022-2023 assessment roll for all of the 2022-2023 school
  taxes  and  all  of the 2022 general taxes, for the parcel owned by such
  not-for-profit corporation with such parcels being located at  580  East
@@ -59,7 +62,7 @@ S T A T E  O F  N E W  Y O R K
  the  taxes  paid, along with any fines or penalties paid, and cancel any
  taxes, fines, penalties, interest, or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11253-02-3
+  LBD11253-04-3
