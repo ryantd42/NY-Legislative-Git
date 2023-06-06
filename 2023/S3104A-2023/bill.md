@@ -1,6 +1,6 @@
 # Relates to the confidentiality and expungement of records in juvenile delinquency cases in the family court
 
-**Bill ID:** S3104A
+**Bill ID:** S3104AA
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to the confidentiality and expungement of records in juvenile delinquenc
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3104
+  3104--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. BRISPORT -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Children and Families
- 
+  printed to be committed to the Committee on Children and  Families  --
+  reported  favorably from said committee and committed to the Committee
+  on Judiciary -- committee discharged, bill amended, ordered  reprinted
+  as amended and recommitted to said committee
+
  AN ACT to amend the family court act, in relation to the confidentiality
   and expungement of records in juvenile delinquency cases in the family
   court
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The  family  court act is amended by adding a new section
+  Section 1. The family court act is amended by  adding  a  new  section
  301.5 to read as follows:
   § 301.5. CONFIDENTIALITY OF JUVENILE DELINQUENCY RECORDS. 1. "JUVENILE
  DELINQUENCY RECORD" REFERS TO THE RECORDS, REPORTS AND INFORMATION MAIN-
- TAINED IN ANY FORM, INCLUDING ELECTRONIC, BY THE FAMILY COURT,  JUVENILE
- PROBATION,  THE  PRESENTMENT  AGENCY, STATE CRIMINAL JUSTICE INFORMATION
- SYSTEMS, LAW ENFORCEMENT AGENCIES OR ANY OTHER PUBLIC SERVANT  DOCUMENT-
- ING  THE  JUVENILE'S  CONTACT  WITH THE JUVENILE JUSTICE SYSTEM FROM THE
+ TAINED  IN ANY FORM, INCLUDING ELECTRONIC, BY THE FAMILY COURT, JUVENILE
+ PROBATION, THE PRESENTMENT AGENCY, STATE  CRIMINAL  JUSTICE  INFORMATION
+ SYSTEMS,  LAW ENFORCEMENT AGENCIES OR ANY OTHER PUBLIC SERVANT DOCUMENT-
+ ING THE JUVENILE'S CONTACT WITH THE JUVENILE  JUSTICE  SYSTEM  FROM  THE
  TIME OF INVESTIGATION AND ARREST.
-  2. THE FOLLOWING RECORDS, REPORTS, AND INFORMATION ACQUIRED OR  GENER-
- ATED  IN FAMILY COURT, JUVENILE PROBATION OR BY ARRESTS CONCERNING JUVE-
- NILES SHALL BE CONFIDENTIAL AND SHALL NOT  BE  OPEN  TO  INSPECTION  NOR
+  2.  THE FOLLOWING RECORDS, REPORTS, AND INFORMATION ACQUIRED OR GENER-
+ ATED IN FAMILY COURT, JUVENILE PROBATION OR BY ARRESTS CONCERNING  JUVE-
+ NILES  SHALL  BE  CONFIDENTIAL  AND  SHALL NOT BE OPEN TO INSPECTION NOR
  RELEASED TO ANY PERSON, DEPARTMENT, AGENCY, OR ENTITY:
   (A) JUVENILE LEGAL FILES, INCLUDING BUT NOT LIMITED TO:
   (I) JUVENILE DELINQUENCY PETITIONS;
-  (II)  ADOLESCENT  OFFENDER  PETITIONS  IF THE ACTION IS TRANSFERRED OR
- REMOVED TO FAMILY COURT PURSUANT TO ARTICLE SEVEN HUNDRED TWENTY-TWO  OF
+  (II) ADOLESCENT OFFENDER PETITIONS IF THE  ACTION  IS  TRANSFERRED  OR
+ REMOVED  TO FAMILY COURT PURSUANT TO ARTICLE SEVEN HUNDRED TWENTY-TWO OF
  THE CRIMINAL PROCEDURE LAW;
-  (III)  JUVENILE  OFFENDER PETITIONS IF THE ACTION IS REMOVED TO FAMILY
- COURT PURSUANT TO ARTICLE SEVEN  HUNDRED  TWENTY-FIVE  OF  THE  CRIMINAL
+  (III) JUVENILE OFFENDER PETITIONS IF THE ACTION IS REMOVED  TO  FAMILY
+ COURT  PURSUANT  TO  ARTICLE  SEVEN  HUNDRED TWENTY-FIVE OF THE CRIMINAL
  PROCEDURE LAW;
-  (IV)  PREDISPOSITION  REPORTS,  INCLUDING PROBATION INVESTIGATIONS AND
- DIAGNOSTIC ASSESSMENTS;
-  (V) RISK ASSESSMENT INSTRUMENTS;
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05815-01-3
- S. 3104  2
+  LBD05815-05-3
+ S. 3104--A  2
  
+  (IV) PREDISPOSITION REPORTS, INCLUDING  PROBATION  INVESTIGATIONS  AND
+ DIAGNOSTIC ASSESSMENTS;
+  (V) RISK ASSESSMENT INSTRUMENTS;
   (VI) NOTICES;
   (VII) MOTIONS;
   (VIII) LEGAL MEMORANDA; AND
@@ -117,70 +120,70 @@ S T A T E  O F  N E W  Y O R K
  CONCLUSION  OF  SUCH  PROCEEDINGS, SHALL NOT PERMIT A COPY OF ANY OF THE
  DOCUMENTS RELATING TO SUCH PROCEEDINGS TO BE TAKEN OR SEEN BY ANY PERSON
  OTHER THAN THE RESPONDENT, THE  ATTORNEY  FOR  THE  CHILD,  AN  ATTORNEY
+ S. 3104--A  3
+ 
  EMPLOYED  BY  THE  PRESENTMENT  AGENCY,  OR  AN OFFICIAL EMPLOYED BY THE
  PROBATION SERVICE, EXCEPT BY ORDER OF THE COURT.
   5.  NOTWITHSTANDING  THE  PROVISIONS  OF  SUBDIVISION  THREE  OF  THIS
- SECTION,  AN OFFICER OF THE COURT, OR HIS OR HER CLERK, SHALL NOT PERMIT
- S. 3104  3
- 
- ACCESS OF ANY PERSON TO A RECORD WHICH HAS  BEEN  EXPUNGED  PURSUANT  TO
+ SECTION, AN OFFICER OF THE COURT, OR HIS OR HER CLERK, SHALL NOT  PERMIT
+ ACCESS  OF  ANY  PERSON  TO A RECORD WHICH HAS BEEN EXPUNGED PURSUANT TO
  SECTION 375.1 OR SECTION 375.2 OF THIS ARTICLE.
-  6.  A  VIOLATION  OF  THIS  SECTION SHALL CREATE A CAUSE OF ACTION FOR
+  6. A VIOLATION OF THIS SECTION SHALL CREATE  A  CAUSE  OF  ACTION  FOR
  CIVIL DAMAGES OF UP TO ONE THOUSAND DOLLARS.
-  § 2. The section heading and subdivisions 1 and 2 of section 354.1  of
+  §  2. The section heading and subdivisions 1 and 2 of section 354.1 of
  the family court act, the section heading as added by chapter 920 of the
- laws  of  1982 and subdivisions 1 and 2 as amended by chapter 810 of the
- laws of 2021, are amended and two new subdivisions 8 and 9 are added  to
+ laws of 1982 and subdivisions 1 and 2 as amended by chapter 810  of  the
+ laws  of 2021, are amended and two new subdivisions 8 and 9 are added to
  read as follows:
   Retention and destruction of fingerprints; DNA AND OTHER GENETIC MATE-
- RIAL of persons alleged to be juvenile delinquents.
-  1.  If  a  person  whose  fingerprints, palmprints or photographs were
- taken pursuant to section 306.1 OF THIS ARTICLE  or  WHO  was  initially
- fingerprinted  as  a  juvenile  OR ADOLESCENT offender and the action is
- subsequently removed to a family court pursuant to article seven hundred
+ RIAL of persons alleged to be juvenile delinquents.  1.  If  a  person
+ whose  fingerprints,  palmprints  or  photographs were taken pursuant to
+ section 306.1 OF THIS ARTICLE or WHO was initially  fingerprinted  as  a
+ juvenile  OR  ADOLESCENT offender and the action is subsequently removed
+ to a family court pursuant to article seven hundred twenty-five OR ARTI-
+ CLE SEVEN HUNDRED TWENTY-TWO of the criminal procedure  law  is  adjudi-
+ cated  to  be a juvenile delinquent for a felony, the family court shall
+ forward or cause to be forwarded to the  division  of  criminal  justice
+ services  notification of such adjudication and such related information
+ as may be required by such division, provided, however, in the case of a
+ person twelve years of age such notification shall be provided  only  if
+ the  act upon which the adjudication is based would constitute a class A
+ or B felony.
+  2. If a person whose  fingerprints,  palmprints  or  photographs  were
+ taken  pursuant  to  section  306.1 OF THIS ARTICLE or WHO was initially
+ fingerprinted as a juvenile OR ADOLESCENT offender  and  the  action  is
+ subsequently  removed  to family court pursuant to article seven hundred
  twenty-five OR ARTICLE SEVEN HUNDRED TWENTY-TWO of the  criminal  proce-
- dure  law  is  adjudicated to be a juvenile delinquent for a felony, the
- family court shall forward or cause to be forwarded to the  division  of
- criminal  justice  services  notification  of such adjudication and such
- related information as may  be  required  by  such  division,  provided,
- however,  in  the case of a person twelve years of age such notification
- shall be provided only if the act upon which the adjudication  is  based
- would constitute a class A or B felony.
-  2.  If  a  person  whose  fingerprints, palmprints or photographs were
- taken pursuant to section 306.1 OF THIS ARTICLE  or  WHO  was  initially
- fingerprinted  as  a  juvenile  OR ADOLESCENT offender and the action is
- subsequently removed to family court pursuant to article  seven  hundred
- twenty-five  OR  ARTICLE SEVEN HUNDRED TWENTY-TWO of the criminal proce-
- dure law has had all petitions disposed of by the family  court  in  any
- manner  other than an adjudication of juvenile delinquency for a felony,
- but in the case of acts committed when such person was twelve  years  of
- age  [which  would  constitute]  OTHER  THAN AN ADJUDICATION OF JUVENILE
- DELINQUENCY FOR a class A or B felony  [only],  all  such  fingerprints,
- palmprints,  photographs, and copies thereof, and all information relat-
- ing to such allegations obtained by the  division  of  criminal  justice
- services  pursuant  to  section 306.1 OF THIS ARTICLE shall be destroyed
- forthwith. The clerk of the court shall notify the commissioner  of  the
- division  of  criminal  justice  services  and  the  heads of all police
- departments and law enforcement agencies having copies of such  records,
+ dure  law  has  had all petitions disposed of by the family court in any
+ manner other than an adjudication of juvenile delinquency for a  felony,
+ but  in  the case of acts committed when such person was twelve years of
+ age [which would constitute] OTHER  THAN  AN  ADJUDICATION  OF  JUVENILE
+ DELINQUENCY  FOR  a  class  A or B felony [only], all such fingerprints,
+ palmprints, photographs, and copies thereof, and all information  relat-
+ ing  to  such  allegations  obtained by the division of criminal justice
+ services pursuant to section 306.1 OF THIS ARTICLE  shall  be  destroyed
+ forthwith.  The  clerk of the court shall notify the commissioner of the
+ division of criminal justice  services  and  the  heads  of  all  police
+ departments  and law enforcement agencies having copies of such records,
  who shall destroy such records without unnecessary delay.
-  8.  WHEN  A  PERSON WHOSE FINGERPRINTS, PALMPRINTS OR PHOTOGRAPHS WERE
- TAKEN PURSUANT TO SECTION 306.1 OF THIS ARTICLE AND WHO IS  SUBSEQUENTLY
- ADJUDICATED  A JUVENILE DELINQUENT FOR A FELONY, BUT IN THE CASE OF ACTS
+  8. WHEN A PERSON WHOSE FINGERPRINTS, PALMPRINTS  OR  PHOTOGRAPHS  WERE
+ TAKEN  PURSUANT TO SECTION 306.1 OF THIS ARTICLE AND WHO IS SUBSEQUENTLY
+ ADJUDICATED A JUVENILE DELINQUENT FOR A FELONY, BUT IN THE CASE OF  ACTS
  COMMITTED WHEN SUCH PERSON WAS TWELVE YEARS OF AGE OTHER THAN AN ADJUDI-
- CATION OF JUVENILE DELINQUENCY FOR A CLASS A OR B FELONY, AND  THE  CASE
- IS  EXPUNGED PURSUANT TO SECTION 375.1 OR SECTION 375.2 OF THIS ARTICLE,
- ALL FINGERPRINTS, PALMPRINTS, PHOTOGRAPHS, AND RELATED  INFORMATION  AND
+ CATION  OF  JUVENILE DELINQUENCY FOR A CLASS A OR B FELONY, AND THE CASE
+ IS EXPUNGED PURSUANT TO SECTION 375.1 OR SECTION 375.2 OF THIS  ARTICLE,
+ ALL  FINGERPRINTS,  PALMPRINTS, PHOTOGRAPHS, AND RELATED INFORMATION AND
  COPIES THEREOF OBTAINED PURSUANT TO SECTION 306.1 OF THIS ARTICLE IN THE
- POSSESSION  OF  THE  DIVISION  OF  CRIMINAL JUSTICE SERVICES, ANY POLICE
+ POSSESSION OF THE DIVISION OF  CRIMINAL  JUSTICE  SERVICES,  ANY  POLICE
  DEPARTMENT,  LAW  ENFORCEMENT  AGENCY  OR  ANY  OTHER  AGENCY  SHALL  BE
- DESTROYED  FORTHWITH.  THE  DIVISION  OF CRIMINAL JUSTICE SERVICES SHALL
+ DESTROYED FORTHWITH. THE DIVISION OF  CRIMINAL  JUSTICE  SERVICES  SHALL
  NOTIFY THE AGENCY OR AGENCIES WHICH FORWARDED FINGERPRINTS TO SUCH DIVI-
- SION PURSUANT TO SECTION 306.1 OF THIS ARTICLE OF  THEIR  OBLIGATION  TO
+ S. 3104--A  4
+ 
+ SION  PURSUANT  TO  SECTION 306.1 OF THIS ARTICLE OF THEIR OBLIGATION TO
  DESTROY THOSE RECORDS IN THEIR POSSESSION.
   9.  IF ANY DNA OR OTHER GENETIC MATERIAL WAS OBTAINED FROM A JUVENILE
  BY ANY LAW ENFORCEMENT OFFICER OR OTHER PUBLIC  SERVANT  ACTING  IN  THE
- S. 3104  4
- 
  COURSE  OF  HIS OR HER OFFICIAL DUTIES OR BY A STATE OR LOCAL GOVERNMENT
  ENTITY, OTHER THAN DNA OR OTHER GENETIC MATERIAL OBTAINED IN  CONNECTION
  WITH A PARENTAGE OR RELATED PROCEEDING OR A JUVENILE OFFENDER OR ADOLES-
@@ -233,173 +236,180 @@ S T A T E  O F  N E W  Y O R K
  PERSON OR AGENCY SHALL BE ALLOWED TO RELEASE ANY INFORMATION  CONCERNING
  SUCH  RECORD,  EXCEPT  AS  PROVIDED BY THIS SECTION. THE COURT, JUVENILE
  PROBATION OFFICE, LAW ENFORCEMENT OFFICES, PRESENTMENT  AGENCY  AND  ANY
+ S. 3104--A  5
+
  OTHER  RELEVANT AGENCY SHALL REPLY TO AN INQUIRY THAT NO JUVENILE RECORD
  EXISTS WITH RESPECT TO THE PERSON WHOSE RECORD WAS EXPUNGED.
   3. WITH RESPECT TO THE MATTER IN WHICH THE RECORD WAS EXPUNGED AND ANY
  PRECEDING ACTION RESULTING FROM THE SAME ALLEGED CONDUCT, THE PERSON WHO
- S. 3104  5
- 
- IS THE SUBJECT OF THE RECORD AND THE PERSON'S PARENT SHALL NOT  BE  HELD
- THEREAFTER  UNDER ANY PROVISION OF LAW TO BE GUILTY OF PERJURY OR OTHER-
- WISE GIVING A FALSE STATEMENT BY  REASON  OF  THE  PERSON'S  FAILURE  TO
+ IS  THE  SUBJECT OF THE RECORD AND THE PERSON'S PARENT SHALL NOT BE HELD
+ THEREAFTER UNDER ANY PROVISION OF LAW TO BE GUILTY OF PERJURY OR  OTHER-
+ WISE  GIVING  A  FALSE  STATEMENT  BY  REASON OF THE PERSON'S FAILURE TO
  RECITE OR ACKNOWLEDGE SUCH RECORD.
-  4.  For the purposes of subdivision one OF THIS SECTION, a delinquency
- proceeding shall be considered  terminated  in  favor  of  a  respondent
+  4. For the purposes of subdivision one OF THIS SECTION, a  delinquency
+ proceeding  shall  be  considered  terminated  in  favor of a respondent
  where:
   (a) the petition is withdrawn; or
-  (b)  the  petition  is  dismissed under section 315.1 or 315.2 OF THIS
- ARTICLE and the presentment agency has not appealed from such  order  or
- the  determination  of  an  appeal  or  appeals from such order has been
+  (b) the petition is dismissed under section 315.1  or  315.2  OF  THIS
+ ARTICLE  and  the presentment agency has not appealed from such order or
+ the determination of an appeal or  appeals  from  such  order  has  been
  against the presentment agency; or
-  (c) the petition has been deemed to have been dismissed under  section
+  (c)  the petition has been deemed to have been dismissed under section
  315.3 and the presentment agency has not appealed from such order or the
- determination  of  an appeal or appeals from such order has been against
- the presentment agency; PROVIDED, HOWEVER, THAT AN AGREEMENT TO  PREVENT
- EXPUNGEMENT  UNDER THIS SECTION MAY NOT BE REQUIRED AS A CONDITION OF AN
- ADJOURNMENT IN CONTEMPLATION OF DISMISSAL UNDER SECTION  315.3  OF  THIS
+ determination of an appeal or appeals from such order has  been  against
+ the  presentment agency; PROVIDED, HOWEVER, THAT AN AGREEMENT TO PREVENT
+ EXPUNGEMENT UNDER THIS SECTION MAY NOT BE REQUIRED AS A CONDITION OF  AN
+ ADJOURNMENT  IN  CONTEMPLATION  OF DISMISSAL UNDER SECTION 315.3 OF THIS
  ARTICLE; or
   (d) the petition is dismissed without prejudice under subdivision four
- of  section  325.3  OF  THIS  ARTICLE and the presentment agency has not
- appealed from such order or the determination of an  appeal  or  appeals
+ of section 325.3 OF THIS ARTICLE and  the  presentment  agency  has  not
+ appealed  from  such  order or the determination of an appeal or appeals
  from such order has been against the presentment agency; or
-  (e)  the  entire  petition has been dismissed under subdivision two of
+  (e) the entire petition has been dismissed under  subdivision  two  of
  section 345.1 OF THIS ARTICLE; or
-  (f) the petition is dismissed under subdivision two of  section  352.1
+  (f)  the  petition is dismissed under subdivision two of section 352.1
  OF THIS PART; or
-  (g)  prior  to  the filing of a petition, the probation department has
+  (g) prior to the filing of a petition, the  probation  department  has
  adjusted the case or terminated the case without adjustment; or
-  (h) prior to the filing of a petition the presentment  agency  chooses
+  (h)  prior  to the filing of a petition the presentment agency chooses
  not to proceed to petition; or
-  (i)  the petition is dismissed pursuant to a motion made in accordance
+  (i) the petition is dismissed pursuant to a motion made in  accordance
  with subdivision eight, nine or ten of section 332.1 OF THIS ARTICLE; OR
-  (J) FOLLOWING AN ARREST, THE ARRESTING POLICE  AGENCY,  PRIOR  TO  THE
- FILING  OF  AN  ACCUSATORY  INSTRUMENT  IN  COURT, ELECTS NOT TO PROCEED
+  (J)  FOLLOWING  AN  ARREST,  THE ARRESTING POLICE AGENCY, PRIOR TO THE
+ FILING OF AN ACCUSATORY INSTRUMENT  IN  COURT,  ELECTS  NOT  TO  PROCEED
  FURTHER; OR
-  (K) THE RESPONDENT WAS ADJUDICATED FOR AN ACT THAT IF COMMITTED BY  AN
- ADULT  WOULD  CONSTITUTE  A  CRIME UNDER FORMER SECTIONS 221.15, 221.20,
+  (K)  THE RESPONDENT WAS ADJUDICATED FOR AN ACT THAT IF COMMITTED BY AN
+ ADULT WOULD CONSTITUTE A CRIME UNDER  FORMER  SECTIONS  221.15,  221.20,
  221.35, 221.40 OR 240.37 OR SECTION 240.36 OF THE PENAL LAW; OR
-  (L) THE RESPONDENT WAS ADJUDICATED FOR AN ACT THAT WAS COMMITTED  WHEN
- THE  RESPONDENT WAS UNDER THE AGE OF TWELVE, OTHER THAN THE ACTS ENUMER-
- ATED IN SUBPARAGRAPH (III)  OF  PARAGRAPH  (A)  OF  SUBDIVISION  ONE  OF
+  (L)  THE RESPONDENT WAS ADJUDICATED FOR AN ACT THAT WAS COMMITTED WHEN
+ THE RESPONDENT WAS UNDER THE AGE OF TWELVE, OTHER THAN THE ACTS  ENUMER-
+ ATED  IN  SUBPARAGRAPH  (III)  OF  PARAGRAPH  (A)  OF SUBDIVISION ONE OF
  SECTION 301.2 OF THIS ARTICLE.
   5. WHEN A PERSON WAS PREVIOUSLY ADJUDICATED DELINQUENT AS DESCRIBED IN
- PARAGRAPH  (K)  OR  (L)  OF  SUBDIVISION FOUR OF THIS SECTION, THE CHIEF
- ADMINISTRATIVE JUDGE OF THE STATE OF NEW YORK SHALL, IN ACCORDANCE  WITH
- THIS  SECTION,  AUTOMATICALLY  VACATE, DISMISS, AND EXPUNGE SUCH ADJUDI-
- CATION, AND THE OFFICE OF COURT ADMINISTRATION SHALL IMMEDIATELY  NOTIFY
- THE  STATE  DIVISION  OF  CRIMINAL JUSTICE SERVICES, DIRECTING THAT SUCH
- AGENCY NOTIFY ALL RELEVANT POLICE AND LAW ENFORCEMENT AGENCIES OF  THEIR
+ PARAGRAPH (K) OR (L) OF SUBDIVISION FOUR  OF  THIS  SECTION,  THE  CHIEF
+ ADMINISTRATIVE  JUDGE OF THE STATE OF NEW YORK SHALL, IN ACCORDANCE WITH
+ THIS SECTION, AUTOMATICALLY VACATE, DISMISS, AND  EXPUNGE  SUCH  ADJUDI-
+ CATION,  AND THE OFFICE OF COURT ADMINISTRATION SHALL IMMEDIATELY NOTIFY
+ THE STATE DIVISION OF CRIMINAL JUSTICE  SERVICES,  DIRECTING  THAT  SUCH
+ AGENCY  NOTIFY ALL RELEVANT POLICE AND LAW ENFORCEMENT AGENCIES OF THEIR
  DUTY TO DESTROY ALL RECORDS RELATED TO SUCH CASE.
-  [3.]  6.  Records  sealed  pursuant  to  subdivision one shall be made
- available to the respondent or his designated agent and the records  and
- papers  of  a  probation  service  shall  be  available to any probation
- service for the purpose of complying with subdivision  four  of  section
- 308.1 OF THIS ARTICLE.
- S. 3104  6
+ S. 3104--A  6
  
+  [3.] 6. Records sealed pursuant  to  subdivision  one  shall  be  made
+ available  to the respondent or his designated agent and the records and
+ papers of a probation  service  shall  be  available  to  any  probation
+ service  for  the  purpose of complying with subdivision four of section
+ 308.1 OF THIS ARTICLE.
   [4.]  7.  If  prior to the filing of a petition the presentment agency
  elects not to commence a delinquency action it  shall  serve  a  certif-
  ication  of  such disposition upon the appropriate probation service and
  the appropriate police department or law enforcement agency, which, upon
- receipt  [thereto]  THEREOF, shall comply with the provision of subdivi-
- sion one OF THIS SECTION in the same manner as is required with  respect
+ receipt [thereto] THEREOF, shall comply with the provision  of  subdivi-
+ sion  one OF THIS SECTION in the same manner as is required with respect
  to an order of the court.
-  [5.]  8.  If the probation service adjusts a delinquency case it shall
- serve a certification of such disposition upon  the  appropriate  police
- department  or law enforcement agency which, upon receipt thereof, shall
- comply with the provisions of subdivision one OF  THIS  SECTION  in  the
- same  manner  as  is  required  thereunder with respect to an order of a
+  [5.] 8. If the probation service adjusts a delinquency case  it  shall
+ serve  a  certification  of such disposition upon the appropriate police
+ department or law enforcement agency which, upon receipt thereof,  shall
+ comply  with  the  provisions  of subdivision one OF THIS SECTION in the
+ same manner as is required thereunder with respect  to  an  order  of  a
  court.
-  [6.] 9. A respondent in  whose  favor  a  delinquency  proceeding  was
- terminated  prior  to the effective date of this section may upon motion
- apply to the court, upon  not  less  than  twenty  days  notice  to  the
- presentment  agency,  for  an order granting him the relief set forth in
- subdivision one, and such order shall be granted unless the  presentment
- agency  demonstrates to the satisfaction of the court that the interests
- of justice require otherwise. A respondent in whose favor a  delinquency
- action  or proceeding was terminated as defined by subdivisions four and
- five, prior to the effective date of this  section,  may  apply  to  the
- appropriate  presentment agency or probation service for a certification
- as described in such subdivisions granting  him  the  relief  set  forth
- therein  and  such  certification  shall  be granted by such presentment
+  [6.]  9.  A  respondent  in  whose  favor a delinquency proceeding was
+ terminated prior to the effective date of this section may  upon  motion
+ apply  to  the  court,  upon  not  less  than  twenty days notice to the
+ presentment agency, for an order granting him the relief  set  forth  in
+ subdivision  one, and such order shall be granted unless the presentment
+ agency demonstrates to the satisfaction of the court that the  interests
+ of  justice require otherwise. A respondent in whose favor a delinquency
+ action or proceeding was terminated as defined by subdivisions four  and
+ five,  prior  to  the  effective  date of this section, may apply to the
+ appropriate presentment agency or probation service for a  certification
+ as  described  in  such  subdivisions  granting him the relief set forth
+ therein and such certification shall  be  granted  by  such  presentment
  agency or probation service.
-  10. THE CHIEF ADMINISTRATIVE JUDGE OF THE STATE OF NEW YORK SHALL,  IN
- ACCORDANCE  WITH THIS SECTION, AUTOMATICALLY EXPUNGE THE JUVENILE RECORD
- OF A RESPONDENT IN WHOSE FAVOR A DELINQUENCY PROCEEDING  WAS  TERMINATED
+  10.  THE CHIEF ADMINISTRATIVE JUDGE OF THE STATE OF NEW YORK SHALL, IN
+ ACCORDANCE WITH THIS SECTION, AUTOMATICALLY EXPUNGE THE JUVENILE  RECORD
+ OF  A  RESPONDENT IN WHOSE FAVOR A DELINQUENCY PROCEEDING WAS TERMINATED
  PRIOR TO THE EFFECTIVE DATE OF THIS SUBDIVISION, AND THE OFFICE OF COURT
- ADMINISTRATION  SHALL  IMMEDIATELY NOTIFY THE STATE DIVISION OF CRIMINAL
- JUSTICE SERVICES, DIRECTING THAT SUCH AGENCY NOTIFY ALL RELEVANT  POLICE
- AND  LAW  ENFORCEMENT  AGENCIES  OF  THEIR  DUTY  TO DESTROY ALL RECORDS
+ ADMINISTRATION SHALL IMMEDIATELY NOTIFY THE STATE DIVISION  OF  CRIMINAL
+ JUSTICE  SERVICES, DIRECTING THAT SUCH AGENCY NOTIFY ALL RELEVANT POLICE
+ AND LAW ENFORCEMENT AGENCIES  OF  THEIR  DUTY  TO  DESTROY  ALL  RECORDS
  RELATED TO SUCH CASE.
   § 4. Section 375.2 of the family court act, as added by chapter 920 of
- the laws of 1982, subdivision 6 as amended by section 77 of part WWW  of
- chapter  59  of  the laws of 2017, and subdivision 7 as added by chapter
+ the  laws of 1982, subdivision 6 as amended by section 77 of part WWW of
+ chapter 59 of the laws of 2017, and subdivision 7 as  added  by  chapter
  813 of the laws of 2021, is amended to read as follows:
-  § 375.2. Motion to [seal] EXPUNGE AND AUTOMATIC  EXPUNGEMENT  after  a
+  §  375.2.  Motion  to [seal] EXPUNGE AND AUTOMATIC EXPUNGEMENT after a
  finding. 1. If an action has resulted in a finding of delinquency pursu-
- ant  to  subdivision one of section 352.1 OF THIS ARTICLE, [other than a
- finding that the respondent committed  a  designated  felony  act,]  the
+ ant to subdivision one of section 352.1 OF THIS ARTICLE, [other  than  a
+ finding  that  the  respondent  committed  a designated felony act,] the
  court may, in the interest of justice and upon motion of the respondent,
- order  the  [sealing]  EXPUNGEMENT  of  appropriate  records pursuant to
+ order the [sealing]  EXPUNGEMENT  of  appropriate  records  pursuant  to
  subdivision one of section 375.1 OF THIS PART.
-  2. Such motion must be in writing and may be filed at any time  subse-
- quent  to the [entering of such finding] CONCLUSION OF THE PERIOD OF ANY
+  2.  Such motion must be in writing and may be filed at any time subse-
+ quent to the [entering of such finding] CONCLUSION OF THE PERIOD OF  ANY
  DISPOSITION, INCLUDING, BUT NOT LIMITED TO, THE EXPIRATION OF THE PERIOD
- OF PLACEMENT, CONDITIONAL  DISCHARGE,  ORDER  OF  PROTECTION,  ORDER  OF
+ OF  PLACEMENT,  CONDITIONAL  DISCHARGE,  ORDER  OF  PROTECTION, ORDER OF
  RESTITUTION, ORDER OF PROBATION OR ANY EXTENSION THEREOF. Notice of such
- motion  shall  be served upon the presentment agency not less than eight
- days prior to the return date of the motion. Answering affidavits  shall
- be  served  at least two days before such time.  THE COURT SHALL RULE ON
+ motion shall be served upon the presentment agency not less  than  eight
+ S. 3104--A  7
+ 
+ days  prior to the return date of the motion. Answering affidavits shall
+ be served at least two days before such time.  THE COURT SHALL  RULE  ON
  THE EXPUNGEMENT AFTER CONSIDERING THE FOLLOWING:
   (A) THE BEST INTERESTS OF THE PERSON;
- S. 3104  7
- 
-  (B) THE AGE OF THE PERSON DURING HIS OR HER CONTACT  WITH  THE  FAMILY
+  (B)  THE  AGE  OF THE PERSON DURING HIS OR HER CONTACT WITH THE FAMILY
  COURT OR LAW ENFORCEMENT AGENCY;
   (C) THE NATURE OF THE OFFENSE;
   (D) THE DISPOSITION OF THE CASE;
-  (E)  THE  MANNER IN WHICH THE PERSON PARTICIPATED IN ANY COURT ORDERED
+  (E) THE MANNER IN WHICH THE PERSON PARTICIPATED IN ANY  COURT  ORDERED
  REHABILITATIVE PROGRAMMING OR SUPERVISED SERVICES;
   (F) THE TIME DURING WHICH THE PERSON HAS BEEN WITHOUT CONTACT WITH THE
  JUVENILE COURT;
   (G) WHETHER THE PERSON HAS ANY SUBSEQUENT CRIMINAL CONVICTIONS; AND
-  (H) THE ADVERSE CONSEQUENCES THE PERSON WILL SUFFER  AS  A  RESULT  OF
+  (H)  THE  ADVERSE  CONSEQUENCES  THE PERSON WILL SUFFER AS A RESULT OF
  RETENTION OF HIS OR HER RECORD.
-  3.  The  court  shall  state on the record its reasons for granting or
+  3. The court shall state on the record its  reasons  for  granting  or
  denying the motion.
-  4. [If such motion is denied, it may not be renewed for  a  period  of
+  4.  [If  such  motion is denied, it may not be renewed for a period of
  one year, unless the order of denial permits renewal at an earlier time.
-  5.]  The court shall not order the [sealing] EXPUNGEMENT of any record
+  5.] The court shall not order the [sealing] EXPUNGEMENT of any  record
  except as prescribed by this section or section 375.1 OF THIS PART.
-  [6. Such a motion cannot be filed  until  the  respondent's  sixteenth
- birthday,  or,  commencing  October  first,  two  thousand eighteen, the
- respondent's seventeenth birthday,  or  commencing  October  first,  two
+  [6.  Such  a  motion  cannot be filed until the respondent's sixteenth
+ birthday, or, commencing  October  first,  two  thousand  eighteen,  the
+ respondent's  seventeenth  birthday,  or  commencing  October first, two
  thousand nineteen, the respondent's eighteenth birthday.
-  7.]  5.  Where  an  order  of fact-finding has been issued pursuant to
- subdivision one of section 345.1 of this article that includes solely  a
- violation  as defined in subdivision three of section 10.00 of the penal
+  7.] 5. Where an order of fact-finding  has  been  issued  pursuant  to
+ subdivision  one of section 345.1 of this article that includes solely a
+ violation as defined in subdivision three of section 10.00 of the  penal
  law committed by a juvenile sixteen years of age or, commencing on Octo-
- ber first, two thousand nineteen, seventeen years of  age,  the  records
- shall  be [sealed] EXPUNGED automatically at the expiration, as applica-
- ble, of a successful period of an  adjustment,  adjournment  in  contem-
+ ber  first,  two  thousand nineteen, seventeen years of age, the records
+ shall be [sealed] EXPUNGED automatically at the expiration, as  applica-
+ ble,  of  a  successful  period of an adjustment, adjournment in contem-
  plation of dismissal or conditional discharge.
-  6.  IF  AN ACTION HAS RESULTED IN A FINDING OF DELINQUENCY PURSUANT TO
- SUBDIVISION ONE OF SECTION 352.1 OF THIS ARTICLE, ALL  RECORDS  OF  SUCH
+  6. IF AN ACTION HAS RESULTED IN A FINDING OF DELINQUENCY  PURSUANT  TO
+ SUBDIVISION  ONE  OF  SECTION 352.1 OF THIS ARTICLE, ALL RECORDS OF SUCH
  ACTION  OR  PROCEEDING  NOT  ALREADY  EXPUNGED  SHALL  BE  AUTOMATICALLY
- EXPUNGED BY THE COURT UPON THE ATTAINMENT OF  THE  RESPONDENT'S  TWENTY-
+ EXPUNGED  BY  THE  COURT UPON THE ATTAINMENT OF THE RESPONDENT'S TWENTY-
  FIRST BIRTHDAY.
-  7.  IF EXPUNGEMENT IS OBTAINED AUTOMATICALLY OR BY MOTION, THE COURT
- SHALL ORDER ALL AGENCIES NAMED  IN  THE  JUVENILE  COURT  AND  PROBATION
- FILES, INCLUDING EACH LAW ENFORCEMENT AGENCY, OTHER STATE AGENCIES WHICH
- MAY HAVE RECORDS OF THE JUVENILE'S ADJUDICATION, DETENTION AND TREATMENT
- FACILITIES,  TO  SEND  THAT  PERSON'S  JUVENILE RECORD TO THE COURT. THE
- COURT SHALL THEN DESTROY THE PAPER AND ELECTRONIC RECORDS  AND  MAIL  AN
- AFFIDAVIT  OF  EXPUNGEMENT TO THE AGENCY. EACH AGENCY SHALL AFFIRM IN AN
- AFFIDAVIT OF EXPUNGEMENT TO THE COURT THAT IT DESTROYED  ALL  PAPER  AND
- ELECTRONIC COPIES OF THE EXPUNGED RECORDS.
-  8.  AN  AGREEMENT  BY THE RESPONDENT TO PREVENT EXPUNGEMENT UNDER THIS
- SECTION MAY NOT BE A CONDITION FOR THE RESPONDENT TO ENTER AN  ADMISSION
+  7. IF EXPUNGEMENT IS OBTAINED AUTOMATICALLY OR BY MOTION, THE CLERK OF
+ THE COURT SHALL NOTIFY THE COMMISSIONER  OF  THE  DIVISION  OF  CRIMINAL
+ JUSTICE SERVICES, THE ATTORNEY FOR THE CHILD, THE DIRECTOR OF THE APPRO-
+ PRIATE PRESENTMENT AGENCY, THE HEAD OF THE APPROPRIATE PROBATION DEPART-
+ MENT,  THE  HEADS OF ALL POLICE DEPARTMENTS AND LAW ENFORCEMENT AGENCIES
+ AND ALL OTHER AGENCIES NAMED IN THE COURT FILES, INCLUDING  OTHER  STATE
+ AGENCIES  WHICH  MAY  HAVE  RECORDS  OF  THE  JUVENILE'S  ADJUDICATION,
+ DETENTION, AND TREATMENT FACILITIES,  WHO  SHALL  DESTROY  SUCH  RECORDS
+ WITHOUT  UNNECESSARY  DELAY. EACH AGENCY SHALL AFFIRM IN AN AFFIDAVIT OF
+ EXPUNGEMENT TO THE COURT THAT IT  DESTROYED  ALL  PAPER  AND  ELECTRONIC
+ COPIES  OF  THE  EXPUNGED  RECORDS.  THE  DIVISION OF CRIMINAL JUSTICE
+ SERVICES SHALL NOTIFY THE AGENCY OR AGENCIES WHICH FORWARDED  ANY  JUVE-
+ NILE  RECORDS  OF  THEIR  OBLIGATION  TO  DESTROY THOSE RECORDS IN THEIR
+ POSSESSION.
+  8. AN AGREEMENT BY THE RESPONDENT TO PREVENT  EXPUNGEMENT  UNDER  THIS
+ SECTION  MAY NOT BE A CONDITION FOR THE RESPONDENT TO ENTER AN ADMISSION
  TO A REDUCED CHARGE PURSUANT TO SECTION 321.3 OF THIS ARTICLE.
+ S. 3104--A  8
+ 
   § 5. Section 381.2 of the family court act, as added by chapter 920 of
  the laws of 1982, subdivision 2 as amended by chapter 926 of the laws of
  1982, is amended to read as follows:
@@ -409,8 +419,6 @@ S T A T E  O F  N E W  Y O R K
  or to any officer thereof in any stage of the proceeding  is  admissible
  as  evidence  against  him  OR HER or his OR HER interests, in any other
  court.
- S. 3104  8
- 
   2. Notwithstanding the provisions of subdivision one OF THIS  SECTION,
  another  court,  in imposing sentence upon an adult after conviction may
  receive and consider the records and information on file with the family
@@ -458,6 +466,8 @@ S T A T E  O F  N E W  Y O R K
  ENFORCEMENT  FILES,  REPORTS,  EXHIBITS OR OTHER MATERIAL WHICH CONTAINS
  INFORMATION RELATING TO CONTACT WITH ANY LAW ENFORCEMENT AGENCY AND ALSO
  INCLUDES ELECTRONIC INFORMATION RECORDED AND  STORED  STEMMING  FROM  AN
+ S. 3104--A  9
+ 
  ARREST OR SUBSEQUENT INTERROGATIONS AND INTERVIEWS, AND SHALL ALSO APPLY
  TO  ANY INFORMATION THAT IS KEPT MANUALLY, THROUGH THE USE OF ELECTRONIC
  DATA PROCESSING EQUIPMENT, THROUGH ELECTRONIC RECORDING OR BY ANY  OTHER
