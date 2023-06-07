@@ -1,6 +1,6 @@
 # Relates to motions to vacate judgment; repealer
 
-**Bill ID:** A2878A
+**Bill ID:** A2878AA
 **Session:** 2023
 **Sponsor:** Jeffrion Aubry
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Relates to motions to vacate judgment; authorizes filing motions to vacate judgm
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2878
+  2878--A
+  Cal. No. 32
  
   2023-2024 Regular Sessions
  
@@ -30,42 +31,41 @@ S T A T E  O F  N E W  Y O R K
   SIMON,  GONZALEZ-ROJAS,  SEAWRIGHT,  CARROLL,  GALLAGHER,  DARLING,
   BURDICK,  CRUZ,  EPSTEIN, HUNTER, MEEKS, WEPRIN, KELLES, L. ROSENTHAL,
   OTIS, COOK, DINOWITZ, SEPTIMO, GIBBS, DICKENS, GLICK, DAVILA, HYNDMAN,
-  PRETLOW, RAMOS, TAPIA, LUNSFORD --  read  once  and  referred  to  the
-  Committee on Codes
+  PRETLOW, RAMOS, TAPIA, LUNSFORD, ARDILA, SIMONE, RAGA, SHIMSKY,  ALVA-
+  REZ, DE LOS SANTOS, BORES, LEVENBERG, WALKER -- read once and referred
+  to  the  Committee  on Codes -- advanced to a third reading, passed by
+  Assembly and delivered to the Senate, recalled from the  Senate,  vote
+  reconsidered,  bill amended, ordered reprinted, retaining its place on
+  the order of third reading
  
- AN  ACT  to  amend the criminal procedure law, in relation to motions to
+ AN ACT to amend the criminal procedure law, in relation  to  motions  to
   vacate judgment; and to repeal certain provisions of such law relating
   thereto
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The  criminal  procedure law is amended by adding two new
+  Section 1. The criminal procedure law is amended  by  adding  two  new
  sections 440.00 and 440.11 to read as follows:
  § 440.00 DEFINITION.
   AS USED IN THIS ARTICLE, THE TERM "APPLICANT" MEANS A PERSON PREVIOUS-
  LY CONVICTED OF A CRIME WHO IS APPLYING FOR RELIEF UNDER THIS ARTICLE.
  § 440.11 MOTION TO VACATE JUDGMENT; CHANGE IN THE LAW.
-  1. AT ANY TIME AFTER THE ENTRY OF A JUDGMENT OBTAINED AT TRIAL  OR  BY
- PLEA,  THE  COURT IN WHICH IT WAS ENTERED MAY, UPON MOTION OF THE APPLI-
- CANT, VACATE SUCH JUDGMENT UPON THE GROUND THAT:
-  (A) THE APPLICANT WAS CONVICTED OF ANY OFFENSE IN  THE  STATE  OF  NEW
- YORK  WHICH  HAS  BEEN  SUBSEQUENTLY  DECRIMINALIZED AND IS THUS A LEGAL
- NULLITY.
-  (B) THERE HAS BEEN A CHANGE, WHETHER SUBSTANTIVE OR PROCEDURAL, IN THE
- LAW OR LAWS APPLIED IN THE PROCESS LEADING TO THE APPLICANT'S CONVICTION
- WHERE SUFFICIENT REASON EXISTS TO ALLOW RETROACTIVE APPLICATION  OF  THE
- CHANGED LEGAL STANDARD.
-  2. IF THE COURT GRANTS A MOTION UNDER THIS SECTION, IT MUST VACATE THE
- JUDGMENT  ON  THE  MERITS,  DISMISS  THE ACCUSATORY INSTRUMENT, SEAL THE
-
+  1.  AT  ANY TIME AFTER THE ENTRY OF A JUDGMENT OBTAINED AT TRIAL OR BY
+ PLEA, THE COURT IN WHICH IT WAS ENTERED MAY, UPON MOTION OF  THE  APPLI-
+ CANT,  VACATE  SUCH  CONVICTION  UPON  THE GROUND THAT THE APPLICANT WAS
+ CONVICTED OF ANY OFFENSE IN THE STATE OF NEW YORK WHICH HAS BEEN  SUBSE-
+ QUENTLY DECRIMINALIZED AND IS THUS A LEGAL NULLITY.
+  2.  IF  THE  COURT GRANTS A MOTION UNDER THIS SECTION, IT SHALL VACATE
+ THE CONVICTION ON THE MERITS, DISMISS THE  ACCUSATORY  INSTRUMENT,  SEAL
+ THE CONVICTION, AND MAY TAKE SUCH ADDITIONAL ACTION AS IS APPROPRIATE IN
+ THE CIRCUMSTANCES.
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00806-01-3
- A. 2878  2
+  LBD00806-05-3
+ A. 2878--A  2
  
- JUDGMENT, AND MAY TAKE SUCH ADDITIONAL ACTION AS IS APPROPRIATE  IN  THE
- CIRCUMSTANCES.
   §  2. Section 440.10 of the criminal procedure law, paragraph (g-1) of
  subdivision 1 as added by chapter 19 of the laws of 2012, paragraph  (h)
  of  subdivision  1,  paragraph (a) of subdivision 3 and subdivision 4 as
@@ -86,44 +86,45 @@ S T A T E  O F  N E W  Y O R K
   (b) The judgment was procured by duress, misrepresentation or fraud on
  the part of the court or a prosecutor or  a  person  acting  for  or  in
  behalf of a court or a prosecutor; or
-  (c)  [Material  evidence] EVIDENCE adduced at a trial resulting in the
- judgment OR THAT WAS RELIED UPON BY ANY PARTY AS  A  BASIS  FOR  A  PLEA
- AGREEMENT  was false [and was, prior to the entry of the judgment, known
- by the prosecutor or by the court to be false]; or
-  (d) [Material evidence] EVIDENCE adduced by  the  people  at  a  trial
- resulting  in  the  judgment  OR  THAT WAS RELIED UPON BY ANY PARTY AS A
- BASIS FOR A PLEA AGREEMENT was procured in  violation  of  the  [defend-
- ant's] APPLICANT'S rights under the constitution of this state or of the
- United States; or
-  (e)  During the proceedings resulting in the judgment, the [defendant]
- APPLICANT, by reason of mental  disease  or  defect,  was  incapable  of
+  (c)  [Material  evidence  adduced at a trial] EVIDENCE THAT WAS LIKELY
+ RELIED UPON BY A FACT FINDER resulting in the judgment AT TRIAL OR  THAT
+ WAS  LIKELY RELIED UPON BY ANY PARTY AS A BASIS FOR A PLEA AGREEMENT was
+ false [and was, prior to the entry of the judgment, known by the  prose-
+ cutor or by the court to be false]; or
+  (d) [Material evidence adduced by the people at a trial] EVIDENCE THAT
+ WAS  LIKELY  RELIED  UPON  BY A FACT FINDER resulting in the judgment AT
+ TRIAL OR THAT WAS LIKELY RELIED UPON BY ANY PARTY AS A BASIS FOR A  PLEA
+ AGREEMENT  was  procured  in  violation of the [defendant's] APPLICANT'S
+ rights under the constitution of this state or of the United States; or
+  (e) During the proceedings resulting in the judgment, the  [defendant]
+ APPLICANT,  by  reason  of  mental  disease  or defect, was incapable of
  understanding or participating in such proceedings; or
-  (f)  Improper  [and  prejudicial]  conduct not appearing in the record
- occurred during a trial resulting in the judgment which conduct,  if  it
- had  appeared  in  the  record,  would  have  [required] MADE POSSIBLE a
+  (f) Improper [and prejudicial] conduct not  appearing  in  the  record
+ occurred  during  a trial resulting in the judgment which conduct, if it
+ had appeared in the  record,  would  have  [required]  MADE  POSSIBLE  a
  reversal of the judgment upon an appeal therefrom; or
-  (g) New evidence has been discovered [since the entry  of  a  judgment
- based  upon  a  verdict of guilty after trial, which could not have been
- produced by the defendant at the trial even with due  diligence  on  his
- part  and  which]  OR  BECOME  AVAILABLE THAT, WHEN VIEWED ALONE OR WITH
+  (g)  New  evidence  has been discovered [since the entry of a judgment
+ based upon a verdict of guilty after trial, which could  not  have  been
+ produced  by  the  defendant at the trial even with due diligence on his
+ part and which] OR BECOME AVAILABLE THAT,  WHEN  VIEWED  ALONE  OR  WITH
  OTHER EVIDENCE, is of such character as to create a REASONABLE probabil-
- ity that had such evidence been received  at  the  trial  OR  DISCOVERED
- PRIOR  TO  TRIAL  OR  PLEA AGREEMENT THAT the verdict OR PLEA would have
+ ity  that  had  such  evidence  been received at the trial OR DISCOVERED
+ PRIOR TO TRIAL OR PLEA AGREEMENT THAT the verdict  OR  PLEA  would  have
  been more favorable to the [defendant; provided that a motion based upon
- such ground must be made with due diligence after the discovery of  such
- alleged  new  evidence]  APPLICANT. TYPES OF NEW EVIDENCE SHALL INCLUDE,
+ such  ground must be made with due diligence after the discovery of such
+ alleged new evidence] APPLICANT. TYPES OF NEW  EVIDENCE  SHALL  INCLUDE,
  BUT NOT BE LIMITED TO NEWLY AVAILABLE FORENSIC EVIDENCE OR EVIDENCE THAT
- HAS EITHER BEEN REPUDIATED BY THE EXPERT  WHO  ORIGINALLY  PROVIDED  THE
- OPINION  AT  A  HEARING  OR  TRIAL  OR THAT HAS BEEN UNDERMINED BY LATER
+ HAS  EITHER  BEEN  REPUDIATED  BY THE EXPERT WHO ORIGINALLY PROVIDED THE
+ OPINION AT A HEARING OR TRIAL OR  THAT  HAS  BEEN  UNDERMINED  BY  LATER
  SCIENTIFIC RESEARCH OR TECHNOLOGICAL ADVANCES; or
-  (g-1) [Forensic DNA]  IN  CASES  INVOLVING  THE  FORENSIC  testing  of
- evidence  performed since the entry of a judgment, [(1) in the case of a
- defendant convicted after a guilty plea, the court has  determined  that
- the  defendant  has  demonstrated  a  substantial  probability  that the
- A. 2878  3
+  (g-1)  [Forensic  DNA]  IN  CASES  INVOLVING  THE  FORENSIC testing of
+ evidence performed since the entry of a judgment, [(1) in the case of  a
+ defendant  convicted  after a guilty plea, the court has determined that
+ the defendant  has  demonstrated  a  substantial  probability  that  the
+ defendant  was  actually  innocent of the offense of which he or she was
+ A. 2878--A  3
 
- defendant was actually innocent of the offense of which he  or  she  was
- convicted,  or  (2) in the case of a defendant convicted after a trial,]
+ convicted, or (2) in the case of a defendant convicted after  a  trial,]
  the court has determined that there exists a reasonable probability that
  the verdict OR PLEA OFFER would have been more favorable to the [defend-
  ant] APPLICANT, OR THE APPLICANT WOULD HAVE REJECTED THE PLEA OFFER.
@@ -162,141 +163,124 @@ S T A T E  O F  N E W  Y O R K
  into one proceeding a motion to vacate judgments imposed by distinct  or
  multiple criminal courts; or
   (j)  The  judgment is a conviction for [a class A or unclassified] ANY
- misdemeanor entered prior to the effective date of this  paragraph  [and
- satisfies  the  ground  prescribed in paragraph (h) of this subdivision]
- THAT RESULTED IN ONGOING COLLATERAL CONSEQUENCES, INCLUDING POTENTIAL OR
- ACTUAL IMMIGRATION CONSEQUENCES.  There shall be a  rebuttable  presump-
- tion  that  a  conviction  by  plea  to such an offense was not knowing,
- voluntary and intelligent, [based on  ongoing  collateral  consequences,
- including  potential  or actual immigration consequences, and there] AND
- THUS RENDERED THE PLEA CONSTITUTIONALLY DEFECTIVE PURSUANT TO  PARAGRAPH
- (H) OF THIS SUBDIVISION.  THERE shall be a rebuttable presumption that a
- conviction  by  verdict TO SUCH AN OFFENSE constitutes cruel and unusual
- punishment under section five of article one of the  state  constitution
- based  on  such  consequences  AND  THUS  RENDERED THE VERDICT CONSTITU-
- TIONALLY DEFECTIVE PURSUANT TO PARAGRAPH (H) OF THIS SUBDIVISION; or
-  (J-1) THE JUDGMENT IS A CONVICTION FOR A CLASS D OR E  FELONY  ENTERED
- PRIOR  TO  THE  EFFECTIVE  DATE OF THIS PARAGRAPH FOR WHICH THE SENTENCE
- IMPOSED WAS ONE YEAR, AND SUCH SENTENCE RESULTED IN  ONGOING  COLLATERAL
- A. 2878  4
+ misdemeanor entered prior to the effective date of  this  paragraph  and
+ satisfies  the  ground  prescribed in paragraph (h) of this subdivision.
+ There shall be a rebuttable presumption that a  conviction  by  plea  to
+ such  an  offense  was  not knowing, voluntary and intelligent, based on
+ ongoing collateral consequences, including  potential  or  actual  immi-
+ gration consequences, and there shall be a rebuttable presumption that a
+ conviction  by  verdict  constitutes  cruel and unusual punishment under
+ section five of article one of the  state  constitution  based  on  such
+ consequences; or
+  (k)  The  judgment occurred prior to the effective date of the laws of
+ two thousand [twenty-one] TWENTY-THREE that amended this  paragraph  and
+ is  a  conviction  for an offense as defined in [subparagraphs] SUBPARA-
+ GRAPH (i), (ii), (iii) or (iv) of paragraph (k) of subdivision three  of
+ section  160.50  of this part, OR A MISDEMEANOR UNDER THE FORMER ARTICLE
+ TWO HUNDRED TWENTY-ONE OF THE PENAL LAW, in which case the  court  shall
+ presume  that  a  conviction by plea for the aforementioned offenses was
+ not knowing, voluntary and intelligent  if  it  has  severe  or  ongoing
+ A. 2878--A  4
  
- CONSEQUENCES,  INCLUDING  POTENTIAL  OR ACTUAL IMMIGRATION CONSEQUENCES.
- THERE SHALL BE A REBUTTABLE PRESUMPTION THAT A  CONVICTION  BY  PLEA  TO
- SUCH  AN  OFFENSE  WAS  NOT KNOWING, VOLUNTARY AND INTELLIGENT, AND THUS
- RENDERED  THE  PLEA CONSTITUTIONALLY DEFECTIVE PURSUANT TO PARAGRAPH (H)
- OF THIS SUBDIVISION. THERE SHALL BE  A  REBUTTABLE  PRESUMPTION  THAT  A
- CONVICTION  BY  VERDICT TO SUCH AN OFFENSE CONSTITUTES CRUEL AND UNUSUAL
- PUNISHMENT UNDER SECTION FIVE OF ARTICLE ONE OF THE  STATE  CONSTITUTION
- BASED  ON  SUCH  CONSEQUENCES,  AND  THUS RENDERED THE VERDICT CONSTITU-
- TIONALLY DEFECTIVE PURSUANT TO PARAGRAPH (H) OF THIS SUBDIVISION; OR
-  (k) The judgment occurred prior to the effective date of the  laws  of
- two  thousand  [twenty-one] TWENTY-THREE that amended this paragraph and
- is a conviction for an offense as defined  in  [subparagraphs]  SUBPARA-
- GRAPH  (i), (ii), (iii) or (iv) of paragraph (k) of subdivision three of
- section 160.50 of this part, OR A MISDEMEANOR UNDER THE  FORMER  ARTICLE
- TWO  HUNDRED  TWENTY-ONE OF THE PENAL LAW, in which case the court shall
- presume that a conviction by plea for the  aforementioned  offenses  was
- not  knowing,  voluntary  and  intelligent  if  it has severe or ongoing
- consequences, including but not limited to  potential  or  actual  immi-
+ consequences,  including  but  not  limited to potential or actual immi-
  gration consequences, and shall presume that a conviction by verdict for
- the  aforementioned  offenses  constitutes  cruel and unusual punishment
- under section five of article one of the state  constitution,  based  on
+ the aforementioned offenses constitutes  cruel  and  unusual  punishment
+ under  section  five  of article one of the state constitution, based on
  those consequences. The people may rebut these presumptions[.]; OR
-  (L)  ANY  OFFENSE IN THE STATE OF NEW YORK THAT AN INTERMEDIATE APPEL-
- LATE COURT, COURT OF APPEALS, OR UNITED STATES FEDERAL COURT HAS  DEEMED
- IN  VIOLATION OF THE CONSTITUTION OF THIS STATE OR OF THE UNITED STATES,
- OR ANY OTHER RIGHT UNDER STATE OR FEDERAL LAW.
+  (L) ANY OFFENSE IN THE STATE OF NEW YORK THAT AN  INTERMEDIATE  APPEL-
+ LATE COURT, COURT OF APPEALS, OR UNITED STATES FEDERAL COURT WITH JURIS-
+ DICTION  OVER  NEW  YORK STATE LAW ISSUES HAS DEEMED IN VIOLATION OF THE
+ CONSTITUTION OF THIS STATE OR OF THE UNITED STATES, OR ANY  OTHER  RIGHT
+ UNDER STATE OR FEDERAL LAW.
   2. Notwithstanding the provisions of subdivision one, the court [must]
  MAY deny a motion to vacate a judgment when:
-  (a) The ground or issue raised upon the motion was  previously  deter-
- mined  on  the merits upon an appeal from the judgment, unless since the
- time of such appellate determination  there  has  been  a  retroactively
- effective  change  in the law controlling such issue. HOWEVER, IF ALL OF
- THE EVIDENCE CURRENTLY BEFORE THE COURT WAS NOT DULY  CONSIDERED  PREVI-
- OUSLY  BY THE COURT, THE COURT SHALL GRANT THE MOTION OR ORDER THE HEAR-
+  (a)  The  ground or issue raised upon the motion was previously deter-
+ mined on the merits upon an appeal from the judgment, unless  since  the
+ time  of  such  appellate  determination  there has been a retroactively
+ effective change in the law controlling such issue. HOWEVER, IF  ALL  OF
+ THE  EVIDENCE  CURRENTLY BEFORE THE COURT WAS NOT DULY CONSIDERED PREVI-
+ OUSLY BY THE COURT, THE COURT SHALL GRANT THE MOTION OR ORDER THE  HEAR-
  ING; or
-  (b) The judgment is, at the time of the motion, appealable or  pending
+  (b)  The judgment is, at the time of the motion, appealable or pending
  on appeal, and sufficient facts appear on the record with respect to the
  ground or issue raised upon the motion to permit adequate review thereof
  upon such an appeal unless the issue raised upon such motion is ineffec-
- tive  assistance  of counsel. This paragraph shall not apply to a motion
+ tive assistance of counsel. This paragraph shall not apply to  a  motion
  under paragraph (i), (J), (K) OR (L) of subdivision one of this section;
  or
   (c) [Although sufficient facts appear on the record of the proceedings
- underlying the judgment to have permitted, upon appeal from  such  judg-
- ment,  adequate review of the ground or issue raised upon the motion, no
+ underlying  the  judgment to have permitted, upon appeal from such judg-
+ ment, adequate review of the ground or issue raised upon the motion,  no
  such appellate review or determination occurred owing to the defendant's
  unjustifiable failure to take or perfect an appeal during the prescribed
- period or to his or her unjustifiable failure to raise  such  ground  or
- issue  upon  an appeal actually perfected by him or her unless the issue
+ period  or  to  his or her unjustifiable failure to raise such ground or
+ issue upon an appeal actually perfected by him or her unless  the  issue
  raised upon such motion is ineffective assistance of counsel; or
-  (d)] The ground or issue raised relates solely to the validity of  the
- sentence  and  not to the validity of the conviction.  IN SUCH CASE, THE
+  (d)]  The ground or issue raised relates solely to the validity of the
+ sentence and not to the validity of the conviction. IN  SUCH  CASE,  THE
  COURT SHALL DEEM THE MOTION TO HAVE BEEN MADE PURSUANT TO SECTION 440.20
  OF THIS ARTICLE.
-  [3. Notwithstanding the provisions of subdivision one, the  court  may
+  [3.  Notwithstanding  the provisions of subdivision one, the court may
  deny a motion to vacate a judgment when:
- A. 2878  5
-
-  (a)  Although  facts in support of the ground or issue raised upon the
- motion could with due diligence by the defendant have readily been  made
- to  appear on the record in a manner providing adequate basis for review
- of such ground or issue upon an appeal from the judgment, the  defendant
- unjustifiably  failed  to  adduce  such matter prior to sentence and the
+  (a) Although facts in support of the ground or issue raised  upon  the
+ motion  could with due diligence by the defendant have readily been made
+ to appear on the record in a manner providing adequate basis for  review
+ of  such ground or issue upon an appeal from the judgment, the defendant
+ unjustifiably failed to adduce such matter prior  to  sentence  and  the
  ground or issue in question was not subsequently determined upon appeal.
- This paragraph does not apply to a motion based upon deprivation of  the
- right  to  counsel  at  the  trial or upon failure of the trial court to
- advise the defendant of such right, or to a motion under  paragraph  (i)
+ This  paragraph does not apply to a motion based upon deprivation of the
+ right to counsel at the trial or upon failure  of  the  trial  court  to
+ advise  the  defendant of such right, or to a motion under paragraph (i)
  of subdivision one of this section; or
-  (b)  The  ground or issue raised upon the motion was previously deter-
+  (b) The ground or issue raised upon the motion was  previously  deter-
  mined on the merits upon a prior motion or proceeding in a court of this
- state, other than an appeal from the  judgment,  or  upon  a  motion  or
- proceeding  in  a  federal court; unless since the time of such determi-
- nation there has been  a  retroactively  effective  change  in  the  law
+ state,  other  than  an  appeal  from  the judgment, or upon a motion or
+ proceeding in a federal court; unless since the time  of  such  determi-
+ nation  there  has  been  a  retroactively  effective  change in the law
  controlling such issue; or
-  (c)  Upon a previous motion made pursuant to this section, the defend-
+ A. 2878--A  5
+
+  (c) Upon a previous motion made pursuant to this section, the  defend-
  ant was in a position adequately to raise the ground or issue underlying
  the present motion but did not do so.]
-  (D) Although the court may deny the motion under any  of  the  circum-
- stances  specified  in  this subdivision, in the interest of justice and
- for good cause shown it may in its discretion grant the motion if it  is
+  (D)  Although  the  court may deny the motion under any of the circum-
+ stances specified in this subdivision, in the interest  of  justice  and
+ for  good cause shown it may in its discretion grant the motion if it is
  otherwise meritorious and vacate the judgment.
   [4.] 3. If the court grants the motion, it must, except as provided in
- subdivision  [five] FOUR or [six] FIVE of this section, vacate the judg-
+ subdivision [five] FOUR or [six] FIVE of this section, vacate the  judg-
  ment, and must EITHER:
   (A) dismiss AND SEAL the accusatory instrument, or
   (B) order a new trial, or
   (C) take such other action as is appropriate in the circumstances.
-  [5.] 4. Upon granting the motion upon the  ground,  as  prescribed  in
+  [5.]  4.  Upon  granting  the motion upon the ground, as prescribed in
  paragraph (g) of subdivision one, that newly discovered evidence creates
- a  probability  that  had  such  evidence been received at the trial the
- verdict would have been more favorable to the [defendant]  APPLICANT  in
- that  the  conviction  would have been for a lesser offense than the one
+ a probability that had such evidence been  received  at  the  trial  the
+ verdict  would  have been more favorable to the [defendant] APPLICANT in
+ that the conviction would have been for a lesser offense  than  the  one
  contained in the verdict, the court may either:
   (a) Vacate the judgment and order a new trial; or
   (b) With the consent of the people, modify the judgment by reducing it
- to one of conviction for such lesser offense. In such  case,  the  court
+ to  one  of  conviction for such lesser offense. In such case, the court
  must re-sentence the [defendant] APPLICANT accordingly.
-  [6.]  5.  If  the court grants a motion under [paragraph (i) or] para-
- graph [(k)] (H), (I), (J),  (K)  OR  (L)  of  subdivision  one  of  this
- section,  it  must  vacate the judgment [and] ON THE MERITS, dismiss the
- accusatory instrument, SEAL THE JUDGMENT, and may take  such  additional
- action  as is appropriate in the circumstances. [In the case of a motion
- granted under paragraph (i) of subdivision  one  of  this  section,  the
- court  must  vacate  the  judgment on the merits because the defendant's
- participation in the offense was a result of having  been  a  victim  of
+  [6.] 5. If the court grants a motion under [paragraph  (i)  or]  para-
+ graph  [(k)]  (H),  (I),  (J),  (K)  OR  (L)  of subdivision one of this
+ section, it must vacate the judgment [and] ON THE  MERITS,  dismiss  the
+ accusatory  instrument,  SEAL THE JUDGMENT, and may take such additional
+ action as is appropriate in the circumstances. [In the case of a  motion
+ granted  under  paragraph  (i)  of  subdivision one of this section, the
+ court must vacate the judgment on the  merits  because  the  defendant's
+ participation  in  the  offense  was a result of having been a victim of
  trafficking.
-  7.]  6.  Upon  a new trial resulting from an order vacating a judgment
- pursuant to this section, the indictment is deemed to  contain  all  the
- counts  and to charge all the offenses which it contained and charged at
- the time the previous trial was commenced,  regardless  of  whether  any
+  7.] 6. Upon a new trial resulting from an order  vacating  a  judgment
+ pursuant  to  this  section, the indictment is deemed to contain all the
+ counts and to charge all the offenses which it contained and charged  at
+ the  time  the  previous  trial was commenced, regardless of whether any
  count was dismissed by the court in the course of such trial, except (a)
  those upon or of which the [defendant] APPLICANT was acquitted or deemed
- to  have  been  acquitted, and (b) those dismissed by the order vacating
- the judgment, and (c) those previously dismissed by an  appellate  court
- A. 2878  6
- 
- upon  an appeal from the judgment, or by any court upon a previous post-
+ to have been acquitted, and (b) those dismissed by  the  order  vacating
+ the  judgment,  and (c) those previously dismissed by an appellate court
+ upon an appeal from the judgment, or by any court upon a previous  post-
  judgment motion.
   [8.]  7.  Upon  an order which vacates a judgment based upon a plea of
  guilty to an accusatory instrument or a part thereof, but which does not
@@ -312,33 +296,18 @@ S T A T E  O F  N E W  Y O R K
  accusatory instrument underlying the judgment vacated but also of one or
  more other accusatory instruments against the [defendant] APPLICANT then
  pending in the same court, the order  of  vacation  completely  restores
+ A. 2878--A  6
+ 
  such other accusatory instruments; and such is the case even though such
  order dismisses the main accusatory instrument underlying the judgment.
   [9.]  8. Upon granting of a motion pursuant to paragraph (j) of subdi-
- vision one of this section, the court [may] MUST VACATE THE JUDGMENT AND
- MAY, IN ADDITION TO THE REMEDIES IN SUBDIVISION THREE OF  THIS  SECTION,
- either:
-  (a)  With  the  consent of the people, [vacate the judgment or] modify
- the judgment by reducing it to one of conviction for a lesser offense OR
- ALLOW THE APPLICANT TO REPLEAD TO  A  DISPOSITION  AGREED  UPON  BY  THE
- PARTIES; or
-  (b)  [Vacate  the judgment and order a new trial wherein the defendant
- enters] PERMIT THE APPLICANT TO ENTER a plea to  the  same  offense  [in
- order  to  permit the court to] AND resentence the [defendant] APPLICANT
- in accordance with the amendatory provisions  of  subdivision  one-a  of
- section 70.15 of the penal law.
-  9.  UPON GRANTING OF A MOTION PURSUANT TO PARAGRAPH J-1 OF SUBDIVISION
- ONE OF THIS SECTION, THE COURT MUST VACATE THE JUDGMENT AND  PERMIT  THE
- APPLICANT  TO  ENTER  A  PLEA TO THE SAME OFFENSE IN ORDER TO PERMIT THE
- COURT TO RESENTENCE THE APPLICANT TO THREE HUNDRED SIXTY-FOUR DAYS.
-  10. NOTWITHSTANDING ANY OTHER PROVISION OF  THIS  SECTION,  THE  COURT
- MUST ORDER A HEARING AND ADDRESS THE MERITS OF ANY CLAIM FOR RELIEF WHEN
- THE  APPLICANT  ASSERTS  THAT, IN LIGHT OF ALL AVAILABLE EVIDENCE, THERE
- EXISTS A COLORABLE CLAIM THAT HE OR SHE IS ACTUALLY INNOCENT.  WHEN  THE
- APPLICANT  RAISES  AN ACTUAL INNOCENCE CLAIM BASED ON, IN WHOLE OR PART,
- NEW EVIDENCE OF ACTUAL INNOCENCE, THE COURT MAY NOT SUMMARILY  DENY  THE
- MOTION  ON  THE  GROUND  THAT  THE APPLICANT PREVIOUSLY MOVED FOR RELIEF
- UNDER THIS ARTICLE.
+ vision one of this section, the court may either:
+  (a) With the consent of the people, vacate the judgment or modify  the
+ judgment by reducing it to one of conviction for a lesser offense; or
+  (b)  Vacate the judgment and order a new trial wherein the [defendant]
+ APPLICANT enters a plea to the same offense in order to permit the court
+ to resentence the [defendant] APPLICANT in accordance with the amendato-
+ ry provisions of subdivision one-a of section 70.15 of the penal law.
   § 3. Section 440.20 of the criminal procedure law,  subdivision  1  as
  amended by chapter 1 of the laws of 1995, is amended to read as follows:
  § 440.20 Motion to set aside sentence; by [defendant] APPLICANT.
@@ -352,8 +321,6 @@ S T A T E  O F  N E W  Y O R K
  set  forth  in paragraph (b), (c), (f), (g) or (h) of subdivision one of
  section 440.10 as applied to  a  separate  sentencing  proceeding  under
  section  400.27,  provided,  however,  that  to the extent the ground or
- A. 2878  7
- 
  grounds asserted include one or more  of  the  aforesaid  paragraphs  of
  subdivision  one  of section 440.10, the court must also apply [subdivi-
  sions] SUBDIVISION two [and three] of section 440.10, other  than  para-
@@ -387,88 +354,88 @@ S T A T E  O F  N E W  Y O R K
  GOOD CAUSE SHOWN MAY GRANT THE MOTION IF IT IS OTHERWISE MERITORIOUS.
   3.  [Notwithstanding the provisions of subdivision one, the court may
  deny such a motion when the ground or issue raised thereupon was  previ-
+ A. 2878--A  7
+
  ously  determined  on  the merits upon a prior motion or proceeding in a
  court of this state, other than an appeal from the judgment, or  upon  a
  prior  motion or proceeding in a federal court, unless since the time of
- such determination there has been a retroactively  effective  change  in
- the  law  controlling such issue.  Despite such determination, however,
- the court in the interest of justice and for good cause  shown,  may  in
+ such  determination  there  has been a retroactively effective change in
+ the law controlling such issue.  Despite such  determination,  however,
+ the  court  in  the interest of justice and for good cause shown, may in
  its discretion grant the motion if it is otherwise meritorious.
-  4.]  An order setting aside a sentence pursuant to this section does
- not affect the validity or status  of  the  underlying  conviction,  and
- after  entering  such an order the court must resentence the [defendant]
+  4.]  An order setting aside a sentence pursuant to this  section  does
+ not  affect  the  validity  or  status of the underlying conviction, and
+ after entering such an order the court must resentence  the  [defendant]
  APPLICANT in accordance with the law.
-  § 4. Section 440.30 of the criminal procedure law, subdivisions 1  and
- 1-a  as  amended by chapter 19 of the laws of 2012 and the opening para-
+  §  4. Section 440.30 of the criminal procedure law, subdivisions 1 and
+ 1-a as amended by chapter 19 of the laws of 2012 and the  opening  para-
  graph of paragraph (b) of subdivision 1 as amended by section 10 of part
  LLL of chapter 59 of the laws of 2019, is amended to read as follows:
  § 440.30 Motion to vacate judgment and to set aside sentence; procedure.
-  1. (a) [A] AN APPLICATION FOR A motion to vacate a  judgment  pursuant
- to  section 440.10 OR 440.11 of this article and a motion to set aside a
- sentence pursuant to section 440.20 of this  article  must  be  made  in
- writing  BY  THE  APPLICANT OR THEIR COUNSEL TO THE JUDGE OR JUSTICE WHO
- IMPOSED THE ORIGINAL SENTENCE and upon reasonable notice to the  people.
- [Upon  the motion, a defendant] IF, AT THE TIME OF SUCH PERSON'S REQUEST
- TO APPLY FOR RELIEF PURSUANT TO THIS ARTICLE,  THE  ORIGINAL  SENTENCING
- A. 2878  8
+  1.  [(a)  A]  AN APPLICATION FOR ASSIGNMENT OF COUNSEL FOR A motion to
+ vacate a judgment pursuant to section 440.10 OR 440.11 of  this  article
+ and  a motion to set aside a sentence pursuant to section 440.20 of this
+ article must be made in writing BY A PRO SE APPLICANT TO  THE  JUDGE  OR
+ JUSTICE  WHO IMPOSED THE ORIGINAL SENTENCE and upon reasonable notice to
+ the people. [Upon the motion, a defendant]
+  (A) THE COURT SHALL ASSIGN DEFENSE COUNSEL IN CASES WHERE THERE  IS  A
+ COLORABLE  CLAIM OF RELIEF ACCORDING TO THIS ARTICLE, IN ACCORDANCE WITH
+ SECTION SEVEN HUNDRED TWENTY-TWO OF THE COUNTY LAW. FOR THE  PURPOSE  OF
+ THIS  SECTION,  A  COLORABLE  CLAIM  IS  A  CLAIM THAT, TAKING THE FACTS
+ ALLEGED IN THE APPLICATION AS TRUE AND VIEWED IN A LIGHT MOST  FAVORABLE
+ TO THE APPLICANT, WOULD ENTITLE THE APPLICANT TO RELIEF.
+  (B)  IF  THE JUDGE DECIDES NOT TO ASSIGN COUNSEL, THEY SHALL STATE THE
+ REASONS FOR DENYING THE REQUEST FOR ASSIGNMENT OF COUNSEL IN WRITING.
+  (C) IF, AT THE TIME OF SUCH  APPLICANT'S  REQUEST  FOR  ASSIGNMENT  OF
+ COUNSEL, THE ORIGINAL SENTENCING JUDGE OR JUSTICE NO LONGER WORKS IN THE
+ COURT IN WHICH THE ORIGINAL SENTENCE WAS IMPOSED, THEN THE REQUEST SHALL
+ BE  RANDOMLY  ASSIGNED TO ANOTHER JUDGE OR JUSTICE OF THE COURT IN WHICH
+ THE ORIGINAL SENTENCE WAS IMPOSED.
+  (D) APPLICANTS ALREADY REPRESENTED BY COUNSEL, EITHER APPOINTED PURSU-
+ ANT TO SECTION SEVEN HUNDRED TWENTY-TWO OF THE COUNTY LAW  OR  OTHERWISE
+ RETAINED,  ARE  NOT  REQUIRED  TO  FILE AN APPLICATION FOR ASSIGNMENT OF
+ COUNSEL.
+  2. UPON THE REQUEST OF THE APPLICANT OR HIS OR  HER  DEFENSE  COUNSEL,
+ THE COURT SHALL ORDER:
+  (A)  THE  PEOPLE  TO  MAKE  AVAILABLE  A COPY OF ITS FILE OF THE CASE,
+ INCLUDING ANY PHYSICAL EVIDENCE IN THE  PEOPLE'S  POSSESSION  AND  GRAND
+ JURY MINUTES;
+  (B)  THE APPLICANT'S PRIOR TRIAL AND APPELLATE DEFENSE COUNSEL TO MAKE
+ AVAILABLE THEIR COMPLETE FILES RELATING TO THE CASE;
+  (C) COURT CLERKS AND PROBATION DEPARTMENTS TO MAKE AVAILABLE THE COURT
+ FILES OR PROBATION RECORDS RELATING TO THE CASE; AND
+  (D) ANY LAW ENFORCEMENT AGENCY INVOLVED WITH THE CASE TO TURN OVER ITS
+ FILES  OF  THE  CASE,  INCLUDING  POLICE  REPORTS,  WITNESS  STATEMENTS,
+ EVIDENCE  VOUCHERS,  OR  ANY  OTHER  RELEVANT RECORDS OR EVIDENCE AT ITS
+ DISPOSAL.
+  (E) THE COURT SHALL FURTHER ENSURE THAT ANY DISCLOSURE OF EVIDENCE  OR
+ PROPERTY  ORDERED  PURSUANT  TO  THIS  SUBDIVISION  MAY  BE SUBJECT TO A
+ PROTECTIVE ORDER AS DEFINED IN SECTION 245.70 OF THIS PART, WHERE APPRO-
+ PRIATE.
+ A. 2878--A  8
  
- JUDGE  OR  JUSTICE  NO  LONGER  WORKS IN THE COURT IN WHICH THE ORIGINAL
- SENTENCE WAS IMPOSED, THEN THE REQUEST SHALL  BE  RANDOMLY  ASSIGNED  TO
- ANOTHER JUDGE OR JUSTICE OF THE COURT IN WHICH THE ORIGINAL SENTENCE WAS
- IMPOSED.
-  (B)  UPON THE SUBMISSION OF AN APPLICATION FOR RELIEF UNDER THIS ARTI-
- CLE, UNLESS THE APPLICANT IS REPRESENTED  BY  COUNSEL  OR  AFFIRMATIVELY
- STATES  AN  INTENTION  TO  REPRESENT  THEMSELVES PRO SE, THE COURT SHALL
- ASSIGN DEFENSE COUNSEL IF THE APPLICANT IS INDIGENT OR OTHERWISE  QUALI-
- FIES FOR FREE REPRESENTATION IN ACCORDANCE WITH THE PROVISIONS OF SUBDI-
- VISION  ONE  OF  SECTION SEVEN HUNDRED SEVENTEEN AND SUBDIVISION FOUR OF
- SECTION SEVEN HUNDRED TWENTY-TWO OF  THE  COUNTY  LAW  AND  THE  RELATED
- PROVISIONS OF ARTICLE EIGHTEEN-A OF SUCH LAW.
-  (C) UPON MAKING A DETERMINATION AS TO ASSIGNMENT OF COUNSEL, THE COURT
- SHALL  ALSO  PROMPTLY  ORDER  THE  DISCLOSURE OF DISCOVERY TO THE PERSON
- APPLYING FOR RELIEF AND HIS OR HER COUNSEL. THE ORDER OF  DISCLOSURE  OF
- DISCOVERY SHALL INCLUDE THAT:
-  (I)  THE  PEOPLE  PRODUCE ALL ITEMS AND INFORMATION THAT RELATE TO THE
- SUBJECT MATTER OF THE CASE  AND  ARE  IN  THE  POSSESSION,  CUSTODY  AND
- CONTROL  OF  THE PROSECUTION OR PERSONS UNDER THEIR DIRECTION OR CONTROL
- AND MAKE AVAILABLE FOR  INSPECTION  ANY  PHYSICAL  EVIDENCE  SECURED  IN
- CONNECTION  WITH  THE  INVESTIGATION  OR  PROSECUTION  OF THE APPLICANT,
- INCLUDING ALL EVIDENCE THAT WOULD BE DISCOVERABLE  PURSUANT  TO  SECTION
- 245.20 OF THIS PART; AND
-  (II)  THE  APPLICANT'S  PRIOR  TRIAL  AND APPELLATE COUNSEL SHALL MAKE
- AVAILABLE TO THE APPLICANT OR HIS OR HER COUNSEL  THEIR  COMPLETE  FILES
- RELATING TO THE CASE; AND
-  (III)  COURT  CLERKS AND PROBATION DEPARTMENTS SHALL MAKE AVAILABLE TO
- THE APPLICANT OR HIS OR HER COUNSEL THE COURT FILES OR PROBATION RECORDS
- PERTAINING TO THE CASE; AND
-  (IV) NOTHING IN THIS SECTION SHALL PRECLUDE THE COURT FROM  CONDUCTING
+  (F) NOTHING IN THIS SECTION SHALL PRECLUDE THE COURT  FROM  CONDUCTING
  AN  IN  CAMERA  INSPECTION  OF  EVIDENCE  AND ISSUING A PROTECTIVE ORDER
  PURSUANT TO SECTION 245.70 OF THIS PART AT THE  REQUEST  OF  THE  PROSE-
  CUTION OR DEFENSE.
-  (V) THE DISCOVERY ORDER WILL REQUIRE THAT THE PEOPLE AND PRIOR DEFENSE
- COUNSEL  TURN  OVER  ALL  RELEVANT  DISCOVERY TO THE PERSON APPLYING FOR
- RELIEF OR THEIR COUNSEL NO LATER THAN THIRTY DAYS FROM THE  ISSUANCE  OF
- THE COURT'S DISCOVERY ORDER.
-  (D)  (I)  AN  APPLICANT  who is in a position adequately to raise more
- than one ground should raise every such ground  upon  which  he  or  she
- intends  to  challenge  the judgment or sentence. If the motion is based
- upon the existence or occurrence of facts, the motion papers [must]  MAY
- contain  sworn allegations thereof, whether by the [defendant] APPLICANT
- or by another person or persons. Such sworn  allegations  may  be  based
- upon  personal  knowledge of the affiant or upon information and belief,
- provided that in the latter event the affiant must state the sources  of
- such  information and the grounds of such belief. The [defendant] APPLI-
- CANT may further submit documentary evidence or  information  supporting
+  3. (A) AN APPLICANT who is in a position adequately to raise more than
+ one  ground  should raise every such ground upon which he or she intends
+ to challenge the judgment or sentence. If the motion is based  upon  the
+ existence  or  occurrence of facts, the motion papers [must] MAY contain
+ sworn allegations thereof, whether by the [defendant]  APPLICANT  or  by
+ another  person  or  persons.  Such  sworn allegations may be based upon
+ personal knowledge of  the  affiant  or  upon  information  and  belief,
+ provided  that in the latter event the affiant must state the sources of
+ such information and the grounds of such belief. The [defendant]  APPLI-
+ CANT  may  further submit documentary evidence or information supporting
  or tending to support the allegations of the moving papers.
-  (II) The people may file with the court, and in such case must serve a
+  (B) The people may file with the court, and in such case must serve  a
  copy  thereof  upon  the [defendant] APPLICANT or his or her counsel, if
  any, an answer denying or admitting any or all of the allegations of the
  motion papers, and may further submit documentary evidence  or  informa-
  tion refuting or tending to refute such allegations.
-  (III)  After all papers of both parties have been filed, and after all
+  (C)  After  all  papers of both parties have been filed, and after all
  documentary evidence or information, if any,  has  been  submitted,  the
- A. 2878  9
- 
  court must consider the same for the purpose of ascertaining whether the
  motion is determinable without a hearing to resolve questions of fact.
   [(b)  In  conjunction  with the filing or consideration of a motion to
@@ -503,6 +470,8 @@ S T A T E  O F  N E W  Y O R K
  the  date  of  the  judgment of conviction; provided, however, that this
  limitation period shall be tolled for five years if the defendant is  in
  custody  in connection with the conviction that is the subject of his or
+ A. 2878--A  9
+
  her motion, and provided further that, notwithstanding  such  limitation
  periods,  the  court may consider the motion if the defendant has shown:
  (A) that he or she has been pursuing his or her  rights  diligently  and
@@ -523,35 +492,34 @@ S T A T E  O F  N E W  Y O R K
   (iv)  upon  a finding by the court that the property requested in this
  motion would be available through other means through reasonable efforts
  by the defendant to obtain such property.
-  1-a.] 2. (a) [(1)] (I)  Where  the  [defendant's]  APPLICANT'S  motion
- requests  the  performance of a forensic DNA test on specified evidence,
- A. 2878  10
- 
- and upon the court's determination that any evidence containing deoxyri-
- bonucleic acid ("DNA") was secured in connection with the trial  OR  THE
- PLEA  resulting  in  the judgment, the court shall grant the application
- for  forensic  DNA testing of such evidence [upon its determination that
- if a DNA test had been conducted on such evidence, and  if  the  results
- had been admitted in the trial resulting in the judgment, there exists a
- reasonable  probability  that the verdict would have been more favorable
- to the defendant.
-  (2) Where the defendant's motion for forensic DNA testing of specified
- evidence is made following a plea of guilty and entry of judgment there-
- on convicting him or her of: (A) a homicide offense defined  in  article
- one hundred twenty-five of the penal law, any felony sex offense defined
- in article one hundred thirty of the penal law, a violent felony offense
- as  defined  in paragraph (a) of subdivision one of section 70.02 of the
- penal law, or (B) any other felony offense to which he or she pled guil-
- ty after being charged in an indictment or information in superior court
- with one or more of the offenses listed in clause (A) of  this  subpara-
- graph,  then  the court shall grant such a motion upon its determination
- that evidence containing DNA was secured in connection with the investi-
- gation or prosecution of the defendant, and  if  a  DNA  test  had  been
- conducted on such evidence and the results had been known to the parties
- prior  to  the entry of the defendant's plea and judgment thereon, there
- exists a substantial probability that the  evidence  would  have  estab-
- lished  the defendant's actual innocence of the offense or offenses that
- are the subject of the defendant's motion; provided, however, that:
+  1-a.] 4. (a) [(1)] Where the [defendant's] APPLICANT'S motion requests
+ the performance of a forensic DNA test on specified evidence,  and  upon
+ the  court's determination that any evidence containing deoxyribonucleic
+ acid ("DNA") was secured in  connection  with  the  trial  OR  THE  PLEA
+ resulting  in  the  judgment,  the court shall grant the application for
+ forensic DNA testing of such evidence upon its determination that [if a]
+ HAD THE DNA test [had] RESULTS been [conducted on such evidence, and  if
+ the  results  had been admitted in the trial resulting in the judgment,]
+ AVAILABLE AT THE TIME OF TRIAL OR PLEA, there [exists] IS  a  reasonable
+ probability  that  the  verdict  would  have  been more favorable to the
+ [defendant] APPLICANT.
+  [(2) Where the defendant's motion for forensic DNA testing  of  speci-
+ fied  evidence  is made following a plea of guilty and entry of judgment
+ thereon convicting him or her of: (A)  a  homicide  offense  defined  in
+ article one hundred twenty-five of the penal law, any felony sex offense
+ defined in article one hundred thirty of the penal law, a violent felony
+ offense  as defined in paragraph (a) of subdivision one of section 70.02
+ of the penal law, or (B) any other felony offense to  which  he  or  she
+ pled guilty after being charged in an indictment or information in supe-
+ rior court with one or more of the offenses listed in clause (A) of this
+ subparagraph, then the court shall grant such a motion upon its determi-
+ nation  that  evidence containing DNA was secured in connection with the
+ investigation or prosecution of the defendant, and if  a  DNA  test  had
+ been  conducted  on  such evidence and the results had been known to the
+ parties prior to the entry of the defendant's plea and judgment thereon,
+ there exists a substantial probability  that  the  evidence  would  have
+ established  the defendant's actual innocence of the offense or offenses
+ that are the subject of the defendant's motion; provided, however, that:
   (i) the court shall consider whether the defendant had the opportunity
  to request such testing prior to entering a guilty plea, and,  where  it
  finds  that  the defendant had such opportunity and unjustifiably failed
@@ -560,6 +528,8 @@ S T A T E  O F  N E W  Y O R K
  ing  where the defendant has made his or her motion more than five years
  after entry of the judgment of conviction; except  that  the  limitation
  period  may be tolled if the defendant has shown: (A) that he or she has
+ A. 2878--A  10
+
  been pursuing his or her rights diligently and that  some  extraordinary
  circumstance  prevented the timely filing of the motion for forensic DNA
  testing; (B) that the facts upon which the  motion  is  predicated  were
@@ -571,54 +541,56 @@ S T A T E  O F  N E W  Y O R K
  criminal justice system, or upon the safety or welfare of the community,
  and the defendant's diligence in seeking to obtain the requested proper-
  ty or related relief, the interests of justice would be served by  toll-
- ing such limitation period].
-  (II)  WHERE THE APPLICANT'S MOTION FOR RELIEF REQUESTS THE PERFORMANCE
+ ing such limitation period.]
+  (b)  WHERE  THE APPLICANT'S MOTION FOR RELIEF REQUESTS THE PERFORMANCE
  OF ANY OTHER TESTING OF  FORENSIC  EVIDENCE  OR  ANY  PHYSICAL  EVIDENCE
- SECURED  IN  THE CASE, THE JUDGE SHALL GRANT THE APPLICATION FOR TESTING
- OF SUCH EVIDENCE, UNLESS THERE IS NO  REASONABLE  PROBABILITY  THAT  THE
- TESTING OF THIS EVIDENCE COULD RESULT IN A DIFFERENT OR IMPROVED OUTCOME
- FOR THE PERSON APPLYING FOR RELIEF.
-  (b) (I) In conjunction with the filing of a motion under this subdivi-
- sion,  the court may direct the people to provide the [defendant] APPLI-
- CANT AND HIS OR HER COUNSEL with information in the  possession  of  the
+ SECURED  IN  THE CASE, THE COURT SHALL GRANT THE APPLICATION FOR TESTING
+ OF SUCH EVIDENCE, UPON ITS DETERMINATION THAT HAD THE RESULTS OF TESTING
+ OF FORENSIC OR OTHER PHYSICAL EVIDENCE BEEN AVAILABLE  AT  THE  TIME  OF
+ TRIAL  OR PLEA, THERE IS A REASONABLE PROBABILITY THAT THE VERDICT WOULD
+ HAVE BEEN MORE FAVORABLE TO THE APPLICANT.
+  (C) (I) In conjunction with the filing of a motion under this subdivi-
+ sion, the court may direct the people to provide the [defendant]  APPLI-
+ CANT  AND  HIS  OR HER COUNSEL with information in the possession of the
  people  concerning  the  current  physical  location  of  the  specified
- evidence and if the specified evidence no longer exists or the  physical
- A. 2878  11
- 
- location  of the specified evidence is unknown, a representation to that
+ evidence  and if the specified evidence no longer exists or the physical
+ location of the specified evidence is unknown, a representation to  that
  effect and information and documentary evidence in the possession of the
- people concerning the last known physical  location  of  such  specified
+ people  concerning  the  last  known physical location of such specified
  evidence.
   (II) If there is a finding by the court that the specified evidence no
- longer  exists  or  the  physical location of such specified evidence is
- unknown, [such information in and of itself shall not be a  factor  from
- which  any inference unfavorable to the people may be drawn by the court
- in deciding a motion under this  section]  THE  COURT  SHALL  GRANT  THE
- APPLICANT'S MOTION AND VACATE THE JUDGMENT.
+ longer exists or the physical location of  such  specified  evidence  is
+ unknown,  [such  information in and of itself shall not be a factor from
+ which any inference unfavorable to the people may be drawn by the  court
+ in  deciding a motion under this section] THE COURT MAY GRANT THE APPLI-
+ CANT'S MOTION AND VACATE THE JUDGMENT UPON A FINDING BY THE  COURT  THAT
+ SUCH EVIDENCE IS UNAVAILABLE DUE TO MALFEASANCE OR NEGLECT.
   (III)  The  court,  on  motion  of the [defendant] APPLICANT, may also
  issue a subpoena duces tecum directing a  public  or  private  hospital,
  laboratory  or  other  entity  to produce such specified evidence in its
  possession and/or information and documentary evidence in its possession
  concerning the location and status of such specified evidence.
-  (c) In response to a motion under this paragraph, upon notice  to  the
- parties  and  to the entity required to perform the search the court may
- order an entity that  has  access  to  the  combined  DNA  index  system
+  [(c)] (D) In response to a motion under this paragraph, upon notice to
+ the parties and to the entity required to perform the search  the  court
+ may  order  an  entity  that has access to the combined DNA index system
  ("CODIS") or its successor system to compare a DNA profile obtained from
- probative  biological  material gathered in connection with the investi-
+ probative biological material gathered in connection with  the  investi-
  gation or prosecution of the [defendant] APPLICANT against DNA databanks
- by keyboard searches, or a similar method that does not involve  upload-
- ing,  upon  a  court's determination that (1) such profile complies with
- federal bureau of investigation or  state  requirements,  whichever  are
+ by  keyboard searches, or a similar method that does not involve upload-
+ ing, upon a court's determination that (1) such  profile  complies  with
+ federal  bureau  of  investigation  or state requirements, whichever are
  applicable and as such requirements are applied to law enforcement agen-
- cies  seeking  such a comparison, and that the data meet state DNA index
- system and/or national DNA index system criteria as  such  criteria  are
+ cies seeking such a comparison, and that the data meet state  DNA  index
+ system  and/or  national  DNA index system criteria as such criteria are
  applied to law enforcement agencies seeking such a comparison and (2) if
- such  comparison had been conducted, [and if the results had been admit-
- ted in the trial resulting in the judgment,]  a  reasonable  probability
- exists  that  the verdict would have been more favorable to the [defend-
- ant, or in a case involving a plea of guilty, if the  results  had  been
- available  to  the defendant prior to the plea, a reasonable probability
- exists that the conviction would not  have  resulted]  APPLICANT.  For
+ such comparison had been conducted, [and if the results had been  admit-
+ ted  in  the  trial resulting in the judgment,] a reasonable probability
+ exists that the verdict would have been more favorable to  the  [defend-
+ A. 2878--A  11
+
+ ant,  or  in  a case involving a plea of guilty, if the results had been
+ available to the defendant prior to the plea, a  reasonable  probability
+ exists  that  the  conviction  would not have resulted] APPLICANT.  For
  purposes of this subdivision, a "keyboard search" shall mean a search of
  a DNA profile against the databank in which the profile that is searched
  is not uploaded to or maintained in the databank.
@@ -631,9 +603,9 @@ S T A T E  O F  N E W  Y O R K
  to subdivision three of section 440.10 or subdivision three  of  section
  440.20,  the  court  may in its discretion either (a) summarily deny the
  motion, or (b) proceed to consider the merits thereof.]
-  3. Upon considering the merits of the motion, the court must grant  it
- without  conducting  a  hearing and vacate the judgment or set aside the
- sentence, as the case may be, if:
+  [3.] 5. Upon considering the merits of  the  motion,  the  court  must
+ grant  it  without  conducting  a hearing and vacate the judgment or set
+ aside the sentence, as the case may be, if:
   (a) The moving papers allege a ground constituting legal basis for the
  motion; and
   (b) Such ground, if based upon the existence or occurrence  of  facts,
@@ -641,55 +613,82 @@ S T A T E  O F  N E W  Y O R K
   (c)  The sworn allegations of fact essential to support the motion are
  either conceded by the people to be true or are conclusively  substanti-
  ated by unquestionable documentary proof.
- A. 2878  12
- 
-  4.  Upon  considering  the merits of the motion, the court may deny it
- without conducting a hearing if:
-  (a)  The  moving  papers  do  not allege any ground constituting legal
+  [4.]  6. Upon considering the merits of the motion, the court may deny
+ it without conducting a hearing if:
+  (a) The moving papers do not  allege  any  ground  constituting  legal
  basis for the motion; or
   (b) [The motion is based upon the existence or occurrence of facts and
- the moving papers do not contain  sworn  allegations  substantiating  or
+ the  moving  papers  do  not contain sworn allegations substantiating or
  tending to substantiate all the essential facts, as required by subdivi-
  sion one; or
-  (c)]  An allegation of fact essential to support the motion is conclu-
+  (c)] An allegation of fact essential to support the motion is  conclu-
  sively refuted by unquestionable documentary proof; or
   [(d)] (C) An allegation of fact essential to support the motion (i) is
- contradicted by a court record or other official document[, or  is  made
- solely  by  the  defendant  and is unsupported by any other affidavit or
- evidence,] and (ii) under these and all the other circumstances  attend-
+ contradicted  by  a court record or other official document[, or is made
+ solely by the defendant and is unsupported by  any  other  affidavit  or
+ evidence,]  and (ii) under these and all the other circumstances attend-
  ing the case, there is no reasonable possibility that such allegation is
  true.
-  5. If the court does not determine the motion pursuant to subdivisions
- two,  three or four, it must conduct a hearing and make findings of fact
- essential to the determination thereof. The [defendant] APPLICANT has  a
- right to be present at such hearing but may waive such right in writing.
- If  he  OR  SHE  does  not so waive it and if he OR SHE is confined in a
- prison or other institution of this state, the court must cause  him  OR
- HER to be produced at such hearing.
-  6.  At  such  a  hearing,  the [defendant] APPLICANT has the burden of
- proving by a preponderance of  the  evidence  every  fact  essential  to
- support  the  motion.  AT  THE  HEARING, DEFENSE COUNSEL SHALL RECEIVE A
- DAILY COPY OF THE HEARING MINUTES.
-  7. Regardless of whether a hearing  was  conducted,  the  court,  upon
+  [5.] 7. If the court does not determine the motion pursuant to [subdi-
+ visions two, three or four] SUBDIVISION FIVE OR SIX, it must  conduct  a
+ hearing  and make findings of fact essential to the determination there-
+ of. The [defendant] APPLICANT has a right to be present at such  hearing
+ but  may  waive such right in writing. If he OR SHE does not so waive it
+ and if he OR SHE is confined in a prison or other  institution  of  this
+ state, the court must cause him OR HER to be produced at such hearing.
+  [6.] 8. At such a hearing, the [defendant] APPLICANT has the burden of
+ proving  by  a  preponderance  of  the  evidence every fact essential to
+ support the motion. AT THE HEARING, EITHER PARTY SHALL RECEIVE  A  DAILY
+ COPY OF THE HEARING MINUTES, UPON REQUEST.
+  [7.]  9. NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION, WHEN THE
+ APPLICANT RAISES A COLORABLE CLAIM OF RELIEF PURSUANT TO  THIS  ARTICLE,
+ THE  COURT  SHALL  NOT  SUMMARILY DENY THE MOTION ON THE GROUND THAT THE
+ APPLICANT PREVIOUSLY MOVED FOR RELIEF UNDER THIS ARTICLE.
+ A. 2878--A  12
+ 
+  10. Regardless of whether a hearing was  conducted,  the  court,  upon
  determining  the  motion,  must  set forth on the record its findings of
  fact, its conclusions of law and the reasons for its determination.
   § 5. Subdivision 4 of section 450.10 of the criminal procedure law, as
- amended by chapter 671 of the laws of 1971 and as renumbered by  chapter
+ amended  by chapter 671 of the laws of 1971 and as renumbered by chapter
  516 of the laws of 1986, is amended to read as follows:
-  4.  An  order,  entered  pursuant  to [section 440.40, setting aside a
- sentence other than one of death, upon motion  of  the  People]  ARTICLE
+  4. An order, entered pursuant to  [section  440.40,  setting  aside  a
+ sentence  other  than  one  of death, upon motion of the People] ARTICLE
  FOUR HUNDRED FORTY OF THIS TITLE, SHALL BE AUTHORIZED TO AN INTERMEDIATE
  APPELLATE COURT AS A MATTER OF RIGHT.
-  §  6. Subdivision 5 of section 450.10 of the criminal procedure law is
+  § 6. Subdivision 5 of section 450.10 of the criminal procedure law  is
  REPEALED.
-  § 7. Severability. If any provision of this act, or any application of
- any provision of this act, is held to be invalid, that shall not  affect
- the  validity or effectiveness of any other provision of this act, or of
- any other application of any provision of this act, which can  be  given
- effect  without  that  provision  or  application;  and to that end, the
+  §  7.  Section  216  of  the  judiciary law is amended by adding a new
+ subdivision 7 to read as follows:
+  7. THE CHIEF ADMINISTRATOR OF THE COURTS SHALL COLLECT DATA AND REPORT
+ EVERY YEAR IN RELATION TO APPLICATIONS AND  MOTIONS  FILED  PURSUANT  TO
+ ARTICLE FOUR HUNDRED FORTY OF THE CRIMINAL PROCEDURE LAW, BROKEN DOWN BY
+ EACH  SECTION  OF  SUCH  ARTICLE  TO  INCLUDE  MOTIONS FILED PURSUANT TO
+ SECTIONS 440.10, 440.20, 440.40, 440.46, 440.46-A,  AND  440.47  OF  THE
+ CRIMINAL  PROCEDURE LAW. INFORMATION TO BE COLLECTED AND DISCLOSED SHALL
+ INCLUDE THE RAW NUMBER OF BOTH APPLICATIONS AND/OR MOTIONS FILED IN EACH
+ COUNTY AND ON APPEAL IN  EACH  JUDICIAL  DEPARTMENT.  INFORMATION  SHALL
+ INCLUDE  THE  TOP CONVICTION CHARGE FOR EACH APPLICATION OR MOTION; WHEN
+ PRO SE APPLICANTS REQUEST ASSIGNMENT OF COUNSEL PURSUANT TO  SUBDIVISION
+ TWO  OF  SECTION  440.30  OF  THE CRIMINAL PROCEDURE LAW, WHETHER OR NOT
+ COUNSEL WAS ASSIGNED; THE OUTCOME OF EACH MOTION FILED,  WHETHER  DENIED
+ WITHOUT HEARING, DENIED WITH HEARING, VACATUR GRANTED, OR OTHER; AND THE
+ AVERAGE  LENGTH  OF  TIME MOTION UNDER ARTICLE FOUR HUNDRED FORTY OF THE
+ CRIMINAL PROCEDURE LAW REMAINS PENDING  FOR  EACH  COUNTY.  SUCH  REPORT
+ SHALL  AGGREGATE  THE  DATA COLLECTED BY COUNTY AND JUDICIAL DEPARTMENT.
+ THE DATA SHALL BE AGGREGATED IN ORDER TO PROTECT THE IDENTITY  OF  INDI-
+ VIDUAL  APPLICANTS.  THE REPORT SHALL BE RELEASED PUBLICLY AND PUBLISHED
+ ON THE WEBSITES OF THE OFFICE OF COURT ADMINISTRATION AND  THE  DIVISION
+ OF CRIMINAL JUSTICE SERVICES. THE FIRST REPORT SHALL BE PUBLISHED TWELVE
+ MONTHS AFTER THIS SUBDIVISION SHALL HAVE BECOME A LAW, AND SHALL INCLUDE
+ DATA  FROM  THE  FIRST  SIX  MONTHS FOLLOWING THE EFFECTIVE DATE OF THIS
+ SUBDIVISION. REPORTS FOR SUBSEQUENT PERIODS SHALL BE PUBLISHED  ANNUALLY
+ THEREAFTER.
+  § 8. Severability. If any provision of this act, or any application of
+ any  provision of this act, is held to be invalid, that shall not affect
+ the validity or effectiveness of any other provision of this act, or  of
+ any  other  application of any provision of this act, which can be given
+ effect without that provision or  application;  and  to  that  end,  the
  provisions and applications of this act are severable.
-  § 8. This act shall take effect on the sixtieth  day  after  it  shall
- have  become  a  law;  provided, however, that paragraphs (b) and (c) of
- subdivision 1 of section 440.30 of the criminal procedure law  as  added
- by  section  four  of this act shall take effect one year after it shall
+  §  9.  This  act  shall take effect on the sixtieth day after it shall
  have become a law.
