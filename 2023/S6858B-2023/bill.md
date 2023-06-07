@@ -1,6 +1,6 @@
 # Authorizes the county of Nassau assessor to accept an application for a real property tax exemption from the East Meadow Fire District
 
-**Bill ID:** S6858BA
+**Bill ID:** S6858BB
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the county of Nassau assessor to accept an application for a real pro
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6858--A
+  6858--B
   Cal. No. 1299
  
   2023-2024 Regular Sessions
@@ -30,8 +30,9 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed  to  the  Committee  on  Local  Government  --
   reported  favorably  from  said committee, ordered to first and second
   report, ordered to a third reading,  amended  and  ordered  reprinted,
-  retaining its place in the order of third reading
-
+  retaining its place in the order of third reading -- again amended and
+  ordered reprinted, retaining its place in the order of third reading
+ 
  AN  ACT  authorizing the county of Nassau assessor to accept an applica-
   tion for a real property tax  exemption  from  the  East  Meadow  Fire
   District
@@ -42,7 +43,7 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Notwithstanding any other provision of law to the contrary,
  the assessor of the county of Nassau is hereby authorized to accept from
  the East Meadow Fire District, an application for  exemption  from  real
- property taxes pursuant to section 406 of the real property tax law with
+ property taxes pursuant to section 464 of the real property tax law with
  respect to the 2022-2023 assessment roll for all of the 2022-2023 school
  taxes  and  all  of the 2022 general taxes, for the parcel owned by such
  not-for-profit corporation with such parcels being located at  580  East
@@ -65,4 +66,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11253-03-3
+  LBD11253-05-3
