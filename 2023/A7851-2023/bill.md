@@ -1,0 +1,57 @@
+# Redefines the term "following" for a crime of stalking in the fourth degree
+
+**Bill ID:** A7851
+**Session:** 2023
+**Sponsor:** Linda Rosenthal
+**Status:** In Assembly Committee
+
+## Summary
+
+Redefines the term "following" for a crime of stalking in the fourth degree to include the use of certain devices or computers to gain access to, record, track or report the movement or location of a person or their property without the person's permission or authority to do so.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7851
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  July 7, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
+  Committee on Codes
+ 
+ AN ACT to amend the penal  law,  in  relation  to  redefining  the  term
+  "following" for a crime of stalking in the fourth degree
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. The second undesignated paragraph of section 120.45 of  the
+ penal  law,  as  added by chapter 184 of the laws of 2014, is amended to
+ read as follows:
+  For the purposes of subdivision two of this section, "following" shall
+ include the unauthorized tracking of such person's movements or location
+ through the use [of a global positioning system or other device], PLACE-
+ MENT, ATTACHMENT OR  INSERTION  OF  ANY  DEVICE  OR  COMPUTER  SOFTWARE,
+ PROGRAM,  SPYWARE,  MALWARE  OR  ADWARE  THAT  GAINS ACCESS TO, RECORDS,
+ TRACKS OR REPORTS A MOVEMENT OR LOCATION OF A PERSON OR  THEIR  PROPERTY
+ WITHOUT  THE  PERSON'S  PERMISSION  OR  AUTHORITY  TO  DO SO. A PERSON'S
+ EMPLOYER UTILIZING LOCATION OR TRACKING  TECHNOLOGY  DURING  THE  NORMAL
+ COURSE  OF  BUSINESS  OR  PURSUANT  TO AN EMPLOYMENT AGREEMENT SHALL NOT
+ CONSTITUTE STALKING UNDER THIS STATUTE.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08367-01-3
