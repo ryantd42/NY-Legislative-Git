@@ -1,0 +1,88 @@
+# Expands access to mortgage loans for cooperative properties under the homes for veterans program
+
+**Bill ID:** A7842
+**Session:** 2023
+**Sponsor:** Brian Cunningham
+**Status:** In Assembly Committee
+
+## Summary
+
+Expands access to mortgage loans for cooperative properties under the homes for veterans program, as administered by the state of New York mortgage agency.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7842
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  July 7, 2023
+  ___________
+ 
+ Introduced  by  M.  of  A.  CUNNINGHAM  -- read once and referred to the
+  Committee on Housing
+ 
+ AN ACT to amend the public authorities law,  in  relation  to  expanding
+  access  to  mortgage  financing  for  cooperative properties under the
+  homes for veterans program
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1.  The  public  authorities  law  is amended by adding a new
+ section 2405-g to read as follows:
+  § 2405-G. SPECIAL PROVISIONS FOR VETERANS. (1)  DEFINITIONS.  FOR  THE
+ PURPOSES  OF  THIS ARTICLE, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING
+ MEANINGS:
+  (A) "PERSON" SHALL  MEAN  A  VETERAN,  OR  THEIR  SURVIVING  UNMARRIED
+ SPOUSE.
+  (B) "VETERAN" SHALL:
+  (I) HAVE THE SAME MEANING AS SET FORTH IN SUBDIVISION THREE OF SECTION
+ ONE OF THE VETERANS' SERVICES LAW; AND
+  (II)  INCLUDE  MEMBERS OF THE ARMY NATIONAL GUARD, AIR NATIONAL GUARD,
+ AND OTHER RESERVE COMPONENTS OF THE ARMED FORCES OF THE UNITED STATES OR
+ NEW YORK WHO ARE CURRENTLY SERVING ON ACTIVE DUTY OR HAVE BEEN  RELEASED
+ FROM  SUCH  SERVICE  UNDER  OTHER  THAN DISHONORABLE CONDITIONS, AND ALL
+ MILITARY MEMBERS WHO ARE CURRENTLY SERVING ON ACTIVE DUTY IN  NEW  YORK,
+ REGARDLESS OF SUCH MEMBERS' DISCHARGE STATUS.
+  (2)  CONSTRUCTION.  (A)  THE PROVISIONS OF THIS SECTION SHALL APPLY TO
+ ANY MORTGAGE PURCHASED BY THE AGENCY  PURSUANT  TO  SECTION  TWENTY-FOUR
+ HUNDRED FIVE OF THIS PART UNDER THE HOMES FOR VETERANS PROGRAM.
+  (B)  NO  CONTRACT  OR  AGREEMENT FOR THE PROVISION OF LOAN OR MORTGAGE
+ LOAN SERVICES BETWEEN THE AGENCY AND AN ELIGIBLE PERSON PURSUANT TO THIS
+ SECTION SHALL BE CONSTRUED AS TO LIMIT SUCH PERSON'S  ELIGIBILITY  UNDER
+ ANY  OTHER  FINANCING  PROGRAM OFFERED BY THE STATE OF NEW YORK MORTGAGE
+ AGENCY.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11822-01-3
+ A. 7842  2
+ 
+  (3) HOMES FOR VETERANS PROGRAM REQUIREMENTS. NOTWITHSTANDING ANY OTHER
+ PROVISION OF LAW OR REGULATION TO THE CONTRARY, ANY CONTRACT  OR  AGREE-
+ MENT  FOR  THE PROVISION OF A LOAN OR MORTGAGE LOAN SERVICES BETWEEN THE
+ AGENCY AND AN ELIGIBLE PERSON UNDER THE HOMES FOR VETERANS PROGRAM SHALL
+ BE SUBJECT TO THE FOLLOWING PROVISIONS:
+  (A)  NO  SUCH  CONTRACT  OR AGREEMENT SHALL REQUIRE A MINIMUM BORROWER
+ CASH CONTRIBUTION FROM SUCH PERSON GREATER THAN ONE PERCENT OF THE VALUE
+ OF THE PROPERTY SECURING SUCH LOAN OR MORTGAGE LOAN; AND
+  (B) NO APPLICATION BY AN ELIGIBLE PERSON FOR A LOAN OR  MORTGAGE  LOAN
+ SECURED  BY  A RESIDENTIAL PROPERTY IN A COOPERATIVE HOUSING CORPORATION
+ SHALL BE REJECTED BASED ON:
+  (I) THE NUMBER OF UNITS, OCCUPANCY RATES, OR LOCATION OF  SUCH  CORPO-
+ RATION;
+  (II) THE PERCENTAGE OF UNITS ALREADY SOLD IN SUCH CORPORATION; OR
+  (III)  THE  STATUS OF SUCH CORPORATION AS A LIMITED EQUITY COOPERATIVE
+ PROJECT.
+  § 2. This act shall take effect on the thirtieth day  after  it  shall
+ have become a law. Effective immediately, the addition, amendment and/or
+ repeal  of  any  rule  or regulation necessary for the implementation of
+ this act on its effective date are authorized to be made  and  completed
+ on or before such effective date.
