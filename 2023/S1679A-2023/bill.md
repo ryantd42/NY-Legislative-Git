@@ -1,6 +1,6 @@
 # Relates to regulating the practice of naturopathic medicine
 
-**Bill ID:** S1679A
+**Bill ID:** S1679AA
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Regulates the practice of naturopathic medicine; establishes a state board for n
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1679
+  1679--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,10 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by Sens. HINCHEY, PALUMBO -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Higher Education
+ Introduced  by Sens. HINCHEY, JACKSON, PALUMBO -- read twice and ordered
+  printed, and when printed to be committed to the Committee  on  Higher
+  Education  -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the education law, the limited  liability  company  law,
   the  partnership  law  and  the  public health law, in relation to the
@@ -56,17 +58,15 @@ S T A T E  O F  N E W  Y O R K
   §  6850. INTRODUCTION. THIS ARTICLE APPLIES TO THE LICENSURE AND REGU-
  LATION OF NATUROPATHIC DOCTORS TO PRACTICE NATUROPATHIC MEDICINE IN THIS
  STATE.  THE GENERAL PROVISIONS FOR ALL PROFESSIONS CONTAINED IN  ARTICLE
- ONE HUNDRED THIRTY, AS ADDED BY CHAPTER NINE HUNDRED EIGHTY-SEVEN OF THE
- LAWS  OF NINETEEN HUNDRED SEVENTY-ONE, OF THIS TITLE APPLY TO THIS ARTI-
- CLE.
+ ONE HUNDRED THIRTY OF THIS TITLE APPLY TO THIS ARTICLE.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05380-01-3
- S. 1679  2
+  LBD05380-02-3
+ S. 1679--A  2
  
-  § 6851. DEFINITION OF THE PRACTICE OF NATUROPATHIC MEDICINE.  1.  THE
- PRACTICE  OF  NATUROPATHIC MEDICINE, A DISTINCT AND COMPREHENSIVE SYSTEM
+  §  6851.  DEFINITION OF THE PRACTICE OF NATUROPATHIC MEDICINE.  1. THE
+ PRACTICE OF NATUROPATHIC MEDICINE, A DISTINCT AND  COMPREHENSIVE  SYSTEM
  OF PRIMARY HEALTH CARE, IS DEFINED AS FACILITATING WELLNESS AND PREVENT-
  ING, DIAGNOSING AND TREATING ANY HUMAN DISEASE, PAIN, INJURY, DEFORMITY,
  PHYSICAL  CONDITION,  OR  MALADAPTIVE BEHAVIOR USING METHODS, INCLUDING,
@@ -120,7 +120,7 @@ S T A T E  O F  N E W  Y O R K
  USE  ROUTES  OF  ADMINISTRATION  THAT  INCLUDE ORAL, SUBLINGUAL, BUCCAL,
  NASAL,  AURICULAR,  OCULAR,  RECTAL,  VAGINAL,  TRANSDERMAL,  AND,  FOR
  EPINEPHRINE, INJECTION BY AUTO-INJECTION DEVICE.
- S. 1679  3
+ S. 1679--A  3
  
   3.  IN THE PRACTICE OF NATUROPATHIC MEDICINE A NATUROPATHIC DOCTOR MAY
  USE MEDICAL DEVICES THAT ARE EXEMPT OR ARE CLASS I OR CLASS  II  DEVICES
@@ -176,16 +176,16 @@ S T A T E  O F  N E W  Y O R K
  AVAILABLE TO FURNISH ASSISTANCE AND DIRECTION THROUGHOUT THE PERFORMANCE
  OF THE INJECTION PROCEDURE, BUT NEED NOT BE PRESENT IN THE ROOM WHEN THE
  INJECTION PROCEDURE IS PERFORMED.
-  4.  (A) INJECTION THERAPY IS ADMINISTERING AND PRESCRIBING, IN COMPLI-
+  4.  A.  INJECTION THERAPY IS ADMINISTERING AND PRESCRIBING, IN COMPLI-
  ANCE WITH FEDERAL AND STATE LAW, THE FOLLOWING:  (I)  THESE  SUBSTANCES,
- S. 1679  4
+ S. 1679--A  4
  
  WHEN  SUCH SUBSTANCES ARE CHEMICALLY IDENTICAL TO THOSE FOR SALE WITHOUT
  A PRESCRIPTION:  VITAMINS, MINERALS, AMINO  ACIDS,  GLUTATHIONE,  BOTAN-
  ICALS AND THEIR EXTRACTS, HOMEOPATHIC PREPARATIONS, ELECTROLYTES, SUGARS
  AND  DILUENTS;  AND  (II)  NATURAL AND SYNTHETIC HORMONES, LIDOCAINE AND
  PLASMA.
-  (B) INJECTION THERAPY IS LIMITED TO THE FOLLOWING ROUTES  OF  ADMINIS-
+  B. INJECTION THERAPY IS LIMITED TO THE FOLLOWING  ROUTES  OF  ADMINIS-
  TRATION:  INTRAVENOUS, INTRAMUSCULAR, INTRA-ARTICULAR, SUBCUTANEOUS AND
  INTRADERMAL.
   § 6854. BOUNDARIES OF PROFESSIONAL COMPETENCE. THE  ACTIVITIES  ENCOM-
@@ -236,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  BY THE BOARD OF REGENTS ON THE RECOMMENDATION OF THE COMMISSIONER.
   2. EXAMINATIONS SELECTED OR PREPARED BY THE BOARD PURSUANT TO SUBDIVI-
  SION TWO OF SECTION SIXTY-FIVE HUNDRED EIGHT OF THIS TITLE SHALL CONFORM
- S. 1679  5
+ S. 1679--A  5
  
  WHENEVER  POSSIBLE  TO  NATIONALLY RECOGNIZED TEST DEVELOPMENT STANDARDS
  AND TEST COMPETENCIES FOR NATUROPATHIC MEDICINE.
@@ -294,7 +294,7 @@ S T A T E  O F  N E W  Y O R K
  AT LEAST TWO OF THE THREE YEARS PRECEDING THE FILING OF THE APPLICATION.
   3. POST-NINETEEN HUNDRED EIGHTY-SEVEN PRE-EFFECTIVE DATE GRADUATES.  A
  PERSON SHALL QUALIFY FOR A LICENSE TO PRACTICE THE PROFESSION OF NATURO-
- S. 1679  6
+ S. 1679--A  6
  
  PATHIC  MEDICINE  WITH  OR  WITHOUT  RESIDENCY EXPERIENCE, PROVIDED THAT
  WITHIN TEN YEARS OF THE EFFECTIVE DATE OF THIS ARTICLE, THE PERSON MEETS
@@ -352,7 +352,7 @@ S T A T E  O F  N E W  Y O R K
  FROM A QUALIFIED HEALTHCARE PROVIDER.
   7.  THE  CONDUCT,  ACTIVITIES,  OR  SERVICES OF INDIVIDUALS, CHURCHES,
  SCHOOLS,  TEACHERS,  ORGANIZATIONS,  OR  NOT-FOR-PROFIT  BUSINESSES  IN
- S. 1679  7
+ S. 1679--A  7
  
  PROVIDING INSTRUCTION, ADVICE, SUPPORT, ENCOURAGEMENT, OR INFORMATION TO
  INDIVIDUALS, FAMILIES, AND RELATIONAL GROUPS.
@@ -409,7 +409,7 @@ S T A T E  O F  N E W  Y O R K
  FROM  JOHN BASTYR COLLEGE OF NATUROPATHIC MEDICINE, LATER RENAMED BASTYR
  UNIVERSITY, OR NATIONAL COLLEGE OF NATUROPATHIC MEDICINE, LATER  RENAMED
  NATIONAL UNIVERSITY OF NATURAL MEDICINE; OR
- S. 1679  8
+ S. 1679--A  8
  
   (III)  HAVE  GRADUATED  FROM A DOCTORAL DEGREE PROGRAM OF NATUROPATHIC
  MEDICAL EDUCATION THAT AT THE TIME OF GRADUATION WAS ACCREDITED  BY  THE
@@ -467,7 +467,7 @@ S T A T E  O F  N E W  Y O R K
  PROVIDED IN SUBDIVISION THREE OF THIS  SECTION.  CONTINUING  EDUCATION
  HOURS  TAKEN  DURING  ONE TRIENNIUM MAY NOT BE CARRIED OVER OR OTHERWISE
  CREDITED OR TRANSFERRED TO A SUBSEQUENT TRIENNIUM.
- S. 1679  9
+ S. 1679--A  9
  
   3. THE DEPARTMENT, IN ITS DISCRETION, MAY ISSUE A  CONDITIONAL  REGIS-
  TRATION  TO  A  LICENSEE  WHO  FAILS  TO  MEET  THE CONTINUING EDUCATION
@@ -525,7 +525,7 @@ S T A T E  O F  N E W  Y O R K
  a professional service  limited  liability  company  formed  to  provide
  licensed  clinical  social work services as such services are defined in
  article 154 of the education law, each member of such limited  liability
- S. 1679  10
+ S. 1679--A  10
 
  company  shall  be licensed pursuant to article 154 of the education law
  to practice licensed clinical social work in this state. With respect to
@@ -583,7 +583,7 @@ S T A T E  O F  N E W  Y O R K
  be  licensed  pursuant  to  article 133 of the education law to practice
  dentistry in this state. With respect to a professional service  limited
  liability company formed to provide veterinary services as such services
- S. 1679  11
+ S. 1679--A  11
  
  are  defined  in  article  135 of the education law, each member of such
  limited liability company must be licensed pursuant to  article  135  of
@@ -641,7 +641,7 @@ S T A T E  O F  N E W  Y O R K
  ers, if any, is a professional at least one of such members  is  author-
  ized  by  law to render a professional service within this state and who
  is or has been engaged in  the  practice  of  such  profession  in  such
- S. 1679  12
+ S. 1679--A  12
  
  professional  service limited liability company or a predecessor entity,
  or will engage in the practice of such profession  in  the  professional
@@ -699,7 +699,7 @@ S T A T E  O F  N E W  Y O R K
  which provides mental health counseling services as  such  services  are
  defined in article 163 of the education law, each member of such foreign
  professional service limited liability company must be licensed pursuant
- S. 1679  13
+ S. 1679--A  13
  
  to article 163 of the education law to practice mental health counseling
  in  this  state.  With respect to a foreign professional service limited
@@ -755,7 +755,7 @@ S T A T E  O F  N E W  Y O R K
  analysis service in this state must be licensed or certified pursuant to
  article 167 of the education law to practice applied  behavior  analysis
  in this state.
- S. 1679  14
+ S. 1679--A  14
  
   §  6.  Subdivision  (q) of section 121-1502 of the partnership law, as
  amended by chapter 475 of the laws  of  2014,  is  amended  to  read  as
@@ -813,7 +813,7 @@ S T A T E  O F  N E W  Y O R K
  ant;  surgeon;  medical  examiner;  coroner;  dentist; dental hygienist;
  osteopath; optometrist; chiropractor; podiatrist;  NATUROPATHIC  DOCTOR;
  resident;  intern;  psychologist; registered nurse; social worker; emer-
- S. 1679  15
+ S. 1679--A  15
  
  gency medical technician; licensed  creative  arts  therapist;  licensed
  marriage  and  family  therapist;  licensed  mental  health  counselor;
@@ -847,7 +847,7 @@ S T A T E  O F  N E W  Y O R K
  district attorney or assistant district attorney; investigator  employed
  in the office of a district attorney; or other law enforcement official.
   § 8. Subdivision 6 of section 571 of the public health law, as amended
- section  1  of  part  c of chapter 57 of the laws of 2022, is amended to
+ section  1  of  part  C of chapter 57 of the laws of 2022, is amended to
  read as follows:
   6. "Qualified health care professional" means  a  physician,  dentist,
  podiatrist, NATUROPATHIC DOCTOR, optometrist performing a clinical labo-
@@ -871,7 +871,7 @@ S T A T E  O F  N E W  Y O R K
  group, association, corporation  or  professional  corporation,  or  any
  agent,  employee, fiduciary, employer or representative thereof, includ-
  ing but not limited to a physician,  dentist,  podiatrist,  NATUROPATHIC
- S. 1679  16
+ S. 1679--A  16
 
  DOCTOR or chiropractor, either in individual practice, group practice or
  employed  in  a  facility owned by any person, group, association, firm,
@@ -929,7 +929,7 @@ S T A T E  O F  N E W  Y O R K
  practice medicine, nursing, osteopathy, NATUROPATHIC MEDICINE, physioth-
  erapy, chiropractic, or podiatry in accordance with  the  provisions  of
  this title.
- S. 1679  17
+ S. 1679--A  17
  
   §  14.  Subdivision  1  of  section  579  of the public health law, as
  amended by chapter 376 of the laws  of  2015,  is  amended  to  read  as
@@ -954,6 +954,4 @@ S T A T E  O F  N E W  Y O R K
  nine of this act shall take effect. Effective immediately, the addition,
  amendment  and/or  repeal  of  any  rule or regulation necessary for the
  implementation of this act on its effective date are  authorized  to  be
- made  and  completed  by  the commissioner of education and the board of
- regents on or before such effective date, including appointment  of  the
- state board for naturopathic medicine.
+ made and completed on or before such effective date.
