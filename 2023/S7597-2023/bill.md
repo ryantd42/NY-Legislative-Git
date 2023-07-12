@@ -1,0 +1,80 @@
+# Relates to recycling electronic cigarettes
+
+**Bill ID:** S7597
+**Session:** 2023
+**Sponsor:** Nathalia Fernandez
+**Status:** In Senate Committee
+
+## Summary
+
+Relates to recycling electronic cigarettes; requires electronic cigarette manufacturers to submit plans regarding the collection, transportation and recycling of electronic cigarettes to the commissioner of environmental conservation.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7597
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  S E N A T E
+ 
+  July 12, 2023
+  ___________
+ 
+ Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
+  printed to be committed to the Committee on Rules
+ 
+ AN ACT to amend the environmental conservation law, in relation to recy-
+  cling electronic cigarettes
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. Article 27 of the environmental conservation law is amended
+ by adding a new title 34 to read as follows:
+  TITLE 34
+  ELECTRONIC CIGARETTE RECYCLING
+ SECTION 27-3401. RETURN OF ELECTRONIC CIGARETTES FOR RECYCLING.
+ § 27-3401. RETURN OF ELECTRONIC CIGARETTES FOR RECYCLING.
+  1. MANUFACTURERS OF ELECTRONIC CIGARETTES SHALL ACCEPT THE  RETURN  OF
+ SUCH  DEVICES FOR RECYCLING BY VAPOR PRODUCT DEALERS REGISTERED PURSUANT
+ TO ARTICLE TWENTY-EIGHT-C OF THE TAX LAW. VAPOR  PRODUCT  DEALERS  SHALL
+ ACCEPT THE RETURN OF ANY USED ELECTRONIC CIGARETTES FOR RECYCLING.
+  2. ELECTRONIC CIGARETTE MANUFACTURERS WHICH IMPORT FOR PROFIT, SELL OR
+ OFFER  ELECTRONIC CIGARETTES FOR SALE IN THIS STATE SHALL BE RESPONSIBLE
+ FOR, AT A MINIMUM, THE FOLLOWING:
+  A. WITHIN NINETY DAYS OF THE EFFECTIVE DATE OF THIS TITLE, SUBMITTANCE
+ TO THE COMMISSIONER OF A PLAN THAT IDENTIFIES THE METHODS BY WHICH  SUCH
+ MANUFACTURERS  WILL SAFELY COLLECT AND RECYCLE ELECTRONIC CIGARETTES AND
+ THE LITHIUM-ION BATTERIES CONTAINED THEREIN.
+  B. SUBMITTANCE  TO  THE  DEPARTMENT  OF  ANNUAL  REPORTS,  ON  A  FORM
+ PRESCRIBED  BY THE DEPARTMENT, CONCERNING THE AMOUNT OF ELECTRONIC CIGA-
+ RETTES RECEIVED WITHIN THE STATE AND RECYCLED EITHER  BY  NUMBER  OR  BY
+ WEIGHT; THE COSTS OF SUCH EFFORTS; AND ANY OTHER RELEVANT INFORMATION AS
+ REQUIRED BY THE DEPARTMENT.
+  C. UNDERTAKING OF EFFORTS TO EDUCATE CONSUMERS REGARDING THE APPROPRI-
+ ATE WAYS TO RECYCLE ELECTRONIC CIGARETTES.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05769-01-3
+ S. 7597  2
+ 
+  3.  THE  COMMISSIONER SHALL APPROVE OR REJECT ANY ELECTRONIC CIGARETTE
+ MANUFACTURER'S COLLECTION, TRANSPORTATION, AND RECYCLING PLANS DESCRIBED
+ IN PARAGRAPH A OF SUBDIVISION TWO OF THIS SECTION WITHIN NINETY DAYS  OF
+ SUBMISSION AND, IF REJECTED, INFORM THE ELECTRONIC CIGARETTE MANUFACTUR-
+ ER  IN WRITING AS TO ANY DEFICIENCIES IN SAID PLAN. ELECTRONIC CIGARETTE
+ MANUFACTURERS SHALL AMEND AND RESUBMIT ANY REJECTED PLANS FOR  RECONSID-
+ ERATION WITHIN SIXTY DAYS OF NOTIFICATION OF THE REJECTION OF SAID PLAN.
+ THE COMMISSIONER SHALL APPROVE OR REJECT SAID PLAN WITHIN THIRTY DAYS OF
+ RESUBMISSION.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it  shall have become a law. Effective immediately, the addition, amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation of this act on its effective date are authorized to be  made  and
+ completed on or before such effective date.
