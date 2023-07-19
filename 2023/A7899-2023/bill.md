@@ -1,0 +1,66 @@
+# Relates to granting the attorney general jurisdiction to investigate and prosecute police misconduct
+
+**Bill ID:** A7899
+**Session:** 2023
+**Sponsor:** Jo Anne Simon
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to granting the attorney-general jurisdiction to investigate and prosecute police misconduct.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7899
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  July 19, 2023
+  ___________
+ 
+ Introduced  by M. of A. SIMON -- read once and referred to the Committee
+  on Governmental Operations
+ 
+ AN ACT to amend the executive law, in relation to  granting  the  attor-
+  ney-general  jurisdiction  to investigate and prosecute police miscon-
+  duct
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Section 63 of the executive law is amended by adding a new
+ subdivision 17 to read as follows:
+  17. INVESTIGATE THE ALLEGED COMMISSION  OF  ANY  CRIMINAL  OFFENSE  OR
+ OFFENSES  BY A POLICE OFFICER AS DEFINED IN SUBDIVISION SEVEN OF SECTION
+ EIGHT HUNDRED THIRTY-FIVE OF THIS CHAPTER, WHETHER OR NOT IN  CONNECTION
+ WITH  THE  PERFORMANCE  OF HIS OR HER OFFICIAL DUTIES, AND PROSECUTE ANY
+ SUCH PERSON OR PERSONS BELIEVED TO HAVE COMMITTED SUCH CRIMINAL  OFFENSE
+ OR OFFENSES. IN ALL SUCH PROCEEDINGS, THE ATTORNEY-GENERAL MAY APPEAR IN
+ PERSON,  OR BY HIS OR HER DEPUTY OR ASSISTANT, BEFORE ANY COURT OR GRAND
+ JURY THEREOF AND EXERCISE ALL OF THE  POWERS  AND  PERFORM  ALL  OF  THE
+ DUTIES  WITH  RESPECT  TO  SUCH  ACTIONS OR PROCEEDINGS WHICH A DISTRICT
+ ATTORNEY WOULD OTHERWISE  BE  AUTHORIZED  OR  REQUIRED  TO  EXERCISE  OR
+ PERFORM,  PROVIDED  HOWEVER  THAT  THE  COURT  AND/OR  GRAND JURY NOT BE
+ LOCATED WITHIN THE COUNTY WHERE THE CRIMINAL OFFENSE IS ALLEGED TO  HAVE
+ OCCURRED.  IN  ANY OF SUCH ACTIONS OR PROCEEDINGS, THE DISTRICT ATTORNEY
+ FOR THE COUNTY WHERE THE CRIMINAL OFFENSE IS ALLEGED  TO  HAVE  OCCURRED
+ AND  THE  DISTRICT ATTORNEY FOR THE COUNTY IN WHICH THE COURT IS LOCATED
+ SHALL ONLY EXERCISE SUCH POWERS AND PERFORM SUCH DUTIES AS ARE  REQUIRED
+ OF  HIM OR HER BY THE ATTORNEY-GENERAL OR THE DEPUTY OR ASSISTANT ATTOR-
+ NEY-GENERAL SO ATTENDING. IN ALL SUCH PROCEEDINGS, ALL EXPENSES INCURRED
+ BY THE ATTORNEY-GENERAL, INCLUDING THE SALARY OR OTHER  COMPENSATION  OF
+ ALL  DEPUTIES  AND  ASSISTANTS  EMPLOYED,  SHALL BE A CHARGE AGAINST THE
+ COUNTY WHERE THE MATTER WOULD OTHERWISE HAVE BEEN PROSECUTED.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09786-01-3
