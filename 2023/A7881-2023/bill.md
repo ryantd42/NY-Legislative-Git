@@ -1,0 +1,77 @@
+# Requires the approval of the legislature for certain proposed rule changes
+
+**Bill ID:** A7881
+**Session:** 2023
+**Sponsor:** Matthew Slater
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires the approval of the legislature for certain proposed rule changes relating to civil or criminal penalties, fiscal liability or responsibility, costs due by state residents, and changes to education curriculum.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7881
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  July 19, 2023
+  ___________
+ 
+ Introduced by M. of A. SLATER -- read once and referred to the Committee
+  on Governmental Operations
+ 
+ AN  ACT  to amend the state administrative procedure act, in relation to
+  requiring the approval of the legislature for  certain  proposed  rule
+  changes
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. The state administrative procedure act is amended by adding
+ a new section 201-b to read as follows:
+  § 201-B. LEGISLATIVE APPROVAL OF CERTAIN RULES. 1. PRIOR TO  COMMENCE-
+ MENT  OF THE PUBLIC COMMENT PERIOD OF A PROPOSED RULE REQUIRING LEGISLA-
+ TIVE APPROVAL UNDER THIS SECTION, SUCH PROPOSED RULE SHALL  BE  APPROVED
+ BY  THE  ASSEMBLY AND THE SENATE AFTER BEING SUBMITTED TO THE SPEAKER OF
+ THE ASSEMBLY, THE MAJORITY LEADER OF THE ASSEMBLY, THE  MINORITY  LEADER
+ OF THE ASSEMBLY, THE TEMPORARY PRESIDENT OF THE SENATE, AND THE MINORITY
+ LEADER OF THE SENATE.
+  2. A PROPOSED RULE SHALL REQUIRE LEGISLATIVE APPROVAL WHEN SUCH RULE:
+  (A) INCLUDES CIVIL OR CRIMINAL PENALTIES;
+  (B) IMPACTS CIVIL OR CRIMINAL PENALTIES;
+  (C)  IMPACTS  THE FISCAL LIABILITY OR RESPONSIBILITY OF A MUNICIPALITY
+ OR SCHOOL DISTRICT WITHIN THE STATE;
+  (D) IMPACTS THE COSTS DUE FOR A RESIDENT OF THE STATE, INCLUDING,  BUT
+ NOT LIMITED TO;
+  (I) TUITION;
+  (II) HUNTING LICENSE FEES; OR
+  (III) DMV FEES; OR
+  (E) CHANGES THE STATE'S EDUCATION CURRICULUM.
+  3. A PROPOSED RULE SHALL BE APPROVED UPON THE ADOPTION OF A RESOLUTION
+ SUBMITTED  BY  THE  AGENCY SEEKING TO ADOPT SUCH RULE BY SIMPLE MAJORITY
+ VOTE IN THE ASSEMBLY AND A SIMPLE MAJORITY VOTE IN THE SENATE.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11811-01-3
+ A. 7881  2
+ 
+  4. WHEN THE PROPOSED RULE IS TO BE IMPLEMENTED IN RESPONSE TO AN EMER-
+ GENCY SITUATION WHERE THE RESPONSE TIME TO THE EMERGENCY  IS  OF  IMPOR-
+ TANCE,  SUCH  RULE SHALL BE CONSIDERED APPROVED UNTIL SUCH TIME THAT THE
+ EMERGENCY IS NO LONGER OF CONCERN, AT WHICH TIME THE RULE SHALL NO LONG-
+ ER  BE  IN  EFFECT  UNLESS  AND UNTIL SUCH RULE HAS BEEN APPROVED BY THE
+ LEGISLATURE.
+  5. WHEN THE LEGISLATURE IS NOT SCHEDULED TO BE IN SESSION FOR THE NEXT
+ MONTH, A PROPOSED RULE SHALL  BE  DEEMED  TEMPORARILY  APPROVED  BY  THE
+ LEGISLATURE  UNTIL THE LEGISLATURE RETURNS TO SESSION, AT WHICH TIME THE
+ PROPOSED RULE SHALL REQUIRE APPROVAL OF THE LEGISLATURE.
+  § 2. This act shall take effect immediately.
