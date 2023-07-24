@@ -1,6 +1,6 @@
 # Waives the local residency requirement for certain public officers in the village of Portville
 
-**Bill ID:** S6110CA
+**Bill ID:** S6110CB
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Waives the local residency requirement for the village clerk and village treasur
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6110--A
+  6110--B
   Cal. No. 704
  
   2023-2024 Regular Sessions
@@ -30,11 +30,14 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee on Investigations and Govern-
   ment Operations -- reported favorably from said committee, ordered  to
   first  and  second  report,  ordered  to  a third reading, amended and
-  ordered reprinted, retaining its place in the order of third reading
+  ordered reprinted, retaining its place in the order of  third  reading
+  --  committed  to the Committee on Rules -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
- AN ACT to amend the public officers law,  in  relation  to  waiving  the
-  local  residency  requirement  for  public  officers in the village of
-  Portville
+ AN  ACT  to  amend  the  public officers law, in relation to waiving the
+  local residency requirement for the village clerk and village treasur-
+  er in the village of Portville
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -45,16 +48,16 @@ S T A T E  O F  N E W  Y O R K
  PROVISIONS  OF  THIS  SECTION REQUIRING A PERSON TO BE A RESIDENT OF THE
  POLITICAL SUBDIVISION OR MUNICIPAL CORPORATION OF THE STATE FOR WHICH HE
  OR SHE SHALL BE CHOSEN OR WITHIN WHICH HIS OR HER OFFICIAL FUNCTIONS ARE
- REQUIRED TO BE EXERCISED, SHALL NOT PREVENT A PERSON FROM HOLDING PUBLIC
- OFFICE OF THE VILLAGE OF PORTVILLE, PROVIDED THAT SUCH PERSON RESIDES IN
- THE STATE OF NEW YORK. PROVIDED, HOWEVER,  THAT  ANY  PERSON  PERFORMING
- SUCH  FUNCTIONS  OR  HOLDING SUCH OFFICES IN ANY OTHER COUNTY SHALL BE A
- RESIDENT OF SUCH COUNTY UNLESS OTHERWISE PROVIDED BY LAW.
+ REQUIRED TO BE EXERCISED, SHALL NOT PREVENT A PERSON  FROM  HOLDING  THE
+ OFFICE  OF  VILLAGE  CLERK AND VILLAGE TREASURER OF THE VILLAGE OF PORT-
+ VILLE, PROVIDED THAT SUCH PERSON RESIDES WITHIN CATTARAUGUS COUNTY OR AN
+ ADJOINING COUNTY WITHIN THE STATE OF NEW YORK.  PROVIDED, HOWEVER,  THAT
+ THE  PERSON PERFORMING THE FUNCTIONS OF VILLAGE CLERK AND VILLAGE TREAS-
+ URER IN ANY OTHER VILLAGE SHALL BE A RESIDENT  OF  SUCH  VILLAGE  UNLESS
+ OTHERWISE PROVIDED BY LAW.
   § 2. This act shall take effect immediately.
- 
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10464-02-3
+  LBD10464-05-3
