@@ -1,0 +1,228 @@
+# Creates the "protection of adults with developmental disabilities act"
+
+**Bill ID:** A7912
+**Session:** 2023
+**Sponsor:** Jo Anne Simon
+**Status:** In Assembly Committee
+
+## Summary
+
+Creates the "protection of adults with mental disabilities act" to provide for fair and meaningful due process proceedings relating to a proposed change of placement, a proposed change in service or denial of services by the offices of the department of mental hygiene.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  7912
+ 
+  2023-2024 Regular Sessions
+ 
+  I N  A S S E M B L Y
+ 
+  August 4, 2023
+  ___________
+ 
+ Introduced  by M. of A. SIMON -- read once and referred to the Committee
+  on Judiciary
+ 
+ AN ACT to amend the mental hygiene  law,  in  relation  to  due  process
+  procedures for all adults with developmental disabilities
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. This act shall be known and may be cited as the "protection
+ of adults with developmental disabilities act".
+  § 2. Legislative findings and intent. Certain federal and  state  laws
+ and  regulations  currently  provide various due process protections for
+ certain categories of persons  with  developmental  disabilities.  For
+ example,  the  federal  Individuals  with  Disabilities  Education  Act
+ provides a child or parents of a child with a disability  important  due
+ process  protections,  including  the  right  to an impartial hearing to
+ challenge a determination regarding the appropriate setting for a  child
+ with  a disability. New York state also provides substantial due process
+ protections for the parents of a child with a disability who needs resi-
+ dential care while this child is in school.
+  However, when a developmentally disabled individual reaches the age of
+ twenty-one, their due process protections  become  significantly  dimin-
+ ished  or,  in some cases, end completely.  Specifically, those develop-
+ mentally disabled adults in transitional care who reach the age of twen-
+ ty-one on or before June 30, 1996 have minimal due  process  protections
+ pursuant  to  section  13.38  of  the  mental hygiene law, and those who
+ reached age twenty-one on or after July 1, 1996 receive no  due  process
+ protections.  Some  of  New  York's  most  vulnerable adult populations,
+ including those who remain continuously  disabled  and  continuously  in
+ need  of  residential  or  other  forms of care, thus lose important due
+ process protections simply because of their age.
+  The legislature recognizes that inappropriate  or  ineffective  place-
+ ments  and/or  services  for persons with developmental disabilities can
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09789-01-3
+ A. 7912  2
+ 
+ have devastating effects for those persons  impacted,  including  abuse,
+ self-harm,  improper medication or even death.  Additionally, the legis-
+ lature recognizes the harm a person with developmental disabilities  can
+ suffer from the disruption to his/her current treatment needs, home life
+ and  familiar surroundings that an inappropriate change in placement, or
+ an improper change in services, entails. Moreover,  it  is  increasingly
+ the  policy of the state of New York to afford persons with disabilities
+ the opportunity to participate in their treatment and residential place-
+ ment decisions, and to obtain their or their guardian's consent prior to
+ any changes of placement.
+  The legislature hereby finds that New York state must ensure that  all
+ developmentally  disabled  adults  are  afforded necessary and basic due
+ process protections, and fair and meaningful  due  process  proceedings,
+ relating  to  proposed  changes  in  placement,  or  proposed changes in
+ services rendered, to those developmentally disabled  adults  under  the
+ care  of  New  York state agencies to ensure that appropriate, effective
+ treatment and placements are provided for this highly  vulnerable  adult
+ population.
+  In order to ensure that New York state is providing the most appropri-
+ ate  setting  and  services for all persons with developmental disabili-
+ ties, the legislature hereby finds that it is incumbent  upon  New  York
+ state  to  institute  uniform  minimum  due  process protections for all
+ persons with developmental disabilities age twenty-one and older.  These
+ protections  provide,  in  part,  for  fair  and  meaningful due process
+ proceedings relating to a proposed change of  placement  or  a  proposed
+ change  in  services by the offices of the department of mental hygiene,
+ and are intended to supplement and strengthen the patchwork  of  various
+ protections  for  adults  with developmental disabilities in place under
+ existing laws.
+  § 3. The mental hygiene law is amended by adding a new  section  13.36
+ to read as follows:
+ § 13.36 PROTECTION OF ADULTS WITH DEVELOPMENTAL DISABILITIES.
+  1.  DEFINITIONS.  AS  USED IN THIS SECTION, UNLESS OTHERWISE EXPRESSLY
+ STATED OR UNLESS THE CONTEXT OTHERWISE REQUIRES:
+  (A) "ADULTS WITH DEVELOPMENTAL DISABILITIES" MEANS ALL PERSONS WITH  A
+ MENTAL DISABILITY, AS THAT TERM IS DEFINED IN SECTION 1.03 OF THIS CHAP-
+ TER, AND WHO ARE TWENTY-ONE YEARS OLD OR OLDER, OR THE GUARDIAN OR GUAR-
+ DIANS  OR  REPRESENTATIVE  OR REPRESENTATIVES OF ANY SUCH PERSON, IF ANY
+ EXIST.
+  (B) "SERVICES" MEANS ANY AND ALL CARE AND TREATMENT RENDERED TO ADULTS
+ WITH DEVELOPMENTAL DISABILITIES (I) WHO ARE UNDER THE  CARE,  AUTHORITY,
+ JURISDICTION,  SUPERVISION  OR  CONTROL  OF  THE  VARIOUS OFFICES OF THE
+ DEPARTMENT, AND/OR (II) WHICH ARE FUNDED IN ANY PART BY  ANY  OFFICE  OF
+ THE DEPARTMENT. AS USED IN THIS SECTION, "SERVICES" INCLUDES, BUT IS NOT
+ LIMITED  TO, "SERVICES FOR THE DEVELOPMENTALLY DISABLED" AS THAT TERM IS
+ DEFINED IN SECTION 1.03 OF THIS CHAPTER, AS WELL AS ANY OTHER  TREATMENT
+ OF ANY FORM OR TYPE.
+  (C)  "TRIGGERING  EVENT"  MEANS ANY PROPOSED ACTION, OR DENIAL, BY THE
+ DEPARTMENT OR ANY OF ITS OFFICES, AS DESCRIBED IN  SUBPARAGRAPH  (I)  OF
+ PARAGRAPH (A) OR SUBPARAGRAPH (I) OF PARAGRAPH (B) OF SUBDIVISION TWO OF
+ THIS SECTION.
+  2.  ROLE OF DEPARTMENT; TRIGGERING EVENTS. THE DEPARTMENT, THROUGH ITS
+ VARIOUS OFFICES AND IN CONJUNCTION WITH ANY OTHER NECESSARY STATE AGENCY
+ OR OFFICE, WHERE APPLICABLE, SHALL  DEVELOP,  IMPLEMENT,  AND  ENSURE  A
+ SYSTEM  OF  MEANINGFUL  DUE PROCESS PROTECTIONS FOR ADULTS WITH DEVELOP-
+ MENTAL DISABILITIES, AND SHALL DEVELOP AND PROMULGATE REGULATIONS, POLI-
+ A. 7912  3
+ 
+ CIES AND PROCEDURES NECESSARY TO RESOLVE OBJECTIONS BY OR ON  BEHALF  OF
+ ADULTS WITH DEVELOPMENTAL DISABILITIES IN CONFORMANCE WITH THIS SECTION.
+ SUCH  DUE  PROCESS PROTECTIONS SHALL BE AFFORDED TO ADULTS WITH DEVELOP-
+ MENTAL DISABILITIES WHEN:
+  (A) ANY OFFICE OF THE DEPARTMENT INITIATES A PROPOSAL WHICH MAY RESULT
+ IN:
+  (I)  A  CHANGE  IN PLACEMENT FOR AN ADULT WITH DEVELOPMENTAL DISABILI-
+ TIES, INCLUDING ANY PROPOSED DISCHARGE OR  RELOCATION  FROM  A  FACILITY
+ WHERE SERVICES ARE BEING PROVIDED; OR
+  (II)  A  REDUCTION,  SUSPENSION OR TERMINATION OF SPECIFIC SERVICES OR
+ FUNDING WHICH IS BEING PROVIDED TO AN ADULT WITH DEVELOPMENTAL DISABILI-
+ TIES PURSUANT TO AN INDIVIDUALIZED TREATMENT PLAN, INCLUDING AN INDIVID-
+ UALIZED SERVICES PLAN; AND,
+  (III) A TIMELY OBJECTION TO SUCH PROPOSAL OR PROPOSALS AND  A  REQUEST
+ FOR  AN  ADMINISTRATIVE  APPEAL IS MADE BY OR ON BEHALF OF AN ADULT WITH
+ DEVELOPMENTAL DISABILITIES; OR,
+  (B) ANY OFFICE OF THE DEPARTMENT:
+  (I) DENIES AN ADULT WITH DEVELOPMENTAL DISABILITIES SPECIFIC  SERVICES
+ OR  A SPECIFIC PLACEMENT WHICH IS RECOMMENDED FOR THAT INDIVIDUAL PURSU-
+ ANT TO AN INDIVIDUALIZED TREATMENT  PLAN,  INCLUDING  AN  INDIVIDUALIZED
+ SERVICES PLAN; AND,
+  (II) A TIMELY OBJECTION TO SUCH DENIAL OR DENIALS AND A REQUEST FOR AN
+ ADMINISTRATIVE  APPEAL IS MADE BY OR ON BEHALF OF AN ADULT WITH DEVELOP-
+ MENTAL DISABILITIES.
+  3. MINIMUM DUE PROCESS PROTECTIONS. DUE PROCESS PROTECTIONS FOR ADULTS
+ WITH DEVELOPMENTAL DISABILITIES IMPLEMENTED BY THE  DEPARTMENT  AND  ITS
+ OFFICES  SHALL INCLUDE, AT A MINIMUM, THE RIGHTS OF ADULTS WITH DEVELOP-
+ MENTAL DISABILITIES:
+  (A) TO BE PROVIDED WITH ADVANCE WRITTEN NOTICE BY THE RELEVANT  OFFICE
+ OF  THE  DEPARTMENT  OF  ANY  TRIGGERING EVENT, WHETHER IT BE A PROPOSED
+ ACTION OR A DENIAL BY SUCH OFFICE OF THE DEPARTMENT, WHICH NOTICE  SHALL
+ SET  FORTH  ALL  REASONS  AND  DOCUMENTATION,  IF ANY, IN SUPPORT OF THE
+ DETERMINATION BY THE RELEVANT OFFICE OF THE DEPARTMENT, AND WHICH  SHALL
+ SPECIFICALLY  ADVISE  AN ADULT WITH DEVELOPMENTAL DISABILITIES AS TO HIS
+ OR HER RIGHT TO FORMALLY OBJECT IN WRITING AND TO REQUEST AN ADMINISTRA-
+ TIVE HEARING WITHIN THIRTY  DAYS OF RECEIPT OF NOTICE OF THE  TRIGGERING
+ EVENT, AND AS TO THEIR OTHER RIGHTS AS PROVIDED WITHIN THIS SECTION;
+  (B) TO BE REPRESENTED IN ANY PROCEEDINGS BEFORE THE RELEVANT OFFICE OF
+ THE  DEPARTMENT  BY  ANY PERSON INCLUDING, BUT NOT LIMITED TO, A PARENT,
+ GUARDIAN, CORRESPONDENT, ADVOCATE, LEGAL REPRESENTATIVE, THEMSELVES,  OR
+ ANY OTHER PERSON OR REPRESENTATIVE;
+  (C) TO REQUEST, AND TO BE PROVIDED WITH, AN OPPORTUNITY TO PRESENT, IN
+ A  MEANINGFUL  FASHION  AND  AT A REASONABLE TIME NOT LESS THAN FOURTEEN
+ DAYS FROM THE DATE A WRITTEN REQUEST FOR AN  ADMINISTRATIVE  HEARING  IS
+ MADE,  ANY OBJECTION TO A TRIGGERING EVENT BY THE RELEVANT OFFICE OF THE
+ DEPARTMENT TO AN IMPARTIAL DECISION MAKER IN THE CONTEXT OF AN EVIDENTI-
+ ARY HEARING;
+  (D) TO DISCOVER AND OBTAIN,  AND  HAVE  A  MEANINGFUL  OPPORTUNITY  TO
+ REVIEW  IN  ADVANCE OF THE EVIDENTIARY HEARING, ANY DOCUMENTS TO BE USED
+ BY THE RELEVANT OFFICE OF THE DEPARTMENT IN SUPPORT OF ITS DETERMINATION
+ AT SUCH HEARING;
+  (E) TO PRESENT AND ELICIT EVIDENCE AND  WITNESSES,  AND  CONFRONT  AND
+ CROSS-EXAMINE EVIDENCE AND WITNESSES AT SUCH EVIDENTIARY HEARING;
+  (F)  TO OBTAIN A REASONABLY PROMPT WRITTEN DETERMINATION BY THE IMPAR-
+ TIAL HEARING OFFICER, WHICH SHALL BE BASED ON THE EVIDENCE AND TESTIMONY
+ INTRODUCED AND RENDERED AT THE HEARING, AND IN WHICH  IT  IS  DETERMINED
+ A. 7912  4
+ 
+ WHETHER THE TRIGGERING EVENT TAKEN OR PROPOSED BY THE RELEVANT OFFICE OF
+ THE DEPARTMENT, IF ULTIMATELY ALLOWED, WOULD BE (I) IN THE OVERALL BEST,
+ INDIVIDUAL  INTERESTS OF THE ADULT WITH DEVELOPMENTAL DISABILITIES, (II)
+ RESULT  IN  APPROPRIATE,  EFFECTIVE  SERVICES  AND/OR PLACEMENT FOR SUCH
+ INDIVIDUAL, AND (III) SO AS TO BEST ENABLE THEIR PERSONAL DEVELOPMENT;
+  (G) TO APPEAL, IF NECESSARY, THE WRITTEN DETERMINATION RENDERED BY THE
+ IMPARTIAL HEARING OFFICER TO THE COMMISSIONER OF THE RELEVANT OFFICE  OF
+ THE  DEPARTMENT,  WHO  MAY  REMAND THE MATTER TO THE HEARING OFFICER FOR
+ FURTHER REVIEW OR FINDINGS, IF NECESSARY, AND WHO SHALL, AFTER REVIEW OF
+ THE MATTER, ISSUE A FURTHER WRITTEN DETERMINATION WHICH SHALL BE BINDING
+ ON THE RELEVANT OFFICE OF THE DEPARTMENT  AS  ITS  FINAL  ADMINISTRATIVE
+ DETERMINATION;
+  (H)  TO APPEAL, IF NECESSARY, THE FINAL WRITTEN DETERMINATION RENDERED
+ BY THE COMMISSIONER ON BEHALF OF THE RELEVANT OFFICE OF  THE  DEPARTMENT
+ BY  WAY  OF  A PROCEEDING PURSUANT TO ARTICLE SEVENTY-EIGHT OF THE CIVIL
+ PRACTICE LAW AND RULES; AND
+  (I) TO CONTINUED SERVICES, PROGRAMMING, FUNDING AND PLACEMENT  BY  THE
+ RELEVANT  OFFICE  OF  THE DEPARTMENT, OF THE SAME LEVEL AND TYPE AS THAT
+ PROVIDED BY SUCH OFFICE PRIOR TO THE TRIGGERING EVENT, DURING THE PERIOD
+ THAT AN OBJECTION BY AN ADULT WITH DEVELOPMENTAL DISABILITIES IS  UNDER-
+ GOING ADMINISTRATIVE AND/OR APPELLATE REVIEW, UNLESS AS OTHERWISE AGREED
+ TO  BY SUCH OFFICE AND SUCH ADULT WITH DEVELOPMENTAL DISABILITIES OR HIS
+ OR HER GUARDIAN OR REPRESENTATIVE.
+  4. NOTHING IN THIS  SECTION  SHALL  PREVENT  THE  DEPARTMENT  AND  ITS
+ OFFICES  FROM  DESIGNING  AND IMPLEMENTING DISPUTE RESOLUTION MECHANISMS
+ WHICH ARE NOT INCONSISTENT WITH THE DUE PROCESS PROTECTIONS  FOR  ADULTS
+ WITH  DEVELOPMENTAL  DISABILITIES  SET  FORTH BY THIS SECTION, INCLUDING
+ EXPEDITED, OR INFORMAL (NON-BINDING), DISPUTE RESOLUTION MECHANISMS THAT
+ MAY BE AGREED TO BY THE RELEVANT OFFICE OF THE DEPARTMENT AND SUCH ADULT
+ WITH DEVELOPMENTAL DISABILITIES OR HIS  OR  HER  GUARDIAN  OR  REPRESEN-
+ TATIVE.
+  5.  THE  MINIMUM DUE PROCESS PROTECTIONS FOR ADULTS WITH DEVELOPMENTAL
+ DISABILITIES SET FORTH WITHIN THIS SECTION SHALL SERVE TO SUPPLEMENT AND
+ REINFORCE ANY AND ALL  OTHER  LAWS  OR  AUTHORITIES  WHICH  PROVIDE  FOR
+ CERTAIN  RIGHTS  FOR  THE  DEVELOPMENTALLY  DISABLED  ADULT  POPULATION,
+ INCLUDING THE STATE ADMINISTRATIVE PROCEDURE ACT OR  APPLICABLE  FEDERAL
+ REQUIREMENTS,  IF  ANY,  PERTAINING  TO DUE PROCESS PROTECTIONS FOR SUCH
+ INDIVIDUALS. IN THE ABSENCE OF REGULATIONS, THE PROVISIONS OF THE  STATE
+ ADMINISTRATIVE PROCEDURE ACT SHALL CONTROL THE HEARING PROCESS WHERE NOT
+ INCONSISTENT  WITH  THE  PROVISIONS  OF  THIS  SECTION.  THE DEPARTMENT,
+ THROUGH ITS OFFICES, SHALL TAKE ALL  ACTIONS  NECESSARY  TO  ENSURE  THE
+ CONTINUED  COMPLIANCE  WITH  ANY  APPLICABLE  FEDERAL AUTHORITIES TO THE
+ EXTENT THAT ANY PROVISION OF THIS SECTION MAY BE DEEMED TO CONFLICT WITH
+ SUCH AUTHORITIES.
+  § 4. This act shall take effect immediately.
