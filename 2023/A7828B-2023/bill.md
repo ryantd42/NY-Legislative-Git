@@ -1,6 +1,6 @@
 # Enacts the New York State American Freedmen Equity Task Force on Reparations Remedies Act; appropriation
 
-**Bill ID:** A7828BA
+**Bill ID:** A7828BB
 **Session:** 2023
 **Sponsor:** Nikki Lucas
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts the "New York State American Freedmen Task Force on Reparations Remedies 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7828--A
+  7828--B
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. LUCAS -- read once and referred to the Committee
   on Governmental Operations  --  committee  discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
- 
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  again reported from said committee with amendments, ordered  reprinted
+  as amended and recommitted to said committee
+
  AN ACT to acknowledge New York state's role in the fundamental injustice
   and  inhumanity  of  the  institution of slavery; to establish the New
   York State American Freedmen Task Force on  Reparations  Remedies;  to
@@ -56,14 +58,14 @@ S T A T E  O F  N E W  Y O R K
  sanctioned by the United States from 1776 through 1865, inclusive.
   (c) The chattel slavery that flourished in the United  States  consti-
  tuted  an  immoral  and inhumane deprivation of Africans' life, liberty,
- citizenship rights, and cultural heritage and denied them the fruits  of
- their own labor.
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07407-07-3
- A. 7828--A  2
+  LBD07407-08-3
+ A. 7828--B  2
  
+ citizenship rights, and cultural heritage and denied them the fruits  of
+ their own labor.
   (d)  A  preponderance  of  scholarly, legal, and community evidentiary
  documentation, as well as popular culture markers, constitute the  basis
  for  inquiry  into the ongoing effects of the institution of slavery and
@@ -117,12 +119,12 @@ S T A T E  O F  N E W  Y O R K
   (b) Duties. The task force shall perform the following duties:
   (i)  Study  the  current  condition  of  individuals  who descend from
  persons enslaved in the United States, American  Freedmen,  both  across
+ A. 7828--B  3
+ 
  the  nation, generally, and in the state of New York, specifically, as a
  result of:
- A. 7828--A  3
- 
-  (A) The de jure and de facto discrimination against American  Freedmen
- and  their  descendants  from  the  end of the Civil War to the present,
+  (A)  The de jure and de facto discrimination against American Freedmen
+ and their descendants from the end of the  Civil  War  to  the  present,
  including economic, political, educational, and social discrimination.
   (B)  The  lingering negative effects of the institution of slavery and
  discrimination on living descendants of persons enslaved in  the  United
@@ -175,10 +177,10 @@ S T A T E  O F  N E W  Y O R K
   (v) Submit a preliminary report of its findings to the legislature  no
  later  than  sixteen  months  after the date of the first meeting of the
  task force. The final report of its recommendations shall  be  submitted
+ A. 7828--B  4
+ 
  to  the  legislature no later than fourteen months after the preliminary
  report is submitted.
- A. 7828--A  4
- 
   (vi) Designate individuals who are American Freedmen as the population
  that will be the focus and sole beneficiaries of the task force's analy-
  sis.
@@ -233,68 +235,68 @@ S T A T E  O F  N E W  Y O R K
  authority to:
   (i) create subcommittees.
   (ii) create its own bylaws.
+ A. 7828--B  5
+ 
   (iii) hold such hearings and sit and act at such  times  and  at  such
  places in the United States, as the task force considers appropriate.
- A. 7828--A  5
- 
   (iv)  request  the production of books, records, correspondence, memo-
  randa, papers, and documents.
-  (v)  seek  an  order  from  a  Superior  Court compelling testimony or
+  (v) seek an order  from  a  Superior  Court  compelling  testimony  or
  compliance with a subpoena.
   (b) Powers of subcommittees and members. Any subcommittee or member of
- the task force may, if authorized by the task  force,  take  any  action
+ the  task  force  may,  if authorized by the task force, take any action
  which the task force is authorized to take by this section.
-  (c)  Obtaining official data. The task force may acquire directly from
+  (c) Obtaining official data. The task force may acquire directly  from
  the head of any state agency, or instrumentality of the state, available
- information which the task force considers useful in  the  discharge  of
- its  duties.  All  departments,  agencies,  and instrumentalities of the
- state shall cooperate with the task force with respect to such  informa-
- tion  and  shall  furnish all information requested by the task force to
- the extent permitted by law. The task force shall keep confidential  any
- information  received  from a state agency that is meant to be confiden-
+ information  which  the  task force considers useful in the discharge of
+ its duties. All departments,  agencies,  and  instrumentalities  of  the
+ state  shall cooperate with the task force with respect to such informa-
+ tion and shall furnish all information requested by the  task  force  to
+ the  extent permitted by law. The task force shall keep confidential any
+ information received from a state agency that is meant to  be  confiden-
  tial or exempt from article 6 of the public officers law.
   § 7. Termination. The task force shall terminate ninety days after the
  date on which the task force submits its final report to the Legislature
- as provided in paragraph (v) of subdivision (b) of section four of  this
+ as  provided in paragraph (v) of subdivision (b) of section four of this
  act.
   § 8. Administrative provisions. (a) The task force may appoint and fix
  the compensation of such personnel as the task force considers appropri-
  ate.
   (b) The task force shall have the administrative, technical, and legal
  assistance of the state.
-  (c)  The  task  force  may procure supplies, services, and property by
+  (c) The task force may procure supplies,  services,  and  property  by
  contract in accordance with applicable laws and rules including, but not
- limited to, sections one hundred three  and  one  hundred  four  of  the
+ limited  to,  sections  one  hundred  three  and one hundred four of the
  general municipal law.
-  (d)  The  task  force  may  enter  into  contracts for the purposes of
- conducting research or surveys, preparing reports, and performing  other
- activities  necessary  for the discharge of the duties of the task force
- with state departments, agencies, and other  instrumentalities,  federal
- departments,  agencies,  and  other instrumentalities, and private enti-
+  (d) The task force may  enter  into  contracts  for  the  purposes  of
+ conducting  research or surveys, preparing reports, and performing other
+ activities necessary for the discharge of the duties of the  task  force
+ with  state  departments, agencies, and other instrumentalities, federal
+ departments, agencies, and other instrumentalities,  and  private  enti-
  ties.
   § 9. New York state freedmen's bureau. There is hereby established the
- New York state freedmen's bureau, which may be referred to in  this  act
+ New  York  state freedmen's bureau, which may be referred to in this act
  as the "freedmen's bureau", charged with the distribution of reparations
- and  reparative  justice  as  recommended  by the task force and further
- passed in legislation by the state. In addition, the bureau shall  focus
+ and reparative justice as recommended by  the  task  force  and  further
+ passed  in legislation by the state. In addition, the bureau shall focus
  on, but not be limited to: genealogical research, community life, educa-
- tion,  and  workforce  development for American Freedmen.  The bureau's
- initial tasks upon formation will be genealogical research  specifically
- for  connecting  American  Freedmen with their lineage. Also, during the
+ tion, and workforce development for American  Freedmen.  The  bureau's
+ initial  tasks upon formation will be genealogical research specifically
+ for connecting American Freedmen with their lineage.  Also,  during  the
  task force's existence the bureau will serve to take on all genealogical
- work directed by the task force. Once  the  task  force  concludes,  its
- findings  and recommendations will direct the continued scope of the New
- York freedmen's bureau which will  be  tasked  with  being  the  central
- administrator  of  programs  recommended  by the task force which become
- law.
+ work  directed  by  the  task  force. Once the task force concludes, its
+ findings and recommendations will direct the continued scope of the  New
+ York  freedmen's  bureau  which  will  be  tasked with being the central
+ administrator of programs recommended by the  task  force  for  American
+ Freedmen which become law.
   § 10. Federal reparations. Any state-level reparation actions that are
- undertaken as a result of this task force are not a replacement for  any
- reparations  enacted  at the federal level, and shall not be interpreted
+ undertaken  as a result of this task force are not a replacement for any
+ reparations enacted at the federal level, and shall not  be  interpreted
  as such.
- A. 7828--A  6
+ A. 7828--B  6
  
-  § 11. Budget. Monies appropriated for  the  New  York  state  American
- Freedmen  task  force  on  reparations  remedies  and the New York state
+  §  11.  Budget.  Monies  appropriated  for the New York state American
+ Freedmen task force on reparations  remedies  and  the  New  York  state
  freedmen's bureau shall be distributed as follows:
   (a)  New  York  freedmen's bureau: fifty million dollars ($50,000,000)
  per fiscal year.
