@@ -1,6 +1,6 @@
 # Relates to construction of voting machines and systems
 
-**Bill ID:** A3992A
+**Bill ID:** A3992AA
 **Session:** 2023
 **Sponsor:** Robert C. Carroll
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to construction of voting machines and systems.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3992
+  3992--A
  
   2023-2024 Regular Sessions
  
@@ -31,9 +31,11 @@ S T A T E  O F  N E W  Y O R K
   THIELE, JACOBSON, FAHY,  DURSO,  GALLAGHER,  MAMDANI,  NORRIS,  TAGUE,
   BURGOS,  ANDERSON,  BRABENEC,  TAYLOR,  BARRETT,  McDONOUGH, ZINERMAN,
   COLTON, CLARK, SIMPSON, PRETLOW, GONZALEZ-ROJAS, DE LOS SANTOS, LUCAS,
-  TAPIA, GANDOLFO,  GLICK,  ROZIC,  GIBBS,  SEAWRIGHT,  J. A. GIGLIO  --
-  Multi-Sponsored  by  -- M.  of A. MIKULIN -- read once and referred to
-  the Committee on Election Law
+  TAPIA, GANDOLFO, GLICK, ROZIC, GIBBS, SEAWRIGHT,  J. A. GIGLIO,  SHIM-
+  SKY,  DARLING,  LEVENBERG,  SHRESTHA -- Multi-Sponsored by -- M. of A.
+  MIKULIN -- read once and referred to the Committee on Election Law  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the election law, in relation  to  construction  of  and
   requirements for voting machines and systems
@@ -57,72 +59,72 @@ S T A T E  O F  N E W  Y O R K
  approved by the state board of elections, or the use of which  has  been
  specifically  authorized  by  law;  and thereupon such voting machine or
  system may be used at any or all elections and  shall  be  used  at  all
- general  or  special elections held by such boards in such city, town or
- village and in every contested primary election in the city of New  York
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04070-01-3
- A. 3992  2
+  LBD04070-02-3
+ A. 3992--A  2
  
+ general  or  special elections held by such boards in such city, town or
+ village and in every contested primary election in the city of New  York
  and  in every contested primary election outside the city of New York in
- which there are one thousand or more enrolled voters qualified to  vote.
+ which  there are one thousand or more enrolled voters qualified to vote.
  [No more than two types of voting machines or systems may be used by any
- local  board  of  elections  at  a single election.] Notwithstanding the
- other provisions of this subdivision, any local board of  elections  may
- borrow  or  lease  for  use on an experimental basis for a period of not
+ local board of elections at  a  single  election.]  Notwithstanding  the
+ other  provisions  of this subdivision, any local board of elections may
+ borrow or lease for use on an experimental basis for  a  period  of  not
  more than one year each, voting machines or systems of any type approved
  by the state board of elections.
-  § 3. Paragraphs b, e, j, s and t of subdivision 1 of section 7-202  of
- the  election  law,  as  added  by  chapter 181 of the laws of 2005, are
- amended and three new paragraphs u,  v  and  w  are  added  to  read  as
+  §  3. Paragraphs b, e, j, s and t of subdivision 1 of section 7-202 of
+ the election law, as added by chapter 181  of  the  laws  of  2005,  are
+ amended  and  three  new  paragraphs  u,  v  and  w are added to read as
  follows:
-  b.  permit  a  voter to vote for any person for any office, whether or
- not nominated as a candidate by any party or independent  body  [without
- the  ballot,  or any part thereof, being removed from the machine at any
+  b. permit a voter to vote for any person for any  office,  whether  or
+ not  nominated  as a candidate by any party or independent body [without
+ the ballot, or any part thereof, being removed from the machine  at  any
  time];
-  e. provide the voter an opportunity  to  privately  and  independently
+  e.  provide  the  voter  an opportunity to privately and independently
  MARK AND verify votes selected [and the] ON AN INDIVIDUAL, VOTER-VERIFI-
- ABLE  PAPER BALLOT AND THE ability to privately and independently change
- such votes or correct any error before the ballot is cast  and  counted,
- INCLUDING  BY  OFFERING THE VOTER A NEW PAPER BALLOT AS MANY TIMES AS IS
- ALLOWED BY STATUTE OR REGULATION. FOR THE PURPOSES OF THIS  SUBDIVISION,
+ ABLE PAPER BALLOT AND THE ability to privately and independently  change
+ such  votes  or correct any error before the ballot is cast and counted,
+ INCLUDING BY OFFERING THE VOTER A NEW PAPER BALLOT AS MANY TIMES  AS  IS
+ ALLOWED  BY STATUTE OR REGULATION. FOR THE PURPOSES OF THIS SUBDIVISION,
  THE TERM "INDIVIDUAL, VOTER-VERIFIABLE PAPER BALLOT" MEANS EITHER: (I) A
- PAPER  BALLOT MARKED BY THE VOTER BY HAND; OR (II) A PAPER BALLOT MARKED
- THROUGH THE USE OF A NONTABULATING BALLOT MARKING DEVICE OR SYSTEM.  FOR
- THE  PURPOSES  OF THIS TITLE, A "BALLOT MARKING DEVICE" IS A DEVICE THAT
+ PAPER BALLOT MARKED BY THE VOTER BY HAND; OR (II) A PAPER BALLOT  MARKED
+ THROUGH  THE USE OF A NONTABULATING BALLOT MARKING DEVICE OR SYSTEM. FOR
+ THE PURPOSES OF THIS TITLE, A "BALLOT MARKING DEVICE" IS A  DEVICE  THAT
  PROVIDES VOTERS, INCLUDING VOTERS WITH DISABILITIES, THE ABILITY TO MARK
- VOTES ON PHYSICAL, PAPER BALLOTS PRIVATELY AND  INDEPENDENTLY.  FOR  THE
- PURPOSES  OF  THIS  TITLE,  A "NONTABULATING BALLOT MARKING DEVICE" IS A
+ VOTES  ON  PHYSICAL,  PAPER BALLOTS PRIVATELY AND INDEPENDENTLY. FOR THE
+ PURPOSES OF THIS TITLE, A "NONTABULATING BALLOT  MARKING  DEVICE"  IS  A
  BALLOT MARKING DEVICE THAT DOES NOT TABULATE OR TRANSMIT VOTES OR RETAIN
- ANY RECORD OF A  VOTER'S  SELECTIONS,  OTHER  THAN  THE  ORIGINAL  PAPER
- BALLOT,  AFTER THE VOTER HAS FINISHED MARKING THE PAPER BALLOT AND USING
+ ANY  RECORD  OF  A  VOTER'S  SELECTIONS,  OTHER  THAN THE ORIGINAL PAPER
+ BALLOT, AFTER THE VOTER HAS FINISHED MARKING THE PAPER BALLOT AND  USING
  THE DEVICE TO REVIEW SELECTIONS;
-  j. [retain all paper ballots cast or produce and retain a voter  veri-
- fied  permanent  paper record which shall be presented to the voter from
- behind a window or other device before the ballot is cast,]  FOR  BALLOT
- SCANNERS,  RETAIN  PAPER  BALLOTS  IN  A MANNER INTENDED AND DESIGNED TO
- PROTECT THE PRIVACY OF  THE  VOTER;  FOR  NONTABULATING  BALLOT  MARKING
- DEVICES,  PRODUCE  OR  PROCESS  PAPER  BALLOTS  in a manner intended and
- designed to protect the privacy of the voter; such ballots  [or  record]
+  j.  [retain all paper ballots cast or produce and retain a voter veri-
+ fied permanent paper record which shall be presented to the  voter  from
+ behind  a  window or other device before the ballot is cast,] FOR BALLOT
+ SCANNERS, RETAIN PAPER BALLOTS IN A  MANNER  INTENDED  AND  DESIGNED  TO
+ PROTECT  THE  PRIVACY  OF  THE  VOTER;  FOR NONTABULATING BALLOT MARKING
+ DEVICES, PRODUCE OR PROCESS PAPER  BALLOTS  in  a  manner  intended  and
+ designed  to  protect the privacy of the voter; such ballots [or record]
  shall allow a manual audit and shall be preserved in accordance with the
  provisions of section 3-222 of this chapter;
-  s.  permit alternative language accessibility pursuant to the require-
- ments of section 203 of  the  Voting  Rights  Act  of  1965  (42  U.S.C.
- 1973aa-1a)  such  that  it  must  have  the capacity to display the full
- ballot in the alternative  languages  required  by  the  federal  Voting
- Rights  Act  if  such  voting machine or system is to be used where such
- alternative languages are required or where the local board  deems  such
+  s. permit alternative language accessibility pursuant to the  require-
+ ments  of  section  203  of  the  Voting  Rights  Act of 1965 (42 U.S.C.
+ 1973aa-1a) such that it must have  the  capacity  to  display  the  full
+ ballot  in  the  alternative  languages  required  by the federal Voting
+ Rights Act if such voting machine or system is to  be  used  where  such
+ alternative  languages  are required or where the local board deems such
  feature necessary; [and]
-  t.  not  include  any  device  or functionality potentially capable of
- externally transmitting or receiving data via the internet or via  radio
+  t. not include any device  or  functionality  potentially  capable  of
+ externally  transmitting or receiving data via the internet or via radio
  waves or via other wireless means[.];
-  U.  BE  CONSTRUCTED  SO  THAT,  AFTER  THE PAPER BALLOT IS CAST BY THE
+  U. BE CONSTRUCTED SO THAT, AFTER THE  PAPER  BALLOT  IS  CAST  BY  THE
  VOTER, THE VOTING MACHINE OR SYSTEM NEVER PASSES THE CAST BALLOT UNDER A
- PRINTER THAT CAN PRINT VOTES ONTO THE BALLOT, INCLUDING AS A  RESULT  OF
- UNAUTHORIZED, MALICIOUS OR FAULTY SOFTWARE OR FIRMWARE;
- A. 3992  3
+ A. 3992--A  3
  
+ PRINTER  THAT  CAN PRINT VOTES ONTO THE BALLOT, INCLUDING AS A RESULT OF
+ UNAUTHORIZED, MALICIOUS OR FAULTY SOFTWARE OR FIRMWARE;
   V.  BE  CONSTRUCTED  SO THE CONFIGURATION OR FUNCTIONALITY OF A VOTING
  MACHINE OR SYSTEM DOES NOT INCLUDE, WITHIN  THE  SAME  PHYSICAL  DEVICE,
  BOTH  (I)  BALLOT  MARKING AND (II) TABULATING OR TRANSMITTING A VOTER'S
@@ -149,14 +151,7 @@ S T A T E  O F  N E W  Y O R K
  MARK  A  PAPER BALLOT. ALL PAPER BALLOTS MUST BE PRINTED, SCANNABLE, AND
  INCLUDE ALL RELEVANT CONTESTS AND CANDIDATES.
   § 5. This act shall take effect immediately; provided,  however,  that
- any  local  board of elections that purchased voting machines or systems
- prior to such date which are not in compliance with the requirements  of
- paragraph  u or v of subdivision 1 and subdivision 4 of section 7-202 of
- the election law, may continue to use, maintain and replace such  voting
- machines  and  systems,  but  may replace them only with identical model
- voting machines or systems made by the same manufacturer,  or  identical
- model  voting machines or systems with de minimis changes in such voting
- machines' or systems' hardware, software,  technical  data  package,  or
- data, the nature of which will not materially alter the voting machines'
- or systems' reliability, functionality, capability, or operation; any de
- minimis changes shall be approved by the state board of elections.
+ voting  machines  purchased  prior to the effective date of this act may
+ continue to be used and maintained if they are designed and  constructed
+ to  utilize  individual, voter verifiable paper ballots, as such term is
+ defined in section 7-202 of the election law.
