@@ -1,6 +1,6 @@
 # Designates Pinkster day as a day of commemoration
 
-**Bill ID:** A7800A
+**Bill ID:** A7800AA
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Designates Pinkster day as a day of commemoration annually on the seventh Sunday
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7800
+  7800--A
  
   2023-2024 Regular Sessions
  
@@ -26,38 +26,67 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  CUNNINGHAM  -- read once and referred to the
-  Committee on Governmental Operations
+  Committee on Governmental Operations  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN ACT to amend the general construction law, in relation to the  desig-
-  nation of Pinkster day as a public holiday
- 
+ AN ACT to amend the executive law, in relation  to  the  designation  of
+  Pinkster day as a day of commemoration
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Section 24 of the general construction law, as  amended  by
- chapter 249 of the laws of 2020, is amended to read as follows:
-  § 24. Public holidays; half-holidays. The term public holiday includes
- the  following days in each year: the first day of January, known as New
- Year's day; the third Monday of January,  known  as  Dr.  Martin  Luther
- King, Jr. day; the twelfth day of February, known as Lincoln's birthday;
- the  third  Monday  in  February,  known  as  Washington's birthday; THE
- SEVENTH SUNDAY AFTER EASTER, KNOWN AS PINKSTER DAY; the last  Monday  in
- May,  known  as  Memorial  day; the second Sunday in June, known as Flag
- day; the nineteenth day of June, known as Juneteenth; the fourth day  of
- July, known as Independence day; the first Monday in September, known as
- Labor  day;  the  second  Monday  in October, known as Columbus day; the
- eleventh day of November, known as Veterans' day; the fourth Thursday in
- November, known as Thanksgiving day; and the twenty-fifth day of  Decem-
- ber,  known as Christmas day, and if any of such days except Flag day is
- Sunday, the next day thereafter; each general election day, and each day
- appointed by the president of the United States or by  the  governor  of
- this state as a day of general thanksgiving, general fasting and prayer,
- or  other  general religious observances. The term half-holiday includes
- the period from noon to midnight of each Saturday which is not a  public
- holiday.
-  § 2. This act shall take effect immediately.
  
+  Section 1. Subdivision 3 of section 168-a of  the  executive  law,  as
+ amended  by  chapter  237  of  the  laws  of 2020, is amended to read as
+ follows:
+  3. The following days shall be days of  commemoration  in  each  year:
+ January  sixth,  to  be known as "Haym Salomon Day", January twenty-sev-
+ enth, to be known as "Holocaust Remembrance Day", February fourth, to be
+ known as "Rosa Parks Day", February fifteenth, to be known as "Susan  B.
+ Anthony  Day",  February sixteenth, to be known as "Lithuanian Independ-
+ ence Day", February twenty-eighth, to be known as  "Gulf  War  Veterans'
+ Day",  March  fourth,  to  be known as "Pulaski Day", March tenth, to be
+ known as "Harriet Tubman Day", March twenty-ninth, to be known as "Viet-
+ nam Veterans' Day", THE SEVENTH SUNDAY AFTER  EASTER,  TO  BE  KNOWN  AS
+ "PINKSTER DAY", April ninth, to be known as "POW Recognition Day", April
+ twenty-seventh,  to  be known as "Coretta Scott King Day", April twenty-
+ eighth, to be known as "Workers' Memorial Day", the first Tuesday in May
+ to be known as "New York State Teacher  Day",  May  seventeenth,  to  be
+ known  as "Thurgood Marshall Day", the first Sunday in June, to be known
+ as "Children's Day", June second, to be known as  "Italian  Independence
+ Day",  June  twelfth,  to  be known as "Women Veterans Recognition Day",
+ June nineteenth, to be known as "Juneteenth Freedom Day",  June  twenty-
+ fifth,  to  be known as "Korean War Veterans' Day", the second Monday in
+ July, to be known  as  "Abolition  Commemoration  Day",  August  twenty-
+ fourth,  to  be  known  as  "Ukrainian Independence Day", August twenty-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11622-01-3
+  LBD11622-02-3
+ A. 7800--A  2
+ 
+ sixth, to be known as "Women's Equality Day", September eleventh, to  be
+ known  as "Battle of Plattsburgh Day" and also to be known as "September
+ 11th Remembrance Day", September thirteenth, to be known as "John  Barry
+ Day"  and  also to be known as "Uncle Sam Day in the State of New York",
+ September seventeenth, to be known as  "Friedrich  Wilhelm  von  Steuben
+ Memorial  Day",  the  third Friday in September to be known as "New York
+ State POW/MIA Recognition Day" except  if  such  date  of  commemoration
+ cannot  be  observed  due to a religious holiday, such observances shall
+ then be conducted on the second Friday of September, the  last  Saturday
+ in  September,  to be known as "War of 1812 Day", the fourth Saturday of
+ September, known as "Native-American Day", the last Sunday in September,
+ to be known as "Gold Star Mothers' Day", October fifth, to be  known  as
+ "Raoul Wallenberg Day", October eleventh, to be known as "New Netherland
+ Day in the State of New York", October eighteenth, to be known as "Disa-
+ bilities  History Day", October twenty-seventh, to be known as "Theodore
+ Roosevelt Day", November ninth, to be known as  "Witness  for  Tolerance
+ Day", November twelfth, to be known as "Elizabeth Cady Stanton Day", the
+ third  Tuesday in November to be known as "New York State School-Related
+ Professionals Recognition Day",  November  thirtieth,  to  be  known  as
+ "Shirley  Chisholm  Day",  December third, to be known as "International
+ Day of Persons with Disabilities", December  seventh,  to  be  known  as
+ "Pearl  Harbor  Day",  December sixteenth, to be known as "Bastogne Day"
+ and that day of the Asian lunar calendar designated as new  year  to  be
+ known as "Asian New Year".
+  § 2. This act shall take effect immediately.
