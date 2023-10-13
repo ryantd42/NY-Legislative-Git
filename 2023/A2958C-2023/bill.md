@@ -1,6 +1,6 @@
 # Provides a payroll tax credit for compensation of journalists; and to provide for the repeal of such provisions
 
-**Bill ID:** A2958CB
+**Bill ID:** A2958CC
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides a payroll tax credit for compensation of journalists; provides for the 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2958--B
+  2958--C
  
   2023-2024 Regular Sessions
  
@@ -33,7 +33,9 @@ S T A T E  O F  N E W  Y O R K
   once and referred to the Committee on  Ways  and  Means  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to  said  committee  -- again reported from said committee with amend-
-  ments, ordered reprinted as amended and recommitted to said committee
+  ments, ordered reprinted as amended and recommitted to said  committee
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
  
  AN ACT to amend the tax law, in relation  to  providing  a  payroll  tax
   credit  for compensation of journalists; and to provide for the repeal
@@ -57,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  SECTION  DURING  ANY  CALENDAR  QUARTER  BY THE ELIGIBLE NEWS JOURNALIST
  EMPLOYER SHALL NOT EXCEED TWELVE THOUSAND FIVE HUNDRED  DOLLARS.  CREDIT
  IS  ALLOWED  FOR  INDIVIDUALS PAID IN EXCESS OF THIS AMOUNT BUT SHALL BE
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02644-09-3
+ A. 2958--C  2
+ 
  LIMITED TO A PORTION OF THE  WAGES  PAID  UP  TO  TWELVE  THOUSAND  FIVE
  HUNDRED DOLLARS PER QUARTER.
   (2) THE PROVISIONS OF THIS SECTION SHALL ONLY APPLY TO THE FIRST TWEN-
  TY CALENDAR QUARTERS BEGINNING AFTER THE EFFECTIVE DATE OF THIS SECTION.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02644-07-3
- A. 2958--B  2
- 
   (3)  THIS  SECTION  SHALL  NOT APPLY WITH RESPECT TO ANY ELIGIBLE NEWS
  JOURNALIST EMPLOYER FOR ANY CALENDAR QUARTER IF SUCH EMPLOYER ELECTS (AT
  SUCH TIME AND IN SUCH MANNER AS THE COMMISSIONER MAY PRESCRIBE)  NOT  TO
@@ -119,12 +121,12 @@ S T A T E  O F  N E W  Y O R K
  COMMUNITY WITH RESPECT  TO  THE  QUALIFYING  PUBLICATION  OR  QUALIFYING
  BROADCAST  STATION  WITH  RESPECT  TO  WHICH  THE QUALIFIED SERVICES ARE
  PROVIDED.
+ A. 2958--C  3
+ 
   (5) "QUALIFIED SERVICES" MEANS SERVICES WHICH  CONSIST  OF  GATHERING,
  PREPARING,  DIRECTING  THE  RECORDING OF, PRODUCING, COLLECTING,  PHOTO-
  GRAPHING,  RECORDING,  WRITING,  EDITING,  REPORTING,  PRESENTING  OR
  PUBLISHING ORIGINAL NEWS FOR DISSEMINATION TO THE LOCAL COMMUNITY.
- A. 2958--B  3
- 
   (6) "QUALIFYING PUBLICATION" MEANS, WITH RESPECT TO ANY CALENDAR QUAR-
  TER, ANY PRINT OR DIGITAL PUBLICATION:
   (A) WHICH PROVIDES LOCAL COMMUNITY NEWS, WHICH IS PUBLISHED DURING THE
@@ -162,10 +164,10 @@ S T A T E  O F  N E W  Y O R K
  ONE OR MORE ORGANIZATIONS DESCRIBED IN SUBPARAGRAPH (A) OR (B)  OF  THIS
  PARAGRAPH.
   (D)  MAXIMUM  AMOUNT  OF  CREDITS.  THE  MAXIMUM AMOUNT OF TAX CREDITS
- ALLOWED UNDER  THIS  SECTION,  SUBDIVISION  FIFTY-NINE  OF  SECTION  TWO
- HUNDRED  TEN-B  AND  SUBSECTION  (W)  OF SECTION SIX HUNDRED SIX OF THIS
- CHAPTER IN ANY CALENDAR YEAR SHALL BE ONE MILLION DOLLARS  PER  ELIGIBLE
- NEWS JOURNALIST EMPLOYER.
+ ALLOWED UNDER THIS SECTION, SUBDIVISION SIXTY  OF  SECTION  TWO  HUNDRED
+ TEN-B  AND  SUBSECTION (W) OF SECTION SIX HUNDRED SIX OF THIS CHAPTER IN
+ ANY CALENDAR YEAR SHALL BE ONE MILLION DOLLARS PER ELIGIBLE  NEWS  JOUR-
+ NALIST EMPLOYER.
   (E)  ADMINISTRATION.  THE  COMMISSIONER  SHALL  ISSUE  SUCH  FORMS,
  INSTRUCTIONS, REGULATIONS, AND GUIDANCE AS ARE NECESSARY:
   (1) TO ALLOW THE ADVANCE PAYMENT OF THE CREDIT UNDER  SUBDIVISION  (A)
@@ -177,24 +179,24 @@ S T A T E  O F  N E W  Y O R K
   (3) WITH RESPECT TO THE APPLICATION OF THE  CREDIT  UNDER  SUBDIVISION
  (A)  OF  THIS  SECTION  TO  THIRD-PARTY  PAYORS  (INCLUDING PROFESSIONAL
  EMPLOYER ORGANIZATIONS, CERTIFIED PROFESSIONAL  EMPLOYER  ORGANIZATIONS,
+ A. 2958--C  4
+ 
  OR  AGENTS  UNDER  SECTION  3504  OF THE INTERNAL REVENUE CODE OF 1986),
  INCLUDING  REGULATIONS  OR  GUIDANCE  ALLOWING  SUCH  PAYORS  TO  SUBMIT
  DOCUMENTATION  NECESSARY TO SUBSTANTIATE THE ELIGIBLE EMPLOYER STATUS OF
  EMPLOYERS THAT USE SUCH PAYORS.
- A. 2958--B  4
- 
-  (F) TREATMENT OF DEPOSITS. THE COMMISSIONER SHALL  WAIVE  ANY  PENALTY
- UNDER  THIS  CHAPTER FOR ANY FAILURE TO MAKE A DEPOSIT OF ANY APPLICABLE
- EMPLOYMENT TAXES IF THE COMMISSIONER DETERMINES THAT  SUCH  FAILURE  WAS
- DUE  TO  THE  REASONABLE  ANTICIPATION  OF THE CREDIT ALLOWED UNDER THIS
+  (F)  TREATMENT  OF  DEPOSITS. THE COMMISSIONER SHALL WAIVE ANY PENALTY
+ UNDER THIS CHAPTER FOR ANY FAILURE TO MAKE A DEPOSIT OF  ANY  APPLICABLE
+ EMPLOYMENT  TAXES  IF  THE COMMISSIONER DETERMINES THAT SUCH FAILURE WAS
+ DUE TO THE REASONABLE ANTICIPATION OF  THE  CREDIT  ALLOWED  UNDER  THIS
  SECTION.
   (G)  CROSS-REFERENCES.  FOR  APPLICATION OF THE CREDIT PROVIDED FOR IN
  THIS SECTION, SEE THE FOLLOWING PROVISIONS OF THIS CHAPTER:
-  (1) ARTICLE 9-A: SECTION 210-B: SUBDIVISION 59.
+  (1) ARTICLE 9-A: SECTION 210-B: SUBDIVISION 60.
   (2) ARTICLE 22: SECTION 606: SUBSECTIONS (I) AND (W).
   § 3. Section 210-B of the tax law is amended by adding a new  subdivi-
- sion 59 to read as follows:
-  59.  PAYROLL  CREDIT FOR COMPENSATION OF JOURNALISTS. (A) ALLOWANCE OF
+ sion 60 to read as follows:
+  60.  PAYROLL  CREDIT FOR COMPENSATION OF JOURNALISTS. (A) ALLOWANCE OF
  CREDIT. A TAXPAYER WHO IS ELIGIBLE PURSUANT TO SECTION TWENTY-FOUR-D  OF
  THIS  CHAPTER  SHALL  BE  ALLOWED A CREDIT TO BE COMPUTED AS PROVIDED IN
  SUCH SECTION AGAINST THE TAX IMPOSED BY THIS ARTICLE.
@@ -222,19 +224,22 @@ S T A T E  O F  N E W  Y O R K
  ED OR REFUNDED AS PROVIDED IN SECTION SIX  HUNDRED  EIGHTY-SIX  OF  THIS
  ARTICLE; PROVIDED, HOWEVER, THAT NO INTEREST SHALL BE PAID THEREON.
   §  5. Subparagraph (B) of paragraph 1 of subsection (i) of section 606
- of the tax law is amended by adding a new clause (l) to read as follows:
- (L) PAYROLL CREDIT FOR  AMOUNT OF CREDIT FOR THE SUM OF
+ of the tax law is amended by  adding  a  new  clause  (li)  to  read  as
+ follows:
+ (LI) PAYROLL CREDIT FOR  AMOUNT OF CREDIT FOR THE SUM OF
  COMPENSATION OF JOURNALISTS  PAYROLL CREDIT FOR COMPENSATION
  UNDER SUBSECTION (W)  OF JOURNALISTS UNDER SUBDIVISION
-  FIFTY-NINE OF SECTION
+  SIXTY OF SECTION
   TWO HUNDRED TEN-B
-  § 6. This act shall take effect immediately and  shall  apply  to  tax
+  §  6.  This  act  shall take effect immediately and shall apply to tax
  years commencing on and after January 1, 2024; provided that:
   (a) this act shall expire and be deemed repealed January 1, 2029; and
-  (b)  the  expiration and repeal of this act shall not affect the proc-
- essing or allowance of any tax credit provided in this act for  any  tax
+  (b) the expiration and repeal of this act shall not affect  the  proc-
+ essing  or  allowance of any tax credit provided in this act for any tax
  year commencing prior to January 1, 2029.
-  Effective  immediately,  the  addition, amendment and/or repeal of any
- rule or regulation necessary for the implementation of this act  on  its
+ A. 2958--C  5
+ 
+  Effective immediately, the addition, amendment and/or  repeal  of  any
+ rule  or  regulation necessary for the implementation of this act on its
  effective date are authorized to be made and completed on or before such
  date.
