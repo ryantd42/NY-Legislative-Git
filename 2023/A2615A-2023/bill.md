@@ -1,6 +1,6 @@
 # Requires policies for the use of automatic license plate reader systems
 
-**Bill ID:** A2615A
+**Bill ID:** A2615AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Requires the consumer protection division to promulgate a policy governing the u
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2615
+  2615--A
  
   2023-2024 Regular Sessions
  
@@ -26,40 +26,78 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. PAULIN -- read once and referred to the Committee
-  on Consumer Affairs and Protection
+  on  Consumer  Affairs  and  Protection  --  committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
- AN ACT to amend the general business law, in relation to requiring poli-
-  cies for the use of automatic license plate reader systems
+ AN  ACT  to  amend  the  executive  law and the general business law, in
+  relation to requiring policies for the use of automatic license  plate
+  reader systems
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The general business law is amended by adding a new section
- 397-b to read as follows:
-  § 397-B. POLICY FOR THE USE OF AUTOMATIC LICENSE PLATE READER SYSTEMS.
- 1. AS USED IN THIS SECTION,  "AUTOMATIC  LICENSE  PLATE  READER  SYSTEM"
- SHALL  MEAN  A  SYSTEM OF ONE OR MORE MOBILE OR FIXED HIGH-SPEED CAMERAS
- USED IN COMBINATION  WITH  COMPUTER  ALGORITHMS  TO  CONVERT  IMAGES  OF
- LICENSE PLATES INTO COMPUTER-READABLE DATA.
-  2.  A  BUSINESS, INDIVIDUAL, PARTNERSHIP, CORPORATION, ASSOCIATION, OR
- STATE OR LOCAL GOVERNMENT NON-LAW ENFORCEMENT ENTITY WHICH USES AN AUTO-
- MATIC LICENSE PLATE READER SYSTEM SHALL ADOPT A POLICY GOVERNING THE USE
- OF SUCH SYSTEM AND CONSPICUOUSLY POST SUCH POLICY ON ITS WEBSITE, OR  IF
- THE  BUSINESS,  INDIVIDUAL,  PARTNERSHIP,  CORPORATION,  ASSOCIATION, OR
- STATE OR LOCAL GOVERNMENT NON-LAW ENFORCEMENT ENTITY DOES NOT MAINTAIN A
- WEBSITE, IN ITS MAIN OFFICE OR PLACE OF BUSINESS. SUCH POLICY  SHALL  BE
- MADE AVAILABLE TO THE PUBLIC UPON REQUEST.
-  3.  A POLICY ADOPTED PURSUANT TO SUBDIVISION TWO OF THIS SECTION SHALL
- INCLUDE, BUT NOT BE LIMITED TO, PROVISIONS ON PERMISSIBLE  USES  OF  THE
- AUTOMATIC  LICENSE  PLATE  READER  TECHNOLOGY,  DATA SHARING AND DISSEM-
- INATION, PROHIBITED USE, RECORD RETENTION AND MANAGEMENT, AND TRAINING.
-  4. THE PROVISIONS OF THIS SECTION SHALL NOT  APPLY  TO  AN  ELECTRONIC
- TOLL COLLECTION SYSTEM OR ASSOCIATED TRANSACTION SYSTEM OR ANY COMPONENT
- THEREOF  WHICH  IS  OPERATED  BY  A  PUBLIC AUTHORITY FOR THE PURPOSE OF
- IMPOSING AND COLLECTING TOLLS ON A ROADWAY WITHIN THE STATE.
-  § 2. This act shall take effect on the thirtieth day  after  it  shall
- have become a law.
+  Section 1. Paragraphs 15 and 16 of subdivision 3 of  section  94-a  of
+ the  executive law, paragraph 15 as amended and paragraph 16 as added by
+ chapter 374 of the laws of 2022, are amended and a new paragraph  17  is
+ added to read as follows:
+  (15)  create  an internet website or webpage pursuant to section three
+ hundred ninety-c of the general business law, as added by  chapter  five
+ hundred nine of the laws of two thousand seven; [and]
+  (16) exercise such powers and duties granted to the secretary by arti-
+ cle  sixteen  of  the energy law as the secretary may direct, including,
+ but not limited to: consult with such president of the  New  York  state
+ energy  research  and  development authority in connection with investi-
+ gations conducted by such president pursuant to article sixteen  of  the
+ energy  law; make determinations relating to compliance by products with
+ the standards adopted pursuant to article sixteen  of  the  energy  law;
+ order  the  immediate  cessation  of any distribution, sale or offer for
+ sale, import, or installation of any product that  does  not  meet  such
+ standards; and impose civil penalties as contemplated by article sixteen
+ of the energy law[.] ; AND
+  (17) (I) DEVELOP, MAINTAIN  AND DISSEMINATE A MINIMUM STANDARDS POLICY
+ GOVERNING  THE  USE OF AUTOMATIC LICENSE PLATE READER SYSTEMS BY NON-LAW
+ ENFORCEMENT ENTITIES. THE MINIMUM STANDARDS POLICY  SHALL  INCLUDE,  BUT
+ NOT  BE  LIMITED  TO,  PROVISIONS  ON  PERMISSIBLE USES OF THE AUTOMATIC
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05330-01-3
+  LBD05330-04-3
+ A. 2615--A  2
+ 
+ LICENSE PLATE READER TECHNOLOGY, DATA SHARING AND DISSEMINATION, PROHIB-
+ ITED USES, RECORD RETENTION AND MANAGEMENT, AND TRAINING.  FOR  PURPOSES
+ OF  THIS  SECTION,  "AUTOMATIC LICENSE PLATE READER SYSTEM" SHALL MEAN A
+ SYSTEM OF ONE OR MORE MOBILE OR FIXED HIGH-SPEED CAMERAS USED  IN COMBI-
+ NATION  WITH  COMPUTER  ALGORITHMS TO  CONVERT IMAGES OF LICENSE PLATES
+ INTO COMPUTER-READABLE DATA. THE DEPARTMENT OF  STATE  SHALL  POST  SUCH
+ POLICY  ON  ITS WEBSITE, IN A LOCATION ACCESSIBLE TO THE PUBLIC, AND ALL
+ NON-LAW ENFORCEMENT ENTITIES USING AUTOMATIC LICENSE  PLATE  READERS  IN
+ THE STATE.
+  (II)  RECOMMEND TO THE GOVERNOR, THE TEMPORARY PRESIDENT OF THE SENATE
+ AND THE SPEAKER OF THE ASSEMBLY, RULES AND REGULATIONS WITH  RESPECT  TO
+ THE  ESTABLISHMENT  AND IMPLEMENTATION ON AN ONGOING BASIS OF A TRAINING
+ PROGRAM FOR ALL CURRENT AND NEW EMPLOYEES OF NON-LAW  ENFORCEMENT  ENTI-
+ TIES  REGARDING THE POLICIES AND PROCEDURES ESTABLISHED PURSUANT TO THIS
+ PARAGRAPH, ALONG WITH RECOMMENDATIONS FOR PERIODIC  RETRAINING  OF  SUCH
+ EMPLOYEES.
+  §  2. The general business law is amended by adding a new section 399-
+ zzzzzz to read as follows:
+  § 399-ZZZZZZ. DISCLOSURE OF THE MINIMUM STANDARDS POLICY FOR AUTOMATIC
+ LICENSE PLATE READERS  BY  NON-LAW  ENFORCEMENT  ENTITIES.  ALL  NON-LAW
+ ENFORCEMENT  AGENCIES USING AUTOMATIC LICENSE PLATE READER SYSTEMS SHALL
+ CONSPICUOUSLY POST THE MINIMUM STANDARDS  FOR  THE  USE  OF  AUTOMATIC
+ LICENSE  PLATE  READER SYSTEMS POLICY, PROMULGATED PURSUANT TO PARAGRAPH
+ SEVENTEEN OF SUBDIVISION THREE OF SECTION NINETY-FOUR-A OF THE EXECUTIVE
+ LAW, ON ITS WEBSITE, OR IF SUCH  NON-LAW  ENFORCEMENT  ENTITY  DOES  NOT
+ MAINTAIN  A  WEBSITE,  IN  ITS  MAIN OFFICE. SUCH POLICY SHALL BE MADE
+ AVAILABLE TO THE PUBLIC UPON REQUEST. FOR  PURPOSES  OF  THIS  SECTION,
+ "AUTOMATIC  LICENSE  PLATE  READER SYSTEM" SHALL MEAN A SYSTEM OF ONE OR
+ MORE MOBILE OR FIXED HIGH-SPEED CAMERAS USED  IN  COMBINATION  WITH
+ COMPUTER  ALGORITHMS  TO  CONVERT  IMAGES OF LICENSE PLATES INTO COMPU-
+ TER-READABLE DATA.
+  § 3. This act shall take effect one year after it shall have become  a
+ law. Effective immediately, the addition, amendment and/or repeal of any
+ rule or regulation necessary for the implementation of this act  on  its
+ effective date are authorized to be made and completed on or before such
+ effective date.
