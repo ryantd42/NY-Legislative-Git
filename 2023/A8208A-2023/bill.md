@@ -1,6 +1,6 @@
 # Provides for a formal process for a parent or legal guardian to request the issuance of an AMBER alert
 
-**Bill ID:** A8208A
+**Bill ID:** A8208AA
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for a formal process for a parent or legal guardian to request the issu
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8208
+  8208--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. SANTABARBARA -- read once and referred to the
-  Committee on Children and Families
+  Committee on Children  and  Families  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the executive law, in relation to providing for a formal
   process for a parent or legal guardian to request the issuance  of  an
@@ -44,9 +46,7 @@ S T A T E  O F  N E W  Y O R K
  may  be  promptly  dispatched,  in  conformity with the orders, rules or
  regulations governing the system; [and]
   (vii) A FORMAL PROCESS IS ESTABLISHED BY WHICH A PARENT OR LEGAL GUAR-
- DIAN MAY REQUEST THAT A MISSING CHILD ALERT BE ISSUED IF SUCH PARENT  OR
- LEGAL  GUARDIAN  DISAGREES  WITH  THE  INVESTIGATING POLICE DEPARTMENT'S
- JUDGMENT REGARDING THE TIMELINESS OF SUCH ALERT  REQUEST.  SUCH  REQUEST
+ DIAN MAY REQUEST THAT A MISSING CHILD ALERT BE  ISSUED.  SUCH  REQUEST
  SHALL BE MADE TO THE DIVISION OF STATE POLICE FOR REVIEW; AND
   (VIII)  no  dispatch  or transmission of a report concerning a missing
  child shall be required by such plan, EXCEPT AS PROVIDED IN SUBPARAGRAPH
@@ -59,4 +59,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13403-01-3
+  LBD13403-02-3
