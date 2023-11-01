@@ -1,6 +1,6 @@
 # Establishes the homeless protection act which designates certain offenses against homeless persons as hate crimes
 
-**Bill ID:** A2191A
+**Bill ID:** A2191AA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the homeless protection act which designates certain offenses agains
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2191
+  2191--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,16 @@ S T A T E  O F  N E W  Y O R K
   January 23, 2023
   ___________
  
- Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Codes
+ Introduced by M. of A. L. ROSENTHAL, HEVESI -- read once and referred to
+  the  Committee on Codes -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the penal  law,  in  relation  to  designating  offenses
-  against homeless persons as hate crimes
- 
+ AN ACT to amend the penal law and the  executive  law,  in  relation  to
+  designating offenses against homeless persons as hate crimes
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Short title. This act shall be known and may  be  cited  as
  the "homeless protection act".
   §  2.  Subdivisions  1, 2 and 4 of section 485.05 of the penal law, as
@@ -57,14 +58,14 @@ S T A T E  O F  N E W  Y O R K
  identity or expression, religion, religious practice,  age,  disability,
  HOMELESSNESS,  or  sexual orientation of the defendant, the victim or of
  both the defendant and the victim does not, by itself, constitute legal-
- ly sufficient evidence satisfying the people's  burden  under  paragraph
- (a) or (b) of subdivision one of this section.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06488-01-3
- A. 2191  2
+  LBD06488-10-3
+ A. 2191--A  2
  
+ ly sufficient evidence satisfying the people's  burden  under  paragraph
+ (a) or (b) of subdivision one of this section.
   4. For purposes of this section:
   (a) the term "age" means sixty years old or more;
   (b)  the  term "disability" means a physical or mental impairment that
@@ -75,10 +76,46 @@ S T A T E  O F  N E W  Y O R K
  that person at birth, including, but not limited to, the status of being
  transgender[.]; AND
   (D) THE TERM "HOMELESSNESS" MEANS THE SET OF CIRCUMSTANCES IN WHICH AN
- INDIVIDUAL OR FAMILY IS UNDOMICILED, HAS NO FIXED ADDRESS, LACKS A FIXED
- REGULAR NIGHTTIME RESIDENCE, RESIDES IN A  PLACE  NOT  DESIGNED  FOR  OR
- ORDINARILY  USED  AS  A  REGULAR SLEEPING ACCOMMODATION FOR HUMAN BEINGS
- (SUCH AS A HALLWAY, BUS STATION, LOBBY OR SIMILAR PLACE), RESIDES  IN  A
- HOMELESS SHELTER, RESIDES IN A RESIDENTIAL PROGRAM FOR VICTIMS OF DOMES-
- TIC VIOLENCE, OR RESIDES IN A HOTEL/MOTEL ON A TEMPORARY BASIS.
-  § 3. This act shall take effect immediately.
+ INDIVIDUAL OR FAMILY LACKS A  FIXED,  REGULAR,  AND  ADEQUATE  NIGHTTIME
+ RESIDENCE,  RESIDES  IN A PLACE NOT DESIGNED FOR OR ORDINARILY USED AS A
+ REGULAR SLEEPING ACCOMMODATION FOR HUMAN BEINGS, SUCH AS A  CAR,  PUBLIC
+ SIDEWALK  OR  STREET,  HALLWAY,  BUS  OR TRAIN STATION, LOBBY OR SIMILAR
+ PLACE, RESIDES IN A RESIDENTIAL PROGRAM FOR VICTIMS OF DOMESTIC VIOLENCE
+ OR RUNAWAY AND HOMELESS YOUTH, OR RESIDES IN A  SUPERVISED  PUBLICLY  OR
+ PRIVATELY OPERATED SHELTER DESIGNED TO PROVIDE TEMPORARY LIVING ARRANGE-
+ MENTS,  INCLUDING HOTELS AND MOTELS PAID FOR BY FEDERAL, STATE, OR LOCAL
+ GOVERNMENT PROGRAMS OR BY CHARITABLE ORGANIZATIONS, CONGREGATE SHELTERS,
+ SAFE HAVENS OR TRANSITIONAL HOUSING.
+  § 3. Paragraph (a) of subdivision 4-c of section 837 of the  executive
+ law,  as  amended by chapter 118 of the laws of 2022, is amended to read
+ as follows:
+  (a) In cooperation with the chief administrator of the courts as  well
+ as  any  other public or private agency, including law enforcement agen-
+ cies, collect, maintain, analyze and make  public  statistical  and  all
+ other  information  and  data  with respect to the number of hate crimes
+ reported to or investigated by the division of  state  police,  and  all
+ other  police  or peace officers, the number of persons arrested for the
+ commission of  such  crimes,  the  offense  for  which  the  person  was
+ arrested,  the  demographic data of the victim or victims of such crimes
+ including, but not limited to, race, color, national  origin,  ancestry,
+ gender,  gender  identity  or  expression, religion, religious practice,
+ age, disability, HOMELESSNESS or sexual orientation  of  a  person,  the
+ demographic data of the person or persons arrested for the commission of
+ such crimes including, but not limited to, race, color, national origin,
+ ancestry,  gender,  gender  identity  or expression, religion, religious
+ practice, age, disability,  HOMELESSNESS  or  sexual  orientation  of  a
+ person,  the  county within which the arrest was made and the accusatory
+ instrument filed, the disposition of the  accusatory  instrument  filed,
+ including, but not limited to, as the case may be, dismissal, acquittal,
+ the  offense to which the defendant pled guilty, the offense the defend-
+ ant was convicted  of  after  trial,  and  the  sentence  imposed.  Data
+ collected  shall  be  used for research or statistical purposes only and
+ shall not contain information that may reveal the identity of any  indi-
+ vidual.  The division shall include the statistics and other information
+ required by this subdivision in an annual report submitted to the gover-
+ nor, the speaker of the assembly, the temporary president of the senate,
+ the chair of the assembly codes committee, the chair of the senate codes
+ committee, the attorney general and the chief  administrative  judge  of
+ the  office  of  court  administration.  Such  annual reports shall be a
+ public record.
+  § 4. This act shall take effect immediately.
