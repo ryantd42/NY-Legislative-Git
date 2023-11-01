@@ -1,6 +1,6 @@
 # Designates Xylazine as a schedule III depressant
 
-**Bill ID:** A5914A
+**Bill ID:** A5914AA
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Designates Xylazine as a schedule III depressant.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5914
+  5914--A
  
   2023-2024 Regular Sessions
  
@@ -26,22 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. WOERNER -- read once and referred to the Commit-
-  tee on Health
+  tee on Health -- committee discharged, bill amended, ordered reprinted
+  as amended and recommitted to said committee
  
  AN ACT to amend the public health law, in relation to designating  Xyla-
   zine as a schedule III depressant
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision (c) of schedule III  of  section  3306  of  the
  public  health  law  is  amended by adding a new paragraph 15 to read as
  follows:
   (15)  XYLAZINE  (N-(2,6-DIMETHYLPHENYL)-5,6-DIHYDRO-4H-1,3  THIAZIN-2-
- AMINE).
-  §  2.  This  act shall take effect on the ninetieth day after it shall
+ AMINE),  INCLUDING  ITS SALTS, ISOMERS AND SALTS OF ISOMERS WHENEVER THE
+ EXISTENCE OF SUCH SALTS, ISOMERS AND SALTS OF ISOMERS IS POSSIBLE WITHIN
+ THE SPECIFIC CHEMICAL DESIGNATION.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
- 
  
  
  
@@ -50,4 +52,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06914-01-3
+  LBD06914-02-3
