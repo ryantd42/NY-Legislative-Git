@@ -1,6 +1,6 @@
 # Relates to expanding employee ownership assistance for lesbian, gay, bisexual, transgender and non-binary individuals
 
-**Bill ID:** A4083A
+**Bill ID:** A4083AA
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to expanding employee ownership assistance for lesbian, gay, bisexual, t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4083
+  4083--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  CUNNINGHAM  -- read once and referred to the
-  Committee on Economic Development
+  Committee  on  Economic  Development  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the public authorities law and the economic  development
-  law, in relation to expanding employee ownership assistance for trans-
-  gender and non-binary individuals
-
+  law, in relation to expanding employee ownership assistance for lesbi-
+  an, gay, bisexual, transgender and non-binary individuals
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -41,53 +43,30 @@ S T A T E  O F  N E W  Y O R K
  declares that the health, safety and general welfare of  the  people  of
  this  state  are directly dependent upon the state economy, and that one
  of the principal problems of our present economy is the permanent  clos-
- ing  of  industrial  and manufacturing plants, AND OTHER BUSINESSES, and
- their relocation out of state, which results in the  loss  of  jobs  and
- increasing unemployment.
-  It  is  the  purpose  of this subtitle to encourage [the] employees of
- plants AND OTHER BUSINESSES that are about to be permanently closed,  or
- relocated,  to  acquire  such  plants  AND BUSINESSES and to continue to
- operate them as employee-owned enterprises, thereby retaining  the  jobs
- that  would  otherwise  be  lost, and strengthening the economic base of
- this state.
-  § 2. Subdivisions 3, 4 and 8 of section 1836-b of the public  authori-
- ties  law,  subdivisions  3 and 8 as added by chapter 788 of the laws of
- 1983, and subdivision 4 as amended by chapter 805 of the laws  of  1985,
- are amended to read as follows:
-  3.  "Eligible  project"  means the acquisition or rehabilitation by an
- employee ownership association of an existing industrial or  manufactur-
- ing  plant  OR  OTHER  BUSINESS located in this state for the purpose of
- operating it as an employee-owned enterprise.
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07606-02-3
- A. 4083  2
- 
-  4. "Employee ownership association" means a corporation or other asso-
- ciation formed by or on behalf of the  employees  of  an  industrial  or
- manufacturing plant OR BUSINESS located in this state for the purpose of
- assuming  ownership or control of the plant OR BUSINESS and operating it
- as an employee-owned enterprise or as a worker cooperative as defined in
- section eighty-one of the cooperative corporations law.
-  8.  "BUSINESS"  INCLUDES  A SOLE PROPRIETORSHIP, PARTNERSHIP OR CORPO-
- RATION OPERATING IN THIS STATE.
-  9. "Project cost" includes all reasonable and necessary  costs  to  be
- incurred in the course of an eligible project, including any anticipated
- acquisition,  construction,  land  acquisition, improvements, equipment,
- pertinent rights and easements, and associated  technical,  engineering,
- legal and financial services.
-  §  3.  Paragraph  (b) of subdivision 1 of section 1836-c of the public
+ ing  of industrial and manufacturing plants, and their relocation out of
+ state, which results in the loss of jobs and increasing unemployment.
+  It is the purpose of this subtitle to  encourage  [the]  employees  of
+ plants that are about to be permanently closed, or relocated, to acquire
+ such  plants AND BUSINESSES and to continue to operate them as employee-
+ owned enterprises, thereby retaining the jobs that  would  otherwise  be
+ lost, and strengthening the economic base of this state.
+  §  2.  Paragraph (b) of subdivision 1 of section 1836-c of the public
  authorities law, as added by chapter 788 of the laws of 1983, is amended
  to read as follows:
   (b) the history and circumstances of  the  plant  OR  BUSINESS  to  be
  acquired;
-  § 4. Section 1836-d of the public authorities law, as added by chapter
+  § 3. Section 1836-d of the public authorities law, as added by chapter
  788 of the laws of 1983, is amended to read as follows:
   §  1836-d. Loan preferences. In approving applications for loans under
  this subtitle, the authority shall give preference to projects which:
-  1. HAVE A MEMBERSHIP CONSISTING OF A MAJORITY OF  MINORITY,  TRANSGEN-
- DER, OR NON-BINARY MEMBERS;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07606-03-3
+ A. 4083--A  2
+ 
+  1. HAVE A MEMBERSHIP CONSISTING OF A MAJORITY  OF  MINORITY,  LESBIAN,
+ GAY, BISEXUAL, TRANSGENDER, OR NON-BINARY MEMBERS;
   2. have a higher level of funding from the funding partners;
   [2.]  3. have the most direct impact on local economic development and
  the creation or retention of employment opportunities;
@@ -95,7 +74,7 @@ S T A T E  O F  N E W  Y O R K
  and
   [4.] 5. are least  speculative,  and  provide  greatest  assurance  of
  repayment of the loan.
-  §  5.  Subdivision 7 of section 104-a of the economic development law,
+  §  4.  Subdivision 7 of section 104-a of the economic development law,
  as added by chapter 788 of the laws of  1983,  is  amended  to  read  as
  follows:
   7.  Identify  [industrial  and  manufacturing]  businesses that are in
@@ -103,25 +82,23 @@ S T A T E  O F  N E W  Y O R K
  results  in the loss of jobs and increasing unemployment, and assist the
  businesses and employees of such businesses by distributing  information
  about the provisions of this section.
-  §  6.  Subdivisions 3 and 4 of section 210 of the economic development
+  §  5.  Subdivisions 3 and 4 of section 210 of the economic development
  law, as amended by chapter 669 of the laws of 2022, are amended to  read
  as follows:
   3.  "Minority  business enterprise" shall mean any business enterprise
  which is at least fifty-one per centum owned by, or in  the  case  of  a
  publicly  owned  business  at least fifty-one per centum of the stock of
  which is owned by, citizens or permanent resident  noncitizens  who  are
- TRANSGENDER  OR  NON-BINARY,  Black, Hispanic, Asian or American Indian,
- Pacific Islander or Alaskan Native  where  such  ownership  interest  is
- real, substantial and continuing and where such persons have the author-
- ity  to  independently  control the day-to-day business decisions of the
- entity.
+ LESBIAN,  GAY,  BISEXUAL,  TRANSGENDER  OR  NON-BINARY, Black, Hispanic,
+ Asian or American Indian, Pacific Islander or Alaskan Native where  such
+ ownership  interest  is  real, substantial and continuing and where such
+ persons have the authority to independently control the day-to-day busi-
+ ness decisions of the entity.
   4. "Minority group member" shall  mean  a  United  States  citizen  or
  permanent  resident  noncitizen who is and can demonstrate membership in
  one of the following groups:
   (a) Black persons having origins in any of the  Black  African  racial
  groups not of Hispanic origin;
- A. 4083  3
- 
   (b)  Hispanic  persons  of  Mexican,  Puerto  Rican, Dominican, Cuban,
  Central or South American descent of either Indian or  Hispanic  origin,
  regardless of race;
@@ -129,5 +106,5 @@ S T A T E  O F  N E W  Y O R K
  Southeast Asia, the Indian sub-continent or the Pacific Islands; or
   (d) American Indian or Alaskan Native persons having origins in any of
  the original peoples of North America; OR
-  (E) TRANSGENDER OR NON-BINARY.
-  § 7. This act shall take effect immediately.
+  (E) LESBIAN, GAY, BISEXUAL, TRANSGENDER OR NON-BINARY.
+  § 6. This act shall take effect immediately.
