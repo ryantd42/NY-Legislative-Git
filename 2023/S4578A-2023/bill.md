@@ -1,6 +1,6 @@
 # Establishes the mothers and infants lasting change ("MILC") allowance
 
-**Bill ID:** S4578A
+**Bill ID:** S4578AA
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes the mothers and infants lasting change ("MILC") allowance to provide
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4578
+  4578--A
  
   2023-2024 Regular Sessions
  
@@ -25,47 +25,52 @@ S T A T E  O F  N E W  Y O R K
   February 10, 2023
   ___________
  
- Introduced  by  Sen.  RAMOS  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Children and Families
+ Introduced  by  Sens.  RAMOS, BROUK, ASHBY, BAILEY, CHU, CLEARE, COMRIE,
+  COONEY, FERNANDEZ, GONZALEZ, JACKSON, KENNEDY, RIVERA, SALAZAR -- read
+  twice and ordered printed, and when printed to  be  committed  to  the
+  Committee  on  Children  and  Families -- reported favorably from said
+  committee and committed to  the  Committee  on  Finance  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the social services law, in relation to establishing the
   mothers and infants lasting change allowance
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  This  act shall be known and may be cited as the "mothers
+  Section 1. This act shall be known and may be cited  as  the  "mothers
  and infants lasting change ("MILC") allowance".
   § 2. Legislative findings and intent. The legislature hereby finds and
- declares that child poverty in New York city and cities across New  York
- state  is  shamefully  high  and  will likely worsen if current economic
- trends continue. Half of the top six cities in the  United  States  with
+ declares  that child poverty in New York city and cities across New York
+ state is shamefully high and will  likely  worsen  if  current  economic
+ trends  continue.  Half  of the top six cities in the United States with
  the highest child poverty rates are in New York state, disproportionate-
  ly affecting communities and children of color. In New York city, nearly
- 1  in  4 children live in poverty. In Rochester and Buffalo, that number
+ 1 in 4 children live in poverty. In Rochester and Buffalo,  that  number
  is even higher: 1 in 2 children live in poverty.
-  The legislature hereby finds and declares that New Yorkers are  unable
+  The  legislature hereby finds and declares that New Yorkers are unable
  to cover their basic necessities and support their families, particular-
  ly in the face of rising interest rates and inflation. Most notably, the
- cost  of  childcare,  which already consumes a massive portion of family
- income, rose 41% during the pandemic, and the total cost  of  raising  a
- child  through  high  school has risen to more than $300,000, which is a
- $26,000 increase from five years ago and is likely to present a  heavier
- burden  for  low-income  parents  and families for whom expenses such as
+ cost of childcare, which already consumes a massive  portion  of  family
+ income,  rose  41%  during the pandemic, and the total cost of raising a
+ child through high school has risen to more than $300,000,  which  is  a
+ $26,000  increase from five years ago and is likely to present a heavier
+ burden for low-income parents and families for  whom  expenses  such  as
  food, housing, and gas comprise an even larger portion of their income.
-  The legislature  hereby  finds  and  declares  there  is  overwhelming
- evidence  that  the  prenatal-to-three  and  early childhood development
- period are critical for a child's future  prospects  and  affects  their
- physical,  mental,  emotional  and  social  outcomes  over a lifetime. A
- program targeting infants in this formative phase would help  break  the
- intergenerational cycle of poverty rather than attempting to mitigate it
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04583-03-3
- S. 4578  2
+  LBD04583-04-3
+ S. 4578--A  2
  
- later  on,  creating  a  positive  impact on children's lives and saving
+  The  legislature  hereby  finds  and  declares  there  is overwhelming
+ evidence that the  prenatal-to-three  and  early  childhood  development
+ period  are  critical  for  a child's future prospects and affects their
+ physical, mental, emotional and  social  outcomes  over  a  lifetime.  A
+ program  targeting  infants in this formative phase would help break the
+ intergenerational cycle of poverty rather than attempting to mitigate it
+ later on, creating a positive impact  on  children's  lives  and  saving
  government funds down the road.
   The  legislature  hereby  finds  and  declares it is proven that unre-
  stricted cash is a direct and effective solution to alleviating  poverty
@@ -113,24 +118,24 @@ S T A T E  O F  N E W  Y O R K
  DISTRICTS  ON THE FIRST OF EACH MONTH FOR THE DURATION OF THE PROGRAM TO
  THE ELIGIBLE SELECTED PARTICIPANTS.
   3. ELIGIBLE PARTICIPANTS SHALL:
+ S. 4578--A  3
+ 
   (A) HAVE AN INCOME WHICH IS BELOW TWO HUNDRED PERCENT OF  THE  FEDERAL
  POVERTY  LINE.  SUCH  INCOME  SHALL  BE  PROVEN  BY PROVIDING ONE OF THE
  FOLLOWING:
   (I) A FILED TAX RETURN FROM THE PREVIOUS YEAR;
-  (II) A LETTER FROM AN EMPLOYER DOCUMENTING THE DATES OF  WORK  OF  THE
+  (II)  A  LETTER  FROM AN EMPLOYER DOCUMENTING THE DATES OF WORK OF THE
  APPLICANT AND THE YEARLY PAY FROM THE EMPLOYER;
   (III) A W-2 OR 1099 FORM FROM THE PREVIOUS TAX YEAR; OR
- S. 4578  3
- 
-  (IV)  A  WAGE  NOTICE PROVIDED PURSUANT TO SECTION ONE HUNDRED NINETY-
- FIVE OF THE LABOR LAW THAT DOCUMENTS EMPLOYMENT FOR  A  PERIOD  OF  TIME
- WITHIN  SIX  MONTHS PRIOR TO THE DATE THE APPLICANT CERTIFIES THAT HE OR
+  (IV) A WAGE NOTICE PROVIDED PURSUANT TO SECTION  ONE  HUNDRED  NINETY-
+ FIVE  OF  THE  LABOR  LAW THAT DOCUMENTS EMPLOYMENT FOR A PERIOD OF TIME
+ WITHIN SIX MONTHS PRIOR TO THE DATE THE APPLICANT CERTIFIES THAT  HE  OR
  SHE BECAME ELIGIBLE;
   (B) PARTICIPATE IN MONTHLY SURVEYS PROVIDED BY THE DEPARTMENT; AND
   (C) MEET ANY OTHER CRITERIA DEEMED NECESSARY BY THE DEPARTMENT.
   4. OF THE FIFTEEN THOUSAND ELIGIBLE PARTICIPANTS:
   (A) TEN THOUSAND PARTICIPANTS SHALL RESIDE IN A CITY WITH A POPULATION
- OF TWO HUNDRED THOUSAND OR MORE; AND
+ OF ONE HUNDRED FORTY THOUSAND OR MORE; AND
   (B) FIVE THOUSAND PARTICIPANTS SHALL RESIDE IN A RURAL AREA AS DEFINED
  IN SECTION TWENTY-NINE HUNDRED FIFTY-ONE OF THE PUBLIC HEALTH LAW.
   5.  THE  DEPARTMENT,  IN  COORDINATION  WITH  LOCAL  SOCIAL  SERVICES
@@ -144,13 +149,13 @@ S T A T E  O F  N E W  Y O R K
  AND  A  FINAL REPORT SHALL BE MADE NO LATER THAN TWELVE MONTHS AFTER THE
  COMPLETION OF THE TWENTY-ONE MONTH PROGRAM.
   § 4. Paragraph (a) of subdivision 8 of section  131-a  of  the  social
- services  law  is  amended  by adding a new subparagraph (xi) to read as
+ services  law  is  amended by adding a new subparagraph (xiv) to read as
  follows:
-  (XI) ANY FINANCIAL ASSISTANCE RECEIVED BY INDIVIDUALS FROM THE MOTHERS
- AND INFANTS LASTING CHANGE  ("MILC")  ALLOWANCE.  SUCH  EXEMPTION  AND
- DISREGARD  SHALL  BE  APPLICABLE  FOR  THE LENGTH OF TIME THE INDIVIDUAL
- RECEIVES THE ALLOWANCE.  THE  COMMISSIONER  SHALL  SEEK  FEDERAL  WAIVER
- AUTHORITY  TO  DISREGARD THE INCOME FROM THE MOTHERS AND INFANTS LASTING
- CHANGE ("MILC") ALLOWANCE FOR THE PURPOSE OF THE SUPPLEMENTAL  NUTRITION
+  (XIV) ANY FINANCIAL ASSISTANCE RECEIVED BY INDIVIDUALS FROM THE  MOTH-
+ ERS  AND  INFANTS LASTING CHANGE ("MILC") ALLOWANCE.  SUCH EXEMPTION AND
+ DISREGARD SHALL BE APPLICABLE FOR THE  LENGTH  OF  TIME  THE  INDIVIDUAL
+ RECEIVES  THE  ALLOWANCE.  THE  COMMISSIONER  SHALL  SEEK FEDERAL WAIVER
+ AUTHORITY TO DISREGARD THE INCOME FROM THE MOTHERS AND  INFANTS  LASTING
+ CHANGE  ("MILC") ALLOWANCE FOR THE PURPOSE OF THE SUPPLEMENTAL NUTRITION
  ASSISTANCE PROGRAM.
   § 5. This act shall take effect immediately.
