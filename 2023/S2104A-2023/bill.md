@@ -1,6 +1,6 @@
 # Establishes the office of addiction and mental health services
 
-**Bill ID:** S2104A
+**Bill ID:** S2104AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Stricken
@@ -16,7 +16,7 @@ Establishes the office of addiction and mental health services.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2104
+  2104--A
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sens.  HARCKHAM, ADDABBO, BROUK, GOUNARDES -- read twice
   and ordered printed, and when printed to be committed to the Committee
-  on Alcoholism and Substance Abuse
- 
+  on Alcoholism  and  Substance  Abuse  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
+
  AN ACT to amend the mental hygiene law,  in  relation  to  creating  the
   office of addiction and mental health services
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,73 +59,73 @@ S T A T E  O F  N E W  Y O R K
  the  office of alcoholism and substance abuse services and the predeces-
  sor agencies to the office of alcoholism and  substance  abuse  services
  including  the division of alcoholism and alcohol abuse and the division
- of substance abuse services AND ALL REFERENCES TO THE OFFICE  OF  MENTAL
- HEALTH,  shall  be  known  as  the  "office  of addiction [services] and
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03499-01-3
- S. 2104  2
+  LBD03499-03-3
+ S. 2104--A  2
  
+ of substance abuse services AND ALL REFERENCES TO THE OFFICE  OF  MENTAL
+ HEALTH,  shall  be  known  as  the  "office  of addiction [services] and
  [supports] MENTAL HEALTH SERVICES."  Nothing in this  subdivision  shall
  be  construed as requiring or prohibiting the further amendment of stat-
  utes or regulations to conform to the provisions of this subdivision.
   § 2. Section 5.01 of the mental hygiene law, as amended by chapter 281
- of  the  laws of 2019, is amended and two new sections 5.01-a and 5.01-b
+ of the laws of 2019, is amended and two new sections 5.01-a  and  5.01-b
  are added to read as follows:
  § 5.01 Department of mental hygiene.
-  There shall continue to be in the state  government  a  department  of
- mental  hygiene.  Within  the  department  there  shall be the following
+  There  shall  continue  to  be in the state government a department of
+ mental hygiene. Within the  department  there  shall  be  the  following
  autonomous offices:
   (1) office of ADDICTION AND mental health SERVICES; AND
   (2) office for people with developmental disabilities[;
   (3) office of addiction services and supports].
  § 5.01-A OFFICE OF ADDICTION AND MENTAL HEALTH SERVICES.
-  (A) THE OFFICE OF ADDICTION AND MENTAL HEALTH SERVICES SHALL BE A  NEW
- OFFICE  WITHIN  THE  DEPARTMENT FORMED BY THE INTEGRATION OF THE OFFICES
- AND SERVICES OF MENTAL HEALTH AND ADDICTION SERVICES AND SUPPORTS  WHICH
+  (A)  THE OFFICE OF ADDICTION AND MENTAL HEALTH SERVICES SHALL BE A NEW
+ OFFICE WITHIN THE DEPARTMENT FORMED BY THE INTEGRATION  OF  THE  OFFICES
+ AND  SERVICES OF MENTAL HEALTH AND ADDICTION SERVICES AND SUPPORTS WHICH
  SHALL FOCUS ON THE INTEGRATION OF CARE AND ISSUES RELATED TO BOTH MENTAL
- ILLNESS  AND  ADDICTION  IN  THE  STATE  AND CARRY OUT THE INTENT OF THE
- LEGISLATURE IN ESTABLISHING THE OFFICES PURSUANT TO ARTICLES  SEVEN  AND
- NINETEEN  OF  THIS  CHAPTER.  THE  OFFICE OF ADDICTION AND MENTAL HEALTH
+ ILLNESS AND ADDICTION IN THE STATE AND  CARRY  OUT  THE  INTENT  OF  THE
+ LEGISLATURE  IN  ESTABLISHING THE OFFICES PURSUANT TO ARTICLES SEVEN AND
+ NINETEEN OF THIS CHAPTER. THE OFFICE  OF  ADDICTION  AND  MENTAL  HEALTH
  SERVICES IS CHARGED WITH ENSURING THE DEVELOPMENT OF COMPREHENSIVE PLANS
- FOR THE INTEGRATION OF PROGRAMS AND SERVICES IN THE  AREA  OF  RESEARCH,
- PREVENTION,  CARE AND TREATMENT, CO-OCCURRING DISORDERS, REHABILITATION,
+ FOR  THE  INTEGRATION  OF PROGRAMS AND SERVICES IN THE AREA OF RESEARCH,
+ PREVENTION, CARE AND TREATMENT, CO-OCCURRING DISORDERS,  REHABILITATION,
  EDUCATION AND TRAINING, AND SHALL BE STAFFED TO PERFORM THE RESPONSIBIL-
- ITIES ATTRIBUTED TO THE OFFICE PURSUANT TO SECTIONS 7.07  AND  19.07  OF
- THIS  CHAPTER  AND  PROVIDE  INTEGRATED SERVICES AND PROGRAMS TO PROMOTE
- RECOVERY FOR INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS,  SUBSTANCE  USE
+ ITIES  ATTRIBUTED  TO  THE OFFICE PURSUANT TO SECTIONS 7.07 AND 19.07 OF
+ THIS CHAPTER AND PROVIDE INTEGRATED SERVICES  AND  PROGRAMS  TO  PROMOTE
+ RECOVERY  FOR  INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS, SUBSTANCE USE
  DISORDER, OR A MENTAL HEALTH DIAGNOSIS AND SUBSTANCE USE DISORDER.
-  (B)  THE  COMMISSIONER  OF  THE  OFFICE OF ADDICTION AND MENTAL HEALTH
+  (B) THE COMMISSIONER OF THE OFFICE  OF  ADDICTION  AND  MENTAL  HEALTH
  SERVICES SHALL BE VESTED WITH THE POWERS, DUTIES, AND OBLIGATIONS OF THE
- OFFICE OF MENTAL  HEALTH  AND  THE  OFFICE  OF  ADDICTION  SERVICES  AND
- SUPPORTS.  ADDITIONALLY,  TWO DEPUTY COMMISSIONERS SHALL BE APPOINTED,
- ONE DEPUTY COMMISSIONER TO REPRESENT ADDICTION  SERVICES  AND  SUPPORTS,
- WHICH  SHALL BE PROMINENTLY REPRESENTED TO ENSURE THE NEEDS OF SUBSTANCE
- USE DISORDER COMMUNITIES ARE MET, AND ONE DEPUTY COMMISSIONER TO  REPRE-
- SENT  MENTAL  HEALTH  SERVICES.  IN  CONJUNCTION WITH ONE ANOTHER, THE
- COMMISSIONERS SHALL DEVELOP A PLAN FOR INTEGRATING SERVICES WHICH  SHALL
+ OFFICE  OF  MENTAL  HEALTH  AND  THE  OFFICE  OF  ADDICTION SERVICES AND
+ SUPPORTS.  ADDITIONALLY, TWO DEPUTY COMMISSIONERS  SHALL  BE  APPOINTED,
+ ONE  DEPUTY  COMMISSIONER  TO REPRESENT ADDICTION SERVICES AND SUPPORTS,
+ WHICH SHALL BE PROMINENTLY REPRESENTED TO ENSURE THE NEEDS OF  SUBSTANCE
+ USE  DISORDER COMMUNITIES ARE MET, AND ONE DEPUTY COMMISSIONER TO REPRE-
+ SENT MENTAL HEALTH SERVICES.  IN  CONJUNCTION  WITH  ONE  ANOTHER,  THE
+ COMMISSIONERS  SHALL DEVELOP A PLAN FOR INTEGRATING SERVICES WHICH SHALL
  BE MADE AVAILABLE FOR PUBLIC COMMENT.
-  (C)  THE  OFFICE  OF  ADDICTION AND MENTAL HEALTH SERVICES MAY LICENSE
- PROVIDERS TO PROVIDE INTEGRATED SERVICES FOR INDIVIDUALS WITH  A  MENTAL
- HEALTH  DIAGNOSIS,  SUBSTANCE USE DISORDER, OR A MENTAL HEALTH DIAGNOSIS
+  (C) THE OFFICE OF ADDICTION AND MENTAL  HEALTH  SERVICES  MAY  LICENSE
+ PROVIDERS  TO  PROVIDE INTEGRATED SERVICES FOR INDIVIDUALS WITH A MENTAL
+ HEALTH DIAGNOSIS, SUBSTANCE USE DISORDER, OR A MENTAL  HEALTH  DIAGNOSIS
  AND SUBSTANCE USE DISORDER, IN ACCORDANCE WITH REGULATIONS ISSUED BY THE
- COMMISSIONER.  SUCH DIRECT LICENSING MECHANISM ALLOWS FOR  RESOURCES  TO
+ COMMISSIONER.  SUCH DIRECT LICENSING MECHANISM ALLOWS FOR RESOURCES TO
  GET TO COMMUNITY-BASED ORGANIZATIONS IN AN EXPEDITED MANNER.
   (D) THE OFFICE OF ADDICTION AND MENTAL HEALTH SERVICES SHALL ESTABLISH
- A  STANDING  ADVISORY COMMITTEE ON ADDICTION AND MENTAL HEALTH SERVICES.
+ A STANDING ADVISORY COMMITTEE ON ADDICTION AND MENTAL  HEALTH  SERVICES.
  THE STANDING ADVISORY COMMITTEE SHALL CONSIST OF SEVEN MEMBERS APPOINTED
  BY THE GOVERNOR AS FOLLOWS: (I) TWO MEMBERS APPOINTED ON THE RECOMMENDA-
- TION OF  THE  TEMPORARY  PRESIDENT  OF  THE  SENATE;  (II)  TWO  MEMBERS
- APPOINTED  ON  THE  RECOMMENDATION OF THE SPEAKER OF THE ASSEMBLY; (III)
+ TION  OF  THE  TEMPORARY  PRESIDENT  OF  THE  SENATE;  (II)  TWO MEMBERS
+ APPOINTED ON THE RECOMMENDATION OF THE SPEAKER OF  THE  ASSEMBLY;  (III)
  ONE MEMBER APPOINTED ON THE RECOMMENDATION OF THE MINORITY LEADER OF THE
- SENATE; (IV) ONE MEMBER APPOINTED ON THE RECOMMENDATION OF THE  MINORITY
- LEADER  OF THE ASSEMBLY; AND (V) ONE MEMBER APPOINTED ON THE RECOMMENDA-
- TION OF THE DEPARTMENT OF HEALTH AIDS INSTITUTE, THE  OFFICE  OF  MENTAL
- HEALTH  AND  THE OFFICE OF ADDICTION SERVICES AND SUPPORTS TO ENSURE THE
- S. 2104  3
-
- INTENT OF THE LEGISLATURE IS FULFILLED IN ESTABLISHING  THE  INTEGRATION
+ SENATE;  (IV) ONE MEMBER APPOINTED ON THE RECOMMENDATION OF THE MINORITY
+ LEADER OF THE ASSEMBLY; AND (V) ONE MEMBER APPOINTED ON THE  RECOMMENDA-
+ S. 2104--A  3
+ 
+ TION  OF  THE  DEPARTMENT OF HEALTH AIDS INSTITUTE, THE OFFICE OF MENTAL
+ HEALTH AND THE OFFICE OF ADDICTION SERVICES AND SUPPORTS TO  ENSURE  THE
+ INTENT  OF  THE LEGISLATURE IS FULFILLED IN ESTABLISHING THE INTEGRATION
  OF  SERVICES  BY  SUCH  OFFICE.  SUCH STANDING ADVISORY COMMITTEE SHALL
  CONSIST OF  PROVIDERS,  PEERS,  FAMILY  MEMBERS,  INDIVIDUALS  WHO  HAVE
  UTILIZED  ADDICTION SERVICES AND SUPPORTS AND/OR MENTAL HEALTH SERVICES,
@@ -177,23 +179,23 @@ S T A T E  O F  N E W  Y O R K
  ities [and the office of alcoholism and substance abuse services]  shall
  constitute  an  inter-office coordinating council which, consistent with
  the autonomy of each office for matters within its  jurisdiction,  shall
+ S. 2104--A  4
+
  ensure  that the state policy for the prevention, care, treatment [and],
  rehabilitation, AND RECOVERY of  individuals  with  A  mental  [illness]
- S. 2104  4
- 
  HEALTH  DIAGNOSIS,  SUBSTANCE  USE DISORDERS and developmental disabili-
  ties[, alcoholism, alcohol abuse, substance abuse, substance dependence,
- and chemical dependence] is planned, developed and  implemented  compre-
- hensively;  that gaps in services to individuals with multiple disabili-
- ties are eliminated and that no person is denied treatment and  services
- because  he or she has more than one disability; that procedures for the
- regulation of programs which offer care and treatment for more than  one
- class  of  persons  with  mental disabilities be coordinated between the
- offices having  jurisdiction  over  such  programs;  and  that  research
- projects  of  the institutes, as identified in section 7.17 [or], 13.17,
- OR 19.17 of this chapter or as operated by the office  for  people  with
- developmental  disabilities, are coordinated to maximize the success and
- cost effectiveness of such projects and  to  eliminate  wasteful  dupli-
+ and  chemical  dependence] is planned, developed and implemented compre-
+ hensively; that gaps in services to individuals with multiple  disabili-
+ ties  are eliminated and that no person is denied treatment and services
+ because [he or she has] THEY HAVE more than one disability; that  proce-
+ dures  for the regulation of programs which offer care and treatment for
+ more than one class of persons with mental disabilities  be  coordinated
+ between  the  offices  having  jurisdiction over such programs; and that
+ research projects of the institutes, as identified in section 7.17 [or],
+ 13.17, OR 19.17 of this chapter or as operated by the office for  people
+ with developmental disabilities, are coordinated to maximize the success
+ and cost effectiveness of such projects and to eliminate wasteful dupli-
  cation.
   (2)  The  inter-office  coordinating  council  shall  annually issue a
  report on its activities to the legislature on or before December  thir-
@@ -235,9 +237,9 @@ S T A T E  O F  N E W  Y O R K
  staff, established on the basis of sound clinical judgment. The staffing
  requirements shall include but not be limited to the following: (i)  the
  level of care based on patient needs, including on ward activities, (ii)
+ S. 2104--A  5
+
  the  number of admissions, (iii) the geographic location of each facili-
- S. 2104  5
- 
  ty, (iv) the physical layout of the campus, and (v) the physical  design
  of patient care wards.
   [2.]  (2)  Such  commissioner,  in  developing the requirements, shall
@@ -256,48 +258,48 @@ S T A T E  O F  N E W  Y O R K
  [nineteen hundred eighty-nine] TWO THOUSAND TWENTY-FIVE. The commission-
  er  shall  submit  a final report to the governor and the legislature no
  later than October first, [nineteen hundred  eighty-nine]  TWO  THOUSAND
- TWENTY-FIVE and shall include in his report a plan to achieve the staff-
- ing requirements and the length of time necessary to meet these require-
- ments.
-  (e)  The commissioners of the office of ADDICTION AND mental health[,]
+ TWENTY-FIVE  and  shall  include in [his] THEIR report a plan to achieve
+ the staffing requirements and the length of time necessary to meet these
+ requirements.
+  (e) The commissioners of the office of ADDICTION AND mental  health[,]
  SERVICES AND THE office for people with developmental disabilities[, and
- the office of alcoholism and substance abuse services]  shall  cause  to
- have  all  new  contracts  with  agencies  and providers licensed by the
+ the  office  of  alcoholism and substance abuse services] shall cause to
+ have all new contracts with  agencies  and  providers  licensed  by  the
  offices to have a clause requiring notice be provided to all current and
- new employees of such agencies and providers stating that all  instances
- of  abuse  shall  be  investigated  pursuant to this chapter, and, if an
- employee leaves employment prior to the conclusion of  a  pending  abuse
+ new  employees of such agencies and providers stating that all instances
+ of abuse shall be investigated pursuant to  this  chapter,  and,  if  an
+ employee  leaves  employment  prior to the conclusion of a pending abuse
  investigation, the investigation shall continue. Nothing in this section
- shall  be  deemed to diminish the rights, privileges, or remedies of any
- employee under any other law  or  regulation  or  under  any  collective
+ shall be deemed to diminish the rights, privileges, or remedies  of  any
+ employee  under  any  other  law  or  regulation or under any collective
  bargaining agreement or employment contract.
-  §  5.  Section 7.01 of the mental hygiene law, as added by chapter 978
+  § 5. Section 7.01 of the mental hygiene law, as added by  chapter  978
  of the laws of 1977, is amended to read as follows:
  § 7.01 Declaration of policy.
-  The state of New York and its local governments have a  responsibility
+  The  state of New York and its local governments have a responsibility
  for the prevention and early detection of mental [illness] HEALTH DISOR-
  DERS and for the comprehensively planned care, treatment [and], rehabil-
  itation AND RECOVERY of [their mentally ill citizens] INDIVIDUALS WITH A
  MENTAL HEALTH DIAGNOSIS.
   Therefore, it shall be the policy of the state to conduct research and
- to  develop  programs  which  further  prevention and early detection of
- mental [illness] HEALTH DISORDERS; to  develop  a  comprehensive,  inte-
- grated  system  of treatment [and], rehabilitative AND RECOVERY services
- for [the mentally ill] INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS.  Such
- a  system  should include, whenever possible, the provision of necessary
+ to develop programs which further  prevention  and  early  detection  of
+ mental  [illness]  HEALTH  DISORDERS;  to develop a comprehensive, inte-
+ grated system of treatment [and], rehabilitative AND  RECOVERY  services
+ for  [the mentally ill] INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS. Such
+ a system should include, whenever possible, the provision  of  necessary
  treatment services to people in their home communities; it should assure
- the adequacy and appropriateness of residential arrangements for  people
- in  need of service; and it should rely upon improved programs of insti-
- tutional care only when  necessary  and  appropriate.  Further,  such  a
- system  should  recognize  the important therapeutic roles of all disci-
- plines which may contribute to the care or treatment  of  [the  mentally
- ill]  INDIVIDUALS  WITH  A  MENTAL HEALTH DIAGNOSIS, such as psychology,
- social work, psychiatric nursing, special  education  and  other  disci-
- plines  in the field of mental illness, as well as psychiatry and should
- S. 2104  6
+ the  adequacy and appropriateness of residential arrangements for people
+ in need of service; and it should rely upon improved programs of  insti-
+ tutional  care  only  when  necessary  and  appropriate. Further, such a
+ system should recognize the important therapeutic roles  of  all  disci-
+ plines  which  may  contribute to the care or treatment of [the mentally
+ ill] INDIVIDUALS WITH A MENTAL HEALTH  DIAGNOSIS,  such  as  psychology,
+ social  work,  psychiatric  nursing,  special education and other disci-
+ S. 2104--A  6
  
+ plines in the field of mental illness, as well as psychiatry and  should
  establish accountability for implementation of the policies of the state
- with regard to the care  [and],  rehabilitation  AND  RECOVERY  of  [the
+ with  regard  to  the  care  [and],  rehabilitation AND RECOVERY of [the
  mentally ill] INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS.
   To  facilitate  the  implementation  of  these policies and to further
  advance the interests of [the mentally ill] INDIVIDUALS  WITH  A  MENTAL
@@ -351,9 +353,9 @@ S T A T E  O F  N E W  Y O R K
  vocational and economic supports by stabilizing an individual's physical
  and  psychological  functioning.  The legislature recognizes the impor-
  tance of varying treatment approaches and levels  of  care  designed  to
- meet  each  [client's]  INDIVIDUAL'S  needs.  [Relapse]  REOCCURRENCE
- S. 2104  7
+ S. 2104--A  7
  
+ meet  each  [client's]  INDIVIDUAL'S  needs.  [Relapse]  REOCCURRENCE
  prevention and aftercare are two primary components  of  treatment  that
  serve to promote and maintain recovery.
   The  legislature  recognizes  that  the  distinct  treatment  needs of
@@ -409,7 +411,7 @@ S T A T E  O F  N E W  Y O R K
  Employees so transferred shall be transferred without  further  examina-
  tion  or qualification to the same or similar titles and shall remain in
  the same collective bargaining units and shall retain  their  respective
- S. 2104  8
+ S. 2104--A  8
  
  civil  service  classifications,  status,  and  rights pursuant to their
  collective bargaining units and collective bargaining agreements.
