@@ -1,6 +1,6 @@
 # Establishes the office of addiction and mental health services
 
-**Bill ID:** A1038A
+**Bill ID:** A1038AA
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the office of addiction and mental health services.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1038
+  1038--A
  
   2023-2024 Regular Sessions
  
@@ -25,48 +25,49 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by M. of A. KELLES, BURDICK, GONZALEZ-ROJAS, EPSTEIN, CONRAD
-  -- read once and referred to the  Committee  on  Alcoholism  and  Drug
-  Abuse
+ Introduced by M. of A. KELLES, BURDICK, GONZALEZ-ROJAS, EPSTEIN, CONRAD,
+  BORES, K. BROWN -- read once and referred to the Committee on Alcohol-
+  ism  and  Drug  Abuse  --  committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend  the  mental hygiene law, in relation to creating the
+ AN ACT to amend the mental hygiene law,  in  relation  to  creating  the
   office of addiction and mental health services
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivisions  2  and  2-a  of  section 1.03 of the mental
- hygiene law, subdivision 2 as amended and subdivision 2-a  as  added  by
+  Section 1. Subdivisions 2 and  2-a  of  section  1.03  of  the  mental
+ hygiene  law,  subdivision  2 as amended and subdivision 2-a as added by
  chapter 281 of the laws of 2019, are amended to read as follows:
   2.  "Commissioner"  means  the  commissioner  of  [mental  health,]
- ADDICTION AND MENTAL HEALTH SERVICES AND the  commissioner  of  develop-
- mental  disabilities  [and  the  commissioner  of addiction services and
+ ADDICTION  AND  MENTAL  HEALTH SERVICES AND the commissioner of develop-
+ mental disabilities [and the  commissioner  of  addiction  services  and
  supports] as used in this chapter. Any power or duty heretofore assigned
- to the commissioner of mental hygiene or to  the  department  of  mental
- hygiene  pursuant  to  this  chapter  shall hereafter be assigned to the
- commissioner of [mental health] ADDICTION AND MENTAL HEALTH SERVICES  in
- the  case  of  facilities,  programs,  or  services for individuals with
- [mental illness] A MENTAL  HEALTH  DIAGNOSIS,  to  the  commissioner  of
- developmental  disabilities  in  the  case  of  facilities, programs, or
+ to  the  commissioner  of  mental hygiene or to the department of mental
+ hygiene pursuant to this chapter shall  hereafter  be  assigned  to  the
+ commissioner  of [mental health] ADDICTION AND MENTAL HEALTH SERVICES in
+ the case of facilities,  programs,  or  services  for  individuals  with
+ [mental  illness]  A  MENTAL  HEALTH  DIAGNOSIS,  to the commissioner of
+ developmental disabilities in  the  case  of  facilities,  programs,  or
  services for individuals with developmental disabilities, to the commis-
- sioner of addiction [services] and [supports] MENTAL HEALTH SERVICES  in
- the  case  of  facilities,  programs,  or addiction disorder services in
+ sioner  of addiction [services] and [supports] MENTAL HEALTH SERVICES in
+ the case of facilities, programs,  or  addiction  disorder  services  in
  accordance with the provisions of titles D and E of this chapter.
-  2-a. Notwithstanding any other section of law or  regulation,  on  and
- after  the effective date of this subdivision, any and all references to
- the office of alcoholism and substance abuse services and the  predeces-
- sor  agencies  to  the office of alcoholism and substance abuse services
- including the division of alcoholism and alcohol abuse and the  division
- of  substance  abuse services AND ALL REFERENCES TO THE OFFICE OF MENTAL
- HEALTH, shall be known  as  the  "office  of  addiction  [services]  and
+  2-a.  Notwithstanding  any  other section of law or regulation, on and
+ after the effective date of this subdivision, any and all references  to
+ the  office of alcoholism and substance abuse services and the predeces-
+ sor agencies to the office of alcoholism and  substance  abuse  services
+ including  the division of alcoholism and alcohol abuse and the division
+ of substance abuse services AND ALL REFERENCES TO THE OFFICE  OF  MENTAL
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03499-01-3
- A. 1038  2
+  LBD03499-02-3
+ A. 1038--A  2
  
- [supports]  MENTAL  HEALTH SERVICES."  Nothing in this subdivision shall
- be construed as requiring or prohibiting the further amendment of  stat-
+ HEALTH,  shall  be  known  as  the  "office  of addiction [services] and
+ [supports] MENTAL HEALTH SERVICES."  Nothing in this  subdivision  shall
+ be  construed as requiring or prohibiting the further amendment of stat-
  utes or regulations to conform to the provisions of this subdivision.
   § 2. Section 5.01 of the mental hygiene law, as amended by chapter 281
  of  the  laws of 2019, is amended and two new sections 5.01-a and 5.01-b
@@ -120,80 +121,80 @@ S T A T E  O F  N E W  Y O R K
  SENATE; (IV) ONE MEMBER APPOINTED ON THE RECOMMENDATION OF THE  MINORITY
  LEADER  OF THE ASSEMBLY; AND (V) ONE MEMBER APPOINTED ON THE RECOMMENDA-
  TION OF THE DEPARTMENT OF HEALTH AIDS INSTITUTE, THE  OFFICE  OF  MENTAL
+ A. 1038--A  3
+ 
  HEALTH  AND  THE OFFICE OF ADDICTION SERVICES AND SUPPORTS TO ENSURE THE
- A. 1038  3
-
  INTENT OF THE LEGISLATURE IS FULFILLED IN ESTABLISHING  THE  INTEGRATION
  OF  SERVICES  BY  SUCH  OFFICE.  SUCH STANDING ADVISORY COMMITTEE SHALL
- CONSIST OF  PROVIDERS,  PEERS,  FAMILY  MEMBERS,  INDIVIDUALS  WHO  HAVE
- UTILIZED  ADDICTION SERVICES AND SUPPORTS AND/OR MENTAL HEALTH SERVICES,
- THE LOCAL GOVERNMENT UNIT AS DEFINED IN ARTICLE FORTY-ONE OF THIS  CHAP-
+ CONSIST  OF  PROVIDERS,  PEERS,  FAMILY  MEMBERS,  INDIVIDUALS  WHO HAVE
+ UTILIZED ADDICTION SERVICES AND SUPPORTS AND/OR MENTAL HEALTH  SERVICES,
+ THE  LOCAL GOVERNMENT UNIT AS DEFINED IN ARTICLE FORTY-ONE OF THIS CHAP-
  TER, PUBLIC AND PRIVATE SECTOR UNIONS AND REPRESENTATIVES OF OTHER AGEN-
- CIES  OR  OFFICES AS THE DESIGNATED STANDING ADVISORY COMMITTEE MAY DEEM
- NECESSARY. SUCH STANDING ADVISORY  COMMITTEE  SHALL  MEET  REGULARLY  IN
+ CIES OR OFFICES AS THE DESIGNATED STANDING ADVISORY COMMITTEE  MAY  DEEM
+ NECESSARY.  SUCH  STANDING  ADVISORY  COMMITTEE  SHALL MEET REGULARLY IN
  FURTHERANCE OF ITS FUNCTIONS AND AT ANY OTHER TIME AT THE REQUEST OF THE
  DESIGNATED STANDING ADVISORY COMMITTEE LEADER.
- § 5.01-B OFFICE  OF ADDICTION AND MENTAL HEALTH SERVICES; COMPOSITION OF
+ § 5.01-B OFFICE OF ADDICTION AND MENTAL HEALTH SERVICES; COMPOSITION  OF
   OFFICE.
   UNTIL JANUARY FIRST, TWO THOUSAND TWENTY-FIVE, THE OFFICE OF ADDICTION
- AND MENTAL HEALTH SERVICES SHALL CONSIST OF THE OFFICE OF MENTAL  HEALTH
+ AND  MENTAL HEALTH SERVICES SHALL CONSIST OF THE OFFICE OF MENTAL HEALTH
  AND THE OFFICE OF ADDICTION SERVICES AND SUPPORTS.
   § 3. Section 5.03 of the mental hygiene law, as amended by chapter 281
  of the laws of 2019, is amended to read as follows:
  § 5.03 Commissioners.
-  The  head  of the office of ADDICTION AND mental health SERVICES shall
- be the commissioner of  [mental  health]  ADDICTION  AND  MENTAL  HEALTH
+  The head of the office of ADDICTION AND mental health  SERVICES  shall
+ be  the  commissioner  of  [mental  health]  ADDICTION AND MENTAL HEALTH
  SERVICES; AND the head of the office for people with developmental disa-
- bilities  shall  be the commissioner of developmental disabilities[; and
- the head of the office of addiction services and supports shall  be  the
- commissioner  of  addiction  services  and  supports]. Each commissioner
- shall be appointed by the governor, by and with the advice  and  consent
- of  the  senate,  to  serve  at the pleasure of the governor.  UNTIL THE
+ bilities shall be the commissioner of developmental  disabilities[;  and
+ the  head  of the office of addiction services and supports shall be the
+ commissioner of addiction  services  and  supports].  Each  commissioner
+ shall  be  appointed by the governor, by and with the advice and consent
+ of the senate, to serve at the pleasure of  the  governor.  UNTIL  THE
  COMMISSIONER OF ADDICTION AND MENTAL HEALTH SERVICES IS APPOINTED BY THE
- GOVERNOR AND CONFIRMED BY THE SENATE, THE COMMISSIONER OF MENTAL  HEALTH
- AND  THE  COMMISSIONER OF ADDICTION SERVICES AND SUPPORTS SHALL CONTINUE
- TO OVERSEE MENTAL HEALTH AND ADDICTION SERVICES RESPECTIVELY,  AND  WORK
- COLLABORATIVELY  TO  INTEGRATE  CARE  FOR  INDIVIDUALS  WITH BOTH MENTAL
+ GOVERNOR  AND CONFIRMED BY THE SENATE, THE COMMISSIONER OF MENTAL HEALTH
+ AND THE COMMISSIONER OF ADDICTION SERVICES AND SUPPORTS  SHALL  CONTINUE
+ TO  OVERSEE  MENTAL HEALTH AND ADDICTION SERVICES RESPECTIVELY, AND WORK
+ COLLABORATIVELY TO INTEGRATE  CARE  FOR  INDIVIDUALS  WITH  BOTH  MENTAL
  HEALTH AND SUBSTANCE USE DISORDERS.
-  § 4. Section 5.05 of the mental hygiene law, as added by  chapter  978
- of  the  laws  of 1977, subdivision (a) as amended by chapter 168 of the
- laws of 2010, subdivision (b) as amended by chapter 294 of the  laws  of
- 2007,  paragraph 1 of subdivision (b) as amended by section 14 of part J
- of chapter 56 of the laws of 2012, subdivision (d) as added  by  chapter
- 58  of  the  laws of 1988 and subdivision (e) as added by chapter 588 of
+  §  4.  Section 5.05 of the mental hygiene law, as added by chapter 978
+ of the laws of 1977, subdivision (a) as amended by chapter  168  of  the
+ laws  of  2010, subdivision (b) as amended by chapter 294 of the laws of
+ 2007, paragraph 1 of subdivision (b) as amended by section 14 of part  J
+ of  chapter  56 of the laws of 2012, subdivision (d) as added by chapter
+ 58 of the laws of 1988 and subdivision (e) as added by  chapter  588  of
  the laws of 2011, is amended to read as follows:
  § 5.05 Powers and duties of the head of the department.
-  (a) The commissioners of the office of  ADDICTION  AND  mental  health
- SERVICES  and  the office for people with developmental disabilities, as
- the heads of the department, shall jointly visit and inspect,  or  cause
- to  be  visited  and  inspected, all facilities either public or private
- used for the care, treatment  [and],  rehabilitation,  AND  RECOVERY  of
- individuals  with  A  mental  [illness]  HEALTH DIAGNOSIS, SUBSTANCE USE
- DISORDER and developmental disabilities in accordance with the  require-
+  (a)  The  commissioners  of  the office of ADDICTION AND mental health
+ SERVICES and the office for people with developmental  disabilities,  as
+ the  heads  of the department, shall jointly visit and inspect, or cause
+ to be visited and inspected, all facilities  either  public  or  private
+ used  for  the  care,  treatment  [and], rehabilitation, AND RECOVERY of
+ individuals with A mental  [illness]  HEALTH  DIAGNOSIS,  SUBSTANCE  USE
+ DISORDER  and developmental disabilities in accordance with the require-
  ments of section four of article seventeen of the New York state consti-
  tution.
-  (b)  (1)  The  commissioners  of  the  office  of ADDICTION AND mental
+  (b) (1) The commissioners  of  the  office  of  ADDICTION  AND  mental
  health[,] SERVICES AND the office for people with developmental disabil-
- ities [and the office of alcoholism and substance abuse services]  shall
- constitute  an  inter-office coordinating council which, consistent with
- the autonomy of each office for matters within its  jurisdiction,  shall
- ensure  that the state policy for the prevention, care, treatment [and],
- rehabilitation, AND RECOVERY of  individuals  with  A  mental  [illness]
- A. 1038  4
+ ities  [and the office of alcoholism and substance abuse services] shall
+ constitute an inter-office coordinating council which,  consistent  with
+ the  autonomy  of each office for matters within its jurisdiction, shall
+ ensure that the state policy for the prevention, care, treatment  [and],
+ A. 1038--A  4
  
- HEALTH  DIAGNOSIS,  SUBSTANCE  USE DISORDERS and developmental disabili-
+ rehabilitation,  AND  RECOVERY  of  individuals  with A mental [illness]
+ HEALTH DIAGNOSIS, SUBSTANCE USE DISORDERS  and  developmental  disabili-
  ties[, alcoholism, alcohol abuse, substance abuse, substance dependence,
- and chemical dependence] is planned, developed and  implemented  compre-
- hensively;  that gaps in services to individuals with multiple disabili-
- ties are eliminated and that no person is denied treatment and  services
- because  he or she has more than one disability; that procedures for the
- regulation of programs which offer care and treatment for more than  one
- class  of  persons  with  mental disabilities be coordinated between the
- offices having  jurisdiction  over  such  programs;  and  that  research
- projects  of  the institutes, as identified in section 7.17 [or], 13.17,
- OR 19.17 of this chapter or as operated by the office  for  people  with
- developmental  disabilities, are coordinated to maximize the success and
- cost effectiveness of such projects and  to  eliminate  wasteful  dupli-
+ and  chemical  dependence] is planned, developed and implemented compre-
+ hensively; that gaps in services to individuals with multiple  disabili-
+ ties  are eliminated and that no person is denied treatment and services
+ because [he or she has] THEY HAVE more than one disability; that  proce-
+ dures  for the regulation of programs which offer care and treatment for
+ more than one class of persons with mental disabilities  be  coordinated
+ between  the  offices  having  jurisdiction over such programs; and that
+ research projects of the institutes, as identified in section 7.17 [or],
+ 13.17, OR 19.17 of this chapter or as operated by the office for  people
+ with developmental disabilities, are coordinated to maximize the success
+ and cost effectiveness of such projects and to eliminate wasteful dupli-
  cation.
   (2)  The  inter-office  coordinating  council  shall  annually issue a
  report on its activities to the legislature on or before December  thir-
@@ -236,7 +237,7 @@ S T A T E  O F  N E W  Y O R K
  requirements shall include but not be limited to the following: (i)  the
  level of care based on patient needs, including on ward activities, (ii)
  the  number of admissions, (iii) the geographic location of each facili-
- A. 1038  5
+ A. 1038--A  5
  
  ty, (iv) the physical layout of the campus, and (v) the physical  design
  of patient care wards.
@@ -256,48 +257,48 @@ S T A T E  O F  N E W  Y O R K
  [nineteen hundred eighty-nine] TWO THOUSAND TWENTY-FIVE. The commission-
  er  shall  submit  a final report to the governor and the legislature no
  later than October first, [nineteen hundred  eighty-nine]  TWO  THOUSAND
- TWENTY-FIVE and shall include in his report a plan to achieve the staff-
- ing requirements and the length of time necessary to meet these require-
- ments.
-  (e)  The commissioners of the office of ADDICTION AND mental health[,]
+ TWENTY-FIVE  and  shall  include in [his] THEIR report a plan to achieve
+ the staffing requirements and the length of time necessary to meet these
+ requirements.
+  (e) The commissioners of the office of ADDICTION AND mental  health[,]
  SERVICES AND THE office for people with developmental disabilities[, and
- the office of alcoholism and substance abuse services]  shall  cause  to
- have  all  new  contracts  with  agencies  and providers licensed by the
+ the  office  of  alcoholism and substance abuse services] shall cause to
+ have all new contracts with  agencies  and  providers  licensed  by  the
  offices to have a clause requiring notice be provided to all current and
- new employees of such agencies and providers stating that all  instances
- of  abuse  shall  be  investigated  pursuant to this chapter, and, if an
- employee leaves employment prior to the conclusion of  a  pending  abuse
+ new  employees of such agencies and providers stating that all instances
+ of abuse shall be investigated pursuant to  this  chapter,  and,  if  an
+ employee  leaves  employment  prior to the conclusion of a pending abuse
  investigation, the investigation shall continue. Nothing in this section
- shall  be  deemed to diminish the rights, privileges, or remedies of any
- employee under any other law  or  regulation  or  under  any  collective
+ shall be deemed to diminish the rights, privileges, or remedies  of  any
+ employee  under  any  other  law  or  regulation or under any collective
  bargaining agreement or employment contract.
-  §  5.  Section 7.01 of the mental hygiene law, as added by chapter 978
+  § 5. Section 7.01 of the mental hygiene law, as added by  chapter  978
  of the laws of 1977, is amended to read as follows:
  § 7.01 Declaration of policy.
-  The state of New York and its local governments have a  responsibility
+  The  state of New York and its local governments have a responsibility
  for the prevention and early detection of mental [illness] HEALTH DISOR-
  DERS and for the comprehensively planned care, treatment [and], rehabil-
  itation AND RECOVERY of [their mentally ill citizens] INDIVIDUALS WITH A
  MENTAL HEALTH DIAGNOSIS.
   Therefore, it shall be the policy of the state to conduct research and
- to  develop  programs  which  further  prevention and early detection of
- mental [illness] HEALTH DISORDERS; to  develop  a  comprehensive,  inte-
- grated  system  of treatment [and], rehabilitative AND RECOVERY services
- for [the mentally ill] INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS.  Such
- a  system  should include, whenever possible, the provision of necessary
+ to develop programs which further  prevention  and  early  detection  of
+ mental  [illness]  HEALTH  DISORDERS;  to develop a comprehensive, inte-
+ grated system of treatment [and], rehabilitative AND  RECOVERY  services
+ for  [the mentally ill] INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS. Such
+ a system should include, whenever possible, the provision  of  necessary
  treatment services to people in their home communities; it should assure
- the adequacy and appropriateness of residential arrangements for  people
- in  need of service; and it should rely upon improved programs of insti-
- tutional care only when  necessary  and  appropriate.  Further,  such  a
- system  should  recognize  the important therapeutic roles of all disci-
- plines which may contribute to the care or treatment  of  [the  mentally
- ill]  INDIVIDUALS  WITH  A  MENTAL HEALTH DIAGNOSIS, such as psychology,
- social work, psychiatric nursing, special  education  and  other  disci-
- plines  in the field of mental illness, as well as psychiatry and should
- A. 1038  6
+ the  adequacy and appropriateness of residential arrangements for people
+ in need of service; and it should rely upon improved programs of  insti-
+ tutional  care  only  when  necessary  and  appropriate. Further, such a
+ system should recognize the important therapeutic roles  of  all  disci-
+ plines  which  may  contribute to the care or treatment of [the mentally
+ ill] INDIVIDUALS WITH A MENTAL HEALTH  DIAGNOSIS,  such  as  psychology,
+ social  work,  psychiatric  nursing,  special education and other disci-
+ plines in the field of mental illness, as well as psychiatry and  should
+ A. 1038--A  6
  
  establish accountability for implementation of the policies of the state
- with regard to the care  [and],  rehabilitation  AND  RECOVERY  of  [the
+ with  regard  to  the  care  [and],  rehabilitation AND RECOVERY of [the
  mentally ill] INDIVIDUALS WITH A MENTAL HEALTH DIAGNOSIS.
   To  facilitate  the  implementation  of  these policies and to further
  advance the interests of [the mentally ill] INDIVIDUALS  WITH  A  MENTAL
@@ -352,7 +353,7 @@ S T A T E  O F  N E W  Y O R K
  and  psychological  functioning.  The legislature recognizes the impor-
  tance of varying treatment approaches and levels  of  care  designed  to
  meet  each  [client's]  INDIVIDUAL'S  needs.  [Relapse]  REOCCURRENCE
- A. 1038  7
+ A. 1038--A  7
  
  prevention and aftercare are two primary components  of  treatment  that
  serve to promote and maintain recovery.
@@ -409,7 +410,7 @@ S T A T E  O F  N E W  Y O R K
  Employees so transferred shall be transferred without  further  examina-
  tion  or qualification to the same or similar titles and shall remain in
  the same collective bargaining units and shall retain  their  respective
- A. 1038  8
+ A. 1038--A  8
  
  civil  service  classifications,  status,  and  rights pursuant to their
  collective bargaining units and collective bargaining agreements.
