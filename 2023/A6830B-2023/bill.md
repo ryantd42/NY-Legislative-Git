@@ -1,6 +1,6 @@
 # Provides that the results of urine tests conducted pursuant to a judicial diversion program shall be private and confidential
 
-**Bill ID:** A6830BA
+**Bill ID:** A6830BB
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that the results of urine tests conducted pursuant to a judicial divers
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6830--A
+  6830--B
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. KELLES -- read once and referred to the Committee
   on  Codes  -- committee discharged, bill amended, ordered reprinted as
-  amended and recommitted to said committee
- 
+  amended and recommitted to said committee -- again reported from  said
+  committee  with amendments, ordered reprinted as amended and recommit-
+  ted to said committee
+
  AN ACT to amend the criminal procedure law, in relation to  the  privacy
   and  confidentiality  of  urine  test  results performed pursuant to a
   judicial diversion program
@@ -57,16 +59,17 @@ S T A T E  O F  N E W  Y O R K
  USE  OF  A  NON-PRESCRIBED  SUBSTANCE  BE USED AS EVIDENCE IN A CRIMINAL
  ACTION AGAINST THE INDIVIDUAL WHOSE URINE WAS TESTED; (ii) a requirement
  that the defendant refrain from engaging in criminal behaviors; (iii) if
- the defendant needs treatment for opioid use, that he or she may partic-
- ipate in and receive medically prescribed drug treatments under the care
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09969-03-3
- A. 6830--A  2
+  LBD09969-04-3
+ A. 6830--B  2
  
- of a health care professional licensed or certified under title eight of
- the education law, acting within his or her lawful  scope  of  practice,
- provided  that  no  court shall require the use of any specified type or
- brand of drug during the course of medically prescribed drug treatments.
+ the defendant needs treatment for opioid use, that [he or she] THEY  may
+ participate  in  and  receive medically prescribed drug treatments under
+ the care of a health care professional licensed or certified under title
+ eight  of  the  education  law,  acting within [his or her] THEIR lawful
+ scope of practice, provided that no court shall require the use  of  any
+ specified  type  or  brand  of  drug  during  the  course  of  medically
+ prescribed drug treatments.
   § 2. This act shall take effect immediately.
