@@ -1,6 +1,6 @@
 # Relates to the workers' compensation benefit of certain disabled employees
 
-**Bill ID:** S921A
+**Bill ID:** S921AA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that the weekly benefit which the disabled employee is entitled to rece
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  921
+  921--A
  
   2023-2024 Regular Sessions
  
@@ -25,77 +25,166 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sen.  COONEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Labor
+ Introduced  by  Sens.  COONEY,  FERNANDEZ,  GOUNARDES  -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Labor  --  committee  discharged,  bill  amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the workers' compensation law, in relation to the weekly
   benefit of a disabled employee
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section  1. Paragraph (b) of subdivision 2 of section 204 of the work-
- ers' compensation law, as amended by section 5 of part SS of chapter  54
- of the laws of 2016, is amended to read as follows:
-  (b)  THE  WEEKLY  BENEFIT  WHICH  THE DISABLED EMPLOYEE IS ENTITLED TO
- RECEIVE FOR DISABILITY COMMENCING: (I) ON OR AFTER  JANUARY  FIRST,  TWO
- THOUSAND  TWENTY-FIVE  SHALL  BE FIFTY PERCENT OF THE EMPLOYEE'S AVERAGE
- WEEKLY WAGE BUT SHALL NOT EXCEED FIFTY  PERCENT  OF  THE  STATE  AVERAGE
- WEEKLY  WAGE;  (II)  ON  OR AFTER JANUARY FIRST, TWO THOUSAND TWENTY-SIX
- SHALL BE FIFTY-FIVE PERCENT OF THE EMPLOYEE'S AVERAGE  WEEKLY  WAGE  BUT
- SHALL  NOT  EXCEED  FIFTY-FIVE PERCENT OF THE STATE AVERAGE WEEKLY WAGE;
- (III) ON OR AFTER JANUARY FIRST,  TWO  THOUSAND  TWENTY-SEVEN  SHALL  BE
+ 
+  Section  1.  Short title.  This act shall be known and may be cited as
+ the "equity in leave act".
+  § 2. Paragraph (b) of subdivision 2 of section  204  of  the  workers'
+ compensation  law,  as  amended by section 5 of part SS of chapter 54 of
+ the laws of 2016, is amended to read as follows:
+  (b) THE WEEKLY BENEFIT WHICH THE  DISABLED  EMPLOYEE  IS  ENTITLED  TO
+ RECEIVE  FOR  DISABILITY  COMMENCING: (I) ON OR AFTER JANUARY FIRST, TWO
+ THOUSAND TWENTY-SIX SHALL BE FIFTY PERCENT  OF  THE  EMPLOYEE'S  AVERAGE
+ WEEKLY  WAGE  BUT  SHALL  NOT  EXCEED FIFTY PERCENT OF THE STATE AVERAGE
+ WEEKLY WAGE; (II) ON OR AFTER JANUARY FIRST, TWO  THOUSAND  TWENTY-SEVEN
+ SHALL  BE  FIFTY-FIVE  PERCENT OF THE EMPLOYEE'S AVERAGE WEEKLY WAGE BUT
+ SHALL NOT EXCEED FIFTY-FIVE PERCENT OF THE STATE  AVERAGE  WEEKLY  WAGE;
+ (III)  ON  OR  AFTER  JANUARY  FIRST, TWO THOUSAND TWENTY-EIGHT SHALL BE
  SIXTY PERCENT OF THE EMPLOYEE'S WEEKLY AVERAGE WAGE BUT SHALL NOT EXCEED
- SIXTY  PERCENT  OF  THE  STATE AVERAGE WEEKLY WAGE; AND (IV) ON OR AFTER
- JANUARY FIRST OF EACH SUCCEEDING YEAR, SHALL BE SIXTY-SEVEN  PERCENT  OF
- THE  EMPLOYEE'S  AVERAGE  WEEKLY  WAGE  BUT SHALL NOT EXCEED SIXTY-SEVEN
- PERCENT OF THE STATE AVERAGE WEEKLY WAGE. The weekly benefit  which  the
+ SIXTY PERCENT OF THE STATE AVERAGE WEEKLY WAGE; AND  (IV)  ON  OR  AFTER
+ JANUARY  FIRST  OF EACH SUCCEEDING YEAR, SHALL BE SIXTY-SEVEN PERCENT OF
+ THE EMPLOYEE'S AVERAGE WEEKLY WAGE  BUT  SHALL  NOT  EXCEED  SIXTY-SEVEN
+ PERCENT  OF  THE STATE AVERAGE WEEKLY WAGE. The weekly benefit which the
  disabled employee is entitled to receive for disability commencing on or
- after  May  first,  nineteen  hundred  eighty-nine  AND PRIOR TO JANUARY
- FIRST, TWO THOUSAND TWENTY-FIVE shall  be  one-half  of  the  employee's
- weekly wage, but in no case shall such benefit exceed one hundred seven-
- ty  dollars;  except  that if the employee's average weekly wage is less
- than twenty dollars, the benefit shall be such average weekly wage.  The
- weekly  benefit  which  the disabled employee is entitled to receive for
- disability commencing on or after July first, nineteen  hundred  eighty-
- four  shall  be  one-half  of the employee's weekly wage, but in no case
+ after May first, nineteen  hundred  eighty-nine  AND  PRIOR  TO  JANUARY
+ FIRST, TWO THOUSAND TWENTY-SIX shall be one-half of the employee's week-
+ ly  wage,  but  in no case shall such benefit exceed one hundred seventy
+ dollars; except that if the employee's average weekly wage is less  than
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02619-01-3
- S. 921  2
+  LBD02619-02-3
+ S. 921--A  2
  
- shall such benefit exceed one hundred forty-five dollars; except that if
- the employee's average weekly wage is  less  than  twenty  dollars,  the
- benefit  shall be such average weekly wage. The weekly benefit which the
- disabled employee is entitled to receive for disability commencing on or
- after July first, nineteen hundred eighty-three and prior to July first,
- nineteen hundred eighty-four shall be one-half of the employee's average
- weekly  wage, but in no case shall such benefit exceed one hundred thir-
- ty-five dollars nor be less than twenty  dollars;  except  that  if  the
- employee's  average  weekly wage is less than twenty dollars the benefit
+ twenty dollars, the benefit shall be such average weekly wage. The week-
+ ly  benefit which the disabled employee is entitled to receive for disa-
+ bility commencing on or after July first, nineteen  hundred  eighty-four
+ shall  be  one-half  of the employee's weekly wage, but in no case shall
+ such benefit exceed one hundred forty-five dollars; except that  if  the
+ employee's  average weekly wage is less than twenty dollars, the benefit
  shall be such average weekly wage. The weekly benefit which the disabled
  employee is entitled to receive for disability commencing  on  or  after
- July  first,  nineteen  hundred  seventy-four,  and prior to July first,
+ July first, nineteen hundred eighty-three and prior to July first, nine-
+ teen  hundred  eighty-four  shall  be one-half of the employee's average
+ weekly wage, but in no case shall such benefit exceed one hundred  thir-
+ ty-five  dollars  nor  be  less  than twenty dollars; except that if the
+ employee's average weekly wage is less than twenty dollars  the  benefit
+ shall be such average weekly wage. The weekly benefit which the disabled
+ employee  is  entitled  to receive for disability commencing on or after
+ July first, nineteen hundred seventy-four,  and  prior  to  July  first,
  nineteen hundred eighty-three, shall be one-half of the employee's aver-
- age weekly wage, but in no case shall such  benefit  exceed  ninety-five
- dollars  nor  be less than twenty dollars; except that if the employee's
- average weekly wage is less than twenty dollars, the  benefit  shall  be
+ age  weekly  wage,  but in no case shall such benefit exceed ninety-five
+ dollars nor be less than twenty dollars; except that if  the  employee's
+ average  weekly  wage  is less than twenty dollars, the benefit shall be
  such average weekly wage. The weekly benefit which the disabled employee
  is entitled to receive for disability commencing on or after July first,
- nineteen  hundred  seventy  and  prior  to  July first, nineteen hundred
- seventy-four shall be one-half of the employee's  average  weekly  wage,
- but  in  no  case  shall such benefit exceed seventy-five dollars nor be
- less than twenty dollars; except that if the employee's  average  weekly
+ nineteen hundred seventy and  prior  to  July  first,  nineteen  hundred
+ seventy-four  shall  be  one-half of the employee's average weekly wage,
+ but in no case shall such benefit exceed  seventy-five  dollars  nor  be
+ less  than  twenty dollars; except that if the employee's average weekly
  wage is less than twenty dollars the benefit shall be such average week-
- ly  wage.  For any period of disability less than a full week, the bene-
- fits payable shall be calculated by dividing the weekly benefit  by  the
- number  of  the employee's normal work days per week and multiplying the
+ ly wage. For any period of disability less than a full week,  the  bene-
+ fits  payable  shall be calculated by dividing the weekly benefit by the
+ number of the employee's normal work days per week and  multiplying  the
  quotient by the number of normal work days in such period of disability.
- The weekly benefit for a disabled employee who is concurrently  eligible
- for  benefits in the employment of more than one covered employer shall,
+ The  weekly benefit for a disabled employee who is concurrently eligible
+ for benefits in the employment of more than one covered employer  shall,
  within the maximum and minimum herein provided, be one-half of the total
- of the employee's average weekly wages received from  all  such  covered
- employers,  and shall be allocated in the proportion of their respective
+ of  the  employee's  average weekly wages received from all such covered
+ employers, and shall be allocated in the proportion of their  respective
  average weekly wage payments.
-  § 2. This act shall take effect immediately.
+  §  3.  Paragraph  (a)  of subdivision 3 of section 209 of the workers'
+ compensation law, as amended by section 10 of part SS of chapter  54  of
+ the laws of 2016, is amended to read as follows:
+  (a) Disability benefits. The contribution of each such employee to the
+ cost  of  disability benefits provided by this article shall be one-half
+ of one per centum of the employee's wages paid to  him  or  her  on  and
+ after July first, nineteen hundred fifty AND PRIOR TO JANUARY FIRST, TWO
+ THOUSAND  TWENTY-SIX,  but  not  in excess of sixty cents per week.  THE
+ CONTRIBUTION OF EACH SUCH EMPLOYEE TO THE COST  OF  EMPLOYEE  DISABILITY
+ BENEFITS PROVIDED BY THIS ARTICLE SHALL BE ONE-HALF OF ONE PER CENTUM OF
+ THE  EMPLOYEE'S WAGES PAID TO HIM OR HER ON AND AFTER JANUARY FIRST, TWO
+ THOUSAND TWENTY-SIX, BUT NOT IN EXCESS OF TWO DOLLARS AND  TWENTY  CENTS
+ PER WEEK.
+  §  4.  Section  203-a  of the workers' compensation law, as added by
+ section 4 of part SS of chapter 54 of the laws of 2016,  is  amended  to
+ read as follows:
+  §  203-a. [Retaliatory] INTERFERENCE AND RETALIATORY action prohibited
+ for DISABILITY AND family  leave.  1.  The  provisions  of  section  one
+ S. 921--A  3
+ 
+ hundred twenty of this chapter and section two hundred forty-one of this
+ article shall be applicable to DISABILITY AND family leave.
+  2.  IT SHALL BE UNLAWFUL FOR ANY EMPLOYER TO INTERFERE WITH, RESTRAIN,
+ OR DENY THE EXERCISE OF, OR THE ATTEMPT TO EXERCISE, ANY RIGHT  PROVIDED
+ UNDER  THIS  ARTICLE, INCLUDING: (A) FAILING TO COMPLY WITH THE REQUIRE-
+ MENTS OF SECTION TWO HUNDRED TWENTY-NINE OF THIS  ARTICLE,  SUCH  AS  BY
+ FAILING  TO  PROVIDE  AN  EMPLOYEE WITH THE NOTICE OF RIGHTS REQUIRED BY
+ SUCH SECTION; (B) FAILING TO PROVIDE AN EMPLOYEE WITH COMPLETE AND ACCU-
+ RATE INFORMATION RELATED TO THE SUBMISSION OF A CLAIM FOR DISABILITY  OR
+ FAMILY LEAVE BENEFITS, SUCH AS BY FAILING TO INFORM THE EMPLOYEE THAT IT
+ IS  THE  EMPLOYEE'S  RESPONSIBILITY  TO SUBMIT THE COMPLETED APPLICATION
+ MATERIALS TO THE EMPLOYER'S INSURANCE CARRIER OR BY FAILING OR  REFUSING
+ TO PROVIDE THE EMPLOYEE WITH THE NAME OF THE EMPLOYER'S INSURANCE CARRI-
+ ER  AND/OR THE EMPLOYER'S POLICY NUMBER WITH SAID INSURANCE CARRIER; (C)
+ FAILING TO ACCURATELY COMPLETE AND RETURN TO THE EMPLOYEE THE DISABILITY
+ OR FAMILY LEAVE APPLICATION PAPERWORK WITHIN THE TIME  PERIOD  SPECIFIED
+ BY  THE CHAIR; (D) PROVIDING THE EMPLOYER'S INSURANCE CARRIER WITH INAC-
+ CURATE INFORMATION ABOUT AN EMPLOYEE'S EMPLOYMENT AS IT RELATES  TO  THE
+ EMPLOYEE'S  ELIGIBILITY  FOR  DISABILITY  OR  FAMILY LEAVE BENEFITS; (E)
+ REFUSING TO ALLOW AN EMPLOYEE WHO HAS  REQUESTED  DISABILITY  OR  FAMILY
+ LEAVE  UNDER  THIS ARTICLE TO BEGIN LEAVE UNTIL THE EMPLOYER'S INSURANCE
+ CARRIER HAS APPROVED THE EMPLOYEE'S CLAIM FOR DISABILITY OR FAMILY LEAVE
+ BENEFITS; (F) FAILING OR REFUSING TO CARRY DISABILITY  OR  FAMILY  LEAVE
+ INSURANCE AS REQUIRED BY SECTION TWO HUNDRED ELEVEN OF THIS ARTICLE; (G)
+ THREATENING  TERMINATION, DEMOTION, DISCIPLINE, SUSPENSION, OR REDUCTION
+ OF HOURS OR WAGES, REPORTING OR  THREATENING  TO  REPORT  AN  EMPLOYEE'S
+ SUSPECTED CITIZENSHIP OR IMMIGRATION STATUS OR THE SUSPECTED CITIZENSHIP
+ OR  IMMIGRATION  STATUS OF A FAMILY MEMBER OF THE EMPLOYEE TO A FEDERAL,
+ STATE, OR LOCAL AGENCY, OR  THREATENING  ANY  OTHER  ACTION  AGAINST  AN
+ EMPLOYEE  SEEKING  TO TAKE DISABILITY OR FAMILY LEAVE THAT MIGHT REASON-
+ ABLY DETER AN EMPLOYEE FROM EXERCISING A RIGHT PROVIDED UNDER THIS ARTI-
+ CLE; OR (H) THREATENING OR TAKING ANY OTHER ACTION  THAT  MAY  HAVE  THE
+ EFFECT OF PREVENTING OR DISCOURAGING AN EMPLOYEE FROM EXERCISING A RIGHT
+ PROVIDED UNDER THIS ARTICLE.
+  3.  Nothing  in  this  section shall be deemed to diminish the rights,
+ privileges, or remedies of any employee under any collective  bargaining
+ agreement or employment contract.
+  §  5.  Section  203-b  of the workers' compensation law, as added by
+ section 4 of part SS of chapter 54 of the laws of 2016,  is  amended  to
+ read as follows:
+  §  203-b.  Reinstatement  following  DISABILITY  OR  family leave. Any
+ eligible employee of a covered employer who takes leave, INCLUDING LEAVE
+ FOR DISABILITY, under this article shall be  entitled,  on  return  from
+ such leave, to be restored by the employer to the position of employment
+ held  by  the  employee when the leave commenced, or to be restored to a
+ comparable position with comparable employment benefits, pay  and  other
+ terms  and conditions of employment. The taking of family leave OR LEAVE
+ DUE TO A DISABILITY shall not result in the loss of any employment bene-
+ fit accrued prior to the date on which the leave commenced.  Nothing  in
+ this  section shall be construed to entitle any restored employee to the
+ accrual of any seniority or employment benefits  during  any  period  of
+ leave,  or  any  right,  benefit or position to which the employee would
+ have been entitled had the employee not taken the leave.
+  § 6.  Section 203-c of the workers'  compensation  law,  as  added  by
+ section  4  of  part SS of chapter 54 of the laws of 2016, is amended to
+ read as follows:
+ S. 921--A  4
+ 
+  § 203-c. Health  insurance  during  DISABILITY  OR  family  leave.  In
+ accordance  with  the  Family  and  Medical  Leave  Act  (29  U.S.C.  §§
+ 2601-2654), during any period of DISABILITY OR family leave the employer
+ shall maintain any existing health benefits of the employee in force for
+ the duration of such leave as if the employee had continued to work from
+ the  date  he or she commenced DISABILITY OR family leave until the date
+ he or she returns to employment.
+  § 7. This act shall take effect immediately.
