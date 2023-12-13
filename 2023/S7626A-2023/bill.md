@@ -1,6 +1,6 @@
 # Relates to the return of abandoned property to owners by the state comptroller and the department of taxation and finance; repealer
 
-**Bill ID:** S7626A
+**Bill ID:** S7626AA
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "return abandoned property immediately and direct (R.A.P.I.D.) act"; 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7626
+  7626--A
  
   2023-2024 Regular Sessions
  
@@ -26,20 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sen. SEPULVEDA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
+  printed  to  be  committed  to  the  Committee  on  Rules -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN  ACT to amend the abandoned property law and the tax law, in relation
+ AN ACT to amend the abandoned property law and the tax law, in  relation
   to the return of abandoned property to owners by the state comptroller
   and the department of taxation and finance; and to repeal section 1419
   of the abandoned property law
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Paragraph (a) of subdivision 1 and paragraph (a) of subdi-
- vision 2 of section 1402 of the abandoned  property  law,  as  added  by
- section  35  of part A of chapter 61 of the laws of 2011, are amended to
- read as follows:
+  Section 1.  Short title. This act shall be known and may be  cited  as
+ the "return abandoned property immediately and direct (R.A.P.I.D.) act".
+  §  2.  Paragraph (a) of subdivision 1 and paragraph (a) of subdivision
+ 2 of section 1402 of the abandoned property law, as added by section  35
+ of  part  A  of  chapter  61 of the laws of 2011, are amended to read as
+ follows:
   (a) Notwithstanding anything to the  contrary  set  forth  in  section
  fourteen  hundred one of this article, the comptroller shall maintain on
  his or her website in a readily searchable format, a list of such  aban-
@@ -55,20 +59,20 @@ S T A T E  O F  N E W  Y O R K
  LIST AT ALL TIMES.
   (a)  the  names and last known addresses of all persons appearing from
  the records in the comptroller's office, as  set  forth  in  the  report
- filed  by  the holder, to be entitled to receive such abandoned property
- [exceeding twenty dollars in value]; and
-  § 2. The abandoned property law is amended by  adding  a  new  section
- 1423 to read as follows:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11969-01-3
- S. 7626  2
+  LBD11969-03-3
+ S. 7626--A  2
  
+ filed  by  the holder, to be entitled to receive such abandoned property
+ [exceeding twenty dollars in value]; and
+  §  3.  The  abandoned  property law is amended by adding a new section
+ 1423 to read as follows:
   § 1423. NOTICE TO APPARENT OWNER BY STATE COMPTROLLER. 1. UPON RECEIPT
- OF  ABANDONED  PROPERTY  FROM THE HOLDER OF SUCH ABANDONED PROPERTY, THE
- STATE COMPTROLLER SHALL, WITH THE DEPARTMENT OF  TAXATION  AND  FINANCE,
- DETERMINE  THE  CURRENT  ADDRESS OF THE APPARENT OWNER OF SUCH ABANDONED
+ OF ABANDONED PROPERTY FROM THE HOLDER OF SUCH  ABANDONED  PROPERTY,  THE
+ STATE  COMPTROLLER  SHALL,  WITH THE DEPARTMENT OF TAXATION AND FINANCE,
+ DETERMINE THE CURRENT ADDRESS OF THE APPARENT OWNER  OF  SUCH  ABANDONED
  PROPERTY,  AND  SHALL  SEND A WRITTEN NOTICE BY FIRST-CLASS MAIL TO SUCH
  APPARENT OWNER AT SUCH ADDRESS; PROVIDED,  HOWEVER  THAT  THE  FOREGOING
  REQUIREMENTS SHALL NOT APPLY WHERE (A) THE COMPTROLLER OR THE DEPARTMENT
@@ -84,7 +88,7 @@ S T A T E  O F  N E W  Y O R K
  SUCH APPARENT OWNER FAILS TO FILE A CLAIM FOR  SUCH  ABANDONED  PROPERTY
  WITHIN  ONE  YEAR OF SUCH NOTICE, THE COMPTROLLER SHALL REFER SUCH ABAN-
  DONED PROPERTY TO THE DEPARTMENT OF TAXATION AND FINANCE.
-  § 3. The abandoned property law is amended by  adding  a  new  section
+  § 4. The abandoned property law is amended by  adding  a  new  section
  1424 to read as follows:
   § 1424. TAX RETURN IDENTIFICATION OF APPARENT OWNERS. 1. AFTER RECEIV-
  ING  A  RECORD OF ABANDONED PROPERTY FROM THE STATE COMPTROLLER PURSUANT
@@ -107,24 +111,24 @@ S T A T E  O F  N E W  Y O R K
  ABANDONED PROPERTY, THE DEPARTMENT OF TAXATION AND FINANCE SHALL  NOTIFY
  THE STATE COMPTROLLER TO REMOVE SUCH ABANDONED PROPERTY FROM THE LIST OF
  ABANDONED PROPERTY MAINTAINED BY THE COMPTROLLER.
-  § 4. Section 1419 of the abandoned property law is REPEALED.
-  §  5.  The  tax  law is amended by adding a new section 664 to read as
+  § 5. Section 1419 of the abandoned property law is REPEALED.
+  §  6.  The  tax  law is amended by adding a new section 664 to read as
  follows:
   § 664. ABANDONED PROPERTY  FUNDS.  ANY  FUNDS  CONSTITUTING  ABANDONED
  PROPERTY REFERRED TO THE DEPARTMENT BY THE STATE COMPTROLLER MAY BE PAID
  TOWARD  THE AMOUNT OWED UNDER THIS ARTICLE BY THE APPARENT OWNER OF SUCH
  PROPERTY OR REFUNDED TO THE APPARENT OWNER.
-  § 6. Section 21 of the tax law, as added by section 1  of  part  N  of
+  § 7. Section 21 of the tax law, as added by section 1  of  part  N  of
  chapter 686 of the laws of 2003, is renumbered section 21-a and subdivi-
  sion (a) is amended to read as follows:
+ S. 7626--A  3
+ 
   (a) General. Notwithstanding any provision of law to the contrary, the
  commissioner  may  furnish to the comptroller or duly designated officer
  or employee of the state department  of  audit  and  control  the  name,
  address  and  taxpayer  identification  number  of a taxpayer [to whom a
- S. 7626  3
-
  refund or reimbursement of tax is owed, together with the amount of such
- refund or reimbursement,] for the sole purpose of identifying owners  of
- abandoned  property  paid  to  and  held by the comptroller [pursuant to
+ refund  or reimbursement,] for the sole purpose of identifying owners of
+ abandoned property paid to and held  by  the  comptroller  [pursuant  to
  section one hundred two of the state finance law].
-  § 7. This act shall take effect immediately.
+  § 8. This act shall take effect immediately.
