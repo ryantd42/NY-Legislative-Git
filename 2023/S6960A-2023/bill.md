@@ -1,6 +1,6 @@
 # Ensures that the state implements certain federal conflict of interest requirements in a manner that ensures limited disruption of certain services
 
-**Bill ID:** S6960A
+**Bill ID:** S6960AA
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Ensures that the state implements federal conflict of interest requirements in a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6960
+  6960--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  RIVERA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
- 
+  printed to be committed to the Committee on Health -- reported favora-
+  bly from said committee and committed to the Committee on  Finance  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the social services law and the public  health  law,  in
   relation  to  ensuring  that  the  state  implements  certain  federal
   conflict of interest requirements in a  manner  that  ensures  limited
@@ -55,18 +58,18 @@ S T A T E  O F  N E W  Y O R K
  AGRAPH  (VI)  OF  PARAGRAPH  (1) OF SUBSECTION (C) OF SECTION 441.301 OF
  TITLE 42 OF THE CODE OF FEDERAL REGULATIONS AS SUCH PROVISIONS RELATE TO
  THE NURSING HOME TRANSITION  AND  DIVERSION  WAIVER  PROGRAM  AUTHORIZED
- UNDER  SECTION  1915(C)  OF THE FEDERAL SOCIAL SECURITY ACT, THE COMMIS-
- SIONER OF THE DEPARTMENT OF HEALTH SHALL:
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10489-03-3
- S. 6960  2
+  LBD10489-05-3
+ S. 6960--A  2
  
-  (1) SURVEY ALL PARTICIPATING  WAIVER  PROVIDERS,  INCLUDING  VOLUNTARY
+ UNDER  SECTION  1915(C)  OF THE FEDERAL SOCIAL SECURITY ACT, THE COMMIS-
+ SIONER OF THE DEPARTMENT OF HEALTH SHALL:
+  (1)  SURVEY  ALL  PARTICIPATING  WAIVER PROVIDERS, INCLUDING VOLUNTARY
  PROVIDERS, TO IDENTIFY LEVELS OF PREPAREDNESS TO IMPLEMENT SUCH REQUIRE-
  MENTS; AND
-  (2) REPORT BY JANUARY FIRST, TWO THOUSAND TWENTY-FOUR, TO THE GOVERNOR
+  (2) REPORT BY JULY FIRST, TWO THOUSAND TWENTY-FOUR,  TO  THE  GOVERNOR
  AND  THE  CHAIRS  OF THE ASSEMBLY AND SENATE COMMITTEES ON HEALTH ON THE
  ABILITY OF THE PROVIDER SYSTEM TO CONTINUE TO MEET THE  REQUIREMENTS  OF
  THIS PARAGRAPH RELATED TO CONSUMER CHOICE FOR SERVICE COORDINATION.
@@ -85,10 +88,10 @@ S T A T E  O F  N E W  Y O R K
   (I)  SURVEY  ALL  PARTICIPATING  WAIVER PROVIDERS, INCLUDING VOLUNTARY
  PROVIDERS, TO IDENTIFY LEVELS OF PREPAREDNESS TO IMPLEMENT SUCH REQUIRE-
  MENTS; AND
-  (II) REPORT BY JANUARY FIRST, TWO THOUSAND TWENTY-FOUR, TO THE  GOVER-
- NOR  AND  THE  CHAIRS OF THE ASSEMBLY AND SENATE COMMITTEES ON HEALTH ON
- THE ABILITY OF THE PROVIDER SYSTEM TO CONTINUE TO ENSURE CONSUMER CHOICE
- FOR SERVICE COORDINATION.
+  (II) REPORT BY JULY FIRST, TWO THOUSAND TWENTY-FOUR, TO  THE  GOVERNOR
+ AND  THE  CHAIRS  OF THE ASSEMBLY AND SENATE COMMITTEES ON HEALTH ON THE
+ ABILITY OF THE PROVIDER SYSTEM TO CONTINUE TO ENSURE CONSUMER CHOICE FOR
+ SERVICE COORDINATION.
   (B) ALL FINAL PLANS FOR THE  TRANSITION  AND  CONVERSION  OF  SERVICES
  RELATED  TO  FEDERAL  CONFLICT OF INTEREST ACTIVITIES SHALL BE SUSPENDED
  PENDING THE REVIEW AND APPROVAL OF THE RECOMMENDATIONS CONTAINED  WITHIN
