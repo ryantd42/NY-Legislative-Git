@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system the Lieutenant Commander Phillip Wayne Johnson Memorial Bridge
 
-**Bill ID:** S6715BA
+**Bill ID:** S6715BB
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Designates all that portion of the state highway system constituting New York st
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6715--A
+  6715--B
+  Cal. No. 1695
  
   2023-2024 Regular Sessions
  
@@ -28,7 +29,9 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sen. MARTINEZ -- read twice and ordered printed, and when
   printed to be committed to the Committee on Transportation --  commit-
   tee  discharged, bill amended, ordered reprinted as amended and recom-
-  mitted to said committee
+  mitted to said committee -- committed to the  Committee  on  Rules  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system the "Lieutenant Commander Phillip Wayne John-
@@ -37,12 +40,12 @@ S T A T E  O F  N E W  Y O R K
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
+  §  344-P.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
  "LIEUTENANT COMMANDER PHILLIP WAYNE JOHNSON MEMORIAL BRIDGE".  ALL  THAT
  PORTION  OF  THE  STATE HIGHWAY SYSTEM CONSTITUTING NEW YORK STATE ROUTE
- 112 BRIDGE OVER NEW YORK STATE ROUTE 27 IN THE TOWN OF BROOKHAVEN, COUN-
+ 109 BRIDGE OVER THE SOUTHERN STATE PARKWAY IN THE TOWN OF BABYLON, COUN-
  TY OF SUFFOLK, SHALL BE KNOWN AS THE "LIEUTENANT COMMANDER PHILLIP WAYNE
  JOHNSON MEMORIAL BRIDGE".
   § 2. The commissioner of transportation shall provide for the  instal-
@@ -55,7 +58,6 @@ S T A T E  O F  N E W  Y O R K
   § 3. This act shall take effect immediately.
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01325-02-3
+  LBD01325-06-3
