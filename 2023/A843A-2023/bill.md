@@ -1,6 +1,6 @@
 # Prohibits motor vehicle insurers from discrimination on the basis of socioeconomic factors in determining algorithms used to construct actuarial tables, coverage terms, premiums and/or rates
 
-**Bill ID:** A843A
+**Bill ID:** A843AA
 **Session:** 2023
 **Sponsor:** Crystal Peoples-Stokes
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Prohibits motor vehicle insurers from discrimination on the basis of socioeconom
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  843
+  843--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced  by  M. of A. PEOPLES-STOKES, STECK, MAMDANI -- read once and
-  referred to the Committee on Insurance
- 
+ Introduced  by  M. of A. PEOPLES-STOKES, STECK, MAMDANI, WALLACE, SIMON,
+  PAULIN, KELLES, HYNDMAN, ALVAREZ,  LUNSFORD,  ANDERSON,  SEAWRIGHT  --
+  read  once  and  referred  to  the Committee on Insurance -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the insurance law,  in  relation  to  prohibiting  motor
   vehicle insurers from discriminating based on socioeconomic factors
  
@@ -55,16 +58,16 @@ S T A T E  O F  N E W  Y O R K
   (8) CONSUMER CREDIT INFORMATION OR SCORE;
   (9) OWNERSHIP OR INTEREST IN REAL PROPERTY;
   (10) ANY INDICATION OF A CONSUMER'S PRICE ELASTICITY OF DEMAND; AND
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00061-02-3
+ A. 843--A  2
+ 
   (11) ANY OTHER CHARACTERISTIC INDICATING OR TENDING  TO  INDICATE  THE
  SOCIOECONOMIC STATUS OF AN INDIVIDUAL.
   (B)  IT SHALL FURTHER BE UNLAWFUL TO CONSIDER THE FACTORS SPECIFIED IN
  SUBDIVISION (A) OF THIS SECTION TO:
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD00061-01-3
- A. 843  2
- 
   (1) ADJUST ANY ALGORITHM  OR  EQUATION  USED  TO  CONSTRUCT  ACTUARIAL
  TABLES OR OTHERWISE DETERMINE THE COST OF COVERAGE;
   (2)  MAKE  ANY DISTINCTION OR DISCRIMINATION BETWEEN PERSONS AS TO THE
@@ -75,4 +78,8 @@ S T A T E  O F  N E W  Y O R K
  SIMILAR CASES; OR
   (4)  REFUSE TO ISSUE, RENEW, OR SELL A POLICY AFTER APPROPRIATE APPLI-
  CATION THEREFOR.
+  (C) FOR THE PURPOSES OF THIS SECTION:
+  (1) "SEX" SHALL INCLUDE GENDER IDENTITY OR EXPRESSION; AND
+  (2) "GENDER IDENTITY OR EXPRESSION" SHALL HAVE  THE  SAME  MEANING  AS
+ DEFINED IN SECTION TWO HUNDRED NINETY-TWO OF THE EXECUTIVE LAW.
   § 2. This act shall take effect immediately.
