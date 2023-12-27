@@ -1,6 +1,6 @@
 # Provides for coverage for certain individuals under the 1332 state innovation program
 
-**Bill ID:** A3020BA
+**Bill ID:** A3020BB
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for coverage for certain individuals under the 1332 state innovation pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3020--A
+  3020--B
  
   2023-2024 Regular Sessions
  
@@ -28,22 +28,23 @@ S T A T E  O F  N E W  Y O R K
  Introduced by M. of A. GONZALEZ-ROJAS, PAULIN, SIMONE, SHRESTHA, ARDILA,
   FORREST,  GALLAGHER,  LEVENBERG,  RAMOS,  RAGA, MITAYNES, LEE, HEVESI,
   SIMON, BURDICK, OTIS, THIELE, TAYLOR, SOLAGES,  BRONSON,  JEAN-PIERRE,
-  LAVINE,  HUNTER,  CLARK,  KELLES,  JOYNER,  BICHOTTE HERMELYN, BURGOS,
-  EPSTEIN, WEPRIN, CARROLL, L. ROSENTHAL, DINOWITZ, CRUZ,  REYES,  JACK-
-  SON,  MAMDANI,  SEAWRIGHT, GLICK, SAYEGH, MEEKS, JACOBSON, KIM, ANDER-
-  SON, DAVILA, ZINERMAN, DICKENS, GIBBS,  RIVERA,  DE LOS SANTOS,  McDO-
-  NALD,  SHIMSKY,  COLTON,  CUNNINGHAM,  TAPIA, BORES, ALVAREZ, ZACCARO,
-  SEPTIMO -- read once and  referred  to  the  Committee  on  Health  --
-  reported  and referred to the Committee on Ways and Means -- committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  LAVINE,  CLARK,  KELLES,  JOYNER,  BICHOTTE HERMELYN, BURGOS, EPSTEIN,
+  WEPRIN, CARROLL, L. ROSENTHAL, DINOWITZ, CRUZ, REYES, JACKSON,  MAMDA-
+  NI,  SEAWRIGHT,  GLICK, MEEKS, JACOBSON, KIM, ANDERSON, DAVILA, ZINER-
+  MAN, DICKENS, GIBBS, RIVERA, DE LOS SANTOS, SHIMSKY, COLTON,  CUNNING-
+  HAM,  TAPIA,  BORES,  ALVAREZ,  ZACCARO,  SEPTIMO,  CHANDLER-WATERMAN,
+  LUCAS, DILAN, COOK -- read once  and  referred  to  the  Committee  on
+  Health  -- reported and referred to the Committee on Ways and Means --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted  to  said committee -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the social services law, in  relation  to  coverage  for
   certain individuals under the 1332 state innovation program
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
- 
+
   Section 1. Section 369-ii of the social  services  law,  as  added  by
  section  3  of  part  H of chapter 57 of the laws of 2023, is amended to
  read as follows:
@@ -61,11 +62,12 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04552-03-3
- A. 3020--A  2
+  LBD04552-07-3
+ A. 3020--B  2
  
  for a waiver for state innovation.  The  commissioner  of  health  [may]
- SHALL take all actions necessary to obtain such approvals.
+ SHALL  take  all  actions  necessary to obtain such approvals, INCLUDING
+ SEEKING ANY NECESSARY APPROVALS FOR AMENDMENTS TO THE WAIVER.
   2. Definitions. For the purposes of this section:
   (a)  "Eligible  organization"  means  an  insurer licensed pursuant to
  article thirty-two or forty-two of the insurance law, a  corporation  or
@@ -119,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  organization and certified in accordance with this section.
   3. State innovation plan eligible individual. (a) A person is eligible
  to receive coverage for health care under this section if they:
- A. 3020--A  3
+ A. 3020--B  3
  
   (i) reside in New York state and are under sixty-five  years  of  age,
  INCLUDING  INDIVIDUALS  THAT ARE INELIGIBLE FOR THE BASIC HEALTH PROGRAM
@@ -177,7 +179,7 @@ S T A T E  O F  N E W  Y O R K
  Basic Health Program.
   4.  Enrollment.  (a)  Subject to federal approval, the commissioner of
  health is authorized to establish an application and  enrollment  proce-
- A. 3020--A  4
+ A. 3020--B  4
  
  dure  for prospective enrollees. Such procedure will include a verifica-
  tion system for applicants, which must  be  consistent  with  42  USC  §
@@ -234,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  the establishment of  reimbursement  methodologies,  including  but  not
  limited  to;  the  adequacy of rates of payment in relation to the popu-
  lation to be served adjusted for case mix,  the  scope  of  health  care
- A. 3020--A  5
+ A. 3020--B  5
  
  services  approved  organizations  must provide, the utilization of such
  services and the network of providers required to meet state standards.
@@ -272,10 +274,9 @@ S T A T E  O F  N E W  Y O R K
  IPATED TO BE TRANSFERRED TO THE  1332  STATE  INNOVATION  PROGRAM  FUND,
  PURSUANT  TO  SECTION NINETY-EIGHT-D OF THE STATE FINANCE LAW. IN ESTAB-
  LISHING ANY LIMITATIONS PURSUANT TO THIS SUBDIVISION THE COMMISSIONER OF
- HEALTH SHALL ENROLL AT LEAST TWO HUNDRED FORTY THOUSAND INDIVIDUALS  AND
- MAY ENROLL ADDITIONAL INDIVIDUALS AS REASONABLY PRACTICABLE WHILE ENSUR-
- ING  CONTINUAL COVERAGE FOR SUCH ADDITIONAL INDIVIDUALS BASED ON CURRENT
- AND ANTICIPATED 1332 STATE INNOVATION PROGRAM FUND RESERVES.
+ HEALTH SHALL ENROLL AS MANY INDIVIDUALS AS REASONABLY PRACTICABLE  WHILE
+ ENSURING  CONTINUAL  COVERAGE  FOR  SUCH ADDITIONAL INDIVIDUALS BASED ON
+ CURRENT AND ANTICIPATED 1332 STATE INNOVATION PROGRAM FUND RESERVES.
   (B) IN DETERMINING ANY LIMITATIONS ON ENROLLMENT, THE COMMISSIONER  OF
  HEALTH  SHALL  DETERMINE  INCOME BANDS FOR SUCH INDIVIDUALS FROM ZERO TO
  TWO HUNDRED FIFTY PERCENT OF THE FEDERAL POVERTY LINE DEFINED AND  ANNU-
@@ -291,60 +292,49 @@ S T A T E  O F  N E W  Y O R K
  HEALTH  AND  SHALL  INCLUDE  BUT NOT BE LIMITED TO: (I) INDIVIDUALS WITH
  LIFE THREATENING CONDITIONS, (II) INDIVIDUALS IN NEED OF AN ORGAN TRANS-
  PLANT; AND (III) INDIVIDUALS WITH SIGNIFICANT BEHAVIORAL  HEALTH  ISSUES
- A. 3020--A  6
-
  INCLUDING  BUT  NOT  LIMITED  TO SERIOUS MENTAL ILLNESS OR SUBSTANCE USE
  DISORDER.
-  10.  THE  COMMISSIONER  OF  HEALTH SHALL TAKE ALL ACTIONS NECESSARY TO
- OBTAIN ALL NECESSARY  APPROVALS  FROM THE SECRETARY OF HEALTH AND  HUMAN
- SERVICES AND THE SECRETARY OF THE TREASURY TO UTILIZE MONEYS TRANSFERRED
- TO  THE BASIC HEALTH PROGRAM TRUST FUND, PURSUANT TO SECTION NINETY-SEV-
- EN-OOOO OF THE STATE FINANCE LAW, AS ADDED  BY  SECTION  FIFTY-THREE  OF
- PART  C OF CHAPTER SIXTY OF THE LAWS OF TWO THOUSAND FOURTEEN, FOR COSTS
- ASSOCIATED WITH THE PROVISION OF HEALTH CARE  SERVICES  TO  ALL  PERSONS
- ELIGIBLE  FOR  COVERAGE UNDER THE WAIVER. IF APPROVAL IS NOT GRANTED FOR
- ALL PERSONS ELIGIBLE FOR COVERAGE UNDER THE WAIVER, THE COMMISSIONER  OF
- HEALTH  SHALL  TAKE ALL ACTIONS NECESSARY TO OBTAIN APPROVAL FOR THE USE
- OF MONEYS OF THE BASIC HEALTH PROGRAM TRUST FUND  FOR  COSTS  ASSOCIATED
- WITH  THE  PROVISION  OF  HEALTH  CARE SERVICES TO INDIVIDUALS UNDER THE
- WAIVER THAT WOULD OTHERWISE BE ELIGIBLE FOR PARTICIPATION IN  THE  BASIC
- HEALTH  PROGRAM,  ESTABLISHED  PURSUANT  TO SECTION THREE HUNDRED SIXTY-
- NINE-GG OF THIS TITLE.
+ A. 3020--B  6
+ 
+  10. THE COMMISSIONER IS AUTHORIZED TO SEEK A WAIVER OR OTHER  APPLICA-
+ BLE FEDERAL APPROVAL FOR ANY ADDITIONAL MONIES TO SUPPORT THE 1332 STATE
+ INNOVATION PROGRAM THAT MAY BE ASSOCIATED WITH A REDUCTION IN THE UTILI-
+ ZATION OF TREATMENT FOR AN EMERGENCY MEDICAL CONDITION AUTHORIZED PURSU-
+ ANT TO 42 U.S.C. 1396. ANY ADDITIONAL MONIES SHALL BE TRANSFERRED TO THE
+ 1332 STATE INNOVATION PROGRAM FUND ESTABLISHED PURSUANT TO SECTION NINE-
+ TY-EIGHT-D OF THE STATE FINANCE LAW AND USED FOR SUCH PURPOSES.
   11. Reporting. The commissioner of health shall submit a report to the
- temporary president of the senate and the speaker of the assembly  annu-
- ally  by  December thirty-first. The report shall include, at a minimum,
- an analysis of the 1332 state innovation program and its impact  on  the
+ temporary  president of the senate and the speaker of the assembly annu-
+ ally by December thirty-first. The report shall include, at  a  minimum,
+ an  analysis  of the 1332 state innovation program and its impact on the
  financial interest of the state; its impact on the Marketplace including
- enrollment  and premiums; its impact on the number of uninsured individ-
+ enrollment and premiums; its impact on the number of uninsured  individ-
  uals in the state; its impact on the Medicaid global cap; ANY ENROLLMENT
- LIMITATIONS ESTABLISHED PURSUANT TO SUBDIVISION  NINE  OF  THIS  SECTION
- INCLUDING  THE  RATIONALE  AND  SUPPORTING  FISCAL  CALCULATIONS USED TO
- JUSTIFY SUCH LIMITATION, INCLUDING ANY HISTORICAL  DATA,  IF  AVAILABLE,
- FOR  THE  PREVIOUS  THREE  YEARS  RELATED TO ANY PREVIOUS LIMITATIONS OF
- ENROLLMENT, FUNDS TRANSFERRED TO THE 1332 STATE INNOVATION PROGRAM  FUND
- PURSUANT  TO SECTION NINETY-EIGHT-D OF THE STATE FINANCE LAW, AND TOTALS
- ON ANY SAVINGS TO THE STATE DUE TO COVERAGE OF RESIDENTS  OF  THE  STATE
+ LIMITATIONS  ESTABLISHED  PURSUANT  TO  SUBDIVISION NINE OF THIS SECTION
+ INCLUDING THE RATIONALE  AND  SUPPORTING  FISCAL  CALCULATIONS  USED  TO
+ JUSTIFY  SUCH  LIMITATION,  INCLUDING ANY HISTORICAL DATA, IF AVAILABLE,
+ FOR THE PREVIOUS THREE YEARS RELATED  TO  ANY  PREVIOUS  LIMITATIONS  OF
+ ENROLLMENT,  FUNDS TRANSFERRED TO THE 1332 STATE INNOVATION PROGRAM FUND
+ PURSUANT TO SECTION NINETY-EIGHT-D OF THE STATE FINANCE LAW, AND  TOTALS
+ ON  ANY  SAVINGS  TO THE STATE DUE TO COVERAGE OF RESIDENTS OF THE STATE
  THAT ARE INELIGIBLE FOR THE BASIC HEALTH PROGRAM UNDER 42 U.S.C. SECTION
- 18051  ON  THE BASIS OF IMMIGRATION STATUS; ANY MONEYS UTILIZED FROM THE
- BASIC HEALTH PLAN TRUST FUND TO SUPPORT  THE  DELIVERY  OF  HEALTH  CARE
- SERVICES  TO  PERSONS  ELIGIBLE  FOR  COVERAGE UNDER THE WAIVER; and the
- demographics of the 1332 state innovation  program  enrollees  including
- age and immigration status.
-  [10.]  12. Severability. If the secretary of health and human services
- or the secretary of the treasury do not approve  any  provision  of  the
+ 18051 ON THE BASIS OF IMMIGRATION STATUS; and the  demographics  of  the
+ 1332  state  innovation  program enrollees including age and immigration
+ status.
+  [10.] 12. Severability. If the secretary of health and human  services
+ or  the  secretary  of  the treasury do not approve any provision of the
  application for a state innovation waiver, such decision shall in no way
- affect  or  impair any other provisions that the secretaries may approve
+ affect or impair any other provisions that the secretaries  may  approve
  under this section.
   § 2. Severability clause. If any clause, sentence, paragraph, subdivi-
- sion, section or part of this act shall be  adjudged  by  any  court  of
- competent  jurisdiction  to  be invalid, such judgment shall not affect,
- impair, or invalidate the remainder thereof, but shall  be  confined  in
- its  operation  to the clause, sentence, paragraph, subdivision, section
+ sion,  section  or  part  of  this act shall be adjudged by any court of
+ competent jurisdiction to be invalid, such judgment  shall  not  affect,
+ impair,  or  invalidate  the remainder thereof, but shall be confined in
+ its operation to the clause, sentence, paragraph,  subdivision,  section
  or part thereof directly involved in the controversy in which such judg-
  ment shall have been rendered. It is hereby declared to be the intent of
- the legislature that this act would  have  been  enacted  even  if  such
+ the  legislature  that  this  act  would  have been enacted even if such
  invalid provisions had not been included herein.
-  §  3.  This  act  shall  take  effect on the same date and in the same
- manner as section 3 of part H of chapter 57 of the laws of 2023 amending
- the social services law relating to enacting the 1332  state  innovation
- program, takes effect.
+  § 3. This act shall take effect on the  same  date  and  in  the  same
+ manner  as  section 3 of part H of chapter 57 of the laws of 2023, takes
+ effect.
