@@ -1,6 +1,6 @@
 # Relates to the criminal impersonation in the second degree and establishing a stolen valor fee
 
-**Bill ID:** A1818C
+**Bill ID:** A1818CA
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that a person is guilty of criminal impersonation in the second degree 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1818
+  1818--A
  
   2023-2024 Regular Sessions
  
@@ -28,46 +28,62 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M.  of  A.  DINOWITZ, BENEDETTO, COLTON, PEOPLES-STOKES,
   GUNTHER, WOERNER, RIVERA, STECK, BRABENEC -- Multi-Sponsored by --  M.
   of A. GLICK, RAMOS -- read once and referred to the Committee on Codes
- 
- AN  ACT  to  amend  the  penal law, in relation to creating the crime of
-  stolen valor
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN ACT to amend the penal law, in relation  to  creating  the  crime  of
+  stolen valor
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 10.00 of the penal law is amended by adding two new
- subdivisions 22 and 23 to read as follows:
-  22.  "MEMBER  OF  THE  MILITARY OR RESERVES" MEANS (A) A MEMBER OF THE
+  Section 1. Section 10.00 of the penal law is amended  by  adding  four
+ new subdivisions 23, 24, 25, and 26 to read as follows:
+  23.  "MEMBER  OF  THE  MILITARY OR RESERVES" MEANS (A) A MEMBER OF THE
  UNITED STATES ARMY, NAVY, AIR FORCE, MARINES, COAST GUARD, ARMY NATIONAL
  GUARD, AIR NATIONAL GUARD AND/OR RESERVES THEREOF OR (B) A MEMBER OF THE
  NEW YORK GUARD OR THE NEW YORK NAVAL MILITIA.
-  23. "VETERAN" MEANS A PERSON WHO WAS  A  MEMBER  OF  THE  MILITARY  OR
- RESERVES  AS  DEFINED IN SUBDIVISION TWENTY-TWO OF THIS SECTION, BUT WHO
+  24. "VETERAN" MEANS A PERSON WHO WAS  A  MEMBER  OF  THE  MILITARY  OR
+ RESERVES AS DEFINED IN SUBDIVISION TWENTY-THREE OF THIS SECTION, BUT WHO
  HAS SINCE BEEN DISCHARGED FROM SUCH SERVICES.
-  § 2. The penal law is amended by adding a new section 190.28  to  read
- as follows:
- § 190.28 STOLEN VALOR.
-  A  PERSON  IS  GUILTY  OF STOLEN VALOR WHEN HE OR SHE PRETENDS TO BE A
- MEMBER OF THE MILITARY OR RESERVES AS DEFINED BY SUBDIVISION  TWENTY-TWO
- OF SECTION 10.00 OF THIS CHAPTER, OR PRETENDS TO BE A VETERAN AS DEFINED
- BY  SUBDIVISION  TWENTY-THREE OF SECTION 10.00 OF THIS CHAPTER, OR WEARS
- OR DISPLAYS WITHOUT AUTHORITY, ANY UNIFORM, BADGE OR OTHER  INSIGNIA  OR
- FACSIMILE  THEREOF,  BY  WHICH SUCH MEMBER OF THE MILITARY OR VETERAN IS
- LAWFULLY DISTINGUISHED OR EXPRESSES BY HIS OR HER WORDS OR ACTIONS  THAT
- HE  OR SHE IS ACTING WITH THE APPROVAL OR AUTHORITY OF ANY DEPARTMENT OF
- DEFENSE BRANCH OR THE UNITED STATES COAST GUARD FOR THE PURPOSE OF FRAU-
- DULENTLY OBTAINING MONEY OR OTHER BENEFITS.
-  STOLEN VALOR IS A CLASS A MISDEMEANOR.
+  25.  "FIRST  RESPONDER"  MEANS A FIREFIGHTER, LAW ENFORCEMENT OFFICER,
+ PARAMEDIC, EMERGENCY MEDICAL TECHNICIAN, EMERGENCY SERVICES  DISPATCHER,
+ OR  OTHER  INDIVIDUAL,  INCLUDING AN EMPLOYEE OF A LEGALLY ORGANIZED AND
+ RECOGNIZED VOLUNTEER ORGANIZATION, WHETHER COMPENSATED OR NOT,  WHO,  IN
+ THE COURSE OF HIS OR HER PROFESSIONAL DUTIES, RESPONDS TO FIRE, MEDICAL,
+ HAZARDOUS MATERIAL, OR OTHER SIMILAR EMERGENCIES.
+  26.  "FIRST RESPONDER AGENCY" MEANS A STATE OR LOCAL DISTRICT, MUNICI-
+ PALITY, OR OTHER POLITICAL SUBDIVISION THAT EMPLOYS A  FIRST  RESPONDER,
+ TO  PROVIDE  FIRE PROTECTION, PARAMEDIC SERVICES, LAW ENFORCEMENT, EMER-
+ GENCY SERVICES, OR RESCUE OR RECOVERY SERVICES, OR A  RECOGNIZED  VOLUN-
+ TEER ORGANIZATION THAT PROVIDES FIRE PROTECTION, PARAMEDIC SERVICES, LAW
+ ENFORCEMENT, EMERGENCY SERVICES, OR RESCUE OR RECOVERY SERVICES.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00836-01-3
- A. 1818  2
+  LBD00836-02-3
+ A. 1818--A  2
  
-  § 3. Subdivisions 1, 2 and 3 of section 60.35 of  the  penal  law,  as
- amended  by  section  1  of  part  E  of chapter 56 of the laws of 2004,
- subparagraphs (i), (ii) and (iii) of paragraph (a) of subdivision  1  as
- amended  by  section  1 of part DD of chapter 56 of the laws of 2008 and
+  §  2.  The penal law is amended by adding a new section 190.28 to read
+ as follows:
+ § 190.28 STOLEN VALOR.
+  A  PERSON  IS  GUILTY  OF STOLEN VALOR WHEN HE OR SHE PRETENDS TO BE A
+ MEMBER OF THE MILITARY OR RESERVES AS  DEFINED  BY  SUBDIVISION  TWENTY-
+ THREE  OF  SECTION 10.00 OF THIS CHAPTER, OR PRETENDS TO BE A VETERAN AS
+ DEFINED BY SUBDIVISION TWENTY-FOUR OF SECTION 10.00 OF THIS CHAPTER,  OR
+ PRETENDS  TO  BE A FIRST RESPONDER AS DEFINED BY SUBDIVISION TWENTY-FIVE
+ OF SECTION 10.00 OF THIS CHAPTER, OR WEARS OR DISPLAYS WITHOUT  AUTHORI-
+ TY,  ANY UNIFORM, BADGE OR OTHER INSIGNIA OR FACSIMILE THEREOF, BY WHICH
+ SUCH MEMBER OF THE MILITARY, VETERAN  OR  FIRST  RESPONDER  IS  LAWFULLY
+ DISTINGUISHED OR EXPRESSES BY HIS OR HER WORDS OR ACTIONS THAT HE OR SHE
+ IS  ACTING  WITH  THE APPROVAL OR AUTHORITY OF ANY DEPARTMENT OF DEFENSE
+ BRANCH, THE UNITED STATES COAST GUARD OR FIRST RESPONDER AGENCY FOR  THE
+ PURPOSE OF FRAUDULENTLY OBTAINING MONEY OR OTHER BENEFITS.
+  STOLEN VALOR IS A CLASS A MISDEMEANOR.
+  §  3.  Subdivisions  1,  2 and 3 of section 60.35 of the penal law, as
+ amended by section 1 of part E of  chapter  56  of  the  laws  of  2004,
+ subparagraphs  (i),  (ii) and (iii) of paragraph (a) of subdivision 1 as
+ amended by section 1 of part DD of chapter 56 of the laws  of  2008  and
  paragraph  (b) of subdivision 1 as amended by chapter 320 of the laws of
  2006, are amended to read as follows:
   1. (a) Except as provided in section  eighteen  hundred  nine  of  the
@@ -103,6 +119,8 @@ S T A T E  O F  N E W  Y O R K
  THIS  CHAPTER  SHALL,  IN  ADDITION  TO  A MANDATORY SURCHARGE AND CRIME
  VICTIM ASSISTANCE FEE, PAY ANY OTHER FEE REQUIRED BY THIS  ARTICLE,  AND
  PAY A STOLEN VALOR FEE IN THE AMOUNT OF TWO HUNDRED FIFTY DOLLARS.
+ A. 1818--A  3
+ 
   (b)  When  the  felony or misdemeanor conviction in subparagraphs (i),
  (ii) or (iv) of paragraph  (a)  of  this  subdivision  results  from  an
  offense  contained in article one hundred thirty of this chapter, incest
@@ -120,8 +138,6 @@ S T A T E  O F  N E W  Y O R K
  accordance with  the  provisions  of  this  section  for  the  crime  or
  violation  which  carries  the  highest  classification,  and  no  other
  sentence to pay a mandatory surcharge, crime victim assistance fee [or],
- A. 1818  3
- 
  supplemental sex offender victim fee, OR A STOLEN VALOR FEE required  by
  this  section  shall be imposed.  Where a person is convicted of two or
  more sex offenses or sexually violent offenses, as defined  by  subdivi-
@@ -161,6 +177,8 @@ S T A T E  O F  N E W  Y O R K
  system, it shall, within such period, pay such money attributable to the
  mandatory surcharge or crime victim assistance fee to the state  commis-
  sioner  of  taxation  and  finance to the credit of the criminal justice
+ A. 1818--A  4
+ 
  improvement account established by section ninety-seven-bb of the  state
  finance  law.  If  such collecting authority is any other court of the
  unified court system, it shall,  within  such  period,  pay  such  money
