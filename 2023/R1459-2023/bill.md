@@ -1,0 +1,24 @@
+# Directing the Temporary President to appoint a Committee of two to wait on the Assembly, informing them the Senate is ready to proceed with business
+
+**Bill ID:** R1459
+**Session:** 2023
+**Sponsor:** Andrea Stewart-Cousins
+**Status:** Adopted
+
+---
+
+## Full Text
+
+Senate Resolution No. 1459
+ 
+BY: Senator STEWART-COUSINS
+ 
+  DIRECTING  the  Temporary  President  to appoint a
+  Committee of two  to  wait  upon  the  Assembly  and
+  inform  that  body  that the Senate is Assembled and
+  ready to proceed with business
+ 
+  RESOLVED, That the Temporary President appoint a  Committee  of  two
+comprised  of  Senator  and Senator  , for the purpose of
+waiting upon the Assembly and informing that body  that  the  Senate  is
+Assembled and ready to proceed with business.
