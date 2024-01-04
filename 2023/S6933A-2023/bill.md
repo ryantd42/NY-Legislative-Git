@@ -1,6 +1,6 @@
 # Relates to the terms of office of commissioners of elections
 
-**Bill ID:** S6933A
+**Bill ID:** S6933AA
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Increases the term of office of an election commissioner from two to four years 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6933
+  6933--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  WEBB  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Elections
- 
+  printed to be committed to the Committee on Elections  --  recommitted
+  to the Committee on Elections in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
+
  AN ACT to amend the election law, in relation to the terms of office  of
   election commissioners
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision 1 of section  3-202  of  the  election  law  is
  amended to read as follows:
   1.  The term of office of an election commissioner shall be [two] FOUR
@@ -46,12 +49,11 @@ S T A T E  O F  N E W  Y O R K
  action  of  the  county  legislative body which shall take effect at the
  expiration of the terms of the commissioners then in office].
   § 2. This act shall take effect immediately and  shall  apply  to  all
- elections occurring on and after November 1, 2023.
- 
+ elections occurring on and after November 1, 2024.
  
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09469-01-3
+  LBD09469-02-3
