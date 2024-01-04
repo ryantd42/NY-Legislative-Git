@@ -1,6 +1,6 @@
 # Provides for coverage for certain individuals under the 1332 state innovation program
 
-**Bill ID:** S2237BA
+**Bill ID:** S2237BB
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for coverage for certain individuals under the 1332 state innovation pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2237--A
+  2237--B
  
   2023-2024 Regular Sessions
  
@@ -25,45 +25,49 @@ S T A T E  O F  N E W  Y O R K
   January 19, 2023
   ___________
  
- Introduced  by  Sens.  RIVERA,  BRESLIN,  BRISPORT,  BROUK, CHU, CLEARE,
-  COMRIE, COONEY, FERNANDEZ, GIANARIS,  GONZALEZ,  GOUNARDES,  HARCKHAM,
-  HINCHEY,  HOYLMAN-SIGAL,  JACKSON, KAVANAGH, KENNEDY, LIU, MAY, MAYER,
-  MYRIE, PARKER, PERSAUD, RAMOS, SALAZAR, SANDERS,  SEPULVEDA,  SERRANO,
-  STAVISKY,  THOMAS,  WEBB  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Health -- reported favora-
-  bly from said committee and committed to the Committee on  Finance  --
-  committee  discharged,  bill amended, ordered reprinted as amended and
+ Introduced  by  Sens.  RIVERA,  BAILEY,  BRESLIN,  BRISPORT, BROUK, CHU,
+  CLEARE, COMRIE,  COONEY,  FERNANDEZ,  GIANARIS,  GONZALEZ,  GOUNARDES,
+  HARCKHAM, HINCHEY, HOYLMAN-SIGAL, JACKSON, KAVANAGH, KENNEDY, KRUEGER,
+  LIU,  MAY,  MAYER,  MYRIE,  PARKER,  PERSAUD, RAMOS, SALAZAR, SANDERS,
+  SEPULVEDA, SERRANO, STAVISKY, THOMAS, WEBB -- read twice  and  ordered
+  printed,  and  when printed to be committed to the Committee on Health
+  -- reported favorably from said committee and committed to the Commit-
+  tee  on  Finance  --  committee  discharged,  bill  amended,  ordered
+  reprinted  as amended and recommitted to said committee -- recommitted
+  to the Committee on Health in accordance with Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
   recommitted to said committee
  
- AN ACT to amend the social services law, in  relation  to  coverage  for
+ AN  ACT  to  amend  the social services law, in relation to coverage for
   certain individuals under the 1332 state innovation program
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 369-ii of the social  services  law,  as  added  by
- section  3  of  part  H of chapter 57 of the laws of 2023, is amended to
+  Section  1.  Section  369-ii  of  the social services law, as added by
+ section 3 of part H of chapter 57 of the laws of  2023,  is  amended  to
  read as follows:
-  § 369-ii. 1332 state innovation program. 1. Authorization.  Notwith-
- standing  section  three hundred sixty-nine-gg of this title, subject to
- federal approval, if it is in the financial interest of the state to  do
- so,  the  commissioner of health is authorized, with the approval of the
- director of the budget, to establish a  1332  state  innovation  program
- pursuant  to  section 1332 of the patient protection and affordable care
- act (P.L. 111-148) and subdivision twenty-five of  section  two  hundred
- sixty-eight-c  of  the  public  health law. The commissioner of health's
- authority pursuant to this section  is  contingent  upon  obtaining  and
- maintaining  all  necessary  approvals  from the secretary of health and
+  §  369-ii.  1332 state innovation program. 1. Authorization.  Notwith-
+ standing section three hundred sixty-nine-gg of this title,  subject  to
+ federal  approval, if it is in the financial interest of the state to do
+ so, the commissioner of health is authorized, with the approval  of  the
+ director  of  the  budget,  to establish a 1332 state innovation program
+ pursuant to section 1332 of the patient protection and  affordable  care
+ act  (P.L.  111-148)  and subdivision twenty-five of section two hundred
+ sixty-eight-c of the public health law.  The  commissioner  of  health's
+ authority  pursuant  to  this  section  is contingent upon obtaining and
+ maintaining all necessary approvals from the  secretary  of  health  and
  human services and the secretary of the treasury based on an application
- for a waiver for state innovation.  The  commissioner  of  health  [may]
- SHALL take all actions necessary to obtain such approvals.
-  2. Definitions. For the purposes of this section:
-
+ for  a  waiver  for  state  innovation. The commissioner of health [may]
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04552-02-3
- S. 2237--A  2
+  LBD04552-06-3
+ S. 2237--B  2
  
+ SHALL take all actions necessary to  obtain  such  approvals,  INCLUDING
+ SEEKING ANY NECESSARY APPROVALS FOR AMENDMENTS TO THE WAIVER.
+  2. Definitions. For the purposes of this section:
   (a)  "Eligible  organization"  means  an  insurer licensed pursuant to
  article thirty-two or forty-two of the insurance law, a  corporation  or
  an  organization  under  article forty-three of the insurance law, or an
@@ -116,14 +120,14 @@ S T A T E  O F  N E W  Y O R K
  organization and certified in accordance with this section.
   3. State innovation plan eligible individual. (a) A person is eligible
  to receive coverage for health care under this section if they:
+ S. 2237--B  3
+ 
   (i) reside in New York state and are under sixty-five  years  of  age,
  INCLUDING  INDIVIDUALS  THAT ARE INELIGIBLE FOR THE BASIC HEALTH PROGRAM
  UNDER 42 U.S.C.  SECTION  18051  ON  THE  BASIS  OF  IMMIGRATION  STATUS
  PROVIDED  THEY  ARE  DETERMINED ELIGIBLE PURSUANT TO SUBDIVISION NINE OF
- S. 2237--A  3
- 
- THIS SECTION AND ARE DETERMINED ELIGIBLE THROUGH THE WAIVER  PROCESS  TO
- RECEIVE  COVERAGE UNDER THIS SECTION REGARDLESS OF DIRECT FEDERAL FINAN-
+ THIS  SECTION  AND ARE DETERMINED ELIGIBLE THROUGH THE WAIVER PROCESS TO
+ RECEIVE COVERAGE UNDER THIS SECTION REGARDLESS OF DIRECT FEDERAL  FINAN-
  CIAL SUPPORT FOR SUCH INDIVIDUALS;
   (ii)  are  not  eligible  for medical assistance under title eleven of
  this article, EXCLUDING ELIGIBILITY FOR LIMITED MEDICAL  ASSISTANCE  FOR
@@ -174,139 +178,130 @@ S T A T E  O F  N E W  Y O R K
  Basic Health Program.
   4.  Enrollment.  (a)  Subject to federal approval, the commissioner of
  health is authorized to establish an application and  enrollment  proce-
+ S. 2237--B  4
+ 
  dure  for prospective enrollees. Such procedure will include a verifica-
  tion system for applicants, which must  be  consistent  with  42  USC  §
  1320b-7.
- S. 2237--A  4
- 
   (b) Such procedure shall allow for continuous enrollment for enrollees
  to  the  1332 state innovation program where an individual may apply and
  enroll for coverage at any point.
-  (c)  Upon  an  applicant's enrollment in a 1332 state innovation plan,
- coverage for health care services pursuant to  the  provisions  of  this
- section  shall be retroactive to the first day of the month in which the
- individual was determined eligible, except in the case of program  tran-
+  (c) Upon an applicant's enrollment in a 1332  state  innovation  plan,
+ coverage  for  health  care  services pursuant to the provisions of this
+ section shall be retroactive to the first day of the month in which  the
+ individual  was determined eligible, except in the case of program tran-
  sitions within the Marketplace.
-  (d)  A  person who has enrolled for coverage pursuant to this section,
+  (d) A person who has enrolled for coverage pursuant to  this  section,
  and who loses eligibility to enroll in the 1332 state innovation program
- for a reason other than [citizenship status,] lack of  state  residence,
- [failure  to  provide a valid social security number,] providing inaccu-
+ for  a  reason other than [citizenship status,] lack of state residence,
+ [failure to provide a valid social security number,]  providing  inaccu-
  rate information that would affect eligibility when requesting or renew-
- ing health coverage pursuant to this section,  or  failure  to  make  an
- applicable  premium  payment,  before  the  end of a twelve month period
- beginning on the effective date of the person's initial eligibility  for
- coverage,  or  before  the end of a twelve month period beginning on the
- date of any subsequent determination of eligibility,  shall  have  their
- eligibility  for  coverage  continued until the end of such twelve month
- period, provided that the state  receives  federal  approval  for  using
+ ing  health  coverage  pursuant  to  this section, or failure to make an
+ applicable premium payment, before the end  of  a  twelve  month  period
+ beginning  on the effective date of the person's initial eligibility for
+ coverage, or before the end of a twelve month period  beginning  on  the
+ date  of  any  subsequent determination of eligibility, shall have their
+ eligibility for coverage continued until the end of  such  twelve  month
+ period,  provided  that  the  state  receives federal approval for using
  funds under an approved 1332 waiver.
-  5.  Premiums.  Subject to federal approval, the commissioner of health
- shall establish premium payments enrollees in a  1332  state  innovation
- plan  shall  pay  to  approved organizations for coverage of health care
+  5. Premiums. Subject to federal approval, the commissioner  of  health
+ shall  establish  premium  payments enrollees in a 1332 state innovation
+ plan shall pay to approved organizations for  coverage  of  health  care
  services pursuant to this section. Such premium payments shall be estab-
  lished in the following manner:
-  (a) up to fifteen dollars monthly for an individual with  a  household
- income  above  two hundred percent of the federal poverty line but at or
- below two hundred fifty percent of the federal poverty line defined  and
- annually  revised  by  the  United States department of health and human
- services for a household of the same size; and
-  (b) no payment is required for individuals with a household income  at
- or  below  two  hundred  percent of the federal poverty line defined and
+  (a)  up  to fifteen dollars monthly for an individual with a household
+ income above two hundred percent of the federal poverty line but  at  or
+ below  two hundred fifty percent of the federal poverty line defined and
  annually revised by the United States department  of  health  and  human
+ services for a household of the same size; and
+  (b)  no payment is required for individuals with a household income at
+ or below two hundred percent of the federal  poverty  line  defined  and
+ annually  revised  by  the  United States department of health and human
  services for a household of the same size.
   6. Cost-sharing. The commissioner of health shall establish cost-shar-
- ing  obligations  for  enrollees, subject to federal approval, including
- childbirth and newborn  care  consistent  with  the  medical  assistance
+ ing obligations for enrollees, subject to  federal  approval,  including
+ childbirth  and  newborn  care  consistent  with  the medical assistance
  program under title eleven of this article. There shall be no cost-shar-
  ing obligations for enrollees for:
-  (a)  dental  and  vision  services  as defined in subparagraph (ii) of
+  (a) dental and vision services as  defined  in  subparagraph  (ii)  of
  paragraph (c) of subdivision two of this section; and
-  (b) services and supports as defined in subparagraph  (iii)  of  para-
+  (b)  services  and  supports as defined in subparagraph (iii) of para-
  graph (c) of subdivision two of this section.
-  7.  Rates  of payment. (a) The commissioner of health shall select the
- contract with an independent actuary to study and recommend  appropriate
+  7. Rates of payment. (a) The commissioner of health shall  select  the
+ contract  with an independent actuary to study and recommend appropriate
  reimbursement methodologies for the cost of health care service coverage
  pursuant to this section. Such independent actuary shall review and make
  recommendations concerning appropriate actuarial assumptions relevant to
- the  establishment  of  reimbursement  methodologies,  including but not
- limited to; the adequacy of rates of payment in relation  to  the  popu-
- lation  to  be  served  adjusted  for case mix, the scope of health care
- services approved organizations must provide, the  utilization  of  such
+ the establishment of  reimbursement  methodologies,  including  but  not
+ limited  to;  the  adequacy of rates of payment in relation to the popu-
+ lation to be served adjusted for case mix,  the  scope  of  health  care
+ S. 2237--B  5
+
+ services  approved  organizations  must provide, the utilization of such
  services and the network of providers required to meet state standards.
   (b)  Upon  consultation  with  the  independent  actuary  and entities
  representing approved organizations, the commissioner  of  health  shall
- S. 2237--A  5
- 
  develop  reimbursement  methodologies  and fee schedules for determining
  rates of payment, which rates shall be approved by the director  of  the
  division  of the budget, to be made by the department to approved organ-
- izations  for the cost of health care services coverage pursuant to this
- section. Such reimbursement methodologies and fee schedules may  include
+ izations for the cost of health care services coverage pursuant to  this
+ section.  Such reimbursement methodologies and fee schedules may include
  provisions for capitation arrangements.
-  (c)  The commissioner of health shall have the authority to promulgate
- regulations, including emergency regulations,  necessary  to  effectuate
+  (c) The commissioner of health shall have the authority to  promulgate
+ regulations,  including  emergency  regulations, necessary to effectuate
  the provisions of this subdivision.
-  (d)  The  department  of  health shall require the independent actuary
- selected pursuant to paragraph (a) of  this  subdivision  to  provide  a
+  (d) The department of health shall  require  the  independent  actuary
+ selected  pursuant  to  paragraph  (a)  of this subdivision to provide a
  complete actuarial report, along with all actuarial assumptions made and
- all  other  data, materials and methodologies used in the development of
- rates for the 1332 state innovation plan authorized under this  section.
+ all other data, materials and methodologies used in the  development  of
+ rates  for the 1332 state innovation plan authorized under this section.
  Such report shall be provided annually to the temporary president of the
  senate and the speaker of the assembly.
-  8.  An  individual  who  is lawfully admitted for permanent residence,
- permanently residing in the United States under color of law, or who  is
- a  non-citizen  in  a  valid nonimmigrant status, as defined in 8 U.S.C.
- 1101(a)(15), and who would be ineligible for  medical  assistance  under
- title  eleven  of  this  article  due to their immigration status if the
- provisions of section  one  hundred  twenty-two  of  this  chapter  were
+  8. An individual who is lawfully  admitted  for  permanent  residence,
+ permanently  residing in the United States under color of law, or who is
+ a non-citizen in a valid nonimmigrant status, as  defined  in  8  U.S.C.
+ 1101(a)(15),  and  who  would be ineligible for medical assistance under
+ title eleven of this article due to  their  immigration  status  if  the
+ provisions  of  section  one  hundred  twenty-two  of  this chapter were
  applied, shall be considered to be ineligible for medical assistance for
  purposes of paragraphs (b) and (c) of subdivision three of this section.
-  9.  (A) IN DETERMINING ELIGIBILITY FOR RESIDENTS OF THE STATE THAT ARE
+  9. (A) IN DETERMINING ELIGIBILITY FOR RESIDENTS OF THE STATE THAT  ARE
  INELIGIBLE FOR THE BASIC HEALTH PROGRAM UNDER 42 U.S.C. SECTION 18051 ON
- THE BASIS OF IMMIGRATION STATUS, THE COMMISSIONER OF  HEALTH  MAY  PLACE
- LIMITATIONS  ON  ENROLLMENT  TO  ENSURE  THAT  THE COSTS ASSOCIATED WITH
- RENDERING SERVICES TO THIS POPULATION DO NOT EXCEED THE REVENUES  ANTIC-
- IPATED  TO  BE  TRANSFERRED  TO  THE 1332 STATE INNOVATION PROGRAM FUND,
- PURSUANT TO SECTION NINETY-EIGHT-D OF THE STATE FINANCE LAW.  IN  ESTAB-
+ THE  BASIS  OF  IMMIGRATION STATUS, THE COMMISSIONER OF HEALTH MAY PLACE
+ LIMITATIONS ON ENROLLMENT TO  ENSURE  THAT  THE  COSTS  ASSOCIATED  WITH
+ RENDERING  SERVICES TO THIS POPULATION DO NOT EXCEED THE REVENUES ANTIC-
+ IPATED TO BE TRANSFERRED TO THE  1332  STATE  INNOVATION  PROGRAM  FUND,
+ PURSUANT  TO  SECTION NINETY-EIGHT-D OF THE STATE FINANCE LAW. IN ESTAB-
  LISHING ANY LIMITATIONS PURSUANT TO THIS SUBDIVISION THE COMMISSIONER OF
- HEALTH  SHALL ENROLL AT LEAST TWO HUNDRED FORTY THOUSAND INDIVIDUALS AND
- MAY ENROLL ADDITIONAL INDIVIDUALS AS REASONABLY PRACTICABLE WHILE ENSUR-
- ING CONTINUAL COVERAGE FOR SUCH ADDITIONAL INDIVIDUALS BASED ON  CURRENT
- AND ANTICIPATED 1332 STATE INNOVATION PROGRAM FUND RESERVES.
-  (B)  IN DETERMINING ANY LIMITATIONS ON ENROLLMENT, THE COMMISSIONER OF
- HEALTH SHALL DETERMINE INCOME BANDS FOR SUCH INDIVIDUALS  FROM  ZERO  TO
- TWO  HUNDRED FIFTY PERCENT OF THE FEDERAL POVERTY LINE DEFINED AND ANNU-
- ALLY REVISED BY  THE  UNITED  STATES  DEPARTMENT  OF  HEALTH  AND  HUMAN
- SERVICES  FOR  A  HOUSEHOLD OF THE SAME SIZE. THE COMMISSIONER OF HEALTH
- SHALL PRIORITIZE THE ENROLLMENT OF INDIVIDUALS FROM  THE  LOWEST  INCOME
+ HEALTH SHALL ENROLL AS MANY INDIVIDUALS AS REASONABLY PRACTICABLE  WHILE
+ ENSURING  CONTINUAL  COVERAGE  FOR  SUCH ADDITIONAL INDIVIDUALS BASED ON
+ CURRENT AND ANTICIPATED 1332 STATE INNOVATION PROGRAM FUND RESERVES.
+  (B) IN DETERMINING ANY LIMITATIONS ON ENROLLMENT, THE COMMISSIONER  OF
+ HEALTH  SHALL  DETERMINE  INCOME BANDS FOR SUCH INDIVIDUALS FROM ZERO TO
+ TWO HUNDRED FIFTY PERCENT OF THE FEDERAL POVERTY LINE DEFINED AND  ANNU-
+ ALLY  REVISED  BY  THE  UNITED  STATES  DEPARTMENT  OF  HEALTH AND HUMAN
+ SERVICES FOR A HOUSEHOLD OF THE SAME SIZE. THE  COMMISSIONER  OF  HEALTH
+ SHALL  PRIORITIZE  THE  ENROLLMENT OF INDIVIDUALS FROM THE LOWEST INCOME
  BAND FIRST AND THEN THE REMAINING INCOME BANDS IN ASCENDING ORDER.
-  (C)  NOTWITHSTANDING  THE PROVISIONS OF PARAGRAPH (B) OF THIS SUBDIVI-
- SION, THE COMMISSIONER OF HEALTH MAY ALSO INCLUDE SUBSETS OF  THE  POPU-
- LATION  WHOSE  CONTINUED HEALTH AND WELL-BEING WOULD BE SIGNIFICANTLY AT
- RISK WITHOUT ROUTINE ACCESS TO HEALTH CARE.  POPULATION  SUBSETS  TO  BE
- PRIORITIZED  FOR  ENROLLMENT  SHALL BE DETERMINED BY THE COMMISSIONER OF
- HEALTH AND SHALL INCLUDE BUT NOT BE LIMITED  TO:  (I)  INDIVIDUALS  WITH
+  (C) NOTWITHSTANDING THE PROVISIONS OF PARAGRAPH (B) OF  THIS  SUBDIVI-
+ SION,  THE  COMMISSIONER OF HEALTH MAY ALSO INCLUDE SUBSETS OF THE POPU-
+ LATION WHOSE CONTINUED HEALTH AND WELL-BEING WOULD BE  SIGNIFICANTLY  AT
+ RISK  WITHOUT  ROUTINE  ACCESS  TO HEALTH CARE. POPULATION SUBSETS TO BE
+ PRIORITIZED FOR ENROLLMENT SHALL BE DETERMINED BY  THE  COMMISSIONER  OF
+ HEALTH  AND  SHALL  INCLUDE  BUT NOT BE LIMITED TO: (I) INDIVIDUALS WITH
  LIFE THREATENING CONDITIONS, (II) INDIVIDUALS IN NEED OF AN ORGAN TRANS-
- PLANT;  AND  (III) INDIVIDUALS WITH SIGNIFICANT BEHAVIORAL HEALTH ISSUES
- INCLUDING BUT NOT LIMITED TO SERIOUS MENTAL  ILLNESS  OR  SUBSTANCE  USE
+ PLANT; AND (III) INDIVIDUALS WITH SIGNIFICANT BEHAVIORAL  HEALTH  ISSUES
+ INCLUDING  BUT  NOT  LIMITED  TO SERIOUS MENTAL ILLNESS OR SUBSTANCE USE
  DISORDER.
-  10.  THE  COMMISSIONER  OF  HEALTH SHALL TAKE ALL ACTIONS NECESSARY TO
- OBTAIN ALL NECESSARY  APPROVALS  FROM THE SECRETARY OF HEALTH AND  HUMAN
- SERVICES AND THE SECRETARY OF THE TREASURY TO UTILIZE MONEYS TRANSFERRED
- S. 2237--A  6
+ S. 2237--B  6
  
- TO  THE BASIC HEALTH PROGRAM TRUST FUND, PURSUANT TO SECTION NINETY-SEV-
- EN-OOOO OF THE STATE FINANCE LAW, AS ADDED  BY  SECTION  FIFTY-THREE  OF
- PART  C OF CHAPTER SIXTY OF THE LAWS OF TWO THOUSAND FOURTEEN, FOR COSTS
- ASSOCIATED  WITH  THE  PROVISION  OF HEALTH CARE SERVICES TO ALL PERSONS
- ELIGIBLE FOR COVERAGE UNDER THE WAIVER. IF APPROVAL IS NOT  GRANTED  FOR
- ALL  PERSONS ELIGIBLE FOR COVERAGE UNDER THE WAIVER, THE COMMISSIONER OF
- HEALTH SHALL TAKE ALL ACTIONS NECESSARY TO OBTAIN APPROVAL FOR  THE  USE
- OF  MONEYS  OF  THE BASIC HEALTH PROGRAM TRUST FUND FOR COSTS ASSOCIATED
- WITH THE PROVISION OF HEALTH CARE  SERVICES  TO  INDIVIDUALS  UNDER  THE
- WAIVER  THAT  WOULD OTHERWISE BE ELIGIBLE FOR PARTICIPATION IN THE BASIC
- HEALTH PROGRAM, ESTABLISHED PURSUANT TO  SECTION  THREE  HUNDRED  SIXTY-
- NINE-GG OF THIS TITLE.
+  10. THE COMMISSIONER IS AUTHORIZED TO SEEK A WAIVER OR OTHER  APPLICA-
+ BLE FEDERAL APPROVAL FOR ANY ADDITIONAL MONIES TO SUPPORT THE 1332 STATE
+ INNOVATION PROGRAM THAT MAY BE ASSOCIATED WITH A REDUCTION IN THE UTILI-
+ ZATION OF TREATMENT FOR AN EMERGENCY MEDICAL CONDITION AUTHORIZED PURSU-
+ ANT TO 42 U.S.C. 1396. ANY ADDITIONAL MONIES SHALL BE TRANSFERRED TO THE
+ 1332 STATE INNOVATION PROGRAM FUND ESTABLISHED PURSUANT TO SECTION NINE-
+ TY-EIGHT-D OF THE STATE FINANCE LAW AND USED FOR SUCH PURPOSES.
   11. Reporting. The commissioner of health shall submit a report to the
  temporary  president of the senate and the speaker of the assembly annu-
  ally by December thirty-first. The report shall include, at  a  minimum,
@@ -322,11 +317,9 @@ S T A T E  O F  N E W  Y O R K
  PURSUANT TO SECTION NINETY-EIGHT-D OF THE STATE FINANCE LAW, AND  TOTALS
  ON  ANY  SAVINGS  TO THE STATE DUE TO COVERAGE OF RESIDENTS OF THE STATE
  THAT ARE INELIGIBLE FOR THE BASIC HEALTH PROGRAM UNDER 42 U.S.C. SECTION
- 18051 ON THE BASIS OF IMMIGRATION STATUS; ANY MONEYS UTILIZED  FROM  THE
- BASIC  HEALTH  PLAN  TRUST  FUND  TO SUPPORT THE DELIVERY OF HEALTH CARE
- SERVICES TO PERSONS ELIGIBLE FOR COVERAGE  UNDER  THE  WAIVER;  and  the
- demographics  of  the  1332 state innovation program enrollees including
- age and immigration status.
+ 18051 ON THE BASIS OF IMMIGRATION STATUS; and the  demographics  of  the
+ 1332  state  innovation  program enrollees including age and immigration
+ status.
   [10.] 12. Severability. If the secretary of health and human  services
  or  the  secretary  of  the treasury do not approve any provision of the
  application for a state innovation waiver, such decision shall in no way
@@ -342,6 +335,5 @@ S T A T E  O F  N E W  Y O R K
  the  legislature  that  this  act  would  have been enacted even if such
  invalid provisions had not been included herein.
   § 3. This act shall take effect on the  same  date  and  in  the  same
- manner as section 3 of part H of chapter 57 of the laws of 2023 amending
- the  social  services law relating to enacting the 1332 state innovation
- program, takes effect.
+ manner  as  section 3 of part H of chapter 57 of the laws of 2023, takes
+ effect.
