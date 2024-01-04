@@ -1,6 +1,6 @@
 # Permits an eligible retirement system member to receive, in lieu of an ordinary death benefit, a death benefit such member would otherwise be entitled to receive
 
-**Bill ID:** S7567A
+**Bill ID:** S7567AA
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Permits an eligible retirement system member to receive, in lieu of an ordinary 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7567
+  7567--A
  
   2023-2024 Regular Sessions
  
@@ -26,48 +26,51 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sen. SEPULVEDA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
- 
- AN  ACT  to amend the retirement and social security law, in relation to
+  printed  to  be  committed to the Committee on Rules -- recommitted to
+  the Committee on Civil Service and Pensions in accordance with  Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
+ AN ACT to amend the retirement and social security law, in  relation  to
   death benefits for the beneficiaries of certain members of the retire-
   ment system
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The retirement and social security law is amended by adding
  a new section 63-j to read as follows:
-  §  63-J. DEATH BENEFITS FOR STATE-PAID JUDGES AND JUSTICES. A. AS USED
- IN THIS SECTION, THE TERM "JUDGE OR JUSTICE"  SHALL  MEAN  A  STATE-PAID
- JUDGE  OR  JUSTICE OF THE UNIFIED COURT SYSTEM INCLUDING A RETIRED JUDGE
- OF THE COURT OF APPEALS OR RETIRED JUSTICE OF THE SUPREME COURT  WHO  IS
- SERVING  AS  A JUSTICE OF THE SUPREME COURT PURSUANT TO CERTIFICATION BY
- THE ADMINISTRATIVE BOARD OF THE COURTS IN ACCORDANCE  WITH  SECTION  ONE
+  § 63-J. DEATH BENEFITS FOR STATE-PAID JUDGES AND JUSTICES. A. AS  USED
+ IN  THIS  SECTION,  THE  TERM "JUDGE OR JUSTICE" SHALL MEAN A STATE-PAID
+ JUDGE OR JUSTICE OF THE UNIFIED COURT SYSTEM INCLUDING A  RETIRED  JUDGE
+ OF  THE  COURT OF APPEALS OR RETIRED JUSTICE OF THE SUPREME COURT WHO IS
+ SERVING AS A JUSTICE OF THE SUPREME COURT PURSUANT TO  CERTIFICATION  BY
+ THE  ADMINISTRATIVE  BOARD  OF THE COURTS IN ACCORDANCE WITH SECTION ONE
  HUNDRED FOURTEEN OR ONE HUNDRED FIFTEEN OF THE JUDICIARY LAW, OR A HOUS-
  ING JUDGE OF THE CIVIL COURT OF THE CITY OF NEW YORK.
   B. NOTWITHSTANDING ANY PROVISION OF LAW TO THE CONTRARY, WHERE A JUDGE
- OR  JUSTICE  WOULD HAVE BEEN ENTITLED TO A SERVICE RETIREMENT BENEFIT AT
- THE TIME OF HIS OR HER DEATH AND WHERE HIS OR HER  DEATH  OCCURS  ON  OR
- AFTER  THE  EFFECTIVE DATE OF THIS SECTION, THE BENEFICIARY OR BENEFICI-
+ OR JUSTICE WOULD HAVE BEEN ENTITLED TO A SERVICE RETIREMENT  BENEFIT  AT
+ THE  TIME  OF  HIS  OR HER DEATH AND WHERE HIS OR HER DEATH OCCURS ON OR
+ AFTER THE EFFECTIVE DATE OF THIS SECTION, THE BENEFICIARY  OR  BENEFICI-
  ARIES MAY ELECT TO RECEIVE, IN A LUMP SUM, AN AMOUNT PAYABLE WHICH SHALL
  BE EQUAL TO THE PENSION RESERVE THAT WOULD HAVE BEEN ESTABLISHED HAD THE
- MEMBER RETIRED ON THE DATE OF HIS OR HER DEATH,  OR  THE  VALUE  OF  THE
+ MEMBER  RETIRED  ON  THE  DATE  OF HIS OR HER DEATH, OR THE VALUE OF THE
  DEATH  BENEFIT  AND  THE  RESERVE-FOR-INCREASED-TAKE-HOME-PAY,  IF  ANY,
  WHICHEVER IS GREATER.
   § 2. The retirement and social security law is amended by adding a new
  section 508-d to read as follows:
-  § 508-D. DEATH BENEFITS FOR STATE-PAID JUDGES AND  JUSTICES.  A.  AS
- USED  IN  THIS  SECTION, THE TERM "JUDGE OR JUSTICE" SHALL MEAN A STATE-
- PAID JUDGE OR JUSTICE OF THE UNIFIED COURT SYSTEM  INCLUDING  A  RETIRED
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10201-04-3
- S. 7567  2
+  LBD10201-05-4
+ S. 7567--A  2
  
- JUDGE  OF  THE  COURT OF APPEALS OR RETIRED JUSTICE OF THE SUPREME COURT
- WHO IS SERVING AS A JUSTICE OF THE SUPREME  COURT  PURSUANT  TO  CERTIF-
- ICATION  BY  THE  ADMINISTRATIVE  BOARD OF THE COURTS IN ACCORDANCE WITH
+  §  508-D.  DEATH  BENEFITS  FOR STATE-PAID JUDGES AND JUSTICES. A.  AS
+ USED IN THIS SECTION, THE TERM "JUDGE OR JUSTICE" SHALL  MEAN  A  STATE-
+ PAID  JUDGE  OR  JUSTICE OF THE UNIFIED COURT SYSTEM INCLUDING A RETIRED
+ JUDGE OF THE COURT OF APPEALS OR RETIRED JUSTICE OF  THE  SUPREME  COURT
+ WHO  IS  SERVING  AS  A JUSTICE OF THE SUPREME COURT PURSUANT TO CERTIF-
+ ICATION BY THE ADMINISTRATIVE BOARD OF THE  COURTS  IN  ACCORDANCE  WITH
  SECTION  ONE  HUNDRED  FOURTEEN  OR ONE HUNDRED FIFTEEN OF THE JUDICIARY
  LAW, OR A HOUSING JUDGE OF THE CIVIL COURT OF THE CITY OF NEW YORK.
   B. NOTWITHSTANDING ANY PROVISION OF LAW TO THE CONTRARY, WHERE A JUDGE
@@ -111,33 +114,33 @@ S T A T E  O F  N E W  Y O R K
  System  who are employed as state-paid judges or justices of the Unified
  Court System. The in-service death benefit will  be  the  value  of  the
  pension reserve as if the member had retired on their date of death.
-  If this bill is enacted during the 2023 legislative session, we antic-
- ipate  that  there  will be an increase of approximately $240,000 in the
+  If this bill is enacted during the 2024 Legislative Session, we antic-
+ ipate  that  there  will be an increase of approximately $243,000 in the
  annual contributions of the State of New York for the fiscal year ending
- March 31, 2024. In future years, this cost  will  vary  as  the  billing
+ March 31, 2025. In future years, this cost  will  vary  as  the  billing
  rates and salary of the affected members change.
   In addition to the annual contributions discussed above, there will be
- an immediate past service cost of approximately $4.10 million which will
- be  borne  by the State of New York as a one-time payment. This estimate
- assumes that payment will be made on March 1, 2024. If the State of  New
- S. 7567  3
+ an immediate past service cost of approximately $3.86 million which will
+ S. 7567--A  3
  
+ be  borne  by the State of New York as a one-time payment. This estimate
+ assumes that payment will be made on March 1, 2025. If the State of  New
  York  elects  to  amortize this cost over a 10-year period, the cost for
- the first year including interest would be $524,000.
-  These  estimated costs are based on 1,131 affected members employed by
- the State of New York as judges  or  justices,  with  annual  salary  of
- approximately $219 million as of March 31, 2022.
+ each year including interest would be $493,000.
+  These  estimated costs are based on 1,148 affected members employed by
+ the State of New York, with annual salary of approximately $222  million
+ as of March 31, 2023.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al valuation. Distributions and other statistics can  be  found  in  the
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -145,6 +148,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated June 5, 2023, and intended for  use  only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-126, prepared by
+  This estimate, dated January 3, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No.  2024-13,  prepared  by
  the Actuary for the New York State and Local Retirement System.
