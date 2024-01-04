@@ -1,0 +1,62 @@
+# Memorializing Governor Kathy Hochul to proclaim September 2024, as Peripheral Arterial Disease Awareness Month in the State of New York
+
+**Bill ID:** J1556
+**Session:** 2023
+**Sponsor:** Roxanne J. Persaud
+**Status:** Adopted
+
+---
+
+## Full Text
+
+Senate Resolution No. 1556
+ 
+BY: Senator PERSAUD
+ 
+  MEMORIALIZING  Governor  Kathy  Hochul to proclaim
+  September  2024,  as  Peripheral  Arterial  Disease
+  Awareness Month in the State of New York
+ 
+  WHEREAS,  It  is  the  custom  of this Legislative Body to recognize
+official months that are set aside  to  increase  awareness  of  serious
+illnesses that affect the lives of citizens of New York State; and
+ 
+  WHEREAS,  Attendant  to  such  concern,  and in full accord with its
+long-standing traditions, this  Legislative  Body  is  justly  proud  to
+memorialize  Governor  Kathy  Hochul  to  proclaim  September  2024,  as
+Peripheral Arterial Disease Awareness Month in the State of New York, in
+conjunction with the observance of National Peripheral Arterial  Disease
+Awareness Month; and
+ 
+  WHEREAS,  Peripheral  Arterial  Disease  (PAD)  affects  10  million
+people, yet it is under diagnosed and under treated; many people believe
+pain in the legs or lower extremities is just another sign of aging, not
+realizing that it may be a warning sign for this serious disease; and
+ 
+  WHEREAS, PAD happens when arteries in the legs become restricted  or
+clogged  with  fatty deposits, reducing blood flow to the legs resulting
+in leg muscle pain when walking,  disability,  amputation,  and  a  poor
+quality of life; and
+ 
+  WHEREAS, Blocked arteries found in people with PAD can signify other
+arteries  may  also be blocked, increasing the risk of a heart attack or
+stroke; and
+ 
+  WHEREAS, People over the age of 50, experiencing leg pain  and  have
+more  than  one  of  the  following mentioned risk factors, talk to your
+doctor about PAD:  smoke  (current  or  former),  high  blood  pressure,
+personal/family  history  of  heart  attack  or stroke, diabetes or high
+cholesterol; and
+ 
+  WHEREAS, It is imperative that there be greater  awareness  of  this
+serious  health condition, and more must be done to increase activity at
+local, State and National levels; now, therefore, be it
+ 
+  RESOLVED, That this Legislative Body pause in its  deliberations  to
+memorialize  Governor  Kathy  Hochul  to  proclaim  September  2024,  as
+Peripheral Arterial Disease Awareness Month in the State  of  New  York;
+and be it further
+ 
+  RESOLVED,  That  a  copy  of this Resolution, suitably engrossed, be
+transmitted to The Honorable Kathy Hochul, Governor of the State of  New
+York.
