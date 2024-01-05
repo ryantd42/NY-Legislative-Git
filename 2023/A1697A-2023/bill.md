@@ -1,6 +1,6 @@
 # Relates to the admissibility of certain testimony and evidence by a person alleging discrimination
 
-**Bill ID:** A1697A
+**Bill ID:** A1697AA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Permits the admissibility of testimony that a person reported acts of discrimina
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1697
+  1697--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Judiciary
- 
+  Committee on Judiciary -- recommitted to the Committee on Judiciary in
+  accordance with Assembly Rule 3, sec. 2 -- committee discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
+
  AN ACT to amend the civil practice law and rules, in relation to permit-
   ting certain testimony and evidence by  a  person  alleging  discrimi-
   nation
@@ -36,8 +39,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1.  The civil practice law and rules is amended  by  adding  a
- new rule 4550 to read as follows:
-  RULE  4550.  ADMISSIBILITY  OF  ALLEGATIONS OF DISCRIMINATION; HEARSAY
+ new rule 4551 to read as follows:
+  RULE  4551.  ADMISSIBILITY  OF  ALLEGATIONS OF DISCRIMINATION; HEARSAY
  EXCEPTION.  (A) WHEN USED IN THIS RULE, "DISCRIMINATION" SHALL MEAN  ANY
  UNLAWFUL  DISCRIMINATORY  PRACTICE  PURSUANT  TO  ARTICLE FIFTEEN OF THE
  EXECUTIVE LAW, INCLUDING  UNLAWFUL  DISCRIMINATORY  PRACTICES  BASED  ON
@@ -56,18 +59,19 @@ S T A T E  O F  N E W  Y O R K
  RULE, SUCH REPORT OR STATEMENT MUST  HAVE  BEEN  MADE  BEFORE  THE  LAST
  ADVERSE  ACTION COMPLAINED OF IS TAKEN, OR PROMPTLY AFTER SUCH ACTION IS
  TAKEN.  PROMPTNESS SHALL BE DETERMINED BY ALL FACTS  AND  CIRCUMSTANCES,
- GIVING  DUE  REGARD TO THE SENSITIVITY OF THE SUBJECT MATTER, THE MENTAL
- STATE OF THE PARTY ALLEGING DISCRIMINATION, OR ANY OTHER RELEVANT INFOR-
- MATION.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05775-01-3
- A. 1697  2
+  LBD05775-03-3
+ A. 1697--A  2
  
-  (D) THE PROPONENT OF SUCH EVIDENCE HAS  THE  BURDEN  OF  DEMONSTRATING
- THAT  THE REPORTING WAS MADE UNDER CIRCUMSTANCES WHICH RENDER IT REASON-
+ GIVING  DUE  REGARD TO THE SENSITIVITY OF THE SUBJECT MATTER, THE MENTAL
+ STATE OF THE PARTY ALLEGING DISCRIMINATION, OR ANY OTHER RELEVANT INFOR-
+ MATION.
+  (D)  THE  PROPONENT  OF  SUCH EVIDENCE HAS THE BURDEN OF DEMONSTRATING
+ THAT THE REPORTING WAS MADE UNDER CIRCUMSTANCES WHICH RENDER IT  REASON-
  ABLY RELIABLE.
   (E)  THIS RULE IS ONLY APPLICABLE IN CIVIL MATTERS AND SHALL NOT APPLY
  IN CRIMINAL PROCEEDINGS.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect immediately and apply to  all  actions
+ filed on or after such effective date.
