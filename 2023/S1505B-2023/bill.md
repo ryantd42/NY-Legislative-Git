@@ -1,6 +1,6 @@
 # Authorizes Lois J. Reid to reapply for ordinary disability retirement benefits
 
-**Bill ID:** S1505BA
+**Bill ID:** S1505BB
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes Lois J. Reid to reapply for ordinary disability retirement benefits.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1505--A
+  1505--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,10 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sen. GALLIVAN -- read twice and ordered printed, and when
   printed to be committed to the Committee on Civil Service and Pensions
   -- committee discharged, bill amended, ordered  reprinted  as  amended
-  and recommitted to said committee
+  and  recommitted  to said committee -- recommitted to the Committee on
+  Civil Service and Pensions in accordance with Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
  AN  ACT  to  authorize  Lois  J.  Reid  to apply for ordinary disability
   retirement benefits from the  New  York  state  and  local  employees'
@@ -56,40 +59,41 @@ S T A T E  O F  N E W  Y O R K
  that effect with the state comptroller.
   § 2. All costs associated with the implementation of this act shall be
  borne by the state.
-  § 3. This act shall take effect immediately.
-  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00550-03-3
- S. 1505--A  2
+  LBD00550-04-4
+ S. 1505--B  2
  
-  This bill would allow Lois J. Reid, a service retiree of the New  York
- State  and  Local Employees' Retirement System with a date of retirement
- of March 1, 2003, to apply for a temporary ordinary  disability  retire-
+  § 3. This act shall take effect immediately.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  This  bill would allow Lois J. Reid, a service retiree of the New York
+ State and Local Employees' Retirement System with a date  of  retirement
+ of  March  1, 2003, to apply for a temporary ordinary disability retire-
  ment benefit for the period from June 19, 1992 through March 1, 2003.
-  If  this bill is enacted during the 2023 legislative session, and Lois
- J.  Reid is granted a temporary disability benefit,  there  will  be  an
- immediate  past  service  cost  of  approximately $127,000 which will be
- borne by the State of New York as  a  one-time  payment.  This  estimate
- assumes that payment will be made on March 1, 2024.
+  If this bill is enacted during the 2024 Legislative Session  and  Lois
+ J.  Reid  is  granted a temporary disability benefit, there will be an
+ immediate past service cost of  approximately  $127,000  which  will  be
+ borne  by  the  State  of  New York as a one-time payment. This estimate
+ assumes that payment will be made on March 1, 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation. Distributions and other statistics can  be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al  valuation.  Distributions and other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
- New  York  State  and  Local  Retirement System Financial Statements and
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
+ New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
-  This fiscal note does not constitute a legal opinion on the  viability
- of  the  proposed change nor is it intended to serve as a substitute for
+  I am a member of the American Academy of Actuaries and meet the Quali-
+ fication Standards to render the actuarial opinion contained herein.
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated January 11,  2023,  and  intended  for  use  only
- during  the  2023  Legislative  Session,  is  Fiscal  Note  No. 2023-14,
- prepared by the Actuary for the New  York  State  and  Local  Retirement
- System.
+  This estimate, dated January 3, 2024, and intended for use only during
+ the  2024  Legislative  Session, is Fiscal Note No. 2024-57, prepared by
+ the Actuary for the New York State and Local Retirement System.
