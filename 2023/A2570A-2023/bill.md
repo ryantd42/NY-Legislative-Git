@@ -1,6 +1,6 @@
 # Requires a system for notifying customers of bed bug infestations on MTA subways, trains and buses, within 24 hours of discovering such infestation
 
-**Bill ID:** A2570A
+**Bill ID:** A2570AA
 **Session:** 2023
 **Sponsor:** William Colton
 **Status:** In Senate Committee
@@ -16,7 +16,8 @@ Requires a system for notifying customers of bed bug infestations on MTA subways
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2570
+  2570--A
+  Cal. No. 75
  
   2023-2024 Regular Sessions
  
@@ -26,23 +27,25 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. COLTON, L. ROSENTHAL, WALKER, COOK, SEAWRIGHT,
-  DICKENS, TAYLOR, GLICK, WILLIAMS, RIVERA -- Multi-Sponsored by  --  M.
-  of A. DILAN, HYNDMAN, SIMON -- read once and referred to the Committee
-  on Corporations, Authorities and Commissions
+  DICKENS, TAYLOR, GLICK, WILLIAMS, RIVERA, DARLING  --  Multi-Sponsored
+  by -- M. of A.  DILAN, HYNDMAN, SIMON -- read once and referred to the
+  Committee on Corporations, Authorities and Commissions -- ordered to a
+  third  reading,  amended and ordered reprinted, retaining its place on
+  the order of third reading
  
- AN  ACT  to  amend  the public authorities law, in relation to providing
-  notification to customers of bed  bug  infestations  on  MTA  subways,
+ AN ACT to amend the public authorities law,  in  relation  to  providing
+  notification  to  customers  of  bed  bug infestations on MTA subways,
   trains and buses
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The public authorities law  is  amended  by  adding  a  new
- section 1266-m to read as follows:
-  §  1266-M.  NOTIFICATION  OF BED BUG INFESTATIONS. THE AUTHORITY SHALL
- ESTABLISH A SYSTEM TO  NOTIFY  CUSTOMERS  OF  BED  BUG  INFESTATIONS  ON
- SUBWAYS,  TRAINS AND BUSES, WITHIN TWENTY-FOUR HOURS OF DISCOVERING SUCH
- INFESTATION. SUCH SYSTEM MAY INCLUDE NOTIFICATION THROUGH  THE  AUTHORI-
+  Section  1.  The  public  authorities  law  is amended by adding a new
+ section 1266-n to read as follows:
+  § 1266-N. NOTIFICATION OF BED BUG INFESTATIONS.  THE  AUTHORITY  SHALL
+ ESTABLISH  A  SYSTEM  TO  NOTIFY  CUSTOMERS  OF  BED BUG INFESTATIONS ON
+ SUBWAYS, TRAINS AND BUSES, WITHIN TWENTY-FOUR HOURS OF DISCOVERING  SUCH
+ INFESTATION.  SUCH  SYSTEM MAY INCLUDE NOTIFICATION THROUGH THE AUTHORI-
  TY'S WEBPAGE, OR BY EMAIL OR TEXT MESSAGE.
   § 2. This act shall take effect immediately.
  
@@ -52,4 +55,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00896-01-3
+  LBD00896-02-3
