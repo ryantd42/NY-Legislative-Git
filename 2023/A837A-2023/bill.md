@@ -1,6 +1,6 @@
 # Relates to the publication of immunization information
 
-**Bill ID:** A837A
+**Bill ID:** A837AA
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Relates to the publication of immunization information; requires schools to prov
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  837
+  837--A
+  Cal. No. 27
  
   2023-2024 Regular Sessions
  
@@ -25,46 +26,48 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced by M. of A. DINOWITZ -- read once and referred to the Commit-
-  tee on Health
- 
+ Introduced  by  M.  of  A.  DINOWITZ,  REYES,  SHIMSKY  -- read once and
+  referred to the Committee on Health -- ordered  to  a  third  reading,
+  amended  and  ordered  reprinted,  retaining its place on the order of
+  third reading
+
  AN ACT to amend the public health law, in relation to the publication of
   immunization information
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision 11 of section 2164 of the public health law, as
- amended by chapter 401 of the laws  of  2015,  is  amended  to  read  as
+ amended  by  chapter  401  of  the  laws  of 2015, is amended to read as
  follows:
-  11.  Every  school  shall  annually provide the commissioner, on forms
- provided by the commissioner, a summary regarding  compliance  with  the
- provisions  of  this  section.  NOTHING  HEREIN  SHALL  PREVENT A SCHOOL
- DISTRICT FROM PROVIDING SUCH FORMS TO THE COMMISSIONER ON BEHALF OF  THE
+  11. Every school shall annually provide  the  commissioner,  on  forms
+ provided  by  the  commissioner, a summary regarding compliance with the
+ provisions of this  section.  NOTHING  HEREIN  SHALL  PREVENT  A  SCHOOL
+ DISTRICT  FROM PROVIDING SUCH FORMS TO THE COMMISSIONER ON BEHALF OF THE
  SCHOOLS WITHIN ITS DISTRICT.  SUCH SUMMARY SHALL IDENTIFY, AT MINIMUM:
-  A.  FOR  EACH INDIVIDUAL IMMUNIZATION SERIES REQUIRED BY THIS SECTION,
+  A. FOR EACH INDIVIDUAL IMMUNIZATION SERIES REQUIRED BY  THIS  SECTION,
  THE NUMBER AND PERCENTAGE OF CHILDREN ADMITTED TO THE SCHOOL THAT ARE:
   (I) FULLY IMMUNIZED;
   (II) NOT FULLY IMMUNIZED; AND
   (III) EXEMPT, PURSUANT TO SUBDIVISION EIGHT OF THIS SECTION, FROM SUCH
  IMMUNIZATION SERIES;
-  B. THE OVERALL NUMBER AND  PERCENTAGE  OF  CHILDREN  ADMITTED  TO  THE
+  B.  THE  OVERALL  NUMBER  AND  PERCENTAGE  OF CHILDREN ADMITTED TO THE
  SCHOOL THAT ARE:
-  (I)  FULLY  IMMUNIZED  FOR  ALL  IMMUNIZATION  SERIES REQUIRED BY THIS
+  (I) FULLY IMMUNIZED FOR  ALL  IMMUNIZATION  SERIES  REQUIRED  BY  THIS
  SECTION;
-  (II) NOT FULLY IMMUNIZED FOR ONE OR MORE IMMUNIZATION SERIES  REQUIRED
+  (II)  NOT FULLY IMMUNIZED FOR ONE OR MORE IMMUNIZATION SERIES REQUIRED
  BY THIS SECTION; AND
-  (III)  EXEMPT, PURSUANT TO SUBDIVISION EIGHT OF THIS SECTION, FROM ONE
+  (III) EXEMPT, PURSUANT TO SUBDIVISION EIGHT OF THIS SECTION, FROM  ONE
  OR MORE IMMUNIZATION SERIES REQUIRED BY THIS SECTION; AND
   C. ANY OTHER INFORMATION THE COMMISSIONER SHALL REQUIRE.
-  § 2. The public health law is amended by adding a new  section  2169-A
- to read as follows:
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00721-02-3
- A. 837  2
+  LBD00721-03-4
+ A. 837--A  2
  
+  §  2.  The public health law is amended by adding a new section 2169-a
+ to read as follows:
   §  2169-A.  PUBLICATION OF IMMUNIZATION INFORMATION. 1. THE DEPARTMENT
  SHALL PROMINENTLY MAKE AVAILABLE ON ITS  WEBSITE  INFORMATION  REGARDING
  COMPLIANCE  WITH  THE  REQUIREMENTS OF SECTION TWENTY-ONE HUNDRED SIXTY-
@@ -105,4 +108,4 @@ S T A T E  O F  N E W  Y O R K
  SHALL NOT PUBLISH SUCH INFORMATION IN A MANNER THAT ALLOWS SUCH INFORMA-
  TION TO BE LINKED TO AN INDIVIDUAL CHILD, PARENT, GUARDIAN, OR PERSON IN
  PARENTAL RELATIONSHIP TO A CHILD.
-  § 3. This act shall take effect January 1, 2024.
+  § 3. This act shall take effect January 1, 2025.
