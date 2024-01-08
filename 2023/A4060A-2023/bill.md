@@ -1,6 +1,6 @@
 # Requires menstrual products in public colleges and universities
 
-**Bill ID:** A4060A
+**Bill ID:** A4060AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Requires menstrual products in all public college and university buildings.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4060
+  4060--A
+  Cal. No. 110
  
   2023-2024 Regular Sessions
  
@@ -27,33 +28,29 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M. of A. PAULIN, GONZALEZ-ROJAS, ARDILA, BORES, BURDICK,
   BURGOS, COLTON, GALLAGHER, LAVINE, LEE, LEVENBERG,  MAGNARELLI,  RAGA,
-  RIVERA,  ROZIC,  SHIMSKY,  SIMON,  STIRPE,  McDONOUGH -- read once and
-  referred to the Committee on Health
+  RIVERA,  ROZIC,  SHIMSKY,  SIMON,  STIRPE, McDONOUGH, FORREST, KELLES,
+  DE LOS SANTOS, SEAWRIGHT -- read once and referred to the Committee on
+  Health -- ordered to a third reading, amended and  ordered  reprinted,
+  retaining its place on the order of third reading
  
  AN ACT to amend the public health law, in relation to requiring menstru-
-  al products in  public  colleges  and  universities;  in  relation  to
-  replacing the term "feminine hygiene" with "menstrual"
+  al products in public colleges and universities
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Title 6 of the public health law is amended by adding a new
- section 267-a to read as follows:
-  § 267-A. MENSTRUAL PRODUCTS IN PUBLIC COLLEGES AND  UNIVERSITIES.  ALL
+  Section 1. Title 6 of article 2 of the public health law is amended by
+ adding a new section 267-b to read as follows:
+  § 267-B. MENSTRUAL PRODUCTS IN PUBLIC COLLEGES AND  UNIVERSITIES.  ALL
  PUBLIC  COLLEGES  AND  UNIVERSITIES IN THE STATE SHALL PROVIDE MENSTRUAL
  PRODUCTS IN THE RESTROOMS OF SUCH SCHOOL  BUILDING  OR  BUILDINGS.  SUCH
  PRODUCTS SHALL BE PROVIDED AT NO CHARGE TO STUDENTS.
-  §  2.  Section  267 of the public health law, as added by section 1 of
- part Q of chapter 56 of the laws of 2018, is amended to read as follows:
-  § 267. [Feminine hygiene] MENSTRUAL products in schools. All elementa-
- ry and secondary public schools in the state  serving  students  in  any
- grade  from  grade  six  through  grade  twelve  shall provide [feminine
- hygiene] MENSTRUAL products in the restrooms of such school building  or
- buildings. Such products shall be provided at no charge to students.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
  
  
  
+ 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03087-02-3
+  LBD03087-05-4
