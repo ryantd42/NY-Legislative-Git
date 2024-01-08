@@ -1,6 +1,6 @@
 # Directs the commissioner to publicly publish an annual report on the environmental radiation surveillance program
 
-**Bill ID:** S2103BA
+**Bill ID:** S2103BB
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Directs the commissioner to publicly publish an annual report on the environment
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2103--A
+  2103--B
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 18, 2023
   ___________
  
- Introduced  by  Sens.  HARCKHAM,  GOUNARDES,  KRUEGER  -- read twice and
+ Introduced  by Sens. HARCKHAM, GOUNARDES, KRUEGER, MAY -- read twice and
   ordered printed, and when printed to be committed to the Committee  on
   Environmental  Conservation  --  committee  discharged,  bill amended,
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  recommitted  to the Committee on Environmental Conservation in accord-
+  ance with Senate Rule 6, sec. 8 -- committee discharged, bill amended,
   ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the  environmental  conservation  law,  in  relation  to
@@ -47,13 +50,12 @@ S T A T E  O F  N E W  Y O R K
  TO SHOW TRENDS AND THE CUMULATIVE IMPACT OF SUCH RADIOACTIVE RELEASES OR
  DISPOSALS;  PROVIDED  THAT  OTHER RELEVANT AGENCIES SHALL BE NOTIFIED IF
  CONTAMINATION HAS EXCEEDED STANDARDS FOR MAXIMUM ALLOWABLE LEVEL PERMIT-
- TED IN DRINKING WATER OR FOOD SOURCES, AS PRESCRIBED BY THE  U.S.  ENVI-
- RONMENTAL PROTECTION AGENCY.
-  § 2. This act shall take effect immediately.
- 
- 
+ TED IN DRINKING WATER OR FOOD SOURCES, AS PRESCRIBED BY APPLICABLE STATE
+ AND FEDERAL LAW;
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06387-02-3
+  LBD06387-05-4
