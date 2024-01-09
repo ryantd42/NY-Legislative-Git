@@ -1,6 +1,6 @@
 # Relates to the cancellation of a health club contract
 
-**Bill ID:** S932DB
+**Bill ID:** S932DC
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Requires health clubs accept cancellation of a membership within ten business da
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  932--B
+  932--C
+  Cal. No. 111
  
   2023-2024 Regular Sessions
  
@@ -25,13 +26,16 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sen. PERSAUD -- read twice and ordered printed, and when
-  printed to be committed to the Committee  on  Consumer  Protection  --
-  committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee  --  recommitted  to  the  Committee  on
-  Consumer  Protection  in  accordance  with  Senate  Rule  6, sec. 8 --
-  committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
+ Introduced  by Sens. PERSAUD, JACKSON -- read twice and ordered printed,
+  and when  printed  to  be  committed  to  the  Committee  on  Consumer
+  Protection -- committee discharged, bill amended, ordered reprinted as
+  amended  and  recommitted  to  said  committee  --  recommitted to the
+  Committee on Consumer Protection in accordance  with  Senate  Rule  6,
+  sec.  8  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee -- reported  favorably  from
+  said  committee,  ordered  to  first  report, amended on first report,
+  ordered to a second report and ordered reprinted, retaining its  place
+  in the order of second report
  
  AN  ACT  to amend the general business law, in relation to the cancella-
   tion of a health club contract
@@ -56,77 +60,82 @@ S T A T E  O F  N E W  Y O R K
  TWELVE point bold type: CONSUMERS RIGHT TO CANCELLATION. YOU MAY  CANCEL
  THIS CONTRACT WITHOUT ANY PENALTY OR FURTHER OBLIGATION WITHIN THREE (3)
  BUSINESS DAYS FROM THIS DATE . . . . . . Notice of cancellation shall be
- in  writing  subscribed by the buyer and mailed by [registered or certi-
- fied] United States mail OR ELECTRONIC MAIL to the seller at the address
- OR E-MAIL ADDRESS specified in such form. Such notice shall be  accompa-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01730-10-4
- S. 932--B  2
+  LBD01730-14-4
+ S. 932--C  2
  
+ in  writing  subscribed by the buyer and mailed by [registered or certi-
+ fied] United States mail OR ELECTRONIC MAIL to the seller at the address
+ OR E-MAIL ADDRESS specified in such form. Such notice shall be  accompa-
  nied  by the contract forms, membership cards and any other documents or
  evidence of membership previously delivered to the buyer.  All  moneys
  paid  pursuant to such contract shall be refunded within [fifteen] THREE
- business  days  of receipt of such notice of cancellation.  If the buyer
- has executed any credit or loan agreement to pay  for  all  or  part  of
- health  club  services,  any  such negotiable instrument executed by the
+ business days of receipt of such notice of cancellation.  If the  buyer
+ has  executed  any  credit  or  loan agreement to pay for all or part of
+ health club services, any such negotiable  instrument  executed  by  the
  buyer shall also be returned within [fifteen] THREE BUSINESS days.
   3. (A) Every contract for services shall provide that after such three
- BUSINESS day period for cancellation as provided in subdivision  two  of
- this  section,  the buyer's estate may cancel a contract for services if
- the buyer dies. The buyer may also cancel after three BUSINESS  days  if
- the  buyer  becomes  significantly  physically  disabled for a period in
- excess of [six] THREE months,  or  moves  [his]  THEIR  residence  to  a
- location  more than twenty-five miles from a health club operated by the
- seller, or after the services are no longer available  or  substantially
- available  as provided in the contract because of the seller's permanent
- discontinuance of operation or substantial change in operation.  Nothing
- contained  herein shall restrict or prohibit the seller from offering or
- providing in such contract additional or broader reasons  for  cancella-
- tion.  The  seller  may  require  reasonable evidence for a cancellation
+ BUSINESS  day  period for cancellation as provided in subdivision two of
+ this section, the buyer's estate may cancel a contract for  services  if
+ the  buyer  dies. The buyer may also cancel after three BUSINESS days if
+ the buyer becomes significantly physically  disabled  for  a  period  in
+ excess  of  [six]  THREE  months,  or  moves  [his] THEIR residence to a
+ location more than twenty-five miles from a health club operated by  the
+ seller,  or  after the services are no longer available or substantially
+ available as provided in the contract because of the seller's  permanent
+ discontinuance  of operation or substantial change in operation. Nothing
+ contained herein shall restrict or prohibit the seller from offering  or
+ providing  in  such contract additional or broader reasons for cancella-
+ tion. The seller may require  reasonable  evidence  for  a  cancellation
  pursuant to this subdivision.
-  (B) Such contract shall contain the following notice captioned  in  at
+  (B)  Such  contract shall contain the following notice captioned in at
  least [ten] TWELVE point bold type:
  ADDITIONAL RIGHTS TO CANCELLATION:
   You may also cancel this contract for any of the following reasons:
-  If  upon  a doctor's order, you cannot physically receive the services
- because of significant physical disability for a  period  in  excess  of
+  If upon a doctor's order, you cannot physically receive  the  services
+ because  of  significant  physical  disability for a period in excess of
  [six] THREE months.
-  If  you  die,  your estate shall be relieved of any further obligation
+  If you die, your estate shall be relieved of  any  further  obligation
  for payment under the contract not then due and owing.
   If you move your residence more than twenty-five miles from any health
  club operated by seller.
   If the services cease to be offered as stated in the contract.
-  (C) All moneys paid  pursuant  to  such  contract  cancelled  for  the
+  (C)  All  moneys  paid  pursuant  to  such  contract cancelled for the
  reasons contained in this subdivision shall be refunded within [fifteen]
- THREE  BUSINESS days of receipt of such notice of cancellation; provided
+ THREE BUSINESS days of receipt of such notice of cancellation;  provided
  however that the seller may retain the expenses incurred and the portion
- of the total price representing the  services  used  or  completed,  and
+ of  the  total  price  representing  the services used or completed, and
  further provided that the seller may demand the reasonable cost of goods
- and  services  which  the  buyer  has consumed or wishes to retain after
- cancellation of the contract. In no instance  shall  the  seller  demand
- more  than  the  full  contract  price  from the buyer. If the buyer has
- executed any credit or loan agreement to pay for all or part  of  health
- club  services,  any  such  negotiable  instrument executed by the buyer
+ and services which the buyer has consumed  or  wishes  to  retain  after
+ cancellation  of  the  contract.  In no instance shall the seller demand
+ more than the full contract price from  the  buyer.  If  the  buyer  has
+ executed  any  credit or loan agreement to pay for all or part of health
+ club services, any such negotiable  instrument  executed  by  the  buyer
  shall also be returned within [fifteen] THREE BUSINESS days.
   4. (A) EVERY CONTRACT FOR SERVICES SHALL PROVIDE THAT SUCH HEALTH CLUB
- SHALL ACCEPT CANCELLATION OF A MEMBERSHIP BY THE BUYER  OR  THE  BUYER'S
- ESTATE  WITHIN  THREE BUSINESS DAYS OF RECEIVING NOTICE OF THE CANCELLA-
- TION.
-  (B) FOR SUCH CANCELLATION OF A MEMBERSHIP TO BE ACCEPTED BY THE HEALTH
- CLUB WITHIN THREE BUSINESS DAYS  OF  RECEIVING  NOTICE  OF  CANCELLATION
- UNDER  THIS  SUBDIVISION, THE CANCELLATION SHALL BE SUBMITTED EITHER (I)
- WITHIN THE FIRST THIRTY-SIX HOURS OF THE PURCHASE OF  A  MEMBERSHIP,  OR
- (II)  AFTER  THE  FULL TERM OF THE MEMBERSHIP IS COMPLETED.  SUCH HEALTH
- CLUBS SHALL ACCEPT NOTICE OF CANCELLATION OF A MEMBERSHIP THROUGH  METH-
- S. 932--B  3
+ SHALL  ACCEPT  CANCELLATION  OF A MEMBERSHIP BY THE BUYER OR THE BUYER'S
+ ESTATE, AS PROVIDED IN THIS SECTION, NO LATER THAN THREE  BUSINESS  DAYS
+ OF RECEIVING NOTICE OF THE CANCELLATION.
+  (B)  WHERE  A  CONTRACT  FOR  SERVICES IS DUE FOR RENEWAL ON AN ANNUAL
+ BASIS, SUCH CONTRACT FOR SERVICES FOLLOWING THE INITIAL  CONTRACT  SHALL
+ PROVIDE  THAT SUCH HEALTH CLUB SHALL ACCEPT CANCELLATION OF RENEWAL OF A
+ MEMBERSHIP, BY THE BUYER OR THE BUYER'S ESTATE, PROVIDED SUCH REQUEST IS
+ S. 932--C  3
  
- ODS  INCLUDING, BUT NOT LIMITED TO, THE INTERNET, TELEPHONE, MAIL, OR IN
- PERSON.
-  (C)  IF  A  HEALTH  CLUB  ALLOWS  A BUYER TO ENTER INTO A CONTRACT FOR
+ MADE WITHIN FIFTEEN BUSINESS DAYS AFTER SUCH RENEWAL TAKES EFFECT. WHERE
+ A CONTRACT FOR SERVICE IS DUE FOR  RENEWAL  ON  A  MONTHLY  BASIS,  SUCH
+ CONTRACT  FOR SERVICES FOLLOWING THE INITIAL CONTRACT SHALL PROVIDE THAT
+ SUCH  HEALTH  CLUB  SHALL  ACCEPT  CANCELLATION  OF RENEWAL OF A MONTHLY
+ MEMBERSHIP, BY THE BUYER OR THE BUYER'S ESTATE PROVIDED SUCH REQUEST  IS
+ MADE WITHIN THREE BUSINESS DAYS AFTER SUCH RENEWAL TAKES EFFECT.
+  (C)  SUCH HEALTH CLUB SHALL ACCEPT NOTICE OF CANCELLATION OF A MEMBER-
+ SHIP THROUGH METHODS INCLUDING, BUT NOT LIMITED TO, WEBSITE,  ELECTRONIC
+ MAIL, TELEPHONE, MAIL, OR IN PERSON.
+  (D)  IF  A  HEALTH  CLUB  ALLOWS  A BUYER TO ENTER INTO A CONTRACT FOR
  SERVICES THROUGH A WEBSITE, SUCH HEALTH CLUB SHALL ACCEPT  A  NOTICE  OF
  CANCELLATION  OF  SUCH  CONTRACT THROUGH SUCH WEBSITE IN ADDITION TO THE
- METHODS PROVIDED PURSUANT TO PARAGRAPH (B) OF THIS SUBDIVISION.
-  §  2.  This  act shall take effect on the ninetieth day after it shall
+ METHODS PROVIDED PURSUANT TO PARAGRAPH (C) OF THIS SUBDIVISION.
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
