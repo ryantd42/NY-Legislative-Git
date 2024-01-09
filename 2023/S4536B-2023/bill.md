@@ -1,6 +1,6 @@
 # Relates to reimbursement for non-medical transportation for individuals with a substance use disorder to receive peer support services
 
-**Bill ID:** S4536BA
+**Bill ID:** S4536BB
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to reimbursement for non-medical transportation for individuals with a s
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4536--A
+  4536--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,10 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
   printed to be committed to the Committee on Alcoholism  and  Substance
   Abuse  --  committee  discharged,  bill  amended, ordered reprinted as
-  amended and recommitted to said committee
+  amended and recommitted  to  said  committee  --  recommitted  to  the
+  Committee on Alcoholism and Substance Use Disorders in accordance with
+  Senate  Rule  6, sec. 8 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the mental hygiene law, in relation to reimbursement for
   non-medical transportation for individuals with a substance use disor-
@@ -49,14 +52,13 @@ S T A T E  O F  N E W  Y O R K
  THE USE OF ANY FEDERAL GRANTS, INCLUDING STATE  OPIOID  RESPONSE  GRANTS
  AND  SUPPLEMENTAL SUBSTANCE ABUSE PREVENTION AND TREATMENT BLOCK GRANTS,
  TO SUPPORT SUCH REIMBURSEMENT. SUCH REIMBURSEMENT RATES SHALL BE  ESTAB-
- LISHED BY JANUARY FIRST, TWO THOUSAND TWENTY-FOUR.
+ LISHED BY APRIL FIRST, TWO THOUSAND TWENTY-FIVE.
   §  2.  This  act shall take effect on the ninetieth day after it shall
  have become a law.  Effective  immediately,  the  addition,  amendment
  and/or repeal of any rule or regulation necessary for the implementation
  of  this  act  on  its  effective  date  are  authorized  to be made and
  completed on or before such effective date.
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02502-03-3
+  LBD02502-05-4
