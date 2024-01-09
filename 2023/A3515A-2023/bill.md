@@ -1,6 +1,6 @@
 # Relates to granting peace officer status to park rangers in Erie county
 
-**Bill ID:** A3515A
+**Bill ID:** A3515AA
 **Session:** 2023
 **Sponsor:** Patrick Burke
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Grants park rangers in Erie county peace officer status to issue appearance tick
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3515
+  3515--A
  
   2023-2024 Regular Sessions
  
@@ -26,22 +26,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. BURKE -- read once and referred to the Committee
-  on Codes
+  on Codes -- recommitted to the Committee on Codes in  accordance  with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the criminal procedure  law,  in  relation  to  granting
+ AN  ACT  to  amend  the  criminal procedure law, in relation to granting
   peace officer status to park rangers in Erie county
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Section 2.10 of the criminal procedure law  is  amended  by
- adding a new subdivision 86 to read as follows:
-  86.  PARK  RANGERS  IN  ERIE  COUNTY, WHO SHALL BE AUTHORIZED TO ISSUE
- APPEARANCE TICKETS, SIMPLIFIED TRAFFIC  INFORMATIONS,  SIMPLIFIED  PARKS
- INFORMATIONS  AND  SIMPLIFIED  ENVIRONMENTAL  CONSERVATION INFORMATIONS;
- PROVIDED, HOWEVER, THAT NOTHING IN THIS SUBDIVISION SHALL BE  DEEMED  TO
+ 
+  Section  1.  Section  2.10 of the criminal procedure law is amended by
+ adding a new subdivision 87 to read as follows:
+  87. PARK RANGERS IN ERIE COUNTY, WHO  SHALL  BE  AUTHORIZED  TO  ISSUE
+ APPEARANCE  TICKETS,  SIMPLIFIED  TRAFFIC INFORMATIONS, SIMPLIFIED PARKS
+ INFORMATIONS AND  SIMPLIFIED  ENVIRONMENTAL  CONSERVATION  INFORMATIONS;
+ PROVIDED,  HOWEVER,  THAT NOTHING IN THIS SUBDIVISION SHALL BE DEEMED TO
  AUTHORIZE SUCH OFFICER TO CARRY, POSSESS, REPAIR OR DISPOSE OF A FIREARM
- UNLESS  THE  APPROPRIATE  LICENSE  THEREFOR  HAS BEEN ISSUED PURSUANT TO
+ UNLESS THE APPROPRIATE LICENSE THEREFOR  HAS  BEEN  ISSUED  PURSUANT  TO
  SECTION 400.00 OF THE PENAL LAW.
   § 2. This act shall take effect immediately.
  
@@ -49,7 +51,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03054-01-3
+  LBD03054-02-4
