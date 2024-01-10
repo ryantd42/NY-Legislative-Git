@@ -1,6 +1,6 @@
 # Relates to including information concerning repayment of outstanding loans in the standard financial aid award letter
 
-**Bill ID:** S1137A
+**Bill ID:** S1137AA
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to including information concerning repayment of outstanding loans in th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1137
+  1137--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sens. SANDERS, LIU, MANNION, MAY -- read twice and ordered
-  printed, and when printed to be committed to the Committee on Banks
- 
+  printed, and when printed to be committed to the Committee on Banks --
+  recommitted  to  the Committee on Banks in accordance with Senate Rule
+  6, sec. 8 -- committee discharged, bill amended, ordered reprinted  as
+  amended and recommitted to said committee
+
  AN  ACT  to  amend the banking law, in relation to including information
   concerning repayment of outstanding loans in  the  standard  financial
   aid award letter
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -53,25 +56,27 @@ S T A T E  O F  N E W  Y O R K
  an  explanation  as  to which components will require repayment, (c) any
  expected student and/or family contribution, (d) campus-specific  gradu-
  ation, median borrowing, and loan default rates, [and] (e) THE ESTIMATED
- LOAN  REPAYMENT  IMPACT  USING  A  STANDARD  TEN YEAR REPAYMENT TERM AND
- ASSUMED INTEREST RATE ON THE CURRENT AMOUNT OF OUTSTANDING LOANS INCLUD-
- ING TOTAL EXPECTED PAYOFF AMOUNT INCLUSIVE OF  PRINCIPAL  AND  INTEREST,
- AND  EXPECTED  MONTHLY  PAYMENT, AND (F) any other information as deter-
- mined by the superintendent in consultation  with  the  president.  Such
- standard  letter  shall  include  a glossary of standard terms and defi-
+ LOAN  REPAYMENT  IMPACT  USING ACTUAL TERMS, EXPECTED REPAYMENT SCHEDULE
+ AND PAYOFF AMOUNTS OR, WHERE SUCH INFORMATION IS NOT AVAILABLE OR  FIXED
+ IN  THE  LOAN  AGREEMENT, A STANDARD TEN YEAR REPAYMENT TERM AND ASSUMED
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04743-01-3
- S. 1137  2
+  LBD04743-02-4
+ S. 1137--A  2
  
- nitions used on such standard letter. The superintendent  shall  publish
- and  make  available  such standard letter by December thirty-first, two
- thousand fifteen and thereafter. Each college,  vocational  institution,
- and  any other institution that offers an approved program as defined in
- section six hundred one of the education law shall utilize the  standard
- letter  issued  by the department of financial services in responding to
- all  undergraduate  financial  aid  applicants  for  the  two  thousand
- sixteen--two thousand seventeen academic year and thereafter. The super-
- intendent shall promulgate regulations implementing this section.
+ INTEREST RATE ON THE CURRENT AMOUNT OF OUTSTANDING LOANS INCLUDING TOTAL
+ EXPECTED PAYOFF AMOUNT INCLUSIVE OF PRINCIPAL AND INTEREST, AND EXPECTED
+ MONTHLY PAYMENT, AND (F) any other  information  as  determined  by  the
+ superintendent  in consultation with the president. Such standard letter
+ shall include a glossary of standard terms and definitions used on  such
+ standard  letter.  The  superintendent  shall publish and make available
+ such standard letter by December thirty-first, two thousand fifteen  and
+ thereafter. Each college, vocational institution, and any other institu-
+ tion  that  offers an approved program as defined in section six hundred
+ one of the education law shall utilize the standard letter issued by the
+ department of financial services  in  responding  to  all  undergraduate
+ financial  aid  applicants  for  the  two thousand sixteen--two thousand
+ seventeen academic year and thereafter. The superintendent shall promul-
+ gate regulations implementing this section.
   § 2. This act shall take effect immediately.
