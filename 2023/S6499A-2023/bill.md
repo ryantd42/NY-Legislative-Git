@@ -1,6 +1,6 @@
 # Establishes an intensive addiction recovery and mental health integrated services pilot program
 
-**Bill ID:** S6499A
+**Bill ID:** S6499AA
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Stricken
@@ -16,7 +16,7 @@ Establishes an intensive addiction recovery and mental health integrated service
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6499
+  6499--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   April 24, 2023
   ___________
  
- Introduced  by Sens. KENNEDY, MAY -- read twice and ordered printed, and
-  when printed to be  committed  to  the  Committee  on  Alcoholism  and
-  Substance Use Disorders
+ Introduced  by  Sens.  KENNEDY,  ASHBY,  MAY,  ROLISON -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Alcoholism and Substance Use Disorders -- recommitted to the Committee
+  on  Alcoholism  and  Substance Use Disorders in accordance with Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT  to amend the mental hygiene law, in relation to establishing an
   intensive addiction recovery and  mental  health  integrated  services
@@ -55,27 +58,35 @@ S T A T E  O F  N E W  Y O R K
  ISSUES  AND  THEIR FAMILY, PEER SUPPORTS, AND TRANSPORTATION ASSISTANCE.
  SUCH SERVICES SHALL BE PRIMARILY PROVIDED IN THE COMMUNITY  OR  HOME  OF
  SUCH INDIVIDUAL, AS CLINICALLY AND SOCIALLY NECESSITATED.
-  2. NOT LATER THAN JUNE THIRTIETH, TWO THOUSAND TWENTY-SIX, AND ANNUAL-
- LY  THEREAFTER,  THE COMMISSIONER SHALL PROVIDE THE GOVERNOR, THE TEMPO-
- RARY PRESIDENT OF THE SENATE, THE SPEAKER OF THE ASSEMBLY, THE CHAIR  OF
- THE  SENATE  STANDING  COMMITTEE  ON  ALCOHOLISM AND DRUG ABUSE, AND THE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06362-01-3
- S. 6499  2
+  LBD06362-02-4
+ S. 6499--A  2
  
- CHAIR OF THE ASSEMBLY COMMITTEE ON ALCOHOLISM  AND  DRUG  ABUSE  WITH  A
- WRITTEN EVALUATION OF THE DEMONSTRATION PROGRAMS ESTABLISHED PURSUANT TO
- SUBDIVISION  ONE  OF THIS SECTION.  SUCH EVALUATION SHALL, AT A MINIMUM,
- ADDRESS  THE OVERALL EFFECTIVENESS OF SUCH DEMONSTRATION PROGRAMS, IDEN-
- TIFY BEST  PRACTICES  FOR  SERVICES  PROVIDED  UNDER  THE  DEMONSTRATION
- PROGRAMS AND ANY ADDITIONAL SERVICES THAT MAY BE APPROPRIATE WITHIN EACH
- TYPE  OF PROGRAM OPERATED, REGULATED, FUNDED, OR APPROVED BY THE OFFICE,
- AND ADDRESS WHETHER CONTINUATION  OR  EXPANSION  OF  THE  PILOT  PROGRAM
- ESTABLISHED  BY  SUBDIVISION  ONE  OF THIS SECTION IS RECOMMENDED.  THE
- WRITTEN EVALUATION SHALL BE MADE  PUBLICLY  AVAILABLE  ON  THE  OFFICE'S
- WEBSITE.
-  §  3.  This act shall take effect April 1, 2024 and shall expire March
- 31, 2027 when upon such date the provisions of this act shall be  deemed
- repealed.
+  2.  WITHIN ONE YEAR AFTER THE CONCLUSION OF THE DEMONSTRATION PROGRAM,
+ THE COMMISSIONER SHALL PROVIDE THE GOVERNOR, THE TEMPORARY PRESIDENT  OF
+ THE  SENATE, THE SPEAKER OF THE ASSEMBLY, THE CHAIR OF THE SENATE STAND-
+ ING COMMITTEE ON ALCOHOLISM AND DRUG ABUSE, AND THE CHAIR OF THE  ASSEM-
+ BLY  COMMITTEE ON ALCOHOLISM AND DRUG ABUSE WITH A WRITTEN EVALUATION OF
+ THE DEMONSTRATION PROGRAMS ESTABLISHED PURSUANT TO  SUBDIVISION  ONE  OF
+ THIS  SECTION.  SUCH EVALUATION SHALL, AT A MINIMUM, ADDRESS THE OVERALL
+ EFFECTIVENESS OF SUCH DEMONSTRATION PROGRAMS,  IDENTIFY  BEST  PRACTICES
+ FOR  SERVICES  PROVIDED  UNDER  THE DEMONSTRATION PROGRAMS AND ANY ADDI-
+ TIONAL SERVICES THAT MAY BE APPROPRIATE  WITHIN  EACH  TYPE  OF  PROGRAM
+ OPERATED,  REGULATED,  FUNDED,  OR  APPROVED  BY THE OFFICE, AND ADDRESS
+ WHETHER CONTINUATION OR EXPANSION OF THE PILOT  PROGRAM  ESTABLISHED  BY
+ SUBDIVISION  ONE OF THIS SECTION IS RECOMMENDED.  THE WRITTEN EVALUATION
+ SHALL BE MADE PUBLICLY AVAILABLE ON THE OFFICE'S WEBSITE.
+  § 3. This act shall take effect April 1, 2025 and shall expire on  the
+ ninetieth  day  following  the  submission  of  the report provided for
+ pursuant to subdivision 2 of section 19.18-d of the mental  hygiene  law
+ as  added by section two of this act, when upon such date the provisions
+ of this act shall be deemed repealed; provided that the commissioner  of
+ the  office of addiction services and supports shall notify the legisla-
+ tive bill drafting commission upon the occurrence of the  submission  of
+ such  report  provided  for in section two of this act in order that the
+ commission may maintain an accurate and timely effective  data  base  of
+ the official text of the laws of the state of New York in furtherance of
+ effectuating  the  provisions  of  section 44 of the legislative law and
+ section 70-b of the public officers law.
