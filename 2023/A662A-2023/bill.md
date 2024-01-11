@@ -1,6 +1,6 @@
 # Relates to the exercise of powers and duties of the board of elections of the city of New York and its executive management
 
-**Bill ID:** A662A
+**Bill ID:** A662AA
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the exercise of powers and duties of the board of elections of the ci
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  662
+  662--A
  
   2023-2024 Regular Sessions
  
@@ -27,7 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A.  ROZIC,  BICHOTTE HERMELYN, SIMON, GALLAGHER,
   ANDERSON, BURGOS, CARROLL, SEAWRIGHT, HEVESI,  L. ROSENTHAL,  MAMDANI,
-  REYES -- read once and referred to the Committee on Election Law
+  REYES  --  read  once and referred to the Committee on Election Law --
+  recommitted to the Committee on Election Law in accordance with Assem-
+  bly Rule 3, sec. 2 --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT to amend the election law, in relation to the exercise of powers
   and duties of the board of elections of the city of New York  and  its
@@ -56,131 +59,131 @@ S T A T E  O F  N E W  Y O R K
  of 1978, are amended to read as follows:
   Boards  of  elections;  creation,  qualifications  of  commissioners,
  removal; ADDITIONAL QUALIFICATIONS AND TRAINING IN THE CITY OF NEW YORK.
-  3.  In  the  city  of  New  York  the board shall consist of [ten] TWO
- commissioners of election who [shall be registered voters in the  county
- for  which  they  are appointed and they] shall be appointed by the city
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02544-01-3
- A. 662  2
+  LBD02544-03-4
+ A. 662--A  2
  
+  3.  In  the  city  of  New  York  the board shall consist of [ten] TWO
+ commissioners of election who [shall be registered voters in the  county
+ for  which  they  are appointed and they] shall be appointed by the city
  council of the city of New York. [Not more than two commissioners  shall
  be  registered  voters  of  the same county] NO TWO COMMISSIONERS MAY BE
  RESIDENTS OF THE SAME COUNTY OR REGISTERED VOTERS OF THE SAME PARTY.
   § 3. Subdivisions 2 and 4 of section 3-204 of the election law, subdi-
- vision  2 as amended by chapter 453 of the laws of 1997, and subdivision
- 4 as amended by chapter 116 of the laws of 2010, are amended to read  as
+ vision 2 as amended by chapter 453 of the laws of 1997, and  subdivision
+ 4  as amended by chapter 116 of the laws of 2010, are amended to read as
  follows:
-  2.  (A)  Party recommendations for election commissioner shall be made
- by the county committee or by such other committee as the rules  of  the
- party  may  provide, by a majority of the votes cast at a meeting of the
+  2. (A) Party recommendations for election commissioner shall  be  made
+ by  the  county committee or by such other committee as the rules of the
+ party may provide, by a majority of the votes cast at a meeting  of  the
  members of such committee at which a quorum is present. If at any time a
- vacancy occurs in the office of any election commissioner other than  by
+ vacancy  occurs in the office of any election commissioner other than by
  expiration of term of office, party recommendations to fill such vacancy
- shall  be made by the county committee or by such other committee as the
- rules of the party may provide, by a majority of the  votes  cast  at  a
+ shall be made by the county committee or by such other committee as  the
+ rules  of  the  party  may provide, by a majority of the votes cast at a
  meeting of the members of such committee at which a quorum is present.
   (B) PARTY RECOMMENDATIONS FOR ELECTION COMMISSIONER IN THE CITY OF NEW
- YORK  OR  TO  FILL  A VACANCY IN SUCH OFFICE SHALL BE MADE BY THE COUNTY
- COMMITTEE OR BY SUCH OTHER COMMITTEE AS  THE  RULES  OF  THE  PARTY  MAY
- PROVIDE,  BY A MAJORITY OF THE VOTES CAST AT A MEETING OF THE MEMBERS OF
- SUCH COMMITTEE AT WHICH A QUORUM IS PRESENT.  EACH PARTY  SHALL,  WITHIN
+ YORK OR TO FILL A VACANCY IN SUCH OFFICE SHALL BE  MADE  BY  THE  COUNTY
+ COMMITTEE  OR  BY  SUCH  OTHER  COMMITTEE  AS THE RULES OF THE PARTY MAY
+ PROVIDE, BY A MAJORITY OF THE VOTES CAST AT A MEETING OF THE MEMBERS  OF
+ SUCH  COMMITTEE  AT WHICH A QUORUM IS PRESENT.  EACH PARTY SHALL, WITHIN
  SIXTY DAYS OF A VACANCY, FILE A CERTIFICATE OF PARTY RECOMMENDATION WITH
- THE  CLERK  OF THE CITY COUNCIL OF THE CITY OF NEW YORK RECOMMENDING ONE
- INDIVIDUAL FOR CONSIDERATION TO SERVE AS A  COMMISSIONER  OF  ELECTIONS.
- THE  CITY  COUNCIL  SHALL  IMMEDIATELY, OR AS SOON AS PRACTICABLE BUT NO
- MORE THAN THIRTY DAYS THEREAFTER, HOLD A PUBLIC HEARING ON  SUCH  RECOM-
- MENDATIONS  AND  PROVIDED  FURTHER,  NO MORE THAN THIRTY DAYS THEREAFTER
+ THE CLERK OF THE CITY COUNCIL OF THE CITY OF NEW YORK  RECOMMENDING  ONE
+ INDIVIDUAL  FOR  CONSIDERATION  TO SERVE AS A COMMISSIONER OF ELECTIONS.
+ THE CITY COUNCIL SHALL IMMEDIATELY, OR AS SOON  AS  PRACTICABLE  BUT  NO
+ MORE  THAN  THIRTY DAYS THEREAFTER, HOLD A PUBLIC HEARING ON SUCH RECOM-
+ MENDATIONS AND PROVIDED FURTHER, NO MORE  THAN  THIRTY  DAYS  THEREAFTER
  CONFIRM AN INDIVIDUAL FOR SUCH POSITION.
   4. Commissioners of election shall be appointed by the county legisla-
- tive body, or in the city of New York, by the city council  FOLLOWING  A
- PUBLIC  HEARING.  Provided,  however, that if a legislative body shall
- fail to appoint any person recommended by a party for appointment  as  a
- commissioner  pursuant  to  this  section,  within thirty days after the
- filing of a certificate of recommendation with  such  legislative  body,
- then  the  members of such legislative body who are members of the poli-
- tical party which filed such certificate may appoint  such  person.  And
- further  provided,  if  there are no members of the legislative body who
- are members of the political party which  filed  such  certificate,  the
- appointment  shall  take  effect upon the expiration of thirty days from
+ tive  body,  or in the city of New York, by the city council FOLLOWING A
+ PUBLIC HEARING.  Provided, however, that if  a  legislative  body  shall
+ fail  to  appoint any person recommended by a party for appointment as a
+ commissioner pursuant to this section,  within  thirty  days  after  the
+ filing  of  a  certificate of recommendation with such legislative body,
+ then the members of such legislative body who are members of  the  poli-
+ tical  party  which  filed such certificate may appoint such person. And
+ further provided, if there are no members of the  legislative  body  who
+ are  members  of  the  political party which filed such certificate, the
+ appointment shall take effect upon the expiration of  thirty  days  from
  the date that the certificate was filed. If none of the persons named in
- any of the certificates filed by a party are so appointed  within  sixty
- days  after the filing of any such certificate, then such party may file
- another certificate within thirty days after the expiration of any  such
- sixty  day  period recommending a different person for such appointment.
- If a party fails to file a certificate within  the  time  prescribed  by
- this  section,  the  members  of the legislative body who are members of
+ any  of  the certificates filed by a party are so appointed within sixty
+ days after the filing of any such certificate, then such party may  file
+ another  certificate within thirty days after the expiration of any such
+ sixty day period recommending a different person for  such  appointment.
+ If  a  party  fails  to file a certificate within the time prescribed by
+ this section, the members of the legislative body  who  are  members  of
  such party may appoint any eligible person to such office.
-  § 4. The section heading of section  3-212  of  the  election  law  is
+  §  4.  The  section  heading  of  section 3-212 of the election law is
  amended and a new subdivision 6 is added to read as follows:
-  Boards  of  elections; organization, proceedings, reports and records;
+  Boards of elections; organization, proceedings, reports  and  records;
  BUDGET REPORTING IN THE CITY OF NEW YORK.
-  6. IF, AT ANY TIME DURING THE CITY FISCAL YEAR  OF  THE  CITY  OF  NEW
+  6.  IF,  AT  ANY  TIME  DURING THE CITY FISCAL YEAR OF THE CITY OF NEW
  YORK, THE DIRECTOR OF MANAGEMENT AND BUDGET OF SUCH CITY DETERMINES THAT
- THE  EXPENDITURES  OF THE BOARD OF ELECTIONS OF THE CITY OF NEW YORK ARE
- REASONABLY LIKELY TO EXCEED APPROPRIATIONS TO SUCH BOARD  FOR  PERSONNEL
- SERVICES  OR  OTHER  THAN PERSONNEL SERVICES FOR A QUARTER OF THE FISCAL
- A. 662  3
+ A. 662--A  3
  
- YEAR, BASED UPON A REASONABLE ALLOTMENT BY SUCH DIRECTOR OF SUCH  APPRO-
- PRIATIONS  TO SUCH QUARTER, OR FOR THE ENTIRE FISCAL YEAR, SUCH DIRECTOR
- SHALL PROVIDE WRITTEN NOTICE OF  SUCH  DETERMINATION  TO  THE  EXECUTIVE
- DIRECTOR  OF SUCH BOARD, THE MAYOR OF SUCH CITY, THE SPEAKER OF THE CITY
- COUNCIL OF SUCH CITY, AND THE PUBLIC ADVOCATE  OF  SUCH  CITY,  TOGETHER
- WITH  ANY  RELEVANT REQUESTS FOR ADDITIONAL DATA OR INFORMATION THAT THE
- DIRECTOR DETERMINES TO BE MATERIAL TO SUCH  BOARD'S  LEVEL  OF  EXPENDI-
- TURES.  WITHIN  TWENTY  DAYS  OF  RECEIVING  SUCH NOTICE, SUCH EXECUTIVE
- DIRECTOR SHALL SUBMIT TO  SUCH  DIRECTOR,  MAYOR,  PUBLIC  ADVOCATE  AND
- SPEAKER  A  PROJECTION  OF WHETHER AND BY WHAT AMOUNT IT WILL EXCEED ITS
- APPROPRIATIONS FOR PERSONNEL SERVICES AND OTHER THAN PERSONNEL  SERVICES
- FOR  EACH  QUARTER  AND THE ENTIRE FISCAL YEAR, TOGETHER WITH A DETAILED
- EXPLANATION OF THE NEEDS JUSTIFYING ANY SUCH PROJECTED  EXCESS  EXPENDI-
- TURES.  NOTHING  IN THIS SUBDIVISION SHALL BE CONSTRUED TO PREVENT THE
- DIRECTOR FROM REQUIRING THE FURNISHING  OF  DATA  AND  INFORMATION,  AND
- ANSWERS  TO  PERTINENT INQUIRIES, AT ANY TIME IN ACCORDANCE WITH SECTION
+ THE EXPENDITURES OF THE BOARD OF ELECTIONS OF THE CITY OF NEW  YORK  ARE
+ REASONABLY  LIKELY  TO EXCEED APPROPRIATIONS TO SUCH BOARD FOR PERSONNEL
+ SERVICES OR OTHER THAN PERSONNEL SERVICES FOR A QUARTER  OF  THE  FISCAL
+ YEAR,  BASED UPON A REASONABLE ALLOTMENT BY SUCH DIRECTOR OF SUCH APPRO-
+ PRIATIONS TO SUCH QUARTER, OR FOR THE ENTIRE FISCAL YEAR, SUCH  DIRECTOR
+ SHALL  PROVIDE  WRITTEN  NOTICE  OF  SUCH DETERMINATION TO THE EXECUTIVE
+ DIRECTOR OF SUCH BOARD, THE MAYOR OF SUCH CITY, THE SPEAKER OF THE  CITY
+ COUNCIL  OF  SUCH  CITY,  AND THE PUBLIC ADVOCATE OF SUCH CITY, TOGETHER
+ WITH ANY RELEVANT REQUESTS FOR ADDITIONAL DATA OR INFORMATION  THAT  THE
+ DIRECTOR  DETERMINES  TO  BE  MATERIAL TO SUCH BOARD'S LEVEL OF EXPENDI-
+ TURES. WITHIN TWENTY DAYS  OF  RECEIVING  SUCH  NOTICE,  SUCH  EXECUTIVE
+ DIRECTOR  SHALL  SUBMIT  TO  SUCH  DIRECTOR,  MAYOR, PUBLIC ADVOCATE AND
+ SPEAKER A PROJECTION OF WHETHER AND BY WHAT AMOUNT IT  WILL  EXCEED  ITS
+ APPROPRIATIONS  FOR PERSONNEL SERVICES AND OTHER THAN PERSONNEL SERVICES
+ FOR EACH QUARTER AND THE ENTIRE FISCAL YEAR, TOGETHER  WITH  A  DETAILED
+ EXPLANATION  OF  THE NEEDS JUSTIFYING ANY SUCH PROJECTED EXCESS EXPENDI-
+ TURES.  NOTHING IN THIS SUBDIVISION SHALL BE CONSTRUED  TO  PREVENT  THE
+ DIRECTOR  FROM  REQUIRING  THE  FURNISHING  OF DATA AND INFORMATION, AND
+ ANSWERS TO PERTINENT INQUIRIES, AT ANY TIME IN ACCORDANCE  WITH  SECTION
  TWO HUNDRED TWENTY-FIVE OF THE NEW YORK CITY CHARTER.
   § 5. Section 3-300 of the election law is amended to read as follows:
-  § 3-300. Board employees; appointment. [Every] 1. EXCEPT  AS  PROVIDED
- IN  SUBDIVISION  TWO  OF  THIS  SECTION,  EVERY board of elections shall
+  §  3-300.  Board employees; appointment. [Every] 1. EXCEPT AS PROVIDED
+ IN SUBDIVISION TWO OF THIS  SECTION,  EVERY  board  of  elections  shall
  appoint, and at its pleasure remove, clerks, voting machine technicians,
- custodians and  other  employees,  fix  their  number,  prescribe  their
- duties,  fix  their  titles and rank and establish their salaries within
- the amounts appropriated therefor by the  local  legislative  body  [and
- shall  secure  in the appointment of employees of the board of elections
+ custodians  and  other  employees,  fix  their  number,  prescribe their
+ duties, fix their titles and rank and establish  their  salaries  within
+ the  amounts  appropriated  therefor  by the local legislative body [and
+ shall secure in the appointment of employees of the board  of  elections
  equal representation of the major political parties]. Every commissioner
- in each board of elections except for  commissioners  of  the  board  of
- elections  of the city of New York, may approve and at pleasure remove a
+ in  each  board  of  elections  except for commissioners of the board of
+ elections of the city of New York, may approve and at pleasure remove  a
  deputy, establish his OR HER title and prescribe his OR HER duties. [In]
-  2. THERE SHALL BE EQUAL REPRESENTATION OF THE MAJOR POLITICAL  PARTIES
+  2.  THERE SHALL BE EQUAL REPRESENTATION OF THE MAJOR POLITICAL PARTIES
  AMONG THOSE EMPLOYEES OF THE BOARD OF ELECTIONS CHARGED WITH THE DUTY OF
  QUALIFYING VOTERS, DISTRIBUTING BALLOTS TO VOTERS, OR RECEIVING, RECORD-
  ING OR COUNTING VOTES AT ELECTIONS.
   3. (A) NOTWITHSTANDING ANY PROVISION OF GENERAL, SPECIAL OR LOCAL LAW,
  IN the city of New York, [the board of elections shall appoint] an exec-
  utive director [and a deputy executive director whose duties it shall be
- to  supervise  the operations of the board of elections under the super-
+ to supervise the operations of the board of elections under  the  super-
  vision of such board] SHALL BE APPOINTED AND MAY BE REMOVED, IN A MANNER
- SET FORTH IN PARAGRAPH (B) OF THIS SUBDIVISION. IT SHALL BE  THEIR  DUTY
+ SET  FORTH  IN PARAGRAPH (B) OF THIS SUBDIVISION. IT SHALL BE THEIR DUTY
  TO SUPERVISE THE OPERATIONS OF THE BOARD OF ELECTIONS IN ACCORDANCE WITH
- THIS  SUBDIVISION.  THE EXECUTIVE DIRECTOR SHALL BE SELECTED FOLLOWING A
- NATIONWIDE SEARCH FOR QUALIFIED AND EXPERIENCED CANDIDATES.  THEY  SHALL
+ THIS SUBDIVISION. THE EXECUTIVE DIRECTOR SHALL BE SELECTED  FOLLOWING  A
+ NATIONWIDE  SEARCH  FOR QUALIFIED AND EXPERIENCED CANDIDATES. THEY SHALL
  SERVE A TERM OF FOUR YEARS.
-  (B)  THE  BOARD  OF ELECTIONS OF THE CITY OF NEW YORK SHALL ADVISE THE
- EXECUTIVE DIRECTOR ON MATTERS OF POLICY AFFECTING THE ADMINISTRATION  OF
- ELECTIONS  IN THE CITY OF NEW YORK. EXCEPT AS EXPRESSLY PROVIDED IN THIS
+  (B) THE BOARD OF ELECTIONS OF THE CITY OF NEW YORK  SHALL  ADVISE  THE
+ EXECUTIVE  DIRECTOR ON MATTERS OF POLICY AFFECTING THE ADMINISTRATION OF
+ ELECTIONS IN THE CITY OF NEW YORK. EXCEPT AS EXPRESSLY PROVIDED IN  THIS
  SUBDIVISION, SUCH BOARD SHALL EXERCISE NO EXECUTIVE POWER AND PERFORM NO
- EXECUTIVE OR ADMINISTRATIVE FUNCTIONS. EXCEPT AS EXPRESSLY  PROVIDED  IN
- THIS  SUBDIVISION,  SUCH  BOARD  SHALL  MAKE NO INDIVIDUALIZED DECISIONS
- CONCERNING THE EMPLOYMENT OF ANY SPECIFIC PERSON  OR  THE  REGISTRATION,
- PRE-REGISTRATION,  ENROLLMENT OR QUALIFICATIONS OF ANY SPECIFIC VOTER OR
- APPLICANT. NOTHING IN THIS SUBDIVISION SHALL BE CONSTRUED TO REQUIRE  OR
- AUTHORIZE  THE  DAY-TO-DAY  SUPERVISION OF THE EXECUTIVE DIRECTOR BY THE
+ EXECUTIVE  OR  ADMINISTRATIVE FUNCTIONS. EXCEPT AS EXPRESSLY PROVIDED IN
+ THIS SUBDIVISION, SUCH BOARD  SHALL  MAKE  NO  INDIVIDUALIZED  DECISIONS
+ CONCERNING  THE  EMPLOYMENT  OF ANY SPECIFIC PERSON OR THE REGISTRATION,
+ PRE-REGISTRATION, ENROLLMENT OR QUALIFICATIONS OF ANY SPECIFIC VOTER  OR
+ APPLICANT.  NOTHING IN THIS SUBDIVISION SHALL BE CONSTRUED TO REQUIRE OR
+ AUTHORIZE THE DAY-TO-DAY SUPERVISION OF THE EXECUTIVE  DIRECTOR  BY  THE
+ A. 662--A  4
+ 
  BOARD. THE BOARD MAY DELEGATE POWERS AND DUTIES CONFERRED UPON THE BOARD
  TO THE EXECUTIVE DIRECTOR, TO BE EXERCISED CONSISTENT WITH PARAGRAPH (E)
- OF THIS SUBDIVISION. IN THE CASE OF A  VACANCY,  AN  EXECUTIVE  DIRECTOR
- A. 662  4
-
+ OF  THIS  SUBDIVISION.  IN  THE CASE OF A VACANCY, AN EXECUTIVE DIRECTOR
  SHALL  BE APPOINTED TO SERVE THE REMAINDER OF THE UNEXPIRED TERM ACCORD-
  ING TO THE ORIGINAL MANNER OF  APPOINTMENT  OF  THE  PREVIOUS  EXECUTIVE
  DIRECTOR.
@@ -191,7 +194,7 @@ S T A T E  O F  N E W  Y O R K
  VISION  BY CONCURRING ACTION OF AT LEAST TWO OF SUCH OFFICIALS, PROVIDED
  THAT THE MAYOR SHALL BE ONE OF THE CONCURRING OFFICIALS.
   (2) NO EARLIER THAN THE FIRST DAY OF JANUARY AND  NO  LATER  THAN  THE
- FIRST  DAY OF FEBRUARY IN TWO THOUSAND TWENTY-FOUR AND IN EVERY CALENDAR
+ FIRST  DAY OF FEBRUARY IN TWO THOUSAND TWENTY-FIVE AND IN EVERY CALENDAR
  YEAR THEREAFTER DURING WHICH THE FOUR-YEAR TERM OF THE EXECUTIVE  DIREC-
  TOR IS TO EXPIRE, THE COMMISSIONERS OF ELECTION FOR EACH POLITICAL PARTY
  SHALL  FILE  ONE  OR  MORE CERTIFICATES OF PARTY RECOMMENDATION WITH THE
@@ -217,7 +220,7 @@ S T A T E  O F  N E W  Y O R K
   (4)  CANDIDATES  CONSIDERED  FOR  EXECUTIVE  DIRECTOR MUST SATISFY ALL
  QUALIFICATIONS REQUIRED FOR LOCAL OFFICERS PURSUANT TO THE PUBLIC  OFFI-
  CERS  LAW.  FURTHER,  NO  LATER THAN DECEMBER THIRTY-FIRST, TWO THOUSAND
- TWENTY-THREE, THE STATE BOARD OF ELECTIONS  SHALL  PRESCRIBE  ADDITIONAL
+ TWENTY-FOUR, THE STATE BOARD OF  ELECTIONS  SHALL  PRESCRIBE  ADDITIONAL
  QUALIFICATIONS FOR THE POSITION OF EXECUTIVE DIRECTOR, WHICH SHALL APPLY
  TO RECOMMENDATIONS AND APPOINTMENTS MADE THEREAFTER. SUCH QUALIFICATIONS
  SHALL THEREAFTER BE REVIEWED BY SUCH  BOARD AT  LEAST EVERY  TWO YEARS
@@ -234,10 +237,10 @@ S T A T E  O F  N E W  Y O R K
  EARLIER THAN THE FIRST DAY OF JANUARY AND NO LATER THAN THE THIRTY-FIRST
  DAY  OF  JANUARY IN THE LAST YEAR OF THE TERM OF THE EXECUTIVE DIRECTOR,
  THE APPOINTING AUTHORITIES AND COMMISSIONERS OF ELECTION, MAY  AGREE  TO
+ A. 662--A  5
+ 
  ISSUE A CERTIFICATE OF PARTY RECOMMENDATION AND APPOINTMENT TO REAPPOINT
  SUCH  EXECUTIVE  DIRECTOR TO ANOTHER TERM OF OFFICE.  IN SUCH EVENT, THE
- A. 662  5
- 
  PROCESS OTHERWISE SPECIFIED IN SUBPARAGRAPHS TWO, THREE AND FOUR OF THIS
  PARAGRAPH SHALL NOT APPLY.
   (7)  AN  EXECUTIVE DIRECTOR MAY BE REMOVED FROM OFFICE  FOR  CAUSE  BY
@@ -273,7 +276,7 @@ S T A T E  O F  N E W  Y O R K
  ITIVE  SEALED  BIDDING  WHERE  THE  CONTRACT  WAS  AWARDED TO THE LOWEST
  RESPONSIBLE BIDDER;
   (II) SUCH CONTRACT PROVIDES  FOR  TECHNICAL,  CONSULTANT  OR  PERSONAL
- SERVICES;
+ SERVICES; AND
   (III) THE VALUE OF THE CONTRACT EXCEEDS OR PROJECTS AN ANNUAL EXPENDI-
  TURE  EXCEEDING  ONE  MILLION  DOLLARS  FOR THE FISCAL YEAR OR WHERE THE
  VALUE OF ANY CONTRACTS AWARDED TO A SINGLE ENTITY EXCEEDS OR IS PROJECT-
@@ -292,10 +295,10 @@ S T A T E  O F  N E W  Y O R K
  LIMITED TO:
   (1) APPOINTING, AND AT THEIR PLEASURE  REMOVING,  A  DEPUTY  DIRECTOR,
  CLERKS,  VOTING  MACHINE  TECHNICIANS,  CUSTODIANS  AND OTHER EMPLOYEES,
+ A. 662--A  6
+ 
  FIXING THEIR NUMBER, PRESCRIBING THEIR DUTIES, FIXING THEIR  TITLES  AND
  RANK  AND  ESTABLISHING  THEIR  SALARIES WITHIN THE AMOUNTS APPROPRIATED
- A. 662  6
- 
  THEREFOR IN THE EXPENSE BUDGET OF THE CITY OF NEW  YORK,  PROVIDED  THAT
  THIS SUBPARAGRAPH SHALL NOT AFFECT THE FIXING OF A DAILY RATE OF COMPEN-
  SATION PURSUANT TO SUBDIVISION ONE OF SECTION 3-420 OF THIS ARTICLE.  IN
@@ -350,10 +353,10 @@ S T A T E  O F  N E W  Y O R K
  OR SPECIFICALLY TO THE BOARD OF ELECTIONS OF THE CITY OF  NEW  YORK,  IN
  ALL OTHER MATTERS RELATED TO THE ADMINISTRATION OF ELECTIONS IN THE CITY
  OF NEW YORK NOT OTHERWISE SPECIFIED IN THIS SUBDIVISION.
+ A. 662--A  7
+ 
   (F)  NOTWITHSTANDING ANY INCONSISTENT PROVISION OF LAW, IN LIEU OF ANY
  OTHERWISE APPLICABLE  LAW  CONCERNING  PUBLIC  CONDUCT  OF  BUSINESS  OR
- A. 662  7
- 
  RENDERING  OF  DETERMINATIONS  BY  THE  EXECUTIVE  DIRECTOR,  THEY SHALL
  PROVIDE INFORMATION TO THE BOARD OF ELECTIONS OF THE CITY  OF  NEW  YORK
  AND THE PUBLIC IN ACCORDANCE WITH THIS PARAGRAPH.
@@ -408,16 +411,16 @@ S T A T E  O F  N E W  Y O R K
  election  law,  as  amended  by  section five of this act, the executive
  director or deputy executive director of the board of elections  of  the
  city  of  New  York  appointed  by such board and representative of such
+ A. 662--A  8
+ 
  party shall perform the functions assigned to the  applicable  executive
  director by such section of the election law, as amended by this act, or
- A. 662  8
- 
  any  other  law.  Further,  while  remaining in office, such executive
- director and deputy executive director shall be subject to  removal  and
- replacement  by  action of such board, consistent with the provisions of
+ director  and  deputy executive director shall be subject to removal and
+ replacement by action of such board, consistent with the  provisions  of
  section 3-300 of the election law as such section was in existence prior
  to  its  amendment  by this act.  If an executive director has not been
- appointed by May 1, 2024, the status of the executive director or deputy
+ appointed by May 1, 2025, the status of the executive director or deputy
  executive director appointed by such board  and  representative  of  the
  applicable  political  party  shall  terminate,  and the new position of
  executive director shall be deemed  in  existence  and  vacant  for  all
@@ -431,6 +434,6 @@ S T A T E  O F  N E W  Y O R K
  this end the provisions of this act are declared to be severable.
   § 10. This act shall take effect immediately; provided, however,  that
  sections  one, three, four, and five of this act shall take effect Janu-
- ary 1, 2024; and provided further, however, that sections six, seven and
+ ary 1, 2025; and provided further, however, that sections six, seven and
  eight of this act shall take effect on the sixtieth day after  it  shall
  have become a law.
