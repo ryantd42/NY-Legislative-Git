@@ -1,6 +1,6 @@
 # Provides for the adjustment of the minimum amount of tax delinquency for which the driver's license of a taxpayer may be suspended
 
-**Bill ID:** S1147A
+**Bill ID:** S1147AA
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for the adjustment of the minimum amount of tax delinquency for which t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1147
+  1147--A
  
   2023-2024 Regular Sessions
  
@@ -27,44 +27,47 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sens. KRUEGER, BAILEY, LIU, MAY -- read twice and ordered
   printed, and when printed to be committed to the Committee on Investi-
-  gations and Government Operations
+  gations and Government Operations -- recommitted to the  Committee  on
+  Investigations  and  Government  Operations  in accordance with Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the tax law, in relation to the  enforcement  of  delin-
-  quent  tax liabilities by means of the suspension of licenses to oper-
+ AN  ACT  to  amend the tax law, in relation to the enforcement of delin-
+  quent tax liabilities by means of the suspension of licenses to  oper-
   ate a motor vehicle
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivisions  1, 3 and 5 of section 171-v of the tax law,
- subdivision 1 as added by section 1 of part P of chapter 59 of the  laws
+  Section 1. Subdivisions 1, 3 and 5 of section 171-v of  the  tax  law,
+ subdivision  1 as added by section 1 of part P of chapter 59 of the laws
  of 2013, and subdivisions 3 and 5 as amended by section 1 of part EEE of
  chapter 59 of the laws of 2019, are amended to read as follows:
-  (1)  The  commissioner  shall  enter into a written agreement with the
+  (1) The commissioner shall enter into a  written  agreement  with  the
  commissioner of motor vehicles, which shall set forth the procedures for
- the two departments to cooperate in a program to improve tax  collection
- through  the  suspension of drivers' licenses of taxpayers with past-due
+ the  two departments to cooperate in a program to improve tax collection
+ through the suspension of drivers' licenses of taxpayers  with  past-due
  tax liabilities equal to or in excess of ten thousand dollars MULTIPLIED
- BY THE APPLICABLE INFLATION  ADJUSTMENT.  For  the  purposes  of  this
- section,  the  term  "tax liabilities" shall mean any tax, surcharge, or
- fee administered by the commissioner, or any penalty or interest due  on
- these  amounts  owed  by an individual with a New York driver's license,
- the term "driver's license" means any license issued by  the  department
- of  motor  vehicles, except for a commercial driver's license as defined
- in section five hundred one-a of the vehicle and traffic  law,  and  the
- term  "past-due  tax liabilities" means any tax liability or liabilities
- which have become fixed and final such that the taxpayer no  longer  has
- any  right  to  administrative  or  judicial review, AND THE "APPLICABLE
- INFLATION ADJUSTMENT" FOR A CALENDAR YEAR SHALL BE DETERMINED UNDER  THE
- PRINCIPLES  OF  SECTION  7345(F)  OF  THE INTERNAL REVENUE CODE OF 1986,
- USING THE CALENDAR YEAR OF THE EFFECTIVE DATE OF THE CHAPTER OF THE LAWS
- OF TWO THOUSAND TWENTY-THREE WHICH AMENDED THIS SUBDIVISION AS THE  BASE
+ BY  THE  APPLICABLE  INFLATION  ADJUSTMENT.  For  the purposes of this
+ section, the term "tax liabilities" shall mean any  tax,  surcharge,  or
+ fee  administered by the commissioner, or any penalty or interest due on
+ these amounts owed by an individual with a New  York  driver's  license,
+ the  term  "driver's license" means any license issued by the department
+ of motor vehicles, except for a commercial driver's license  as  defined
+ in  section  five  hundred one-a of the vehicle and traffic law, and the
+ term "past-due tax liabilities" means any tax liability  or  liabilities
+ which  have  become fixed and final such that the taxpayer no longer has
+ any right to administrative or  judicial  review,  AND  THE  "APPLICABLE
+ INFLATION  ADJUSTMENT" FOR A CALENDAR YEAR SHALL BE DETERMINED UNDER THE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03422-01-3
- S. 1147  2
+  LBD03422-02-4
+ S. 1147--A  2
  
+ PRINCIPLES OF SECTION 7345(F) OF THE  INTERNAL  REVENUE  CODE  OF  1986,
+ USING THE CALENDAR YEAR OF THE EFFECTIVE DATE OF THE CHAPTER OF THE LAWS
+ OF  TWO  THOUSAND TWENTY-FOUR WHICH AMENDED THIS SUBDIVISION AS THE BASE
  PERIOD. THE TEN THOUSAND DOLLAR LIMITATION IN THIS SUBDIVISION SHALL NOT
  APPLY  TO A TAXPAYER THAT THE COMMISSIONER DETERMINES HAS TAKEN AFFIRMA-
  TIVE STEPS TO EVADE OR AVOID THE COLLECTION OF TAX, SUCH  AS  BY  HIDING
@@ -118,40 +121,40 @@ S T A T E  O F  N E W  Y O R K
  suspending  the  taxpayer's  driver's license. A taxpayer may only chal-
  lenge such suspension or referral on the grounds that (i) the individual
  to whom the notice was provided is not the taxpayer at issue;  (ii)  the
+ S. 1147--A  3
+ 
  past-due  tax liabilities were satisfied; (iii) the taxpayer's wages are
  being garnished by the department for the payment of  the  past-due  tax
  liabilities at issue or for past-due child support or combined child and
- S. 1147  3
- 
  spousal  support  arrears; (iv) the taxpayer's wages are being garnished
  for the payment of past-due child support or combined child and  spousal
  support  arrears  pursuant  to  an  income  execution issued pursuant to
- section  five  thousand  two hundred forty-one of the civil practice law
- and rules; (v) the taxpayer's driver's license is a commercial  driver's
- license  as  defined  in  section  five hundred one-a of the vehicle and
+ section five thousand two hundred forty-one of the  civil  practice  law
+ and  rules; (v) the taxpayer's driver's license is a commercial driver's
+ license as defined in section five hundred  one-a  of  the  vehicle  and
  traffic law; (vi) the department incorrectly found that the taxpayer has
- failed to comply with the terms of a payment arrangement made  with  the
- commissioner  more  than  once  within  a  twelve  month  period for the
- purposes of subdivision  three  of  this  section;  (vii)  the  taxpayer
- receives  public assistance or supplemental security income; [or] (viii)
- [the taxpayer demonstrates that suspension of  the  taxpayer's  driver's
- license  will cause the taxpayer undue economic hardship] THE TAXPAYER'S
+ failed  to  comply with the terms of a payment arrangement made with the
+ commissioner more than  once  within  a  twelve  month  period  for  the
+ purposes  of  subdivision  three  of  this  section;  (vii) the taxpayer
+ receives public assistance or supplemental security income; [or]  (viii)
+ [the  taxpayer  demonstrates  that suspension of the taxpayer's driver's
+ license will cause the taxpayer undue economic hardship] THE  TAXPAYER'S
  INCOME DOES NOT EXCEED TWO HUNDRED FIFTY PERCENT OF THE POVERTY LEVEL AS
- REPORTED BY THE FEDERAL DEPARTMENT OF HEALTH AND HUMAN SERVICES  OR  ANY
- SUCCESSOR  AGENCY;  OR (IX) PAYMENT OF THE PAST-DUE TAX LIABILITIES WILL
+ REPORTED  BY  THE FEDERAL DEPARTMENT OF HEALTH AND HUMAN SERVICES OR ANY
+ SUCCESSOR AGENCY; OR (IX) PAYMENT OF THE PAST-DUE TAX  LIABILITIES  WILL
  CREATE A HARDSHIP FOR THE TAXPAYER IN MEETING NECESSARY LIVING EXPENSES.
-  However, nothing in this subdivision is intended to limit  a  taxpayer
- from  seeking  relief  pursuant  to  an  offer in compromise pursuant to
+  However,  nothing  in this subdivision is intended to limit a taxpayer
+ from seeking relief pursuant to  an  offer  in  compromise  pursuant  to
  subdivision fifteenth of section one hundred seventy-one of this article
- or from joint and several liability  pursuant  to  section  six  hundred
- fifty-four  of  this  chapter,  to the extent that he or she is eligible
- pursuant to such section, or establishing to  the  department  that  the
- enforcement  of  the  underlying  tax liabilities has been stayed by the
- filing of a petition pursuant to the  Bankruptcy  Code  of  1978  (Title
+ or  from  joint  and  several  liability pursuant to section six hundred
+ fifty-four of this chapter, to the extent that he  or  she  is  eligible
+ pursuant  to  such  section,  or establishing to the department that the
+ enforcement of the underlying tax liabilities has  been  stayed  by  the
+ filing  of  a  petition  pursuant  to the Bankruptcy Code of 1978 (Title
  Eleven of the United States Code).
-  §  2.  The  commissioner  of  taxation  and  finance is authorized and
- directed to promulgate any rules and regulations necessary to  implement
- the  provisions  of  this  act  in accordance with the provisions of the
+  § 2. The commissioner  of  taxation  and  finance  is  authorized  and
+ directed  to promulgate any rules and regulations necessary to implement
+ the provisions of this act in accordance  with  the  provisions  of  the
  state administrative procedure act.
-  § 3. This act shall take effect on the first of April next  succeeding
+  §  3. This act shall take effect on the first of April next succeeding
  the date on which it shall have become a law.
