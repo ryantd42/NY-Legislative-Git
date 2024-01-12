@@ -1,6 +1,6 @@
 # Relates to maternal depression screenings
 
-**Bill ID:** A2870BA
+**Bill ID:** A2870BB
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Directs the commissioner of health, in consultation with the office of mental he
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2870--A
+  2870--B
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   CUNNINGHAM -- read once and referred to the  Committee  on  Health  --
   recommitted  to  the  Committee  on Health in accordance with Assembly
   Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
-
+  reprinted  as  amended  and  recommitted  to  said  committee -- again
+  reported from said committee with  amendments,  ordered  reprinted  as
+  amended and recommitted to said committee
+ 
  AN  ACT  to  amend  the  public  health  law,  in  relation  to maternal
   depression screenings
  
@@ -56,21 +58,22 @@ S T A T E  O F  N E W  Y O R K
  woman  or a woman up to one year after childbirth] PERINATAL INDIVIDUAL,
  including [a] ANY  practitioner  attending  the  [woman's]  INDIVIDUAL'S
  child, FROM CONCEPTION up to one year [after childbirth] POSTPARTUM.
-  §  2. Subdivisions 3 and 4 of section 2500-k of the public health law,
- subdivision 4 as renumbered by chapter 463 of  the  laws  of  2017,  are
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03810-03-4
- A. 2870--A  2
+  LBD03810-05-4
+ A. 2870--B  2
  
+  §  2. Subdivisions 3 and 4 of section 2500-k of the public health law,
+ subdivision 4 as renumbered by chapter 463 of  the  laws  of  2017,  are
  renumbered subdivisions 4 and 5 and a new subdivision 3 is added to read
  as follows:
   3.  MATERNAL DEPRESSION SCREENINGS. (A) THE COMMISSIONER, IN CONSULTA-
- TION WITH OTHER RELEVANT STAKEHOLDERS, SHALL DEVELOP AND  PUBLISH  GUID-
- ANCE AND STANDARDS FOR INCORPORATING MATERNAL DEPRESSION SCREENINGS INTO
- ROUTINE  PERINATAL CARE. THIS GUIDANCE SHALL INCLUDE, BUT NOT BE LIMITED
- TO, RECOMMENDATIONS AND BEST PRACTICES RELATED TO:
+ TION WITH THE OFFICE OF MENTAL HEALTH, AND OTHER RELEVANT  STAKEHOLDERS,
+ SHALL  DEVELOP  AND  PUBLISH  GUIDANCE  AND  STANDARDS FOR INCORPORATING
+ MATERNAL DEPRESSION SCREENINGS INTO ROUTINE PERINATAL CARE.  THIS  GUID-
+ ANCE  SHALL  INCLUDE,  BUT  NOT  BE LIMITED TO, RECOMMENDATIONS AND BEST
+ PRACTICES RELATED TO:
   (I) WHEN MATERNAL  HEALTH  CARE  PROVIDERS  SHOULD  INITIATE  MATERNAL
  DEPRESSION  SCREENINGS  AND HOW OFTEN SUCH SCREENINGS SHOULD BE REPEATED
  THROUGHOUT PREGNANCY AND THE POSTPARTUM PERIOD;
@@ -82,12 +85,12 @@ S T A T E  O F  N E W  Y O R K
   (IV)  REFERRALS  FOR  APPROPRIATE FOLLOW-UP EVALUATION, DIAGNOSIS, AND
  TREATMENT; AND
   (V) REIMBURSEMENT METHODOLOGIES TO INCENTIVIZE PROVIDER PARTICIPATION.
-  (B) THE COMMISSIONER, IN CONSULTATION WITH OTHER  RELEVANT  STAKEHOLD-
- ERS,  SHALL IDENTIFY EXISTING INFORMATION AND TRAINING PROGRAMS DESIGNED
- TO SUPPORT MATERNAL DEPRESSION SCREENING AND TREATMENT, AND PUBLISH  THE
- LINKS  TO  SUCH  INFORMATION  AND  TRAINING PROGRAMS ON THE DEPARTMENT'S
- WEBSITE. THE IDENTIFIED INFORMATION AND TRAINING PROGRAMS SHALL  INCLUDE
- THE FOLLOWING TOPICS:
+  (B) THE COMMISSIONER,  IN  CONSULTATION  WITH  THE  OFFICE  OF  MENTAL
+ HEALTH,  AND OTHER RELEVANT STAKEHOLDERS, SHALL IDENTIFY EXISTING INFOR-
+ MATION AND TRAINING PROGRAMS DESIGNED  TO  SUPPORT  MATERNAL  DEPRESSION
+ SCREENING  AND  TREATMENT, AND PUBLISH THE LINKS TO SUCH INFORMATION AND
+ TRAINING PROGRAMS ON THE DEPARTMENT'S WEBSITE. THE  IDENTIFIED  INFORMA-
+ TION AND TRAINING PROGRAMS SHALL INCLUDE THE FOLLOWING TOPICS:
   (I) HEALTH EQUITY;
   (II) IMPLICIT BIAS AND CULTURAL COMPETENCY;
   (III) SCREENING, REFERRAL AND TREATMENT OPTIONS;
