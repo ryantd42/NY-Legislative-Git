@@ -1,6 +1,6 @@
 # Modifies the retirement benefits for certain county correction officers, uniformed correction division personnel, sheriffs, deputy sheriffs and undersheriffs in Nassau county
 
-**Bill ID:** A7257A
+**Bill ID:** A7257AA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Modifies the retirement benefits for certain county correction officers, uniform
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7257
+  7257--A
  
   2023-2024 Regular Sessions
  
@@ -26,116 +26,119 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the retirement and social security law, in  relation  to
   retirement  of  county correction officers, uniformed correction divi-
   sion personnel, sheriffs, deputy sheriffs and undersheriffs in  Nassau
   county
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Subdivisions c and g of section 89-g of the retirement  and
  social  security  law, as added by chapter 653 of the laws of 1988, such
- section as renumbered by chapter 771 of the laws of 1988, is amended  to
+ section as renumbered by chapter 771 of the laws of 1988, are amended to
  read as follows:
-  c.  Upon  completion  of  twenty-five  years  of such service and upon
- retirement, each such member shall receive  a  pension  which,  together
- with  an  annuity  which shall be the actuarial equivalent of [his] SUCH
- MEMBER'S accumulated contributions at the time of  [his]  SUCH  MEMBER'S
- retirement  and  an additional pension which is the actuarial equivalent
- of the reserved-for-increased-take-home-pay to which  [he]  SUCH  MEMBER
- may  then  be  entitled shall be sufficient to provide [him] SUCH MEMBER
- with a retirement allowance equal to one-half  of  [his]  SUCH  MEMBER'S
- final  average  salary,  PROVIDED  HOWEVER  THAT  A MEMBER WITH CREDITED
- SERVICE IN EXCESS OF  TWENTY-FIVE  YEARS  SHALL  RECEIVE  AN  ADDITIONAL
- RETIREMENT  ALLOWANCE EQUAL TO ONE-SIXTIETH OF SUCH MEMBER'S FINAL AVER-
- AGE SALARY FOR EACH YEAR OF CREDITABLE SERVICE IN EXCESS OF  TWENTY-FIVE
+  c. Upon completion of twenty-five  years  of  such  service  and  upon
+ retirement,  each  such  member  shall receive a pension which, together
+ with an annuity which shall be the actuarial equivalent  of  [his]  SUCH
+ MEMBER'S  accumulated  contributions  at the time of [his] SUCH MEMBER'S
+ retirement and an additional pension which is the  actuarial  equivalent
+ of  the  reserved-for-increased-take-home-pay  to which [he] SUCH MEMBER
+ may then be entitled shall be sufficient to provide  [him]  SUCH  MEMBER
+ with  a  retirement  allowance  equal to one-half of [his] SUCH MEMBER'S
+ final average salary, PROVIDED  HOWEVER  THAT  A  MEMBER  WITH  CREDITED
+ SERVICE  IN  EXCESS  OF  TWENTY-FIVE  YEARS  SHALL RECEIVE AN ADDITIONAL
+ RETIREMENT ALLOWANCE EQUAL TO ONE-SIXTIETH OF SUCH MEMBER'S FINAL  AVER-
+ AGE  SALARY FOR EACH YEAR OF CREDITABLE SERVICE IN EXCESS OF TWENTY-FIVE
  YEARS BUT NOT IN EXCESS OF THIRTY YEARS.
-  g.  A member, contributing on the basis of this section at the time of
+  g. A member, contributing on the basis of this section at the time  of
  retirement, [shall] MAY retire after the completion of twenty-five years
- of total creditable service. Application therefor  may  be  filed  in  a
- manner similar to that provided in section seventy of this article. Upon
- completion  of  AT  LEAST  twenty-five  years  of  such service and upon
- retirement, each such member shall receive  a  pension  which,  together
+ of  total  creditable  service.  Application  therefor may be filed in a
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10387-02-3
- A. 7257  2
+  LBD10387-04-4
+ A. 7257--A  2
  
+ manner similar to that provided in section seventy of this article. Upon
+ completion of AT LEAST  twenty-five  years  of  such  service  and  upon
+ retirement,  each  such  member  shall receive a pension which, together
  with  an  annuity  which shall be the actuarial equivalent of [his] SUCH
  MEMBER'S accumulated contributions at the time of  [his]  SUCH  MEMBER'S
  retirement  and  an additional pension which is the actuarial equivalent
  of the reserve-for-increased-take-home-pay to which [he] SUCH MEMBER may
  then be entitled shall be sufficient to provide [him] SUCH MEMBER with a
- retirement  allowance  equal  to  one-half  of [his] SUCH MEMBER'S final
+ retirement allowance equal to one-half  of  [his]  SUCH  MEMBER'S  final
  average salary PLUS AN ADDITIONAL RETIREMENT ALLOWANCE EQUAL TO ONE-SIX-
- TIETH OF SUCH MEMBER'S FINAL AVERAGE SALARY FOR EACH YEAR OF  CREDITABLE
- SERVICE  IN  EXCESS  OF  TWENTY-FIVE  YEARS  BUT NOT IN EXCESS OF THIRTY
+ TIETH  OF SUCH MEMBER'S FINAL AVERAGE SALARY FOR EACH YEAR OF CREDITABLE
+ SERVICE IN EXCESS OF TWENTY-FIVE YEARS  BUT  NOT  IN  EXCESS  OF  THIRTY
  YEARS.
   § 2. Subdivision e of section 604 of the retirement and social securi-
- ty law, as amended by chapter 771 of the laws of  1988,  is  amended  to
+ ty  law,  as  amended  by chapter 771 of the laws of 1988, is amended to
  read as follows:
   e. The early service retirement for a member who is employed in Nassau
  county as a correction officer, uniformed correction division personnel,
- sheriff,  undersheriff  or deputy sheriff, as defined in section eighty-
- nine-g of this chapter, shall be a  pension  equal  to  one-fiftieth  of
- final  average  salary times years of credited service at the completion
- of twenty-five years of service as such  correction  officer,  uniformed
+ sheriff, undersheriff or deputy sheriff, as defined in  section  eighty-
+ nine-g  of  this  chapter,  shall  be a pension equal to one-fiftieth of
+ final average salary times years of credited service at  the  completion
+ of  twenty-five  years  of service as such correction officer, uniformed
  correction division personnel, sheriff, undersheriff or deputy sheriff[,
- but  not exceeding one-half of his or her] PLUS AN ADDITIONAL RETIREMENT
- ALLOWANCE EQUAL TO ONE-SIXTIETH OF SUCH MEMBER'S  final  average  salary
- EACH  YEAR OF CREDITED SERVICE IN EXCESS OF TWENTY-FIVE YEARS BUT NOT IN
+ but not exceeding one-half of his or her] PLUS AN ADDITIONAL  RETIREMENT
+ ALLOWANCE  EQUAL  TO  ONE-SIXTIETH OF SUCH MEMBER'S final average salary
+ EACH YEAR OF CREDITED SERVICE IN EXCESS OF TWENTY-FIVE YEARS BUT NOT  IN
  EXCESS OF THIRTY YEARS.
   §  3.  All  past  service  costs  associated  with  implementing  the
  provisions of this act shall be borne by the county of Nassau and may be
  amortized over a period of ten years.
-  §  4. Notwithstanding any other provision of law to the contrary, none
- of the provisions of this act shall  be  subject  to  the  appropriation
+  § 4. Notwithstanding any other provision of law to the contrary,  none
+ of  the  provisions  of  this  act shall be subject to the appropriation
  requirement of section 25 of the retirement and social security law.
-  §  5.  This  act  shall take effect immediately and shall apply to all
+  § 5. This act shall take effect immediately and  shall  apply  to  all
  members that retire on or after such date.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This bill would modify the service retirement benefit for  members  of
- the  New  York  State and Local Employees' Retirement System employed by
+  This  bill  would modify the service retirement benefit for members of
+ the New York State and Local Employees' Retirement  System  employed  by
  Nassau County as (1) sheriffs, deputy sheriffs, or undersheriffs engaged
  directly in criminal law enforcement activities, or (2) correction offi-
- cers or uniformed correction division personnel.  The  modified  service
- retirement  benefit  will be one-half of final average salary (FAS) upon
- completion of twenty-five years of creditable  service  with  additional
- sixtieths  for  each year of creditable service in excess of twenty-five
- years but not in excess of thirty years. The current service  retirement
+ cers  or  uniformed  correction division personnel. The modified service
+ retirement benefit will be one-half of final average salary  (FAS)  upon
+ completion  of  twenty-five  years of creditable service with additional
+ sixtieths for each year of creditable service in excess  of  twenty-five
+ years  but not in excess of thirty years. The current service retirement
  benefit is one-half of FAS upon completion of twenty-five years of cred-
  itable service.
-  If this bill is enacted during the 2023 legislative session, we antic-
- ipate  that  there  will be an increase of approximately $740,000 in the
- annual contributions of Nassau County for the fiscal year  ending  March
- 31,  2024. In future years, this cost will vary as the billing rates and
- salary of the affected members change.
+  If this bill is enacted during the 2024 legislative session, we antic-
+ ipate that there will be an increase of approximately  $780,000  in  the
+ annual  contributions  of Nassau County for the fiscal year ending March
+ 31, 2025. In future years this cost will vary but is expected to average
+ 0.7% of affected salary annually.
   In addition to the annual contributions discussed above, there will be
- an immediate past service cost of approximately $10.6 million which will
+ an immediate past service cost of approximately $10.5 million which will
  be borne by Nassau County as a one-time payment. This  estimate  assumes
- that  payment  will be made on February 1, 2024. If Nassau County elects
+ that  payment  will be made on February 1, 2025. If Nassau County elects
+ A. 7257--A  3
+ 
  to amortize this cost over a 10-year period, the cost for the first year
  including interest would be $1.35 million.
- A. 7257  3
- 
-  These estimated costs are based on 738 affected  members  employed  by
- Nassau  County,  with annual salary of approximately $96.3 million as of
- March 31, 2022.
+  These  estimated  costs  are based on 752 affected members employed by
+ Nassau County, with annual salary of approximately $94.2 million  as  of
+ March 31, 2023.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation. Distributions and other statistics can  be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -143,6 +146,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated March 30, 2023, and intended for use only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-127, prepared by
+  This estimate, dated January 3, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No.  2024-17,  prepared  by
  the Actuary for the New York State and Local Retirement System.
