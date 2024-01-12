@@ -1,6 +1,6 @@
 # Provides WTC-related benefits to certain employees who worked at the Verrazano Bridge Toll Facility
 
-**Bill ID:** A7344B
+**Bill ID:** A7344BA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides WTC-related benefits to certain employees who worked at the Verrazano B
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7344
+  7344--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the retirement and social security law, in  relation  to
   providing  WTC-related benefits to certain employees who worked at the
   Verrazano Bridge Toll Facility
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,18 +59,18 @@ S T A T E  O F  N E W  Y O R K
  ments,  worksites  and titles: (A) New York City Police Department at 11
  Metrotec Center in Brooklyn or 1 Police Plaza in Manhattan as  a  Police
  Communication  Technician (PCT), Supervisor Police Communication Techni-
- cian (SPCT), Principal  Police  Communication  Technician  I,  Principal
- Police Communication Technician II, Principal Police Communication Tech-
- nician  III,  Administrative  Manager - Communications, or in the Police
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10515-02-3
- A. 7344  2
+  LBD10515-04-4
+ A. 7344--A  2
  
+ cian (SPCT), Principal  Police  Communication  Technician  I,  Principal
+ Police Communication Technician II, Principal Police Communication Tech-
+ nician  III,  Administrative  Manager - Communications, or in the Police
  Administrative Aide title series; (B) Fire Department of the City of New
- York at 35 Empire Boulevard  in  Brooklyn,  79th  Street  Transverse  in
- Manhattan,  83-98 Woodhaven Boulevard in Queens, 1129 East 180 Street in
+ York  at  35  Empire  Boulevard  in  Brooklyn, 79th Street Transverse in
+ Manhattan, 83-98 Woodhaven Boulevard in Queens, 1129 East 180 Street  in
  the  Bronx,  65  Slosson  Avenue  in Staten Island, 9 Metrotec Center in
  Brooklyn, or 25 Rockaway Avenue in Brooklyn as  Fire  Alarm  Dispatchers
  (FAD),  Supervising  Fire  Alarm  Dispatchers I (SFAD), Supervising Fire
@@ -93,49 +96,58 @@ S T A T E  O F  N E W  Y O R K
  have been in full force and effect on and after September 11, 2001.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This  bill would expand the definition of a member who participated in
- World Trade Center rescue, recovery or  cleanup  operations  to  include
- those who worked at the Verrazano Bridge Toll Facility.
-  Insofar  as  this bill affects the New York State and Local Employees'
- Retirement System (NYSLERS) and the New York State and Local Police  and
- Fire  Retirement  System  (NYSLPFRS), if this bill is enacted during the
- 2023 legislative session, it would reclassify certain current and future
- retirement benefits. The cost of the revised benefit  will  depend  upon
- the  applicant's  age, service, salary, plan, and benefit type otherwise
- payable.
+ World Trade Center (WTC)  rescue,  recovery  or  cleanup  operations  to
+ include those who worked at the Verrazano Bridge Toll Facility.
+  Insofar as this bill would affect the New York State and Local Employ-
+ ees' Retirement System (NYSLERS) and the New York State and Local Police
+ and  Fire  Retirement  System (NYSLPFRS), if this bill is enacted during
+ the 2024 Legislative Session, it would (a)  reclassify  certain  retiree
+ benefits  as  accidental  disability, (b) lead to an increased number of
+ accidental disability benefits for future retirees, and (c) also lead to
+ more deaths being classified as "accidental". The cost  of  the  revised
+ benefit  will depend upon the applicant's age, service, salary, plan and
+ benefit type otherwise payable.
  
- Benefit prior  None  Ordinary  In Performance of  Service
- to enactment:  Disability  Duty Disability
- Cost for  10 times  5.5 times  3 times  2 times
- WTC benefit:  salary  salary  salary  salary
+ Benefit prior  Ordinary  Performance
+ to enactment:  None  Disability  of Duty
  
-  This bill would also lead to more deaths being  classified  as  "acci-
- dental".  For  each death classified as accidental due to this bill, the
- cost would depend on the age, service, salary, plan, and status at  time
- of death. It is estimated that the cost for each NYSLERS member affected
- would  average  approximately  4.5 times final average salary. The esti-
- mated cost for each NYSLPFRS member would average approximately 13 times
- final average salary.
-  NYSLERS Costs: Pursuant to Section 25 of  the  Retirement  and  Social
- Security  Law,  these  costs would be borne entirely by the State of New
- York and would require an itemized appropriation sufficient to  pay  the
- cost of the provision.
-  NYSLPFRS  Costs:  These costs would be shared by the State of New York
- and the participating employers in the NYSLPFRS.
- A. 7344  3
+ NYSLERS cost for  10 times  5.5 times  3 times
+ proposed benefit:  salary  salary  salary
  
-  The exact number of current members as  well  as  future  members  who
- could be affected by this legislation cannot be readily determined.
+ NYSLPFRS cost for  10 times  5.5 times  3 times
+ proposed benefit:  salary  salary  salary
+ 
+ Benefit prior  Service  Ordinary
+ to enactment:  Retirement  Death
+ A. 7344--A  3
+ 
+ NYSLERS cost for  2 times  4.5 times
+ proposed benefit:  salary  salary
+ 
+ NYSLPFRS cost for  2 times  13 times
+ proposed benefit:  salary  salary
+ 
+  The  exact  number  of  current  members as well as future members who
+ could be affected by this  legislation  cannot  be  readily  determined.
+ Pursuant  to  Section  25 of the Retirement and Social Security Law, the
+ costs arising in the NYSLERS will be borne entirely by the State of  New
+ York  and  will  require an itemized appropriation sufficient to pay the
+ cost of the provision. The costs arising in the NYSLPFRS will be  shared
+ by  the  State  of New York and the local participating employers of the
+ NYSLPFRS.
+  Further, we anticipate additional administrative  costs  to  implement
+ the provisions of this legislation.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation. Distributions and other statistics can  be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -143,6 +155,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated April 12, 2023, and intended for use only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-133, prepared by
+  This estimate, dated January 3, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No.  2024-18,  prepared  by
  the Actuary for the New York State and Local Retirement System.
