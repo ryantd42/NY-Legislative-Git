@@ -1,6 +1,6 @@
 # Provides additional benefits for certain retirement system members with credited service in excess of twenty-five years
 
-**Bill ID:** A7256A
+**Bill ID:** A7256AA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** Stricken
@@ -16,7 +16,7 @@ Provides additional benefits for certain county correction officers in Westchest
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7256
+  7256--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the retirement and social security law, in  relation  to
   providing  additional  benefits  for certain retirement system members
   with credited service in excess of twenty-five years
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  retirement, [shall] MAY retire after the completion of twenty-five years
  of total creditable service. Application therefor  may  be  filed  in  a
  manner similar to that provided in section seventy of this article. Upon
- completion  of  AT  LEAST  twenty-five  years  of  such service and upon
- retirement, each such member shall receive  a  pension  which,  together
- with  an  annuity  which shall be the actuarial equivalent of [his] SUCH
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10299-02-3
- A. 7256  2
+  LBD10299-04-4
+ A. 7256--A  2
  
- MEMBER'S accumulated contributions at the time of  [his]  SUCH  MEMBER'S
- retirement  and  an additional pension which is the actuarial equivalent
+ completion  of  AT  LEAST  twenty-five  years  of  such service and upon
+ retirement, each such member shall receive  a  pension  which,  together
+ with  an  annuity  which shall be the actuarial equivalent of [his] SUCH
+ MEMBER'S  accumulated  contributions  at the time of [his] SUCH MEMBER'S
+ retirement and an additional pension which is the  actuarial  equivalent
  of the reserve-for-increased-take-home-pay to which [he] SUCH MEMBER may
  then  be entitled shall be sufficient to provide [him] SUCH MEMBER  with
  a retirement allowance equal to one-half of [his]  SUCH  MEMBER'S  final
@@ -98,47 +101,47 @@ S T A T E  O F  N E W  Y O R K
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This  bill  would modify the service retirement benefit for members of
  the New York State and Local Employees' Retirement  System  employed  by
- Westchester  County as correction officers. The modified service retire-
- ment benefit will  be  one-half  of  final  average  salary  (FAS)  upon
- completion  of  twenty-five  years of creditable service with additional
- sixtieths for each year of creditable service in excess  of  twenty-five
- years  but not in excess of thirty years. The current service retirement
+ Westchester County as correction officers.  The modified service retire-
+ ment  benefit  will  be  one-half  of  final  average  salary (FAS) upon
+ completion of twenty-five years of creditable  service  with  additional
+ sixtieths  for  each year of creditable service in excess of twenty-five
+ years but not in excess of thirty years. The current service  retirement
  benefit is one-half of FAS upon completion of twenty-five years of cred-
  itable service.
   If this bill is enacted during the 2023 legislative session, we antic-
- ipate that there will be an increase of approximately  $930,000  in  the
- annual  contributions  of  Westchester County for the fiscal year ending
- March 31, 2024. In future years, this cost  will  vary  as  the  billing
- rates and salary of the affected members change.
+ ipate  that  there  will be an increase of approximately $1.0 million in
+ the annual contributions of  Westchester  County  for  the  fiscal  year
+ ending  March  31,  2025.  In  future  years  this cost will vary but is
+ expected to average 0.8% of affected salary annually.
   In addition to the annual contributions discussed above, there will be
- an immediate past service cost of approximately $11.3 million which will
- be  borne  by  Westchester  County  as a one-time payment. This estimate
- assumes that payment will be made on February 1,  2024.  If  Westchester
- County  elects to amortize this cost over a 10-year period, the cost for
- the first year including interest would be $1.44 million.
-  These estimated costs are based on 821 affected  members  employed  by
- Westchester  County, with annual salary of approximately $103 million as
- of March 31, 2022.
-  Summary of relevant resources:
- A. 7256  3
+ an immediate past service cost of approximately $11.6 million which will
+ be borne by Westchester County as  a  one-time  payment.  This  estimate
+ assumes  that  payment  will be made on February 1, 2025. If Westchester
+ County elects to amortize this cost over a 10-year period, the cost  for
+ the first year including interest would be $1.49 million.
+ A. 7256--A  3
  
-  Membership data as of March 31, 2022 was used in measuring the  impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al  valuation.  Distributions  and  other statistics can be found in the
- 2022 Report of the Actuary and the 2022 Annual  Comprehensive  Financial
+  These  estimated  costs  are based on 851 affected members employed by
+ Westchester County, with annual salary of approximately $104 million  as
+ of March 31, 2023.
+  Summary of relevant resources:
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al valuation.  Distributions and other statistics can be  found  in  the
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The  actuarial assumptions and methods used are described in the 2020,
- 2021, and 2022 Annual Report to the  Comptroller  on  Actuarial  Assump-
- tions,  and  the  Codes, Rules and Regulations of the State of New York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
- New York State and Local  Retirement  System  Financial  Statements  and
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
+ New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This  fiscal note does not constitute a legal opinion on the viability
- of the proposed change nor is it intended to serve as a  substitute  for
+  This fiscal note does not constitute a legal opinion on the  viability
+ of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This  estimate, dated March 30, 2023, and intended for use only during
- the 2023 Legislative Session, is Fiscal Note No. 2023-125,  prepared  by
+  This estimate, dated January 3, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No.  2024-16,  prepared  by
  the Actuary for the New York State and Local Retirement System.
