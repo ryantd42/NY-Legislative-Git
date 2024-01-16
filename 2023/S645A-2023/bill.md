@@ -1,6 +1,6 @@
 # Requires a commissioner to meet certain qualifications before his or her appointment
 
-**Bill ID:** S645A
+**Bill ID:** S645AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires a commissioner to meet certain qualifications before his or her appoint
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  645
+  645--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Elections
- 
+  printed to be committed to the Committee on Elections  --  recommitted
+  to the Committee on Elections in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
+
  AN ACT to amend the election law, in relation to requiring a commission-
   er to meet certain qualifications before his or her appointment
  
@@ -36,7 +39,7 @@ S T A T E  O F  N E W  Y O R K
  
   Section  1.  Section  3-200 of the election law is amended by adding a
  new subdivision 8 to read as follows:
-  8. NO LATER THAN DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-FOUR,  THE
+  8. NO LATER THAN DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-FIVE,  THE
  STATE  BOARD OF ELECTIONS SHALL PRESCRIBE QUALIFICATIONS FOR ALL COMMIS-
  SIONERS OF BOARDS OF ELECTIONS IN EACH COUNTY AND THE CITY OF NEW  YORK.
  SUCH QUALIFICATIONS SHALL INCLUDE, BUT NOT BE LIMITED TO, THE QUALIFICA-
@@ -53,8 +56,7 @@ S T A T E  O F  N E W  Y O R K
  TY TO RECRUIT A SUFFICIENT NUMBER OF CANDIDATES TO BE COMMISSIONERS.
   § 2. This act shall take effect immediately.
  
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03639-02-3
+  LBD03639-03-4
