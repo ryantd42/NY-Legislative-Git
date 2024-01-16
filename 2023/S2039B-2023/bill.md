@@ -1,6 +1,6 @@
 # Relates to maternal depression screenings
 
-**Bill ID:** S2039BA
+**Bill ID:** S2039BB
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Directs the commissioner of health, in consultation with the office of mental he
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2039--A
+  2039--B
+  Cal. No. 96
  
   2023-2024 Regular Sessions
  
@@ -31,48 +32,52 @@ S T A T E  O F  N E W  Y O R K
   ted to the Committee on Women's Issues -- recommitted to the Committee
   on Women's Issues in accordance with Senate Rule 6, sec. 8 --  commit-
   tee  discharged, bill amended, ordered reprinted as amended and recom-
-  mitted to said committee
+  mitted to said committee -- reported favorably  from  said  committee,
+  ordered  to first and second report, amended on second report, ordered
+  to a third reading, and to be  reprinted  as  amended,  retaining  its
+  place in the order of third reading
  
- AN ACT  to  amend  the  public  health  law,  in  relation  to  maternal
+ AN  ACT  to  amend  the  public  health  law,  in  relation  to maternal
   depression screenings
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision 1 of section 2500-k of the public  health  law,
- as  added  by  chapter  199  of  the laws of 2014, is amended to read as
+  Section  1.  Subdivision 1 of section 2500-k of the public health law,
+ as added by chapter 199 of the laws of  2014,  is  amended  to  read  as
  follows:
   1. Definitions. As used in this section:
-  (a) "Maternal depression" means a wide range of emotional and  psycho-
- logical  reactions  [a  woman]  AN  INDIVIDUAL  may  experience [during]
- THROUGHOUT pregnancy [or after childbirth] AND  THE  POSTPARTUM  PERIOD.
+  (a)  "Maternal depression" means a wide range of emotional and psycho-
+ logical reactions  [a  woman]  AN  INDIVIDUAL  may  experience  [during]
+ THROUGHOUT  pregnancy  [or  after childbirth] AND THE POSTPARTUM PERIOD.
  These reactions may include, but are not limited to, feelings of despair
- or  extreme guilt, prolonged sadness, lack of energy, difficulty concen-
- trating, fatigue, extreme changes in appetite, and thoughts  of  suicide
- or  of  harming  the  baby.  Maternal  depression  may  include prenatal
+ or extreme guilt, prolonged sadness, lack of energy, difficulty  concen-
+ trating,  fatigue,  extreme changes in appetite, and thoughts of suicide
+ or of  harming  the  baby.  Maternal  depression  may  include  prenatal
  depression, PERINATAL MOOD AND ANXIETY DISORDER, the "baby blues," post-
  partum depression, or postpartum psychosis[-- the severest form].
-  (b) "Maternal health care provider" means a physician, midwife,  nurse
- practitioner,  or physician assistant, or other health care practitioner
+  (b)  "Maternal health care provider" means a physician, midwife, nurse
+ practitioner, or physician assistant, or other health care  practitioner
  acting within his or her lawful scope of practice, attending a [pregnant
- woman or a woman up to one year after childbirth] PERINATAL  INDIVIDUAL,
- including  [a]  ANY  practitioner  attending  the [woman's] INDIVIDUAL'S
- child, FROM CONCEPTION up to one year [after childbirth] POSTPARTUM.
+ woman  or a woman up to one year after childbirth] PERINATAL INDIVIDUAL,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03810-02-4
- S. 2039--A  2
+  LBD03810-04-4
+ S. 2039--B  2
  
-  § 2. Subdivisions 3 and 4 of section 2500-k of the public health  law,
- subdivision  4  as  renumbered  by  chapter 463 of the laws of 2017, are
+ including [a] ANY  practitioner  attending  the  [woman's]  INDIVIDUAL'S
+ child, FROM CONCEPTION up to one year [after childbirth] POSTPARTUM.
+  §  2. Subdivisions 3 and 4 of section 2500-k of the public health law,
+ subdivision 4 as renumbered by chapter 463 of  the  laws  of  2017,  are
  renumbered subdivisions 4 and 5 and a new subdivision 3 is added to read
  as follows:
   3.  MATERNAL DEPRESSION SCREENINGS. (A) THE COMMISSIONER, IN CONSULTA-
- TION WITH OTHER RELEVANT STAKEHOLDERS, SHALL DEVELOP AND  PUBLISH  GUID-
- ANCE AND STANDARDS FOR INCORPORATING MATERNAL DEPRESSION SCREENINGS INTO
- ROUTINE  PERINATAL CARE. THIS GUIDANCE SHALL INCLUDE, BUT NOT BE LIMITED
- TO, RECOMMENDATIONS AND BEST PRACTICES RELATED TO:
+ TION WITH THE OFFICE OF MENTAL HEALTH, AND OTHER RELEVANT  STAKEHOLDERS,
+ SHALL  DEVELOP  AND  PUBLISH  GUIDANCE  AND  STANDARDS FOR INCORPORATING
+ MATERNAL DEPRESSION SCREENINGS INTO ROUTINE PERINATAL CARE.  THIS  GUID-
+ ANCE  SHALL  INCLUDE,  BUT  NOT  BE LIMITED TO, RECOMMENDATIONS AND BEST
+ PRACTICES RELATED TO:
   (I) WHEN MATERNAL  HEALTH  CARE  PROVIDERS  SHOULD  INITIATE  MATERNAL
  DEPRESSION  SCREENINGS  AND HOW OFTEN SUCH SCREENINGS SHOULD BE REPEATED
  THROUGHOUT PREGNANCY AND THE POSTPARTUM PERIOD;
@@ -84,12 +89,12 @@ S T A T E  O F  N E W  Y O R K
   (IV)  REFERRALS  FOR  APPROPRIATE FOLLOW-UP EVALUATION, DIAGNOSIS, AND
  TREATMENT; AND
   (V) REIMBURSEMENT METHODOLOGIES TO INCENTIVIZE PROVIDER PARTICIPATION.
-  (B) THE COMMISSIONER, IN CONSULTATION WITH OTHER  RELEVANT  STAKEHOLD-
- ERS,  SHALL IDENTIFY EXISTING INFORMATION AND TRAINING PROGRAMS DESIGNED
- TO SUPPORT MATERNAL DEPRESSION SCREENING AND TREATMENT, AND PUBLISH  THE
- LINKS  TO  SUCH  INFORMATION  AND  TRAINING PROGRAMS ON THE DEPARTMENT'S
- WEBSITE. THE IDENTIFIED INFORMATION AND TRAINING PROGRAMS SHALL  INCLUDE
- THE FOLLOWING TOPICS:
+  (B) THE COMMISSIONER,  IN  CONSULTATION  WITH  THE  OFFICE  OF  MENTAL
+ HEALTH,  AND OTHER RELEVANT STAKEHOLDERS, SHALL IDENTIFY EXISTING INFOR-
+ MATION AND TRAINING PROGRAMS DESIGNED  TO  SUPPORT  MATERNAL  DEPRESSION
+ SCREENING  AND  TREATMENT, AND PUBLISH THE LINKS TO SUCH INFORMATION AND
+ TRAINING PROGRAMS ON THE DEPARTMENT'S WEBSITE. THE  IDENTIFIED  INFORMA-
+ TION AND TRAINING PROGRAMS SHALL INCLUDE THE FOLLOWING TOPICS:
   (I) HEALTH EQUITY;
   (II) IMPLICIT BIAS AND CULTURAL COMPETENCY;
   (III) SCREENING, REFERRAL AND TREATMENT OPTIONS;
