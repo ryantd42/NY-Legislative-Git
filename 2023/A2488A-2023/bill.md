@@ -1,6 +1,6 @@
 # Relates to the unearned income of a child
 
-**Bill ID:** A2488A
+**Bill ID:** A2488AA
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the unearned income of a child when the parent or non-parent caregive
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2488
+  2488--A
  
   2023-2024 Regular Sessions
  
@@ -25,19 +25,22 @@ S T A T E  O F  N E W  Y O R K
   January 26, 2023
   ___________
  
- Introduced  by  M.  of A. HEVESI, REYES -- read once and referred to the
-  Committee on Social Services
- 
- AN ACT to amend the social services law, in  relation  to  any  unearned
+ Introduced  by  M. of A. HEVESI, REYES, GONZALEZ-ROJAS, DE LOS SANTOS --
+  read once and referred to the Committee on Social Services  --  recom-
+  mitted  to the Committee on Ways and Means in accordance with Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
+ AN  ACT  to  amend  the social services law, in relation to any unearned
   income of a child in certain circumstances
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Paragraph (a) of subdivision 8  of  section  131-a  of  the
- social services law is amended by adding a new subparagraph (xi) to read
- as follows:
-  (XI)  ANY  UNEARNED  INCOME  OF  A CHILD WHEN THE PARENT OR NON-PARENT
+ 
+  Section  1.  Paragraph  (a)  of  subdivision 8 of section 131-a of the
+ social services law is amended by adding a  new  subparagraph  (xiv)  to
+ read as follows:
+  (XIV)  ANY  UNEARNED  INCOME  OF A CHILD WHEN THE PARENT OR NON-PARENT
  CAREGIVER CHOOSES TO EXCLUDE  SUCH  CHILD  FROM  THE  PUBLIC  ASSISTANCE
  HOUSEHOLD  PURSUANT  TO  SUBDIVISION  ONE  OF  SECTION  ONE  HUNDRED
  THIRTY-ONE-C OF THIS ARTICLE.
@@ -56,15 +59,15 @@ S T A T E  O F  N E W  Y O R K
  grant amounts, if such individuals reside in the same dwelling  unit  as
  the  minor  applying for assistance. Any income of or available for such
  parents, [brothers and sisters] which is not disregarded under  subdivi-
- sion eight of section one hundred thirty-one-a of this article, shall be
- considered  available to such household. [The provisions of] A PARENT OR
- NON-PARENT CAREGIVER MAY CHOOSE TO EXCLUDE ANY OTHER CHILD  OR  CHILDREN
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05019-01-3
- A. 2488  2
+  LBD05019-02-3
+ A. 2488--A  2
  
+ sion eight of section one hundred thirty-one-a of this article, shall be
+ considered  available to such household. [The provisions of] A PARENT OR
+ NON-PARENT CAREGIVER MAY CHOOSE TO EXCLUDE ANY OTHER CHILD  OR  CHILDREN
  RESIDING IN THE SAME DWELLING UNIT FROM THE PUBLIC ASSISTANCE HOUSEHOLD.
  NOTHING IN this [subdivision] CHAPTER shall [not apply to] REQUIRE indi-
  viduals who are recipients of federal supplemental security income bene-
