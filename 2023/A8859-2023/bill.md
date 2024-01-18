@@ -1,0 +1,48 @@
+# Repeals section 581-d of the labor law relating to the interest assessment surcharge
+
+**Bill ID:** A8859
+**Session:** 2023
+**Sponsor:** Fred Thiele
+**Status:** In Assembly Committee
+
+## Summary
+
+Relates to the interest assessment surcharge.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  8859
+ 
+  I N  A S S E M B L Y
+ 
+  January 18, 2024
+  ___________
+ 
+ Introduced by M. of A. THIELE -- read once and referred to the Committee
+  on Labor
+ 
+ AN  ACT to repeal section 581-d of the labor law, relating to the inter-
+  est assessment surcharge
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section 1. Section 581-d of the labor law is REPEALED.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD13978-01-4
