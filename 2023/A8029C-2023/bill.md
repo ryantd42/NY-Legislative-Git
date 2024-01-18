@@ -1,6 +1,6 @@
 # Directs the metropolitan transportation authority and the New York city transit authority to rename the 23rd Street subway station to the 23 Street-Baruch College station
 
-**Bill ID:** A8029CA
+**Bill ID:** A8029CB
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Directs the metropolitan transportation authority and the New York city transit 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8029--A
+  8029--B
  
   2023-2024 Regular Sessions
  
@@ -28,11 +28,14 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M.  of A. EPSTEIN, FAHY -- read once and referred to the
   Committee on Corporations, Authorities and  Commissions  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to  said  committee  --  recommitted to the Committee on Corporations,
+  Authorities and Commissions in accordance with Assembly Rule 3, sec. 2
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
  AN  ACT  directing the metropolitan transportation authority and the New
   York city transit authority to rename the 23rd Street  subway  station
-  to  the  23  St Baruch College station; and provides for the repeal of
+  to  the  23  St-Baruch College station; and provides for the repeal of
   such provisions upon expiration thereof
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
@@ -46,7 +49,7 @@ S T A T E  O F  N E W  Y O R K
  it authority, the public benefit corporation created by section 1201  of
  the  public authorities law, shall use such specifically committed funds
  to rename the 23rd Street subway station on the IND Sixth Avenue line of
- the New York city subway to the 23 St Baruch College station. The metro-
+ the New York city subway to the 23 St-Baruch College station. The metro-
  politan transportation authority shall ensure that  all  signs  and  any
  other  items  issued  by  the  metropolitan transportation authority are
  updated to accurately reflect the new name of the station.
@@ -62,4 +65,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11931-05-3
+  LBD11931-06-4
