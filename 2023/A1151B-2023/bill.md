@@ -1,6 +1,6 @@
 # Relates to reimbursement for non-medical transportation for individuals with a substance use disorder to receive peer support services
 
-**Bill ID:** A1151BA
+**Bill ID:** A1151BB
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to reimbursement for non-medical transportation for individuals with a s
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1151--A
+  1151--B
  
   2023-2024 Regular Sessions
  
@@ -25,10 +25,14 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by  M.  of A. McDONALD, WOERNER -- read once and referred to
-  the Committee on Alcoholism and Drug Abuse -- reported and referred to
-  the Committee on Ways and Means -- committee discharged, bill amended,
-  ordered reprinted as amended and recommitted to said committee
+ Introduced  by  M.  of  A.  McDONALD, WOERNER, K. BROWN -- read once and
+  referred to the Committee on Alcoholism and Drug Abuse -- reported and
+  referred to the Committee on Ways and Means --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee -- recommitted to the Committee on Ways and Means in accord-
+  ance with Assembly Rule  3,  sec.  2  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the mental hygiene law, in relation to reimbursement for
   non-medical transportation for individuals with a substance use disor-
@@ -49,14 +53,13 @@ S T A T E  O F  N E W  Y O R K
  THE USE OF ANY FEDERAL GRANTS, INCLUDING STATE  OPIOID  RESPONSE  GRANTS
  AND  SUPPLEMENTAL SUBSTANCE ABUSE PREVENTION AND TREATMENT BLOCK GRANTS,
  TO SUPPORT SUCH REIMBURSEMENT. SUCH REIMBURSEMENT RATES SHALL BE  ESTAB-
- LISHED BY JANUARY FIRST, TWO THOUSAND TWENTY-FOUR.
+ LISHED BY APRIL FIRST, TWO THOUSAND TWENTY-FIVE.
   §  2.  This  act shall take effect on the ninetieth day after it shall
  have become a law.  Effective  immediately,  the  addition,  amendment
  and/or repeal of any rule or regulation necessary for the implementation
  of  this  act  on  its  effective  date  are  authorized  to be made and
  completed on or before such effective date.
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02502-04-3
+  LBD02502-06-4
