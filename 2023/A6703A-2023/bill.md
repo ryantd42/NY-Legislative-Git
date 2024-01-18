@@ -1,6 +1,6 @@
 # Authorizes Marie Glarakis to change the designated beneficiary of her retirement benefits
 
-**Bill ID:** A6703A
+**Bill ID:** A6703AA
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes Marie Glarakis, a former Suffolk county police officer who is receivi
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6703
+  6703--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  JEAN-PIERRE -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT authorizing Marie Glarakis to change the designated  beneficiary
   of her retirement benefits
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Notwithstanding any other provision of law to the contrary,
  Marie Glarakis, who  is  receiving  a  performance  of  duty  disability
  retirement  from the New York State and Local Police and Fire Retirement
@@ -55,37 +58,37 @@ S T A T E  O F  N E W  Y O R K
  retirement  option  election  to a Single Life Allowance. At retirement,
  Marie Glarakis elected a Pop-Up Joint Allowance Full option  with  James
  Scandariato as the designated beneficiary. The benefit would be recalcu-
- lated  and  payable  as  of  the  effective  date  of this bill with all
- payments ceasing upon the death of Marie Glarakis.
-  If this bill is enacted during the  2023  legislative  session,  there
- will  be  an  immediate past service cost of approximately $50,700. This
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02989-02-3
- A. 6703  2
+  LBD02989-04-4
+ A. 6703--A  2
  
- cost will be shared by the State  of  New  York  and  all  participating
+ lated  and  payable  as  of  the  effective  date  of this bill with all
+ payments ceasing upon the death of Marie Glarakis.
+  If  this  bill  is  enacted during the 2024 Legislative Session, there
+ will be an immediate past service cost of  approximately  $50,000.  This
+ cost  will  be  shared  by  the  State of New York and all participating
  employers in the NYSLPFRS.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation. Distributions and other statistics can  be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al  valuation.  Distributions  and  other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
- New  York  State  and  Local  Retirement System Financial Statements and
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
+ New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This fiscal note does not constitute a legal opinion on the  viability
- of  the  proposed change nor is it intended to serve as a substitute for
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated February 3,  2023,  and  intended  for  use  only
- during  the  2023  Legislative  Session,  is  Fiscal  Note  No. 2023-44,
+  This estimate, dated January 3, 2024, and intended for use only during
+ the  2024  Legislative  Session,  is  Fiscal  Note  No. 2024-23 Revised,
  prepared by the Actuary for the New  York  State  and  Local  Retirement
  System.
