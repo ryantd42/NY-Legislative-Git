@@ -1,6 +1,6 @@
 # Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances
 
-**Bill ID:** S1851BA
+**Bill ID:** S1851BB
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** Vetoed
@@ -16,8 +16,7 @@ Permits the rendering of an estimated bill from a utility corporation or municip
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1851--A
-  Cal. No. 231
+  1851--B
  
   2023-2024 Regular Sessions
  
@@ -26,13 +25,16 @@ S T A T E  O F  N E W  Y O R K
   January 17, 2023
   ___________
  
- Introduced  by  Sens.  HINCHEY,  LIU,  MURRAY  -- read twice and ordered
-  printed, and when printed to be committed to the Committee  on  Energy
-  and  Telecommunications  --  reported  favorably  from said committee,
-  ordered to first and second report, ordered to a third reading, passed
-  by Senate and delivered to the Assembly, recalled, vote  reconsidered,
-  restored  to  third  reading, amended and ordered reprinted, retaining
-  its place in the order of third reading
+ Introduced  by  Sens.  HINCHEY,  LIU,  MURRAY, ROLISON -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Energy  and Telecommunications -- reported favorably from said commit-
+  tee, ordered to first and second report, ordered to a  third  reading,
+  passed  by Senate and delivered to the Assembly, recalled, vote recon-
+  sidered, restored to third reading,  amended  and  ordered  reprinted,
+  retaining  its  place  in the order of third reading -- recommitted to
+  the Committee on Energy  and  Telecommunications  in  accordance  with
+  Senate  Rule  6, sec. 8 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public service law, in relation  to  permitting  the
   rendering  of  an estimated bill from a utility corporation or munici-
@@ -57,24 +59,25 @@ S T A T E  O F  N E W  Y O R K
  (d) circumstances indicate a reported reading is likely to be erroneous,
  or  (e)  an estimated reading is prescribed or authorized by the commis-
  sion for a billing period between periods when actual meter readings are
- scheduled or for seasonal or short  term  customers.  OUTSIDE  OF  THE
- AFOREMENTIONED  CRITERIA FOR ESTIMATED BILLING PURSUANT TO THIS SECTION,
- ALL OTHER BILLS SHALL USE ACTUAL METER READINGS, HOWEVER  SUCH  READINGS
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02154-05-3
- S. 1851--A  2
+  LBD02154-06-4
+ S. 1851--B  2
  
+ scheduled or for seasonal or short  term  customers.  OUTSIDE  OF  THE
+ AFOREMENTIONED  CRITERIA FOR ESTIMATED BILLING PURSUANT TO THIS SECTION,
+ ALL OTHER BILLS SHALL USE ACTUAL METER READINGS, HOWEVER  SUCH  READINGS
  MAY  BE  OBTAINED,  PROVIDED  THAT SUCH READINGS ARE TAKEN IN ACCORDANCE
  WITH THE PROVISIONS OF THIS SECTION.  TO  THE  EXTENT  PRACTICABLE,  ANY
  ADDITIONAL  COSTS  REQUIRED TO ACHIEVE ACTUAL METER READINGS PURSUANT TO
  THIS SUBDIVISION SHALL NOT BE PASSED ONTO THE CUSTOMER.
   1-A. THE COMMISSION SHALL REQUIRE EACH UTILITY CORPORATION AND MUNICI-
- PALITY  WITHIN  SIX MONTHS TO SUBMIT TO THE COMMISSION A MODEL PROCEDURE
- FOR THE CALCULATION OF ESTIMATED BILLS THAT INCORPORATES BEST  PRACTICES
- AND  TECHNOLOGY AND ACCOUNTS FOR ANY BARRIERS TO THE USE OF ACTUAL METER
- READINGS. ON OR BEFORE NOVEMBER FIRST,  TWO  THOUSAND  TWENTY-FOUR,  THE
- COMMISSION  SHALL  PROMULGATE  RULES  AND REGULATIONS TO INCORPORATE AND
- ADOPT SUCH MODEL PROCEDURES FOR UTILITY CORPORATIONS AND MUNICIPALITIES.
+ PALITY WITHIN SIX MONTHS AFTER THE EFFECTIVE DATE OF THIS SUBDIVISION TO
+ SUBMIT TO THE COMMISSION A MODEL PROCEDURE FOR THE CALCULATION OF  ESTI-
+ MATED BILLS THAT INCORPORATES BEST PRACTICES AND TECHNOLOGY AND ACCOUNTS
+ FOR  ANY  BARRIERS  TO  THE  USE  OF ACTUAL METER READINGS. ON OR BEFORE
+ NOVEMBER FIRST, TWO THOUSAND TWENTY-FIVE, THE COMMISSION  SHALL  PROMUL-
+ GATE  RULES  AND  REGULATIONS TO INCORPORATE AND ADOPT SUCH MODEL PROCE-
+ DURES FOR UTILITY CORPORATIONS AND MUNICIPALITIES.
   § 2. This act shall take effect immediately.
