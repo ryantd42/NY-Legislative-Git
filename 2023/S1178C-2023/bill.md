@@ -1,6 +1,6 @@
 # Prohibits the idling of any passenger vehicle for more than 3 consecutive minutes
 
-**Bill ID:** S1178CA
+**Bill ID:** S1178CB
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Prohibits the idling of any passenger vehicle, with certain exceptions, for more
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1178--A
+  1178--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,10 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
   printed to be committed to the Committee on Environmental Conservation
   -- committee discharged, bill amended, ordered  reprinted  as  amended
-  and recommitted to said committee
+  and  recommitted  to said committee -- recommitted to the Committee on
+  Environmental Conservation in accordance with Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
  AN  ACT  to amend the environmental conservation law, in relation to the
   idling time of passenger vehicles
@@ -55,16 +58,16 @@ S T A T E  O F  N E W  Y O R K
   2.  NO PERSON SHALL ALLOW OR PERMIT THE ENGINE OF A PASSENGER VEHICLE
  TO IDLE FOR MORE THAN THREE CONSECUTIVE MINUTES WHEN THE PASSENGER VEHI-
  CLE IS NOT IN MOTION, EXCEPT THAT THIS PROVISION SHALL NOT APPLY WHEN:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04164-04-4
+ S. 1178--B  2
+ 
   (A) SUCH VEHICLE IS FORCED TO REMAIN  MOTIONLESS  BECAUSE  OF  TRAFFIC
  CONDITIONS OVER WHICH THE OPERATOR THEREOF HAS NO CONTROL;
   (B)  REGULATIONS  ADOPTED  BY  A FEDERAL, STATE OR LOCAL AGENCY HAVING
  JURISDICTION REQUIRE THE  MAINTENANCE  OF  A  SPECIFIC  TEMPERATURE  FOR
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD04164-02-3
- S. 1178--A  2
- 
  PASSENGER COMFORT, IN WHICH CASE THE IDLING TIME MAY BE INCREASED TO THE
  EXTENT NECESSARY TO COMPLY WITH SUCH REGULATIONS;
   (C)  A  HYBRID-ELECTRIC VEHICLE IS IDLING FOR THE PURPOSE OF PROVIDING
@@ -74,9 +77,10 @@ S T A T E  O F  N E W  Y O R K
   (E)  WHEN OPERATION OF THE ENGINE IS REQUIRED FOR THE PURPOSE OF MAIN-
  TENANCE;
   (F) SUCH VEHICLE IS IDLING FOR THE PURPOSE OF ENSURING THE SAFE  LOAD-
- ING,  UNLOADING,  OR TRANSPORT OF PERSONS WITH ONE OR MORE DISABILITIES;
- OR
-  (G) SUCH VEHICLE CONTAINS ONE OR MORE CHILDREN OR PETS.
+ ING, UNLOADING, OR TRANSPORT OF PERSONS WITH ONE OR MORE DISABILITIES;
+  (G) SUCH VEHICLE CONTAINS ONE OR MORE CHILDREN OR PETS; OR
+  (H)  SUCH  VEHICLE  IS  A  MILITARY  TACTICAL VEHICLE USED IN MILITARY
+ TRAINING OPERATIONS.
   3. THIS SECTION SHALL NOT APPLY TO THE OPERATION OF  AUTHORIZED  EMER-
  GENCY VEHICLES, AS DEFINED BY SECTION ONE HUNDRED ONE OF THE VEHICLE AND
  TRAFFIC  LAW AND OTHER EMERGENCY VEHICLES AND EQUIPMENT WHILE PERFORMING
