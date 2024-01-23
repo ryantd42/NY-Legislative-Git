@@ -1,6 +1,6 @@
 # Enacts the  family court adjusted service time (FAST) act
 
-**Bill ID:** S2355A
+**Bill ID:** S2355AA
 **Session:** 2023
 **Sponsor:** Simcha Felder
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts the "family court adjusted service time (FAST) act"; requires family cour
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2355
+  2355--A
  
   2023-2024 Regular Sessions
  
@@ -26,23 +26,28 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  FELDER -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Judiciary
- 
- AN ACT to amend the family court act, in relation to the hours of opera-
-  tion  for  family  courts;  and  providing  for  the  repeal  of  such
-  provisions upon expiration thereof
+  printed to be committed to the Committee on Judiciary  --  recommitted
+  to the Committee on Judiciary in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
 
+ AN ACT to amend the family court act, in relation to enacting the "fami-
+  ly court adjusted service time (FAST)  act";  and  providing  for  the
+  repeal of such provisions upon expiration thereof
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision (a) of section 161 of the family court  act  is
- amended to read as follows:
+  Section 1. Short title. This act shall be known and may  be  cited  as
+ the "family court adjusted service time (FAST) act".
+  § 2. Subdivision (a) of section 161 of the family court act is amended
+ to read as follows:
   (a)  The days and hours the court is open shall be as provided by rule
  of court; PROVIDED, THAT THE CHIEF ADMINISTRATOR  OF  THE  COURTS  SHALL
  REQUIRE  THAT  THE COURT REMAIN OPEN UNTIL MIDNIGHT AT LEAST ONE NIGHT A
  WEEK IN AT LEAST TWO COUNTIES IN THE CITY OF NEW YORK, EFFECTIVE JANUARY
- FIRST, TWO THOUSAND TWENTY-FOUR, AND IN AT LEAST THREE COUNTIES IN  SUCH
- CITY,  EFFECTIVE  JANUARY  FIRST, TWO THOUSAND TWENTY-FIVE. WHEN A COURT
+ FIRST, TWO THOUSAND TWENTY-FIVE, AND IN AT LEAST THREE COUNTIES IN  SUCH
+ CITY,  EFFECTIVE  JANUARY  FIRST,  TWO THOUSAND TWENTY-SIX. WHEN A COURT
  REMAINS OPEN UNTIL MIDNIGHT ON A  DAY  AS  PROVIDED  HEREIN,  THE  CHIEF
  ADMINISTRATOR  SHALL DETERMINE THE CLASSES OF CASES THAT MAY BE HEARD IN
  SUCH COURT AFTER FIVE O'CLOCK P.M. AND SUCH  CLASSES  OF  CASES  MAY  BE
@@ -50,16 +55,18 @@ S T A T E  O F  N E W  Y O R K
  CLASSES INCLUDE CASES IN WHICH PETITIONS ARE FILED PURSUANT TO  ARTICLES
  THREE,  SIX,  EIGHT,  AND TEN OF THIS ACT, THE CLERK OF SUCH COURT SHALL
  ACCEPT SUCH PETITIONS UNTIL ELEVEN O'CLOCK P.M. ON SUCH DAY.
-  § 2. Not later than December 1, 2025, the chief administrator  of  the
+  § 3. Not later than December 1, 2026, the chief administrator  of  the
  courts  shall  submit  to  the  legislature, the governor, and the chief
  judge of the state a report evaluating the use of family  court  in  the
  counties wherein the chief administrator, pursuant to subdivision (a) of
- section  161 of the family court act, as amended pursuant to section one
- of this act, has required that the court remain open until midnight.
-  § 3. This act shall take effect immediately and shall expire April  1,
- 2026  when  upon  such  date  the provisions of this act shall be deemed
- repealed.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05182-01-3
+  LBD05182-04-4
+ S. 2355--A  2
+ 
+ section  161 of the family court act, as amended pursuant to section one
+ of this act, has required that the court remain open until midnight.
+  §  4. This act shall take effect immediately and shall expire April 1,
+ 2027 when upon such date the provisions of  this  act  shall  be  deemed
+ repealed.
