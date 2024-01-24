@@ -1,6 +1,6 @@
 # Expands the eligibility period for indigent legal service attorneys to receive certain loan forgiveness and increases loan reimbursement for certain attorneys who work in legal services with indigent clients
 
-**Bill ID:** S4511CB
+**Bill ID:** S4511CC
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Expands the eligibility period for indigent legal service attorneys to receive c
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4511--B
+  4511--C
  
   2023-2024 Regular Sessions
  
@@ -33,54 +33,55 @@ S T A T E  O F  N E W  Y O R K
   recommitted to said committee -- recommitted to the Committee on High-
   er  Education  in  accordance  with Senate Rule 6, sec. 8 -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the education law, in relation to  the  New  York  state
-  district  attorney  and indigent legal services attorney loan forgive-
+ AN  ACT  to  amend  the education law, in relation to the New York state
+  district attorney and indigent legal services attorney  loan  forgive-
   ness program
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Paragraph  b  of  subdivision 2 of section 679-e of the
- education law, as amended by section 1 of part VV of chapter 56  of  the
+  Section 1.  Paragraph b of subdivision 2  of  section  679-e  of  the
+ education  law,  as amended by section 1 of part VV of chapter 56 of the
  laws of 2009, is amended to read as follows:
-  b.  "Eligible  period"  means  the  [six-year] EIGHT-YEAR period after
+  b. "Eligible period" means  the  [six-year]  EIGHT-YEAR  period  after
  completion of the [third] SECOND year and before the commencement of the
- [tenth] ELEVENTH  year  of  employment  as  an  eligible  attorney.  For
- purposes  of  this section, all periods of time during which an admitted
- attorney was employed as an eligible attorney and all  periods  of  time
- during  which  a  law school graduate awaiting admission to the New York
- state bar was employed by a prosecuting [or]  AGENCY,  criminal  defense
- agency,  NON-PROFIT  INDIGENT  CIVIL  LEGAL  SERVICES CORPORATION, OR AS
- ASSIGNED COUNSEL as permitted by section four hundred eighty-four of the
- judiciary law shall be combined.
+ [tenth]  ELEVENTH  year  of  employment  as  an  eligible  attorney. For
+ purposes of this section, all periods of time during which  an  admitted
+ attorney  was  employed  as an eligible attorney and all periods of time
+ during which a law school graduate awaiting admission to  the  New  York
+ state  bar  was  employed by a prosecuting [or] AGENCY, criminal defense
+ agency, NON-PROFIT INDIGENT CIVIL LEGAL SERVICES CORPORATION as  permit-
+ ted  by  section  four hundred eighty-four of the judiciary law shall be
+ combined.
   § 2. Paragraph d of subdivision 2 of section 679-e  of  the  education
  law,  as  amended  by  section 1 of part VV of chapter 56 of the laws of
  2009, is amended to read as follows:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02878-06-3
- S. 4511--B  2
+  LBD02878-08-4
+ S. 4511--C  2
  
   d. "Year of qualified service" means the twelve month period  measured
  from  the anniversary of the attorney's employment as an eligible attor-
  ney, or as a law school graduate awaiting  admission  to  the  New  York
  state  bar  employed  by  a  prosecuting  [or]  AGENCY, criminal defense
- agency,  NON-PROFIT  INDIGENT  CIVIL  LEGAL  SERVICES CORPORATION, OR AS
- ASSIGNED COUNSEL as permitted by section four hundred eighty-four of the
- judiciary law, adjusted for any interruption in employment.  VACATION OR
- LEAVE TIME PROVIDED BY THE EMPLOYER OR LEAVE TAKEN FOR A CONDITION  THAT
- IS  A QUALIFYING REASON FOR LEAVE UNDER THE FAMILY AND MEDICAL LEAVE ACT
- OF 1993, 29 U.S.C. 2612(A)(1) AND (3) SHALL NOT BE CONSIDERED AN  INTER-
- RUPTION  IN  QUALIFYING  EMPLOYMENT. Any period of [temporary leave from
- service] INTERRUPTION IN QUALIFYING  EMPLOYMENT  taken  by  an  eligible
- attorney  shall  not  be  considered  in  the  calculation  of qualified
- service. However, the period of [temporary leave shall be considered an]
- interruption in QUALIFYING employment and the calculation  of  the  time
- period  of qualified service shall recommence when the eligible attorney
- returns to [full time] service.
+ agency,  NON-PROFIT INDIGENT CIVIL LEGAL SERVICES CORPORATION as permit-
+ ted by section four hundred eighty-four of the judiciary  law,  adjusted
+ for  any interruption in employment.  VACATION OR LEAVE TIME PROVIDED BY
+ THE EMPLOYER OR LEAVE TAKEN FOR A CONDITION THAT IS A QUALIFYING  REASON
+ FOR  LEAVE  UNDER  THE  FAMILY  AND MEDICAL LEAVE ACT OF 1993, 29 U.S.C.
+ 2612(A)(1) AND (3) SHALL NOT BE CONSIDERED AN INTERRUPTION IN QUALIFYING
+ EMPLOYMENT. Any period of [temporary leave from service] INTERRUPTION IN
+ QUALIFYING EMPLOYMENT taken by an eligible attorney shall not be consid-
+ ered in the calculation of qualified service.  However,  the  period  of
+ [temporary  leave  shall  be  considered  an] interruption in QUALIFYING
+ employment and the calculation of the time period of  qualified  service
+ shall  recommence  when  the  eligible  attorney  returns to [full time]
+ service.
   § 3. Paragraph a of subdivision 3 of section 679-e  of  the  education
  law,  as  amended  by  section 1 of part VV of chapter 56 of the laws of
  2009, is amended to read as follows:
@@ -104,6 +105,6 @@ S T A T E  O F  N E W  Y O R K
  the  president.  An  eligible  attorney may receive student loan expense
  grants for no more than [six] EIGHT years of qualified service within an
  eligible period.
-  § 5. This act shall take effect April 1, 2024.  Nothing  in  this  act
+  § 5. This act shall take effect April 1, 2025.  Nothing  in  this  act
  shall  be  implemented  in a manner that diminishes the current award or
  status of eligible attorneys currently participating in the program.
