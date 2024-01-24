@@ -1,6 +1,6 @@
 # Allows pharmacy technicians to practice in any pharmacy under the supervision of a pharmacist
 
-**Bill ID:** A8115B
+**Bill ID:** A8115BA
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Allows pharmacy technicians to practice in any pharmacy under the supervision of
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8115
+  8115--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   October 13, 2023
   ___________
  
- Introduced  by M. of A. SOLAGES -- read once and referred to the Commit-
-  tee on Higher Education
- 
+ Introduced  by  M.  of A. SOLAGES, McDONALD -- read once and referred to
+  the Committee on Higher Education -- recommitted to the  Committee  on
+  Higher Education in accordance with Assembly Rule 3, sec. 2 -- commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
+
  AN ACT to amend the education law,  in  relation  to  allowing  pharmacy
   technicians  to  practice  in  any pharmacy under the supervision of a
   pharmacist
@@ -56,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  ing, labeling, or dispensing of drugs, in accordance with  this  article
  and  article one hundred thirty-seven of this title. For the purposes of
  this article, direct personal supervision means  supervision  of  proce-
- dures  based  on  instructions  given directly by a supervising licensed
- pharmacist who remains in the immediate area where  the  procedures  are
- being  performed, authorizes the procedures and evaluates the procedures
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02687-01-3
- A. 8115  2
+  LBD02687-02-4
+ A. 8115--A  2
  
- performed by the  registered  pharmacy  technicians  and  a  supervising
- licensed  pharmacist  shall approve all work performed by the registered
+ dures  based  on  instructions  given directly by a supervising licensed
+ pharmacist who remains in the [immediate] area where the procedures  are
+ being  performed, authorizes the procedures and evaluates the procedures
+ performed  by  the  registered  pharmacy  technicians  and a supervising
+ licensed pharmacist shall approve all work performed by  the  registered
  pharmacy technician prior to the actual dispensing of any drug.
   § 2. This act shall take effect immediately.
