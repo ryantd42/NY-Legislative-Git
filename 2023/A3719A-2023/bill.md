@@ -1,6 +1,6 @@
 # Prohibits idling by heavy duty vehicles
 
-**Bill ID:** A3719A
+**Bill ID:** A3719AA
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Prohibits idling by heavy duty vehicles.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3719
+  3719--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,19 @@ S T A T E  O F  N E W  Y O R K
   February 7, 2023
   ___________
  
- Introduced  by M. of A. EPSTEIN -- read once and referred to the Commit-
-  tee on Environmental Conservation
+ Introduced  by  M.  of A. EPSTEIN, CUNNINGHAM, LEVENBERG, KELLES, GIBBS,
+  SILLITTI, REYES, SIMON, DICKENS, L. ROSENTHAL, RAGA -- read  once  and
+  referred to the Committee on Environmental Conservation -- recommitted
+  to  the  Committee  on  Environmental  Conservation in accordance with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the  environmental  conservation  law,  in  relation  to
   prohibiting idling by heavy duty vehicles
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Article 19 of the environmental conservation law is amended
  by adding a new title 13 to read as follows:
   TITLE 13
@@ -42,6 +46,7 @@ S T A T E  O F  N E W  Y O R K
   19-1303. DEFINITIONS.
   19-1305. PROHIBITIONS.
   19-1307. EXCEPTIONS.
+  19-1309. PENALTIES.
  § 19-1301. APPLICABILITY.
   THIS TITLE SHALL APPLY TO ALL ON-ROAD HEAVY DUTY VEHICLES PROPELLED BY
  DIESEL FUELED AND NON-DIESEL FUELED ENGINES  EXCLUDING  MARINE  VESSELS.
@@ -54,19 +59,15 @@ S T A T E  O F  N E W  Y O R K
  § 19-1305. PROHIBITIONS.
   NO PERSON WHO OWNS, OPERATES OR LEASES A HEAVY DUTY VEHICLE  INCLUDING
  A  BUS  OR  TRUCK, THE MOTIVE POWER FOR WHICH IS PROVIDED BY A DIESEL OR
- NON-DIESEL FUELED ENGINE OR WHO OWNS, LEASES OR OCCUPIES  LAND  AND  HAS
- THE ACTUAL OR APPARENT DOMINION OR CONTROL OVER THE OPERATION OF A HEAVY
- DUTY  VEHICLE  INCLUDING A BUS OR TRUCK PRESENT ON SUCH LAND, THE MOTIVE
- POWER FOR WHICH SAID HEAVY DUTY VEHICLE IS PROVIDED BY A DIESEL OR  NON-
- DIESEL  FUELED  ENGINE,  SHALL  ALLOW OR PERMIT THE ENGINE OF SUCH HEAVY
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07791-01-3
- A. 3719  2
+  LBD07791-04-4
+ A. 3719--A  2
  
- DUTY VEHICLE TO IDLE FOR MORE THAN FIVE  CONSECUTIVE  MINUTES  WHEN  THE
- HEAVY  DUTY  VEHICLE  IS NOT IN MOTION, EXCEPT AS OTHERWISE PERMITTED BY
+ NON-DIESEL FUELED ENGINE SHALL ALLOW OR PERMIT THE ENGINE OF SUCH  HEAVY
+ DUTY  VEHICLE  TO  IDLE  FOR MORE THAN FIVE CONSECUTIVE MINUTES WHEN THE
+ HEAVY DUTY VEHICLE IS NOT IN MOTION, EXCEPT AS  OTHERWISE  PERMITTED  BY
  SECTION 19-1307 OF THIS TITLE.
  § 19-1307. EXCEPTIONS.
   THE  PROHIBITIONS  OF SECTION 19-1305 OF THIS TITLE SHALL NOT APPLY IN
@@ -99,6 +100,10 @@ S T A T E  O F  N E W  Y O R K
   9. TO HEAVY DUTY VEHICLES USED FOR AGRICULTURAL PURPOSES  ON  A  FARM;
  AND
   10. TO ELECTRIC POWERED VEHICLES.
+ § 19-1309. PENALTIES.
+  ANY  PERSON  WHO  KNOWINGLY OR INTENTIONALLY VIOLATES ANY PROVISION OF
+ THIS SECTION SHALL BE LIABLE FOR A  CIVIL  PENALTY  NOT  TO  EXCEED  ONE
+ HUNDRED FIFTY DOLLARS.
   §  2.  This  act shall take effect on the ninetieth day after it shall
  have become a law.  Effective  immediately,  the  addition,  amendment
  and/or repeal of any rule or regulation necessary for the implementation
