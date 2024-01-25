@@ -1,0 +1,52 @@
+# Requires that free menstrual products be provided in the bathrooms of private universities
+
+**Bill ID:** A8873
+**Session:** 2023
+**Sponsor:** Linda Rosenthal
+**Status:** In Assembly Committee
+
+## Summary
+
+Requires that free menstrual products be provided in the commonly used bathrooms of private universities.
+
+---
+
+## Full Text
+
+S T A T E  O F  N E W  Y O R K
+ ________________________________________________________________________
+ 
+  8873
+ 
+  I N  A S S E M B L Y
+ 
+  January 25, 2024
+  ___________
+ 
+ Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
+  Committee on Higher Education
+ 
+ AN ACT to amend the public health law, in  relation  to  providing  free
+  menstrual products in the restrooms of private universities
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+
+  Section 1. The public health law is amended by adding  a  new  section
+ 267-b to read as follows:
+  §  267-B. MENSTRUAL PRODUCTS IN PRIVATE COLLEGES AND UNIVERSITIES. ALL
+ PRIVATE COLLEGES AND UNIVERSITIES IN THE STATE SHALL  PROVIDE  MENSTRUAL
+ PRODUCTS  IN  THE  RESTROOMS  OF SUCH SCHOOL BUILDING OR BUILDINGS. SUCH
+ PRODUCTS SHALL BE PROVIDED AT NO CHARGE TO STUDENTS.
+  § 2. This act shall take effect immediately.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD13435-02-4
