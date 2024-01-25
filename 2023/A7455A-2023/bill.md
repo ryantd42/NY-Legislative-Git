@@ -1,6 +1,6 @@
 # Authorizes retired firefighters to be employed as fire science instructors by career and technical education centers without a reduction of benefits
 
-**Bill ID:** A7455A
+**Bill ID:** A7455AA
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes retired firefighters to be employed as fire science instructors by ca
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7455
+  7455--A
  
   2023-2024 Regular Sessions
  
@@ -26,75 +26,78 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. GUNTHER, COLTON, STECK, FRIEND -- read once and
-  referred to the Committee on Governmental Employees
- 
- AN ACT to amend the retirement and social security law, in  relation  to
+  referred to the Committee on Governmental Employees -- recommitted  to
+  the  Committee  on  Governmental Employees in accordance with Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
+ AN  ACT  to amend the retirement and social security law, in relation to
   authorizing retired firefighters to be employed as instructors of fire
   sciences by a career and technical education center without diminution
   of his or her retirement benefits
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The retirement and social security law is amended by adding
  a new section 214-c to read as follows:
-  § 214-C. EMPLOYMENT OF CERTAIN RETIRED PERSONS WHO RETIRED  FROM  FIRE
+  §  214-C.  EMPLOYMENT OF CERTAIN RETIRED PERSONS WHO RETIRED FROM FIRE
  SERVICE.  NOTWITHSTANDING  THE  PROVISIONS  OF  THIS  CHAPTER  OR  THE
- PROVISIONS OF ANY STATE OR LOCAL LAW OR  CHARTER  TO  THE  CONTRARY,  NO
+ PROVISIONS  OF  ANY  STATE  OR  LOCAL LAW OR CHARTER TO THE CONTRARY, NO
  RETIRED PERSON WHO RETIRED FROM FIRE SERVICE AS A MEMBER OF THE NEW YORK
- STATE  AND  LOCAL POLICE AND FIRE RETIREMENT SYSTEM OR THE NEW YORK FIRE
- DEPARTMENT PENSION FUND, AND WHO IS EMPLOYED BY A CAREER  AND  TECHNICAL
- EDUCATION  CENTER AS AN INSTRUCTOR IN A FIRE SCIENCE PROGRAM APPROVED BY
- THE EDUCATION DEPARTMENT, SHALL HAVE HIS OR HER RETIREMENT ALLOWANCE  OR
- BENEFITS  SUSPENDED  OR  REDUCED  BECAUSE OF COMPENSATION EARNED BY SUCH
+ STATE AND LOCAL POLICE AND FIRE RETIREMENT SYSTEM OR THE NEW  YORK  FIRE
+ DEPARTMENT  PENSION  FUND, AND WHO IS EMPLOYED BY A CAREER AND TECHNICAL
+ EDUCATION CENTER AS AN INSTRUCTOR IN A FIRE SCIENCE PROGRAM APPROVED  BY
+ THE  EDUCATION DEPARTMENT, SHALL HAVE HIS OR HER RETIREMENT ALLOWANCE OR
+ BENEFITS SUSPENDED OR REDUCED BECAUSE OF  COMPENSATION  EARNED  BY  SUCH
  RETIRED PERSON FROM SERVICE AS A FIRE SCIENCE INSTRUCTOR.
   § 2. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  Insofar as it would affect the New York  State  and  Local  Retirement
- System  (NYSLRS),  this  bill  would  allow retired firefighters who are
- employed as fire science instructors in a program approved  by  the  New
- York  State  Department  of  Education to continue to receive their full
- retirement benefit. Currently, the  post-retirement  earnings  limit  is
- $35,000.
-  If  this  bill  were  enacted during the 2023 legislative session, the
- direct cost incurred would be  the  retiree's  post-retirement  earnings
-
+  Insofar  as  it  would  affect the New York State and Local Retirement
+ System (NYSLRS), this bill would allow retired firefighters employed  as
+ fire  science  instructors  in  a program approved by the New York State
+ Department of Education to continue to  receive  their  full  retirement
+ benefit. Currently, the post-retirement earnings limit is $35,000.
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06509-02-3
- A. 7455  2
+  LBD06509-04-4
+ A. 7455--A  2
  
+  If  this  bill  were  enacted during the 2024 Legislative Session, the
+ direct cost incurred would be  the  retiree's  post-retirement  earnings
  more  than  $35,000  each  calendar year, not to exceed the full pension
  benefit paid by the NYSLRS during that period.
   The  number  of  members  and  retirees  who could be affected by this
  legislation cannot be readily determined. For each retiree hired  pursu-
- ant  to  this  proposal, an annual cost of $90,000 is expected. If large
+ ant  to  this  proposal, an annual cost of $95,000 is expected. If large
  numbers of retirees are hired into such  positions,  significant  annual
  costs would result.
   All  costs will be shared by the State of New York and all participat-
  ing employers in the NYSLRS and spread over future billing cycles. Since
  this proposal exclusively benefits retirees,  the  increased  costs  are
  primarily  attributable to retirees from Tiers 1 - 4. Approximately half
- the contributions required to fund this proposal will  be  collected  on
+ of all contributions required to fund this proposal will be collected on
  salary reported for current members of Tier 6.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al  valuation.  Distributions  and  other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
- New  York  State  and  Local  Retirement System Financial Statements and
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
+ New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This fiscal note does not constitute a legal opinion on the  viability
- of  the  proposed change nor is it intended to serve as a substitute for
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated March 30, 2023, and intended for use only  during
- the  2023  Legislative  Session, is Fiscal Note No. 2023-50, prepared by
- the Actuary for the New York State and Local Retirement System.
+  This  estimate,  dated  January  22,  2024,  and intended for use only
+ during the  2024  Legislative  Session,  is  Fiscal  Note  No.  2024-69,
+ prepared  by  the  Actuary  for  the New York State and Local Retirement
+ System.
