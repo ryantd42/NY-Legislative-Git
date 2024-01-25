@@ -1,6 +1,6 @@
 # Prohibits telephone corporations from charging a caller any increased rates, charges, or fees for intrastate long-distance or other calls without first notifying such caller
 
-**Bill ID:** S7172A
+**Bill ID:** S7172AA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Prohibits telephone corporations from charging a caller any increased rates, cha
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7172
+  7172--A
  
   2023-2024 Regular Sessions
  
@@ -27,12 +27,15 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  COONEY -- read twice and ordered printed, and when
   printed to be committed to the Committee on  Energy  and  Telecommuni-
-  cations
+  cations  --  recommitted  to  the Committee on Energy and Telecommuni-
+  cations in  accordance  with  Senate  Rule  6,  sec.  8  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the public service law, in relation to prohibiting tele-
   phone  corporations from charging a caller any increased rates, charg-
-  es, or fees for long-distance or other calls without  first  notifying
-  such caller
+  es, or fees for intrastate long-distance or other calls without  first
+  notifying such caller
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -45,16 +48,15 @@ S T A T E  O F  N E W  Y O R K
  SUCH PERSON OR CORPORATION  AT  THE  BEGINNING  OF  SUCH  CALL  OF  SUCH
  INCREASED  RATE, CHARGE, OR FEE. INCREASED RATES, CHARGES, OR FEES UNDER
  THIS PARAGRAPH SHALL INCLUDE BUT NOT  BE  LIMITED  TO  INCREASED  RATES,
- CHARGES, OR FEES FOR LONG-DISTANCE CALLS MADE OR RECEIVED BY A PERSON OR
- CORPORATION.
-  §  2.  This  act  shall take effect on the sixtieth day after it shall
+ CHARGES,  OR  FEES  FOR  INTRASTATE LONG-DISTANCE CALLS MADE OR RECEIVED
+ INTRASTATE BY A PERSON OR CORPORATION.
+  § 2. This act shall take effect on the sixtieth  day  after  it  shall
  have become a law. Effective immediately, the addition, amendment and/or
- repeal of any rule or regulation necessary  for  the  implementation  of
- this  act  on its effective date are authorized to be made and completed
+ repeal  of  any  rule  or regulation necessary for the implementation of
+ this act on its effective date are authorized to be made  and  completed
  on or before such effective date.
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04528-01-3
+  LBD04528-02-4
