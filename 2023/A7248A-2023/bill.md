@@ -1,6 +1,6 @@
 # Authorizes the town of Seneca Falls to offer an optional twenty-year retirement plan to a certain formerly employed police officer
 
-**Bill ID:** A7248A
+**Bill ID:** A7248AA
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the town of Seneca Falls to offer an optional twenty-year retirement 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7248
+  7248--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. KELLES -- read once and referred to the Committee
-  on Governmental Employees
- 
+  on  Governmental  Employees -- recommitted to the Committee on Govern-
+  mental Employees in accordance with Assembly Rule 3, sec. 2 -- commit-
+  tee discharged, bill amended, ordered reprinted as amended and  recom-
+  mitted to said committee
+
  AN  ACT to authorize the town of Seneca Falls to offer an optional twen-
   ty-year retirement plan to a certain formerly employed police officer
  
@@ -56,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  eafter, such police officer may elect to be covered by the provisions of
  section  384-d  of  the retirement and social security law, and shall be
  entitled to the full rights and benefits associated with coverage  under
- such  section,  by  filing a request to that effect with the state comp-
- troller no later than one year from the effective date of this act.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10935-02-3
- A. 7248  2
+  LBD10935-04-4
+ A. 7248--A  2
  
+ such  section,  by  filing a request to that effect with the state comp-
+ troller no later than one year from the effective date of this act.
   § 2. All costs associated with implementing the provisions of this act
  shall be borne by the town of Seneca Falls.
   § 3. This act shall take effect immediately.
@@ -76,23 +79,23 @@ S T A T E  O F  N E W  Y O R K
  Such service is currently creditable in the age-55  retirement  plan  of
  section  375-i of the RSSL but not in the 20-year plan of section 384-d.
  Jamie Buffone is currently employed by the City of Ithaca.
-  If this bill is enacted during the  2023  legislative  session,  there
- will  be  an immediate past service cost of approximately $201,000 which
+  If this bill is enacted during the  2024  legislative  session,  there
+ will  be  an immediate past service cost of approximately $108,000 which
  will be borne by the Town of Seneca Falls as a  one-time  payment.  This
- estimate assumes that payment will be made on February 1, 2024.
+ estimate assumes that payment will be made on February 1, 2025.
   This  bill  will  not  increase the future annual contributions of the
  City of Ithaca.
   Summary of relevant resources:
-  Membership data as of March 31, 2022 was used in measuring the  impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al  valuation.  Distributions  and  other statistics can be found in the
- 2022 Report of the Actuary and the 2022 Annual  Comprehensive  Financial
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The  actuarial assumptions and methods used are described in the 2020,
- 2021, and 2022 Annual Report to the  Comptroller  on  Actuarial  Assump-
- tions,  and  the  Codes, Rules and Regulations of the State of New York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -100,6 +103,6 @@ S T A T E  O F  N E W  Y O R K
   This  fiscal note does not constitute a legal opinion on the viability
  of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated May 4, 2023, and intended for use only during the
- 2023  Legislative  Session, is Fiscal Note No. 2023-148, prepared by the
- Actuary for the New York State and Local Retirement System.
+  This  estimate,  dated  January  19,  2024,  and intended for use only
+ during the 2024 Legislative Session, is Fiscal Note No. 2024-7, prepared
+ by the Actuary for the New York State and Local Retirement System.
