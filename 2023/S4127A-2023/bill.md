@@ -1,6 +1,6 @@
 # Establishes a direct support wage enhancement to employees that provide direct care support or any other form of treatment, to individuals with developmental disabilities
 
-**Bill ID:** S4127A
+**Bill ID:** S4127AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes a direct support wage enhancement to employees that provide direct c
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4127
+  4127--A
  
   2023-2024 Regular Sessions
  
@@ -25,18 +25,23 @@ S T A T E  O F  N E W  Y O R K
   February 3, 2023
   ___________
  
- Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Disabilities
+ Introduced  by  Sens.  MANNION,  ASHBY,  BROUK,  CANZONERI-FITZPATRICK,
+  COMRIE, COONEY, GALLIVAN, GONZALEZ, MARTINEZ, RHOADS, SANDERS,  SKOUF-
+  IS, WEBB, WEBER -- read twice and ordered printed, and when printed to
+  be  committed  to  the Committee on Disabilities -- recommitted to the
+  Committee on Disabilities in accordance with Senate Rule 6, sec. 8  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT relating to establishing a direct  support  wage  enhancement  to
   employees that provide direct care support or any other form of treat-
   ment, to individuals with developmental disabilities
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Direct support wage  enhancement.  1.  Notwithstanding  any
- other  inconsistent provision of law, effective April 1, 2023, providers
+ other  inconsistent provision of law, effective April 1, 2024, providers
  licensed, funded, approved and/or certified by  the  office  for  people
  with  developmental disabilities to provide treatment, services and care
  for individuals with developmental disabilities  shall  receive  supple-
@@ -53,14 +58,16 @@ S T A T E  O F  N E W  Y O R K
  office  for  people  with developmental disabilities under this section,
  employers shall indicate the number of eligible employees based  on  the
  list of eligible titles pursuant to subdivision two of this section.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08578-02-4
+ S. 4127--A  2
+ 
   4.  The commissioner of the office for people with developmental disa-
  bilities shall distribute an allocation to each eligible provider equiv-
  alent to four thousand dollars per eligible employee based on the  forms
  developed pursuant to subdivision three of this section.
   5.  The  funds  distributed  pursuant  to this section must be used to
  enhance base wages and benefits of eligible employees.
-  § 2. This act shall take effect April 1, 2023.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD08578-01-3
+  § 2. This act shall take effect April 1, 2024.
