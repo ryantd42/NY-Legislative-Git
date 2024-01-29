@@ -1,6 +1,6 @@
 # Enacts the "fair pay for home care act"
 
-**Bill ID:** S3189A
+**Bill ID:** S3189AA
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "fair pay for home care act" relating to minimum wages applicable to 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3189
+  3189--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,16 @@ S T A T E  O F  N E W  Y O R K
   January 30, 2023
   ___________
  
- Introduced  by  Sens.  MAY,  ADDABBO,  BAILEY, BRESLIN, BRISPORT, BROUK,
-  CLEARE,  COMRIE,  COONEY,  FELDER,  FERNANDEZ,  GIANARIS,  GONZALEZ,
-  GOUNARDES,  HARCKHAM,  HELMING,  HINCHEY,  HOYLMAN-SIGAL,  JACKSON,
-  KAVANAGH, KENNEDY, LIU, MANNION,  MAYER,  MYRIE,  OBERACKER,  PALUMBO,
-  PARKER,  RAMOS, RIVERA, SALAZAR, SANDERS, SEPULVEDA, SERRANO, SKOUFIS,
-  STAVISKY, TEDISCO, THOMAS, WEIK -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Health
+ Introduced by Sens. MAY, ADDABBO, BAILEY, BRESLIN, BRISPORT, BROUK, CHU,
+  CLEARE,  COMRIE, COONEY, FELDER, FERNANDEZ, GALLIVAN, GIANARIS, GONZA-
+  LEZ, GOUNARDES, HARCKHAM, HELMING,  HINCHEY,  HOYLMAN-SIGAL,  JACKSON,
+  KAVANAGH,  KENNEDY,  LIU,  MANNION,  MAYER, MYRIE, OBERACKER, PALUMBO,
+  PARKER, RAMOS, RIVERA, SALAZAR, SANDERS, SEPULVEDA, SERRANO,  SKOUFIS,
+  STAVISKY, TEDISCO, THOMAS, WEBB, WEIK -- read twice and ordered print-
+  ed,  and  when  printed  to be committed to the Committee on Health --
+  recommitted to the Committee on Health in accordance with Senate  Rule
+  6,  sec. 8 -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the public health law, in relation to enacting the "fair
   pay for home care act"
@@ -42,31 +45,62 @@ S T A T E  O F  N E W  Y O R K
   Section  1.  This act shall be known and may be cited as the "fair pay
  for home care act".
   § 2. Subdivision 2 of section 3614-f of  the  public  health  law,  as
- added  by  section  1  of  part XX of chapter 56 of the laws of 2022, is
+ amended  by  section  3 of part NN of chapter 57 of the laws of 2023, is
  amended to read as follows:
-  2. [In addition to the otherwise applicable minimum wage under section
- six hundred fifty-two of the labor law, or any otherwise applicable wage
- rule or order under article nineteen of the labor law] BEGINNING JANUARY
- FIRST, TWO THOUSAND TWENTY-FOUR, the minimum  wage for a home care  aide
- shall  be  [increased  by  an  amount of three dollars and zero cents in
- accordance with the following schedule:
-  (a) beginning October first, two thousand twenty-two, the minimum wage
- for a home care aide shall be increased by an amount of two dollars  and
- zero cents, and
-  (b)  beginning  October  first, two thousand twenty-three, the minimum
- wage for a home care aide shall be increased by an additional amount  of
- one dollar and zero cents] NO LESS THAN ONE HUNDRED FIFTY PERCENT OF THE
- OTHERWISE APPLICABLE STATEWIDE MINIMUM WAGE OR APPLICABLE REGIONAL MINI-
- MUM WAGE PURSUANT TO SECTION SIX HUNDRED FIFTY-TWO OF THE LABOR LAW.
+  2. (a) Beginning October first, two thousand twenty-two,  in  addition
+ to  the  otherwise  applicable  minimum  wage  under section six hundred
+ fifty-two of the labor law, or any otherwise  applicable  wage  rule  or
+ order  under  article  nineteen of the labor law, the minimum wage for a
+ home care aide shall be increased by an amount of two dollars  and  zero
+ cents.
+  (b)  [for]  FOR  the  period  January  first, two thousand twenty-four
+ through December thirty-first, two  thousand  twenty-four,  the  minimum
+ wage for a home care aide shall be as follows:
+  (i) for each hour worked in downstate, eighteen dollars and fifty-five
+ cents; and
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01890-04-3
- S. 3189  2
+  LBD01890-05-4
+ S. 3189--A  2
  
-  §  3. Section 3614-f of the public health law is amended by adding six
- new subdivisions 4, 5, 6, 7, 8 and 9 to read as follows:
-  4. (A) THE COMMISSIONER SHALL ESTABLISH A REGIONAL MINIMUM HOURLY BASE
+  (ii) for each hour worked in remainder of state, seventeen dollars and
+ fifty-five cents;
+  (c)  [for]  FOR  the  period  January  first, two thousand twenty-five
+ through [December thirty-first] APRIL FIRST, two  thousand  twenty-five,
+ the minimum wage for a home care aide shall be as follows:
+  (i) for each hour worked in downstate, nineteen dollars and ten cents;
+ and
+  (ii)  for each hour worked in remainder of state, eighteen dollars and
+ ten cents;
+  (d) [for] FOR the  period  [January  first,  two  thousand  twenty-six
+ through December thirty-first, two thousand twenty-six, the minimum wage
+ for a home care aide shall be as follows:
+  (i) for each hour worked in downstate, nineteen dollars and sixty-five
+ cents; and
+  (ii)  for each hour worked in remainder of state, eighteen dollars and
+ sixty-five cents;
+  (e) beginning January first, two thousand twenty-seven, and each Janu-
+ ary first thereafter, the minimum wage for a home care aide shall be the
+ sum of the minimum wage for a home care aide  from  the  prior  calendar
+ year and the home care worker wage adjustment.
+  (f)  (i)  Notwithstanding  any provision of law to the contrary, in no
+ event shall the minimum wage for a home care aide  in  downstate  exceed
+ the  sum  of the wage set by the commissioner of labor pursuant to para-
+ graph (a) of subdivision one-b of section six hundred fifty-two  of  the
+ labor law plus three dollars and zero cents.
+  (ii) Notwithstanding any provision of law to the contrary, in no event
+ shall the minimum wage for a home care aide in remainder of state exceed
+ the  sum  of the wage set by the commissioner of labor pursuant to para-
+ graph (b) of subdivision one-b of section six hundred fifty-two  of  the
+ labor  law plus three dollars and zero cents] ON AND AFTER APRIL SECOND,
+ TWO THOUSAND TWENTY-FIVE, THE MINIMUM WAGE FOR A HOME CARE AIDE SHALL BE
+ NO LESS THAN ONE HUNDRED FIFTY PERCENT OF THE APPLICABLE STATEWIDE MINI-
+ MUM WAGE OR APPLICABLE REGIONAL MINIMUM WAGE  PURSUANT  TO  SECTION  SIX
+ HUNDRED FIFTY-TWO OF THE LABOR LAW.
+  § 3. Section 3614-f of the public health law is amended by adding five
+ new subdivisions 5, 6, 7, 8 and 9 to read as follows:
+  5. (A) THE COMMISSIONER SHALL ESTABLISH A REGIONAL MINIMUM HOURLY BASE
  REIMBURSEMENT  RATE  FOR  ALL PROVIDERS EMPLOYING WORKERS SUBJECT TO THE
  MINIMUM WAGE PROVISIONS ESTABLISHED IN SUBDIVISION TWO OF THIS  SECTION.
  THE  REGIONAL  MINIMUM  HOURLY BASE REIMBURSEMENT RATE SHALL BE BASED ON
@@ -86,45 +120,24 @@ S T A T E  O F  N E W  Y O R K
  STATE  UNEMPLOYMENT  INSURANCE,  DISABILITY  INSURANCE, WORKERS' COMPEN-
  SATION, AND THE METROPOLITAN TRANSPORTATION AUTHORITY TAX;
   (V) RELATED INCREASES TIED TO BASE WAGES SUCH AS COMPRESSION;
+ S. 3189--A  3
+
   (VI) REASONABLE ADMINISTRATIVE COSTS AS DEFINED BY THE COMMISSIONER;
   (VII) ALLOWANCES FOR CAPITAL COSTS;
-  (VIII) THE DEVELOPMENT OF PROFIT OR RESERVES AS ALLOWABLE  BY  LAW  OR
+  (VIII)  THE  DEVELOPMENT  OF PROFIT OR RESERVES AS ALLOWABLE BY LAW OR
  REGULATIONS OF THE COMMISSIONER; AND
   (IX) ANY ADDITIONAL SUPPLEMENTAL PAYMENTS.
-  5.  (A)  THE  INITIAL  REGIONAL MINIMUM HOURLY BASE REIMBURSEMENT RATE
- SHALL BE NO LESS THAN THE FOLLOWING:
-  (I) THIRTY-EIGHT DOLLARS AND FIFTY CENTS PER HOUR IN THE  WAGE  PARITY
- REGION,  ENCOMPASSING ALL COUNTIES SUBJECT TO SECTION THIRTY-SIX HUNDRED
- FOURTEEN OF THIS ARTICLE; AND
-  (II) THIRTY-EIGHT DOLLARS AND EIGHTEEN CENTS PER HOUR FOR THE COUNTIES
- IN THE REMAINDER OF THE STATE.
-  (B) FOR CONSUMER DIRECTED PERSONAL ASSISTANCE SERVICES PROVIDED  UNDER
- SECTION  THREE  HUNDRED  SIXTY-FIVE-F  OF  THE  SOCIAL SERVICES LAW, THE
- INITIAL REGIONAL MINIMUM HOURLY BASE REIMBURSEMENT  RATE  SHALL  REFLECT
- THE  RATES  ESTABLISHED  IN  PARAGRAPH (A) OF THIS SUBDIVISION, PROVIDED
- THAT THE COMMISSIONER MAY REDUCE SUCH RATES BY NO MORE THAN  TWELVE  AND
- NINE-TENTHS  PERCENT.  IN  THE  EVENT  THAT SUCH REDUCTION OCCURS, A PER
- MEMBER, PER MONTH  INCREASE  REFLECTIVE  OF  ACTUAL  ADMINISTRATIVE  AND
- GENERAL  COSTS,  ADJUSTED TO REFLECT REGIONAL DIFFERENCES AS REGIONS ARE
- DEFINED IN THIS SECTION, SHALL BE MADE TO FISCAL INTERMEDIARIES ADMINIS-
- TERING SUCH PROGRAMS. IF THE DEPARTMENT OR A MANAGED  CARE  ORGANIZATION
- CHOOSES  NOT  TO  UTILIZE  THE PER MEMBER, PER MONTH PAYMENT ESTABLISHED
- PURSUANT TO THIS PARAGRAPH, THE REGIONAL MINIMUM HOURLY BASE  REIMBURSE-
- MENT  RATE FOR SUCH REGION, AS DEFINED IN PARAGRAPH (A) OF THIS SUBDIVI-
- SION, SHALL APPLY.
   (C) FOLLOWING THE INITIAL ESTABLISHED  REGIONAL  MINIMUM  HOURLY  BASE
  REIMBURSEMENT  RATE  ESTABLISHED  UNDER  THIS  SECTION, THE COMMISSIONER
  SHALL ANNUALLY ADJUST THE REGIONAL  MINIMUM  HOURLY  BASE  REIMBURSEMENT
  RATE  FOR  EACH  REGION BY A TREND FACTOR TO REFLECT AND ACCOMMODATE ANY
  ADDITIONAL LABOR LAW INCREASES, CHANGES OR MANDATES. UPDATED RATES SHALL
- BE MADE PUBLICLY AVAILABLE THE FIRST DAY OF EACH OCTOBER THEREAFTER  FOR
+ BE  MADE PUBLICLY AVAILABLE THE FIRST DAY OF EACH OCTOBER THEREAFTER FOR
  USE ON THE FIRST DAY OF JANUARY OF THE FOLLOWING YEAR.
- S. 3189  3
- 
-  6.  (A)  NO  PAYMENT  MADE  TO  A PROVIDER WHO EMPLOYS HOME CARE AIDES
- SUBJECT TO THIS  SECTION THAT IS LESS THAN THE REGIONAL  MINIMUM  HOURLY
- BASE REIMBURSEMENT RATE ESTABLISHED PURSUANT TO SUBDIVISION FOUR OF THIS
- SECTION  FOR SERVICES PROVIDED UNDER AUTHORIZATION BY A LOCAL DEPARTMENT
+  6. (A) NO PAYMENT MADE TO A  PROVIDER  WHO  EMPLOYS  HOME  CARE  AIDES
+ SUBJECT  TO THIS  SECTION THAT IS LESS THAN THE REGIONAL MINIMUM HOURLY
+ BASE REIMBURSEMENT RATE ESTABLISHED PURSUANT TO SUBDIVISION FIVE OF THIS
+ SECTION FOR SERVICES PROVIDED UNDER AUTHORIZATION BY A LOCAL  DEPARTMENT
  OF  SOCIAL SERVICES, A MANAGED CARE PROVIDER UNDER SECTION THREE HUNDRED
  SIXTY-FOUR-J OF THE SOCIAL SERVICES LAW, OR  A  MANAGED  LONG-TERM  CARE
  PROVIDER  UNDER SECTION FORTY-FOUR HUNDRED THREE-F OF THIS CHAPTER SHALL
@@ -162,43 +175,11 @@ S T A T E  O F  N E W  Y O R K
  DETERMINED THAT RETROACTIVE  RATE  ADJUSTMENTS  ARE  NECESSARY,  PAYMENT
  ADJUSTMENTS  WILL  BE  MADE AS A DIRECT PASS THROUGH TO PROVIDERS WITHIN
  SIXTY DAYS OF THE ADJUSTED RATE.
-  § 4. Subparagraph (v) of paragraph (a) of  subdivision  3  of  section
- 3614-c  of  the  public  health law, as added by section 3 of part XX of
- chapter 56 of the laws of 2022, is amended and a new  subparagraph  (vi)
- is added to read as follows:
-  (v)  for  all  periods on or after January first, two thousand twenty-
- three, the cash portion of the minimum rate  of  home  care  aide  total
- compensation shall be the minimum wage for home care aides in the appli-
- cable  region,  as  defined  in section thirty-six hundred fourteen-f of
- this article. The benefit portion of the minimum rate of home care  aide
- total compensation shall be four dollars and nine cents[.];
-  (VI)  FOR  ALL PERIODS ON OR AFTER JANUARY FIRST, TWO THOUSAND TWENTY-
- FOUR, THE CASH PORTION OF THE MINIMUM  RATE  OF  HOME  CARE  AIDE  TOTAL
- COMPENSATION SHALL BE THE MINIMUM WAGE FOR HOME CARE AIDES IN THE APPLI-
- CABLE  REGION,  AS  DEFINED  IN SECTION THIRTY-SIX HUNDRED FOURTEEN-F OF
- S. 3189  4
- 
- THIS ARTICLE. THE BENEFIT PORTION OF THE MINIMUM RATE OF HOME CARE  AIDE
- TOTAL COMPENSATION SHALL BE FOUR DOLLARS AND EIGHTY-FOUR CENTS.
-  §  5  Subparagraph  (v)  of  paragraph (b) of subdivision 3 of section
- 3614-c of the public health law, as added by section 4  of  part  XX  of
- chapter  56  of the laws of 2022, is amended and a new subparagraph (vi)
- is added to read as follows:
-  (v) for all periods on or after January first,  two  thousand  twenty-
- three,  the  cash  portion  of  the minimum rate of home care aide total
- compensation shall be the minimum wage for  the  applicable  region,  as
- defined  in  section  thirty-six hundred fourteen-f of this article. The
- benefit portion of the minimum rate of home care aide total compensation
- shall be three dollars and twenty-two cents[.];
-  (VI) FOR ALL PERIODS ON OR AFTER JANUARY FIRST, TWO  THOUSAND  TWENTY-
- FOUR,  THE  CASH  PORTION  OF  THE  MINIMUM RATE OF HOME CARE AIDE TOTAL
- COMPENSATION SHALL BE THE MINIMUM WAGE FOR  THE  APPLICABLE  REGION,  AS
- DEFINED  IN  SECTION  THIRTY-SIX HUNDRED FOURTEEN-F OF THIS ARTICLE. THE
- BENEFIT PORTION OF THE MINIMUM RATE OF HOME CARE AIDE TOTAL COMPENSATION
- SHALL BE FOUR DOLLARS AND EIGHTY-FOUR CENTS.
-  § 6. To ensure compliance with this minimum wage increase,  the  comp-
+  § 4. To ensure compliance with this minimum wage increase,  the  comp-
  troller  shall  have  the authority to review the contracts entered into
  between a managed care organization and a licensed  home  care  services
+ S. 3189--A  4
+ 
  agency,  fiscal intermediary, or any agency subject to the provisions of
  section 3614-f of the public health  law  to  ensure  that  rates  being
  offered are adequate and meet the department of health's actuarial stan-
@@ -216,12 +197,31 @@ S T A T E  O F  N E W  Y O R K
  website. For the purposes of this section, the term "managed care organ-
  ization" shall mean an entity operating pursuant to section 364-j of the
  social services law or article 44 of the public health law.
-  §  7. Severability.  If any provision of this act, or any application
+  §  5. 1. The commissioners of the departments of taxation and finance,
+ health and labor, in consultation with the office of temporary and disa-
+ bility assistance, shall undertake a  study  regarding  the  use  of  an
+ expanded  state  earned  income  tax credit as a strategy to improve the
+ home care aide workforce. Such study  shall  include  an  evaluation  of
+ issues, including but not limited to:
+  a.  the range of increase needed to increase total compensation to the
+ median compensation by county and/or region;
+  b. implementation challenges related to  a  specific  sector  enhanced
+ earned income credit;
+  c. possible effects on worker recruitment and retention;
+  d. fiscal impact on the state; and
+  e.  any  other  issues  as determined by the commissioners and depart-
+ ments.
+  2. The study shall include a public hearing and/or other processes  to
+ gather  information  from  all  interested  parties. The commissioner of
+ taxation and finance shall report the findings of  the  study  no  later
+ than  nine  months  after the effective date of this act or December 31,
+ 2024, whichever is sooner.
+  § 6. Severability.  If any provision of this act, or  any  application
  of any provision of this act, is held to be invalid, or to violate or be
- inconsistent with any federal law or regulation, that shall  not  affect
+ inconsistent  with  any federal law or regulation, that shall not affect
  the validity or effectiveness of any other provision of this act, or any
  other application of any provision of this act which can be given effect
- without  that  provision or application; and to that end, the provisions
+ without that provision or application; and to that end,  the  provisions
  and applications of this act are severable.
-  § 8. This act shall take effect immediately; provided,  however,  that
- section two of this act shall take effect January 1, 2024.
+  §  7.  This act shall take effect immediately; provided, however, that
+ section two of this act shall take effect January 1, 2025.
