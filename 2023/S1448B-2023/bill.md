@@ -1,6 +1,6 @@
 # Relates to establishing a task force on safety in school transportation
 
-**Bill ID:** S1448BA
+**Bill ID:** S1448BB
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,8 +16,7 @@ Relates to establishing a task force on safety in school transportation to revie
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1448--A
-  Cal. No. 404
+  1448--B
  
   2023-2024 Regular Sessions
  
@@ -26,46 +25,50 @@ S T A T E  O F  N E W  Y O R K
   January 12, 2023
   ___________
  
- Introduced  by Sens. SANDERS, SEPULVEDA -- read twice and ordered print-
-  ed, and when printed to be committed to the Committee on Education  --
-  reported  favorably  from  said committee, ordered to first and second
-  report, ordered to a third reading, passed by Senate and delivered  to
-  the  Assembly, recalled, vote reconsidered, restored to third reading,
-  amended and ordered reprinted, retaining its place  in  the  order  of
-  third reading
+ Introduced  by  Sens. SANDERS, SEPULVEDA, WEBB -- read twice and ordered
+  printed, and when printed to be committed to the Committee  on  Educa-
+  tion  --  reported favorably from said committee, ordered to first and
+  second report, ordered to a third reading, passed by Senate and deliv-
+  ered to the Assembly, recalled, vote reconsidered, restored  to  third
+  reading,  amended  and  ordered  reprinted, retaining its place in the
+  order of third reading -- recommitted to the Committee on Education in
+  accordance with Senate Rule 6, sec. 8 --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN  ACT  to  amend the education law, in relation to establishing a task
-  force on safety in school transportation
+ AN ACT to amend the education law, in relation to  establishing  a  task
+  force on safety in school transportation; and providing for the repeal
+  of such provisions upon expiration thereof
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The education law is amended by adding a new section 3639
+  Section 1. The education law is amended by adding a new  section  3639
  to read as follows:
-  § 3639. TASK FORCE ON SAFETY IN SCHOOL  TRANSPORTATION.  1.  THERE  IS
- HEREBY  CREATED A TASK FORCE ON SAFETY IN SCHOOL TRANSPORTATION WITH THE
+  §  3639.  TASK  FORCE  ON SAFETY IN SCHOOL TRANSPORTATION. 1. THERE IS
+ HEREBY CREATED A TASK FORCE ON SAFETY IN SCHOOL TRANSPORTATION WITH  THE
  PURPOSE OF REVIEWING AND PROMOTING SAFETY IN SCHOOL TRANSPORTATION.
-  2. THE TASK FORCE SHALL  CONSIST  OF  EIGHTEEN  MEMBERS  APPOINTED  AS
- FOLLOWS:  FIVE MEMBERS APPOINTED BY THE GOVERNOR, FIVE MEMBERS APPOINTED
- BY THE TEMPORARY PRESIDENT OF THE SENATE, AND FIVE MEMBERS APPOINTED  BY
- THE  SPEAKER  OF  THE  ASSEMBLY.  THE  TASK FORCE SHALL ALSO INCLUDE THE
- COMMISSIONER OR HIS OR HER DESIGNEE; THE COMMISSIONER OF  TRANSPORTATION
- OR  HIS OR HER DESIGNEE; AND THE COMMISSIONER OF THE DEPARTMENT OF MOTOR
- VEHICLES OR HIS OR HER DESIGNEE.  THE MEMBERS  APPOINTED  TO  THE  TASK
- FORCE  SHALL  INCLUDE,  BUT  NOT BE LIMITED TO:  EDUCATION AND COMMUNITY
- STAKEHOLDERS; PARENTS; TEACHERS; ADMINISTRATORS; AND SCHOOL BUS  DRIVERS
+  2.  THE  TASK  FORCE  SHALL  CONSIST  OF EIGHTEEN MEMBERS APPOINTED AS
+ FOLLOWS: FIVE MEMBERS APPOINTED BY THE GOVERNOR, FIVE MEMBERS  APPOINTED
+ BY  THE TEMPORARY PRESIDENT OF THE SENATE, AND FIVE MEMBERS APPOINTED BY
+ THE SPEAKER OF THE ASSEMBLY. THE  TASK  FORCE  SHALL  ALSO  INCLUDE  THE
+ COMMISSIONER  OR HIS OR HER DESIGNEE; THE COMMISSIONER OF TRANSPORTATION
+ OR HIS OR HER DESIGNEE; AND THE COMMISSIONER OF THE DEPARTMENT OF  MOTOR
+ VEHICLES  OR  HIS  OR  HER DESIGNEE.  THE MEMBERS APPOINTED TO THE TASK
+ FORCE SHALL INCLUDE, BUT NOT BE LIMITED TO:  EDUCATION  AND  COMMUNITY
+ STAKEHOLDERS;  PARENTS; TEACHERS; ADMINISTRATORS; AND SCHOOL BUS DRIVERS
  AND OTHER SCHOOL BUS PERSONNEL WHO ARE MEMBERS OF A LABOR UNION.
-  3. IT SHALL BE THE DUTY OF THE TASK FORCE TO STUDY AND ISSUE RECOMMEN-
- DATIONS  RELATED  TO  STUDENT  SAFETY IN SCHOOL TRANSPORTATION. THE TASK
- FORCE SHALL REVIEW AND MAKE RECOMMENDATIONS ON:
-  A. EXISTING STATE LAWS, REGULATIONS, AND PROGRAMS THAT ADDRESS  SCHOOL
- BUS  SAFETY,  AND  MAKE RECOMMENDATIONS FOR THEIR IMPROVEMENT, INCLUDING
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04722-02-3
- S. 1448--A  2
+  LBD04722-04-4
+ S. 1448--B  2
  
+  3. IT SHALL BE THE DUTY OF THE TASK FORCE TO STUDY AND ISSUE RECOMMEN-
+ DATIONS RELATED TO STUDENT SAFETY IN  SCHOOL  TRANSPORTATION.  THE  TASK
+ FORCE SHALL REVIEW AND MAKE RECOMMENDATIONS ON:
+  A.  EXISTING STATE LAWS, REGULATIONS, AND PROGRAMS THAT ADDRESS SCHOOL
+ BUS SAFETY, AND MAKE RECOMMENDATIONS FOR  THEIR  IMPROVEMENT,  INCLUDING
  ANY RECOMMENDATIONS NECESSARY TO ENSURE PEDESTRIAN SAFETY AND THE SAFETY
  OF STUDENTS;
   B. EXAMINING THE POSSIBILITY OF REQUIRING A STATE DEPARTMENT OR OFFICE
@@ -107,10 +110,11 @@ S T A T E  O F  N E W  Y O R K
  THESE PURPOSES. THE TASK FORCE MAY MEET AND HOLD HEARINGS AT SUCH PLACES
  AS IT SHALL DESIGNATE.
   7.  THE TASK FORCE SHALL CREATE A FINAL REPORT REGARDING ALL  FINDINGS
- AND  RECOMMENDATIONS TO BE DELIVERED ON OR BEFORE DECEMBER THIRTY-FIRST,
- TWO THOUSAND TWENTY-FOUR TO THE GOVERNOR, THE TEMPORARY PRESIDENT OF THE
- SENATE, THE SPEAKER OF THE ASSEMBLY, THE CHAIR OF THE  SENATE  EDUCATION
- COMMITTEE,  THE  CHAIR OF THE ASSEMBLY EDUCATION COMMITTEE, THE CHAIR OF
- THE SENATE TRANSPORTATION COMMITTEE AND THE CHAIR OF THE ASSEMBLY TRANS-
- PORTATION COMMITTEE.
-  § 2. This act shall take effect immediately.
+ AND  RECOMMENDATIONS TO BE DELIVERED NO LATER THAN EIGHTEEN MONTHS AFTER
+ THE EFFECTIVE DATE OF THIS SECTION, TO THE GOVERNOR, THE TEMPORARY PRES-
+ IDENT OF THE SENATE, THE SPEAKER OF  THE  ASSEMBLY,  THE  CHAIR  OF  THE
+ SENATE  EDUCATION COMMITTEE, THE CHAIR OF THE ASSEMBLY EDUCATION COMMIT-
+ TEE, THE CHAIR OF THE SENATE TRANSPORTATION COMMITTEE AND THE  CHAIR  OF
+ THE ASSEMBLY TRANSPORTATION COMMITTEE.
+  §  2.  This  act shall take effect immediately and shall expire and be
+ deemed repealed twenty-four months after it shall have become a law.
