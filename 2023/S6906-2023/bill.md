@@ -1,6 +1,6 @@
 # Relates to information to be provided with all new and renewal leases for certain housing accommodations
 
-**Bill ID:** S6906
+**Bill ID:** S6906A
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires landlords of certain housing accommodations to include with all new and
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6906
+  6906--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  CLEARE -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
- 
+  printed to be committed to the Committee on Local Government -- recom-
+  mitted to the Committee on Local Government in accordance with  Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the real property tax law, in relation to information to
   be provided with all new and renewal leases for certain housing accom-
   modations
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -42,19 +45,19 @@ S T A T E  O F  N E W  Y O R K
  the local emergency housing  rent  control  act,  the  emergency  tenant
  protection act of nineteen seventy-four or any local laws enacted pursu-
  ant thereto, the emergency housing rent control law or the rent stabili-
- zation  law of nineteen hundred sixty-nine shall[, at least once annual-
- ly, including] INCLUDE with [a] ALL new  [lease  and  all]  AND  renewal
- leases,  ON  ANY  RENT  BILLS,  INCLUDING  ANY ELECTRONIC COMMUNICATION,
- delivered to the occupant of such accommodation[,] provide the  informa-
- tional  material  describing  eligibility  for  and  the benefits of the
- senior citizen rent increase exemption program and the  disability  rent
- increase  exemption program, as provided by the entity administering the
- program pursuant to subparagraph one of this paragraph.
+ zation law of nineteen hundred sixty-nine shall, at least once annually,
+ [including] PROVIDE with [a] ALL new [lease and all] AND renewal leases,
+ AND  ANY  WRITTEN LEASE MODIFICATIONS, delivered to the occupant of such
+ accommodation, [provide] the informational material describing eligibil-
+ ity for and the benefits of the senior citizen rent  increase  exemption
+ program  and the disability rent increase exemption program, as provided
+ by the entity administering the program pursuant to subparagraph one  of
+ this  paragraph; PROVIDED HOWEVER, THAT ANY SUCH INFORMATION PROVIDED AS
+ PART OF A NEW OR RENEWAL LEASE, OR  WRITTEN  LEASE  MODIFICATION,  SHALL
+ COUNT TOWARD THE REQUIREMENT FOR TWO ANNUAL NOTICES.
   § 2. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.
- 
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05668-06-3
+  LBD05668-07-4
