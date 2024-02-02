@@ -1,6 +1,6 @@
 # Relates to resource exemptions for applicants for public assistance programs
 
-**Bill ID:** S2705BA
+**Bill ID:** S2705BB
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to resource exemptions for applicants for public assistance programs; am
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2705--A
+  2705--B
  
   2023-2024 Regular Sessions
  
@@ -29,42 +29,45 @@ S T A T E  O F  N E W  Y O R K
   ordered printed, and when printed to be committed to the Committee  on
   Social  Services -- reported favorably from said committee and commit-
   ted to the Committee on Finance -- committee discharged, bill amended,
-  ordered reprinted as amended and recommitted to said committee
-
- AN ACT to amend  the  social  services  law,  in  relation  to  resource
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  recommitted  to  the  Committee  on Social Services in accordance with
+  Senate Rule 6, sec. 8 -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+ 
+ AN  ACT  to  amend  the  social  services  law,  in relation to resource
   exemptions for applicants for public assistance programs; and to amend
-  part  B  of  chapter 436 of the laws of 1997, constituting the welfare
+  part B of chapter 436 of the laws of 1997,  constituting  the  welfare
   reform act of 1997, in relation to the effectiveness thereof
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Section  131-n  of the social services law, as amended by
- section 16 of part B of chapter 436 of the laws of 1997,  subdivision  1
- as  amended by section 5 of part U of chapter 56 of the laws of 2022 and
- subdivision 3 as amended by chapter 207 of the laws of 2001, is  amended
+  Section 1. Section 131-n of the social services  law,  as  amended  by
+ section  16  of part B of chapter 436 of the laws of 1997, subdivision 1
+ as amended by section 5 of part U of chapter 56 of the laws of 2022  and
+ subdivision  3 as amended by chapter 207 of the laws of 2001, is amended
  to read as follows:
-  §  131-n.  Exemption of income and resources. 1. THE RESOURCES IDENTI-
- FIED IN SUBDIVISION TWO OF THIS SECTION SHALL BE EXEMPT AND  DISREGARDED
- AT  APPLICATION  IN  CALCULATING THE AMOUNT OF BENEFITS OF ANY APPLICANT
+  § 131-n. Exemption of income and resources. 1. THE  RESOURCES  IDENTI-
+ FIED  IN SUBDIVISION TWO OF THIS SECTION SHALL BE EXEMPT AND DISREGARDED
+ AT APPLICATION IN CALCULATING THE AMOUNT OF BENEFITS  OF  ANY  APPLICANT
  FOR ANY PUBLIC ASSISTANCE PROGRAM. AT RECERTIFICATION, RESOURCES DELINE-
- ATED IN SUBDIVISION TWO OF THIS SECTION SHALL NOT BE TAKEN INTO  CONSID-
- ERATION  WHEN DETERMINING ELIGIBILITY OR CALCULATING THE AMOUNT OF BENE-
+ ATED  IN SUBDIVISION TWO OF THIS SECTION SHALL NOT BE TAKEN INTO CONSID-
+ ERATION WHEN DETERMINING ELIGIBILITY OR CALCULATING THE AMOUNT OF  BENE-
  FITS OF ANY RECIPIENT FOR ANY PUBLIC ASSISTANCE PROGRAM.
-  2. The following resources shall be exempt and disregarded  in  calcu-
+  2.  The  following resources shall be exempt and disregarded in calcu-
  lating the amount of benefits of any [household under] APPLICANT FOR any
  public assistance program: (a) cash and liquid or nonliquid resources up
- to  [two]  TEN  thousand  [five  hundred] dollars [for applicants, three
- thousand seven hundred fifty dollars for  applicants  in  households  in
- which  any  member  is sixty years of age or older or is disabled or ten
- thousand dollars for recipients], (b) an amount up to [four thousand six
- hundred] SEVEN THOUSAND fifty dollars in a separate bank account  estab-
- 
+ to [two] TEN thousand [five  hundred]  dollars  [for  applicants,  three
+ thousand  seven  hundred  fifty  dollars for applicants in households in
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05293-03-3
- S. 2705--A  2
- 
+  LBD05293-04-4
+ S. 2705--B  2
+
+ which any member is sixty years of age or older or is  disabled  or  ten
+ thousand dollars for recipients], (b) an amount up to [four thousand six
+ hundred]  SEVEN THOUSAND fifty dollars in a separate bank account estab-
  lished by an individual while currently in receipt of assistance for the
  sole  purpose of enabling the individual to purchase a first or replace-
  ment vehicle for the recipient to seek, obtain or  maintain  employment,
@@ -117,21 +120,21 @@ S T A T E  O F  N E W  Y O R K
  resources  for purposes of determining eligibility for and the amount of
  benefits under any program provided under the authority of this  chapter
  and under title XX of the Social Security Act.
+ S. 2705--B  3
+ 
   [3.]  4. OWNERSHIP OF ALL OTHER PERSONAL PROPERTY NOT EXEMPT IN SUBDI-
  VISIONS TWO AND THREE OF THIS SECTION, SHALL BE EVALUATED BASED UPON ITS
  EQUITY VALUE.
- S. 2705--A  3
- 
-  5. The department is  authorized  to  establish  regulations  defining
- income  and  resources, CONSISTENT WITH THIS SECTION. [The department is
- further authorized to  promulgate  regulations  it  deems  necessary  to
- prevent  the  improper establishment and use of accounts for purchase of
+  5.  The  department  is  authorized  to establish regulations defining
+ income and resources, CONSISTENT WITH THIS SECTION. [The  department  is
+ further  authorized  to  promulgate  regulations  it  deems necessary to
+ prevent the improper establishment and use of accounts for  purchase  of
  first or replacement vehicles.]
   §  2.  Subdivision  (c) of section 153 of part B of chapter 436 of the
  laws of 1997, constituting the welfare reform act of 1997, as amended by
- chapter 165 of the laws of 2021, is amended to read as follows:
+ chapter 195 of the laws of 2023, is amended to read as follows:
   (c) Section sixteen of this act shall take  effect  November  1,  1997
- [and expire and be deemed repealed August 22, 2023];
+ [and expire and be deemed repealed August 22, 2025];
   §  3.  This act shall take effect immediately; provided, however, that
  section one of this act shall take effect on the  first  of  April  next
  succeeding the date on which it shall have become a law.
