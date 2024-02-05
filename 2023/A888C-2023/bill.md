@@ -1,6 +1,6 @@
 # Permits the rendering of an estimated bill from a utility corporation or municipality under certain circumstances
 
-**Bill ID:** A888CB
+**Bill ID:** A888CC
 **Session:** 2023
 **Sponsor:** Jonathan Jacobson
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Permits the rendering of an estimated bill from a utility corporation or municip
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  888--B
+  888--C
+  Cal. No. 30
  
   2023-2024 Regular Sessions
  
@@ -30,7 +31,9 @@ S T A T E  O F  N E W  Y O R K
   ties and Commissions -- committee discharged,  bill  amended,  ordered
   reprinted  as  amended  and  recommitted  to  said  committee -- again
   reported from said committee with  amendments,  ordered  reprinted  as
-  amended and recommitted to said committee
+  amended  and recommitted to said committee -- ordered to a third read-
+  ing, amended and ordered reprinted, retaining its place on  the  order
+  of third reading
  
  AN  ACT  to  amend the public service law, in relation to permitting the
   rendering of an estimated bill from a utility corporation  or  munici-
@@ -57,22 +60,23 @@ S T A T E  O F  N E W  Y O R K
  sion for a billing period between periods when actual meter readings are
  scheduled  or  for  seasonal  or  short term customers.  OUTSIDE OF THE
  AFOREMENTIONED CRITERIA FOR ESTIMATED BILLING PURSUANT TO THIS  SECTION,
- ALL  OTHER  BILLS SHALL USE ACTUAL METER READINGS, HOWEVER SUCH READINGS
- MAY BE OBTAINED, PROVIDED THAT SUCH READINGS  ARE  TAKEN  IN  ACCORDANCE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02154-04-3
- A. 888--B  2
+  LBD02154-07-4
+ A. 888--C  2
  
+ ALL  OTHER  BILLS SHALL USE ACTUAL METER READINGS, HOWEVER SUCH READINGS
+ MAY BE OBTAINED, PROVIDED THAT SUCH READINGS  ARE  TAKEN  IN  ACCORDANCE
  WITH  THE  PROVISIONS  OF  THIS  SECTION. TO THE EXTENT PRACTICABLE, ANY
- ADDITIONAL COSTS REQUIRED TO ACHIEVE ACTUAL METER READINGS  PURSUANT  TO
+ ADDITIONAL  COSTS  REQUIRED TO ACHIEVE ACTUAL METER READINGS PURSUANT TO
  THIS SUBDIVISION SHALL NOT BE PASSED ONTO THE CUSTOMER.
   1-A. THE COMMISSION SHALL REQUIRE EACH UTILITY CORPORATION AND MUNICI-
- PALITY  WITHIN  SIX MONTHS TO SUBMIT TO THE COMMISSION A MODEL PROCEDURE
- FOR THE CALCULATION OF ESTIMATED BILLS THAT INCORPORATES BEST  PRACTICES
- AND  TECHNOLOGY AND ACCOUNTS FOR ANY BARRIERS TO THE USE OF ACTUAL METER
- READINGS. ON OR BEFORE NOVEMBER FIRST,  TWO  THOUSAND  TWENTY-FOUR,  THE
- COMMISSION  SHALL  PROMULGATE  RULES  AND REGULATIONS TO INCORPORATE AND
- ADOPT SUCH MODEL PROCEDURES FOR UTILITY CORPORATIONS AND MUNICIPALITIES.
+ PALITY WITHIN SIX MONTHS AFTER THE EFFECTIVE DATE OF THIS SUBDIVISION TO
+ SUBMIT TO THE COMMISSION A MODEL PROCEDURE FOR THE CALCULATION OF  ESTI-
+ MATED BILLS THAT INCORPORATES BEST PRACTICES AND TECHNOLOGY AND ACCOUNTS
+ FOR  ANY  BARRIERS  TO  THE  USE  OF ACTUAL METER READINGS. ON OR BEFORE
+ NOVEMBER FIRST, TWO THOUSAND TWENTY-FIVE, THE COMMISSION  SHALL  PROMUL-
+ GATE  RULES  AND  REGULATIONS TO INCORPORATE AND ADOPT SUCH MODEL PROCE-
+ DURES FOR UTILITY CORPORATIONS AND MUNICIPALITIES.
   § 2. This act shall take effect immediately.
