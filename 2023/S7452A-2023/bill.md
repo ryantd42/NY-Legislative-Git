@@ -1,6 +1,6 @@
 # Relates to the establishment and powers and duties of the council on children and families
 
-**Bill ID:** S7452A
+**Bill ID:** S7452AA
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Establishes a council on children and families within the executive department; 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7452
+  7452--A
  
   2023-2024 Regular Sessions
  
@@ -27,47 +27,50 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by Sen. PERSAUD -- (at request of the Council on Children and
   Families)  --  read  twice and ordered printed, and when printed to be
-  committed to the Committee on Children and Families
+  committed to the Committee on Children and Families -- recommitted  to
+  the  Committee on Children and Families in accordance with Senate Rule
+  6, sec. 8 -- committee discharged, bill amended, ordered reprinted  as
+  amended and recommitted to said committee
  
- AN ACT to amend the social services law, in relation to  the  establish-
+ AN  ACT  to amend the social services law, in relation to the establish-
   ment and powers and duties of the council on children and families
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 483 of the social services law, as added by section
  2 of part F2 of chapter 62 of the laws of 2003, subdivision 1 as amended
  by chapter 672 of the laws of 2019, is amended to read as follows:
-  § 483. Council on children and families[; chair]. 1. PURPOSE.  THERE
- SHALL  BE A COUNCIL ON CHILDREN AND FAMILIES, HEREINAFTER REFERRED TO IN
+  §  483.  Council on children and families[; chair]. 1. PURPOSE.  THERE
+ SHALL BE A COUNCIL ON CHILDREN AND FAMILIES, HEREINAFTER REFERRED TO  IN
  THIS ARTICLE AS THE "COUNCIL". THE COUNCIL SHALL ACT AS A NEUTRAL, COOR-
- DINATING AGENCY TO PROMOTE THE WELL-BEING OF CHILDREN  AND  FAMILIES  BY
- CONVENING  THE STATE'S HUMAN SERVICES, HEALTH, AND EDUCATION AGENCIES TO
+ DINATING  AGENCY  TO  PROMOTE THE WELL-BEING OF CHILDREN AND FAMILIES BY
+ CONVENING THE STATE'S HUMAN SERVICES, HEALTH, AND EDUCATION AGENCIES  TO
  DEVELOP ALIGNED AND COMPREHENSIVE APPROACHES TO SERVE CHILDREN AND FAMI-
  LIES MOST EFFICIENTLY AND EFFECTIVELY.
-  2. COUNCIL ESTABLISHMENT. There shall be a  council  on  children  and
- families  established within the [office of children and family services
- consisting of] EXECUTIVE  DEPARTMENT.  THE  COUNCIL  SHALL  CONVENE  the
- following  [members]  STATE  AGENCY LEADERS: the [state] commissioner of
+  2.  COUNCIL  ESTABLISHMENT.  There  shall be a council on children and
+ families established within the [office of children and family  services
+ consisting  of]  EXECUTIVE  DEPARTMENT.  THE  COUNCIL  SHALL CONVENE the
+ following [members] STATE AGENCY LEADERS: the  [state]  commissioner  of
  children and family services, the commissioner of temporary and disabil-
- ity assistance, the commissioner of mental health, the commissioner  [of
+ ity  assistance, the commissioner of mental health, the commissioner [of
  the office] for people with developmental disabilities, the commissioner
- [of  the  office] of [alcoholism and substance abuse services] ADDICTION
- SERVICES AND SUPPORTS, the commissioner of education, [the  director  of
+ [of the office] of [alcoholism and substance abuse  services]  ADDICTION
+ SERVICES  AND  SUPPORTS, the commissioner of education, [the director of
  the office of probation and correctional alternatives,] the commissioner
  of  health,  the  commissioner  of  the  division  of  criminal  justice
- services, the [state advocate for persons with  disabilities]  EXECUTIVE
- DIRECTOR OF THE JUSTICE CENTER FOR THE PROTECTION OF PEOPLE WITH SPECIAL
- NEEDS,  the  director of [the office for the] aging, the commissioner of
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05877-03-3
- S. 7452  2
+  LBD05877-05-4
+ S. 7452--A  2
  
- labor, and the [chair of the commission  on  quality  of  care  for  the
- mentally disabled]  EXECUTIVE DIRECTOR OF THE DEVELOPMENTAL DISABILITIES
- PLANNING COUNCIL.
+ services,  the  [state advocate for persons with disabilities] EXECUTIVE
+ DIRECTOR OF THE JUSTICE CENTER FOR THE PROTECTION OF PEOPLE WITH SPECIAL
+ NEEDS, the director of [the office for the] aging, the  commissioner  of
+ labor,  and  the  [chair  of  the  commission on quality of care for the
+ mentally disabled]  EXECUTIVE DIRECTOR OF THE COUNCIL  ON  DEVELOPMENTAL
+ DISABILITIES.
   3. DEFINITIONS. AS USED IN THIS ARTICLE:
   (A) "COUNCIL" SHALL REFER TO THE COUNCIL ON CHILDREN AND FAMILIES.
   (B)  "EXECUTIVE DIRECTOR" SHALL REFER TO THE EXECUTIVE DIRECTOR OF THE
@@ -118,11 +121,11 @@ S T A T E  O F  N E W  Y O R K
  children and their families;
   (c)  to  coordinate program and management research of member agencies
  for the purpose of monitoring, evaluating or redirecting  existing  care
+ S. 7452--A  3
+ 
  and  services programs or developing new programs, and to conduct, spon-
  sor, or direct member agencies  to  undertake  such  research  or  other
  activities;
- S. 7452  3
- 
   (d)  to  review  and resolve differences, if any, concerning rules and
  regulations of each member agency insofar as such rules and  regulations
  impact on services programs provided by other member agencies;
@@ -176,10 +179,10 @@ S T A T E  O F  N E W  Y O R K
  bility  for  determining  and  recommending  adult  services pursuant to
  sections 7.37 and 13.37 of the mental hygiene law, section three hundred
  ninety-eight-c of the social services law, or subdivision ten of section
+ S. 7452--A  4
+ 
  forty-four hundred three of the  education  law  shall  be  resolved  in
  accordance with this subdivision.
- S. 7452  4
- 
   [5.]  4. SUBMISSION OF INFORMATION TO THE COUNCIL. (a) Notwithstanding
  any other provision of state  law  to  the  contrary,  the  council  may
  request any member agency to submit to the council and such member agen-
