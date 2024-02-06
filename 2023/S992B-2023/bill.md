@@ -1,6 +1,6 @@
 # Prohibits the sale and distribution of anti-fogging sprays and wipes containing perfluoroalkyl and polyfluoroalkyl substances
 
-**Bill ID:** S992BA
+**Bill ID:** S992BB
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Assembly Committee
@@ -16,8 +16,8 @@ Prohibits the sale and distribution of anti-fogging sprays and wipes containing 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  992--A
-  Cal. No. 609
+  992--B
+  Cal. No. 337
  
   2023-2024 Regular Sessions
  
@@ -26,11 +26,16 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by Sens. HOYLMAN-SIGAL, MAY -- read twice and ordered print-
-  ed, and when printed to be committed to the Committee on Environmental
-  Conservation -- reported favorably from  said  committee,  ordered  to
-  first  report, amended on first report, ordered to a second report and
-  ordered reprinted, retaining its place in the order of second report
+ Introduced  by Sens. HOYLMAN-SIGAL, BROUK, MAY -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Environ-
+  mental Conservation -- reported favorably from said committee, ordered
+  to first report, amended on first report, ordered to a  second  report
+  and  ordered  reprinted,  retaining  its  place in the order of second
+  report -- recommitted to the Committee on  Environmental  Conservation
+  in  accordance  with  Senate Rule 6, sec. 8 -- reported favorably from
+  said committee, ordered to first  report,  amended  on  first  report,
+  ordered  to a second report and ordered reprinted, retaining its place
+  in the order of second report
  
  AN ACT to amend the  environmental  conservation  law,  in  relation  to
   prohibiting the sale and distribution of anti-fogging sprays and wipes
@@ -55,17 +60,17 @@ S T A T E  O F  N E W  Y O R K
   37-1113. VIOLATIONS.
  § 37-1101. DEFINITIONS.
   AS USED IN THIS TITLE:
-  1. "ANTI-FOGGING SPRAYS AND WIPES"  MEANS  ANY  PRODUCT,  INCLUDING  A
- SPRAY,  CLOTH,  WIPE  OR  OTHER  MATERIAL,  THAT  IS INTENDED TO PREVENT
- CONDENSATION ON EYEGLASSES.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04073-04-3
- S. 992--A  2
+  LBD04073-08-4
+ S. 992--B  2
  
-  2. "DISTRIBUTOR" MEANS A PERSON,  FIRM,  ASSOCIATION,  PARTNERSHIP  OR
- CORPORATION,  WHO  OR  WHICH  IMPORTS  OR CAUSES TO BE IMPORTED INTO THE
+  1. "ANTI-FOGGING SPRAYS AND WIPES"  MEANS  ANY  PRODUCT,  INCLUDING  A
+ SPRAY,  CLOTH,  WIPE  OR  OTHER  MATERIAL,  THAT  IS INTENDED TO PREVENT
+ CONDENSATION ON EYEGLASSES.
+  2.  "DISTRIBUTOR"  MEANS  A  PERSON, FIRM, ASSOCIATION, PARTNERSHIP OR
+ CORPORATION, WHO OR WHICH IMPORTS OR CAUSES  TO  BE  IMPORTED  INTO  THE
  STATE, ANY PRODUCT CONTAINING PFAS SUBSTANCES.
   3.  "INTENTIONALLY  ADDED  CHEMICAL"  SHALL  HAVE  THE SAME MEANING AS
  SUBDIVISION ELEVEN OF SECTION 37-0901 OF THIS ARTICLE.
@@ -117,16 +122,16 @@ S T A T E  O F  N E W  Y O R K
  FORM AS SHALL BE PRESCRIBED BY THE DEPARTMENT BY REGULATION.
   §  2. Severability. If any clause, sentence, paragraph, subdivision or
  section of this act shall be adjudged by any court of  competent  juris-
+ S. 992--B  3
+ 
  diction to be invalid, such judgment shall not affect, impair, or inval-
  idate  the  remainder thereof, but shall be confined in its operation to
  the clause, sentence, paragraph, subdivision, section  or  part  thereof
- S. 992--A  3
- 
  directly  involved  in the controversy in which such judgment shall have
  been rendered. It is hereby declared to be the intent of the legislature
  that this act would have been enacted even if  such  invalid  provisions
  had not been included herein.
-  §  3.  This  act  shall take effect December 31, 2024. Effective imme-
+  §  3.  This  act  shall take effect December 31, 2025. Effective imme-
  diately, the addition, amendment and/or repeal of any rule or regulation
  necessary for the implementation of this act on its effective  date  are
  authorized to be made and completed on or before such effective date.
