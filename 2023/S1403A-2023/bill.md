@@ -1,6 +1,6 @@
 # Establishes the "winter moratorium evictions act"
 
-**Bill ID:** S1403A
+**Bill ID:** S1403AA
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes the "winter moratorium on evictions act" to prohibit eviction of ten
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1403
+  1403--A
  
   2023-2024 Regular Sessions
  
@@ -25,19 +25,23 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced  by  Sen.  MYRIE  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Housing, Construction  and
-  Community Development
+ Introduced  by  Sens.  MYRIE,  BRESLIN,  RAMOS, RIVERA -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Housing,  Construction and Community Development -- recommitted to the
+  Committee  on  Housing,  Construction  and  Community  Development  in
+  accordance  with  Senate  Rule 6, sec. 8 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to  amend the real property actions and proceedings law and the
   real property law, in relation to  prohibiting  residential  evictions
   during the winter months
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Short Title. This act shall be known and may  be  cited  as
- the "winter moratorium on evictions act of 2023".
+ the "winter moratorium on evictions act".
   §  2.  Legislative findings and declaration of emergency. The legisla-
  ture hereby finds and declares all of the following:
   The serious public emergency  regarding  the  scarcity  of  affordable
@@ -55,18 +59,18 @@ S T A T E  O F  N E W  Y O R K
  and  are  less  likely to secure safe and affordable housing in the long
  term. These consequences are disproportionately felt by Black and Latinx
  households, who face the highest rates of eviction.
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02244-02-4
+ S. 1403--A  2
+ 
   Evictions are a significant cause of homelessness, both  directly  and
  indirectly.  In  New  York  City, 25 percent of shelter residents and 12
  percent of unsheltered individuals are homeless due to an eviction.  The
  Department  of  Housing and Urban Development identified at least 91,271
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02244-01-3
- S. 1403  2
- 
- homeless individuals throughout New  York  State  as  of  January  2020,
- including  77,943  individuals  in  New York City and 13,328 individuals
+ homeless  individuals  throughout  New  York  State  as of January 2020,
+ including 77,943 individuals in New York  City  and  13,328  individuals
  throughout the rest of the State.
   The  well-documented  and devastating consequences of homelessness are
  exacerbated by cold weather. Unsheltered individuals have  an  increased
@@ -109,7 +113,7 @@ S T A T E  O F  N E W  Y O R K
  matter of legislative determination.
   §  3.  Subdivision  2  of section 711 of the real property actions and
  proceedings law, as amended by section 12 of part M of chapter 36 of the
- laws 2019, is amended to read as follows:
+ laws of 2019, is amended to read as follows:
   2. [The] EXCEPT AS PROVIDED IN SECTION SEVEN  HUNDRED  FORTY-SEVEN  OF
  THIS  ARTICLE, THE tenant has defaulted in the payment of rent, pursuant
  to the agreement under which the premises are held, and a written demand
@@ -117,20 +121,20 @@ S T A T E  O F  N E W  Y O R K
  in the alternative, the payment of the rent, or the  possession  of  the
  premises,  has  been  served  upon  him  as  prescribed in section seven
  hundred thirty-five of this article. Any person succeeding to the  land-
+ S. 1403--A  3
+ 
  lord's  interest  in the premises may proceed under this subdivision for
  rent due his predecessor in interest if he has a right thereto. Where  a
  tenant  dies during the term of the lease and rent due has not been paid
- and the apartment is occupied by a person with a claim to possession,  a
- S. 1403  3
- 
- proceeding  may be commenced naming the occupants of the apartment seek-
- ing a possessory judgment only as against the estate. Entry  of  such  a
- judgment  shall  be  without  prejudice  to the possessory claims of the
+ and  the apartment is occupied by a person with a claim to possession, a
+ proceeding may be commenced naming the occupants of the apartment  seek-
+ ing  a  possessory  judgment only as against the estate. Entry of such a
+ judgment shall be without prejudice to  the  possessory  claims  of  the
  occupants,  and any warrant issued shall not be effective as against the
  occupants.
   § 4. Section 741 of the real property actions and proceedings  law  is
- amended by adding a new subdivision 7 to read as follows:
-  7. STATE THAT A WARRANT OF EVICTION MAY ONLY BE EXECUTED BETWEEN APRIL
+ amended by adding a new subdivision 8 to read as follows:
+  8. STATE THAT A WARRANT OF EVICTION MAY ONLY BE EXECUTED BETWEEN APRIL
  SIXTEENTH AND OCTOBER THIRTY-FIRST OF ANY CALENDAR YEAR.
   §  5.  Section 747 of the real property actions and proceedings law is
  amended by adding two new subdivisions 5 and 6 to read as follows:
@@ -175,11 +179,11 @@ S T A T E  O F  N E W  Y O R K
  OF THE SUBSEQUENT CALENDAR YEAR.
   (A)  IN  A  PROCEEDING  TO RECOVER POSSESSION OF PREMISES OCCUPIED FOR
  DWELLING PURPOSES, OTHER THAN A ROOM OR ROOMS IN A HOTEL OCCUPIED  BY  A
+ S. 1403--A  4
+ 
  TRANSIENT  OCCUPANT FOR LESS THAN THIRTY DAYS, THE COURT SHALL NOT ISSUE
  A WARRANT PURSUANT TO SECTION SEVEN HUNDRED FORTY-NINE OF  THIS  ARTICLE
  WITH AN EXECUTION DATE DURING THE WINTER MORATORIUM PERIOD.
- S. 1403  4
- 
   (B)  AT  THE COMMENCEMENT OF THE WINTER MORATORIUM PERIOD, ALL PENDING
  UNEXECUTED JUDGMENTS AND WARRANTS SHALL AUTOMATICALLY BE STAYED  THROUGH
  THE END OF THE WINTER MORATORIUM PERIOD.
@@ -233,11 +237,11 @@ S T A T E  O F  N E W  Y O R K
   (b) [Such] FOR EACH VIOLATION OF THIS SECTION OCCURRING BETWEEN  APRIL
  SIXTEENTH  AND  OCTOBER  THIRTY-FIRST  OF ANY CALENDAR YEAR, SUCH person
  shall also be subject to a civil penalty of not less than  one  thousand
+ S. 1403--A  5
+ 
  nor  more  than  ten  thousand  dollars  for  each  violation.  FOR EACH
  VIOLATION OF THIS SECTION OCCURRING  BETWEEN  JANUARY  FIRST  AND  APRIL
  FIFTEENTH, OR FROM NOVEMBER FIRST TO DECEMBER THIRTY-FIRST OF ANY CALEN-
- S. 1403  5
- 
  DAR  YEAR,  SUCH  PERSON SHALL ALSO BE SUBJECT TO A CIVIL PENALTY OF NOT
  LESS THAN FIVE THOUSAND DOLLARS NOR MORE THAN FIFTY THOUSAND DOLLARS FOR
  EACH VIOLATION. Each such violation shall be  a  separate  and  distinct
