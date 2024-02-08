@@ -1,6 +1,6 @@
 # Relates to procedures required for the custodial interrogation of children
 
-**Bill ID:** A8923A
+**Bill ID:** A8923AA
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Amends procedures required for the custodial interrogation of children to provid
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8923
+  8923--A
  
   I N  A S S E M B L Y
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   WEPRIN, MAMDANI, ANDERSON, JACKSON, CRUZ, HYNDMAN,  FORREST,  SEPTIMO,
   SEAWRIGHT, BRONSON, CUNNINGHAM, MEEKS, ALVAREZ, PRETLOW, PAULIN, DICK-
   ENS, DE LOS SANTOS, BORES, SIMONE, VANEL, GALLAGHER, FAHY, OTIS, WALK-
-  ER,  GIBBS  -- read once and referred to the Committee on Children and
-  Families
+  ER,  GIBBS,  O'DONNELL, SOLAGES, MITAYNES -- read once and referred to
+  the Committee on Children and Families -- committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the family court act and the criminal procedure law,  in
   relation  to  the custodial interrogation of juveniles by law enforce-
@@ -61,8 +63,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03283-01-3
- A. 8923  2
+  LBD03283-02-4
+ A. 8923--A  2
  
   § 3. Paragraph (b) of subdivision 4 of section  305.2  of  the  family
  court  act,  as  amended  by section 63 of part WWW of chapter 59 of the
@@ -120,7 +122,7 @@ S T A T E  O F  N E W  Y O R K
   7.  IF THE OFFICER DETERMINES THAT QUESTIONING OF THE CHILD IS NECES-
  SARY PRIOR TO TAKING ACTION AUTHORIZED BY SUBDIVISION FOUR OR FIVE,  THE
  OFFICER  MAY TAKE THE CHILD TO A FACILITY DESIGNATED BY THE CHIEF ADMIN-
- A. 8923  3
+ A. 8923--A  3
  
  ISTRATOR OF THE COURTS AS A SUITABLE PLACE FOR THE QUESTIONING OF  CHIL-
  DREN  OR, UPON THE CONSENT OF A PARENT OR OTHER PERSON LEGALLY RESPONSI-
@@ -178,7 +180,7 @@ S T A T E  O F  N E W  Y O R K
   (i)  WHEN  THE OFFICER REASONABLY BELIEVES SUCH PARENT OR OTHER PERSON
  LEGALLY RESPONSIBLE FOR THE CHILD'S CARE WILL APPEAR, TAKE THE CHILD  TO
  HIS  OR  HER  HOME, THE POLICE STATION HOUSE, OR ANOTHER LOCATION AGREED
- A. 8923  4
+ A. 8923--A  4
  
  UPON WITH THE PARENT OR PERSON  LEGALLY  RESPONSIBLE,  AND  release  the
  youth to the custody of [his or her parent or other] SUCH person [legal-
@@ -236,7 +238,7 @@ S T A T E  O F  N E W  Y O R K
  age  without  a  warrant,  the  police officer shall immediately, BEFORE
  TRANSPORTING THE CHILD TO THE POLICE STATION HOUSE, notify the parent or
  other person legally responsible for his or her care or the person  with
- A. 8923  5
+ A. 8923--A  5
  
  whom  he  or  she  is domiciled, that such JUVENILE offender or [person]
  SIXTEEN OR SEVENTEEN YEAR OLD has been arrested, and the location of the
@@ -294,7 +296,7 @@ S T A T E  O F  N E W  Y O R K
  cer must take him or her to a facility designated by the chief  adminis-
  trator of the courts as a suitable place for the questioning of children
  or, upon the consent of a parent or other person legally responsible for
- A. 8923  6
+ A. 8923--A  6
  
  the  care  of  a juvenile offender or [such person] SIXTEEN OR SEVENTEEN
  YEAR OLD, to his or her residence and there, SUBJECT TO THE REQUIREMENTS
@@ -352,7 +354,7 @@ S T A T E  O F  N E W  Y O R K
  shall not be questioned pursuant to this section unless OR UNTIL:
   (I)  he  or she and a person required to be notified pursuant to PARA-
  GRAPH (A) OF this subdivision, if present, have been advised:
- A. 8923  7
+ A. 8923--A  7
  
   [(a)] (A) of his or her right to remain silent;
   [(b)]  (B)  that the statements made by the juvenile offender or [such
@@ -377,4 +379,4 @@ S T A T E  O F  N E W  Y O R K
  SION; OR WHEN A PERSON NOTIFIED PURSUANT TO PARAGRAPH (A) OF THIS SUBDI-
  VISION, IF PRESENT, HAS NOT BEEN ADVISED OF AND VOLUNTARILY  WAIVED  THE
  RIGHTS DELINEATED IN PARAGRAPH (C) OF THIS SUBDIVISION.
-  § 12. This act shall take effect April 1, 2024.
+  § 12. This act shall take effect April 1, 2025.
