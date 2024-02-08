@@ -1,6 +1,6 @@
 # Increases the amount of residential solar tax credits
 
-**Bill ID:** A6739BA
+**Bill ID:** A6739BB
 **Session:** 2023
 **Sponsor:** Latrice Walker
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Increases the amount of residential solar tax credits.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6739--A
+  6739--B
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,14 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. WALKER -- read once and referred to the Committee
   on  Ways  and  Means  --  committee  discharged, bill amended, ordered
-  reprinted as amended and recommitted to said committee
+  reprinted as amended and recommitted to said committee --  recommitted
+  to the Committee on Ways and Means in accordance with Assembly Rule 3,
+  sec.  2  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the tax law, in relation to residential solar tax  cred-
   its
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,15 +58,15 @@ S T A T E  O F  N E W  Y O R K
   (2) Qualified solar energy system equipment expenditures. (A) The term
  "qualified  solar  energy  system equipment expenditures" means expendi-
  tures for:
-  (i) the purchase of solar energy system equipment which  is  installed
- in  connection  with  residential  property which is (I) located in this
- state and (II) which is used by the taxpayer as [his or her] THEIR prin-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07582-06-3
- A. 6739--A  2
+  LBD07582-08-3
+ A. 6739--B  2
  
+  (i) the purchase of solar energy system equipment which  is  installed
+ in  connection  with  residential  property which is (I) located in this
+ state and (II) which is used by the taxpayer as [his or her] THEIR prin-
  cipal residence at the time the solar energy system equipment is  placed
  in service;
   (ii) the lease of solar energy system equipment under a written agree-
@@ -117,44 +120,46 @@ S T A T E  O F  N E W  Y O R K
  section  sixty-six-j shall be read as ["fifty] "TEN kilowatts MULTIPLIED
  BY THE NUMBER OF OWNER-OCCUPIED UNITS IN THE COOPERATIVE OR  CONDOMINIUM
  MANAGEMENT ASSOCIATION."
+ A. 6739--B  3
+ 
   (4)  Multiple  taxpayers.  Where  solar  energy  system  equipment  is
  purchased and installed in a principal residence shared by two  or  more
  taxpayers,  the amount of the credit allowable under this subsection for
- A. 6739--A  3
- 
  each such taxpayer shall be prorated according to the percentage of  the
  total  expenditure for such solar energy system equipment contributed by
  each taxpayer.
-  (5)  Proportionate  share.  Where  solar  energy  system  equipment is
- purchased and installed by a condominium  management  association  or  a
- cooperative  housing  corporation,  a  taxpayer  who  is a member of the
+  (5) Proportionate  share.  Where  solar  energy  system  equipment  is
+ purchased  and  installed  by  a condominium management association or a
+ cooperative housing corporation, a taxpayer  who  is  a  member  of  the
  condominium management association or who is a tenant-stockholder in the
- cooperative housing corporation may for the purpose of  this  subsection
- claim  a proportionate share of the total expense as the expenditure for
- the purposes of the credit attributable to [his] THEIR  principal  resi-
+ cooperative  housing  corporation may for the purpose of this subsection
+ claim a proportionate share of the total expense as the expenditure  for
+ the  purposes  of the credit attributable to [his] THEIR principal resi-
  dence.
-  (6)  Grants. For purposes of determining the amount of the expenditure
+  (6) Grants. For purposes of determining the amount of the  expenditure
  incurred in purchasing and installing solar energy system equipment, the
- amount of any federal, state or local grant received  by  the  taxpayer,
- which  was  used  for the purchase and/or installation of such equipment
- and which was not included in the federal gross income of the  taxpayer,
+ amount  of  any  federal, state or local grant received by the taxpayer,
+ which was used for the purchase and/or installation  of  such  equipment
+ and  which was not included in the federal gross income of the taxpayer,
  shall not be included in the amount of such expenditures.
-  (7)  When  credit  allowed.  The credit provided for herein shall be
- allowed with respect to the  taxable  year,  commencing  after  nineteen
- hundred  ninety-seven,  in  which  the  solar energy system equipment is
+  (7)  When credit allowed. The credit  provided  for  herein  shall  be
+ allowed  with  respect  to  the  taxable year, commencing after nineteen
+ hundred ninety-seven, in which the  solar  energy  system  equipment  is
  placed in service.
   (8) Carryover of credit AND REFUNDABILITY.  If the amount of the cred-
- it, and carryovers of such credit, allowable under this  subsection  for
- any  taxable  year  shall  exceed the taxpayer's tax for such year, such
+ it,  and  carryovers of such credit, allowable under this subsection for
+ any taxable year shall exceed the taxpayer's tax  for  such  year,  such
  excess amount may be carried over to the five taxable years next follow-
  ing the taxable year with respect to which the credit is allowed and may
  be deducted from the taxpayer's tax for such year or years.  FOR TAXABLE
- YEARS BEGINNING ON OR AFTER JANUARY FIRST, TWO THOUSAND TWENTY-FIVE,  IF
- THE  AMOUNT  OF  THE CREDIT ALLOWABLE UNDER THIS SUBSECTION SHALL EXCEED
- THE TAXPAYER'S TAX LIABILITY FOR SUCH YEAR, AND THE TAXPAYER  MEETS  THE
- DEFINITION  OF  LOW-TO-MODERATE  INCOME  OR  RESIDES  IN A DISADVANTAGED
- COMMUNITY, THE EXCESS SHALL BE TREATED AS AN OVERPAYMENT OF  TAX  TO  BE
- CREDITED  OR  REFUNDED  IN ACCORDANCE WITH THE PROVISIONS OF SECTION SIX
- HUNDRED EIGHTY-SIX OF THIS ARTICLE, PROVIDED, HOWEVER, THAT NO  INTEREST
- SHALL BE PAID THEREON.
+ YEARS  BEGINNING ON OR AFTER JANUARY FIRST, TWO THOUSAND TWENTY-FIVE, IF
+ THE AMOUNT OF THE CREDIT ALLOWABLE UNDER THIS  SUBSECTION  SHALL  EXCEED
+ THE  TAXPAYER'S  TAX LIABILITY FOR SUCH YEAR, AND THE TAXPAYER MEETS THE
+ DEFINITION OF LOW TO MODERATE INCOME, AS DEFINED IN SUBDIVISION  (C)  OF
+ SECTION  NINE HUNDRED SEVENTY-C OF THE GENERAL MUNICIPAL LAW, OR RESIDES
+ IN A DISADVANTAGED COMMUNITY, AS DEFINED IN SUBDIVISION FIVE OF  SECTION
+ 75-0101  OF  THE  ENVIRONMENTAL  CONSERVATION  LAW,  THE EXCESS SHALL BE
+ TREATED AS AN OVERPAYMENT OF TAX TO BE CREDITED OR REFUNDED  IN  ACCORD-
+ ANCE WITH THE PROVISIONS OF SECTION SIX HUNDRED EIGHTY-SIX OF THIS ARTI-
+ CLE, PROVIDED, HOWEVER, THAT NO INTEREST SHALL BE PAID THEREON.
   § 2. This act shall take effect immediately.
