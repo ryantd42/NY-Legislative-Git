@@ -1,6 +1,6 @@
 # Relates to tax credits for volunteer firefighters and volunteer ambulance workers
 
-**Bill ID:** A7524A
+**Bill ID:** A7524AA
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that for taxable years beginning on and after January first, two thousa
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7524
+  7524--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,19 @@ S T A T E  O F  N E W  Y O R K
   May 25, 2023
   ___________
  
- Introduced by M. of A. THIELE -- read once and referred to the Committee
-  on Ways and Means
- 
- AN  ACT  to  amend the tax law, in relation to tax credits for volunteer
-  firefighters and volunteer ambulance workers
+ Introduced  by  M.  of  A. THIELE, LUNSFORD, BRABENEC, GUNTHER, STERN --
+  read once and referred to the Committee on Ways and Means -- recommit-
+  ted to the Committee on Ways and Means  in  accordance  with  Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
+ AN ACT to amend the tax law and the real property tax law,  in  relation
+  to  tax  credits  for  volunteer  firefighters and volunteer ambulance
+  workers
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subsection (e-1) of section 606 of the tax law, as added by
  section  1  of  part U of chapter 62 of the laws of 2006, paragraph 2 as
  amended by chapter 532 of the laws of 2007, paragraph  3  as  added  and
@@ -55,41 +59,52 @@ S T A T E  O F  N E W  Y O R K
  THE  GENERAL  MUNICIPAL  LAW  SHALL  BE ALLOWED A CREDIT AGAINST THE TAX
  IMPOSED BY THIS ARTICLE EQUAL TO EIGHT  HUNDRED  DOLLARS.  In  order  to
  receive this credit a volunteer firefighter or volunteer ambulance work-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11501-04-4
+ A. 7524--A  2
+ 
  er must have been active for the entire taxable year for which the cred-
  it is sought.
   (2)  [If]  FOR TAXABLE YEARS BEGINNING BEFORE JANUARY FIRST, TWO THOU-
  SAND TWENTY-FOUR, IF a taxpayer receives a real property  tax  exemption
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD11501-01-3
- A. 7524  2
- 
  relating  to  such  service  under title two of article four of the real
  property tax law, such taxpayer shall not be eligible for  this  credit;
  provided,  however  (A)  if the taxpayer receives such real property tax
- exemption  in  the two thousand seven taxable year as a result of making
+ exemption in the two thousand seven taxable year as a result  of  making
  application therefor in a prior year or (B) if the taxpayer notifies his
- or her assessor in writing by December thirty-first, two thousand  seven
+ or  her assessor in writing by December thirty-first, two thousand seven
  of the taxpayer's intent to discontinue such real property tax exemption
- by  not  re-applying  for  such  real property tax exemption by the next
+ by not re-applying for such real property  tax  exemption  by  the  next
  taxable status date, such taxpayer shall be eligible for this credit for
- the two thousand seven taxable year.  FOR TAXABLE YEARS BEGINNING ON  OR
- AFTER  JANUARY  FIRST,  TWO THOUSAND TWENTY-FOUR, A TAXPAYER IS ELIGIBLE
- FOR THIS CREDIT EVEN IF THEY  RECEIVE  A  REAL  PROPERTY  TAX  EXEMPTION
- RELATING  TO  SUCH  SERVICE  UNDER TITLE TWO OF ARTICLE FOUR OF THE REAL
+ the  two thousand seven taxable year.  FOR TAXABLE YEARS BEGINNING ON OR
+ AFTER JANUARY FIRST, TWO THOUSAND TWENTY-FOUR, A  TAXPAYER  IS  ELIGIBLE
+ FOR  THIS  CREDIT  EVEN  IF  THEY  RECEIVE A REAL PROPERTY TAX EXEMPTION
+ RELATING TO SUCH SERVICE UNDER TITLE TWO OF ARTICLE  FOUR  OF  THE  REAL
  PROPERTY TAX LAW.
-  (3) In the case of [a husband and  wife]  SPOUSES  who  file  a  joint
- return  and  who  both  individually  qualify  for the credit under this
- subsection FOR TAXABLE YEARS BEGINNING ON AND AFTER JANUARY  FIRST,  TWO
- THOUSAND  SEVEN  AND BEFORE JANUARY FIRST, TWO THOUSAND TWENTY-FOUR, the
- amount of the credit allowed shall be four hundred DOLLARS. FOR  TAXABLE
- YEARS  BEGINNING  ON  AND AFTER JANUARY FIRST, TWO THOUSAND TWENTY-FOUR,
+  (3)  In  the  case  of  [a  husband and wife] SPOUSES who file a joint
+ return and who both individually  qualify  for  the  credit  under  this
+ subsection  FOR  TAXABLE YEARS BEGINNING ON AND AFTER JANUARY FIRST, TWO
+ THOUSAND SEVEN AND BEFORE JANUARY FIRST, TWO THOUSAND  TWENTY-FOUR,  the
+ amount  of the credit allowed shall be four hundred DOLLARS. FOR TAXABLE
+ YEARS BEGINNING ON AND AFTER JANUARY FIRST,  TWO  THOUSAND  TWENTY-FOUR,
  THE AMOUNT OF THE CREDIT SHALL BE SIXTEEN HUNDRED dollars.
-  (4) If the amount of the credit allowed under this subsection for  any
- taxable  year  shall exceed the taxpayer's tax for such year, the excess
- shall be treated as an overpayment of tax to be credited or refunded  in
+  (4)  If the amount of the credit allowed under this subsection for any
+ taxable year shall exceed the taxpayer's tax for such year,  the  excess
+ shall  be treated as an overpayment of tax to be credited or refunded in
  accordance with the provisions of section six hundred eighty-six of this
  article, provided, however, that no interest shall be paid thereon.
-  §  2. This act shall take effect on the first of April next succeeding
+  § 2. The opening paragraph and  paragraph  (a)  of  subdivision  2  of
+ section  466-a  of the real property tax law, as added by chapter 670 of
+ the laws of 2022, are amended to read as follows:
+  Such exemption shall not be granted to an enrolled member of an incor-
+ porated volunteer fire company, fire department or  incorporated  volun-
+ tary  ambulance  service  residing  in  such CITY, VILLAGE, TOWN, SCHOOL
+ DISTRICT, SPECIAL DISTRICT, FIRE DISTRICT OR county unless:
+  (a) the applicant resides in the  city,  town  [or],  village,  SCHOOL
+ DISTRICT,  SPECIAL  DISTRICT, FIRE DISTRICT OR COUNTY which is served by
+ such incorporated volunteer fire company or fire department or  incorpo-
+ rated voluntary ambulance service;
+  §  3. This act shall take effect on the first of April next succeeding
  the date on which it shall have become a law.
