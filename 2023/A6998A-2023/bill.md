@@ -1,6 +1,6 @@
 # Authorizes rate increases for in-person early intervention services
 
-**Bill ID:** A6998A
+**Bill ID:** A6998AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the commissioner of health to increase rates by 11 percent for in-per
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6998
+  6998--A
  
   2023-2024 Regular Sessions
  
@@ -25,29 +25,33 @@ S T A T E  O F  N E W  Y O R K
   May 10, 2023
   ___________
  
- Introduced by M. of A. PAULIN -- read once and referred to the Committee
-  on Health
+ Introduced  by  M. of A. PAULIN, HEVESI, LUNSFORD, SIMON, MEEKS, ARDILA,
+  JACKSON, GONZALEZ-ROJAS, JEAN-PIERRE, BUTTENSCHON, WEPRIN -- read once
+  and referred to the Committee on Health -- reported  and  referred  to
+  the  Committee  on  Ways  and Means -- recommitted to the Committee on
+  Ways and Means in accordance with Assembly Rule 3, sec. 2 -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the public health law, in relation to authorizing a rate
-  increase for early intervention services
+  increase for in-person early intervention services
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Section 2557 of the public health law is amended by  adding
+ 
+  Section  1. Section 2557 of the public health law is amended by adding
  a new subdivision 6 to read as follows:
-  6.  NOTWITHSTANDING  ANY  INCONSISTENT PROVISION OF LAW OR REGULATION,
- FOR THE RATE YEAR  COMMENCING  JULY  1,  2024,  THE  COMMISSIONER  SHALL
- PROVIDE  FOR  AN ELEVEN PERCENT INCREASE IN THE RATES FOR APPROVED COSTS
- FOR EARLY INTERVENTION SERVICES RENDERED ON OR AFTER SUCH DATE.
+  6. NOTWITHSTANDING ANY INCONSISTENT PROVISION OF  LAW  OR  REGULATION,
+ FOR  THE  RATE  YEAR  COMMENCING  JULY  1,  2024, THE COMMISSIONER SHALL
+ PROVIDE FOR AN ELEVEN PERCENT INCREASE IN THE RATES FOR  APPROVED  COSTS
+ FOR  IN-PERSON  EARLY  INTERVENTION  SERVICES  RENDERED ON OR AFTER SUCH
+ DATE.
   § 2. This act shall take effect immediately.
  
- 
- 
- 
+
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11156-02-3
+  LBD11156-03-4
