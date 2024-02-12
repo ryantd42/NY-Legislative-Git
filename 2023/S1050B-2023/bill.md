@@ -1,6 +1,6 @@
 # Allows pharmacy technicians to practice in any pharmacy under the supervision of a pharmacist
 
-**Bill ID:** S1050B
+**Bill ID:** S1050BA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Allows pharmacy technicians to practice in any pharmacy under the supervision of
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1050
+  1050--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  COONEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Higher Education
- 
+  printed to be committed to the Committee on Higher Education -- recom-
+  mitted to the Committee on Higher Education in accordance with  Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the education law,  in  relation  to  allowing  pharmacy
   technicians  to  practice  in  any pharmacy under the supervision of a
   pharmacist
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  ing, labeling, or dispensing of drugs, in accordance with  this  article
  and  article one hundred thirty-seven of this title. For the purposes of
  this article, direct personal supervision means  supervision  of  proce-
- dures  based  on  instructions  given directly by a supervising licensed
- pharmacist who remains in the immediate area where  the  procedures  are
- being  performed, authorizes the procedures and evaluates the procedures
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02687-01-3
- S. 1050  2
+  LBD02687-03-4
+ S. 1050--A  2
  
- performed by the  registered  pharmacy  technicians  and  a  supervising
- licensed  pharmacist  shall approve all work performed by the registered
+ dures  based  on  instructions  given directly by a supervising licensed
+ pharmacist who remains in the [immediate] area where the procedures  are
+ being  performed, authorizes the procedures and evaluates the procedures
+ performed  by  the  registered  pharmacy  technicians  and a supervising
+ licensed pharmacist shall approve all work performed by  the  registered
  pharmacy technician prior to the actual dispensing of any drug.
   § 2. This act shall take effect immediately.
