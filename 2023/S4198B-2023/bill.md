@@ -1,6 +1,6 @@
 # Directs the department of transportation and the New York state thruway authority to identify sites along all highways, thruways and parkways in the state for wildlife crossings
 
-**Bill ID:** S4198BA
+**Bill ID:** S4198BB
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Vetoed
@@ -16,7 +16,8 @@ Enacts the "New York wildlife crossing act"; directs the department of transport
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4198--A
+  4198--B
+  Cal. No. 342
  
   2023-2024 Regular Sessions
  
@@ -25,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   February 6, 2023
   ___________
  
- Introduced by Sens. COMRIE, ASHBY, HOYLMAN-SIGAL, MAY, SEPULVEDA, TEDIS-
-  CO -- read twice and ordered printed, and when printed to be committed
-  to  the  Committee on Environmental Conservation -- recommitted to the
-  Committee on Environmental Conservation in accordance with Senate Rule
-  6, sec. 8 -- committee discharged, bill amended, ordered reprinted  as
-  amended and recommitted to said committee
+ Introduced  by  Sens.  COMRIE,  ASHBY, HARCKHAM, HOYLMAN-SIGAL, JACKSON,
+  MAY, SEPULVEDA, TEDISCO, WEBB -- read twice and ordered  printed,  and
+  when printed to be committed to the Committee on Environmental Conser-
+  vation  --  recommitted to the Committee on Environmental Conservation
+  in accordance with Senate Rule 6, sec. 8 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee  --  reported  favorably from said committee, ordered to first and
+  second report,  ordered  to  a  third  reading,  amended  and  ordered
+  reprinted, retaining its place in the order of third reading
  
  AN  ACT  to  enact  the "New York wildlife crossing act"; to direct the
   department of transportation and the New York state thruway  authority
@@ -39,12 +43,12 @@ S T A T E  O F  N E W  Y O R K
   safety and improve habitat connectivity; and to create a priority list
   of  wildlife crossing opportunity areas where federal grant monies may
   be available to implement the top five projects identified
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Short  title.  This act maybe known and cited as the "New
- York wildlife crossing act".
+  Section  1.  Short  title. This act shall be known and may be cited as
+ the "New York wildlife crossing act".
   § 2. For the purposes of this act:
   "Wildlife crossing" means  a  structure  designed  or  retrofitted  to
  enable  wildlife  to  successfully  cross  roads  and other human-caused
@@ -62,8 +66,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02060-04-4
- S. 4198--A  2
+  LBD02060-06-4
+ S. 4198--B  2
  
  effective date of this act. The priority list of crossing sites shall be
  determined by the following:
@@ -90,34 +94,33 @@ S T A T E  O F  N E W  Y O R K
   (f)  The feasibility and constructability of wildlife crossing infras-
  tructure; and
   (g) Any additional information that the  department  of  environmental
- conservation,  department of motor vehicles, and non-governmental organ-
- izations deems necessary and appropriate to carry  out  the  intent  and
+ conservation deems necessary and appropriate to carry out the intent and
  purposes of this act.
   § 4. Two years after the effective date of this act, the department of
  transportation  in conjunction with the New York state thruway authority
- shall shall make public its identified list of priority wildlife  cross-
- ing opportunities. The priority opportunity list and accompanying infor-
- mation  listed below shall be updated every five years after publication
- of the initial list. The publicized list of the top ten  priority  wild-
- life crossing opportunities shall be accompanied by the following infor-
- mation:
+ shall make public its identified  list  of  priority  wildlife  crossing
+ opportunities.  The  priority opportunity list and accompanying informa-
+ tion listed below shall be updated every five years after publication of
+ the initial list. The publicized list of the top ten  priority  wildlife
+ crossing  opportunities  shall  be accompanied by the following informa-
+ tion:
   (a) Feasibility factors impacting construction for the top five of the
  top ten wildlife crossing opportunities, which should include any avail-
  able and helpful estimate costs, the availability and habitat quality of
- the  land  on  either  side  of  the  crossings, and any relevant public
+ the land on either side  of  the  crossings,  and  any  relevant  public
  support for the crossings;
-  (b) A description of any methodologies used  beyond  the  requirements
- listed  in  subdivisions  (a)  and  (b)  of section three of this act to
+  (b)  A  description  of any methodologies used beyond the requirements
+ listed in subdivisions (a) and (b) of  section  three  of  this  act  to
  create the top ten list; and
   (c) A list of available federal grant funds that the top five projects
  are eligible for.
-  § 5. The department of transportation may consult with  any  state  or
- local  office,  agency, or department and request or receive information
- from any such entity that is relevant and material to the completion  of
+  §  5.  The  department of transportation may consult with any state or
+ local office, agency, or department and request or  receive  information
+ from  any such entity that is relevant and material to the completion of
  this study and report.
-  §  6.  The  department  of  transportation is hereby directed to addi-
- tionally update  appropriate  design  guidance,  including  the  Highway
+  § 6. The department of transportation  is  hereby  directed  to  addi-
+ tionally  update  appropriate  design  guidance,  including  the Highway
  Design Manual, by July 1, 2026, to incorporate design concepts for wild-
- life  passage  features and related standard plans and specifications as
+ life passage features and related standard plans and  specifications  as
  appropriate.
   § 7. This act shall take effect immediately.
