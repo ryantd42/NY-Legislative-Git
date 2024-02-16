@@ -1,6 +1,6 @@
 # Relates to disability retirement benefits for Lawrence R. Hrazanek, a participant in World Trade Center rescue, recovery, or cleanup operations
 
-**Bill ID:** A7412A
+**Bill ID:** A7412AA
 **Session:** 2023
 **Sponsor:** Dana Levenberg
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides accidental disability retirement benefits for Lawrence R. Hrazanek, a p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7412
+  7412--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  LEVENBERG  --  read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT relating to disability retirement benefits for Lawrence R. Hraza-
   nek, a participant in World Trade Center rescue, recovery, and cleanup
   operations
@@ -56,32 +59,32 @@ S T A T E  O F  N E W  Y O R K
  the New York State and Local Employees' Retirement System who previously
  worked  for the New York State Department of Taxation and Finance, to be
  entitled to an accidental disability retirement benefit equal to 75%  of
- final  average salary, payable pursuant to § 605(d)(4) of the Retirement
- and Social Security Law, as a result of their participation in the World
- Trade Center (WTC) rescue, recovery and cleanup operations. The  retire-
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11087-02-3
- A. 7412  2
+  LBD11087-04-4
+ A. 7412--A  2
  
+ final  average  salary, payable pursuant to §605(d)(4) of the Retirement
+ and Social Security Law, as a result of their participation in the World
+ Trade Center (WTC) rescue, recovery and cleanup operations. The  retire-
  ment benefit would be recalculated and payment would be made retroactive
  to the date of retirement.
-  If  this  bill  is  enacted during the 2023 legislative session, there
- will be an immediate past service cost of approximately  $761,000  which
+  If  this  bill  is  enacted during the 2024 legislative session, there
+ will be an immediate past service cost of approximately  $793,000  which
  will be borne by the State of New York as a one-time payment. This esti-
- mate assumes that payment will be made on March 1, 2024.
+ mate assumes that payment will be made on March 1, 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -89,6 +92,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated May 15, 2023, and intended for  use  only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-155, prepared by
+  This estimate, dated January 3, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No.  2024-12,  prepared  by
  the Actuary for the New York State and Local Retirement System.
