@@ -1,6 +1,6 @@
 # Relates to eligible purchases by school breakfast and lunch service programs receiving additional state subsidies
 
-**Bill ID:** A870A
+**Bill ID:** A870AA
 **Session:** 2023
 **Sponsor:** Karen McMahon
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Permits a school food authority to attribute moneys spent on purchases of food p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  870
+  870--A
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,11 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. McMAHON, BUTTENSCHON, LUPARDO, JACKSON, SILLITTI,
   JONES,  L. ROSENTHAL, FAHY, GONZALEZ-ROJAS, STIRPE, WALLACE, MAGNAREL-
-  LI, WOERNER, BRONSON, CLARK -- read once and referred to the Committee
-  on Education
+  LI, WOERNER, BRONSON, CLARK,  DICKENS,  McDONALD,  BENDETT,  ANGELINO,
+  BARRETT  --  read  once  and referred to the Committee on Education --
+  recommitted to the Committee on Education in accordance with  Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend chapter 537 of the laws of 1976, relating to paid,  free
   and  reduced  price  breakfast  for  eligible pupils in certain school
@@ -56,38 +59,38 @@ S T A T E  O F  N E W  Y O R K
  purchased at least thirty percent of its total cost of food products for
  its school lunch service program from New York state  farmers,  growers,
  producers or processors in the preceding school year. COMMENCING JULY 1,
- 2023,  AND  EACH  JULY  1  THEREAFTER,  A SCHOOL FOOD AUTHORITY SHALL BE
- ALLOWED TO ATTRIBUTE MONEYS SPENT ON PURCHASES OF FOOD PRODUCTS FROM NEW
- YORK STATE FARMERS, GROWERS, PRODUCERS OR PROCESSORS MADE FOR ITS SCHOOL
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01355-01-3
- A. 870  2
+  LBD01355-02-4
+ A. 870--A  2
  
- BREAKFAST PROGRAM TO THE  THIRTY  PERCENT  OF  COSTS  FOR  SCHOOL  LUNCH
- SERVICE PROGRAMS.
-  c.  The  Department of Agriculture and Markets in cooperation with the
+ 2024,  AND  EACH  JULY  1  THEREAFTER,  A SCHOOL FOOD AUTHORITY SHALL BE
+ ALLOWED TO ATTRIBUTE MONEYS SPENT ON PURCHASES OF FOOD PRODUCTS FROM NEW
+ YORK STATE FARMERS, GROWERS, PRODUCERS OR PROCESSORS MADE FOR ITS SCHOOL
+ BREAKFAST  PROGRAM  TO  THE THIRTY PERCENT OF COSTS FOR SCHOOL BREAKFAST
+ AND LUNCH SERVICE PROGRAMS.
+  c. The Department of Agriculture and Markets in cooperation  with  the
  State Education Department, shall develop an application for school food
  authorities to seek an additional State subsidy pursuant to this section
- in a timeline and format prescribed by the commissioner  of  agriculture
- and  markets.  Such  application  shall  include, but not be limited to,
- documentation demonstrating  the  school  food  authority's  total  food
- purchases for its school lunch service program, and documentation demon-
- strating  its  total  food  purchases  and percentages for such program,
- PERMITTED TO BE COUNTED UNDER THIS SECTION, from New York State farmers,
- growers, producers or processors  in  the  preceding  school  year.  The
- application  shall  also  include  an  attestation  from the school food
- authority's chief operating officer that it purchased  at  least  thirty
- percent  of  its  total  cost  of food products, PERMITTED TO BE COUNTED
- UNDER THIS SECTION, for its school lunch service program from  New  York
- State  farmers, growers, producers or processors in the preceding school
- year in order to meet the requirements for this additional State  subsi-
- dy. School food authorities shall be required to annually apply for this
- subsidy. After reviewing school food authorities' completed applications
- for an additional State subsidy pursuant to this section, the Department
- of  Agriculture and Markets shall certify to the State Education Depart-
- ment the school food authorities  approved  for  such  additional  State
- subsidy  and  the  State  Education Department shall pay such additional
- State subsidy to such school food authorities.
+ in  a  timeline and format prescribed by the commissioner of agriculture
+ and markets. Such application shall include,  but  not  be  limited  to,
+ documentation  demonstrating  the  school  food  authority's  total food
+ purchases for its  school  BREAKFAST  AND  lunch  service  program,  and
+ documentation demonstrating its total food purchases and percentages for
+ such  program, PERMITTED TO BE COUNTED UNDER THIS SECTION, from New York
+ State farmers, growers, producers or processors in the preceding  school
+ year.  The application shall also include an attestation from the school
+ food authority's chief operating officer  that  it  purchased  at  least
+ thirty  percent  of  its  total  cost  of food products, PERMITTED TO BE
+ COUNTED UNDER THIS SECTION, for its school BREAKFAST AND  lunch  service
+ program from New York State farmers, growers, producers or processors in
+ the  preceding  school  year  in order to meet the requirements for this
+ additional State subsidy. School food authorities shall be  required  to
+ annually  apply  for  this subsidy. After reviewing school food authori-
+ ties' completed applications for an additional State subsidy pursuant to
+ this section, the Department of Agriculture and Markets shall certify to
+ the State Education Department the school food authorities approved  for
+ such  additional  State subsidy and the State Education Department shall
+ pay such additional State subsidy to such school food authorities.
   § 2. This act shall take effect immediately.
