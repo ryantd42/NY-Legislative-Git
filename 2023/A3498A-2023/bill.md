@@ -1,6 +1,6 @@
 # Increases the various fixed fees for the provision of certain services by the sheriff
 
-**Bill ID:** A3498A
+**Bill ID:** A3498AA
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Increases the various fixed fees for the provision of certain services by the sh
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3498
+  3498--A
  
   2023-2024 Regular Sessions
  
@@ -26,44 +26,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. DINOWITZ -- read once and referred to the Commit-
-  tee on Judiciary
+  tee on Judiciary -- reported and referred to the Committee on Ways and
+  Means  -- reported and referred to the Committee on Rules -- recommit-
+  ted to the Committee on Ways and Means  in  accordance  with  Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend  the  civil  practice  law  and rules, in relation to
+ AN ACT to amend the  civil  practice  law  and  rules,  in  relation  to
   increasing the fixed fees for services provided by sheriffs
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section  1.  Section  8011  of  the  civil  practice law and rules, as
- amended by chapter 655 of the laws of 2002, subdivision (h)  as  amended
+ 
+  Section 1. Section 8011 of  the  civil  practice  law  and  rules,  as
+ amended  by  chapter 655 of the laws of 2002, subdivision (h) as amended
  by chapter 36 of the laws of 2007, is amended to read as follows:
-  §  8011. Fixed fees of sheriffs. For the services specified, a sheriff
- is entitled to the following fees and, where indicated, these  shall  be
+  § 8011. Fixed fees of sheriffs. For the services specified, a  sheriff
+ is  entitled  to the following fees and, where indicated, these shall be
  paid in advance.
   (a) Order of attachment.
-  1.  For receiving an order of attachment, entering it in the appropri-
- ate books, and  return  when  required,  [fifteen]  TWENTY  dollars,  in
+  1. For receiving an order of attachment, entering it in the  appropri-
+ ate  books,  and  return  when  required,  [fifteen]  TWENTY dollars, in
  advance.
-  2.  For levying upon real or personal property, [forty] FIFTY dollars,
+  2. For levying upon real or personal property, [forty] FIFTY  dollars,
  in advance.
-  3. For each additional levy upon real or personal property  by  virtue
+  3.  For  each additional levy upon real or personal property by virtue
  of an order of attachment, [forty] FIFTY dollars, in advance.
-  4.  For  serving  a copy of an order of attachment on a defendant, and
- for serving a  copy  on  each  additional  defendant,  [fifteen]  TWENTY
+  4. For serving a copy of an order of attachment on  a  defendant,  and
+ for  serving  a  copy  on  each  additional  defendant, [fifteen] TWENTY
  dollars, in advance.
   5. For serving a summons with or without a complaint, [fifteen] TWENTY
  dollars, in advance.
-  6.  For making and filing a description of real property, or an inven-
- tory of personal property, levied upon by virtue of an order of  attach-
- ment, or an estimate of the value thereof, [fifteen] TWENTY dollars.
-  7.  Mileage  for services covered in paragraphs two, three and four of
- this subdivision, in advance, provided, however, that where the services
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00598-01-3
- A. 3498  2
+  LBD00598-03-4
+ A. 3498--A  2
  
+  6. For making and filing a description of real property, or an  inven-
+ tory  of personal property, levied upon by virtue of an order of attach-
+ ment, or an estimate of the value thereof, [fifteen] TWENTY dollars.
+  7.  Mileage  for services covered in paragraphs two, three and four of
+ this subdivision, in advance, provided, however, that where the services
  covered in such paragraphs are performed at the  same  time  and  place,
  there shall be only one mileage fee.
   (b) Property execution.
@@ -115,13 +119,13 @@ S T A T E  O F  N E W  Y O R K
  five of this subdivision, in advance, provided however, that  where  the
  services  covered  in such paragraphs are performed at the same time and
  place, there shall be only one mileage fee.
+ A. 3498--A  3
+ 
   (f) Summary proceeding.
   1. Notice of petition and petition.
-  (i) For receiving a notice of  petition  and  petition,  obtaining  an
- index  number  when  required, entering it in the appropriate books, and
+  (i)  For  receiving  a  notice  of petition and petition, obtaining an
+ index number when required, entering it in the  appropriate  books,  and
  return, [fifteen] TWENTY dollars, in advance.
- A. 3498  3
- 
   (ii) For serving the notice of petition on a tenant or other person in
  possession, [fifteen] TWENTY dollars, in advance.
   (iii)  For  serving  the notice of petition on each additional tenant,
@@ -140,18 +144,16 @@ S T A T E  O F  N E W  Y O R K
  of real property and removal of person or persons in possession.
   (i) For requisitioning, receiving, entering in the appropriate  books,
  and  for  the  return  of  a  warrant  of eviction or any other mandate,
- [fifteen] TWENTY dollars, in advance.
+ fifteen dollars, in advance.
   (ii) For service of notice of eviction on a person or  persons  to  be
- served,  [fifteen]  TWENTY  dollars  for  each  person  to be served, in
- advance.
-  (iii) Mileage of services covered in subparagraph (ii) of  this  para-
- graph,  in  advance, except where two or more notices of eviction are to
- be served at the same time, within the  same  site  or  location,  there
+ served, fifteen dollars for each person to be served, in advance.
+  (iii)  Mileage  of services covered in subparagraph (ii) of this para-
+ graph, in advance, except where two or more notices of eviction  are  to
+ be  served  at  the  same  time, within the same site or location, there
  shall be only one mileage fee.
-  (iv)  For executing a warrant of eviction or any mandate requiring him
- or her to put a person in  possession  of  real  property  and  removing
- person  or persons in possession, [seventy-five] ONE HUNDRED dollars, in
- advance.
+  (iv) For executing a warrant of eviction or any mandate requiring  him
+ or  her  to  put  a  person  in possession of real property and removing
+ person or persons in possession, seventy-five dollars, in advance.
   (v) Mileage for services covered in subparagraph (iv)  of  this  para-
  graph, in advance.
   (g) Sales.
@@ -175,10 +177,10 @@ S T A T E  O F  N E W  Y O R K
  dollars, in advance.
   2. For serving or executing an order of arrest, or any  other  mandate
  for  the  service  or  execution  of  which no other fee is specifically
+ A. 3498--A  4
+
  prescribed by law, [forty-five] FIFTY-FIVE dollars, in  advance,  except
  that  when  a  court has directed the service of an order of protection,
- A. 3498  4
- 
  there shall be no fee for service of  such  order  and  of  any  related
  orders or papers to be served simultaneously.
   3.  Mileage  for services subject to fees under paragraphs one and two
