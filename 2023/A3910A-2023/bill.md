@@ -1,6 +1,6 @@
 # Relates to written notice to unsuccessful minority- or women-owned business enterprise bidders on state contracts
 
-**Bill ID:** A3910A
+**Bill ID:** A3910AA
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires public corporations and agencies to provide written notice to each mino
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3910
+  3910--A
  
   2023-2024 Regular Sessions
  
@@ -25,39 +25,44 @@ S T A T E  O F  N E W  Y O R K
   February 8, 2023
   ___________
  
- Introduced  by  M.  of A. BICHOTTE HERMELYN -- read once and referred to
-  the Committee on Corporations, Authorities and Commissions
+ Introduced  by  M. of A. BICHOTTE HERMELYN, McDONALD, WILLIAMS, GIBBS --
+  read once and referred to the Committee on  Corporations,  Authorities
+  and  Commissions  --  recommitted  to  the  Committee on Corporations,
+  Authorities and Commissions in accordance with Assembly Rule 3, sec. 2
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
- AN ACT to amend the public authorities law and the economic  development
-  law,  in  relation  to  requiring  public corporations and agencies to
-  provide notice to each minority- or  women-owned  business  enterprise
-  that unsuccessfully bid on a contract of the reason or reasons why the
-  business enterprise was unsuccessful in obtaining the contract
+ AN  ACT to amend the public authorities law and the economic development
+  law, in relation to requiring  public  corporations  and  agencies  to
+  provide  written  notice  to  each  minority-  or women-owned business
+  enterprise that unsuccessfully bid on a  contract  of  the  reason  or
+  reasons  why the business enterprise was unsuccessful in obtaining the
+  contract
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Clause IV of subparagraph (H) of paragraph (j) of  subdivi-
- sion  3 of section 2879 of the public authorities law, as added by chap-
- ter 174 of the laws of 2010, is amended and a new  subparagraph  (I)  is
+  Section  1. Clause IV of subparagraph (H) of paragraph (j) of subdivi-
+ sion 3 of section 2879 of the public authorities law, as added by  chap-
+ ter  174  of  the laws of 2010, is amended and a new subparagraph (I) is
  added to read as follows:
-  IV.  consult  the  most  recent  disparity  study  pursuant to article
+  IV. consult the  most  recent  disparity  study  pursuant  to  article
  fifteen-A of the executive law[.]; AND
-  (I) A REQUIREMENT THAT, WITHIN  THIRTY  DAYS  OF  THE  AWARDING  OF  A
- CONTRACT,  THE  CORPORATION AWARDING THE CONTRACT PROVIDE NOTICE TO EACH
- MINORITY- OR WOMEN-OWNED BUSINESS ENTERPRISE THAT UNSUCCESSFULLY BID  ON
- THE  CONTRACT  OF  THE REASON OR REASONS WHY THE BUSINESS ENTERPRISE WAS
- UNSUCCESSFUL IN OBTAINING THE CONTRACT.
-  § 2. Section 143 of the economic development law is amended by  adding
+  (I)  A  REQUIREMENT  THAT,  WITHIN  THIRTY  DAYS  OF THE AWARDING OF A
+ CONTRACT, THE CORPORATION AWARDING THE CONTRACT PROVIDE  WRITTEN  NOTICE
+ TO EACH MINORITY- OR WOMEN-OWNED BUSINESS ENTERPRISE THAT UNSUCCESSFULLY
+ BID ON THE CONTRACT OF THE REASON OR REASONS WHY THE BUSINESS ENTERPRISE
+ WAS UNSUCCESSFUL IN OBTAINING THE CONTRACT.
+  §  2. Section 143 of the economic development law is amended by adding
  a new subdivision 6 to read as follows:
   6. WITHIN THIRTY DAYS OF THE AWARDING OF A CONTRACT, THE AGENCY AWARD-
- ING  THE  CONTRACT SHALL PROVIDE NOTICE TO EACH MINORITY- OR WOMEN-OWNED
- BUSINESS ENTERPRISE THAT UNSUCCESSFULLY  BID  ON  THE  CONTRACT  OF  THE
- REASON  OR  REASONS  WHY  THE  BUSINESS  ENTERPRISE  WAS UNSUCCESSFUL IN
+ ING THE CONTRACT SHALL PROVIDE  WRITTEN  NOTICE  TO  EACH  MINORITY-  OR
+ WOMEN-OWNED  BUSINESS ENTERPRISE THAT UNSUCCESSFULLY BID ON THE CONTRACT
+ OF THE REASON OR REASONS WHY THE BUSINESS ENTERPRISE WAS UNSUCCESSFUL IN
  OBTAINING THE CONTRACT.
   § 3. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03382-01-3
+  LBD03382-03-4
