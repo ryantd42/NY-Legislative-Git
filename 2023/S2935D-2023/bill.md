@@ -1,6 +1,6 @@
 # Enacts the "just energy transition act"
 
-**Bill ID:** S2935DC
+**Bill ID:** S2935DD
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Assembly Committee
@@ -16,8 +16,7 @@ Enacts the "just energy transition act"; requires a study of competitive options
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2935--C
-  Cal. No. 237
+  2935--D
  
   2023-2024 Regular Sessions
  
@@ -26,102 +25,107 @@ S T A T E  O F  N E W  Y O R K
   January 25, 2023
   ___________
  
- Introduced by Sens. PARKER, GIANARIS, GONZALEZ, HARCKHAM, HOYLMAN-SIGAL,
-  JACKSON,  MARTINEZ,  MYRIE, RAMOS, SEPULVEDA -- read twice and ordered
-  printed, and when printed to be committed to the Committee  on  Energy
-  and  Telecommunications  --  reported  favorably  from said committee,
-  ordered to first and  second  report,  ordered  to  a  third  reading,
-  amended  and  ordered  reprinted,  retaining its place in the order of
-  third reading -- again amended and ordered  reprinted,  retaining  its
-  place  in  the  order  of  third  reading -- again amended and ordered
-  reprinted, retaining its place in the order of third reading
+ Introduced  by  Sens. PARKER, BRESLIN, BRISPORT, CLEARE, COMRIE, FERNAN-
+  DEZ, GIANARIS, GONZALEZ, GOUNARDES, HARCKHAM, HOYLMAN-SIGAL,  JACKSON,
+  KAVANAGH, KRUEGER, LIU, MARTINEZ, MAY, MYRIE, RAMOS, SALAZAR, SEPULVE-
+  DA,  SERRANO,  STAVISKY  --  read  twice and ordered printed, and when
+  printed to be committed to the Committee on  Energy  and  Telecommuni-
+  cations  --  reported  favorably from said committee, ordered to first
+  and second report, ordered to a third  reading,  amended  and  ordered
+  reprinted,  retaining its place in the order of third reading -- again
+  amended and ordered reprinted, retaining its place  in  the  order  of
+  third  reading  --  again amended and ordered reprinted, retaining its
+  place in the order of third reading -- recommitted to the Committee on
+  Energy and Telecommunications in accordance with Senate Rule 6, sec. 8
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
  AN ACT enacting the "just energy transition act"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Short title.  This act shall be known and may be cited as
+  Section 1. Short title.  This act shall be known and may be  cited  as
  the "just energy transition act".
-  § 2. Legislative findings and statement of  purpose.  The  legislature
+  §  2.  Legislative  findings and statement of purpose. The legislature
  hereby finds, determines and declares:
-  (a)  New  York  state,  especially New York city, is reliant on fossil
- fuels for energy production, making the transition to renewable  sources
- for  the  downstate electricity system key to achieving the requirements
- of section 4 of the New York  state  climate  leadership  and  community
- protection  act, including that seventy percent of the state's electric-
- ity be from renewable energy sources by  the  year  2030  and  that  one
+  (a) New York state, especially New York city,  is  reliant  on  fossil
+ fuels  for energy production, making the transition to renewable sources
+ for the downstate electricity system key to achieving  the  requirements
+ of  section  4  of  the  New York state climate leadership and community
+ protection act, including that seventy percent of the state's  electric-
+ ity  be  from  renewable  energy  sources  by the year 2030 and that one
  hundred percent of the state's electricity be from zero-emission sources
  by the year 2040.
-  (b)  New  York  state  is committed to the responsible replacement and
- redevelopment of its fossil fueled generation facilities that  currently
- ensure resource adequacy in the state, especially in locations where the
- health  benefits  to historically disadvantaged communities can be maxi-
- mized, and where the cost effective phasing-out of such  facilities  can
- be done while helping to ensure a just transition for the existing work-
- force.
- 
+  (b) New York state is committed to  the  responsible  replacement  and
+ redevelopment  of its fossil fueled generation facilities that currently
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06171-08-3
- S. 2935--C  2
+  LBD06171-14-4
+ S. 2935--D  2
  
+ ensure resource adequacy in the state, especially in locations where the
+ health benefits to historically disadvantaged communities can  be  maxi-
+ mized,  and  where the cost effective phasing-out of such facilities can
+ be done while helping to ensure a just transition for the existing work-
+ force.
   (c)  A  public policy purpose would be served and the interests of the
  people of the state would be advanced by directing the  New  York  state
  energy  research  and  development  authority,  in consultation with the
  department of public service and the department of environmental conser-
- vation,  to  continue the development of the study commenced in 2022, as
- referenced in the climate action council scoping plan of  strategies  to
- facilitate  the  replacement  and redevelopment of New York's oldest and
- most-polluting fossil fueled generation facilities and  their  sites  by
+ vation, to continue the development of the study commenced in  2022,  as
+ referenced  in  the climate action council scoping plan of strategies to
+ facilitate the replacement and redevelopment of New  York's  oldest  and
+ most-polluting  fossil  fueled  generation facilities and their sites by
  2030, while ensuring resource adequacy, with renewable energy systems as
- defined  in paragraph (b) of subdivision 1 of section 66-p of the public
- service law, energy storage systems, and  electricity  transmission  and
+ defined in paragraph (b) of subdivision 1 of section 66-p of the  public
+ service  law,  energy  storage systems, and electricity transmission and
  distribution systems and equipment.
-  (d)  It  is  the  intent  of  the  legislature in enacting this act to
- empower the New York state energy research  and  development  authority,
- department  of public service, and department of environmental conserva-
- tion, to develop a study as described  in  the  climate  action  council
- scoping  plan  and  paragraph  (c)  of  section three of this act in the
- manner authorized and directed herein, and for those  entities  and  the
- public  service commission, and any other agencies or authorities of the
- state as may be required, to commence any proceedings  or  other  initi-
+  (d) It is the intent of  the  legislature  in  enacting  this  act  to
+ empower  the  New  York state energy research and development authority,
+ department of public service, and department of environmental  conserva-
+ tion,  to  develop  a  study  as described in the climate action council
+ scoping plan and paragraph (c) of section  three  of  this  act  in  the
+ manner  authorized  and  directed herein, and for those entities and the
+ public service commission, and any other agencies or authorities of  the
+ state  as  may  be required, to commence any proceedings or other initi-
  atives necessary to carry out the strategies described therein.
-  §  3.  The New York state energy research and development authority is
+  § 3. The New York state energy research and development  authority  is
  authorized and directed to:
-  (a) develop a study of competitive options to  facilitate  the  phase-
- out,  replacement and redevelopment of New York state's oldest and most-
- polluting fossil fueled generation facilities and  their  sites  by  the
+  (a)  develop  a  study of competitive options to facilitate the phase-
+ out, replacement and redevelopment of New York state's oldest and  most-
+ polluting  fossil  fueled  generation  facilities and their sites by the
  year  2030,  with  renewable  generation  options  that  include  those
  described in the scoping plan issued by the climate action council under
- section 75-0103 of the environmental conservation law, renewable  energy
- systems  as defined in paragraph (b) of subdivision 1 of section 66-p of
- the public service law, energy storage systems, and  electricity  trans-
- mission  and distribution systems and equipment, while ensuring resource
- adequacy and other reliability services are maintained, and to do so  in
- consultation  with  the  department of public service, the department of
+ section  75-0103 of the environmental conservation law, renewable energy
+ systems as defined in paragraph (b) of subdivision 1 of section 66-p  of
+ the  public  service law, energy storage systems, and electricity trans-
+ mission and distribution systems and equipment, while ensuring  resource
+ adequacy  and other reliability services are maintained, and to do so in
+ consultation with the department of public service,  the  department  of
  environmental conservation, Long Island power authority, and other rele-
- vant state agencies and authorities with subject matter  expertise,  the
- federally  designated  electric bulk system operator, the New York State
+ vant  state  agencies and authorities with subject matter expertise, the
+ federally designated electric bulk system operator, the New  York  State
  Reliability Council, and the owners of such facilities. The study should
- prioritize the replacement  and  redevelopment  of  such  fossil  fueled
- generation  facilities  with  facilities  that  will  directly assist in
- achieving the energy, environmental  justice  and  emissions  reductions
- requirements  of section 66-p of the public service law. The study shall
+ prioritize  the  replacement  and  redevelopment  of  such fossil fueled
+ generation facilities with  facilities  that  will  directly  assist  in
+ achieving  the  energy,  environmental  justice and emissions reductions
+ requirements of section 66-p of the public service law. The study  shall
  address the phase-out of at least four gigawatts of fossil fueled gener-
- ation statewide capacity in total and prioritize those  facilities  that
- only  operate when electricity usage is highest. The study shall include
+ ation  statewide  capacity in total and prioritize those facilities that
+ only operate when electricity usage is highest. The study shall  include
  recommendations of standards and requirements that:
-  (i) significantly reduce the state's electricity  system  reliance  on
- fossil  fuels,  taking  into  account the requirements and timing of the
+  (i)  significantly  reduce  the state's electricity system reliance on
+ fossil fuels, taking into account the requirements  and  timing  of  the
  state's emission reduction programs;
   (ii) establish a competitive program to promote private sector invest-
- ment in eligible technologies that the  public  service  commission  has
- determined,  after  notice and provision for the opportunity to comment,
- ensure resource adequacy, while achieving the  requirements  of  section
- 66-p of the public service law;
- S. 2935--C  3
+ ment  in  eligible  technologies  that the public service commission has
+ S. 2935--D  3
  
+ determined, after notice and provision for the opportunity  to  comment,
+ ensure  resource  adequacy,  while achieving the requirements of section
+ 66-p of the public service law;
   (iii)  provide significant environmental, health and other benefits to
  disadvantaged communities as such  communities  will  be  defined  under
  section 75-0111 of the environmental conservation law; and
@@ -163,7 +167,7 @@ S T A T E  O F  N E W  Y O R K
  nor, temporary president of the senate and speaker of the assembly; and
   (b)  issue  an  order  regarding  implementation  of  the  strategies,
  programs, standards, and requirements described in the study referred to
- in  section  three  of  this act no later than July 30, 2024. Such order
+ in  section  three  of  this act no later than July 30, 2026. Such order
  shall at a minimum:
   (i) direct the New York state energy research and development authori-
  ty to implement a competitive award process to facilitate  the  replace-
@@ -175,11 +179,11 @@ S T A T E  O F  N E W  Y O R K
  transmission; and
   (ii)  direct  that  with  respect  to  the  competitive  award process
  required, the only eligible electricity  generation  from  hydroelectric
+ S. 2935--D  4
+ 
  facilities  shall  be electricity that is generated from non-state-owned
  low impact run-of-river facilities located in the state that  provide  a
  year-round electricity capacity resource.
- S. 2935--C  4
- 
   (c)(i)  Any  projects  pursuant to this section, or the study provided
  herein, shall be  deemed  public  work  and  shall  be  subject  to  and
  performed  in  accordance  with  articles 8 and 9 of the labor law. Each
@@ -232,37 +236,37 @@ S T A T E  O F  N E W  Y O R K
  including affected labor organizations, to notify  the  commissioner  of
  the  loss  of  employment, their previous title, and previous wage rates
  including whether they previously  received  medical  and/or  retirement
+ S. 2935--D  5
+ 
  benefits. The plan shall require employers to notify the commissioner of
  workers laid off or discharged due to this act.
   (ii)  The  commissioner  of  labor  shall create a program pursuant to
  which, where applicable and feasible, newly  created  job  opportunities
- S. 2935--C  5
- 
  shall  be offered to a pool of transitioning workers who have lost their
  employment or will be losing  their  employment  in  the  energy  sector
  through  projects undertaken pursuant to this act, or the study provided
- in  section  three  of this act. Such program shall include a method for
- the commissioner of labor to communicate names and  contact  information
- for  displaced or transitioning workers to public entities that may have
+ in section three of this act. Such program shall include  a  method  for
+ the  commissioner  of labor to communicate names and contact information
+ for displaced or transitioning workers to public entities that may  have
  job opportunities for such workers every 90 days.
-  (e) Notwithstanding any provision of law to the contrary,  all  rights
+  (e)  Notwithstanding  any provision of law to the contrary, all rights
  or  benefits,  including  terms  and  conditions  of  employment,  and
- protection of civil service and  collective  bargaining  status  of  all
+ protection  of  civil  service  and  collective bargaining status of all
  existing public employees and the work jurisdiction, covered job titles,
- and  work assignments, set forth in the civil service law and collective
+ and work assignments, set forth in the civil service law and  collective
  bargaining  agreements  with  labor  organizations  representing  public
- employees  shall  be  preserved and  protected. Nothing in this section
- shall result in the:  (i) displacement of any currently employed  worker
- or  loss of position (including partial displacement as such a reduction
- in the hours of non-overtime work, wages,  or  employment  benefits)  or
- result  in  the impairment of existing collective bargaining agreements;
- (ii) transfer of existing duties and functions  related  to  maintenance
- and  operations  currently performed by existing employees of authorized
+ employees shall be preserved and  protected. Nothing  in  this  section
+ shall  result in the:  (i) displacement of any currently employed worker
+ or loss of position (including partial displacement as such a  reduction
+ in  the  hours  of  non-overtime work, wages, or employment benefits) or
+ result in the impairment of existing collective  bargaining  agreements;
+ (ii)  transfer  of  existing duties and functions related to maintenance
+ and operations currently performed by existing employees  of  authorized
  entities to a contracting entity; or (iii) transfer of future duties and
- functions ordinarily performed by employees of authorized entities to  a
+ functions  ordinarily performed by employees of authorized entities to a
  contracting entity.
-  §  6.  The  Long  Island  power authority shall establish a program or
- programs in its service territory consistent with the recommendation  of
+  § 6. The Long Island power authority  shall  establish  a  program  or
+ programs  in its service territory consistent with the recommendation of
  the  study  conducted  pursuant  to  section  three  of  this  act,  the
  provisions of section five of this act, and the objectives of this act.
   § 7. This act shall take effect immediately.
