@@ -1,6 +1,6 @@
 # Relates to providing county correction officers with a special optional twenty year retirement plan
 
-**Bill ID:** A7601B
+**Bill ID:** A7601BA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to providing county correction officers with a special optional twenty y
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7601
+  7601--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the retirement and social security law, in  relation  to
   providing  county  correction  officers with a special optional twenty
   year retirement plan
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,15 +59,15 @@ S T A T E  O F  N E W  Y O R K
  EMPLOYEES' RETIREMENT SYSTEM.
   (C) "CREDITABLE SERVICE" SHALL INCLUDE ANY AND ALL SERVICES  PERFORMED
  AS  A  SHERIFF,  UNDERSHERIFF  OR DEPUTY SHERIFF, OR CORRECTION OFFICER.
- CREDIT FOR SERVICE AS A MEMBER OR OFFICER OF THE STATE POLICE  OR  AS  A
- PAID  FIREMAN,  POLICEMAN OR OFFICER OF ANY ORGANIZED FIRE DEPARTMENT OR
- POLICE FORCE OR DEPARTMENT OF ANY  COUNTY,  CITY,  VILLAGE,  TOWN,  FIRE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05836-02-3
- A. 7601  2
+  LBD05836-03-4
+ A. 7601--A  2
  
+ CREDIT FOR SERVICE AS A MEMBER OR OFFICER OF THE STATE POLICE  OR  AS  A
+ PAID  FIREMAN,  POLICEMAN OR OFFICER OF ANY ORGANIZED FIRE DEPARTMENT OR
+ POLICE FORCE OR DEPARTMENT OF ANY  COUNTY,  CITY,  VILLAGE,  TOWN,  FIRE
  DISTRICT  OR  POLICE  DISTRICT,  SHALL  ALSO  BE DEEMED TO BE CREDITABLE
  SERVICE AND SHALL BE INCLUDED IN COMPUTING YEARS OF  TOTAL  SERVICE  FOR
  RETIREMENT PURSUANT TO THIS SECTION, PROVIDED SUCH SERVICE WAS PERFORMED
@@ -118,14 +121,14 @@ S T A T E  O F  N E W  Y O R K
  PENSION ACCUMULATION FUND OF THE RETIREMENT SYSTEM.
   (E)  IN  COMPUTING  THE TWENTY YEARS OF COMPLETED SERVICE OF A MEMBER,
  FULL CREDIT SHALL BE GIVEN FOR MILITARY SERVICE AS DEFINED  IN  SUBDIVI-
+ A. 7601--A  3
+ 
  SIONS  TWENTY-NINE-A  AND  THIRTY  OF  SECTION THREE HUNDRED TWO OF THIS
  CHAPTER.
- A. 7601  3
- 
-  (F) EVERY MEMBER PARTICIPATING ON THE BASIS OF THIS SECTION  SHALL  BE
- SEPARATED  FROM  THE  SERVICE ON THE LAST DAY OF THE CALENDAR MONTH NEXT
- SUCCEEDING THE CALENDAR MONTH IN WHICH HE OR SHE ATTAINS AGE  SIXTY-TWO,
- PROVIDED,  HOWEVER, THAT SUCH A MEMBER WHO ATTAINED THE AGE OF SIXTY-TWO
+  (F)  EVERY  MEMBER PARTICIPATING ON THE BASIS OF THIS SECTION SHALL BE
+ SEPARATED FROM THE SERVICE ON THE LAST DAY OF THE  CALENDAR  MONTH  NEXT
+ SUCCEEDING  THE CALENDAR MONTH IN WHICH HE OR SHE ATTAINS AGE SIXTY-TWO,
+ PROVIDED, HOWEVER, THAT SUCH A MEMBER WHO ATTAINED THE AGE OF  SIXTY-TWO
  BEFORE HIS OR HER EMPLOYER ELECTED TO MAKE THE BENEFITS PROVIDED BY THIS
  SECTION  AVAILABLE  TO  HIM  OR HER, OR WHO ATTAINS THE AGE OF SIXTY-TWO
  WITHIN ONE MONTH AFTER HIS OR HER EMPLOYER MAKES  SUCH  BENEFITS  AVAIL-
@@ -176,74 +179,67 @@ S T A T E  O F  N E W  Y O R K
  period of up to ten years at the option of such county.
   § 3. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This bill would create Article 14-C in the Retirement and Social Secu-
- rity  Law,  creating  county electable 20-year plans covering any county
- A. 7601  4
+ A. 7601--A  4
  
- correction officers and deputy sheriffs engaged directly in at least 50%
- correction officer duties. A county may elect to  provide  a  retirement
- benefit  equal to 50% of final average salary after 20 years of service.
- A  county  may further elect to provide for additional 60ths for service
- beyond 20 years. All service rendered as a correction officer,  sheriff,
- undersheriff,  or  deputy  sheriff,  a  member  or  officer of the State
- Police, a paid firefighter, a police  officer,  or  an  officer  of  any
- organized  fire department or police force is creditable. The retirement
- benefit is not to exceed 75% of final average salary.
-  If this bill is enacted during the  2023  legislative  session,  there
+  This bill would add Article 14-C to the Retirement and Social Security
+ Law,  creating  county  electable  twenty-year plans covering any county
+ correction officers and deputy sheriffs engaged directly  in  correction
+ officer duties that aggregate at least fifty percent of their service. A
+ county  may elect to provide a retirement benefit equal to fifty percent
+ of final average salary after twenty years  of  service.  A  county  may
+ further  elect to provide for additional sixtieths for service in excess
+ of twenty years. All service rendered as a correction officer,  sheriff,
+ deputy sheriff or undersheriff, a member or officer of the State Police,
+ a  paid  firefighter,  a  police officer, or an officer of any organized
+ fire department or police force will be creditable. The retirement bene-
+ fit is not to exceed seventy-five percent of final average salary.
+  If this bill is enacted during the  2024  Legislative  Session,  there
  will  be  an increase in the annual contributions of any electing county
- for the fiscal year ending  March  31,  2024,  as  approximated  in  the
+ for the fiscal year ending  March  31,  2025,  as  approximated  in  the
  following  table.  In future years, these costs will vary as the billing
  rates of the affected members change.
  
- Current Plan  Electing 20-year plan  Electing 20-year plan
-  plus additional 60ths
-  A15  7.5%  8.5%
-  89-e  4.3%  5.4%
-  551  3.3%  4.4%
-  551E  2.0%  3.1%
+ Current Plan  Article 14-C  Article 14-C
+  20-Year Plan  20-Year Plan
+  with additional sixtieths
+ Article 14 or Article 15  9.0%  10.3%
+ 89*, 25-Year Plans  4.9%  6.4%
+ County Law Enforcement
+ Article 14-B 25-Year Plan  3.7%  5.2%
+ Article 14-B 25-Year Plan  2.1%  3.6%
+ 25-Year Plan
+ with additional sixtieths
  
   In addition to the annual contributions discussed above, there will be
- an immediate past service  cost  that  will  depend  upon  the  members'
- service, salary, tier, current retirement plan, and new retirement plan.
- Once  a  county  elects  to provide this coverage, an exact cost will be
- determined based upon a roster of eligible members provided by the coun-
- ty. The past service cost may be amortized over a period of  up  to  ten
- years.
-  Further,  we  anticipate  additional administrative costs to implement
+ an immediate past service  cost  that  will  depend  upon  the  affected
+ members' service, salary, tier, current retirement plan, and new retire-
+ ment plan.  Once a county elects to provide this coverage, an exact cost
+ will be determined based on a roster of eligible members provided by the
+ county.  The past service cost may be amortized over a period of up to
+ ten years.
+  Further, we anticipate additional administrative  costs  to  implement
  the provisions of this legislation.
-  Internal Revenue Service (IRS)  plan  qualification  issues:  granting
- correction  officers  service credit toward retirement in a 20-year plan
- could jeopardize the Retirement System's governmental  plan  status  and
- its  exemption  from ERISA. This development could result in the loss of
- qualified status, which would mean the loss of tax benefits. This result
- would substantially impair the Retirement System's  value  to  our  more
- than one million participants.
-  Prior to the enactment of this legislation, we recommend that a favor-
- able ruling be obtained from the IRS stating that these provisions would
- not  harm the qualification status of the Retirement System. It is esti-
- mated that the costs to obtain such a ruling would be  $38,000  for  the
- services of the IRS, and $1,000 per hour for legal consultants.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al valuation. Distributions and other statistics can  be  found  in  the
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
- A. 7601  5
- 
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This  fiscal note does not constitute a legal opinion on the viability
- of the proposed change nor is it intended to serve as a  substitute  for
+  This fiscal note does not constitute a legal opinion on the  viability
+ of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This  estimate,  dated  February  27,  2023, and intended for use only
- during the  2023  Legislative  Session,  is  Fiscal  Note  No.  2023-55,
- prepared  by  the  Actuary  for  the New York State and Local Retirement
+ A. 7601--A  5
+ 
+  This estimate, dated February 16, 2024,  and  intended  for  use  only
+ during  the  2024  Legislative  Session,  is  Fiscal  Note  No. 2024-50,
+ prepared by the Actuary for the New  York  State  and  Local  Retirement
  System.
