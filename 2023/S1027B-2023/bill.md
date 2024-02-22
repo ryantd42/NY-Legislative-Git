@@ -1,6 +1,6 @@
 # Relates to employment discrimination relating to family leave
 
-**Bill ID:** S1027BA
+**Bill ID:** S1027BB
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that an employee shall not be required to request reinstatement in orde
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1027--A
+  1027--B
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sens. GOUNARDES, HOYLMAN-SIGAL, MYRIE, PARKER, SEPULVEDA
-  -- read twice and ordered printed, and when printed to be committed to
-  the Committee on Labor -- committee discharged, bill amended,  ordered
+ Introduced  by  Sens. GOUNARDES, BROUK, FERNANDEZ, HOYLMAN-SIGAL, MYRIE,
+  PARKER, SEPULVEDA -- read twice and ordered printed, and when  printed
+  to  be  committed  to  the Committee on Labor -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee  -- recommitted to the Committee on Labor in accordance with
+  Senate Rule 6, sec. 8 -- committee discharged, bill  amended,  ordered
   reprinted as amended and recommitted to said committee
  
  AN ACT to amend the workers' compensation law, in relation to paid fami-
@@ -42,46 +45,48 @@ S T A T E  O F  N E W  Y O R K
  paragraph as amended by chapter 105 of the laws of 2019, is  amended  to
  read as follows:
   §  120.  Discrimination against employees. 1. It shall be unlawful for
- any employer or his or her duly authorized agent to discharge or fail to
- reinstate pursuant to section two hundred three-b of this chapter, or in
- any other manner discriminate against an  employee  as  to  his  or  her
- employment  because  such  employee  has  claimed  or attempted to claim
- compensation from such employer, requested a  claim  form  for  injuries
- received  in  the course of employment, or claimed or attempted to claim
- any benefits provided under this chapter or because he or she has testi-
- fied or is about to testify in a proceeding under this  chapter  and  no
- other valid reason is shown to exist for such action by the employer.
+ any employer or [his or her] THEIR duly authorized agent to discharge or
+ fail to reinstate pursuant to section two hundred three-b of this  chap-
+ ter,  or in any other manner discriminate against an employee as to [his
+ or her] THEIR employment because such employee has claimed or  attempted
+ to  claim  compensation  from  such employer, requested a claim form for
+ injuries received in the course of employment, or claimed  or  attempted
+ to claim any benefits provided under this chapter or because [he or she]
+ SUCH EMPLOYEE has testified or is about to testify in a proceeding under
+ this chapter and no other valid reason is shown to exist for such action
+ by the employer.
   2.  Any  complaint  alleging  such an unlawful discriminatory practice
  must be filed within two years of the commission of such practice.  Upon
  finding that an employer has violated this section, the board shall make
  an order that any employee so discriminated against shall be restored to
- employment or otherwise restored to the position or privileges he or she
- would  have  had  but  for  the discrimination, IF SUCH REINSTATEMENT IS
- REQUESTED BY SUCH EMPLOYEE, and shall  be  compensated  by  his  or  her
- employer for any loss of compensation arising out of such discrimination
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03171-02-3
- S. 1027--A  2
+  LBD03171-06-4
+ S. 1027--B  2
  
- together with such fees or allowances for services rendered by an attor-
- ney  or  licensed representative as fixed by the board. Any employer who
- violates this section shall be liable to a penalty of not less than  one
- hundred  dollars or more than five hundred dollars, as may be determined
- by the board. All such penalties shall be paid into the state  treasury.
- All  penalties, compensation and fees or allowances shall be paid solely
- by the employer. The employer alone and not his or her carrier shall  be
- liable  for  such penalties and payments.  Any provision in an insurance
- policy undertaking to relieve  the  employer  from  liability  for  such
- penalties and payments shall be void.
-  3.  An  employer  found  to  be  in  violation of this section and the
- aggrieved employee must report to the board as  to  the  manner  of  the
- employer's  compliance within thirty days of receipt of a final determi-
+ employment  or  otherwise  restored to the position or privileges [he or
+ she] THEY would have had but  for  the  discrimination,  IF  SUCH  REIN-
+ STATEMENT  IS  REQUESTED  BY  SUCH EMPLOYEE, and shall be compensated by
+ [his  or her] THEIR employer for any loss of compensation arising out of
+ such discrimination together with such fees or allowances  for  services
+ rendered  by  an  attorney  or  licensed  representative as fixed by the
+ board. Any employer who violates this  section  shall  be  liable  to  a
+ penalty  of  not less than one hundred dollars or more than five hundred
+ dollars, as may be determined by the board. All such penalties shall  be
+ paid  into  the  state treasury. All penalties, compensation and fees or
+ allowances shall be paid solely by the employer. The employer alone  and
+ not  [his  or  her] THEIR carrier shall be liable for such penalties and
+ payments.  Any provision in an insurance policy undertaking  to  relieve
+ the  employer  from  liability  for such penalties and payments shall be
+ void.
+  3. An employer found to be  in  violation  of  this  section  and  the
+ aggrieved  employee  must  report  to  the board as to the manner of the
+ employer's compliance within thirty days of receipt of a final  determi-
  nation. In case of failure to report on compliance, or failure to comply
  with an order or penalty of the board within thirty days after the order
- or notice of penalty is served, except where timely application  to  the
- board  for a modification, rescission or review of such order or penalty
+ or  notice  of penalty is served, except where timely application to the
+ board for a modification, rescission, or review of such order or penalty
  has been filed under section twenty-three of this chapter, the chair  in
  any  such  case  or,  on  the chair's consent, any party may enforce the
  order or penalty in a like manner as an award of compensation.
@@ -89,20 +94,23 @@ S T A T E  O F  N E W  Y O R K
  CHAPTER, AN EMPLOYEE SHALL NOT BE REQUIRED TO REQUEST  REINSTATEMENT  TO
  SUCH  EMPLOYEE'S FORMER POSITION OF EMPLOYMENT BEFORE FILING A COMPLAINT
  OF UNLAWFUL DISCRIMINATORY PRACTICE AS DESCRIBED IN THIS SECTION.
-  § 2. Section 203-a of the workers'  compensation  law  is  amended  by
- adding a new subdivision 3 to read as follows:
-  3. AN ACTION MAY BE BROUGHT AGAINST ANY COVERED EMPLOYER, AS DESCRIBED
- IN  SECTION TWO HUNDRED TWO OF THIS ARTICLE, WHO VIOLATES THE PROVISIONS
- OF SECTION ONE HUNDRED TWENTY OR TWO HUNDRED THREE-B OF THIS CHAPTER, BY
- OR ON BEHALF OF AN EMPLOYEE, AS THAT TERM IS DEFINED IN SUBDIVISION FIVE
- OF SECTION TWO HUNDRED ONE OF THIS ARTICLE, WHO HAS CLAIMED OR ATTEMPTED
- TO CLAIM PAID FAMILY LEAVE BENEFITS. A PLAINTIFF WHO PREVAILS ON A CLAIM
- ALLEGING A VIOLATION OF  SECTION  ONE  HUNDRED  TWENTY  OR  TWO  HUNDRED
- THREE-B OF THIS CHAPTER WITH REGARDS TO PAID FAMILY LEAVE SHALL BE ENTI-
- TLED  TO  COMPENSATORY, ACTUAL, AND PUNITIVE DAMAGES, INJUNCTIVE RELIEF,
- REASONABLE ATTORNEYS' FEES AND COSTS, AND OTHER SUCH REMEDIES AS A COURT
- MAY DEEM APPROPRIATE.
-  § 3. Section 203-b of the  workers'  compensation  law,  as  added  by
+  5. AS AN ALTERNATIVE TO FILING A COMPLAINT WITH THE  BOARD  AS  HEREIN
+ PROVIDED,  AN EMPLOYEE MAY BRING AN ACTION AGAINST ANY COVERED EMPLOYER,
+ AS DESCRIBED IN SECTION TWO HUNDRED TWO OF THIS  CHAPTER,  WHO  VIOLATES
+ THE  PROVISIONS  OF  THIS SECTION OR SECTION TWO HUNDRED THREE-B OF THIS
+ CHAPTER, BY OR ON BEHALF OF AN EMPLOYEE, AS  THAT  TERM  IS  DEFINED  IN
+ SUBDIVISION  FIVE  OF  SECTION  TWO HUNDRED ONE OF THIS CHAPTER, WHO HAS
+ CLAIMED OR ATTEMPTED TO CLAIM PAID FAMILY LEAVE  BENEFITS.  A  PLAINTIFF
+ WHO  PREVAILS  ON  A  CLAIM  ALLEGING  A VIOLATION OF THIS SECTION OR OF
+ SECTION TWO HUNDRED THREE-B OF THIS CHAPTER WITH REGARDS TO PAID  FAMILY
+ LEAVE  SHALL  BE ENTITLED TO COMPENSATORY, ACTUAL, AND PUNITIVE DAMAGES,
+ INJUNCTIVE RELIEF, REASONABLE ATTORNEYS' FEES AND COSTS, AND OTHER  SUCH
+ REMEDIES AS A COURT MAY DEEM APPROPRIATE.
+  6.  AN  EMPLOYEE WITH A PENDING CLAIM BEFORE THE BOARD WHERE A FINDING
+ HAS NOT YET BEEN ISSUED AS OF THE EFFECTIVE  DATE  OF  THIS  SUBDIVISION
+ SHALL  BE PERMITTED TO WITHDRAW SUCH CLAIM AND FILE THE ACTION DESCRIBED
+ IN SUBDIVISION FIVE OF THIS SECTION AGAINST A COVERED EMPLOYER.
+  § 2. Section 203-b of the  workers'  compensation  law,  as  added  by
  section  4  of  part SS of chapter 54 of the laws of 2016, is amended to
  read as follows:
   § 203-b. Reinstatement following family leave. Any  eligible  employee
@@ -113,18 +121,22 @@ S T A T E  O F  N E W  Y O R K
  fits, pay and other terms and conditions of employment, PROVIDED, HOWEV-
  ER,  THAT  SUCH ELIGIBLE EMPLOYEE SHALL NOT BE REQUIRED TO REQUEST REIN-
  STATEMENT TO ANY SUCH POSITION. The taking of  family  leave  shall  not
+ S. 1027--B  3
+ 
  result  in  the loss of any employment benefit accrued prior to the date
  on which the leave commenced. Nothing in this section shall be construed
  to entitle any restored employee to the  accrual  of  any  seniority  or
  employment benefits during any period of leave, or any right, benefit or
  position to which the employee would have been entitled had the employee
  not  taken  the  leave.  FURTHERMORE,  NOTHING  IN THIS SECTION SHALL BE
- CONSTRUED TO REQUIRE AN EMPLOYEE TO REQUEST REINSTATEMENT TO HIS OR  HER
+ CONSTRUED TO REQUIRE AN  EMPLOYEE  TO  REQUEST  REINSTATEMENT  TO  THEIR
  FORMER POSITION OF EMPLOYMENT, OR TO A COMPARABLE POSITION WITH COMPARA-
- S. 1027--A  3
- 
  BLE  EMPLOYMENT BENEFITS, PAY, AND OTHER TERMS AND CONDITIONS OF EMPLOY-
  MENT, BEFORE INITIATING A COMPLAINT AGAINST A COVERED EMPLOYER  PURSUANT
  TO THE PROVISIONS OF SECTION ONE HUNDRED TWENTY OF THIS CHAPTER.
-  § 4. This act shall take effect on the one hundred eightieth day after
- it shall have become a law.
+  §  3.  This  act  shall take effect immediately and shall apply to all
+ complaints and actions filed on or after such effective date;  provided,
+ however,  that  the  provisions  of  subdivision 6 of section 120 of the
+ workers' compensation law added by section one of this act  shall  apply
+ to claims pending before the workers' compensation board where a finding
+ has not yet been issued as of the effective date of this act.
