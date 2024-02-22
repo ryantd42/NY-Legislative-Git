@@ -1,6 +1,6 @@
 # Relates to service retirement benefits for members of the NYC police pension fund
 
-**Bill ID:** S6481A
+**Bill ID:** S6481AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that service retirement benefits for members of the NYC police pension 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6481
+  6481--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,17 @@ S T A T E  O F  N E W  Y O R K
   April 24, 2023
   ___________
  
- Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Civil Service and Pensions
+ Introduced  by  Sens.  SKOUFIS,  ADDABBO,  CHU,  WEBER -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Civil  Service  and  Pensions -- recommitted to the Committee on Civil
+  Service and Pensions in accordance with  Senate  Rule  6,  sec.  8  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the retirement and social security law, in  relation  to
   service  retirement  benefits  for members of the New York city police
   pension fund
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,19 +59,19 @@ S T A T E  O F  N E W  Y O R K
  York  city  uniformed  correction/sanitation  revised  plan  members and
  investigator revised plan members shall be a pension equal  to  two  and
  one-tenths  percent  of  final  average  salary  times years of credited
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08526-04-4
+ S. 6481--A  2
+ 
  service at the completion of twenty years of service or upon  attainment
  of age sixty-two, increased by one-third of one percent of final average
  salary  for  each month of service in excess of twenty years, but not in
- excess of fifty percent of final average salary, less fifty  percent  of
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD08526-02-3
- S. 6481  2
- 
- the  primary social security retirement benefit commencing at age sixty-
- two as  provided  in  section  five  hundred  eleven  of  this  article,
- provided,  however, that New York city police/fire revised plan members,
+ excess  of  fifty percent of final average salary, less fifty percent of
+ the primary social security retirement benefit commencing at age  sixty-
+ two  as  provided  in  section  five  hundred  eleven  of  this article,
+ provided, however, that New York city police/fire revised plan  members,
  New  York  city uniformed correction/sanitation revised plan members and
  investigator revised plan members shall not be eligible  to  retire  for
  service prior to the attainment of twenty years of credited service, AND
@@ -117,99 +121,126 @@ S T A T E  O F  N E W  Y O R K
  shall be reduced by one-fifteenth  for  each  year,  if  any,  that  the
  member's  early  retirement  age  is in excess of age sixty, and by one-
  thirtieth for each additional year by which the vested benefit commences
+ S. 6481--A  3
+ 
  prior to early retirement age. If such vested benefit is deferred  until
  after such member's normal retirement age, the benefit shall be computed
  and  subject  to annual escalation in the same manner as provided for an
- S. 6481  3
- 
- early retirement benefit pursuant  to  subdivision  c  of  section  five
+ early  retirement  benefit  pursuant  to  subdivision  c of section five
  hundred five of this article.
-  §  4.  This  act  shall take effect on the sixtieth day after it shall
+  § 4. This act shall take effect on the sixtieth  day  after  it  shall
  have become a law.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  SUMMARY OF BILL: This proposed legislation would amend  Sections  505,
- 511,  and 516 of the Retirement and Social Security Law (RSSL) to elimi-
- nate the offset equal to 50% of the primary social security  benefit  in
- the  service,  early  service, and vested retirement benefits for Tier 3
- original, revised, and enhanced plan members of the New York City Police
- Pension Fund (POLICE).
-  Effective Date: Sixty days after enactment.
-  IMPACT ON BENEFITS: Currently, the Tier 3 normal  service  retirement,
- early  service retirement, and vested retirement benefits are subject to
- an offset equal to 50% of the primary social security benefit as defined
- in RSSL Section 511 beginning at age 62.
-  Under the proposed legislation, the offset for such benefits would  be
- eliminated resulting in an increase in benefits.
-  FINANCIAL  IMPACT:  Based on the census data and the actuarial assump-
- tions and methods described  herein,  the  enactment  of  this  proposed
- legislation  would result in an initial increase in the Present Value of
- Future Benefits (PVFB) and the present value of future employer contrib-
- utions of approximately $675.0 million.
-  The  financial  impact  will  increase  as  the  impacted  population
- increases  over  time.  The  estimate of the increase in annual employer
- contributions for Fiscal Years 2024 through 2028 are shown in the  table
- below.
-  Fiscal  Increase in
-  Year  Employer Contributions
-  ($ Millions)
-  2024  $ 50.8
-  2025  $ 54.8
-  2026  $ 59.1
-  2027  $ 63.9
-  2028  $ 69.4
-  New  Unfunded  Accrued Liability (UAL) attributable to benefit changes
- are generally amortized over the remaining  working  lifetime  of  those
- impacted by the benefit changes. The remaining working lifetime for this
- group  is  approximately  18 years and the increase in UAL was therefore
- amortized over an 18-year period (17 payments  under  the  One-Year  Lag
- Methodology) using level dollar payments.
-  CENSUS  DATA:  The  estimates presented herein are based on the census
- data used in the June 30, 2022 actuarial valuation of POLICE  to  deter-
- mine the Preliminary Fiscal Year 2024 employer contributions.
-  The  19,375  active  POLICE  Tier 3 members as of June 30, 2022 had an
- average age of approximately 32.2 years, average service of approximate-
- ly 5.7 years, and an average salary of approximately $101,600.
-  ACTUARIAL ASSUMPTIONS AND METHODS: The estimate presented herein  have
- been  calculated  based on the actuarial assumptions and methods used to
- determine the Preliminary Fiscal Year  2024  employer  contributions  of
- POLICE.
-  New  entrants  were projected to replace the members expected to leave
- the active population to maintain a steady-state population. New entrant
- demographics were developed based on data for recent new hires and actu-
- arial judgement.
- S. 6481  4
+  SUMMARY: This proposed legislation would amend Sections of the Retire-
+ ment and Social Security Law (RSSL) to eliminate the offset equal to 50%
+ of  the  primary  social security benefit in the service, early service,
+ and vested retirement benefits for Tier 3 members of the New  York  City
+ Police Pension Fund (POLICE).
  
-  For the purposes of this Fiscal Note, it is assumed that  the  changes
- would  be  reflected  for  the first time in the June 30, 2022 actuarial
- valuation of POLICE used to determine employer contributions for  Fiscal
- Year 2024.
+  EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+  by Fiscal Year for the first 25 years ($ in Millions)
+  Year  POLICE
+  2025  62.1
+  2026  66.6
+  2027  72.4
+  2028  78.7
+  2029  84.9
+  2030  91.5
+  2031  97.7
+  2032  103.0
+  2033  108.2
+  2034  113.2
+  2035  118.0
+  2036  122.8
+  2037  127.5
+  2038  132.4
+  2039  137.2
+  2040  142.1
+  2041  122.3
+  2042  127.3
+  2043  132.6
+  2044  138.1
+  2045  143.5
+  2046  149.0
+  2047  154.6
+  2048  160.6
+  2049  166.8
+ 
+  Employer Contribution impact beyond Fiscal Year 2049 is not shown.
+  Projected contributions include future new hires that may be impacted.
+ 
+  The entire increase in employer contributions will be allocated to New
+ York City.
+ 
+  EXPECTED INCREASE (DECREASE) IN ACTUARIAL LIABILITIES
+  as of June 30, 2023 ($ in Millions)
+  Present Value (PV)  POLICE
+  PV of Benefits:  788.6
+  PV of Employee Contributions:  0.0
+  PV of Employer Contributions:  788.6
+  Unfunded Accrued Liabilities:  226.2
+ S. 6481--A  4
+ 
+  AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+  POLICE
+  Number of Payments:  16
+  Fiscal Year of Last Payment:  2040
+  Amortization Payment:  24.8 M
+ 
+  Unfunded  Accrued Liability increases were amortized over the expected
+ remaining working lifetime of those  impacted  by  the  benefit  changes
+ using level dollar payments.
+  CENSUS  DATA:  The estimates presented herein are based on preliminary
+ census data collected as of June 30,  2023.  The  census  data  for  the
+ impacted population is summarized below.
+ 
+  POLICE
+  Active Members
+  - Number Count:  20,176
+  - Average Age:  32.8
+  - Average Service:  6.1
+  - Average Salary:  107,600
+  Term. Vested Members
+  - Number Count:  924
+  - Average Age:  34.7
+ 
+  IMPACT  ON  MEMBER  BENEFITS: Currently, Tier 3 normal service retire-
+ ment, early service  retirement,  and  vested  retirement  benefits  are
+ subject to an offset equal to 50% of the primary social security benefit
+ as defined in RSSL Section 511 beginning at age 62.
+  Under  the proposed legislation, the offset for such benefits would be
+ eliminated for POLICE members, resulting in an increase in benefits.
+  ASSUMPTIONS AND METHODS: The  estimates  presented  herein  have  been
+ calculated  based  on the Revised 2021 Actuarial Assumptions and Methods
+ of the impacted retirement systems. In addition:
+  * New entrants were assumed to replace exiting members so  that  total
+ payroll increases by 3% each year for impacted groups. New entrant demo-
+ graphics were developed based on data for recent new hires and actuarial
+ judgement.
   RISK  AND  UNCERTAINTY: The costs presented in this Fiscal Note depend
- highly on the realization of the actuarial assumptions used,  demograph-
- ics  of  the  impacted  population and other factors such as investment,
- contribution, and other risks. If actual experience deviates from  actu-
- arial  assumptions,  the  actual costs could differ from those presented
- herein.
-  Costs are also dependent on the actuarial methods used, and  therefore
- different actuarial methods could produce different results. Quantifying
- these risks is beyond the scope of this Fiscal Note.
-  Not measured in this Fiscal Note are the following:
-  *  The  initial  additional  administrative  costs  to  implement  the
- proposed legislation.
-  * Pension costs for  future  members  of  POLICE  hired  on  or  after
- 7/1/2026.
-  *  Cost  analyses  relating  to  provisions  contained in RSSL Section
- 500(c).
-  STATEMENT OF ACTUARIAL OPINION: I, Marek  Tyszkiewicz,  am  the  Chief
- Actuary  for,  and  independent of, the New York City Retirement Systems
- and Pension Funds. I am an Associate of the Society of Actuaries  and  a
- Member of the American Academy of Actuaries. I am a member of NYCERS but
- do  not  believe  it impairs my objectivity and I meet the Qualification
- Standards of the American Academy of Actuaries to render  the  actuarial
- opinion  contained  herein.  To  the  best  of my knowledge, the results
- contained  herein  have  been  prepared  in  accordance  with  generally
- accepted  actuarial  principles  and  procedures  and with the Actuarial
- Standards of Practice issued by the Actuarial Standards Board.
-  FISCAL NOTE IDENTIFICATION: This Fiscal Note 2023-21  dated  April  3,
- 2023  was  prepared  by  the  Chief Actuary for the New York City Police
- Pension Fund. This estimate is intended for use  only  during  the  2023
- Legislative Session.
+ highly on the actuarial assumptions, methods,  and  models  used,  demo-
+ graphics  of  the  impacted population and other factors such as invest-
+ ment, contribution, and other risks. If actual experience deviates  from
+ actuarial  assumptions,  the  actual  costs  could  differ  from  those
+ presented herein. Quantifying these risks is beyond the  scope  of  this
+ Fiscal Note.
+  This  Fiscal  Note  is intended to measure pension-related impacts and
+ does not include other potential costs (e.g., administrative  and  Other
+ Postemployment Benefits).
+  This Fiscal Note does not include cost analyses relating to provisions
+ contained in RSSL Section 500(c).
+  STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+ sky  are members of the Society of Actuaries and the American Academy of
+ Actuaries. We are members of NYCERS but do not believe  it  impairs  our
+ objectivity  and  we  meet  the  Qualification Standards of the American
+ Academy of Actuaries to render the actuarial opinion  contained  herein.
+ To  the  best  of  our knowledge, the results contained herein have been
+ prepared in accordance with generally accepted actuarial principles  and
+ S. 6481--A  5
+ 
+ procedures  and  with  the Actuarial Standards of Practice issued by the
+ Actuarial Standards Board.
+  FISCAL NOTE IDENTIFICATION: This Fiscal Note 2024-04 dated January 22,
+ 2024  was prepared by the Chief Actuary for the New York City Retirement
+ Systems and Pension Funds. This estimate is intended for use only during
+ the 2024 Legislative Session.
