@@ -1,6 +1,6 @@
 # Ensures that staff in libraries are able to curate collections, services, and programming that reflect diverse interests
 
-**Bill ID:** A7843BA
+**Bill ID:** A7843BB
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Ensures that staff in libraries are able to curate collections, services, and pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7843--A
+  7843--B
  
   2023-2024 Regular Sessions
  
@@ -25,43 +25,49 @@ S T A T E  O F  N E W  Y O R K
   July 7, 2023
   ___________
  
- Introduced by M. of A. KELLES -- read once and referred to the Committee
-  on  Libraries  and  Education Technology -- committee discharged, bill
-  amended, ordered reprinted as amended and recommitted to said  commit-
-  tee
+ Introduced by M. of A. KELLES, SEAWRIGHT, EACHUS, SIMON -- read once and
+  referred  to  the  Committee  on Libraries and Education Technology --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted  to  said  committee  --  recommitted  to the Committee on
+  Libraries and Education Technology in accordance with Assembly Rule 3,
+  sec. 2 -- committee discharged, bill  amended,  ordered  reprinted  as
+  amended and recommitted to said committee
  
  AN  ACT  to  amend  the  education law, in relation to requiring certain
-  libraries to adopt policies preventing the banning of certain  library
-  materials, services, or programming
+  libraries to adopt policies ensuring that library staff  are  able  to
+  curate  collections,  services,  and  programming that reflect diverse
+  interests
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 254 of the education law, as amended by chapter 718
  of the laws of 1981, is amended to read as follows:
-  § 254. Standards of library service. 1. The regents shall  have  power
- to  fix  standards of library service for every free association, public
- and hospital library or, with  the  advice  of  the  appropriate  tribal
- government  and library board of trustees, Indian library which receives
- any portion of  the  moneys  appropriated  by  the  state  to  aid  such
- libraries,  or  which  is supported in whole or in part by tax levied by
- any municipality or district. In the case of a  hospital  library  or  a
- library  serving  a  hospital,  such  standards  shall be established in
- consultation with the commissioner of health. If any such library  shall
- fail  to  comply  with  the regents requirements, such library shall not
- receive any portion of the moneys appropriated by the  state  for  free,
- hospital  or Indian libraries nor shall any tax be levied by any munici-
+  § 254. Standards  of  library service. 1. The regents shall have power
+ to fix standards of library service for every free  association,  public
+ and  hospital  library  or,  with  the  advice of the appropriate tribal
+ government and library board of trustees, Indian library which  receives
+ any  portion  of  the  moneys  appropriated  by  the  state  to aid such
+ libraries, or which is supported in whole or in part by  tax  levied  by
+ any  municipality  or  district.  In the case of a hospital library or a
+ library serving a hospital,  such  standards  shall  be  established  in
+ consultation  with the commissioner of health. If any such library shall
+ fail to comply with the regents requirements,  such  library  shall  not
+ receive  any  portion  of the moneys appropriated by the state for free,
+ hospital or Indian libraries nor shall any tax be levied by any  munici-
  pality or district for the support in whole or in part of such library.
-  2. SUCH STANDARDS SHALL REQUIRE EVERY FREE  ASSOCIATION,  PUBLIC,  AND
- HOSPITAL  LIBRARY  OR, WITH THE ADVICE OF THE APPROPRIATE TRIBAL GOVERN-
- MENT AND LIBRARY BOARD OF TRUSTEES, INDIAN LIBRARY, WHICH  RECEIVES  ANY
- PORTION  OF  THE MONEYS APPROPRIATED BY THE STATE TO AID SUCH LIBRARIES,
- TO  ADOPT  POLICIES  AND  PROCEDURES  THAT  ENSURE  LIBRARY  MATERIALS,
- SERVICES,  AND PROGRAMMING SHALL NOT BE PROSCRIBED OR REMOVED BECAUSE OF
- PARTISAN OR DOCTRINAL DISAPPROVAL.
-  § 2. This act shall take effect on the thirtieth day  after  it  shall
- have become a law.
+  2.  SUCH  STANDARDS  SHALL REQUIRE EVERY FREE ASSOCIATION, PUBLIC, AND
+ HOSPITAL LIBRARY OR, WITH THE ADVICE OF THE APPROPRIATE  TRIBAL  GOVERN-
+ MENT  AND  LIBRARY BOARD OF TRUSTEES, INDIAN LIBRARY, WHICH RECEIVES ANY
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11295-02-3
+  LBD11295-03-4
+ A. 7843--B  2
+ 
+ PORTION OF THE MONEYS APPROPRIATED BY THE STATE TO AID  SUCH  LIBRARIES,
+ TO  ADOPT  POLICIES AND PROCEDURES THAT ENSURE LIBRARY STAFF ARE ABLE TO
+ CURATE AND DEVELOP COLLECTIONS, SERVICES, AND PROGRAMMING  THAT  REFLECT
+ THE INTERESTS OF ALL PEOPLE OF THE COMMUNITY THAT THE LIBRARY SERVES.
+  §  2.  This  act shall take effect on the thirtieth day after it shall
+ have become a law.
