@@ -1,6 +1,6 @@
 # Relates to establishing hospital-sponsored off campus emergency departments
 
-**Bill ID:** S1885A
+**Bill ID:** S1885AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes hospital-sponsored off campus emergency departments as a "hospital";
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1885
+  1885--A
  
   2023-2024 Regular Sessions
  
@@ -26,25 +26,29 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sens. SKOUFIS, SALAZAR -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Health
- 
+  and when printed to be committed to the Committee on Health --  recom-
+  mitted  to  the  Committee on Health in accordance with Senate Rule 6,
+  sec. 8 -- committee discharged, bill  amended,  ordered  reprinted  as
+  amended and recommitted to said committee
+
  AN ACT to amend the public health law, in relation to hospital-sponsored
   off campus emergency departments
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Subdivision 1 of section 2801 of the public health law, as
- amended by section 1 of part Z of chapter 57 of the  laws  of  2019,  is
+  Section 1. Subdivision 1 of section 2801 of the public health law,  as
+ amended  by  section  2  of part E of chapter 57 of the laws of 2023, is
  amended to read as follows:
-  1.  "Hospital"  means a facility or institution engaged principally in
+  1. "Hospital" means a facility or institution engaged  principally  in
  providing services by or under the supervision of a physician or, in the
- case of a dental clinic or dental dispensary, of a dentist, or,  in  the
- case  of  a  midwifery  birth  center, of a midwife, for the prevention,
- diagnosis or treatment of human  disease,  pain,  injury,  deformity  or
- physical  condition,  including, but not limited to, a general hospital,
+ case  of  a dental clinic or dental dispensary, of a dentist, or, in the
+ case of a midwifery birth center, of  a  midwife,  for  the  prevention,
+ diagnosis  or  treatment  of  human  disease, pain, injury, deformity or
+ physical condition, including, but not limited to, a  general  hospital,
  HOSPITAL-SPONSORED  OFF  CAMPUS  EMERGENCY  DEPARTMENT,  public  health
- center,  diagnostic  center,  treatment  center,  dental  clinic, dental
+ center, diagnostic center, treatment center, a rural emergency  hospital
+ under  42 USC 1395x(kkk), or successor provisions, dental clinic, dental
  dispensary, rehabilitation center other than a facility used solely  for
  vocational  rehabilitation, nursing home, tuberculosis hospital, chronic
  disease hospital, maternity hospital, midwifery birth center,  lying-in-
@@ -55,22 +59,22 @@ S T A T E  O F  N E W  Y O R K
  the prevention, diagnosis or treatment of mental disability and which is
  subject  to the powers of visitation, examination, inspection and inves-
  tigation of the department of mental hygiene except for  those  distinct
- parts  of such a facility which provide hospital service. The provisions
- of this article shall not apply to a  facility  or  institution  engaged
- principally  in  providing  services  by or under the supervision of the
- bona fide members and adherents of a recognized  religious  organization
- whose teachings include reliance on spiritual means through prayer alone
- for  healing  in  the  practice of the religion of such organization and
- where services are provided  in  accordance  with  those  teachings.  No
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04610-01-3
- S. 1885  2
+  LBD04610-02-3
+ S. 1885--A  2
  
- provision  of  this  article  or  any  other  provision  of law shall be
- construed to: (a) limit the  volume  of  mental  health,  substance  use
- disorder  services  or  developmental  disability  services  that can be
+ parts  of such a facility which provide hospital service. The provisions
+ of this article shall not apply to a  facility  or  institution  engaged
+ principally  in  providing  services  by or under the supervision of the
+ bona  fide  members and adherents of a recognized religious organization
+ whose teachings include reliance on spiritual means through prayer alone
+ for healing in the practice of the religion  of  such  organization  and
+ where  services  are  provided  in  accordance  with those teachings. No
+ provision of this article  or  any  other  provision  of  law  shall  be
+ construed  to:  (a)  limit  the  volume  of mental health, substance use
+ disorder services or  developmental  disability  services  that  can  be
  provided  by  a  provider  of  primary care services licensed under this
  article and authorized to provide integrated services in accordance with
  regulations issued by the commissioner in consultation with the  commis-
@@ -117,6 +121,8 @@ S T A T E  O F  N E W  Y O R K
  ALL  PATIENTS  PRESENTING FOR TREATMENT WITHOUT REGARD FOR THEIR ABILITY
  TO PAY IN ACCORDANCE WITH FEDERAL LAW AND  RULES.  A  HOSPITAL-SPONSORED
  OFF CAMPUS EMERGENCY DEPARTMENT SHALL HAVE CAPACITY FOR RECEIVING GROUND
+ S. 1885--A  3
+ 
  AMBULANCE  PATIENTS  AND  SHALL  ESTABLISH TRANSFER PROTOCOLS WITH LOCAL
  EMERGENCY MEDICAL SERVICE PROVIDERS AND GENERAL HOSPITAL-BASED EMERGENCY
  DEPARTMENTS TO ENSURE TIMELY TRANSFER OF  PATIENTS  REQUIRING  A  HIGHER
