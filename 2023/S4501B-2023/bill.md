@@ -1,6 +1,6 @@
 # Relates to the use of body imaging scanning equipment in local correctional facilities
 
-**Bill ID:** S4501BA
+**Bill ID:** S4501BB
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the use of body imaging scanning equipment in local correctional faci
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4501--A
+  4501--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,9 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
   printed to be committed  to  the  Committee  on  Health  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee -- recommitted to the Committee on Health in accord-
+  ance with Senate Rule 6, sec. 8 -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN  ACT  to  amend the public health law, in relation to the use of body
   imaging scanning equipment in local correctional facilities
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  hygiene. The state commission of correction, in  consultation  with  the
  department  of  corrections  and community supervision, shall promulgate
  regulations establishing when body imaging scanning  equipment  will  be
- used  to  screen visitors and incarcerated individuals in state OR LOCAL
- correctional  facilities.  Such  regulations  shall  include  provisions
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01611-02-3
- S. 4501--A  2
+  LBD01611-04-4
+ S. 4501--B  2
  
+ used  to  screen visitors and incarcerated individuals in state OR LOCAL
+ correctional  facilities.  Such  regulations  shall  include  provisions
  establishing that alternative methods of screening may be used to accom-
  modate  individuals  who  decline  or  are unable to be screened by body
  imaging scanning equipment for  medical  reasons  and  that  alternative
@@ -102,12 +104,11 @@ S T A T E  O F  N E W  Y O R K
  highest  number  of  times  the equipment was used on any [incarcerated]
  individual DETAINED IN, COMMITTED TO, WORKING IN, OR VISITING THE FACIL-
  ITY, with corresponding exposure levels; and
-  § 3. This act shall take effect on the  same  date  and  in  the  same
- manner  as  section 1 of part LL of chapter 56 of the laws of 2023 takes
- effect; provided however,  that  the  amendments  to  subdivision  6  of
- section  3502 of the public health law made  by  sections one and two of
- this act shall not affect the repeal of such subdivision and  shall  be
- deemed  repealed  therewith. Effective immediately, the addition, amend-
- ment and/or repeal of any rule or regulation necessary for the implemen-
- tation  of this  act on its effective date are authorized to be made and
- completed on or before such effective date.
+  § 3. This act shall take effect immediately;  provided  however,  that
+ the amendments to subdivision 6 of section 3502 of the public health law
+ made  by  sections one and two of this act shall not affect the repeal
+ of such subdivision and  shall be deemed repealed  therewith.  Effective
+ immediately,  the addition, amendment and/or repeal of any rule or regu-
+ lation necessary for the implementation  of this  act on  its  effective
+ date are authorized to be made and completed on or before such effective
+ date.
