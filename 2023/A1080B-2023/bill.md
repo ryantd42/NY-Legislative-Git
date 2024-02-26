@@ -1,6 +1,6 @@
 # Relates to the appointment for agricultural representation on the state fire prevention and building code council
 
-**Bill ID:** A1080BA
+**Bill ID:** A1080BB
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Signed by Governor
@@ -16,8 +16,8 @@ Relates to the appointment for agricultural representation on the state fire pre
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1080--A
-  Cal. No. 127
+  1080--B
+  Cal. No. 34
  
   2023-2024 Regular Sessions
  
@@ -28,11 +28,15 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by M. of A. WOERNER, STIRPE, LUPARDO, CRUZ, ZINERMAN, JONES,
   BRABENEC,  ANGELINO,  BYRNES,  MILLER,  SAYEGH,  TAGUE,  MANKTELOW,
-  J. M. GIGLIO,  LEMONDES, COOK, GOODELL, RAGA -- read once and referred
-  to the Committee on Governmental Operations --  advanced  to  a  third
-  reading, passed by Assembly and delivered to the Senate, recalled from
-  the  Senate,  vote  reconsidered,  bill  amended,  ordered  reprinted,
-  retaining its place on the order of third reading
+  J. M. GIGLIO, LEMONDES, COOK, GOODELL, RAGA, BUTTENSCHON, SANTABARBARA
+  --  read once and referred to the Committee on Governmental Operations
+  -- advanced to a third reading, passed by Assembly  and  delivered  to
+  the Senate, recalled from the Senate, vote reconsidered, bill amended,
+  ordered  reprinted,  retaining its place on the order of third reading
+  -- ordered to a third reading -- passed by Assembly and  delivered  to
+  the Senate, recalled from the Senate, vote reconsidered, bill amended,
+  ordered  reprinted,  retaining its place on the special order of third
+  reading
  
  AN ACT to amend the executive law, in relation to  the  appointment  for
   agricultural  representation on the state fire prevention and building
@@ -56,34 +60,33 @@ S T A T E  O F  N E W  Y O R K
  conservation, corrections and community supervision, education,  health,
  labor,  mental  health  and social services, office of general services,
  division of housing and community renewal, the president of the New York
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03305-07-4
+ A. 1080--B  2
+ 
  state energy research and development authority, and the  superintendent
  of financial services.
   b.  Six members, to be appointed by the governor, one of whom shall be
  an elected official of a city with a population over one million, one of
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD03305-02-3
- A. 1080--A  2
- 
  whom shall be an elected official of another city with a population over
  one hundred thousand, one of whom shall be an elected  official  of  any
  other city, one of whom shall be an elected county official, one of whom
  shall  be  an elected town official, and one of whom shall be an elected
  village official.
-  c. Seven members, to be appointed by the governor with the advice  and
- consent of the senate, one of whom shall be a fire service official, one
- of  whom shall be a registered architect, one of whom shall be a profes-
- sional engineer, one of whom shall be a code enforcement  official,  one
- of  whom  shall  represent  builders,  one of whom shall represent trade
- unions, and one of whom shall be a person with a disability  as  defined
- in  section  two  hundred  ninety-two of this chapter who would directly
- benefit from the provisions of article thirteen  of  the  state  uniform
- fire  prevention and building code. The registered architect and profes-
- sional engineer shall be duly  licensed  to  practice  their  respective
- professions  in  the  state of New York. After the certification of code
- enforcement personnel pursuant to this chapter  shall  have  begun  said
- code enforcement official shall be so certified.
-  D.  ONE  MEMBER, TO BE APPOINTED BY THE GOVERNOR, FROM AN AGRICULTURAL
- ADVOCACY ORGANIZATION IN THE STATE.
+  c. [Seven] EIGHT members, to be appointed by  the  governor  with  the
+ advice  and  consent  of the senate, one of whom shall be a fire service
+ official, one of whom shall be a registered architect, one of whom shall
+ be a professional engineer, one of whom  shall  be  a  code  enforcement
+ official, one of whom shall represent builders, one of whom shall repre-
+ sent  trade  unions, ONE OF WHOM SHALL REPRESENT AGRICULTURAL PRODUCERS,
+ and one of whom shall be a  person  with  a  disability  as  defined  in
+ section  two hundred ninety-two of this chapter who would directly bene-
+ fit from the provisions of article thirteen of the  state  uniform  fire
+ prevention  and building code. The registered architect and professional
+ engineer shall be duly licensed to practice their respective professions
+ in the state of New York. After the certification  of  code  enforcement
+ personnel  pursuant  to this chapter shall have begun said code enforce-
+ ment official shall be so certified.
   § 2. This act shall take effect immediately.
