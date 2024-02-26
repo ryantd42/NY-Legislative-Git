@@ -1,6 +1,6 @@
 # Enacts the feathered lives also count act
 
-**Bill ID:** S7098A
+**Bill ID:** S7098AA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts the feathered lives also count act directing the commissioner of general 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7098
+  7098--A
  
   2023-2024 Regular Sessions
  
@@ -27,44 +27,47 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
   when printed to be committed to the Committee  on  Investigations  and
-  Government Operations
+  Government  Operations  --  recommitted  to  the Committee on Investi-
+  gations and Government Operations in accordance with  Senate  Rule  6,
+  sec.  8  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
- AN  ACT  to amend the public buildings law, in relation to directing the
-  commissioner of general services to incorporate practices and  strate-
-  gies  to  reduce  bird fatality resulting from collisions with certain
+ AN ACT to amend the public buildings law, in relation to  directing  the
+  commissioner  of general services to incorporate practices and strate-
+  gies to reduce bird fatality resulting from  collisions  with  certain
   state-owned buildings, and for other purposes
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. This act shall be known and may be cited as the "bird safe
- buildings act".
-  § 2. The public buildings law is amended by adding a new  section  147
+  Section 1. This act shall be known and may be cited as the  "feathered
+ lives also count act".
+  §  2.  The public buildings law is amended by adding a new section 148
  to read as follows:
-  §  147. USE OF BIRD-SAFE FEATURES, PRACTICES, AND STRATEGIES IN STATE-
+  § 148. USE OF BIRD-SAFE FEATURES, PRACTICES, AND STRATEGIES IN  STATE-
  OWNED BUILDINGS. 1. AS USED IN THIS SECTION:
-  (A) "STATE AGENCY" MEANS ANY STATE DEPARTMENT, OFFICE, BOARD,  BUREAU,
- COMMISSION,  AGENCY,  OR  ANY  PUBLIC AUTHORITY OR PUBLIC BENEFIT CORPO-
+  (A)  "STATE AGENCY" MEANS ANY STATE DEPARTMENT, OFFICE, BOARD, BUREAU,
+ COMMISSION, AGENCY, OR ANY PUBLIC AUTHORITY  OR  PUBLIC  BENEFIT  CORPO-
  RATION AT LEAST ONE OF WHOSE MEMBERS IS APPOINTED BY THE GOVERNOR;
-  (B) "STATE-OWNED BUILDING" MEANS ANY BUILDING OWNED BY A STATE  AGENCY
+  (B)  "STATE-OWNED BUILDING" MEANS ANY BUILDING OWNED BY A STATE AGENCY
  USED FOR OFFICIAL STATE BUSINESS; AND
-  (C)  "STATE-LEASED  BUILDING"  MEANS  ANY  BUILDING  OR PORTION OF ANY
- BUILDING LEASED BY A STATE AGENCY FOR OFFICE, DEPARTMENTAL, OR  RESIDEN-
+  (C) "STATE-LEASED BUILDING" MEANS  ANY  BUILDING  OR  PORTION  OF  ANY
+ BUILDING  LEASED BY A STATE AGENCY FOR OFFICE, DEPARTMENTAL, OR RESIDEN-
  TIAL OCCUPANCY.
-  2.  THE  COMMISSIONER  OF GENERAL SERVICES SHALL INCORPORATE FEATURES,
- PRACTICES, AND STRATEGIES TO REDUCE BIRD FATALITY RESULTING FROM  COLLI-
- SIONS  WITH  STATE-OWNED  BUILDINGS AND, WHERE PRACTICABLE, STATE-LEASED
- BUILDINGS.  SUCH FEATURES, PRACTICES AND STRATEGIES  SHALL  BE  INCORPO-
+  2. THE COMMISSIONER OF GENERAL SERVICES  SHALL  INCORPORATE  FEATURES,
+ PRACTICES,  AND STRATEGIES TO REDUCE BIRD FATALITY RESULTING FROM COLLI-
+ SIONS WITH STATE-OWNED BUILDINGS AND,  WHERE  PRACTICABLE,  STATE-LEASED
+ BUILDINGS.  SUCH  FEATURES, PRACTICES AND STRATEGIES SHALL BE INCORPO-
  RATED FOR EACH BUILDING:
   (A) CONSTRUCTED;
   (B) ACQUIRED; OR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11333-03-3
- S. 7098  2
+  LBD11333-04-4
+ S. 7098--A  2
  
-  (C)  OF  WHICH  MORE THAN FIFTY PERCENT OF THE FACADE IS SUBSTANTIALLY
+  (C) OF WHICH MORE THAN FIFTY PERCENT OF THE  FACADE  IS  SUBSTANTIALLY
  ALTERED, AS DETERMINED BY THE COMMISSIONER.
   3.  THE  COMMISSIONER, IN CONSULTATION WITH THE DEPARTMENT OF ENVIRON-
  MENTAL CONSERVATION, SHALL DEVELOP A  DESIGN  GUIDE  TO  CARRY  OUT  THE
