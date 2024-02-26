@@ -1,6 +1,6 @@
 # Prohibits the use of unmarked police vehicles, concealed identity police vehicles and undercover police officers for routine traffic enforcement
 
-**Bill ID:** S4411A
+**Bill ID:** S4411AA
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Prohibits the use of unmarked police vehicles, concealed identity police vehicle
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4411
+  4411--A
  
   2023-2024 Regular Sessions
  
@@ -26,29 +26,34 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Finance
- 
- AN ACT to amend the executive law, in relation to prohibiting the use of
-  unmarked  police  vehicles,  concealed  identify  police  vehicles and
-  undercover police officers for routine traffic enforcement
+  printed  to be committed to the Committee on Finance -- recommitted to
+  the Committee on Finance in accordance with Senate Rule 6, sec.  8  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN ACT to amend the executive law, in relation to prohibiting the use of
+  unmarked police  vehicles,  concealed  identify  police  vehicles  and
+  undercover police officers for routine traffic enforcement
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The executive law is amended by adding a new section 236 to
  read as follows:
-  §  236.  PROHIBITION  OF  ROUTINE  USE  OF  UNMARKED  POLICE VEHICLES.
- UNMARKED POLICE VEHICLES, CONCEALED IDENTITY POLICE VEHICLES, AND UNDER-
- COVER POLICE OFFICERS SHALL NOT BE USED BY  THE  STATE  POLICE  FOR  THE
- ROUTINE  STOPPING  OR APPREHENSION OF MOTORISTS FOR OFFENSES RELATING TO
+  § 236. PROHIBITION OF ROUTINE USE OF UNMARKED  POLICE  VEHICLES.  1.
+ UNMARKED  POLICE VEHICLES, CONCEALED IDENTITY POLICE VEHICLES, INCLUDING
+ BUT NOT LIMITED TO POLICE VEHICLES WHICH USE GHOST GRAPHICS, AND  UNDER-
+ COVER  POLICE  OFFICERS  SHALL  NOT  BE USED BY THE STATE POLICE FOR THE
+ ROUTINE STOPPING OR APPREHENSION OF MOTORISTS FOR OFFENSES  RELATING  TO
  THE VEHICLE AND TRAFFIC LAW.
+  2. FOR PURPOSES OF THIS SECTION, "GHOST GRAPHICS" MEANS LOW-VISIBILITY
+ VINYL WRAPS OR DECALS DESIGNED TO BLEND INTO A VEHICLE'S ORIGINAL DESIGN
+ AND PAINT SCHEME.
   § 2. This act shall take effect immediately.
- 
- 
  
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08832-01-3
+  LBD08832-02-4
