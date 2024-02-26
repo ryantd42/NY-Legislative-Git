@@ -1,6 +1,6 @@
 # Requiring a petition in a summary proceeding to recover possession of real property in Schenectady to allege proof of compliance with local laws requiring rental residential property registration and licensure
 
-**Bill ID:** S7547A
+**Bill ID:** S7547AA
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Requires a petition in a summary proceeding to recover possession of real proper
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7547
+  7547--A
+  Cal. No. 400
  
   2023-2024 Regular Sessions
  
@@ -26,30 +27,34 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. TEDISCO -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
+  printed to be committed to the Committee on Rules  --  recommitted  to
+  the  Committee  on  Housing, Construction and Community Development in
+  accordance with Senate Rule 6, sec. 8 -- reported favorably from  said
+  committee,  ordered  to  first  and  second report, ordered to a third
+  reading, amended and ordered reprinted, retaining  its  place  in  the
+  order of third reading
  
- AN ACT to amend the  real  property  actions  and  proceedings  law,  in
-  relation  to  requiring  a petition in a summary proceeding to recover
+ AN  ACT  to  amend  the  real  property  actions and proceedings law, in
+  relation to requiring a petition in a summary  proceeding  to  recover
   possession of real property in the city of Schenectady to allege proof
-  of compliance with local laws requiring  rental  residential  property
+  of  compliance  with  local laws requiring rental residential property
   registration and licensure
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 741 of the real property  actions  and  proceedings
- law is amended by adding a new subdivision 7 to read as follows:
-  7.  IN  THE CITY OF SCHENECTADY, WHERE THE PREMISES FROM WHICH REMOVAL
- IS SOUGHT IS SUBJECT TO A LOCAL LAW REQUIRING THE REGISTRATION  OF  SAID
+  Section  1.  Section  741 of the real property actions and proceedings
+ law is amended by adding a new subdivision 9 to read as follows:
+  9. IN THE CITY OF SCHENECTADY, WHERE THE PREMISES FROM  WHICH  REMOVAL
+ IS  SOUGHT  IS SUBJECT TO A LOCAL LAW REQUIRING THE REGISTRATION OF SAID
  PREMISES AS A CONDITION OF LEGAL RENTAL, ALLEGE PROOF OF COMPLIANCE WITH
  SUCH LOCAL LAW.
-  §  2.  This  act shall take effect on the ninetieth day after it shall
+  § 2. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
- 
  
  
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11679-01-3
+  LBD11679-02-4
