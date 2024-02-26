@@ -1,6 +1,6 @@
 # Directs contracting state agencies to develop a growth plan in order to increase participation of MWBEs with respect to state contracts and subcontracts
 
-**Bill ID:** S1424A
+**Bill ID:** S1424AA
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Directs contracting state agencies to develop a growth plan in order to increase
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1424
+  1424--A
+  Cal. No. 500
  
   2023-2024 Regular Sessions
  
@@ -25,13 +26,18 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced  by  Sen.  BAILEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Procurement and Contracts
+ Introduced  by Sens. BAILEY, WEBB -- read twice and ordered printed, and
+  when printed to be committed  to  the  Committee  on  Procurement  and
+  Contracts -- recommitted to the Committee on Procurement and Contracts
+  in  accordance  with  Senate Rule 6, sec. 8 -- reported favorably from
+  said committee, ordered to first  report,  amended  on  first  report,
+  ordered  to a second report and ordered reprinted, retaining its place
+  in the order of second report
  
  AN ACT to amend the executive law, in relation to directing  contracting
   state  agencies  to develop a growth plan in order to increase partic-
   ipation of MWBEs with respect to state contracts and subcontracts
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -45,7 +51,34 @@ S T A T E  O F  N E W  Y O R K
  [four] THREE years, beginning September fifteenth, two thousand  twenty,
  each  contracting  state  agency  shall  submit a [four-year] THREE-YEAR
  growth plan as part of its annual report to the governor and legislature
- pursuant to section one hundred sixty-four of this chapter.
+ pursuant to section one hundred sixty-four of this chapter. SUCH  GROWTH
+ PLANS SHALL INCLUDE, BUT NOT BE LIMITED TO, AN ANALYSIS OF THE CONTRACT-
+ ING  AGENCY'S USE OF DISCRETIONARY BUYING IN ACCORDANCE WITH SUBDIVISION
+ SIX OF SECTION ONE HUNDRED SIXTY-THREE OF THE STATE FINANCE LAW AND WHAT
+ PERCENTAGE OF TOTAL COMMODITIES AND SERVICE PURCHASES WITHIN THE DISCRE-
+ TIONARY BUYING DOLLAR THRESHOLD ARE AWARDED TO CERTIFIED  MINORITY-OWNED
+ AND  WOMEN-OWNED BUSINESS ENTERPRISES PURSUANT TO THAT AUTHORIZATION AND
+ WHETHER THIS AUTHORIZATION CAN BE  USED  TO  INCREASE  PARTICIPATION  BY
+ MINORITY-OWNED  AND WOMEN-OWNED BUSINESS ENTERPRISES, AN ANALYSIS OF HOW
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04493-02-4
+ S. 1424--A  2
+ 
+ THE CONTRACTING AGENCY CAN  USE  THE  EMPIRE  STATE  DEVELOPMENT  CORPO-
+ RATION'S  AND  THE DIVISION'S RESOURCES TO FACILITATE ADDITIONAL MINORI-
+ TY-OWNED AND  WOMEN-OWNED  BUSINESS  ENTERPRISE  PARTICIPATION  AND  ANY
+ RECOMMENDATIONS  FOR  PROGRAMMATIC  MODIFICATIONS  THAT WOULD MAKE THOSE
+ RESOURCES EASIER TO USE, AN ANALYSIS OF WHAT STEPS THE CONTRACTING AGEN-
+ CY PLANS TO TAKE TO  IMPROVE  MINORITY-OWNED  AND  WOMEN-OWNED  BUSINESS
+ ENTERPRISE  CAPACITY  TO  PARTICIPATE IN ADDITIONAL CONTRACTS AND BECOME
+ VIABLE BIDDERS FOR LARGER CONTRACTS, AN EXPLANATION OF HOW THE CONTRACT-
+ ING AGENCY IS DEBRIEFING MINORITY-OWNED AND WOMEN-OWNED BUSINESS  ENTER-
+ PRISES  THAT LOSE BIDS AND HOW THAT PROCESS CAN IMPROVE, AND AN ANALYSIS
+ OF THE TYPES OF CONTRACTS WHERE WAIVERS ARE BEING GRANTED AND STEPS  THE
+ STATE  CAN  TAKE  TO  REDUCE THE NEED FOR WAIVERS OVER THE COURSE OF THE
+ GROWTH PLAN.
   § 2. Subdivision 5 of section 315 of the executive law, as amended  by
  chapter 96 of the laws of 2019, is amended to read as follows:
   5.  Each agency shall include in its annual report to the governor and
@@ -59,19 +92,13 @@ S T A T E  O F  N E W  Y O R K
  waiver request and the rationale for granting such waiver;  (d)  whether
  or  not it has been required to prepare a remedial plan, and, if so, the
  plan and the extent to which the agency has complied with  each  element
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD04493-01-3
- S. 1424  2
- 
  of  the plan; (e) which expenditures are exempt from participation goals
  and the rationale for such exemption; and (f) every [four] THREE  years,
  beginning  September  fifteenth,  two thousand twenty, each agency shall
- include  in  such  annual  report its [four-year] THREE-YEAR growth plan
+ include in such annual report its  [four-year]  THREE-YEAR  growth  plan
  pursuant to section three hundred eleven of this article.
-  § 3. This act shall take effect on the ninetieth day  after  it  shall
+  §  3.  This  act shall take effect on the ninetieth day after it shall
  have become a law; provided, however, the amendments to sections 311 and
- 315  of  the  executive  law  made  by  sections one and two of this act
- respectively, shall not affect the repeal of such sections and shall  be
+ 315 of the executive law made by  sections  one  and  two  of  this  act
+ respectively,  shall not affect the repeal of such sections and shall be
  deemed repealed therewith.
