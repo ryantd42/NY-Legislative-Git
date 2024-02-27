@@ -1,6 +1,6 @@
 # Provides public access to epinephrine auto-injector devices at schools
 
-**Bill ID:** A4909A
+**Bill ID:** A4909AA
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides public access to epinephrine auto-injector devices at schools; establis
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4909
+  4909--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   February 24, 2023
   ___________
  
- Introduced by M. of A. SAYEGH -- read once and referred to the Committee
-  on Education
- 
+ Introduced  by  M.  of  A.  SAYEGH,  BURDICK,  BENDETT  -- read once and
+  referred to the Committee on Education -- recommitted to the Committee
+  on Education in accordance with Assembly Rule 3, sec. 2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the education law and the public health law, in relation
   to  providing  public  access  to epinephrine auto-injector devices at
   schools
@@ -36,8 +39,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1.  Section 921-a of the education law is amended by adding a
- new subdivision 3 to read as follows:
-  3. SCHOOL DISTRICTS, BOARDS OF COOPERATIVE EDUCATIONAL SERVICES, COUN-
+ new subdivision 4 to read as follows:
+  4. SCHOOL DISTRICTS, BOARDS OF COOPERATIVE EDUCATIONAL SERVICES, COUN-
  TY VOCATIONAL EDUCATION AND EXTENSION BOARDS, CHARTER SCHOOLS, AND  NON-
  PUBLIC  ELEMENTARY  AND  SECONDARY SCHOOLS IN THIS STATE SHALL BE DEEMED
  "PUBLIC ACCESS EPINEPHRINE AUTO-INJECTOR DEVICE PROVIDERS" AS DEFINED IN
@@ -55,17 +58,17 @@ S T A T E  O F  N E W  Y O R K
   (I) CAUSE AN EPINEPHRINE AUTO-INJECTOR DEVICE  TO  BE  MAINTAINED  AND
  TESTED  ACCORDING  TO  APPLICABLE  STANDARDS OF THE MANUFACTURER AND ANY
  APPROPRIATE GOVERNMENT AGENCY.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD08722-03-4
+ A. 4909--A  2
+ 
   (II) NOTIFY THE REGIONAL COUNCIL OF THE EXISTENCE, LOCATION  AND  TYPE
  OF ANY EPINEPHRINE AUTO-INJECTOR DEVICE IT POSSESSES.
   (III)  POST  A  SIGN OR NOTICE AT THE MAIN ENTRANCE TO THE FACILITY OR
  BUILDING IN WHICH THE EPINEPHRINE AUTO-INJECTOR DEVICE IS STORED,  INDI-
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD08722-01-3
- A. 4909  2
- 
  CATING  THE  LOCATION WHERE ANY SUCH EPINEPHRINE AUTO-INJECTOR DEVICE IS
  STORED OR MAINTAINED IN SUCH BUILDING OR FACILITY ON A REGULAR BASIS.
-  §  4.  This  act shall take effect on the ninetieth day after it shall
+  § 4. This act shall take effect on the ninetieth day  after  it  shall
  have become a law.
