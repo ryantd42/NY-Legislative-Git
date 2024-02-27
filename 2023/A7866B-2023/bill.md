@@ -1,6 +1,6 @@
 # Protects the health insurance benefits of retirees of public employers and contributions of retirees of public employers
 
-**Bill ID:** A7866B
+**Bill ID:** A7866BA
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Stricken
@@ -16,7 +16,7 @@ Prohibits public employers from diminishing health insurance benefits provided t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7866
+  7866--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,22 @@ S T A T E  O F  N E W  Y O R K
   July 7, 2023
   ___________
  
- Introduced  by  M.  of  A.  ZEBROWSKI, GUNTHER, BURDICK -- read once and
-  referred to the Committee on Governmental Employees
+ Introduced  by  M.  of  A. ZEBROWSKI, GUNTHER, BURDICK, LAVINE, EPSTEIN,
+  SHIMSKY, THIELE, NOVAKHOV, SIMONE, CARROLL, COLTON, SEAWRIGHT,  DeSTE-
+  FANO,  LEVENBERG, REYES, SIMON, BENEDETTO, HEVESI, JACOBSON, SILLITTI,
+  WILLIAMS, DURSO, MAHER, BRABENEC, PIROZZOLO, RA,  LUPARDO,  McDONOUGH,
+  MCGOWAN,  STERN,  DICKENS, STECK, EACHUS, RIVERA, SHRESTHA, O'DONNELL,
+  BURKE, SLATER, GALLAGHER,  KELLES,  BENDETT,  MIKULIN,  RAMOS,  VANEL,
+  MAMDANI, ARDILA, BROOK-KRASNY -- read once and referred to the Commit-
+  tee  on  Governmental  Employees  --  recommitted  to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT in relation to protecting the health insurance benefits of  reti-
   rees  of  public  employers  and  contributions  of retirees of public
   employers
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -50,6 +59,12 @@ S T A T E  O F  N E W  Y O R K
  their health care than before such change was made. These changes  shall
  include,  but  are  not  limited  to, increasing the cost of such health
  care, forcing retirees into Medicare Advantage Plans,  forcing  them  to
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11812-03-4
+ A. 7866--A  2
+ 
  use  health  care  providers only from pre-designated panels, or forcing
  them to wait for  pre-authorization  for  medical  procedures  that  are
  recommended by their health care providers;
@@ -59,17 +74,11 @@ S T A T E  O F  N E W  Y O R K
  education and extension board or a  school  district  as  enumerated  in
  section  1  of  chapter  566  of  the laws of 1967, as amended; (iv) any
  governmental entity operating a college  or  university;  (v)  a  public
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD11812-01-3
- A. 7866  2
- 
  improvement or special district including police or fire districts; (vi)
  a  public  authority, commission or public benefit corporation; or (vii)
  any other public corporation, agency, instrumentality or unit of govern-
- ment  which  exercises  governmental power under the laws of this state;
+ ment which exercises governmental power under the laws  of  this  state;
  and
   (c) "retiree" shall mean a retiree of a public employer.
-  § 3. This act shall take effect immediately and  shall  be  deemed  to
- have been in full force and effect on and after November 1, 2021.
+  §  3.  This  act  shall take effect immediately and shall be deemed to
+ have been in full force and effect on and after November 1, 2022.
