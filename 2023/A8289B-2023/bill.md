@@ -1,6 +1,6 @@
 # Prohibits the idling of any passenger vehicle for more than 3 consecutive minutes
 
-**Bill ID:** A8289BA
+**Bill ID:** A8289BB
 **Session:** 2023
 **Sponsor:** Christopher Eachus
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Prohibits the idling of any passenger vehicle, with certain exceptions, for more
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8289--A
+  8289--B
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,10 @@ S T A T E  O F  N E W  Y O R K
   on Environmental Conservation -- recommitted to the Committee on Envi-
   ronmental  Conservation  in accordance with Assembly Rule 3, sec. 2 --
   committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
-
+  recommitted  to  said  committee -- again reported from said committee
+  with amendments, ordered reprinted as amended and recommitted to  said
+  committee
+ 
  AN  ACT  to amend the environmental conservation law, in relation to the
   idling time of passenger vehicles
  
@@ -47,7 +49,8 @@ S T A T E  O F  N E W  Y O R K
  ANY OTHER VEHICLE WHOSE PRIMARY USE IS NONCOMMERCIAL PERSONAL  TRANSPOR-
  TATION.  SUCH DEFINITION SHALL ALSO INCLUDE "MOTORCYCLE", "TAXICAB" AND
  "LIVERY" AS SUCH TERMS ARE DEFINED IN ARTICLE ONE  OF  THE  VEHICLE  AND
- TRAFFIC LAW.
+ TRAFFIC LAW AND SHALL NOT INCLUDE ELECTRIC VEHICLES AS DEFINED IN SUBDI-
+ VISION ONE OF SECTION 66-S OF THE PUBLIC SERVICE LAW.
   (B)  "HYBRID-ELECTRIC  VEHICLE" SHALL MEAN ANY PASSENGER VEHICLE WHICH
  DRAWS PROPULSION FROM BOTH AN INTERNAL COMBUSTION ENGINE (OR HEAT ENGINE
  THAT USES COMBUSTIBLE FUEL), AN ENERGY  STORAGE  DEVICE  AND  EMPLOYS  A
@@ -56,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
   2.  NO PERSON SHALL ALLOW OR PERMIT THE ENGINE OF A PASSENGER VEHICLE
  TO IDLE FOR MORE THAN THREE CONSECUTIVE MINUTES WHEN THE PASSENGER VEHI-
  CLE IS NOT IN MOTION, EXCEPT THAT THIS PROVISION SHALL NOT APPLY WHEN:
-  (A) SUCH VEHICLE IS FORCED TO REMAIN  MOTIONLESS  BECAUSE  OF  TRAFFIC
- CONDITIONS OVER WHICH THE OPERATOR THEREOF HAS NO CONTROL;
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04164-05-4
- A. 8289--A  2
+  LBD04164-06-4
+ A. 8289--B  2
  
+  (A) SUCH VEHICLE IS FORCED TO REMAIN  MOTIONLESS  BECAUSE  OF  TRAFFIC
+ CONDITIONS OVER WHICH THE OPERATOR THEREOF HAS NO CONTROL;
   (B)  REGULATIONS  ADOPTED  BY  A FEDERAL, STATE OR LOCAL AGENCY HAVING
  JURISDICTION REQUIRE THE  MAINTENANCE  OF  A  SPECIFIC  TEMPERATURE  FOR
  PASSENGER COMFORT, IN WHICH CASE THE IDLING TIME MAY BE INCREASED TO THE
