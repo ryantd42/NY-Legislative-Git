@@ -1,6 +1,6 @@
 # Requires that websites providing incarcerated individual information be searchable by the incarcerated individual's name, former name or alias
 
-**Bill ID:** S4061A
+**Bill ID:** S4061AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires that websites providing incarcerated individual information be searchab
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4061
+  4061--A
  
   2023-2024 Regular Sessions
  
@@ -27,7 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sens. MANNION, PALUMBO -- read twice and ordered printed,
   and when printed to be committed to the Committee  on  Crime  Victims,
-  Crime and Correction
+  Crime and Correction -- recommitted to the Committee on Crime Victims,
+  Crime  and  Correction  in  accordance  with  Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
  AN  ACT  to  amend  the  correction  law,  in relation to requiring that
   websites providing incarcerated individual information  be  searchable
@@ -37,7 +40,7 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 9 of the correction law, as added by section  2  of
- part  OO  of  chapter  56 of the laws of 2010 and the section heading as
+ part  OO  of  chapter  56  of  the  laws of 2010, the section heading as
  amended by chapter 322 of the laws  of  2021,  is  amended  to  read  as
  follows:
   §  9. Access to information of incarcerated individuals via the inter-
@@ -56,17 +59,34 @@ S T A T E  O F  N E W  Y O R K
  department may post conviction information relating to any prior commit-
  ment  on  such  website  for a period not to exceed five years after the
  expiration of such person's sentence of imprisonment and any  period  of
- parole  or post-release supervision arising from the most recent commit-
- ment to the department; PROVIDED FURTHER, HOWEVER, THAT ANY SUCH WEBSITE
- THAT ALLOWS THE PUBLIC TO SEARCH FOR INCARCERATED INDIVIDUAL INFORMATION
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07804-01-3
- S. 4061  2
+  LBD07804-04-4
+ S. 4061--A  2
  
- SHALL BE PROGRAMMED IN SUCH A MANNER THAT THE SEARCH MAY  BE  SUCCESSFUL
+ parole  or post-release supervision arising from the most recent commit-
+ ment to the department; PROVIDED FURTHER, HOWEVER, THAT ANY SUCH WEBSITE
+ THAT ALLOWS THE PUBLIC TO SEARCH FOR INCARCERATED INDIVIDUAL INFORMATION
+ SHALL  BE  PROGRAMMED IN SUCH A MANNER THAT THE SEARCH MAY BE SUCCESSFUL
  BY INPUT OF THE INCARCERATED INDIVIDUAL'S CURRENT NAME, ANY FORMER LEGAL
  NAME OR ANY OTHER KNOWN ALIAS OF THE INCARCERATED INDIVIDUAL.
-  §  2.  This  act shall take effect on the ninetieth day after it shall
- have become a law.
+  § 2. Section 9 of the correction law, as amended by chapter 631 of the
+ laws of 2023, is amended to read as follows:
+  § 9. Access to information of incarcerated individuals via the  inter-
+ net.  Notwithstanding any provision of law to the contrary, any informa-
+ tion relating to the conviction of a person that is posted on a  website
+ maintained  by  or  for  the department, under article six of the public
+ officers law, may be posted on such website for a period not  to  exceed
+ three  years after the expiration of such person's sentence of imprison-
+ ment and at the conclusion of  any  period  of  parole  or  post-release
+ supervision;  PROVIDED  FURTHER,  HOWEVER,  THAT  ANY  SUCH WEBSITE THAT
+ ALLOWS THE PUBLIC TO  SEARCH  FOR  INCARCERATED  INDIVIDUAL  INFORMATION
+ SHALL  BE  PROGRAMMED IN SUCH A MANNER THAT THE SEARCH MAY BE SUCCESSFUL
+ BY INPUT OF THE INCARCERATED INDIVIDUAL'S CURRENT NAME, ANY FORMER LEGAL
+ NAME OR ANY OTHER KNOWN ALIAS OF THE INCARCERATED INDIVIDUAL.
+  § 3. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law; provided, however, that if chapter 631 of the laws of
+ 2023 shall not have taken effect on or before such date then section two
+ of this act shall take effect on the same date and in the same manner as
+ such chapter of the laws of 2023, takes effect.
