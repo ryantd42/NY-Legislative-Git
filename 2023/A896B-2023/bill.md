@@ -1,6 +1,6 @@
 # Replaces the word addict or addicts with the words persons with substance use disorder or a variation thereof
 
-**Bill ID:** A896BA
+**Bill ID:** A896BB
 **Session:** 2023
 **Sponsor:** Emily Gallagher
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Replaces the words addict or addicts with the words person with substance use di
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  896--A
+  896--B
  
   2023-2024 Regular Sessions
  
@@ -25,10 +25,13 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced  by  M. of A. GALLAGHER, L. ROSENTHAL, DICKENS, SIMON, STIRPE
-  -- read once and referred to the  Committee  on  Alcoholism  and  Drug
-  Abuse  --  committee  discharged,  bill  amended, ordered reprinted as
-  amended and recommitted to said committee
+ Introduced  by M. of A. GALLAGHER, L. ROSENTHAL, DICKENS, SIMON, STIRPE,
+  K. BROWN -- read once and referred to the Committee on Alcoholism  and
+  Drug Abuse -- committee discharged, bill amended, ordered reprinted as
+  amended  and  recommitted  to  said  committee  --  recommitted to the
+  Committee on Alcoholism and Drug Abuse  in  accordance  with  Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the judiciary law, the mental hygiene  law,  the  public
   health  law,  the county law, and the general city law, in relation to
@@ -56,74 +59,72 @@ S T A T E  O F  N E W  Y O R K
  parent of the child revokes a consent to the adoption of such child  and
  such  revocation  is opposed or in any adoption or custody proceeding if
  it determines that assignment of counsel in such cases  is  mandated  by
- the  constitution  of  this state or of the United States, the court may
- assign counsel to represent such person if it is satisfied  that  he  is
- financially unable to obtain counsel. Upon an appeal taken from an order
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00243-03-3
- A. 896--A  2
+  LBD00243-04-4
+ A. 896--B  2
  
+ the  constitution  of  this state or of the United States, the court may
+ assign counsel to represent such person if it is satisfied  that  he  is
+ financially unable to obtain counsel. Upon an appeal taken from an order
  entered  in  any such proceeding, the appellate court may assign counsel
  to represent such person upon the appeal if it is satisfied that  he  is
  financially unable to obtain counsel.
   §  2.  Subdivision 4 of section 35 of the judiciary law, as amended by
- chapter 706 of the laws of 1975 and as renumbered by chapter 315 of  the
- laws of 1985, is amended to read as follows:
-  4.  In any proceeding described in paragraph (a) of subdivision one of
+ section 3 of part GG of chapter 56 of the laws of 2023,  is  amended  to
+ read as follows:
+  4.  In  any  proceeding described in paragraph a of subdivision one of
  this section, when a person is alleged  to  be  mentally  ill,  mentally
  defective or a [narcotic addict] PERSON WITH SUBSTANCE USE DISORDER, the
  court  which  ordered  the hearing may appoint no more than two psychia-
  trists, certified psychologists or physicians to examine and testify  at
  the  hearing upon the condition of such person. A psychiatrist, psychol-
- ogist or physician so appointed shall, upon completion of his  services,
- receive  reimbursement  for  expenses reasonably incurred and reasonable
- compensation for such services, to be fixed by the court.  Such  compen-
- sation  shall  not  exceed  two  hundred  dollars  if  one psychiatrist,
- psychologist or physician is appointed, or an  aggregate  sum  of  three
- hundred  dollars  if  two psychiatrists, psychologists or physicians are
- appointed, except that in  extraordinary  circumstances  the  court  may
- provide for compensation in excess of the foregoing limits.
-  §  3.  Paragraph (i) of subdivision (b) of section 32.05 of the mental
+ ogist  or  physician  so  appointed  shall,  upon  completion  of  their
+ services,  receive  reimbursement  for  expenses reasonably incurred and
+ reasonable compensation for such services, to be  fixed  by  the  court.
+ Such  compensation  shall not exceed three thousand dollars, except that
+ in extraordinary circumstances the court may provide for compensation in
+ excess of the foregoing limits.
+  § 3. Paragraph (i) of subdivision (b) of section 32.05 of  the  mental
  hygiene law, as amended by section 3 of part Z of chapter 57 of the laws
  of 2019, is amended to read as follows:
-  (i) Methadone, or such other controlled substance  designated  by  the
- commissioner  of health as appropriate for such use, may be administered
- to [an addict] A PERSON WITH  SUBSTANCE  USE  DISORDER,  as  defined  in
+  (i)  Methadone,  or  such other controlled substance designated by the
+ commissioner of health as appropriate for such use, may be  administered
+ to  [an  addict]  A  PERSON  WITH  SUBSTANCE USE DISORDER, as defined in
  section thirty-three hundred two of the public health law, by individual
- physicians,  groups  of physicians and public or private medical facili-
- ties certified pursuant to article twenty-eight or thirty-three  of  the
- public  health  law  as  part of a chemical dependence program which has
- been issued an operating certificate by  the  commissioner  pursuant  to
- subdivision  (b)  of  section  32.09 of this article, provided, however,
- that such administration must be done in accordance with all  applicable
- federal  and state laws and regulations. Individual physicians or groups
- of physicians who have obtained authorization from the  federal  govern-
- ment  to administer buprenorphine to [addicts] PEOPLE WITH SUBSTANCE USE
- DISORDER may do so without obtaining an operating certificate  from  the
+ physicians, groups of physicians and public or private  medical  facili-
+ ties  certified  pursuant to article twenty-eight or thirty-three of the
+ public health law as part of a chemical  dependence  program  which  has
+ been  issued  an  operating  certificate by the commissioner pursuant to
+ subdivision (b) of section 32.09 of  this  article,  provided,  however,
+ that  such administration must be done in accordance with all applicable
+ federal and state laws and regulations. Individual physicians or  groups
+ of  physicians  who have obtained authorization from the federal govern-
+ ment to administer buprenorphine to [addicts] PEOPLE WITH SUBSTANCE  USE
+ DISORDER  may  do so without obtaining an operating certificate from the
  commissioner.
-  §  4.  Paragraph  5  of subdivision (b) of section 32.09 of the mental
- hygiene law, as added by chapter 558 of the laws of 1999, is amended  to
+  § 4. Paragraph 5 of subdivision (b) of section  32.09  of  the  mental
+ hygiene  law, as added by chapter 558 of the laws of 1999, is amended to
  read as follows:
-  5.  the applicant will establish procedures to effectively implement a
+  5. the applicant will establish procedures to effectively implement  a
  detoxification  program  to  further  relieve  [addicts]  PEOPLE  WITH
- SUBSTANCE  USE  DISORDER  from  dependence  upon methadone or such other
- controlled substances prescribed for treatment  in  subject  maintenance
+ SUBSTANCE USE DISORDER from dependence  upon  methadone  or  such  other
+ controlled  substances  prescribed  for treatment in subject maintenance
  programs.
-  §  5.  Subdivision  1  of  section  3302  of the public health law, as
- amended by chapter 92 of the  laws  of  2021,  is  amended  to  read  as
+  § 5. Subdivision 1 of section  3302  of  the  public  health  law,  as
+ amended  by  chapter  92  of  the  laws  of  2021, is amended to read as
  follows:
-  1.  ["Addict"] "PERSON WITH SUBSTANCE USE DISORDER" means a person who
- habitually uses a controlled substance for a non-legitimate or  unlawful
+  1. ["Addict"] "PERSON WITH SUBSTANCE USE DISORDER" means a person  who
+ habitually  uses a controlled substance for a non-legitimate or unlawful
  use, and who by reason of such use is dependent thereon.
-  §  6. Subdivision 1 of section 3331 of the public health law, as added
+  § 6. Subdivision 1 of section 3331 of the public health law, as  added
  by chapter 878 of the laws of 1972, is amended to read as follows:
+ A. 896--B  3
+
   1. Except as provided in titles III or V of this article, no substance
- in schedules II, III, IV, or V may be prescribed  for  or  dispensed  or
- A. 896--A  3
- 
- administered  to  [an  addict]  A  PERSON WITH SUBSTANCE USE DISORDER or
+ in  schedules  II,  III,  IV, or V may be prescribed for or dispensed or
+ administered to [an addict] A PERSON  WITH  SUBSTANCE  USE  DISORDER  or
  habitual user.
   §  7.  The title heading of title V of article 33 of the public health
  law, as added by chapter 878 of the laws of 1972, is amended to read  as
@@ -176,56 +177,56 @@ S T A T E  O F  N E W  Y O R K
  mental hygiene law.
   § 10. Section 3372 of the public health law, as amended by chapter 195
  of the laws of 1973, is amended to read as follows:
+ A. 896--B  4
+ 
   § 3372. Practitioner patient reporting.  It shall be the duty of every
  attending  practitioner  and  every  consulting  practitioner  to report
  promptly to the commissioner, or his duly  designated  agent,  the  name
- A. 896--A  4
- 
  and, if possible, the address of, and such other data as may be required
  by  the  commissioner  with respect to, any person under treatment if he
  finds that such person is [an addict] A PERSON WITH SUBSTANCE USE DISOR-
- DER  or  a habitual user of any narcotic drug. Such report shall be kept
- confidential and may be utilized only for  statistical,  epidemiological
- or  research  purposes, except that those reports which originate in the
- course of a criminal proceeding other than under section  81.25  of  the
+ DER or a habitual user of any narcotic drug. Such report shall  be  kept
+ confidential  and  may be utilized only for statistical, epidemiological
+ or research purposes, except that those reports which originate  in  the
+ course  of  a  criminal proceeding other than under section 81.25 of the
  mental hygiene law shall be subject only to the confidentiality require-
  ments of section thirty-three hundred seventy-one of this article.
-  §  11.  Subdivisions  2  and  3 of section 396-h of the county law, as
- added by chapter 818 of the  laws  of  1971,  are  amended  to  read  as
+  § 11. Subdivisions 2 and 3 of section 396-h  of  the  county  law,  as
+ added  by  chapter  818  of  the  laws  of  1971, are amended to read as
  follows:
-  2.  To  establish  in-patient and out-patient treatment facilities for
- persons [addicted to the use of drugs and drug abusers]  WITH  SUBSTANCE
- USE  DISORDERS.  Such facilities shall include, but shall not be limited
+  2. To establish in-patient and out-patient  treatment  facilities  for
+ persons  [addicted  to the use of drugs and drug abusers] WITH SUBSTANCE
+ USE DISORDERS. Such facilities shall include, but shall not  be  limited
  to:
   a. detoxification centers and clinics for the out-patient treatment of
  [drug abusers and addicts] PERSONS WITH SUBSTANCE USE DISORDERS;
-  b. a treatment center where [drug abusers and  addicts]  PERSONS  WITH
- SUBSTANCE  USE  DISORDERS may obtain professional counseling from physi-
- cians, psychologists, psychiatrists and  where  possible,  [former  drug
+  b.  a  treatment  center where [drug abusers and addicts] PERSONS WITH
+ SUBSTANCE USE DISORDERS may obtain professional counseling  from  physi-
+ cians,  psychologists,  psychiatrists  and  where possible, [former drug
  abusers and addicts] OTHER PERSONS WITH SUBSTANCE USE DISORDERS;
-  c.  half-way  houses to provide continuing treatment for [drug abusers
+  c. half-way houses to provide continuing treatment for  [drug  abusers
  and addicts] PERSONS WITH SUBSTANCE USE DISORDERS.
-  3. To create  a  referral  program  whereby  [drug  abusers,  addicts]
- PERSONS  WITH SUBSTANCE USE DISORDERS and persons and agencies concerned
- with their treatment will  make  use  of  the  aforementioned  treatment
+  3.  To  create  a  referral  program  whereby  [drug abusers, addicts]
+ PERSONS WITH SUBSTANCE USE DISORDERS and persons and agencies  concerned
+ with  their  treatment  will  make  use  of the aforementioned treatment
  facilities;
-  §  12. Subdivisions 2 and 3 of section 121 of the general city law, as
- added by chapter 820 of the  laws  of  1971,  are  amended  to  read  as
+  § 12. Subdivisions 2 and 3 of section 121 of the general city law,  as
+ added  by  chapter  820  of  the  laws  of  1971, are amended to read as
  follows:
-  2.  To  establish  in-patient and out-patient treatment facilities for
- persons [addicted to the use of drugs and drug abusers]  WITH  SUBSTANCE
- USE  DISORDERS.  Such facilities shall include, but shall not be limited
+  2. To establish in-patient and out-patient  treatment  facilities  for
+ persons  [addicted  to the use of drugs and drug abusers] WITH SUBSTANCE
+ USE DISORDERS. Such facilities shall include, but shall not  be  limited
  to:
   a. detoxification centers and clinics for the out-patient treatment of
  [drug abusers and addicts] PERSONS WITH SUBSTANCE USE DISORDERS;
-  b. a treatment center  where  [addicts]  PERSONS  WITH  SUBSTANCE  USE
- DISORDERS  may  obtain professional counseling from physicians, psychol-
- ogists, psychiatrists and  where  possible,  [former  drug  abusers  and
+  b.  a  treatment  center  where  [addicts]  PERSONS WITH SUBSTANCE USE
+ DISORDERS may obtain professional counseling from  physicians,  psychol-
+ ogists,  psychiatrists  and  where  possible,  [former  drug abusers and
  addicts] OTHER PERSONS WITH SUBSTANCE USE DISORDERS;
-  c.  half-way  houses to provide continuing treatment for [drug abusers
+  c. half-way houses to provide continuing treatment for  [drug  abusers
  and addicts] PERSONS WITH SUBSTANCE USE DISORDERS.
-  3. To create  a  referral  program  whereby  [drug  abusers,  addicts]
- PERSONS  WITH SUBSTANCE USE DISORDERS and persons and agencies concerned
- with their treatment will  make  use  of  the  aforementioned  treatment
+  3.  To  create  a  referral  program  whereby  [drug abusers, addicts]
+ PERSONS WITH SUBSTANCE USE DISORDERS and persons and agencies  concerned
+ with  their  treatment  will  make  use  of the aforementioned treatment
  facilities;
   § 13. This act shall take effect immediately.
