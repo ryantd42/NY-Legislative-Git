@@ -1,6 +1,6 @@
 # Authorizes the town of Hempstead to transfer ownership of certain parkland to the village of Freeport
 
-**Bill ID:** A6500AA
+**Bill ID:** A6500AB
 **Session:** 2023
 **Sponsor:** Brian F. Curran
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the town of Hempstead to transfer ownership of certain parkland const
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6500--A
+  6500--B
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,14 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. CURRAN -- read once and referred to the Committee
   on  Local  Governments  -- committee discharged, bill amended, ordered
-  reprinted as amended and recommitted to said committee
+  reprinted as amended and recommitted to said committee --  recommitted
+  to the Committee on Local Governments in accordance with Assembly Rule
+  3,  sec. 2 -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT authorizing the  town  of  Hempstead  to  transfer  ownership  of
   certain parkland to the village of Freeport
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -45,7 +48,9 @@ S T A T E  O F  N E W  Y O R K
  such  village of Freeport shall continue to provide access to such park-
  land and/or recreational facilities to all  residents  of  the  town  of
  Hempstead  and the village shall not enact any fees or charges which are
- higher for town residents who are not village residents.
+ higher for town residents who are not village residents for  current  or
+ future  park  or  recreational uses at the property described in section
+ two of this act.
   (b) Any revenues received by the town of Hempstead from  the  transfer
  shall  be used for capital improvements of existing park or recreational
  and/or the acquisition of additional park or recreational facilities.
@@ -54,77 +59,78 @@ S T A T E  O F  N E W  Y O R K
  follows:
   ALL that certain plot, piece or  parcel  of  land  together  with  the
  improvements  thereon,  situate,  lying  and  being  in the Incorporated
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10720-04-4
+ A. 6500--B  2
+ 
  Village of Freeport, Town of Hempstead, County of Nassau, State  of  New
  York  being known and designated as and by Section 62 Block C Lot 102 on
  the Land and Tax Map of Nassau County bounded and described  thereon  as
  follows:
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD10720-02-3
- A. 6500--A  2
- 
   BEGINNING  at  a  point on the easterly side of So. Grove Street a/k/a
  Guy Lombardo Boulevard, distant 343.87 feet southerly  from  the  corner
  formed by the intersection of the easterly side of So. Grove Street with
  the  southerly  side  of Howard Avenue, which said point of beginning is
- also  the  corner formed by the intersection of the easterly side of So.
+ also the corner formed by the intersection of the easterly side  of  So.
  Grove Street with the southerly side of Anchorage Way;
-  RUNNING THENCE the following four (4) courses and distances along  the
+  RUNNING  THENCE the following four (4) courses and distances along the
  easterly side of So. Grove Street:
-  1.  Southerly, 703.92 feet, to an angle point in said easterly side of
+  1. Southerly, 703.92 feet, to an angle point in said easterly side  of
  So.  Grove Street;
-  2. Southeasterly, 305.76 feet to another angle point in said  easterly
+  2.  Southeasterly, 305.76 feet to another angle point in said easterly
  side of So. Grove Street;
-  3.  Southeasterly, 403.71 feet to another angle point in said easterly
+  3. Southeasterly, 403.71 feet to another angle point in said  easterly
  side of So. Grove Street;
-  4. Southerly, 470 feet to the northerly line of Tax Lot  151,  Section
+  4.  Southerly,  470 feet to the northerly line of Tax Lot 151, Section
  62, Block 102 on the said Land and Tax Map of Nassau County;
   RUNNING THENCE the following three (3) courses and distances along the
  northerly and easterly lines of said Tax Lot 151, Section 62, Block 102:
-  1.  Easterly, along the northerly line of said tax lot, 63.0 feet to a
+  1. Easterly, along the northerly line of said tax lot, 63.0 feet to  a
  point on the easterly line of said tax lot;
-  2. Southerly, along the easterly line of said tax lot, 249.70 feet  to
+  2.  Southerly, along the easterly line of said tax lot, 249.70 feet to
  an angle point in said easterly line of said tax lot;
-  3.  Southerly,  still  along  the easterly line of said tax lot, 70.00
+  3. Southerly, still along the easterly line of  said  tax  lot,  70.00
  feet to The Narrows (Freeport River);
-  RUNNING THENCE Easterly, along The Narrows, 740 feet more or  less  to
+  RUNNING  THENCE  Easterly, along The Narrows, 740 feet more or less to
  the westerly line of Hudson Bay;
-  RUNNING  THENCE  along the westerly line of Hudson Bay, 1100 feet more
+  RUNNING THENCE along the westerly line of Hudson Bay, 1100  feet  more
  or less to the southerly line of Tax Lot 103, Section 62, Block C;
   THENCE Westerly, along the southerly line of said tax lot, 96.39 feet,
  to a point on the westerly line of said tax lot;
   RUNNING THENCE Northwesterly, along the said westerly line of said tax
- and the westerly lines of Tax Lots 104  and  471,  294.78  feet  to  the
+ and  the  westerly  lines  of  Tax  Lots 104 and 471, 294.78 feet to the
  northwesterly side of Anchorage Way;
-  RUNNING  THENCE  the following six (6) courses and distances along the
+  RUNNING THENCE the following six (6) courses and distances  along  the
  southwesterly and southerly sides of Anchorage Way:
-  1. Northwesterly, 315.69 feet to an angle point in  the  southwesterly
+  1.  Northwesterly,  315.69 feet to an angle point in the southwesterly
  side of Anchorage Way;
-  2.  Northwesterly, 300.48 feet to another angle point in the southwes-
+  2. Northwesterly, 300.48 feet to another angle point in the  southwes-
  terly side of Anchorage Way;
   3. Westerly, 83.70 feet, along the southwesterly and southerly side of
- Anchorage Way to another angle point in the southerly side of  Anchorage
+ Anchorage  Way to another angle point in the southerly side of Anchorage
  Way;
-  4.  Westerly, along the southerly side of Anchorage Way, 83.70 feet to
+  4. Westerly, along the southerly side of Anchorage Way, 83.70 feet  to
  another angle point in the southerly side of Anchorage Way;
   5. Westerly, along the southerly side of Anchorage Way, 182.87 feet to
  another angle point in the southerly side of Anchorage Way;
   6. Westerly, along the southerly side of Anchorage Way, 272.96 feet to
  another angle point in the southerly side of Anchorage Way; and,
   7. Westerly, along the southerly side of Anchorage Way, 110.15 feet to
- the point or place of BEGINNING. Containing 39 acres of  land,  more  or
+ the  point  or  place of BEGINNING. Containing 39 acres of land, more or
  less.
-  §  3.  The  land to be transferred pursuant to this act and all struc-
- tures and facilities situated on such land shall  be  maintained,  owned
- and  operated  for  park purposes by the village of Freeport. The use of
- such parkland and facilities shall continue to be made available to  the
- general  public of the state of New York, including all residents of the
- A. 6500--A  3
+ A. 6500--B  3
  
- town of Hempstead and the village of Freeport.  Where the  availability
- of such facilities is limited, use of such facilities must be determined
- by an equitable method.
+  § 3. The land to be transferred pursuant to this act  and  all  struc-
+ tures  and  facilities  situated on such land shall be maintained, owned
+ and operated for park purposes by the village of Freeport.  The  use  of
+ such parkland and facilities and future park or recreational uses at the
+ property  described in section two of this act shall continue to be made
+ available to the general public of the state of New York, including  all
+ residents  of  the town of Hempstead and the village of Freeport.  Where
+ the availability of such facilities is limited, use of  such  facilities
+ must be determined by an equitable method.
   §  4.  Should the lands described in section two of this act cease to
  be used for the purposes described in section one  of  this  act,  those
  lands  shall  revert to the town of Hempstead for public park and recre-
