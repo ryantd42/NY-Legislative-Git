@@ -1,6 +1,6 @@
 # Increases the amount of money furnished to incarcerated individuals upon release
 
-**Bill ID:** S6643A
+**Bill ID:** S6643AA
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides for eligible incarcerated individuals to receive a monthly stipend upon
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6643
+  6643--A
  
   2023-2024 Regular Sessions
  
@@ -27,34 +27,93 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  PARKER -- read twice and ordered printed, and when
   printed to be committed to the Committee on Crime Victims,  Crime  and
-  Correction
+  Correction -- recommitted to the Committee on Crime Victims, Crime and
+  Correction  in  accordance  with  Senate  Rule  6, sec. 8 -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the correction law, in relation to increasing the amount
-  of money furnished to incarcerated individuals upon release
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN ACT to amend the  correction  law  and  the  state  finance  law,  in
+  relation  to providing for money upon release for certain incarcerated
+  individuals; and making an appropriation therefor
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivision 2 of section 125  of  the  correction  law,  as
- amended  by  chapter  322  of  the  laws  of 2021, is amended to read as
- follows:
-  2. The superintendent of each of said facilities shall furnish to each
- incarcerated individual who shall be discharged or  released  from  said
- facility  by  pardon,  parole,  conditional release or otherwise, except
- such incarcerated individuals as are released for return for  resentence
- or  new trial or upon a certificate of reasonable doubt, and except such
- incarcerated individuals who are released to participate  in  a  program
- outside  the  facility who are required to return to the facility, suit-
- able clothing adapted to the season in which he or she is discharged not
- to exceed sixty-five dollars in value and transportation to  the  county
- of  his or her conviction or to such other place as the commissioner may
- designate. In addition, the commissioner shall take such  steps  as  are
- necessary  to ensure that incarcerated individuals have at least [forty]
- TWO THOUSAND SIX HUNDRED dollars available upon release.
-  § 2. This act shall take effect immediately.
- 
- 
+  Section 1. The correction law is amended by adding a new section 12 to
+ read as follows:
+  §  12.  GATE  MONEY PROGRAM. 1. AS USED IN THIS SECTION, THE FOLLOWING
+ TERMS SHALL HAVE THE FOLLOWING MEANINGS:
+  (A) "PROGRAM" MEANS THE GATE MONEY  PROGRAM  ESTABLISHED  PURSUANT  TO
+ SUBDIVISION TWO OF THIS SECTION.
+  (B)  "ELIGIBLE INCARCERATED INDIVIDUAL" MEANS AN INCARCERATED INDIVID-
+ UAL WHO IS RELEASED FROM A STATE CORRECTIONAL FACILITY AFTER  SERVING  A
+ MINIMUM  OF  SIX  MONTHS  WHO HAS NOT PREVIOUSLY RECEIVED MONEY FROM THE
+ PROGRAM.
+  2. THE COMMISSIONER SHALL DEVELOP A GATE MONEY PROGRAM  THAT  PROVIDES
+ FOR  ELIGIBLE INCARCERATED INDIVIDUALS TO RECEIVE A MONTHLY STIPEND UPON
+ RELEASE FROM A STATE CORRECTIONAL FACILITY.
+  3. (A) STIPENDS PAID TO AN ELIGIBLE INCARCERATED  INDIVIDUAL  PURSUANT
+ TO  THE  PROGRAM  SHALL BE NO LESS THAN FOUR HUNDRED TWENTY-FIVE DOLLARS
+ PER MONTH FOR A PERIOD OF UP TO  SIX  MONTHS.  THE  MAXIMUM  AGGREGATE
+ AMOUNT  ANY  INDIVIDUAL  SHALL  RECEIVE FROM THE PROGRAM IS TWO THOUSAND
+ FIVE HUNDRED FIFTY DOLLARS.
+  (B) THE DOLLAR AMOUNTS IN PARAGRAPH (A) OF THIS SUBDIVISION  SHALL  BE
+ ADJUSTED  ANNUALLY  FOR INFLATION AS DETERMINED FROM THE INCREASE IN THE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11075-01-3
+  LBD11075-02-4
+ S. 6643--A  2
+ 
+ CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD ENDING ON THE MARCH  THIRTY-
+ FIRST  PRIOR  TO  THE COST-OF-LIVING ADJUSTMENT EFFECTIVE ON THE ENSUING
+ SEPTEMBER FIRST.
+  4.  (A)  THE  INITIAL PAYMENT OF A PROGRAM STIPEND SHALL BE MADE IMME-
+ DIATELY UPON RELEASE OF THE ELIGIBLE INCARCERATED INDIVIDUAL IN THE FORM
+ OF CASH OR A CHECK. SUCH PROGRAM STIPEND SHALL BE  IN  ADDITION  TO  ANY
+ OTHER FUNDS TO BE PAID OR RETURNED TO SUCH INDIVIDUAL.
+  (B)  SUBSEQUENT PROGRAM STIPEND PAYMENTS SHALL BE MADE ON THE FIRST OF
+ EACH MONTH BY THE COMMUNITY  SUPERVISION  AGENCY  RESPONSIBLE  FOR  SUCH
+ INDIVIDUAL.
+  5.  THE  PROVISIONS OF THIS SECTION SHALL NOT APPLY TO AN INCARCERATED
+ INDIVIDUAL WHO IS RELEASED TO THE CUSTODY OF ANOTHER STATE OR THE FEDER-
+ AL GOVERNMENT.
+  6. STIPEND PAYMENTS PAID PURSUANT TO THE PROVISIONS  OF  THIS  SECTION
+ SHALL  NOT  BE  TAKEN INTO CONSIDERATION WHEN DETERMINING ELIGIBILITY OR
+ CALCULATING THE AMOUNT OF BENEFITS FOR ANY PUBLIC ASSISTANCE PROGRAM.
+  7. THE DEPARTMENT SHALL COLLECT DATA ON  THE  NUMBER  OF  INCARCERATED
+ INDIVIDUALS PARTICIPATING IN THE PROGRAM AND ISSUE A REPORT ON SUCH DATA
+ TO  THE  GOVERNOR, THE TEMPORARY PRESIDENT OF THE SENATE AND THE SPEAKER
+ OF THE ASSEMBLY ANNUALLY.
+  8. THE COMMISSIONER SHALL PROMULGATE ANY RULES AND REGULATIONS  NECES-
+ SARY FOR THE IMPLEMENTATION OF THIS SECTION.
+  § 2. The state finance law is amended by adding a new section 99-rr to
+ read as follows:
+  §  99-RR.  GATE MONEY FUND. 1. A SPECIAL FUND TO BE KNOWN AS THE "GATE
+ MONEY FUND" IS HEREBY ESTABLISHED IN THE  CUSTODY  OF  THE  STATE  COMP-
+ TROLLER AND THE COMMISSIONER OF TAXATION AND FINANCE.
+  2.  THE  FUND  SHALL  CONSIST OF ALL MONIES APPROPRIATED, CREDITED, OR
+ TRANSFERRED TO SUCH FUND PURSUANT TO LAW, ALL  MONIES  REQUIRED  BY  ANY
+ PROVISION  OF LAW TO BE PAID INTO OR CREDITED TO THE FUND AND ANY INTER-
+ EST EARNINGS WHICH MAY ACCRUE FROM THE INVESTMENT OF MONIES IN THE FUND.
+ NOTHING CONTAINED IN THIS SECTION SHALL PREVENT THE STATE FROM RECEIVING
+ GRANTS, GIFTS OR BEQUESTS FOR THE PURPOSES OF THE  FUND  AS  DEFINED  IN
+ THIS SECTION AND DEPOSITING THEM IN THE FUND ACCORDING TO LAW.
+  3.  MONIES  OF  THE  FUND,  WHEN  ALLOCATED, SHALL BE AVAILABLE TO THE
+ DEPARTMENT OF CORRECTIONS AND COMMUNITY SUPERVISION TO PROVIDE  STIPENDS
+ PURSUANT TO THE PROVISIONS OF SECTION TWELVE OF THE CORRECTION LAW.
+  4.  MONIES  SHALL BE PAYABLE FROM THE FUND ON THE AUDIT AND WARRANT OF
+ THE COMPTROLLER ON VOUCHERS APPROVED AND CERTIFIED BY  THE  COMMISSIONER
+ OF CORRECTIONS AND COMMUNITY SUPERVISION.
+  §  3.  The  sum of twenty-five million dollars ($25,000,000) is hereby
+ appropriated from any moneys in the state treasury in the  general  fund
+ to  the  credit  of  the gate money fund established pursuant to section
+ 99-rr of the state finance law in carrying out the  provisions  of  this
+ act.  Such  sum shall be payable on the audit and warrant of the state
+ comptroller on vouchers certified or approved in the manner provided  by
+ law.
+  § 4. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.  Effective immediately, the addition, amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation  of  this act on its effective date are authorized to be made and
+ completed on or before such effective date.
