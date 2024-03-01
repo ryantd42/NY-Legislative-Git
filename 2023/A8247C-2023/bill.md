@@ -1,6 +1,6 @@
 # Relates to the supervision of intravenous administration of contrast media by a radiographer
 
-**Bill ID:** A8247CA
+**Bill ID:** A8247CB
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the intravenous administration of contrast media when such administra
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8247--A
+  8247--B
  
   2023-2024 Regular Sessions
  
@@ -28,10 +28,12 @@ S T A T E  O F  N E W  Y O R K
  Introduced by M. of A. PAULIN -- read once and referred to the Committee
   on Health -- recommitted to the Committee on Health in accordance with
   Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
-  reprinted as amended and recommitted to said committee
+  reprinted  as  amended  and  recommitted  to  said  committee -- again
+  reported from said committee with  amendments,  ordered  reprinted  as
+  amended and recommitted to said committee
  
  AN ACT to amend the public health law, in relation to the supervision of
-  intravascular administration of contrast media by a radiographer
+  intravenous administration of contrast media by a radiographer
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -40,20 +42,20 @@ S T A T E  O F  N E W  Y O R K
  added by chapter 175 of the laws of 2006, is amended to read as follows:
   3.  "Radiography" means the use of x-rays or x-ray producing equipment
  on human beings for diagnostic  purposes  under  the  supervision  of  a
- licensed  practitioner.  The  practice  includes, but is not limited to:
- measuring and positioning patients; selecting and  setting  up  exposure
- factors  on  x-ray  equipment, and the making of the x-ray exposure; the
- performance of quality control tests; [and,]  under  the  direct  super-
- vision  of  a  licensed  physician,  the intravascular administration of
- contrast media when such administration is an integral part of the x-ray
- or imaging procedure; AND, UNDER THE DIRECT SUPERVISION  OF  A  LICENSED
- PHYSICIAN, LICENSED NURSE PRACTITIONER, OR LICENSED PHYSICIAN ASSISTANT,
- THE  INTRAVENOUS  ADMINISTRATION  OF  CONTRAST  MEDIA WHEN SUCH ADMINIS-
- TRATION IS AN INTEGRAL PART OF THE X-RAY OR IMAGING PROCEDURE.
+ licensed  OR  CERTIFIED  practitioner. The practice includes, but is not
+ limited to:  measuring and positioning patients; selecting  and  setting
+ up  exposure  factors  on  x-ray  equipment, and the making of the x-ray
+ exposure; the performance of quality control  tests;  [and,]  under  the
+ direct  supervision  of a licensed physician, the intravascular adminis-
+ tration of contrast media when such administration is an  integral  part
+ of  the x-ray or imaging procedure; AND, UNDER THE DIRECT SUPERVISION OF
+ A LICENSED PHYSICIAN, CERTIFIED NURSE PRACTITIONER, OR  LICENSED  PHYSI-
+ CIAN  ASSISTANT,  THE  INTRAVENOUS ADMINISTRATION OF CONTRAST MEDIA WHEN
+ SUCH ADMINISTRATION IS AN INTEGRAL PART OF THE X-RAY OR  IMAGING  PROCE-
+ DURE.
   § 2. This act shall take effect immediately.
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13575-02-4
+  LBD13575-03-4
