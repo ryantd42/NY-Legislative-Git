@@ -1,6 +1,6 @@
 # Includes information on congenital heart defect births in the informational leaflets required to be given to maternity patients
 
-**Bill ID:** A7516A
+**Bill ID:** A7516AA
 **Session:** 2023
 **Sponsor:** Charles Fall
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Includes information on congenital heart defect births in the informational leaf
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7516
+  7516--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. FALL -- read once and referred to the Committee
-  on Health
+  on Health -- recommitted to the Committee on Health in accordance with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public health law, in relation to including informa-
   tion on congenital heart defect births in the  informational  leaflets
   required to be given to maternity patients
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -41,12 +43,12 @@ S T A T E  O F  N E W  Y O R K
  of  the laws of 1996, is amended by adding a new subdivision 1-e to read
  as follows:
   1-E. THE INFORMATIONAL LEAFLET SHALL ALSO INCLUDE INFORMATION  RELATED
- TO CONGENITAL HEART DEFECT BIRTHS, INCLUDING TREATMENT REQUIREMENTS, AND
- ANY OTHER INFORMATION THE COMMISSIONER SHALL DEEM APPROPRIATE.
-  §  3.  This  act shall take effect on the thirtieth day after it shall
+ TO  CONGENITAL HEART DEFECT BIRTHS, INCLUDING TREATMENT RECOMMENDATIONS,
+ AND ANY OTHER INFORMATION THE COMMISSIONER SHALL DEEM APPROPRIATE.
+  § 3. This act shall take effect on the thirtieth day  after  it  shall
  have become a law. Effective immediately, the addition, amendment and/or
- repeal of any rule or regulation necessary  for  the  implementation  of
- this  act  on its effective date are authorized to be made and completed
+ repeal  of  any  rule  or regulation necessary for the implementation of
+ this act on its effective date are authorized to be made  and  completed
  on or before such effective date.
  
  
@@ -54,4 +56,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11477-01-3
+  LBD11477-02-4
