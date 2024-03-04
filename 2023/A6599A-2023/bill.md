@@ -1,6 +1,6 @@
 # Establishes an LGBTQ+ youth and young adult suicide prevention task force; and providing for the repeal of such provisions upon the expiration thereof
 
-**Bill ID:** A6599A
+**Bill ID:** A6599AA
 **Session:** 2023
 **Sponsor:** Karines Reyes
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes an LGBTQ+ youth and young adult suicide prevention task force; provi
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6599
+  6599--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,47 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. REYES, WOERNER, WEPRIN, DICKENS, SEAWRIGHT, HEVE-
-  SI,  McDONOUGH, OTIS, EPSTEIN, BURDICK, GLICK, DINOWITZ -- Multi-Spon-
-  sored by -- M. of A. TAGUE -- read once and referred to the  Committee
-  on Mental Health
+  SI,  McDONOUGH,  OTIS,  EPSTEIN,  BURDICK,  GLICK, DINOWITZ, SIMONE --
+  Multi-Sponsored by -- M. of A. TAGUE -- read once and referred to  the
+  Committee  on  Mental Health -- recommitted to the Committee on Mental
+  Health in accordance  with  Assembly  Rule  3,  sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN  ACT  to  establish  an LGBT youth and young adult suicide prevention
-  task force; and provides for the repeal of such provisions upon  expi-
+ AN  ACT  to establish an LGBTQ+ youth and young adult suicide prevention
+  task force; and providing for the repeal of such provisions upon expi-
   ration thereof
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. LGBT youth and young adult suicide prevention  task  force.
- (a)  There  is hereby created the lesbian, gay, bisexual and transgender
- (LGBT) youth and young adult suicide prevention task force  to  examine,
- evaluate  and  determine  how  to  improve  mental  health  and  suicide
- prevention for New York's LGBT youth and young  adults  up  to  age  24,
- consisting  of  nine  members,  each  to serve until two years after the
+  Section 1. LGBTQ+ youth and young adult suicide prevention task force.
+ (a) There is hereby created the lesbian, gay, bisexual, transgender, and
+ queer+  (LGBTQ+)  youth and young adult suicide prevention task force to
+ examine, evaluate and determine how to improve mental health and suicide
+ prevention for New York's LGBTQ+ youth and young adults up  to  age  24,
+ consisting  of  seven  members,  each to serve until two years after the
  effective date of this act.
-  (b)(1) Such members shall be appointed as follows: three member  shall
- be  appointed  by  the  governor;  two members shall be appointed by the
- temporary president of the senate; two members shall be appointed by the
- speaker of the assembly; one member shall be appointed by  the  minority
- leader of the assembly; and one member shall be appointed by the minori-
- ty leader of the senate. Appointments shall be made within sixty days of
- the  effective  date  of  this act. Vacancies in the task force shall be
+  (b)(1) Such members shall be appointed as follows: one member shall be
+ appointed by the governor; two members shall be appointed by the  tempo-
+ rary  president  of  the  senate;  two members shall be appointed by the
+ speaker of the assembly; and two  members  shall  be  appointed  by  the
+ commissioner  of health. Appointments shall be made within sixty days of
+ the effective date of this act. Vacancies in the  task  force  shall  be
  filled in the same manner provided for original appointments.
-  (2) All appointees shall  have  expertise  in  fields  or  disciplines
- related  to  mental health and knowledge related to LGBT youth and young
+  (2)  All  appointees  shall  have  expertise  in fields or disciplines
+ related to mental health and knowledge related to LGBTQ+ youth and young
  adults. All appointments  shall  be  coordinated  to  ensure  geographic
  representation from the entire state.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00465-04-4
+ A. 6599--A  2
+ 
   (3)  The  task force shall be chaired by the governor's appointee. The
  task force shall elect a vice-chair and other  necessary  officers  from
  among all appointed members.
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD00465-03-3
- A. 6599  2
- 
   (4)  A  majority  of  the  members  of  the task force in office shall
  constitute a quorum for the transaction of business or the  exercise  of
  any  power or function of the task force. An act, determination or deci-
@@ -83,8 +85,8 @@ S T A T E  O F  N E W  Y O R K
  efforts;
   (2) recommend mental health practices and suicide  prevention  efforts
  to increase effectiveness across the state; and
-  (3)  determine potential reasons for the high number of LGBT youth and
- young adult suicides.
+  (3)  determine  potential  reasons for the high number of LGBTQ+ youth
+ and young adult suicides.
   (d) The task force may establish such advisory committees as it  deems
  appropriate  on  matters  relating to the task force's functions, powers
  and duties. Such committees shall be chaired by a task force member, but
@@ -97,16 +99,21 @@ S T A T E  O F  N E W  Y O R K
  ty.  All  state departments, commissions, agencies or public authorities
  shall provide information and advice in a timely  manner  and  otherwise
  assist the task force with its work.
-  (f)  The  task force may hold public hearings, take testimony and make
+  (f)  The  task  force  shall submit a request for any appropriation as
+ shall be necessary to enable the task force to perform its functions and
+ duties to the governor, director of the division of budget,  and  chair-
+ persons  of the senate finance committee and the assembly ways and means
+ committee.
+  (g) The task force may hold public hearings, take testimony  and  make
  investigations at such places as it deems necessary.
-  (g) The task force shall make a preliminary report to the governor and
+  (h) The task force shall make a preliminary report to the governor and
  the legislature of its findings, conclusions, recommendations and activ-
- ities already undertaken by the task  force,  not  later  than  thirteen
- months  after  the effective date of this act, and a final report of its
+ ities  already  undertaken  by  the  task force, not later than thirteen
+ months after the effective date of this act, and a final report  of  its
  findings, conclusions, recommendations and activities already undertaken
- by the task force, not later than twenty-two months after the  effective
- date of this act and shall submit with its reports legislative proposals
- as it deems necessary to implement its recommendations.
+ by  the task force, not later than 22 months after the effective date of
+ this act and shall submit with its reports legislative proposals  as  it
+ deems necessary to implement its recommendations.
   §  2.  This  act  shall take effect on the sixtieth day after it shall
  have become a law and shall expire 2 years  after  such  effective  date
  when upon such date the provisions of this act shall be deemed repealed.
