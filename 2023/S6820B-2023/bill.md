@@ -1,6 +1,6 @@
 # Requires allergen labeling for prepackaged foods
 
-**Bill ID:** S6820B
+**Bill ID:** S6820BA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires every food establishment to label all prepackaged food with a written n
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6820
+  6820--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
- 
- AN ACT to amend the public health law, in relation to requiring allergen
-  labeling for prepackaged foods
+  printed to be committed to the Committee on Health --  recommitted  to
+  the  Committee  on  Health in accordance with Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+
+ AN  ACT  to  amend the public health law and the agriculture and markets
+  law, in relation to requiring allergen labeling for prepackaged foods
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  The  public health law is amended by adding a new section
  1357 to read as follows:
   § 1357. ALLERGEN LABELING FOR PREPACKAGED FOODS.  1. AS USED  IN  THIS
@@ -42,9 +45,10 @@ S T A T E  O F  N E W  Y O R K
  OFFERED OR SOLD TO CUSTOMERS ON THE SAME  PREMISES.  PREPACKAGED  FOOD
  DOES  NOT  INCLUDE  FOOD THAT IS NOT IN PACKAGING OR IS PACKAGED AFTER A
  CUSTOMER HAS ORDERED.
-  (B) "FOOD ESTABLISHMENT" MEANS ALL GROCERY  STORES,  DELIS,  BAKERIES,
- SANDWICH  SHOPS, ICE CREAM PARLORS, CAFETERIAS AND FOOD TRUCKS OPERATING
- WITHIN THE STATE.
+  (B) "FOOD ESTABLISHMENT" MEANS ANY PLACE FOOD IS PREPARED AND INTENDED
+ FOR OFF-PREMISES CONSUMPTION, INCLUDING ALL  DELIS,  BAKERIES,  SANDWICH
+ SHOPS,  ICE  CREAM  PARLORS, CAFETERIAS AND FOOD TRUCKS OPERATING WITHIN
+ THE STATE.
   (C) "MAJOR FOOD ALLERGEN" SHALL HAVE THE SAME MEANING AS SUCH TERM  IS
  DEFINED IN 21 U.S.C. 321.
   2.  EVERY  FOOD  ESTABLISHMENT SHALL LABEL ALL PREPACKAGED FOOD WITH A
@@ -52,10 +56,29 @@ S T A T E  O F  N E W  Y O R K
  AGE IDENTIFYING ALL INGREDIENTS AND LABELING FOR MAJOR FOOD ALLERGENS IN
  SUCH  FORM  AND MANNER AS REQUIRED PURSUANT TO THE FEDERAL FOOD ALLERGEN
  LABELING AND CONSUMER PROTECTION ACT OF 2004, AS AMENDED.
-  § 2. This act shall take effect on the ninetieth day  after  it  shall
- have become a law.
- 
+  § 2. The agriculture and markets  law  is  amended  by  adding  a  new
+ section 199-g to read as follows:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11261-01-3
+  LBD11261-03-4
+ S. 6820--A  2
+ 
+  §  199-G.  ALLERGEN LABELING FOR PREPACKAGED FOODS. 1. AS USED IN THIS
+ SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
+  (A)  "PREPACKAGED  FOOD"  MEANS  FOOD THAT IS PREPARED, PREPACKED, AND
+ OFFERED OR SOLD TO CUSTOMERS ON THE SAME  PREMISES.  PREPACKAGED  FOOD
+ DOES  NOT  INCLUDE  FOOD THAT IS NOT IN PACKAGING OR IS PACKAGED AFTER A
+ CUSTOMER HAS ORDERED.
+  (B) "FOOD ESTABLISHMENT" MEANS ANY PLACE WHERE FOOD  IS  PREPARED  AND
+ INTENDED  FOR  CONSUMPTION,  INCLUDING RETAIL FOOD STORES, AS DEFINED IN
+ SECTION FIVE HUNDRED OF THIS CHAPTER.
+  (C) "MAJOR FOOD ALLERGEN" SHALL HAVE THE SAME MEANING AS SUCH TERM  IS
+ DEFINED IN 21 U.S.C. 321.
+  2.  EVERY  FOOD  ESTABLISHMENT SHALL LABEL ALL PREPACKAGED FOOD WITH A
+ WRITTEN NOTIFICATION ON THE PACKAGE OR ON A LABEL ATTACHED TO THE  PACK-
+ AGE IDENTIFYING ALL INGREDIENTS AND LABELING FOR MAJOR FOOD ALLERGENS IN
+ SUCH  FORM  AND MANNER AS REQUIRED PURSUANT TO THE FEDERAL FOOD ALLERGEN
+ LABELING AND CONSUMER PROTECTION ACT OF 2004, AS AMENDED.
+  § 3. This act shall take effect on the ninetieth day  after  it  shall
+ have become a law.
