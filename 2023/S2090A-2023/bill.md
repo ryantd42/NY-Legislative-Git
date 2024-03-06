@@ -1,6 +1,6 @@
 # Relates to certain tuition payments by school districts for general education and special students residing in such school districts
 
-**Bill ID:** S2090A
+**Bill ID:** S2090AA
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Excludes certain tuition payments by school districts for general education and 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2090
+  2090--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. PALUMBO -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Education
- 
+  printed to be committed to the Committee on Education  --  recommitted
+  to the Committee on Education in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
+
  AN ACT to amend the  education  law,  in  relation  to  certain  tuition
   payments  by  school  districts  for  general  education  and  special
   students residing in such school districts
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -54,10 +57,10 @@ S T A T E  O F  N E W  Y O R K
  RESIDING IN SUCH SCHOOL DISTRICT.
   § 2. This act shall take effect immediately and shall first  apply  to
  school  district  budgets  and  the  budget  adoption  process for the
- 2023-2024 school year; and shall continue to apply  to  school  district
+ 2024-2025 school year; and shall continue to apply  to  school  district
  budgets and the budget adoption process for any school year beginning in
  any calendar year during which this act is in effect.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04066-01-3
+  LBD04066-03-4
