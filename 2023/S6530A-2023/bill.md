@@ -1,6 +1,6 @@
 # Enacts Paige's law
 
-**Bill ID:** S6530A
+**Bill ID:** S6530AA
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts Paige's law to provide education and awareness regarding brain arterioven
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6530
+  6530--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   April 25, 2023
   ___________
  
- Introduced  by  Sen. MATTERA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Health
- 
+ Introduced by Sens. MATTERA, WEIK -- read twice and ordered printed, and
+  when printed to be committed to the Committee on Health -- recommitted
+  to the Committee on Health in accordance with Senate Rule 6, sec. 8 --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the public health law, the education law and the  execu-
   tive law, in relation to enacting Paige's law
  
@@ -37,13 +40,13 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Short title. This act shall be known and may  be  cited  as
  "Paige's law".
   §  2.  Subdivision  1  of  section  2500-a of the public health law is
- amended by adding a new paragraph (k) to read as follows:
-  (K) HEREDITARY HEMORRHAGIC TELANGIECTASIA AND  THORACIC  AORTIC  ANEU-
+ amended by adding a new paragraph (l) to read as follows:
+  (L) HEREDITARY HEMORRHAGIC TELANGIECTASIA AND  THORACIC  AORTIC  ANEU-
  RYSMS  AND  DISSECTIONS  THROUGH  GENE  SEQUENCING,  MARFAN SYNDROME AND
  RELATED DISORDERS.
-  § 3. The public health law is amended by adding a new  section  2500-l
+  § 3. The public health law is amended by adding a new  section  2500-m
  to read as follows:
-  § 2500-L. HEREDITARY HEMORRHAGIC TELANGIECTASIA, THORACIC AORTIC ANEU-
+  § 2500-M. HEREDITARY HEMORRHAGIC TELANGIECTASIA, THORACIC AORTIC ANEU-
  RYSMS,  MARFAN  SYNDROME AND RELATED DISORDERS PRENATAL SCREENING AWARE-
  NESS. 1. AS USED IN THIS SECTION, "HEALTH  CARE  PRACTITIONER"  MEANS  A
  MEDICAL PROFESSIONAL THAT PROVIDES PRENATAL CARE.
@@ -55,15 +58,15 @@ S T A T E  O F  N E W  Y O R K
  ING FOR SUCH CONDITIONS AND DISORDERS.
   § 4. The education law is amended by adding a new  section  3001-e  to
  read as follows:
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD06088-02-4
+ S. 6530--A  2
+ 
   §  3001-E. BRAIN ARTERIOVENOUS MALFORMATION, BRAIN ANEURYSM AND STROKE
  AWARENESS AND RESPONSE TRAINING. 1. (A) TEACHERS SHALL ANNUALLY COMPLETE
  A COURSE OR TRAINING IN THE IDENTIFICATION OF AND RESPONSE  TO  A  PUPIL
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD06088-01-3
- S. 6530  2
- 
  EXPERIENCING  A  BRAIN  ARTERIOVENOUS  MALFORMATION,  BRAIN  ANEURYSM OR
  STROKE.
   (B) DOCUMENTATION SHOWING THE SUCCESSFUL COMPLETION OF THE INSTRUCTION
@@ -117,20 +120,20 @@ S T A T E  O F  N E W  Y O R K
  SIONER OF HEALTH, WRITTEN POLICIES AND PROCEDURES CONSISTENT WITH SUBDI-
  VISION  THIRTY-TWO  OF SECTION TWO HUNDRED SIX OF THE PUBLIC HEALTH LAW,
  REGARDING PROTOCOLS FOR THE IDENTIFICATION OF AND RESPONSE TO  AN  INDI-
+ S. 6530--A  3
+ 
  VIDUAL  EXPERIENCING  A BRAIN ARTERIOVENOUS MALFORMATION, BRAIN ANEURYSM
  OR STROKE. SUCH POLICIES AND PROCEDURES SHALL MAKE  PROVISIONS  FOR  THE
  EDUCATION  AND TRAINING OF NEW AND VETERAN POLICE OFFICERS ON THE PROTO-
- S. 6530  3
- 
  COLS FOR RESPONSE TO VICTIMS OF SUSPECTED DRUG OVERDOSE AND THE ADMINIS-
  TRATION OF OPIOID ANTAGONISTS; AND
   2.  RECOMMEND  TO  THE GOVERNOR, RULES AND REGULATIONS WITH RESPECT TO
  THE ESTABLISHMENT AND IMPLEMENTATION ON AN ONGOING  ANNUAL  BASIS  OF  A
  TRAINING  PROGRAM  FOR ALL CURRENT AND NEW POLICE OFFICERS REGARDING THE
  POLICIES AND PROCEDURES ESTABLISHED PURSUANT TO THIS SUBDIVISION.
-  § 9. The education law is amended by adding a new section 925 to  read
+  § 9. The education law is amended by adding a new section 926 to  read
  as follows:
-  §  925. BRAIN ARTERIOVENOUS MALFORMATION AND BRAIN ANEURYSM AWARENESS.
+  §  926. BRAIN ARTERIOVENOUS MALFORMATION AND BRAIN ANEURYSM AWARENESS.
  EACH SCHOOL SHALL PROVIDE TO THE  PARENT  OR  GUARDIAN  OF  EVERY  CHILD
  ENTERING  KINDERGARTEN  EDUCATIONAL MATERIALS PROMULGATED BY THE COMMIS-
  SIONER, IN CONSULTATION WITH THE COMMISSIONER OF HEALTH, REGARDING BRAIN
