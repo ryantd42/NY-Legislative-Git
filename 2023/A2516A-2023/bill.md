@@ -1,6 +1,6 @@
 # Allows a notice of dense breast tissue to be determination of medical necessity for coverage of a breast ultrasound
 
-**Bill ID:** A2516A
+**Bill ID:** A2516AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Allows a notice of dense breast tissue to be considered a determination of medic
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2516
+  2516--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PAULIN, SEAWRIGHT -- read once and referred to
-  the Committee on Insurance
- 
+  the Committee on Insurance -- recommitted to the Committee  on  Insur-
+  ance  in  accordance  with  Assembly  Rule  3,  sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the public health law, in relation to allowing a  notice
   of  dense  breast  tissue  to be considered a determination of medical
   necessity for coverage of a breast ultrasound
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
   For the purposes of this section dense breast tissue shall mean heter-
  ogeneously dense or extremely dense  tissue  as  defined  in  nationally
  recognized guidelines or systems for breast imaging reporting of mammog-
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05349-02-4
+ A. 2516--A  2
+ 
  raphy  screening,  including,  but  not  limited  to, the breast imaging
  reporting and data system of the American College of Radiology, and  any
  equivalent new terms, as such guidelines or systems are updated.
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD05349-01-3
- A. 2516  2
- 
   2.  WHERE  A PROVIDER OF MAMMOGRAPHY SERVICES HAS PROVIDED NOTICE TO A
  PATIENT UNDER SUBDIVISION ONE OF  THIS  SECTION,  THE  NOTICE  SHALL  BE
  CONSIDERED A DETERMINATION OF MEDICAL NECESSITY FOR PURPOSES OF COVERAGE
- OF A BREAST ULTRASOUND AS RECOMMENDED BY THE PROVIDER.
+ OF A BREAST ULTRASOUND.
   § 2.  This act shall take effect immediately.
