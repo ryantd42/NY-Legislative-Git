@@ -1,6 +1,6 @@
 # Requires insurance policies to provide coverage for transvaginal ultrasounds during pregnancy
 
-**Bill ID:** A6042B
+**Bill ID:** A6042BA
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires insurance policies to provide coverage for transvaginal ultrasounds dur
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6042
+  6042--A
  
   2023-2024 Regular Sessions
  
@@ -26,20 +26,23 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  BICHOTTE HERMELYN,  STIRPE,  COLTON,  CRUZ,
-  JEAN-PIERRE, JACKSON -- read once and referred  to  the  Committee  on
-  Insurance
+  JEAN-PIERRE, JACKSON, GIBBS, LEVENBERG, SEAWRIGHT, EPSTEIN,  SILLITTI,
+  ARDILA, HYNDMAN, SIMON, LUCAS, GUNTHER, AUBRY, DAVILA -- read once and
+  referred to the Committee on Insurance -- recommitted to the Committee
+  on  Insurance  in accordance with Assembly Rule 3, sec. 2 -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN  ACT  to  amend the insurance law, in relation to requiring insurance
+ AN ACT to amend the insurance law, in relation  to  requiring  insurance
   policies to provide coverage for transvaginal ultrasounds during preg-
   nancy
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. This act shall be known and may be cited as the "Eli Parker
- Levitt Law".
-  §  2.  Paragraph 10 of subsection (i) of section 3216 of the insurance
- law is amended by adding a new subparagraph (C) to read as follows:
+  Section 1. Paragraph 10 of subsection  (i)  of  section  3216  of  the
+ insurance  law  is  amended  by adding a new subparagraph (C) to read as
+ follows:
   (C) COVERAGE PROVIDED UNDER THIS  PARAGRAPH  FOR  CARE  AND  TREATMENT
  DURING PREGNANCY SHALL INCLUDE PROVISION FOR PAYMENTS FOR NOT LESS THAN:
   (I) A TRANSVAGINAL ULTRASOUND ONCE BETWEEN SIXTEEN THROUGH TWENTY-FOUR
@@ -54,16 +57,16 @@ S T A T E  O F  N E W  Y O R K
  NOT LIMITED TO BICORNUATE, SEPTATE OR UNICORNUATE UTERUS, OR ANY CONGEN-
  ITAL STRUCTURAL DEFECT OF A KIDNEY; AND (V) A HISTORY OF PRIOR  DELIVERY
  OCCURRING AT OR NEAR TERM BY CESAREAN AFTER OBSTRUCTED LABOR.
-  §  3.  Paragraph  5 of subsection (k) of section 3221 of the insurance
+  §  2.  Paragraph  5 of subsection (k) of section 3221 of the insurance
  law is amended by adding a new subparagraph (C) to read as follows:
-  (C) COVERAGE PROVIDED UNDER THIS  PARAGRAPH  FOR  CARE  AND  TREATMENT
- DURING PREGNANCY SHALL INCLUDE PROVISION FOR PAYMENTS FOR NOT LESS THAN:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01169-02-3
- A. 6042  2
+  LBD01169-03-4
+ A. 6042--A  2
  
+  (C) COVERAGE PROVIDED UNDER THIS  PARAGRAPH  FOR  CARE  AND  TREATMENT
+ DURING PREGNANCY SHALL INCLUDE PROVISION FOR PAYMENTS FOR NOT LESS THAN:
   (I) A TRANSVAGINAL ULTRASOUND ONCE BETWEEN SIXTEEN THROUGH TWENTY-FOUR
  WEEKS; AND
   (II)  A  TRANSVAGINAL  ULTRASOUND EVERY TWO WEEKS FROM SIXTEEN THROUGH
@@ -76,7 +79,7 @@ S T A T E  O F  N E W  Y O R K
  NOT LIMITED TO BICORNUATE, SEPTATE OR UNICORNUATE UTERUS, OR ANY CONGEN-
  ITAL STRUCTURAL DEFECT OF A KIDNEY; AND (V) A HISTORY OF PRIOR  DELIVERY
  OCCURRING AT OR NEAR TERM BY CESAREAN AFTER OBSTRUCTED LABOR.
-  §  4.  Paragraph  1 of subsection (c) of section 4303 of the insurance
+  §  3.  Paragraph  1 of subsection (c) of section 4303 of the insurance
  law is amended by adding a new subparagraph (D) to read as follows:
   (D) COVERAGE PROVIDED UNDER THIS  PARAGRAPH  FOR  CARE  AND  TREATMENT
  DURING PREGNANCY SHALL INCLUDE PROVISION FOR PAYMENTS FOR NOT LESS THAN:
@@ -92,7 +95,7 @@ S T A T E  O F  N E W  Y O R K
  NOT LIMITED TO BICORNUATE, SEPTATE OR UNICORNUATE UTERUS, OR ANY CONGEN-
  ITAL STRUCTURAL DEFECT OF A KIDNEY; AND (V) A HISTORY OF PRIOR  DELIVERY
  OCCURRING AT OR NEAR TERM BY CESAREAN AFTER OBSTRUCTED LABOR.
-  §  5.  This  act  shall take effect on the sixtieth day after it shall
+  §  4.  This  act  shall take effect on the sixtieth day after it shall
  have become a law.  Effective immediately the addition, amendment and/or
  repeal of any rule or regulation necessary  for  the  implementation  of
  this  act  on its effective date are authorized to be made and completed
