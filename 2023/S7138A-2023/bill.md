@@ -1,6 +1,6 @@
 # Restricts insurers from demanding intrusive personal, financial and tax information from insureds as a standard practice in ordinary theft claims
 
-**Bill ID:** S7138A
+**Bill ID:** S7138AA
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Stricken
@@ -16,7 +16,7 @@ Restricts insurers from demanding intrusive personal, financial and tax informat
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7138
+  7138--A
  
   2023-2024 Regular Sessions
  
@@ -26,18 +26,21 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. KENNEDY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Insurance
- 
+  printed to be committed to the Committee on Insurance  --  recommitted
+  to the Committee on Insurance in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
+
  AN ACT to amend the insurance law, in relation to  restricting  insurers
   from  demanding intrusive personal, financial and tax information from
   insureds as a standard practice in processing ordinary theft claims
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The insurance law is amended by adding a new section 2618
+  Section  1.  The insurance law is amended by adding a new section 2619
  to read as follows:
-  § 2618. INTRUSIVE REQUESTS FOR PERSONAL, FINANCIAL  AND  TAX  INFORMA-
+  § 2619. INTRUSIVE REQUESTS FOR PERSONAL, FINANCIAL  AND  TAX  INFORMA-
  TION;  ORDINARY THEFT CLAIMS. (A) IT SHALL BE AN UNFAIR CLAIM SETTLEMENT
  ACT OR PRACTICE UNDER PARAGRAPHS THREE AND FOUR  OF  SUBSECTION  (A)  OF
  SECTION  TWO THOUSAND SIX HUNDRED ONE OF THIS ARTICLE FOR AN INSURER, IN
@@ -54,17 +57,17 @@ S T A T E  O F  N E W  Y O R K
   (2) PERMITS OR LICENSES WHICH THE INSURED  HOLDS  IN  NEW  YORK  STATE
  OTHER THAN THOSE FOR OPERATING A MOTOR VEHICLE;
   (3) LOAN APPLICATIONS WHICH THE INSURED FILED;
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00825-03-4
+ S. 7138--A  2
+ 
   (4)  STATEMENT SETTING FORTH THE COUNTY AND STATE IN WHICH THE INSURED
  HAS BEEN REGISTERED TO VOTE OVER A PERIOD OF TIME, OTHER THAN  FROM  HIS
  OR HER PRESENT RESIDENCE;
   (5)  COPIES  OF  ANY BANK STATEMENTS OF BANKS IN WHICH THE INSURED HAS
  ACCOUNTS;
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD00825-01-3
- S. 7138  2
- 
   (6) COPIES OF ANY "DOING BUSINESS AS" CERTIFICATES OR CERTIFICATES  OF
  INCORPORATION FOR ANY BUSINESS THE INSURED OWNS; OR
   (7)  INFORMATION  OR MATERIAL OF A SIMILAR PERSONAL, FINANCIAL, TAX OR
