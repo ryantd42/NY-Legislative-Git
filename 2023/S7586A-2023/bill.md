@@ -1,6 +1,6 @@
 # Relates to permitting accidental death benefits to be awarded to the beneficiary of Anthony Varvaro
 
-**Bill ID:** S7586A
+**Bill ID:** S7586AA
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Deems Anthony Varvaro to have died as the natural and proximate result of an acc
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7586
+  7586--A
  
   2023-2024 Regular Sessions
  
@@ -26,66 +26,68 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. SCARCELLA-SPANTON -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Rules
- 
- AN ACT to permit accidental death benefits to be awarded to the  benefi-
+  and when printed to be committed to the Committee on Rules  --  recom-
+  mitted  to  the  Committee on Civil Service and Pensions in accordance
+  with Senate Rule 6, sec. 8  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
+ AN  ACT to permit accidental death benefits to be awarded to the benefi-
   ciary of Anthony Varvaro
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Notwithstanding the provisions of any law,  rule  or  regu-
- lation  to  the  contrary,  Anthony Varvaro, who was a member of the New
- York state and local police and fire retirement  system  employed  as  a
+  Section  1.  Notwithstanding  the provisions of any law, rule or regu-
+ lation to the contrary, Anthony Varvaro, who was a  member  of  the  New
+ York  state  and  local  police and fire retirement system employed as a
  police officer by the Port Authority of New York and New Jersey, and who
- died  on  September 11, 2022 as the result of an accident which occurred
- while he was travelling to work, shall be deemed to  have  died  as  the
+ died on September 11, 2022 as the result of an accident  which  occurred
+ while  he  was  travelling  to work, shall be deemed to have died as the
  natural and proximate result of an accident sustained in the performance
- of  duty.  The  beneficiary or beneficiaries of Anthony Varvaro shall be
- eligible to receive the  accidental  death  benefit  if  an  application
- therefor  is  filed  within  one year of the effective date of this act.
- Any amounts paid by the New  York  state  and  local  police and  fire
- retirement  system as the result of the death of Anthony Varvaro prior
+ of duty. The beneficiary or beneficiaries of Anthony  Varvaro  shall  be
+ eligible  to  receive  the  accidental  death  benefit if an application
+ therefor is filed within one year of the effective  date  of  this  act.
+ Any  amounts  paid  by the New  York  state  and  local  police and fire
+ retirement  system as the result of the death of Anthony  Varvaro  prior
  to the receipt of the accidental death benefit pursuant to  this section
- shall be deducted from the benefit payable on an  actuarially  equiv-
- alent  basis  over  the expected future lifetime of the beneficiary or
+ shall  be  deducted  from the benefit payable on an  actuarially  equiv-
+ alent basis  over the expected future lifetime  of  the  beneficiary  or
  beneficiaries.
   § 2. All costs associated with this act shall be borne by the state of
  New York.
   § 3. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This bill would make the statutory beneficiaries  of  Anthony  Varvaro
- eligible to collect an accidental death benefit pursuant to Sections 361
- and 361-a of the Retirement and Social Security Law. Anthony Varvaro was
- a  police  officer  employed  by  the Port Authority of New York and New
- Jersey and a member of the New York State  and  Local  Police  and  Fire
+  This  bill  would  make  the statutory beneficiary or beneficiaries of
+ Anthony Varvaro eligible to collect an accidental death benefit pursuant
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11782-04-3
- S. 7586  2
+  LBD11782-06-4
+ S. 7586--A  2
  
- Retirement System until their death on September 11, 2022. Currently, an
- ordinary  death benefit equal to three times the member's prior 12-month
- salary is payable to the beneficiary selected by the member.
-  If  this  bill  is  enacted during the 2023 legislative session, there
- will be an immediate past service cost of  approximately  $6.67  million
- which will be borne by the State of New York as a one-time payment. This
- estimate assumes that payment will be made on March 1, 2024.
-  The  statutory beneficiary must file an application for the accidental
- death benefits, in lieu of the ordinary death benefits, within one  year
- of the bill's effective date.
+ to sections 361 and 361-a of the Retirement  and  Social  Security  Law.
+ Anthony Varvaro was employed as a police officer with the Port Authority
+ of  New  York  and  New  Jersey until their death on September 11, 2022.
+ Currently,  an  ordinary  death benefit equal to three (3) times Anthony
+ Varvaro's prior twelve-month salary is payable to a designated benefici-
+ ary or beneficiaries.
+  If this bill is enacted during the 2024 Legislative  Session  and  the
+ required  application  for  an accidental death benefit is timely filed,
+ there will be an immediate past  service  cost  of  approximately  $7.47
+ million  which  will  be  borne  by  the State of New York as a one-time
+ payment. This estimate assumes that payment will be  made  on  March  1,
+ 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al valuation. Distributions and other statistics can  be  found  in  the
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -93,6 +95,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated June 15, 2023, and intended for use  only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-180, prepared by
+  This estimate, dated March 6, 2024, and intended for use  only  during
+ the  2024  Legislative Session, is Fiscal Note No. 2024-128, prepared by
  the Actuary for the New York State and Local Retirement System.
