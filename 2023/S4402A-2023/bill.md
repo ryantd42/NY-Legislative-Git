@@ -1,6 +1,6 @@
 # Relates to decreasing the length of the suspension period applicable to certain striking workers who seek to obtain unemployment insurance benefits
 
-**Bill ID:** S4402A
+**Bill ID:** S4402AA
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Stricken
@@ -16,7 +16,7 @@ Relates to decreasing the length of the suspension period applicable to certain 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4402
+  4402--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,19 @@ S T A T E  O F  N E W  Y O R K
   February 8, 2023
   ___________
  
- Introduced  by  Sen. KENNEDY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Labor
+ Introduced  by  Sens. KENNEDY, BRESLIN, BRISPORT, BROUK, CLEARE, FERNAN-
+  DEZ, GONZALEZ, HARCKHAM,  HINCHEY,  HOYLMAN-SIGAL,  JACKSON,  MATTERA,
+  MURRAY,  MYRIE,  PALUMBO,  RAMOS, SALAZAR, SCARCELLA-SPANTON, SKOUFIS,
+  STAVISKY -- read twice and ordered printed, and  when  printed  to  be
+  committed to the Committee on Labor -- recommitted to the Committee on
+  Labor  in  accordance  with  Senate  Rule  6,  sec.  8  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the labor law, in relation to decreasing the  length  of
   the  suspension period applicable to certain striking workers who seek
   to obtain unemployment insurance benefits
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -40,48 +46,50 @@ S T A T E  O F  N E W  Y O R K
  follows:
   1. Industrial controversy. (a) The accumulation of benefit rights by a
  claimant  shall  be suspended during a period of [two consecutive weeks]
- ONE WEEK beginning with the day after such  claimant  lost  his  or  her
- employment  because  of  a strike or other industrial controversy except
- for lockouts, including concerted activity not authorized or  sanctioned
- by  the  recognized  or  certified bargaining agent of the claimant, and
- other concerted activity conducted in violation of any existing  collec-
- tive  bargaining  agreement, in the establishment in which he or she was
- employed, except that benefit rights may be accumulated before the expi-
- ration of such [two] ONE week period beginning with the day  after  such
- strike or other industrial controversy was terminated.
+ ONE WEEK beginning with the day after such claimant lost  [his  or  her]
+ THEIR  employment  because  of  a strike or other industrial controversy
+ except for lockouts, including  concerted  activity  not  authorized  or
+ sanctioned by the recognized or certified bargaining agent of the claim-
+ ant, and other concerted activity conducted in violation of any existing
+ collective  bargaining  agreement,  in the establishment in which [he or
+ she] SUCH CLAIMANT was employed, except that benefit rights may be accu-
+ mulated before the expiration of such [two] ONE  week  period  beginning
+ with  the  day  after  such  strike  or other industrial controversy was
+ terminated.
   (b) Benefits shall not be suspended under this section if:
-  (i)  The employer hires a permanent replacement worker for the employ-
- ee's position. A replacement worker shall be presumed  to  be  permanent
- unless  the employer certifies in writing that the employee will be able
- to return to his or her prior position upon conclusion of the strike, in
- the event the strike terminates prior to the conclusion of  the  employ-
- ee's eligibility for benefit rights under this chapter. In the event the
- employer  does  not  permit  such  return  after such certification, the
- employee shall be entitled to recover any benefits lost as a  result  of
- the [two] ONE week suspension of benefits, and the department may impose
+  (i) The employer hires a permanent replacement worker for the  employ-
+ ee's  position.  A  replacement worker shall be presumed to be permanent
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01295-01-3
- S. 4402  2
+  LBD01295-02-4
+ S. 4402--A  2
  
- a  penalty  upon  the  employer of up to seven hundred fifty dollars per
- employee per week of benefits lost. The penalty collected shall be  paid
- into  the  unemployment  insurance  control fund established pursuant to
- section five hundred fifty-two-b of this article; or
+ unless the employer certifies in writing that the employee will be  able
+ to return to [his or her] SUCH EMPLOYEE'S prior position upon conclusion
+ of  the  strike, in the event the strike terminates prior to the conclu-
+ sion  of  the employee's eligibility for benefit rights under this chap-
+ ter. In the event the employer does not permit such  return  after  such
+ certification,  the  employee  shall be entitled to recover any benefits
+ lost as a result of the [two] ONE week suspension of benefits,  and  the
+ department may impose a penalty upon the employer of up to seven hundred
+ fifty  dollars  per  employee  per  week  of  benefits lost. The penalty
+ collected shall be paid into the  unemployment  insurance  control  fund
+ established  pursuant  to section five hundred fifty-two-b of this arti-
+ cle; or
   (ii) The commissioner determines that the claimant:
-  (A)  is not employed by an employer that is involved in the industrial
- controversy that caused his or her unemployment and is not participating
- in the industrial controversy; or
+  (A) is not employed by an employer that is involved in the  industrial
+ controversy that caused [his or her] SUCH CLAIMANT'S unemployment and is
+ not participating in the industrial controversy; or
   (B) is not in a bargaining unit involved in the industrial controversy
- that caused his or her unemployment and  is  not  participating  in  the
- industrial controversy.
-  3. Terms of suspension. [No] THE waiting period may be served during a
- suspension period.
-  The  suspension  of accumulation of benefit rights shall not be termi-
- nated by subsequent employment of the claimant irrespective of when  the
- claim  is  filed  except as provided in subdivision one and shall not be
- confined to a single benefit year.
+ that caused [his or her] SUCH CLAIMANT'S unemployment and is not partic-
+ ipating in the industrial controversy.
+  3.  Terms  of suspension. [No] THE waiting period [may] AND SUSPENSION
+ PERIOD SHALL be served [during a suspension period] CONCURRENTLY.
+  The suspension of accumulation of benefit rights shall not  be  termi-
+ nated  by subsequent employment of the claimant irrespective of when the
+ claim is filed except as provided in subdivision one OF THIS SECTION and
+ shall not be confined to a single benefit year.
   A "week" as used in subdivision one of this section  means  any  seven
  consecutive calendar days.
   § 2. This act shall take effect immediately.
