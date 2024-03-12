@@ -1,6 +1,6 @@
 # Requires mental health services for incarcerated individuals with mental health issues related to the trauma of incarceration
 
-**Bill ID:** S3103CB
+**Bill ID:** S3103CC
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires mental health services for incarcerated individuals with mental health 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3103--B
+  3103--C
  
   2023-2024 Regular Sessions
  
@@ -25,46 +25,49 @@ S T A T E  O F  N E W  Y O R K
   January 27, 2023
   ___________
  
- Introduced  by Sen. BRISPORT -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Crime Victims,  Crime  and
-  Correction -- committee discharged, bill amended, ordered reprinted as
-  amended  and  recommitted to said committee -- reported favorably from
-  said committee and committed to the Committee on Finance --  committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+ Introduced  by Sens. BRISPORT, CLEARE, COONEY, SALAZAR -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Crime  Victims,  Crime  and  Correction  -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee  --  reported  favorably  from said committee and committed to the
+  Committee on Finance -- committee discharged,  bill  amended,  ordered
+  reprinted  as amended and recommitted to said committee -- recommitted
+  to the Committee on Crime Victims, Crime and Correction in  accordance
+  with  Senate  Rule  6,  sec.  8 -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN  ACT  to  amend  the  correction law, in relation to requiring mental
+ AN ACT to amend the correction law,  in  relation  to  requiring  mental
   health services for incarcerated individuals with mental health issues
   related to the trauma of incarceration
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Short  title. This act shall be known and may be cited as
+  Section 1. Short title. This act shall be known and may  be  cited  as
  "Shawanna's law (W76337)".
-  § 2. Section 71-a of the correction law, as amended by chapter 322  of
+  §  2. Section 71-a of the correction law, as amended by chapter 322 of
  the laws of 2021, is amended to read as follows:
-  §  71-a.  Transitional  accountability  plan.  1. Upon admission of an
+  § 71-a. Transitional accountability plan.  1.  Upon  admission  of  an
  incarcerated individual committed to the custody of the department under
  an indeterminate or determinate sentence of imprisonment, the department
- shall develop a transitional accountability plan. Such plan shall  be  a
- comprehensive,  dynamic and individualized case management plan based on
- the programming and treatment needs of the incarcerated individual.  The
- purpose  of  such  plan  shall  be  to promote the rehabilitation of the
- incarcerated individual and their successful and productive reentry  and
+ shall  develop  a transitional accountability plan. Such plan shall be a
+ comprehensive, dynamic and individualized case management plan based  on
+ the  programming and treatment needs of the incarcerated individual. The
+ purpose of such plan shall be  to  promote  the  rehabilitation  of  the
+ incarcerated  individual and their successful and productive reentry and
  reintegration into society upon release. To that end, such plan shall be
- used  to prioritize programming and treatment services for the incarcer-
- ated individual during incarceration and any period of community  super-
- vision.  The  commissioner may consult with the office of mental health,
- the office of [alcoholism and substance abuse]  ADDICTION  services  AND
- SUPPORTS,  the  board  of  parole,  the  department of health, and other
-
+ used to prioritize programming and treatment services for the  incarcer-
+ ated  individual during incarceration and any period of community super-
+ vision. The commissioner may consult with the office of  mental  health,
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02966-04-3
- S. 3103--B  2
+  LBD02966-06-4
+ S. 3103--C  2
  
- appropriate agencies in the development of transitional case  management
+ the  office  of  [alcoholism and substance abuse] ADDICTION services AND
+ SUPPORTS, the board of parole,  the  department  of  health,  and  other
+ appropriate  agencies in the development of transitional case management
  plans.
   2. MENTAL HEALTH REENTRY SERVICES SHALL BE INCLUDED IN AN INCARCERATED
  INDIVIDUAL'S  TRANSITIONAL  ACCOUNTABILITY  PLAN.  SUCH  MENTAL  HEALTH
@@ -117,12 +120,12 @@ S T A T E  O F  N E W  Y O R K
  TO A HEALTH CARE PROVIDER FOR THE SERVICE OF THE RELEASEE.
   (C)  AN INCARCERATED INDIVIDUAL WHO RECEIVES CLINICAL INTERVENTION FOR
  TRAUMA RELATED TO INCARCERATION  UNDER  SECTION  SEVENTY-ONE-A  OF  THIS
+ S. 3103--C  3
+ 
  ARTICLE  SHALL RECEIVE THE FOLLOWING UPON REENTRY AND REINTEGRATION INTO
  SOCIETY UPON RELEASE:
   (I) MENTAL HEALTH SERVICES;
- S. 3103--B  3
- 
-  (II) THERAPEUTIC  PROGRAMS  INCLUDING  NONTRADITIONAL  THERAPIES  LIKE
+  (II)  THERAPEUTIC  PROGRAMS  INCLUDING  NONTRADITIONAL  THERAPIES LIKE
  YOGA, MEDITATION, AND PHYSICAL THERAPY;
   (III) FAMILY COUNSELING;
   (IV) ALCOHOL AND SUBSTANCE ABUSE DISORDER TREATMENT SERVICES;
@@ -131,16 +134,16 @@ S T A T E  O F  N E W  Y O R K
   (VII) HOUSING INFORMATION;
   (VIII) JOB PLACEMENT INFORMATION; AND
   (IX) MONEY MANAGEMENT ASSISTANCE.
-  §  4.  The  department  of corrections and community supervision shall
- submit a report on the state of  mental  health  care  services  in  the
- corrections  system, including local jails, which shall include, but not
- be limited to,  an  assessment  of  the  degree  to  which  the  federal
+  § 4. The department of corrections  and  community  supervision  shall
+ submit  a  report  on  the  state  of mental health care services in the
+ corrections system, including local jails, which shall include, but  not
+ be  limited  to,  an  assessment  of  the  degree  to  which the federal
  substance abuse and mental health services administration's guidance for
- trauma-informed  approach  to  mental health has been implemented to the
- governor, the temporary president of the senate, and the speaker of  the
- assembly no later than December 31, 2024.
-  §  5.  This  act shall take effect on the ninetieth day after it shall
- have become a law.  Effective  immediately,  the  addition,  amendment
+ trauma-informed approach to mental health has been  implemented  to  the
+ governor,  the temporary president of the senate, and the speaker of the
+ assembly no later than December 31, 2025.
+  § 5. This act shall take effect on the ninetieth day  after  it  shall
+ have  become  a  law.  Effective  immediately, the addition, amendment
  and/or repeal of any rule or regulation necessary for the implementation
- of  this  act  on  its  effective  date  are  authorized  to be made and
+ of this act on  its  effective  date  are  authorized  to  be  made  and
  completed on or before such effective date.
