@@ -1,6 +1,6 @@
 # Sets the increase to the overtime ceiling as a fixed percentage
 
-**Bill ID:** A7309A
+**Bill ID:** A7309AA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Sets the increase to the overtime ceiling as a fixed percentage.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7309
+  7309--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the retirement and social security law, in  relation  to
   setting the increase to the overtime ceiling as a fixed percentage
  
@@ -56,15 +59,15 @@ S T A T E  O F  N E W  Y O R K
  thereafter,  the  overtime  ceiling  percentage shall be increased by an
  amount equal to the annual inflation as determined from the increase  in
  the  consumer price index in the one year period ending on the September
- thirtieth prior to the overtime  ceiling  adjustment  effective  on  the
- ensuing January first.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03497-04-3
- A. 7309  2
+  LBD03497-10-4
+ A. 7309--A  2
  
-  (III)  COMMENCING  JANUARY  FIRST,  TWO THOUSAND TWENTY-FOUR, AND EACH
+ thirtieth prior to the overtime  ceiling  adjustment  effective  on  the
+ ensuing January first.
+  (III)  COMMENCING  JANUARY  FIRST,  TWO THOUSAND TWENTY-FIVE, AND EACH
  YEAR THEREAFTER, FOR MEMBERS WHO FIRST BECOME MEMBERS OF  THE  NEW  YORK
  STATE  AND  LOCAL  EMPLOYEES' RETIREMENT SYSTEM ON OR AFTER APRIL FIRST,
  TWO THOUSAND TWELVE, THE OVERTIME CEILING PERCENTAGE INCREASE  SHALL  BE
@@ -95,7 +98,7 @@ S T A T E  O F  N E W  Y O R K
  the consumer price index in the one year period ending on the  September
  thirtieth  prior  to  the  overtime  ceiling adjustment effective on the
  ensuing January first.
-  (III) COMMENCING JANUARY FIRST, TWO  THOUSAND  TWENTY-FOUR,  AND  EACH
+  (III) COMMENCING JANUARY FIRST, TWO  THOUSAND  TWENTY-FIVE,  AND  EACH
  YEAR  THEREAFTER,  FOR  MEMBERS WHO FIRST BECOME MEMBERS OF THE NEW YORK
  STATE AND LOCAL EMPLOYEES' RETIREMENT SYSTEM ON OR  AFTER  APRIL  FIRST,
  TWO  THOUSAND  TWELVE, THE OVERTIME CEILING PERCENTAGE INCREASE SHALL BE
@@ -103,48 +106,58 @@ S T A T E  O F  N E W  Y O R K
  AS  DETERMINED  FROM THE INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE
  YEAR PERIOD ENDING ON THE SEPTEMBER  THIRTIETH  PRIOR  TO  THE  OVERTIME
  CEILING ADJUSTMENT EFFECTIVE ON THE ENSUING JANUARY FIRST.
-  § 3. This act shall take effect immediately.
+  § 3. Notwithstanding any provision of law to the contrary, none of the
+ provisions of this act shall be subject to the appropriation requirement
+ of section twenty-five of the retirement and social security law.
+  § 4. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This  bill  would  change the overtime ceiling percentage increase for
  Tier 6 members in the New York State  and  Local  Employees'  Retirement
  System  (NYSLERS)  to  the  greater  of  three  percent  or  the  annual
- inflation, beginning January 1, 2024. Under current law, the ceiling was
+ inflation, beginning January 1, 2025. Under current law, the ceiling was
  set at $15,000 at the inception of Tier 6 and is increased  annually  by
  the inflation rate.
-  Insofar  as  this  bill affects the NYSLERS, pursuant to Section 25 of
- the Retirement and Social Security Law, the  increased  costs  would  be
- borne  entirely  by  the State of New York and would require an itemized
- appropriation sufficient to pay the cost of the provision. If this  bill
- is  enacted  during  the  2023  legislative session, the increase in the
- present value of benefits would be approximately $204 million.
-  In the NYSLERS, this benefit improvement will be funded by (1) billing
- a past service cost to cover retrospective  benefit  increases  and  (2)
- A. 7309  3
+  The provisions of Section 25 of the Retirement and Social Security Law
+ shall not apply.
+  Insofar as this bill affects the NYSLERS, the increased costs would be
+ shared by the State of New York and the local participating employers in
+ A. 7309--A  3
  
- increasing the billing rates charged annually to cover prospective bene-
- fit increases, as follows:
-  (1)  To  fund  retrospective  costs,  the  State  of  New York will be
- required to pay $75 million as of March 1, 2024.
-  (2) To fund prospective costs, the annual contribution required of all
- participating employers in the NYSLERS is 0.05% of billable  salary,  or
- approximately  $6.2  million  to the State of New York and approximately
- $9.0 million to local participating employers in the fiscal year  ending
- March 31, 2025. This PERMANENT ANNUAL COST will vary in subsequent bill-
- ing  cycles  with changes in the billing rate and salary of the affected
- members.
-  These estimated costs are based on 238,007 affected  Tier  6  members,
- with annual salary of approximately $10 billion as of March 31, 2022.
+ the  NYSLERS.  If  this  bill  were  enacted during the 2024 Legislative
+ Session, the increase in the present value of benefits would be approxi-
+ mately $263 million.
+  NYSLERS  Increase in present  Increase in required
+  value benefits  contributions
+  Tiers 1 - 5  $0  $49 million
+  Tier 6  $263 million  $214 million
+  Total  $263 million  $263 million
+  In  the NYSLERS, this benefit improvement will be funded by increasing
+ the billing rates charged  annually  to  cover  both  retrospective  and
+ prospective  benefit  increases. The annual contribution required of all
+ participating employers in  NYSLERS  is  0.1%  of  billable  salary,  or
+ approximately $13 million to the State of New York and approximately $19
+ million to the local participating employers. This PERMANENT ANNUAL COST
+ WILL  INCREASE  as  Tier  6 salary grows and will vary by employer based
+ upon the plan coverage and salary reported in Tier 6.
+  These estimated costs are based on 265,533 affected  Tier  6  members,
+ with annual salary of approximately $12 billion as of March 31, 2023.
+  To  develop  the costs above, our models included a Monte Carlo method
+ of 5,000 simulations, each consisting of thirty-year CPI-U  projections.
+ In every one of the 5,000 simulations, in at least one year of the thir-
+ ty-year  period, the proposed legislation caused a higher overtime ceil-
+ ing based on the 3% inflation  floor,  compared  to  current  law.  This
+ occurred in approximately 64% of the 150,000 trial years.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation. Distributions and other statistics can  be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -152,6 +165,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated April 24, 2023, and intended for use only  during
- the  2023  Legislative  Session, is Fiscal Note No. 2023-31, prepared by
+  This estimate, dated March 8, 2024, and intended for use  only  during
+ the  2024  Legislative Session, is Fiscal Note No. 2024-104, prepared by
  the Actuary for the New York State and Local Retirement System.
