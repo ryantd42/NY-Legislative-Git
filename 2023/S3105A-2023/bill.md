@@ -1,6 +1,6 @@
 # Requires the office for people with developmental disabilities to produce and publish a report on staffing at state-operated institutions under the jurisdiction of such office
 
-**Bill ID:** S3105A
+**Bill ID:** S3105AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Requires the office for people with developmental disabilities to produce and pu
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3105
+  3105--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 27, 2023
   ___________
  
- Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Disabilities
- 
+ Introduced  by  Sens.  MANNION, WEBER -- read twice and ordered printed,
+  and when printed to be committed to the Committee on  Disabilities  --
+  recommitted to the Committee on Disabilities in accordance with Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT relating to assessing the staffing and other issues  causing  the
   continued  displacement of individuals with developmental disabilities
   from various state-operated institutions under the jurisdiction of the
@@ -44,7 +47,7 @@ S T A T E  O F  N E W  Y O R K
  staffing issues, the commissioner of the office for people with develop-
  mental disabilities shall submit a report to the governor, the temporary
  president  of  the  senate, and the speaker of the assembly on or before
- December 31, 2023 detailing the  number  and  nature  of  state-operated
+ December 31, 2024 detailing the  number  and  nature  of  state-operated
  residential  facilities serving individuals with developmental disabili-
  ties, a census of staff delivering services at state-operated facilities
  to individuals with developmental disabilities and  the  hiring  of  new
@@ -53,24 +56,24 @@ S T A T E  O F  N E W  Y O R K
  information:
   1. the total number of full-time equivalent staff by position or title
  for the office for people with developmental disabilities as of April 1,
- 2023;
-  2. the 2023-2024 fiscal year full-time  equivalent  budgeted  staffing
- level  by position or title for the office for people with developmental
- disabilities as of April 1, 2023;
+ 2024;
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05300-01-3
- S. 3105  2
+  LBD05300-02-4
+ S. 3105--A  2
  
-  3. the number  of  full-time  equivalent  staff  that  separated  from
- service  between  April 1, 2023 and December 1, 2023, including a break-
+  2. the 2024-2025 fiscal year full-time  equivalent  budgeted  staffing
+ level  by position or title for the office for people with developmental
+ disabilities as of April 1, 2024;
+  3.  the  number  of  full-time  equivalent  staff  that separated from
+ service between April 1, 2024 and December 1, 2024, including  a  break-
  down of each staff member's job title and job location;
-  4.  the  number of staff hired from April 1, 2023 to December 1, 2023,
+  4.  the  number of staff hired from April 1, 2024 to December 1, 2024,
  including a breakdown of each staff member's job title and job location;
-  5. the number of unfilled and vacant positions as of December 1,  2023
+  5. the number of unfilled and vacant positions as of December 1,  2024
  at each state-operated facility;
-  6. the number of full-time equivalent staff as of December 1, 2023;
+  6. the number of full-time equivalent staff as of December 1, 2024;
   7.  the  steps taken by the office for people with developmental disa-
  bilities to recruit staff for new and vacant positions;
   8. a list of state-operated residential  facilities  operated  by  the
