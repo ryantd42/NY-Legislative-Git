@@ -1,6 +1,6 @@
 # Relates to member contribution per centum increases
 
-**Bill ID:** S3614ED
+**Bill ID:** S3614EE
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Increases the salary ranges tied to member contribution requirements; ties salar
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3614--D
+  3614--E
  
   2023-2024 Regular Sessions
  
@@ -34,7 +34,9 @@ S T A T E  O F  N E W  Y O R K
   accordance  with  Senate  Rule 6, sec. 8 -- committee discharged, bill
   amended, ordered reprinted as amended and recommitted to said  commit-
   tee  --  committee  discharged,  bill  amended,  ordered  reprinted as
-  amended and recommitted to said committee
+  amended and recommitted to said  committee  --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
  
  AN ACT to amend the retirement and social security law and the education
   law, in relation to member contribution per centum increases
@@ -57,73 +59,73 @@ S T A T E  O F  N E W  Y O R K
  EXCEED THREE PERCENT;
   2.  members with wages greater than forty-five thousand per annum, but
  not more than fifty-five thousand per annum shall contribute  three  and
- one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
- FIVE, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT  NOT
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03315-11-4
- S. 3614--D  2
+  LBD03315-13-4
+ S. 3614--E  2
  
+ one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
+ FIVE, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT  NOT
  MORE  THAN  SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE AND ONE-HALF
- PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON  APRIL  ONE,  TWO  THOUSAND
- TWENTY-SIX, THE WAGES IN THIS PARAGRAPH SHALL BE INCREASED BY THE ANNUAL
- INFLATION,  AS  DETERMINED FROM THE INCREASE IN THE CONSUMER PRICE INDEX
- IN THE ONE YEAR PERIOD ENDING  ON  DECEMBER  THIRTY-FIRST  OF  THE  YEAR
- PRIOR.  SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-
- TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
-  3. members with wages greater than fifty-five thousand per annum,  but
- not  more than seventy-five thousand per annum shall contribute four and
- one-half per centum of annual wages. ON APRIL ONE, TWO THOUSAND  TWENTY-
- FIVE,  MEMBERS WITH WAGES GREATER THAN SIXTY THOUSAND PER ANNUM, BUT NOT
- MORE THAN EIGHTY THOUSAND PER ANNUM SHALL CONTRIBUTE FOUR  AND  ONE-HALF
  PER  CENTUM  OF  ANNUAL  WAGES, AND BEGINNING ON APRIL ONE, TWO THOUSAND
  TWENTY-SIX, THE WAGES IN THIS PARAGRAPH SHALL BE INCREASED BY THE ANNUAL
  INFLATION, AS DETERMINED FROM THE INCREASE IN THE CONSUMER  PRICE  INDEX
  IN  THE  ONE  YEAR  PERIOD  ENDING  ON DECEMBER THIRTY-FIRST OF THE YEAR
  PRIOR. SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER  ONE-
  TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
+  3.  members with wages greater than fifty-five thousand per annum, but
+ not more than seventy-five thousand per annum shall contribute four  and
+ one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
+ FIVE, MEMBERS WITH WAGES GREATER THAN SIXTY THOUSAND PER ANNUM, BUT  NOT
+ MORE  THAN  EIGHTY THOUSAND PER ANNUM SHALL CONTRIBUTE FOUR AND ONE-HALF
+ PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON  APRIL  ONE,  TWO  THOUSAND
+ TWENTY-SIX, THE WAGES IN THIS PARAGRAPH SHALL BE INCREASED BY THE ANNUAL
+ INFLATION,  AS  DETERMINED FROM THE INCREASE IN THE CONSUMER PRICE INDEX
+ IN THE ONE YEAR PERIOD ENDING  ON  DECEMBER  THIRTY-FIRST  OF  THE  YEAR
+ PRIOR.  SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-
+ TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
   4. members with wages greater than seventy-five thousand per annum but
- not  more  than one hundred thousand per annum shall contribute five and
- three-quarters per centum of annual wages. ON APRIL  ONE,  TWO  THOUSAND
+ not more than one hundred thousand per annum shall contribute  five  and
+ three-quarters  per  centum  of annual wages. ON APRIL ONE, TWO THOUSAND
  TWENTY-FIVE, MEMBERS WITH WAGES GREATER THAN EIGHTY THOUSAND DOLLARS PER
- ANNUM  BUT  NOT  MORE  THAN  ONE HUNDRED FIVE THOUSAND DOLLARS PER ANNUM
+ ANNUM BUT NOT MORE THAN ONE HUNDRED  FIVE  THOUSAND  DOLLARS  PER  ANNUM
  SHALL CONTRIBUTE FIVE AND THREE-QUARTERS PER CENTUM OF ANNUAL WAGES, AND
  BEGINNING ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES IN THIS PARA-
  GRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED FROM THE
- INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE YEAR  PERIOD  ENDING  ON
- DECEMBER  THIRTY-FIRST  OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN BE
- ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE  PERCENT  AND  SHALL  NOT
+ INCREASE  IN  THE  CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD ENDING ON
+ DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL  THEN  BE
+ ROUNDED  UP  TO  THE  NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL NOT
  EXCEED THREE PERCENT; and
-  5.  members  with  wages  greater  than one hundred thousand per annum
+  5. members with wages greater than  one  hundred  thousand  per  annum
  shall contribute six per centum of annual wages. ON APRIL ONE, TWO THOU-
  SAND TWENTY-FIVE, MEMBERS WITH WAGES GREATER THAN ONE HUNDRED FIVE THOU-
- SAND DOLLARS PER ANNUM SHALL CONTRIBUTE SIX PER CENTUM OF ANNUAL  WAGES,
- AND  BEGINNING  ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES IN THIS
+ SAND  DOLLARS PER ANNUM SHALL CONTRIBUTE SIX PER CENTUM OF ANNUAL WAGES,
+ AND BEGINNING ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES  IN  THIS
  PARAGRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED FROM
- THE INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE YEAR  PERIOD  ENDING
- ON  DECEMBER  THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN
- BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL  NOT
+ THE  INCREASE  IN THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD ENDING
+ ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE  SHALL  THEN
+ BE  ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL NOT
  EXCEED THREE PERCENT.
-  §  2.  Subparagraphs  (i), (ii), (iii), (iv) and (v) of paragraph 1 of
+  § 2. Subparagraphs (i), (ii), (iii), (iv) and (v) of  paragraph  1  of
  subdivision a, subparagraphs (i), (ii), (iii), (iv) and (v) of paragraph
- 2 of subdivision a, paragraphs 1, 2, 3, 4 and 5  of  subdivision  f  and
- paragraphs  1,  2,  3,  4  and  5 of subdivision g of section 613 of the
+ 2  of  subdivision  a,  paragraphs 1, 2, 3, 4 and 5 of subdivision f and
+ paragraphs 1, 2, 3, 4 and 5 of subdivision  g  of  section  613  of  the
  retirement and social security law, subparagraphs (i), (ii), (iii), (iv)
- and (v) of paragraph 1 and subparagraphs (i), (ii), (iii), (iv) and  (v)
+ and  (v) of paragraph 1 and subparagraphs (i), (ii), (iii), (iv) and (v)
  of paragraph 2 of subdivision a as amended by chapter 510 of the laws of
- 2015  and paragraphs 1, 2, 3, 4 and 5 of subdivision f and paragraphs 1,
- 2, 3, 4 and 5 of subdivision g as added by chapter 18  of  the  laws  of
+ 2015 and paragraphs 1, 2, 3, 4 and 5 of subdivision f and paragraphs  1,
+ 2,  3,  4  and  5 of subdivision g as added by chapter 18 of the laws of
  2012, are amended to read as follows:
-  (i)  members  with  wages  of forty-five thousand dollars per annum or
- less shall contribute three per centum of annual wages.  ON  APRIL  ONE,
- TWO  THOUSAND  TWENTY-FIVE, MEMBERS WITH WAGES OF FIFTY THOUSAND DOLLARS
+  (i) members with wages of forty-five thousand  dollars  per  annum  or
+ less  shall  contribute  three per centum of annual wages. ON APRIL ONE,
+ TWO THOUSAND TWENTY-FIVE, MEMBERS WITH WAGES OF FIFTY  THOUSAND  DOLLARS
  PER ANNUM OR LESS SHALL CONTRIBUTE THREE PER CENTUM OF ANNUAL WAGES, AND
- BEGINNING ON APRIL ONE, TWO  THOUSAND  TWENTY-SIX,  THE  WAGES  IN  THIS
- SUBPARAGRAPH  SHALL  BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED
- S. 3614--D  3
+ S. 3614--E  3
  
- FROM THE INCREASE IN THE CONSUMER PRICE INDEX IN  THE  ONE  YEAR  PERIOD
+ BEGINNING  ON  APRIL  ONE,  TWO  THOUSAND  TWENTY-SIX, THE WAGES IN THIS
+ SUBPARAGRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION,  AS  DETERMINED
+ FROM  THE  INCREASE  IN  THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD
  ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL
  THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL
  NOT EXCEED THREE PERCENT;
@@ -177,10 +179,10 @@ S T A T E  O F  N E W  Y O R K
  PER ANNUM OR LESS SHALL CONTRIBUTE THREE PER CENTUM OF ANNUAL WAGES, AND
  BEGINNING ON APRIL ONE, TWO  THOUSAND  TWENTY-SIX,  THE  WAGES  IN  THIS
  SUBPARAGRAPH  SHALL  BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED
+ S. 3614--E  4
+
  FROM THE INCREASE IN THE CONSUMER PRICE INDEX IN  THE  ONE  YEAR  PERIOD
  ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL
- S. 3614--D  4
- 
  THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL
  NOT EXCEED THREE PERCENT;
   (ii)  members  with  wages greater than forty-five thousand per annum,
@@ -235,10 +237,10 @@ S T A T E  O F  N E W  Y O R K
  GRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED FROM THE
  INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE YEAR  PERIOD  ENDING  ON
  DECEMBER  THIRTY-FIRST  OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN BE
+ S. 3614--E  5
+ 
  ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE  PERCENT  AND  SHALL  NOT
  EXCEED THREE PERCENT;
- S. 3614--D  5
- 
   2.  members with wages greater than forty-five thousand per annum, but
  not more than fifty-five thousand per annum shall contribute  three  and
  one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
@@ -293,67 +295,67 @@ S T A T E  O F  N E W  Y O R K
  DECEMBER  THIRTY-FIRST  OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN BE
  ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE  PERCENT  AND  SHALL  NOT
  EXCEED THREE PERCENT;
+ S. 3614--E  6
+ 
   2.  members with wages greater than forty-five thousand per annum, but
  not more than fifty-five thousand per annum shall contribute  three  and
- S. 3614--D  6
- 
  one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
  FIVE, MEMBERS WITH WAGES GREATER THAN FIFTY THOUSAND PER ANNUM, BUT  NOT
  MORE  THAN  SIXTY THOUSAND PER ANNUM SHALL CONTRIBUTE THREE AND ONE-HALF
- PER  CENTUM  OF  ANNUAL  WAGES, AND BEGINNING ON APRIL ONE, TWO THOUSAND
- TWENTY-SIX, THE WAGES IN THIS PARAGRAPH SHALL BE INCREASED BY THE ANNUAL
- INFLATION, AS DETERMINED FROM THE INCREASE IN THE CONSUMER  PRICE  INDEX
- IN  THE  ONE  YEAR  PERIOD  ENDING  ON DECEMBER THIRTY-FIRST OF THE YEAR
- PRIOR. SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER  ONE-
- TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
-  3.  members with wages greater than fifty-five thousand per annum, but
- not more than seventy-five thousand per annum shall contribute four  and
- one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
- FIVE, MEMBERS WITH WAGES GREATER THAN SIXTY THOUSAND PER ANNUM, BUT  NOT
- MORE  THAN  EIGHTY THOUSAND PER ANNUM SHALL CONTRIBUTE FOUR AND ONE-HALF
  PER CENTUM OF ANNUAL WAGES, AND BEGINNING ON  APRIL  ONE,  TWO  THOUSAND
  TWENTY-SIX, THE WAGES IN THIS PARAGRAPH SHALL BE INCREASED BY THE ANNUAL
  INFLATION,  AS  DETERMINED FROM THE INCREASE IN THE CONSUMER PRICE INDEX
  IN THE ONE YEAR PERIOD ENDING  ON  DECEMBER  THIRTY-FIRST  OF  THE  YEAR
  PRIOR.  SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-
  TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
+  3. members with wages greater than fifty-five thousand per annum,  but
+ not  more than seventy-five thousand per annum shall contribute four and
+ one-half per centum of annual wages. ON APRIL ONE, TWO THOUSAND  TWENTY-
+ FIVE,  MEMBERS WITH WAGES GREATER THAN SIXTY THOUSAND PER ANNUM, BUT NOT
+ MORE THAN EIGHTY THOUSAND PER ANNUM SHALL CONTRIBUTE FOUR  AND  ONE-HALF
+ PER  CENTUM  OF  ANNUAL  WAGES, AND BEGINNING ON APRIL ONE, TWO THOUSAND
+ TWENTY-SIX, THE WAGES IN THIS PARAGRAPH SHALL BE INCREASED BY THE ANNUAL
+ INFLATION, AS DETERMINED FROM THE INCREASE IN THE CONSUMER  PRICE  INDEX
+ IN  THE  ONE  YEAR  PERIOD  ENDING  ON DECEMBER THIRTY-FIRST OF THE YEAR
+ PRIOR. SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER  ONE-
+ TENTH OF ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT;
   4. members with wages greater than seventy-five thousand per annum but
- not more than one hundred thousand per annum shall contribute  five  and
- three-quarters  per  centum  of annual wages. ON APRIL ONE, TWO THOUSAND
+ not  more  than one hundred thousand per annum shall contribute five and
+ three-quarters per centum of annual wages. ON APRIL  ONE,  TWO  THOUSAND
  TWENTY-FIVE, MEMBERS WITH WAGES GREATER THAN EIGHTY THOUSAND DOLLARS PER
- ANNUM BUT NOT MORE THAN ONE HUNDRED  FIVE  THOUSAND  DOLLARS  PER  ANNUM
+ ANNUM  BUT  NOT  MORE  THAN  ONE HUNDRED FIVE THOUSAND DOLLARS PER ANNUM
  SHALL CONTRIBUTE FIVE AND THREE-QUARTERS PER CENTUM OF ANNUAL WAGES, AND
  BEGINNING ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES IN THIS PARA-
  GRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED FROM THE
- INCREASE  IN  THE  CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD ENDING ON
- DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL  THEN  BE
- ROUNDED  UP  TO  THE  NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL NOT
+ INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE YEAR  PERIOD  ENDING  ON
+ DECEMBER  THIRTY-FIRST  OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN BE
+ ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE  PERCENT  AND  SHALL  NOT
  EXCEED THREE PERCENT; and
-  5. members with wages greater than  one  hundred  thousand  per  annum
+  5.  members  with  wages  greater  than one hundred thousand per annum
  shall contribute six per centum of annual wages. ON APRIL ONE, TWO THOU-
  SAND TWENTY-FIVE, MEMBERS WITH WAGES GREATER THAN ONE HUNDRED FIVE THOU-
- SAND  DOLLARS PER ANNUM SHALL CONTRIBUTE SIX PER CENTUM OF ANNUAL WAGES,
- AND BEGINNING ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES  IN  THIS
+ SAND DOLLARS PER ANNUM SHALL CONTRIBUTE SIX PER CENTUM OF ANNUAL  WAGES,
+ AND  BEGINNING  ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES IN THIS
  PARAGRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED FROM
- THE  INCREASE  IN THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD ENDING
- ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE  SHALL  THEN
- BE  ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL NOT
+ THE INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE YEAR  PERIOD  ENDING
+ ON  DECEMBER  THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN
+ BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL  NOT
  EXCEED THREE PERCENT.
-  § 3. Subdivisions a, b, c, d and e of section 1204 of  the  retirement
+  §  3.  Subdivisions a, b, c, d and e of section 1204 of the retirement
  and social security law, as added by chapter 18 of the laws of 2012, are
  amended to read as follows:
   a. members with wages of forty-five thousand dollars per annum or less
- shall  contribute  three  per  centum of annual wages. ON APRIL ONE, TWO
- THOUSAND TWENTY-FIVE, MEMBERS WITH WAGES OF FIFTY THOUSAND  DOLLARS  PER
- ANNUM  OR  LESS  SHALL  CONTRIBUTE THREE PER CENTUM OF ANNUAL WAGES, AND
- BEGINNING ON APRIL ONE, TWO  THOUSAND  TWENTY-SIX,  THE  WAGES  IN  THIS
- SUBDIVISION  SHALL  BE  INCREASED BY THE ANNUAL INFLATION, AS DETERMINED
- FROM THE INCREASE IN THE CONSUMER PRICE INDEX IN  THE  ONE  YEAR  PERIOD
+ shall contribute three per centum of annual wages.  ON  APRIL  ONE,  TWO
+ THOUSAND  TWENTY-FIVE,  MEMBERS WITH WAGES OF FIFTY THOUSAND DOLLARS PER
+ ANNUM OR LESS SHALL CONTRIBUTE THREE PER CENTUM  OF  ANNUAL  WAGES,  AND
+ BEGINNING  ON  APRIL  ONE,  TWO  THOUSAND  TWENTY-SIX, THE WAGES IN THIS
+ SUBDIVISION SHALL BE INCREASED BY THE ANNUAL  INFLATION,  AS  DETERMINED
+ FROM  THE  INCREASE  IN  THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD
  ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL
+ S. 3614--E  7
+ 
  THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL
  NOT EXCEED THREE PERCENT;
- S. 3614--D  7
- 
   b.  members with wages greater than forty-five thousand per annum, but
  not more than fifty-five thousand per annum shall contribute  three  and
  one-half  per centum of annual wages. ON APRIL ONE, TWO THOUSAND TWENTY-
@@ -408,9 +410,9 @@ S T A T E  O F  N E W  Y O R K
  BEGINNING ON APRIL ONE, TWO THOUSAND TWENTY-SIX, THE WAGES IN THIS PARA-
  GRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION, AS DETERMINED FROM THE
  INCREASE IN THE CONSUMER PRICE INDEX IN THE ONE YEAR  PERIOD  ENDING  ON
- DECEMBER  THIRTY-FIRST  OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN BE
- S. 3614--D  8
+ S. 3614--E  8
  
+ DECEMBER  THIRTY-FIRST  OF THE YEAR PRIOR. SAID PERCENTAGE SHALL THEN BE
  ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE  PERCENT  AND  SHALL  NOT
  EXCEED THREE PERCENT;
   (b) members with wages greater than forty-five thousand per annum, but
@@ -466,9 +468,9 @@ S T A T E  O F  N E W  Y O R K
  ANNUM OR LESS SHALL CONTRIBUTE THREE PER CENTUM  OF  ANNUAL  WAGES,  AND
  BEGINNING  ON  JULY  ONE,  TWO  THOUSAND  TWENTY-SIX,  THE WAGES IN THIS
  SUBPARAGRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION,  AS  DETERMINED
- FROM  THE  INCREASE  IN  THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD
- S. 3614--D  9
+ S. 3614--E  9
  
+ FROM  THE  INCREASE  IN  THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD
  ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL
  THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL
  NOT EXCEED THREE PERCENT;
@@ -524,9 +526,9 @@ S T A T E  O F  N E W  Y O R K
  THOUSAND  TWENTY-FIVE,  MEMBERS WITH WAGES OF FIFTY THOUSAND DOLLARS PER
  ANNUM OR LESS SHALL CONTRIBUTE THREE PER CENTUM  OF  ANNUAL  WAGES,  AND
  BEGINNING  ON  JULY  ONE,  TWO  THOUSAND  TWENTY-SIX,  THE WAGES IN THIS
- SUBPARAGRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION,  AS  DETERMINED
- S. 3614--D  10
+ S. 3614--E  10
  
+ SUBPARAGRAPH SHALL BE INCREASED BY THE ANNUAL INFLATION,  AS  DETERMINED
  FROM  THE  INCREASE  IN  THE CONSUMER PRICE INDEX IN THE ONE YEAR PERIOD
  ENDING ON DECEMBER THIRTY-FIRST OF THE YEAR PRIOR. SAID PERCENTAGE SHALL
  THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF ONE PERCENT AND SHALL
@@ -582,104 +584,234 @@ S T A T E  O F  N E W  Y O R K
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This  bill  would  amend various sections of the Retirement and Social
  Security Law and the Education Law to increase the salary ranges used in
- determining the employee contribution percentages  for  Tier  6  members
- S. 3614--D  11
+ S. 3614--E  11
  
+ determining the employee contribution percentages  for  Tier  6  members
  thereby  decreasing  future required employee contributions. The current
  salary ranges would each increase by $5,000 on April 1, 2025.  Beginning
  on  April 1, 2026, salary ranges would then be increased annually by the
- increase  in  the  consumer price index in the one-year period ending on
+ increase in the consumer price index in the one-year  period  ending  on
  December thirty-first of the year prior, not to exceed 3%.
-  The annual cost to the employers of members  of  the  New  York  State
- Teachers'  Retirement  System  for this benefit is estimated to be $28.7
+  The  annual  cost  to  the  employers of members of the New York State
+ Teachers' Retirement System for this benefit is estimated  to  be  $28.7
  million or 0.15% of payroll if this bill is enacted.
-  The System's "new entrant rate", a hypothetical employer  contribution
- rate  that would occur if we started a new Retirement System without any
+  The  System's "new entrant rate", a hypothetical employer contribution
+ rate that would occur if we started a new Retirement System without  any
  assets, is equal to 5.31% of pay under the current Tier 6 benefit struc-
- ture. This can be thought of as the long-term expected employer cost  of
- Tier  6, based on current actuarial assumptions. For the proposed change
- to the Tier 6 benefit structure under this bill, this new  entrant  rate
+ ture.  This can be thought of as the long-term expected employer cost of
+ Tier 6, based on current actuarial assumptions. For the proposed  change
+ to  the  Tier 6 benefit structure under this bill, this new entrant rate
  is estimated to increase to 5.67% of pay, an increase of 0.36% of pay.
   Member data is from the System's most recent actuarial valuation files
  as of June 30, 2023, consisting of data provided by the employers to the
  Retirement System. The most recent data distributions and statistics can
- be  found  in  the System's Annual Report for fiscal year ended June 30,
+ be found in the System's Annual Report for fiscal year  ended  June  30,
  2023. System assets are as reported in the System's financial statements
- and can also be found in the System's Annual Report.  Actuarial  assump-
- tions  and  methods  are  provided  in  the System's Actuarial Valuation
+ and  can  also be found in the System's Annual Report. Actuarial assump-
+ tions and methods are  provided  in  the  System's  Actuarial  Valuation
  Report as of June 30, 2023.
-  The source of this estimate is Fiscal Note 2024-7  dated  February  2,
- 2024  prepared by the Office of the Actuary of the New York State Teach-
- ers' Retirement System and is intended for  use  only  during  the  2024
- Legislative  Session.  I, Richard A. Young, am the Chief Actuary for the
- New York State Teachers' Retirement System. I am a member of the  Ameri-
- can  Academy  of Actuaries and I meet the Qualification Standards of the
- American Academy of Actuaries to render the actuarial opinion  contained
+  The  source  of  this estimate is Fiscal Note 2024-7 dated February 2,
+ 2024 prepared by the Office of the Actuary of the New York State  Teach-
+ ers'  Retirement  System  and  is  intended for use only during the 2024
+ Legislative Session. I, Richard A. Young, am the Chief Actuary  for  the
+ New  York State Teachers' Retirement System. I am a member of the Ameri-
+ can Academy of Actuaries and I meet the Qualification Standards  of  the
+ American  Academy of Actuaries to render the actuarial opinion contained
  herein.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This  bill  would  increase  the  wage  ranges  to which Tier 6 member
- contribution rates are  applied  effective  April  1,  2025  by  $5,000.
- Beginning  on April 1, 2026, the wage ranges would increase each year by
+  This bill would increase the  wage  ranges  to  which  Tier  6  member
+ contribution  rates  are  applied  effective  April  1,  2025 by $5,000.
+ Beginning on April 1, 2026, the wage ranges would increase each year  by
  the annual inflation rate rounded up to the next tenth of a percent, not
  to exceed three percent.
   The current contribution rates and wage ranges for Tier 6 members are:
   * three (3) percent for wages of $45,000 or less,
-  * three and one-half (3.5) percent for wages greater than $45,000  but
+  * three and one-half (3.5)  percent for wages greater than $45,000 but
  not more than $55,000,
-  *  four  and one-half (4.5) percent for wages greater than $55,000 but
+  * four and one-half (4.5) percent for wages greater than  $55,000  but
  not more than $75,000,
-  * five and  three-quarters  (5.75)  percent  for  wages  greater  than
+  * five  and  three-quarters  (5.75)  percent  for  wages  greater than
  $75,000 but not more than $100,000, or
   * six (6) percent for wages greater than $100,000.
-  Insofar  as  this bill affects the New York State and Local Employees'
- Retirement System (NYSLERS), if this legislation is enacted  during  the
- 2024  Legislative  Session,  there  would  be an increase in the present
- value of future costs of  approximately  $660  million  which  would  be
+  Insofar as this bill affects the New York State and  Local  Employees'
+ Retirement  System  (NYSLERS), if this legislation is enacted during the
+ 2024 Legislative Session, there would be  an  increase  in  the  present
+ value  of  future  costs  of  approximately  $660 million which would be
  shared by the State of New York and all local participating employers in
- the  NYSLERS.  These  costs  will be funded by increasing Tier 6 billing
+ the NYSLERS. These costs will be funded by  increasing  Tier  6  billing
  rates by an average 0.5% of salary.
-  The increased billing rates will result  in  a  recurring,  increasing
- annual  contribution  beginning in the fiscal year ending March 31, 2026
- of approximately $38 million to the State of New York and  approximately
- S. 3614--D  12
+  The  increased  billing  rates  will result in a recurring, increasing
+ annual contribution beginning in the fiscal year ending March  31,  2026
+ S. 3614--E  12
  
+ of  approximately $38 million to the State of New York and approximately
  $54 million to local participating employers in the NYSLERS. THESE ANNU-
  AL COSTS ARE EXPECTED TO INCREASE SIGNIFICANTLY IN FUTURE YEARS and will
  vary  by  employer  based  upon the plan coverage and salary reported in
  Tier 6.
-  Insofar  as  this bill affects the New York State and Local Police and
+  Insofar as this bill affects the New York State and Local  Police  and
  Fire Retirement System (NYSLPFRS), if this legislation is enacted during
- the 2024 Legislative Session, there would be an increase in the  present
+ the  2024 Legislative Session, there would be an increase in the present
  value of future costs of approximately $11 million which would be shared
- by  the  State  of New York and all local participating employers in the
- NYSLPFRS. These costs will be funded by increasing Tier 6 billing  rates
+ by the State of New York and all local participating  employers  in  the
+ NYSLPFRS.  These costs will be funded by increasing Tier 6 billing rates
  by an average 0.1% of salary.
-  The  increased  billing  rates  will result in a recurring, increasing
- annual contribution beginning in the fiscal year ending March  31,  2026
- of  approximately  $400,000  to  the State of New York and approximately
- $1.4 million to local participating employers  in  the  NYSLPFRS.  THESE
- ANNUAL  COSTS ARE EXPECTED TO INCREASE SIGNIFICANTLY IN FUTURE YEARS and
- will vary by employer based upon the plan coverage and  salary  reported
+  The increased billing rates will result  in  a  recurring,  increasing
+ annual  contribution  beginning in the fiscal year ending March 31, 2026
+ of approximately $400,000 to the State of  New  York  and  approximately
+ $1.4  million  to  local  participating employers in the NYSLPFRS. THESE
+ ANNUAL COSTS ARE EXPECTED TO INCREASE SIGNIFICANTLY IN FUTURE YEARS  and
+ will  vary  by employer based upon the plan coverage and salary reported
  in Tier 6.
   Summary of relevant resources:
-  Membership  data as of March 31, 2023 was used in measuring the impact
+  Membership data as of March 31, 2023 was used in measuring the  impact
  of the proposed change, the same data used in the April 1, 2023 actuari-
- al valuation. Distributions and other statistics can  be  found  in  the
- 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
+ al  valuation.  Distributions  and  other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The actuarial assumptions and methods used are described in  the  2023
- Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
- Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
  Control.
   The Market Assets and GASB Disclosures are found in the March 31, 2023
- New  York  State  and  Local  Retirement System Financial Statements and
+ New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This fiscal note does not constitute a legal opinion on the  viability
- of  the  proposed change nor is it intended to serve as a substitute for
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated February 14, 2024,  and  intended  for  use  only
- during  the  2024  Legislative  Session,  is  Fiscal  Note No. 2024-123,
- prepared by the Actuary for the New  York  State  and  Local  Retirement
+  This  estimate,  dated  February  14,  2024, and intended for use only
+ during the 2024  Legislative  Session,  is  Fiscal  Note  No.  2024-123,
+ prepared  by  the  Actuary  for  the New York State and Local Retirement
  System.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  SUMMARY:  This proposed legislation, as it relates  to  the  New  York
+ City  Retirement  Systems  and Pension Funds (NYCRS), would introduce an
+ annual increase based on inflation for the salary bands used  to  deter-
+ mine contribution rates for Tier 6 members of NYCERS, TRS, and BERS.
+ 
+  EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+  by Fiscal Year for the first 25 years ($ in Millions)
+ 
+  Year  NYCERS  TRS  BERS  TOTAL
+
+  2025  15.6  6.1  1.3  23.0
+  2026  17.6  6.5  1.5  25.6
+  2027  19.7  7.1  1.6  28.4
+  2028  21.8  7.6  1.8  31.2
+ S. 3614--E  13
+ 
+  2029  24.0  8.2  1.9  34.1
+  2030  26.1  8.9  2.1  37.1
+  2031  28.2  9.5  2.2  39.9
+  2032  30.4  10.2  2.4  43.0
+  2033  32.6  11.0  2.6  46.2
+  2034  34.8  11.8  2.8  49.4
+  2035  37.0  12.6  2.9  52.5
+  2036  39.3  13.5  3.1  55.9
+  2037  41.5  14.4  3.3  59.2
+  2038  43.8  15.3  3.0  62.1
+  2039  46.1  16.3  3.2  65.6
+  2040  43.8  17.4  3.4  64.6
+  2041  46.1  18.5  3.6  68.2
+  2042  48.5  19.6  3.8  71.9
+  2043  50.9  20.7  4.0  75.6
+  2044  53.3  20.1  4.2  77.6
+  2045  55.7  21.2  4.4  81.3
+  2046  58.1  22.3  4.6  85.0
+  2047  60.5  23.3  4.8  88.6
+  2048  62.9  24.3  5.0  92.2
+  2049  65.3  25.4  5.2  95.9
+  Employer Contribution impact beyond Fiscal Year 2049 is not shown.
+  Projected contributions include future new hires that may be impacted.
+ 
+  The  initial  increase  in  employer contributions of $23.0 million is
+ estimated to be $16.2 million for New York City and $6.8 million for the
+ other obligors of NYCRS.
+ 
+  INITIAL INCREASE (DECREASE) IN ACTUARIAL LIABILITIES
+  as of June 30, 2023 ($ in Millions)
+ 
+ Present Value (PV)  NYCERS  TRS  BERS
+ PV of Benefits:  (13.1)  (6.9)  (1.1)
+ PV of Employee Contributions:  (189.9)  (92.3)  (15.0)
+ PV of Employer Contributions:  176.8  85.4  13.9
+ Unfunded Accrued Liabilities:  41.1  16.8  3.5
+ 
+  AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+ 
+  NYCERS  TRS  BERS
+ Number of Payments:  15  19  13
+ Fiscal Year of Last Payment:  2039  2043  2037
+ Amortization Payment:  4.7M  1.7M  0.4M
+ 
+  Unfunded Accrued Liability increases were amortized over the  expected
+ remaining  working  lifetime  of  those  impacted by the benefit changes
+ using level dollar payments.
+  CENSUS DATA: The estimates presented herein are based  on  preliminary
+ census  data  collected  as  of  June  30, 2023. The census data for the
+ impacted population is summarized below.
+ 
+  NYCERS  TRS  BERS
+ Active Members
+ - Number Count:  85,203  60,663  12,932
+ - Average Age:  42.4  38.1  46.9
+ - Average Service:  4.4  5.0  4.0
+ S. 3614--E  14
+
+ - Average Salary:  78900  80,000  56,200
+ 
+  IMPACT  ON MEMBER CONTRIBUTIONS:  Currently, Tier 6 members of NYCERS,
+ TRS, and BERS are generally required to make Basic Member  Contributions
+ (BMC)  ranging  from 3% to 6% of annual wages, determined by wages for a
+ prior defined period.
+  Under the proposed legislation, the salary bands used to determine BMC
+ would be increased by specified amounts as shown in the table  below  on
+ April 1, 2025.
+ 
+ Contribution  Current Salary Band  New Salary Band
+ Rate
+ 3.00%  $45,000 or less  $50,000 or less
+ 3.50%  $45,001 up to $55,000  $50,001 up to $60,000
+ 4.50%  $55,001 up to $75,000  $60,001 up to $80,000
+ 5.75%  $75,001 up to $100,000  $80,001 up to $105,000
+ 6.00%  Greater than $100,000  Greater than $105,000
+
+  Beginning  April  1, 2026, and every year thereafter, the salary bands
+ will increase by the prior calendar year's increase  in  consumer  price
+ index  (CPI),  rounded to the next higher one-tenth of a percent, not to
+ exceed 3% in any year. The result of an increase in Tier 6 salary  bands
+ would be an overall decrease in employee contribution rates.
+  ASSUMPTIONS  AND  METHODS:  The  estimates  presented herein have been
+ calculated based on the Revised 2021 Actuarial Assumptions  and  Methods
+ of the impacted retirement systems. In addition:
+  *  New  entrants were assumed to replace exiting members so that total
+ payroll increases by 3% each year for impacted groups. New entrant demo-
+ graphics were developed based on data for recent new hires and actuarial
+ judgement.
+  * Future salary bands were assumed to increase 2.5% annually, consist-
+ ent with the long-term CPI inflation rate assumption of 2.5%.
+  RISK AND UNCERTAINTY: The costs presented in this Fiscal  Note  depend
+ highly  on  the  actuarial  assumptions, methods, and models used, demo-
+ graphics of the impacted population, and other factors such  as  invest-
+ ment,  contribution, and other risks. If actual experience deviates from
+ actuarial  assumptions,  the  actual  costs  could  differ  from  those
+ presented  herein.  Quantifying  these risks is beyond the scope of this
+ Fiscal Note.
+  This Fiscal Note is intended to measure  pension-related  impacts  and
+ does  not  include other potential costs (e.g., administrative and Other
+ Postemployment Benefits).
+  STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+ sky are members of the Society of Actuaries and the American Academy  of
+ Actuaries.  We  are  members of NYCERS but do not believe it impairs our
+ objectivity and we meet the  Qualification  Standards  of  the  American
+ Academy  of  Actuaries to render the actuarial opinion contained herein.
+ To the best of our knowledge, the results  contained  herein  have  been
+ prepared  in accordance with generally accepted actuarial principles and
+ procedures and with the Actuarial Standards of Practice  issued  by  the
+ Actuarial Standards Board.
+  FISCAL  NOTE  IDENTIFICATION:  This Fiscal Note 2024-18 dated March 8,
+ 2024 was prepared by the Chief Actuary for the New York City  Retirement
+ Systems and Pension Funds. This estimate is intended for use only during
+ the 2024 Legislative Session.
