@@ -1,6 +1,6 @@
 # Requires the New York state thruway authority to submit biannual reports to the legislature of all fiscal transactions, receipts and expenditures
 
-**Bill ID:** S485BA
+**Bill ID:** S485BB
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Vetoed
@@ -16,8 +16,8 @@ Requires the New York state thruway authority to submit biannual reports to the 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  485--A
-  Cal. No. 436
+  485--B
+  Cal. No. 590
  
   2023-2024 Regular Sessions
  
@@ -26,13 +26,18 @@ S T A T E  O F  N E W  Y O R K
   January 4, 2023
   ___________
  
- Introduced by Sens. COMRIE, MYRIE -- read twice and ordered printed, and
-  when  printed  to  be  committed to the Committee on Transportation --
-  reported favorably from said committee, ordered to  first  and  second
-  report,  ordered to a third reading, passed by Senate and delivered to
-  the Assembly, recalled, vote reconsidered, restored to third  reading,
-  amended  and  ordered  reprinted,  retaining its place in the order of
-  third reading
+ Introduced by Sens. COMRIE, MYRIE, WEBB -- read twice and ordered print-
+  ed,  and  when printed to be committed to the Committee on Transporta-
+  tion -- reported favorably from said committee, ordered to  first  and
+  second report, ordered to a third reading, passed by Senate and deliv-
+  ered  to  the Assembly, recalled, vote reconsidered, restored to third
+  reading, amended and ordered reprinted, retaining  its  place  in  the
+  order  of third reading -- recommitted to the Committee on Transporta-
+  tion in accordance with Senate Rule 6, sec. 8  --  reported  favorably
+  from  said committee, ordered to first and second report, ordered to a
+  third reading,  passed  by  Senate  and  delivered  to  the  Assembly,
+  recalled,  vote  reconsidered,  restored to third reading, amended and
+  ordered reprinted, retaining its place in the order of third reading
  
  AN ACT to amend the public authorities law, in relation to requiring the
   New York state thruway authority to submit  biannual  reports  of  all
@@ -55,12 +60,15 @@ S T A T E  O F  N E W  Y O R K
  result  of  the  amendments  made  to  subdivision four of section three
  hundred fifty-nine of this [chapter] TITLE pursuant to  the  chapter  of
  the  laws  of  nineteen  hundred ninety-two which enacted this sentence.
- ADDITIONALLY, SUCH REPORT SHALL INCLUDE A LIST OF ANY  CONTRACT  ENTERED
- INTO BY SUCH AUTHORITY IN THE COVERED PERIOD.
-  (B)  FOR THE PURPOSES OF THIS SECTION, "COVERED PERIOD" SHALL MEAN THE
- PRECEDING SIX MONTH PERIOD.
-  § 2.  This act shall take effect January 1, 2024.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00625-03-3
+  LBD00625-07-4
+ S. 485--B  2
+ 
+ ADDITIONALLY, SUCH REPORT SHALL INCLUDE A LIST OF ANY  CONTRACT  ENTERED
+ INTO BY SUCH AUTHORITY IN THE COVERED PERIOD.
+  (B)  FOR THE PURPOSES OF THIS SECTION, "COVERED PERIOD" SHALL MEAN THE
+ PRECEDING SIX-MONTH PERIOD.
+  § 2.  This act shall take effect on the first of January next succeed-
+ ing the date on which it shall have become a law.
