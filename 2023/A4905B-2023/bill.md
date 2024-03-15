@@ -1,6 +1,6 @@
 # Relates to permitting farmers markets in state and local parks
 
-**Bill ID:** A4905B
+**Bill ID:** A4905BA
 **Session:** 2023
 **Sponsor:** Daniel O'Donnell
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Encourages farmers' markets in state parks by posting related information, ident
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4905
+  4905--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  O'DONNELL  --  read once and referred to the
-  Committee on Tourism, Parks, Arts and Sports Development
+  Committee on Tourism, Parks, Arts and Sports Development --  recommit-
+  ted to the Committee on Tourism, Parks, Arts and Sports Development in
+  accordance  with Assembly Rule 3, sec. 2 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
- AN ACT to amend the parks, recreation and historic preservation law  and
-  the  general  municipal  law, in relation to farmers' markets in state
-  and local parks
-
+ AN  ACT to amend the parks, recreation and historic preservation law, in
+  relation to farmers' markets in state and local parks
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -42,19 +45,12 @@ S T A T E  O F  N E W  Y O R K
  PRODUCTS, AS SUCH TERMS ARE DEFINED IN SECTION TWO HUNDRED SIXTY OF  THE
  AGRICULTURE  AND  MARKETS  LAW, AT STATE PARKS WHEN SUCH FARMERS' MARKET
  DOES NOT HARM THE NATURAL ENVIRONMENT OR INTEGRITY OF THE PARK.
-  § 2. Section 72-p of the general municipal law, as  added  by  chapter
- 506  of  the  laws  of  1989,  is renumbered section 72-q and amended by
- adding a new subdivision 4 to read as follows:
-  4. SUCH MUNICIPAL CORPORATION MAY PERMIT FARMERS' MARKETS WHICH  OFFER
- FOR  SALE  FARM  AND FOOD PRODUCTS, AS SUCH TERMS ARE DEFINED IN SECTION
- TWO HUNDRED SIXTY OF THE AGRICULTURE AND MARKETS LAW, IN ANY  PARK  OVER
- WHICH  SUCH  CORPORATION HAS JURISDICTION;  PROVIDED, HOWEVER, THAT SUCH
- FARMERS' MARKET DOES NOT UNDULY BURDEN NEARBY  RESIDENTS  AND  DOES  NOT
- HARM THE NATURAL ENVIRONMENT OR INTEGRITY OF THE PARK.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
  
  
  
+ 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04805-01-3
+  LBD04805-02-4
