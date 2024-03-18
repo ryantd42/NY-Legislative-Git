@@ -1,6 +1,6 @@
 # Requires allergen labeling for prepackaged foods
 
-**Bill ID:** A7494BA
+**Bill ID:** A7494BB
 **Session:** 2023
 **Sponsor:** Jen Lunsford
 **Status:** In Senate Committee
@@ -16,7 +16,8 @@ Requires every food establishment to label all prepackaged food with a written n
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7494--A
+  7494--B
+  Cal. No. 349
  
   2023-2024 Regular Sessions
  
@@ -26,47 +27,49 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. LUNSFORD, STIRPE, SHIMSKY, ARDILA, McMAHON, BRON-
-  SON,  LAVINE, GONZALEZ-ROJAS, DICKENS, SIMON, BURDICK -- read once and
-  referred to the Committee on Health -- recommitted to the Committee on
-  Health in accordance  with  Assembly  Rule  3,  sec.  2  --  committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  SON,  LAVINE,  GONZALEZ-ROJAS, DICKENS, SIMON, BURDICK, SAYEGH, LEVEN-
+  BERG -- read once and referred to the Committee on Health -- recommit-
+  ted to the Committee on Health in accordance  with  Assembly  Rule  3,
+  sec.  2  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee -- reported from  committee,
+  advanced  to a third reading, amended and ordered reprinted, retaining
+  its place on the order of third reading
  
- AN  ACT  to  amend the public health law and the agriculture and markets
+ AN ACT to amend the public health law and the  agriculture  and  markets
   law, in relation to requiring allergen labeling for prepackaged foods
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The  public health law is amended by adding a new section
+  Section 1. The public health law is amended by adding  a  new  section
  1357 to read as follows:
-  § 1357. ALLERGEN LABELING FOR PREPACKAGED FOODS.  1. AS USED  IN  THIS
+  §  1357.  ALLERGEN LABELING FOR PREPACKAGED FOODS.  1. AS USED IN THIS
  SECTION, THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING MEANINGS:
-  (A)  "PREPACKAGED  FOOD"  MEANS  FOOD  THAT IS PREPARED, PREPACKED AND
- OFFERED OR SOLD TO CUSTOMERS ON THE SAME  PREMISES.  PREPACKAGED  FOOD
- DOES  NOT  INCLUDE  FOOD THAT IS NOT IN PACKAGING OR IS PACKAGED AFTER A
+  (A) "PREPACKAGED FOOD" MEANS FOOD  THAT  IS  PREPARED,  PREPACKED  AND
+ OFFERED  OR  SOLD  TO  CUSTOMERS ON THE SAME PREMISES.  PREPACKAGED FOOD
+ DOES NOT INCLUDE FOOD THAT IS NOT IN PACKAGING OR IS  PACKAGED  AFTER  A
  CUSTOMER HAS ORDERED.
   (B) "FOOD ESTABLISHMENT" MEANS ANY PLACE FOOD IS PREPARED AND INTENDED
- FOR OFF-PREMISES CONSUMPTION, INCLUDING ALL  DELIS,  BAKERIES,  SANDWICH
- SHOPS,  ICE  CREAM  PARLORS, CAFETERIAS AND FOOD TRUCKS OPERATING WITHIN
+ FOR  OFF-PREMISES  CONSUMPTION,  INCLUDING ALL DELIS, BAKERIES, SANDWICH
+ SHOPS, ICE CREAM PARLORS, CAFETERIAS AND FOOD  TRUCKS  OPERATING  WITHIN
  THE STATE.
   (C) (I) "MAJOR FOOD ALLERGEN" MEANS:
   (A) MILK, EGGS, FISH, CRUSTACEAN SHELLFISH, TREE NUTS, WHEAT, PEANUTS,
  SESAME, AND SOYBEANS; AND
-  (B) A FOOD INGREDIENT THAT CONTAINS PROTEIN DERIVED FROM A FOOD  NAMED
+  (B)  A FOOD INGREDIENT THAT CONTAINS PROTEIN DERIVED FROM A FOOD NAMED
  IN CLAUSE (A) OF THIS SUBPARAGRAPH.
   (II) "MAJOR FOOD ALLERGEN" DOES NOT INCLUDE:
-  (A) ANY HIGHLY REFINED OIL DERIVED FROM A FOOD SPECIFIED IN CLAUSE (A)
- OF  SUBPARAGRAPH  (I)  OF  THIS PARAGRAPH OR ANY INGREDIENT DERIVED FROM
- SUCH HIGHLY REFINED OIL; OR
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11261-04-4
- A. 7494--A  2
+  LBD11261-08-4
+ A. 7494--B  2
  
-  (B) ANY INGREDIENT THAT IS EXEMPT UNDER THE PETITION  OR  NOTIFICATION
- PROCESS  SPECIFIED IN THE FOOD ALLERGEN LABELING AND CONSUMER PROTECTION
+  (A) ANY HIGHLY REFINED OIL DERIVED FROM A FOOD SPECIFIED IN CLAUSE (A)
+ OF SUBPARAGRAPH (I) OF THIS PARAGRAPH OR  ANY  INGREDIENT  DERIVED  FROM
+ SUCH HIGHLY REFINED OIL; OR
+  (B)  ANY  INGREDIENT THAT IS EXEMPT UNDER THE PETITION OR NOTIFICATION
+ PROCESS SPECIFIED IN THE FOOD ALLERGEN LABELING AND CONSUMER  PROTECTION
  ACT OF 2004, AS AMENDED.
   2.  EVERY  FOOD  ESTABLISHMENT SHALL LABEL ALL PREPACKAGED FOOD WITH A
  WRITTEN NOTIFICATION ON THE PACKAGE OR ON A LABEL ATTACHED TO THE  PACK-
@@ -101,5 +104,5 @@ S T A T E  O F  N E W  Y O R K
  AGE IDENTIFYING ALL INGREDIENTS AND LABELING FOR MAJOR FOOD ALLERGENS IN
  SUCH  FORM  AND MANNER AS REQUIRED PURSUANT TO THE FEDERAL FOOD ALLERGEN
  LABELING AND CONSUMER PROTECTION ACT OF 2004, AS AMENDED.
-  § 3. This act shall take effect on the ninetieth day  after  it  shall
- have become a law.
+  § 3. This act shall take effect one year after it shall have become  a
+ law.
