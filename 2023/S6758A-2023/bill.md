@@ -1,6 +1,6 @@
 # Relates to participation by individuals with disabilities with respect to state employment and state contracts
 
-**Bill ID:** S6758A
+**Bill ID:** S6758AA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Relates to participation by individuals with disabilities with respect to state 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6758
+  6758--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MANNION -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Procurement and Contracts
+  printed to be committed to the Committee on Procurement and  Contracts
+  --  recommitted  to  the  Committee  on  Procurement  and Contracts in
+  accordance with Senate Rule 6, sec. 8 --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the state finance law, in relation to  participation  by
   individuals  with  disabilities  with  respect to state employment and
   state contracts
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,7 +47,7 @@ S T A T E  O F  N E W  Y O R K
  THE ASSEMBLY, THE MINORITY LEADER OF THE SENATE,  THE  CHIEF  DISABILITY
  OFFICER,  THE  CHAIR  OF  THE ASSEMBLY STANDING COMMITTEE ON PEOPLE WITH
  DISABILITIES, AND THE CHAIR OF THE SENATE STANDING COMMITTEE ON DISABIL-
- ITIES NO LATER THAN DECEMBER FIRST, TWO THOUSAND TWENTY-FOUR,  SUMMARIZ-
+ ITIES NO LATER THAN DECEMBER FIRST, TWO THOUSAND TWENTY-FIVE,  SUMMARIZ-
  ING  DATA  RELATED TO THE PARTICIPATION OF INDIVIDUALS WITH DISABILITIES
  ON STATE CONTRACTS SUBJECT TO THE PROVISIONS OF THIS SECTION.
   B.  SUCH REPORT SHALL INCLUDE AGGREGATE  DATA  ON  THE  EMPLOYMENT  OF
@@ -55,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  OPPORTUNITY  REQUIREMENTS  AND  ANTI-DISCRIMINATION LAWS, IN ADDITION TO
  ANY OTHER REQUIRED EMPLOYMENT PRACTICES COMPLIANCE WITH WHICH IS  DEEMED
  PERTINENT TO BE EXAMINED BY THE COMMISSIONER.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10037-04-4
+ S. 6758--A  2
+ 
   C. IN ORDER TO EFFECTUATE THE PROVISIONS OF THIS SUBDIVISION:
   (I)  CONTRACTORS  AND SUBCONTRACTORS THAT HAVE ENTERED INTO A CONTRACT
  WITH A STATE AGENCY SHALL INVITE THEIR EMPLOYEES TO SELF-IDENTIFY AS  AN
  INDIVIDUAL  WITH  A  DISABILITY.  NOTHING  IN  THIS SUBDIVISION SHALL BE
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD10037-03-3
- S. 6758  2
- 
  DEEMED TO REQUIRE THE DISCLOSURE OF THE STATUS OF AN INDIVIDUAL  WITH  A
  DISABILITY.
   (II)  CONTRACTORS  AND  SUBCONTRACTORS  SHALL  SUBMIT A REPORT TO EACH
