@@ -1,6 +1,6 @@
 # Increases the income eligibility threshold for the tuition assistance program
 
-**Bill ID:** S3474A
+**Bill ID:** S3474AA
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Increases the income eligibility threshold for the tuition assistance program.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3474
+  3474--A
  
   2023-2024 Regular Sessions
  
@@ -25,19 +25,23 @@ S T A T E  O F  N E W  Y O R K
   January 31, 2023
   ___________
  
- Introduced  by Sen. STAVISKY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Higher Education
+ Introduced  by  Sens. STAVISKY, CHU, FERNANDEZ, MURRAY -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Higher  Education  -- recommitted to the Committee on Higher Education
+  in accordance with Senate Rule 6, sec. 8 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
- AN ACT to amend the education law, in relation to increasing the  income
+ AN  ACT to amend the education law, in relation to increasing the income
   eligibility threshold for the tuition assistance program
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subparagraph (ii)  of  paragraph  a  of  subdivision  3  of
- section  667  of the education law, as amended by section 1 of part B of
+  Section  1.  Subparagraph  (ii)  of  paragraph  a  of subdivision 3 of
+ section 667 of the education law, as amended by section 1 of part  B  of
  chapter 60 of the laws of 2000, is amended to read as follows:
-  (ii) Except for students as noted in subparagraph (iii) of this  para-
+  (ii)  Except for students as noted in subparagraph (iii) of this para-
  graph, the base amount as determined from subparagraph (i) of this para-
  graph, shall be reduced in relation to income as follows:
  
@@ -54,10 +58,10 @@ S T A T E  O F  N E W  Y O R K
   thousand dollars  over eleven thousand dollars
  (D) Eighteen thousand dollars or  Nine hundred eighty dollars
   more, but not more than [eighty]plus twelve per centum of
-  ONE HUNDRED TEN  excess over eighteen
+  ONE HUNDRED TWENTY-FIVE  excess over eighteen
   thousand dollars  thousand dollars
   § 2. This act shall take effect June 1, 2024.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04708-01-3
+  LBD04708-02-4
