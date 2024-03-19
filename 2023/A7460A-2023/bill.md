@@ -1,6 +1,6 @@
 # Increases rates of payment for certified home health agencies
 
-**Bill ID:** A7460A
+**Bill ID:** A7460AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides increases in the rates of payment for certified home health agencies; d
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7460
+  7460--A
  
   2023-2024 Regular Sessions
  
@@ -29,44 +29,46 @@ S T A T E  O F  N E W  Y O R K
   LUPARDO, STIRPE, L. ROSENTHAL, COLTON, ZEBROWSKI, SEAWRIGHT,  BUTTENS-
   CHON,  HEVESI,  JACOBSON,  THIELE,  DINOWITZ,  BRONSON, TAGUE, SAYEGH,
   WEPRIN, TAYLOR, LEMONDES -- read once and referred to the Committee on
-  Health
-
- AN ACT to amend the public health law, in relation to rates  of  payment
+  Health -- recommitted to the Committee on Health  in  accordance  with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
+ 
+ AN  ACT  to amend the public health law, in relation to rates of payment
   for certified home health agencies
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Paragraph (b) of subdivision 13  of  section  3614  of  the
- public  health law, as added by section 4 of part H of chapter 59 of the
+  Section  1.  Paragraph  (b)  of  subdivision 13 of section 3614 of the
+ public health law, as added by section 4 of part H of chapter 59 of  the
  laws of 2011, is amended to read as follows:
-  (b) Initial base year episodic payments shall  be  based  on  Medicaid
- paid  claims,  as determined and adjusted by the commissioner to achieve
+  (b)  Initial  base  year  episodic payments shall be based on Medicaid
+ paid claims, as determined and adjusted by the commissioner  to  achieve
  savings comparable to the prior state fiscal year, for services provided
- by all certified home health agencies in  the  base  year  two  thousand
- nine.  Subsequent  base  year episodic payments may be based on Medicaid
- paid claims for services provided by all certified home health  agencies
- in  a  base  year  subsequent to two thousand nine, as determined by the
+ by  all  certified  home  health  agencies in the base year two thousand
+ nine. Subsequent base year episodic payments may be  based  on  Medicaid
+ paid  claims for services provided by all certified home health agencies
+ in a base year subsequent to two thousand nine,  as  determined  by  the
  commissioner, provided, however, that such base year adjustment shall be
- made not less frequently than every three  years.  In  determining  case
- mix,  each  patient shall be classified using a system based on measures
+ made  not  less  frequently  than every three years. In determining case
+ mix, each patient shall be classified using a system based  on  measures
  which may include, but not limited to, clinical and functional measures,
- as reported on  the  federal  Outcome  and  Assessment  Information  Set
- (OASIS),  as  may be amended. NOTWITHSTANDING ANY INCONSISTENT PROVISION
- OF LAW OR REGULATION, IN ADDITION TO THE BASE YEAR  ADJUSTMENT  PROVIDED
- FOR  IN  THIS  PARAGRAPH,  FOR THE RATE YEAR COMMENCING APRIL FIRST, TWO
- THOUSAND TWENTY-THREE, THE COMMISSIONER SHALL PROVIDE FOR A TEN  PERCENT
- INCREASE  IN  THE BASE EPISODIC PAYMENT, AND IN THE INDIVIDUAL RATES FOR
- SERVICES EXEMPT FROM EPISODIC  PAYMENTS  UNDER  PARAGRAPH  (A)  OF  THIS
- SUBDIVISION,  FROM  FUNDS  AVAILABLE FOR THE MEDICAL ASSISTANCE PROGRAM.
+ as  reported  on  the  federal  Outcome  and  Assessment Information Set
+ (OASIS), as may be amended. NOTWITHSTANDING ANY  INCONSISTENT  PROVISION
+ OF  LAW  OR REGULATION, IN ADDITION TO THE BASE YEAR ADJUSTMENT PROVIDED
+ FOR IN THIS PARAGRAPH, FOR THE RATE YEAR  COMMENCING  APRIL  FIRST,  TWO
+ THOUSAND  TWENTY-FOUR,  THE COMMISSIONER SHALL PROVIDE FOR A TEN PERCENT
+ INCREASE IN THE BASE EPISODIC PAYMENT, AND IN THE INDIVIDUAL  RATES  FOR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08058-01-3
- A. 7460  2
+  LBD08058-04-4
+ A. 7460--A  2
  
- PROVIDED, FURTHER, THAT FOR RATE YEARS BEGINNING APRIL FIRST, TWO  THOU-
- SAND  TWENTY-THREE AND AFTER, THE COMMISSIONER IS AUTHORIZED TO INCREASE
+ SERVICES  EXEMPT  FROM  EPISODIC  PAYMENTS  UNDER  PARAGRAPH (A) OF THIS
+ SUBDIVISION, FROM FUNDS AVAILABLE FOR THE  MEDICAL  ASSISTANCE  PROGRAM.
+ PROVIDED,  FURTHER, THAT FOR RATE YEARS BEGINNING APRIL FIRST, TWO THOU-
+ SAND  TWENTY-FOUR  AND AFTER, THE COMMISSIONER IS AUTHORIZED TO INCREASE
  THE EPISODIC PAYMENT LEVEL FOR COSTS  NOT  REFLECTED  IN  THE  STATEWIDE
  BASE,  SUBJECT  TO  THE APPROVAL OF THE STATE BUDGET DIRECTOR, INCLUDING
  THE COST OF: INFLATIONARY INCREASES IN THE  HEALTH  CARE  MARKET  BASKET
@@ -95,14 +97,14 @@ S T A T E  O F  N E W  Y O R K
  AS THE BENCHMARK TO BE CONSIDERED IN RATES PAID BY  NON-MEDICAID  THIRD-
  PARTY PAYORS.
   2. ESTABLISHMENT OF STANDARDS. EFFECTIVE FOR RATES ISSUED APRIL FIRST,
- TWO THOUSAND TWENTY-THREE AND FOR EACH RATE YEAR THEREAFTER, THE COMMIS-
- SIONER  SHALL  ESTABLISH  MINIMUM  STANDARDS AND A MINIMUM BENCHMARK FOR
- HOME CARE SERVICE PAYMENT BY ANY MEDICAID PAYOR. THE COMMISSIONER  SHALL
+ TWO  THOUSAND TWENTY-FOUR AND FOR EACH RATE YEAR THEREAFTER, THE COMMIS-
+ SIONER SHALL ESTABLISH MINIMUM STANDARDS AND  A  MINIMUM  BENCHMARK  FOR
+ HOME  CARE SERVICE PAYMENT BY ANY MEDICAID PAYOR. THE COMMISSIONER SHALL
  ALSO POST SUCH STANDARDS AND BENCHMARK IN AN ADMINISTRATIVE DIRECTIVE TO
- THE  ATTENTION  OF ALL OTHER THIRD-PARTY PAYORS OF HOME CARE SERVICES IN
+ THE ATTENTION OF ALL OTHER THIRD-PARTY PAYORS OF HOME CARE  SERVICES  IN
  THE STATE FOR CONSIDERED USE IN PAYMENT OF HOME CARE SERVICES. IN ESTAB-
- LISHING THE BENCHMARK, THE COMMISSIONER SHALL UTILIZE THE  RATES  ESTAB-
- LISHED  UNDER  THE EPISODIC PAYMENT SYSTEM UNDER SUBDIVISION THIRTEEN OF
- SECTION THIRTY-SIX HUNDRED FOURTEEN OF THIS ARTICLE, AND THE  INDIVIDUAL
+ LISHING  THE  BENCHMARK, THE COMMISSIONER SHALL UTILIZE THE RATES ESTAB-
+ LISHED UNDER THE EPISODIC PAYMENT SYSTEM UNDER SUBDIVISION  THIRTEEN  OF
+ SECTION  THIRTY-SIX HUNDRED FOURTEEN OF THIS ARTICLE, AND THE INDIVIDUAL
  SERVICES RATES ESTABLISHED UNDER SUCH SECTION.
   § 3. This act shall take effect immediately.
