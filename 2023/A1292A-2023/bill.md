@@ -1,6 +1,6 @@
 # Relates to the taxation of property owned by a cooperative corporation
 
-**Bill ID:** A1292A
+**Bill ID:** A1292AA
 **Session:** 2023
 **Sponsor:** Jaime R. Williams
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the taxation of property owned by a cooperative corporation.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1292
+  1292--A
  
   2023-2024 Regular Sessions
  
@@ -26,13 +26,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. WILLIAMS, MAGNARELLI, SEAWRIGHT, RIVERA, HYNDMAN,
-  COOK,  STIRPE,  WALLACE  -- read once and referred to the Committee on
-  Real Property Taxation
+  COOK, STIRPE, WALLACE, THIELE -- read once and referred to the Commit-
+  tee  on Real Property Taxation -- recommitted to the Committee on Real
+  Property Taxation in accordance  with  Assembly  Rule  3,  sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the real property tax law and the real property law,  in
   relation  to  the  taxation  of property owned by a cooperative corpo-
   ration
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -49,24 +52,24 @@ S T A T E  O F  N E W  Y O R K
  THIS  PARAGRAPH  SHALL  NOT  APPLY TO REAL PROPERTY OWNED OR LEASED BY A
  COOPERATIVE CORPORATION OR ON A CONDOMINIUM BASIS THAT HAD  BEEN  PREVI-
  OUSLY  SUBJECT  TO  THE  PROVISIONS OF PARAGRAPH (A) OF THIS SUBDIVISION
- PRIOR TO JANUARY FIRST,  TWO  THOUSAND  TWENTY-FOUR;  PROVIDED  FURTHER,
+ PRIOR TO JANUARY FIRST,  TWO  THOUSAND  TWENTY-FIVE;  PROVIDED  FURTHER,
  HOWEVER,  THE PROVISIONS OF THIS PARAGRAPH SHALL NOT APPLY TO REAL PROP-
  ERTY OWNED OR LEASED BY A COOPERATIVE CORPORATION OR  ON  A  CONDOMINIUM
  BASIS  THAT IS PARTICIPATING IN AN AFFORDABLE HOUSING TAX CREDIT PROGRAM
  OR HAS A REGULATORY AGREEMENT WITH A FEDERAL,  STATE,  OR  LOCAL  AGENCY
  RELATED TO AFFORDABLE HOUSING REQUIREMENTS.
-  §  2.  Subdivision  1  of  section  339-y  of the real property law is
- amended by adding a new paragraph (h) to read as follows:
-  (H) THE PROVISIONS OF PARAGRAPH (B)  OF  THIS  SUBDIVISION  SHALL  NOT
- APPLY  TO  REAL PROPERTY OWNED OR LEASED BY A COOPERATIVE CORPORATION OR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05606-01-3
- A. 1292  2
+  LBD05606-03-4
+ A. 1292--A  2
  
- ON A CONDOMINIUM BASIS IN A MUNICIPAL CORPORATION OTHER THAN  A  SPECIAL
- ASSESSING  UNIT,  WHICH HAS ADOPTED, PRIOR TO THE TAXABLE STATUS DATE OF
+  §  2.  Subdivision  1  of  section  339-y  of the real property law is
+ amended by adding a new paragraph (h) to read as follows:
+  (H)  THE  PROVISIONS  OF  PARAGRAPH  (B) OF THIS SUBDIVISION SHALL NOT
+ APPLY TO REAL PROPERTY OWNED OR LEASED BY A COOPERATIVE  CORPORATION  OR
+ ON  A  CONDOMINIUM BASIS IN A MUNICIPAL CORPORATION OTHER THAN A SPECIAL
+ ASSESSING UNIT, WHICH HAS ADOPTED, PRIOR TO THE TAXABLE STATUS  DATE  OF
  THE ASSESSMENT ROLL UPON WHICH ITS TAXES WILL BE LEVIED, A LOCAL LAW OR,
  FOR  A  SCHOOL  DISTRICT,  A RESOLUTION PROVIDING THAT THE PROVISIONS OF
  PARAGRAPH (B) OF THIS SUBDIVISION SHALL NOT APPLY TO SUCH REAL  PROPERTY
@@ -74,7 +77,7 @@ S T A T E  O F  N E W  Y O R K
  THIS PARAGRAPH SHALL NOT APPLY TO REAL PROPERTY OWNED  OR  LEASED  BY  A
  COOPERATIVE  CORPORATION  OR ON A CONDOMINIUM BASIS THAT HAD BEEN PREVI-
  OUSLY SUBJECT TO THE PROVISIONS OF PARAGRAPH  (B)  OF  THIS  SUBDIVISION
- PRIOR  TO  JANUARY  FIRST,  TWO  THOUSAND TWENTY-FOUR; PROVIDED FURTHER,
+ PRIOR  TO  JANUARY  FIRST,  TWO  THOUSAND TWENTY-FIVE; PROVIDED FURTHER,
  HOWEVER, THE PROVISIONS OF THIS PARAGRAPH SHALL NOT APPLY TO REAL  PROP-
  ERTY  OWNED  OR  LEASED BY A COOPERATIVE CORPORATION OR ON A CONDOMINIUM
  BASIS THAT IS PARTICIPATING IN AN AFFORDABLE HOUSING TAX CREDIT  PROGRAM
@@ -82,4 +85,4 @@ S T A T E  O F  N E W  Y O R K
  RELATED TO AFFORDABLE HOUSING REQUIREMENTS.
   § 3. This act shall take effect immediately and shall apply to assess-
  ment rolls prepared on the basis of taxable status dates occurring on or
- after January 1, 2024.
+ after January 1, 2025.
