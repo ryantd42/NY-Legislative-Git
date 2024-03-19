@@ -1,6 +1,6 @@
 # Relates to the determination of salary base for members of the New York city police pension fund
 
-**Bill ID:** A6403A
+**Bill ID:** A6403AA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the determination of salary base for members of the New York city pol
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6403
+  6403--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT to amend the retirement and social security law, in  relation  to
   determination  of  salary base for members of the New York city police
   pension fund
@@ -50,21 +53,83 @@ S T A T E  O F  N E W  Y O R K
  of  the  New  York  city police pension fund who retire on or after such
  effective date.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  SUMMARY OF BILL: This proposed legislation would amend Section 443  of
- the  Retirement and Social Security Law (RSSL) to change the salary base
- for Tier 2 members of the New York City Police Pension Fund (POLICE) who
- are hired on or after July 1, 2000.
-  Effective Date: Upon enactment.
-  IMPACT ON BENEFITS: Pension benefits are primarily derived from  as  a
- percentage of salary base. For Tier 2 POLICE members hired prior to July
- 1,  2000  (original  Tier  2  members),  the salary base is equal to the
- greater of
-
+  SUMMARY: This proposed legislation would change the  salary  base  for
+ Tier 2 members of the New York City Police Pension Fund (POLICE) who are
+ hired  on  or  after July 1, 2000 to be the greater of final salary or a
+ three-year average.
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10166-02-3
- A. 6403  2
+  LBD10166-03-4
+ A. 6403--A  2
  
+  EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+  by Fiscal Year for the first 25 years ($ in Millions)
+ 
+  Year  POLICE
+  2025  3.9
+  2026  3.8
+  2027  3.8
+  2028  3.7
+  2029  3.6
+  2030  0.4
+  2031  0.3
+  2032  0.3
+  2033  0.2
+  2034  0.2
+  2035  0.2
+  2036  0.1
+  2037  0.1
+  2038  0.1
+  2039  0.1
+  2040  0.1
+  2041  0.0
+  2042  0.0
+  2043  0.0
+  2044  0.0
+  2045  0.0
+  2046  0.0
+  2047  0.0
+  2048  0.0
+  2049  0.0
+  Employer Contribution impact beyond Fiscal Year 2049 is not shown.
+ 
+ The  entire  increase in employer contributions will be allocated to New
+ York City.
+ 
+  INITIAL INCREASE (DECREASE) IN ACTUARIAL LIABILITIES
+  as of June 30, 2023 ($ in Millions)
+  Present Value (PV)  POLICE
+  PV of Benefits:  16.0
+  PV of Employee Contributions:  0.0
+  PV of Employer Contributions:  16.0
+  Unfunded Accrued Liabilities:  12.6
+ 
+  AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+ 
+  POLICE
+  Number of Payments:  5
+  Fiscal Year of Last Payment:  2029
+  Amortization Payment:  3.2 M
+ 
+  Unfunded Accrued Liability increases were amortized over the  expected
+ remaining  working  lifetime  of  those  impacted by the benefit changes
+ using level dollar payments.
+  CENSUS DATA: The estimates presented herein are based  on  preliminary
+ census  data  collected  as  of  June  30, 2023. The census data for the
+ impacted population is summarized below.
+ A. 6403--A  3
+ 
+  POLICE
+  Active Members
+  - Number Count:  11,723
+  - Average Age:  43.4
+  - Average Service:  17.6
+  - Average Salary:  156,600
+ 
+  IMPACT ON MEMBER BENEFITS: Pension benefits are primarily derived as a
+ percentage of salary base. For Tier 2 POLICE members hired prior to July
+ 1, 2000, the salary base is equal to the greater of
   (1) the pensionable earnings in the final 12 months of service, or
   (2)  the  average pensionable earnings earned in any consecutive three
  years of service.
@@ -76,65 +141,29 @@ S T A T E  O F  N E W  Y O R K
  is for Tier 2 members hired prior to July 1, 2000.
   Note, pensionable earnings in the final 12 months or the highest three
  consecutive years, are subject to certain limits.
-  FINANCIAL IMPACT - PRESENT VALUES: Based on the census  data  and  the
- actuarial  assumptions  and  methods  described herein, the enactment of
- this proposed legislation would result in an  increase  in  the  Present
- Value of Future Benefits (PVFB) and the present value of future employer
- contributions of approximately $5.6 million.
-  Under  the Entry Age Normal cost method used to determine the employer
- contributions to POLICE, there would be  an  increase  in  the  Unfunded
- Accrued Liability (UAL) of approximately $3.6 million and an increase in
- the  present  value of future employer Normal Cost of approximately $2.0
- million.
-  FINANCIAL IMPACT - ANNUAL EMPLOYER  CONTRIBUTIONS:  The  enactment  of
- this  proposed legislation would result in an initial increase in annual
- employer contributions of approximately $1.2 million which is the result
- of an increase in the Normal Cost in addition to the UAL payment.
-  New UAL attributable to benefit changes are generally  amortized  over
- the remaining working lifetime of those impacted by the benefit changes.
- The  remaining  working  lifetime  for this group is approximately seven
- years and the increase in UAL was therefore amortized over a  seven-year
- period  (six  payments  under  the One-Year Lag Methodology) using level
- dollar payments.
-  CENSUS DATA: The estimates presented herein are based  on  the  census
- data  used  in the June 30, 2022 actuarial valuation of POLICE to deter-
- mine the Preliminary Fiscal Year 2024 employer contributions.
-  There are 12,849 active Tier 2 Police members hired on or  after  July
- 1, 2000 as of June 30, 2022 and they have an average age of approximate-
- ly 42.6 years, average service of approximately 16.8 years, and an aver-
- age salary of approximately $150,500.
-  ACTUARIAL ASSUMPTIONS AND METHODS: The estimates presented herein have
- been  calculated based on the actuarial assumptions and methods used for
- the Preliminary Fiscal Year 2024 employer contributions of POLICE.
-  For the purposes of this Fiscal Note, it is assumed that  the  changes
- would  be  reflected  for  the first time in the June 30, 2022 actuarial
- valuation of POLICE used to determine employer contributions for  Fiscal
- Year 2024.
-  RISK  AND  UNCERTAINTY: The costs presented in this Fiscal Note depend
- highly on the realization of the actuarial assumptions used,  demograph-
- ics  of  the  impacted  population and other factors such as investment,
- contribution, and other risks. If actual experience deviates from  actu-
- arial  assumptions,  the  actual costs could differ from those presented
- herein.
-  Costs are also dependent on the actuarial methods used, and  therefore
- different actuarial methods could produce different results. Quantifying
- these risks is beyond the scope of this Fiscal Note.
-  Not measured in this Fiscal Note are the following:
- A. 6403  3
- 
-  *  The  initial  additional  administrative  costs  to  implement  the
- proposed legislation.
-  STATEMENT  OF  ACTUARIAL  OPINION:  I, Marek Tyszkiewicz, am the Chief
- Actuary for, and independent of, the New York  City  Retirement  Systems
- and  Pension  Funds. I am an Associate of the Society of Actuaries and a
- Member of the American Academy of Actuaries. I am a member of NYCERS but
- do not believe it impairs my objectivity and I  meet  the  Qualification
- Standards  of  the American Academy of Actuaries to render the actuarial
- opinion contained herein.  To the best of  my  knowledge,  the  results
- contained  herein  have  been  prepared  in  accordance  with  generally
- accepted actuarial principles and  procedures  and  with  the  Actuarial
- Standards of Practice issued by the Actuarial Standards Board.
-  FISCAL  NOTE  IDENTIFICATION: This Fiscal Note 2023-18 dated March 30,
- 2023 was prepared by the Chief Actuary for  the  New  York  City  Police
- Pension  Fund.  This  estimate  is intended for use only during the 2023
- Legislative Session.
+  ASSUMPTIONS AND METHODS: The  estimates  presented  herein  have  been
+ calculated  based  on the Revised 2021 Actuarial Assumptions and Methods
+ of the impacted retirement systems.
+  RISK AND UNCERTAINTY: The costs presented in this Fiscal  Note  depend
+ highly  on  the  actuarial  assumptions, methods, and models used, demo-
+ graphics of the impacted population and other factors  such  as  invest-
+ ment,  contribution, and other risks. If actual experience deviates from
+ actuarial  assumptions,  the  actual  costs  could  differ  from  those
+ presented  herein.  Quantifying  these risks is beyond the scope of this
+ Fiscal Note.
+  This Fiscal Note is intended to measure  pension-related  impacts  and
+ does  not  include other potential costs (e.g., administrative and Other
+ Postemployment Benefits).
+  STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+ sky are members of the Society of Actuaries and the American Academy  of
+ Actuaries.  We  are  members of NYCERS but do not believe it impairs our
+ objectivity and we meet the  Qualification  Standards  of  the  American
+ Academy  of  Actuaries to render the actuarial opinion contained herein.
+ To the best of our knowledge, the results  contained  herein  have  been
+ prepared  in accordance with generally accepted actuarial principles and
+ procedures and with the Actuarial Standards of Practice  issued  by  the
+ Actuarial Standards Board.
+  FISCAL  NOTE  IDENTIFICATION: This Fiscal Note 2024-28 dated March 15,
+ 2024 was prepared by the Chief Actuary for the New York City  Retirement
+ Systems and Pension Funds. This estimate is intended for use only during
+ the 2024 Legislative Session.
