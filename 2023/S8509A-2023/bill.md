@@ -1,6 +1,6 @@
 # Relates to requests for employee personnel records
 
-**Bill ID:** S8509A
+**Bill ID:** S8509AA
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires agencies and public employers to provide notice and a review period to 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8509
+  8509--A
  
   I N  S E N A T E
  
@@ -25,29 +25,30 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment  Operations  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the public officers law, in  relation  to  requests  for
+ AN  ACT  to  amend  the public officers law, in relation to requests for
   employee personnel records
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
-  Section 1. Section 87 of the public officers law is amended by  adding
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
+  Section  1. Section 87 of the public officers law is amended by adding
  a new subdivision 6 to read as follows:
   6. (A) EVERY AGENCY OR PUBLIC EMPLOYER SHALL PROVIDE WRITTEN NOTIFICA-
- TION  TO  AN  EMPLOYEE  THAT  A  REQUEST FOR INFORMATION PURSUANT TO THE
- PROVISIONS OF THIS ARTICLE HAS BEEN SUBMITTED  SEEKING  SUCH  EMPLOYEE'S
- PERSONNEL  RECORDS. THE NOTIFICATION SHALL LIST ANY DOCUMENTS REQUESTED,
+ TION TO AN EMPLOYEE THAT A  REQUEST  FOR  INFORMATION  PURSUANT  TO  THE
+ PROVISIONS OF THIS ARTICLE SEEKING SUCH EMPLOYEE'S PERSONNEL RECORDS HAS
+ BEEN  APPROVED.  THE  NOTIFICATION  SHALL  LIST ANY DOCUMENTS REQUESTED,
  PROVIDED, OR COPIED FOR DISSEMINATION OR PUBLIC INSPECTION.
   (B) UPON OFFICIAL NOTIFICATION FROM THE EMPLOYER THAT  A  REQUEST  FOR
- INFORMATION  PURSUANT TO THE PROVISIONS OF THIS ARTICLE HAS BEEN SUBMIT-
- TED SEEKING AN EMPLOYEE'S PERSONNEL RECORD, SUCH EMPLOYEE SHALL BE GIVEN
- THE ABILITY TO INSPECT THEIR PERSONNEL FILE OR ANY OTHER DOCUMENT REFER-
- ENCING THE EMPLOYEE AS PART OF THE  INFORMATION  REQUEST.  THIS  SECTION
- SHALL  NOT  BE  A  RESTRICTION  TO  AN EMPLOYEE'S RIGHT TO INSPECT THEIR
- PERSONNEL FILE PURSUANT TO A COLLECTIVE BARGAINING AGREEMENT,  OR  OTHER
- LAW.
+ INFORMATION  PURSUANT  TO  THE  PROVISIONS  OF THIS ARTICLE SEEKING SUCH
+ EMPLOYEE'S PERSONNEL RECORDS HAS BEEN APPROVED, SUCH EMPLOYEE  SHALL  BE
+ GIVEN  THE ABILITY TO INSPECT THEIR PERSONNEL FILE OR ANY OTHER DOCUMENT
+ REFERENCING THE EMPLOYEE  AS  PART  OF  THE  INFORMATION  REQUEST.  THIS
+ SECTION  SHALL  NOT  BE  A RESTRICTION TO AN EMPLOYEE'S RIGHT TO INSPECT
+ THEIR PERSONNEL FILE PURSUANT TO A COLLECTIVE BARGAINING  AGREEMENT,  OR
+ OTHER LAW.
   §  2.  This  act shall take effect on the thirtieth day after it shall
  have become a law.
  
@@ -56,4 +57,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD14454-01-4
+  LBD14454-03-4
