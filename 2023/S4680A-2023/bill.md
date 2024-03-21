@@ -1,6 +1,6 @@
 # Relates to establishing an automatic expunction system for certain records
 
-**Bill ID:** S4680A
+**Bill ID:** S4680AA
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to establishing an automatic expunction system for certain records inclu
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4680
+  4680--A
  
   2023-2024 Regular Sessions
  
@@ -26,44 +26,47 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sens. PARKER, SEPULVEDA -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Codes
- 
- AN  ACT to amend the criminal procedure law, in relation to establishing
+  and  when  printed to be committed to the Committee on Codes -- recom-
+  mitted to the Committee on Codes in accordance  with  Senate  Rule  6,
+  sec.  8  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
+ AN ACT to amend the criminal procedure law, in relation to  establishing
   an automatic expunction system for certain records
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Legislative  intent.  On  August  12, 2013, United States
- District Judge Shira A. Scheindlin issued an order in Floyd v.  City  of
- New  York  that  found  the city of New York had violated the Fourth and
- Fourteenth Amendments by acting with  "deliberate  indifference"  toward
- the  New  York City Police Department's (NYPD) practice of making suspi-
- cionless "stops" and "frisks" and by  adopting  "a  policy  of  indirect
- racial  profiling  by targeting racially defined groups" for "stops" and
+  Section 1. Legislative intent.  On  August  12,  2013,  United  States
+ District  Judge  Shira A. Scheindlin issued an order in Floyd v. City of
+ New York that found the city of New York had  violated  the  Fourth  and
+ Fourteenth  Amendments  by  acting with "deliberate indifference" toward
+ the New York City Police Department's (NYPD) practice of  making  suspi-
+ cionless  "stops"  and  "frisks"  and  by adopting "a policy of indirect
+ racial profiling by targeting racially defined groups" for  "stops"  and
  "frisks". Additionally, a remedial order was issued imposing remedies or
- "reforms" to the NYPD's "stop and frisk" practices. (959 F.Supp.2d  540,
- 562,  668  (S.D.N.Y. 2013)). In a settlement to a lawsuit brought by the
- New York Civil Liberties Union the city was required to delete  personal
- information  including  names  and  addresses  of  individuals that were
- stopped, questioned and/or frisked. Between January 2004 and  June  2012
- the  NYPD made 4.4 million stops in which 83% of them were made on Afri-
- can Americans and Hispanics. The  legislature  finds  that  any  records
+ "reforms"  to the NYPD's "stop and frisk" practices. (959 F.Supp.2d 540,
+ 562, 668 (S.D.N.Y. 2013)). In a settlement to a lawsuit brought  by  the
+ New  York Civil Liberties Union the city was required to delete personal
+ information including names  and  addresses  of  individuals  that  were
+ stopped,  questioned  and/or frisked. Between January 2004 and June 2012
+ the NYPD made 4.4 million stops in which 83% of them were made on  Afri-
+ can  Americans  and  Hispanics.  The  legislature finds that any records
  associated with such unconstitutional stops, frisks and arrests shall be
- automatically  expunged  and notification shall be made to such individ-
+ automatically expunged and notification shall be made to  such  individ-
  uals of such expunction.
-  § 2. The criminal procedure law is amended by  adding  a  new  section
+  §  2.  The  criminal  procedure law is amended by adding a new section
  160.65 to read as follows:
  § 160.65 NEW YORK CITY STOP AND FRISK AUTOMATIC EXPUNCTION.
-  1.  FOR  PURPOSES  OF THIS SECTION, THE FOLLOWING TERMS SHALL HAVE THE
+  1. FOR PURPOSES OF THIS SECTION, THE FOLLOWING TERMS  SHALL  HAVE  THE
  FOLLOWING MEANINGS:
-  (A) "STOP AND FRISK" SHALL HAVE THE SAME MEANING AS SECTION 140.50  OF
+  (A)  "STOP AND FRISK" SHALL HAVE THE SAME MEANING AS SECTION 140.50 OF
  THIS TITLE.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01001-01-3
- S. 4680  2
+  LBD01001-03-4
+ S. 4680--A  2
  
   (B) "VOIDABLE STOP" SHALL MEAN ANY STOP THAT:
   (I) QUALIFIES AS A STOP AND FRISK;
@@ -73,14 +76,14 @@ S T A T E  O F  N E W  Y O R K
   (A) A UF-250 FORM, A STOP, QUESTION AND FRISK REPORT WORKSHEET; OR
   (B) A FORM 61 COMPLAINT IN WHICH THE SQF  SECTION  WAS  COMPLETED  AND
  RESULTED IN A QUALIFIED ARREST.
-  (B)  "QUALIFIED  ARREST" SHALL MEAN AN ARREST FOR ANY OF THE FOLLOWING
+  (C)  "QUALIFIED  ARREST" SHALL MEAN AN ARREST FOR ANY OF THE FOLLOWING
  OFFENSES:
   (I) RESISTING ARREST PURSUANT TO SECTION 205.30 OF THE PENAL LAW;
   (II) DISORDERLY CONDUCT PURSUANT TO SECTION 240.20 OF THE PENAL LAW;
   (III) CRIMINAL POSSESSION OF A WEAPON  PURSUANT  TO  SECTIONS  265.01,
  265.02, 265.03 AND 265.04 OF THE PENAL LAW; AND
-  (IV)  OFFENSES  INVOLVING  MARIHUANA  PURSUANT  TO ARTICLE TWO HUNDRED
- TWENTY-ONE OF THE PENAL LAW.
+  (IV)  OFFENSES  INVOLVING MARIHUANA PURSUANT TO THE FORMER ARTICLE TWO
+ HUNDRED TWENTY-ONE OF THE PENAL LAW.
   2. THE DIVISION OF CRIMINAL JUSTICE SERVICES, IN CONJUNCTION WITH  THE
  NEW  YORK CITY POLICE DEPARTMENT SHALL ESTABLISH AN AUTOMATIC EXPUNCTION
  SYSTEM TO EXPUNGE OFFICIAL AND UNOFFICIAL RECORDS OF ALL VOIDABLE STOPS.
