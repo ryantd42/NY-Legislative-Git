@@ -1,6 +1,6 @@
 # Relates to establishing the office of the youth public advocate in the executive office of the mayor
 
-**Bill ID:** A2533A
+**Bill ID:** A2533AA
 **Session:** 2023
 **Sponsor:** Alicia Hyndman
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the office of the youth public advocate in the executive office of t
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2533
+  2533--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. HYNDMAN -- read once and referred to the Commit-
-  tee on Cities
+  tee on Cities -- recommitted to the Committee on Cities in  accordance
+  with  Assembly  Rule  3, sec. 2 -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the New York city charter, in relation  to  establishing
   the office of the youth public advocate in the executive office of the
@@ -36,8 +38,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The New York city  charter  is  amended  by  adding  a  new
- section 20-o to read as follows:
-  §  20-O.  OFFICE OF THE YOUTH PUBLIC ADVOCATE. A. DEFINITIONS. FOR THE
+ section 20-r to read as follows:
+  §  20-R.  OFFICE OF THE YOUTH PUBLIC ADVOCATE. A. DEFINITIONS. FOR THE
  PURPOSES OF THIS SECTION THE FOLLOWING TERMS HAVE  THE  FOLLOWING  MEAN-
  INGS:
   1.  "DIRECTOR"  MEANS  THE  DIRECTOR OF THE OFFICE OF THE YOUTH PUBLIC
@@ -57,11 +59,11 @@ S T A T E  O F  N E W  Y O R K
   4. RECEIVE INDIVIDUAL  COMPLAINTS  CONCERNING  CITY  SERVICES,  SCHOOL
  SERVICES  AND  OTHER  ADMINISTRATIVE ACTIONS OF CITY AGENCIES RELATED TO
  YOUTH SERVICES AND PROGRAMS;
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06961-01-3
- A. 2533  2
+  LBD06961-03-4
+ A. 2533--A  2
  
   5. ADVISE AND ASSIST THE MAYOR  AND  THE  COUNCIL  IN  DEVELOPING  AND
  IMPLEMENTING  POLICIES  DESIGNED  TO INCREASE SUMMER EMPLOYMENT, INTERN-
