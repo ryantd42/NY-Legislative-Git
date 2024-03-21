@@ -1,6 +1,6 @@
 # Authorizes dental hygienists to provide such services in collaboration with a licensed dentist
 
-**Bill ID:** S8759B
+**Bill ID:** S8759BA
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes a licensed dental hygienist, collaborative practice to provide servic
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8759
+  8759--A
  
   I N  S E N A T E
  
@@ -24,7 +24,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  MAY  --  read  twice and ordered printed, and when
-  printed to be committed to the Committee on Higher Education
+  printed to be committed  to  the  Committee  on  Higher  Education  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the education law,  in  relation  to  registered  dental
   hygienists  working  without  supervision  but  within a collaborative
@@ -58,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
  either under the supervision of a licensed dentist or[, in the case of a
  registered dental hygienist working for a hospital as defined in article
  twenty-eight  of  the  public  health  law,  pursuant to a collaborative
- arrangement with a licensed and registered  dentist  who  has  a  formal
- relationship  with  the  same  hospital  in  accordance with regulations
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02162-04-4
- S. 8759  2
+  LBD02162-06-4
+ S. 8759--A  2
 
+ arrangement with a licensed and registered  dentist  who  has  a  formal
+ relationship  with  the  same  hospital  in  accordance with regulations
  promulgated by the department in consultation  with  the  department  of
  health]  MAY BE PERFORMED BY A REGISTERED DENTAL HYGIENIST DESIGNATED AS
  A  REGISTERED  DENTAL  HYGIENIST,  COLLABORATIVE  PRACTICE  (RDH-CP)  IN
@@ -120,14 +122,15 @@ S T A T E  O F  N E W  Y O R K
  LIMITATIONS FOR PUBLIC HEALTH SETTINGS ON A CASE-BY-CASE BASIS.
   6. A DENTAL HYGIENIST MUST MAKE APPLICATION TO THE DEPARTMENT TO PRAC-
  TICE AS AN RDH-CP AND PAY A FEE SET BY THE DEPARTMENT. AS A CONDITION OF
+ S. 8759--A  3
+ 
  COLLABORATIVE  PRACTICE,  THE DENTAL HYGIENIST MUST HAVE BEEN ENGAGED IN
  PRACTICE FOR THREE YEARS WITH A MINIMUM OF FOUR  THOUSAND  FIVE  HUNDRED
- S. 8759  3
-
  PRACTICE  HOURS  AND  SHALL  COMPLETE AN EIGHT-HOUR CONTINUING EDUCATION
- PROGRAM THAT INCLUDES INSTRUCTION IN MEDICAL EMERGENCY PROCEDURES,  RISK
+ PROGRAM  THAT INCLUDES INSTRUCTION IN MEDICAL EMERGENCY PROCEDURES, RISK
  MANAGEMENT, DENTAL HYGIENE JURISPRUDENCE AND PROFESSIONAL ETHICS.
-  7.  The  commissioner  shall promulgate regulations defining the func-
+  7. The commissioner shall promulgate regulations  defining  the  func-
  tions a dental hygienist may perform that are consistent with the train-
  ing and qualifications for a license as a dental hygienist.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect nine months after it shall have become
+ a law.
