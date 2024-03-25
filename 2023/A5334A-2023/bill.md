@@ -1,6 +1,6 @@
 # Grants peace officer status to animal control officers of the county of Schuyler
 
-**Bill ID:** A5334A
+**Bill ID:** A5334AA
 **Session:** 2023
 **Sponsor:** Philip Palmesano
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Grants peace officer status to animal control officers of the county of Schuyler
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5334
+  5334--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  PALMESANO  --  read once and referred to the
-  Committee on Codes
- 
+  Committee on Codes -- recommitted to the Committee on Codes in accord-
+  ance with Assembly Rule  3,  sec.  2  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
+
  AN ACT to amend the criminal procedure  law,  in  relation  to  granting
   peace  officer  status  to  animal  control  officers of the county of
   Schuyler
@@ -36,8 +39,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1.  Section  2.10 of the criminal procedure law is amended by
- adding a new subdivision 86 to read as follows:
-  86. EMPLOYEES OF THE COUNTY OF  SCHUYLER  SERVING  AS  ANIMAL  CONTROL
+ adding a new subdivision 87 to read as follows:
+  87. EMPLOYEES OF THE COUNTY OF  SCHUYLER  SERVING  AS  ANIMAL  CONTROL
  OFFICERS FOR SUCH COUNTY; PROVIDED, HOWEVER, THAT NOTHING IN THIS SUBDI-
  VISION  SHALL  BE  DEEMED  TO  AUTHORIZE SUCH ANIMAL CONTROL OFFICERS TO
  CARRY, POSSESS, REPAIR OR DISPOSE OF A FIREARM  UNLESS  THE  APPROPRIATE
@@ -50,7 +53,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09826-01-3
+  LBD09826-02-4
