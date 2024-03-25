@@ -1,6 +1,6 @@
 # Designates as peace officers certain Ogdensburg Bridge and Port Authority security personnel
 
-**Bill ID:** A5014A
+**Bill ID:** A5014AA
 **Session:** 2023
 **Sponsor:** Scott Gray
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Designates as peace officers certain Ogdensburg Bridge and Port Authority securi
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5014
+  5014--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   February 27, 2023
   ___________
  
- Introduced  by  M. of A. GRAY -- read once and referred to the Committee
-  on Codes
- 
+ Introduced  by  M.  of  A.  GRAY,  BLANKENBUSH,  BENDETT,  DeSTEFANO,
+  J. M. GIGLIO -- read once and referred to the Committee  on  Codes  --
+  recommitted to the Committee on Codes in accordance with Assembly Rule
+  3,  sec. 2 -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to amend the criminal procedure law, in relation  to  designating
   as peace officers certain Ogdensburg Bridge and Port Authority securi-
   ty personnel
@@ -36,8 +39,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 2.10 of the criminal procedure law  is  amended  by
- adding a new subdivision 86 to read as follows:
-  86.  EMPLOYEES  OF THE OGDENSBURG BRIDGE AND PORT AUTHORITY DESIGNATED
+ adding a new subdivision 87 to read as follows:
+  87.  EMPLOYEES  OF THE OGDENSBURG BRIDGE AND PORT AUTHORITY DESIGNATED
  BY SAID AUTHORITY TO PROVIDE SECURITY FOR THE  OGDENSBURG  INTERNATIONAL
  AIRPORT, WHEN ACTING PURSUANT TO THEIR DUTIES AS SUCH, WITH SUCH AUTHOR-
  IZATION  BEING  SPECIFICALLY  LIMITED  TO  THE  GROUNDS OF SAID AIRPORT;
@@ -51,7 +54,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06855-01-3
+  LBD06855-02-4
