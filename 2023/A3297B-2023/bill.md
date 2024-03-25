@@ -1,6 +1,6 @@
 # Prohibits the siting and construction of battery energy storage systems and related facilities, systems, infrastructure, and substations of any scale and possessing any storage capacity in assembly district 63
 
-**Bill ID:** A3297BA
+**Bill ID:** A3297BB
 **Session:** 2023
 **Sponsor:** Samuel Pirozzolo
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Prohibits the siting and construction of battery energy storage systems and rela
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3297--A
+  3297--B
  
   2023-2024 Regular Sessions
  
@@ -28,11 +28,15 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  M. of A. PIROZZOLO, FALL, TANNOUSIS, E. BROWN, DeSTEFANO
   -- read once and referred to the Committee  on  Local  Governments  --
   committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
+  recommitted to said committee -- recommitted to the Committee on Local
+  Governments in accordance with Assembly Rule 3, sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend to the general municipal law, in relation to prohibiting
   the siting of battery energy storage system sites in assembly district
-  63 as established by chapter 127 of the laws of 2023
+  63  as  established  by chapter 127 of the laws of 2023; and providing
+  for the repeal of such provisions upon the expiration thereof
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -55,19 +59,19 @@ S T A T E  O F  N E W  Y O R K
   §  137.  BATTERY  ENERGY  STORAGE  SYSTEMS;  PROHIBITION  IN  ASSEMBLY
  DISTRICT  SIXTY-THREE.  1. DEFINITION. FOR THE PURPOSES OF THIS SECTION,
  "BATTERY ENERGY STORAGE SYSTEM" SHALL MEAN ONE OR MORE  DEVICES,  ASSEM-
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07276-04-3
+ A. 3297--B  2
+ 
  BLED  TOGETHER,  CAPABLE OF STORING ENERGY IN ORDER TO SUPPLY ELECTRICAL
  ENERGY AT A FUTURE TIME, NOT TO INCLUDE A  STAND-ALONE  TWELVE-VOLT  CAR
  BATTERY  OR  AN  ELECTRIC MOTOR VEHICLE. A BATTERY ENERGY STORAGE SYSTEM
- SHALL BE CLASSIFIED AS A TIER ONE OR TIER  TWO  BATTERY  ENERGY  STORAGE
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07276-02-3
- A. 3297--A  2
- 
- SYSTEM  AS  FOLLOWS:  (A)  TIER ONE BATTERY ENERGY STORAGE SYSTEMS SHALL
- POSSESS AN AGGREGATE ENERGY CAPACITY LESS THAN OR EQUAL TO  SIX  HUNDRED
- KILOWATT  HOURS  AND,  IF  IN A ROOM OR ENCLOSED AREA, CONSIST OF ONLY A
+ SHALL  BE  CLASSIFIED  AS  A TIER ONE OR TIER TWO BATTERY ENERGY STORAGE
+ SYSTEM AS FOLLOWS: (A) TIER ONE BATTERY  ENERGY  STORAGE  SYSTEMS  SHALL
+ POSSESS  AN  AGGREGATE ENERGY CAPACITY LESS THAN OR EQUAL TO SIX HUNDRED
+ KILOWATT HOURS AND, IF IN A ROOM OR ENCLOSED AREA,  CONSIST  OF  ONLY  A
  SINGLE  ENERGY  STORAGE  SYSTEM  TECHNOLOGY; (B) TIER TWO BATTERY ENERGY
  STORAGE SYSTEMS SHALL POSSESS AN AGGREGATE ENERGY CAPACITY GREATER  THAN
  SIX  HUNDRED  KILOWATT  HOURS  OR ARE COMPRISED OF MORE THAN ONE STORAGE
@@ -83,4 +87,5 @@ S T A T E  O F  N E W  Y O R K
  TRIAL  ZONES,  ALONG  WITH  THOSE  RESERVED  FOR SMALL-SCALE RESIDENTIAL
  APPLICATIONS.
   § 3. This act shall take effect immediately and shall apply to  siting
- permit applications pending as of such effective date.
+ permit  applications pending as of such effective date; provided, howev-
+ er, that this act shall expire and be deemed repealed December 31, 2032.
