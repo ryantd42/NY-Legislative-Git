@@ -1,6 +1,6 @@
 # Requires public notice and public engagement when a general hospital seeks to close entirely or a unit that provides maternity, mental health or substance use care
 
-**Bill ID:** A1633B
+**Bill ID:** A1633BA
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Requires public notice and public engagement when a general hospital seeks to cl
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1633
+  1633--A
+  Cal. No. 47
  
   2023-2024 Regular Sessions
  
@@ -27,146 +28,148 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A.  SIMON,  CRUZ, REYES, GLICK, WEPRIN, BURDICK,
   JACOBSON, OTIS, CUNNINGHAM, SEAWRIGHT, SANTABARBARA, MITAYNES,  GONZA-
-  LEZ-ROJAS  --  Multi-Sponsored  by  -- M. of A. CARROLL, COOK, DAVILA,
-  EPSTEIN, HEVESI, PAULIN, STECK, WALKER -- read once  and  referred  to
-  the Committee on Health
-
- AN  ACT  to  amend  the public health law, in relation to the closure of
-  hospitals or emergency or maternity departments
+  LEZ-ROJAS,  COLTON,  FORREST, PHEFFER AMATO, BARRETT, SHRESTHA, LEVEN-
+  BERG, ARDILA, MAMDANI, DINOWITZ, TAPIA, LEE -- Multi-Sponsored  by  --
+  M. of A. CARROLL, COOK, DAVILA, EPSTEIN, HEVESI, PAULIN, STECK, WALKER
+  --  read  once and referred to the Committee on Health -- ordered to a
+  third reading, amended and ordered reprinted, retaining its  place  on
+  the order of third reading
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN  ACT  to amend the public health law, in relation to providing public
+  notice and public engagement when a general hospital  seeks  to  close
+  entirely or a unit that provides maternity, mental health or substance
+  use care
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  This  act  shall  be known and may be cited as the "local
- input in community healthcare act".
-  § 2. The public health law is amended by adding a new  section  2801-i
- to read as follows:
-  §  2801-I.  CLOSURE OF HOSPITALS AND CERTAIN HOSPITAL DEPARTMENTS.  1.
- NOTWITHSTANDING ANY PROVISION OF LAW TO THE CONTRARY, THE CLOSURE  OF  A
- GENERAL  HOSPITAL  OR AN EMERGENCY OR MATERNITY DEPARTMENT, OR SURRENDER
- OF AN OPERATING CERTIFICATE PURSUANT TO THIS ARTICLE SHALL BE SUBJECT TO
- REVIEW AND APPROVAL BY THE COMMISSIONER.
-  2. (A) WHEN A FACILITY APPLIES TO THE COMMISSIONER FOR THE CLOSURE  OF
- A GENERAL HOSPITAL OR AN EMERGENCY OR MATERNITY DEPARTMENT, THE FACILITY
- MUST INCLUDE A CLOSURE PLAN, INCLUDING:
-  (1)  THE  ANTICIPATED IMPACT OF THE GENERAL HOSPITAL'S OR DEPARTMENT'S
- CLOSURE ON ACCESS TO HEALTH CARE SERVICES BY MEMBERS OF THE  SURROUNDING
- COMMUNITIES,  INCLUDING BUT NOT LIMITED TO RECIPIENTS OF MEDICAL ASSIST-
- ANCE FOR NEEDY  PERSONS,  THE  UNINSURED,  AND  UNDERSERVED  POPULATIONS
- INCLUDING PEOPLE WITH DISABILITIES;
-  (2)  SPECIFIC  MEASURES  THE  FACILITY AND OTHER PARTIES HAVE TAKEN OR
- WOULD TAKE TO AMELIORATE SUCH ANTICIPATED IMPACT ON THE COMMUNITIES;
-  (3) ANY  FURTHER  RECOMMENDATIONS  REGARDING  ACCESS  TO  HEALTH  CARE
- SERVICES IN COMMUNITIES IMPACTED BY THE CLOSURE; AND
+  Section 1.  Short title. This act shall be known and may be  cited  as
+ the "local input in community healthcare act".
+  § 2.  Section 2801-g of the public health law, as added by chapter 541
+ of  the  laws  of 2010, subdivision 4 as added by section 3 of part E of
+ chapter 57 of the laws of 2023, is amended to read as follows:
+  § 2801-g. Community [forum] NOTICE AND ENGAGEMENT on hospital closure.
+ 1. WRITTEN NOTIFICATION OF A PROPOSED CLOSURE OF A GENERAL  HOSPITAL  OR
+ UNIT  OF  A  GENERAL HOSPITAL MUST BE PROVIDED TO THE DEPARTMENT AND ALL
+ PARTIES LISTED IN SUBDIVISION SEVEN OF THIS SECTION NO  LATER  THAN  TWO
+ HUNDRED  SEVENTY  DAYS  PRIOR  TO THE PROPOSED CLOSURE DATE.  AS USED IN
+ THIS SECTION, "UNIT" MEANS A PORTION OF A GENERAL HOSPITAL  THAT  OFFERS
+ EMERGENCY,  MATERNITY,  AND  MENTAL  HEALTH  OR  SUBSTANCE USE SERVICES.
+ "UNIT" SHALL ALSO MEAN ANY  OTHER  HOSPITAL  SERVICE  OR  HEALTH-RELATED
+ SERVICE  OF  A  HOSPITAL,  INCLUDING  SPECIALTY  CARE  SERVICES,  IF THE
+ PROPOSED CLOSURE WILL RESULT IN THE REDUCTION OR UNAVAILABILITY OF  SUCH
+ SERVICES IN THE HOSPITAL'S SERVICE AREA OR COUNTY WHERE IT IS LOCATED.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02692-01-3
- A. 1633  2
+  LBD02692-06-4
+ A. 1633--A  2
  
-  (4)  EFFORTS  TO  IDENTIFY AN ALTERNATE OPERATOR OR EFFORTS TO REQUEST
- THAT THE STATE ASSESS ITS ABILITY TO ASSUME FINANCIAL RESPONSIBILITY.
-  (B)  NO  LATER  THAN  THIRTY  DAYS AFTER RECEIPT OF AN APPLICATION FOR
- CLOSURE OF A GENERAL HOSPITAL THE COMMISSIONER SHALL  SUBMIT  A  WRITTEN
- NOTIFICATION  TO THE COUNTY EXECUTIVE OR PRESIDENT OF THE BOROUGH WITHIN
- WHICH THE FACILITY IS LOCATED, THE CONGRESSIONAL REPRESENTATIVE FOR  THE
- DISTRICT IN WHICH THE FACILITY IS LOCATED, AND THE STATE SENATOR AND THE
- ASSEMBLY  MEMBER  REPRESENTING  THE  AREA  WITHIN  WHICH THE FACILITY IS
- LOCATED, THE CITY OR COUNTY DEPARTMENT OF HEALTH, AND WHERE  APPLICABLE,
- THE  COMMUNITY  BOARD  OR  THE CITY COUNCIL MEMBER REPRESENTING THE AREA
- WITHIN WHICH THE FACILITY IS LOCATED. SUCH  WRITTEN  NOTIFICATION  SHALL
- INCLUDE:
-  (1) A COMPLETE COPY OF THE HOSPITAL OR DEPARTMENT CLOSURE PLAN; AND
-  (2) COMPLETE COPIES OF THE APPLICATION OR REQUEST FOR CLOSURE.
-  (C)  THE COMMISSIONER SHALL ALSO MAKE A FULL COPY OF SUCH NOTIFICATION
- AVAILABLE TO THE PUBLIC ON THE DEPARTMENT'S WEBSITE.
-  (D) THE COMMISSIONER SHALL ALSO NOTIFY THE PUBLIC OF SUCH  APPLICATION
- FOR  CLOSURE  THROUGH A PRESS RELEASE AND THE POSTING OF A NOTICE AT THE
- AFFECTED HOSPITAL.
-  3.  UPON ANY DECISION BY THE COMMISSIONER  TO  APPROVE  OR  REJECT  AN
- APPLICATION  FOR CLOSURE OF A GENERAL HOSPITAL OR AN EMERGENCY OR MATER-
- NITY DEPARTMENT, THE COMMISSIONER SHALL MAKE AVAILABLE TO THE PUBLIC  ON
- THE DEPARTMENT'S WEBSITE A WRITTEN REPORT INCLUDING:
-  (A)  A SUMMARY OF THE ISSUES AND PROPOSALS RAISED PURSUANT TO SUBDIVI-
- SION ONE OF SECTION TWENTY-EIGHT HUNDRED ONE-G OF THIS ARTICLE;
-  (B) A  STATEMENT  OF  THE  REASONS  WHY  ANY  SIGNIFICANT  ALTERNATIVE
- PROPOSALS  MADE  PURSUANT  TO  SUBDIVISION  ONE  OF SECTION TWENTY-EIGHT
- HUNDRED ONE-G OF THIS ARTICLE WERE OR WERE  NOT  INCORPORATED  INTO  THE
- FINAL CLOSURE PLAN;
-  (C)  A DESCRIPTION OF ANY CHANGES MADE TO THE PROPOSED CLOSURE PLAN AS
- A RESULT OF THE ISSUES OR PROPOSALS RAISED PURSUANT TO  SUBDIVISION  ONE
- OF SECTION TWENTY-EIGHT HUNDRED ONE-G OF THIS ARTICLE;
-  (D)  THE  ANTICIPATED IMPACT OF THE GENERAL HOSPITAL'S OR DEPARTMENT'S
- CLOSURE ON ACCESS TO HEALTH CARE SERVICES BY MEMBERS OF THE  SURROUNDING
- COMMUNITY,  INCLUDING  BUT NOT LIMITED TO, RECIPIENTS OF MEDICAL ASSIST-
- ANCE FOR NEEDY  PERSONS,  THE  UNINSURED,  AND  UNDERSERVED  POPULATIONS
- INCLUDING PEOPLE WITH DISABILITIES;
-  (E)  THE  SPECIFIC  MEASURES  THE  FACILITY,  THE DEPARTMENT AND OTHER
- PARTIES HAVE TAKEN OR WILL TAKE TO AMELIORATE THE ANTICIPATED IMPACT;
-  (F) AN ASSESSMENT OF THE ABILITY OF  THE  STATE  TO  ASSUME  FINANCIAL
- RESPONSIBILITY OR IDENTIFY AN ALTERNATE OPERATOR;
-  (G)  ANY  FURTHER  RECOMMENDATIONS  REGARDING  ACCESS  TO  HEALTH CARE
- SERVICES IN COMMUNITIES IMPACTED BY THE GENERAL HOSPITAL'S OR  EMERGENCY
- OR MATERNITY DEPARTMENT'S CLOSURE;
-  (H)  INFORMATION  ABOUT  TRANSITIONAL MEDICAL SERVICES TO THE IMPACTED
- COMMUNITIES, INCLUDING BUT NOT LIMITED TO ARRANGEMENTS FOR CONTINUITY OF
- CARE; AND
-  (I) A COMPLETE COPY OF  THE  PROPOSED  DECISION  OF  THE  COMMISSIONER
- REGARDING  THE CLOSURE OF THE HOSPITAL OR EMERGENCY OR MATERNITY DEPART-
- MENT, INCLUDING ALL PROPOSED TERMS, CONDITIONS AND PLANS  FOR  PROVIDING
- HEALTH SERVICES TO THE AFFECTED COMMUNITIES AND POPULATIONS.
-  4.  THE  COMMISSIONER  MAY  ONLY  APPROVE THE APPLICATION IF HE OR SHE
- REASONABLY DETERMINES THAT THE  NEEDS  OF  THE  COMMUNITY  AND  IMPACTED
- STAKEHOLDERS,  INCLUDING  BUT NOT LIMITED TO ACCESS TO EMERGENCY MEDICAL
- CARE, CAN BE ADEQUATELY MET.
- A. 1633  3
+  2.  A  GENERAL  HOSPITAL  THAT SEEKS TO CLOSE ENTIRELY OR CLOSE ONE OR
+ MORE UNITS SHALL SUBMIT AN APPLICATION THAT REQUIRES REVIEW AND APPROVAL
+ BY THE PUBLIC HEALTH AND HEALTH PLANNING COUNCIL, OR ANY SUCCESSOR ENTI-
+ TY. THE APPLICATION FOR THE CLOSURE SHALL INCLUDE A HEALTH EQUITY IMPACT
+ ASSESSMENT,  AS  DEFINED  BY  SECTION TWENTY-EIGHT HUNDRED TWO-B OF THIS
+ ARTICLE, AND A PROPOSED CLOSURE PLAN. THE APPLICATION SHALL BE SUBMITTED
+ AT LEAST TWO HUNDRED TEN DAYS BEFORE THE PROPOSED CLOSURE. NO CESSATION,
+ PAUSE, TRANSFER, OR LIMITATION OF SERVICE MAY  BE  CARRIED  OUT  WITHOUT
+ PRIOR  WRITTEN  APPROVAL  BY  THE COMMISSIONER. AS USED IN THIS SECTION,
+ "TRANSFER OF SERVICES" SHALL INCLUDE CONVERSION OF SERVICES  FROM  INPA-
+ TIENT  TO  OUTPATIENT  SERVICES, THE MOVING OF SERVICES TO OTHER FACILI-
+ TIES, OR THE TRANSFER OF PERSONNEL THAT WOULD CONSTITUTE A REDUCTION  OR
+ UNAVAILABILITY OF SERVICES.
+  3.  No later than [thirty] ONE HUNDRED FIFTY days [after] PRIOR TO the
+ PROPOSED closure of a general hospital OR A UNIT OF A GENERAL  HOSPITAL,
+ the  commissioner shall hold a public community forum for the purpose of
+ obtaining public input concerning the anticipated impact of the  general
+ hospital's  OR  GENERAL HOSPITAL UNIT'S closure on access to health care
+ services by members of the  surrounding  community,  including  but  not
+ limited to recipients of medical assistance for needy persons, the unin-
+ sured, and MEDICALLY underserved populations AS DEFINED IN PARAGRAPH (D)
+ OF  SUBDIVISION  ONE  OF  SECTION  TWENTY-EIGHT  HUNDRED  TWO-B  OF THIS
+ ARTICLE, and  options  and  proposals  to  ameliorate  such  anticipated
+ impact.  The  commissioner  shall  afford community members, health care
+ providers, labor unions, payers, businesses and consumers  a  reasonable
+ opportunity to speak about relevant matters at such community forum.
+  [2.]  4.  No  later  than [sixty] THIRTY days [after] BEFORE holding a
+ community forum pursuant to subdivision [one] THREE of this section, the
+ commissioner shall make available to  the  public  on  the  department's
+ website information regarding:
+  (a) THE PROPOSED CLOSURE PLAN SUBMITTED BY THE HEALTH FACILITY;
+  (B) the anticipated impact of the general hospital's closure OR UNIT'S
+ CLOSURE  on access to health care services by members of the surrounding
+ community, including but not limited to recipients of medical assistance
+ for needy persons, the uninsured, and underserved populations;
+  [(b)] (C) specific measures the  department  and  other  parties  have
+ taken  or  will take to ameliorate such anticipated impact INCLUDING BUT
+ NOT LIMITED TO ENSURING THAT THE SERVICES  TO  BE  ELIMINATED  WOULD  BE
+ AVAILABLE  TO  MEDICAID,  OR INDIVIDUALS THAT ARE INSURED BY A PUBLICLY-
+ SUBSIDIZED PLAN AND UNINSURED PATIENTS AT THE SURROUNDING  AREA  FACILI-
+ TIES THAT ARE TAKING NEW PATIENTS; and
+  [(c)]  (D) any further recommendations regarding access to health care
+ services in communities impacted by the general  hospital's  closure  OR
+ UNIT'S CLOSURE.
+  [3.]  5. A community forum conducted pursuant to this section shall be
+ held at a location within a reasonable proximity to the general hospital
+ OR UNIT subject to THE PROPOSED closure, and shall be announced no  less
+ than [ten] FOURTEEN days prior to the date of such community forum. SUCH
+ FORUM  SHALL  BE HELD AT A PROPER TIME AND BE ACCESSIBLE TO THE IMPACTED
+ COMMUNITY VIRTUALLY AND PHYSICALLY.
+  [4.] 6. At least thirty days prior to a general hospital  applying  to
+ the federal centers for medicare and medicaid services to convert from a
+ general  hospital with inpatients to a rural emergency hospital under 42
+ USC 1395x(kkk), or successor provisions,  such  GENERAL  hospital  shall
+ hold  a public community forum for the purpose of obtaining public input
+ concerning the anticipated impact of the GENERAL hospital's  closure  of
+ A. 1633--A  3
  
-  5. NO CLOSURE SHALL BE APPROVED UNDER THIS SECTION UNLESS THE  COMMIS-
- SIONER  COMPLIES  WITH THE PROVISIONS OF THIS SECTION AND THE PROVISIONS
- OF SECTION TWENTY-EIGHT HUNDRED ONE-G OF THIS ARTICLE.
-  6. THE COMMISSIONER SHALL PROMULGATE ANY RULES NECESSARY TO EFFECTUATE
- THE PROVISIONS OF THIS SECTION.
-  §  3. Section 2801-g of the public health law, as added by chapter 541
- of the laws of 2010, is amended to read as follows:
-  § 2801-g. Community forum on hospital  closure.  1.  No  later  than
- [thirty]  FORTY-FIVE  days  after  [the] AN APPLICATION FOR closure of a
- general hospital, OR AN EMERGENCY OR MATERNITY DEPARTMENT, AND AT  LEAST
- SIXTY  DAYS  PRIOR  TO THE PROPOSED CLOSURE DATE, the commissioner shall
- hold a public community forum for the purpose of obtaining public  input
- concerning the anticipated impact of the general hospital's OR EMERGENCY
- OR  MATERNITY  DEPARTMENT'S closure on access to health care services by
- members of the surrounding  community,  including  but  not  limited  to
- recipients  of  medical assistance for needy persons, the uninsured, and
- underserved populations INCLUDING PEOPLE WITH DISABILITIES, and  options
- and  proposals  to  ameliorate such anticipated impact. The commissioner
- shall afford community members, health  care  providers,  labor  unions,
- payers,  businesses  [and],  consumers, THE CONGRESSIONAL REPRESENTATIVE
- FOR THE DISTRICT IN WHICH THE FACILITY IS LOCATED, THE COUNTY  EXECUTIVE
- OR  PRESIDENT  OF  THE BOROUGH WITHIN WHICH THE FACILITY IS LOCATED, THE
- STATE SENATOR AND ASSEMBLY MEMBER REPRESENTING THE AREA WITHIN WHICH THE
- FACILITY IS LOCATED, AND THE COMMUNITY BOARD AND THE CITY COUNCIL MEMBER
- REPRESENTING THE AREA WITHIN WHICH THE FACILITY IS LOCATED WHERE  APPLI-
- CABLE,  a reasonable opportunity to speak about relevant matters at such
- community forum. THE COMMISSIONER SHALL ALSO ACCEPT  COMMENTS  SUBMITTED
- IN  WRITING  AT  SUCH PUBLIC FORUM AND BY MAIL WITHIN AT LEAST TWO WEEKS
- FOLLOWING THE COMMUNITY FORUM.  AT LEAST TEN DAYS PRIOR TO SUCH COMMUNI-
- TY FORUM, THE COMMISSIONER  SHALL  RELEASE  PUBLICLY  AND  POST  ON  ITS
- WEBSITE  A  COMPLETE  COPY OF THE COMMISSIONER'S NOTIFICATION RELATED TO
- THE CLOSURE  REQUIRED  BY  SUBDIVISION  THREE  OF  SECTION  TWENTY-EIGHT
- HUNDRED ONE-I OF THIS ARTICLE.
-  2.  [No later than sixty days after holding a community forum pursuant
- to subdivision one of this section, the commissioner shall  make  avail-
- able to the public on the department's website information regarding:
-  (a) the anticipated impact of the general hospital's closure on access
- to health care services by members of the surrounding community, includ-
- ing  but  not  limited  to  recipients  of  medical assistance for needy
- persons, the uninsured, and underserved populations;
-  (b) specific measures the department and other parties have  taken  or
- will take to ameliorate such anticipated impact; and
-  (c)  any  further  recommendations  regarding  access  to  health care
- services in communities impacted by the general hospital's closure.
-  3.] A community forum conducted pursuant to this section shall be held
- at a location within a reasonable  proximity  to  the  general  hospital
- subject  to  closure, and shall be announced no less than ten days prior
- to the date of such community forum.
-  § 4. This act shall take effect immediately.
+ inpatient  units, including but not limited to, the impact on recipients
+ of medical assistance for needy  persons,  the  uninsured,  people  with
+ disabilities,  and  medically  underserved  populations, and options and
+ proposals to ameliorate such anticipated impact.
+  [The]  7.  NO  LATER THAN THIRTY DAYS PRIOR TO A COMMUNITY FORUM UNDER
+ THIS SECTION, THE GENERAL hospital shall notify health  care  providers,
+ labor  unions, the [congressional] LOCAL, STATE, AND FEDERAL LEGISLATIVE
+ representative, THE OFFICE OF THE ATTORNEY GENERAL,  THE  COUNTY  EXECU-
+ TIVE,  MAYOR,  TOWN SUPERVISOR, AND IN THE CASE OF THE CITY OF NEW YORK,
+ THE BOROUGH PRESIDENT, AND COMMUNITY BOARD for [the] EVERY  district  in
+ which  the  [facility] GENERAL HOSPITAL AND UNIT is OR ARE located, [the
+ county executive of the county in which the facility is located, and the
+ state senator and assembly member representing the area within which the
+ facility is located] of the date, time, and location  of  the  community
+ forum.  The  GENERAL  hospital  shall  afford  all public participants a
+ reasonable opportunity to speak about relevant matters at such community
+ forum. Prior to any community forum and  as  soon  as  practicable,  the
+ GENERAL hospital shall be required to:
+  (a)  notify  the  office  of  mental  health and the local director of
+ community services in the event such general  hospital  has  psychiatric
+ inpatient  beds  licensed under article thirty-one of the mental hygiene
+ law or designated pursuant to section 9.39 of the  mental  hygiene  law,
+ and
+  (b)  notify the office of addiction services and supports in the event
+ such general hospital has inpatient  substance  use  disorder  treatment
+ programs  or  inpatient  chemical dependence treatment programs licensed
+ under article thirty-two of the mental  hygiene  law.  The  commissioner
+ shall also accept comments submitted in writing at such public forum and
+ by  mail  OR  ELECTRONIC  MAIL  within  at least two weeks following the
+ community forum.
+  8. NO LATER THAN THIRTY DAYS AFTER THE COMMUNITY  FORUM,  THE  GENERAL
+ HOSPITAL  SHALL SUBMIT A REVISED CLOSURE PLAN TO THE DEPARTMENT ADDRESS-
+ ING CONCERNS RAISED  BY  COMMUNITY  STAKEHOLDERS  DURING  THE  COMMUNITY
+ FORUM.  THE  GENERAL  HOSPITAL AND THE DEPARTMENT SHALL MAKE THE REVISED
+ CLOSURE PLAN PUBLICLY AVAILABLE ON THEIR WEBSITES NO LATER  THAN  FORTY-
+ FIVE DAYS AFTER THE COMMUNITY FORUM.
+  9.  NO LATER THAN JANUARY FIRST TWO THOUSAND TWENTY-FIVE AND  ANNUALLY
+ THEREAFTER, THE COMMISSIONER SHALL PROVIDE A REPORT TO THE  LEGISLATURE,
+ INCLUDING  BUT  NOT LIMITED TO, IDENTIFYING THE GENERAL HOSPITAL OR UNIT
+ OF A GENERAL HOSPITAL THAT HAS PROVIDED WRITTEN NOTICE OF A CLOSURE, THE
+ PROPOSED CLOSURE DATE AND THE SERVICES IMPACTED BY THE PROPOSED CLOSURE.
+ SUCH REPORT SHALL BE PROVIDED IN ELECTRONIC FORMAT AND SHALL BE DISTRIB-
+ UTED TO THE TEMPORARY PRESIDENT AND MINORITY LEADER OF THE  SENATE,  THE
+ SPEAKER  AND  MINORITY  LEADER  OF THE ASSEMBLY, THE CHAIR OF THE SENATE
+ STANDING COMMITTEE ON HEALTH, AND  THE  CHAIR  OF  THE  ASSEMBLY  HEALTH
+ COMMITTEE.
+  §  3.  This  act  shall take effect on the sixtieth day after it shall
+ have become a law, and shall not apply to any matter subject to  section
+ 2801-g  of  the  public  health law that is pending on the date it shall
+ take effect.
