@@ -1,6 +1,6 @@
 # Provides a premium reduction for physicians who complete a training strategies course relating to emergency department visits for individuals with a developmental or intellectual disability
 
-**Bill ID:** S6351BA
+**Bill ID:** S6351BB
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Directs the commissioner of health to approve courses for eligible physicians, n
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6351--A
+  6351--B
  
   2023-2024 Regular Sessions
  
@@ -29,8 +29,11 @@ S T A T E  O F  N E W  Y O R K
   printed,  and  when printed to be committed to the Committee on Health
   -- reported favorably from said committee and committed to the Commit-
   tee  on  Finance  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
-
+  reprinted  as amended and recommitted to said committee -- recommitted
+  to the Committee on Health in accordance with Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+ 
  AN ACT to amend the public health law and the insurance law, in relation
   to  a  premium reduction for physicians who complete a risk management
   strategies course relating to emergency department visits for individ-
@@ -49,73 +52,69 @@ S T A T E  O F  N E W  Y O R K
  TION BY PATIENTS WITH THEIR PHYSICIANS, NURSES AND  OTHER  STAFF  DURING
  VISITS TO AN EMERGENCY DEPARTMENT IN A GENERAL HOSPITAL, THE COMMISSION-
  ER,  IN CONSULTATION WITH THE OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISA-
- BILITIES, SHALL APPROVE  PROFESSIONAL  EDUCATION  COURSES  FOR  ELIGIBLE
- PHYSICIANS,  NURSES  AND  OTHER STAFF AS PROVIDED IN SUBDIVISION FOUR OF
- THIS SECTION,  THAT  COVERS  RISK  MANAGEMENT  STRATEGIES  IN  EMERGENCY
- DEPARTMENT  VISITS  FOR INDIVIDUALS WITH A DEVELOPMENTAL OR INTELLECTUAL
- DISABILITY AS SUCH TERM IS DEFINED IN SECTION 1.03 OF THE MENTAL HYGIENE
- LAW, AS DESCRIBED IN SUBDIVISION TWO OF THIS SECTION. SUCH RISK  MANAGE-
- MENT  STRATEGIES  COURSES  SHALL  BE  SUBJECT  TO  SUCH STANDARDS AS THE
- COMMISSIONER, IN CONSULTATION WITH THE OFFICE FOR PEOPLE  WITH  DEVELOP-
- MENTAL DISABILITIES, MAY PRESCRIBE BY REGULATION. AN ELIGIBLE PHYSICIAN,
- NURSE  OR  OTHER  STAFF  WHO SUCCESSFULLY COMPLETES SUCH RISK MANAGEMENT
+ BILITIES, SHALL APPROVE COURSES  FOR  ELIGIBLE  PHYSICIANS,  NURSES  AND
+ OTHER STAFF AS PROVIDED IN SUBDIVISION FOUR OF THIS SECTION, THAT COVERS
+ RISK  MANAGEMENT  STRATEGIES IN EMERGENCY DEPARTMENT VISITS FOR INDIVID-
+ UALS WITH A DEVELOPMENTAL OR INTELLECTUAL DISABILITY  AS  SUCH  TERM  IS
+ DEFINED  IN  SECTION  1.03  OF  THE  MENTAL HYGIENE LAW, AS DESCRIBED IN
+ SUBDIVISION TWO OF THIS SECTION. SUCH RISK MANAGEMENT STRATEGIES COURSES
+ SHALL BE SUBJECT TO SUCH STANDARDS AS THE COMMISSIONER, IN  CONSULTATION
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10725-03-3
- S. 6351--A  2
+  LBD10725-06-4
+ S. 6351--B  2
  
- STRATEGIES COURSE PURSUANT TO  THIS  SECTION  SHALL  RECEIVE  CONTINUING
- MEDICAL EDUCATION CREDIT AND A CERTIFICATE OF COMPLETION.
+ WITH  THE  OFFICE  FOR  PEOPLE  WITH  DEVELOPMENTAL  DISABILITIES,  MAY
+ PRESCRIBE BY REGULATION.
   2.  COURSES  ON  RISK MANAGEMENT STRATEGIES DURING EMERGENCY VISITS BY
  THOSE WITH A DEVELOPMENTAL  OR  INTELLECTUAL  DISABILITY  SHALL  PROMOTE
  EVIDENCE-BASED CLINICAL GUIDELINES AND PATIENT SAFETY PROTOCOLS, WITH AN
  EMPHASIS ON PERSPECTIVES FROM THOSE WITH A DEVELOPMENTAL OR INTELLECTUAL
  DISABILITY. OPTIONS FOR COURSES SHOULD BE APPROPRIATE FOR THE RESPECTIVE
- PROFESSION  AND  MAY  INCLUDE INFORMATION AND EDUCATION ADDRESSING RISKS
- ASSOCIATED WITH EMERGENCY VISITS BY INDIVIDUALS WITH A DEVELOPMENTAL  OR
- INTELLECTUAL  DISABILITY.  COURSE  OPTIONS  SHALL  BE  DETERMINED BY THE
- COMMISSIONER IN CONSULTATION WITH THE OFFICE FOR  PEOPLE  WITH  DEVELOP-
- MENTAL DISABILITIES.
-  3.  ATTENDANCE  AT ANY COURSE APPROVED BY THE COMMISSIONER PURSUANT TO
+ PROFESSION  AND MAY INCLUDE INFORMATION ADDRESSING RISKS ASSOCIATED WITH
+ EMERGENCY VISITS BY INDIVIDUALS WITH  A  DEVELOPMENTAL  OR  INTELLECTUAL
+ DISABILITY.  COURSE  OPTIONS  SHALL BE DETERMINED BY THE COMMISSIONER IN
+ CONSULTATION WITH THE OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES.
+  3. ATTENDANCE AT ANY COURSE APPROVED BY THE COMMISSIONER  PURSUANT  TO
  THIS SECTION SHALL BE IN PERSON.
-  4. PHYSICIANS WHO ARE BOARD CERTIFIED, NURSES AND OTHER STAFF FROM  AN
+  4.  PHYSICIANS WHO ARE BOARD CERTIFIED, NURSES AND OTHER STAFF FROM AN
  EMERGENCY DEPARTMENT IN A GENERAL HOSPITAL SHALL BE ELIGIBLE FOR A DISA-
  BILITIES RISK MANAGEMENT STRATEGIES COURSE.
-  5.  THE  COMMISSIONER, IN CONSULTATION WITH THE OFFICE FOR PEOPLE WITH
- DEVELOPMENTAL DISABILITIES, SHALL BE AUTHORIZED TO PRESCRIBE  ANY  RULES
+  5. THE COMMISSIONER, IN CONSULTATION WITH THE OFFICE FOR  PEOPLE  WITH
+ DEVELOPMENTAL  DISABILITIES,  SHALL BE AUTHORIZED TO PRESCRIBE ANY RULES
  AND REGULATIONS NECESSARY TO IMPLEMENT THIS SECTION. IN PRESCRIBING SUCH
- RULES  AND  REGULATIONS,  THE  COMMISSIONER SHALL CONSIDER THE RULES AND
- REGULATIONS PROMULGATED BY  THE  SUPERINTENDENT  OF  FINANCIAL  SERVICES
- PURSUANT  TO SUBSECTION (E) OF SECTION TWO THOUSAND THREE HUNDRED FORTY-
- THREE OF THE INSURANCE LAW AND MAY CONSULT WITH  THE  SUPERINTENDENT  OF
+ RULES AND REGULATIONS, THE COMMISSIONER SHALL  CONSIDER  THE  RULES  AND
+ REGULATIONS  PROMULGATED  BY  THE  SUPERINTENDENT  OF FINANCIAL SERVICES
+ PURSUANT TO SUBSECTION (E) OF SECTION TWO THOUSAND THREE HUNDRED  FORTY-
+ THREE  OF  THE  INSURANCE LAW AND MAY CONSULT WITH THE SUPERINTENDENT OF
  FINANCIAL SERVICES.
-  §  2. Subsection (e) of section 2343 of the insurance law, as added by
- chapter 642 of the laws of 1990, is amended and a new subsection (f)  is
+  § 2. Subsection (e) of section 2343 of the insurance law, as added  by
+ chapter  642 of the laws of 1990, is amended and a new subsection (f) is
  added to read as follows:
-  (e)  The  superintendent  may approve an appropriate premium reduction
- for: (1) an insured physician who successfully completes a risk  manage-
- ment  course;  OR  (2) AN INSURED PHYSICIAN WHO SUCCESSFULLY COMPLETES A
- COURSE AUTHORIZED BY THE COMMISSIONER  OF  HEALTH  PURSUANT  TO  SECTION
- TWENTY-EIGHT  HUNDRED THIRTY-TWO OF THE PUBLIC HEALTH LAW, which must be
- approved by the superintendent subject to such standards as  the  super-
- intendent  may  prescribe  by regulation. In prescribing such regulation
+  (e) The superintendent may approve an  appropriate  premium  reduction
+ for:  (1) an insured physician who successfully completes a risk manage-
+ ment course; OR (2) AN INSURED PHYSICIAN WHO  SUCCESSFULLY  COMPLETES  A
+ COURSE  AUTHORIZED  BY  THE  COMMISSIONER  OF HEALTH PURSUANT TO SECTION
+ TWENTY-EIGHT HUNDRED THIRTY-TWO OF THE PUBLIC HEALTH LAW, which must  be
+ approved  by  the superintendent subject to such standards as the super-
+ intendent may prescribe by regulation. In  prescribing  such  regulation
  the superintendent may consult with the commissioner of health.
-  (F) AN INSURED PHYSICIAN WHO SUCCESSFULLY COMPLETES A  COURSE  AUTHOR-
- IZED  BY  THE  COMMISSIONER OF HEALTH UNDER SECTION TWENTY-EIGHT HUNDRED
- THIRTY-TWO OF THE PUBLIC HEALTH LAW SHALL NOT,  DURING  THE  PERIOD  SET
- FORTH  IN THE SUPERINTENDENT'S REGULATIONS PRESCRIBING STANDARDS FOR THE
+  (F)  AN  INSURED PHYSICIAN WHO SUCCESSFULLY COMPLETES A COURSE AUTHOR-
+ IZED BY THE COMMISSIONER OF HEALTH UNDER  SECTION  TWENTY-EIGHT  HUNDRED
+ THIRTY-TWO  OF  THE  PUBLIC  HEALTH LAW SHALL NOT, DURING THE PERIOD SET
+ FORTH IN THE SUPERINTENDENT'S REGULATIONS PRESCRIBING STANDARDS FOR  THE
  PREMIUM REDUCTION, ALSO BE ELIGIBLE FOR ADDITIONAL PREMIUM REDUCTION FOR
  AN INSURED PHYSICIAN MEDICAL MALPRACTICE INSURANCE POLICY FOR SUCCESSFUL
- COMPLETION OF A RISK MANAGEMENT COURSE APPROVED  BY  THE  SUPERINTENDENT
+ COMPLETION  OF  A  RISK MANAGEMENT COURSE APPROVED BY THE SUPERINTENDENT
  UNDER PART ONE HUNDRED FIFTY-TWO OF TITLE ELEVEN OF THE NEW YORK CODE OF
  RULES AND REGULATIONS.
-  §  3. This act shall take effect one year after it shall have become a
- law and shall apply to all  insurance  policies  and  contracts  issued,
- renewed,  modified  or  altered  on  and  after such effective date. The
- commissioner of health and the superintendent of financial services  are
+  § 3. This act shall take effect one year after it shall have become  a
+ law  and  shall  apply  to  all insurance policies and contracts issued,
+ renewed, modified or altered on  and  after  such  effective  date.  The
+ commissioner  of health and the superintendent of financial services are
  authorized to adopt, amend, suspend or repeal regulations and take other
- actions  necessary  for  the  implementation  of  this act prior to such
+ actions necessary for the implementation  of  this  act  prior  to  such
  effective  date;  provided,  however,  that  such  adoption,  amendment,
- suspension  or  repeal  of regulations shall not have legal effect until
+ suspension or repeal of regulations shall not have  legal  effect  until
  this act takes effect.
