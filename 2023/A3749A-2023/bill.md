@@ -1,6 +1,6 @@
 # Grants peace officer status to uniformed court officers in the town of Montgomery
 
-**Bill ID:** A3749A
+**Bill ID:** A3749AA
 **Session:** 2023
 **Sponsor:** Brian Maher
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Grants peace officer status to employees of the town court of the town of Montgo
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3749
+  3749--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   February 7, 2023
   ___________
  
- Introduced  by M. of A. MAHER -- read once and referred to the Committee
-  on Codes
- 
+ Introduced  by  M.  of A. MAHER, E. BROWN, BENDETT, DeSTEFANO, LEMONDES,
+  BRABENEC, McDONOUGH -- read once and  referred  to  the  Committee  on
+  Codes  --  recommitted  to  the  Committee on Codes in accordance with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the criminal procedure  law,  in  relation  to  granting
   peace  officer status to uniformed court officers in the town of Mont-
   gomery
@@ -36,8 +39,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section  1.  Section  2.10 of the criminal procedure law is amended by
- adding a new subdivision 86 to read as follows:
-  86. EMPLOYEES OF THE TOWN COURT OF THE TOWN OF MONTGOMERY  SERVING  AS
+ adding a new subdivision 87 to read as follows:
+  87. EMPLOYEES OF THE TOWN COURT OF THE TOWN OF MONTGOMERY  SERVING  AS
  UNIFORMED  COURT  OFFICERS  AT  SUCH TOWN COURT; PROVIDED, HOWEVER, THAT
  NOTHING IN THIS SUBDIVISION SHALL BE DEEMED TO AUTHORIZE SUCH OFFICER TO
  CARRY, POSSESS, REPAIR OR DISPOSE OF A FIREARM  UNLESS  THE  APPROPRIATE
@@ -49,7 +52,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07780-01-3
+  LBD07780-02-4
