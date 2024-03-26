@@ -1,6 +1,6 @@
 # Relates to prohibiting the sale or distribution of expanded polystyrene containers that are designed or intended to be used for cold storage
 
-**Bill ID:** S4414A
+**Bill ID:** S4414AA
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Relates to prohibiting the sale or distribution of expanded polystyrene containe
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4414
+  4414--A
  
   2023-2024 Regular Sessions
  
@@ -27,67 +27,75 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. KRUEGER -- read twice and ordered printed, and when
   printed to be committed to the Committee on Environmental Conservation
+  -- recommitted to  the  Committee  on  Environmental  Conservation  in
+  accordance  with  Senate  Rule 6, sec. 8 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
- AN ACT to amend the  environmental  conservation  law,  in  relation  to
-  prohibiting  the sale or distribution of expanded polystyrene contain-
+ AN  ACT  to  amend  the  environmental  conservation law, in relation to
+  prohibiting the sale or distribution of expanded polystyrene  contain-
   ers that are designed or intended to be used for cold storage
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The title heading of title 30 of article 27 of the environ-
- mental  conservation law, as added by section 1 of part PP of chapter 58
+ mental conservation law, as added by section 1 of part PP of chapter  58
  of the laws of 2020, is amended to read as follows:
-  EXPANDED POLYSTYRENE FOAM  CONTAINER  [AND],  POLYSTYRENE  LOOSE  FILL
- PACKAGING AND POLYSTYRENE COOLER BAN
+ 
+  EXPANDED POLYSTYRENE FOAM [CONTAINER] CONTAINERS
+  AND POLYSTYRENE LOOSE FILL PACKAGING BAN
+ 
   §  2.  Subdivision 4 of section 27-3001 of the environmental conserva-
  tion law, as added by section 1 of part PP of chapter 58 of the laws  of
  2020, is amended to read as follows:
   4. "Manufacturer" means every person, firm or corporation that produc-
- es or imports polystyrene loose fill packaging that is sold, offered for
- sale,  or  distributed  in the state, OR THAT MAKES EXPANDED POLYSTYRENE
- PORTABLE CONTAINERS THAT ARE DESIGNED OR INTENDED TO BE  USED  FOR  COLD
- STORAGE.
+ es  or imports polystyrene loose fill packaging OR EXPANDED  POLYSTYRENE
+ CONTAINERS  THAT ARE NOT WHOLLY ENCAPSULATED OR ENCASED  WITHIN  A  MORE
+ DURABLE CONTAINER AND ARE DESIGNED OR INTENDED TO BE USED FOR COLD STOR-
+ AGE that is sold, offered for sale, or distributed in the state.
   §  3.  The  section  heading  of  section 27-3003 of the environmental
  conservation law, as added by section 1 of part PP of chapter 58 of  the
  laws of 2020, is amended and a new paragraph (c) is added to subdivision
  1 to read as follows:
-  Expanded  polystyrene  foam  container  [and],  polystyrene loose fill
- packaging, AND POLYSTYRENE COOLER ban.
-  (C) BEGINNING JANUARY FIRST, TWO THOUSAND TWENTY-FOUR, NO COVERED FOOD
- SERVICE PROVIDER, MANUFACTURER OR STORE SHALL SELL, OFFER FOR  SALE,  OR
- DISTRIBUTE EXPANDED POLYSTYRENE CONTAINERS THAT ARE DESIGNED OR INTENDED
- TO  BE  USED  FOR COLD STORAGE, INCLUDING BUT NOT LIMITED TO COOLERS AND
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06060-01-3
- S. 4414  2
+  LBD06060-07-4
+ S. 4414--A  2
  
- ICE CHESTS, WHICH ARE NOT WHOLLY ENCAPSULATED OR ENCASED WITHIN  A  MORE
- DURABLE MATERIAL.
+  Expanded polystyrene foam [container] CONTAINERS and polystyrene loose
+ fill packaging ban.
+  (C)  BEGINNING JANUARY FIRST, TWO THOUSAND TWENTY-SIX, NO COVERED FOOD
+ SERVICE PROVIDER, MANUFACTURER OR STORE SHALL SELL, OFFER FOR  SALE,  OR
+ DISTRIBUTE  EXPANDED POLYSTYRENE CONTAINERS THAT ARE NOT WHOLLY ENCAPSU-
+ LATED OR ENCASED WITHIN A MORE DURABLE CONTAINER  AND  ARE  DESIGNED  OR
+ INTENDED TO BE USED FOR COLD STORAGE, INCLUDING BUT NOT LIMITED TO COOL-
+ ERS AND ICE CHESTS.
   § 4. Paragraph (b) of subdivision 1 of section 27-3005 of the environ-
  mental  conservation law, as added by section 1 of part PP of chapter 58
  of the laws of 2020, is amended and a new paragraph (c) is added to read
  as follows:
   (b) Raw meat, pork, seafood, poultry or fish sold for the  purpose  of
  cooking or preparing off-premises by the customer[.]; OR
-  (C)  EXPANDED  POLYSTYRENE CONTAINERS USED FOR DRUGS, MEDICAL DEVICES,
- AND BIOLOGICAL MATERIALS AS DEFINED  IN  THE  FEDERAL  FOOD,  DRUG,  AND
- COSMETIC ACT (21 U.S.C. SEC. 301 ET SEQ.).
-  §  5.  Subdivisions  1  and  3 of section 27-3007 of the environmental
- conservation law, as added by section 1 of part PP of chapter 58 of  the
- laws of 2020, are amended to read as follows:
+  (C)  EXPANDED  POLYSTYRENE CONTAINERS THAT ARE NOT WHOLLY ENCAPSULATED
+ OR ENCASED WITHIN A MORE DURABLE CONTAINER AND ARE DESIGNED OR  INTENDED
+ TO  BE  USED  FOR COLD STORAGE:
+  (I) FOR DRUGS, MEDICAL DEVICES, AND BIOLOGICAL MATERIALS AS DEFINED IN
+ THE  FEDERAL  FOOD, DRUG, AND COSMETIC ACT (21 U.S.C. SEC. 301 ET SEQ.);
+ OR
+  (II) ANIMAL BIOLOGICS, INCLUDING VACCINES, BACTERINS,  ANTISERA, DIAG-
+ NOSTIC KITS, AND OTHER PRODUCTS OF BIOLOGICAL ORIGIN, AND OTHER  PACKAG-
+ ING  MATERIALS REGULATED BY THE UNITED STATES DEPARTMENT  OF AGRICULTURE
+ UNDER THE  VIRUS,  SERUM,  TOXIN  ACT  (21  U.S.C.  151-159),  INCLUDING
+ VACCINES.
+  §  5.  Subdivision 1 of section 27-3007 of the environmental conserva-
+ tion law, as added by section 1 of part PP of chapter 58 of the laws  of
+ 2020, is amended to read as follows:
   1.  Except  as provided in subdivisions two and three of this section,
  this title shall supersede and preempt all  local  laws,  ordinances  or
  regulations  governing  the  sale,  offer  for  sale, or distribution of
- disposable food service containers containing expanded polystyrene  foam
- [and];  polystyrene  loose  fill  packaging  AND  EXPANDED  POLYSTYRENE
- CONTAINERS THAT ARE DESIGNED OR INTENDED TO BE USED FOR COLD STORAGE.
-  3. This title shall not apply in a  city  with  a  population  of  one
- million  or more which has a local law, ordinance or regulation in place
- which restricts the sale, offer for sale, or  distribution  of  expanded
- polystyrene  containers  [and],  polystyrene  loose  fill  packaging AND
- EXPANDED POLYSTYRENE CONTAINERS THAT ARE DESIGNED OR INTENDED TO BE USED
- FOR COLD STORAGE.
+ disposable food service containers OR CONTAINERS DESIGNED OR INTENDED TO
+ BE USED FOR COLD STORAGE containing expanded polystyrene foam and polys-
+ tyrene loose fill packaging.
   § 6. This act shall take effect immediately.
