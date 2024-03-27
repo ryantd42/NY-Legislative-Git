@@ -1,6 +1,6 @@
 # Relates to authorizing service credit in an optional twenty year retirement plan for state university police, regional state park police and detective attorney general investigator service
 
-**Bill ID:** A7547BA
+**Bill ID:** A7547BB
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to authorizing state university police, regional state park police and d
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7547--A
+  7547--B
  
   2023-2024 Regular Sessions
  
@@ -25,17 +25,20 @@ S T A T E  O F  N E W  Y O R K
   May 25, 2023
   ___________
  
- Introduced by M. of A. SILLITTI -- read once and referred to the Commit-
-  tee  on  Governmental  Employees  --  recommitted  to the Committee on
-  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
-  committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
-
- AN ACT to amend the retirement and social security law, in  relation  to
+ Introduced  by  M. of A. SILLITTI, SANTABARBARA, COLTON -- read once and
+  referred to the Committee on Governmental Employees -- recommitted  to
+  the  Committee  on  Governmental Employees in accordance with Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee -- reported and
+  referred  to  the Committee on Ways and Means -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
+ 
+ AN  ACT  to amend the retirement and social security law, in relation to
   authorizing certain persons in an optional twenty year retirement plan
-  for  state  university  police  officer  service,  regional state park
-  police and special investigators for the office of the attorney gener-
-  al
+  to receive credit for previous service as a  state  university  police
+  officer,  a regional state park police officer or a detective investi-
+  gator for the office of the attorney general
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -52,19 +55,19 @@ S T A T E  O F  N E W  Y O R K
  COMPLETED  A  COURSE  OF  LAW  ENFORCEMENT  TRAINING AS PROVIDED IN SUCH
  SECTION OF THE EDUCATION LAW MAY RECEIVE FOR EACH SUCH YEAR OF  PREVIOUS
  SERVICE,  UP  TO  A  TOTAL  OF  NO  GREATER  THAN FIVE YEARS OF PREVIOUS
- SERVICE, ADDITIONAL PENSION EQUAL TO ONE-SIXTIETH OF HIS  OR  HER  FINAL
+ SERVICE, ADDITIONAL PENSION EQUAL TO ONE-SIXTIETH OF SUCH MEMBER'S FINAL
  AVERAGE SALARY.
-  TO  OBTAIN SUCH CREDIT A MEMBER SHALL  PAY SUCH RETIREMENT SYSTEM, FOR
- DEPOSIT IN THE FUND USED TO ACCUMULATE  EMPLOYER  CONTRIBUTIONS,  A  SUM
- EQUAL  TO  THE  PRODUCT  OF THE NUMBER OF YEARS OF SERVICE BEING CLAIMED
- AND THREE PERCENT OF SUCH MEMBER'S COMPENSATION EARNED DURING THE TWELVE
+  TO OBTAIN SUCH CREDIT A MEMBER SHALL  PAY SUCH RETIREMENT SYSTEM,  FOR
+ DEPOSIT  IN  THE  FUND  USED TO ACCUMULATE EMPLOYER CONTRIBUTIONS, A SUM
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11184-03-4
- A. 7547--A  2
+  LBD11184-08-4
+ A. 7547--B  2
  
- MONTHS OF CREDITED  SERVICE  IMMEDIATELY  PRECEDING  THE DATE  THAT  THE
+ EQUAL TO THE PRODUCT OF THE NUMBER OF YEARS  OF  SERVICE  BEING  CLAIMED
+ AND THREE PERCENT OF SUCH MEMBER'S COMPENSATION EARNED DURING THE TWELVE
+ MONTHS  OF CREDITED  SERVICE  IMMEDIATELY  PRECEDING  THE DATE THAT THE
  MEMBER MADE APPLICATION FOR CREDIT PURSUANT TO THIS SECTION.
   E.  NOTWITHSTANDING  ANY  OTHER PROVISION OF LAW TO THE CONTRARY, UPON
  COMPLETION OF TWENTY YEARS OF SERVICE, AND UPON  RETIREMENT,  EACH  SUCH
@@ -73,7 +76,7 @@ S T A T E  O F  N E W  Y O R K
  LOCAL  POLICE  AND FIRE RETIREMENT SYSTEM AS AN OFFICER OR MEMBER OF THE
  REGIONAL STATE PARK POLICE DEPARTMENT MAY RECEIVE FOR EACH SUCH YEAR  OF
  PREVIOUS  SERVICE, UP TO A TOTAL OF NO GREATER THAN FIVE YEARS OF PREVI-
- OUS SERVICE, ADDITIONAL PENSION EQUAL TO  ONE-SIXTIETH  OF  HIS  OR  HER
+ OUS SERVICE, ADDITIONAL PENSION EQUAL TO ONE-SIXTIETH OF  SUCH  MEMBER'S
  FINAL AVERAGE SALARY.
   TO  OBTAIN SUCH CREDIT A MEMBER SHALL  PAY SUCH RETIREMENT SYSTEM, FOR
  DEPOSIT IN THE FUND USED TO ACCUMULATE  EMPLOYER  CONTRIBUTIONS,  A  SUM
@@ -84,30 +87,30 @@ S T A T E  O F  N E W  Y O R K
   F.  NOTWITHSTANDING  ANY  OTHER PROVISION OF LAW TO THE CONTRARY, UPON
  COMPLETION OF TWENTY YEARS OF SERVICE, AND UPON  RETIREMENT,  EACH  SUCH
  MEMBER  WHO  WAS PREVIOUSLY CREDITED WITH SERVICE CREDIT IN THE NEW YORK
- STATE  AND  LOCAL EMPLOYEES' RETIREMENT SYSTEM AS A SPECIAL INVESTIGATOR
- EMPLOYED IN THE OFFICE OF THE ATTORNEY GENERAL MAY RECEIVE  FOR  EACH
- SUCH  YEAR  OF PREVIOUS SERVICE, UP TO A TOTAL OF NO GREATER THAN FIVE
- YEARS OF PREVIOUS SERVICE, ADDITIONAL PENSION EQUAL TO  ONE-SIXTIETH  OF
- HIS  OR HER FINAL AVERAGE SALARY.
-  TO OBTAIN SUCH CREDIT A MEMBER SHALL  PAY SUCH RETIREMENT SYSTEM,  FOR
- DEPOSIT  IN  THE  FUND  USED TO ACCUMULATE EMPLOYER CONTRIBUTIONS, A SUM
- EQUAL TO THE PRODUCT OF THE NUMBER OF YEARS  OF  SERVICE  BEING  CLAIMED
+ STATE  AND  LOCAL  EMPLOYEES'  RETIREMENT SYSTEM AS AN INVESTIGATOR IN A
+ DETECTIVE INVESTIGATOR ROLE EMPLOYED  IN  THE  OFFICE  OF  THE  ATTORNEY
+ GENERAL  MAY  RECEIVE  FOR  EACH  SUCH YEAR OF PREVIOUS SERVICE, UP TO A
+ TOTAL OF NO GREATER THAN FIVE  YEARS  OF  PREVIOUS  SERVICE,  ADDITIONAL
+ PENSION EQUAL TO ONE-SIXTIETH OF SUCH MEMBER'S FINAL AVERAGE SALARY.
+  TO  OBTAIN SUCH CREDIT A MEMBER SHALL  PAY SUCH RETIREMENT SYSTEM, FOR
+ DEPOSIT IN THE FUND USED TO ACCUMULATE  EMPLOYER  CONTRIBUTIONS,  A  SUM
+ EQUAL  TO  THE  PRODUCT  OF THE NUMBER OF YEARS OF SERVICE BEING CLAIMED
  AND THREE PERCENT OF SUCH MEMBER'S COMPENSATION EARNED DURING THE TWELVE
- MONTHS  OF CREDITED  SERVICE  IMMEDIATELY  PRECEDING  THE DATE THAT THE
+ MONTHS OF CREDITED  SERVICE  IMMEDIATELY  PRECEDING  THE DATE  THAT  THE
  MEMBER MADE APPLICATION FOR CREDIT PURSUANT TO THIS SECTION.
   § 2. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This bill would allow up to five years of previous service rendered as
- a police officer with  either  the  State  University  of  New  York  or
- Regional  State  Park  Police Department or as a special investigator in
- the Office of the New York State Attorney General to  become  creditable
- under  section  384-e  of  the  Retirement and Social Security Law. Upon
- completion of twenty years of service and upon retirement,  an  affected
- member  would  receive  an  additional  pension of one-sixtieth of their
- final average salary for each such additional  year  credited.  Affected
- members would be required to contribute an amount equal to three percent
- of  their  prior  twelve months of compensation for each year of service
- credit claimed.
+ a  police  officer  with  either  the  State  University  of New York or
+ Regional State Park Police Department or as an investigator in a  detec-
+ tive  investigator  role  in  the  Office of the New York State Attorney
+ General to become creditable under section 384-e of the  Retirement  and
+ Social Security Law. Upon completion of twenty years of service and upon
+ retirement,  an  affected  member would receive an additional pension of
+ one-sixtieth of their final average salary for each such additional year
+ credited. Affected members would be required  to  contribute  an  amount
+ equal  to three percent of their prior twelve months of compensation for
+ each year of service credit claimed.
   If this bill is enacted during the 2024 Legislative Session, we antic-
  ipate that there will be a past  service  cost  averaging  13.7%  of  an
  affected member's compensation for each year of additional service cred-
@@ -117,11 +120,11 @@ S T A T E  O F  N E W  Y O R K
   The exact number of current members as  well  as  future  members  who
  could be affected by this legislation cannot be readily determined.
   Summary of relevant resources:
+ A. 7547--B  3
+ 
   Membership  data as of March 31, 2023 was used in measuring the impact
  of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation. Distributions and other statistics can  be  found  in  the
- A. 7547--A  3
- 
  2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
   The  actuarial  assumptions and methods used are described in the 2023
@@ -136,6 +139,6 @@ S T A T E  O F  N E W  Y O R K
   This  fiscal note does not constitute a legal opinion on the viability
  of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated January 3, 2024, and intended for use only during
- the  2024  Legislative  Session, is Fiscal Note No. 2024-62, prepared by
+  This  estimate, dated March 19, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No. 2024-151,  prepared  by
  the Actuary for the New York State and Local Retirement System.
