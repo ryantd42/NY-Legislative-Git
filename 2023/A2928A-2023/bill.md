@@ -1,6 +1,6 @@
 # Requires all public and private schools to provide financial literacy education to certain pupils
 
-**Bill ID:** A2928A
+**Bill ID:** A2928AA
 **Session:** 2023
 **Sponsor:** Josh Jensen
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires all public and private schools to provide financial literacy education 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2928
+  2928--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,12 @@ S T A T E  O F  N E W  Y O R K
   February 1, 2023
   ___________
  
- Introduced by M. of A. JENSEN -- read once and referred to the Committee
-  on Education
+ Introduced  by  M.  of  A. JENSEN, NORRIS, DeSTEFANO, E. BROWN, BENDETT,
+  BLUMENCRANZ, TAGUE, GALLAHAN,  MANKTELOW,  ANGELINO,  BROOK-KRASNY  --
+  read once and referred to the Committee on Education -- recommitted to
+  the  Committee on Education in accordance with Assembly Rule 3, sec. 2
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
  AN  ACT  to amend the education law, in relation to requiring all public
   and private schools to provide financial literacy education to certain
@@ -35,9 +39,9 @@ S T A T E  O F  N E W  Y O R K
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The education law is amended by adding a new section 817 to
+  Section 1. The education law is amended by adding a new section 818 to
  read as follows:
-  §  817.  INSTRUCTION RELATING TO FINANCIAL LITERACY. 1. THE DEPARTMENT
+  §  818.  INSTRUCTION RELATING TO FINANCIAL LITERACY. 1. THE DEPARTMENT
  AND BOARD OF REGENTS SHALL REQUIRE THAT ALL PUBLIC AND  PRIVATE  SCHOOLS
  IN  THE STATE INCORPORATE A COURSE OR FULL UNIT OF INSTRUCTION IN FINAN-
  CIAL EDUCATION DELIVERED BY MEANS OF A COMPREHENSIVE FINANCIAL  LITERACY
@@ -55,16 +59,16 @@ S T A T E  O F  N E W  Y O R K
  THE FOLLOWING TOPICS:
   (A) TAXES;
   (B) STUDENT LOANS;
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02606-02-4
+ A. 2928--A  2
+ 
   (C) CAR LOANS AND LEASES;
   (D) MORTGAGES AND RENT;
   (E) DEBT;
   (F) INTEREST RATES;
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02606-01-3
- A. 2928  2
- 
   (G) CREDIT CARDS;
   (H) BUILDING CREDIT;
   (I) BANK ACCOUNTS AND DEBIT CARDS;
@@ -72,8 +76,9 @@ S T A T E  O F  N E W  Y O R K
   (K) ONLINE BANKING;
   (L) BUDGETING;
   (M) STOCKS, BONDS AND INVESTING;
-  (N) LONG TERM SAVING AND RETIREMENT ACCOUNTS; AND
-  (O) FORECLOSURE, BANKRUPTCY, AND EVICTION.
+  (N) LONG TERM SAVING AND RETIREMENT ACCOUNTS;
+  (O) FORECLOSURE, BANKRUPTCY, AND EVICTION; AND
+  (P) INSURANCE.
   4.  EACH  SCHOOL SHALL RETAIN THE ABILITY TO DETERMINE THE APPROPRIATE
  ORDER, METHOD, AND STRUCTURE  OF  THE  CURRICULUM  BEYOND  THE  REQUIRED
  TOPICS.
