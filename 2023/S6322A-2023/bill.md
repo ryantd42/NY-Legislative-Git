@@ -1,6 +1,6 @@
 # Grants service credit to members of the uniformed correction force of the New York city department of correction covered by provisions of law for over 25 years
 
-**Bill ID:** S6322A
+**Bill ID:** S6322AA
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Grants service credit to members of the uniformed correction force of the New Yo
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6322
+  6322--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,17 @@ S T A T E  O F  N E W  Y O R K
   April 13, 2023
   ___________
  
- Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Civil Service and Pensions
+ Introduced  by Sens. JACKSON, CHU -- read twice and ordered printed, and
+  when printed to be committed to the Committee  on  Civil  Service  and
+  Pensions -- recommitted to the Committee on Civil Service and Pensions
+  in accordance with Senate Rule 6, sec. 8 -- committee discharged, bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the retirement and social security law, in  relation  to
   retirement  benefits  for  general members in the uniformed correction
   force of the New York city department of correction
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,92 +59,114 @@ S T A T E  O F  N E W  Y O R K
  of  this  section  shall  not  apply  to  a  New  York  city  uniformed
  correction/sanitation revised plan member.
   § 2. This act shall take effect immediately.
-  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  SUMMARY  OF BILL: This proposed legislation would amend Retirement and
- Social Security Law (RSSL) Section 504 by modifying the service  retire-
- ment benefit calculation formula for uniformed employees of the New York
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08667-02-3
- S. 6322  2
+  LBD08667-04-4
+ S. 6322--A  2
  
- City  Department  of  Correction (Correction) who are members of the New
- York City Employees' Retirement System (NYCERS) and are subject  to  the
- Early  Service  Retirement  Benefit Plan for General Members pursuant to
- RSSL  Section  504  (CO-25  Plan).  The  CO-25 Plan is limited to Tier 3
- Correction members who joined NYCERS prior to December 19,  1990  (CO-25
- Plan Members).
-  Effective Date: Upon enactment.
-  IMPACT ON BENEFITS: Currently, upon reaching 25 or more years of cred-
- ited  service,  CO-25  Plan Members are entitled to a service retirement
- pension benefit equal to:
-  * 50% of Final Average Salary (FAS).
-  Under the proposed legislation, if  enacted,  the  service  retirement
- benefit for CO-25 Plan Members who retire for service under RSSL Section
- 504(d)  after  the effective date of the proposed legislation with 25 or
- more years of credited service would be equal to:
-  * 50% of FAS for the first 25 years of credited service, plus
-  * 1/60th of FAS for each additional year of credited service, or frac-
- tion thereof, exceeding 25 years (if any).
-  FINANCIAL IMPACT - PRESENT VALUES: Based on the census data and  actu-
- arial  assumptions  and  methods  herein, the enactment of this proposed
- legislation would increase the present value of future employer contrib-
- utions by approximately $4.0 million.
-  Under the Entry Age Normal cost method used to determine the  employer
- contributions  to  NYCERS,  there  would  be an increase in the Unfunded
- Accrued Liability (UAL) of approximately $3.9 million and an increase in
- the Present Value of Future Employer Normal Cost of $0.1 million.
-  FINANCIAL IMPACT - ANNUAL EMPLOYER  CONTRIBUTIONS:  The  enactment  of
- this  proposed legislation would result in an initial increase in annual
- employer contributions of approximately $4.3 million which is the result
- of an increase in the Normal Cost in addition to the UAL payment.
-  New UAL attributable to benefit changes are generally  amortized  over
- the remaining working lifetime of those impacted by the benefit changes.
- The remaining working lifetime for this group is approximately two years
- and  the  increase in UAL was therefore amortized over a two-year period
- (one payments under the One-Year Lag  Methodology)  using  level  dollar
- payments.
-  CENSUS  DATA:  The  estimates presented herein are based on the census
- data used in the June 30, 2022 actuarial valuation of NYCERS  to  deter-
- mine the Preliminary Fiscal Year 2024 employer contributions.
-  The  21  NYCERS  CO-25 Plan Members as of June 30, 2022 had an average
- age of approximately 59.9 years, average service of  approximately  33.3
- years, and an average salary of approximately $158,500.
-  ACTUARIAL ASSUMPTIONS AND METHODS: The estimates presented herein have
- been calculated based on the actuarial assumptions and methods in effect
- for the Preliminary Fiscal Year 2024 employer contributions of NYCERS.
-  For  the  purposes of this Fiscal Note, it is assumed that the changes
- would be reflected for the first time in the  June  30,  2022  actuarial
- valuation  of NYCERS used to determine employer contributions for Fiscal
- Year 2024.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  SUMMARY:  This proposed legislation would increase the service retire-
+ ment benefit for credited  service  exceeding  25  years  for  uniformed
+ employees  of  the  New  York  City  Department of Correction who joined
+ NYCERS prior to December 19, 1990 (Tier 3 CO-25 Plan Members).
+ 
+  EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+  by Fiscal Year for the first 25 years ($ in Thousands)
+ 
+  Year  NYCERS
+  2025  4,484
+  2026  14
+  2027  11
+  2028  7
+  2029  3
+  2030  2
+  2031  1
+  2032  1
+  2033  0
+  2034  0
+  2035  0
+  2036  0
+  2037  0
+  2038  0
+  2039  0
+  2040  0
+  2041  0
+  2042  0
+  2043  0
+  2044  0
+  2045  0
+  2046  0
+  2047  0
+  2048  0
+  2049  0
+ 
+  The entire increase in employer contributions will be allocated to New
+ York City.
+ 
+  INITIAL INCREASE (DECREASE) IN ACTUARIAL LIABILITIES
+  as of June 30, 2023 ($ in Thousands)
+ 
+  Present Value (PV)  NYCERS
+  PV of Benefits:  4,081
+  PV of Employee Contributions:  0
+  PV of Employer Contributions:  4,081
+  Unfunded Accrued Liabilities:  4,034
+ 
+  AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+
+  NYCERS
+  Number of Payments:  1
+  Fiscal Year of Last Payment:  2025
+  Amortization Payment:  4,465 K
+ S. 6322--A  3
+ 
+  Unfunded Accrued Liability increases were amortized over the  expected
+ remaining  working  lifetime  of  those  impacted by the benefit changes
+ using level dollar payments.
+  CENSUS  DATA:  The estimates presented herein are based on preliminary
+ census data collected as of June 30,  2023.  The  census  data  for  the
+ impacted population is summarized below.
+ 
+  NYCERS
+  Active Members
+  - Number Count:  19
+  - Average Age:  60.6
+  - Average Service:  35.0
+  - Average Salary:  164,900
+ 
+  IMPACT  ON  MEMBER BENEFITS: Currently, upon reaching 25 or more years
+ of credited service, CO-25  Plan  Members  are  entitled  to  a  service
+ retirement pension benefit equal to 50% of Final Average Salary (FAS).
+  Under  the  proposed  legislation,  CO-25  Plan Members who retire for
+ service under RSSL Section  504(d)  after  the  effective  date  of  the
+ proposed  legislation with 25 or more years of credited service would be
+ equal to 50% of FAS for the first 25 years  of  credited  service,  plus
+ 1/60th  of FAS for each additional year of credited service, or fraction
+ thereof, exceeding 25 years (if any).
+  ASSUMPTIONS AND METHODS: The  estimates  presented  herein  have  been
+ calculated  based  on the Revised 2021 Actuarial Assumptions and Methods
+ of the impacted retirement systems.
   RISK AND UNCERTAINTY: The costs presented in this Fiscal  Note  depend
- highly  on the realization of the actuarial assumptions used, demograph-
- ics of the impacted population, and other factors  such  as  investment,
- contribution,  and other risks. If actual experience deviates from actu-
- arial assumptions, the actual costs could differ  from  those  presented
- herein.
- S. 6322  3
- 
-  Costs  are also dependent on the actuarial methods used, and therefore
- different actuarial methods could produce different results. Quantifying
- these risks is beyond the scope of this Fiscal Note.
-  Not measured in this Fiscal Note are the following:
-  *  The initial additional administrative costs of NYCERS and other New
- York City agencies to implement the proposed legislation.
-  * The impact of this  proposed  legislation  on  Other  Postemployment
- Benefit (OPEB) costs.
-  STATEMENT  OF  ACTUARIAL  OPINION:  I, Marek Tyszkiewicz, am the Chief
- Actuary for, and independent of, the New York  City  Retirement  Systems
- and  Pension  Funds. I am an Associate of the Society of Actuaries and a
- Member of the American Academy of Actuaries. I am a member of NYCERS but
- do not believe it impairs my objectivity and I  meet  the  Qualification
- Standards  of  the American Academy of Actuaries to render the actuarial
- opinion contained herein. To the  best  of  my  knowledge,  the  results
- contained  herein  have  been  prepared  in  accordance  with  generally
- accepted actuarial principles and  procedures  and  with  the  Actuarial
- Standards of Practice issued by the Actuarial Standards Board.
-  FISCAL  NOTE  IDENTIFICATION: This Fiscal Note 2023-29 dated April 12,
- 2023 was prepared by the Chief Actuary for the New York City  Employees'
- Retirement  System.  This  estimate  is intended for use only during the
- 2023 Legislative Session.
+ highly  on  the  actuarial  assumptions, methods, and models used, demo-
+ graphics of the impacted population and other factors  such  as  invest-
+ ment,  contribution, and other risks. If actual experience deviates from
+ actuarial  assumptions,  the  actual  costs  could  differ  from  those
+ presented  herein.  Quantifying  these risks is beyond the scope of this
+ Fiscal Note.
+  This Fiscal Note is intended to measure  pension-related  impacts  and
+ does  not  include other potential costs (e.g., administrative and Other
+ Postemployment Benefits).
+  STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+ sky are members of the Society of Actuaries and the American Academy  of
+ Actuaries.  We  are  members of NYCERS but do not believe it impairs our
+ objectivity and we meet the  Qualification  Standards  of  the  American
+ Academy  of  Actuaries to render the actuarial opinion contained herein.
+ To the best of our knowledge, the results  contained  herein  have  been
+ prepared  in accordance with generally accepted actuarial principles and
+ procedures and with the Actuarial Standards of Practice  issued  by  the
+ Actuarial Standards Board.
+  FISCAL  NOTE  IDENTIFICATION: This Fiscal Note 2024-36 dated March 25,
+ 2024 was prepared by the Chief Actuary for the New York City  Retirement
+ Systems and Pension Funds. This estimate is intended for use only during
+ the 2024 Legislative Session.
