@@ -1,6 +1,6 @@
 # Relates to reduction of air pollution from petroleum bulk storage facilities
 
-**Bill ID:** S7565BA
+**Bill ID:** S7565BB
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Expands the options for shell color and roof color of petroleum bulk storage tan
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7565--A
+  7565--B
  
   2023-2024 Regular Sessions
  
@@ -27,6 +27,9 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
   printed to be  committed  to  the  Committee  on  Rules  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to  said  committee  --  recommitted to the Committee on Environmental
+  Conservation in accordance with Senate Rule 6,  sec.  8  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to said committee
  
@@ -40,8 +43,8 @@ S T A T E  O F  N E W  Y O R K
  added by chapter 505 of the laws of 2021, is amended to read as follows:
  § 17-1016. Reduction of air pollution from petroleum bulk storage facil-
   ities.
-  1. For purposes of this  section,  the  terms  below  shall  have  the
- following meaning:
+  1. DEFINITIONS. For purposes of this section, the  terms  below  shall
+ have the following [meaning] MEANINGS:
   a.  "Shell  color"  shall mean [the color and shade combination of the
  paint] ANY COATING on the sides or shell of a tank, WHICH REDUCES  VOLA-
  TILE EMISSIONS.
@@ -56,20 +59,16 @@ S T A T E  O F  N E W  Y O R K
  associated pipes, lines, fixtures or other ancillary equipment.
   2. Tank coloring. a.  No  person  shall  own  or  operate  a  facility
  containing  a  tank  that  does  not meet the color requirements of this
- subdivision. Such color requirements shall apply  to  every  tank  at  a
- facility regardless of whether the tank is in active use for storage.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11750-06-3
- S. 7565--A  2
+  LBD11750-07-4
+ S. 7565--B  2
  
+ subdivision. Such color requirements shall apply  to  every  tank  at  a
+ facility regardless of whether the tank is in active use for storage.
   b.  A  tank shall have a shell color and roof color of either white or
  beige/cream, OR WHICH LIMITS VOLATILE EMISSIONS TO  THE  SAME  OR  TO  A
  GREATER  EXTENT AS A SHELL COLOR AND ROOF COLOR OF WHITE OR BEIGE/CREAM,
  AS DETERMINED BY THE DEPARTMENT.
-  §  2.  This  act  shall take effect January 1, 2024, provided however,
- that if chapter 505 of the laws of 2021 shall not have taken  effect  on
- or  before  such  date then section one of this act shall take effect on
- the same date and in the same manner as such  chapter  of  the  laws  of
- 2021, takes effect.
+  § 2. This act shall take effect immediately.
