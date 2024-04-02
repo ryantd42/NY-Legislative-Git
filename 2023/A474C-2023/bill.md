@@ -1,6 +1,6 @@
 # Requires hospitals to develop a violence prevention program
 
-**Bill ID:** A474CA
+**Bill ID:** A474CB
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires hospitals to develop a violence prevention program.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  474--A
+  474--B
  
   2023-2024 Regular Sessions
  
@@ -25,10 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  M. of A. CRUZ -- read once and referred to the Committee
-  on Health -- recommitted to the Committee on Health in accordance with
-  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
-  reprinted as amended and recommitted to said committee
+ Introduced  by  M.  of  A.  CRUZ,  DINOWITZ,  SEAWRIGHT -- read once and
+  referred to the Committee on Health -- recommitted to the Committee on
+  Health in accordance  with  Assembly  Rule  3,  sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to  said  committee  -- again reported from said committee with amend-
+  ments, ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public health law, in relation to  requiring  hospi-
   tals to conduct an annual safety and security assessment and develop a
@@ -44,7 +46,7 @@ S T A T E  O F  N E W  Y O R K
  VIOLENCE  PREVENTION  PROGRAM  FOR THE PURPOSE OF PROTECTING HEALTH CARE
  WORKERS, PATIENTS, FAMILIES AND VISITORS. THE PROGRAM SHALL, AT A  MINI-
  MUM, INCLUDE THE REQUIREMENTS SET FORTH IN THIS SECTION.
-  2.  BEGINNING  JANUARY  FIRST, TWO THOUSAND TWENTY-FOUR, ALL HOSPITALS
+  2.  BEGINNING SEPTEMBER FIRST, TWO THOUSAND TWENTY-FIVE, ALL HOSPITALS
  SHALL CONDUCT, NOT LESS THAN ANNUALLY, A SAFETY AND SECURITY  ASSESSMENT
  AND  DEVELOP A SAFETY AND SECURITY PLAN. AS PART OF THE PLAN, A HOSPITAL
  SHALL ADOPT SECURITY  POLICIES  INCLUDING  PERSONNEL  TRAINING  POLICIES
@@ -57,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  ASSESSMENT  AND  DEVELOPING  THE  PLAN,  THE HOSPITAL SHALL CONSULT WITH
  AFFECTED EMPLOYEES, INCLUDING THE RECOGNIZED COLLECTIVE BARGAINING AGENT
  OR AGENTS, IF ANY, AND MEMBERS OF THE HOSPITAL  MEDICAL  STAFF  AND  MAY
- OCCUR  THROUGH  ESTABLISHED  HOSPITAL SAFETY AND SECURITY COMMITTEES AND
- EXISTING LABOR MANAGEMENT  COMMITTEES.  PERSONS  REGULARLY  ASSIGNED  TO
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02307-02-3
- A. 474--A  2
+  LBD02307-04-4
+ A. 474--B  2
  
+ OCCUR  THROUGH  ESTABLISHED  HOSPITAL SAFETY AND SECURITY COMMITTEES AND
+ EXISTING LABOR MANAGEMENT  COMMITTEES.  PERSONS  REGULARLY  ASSIGNED  TO
  PROVIDE  SECURITY  IN  A  HOSPITAL  SETTING  SHALL BE ADEQUATELY TRAINED
- REGARDING THE ROLE OF SECURITY IN  HOSPITAL  OPERATIONS,  INCLUDING  THE
- IDENTIFICATION  OF AGGRESSIVE AND VIOLENT PREDICTING FACTORS AND MANAGE-
+ REGARDING  THE  ROLE  OF  SECURITY IN HOSPITAL OPERATIONS, INCLUDING THE
+ IDENTIFICATION OF AGGRESSIVE AND VIOLENT PREDICTING FACTORS AND  MANAGE-
  MENT OF VIOLENT DISTURBANCES.
   3. THE ANNUAL SAFETY AND SECURITY ASSESSMENT SHALL INCLUDE, BUT NOT BE
  LIMITED TO, SECURITY CONSIDERATIONS RELATING TO ALL OF THE FOLLOWING:
@@ -100,4 +102,5 @@ S T A T E  O F  N E W  Y O R K
  PLAN  AND  OTHER  ASPECTS  OF THE VIOLENCE PREVENTION PROGRAM AVAILABLE,
  UPON REQUEST, TO ITS EMPLOYEES, THEIR DESIGNATED REPRESENTATIVES AND  TO
  THE DEPARTMENT.
-  § 2. This act shall take effect immediately.
+  § 2. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law.
