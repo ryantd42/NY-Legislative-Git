@@ -1,6 +1,6 @@
 # Relates to establishing a New York State Sound Basic Education Commission to study current educational needs and recommend a new foundation aid formula; appropriation
 
-**Bill ID:** S6712A
+**Bill ID:** S6712AA
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes a New York State Sound Basic Education Commission to study current e
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6712
+  6712--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   May 5, 2023
   ___________
  
- Introduced  by  Sen. JACKSON -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Finance
- 
+ Introduced  by Sens. JACKSON, FERNANDEZ -- read twice and ordered print-
+  ed, and when printed to be committed to the Committee  on  Finance  --
+  recommitted to the Committee on Finance in accordance with Senate Rule
+  6,  sec. 8 -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT establishing a New York State Sound Basic Education Commission to
   study current educational needs and recommend  a  new  foundation  aid
   formula  which  will  provide  all  students in the state a meaningful
@@ -50,37 +53,39 @@ S T A T E  O F  N E W  Y O R K
  students  in the state a meaningful opportunity for a sound basic educa-
  tion.
   Because educational needs, standards, and practices and student  demo-
- graphics have changed substantially over the past sixteen years, partic-
- ularly  in  light  of  the  radical educational disruption caused by the
- pandemic, the legislature finds that it is necessary and appropriate  to
- establish a standing sound basic education commission to analyze current
- educational  needs and to recommend to the governor, the legislature and
- the regents, a new foundation aid formula that will  provide  sufficient
- funding,  distributed in an equitable manner, to provide all students in
- the state a meaningful opportunity for a sound basic  education,  effec-
- tive  for  the 2024-2025 school year. Thereafter, in order to assess the
+ graphics have changed substantially since 2007, particularly in light of
+ the  radical educational disruption caused by the pandemic, the legisla-
+ ture finds that it is necessary and appropriate to establish a  standing
+ sound  basic  education  commission to analyze current educational needs
+ and to recommend to the governor, the legislature and the regents, a new
+ foundation aid formula that will provide sufficient funding, distributed
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08937-01-3
- S. 6712  2
+  LBD08937-04-4
+ S. 6712--A  2
  
- workings of the new formula and account for changing educational  needs,
- the commission will monitor the implementation of the new foundation aid
- formula and provide recommendations to the governor, the legislature and
- the  regents,  every two years thereafter regarding (a) revisions to the
- foundation aid formula that may be necessary to ensure that every school
- has the resources necessary for providing the opportunity  for  a  sound
- basic education in a cost efficient manner; and (b) accountability meas-
- ures needed to ensure that the state's system of education finance actu-
- ally  provides  a  meaningful opportunity for a sound basic education to
- all students.
-  § 2.  Establishment of commission. 1. There is  hereby  established  a
+ in an equitable manner, to provide all students in the state a  meaning-
+ ful opportunity for a sound basic education, effective for the 2025-2026
+ school  year.  Thereafter,  in  order  to assess the workings of the new
+ formula  and account for changing educational needs, the commission will
+ monitor the implementation of the new foundation aid formula and provide
+ recommendations to the governor, the legislature and the regents,  every
+ two  years  thereafter  regarding  (a)  revisions  to the foundation aid
+ formula that may be necessary  to  ensure  that  every  school  has  the
+ resources  necessary  for  providing  the  opportunity for a sound basic
+ education in a cost efficient manner; and  (b)  accountability  measures
+ needed  to  ensure that the state's system of education finance actually
+ provides a meaningful opportunity for a sound  basic  education  to  all
+ students.
+  §  2.  Establishment of commission. 1. There is hereby established a
  standing New York state sound basic education commission comprised of 15
  members, to be appointed as follows:
-  (a) two individuals shall be appointed by the speaker of the assembly;
-  (b)  two  individuals shall be appointed by the temporary president of
- the senate;
+  (a) two individuals shall be appointed by the speaker of the assembly,
+ at least one of whom shall be a parent of a public school student;
+  (b) two individuals shall be appointed by the temporary  president  of
+ the  senate,  at  least one of whom shall be a parent of a public school
+ student;
   (c) one individual shall be appointed by the senate minority leader;
   (d) one individual shall be appointed by the assembly minority leader;
   (e) two individuals shall be appointed by the board of regents, one of
@@ -91,17 +96,20 @@ S T A T E  O F  N E W  Y O R K
  and
   (g) five individuals shall be appointed by the governor, one  of  whom
  shall be a member of a school board in a New York state school district;
- one  of whom shall be a representative of the business community; one of
- whom shall be a representative of an  education  advocacy  organization;
- one  of  whom  shall be a faculty member of a university in the state of
- New York; and one of whom shall be appointed upon the recommendation  of
- the chancellor of the city school district of the city of New York.
+ one of whom shall be a career and technology representative; one of whom
+ shall  be a representative of an education advocacy organization; one of
+ whom shall be a faculty member of a university in the state of New  York
+ with expertise in educational equity and school finance; and one of whom
+ shall be appointed upon the recommendation of the chancellor of the city
+ school district of the city of New York.
   2.  The  appointed members shall serve for staggered three-year terms.
  The members of the commission shall include at least two persons who are
- parents of public school students, one person with  expertise  regarding
- the  educational  needs  of  students with disabilities, one person with
- expertise regarding English  language  learners,  and  one  person  with
- expertise about the needs of students living in poverty.
+ parents of public school students, in addition to the parents of  public
+ school  students appointed by the speaker of the assembly and the tempo-
+ rary president of the senate, one person with  expertise  regarding  the
+ educational  needs of students with disabilities, one person with exper-
+ tise regarding English language learners, and one person with  expertise
+ about the needs of students living in poverty.
   § 3. Operations of the commission. 1. The commission shall be governed
  by  a  majority  vote, and shall annually elect a member to serve as its
  chairperson. A majority of the members of the commission  constitutes  a
@@ -113,19 +121,19 @@ S T A T E  O F  N E W  Y O R K
  of the commission.
   2. No member of the commission shall be disqualified from holding  any
  other  public  office  or  public employment, nor shall they forfeit any
+ S. 6712--A  3
+ 
  such public office or public employment by reason of  their  appointment
  pursuant to this section, notwithstanding the provisions of any general,
  special  or  local  law,  regulation, ordinance or city charter. Nothing
- contained in this act shall prohibit a member  of  the  commission  from
- receiving  their  salary  earned by reason of their state employee posi-
+ contained  in  this  act  shall prohibit a member of the commission from
+ receiving their salary earned by reason of their  state  employee  posi-
  tion.
-  3. The commission shall appoint an executive director  and  additional
- staff  personnel  necessary  for the performance of its functions. Their
- S. 6712  3
- 
+  3.  The  commission shall appoint an executive director and additional
+ staff personnel necessary for the performance of  its  functions.  Their
  salaries and the commission's other expenses shall be paid through annu-
- al appropriations by the  legislature.  The  commissioner  of  education
- shall  furnish  reasonable  staff  and other support as requested by the
+ al  appropriations  by  the  legislature.  The commissioner of education
+ shall furnish reasonable staff and other support  as  requested  by  the
  executive  director, and the commission and the executive director shall
  request and  receive  reasonable  assistance  from  other  state  agency
  personnel, as is necessary for the performance of its functions.
@@ -133,10 +141,10 @@ S T A T E  O F  N E W  Y O R K
  shall analyze current educational needs and determine the actual current
  costs of providing all students in the state  a  meaningful  opportunity
  for  a sound basic education and recommend to the governor, the legisla-
- ture and the regents no later than February 1, 2024,  a  new  foundation
+ ture and the regents no later than February 1, 2025,  a  new  foundation
  aid  formula  that  will  provide  sufficient funding, distributed in an
  equitable manner, to provide all students in the state  the  opportunity
- for a sound basic education, effective for the 2024-2025 school year.
+ for a sound basic education, effective for the 2025-2026 school year.
   2. In determining the actual cost of providing all students a meaning-
  ful opportunity for a sound basic education and developing the new foun-
  dation aid formula the commission shall consider (a) the recommendations
@@ -156,7 +164,7 @@ S T A T E  O F  N E W  Y O R K
  recommendations of  the  professional  judgment  panels  and  the  input
  received  from  public  engagement  forums,  as well as the professional
  judgment and public engagement processes utilized by the commission.
-  5. At the end of the 2024 legislative session, the  legislature  shall
+  5. At the end of the 2025 legislative session, the  legislature  shall
  issue  a  report  informing  the  public  of (a) the extent to which the
  recommendations of the commission have been adopted and implemented, and
  (b) specific reasons for modifying and/or rejecting any of  the  commis-
@@ -167,9 +175,11 @@ S T A T E  O F  N E W  Y O R K
  analyses to identify and recommend to the commission best practices that
  lead  to  high student performance and cost-efficient methods for imple-
  menting those best practices in the state's public schools.
-  2. No later than September 1, 2026, and every September of each fourth
+  2. No later than September 1, 2027, and every September of each fourth
  year thereafter, the commission shall issue a report  to  the  governor,
  the legislature, and the regents that:
+ S. 6712--A  4
+ 
   (a)  summarizes its reviews of the implementation of the new founda-
  tion aid formula and proposes such revisions to the formula  as  may  be
  necessary  and  appropriate  to  ensure  that every school will have the
@@ -178,41 +188,39 @@ S T A T E  O F  N E W  Y O R K
  well as any accountability measures needed to ensure  that  the  state's
  system  of  education finance actually provides a meaningful opportunity
  for a sound basic education to all students; and
- S. 6712  4
- 
   (b) recommends for  incorporation  into  state  laws,  regulations  or
  commissioner's guidelines specific cost-efficient methods for implement-
  ing  best  practices  for  providing  all students the opportunity for a
  sound basic education.
   3. At the end of the legislative session following issuance of each of
  the biennial reports, the legislature shall issue a report informing the
- public  of (a) the extent to which the recommendations of the commission
- have been adopted and implemented, and (b) specific reasons for  modify-
- ing  and/or  rejecting  any  of the commission's substantive recommenda-
+ public of (a) the extent to which the recommendations of the  commission
+ have  been adopted and implemented, and (b) specific reasons for modify-
+ ing and/or rejecting any of  the  commission's  substantive  recommenda-
  tions.
-  § 6. Major formula revisions. Beginning on January 1, 2028, and  every
- four  years thereafter, the commission shall analyze current educational
- needs and determine the actual current costs of providing  all  students
- in  the  state  a meaningful opportunity for a sound basic education and
+  §  6. Major formula revisions. Beginning on January 1, 2029, and every
+ four years thereafter, the commission shall analyze current  educational
+ needs  and  determine the actual current costs of providing all students
+ in the state a meaningful opportunity for a sound  basic  education  and
  recommend to the governor, the legislature and the regents no later than
- February 1, 2029, and every four  years  thereafter,  revisions  of  the
+ February  1,  2030,  and  every  four years thereafter, revisions of the
  foundation aid formula that it believes are necessary to  provide suffi-
- cient  funding,  distributed  in  an  equitable  manner,  to provide all
- students in the state the  opportunity  for  a  sound  basic  education,
- effective  for the next school year. The commission's analyses, determi-
+ cient funding, distributed  in  an  equitable  manner,  to  provide  all
+ students  in  the  state  the  opportunity  for a sound basic education,
+ effective for the next school year. The commission's analyses,  determi-
  nations and recommendations, and the legislature's end of session report
  shall be in accordance with the provisions of section four of this act.
-  § 7. Appropriation. For the necessary and reasonable expenses  of  the
- sound  basic  education commission for the 2022-2023 school year through
- the  2023-2024  school  year,  there  is  hereby  appropriated  up  to
- $5,000,000,  to  be allocated by the commissioner of education, pursuant
- to a budget submitted to the commissioner of education by the  executive
- director  of  the commission, and approved by the commissioner of educa-
+  §  7.  Appropriation. For the necessary and reasonable expenses of the
+ sound basic education commission for the 2023-2024 school  year  through
+ the  2024-2025  school  year,  there  is  hereby  appropriated  up  to
+ $1,000,000, to be allocated by the commissioner of  education,  pursuant
+ to  a budget submitted to the commissioner of education by the executive
+ director of the commission, and approved by the commissioner  of  educa-
  tion.
   § 8.  This act shall take effect immediately. If any clause, sentence,
- subdivision, paragraph, section or part of this act be adjudged  by  any
- court  of  competent jurisdiction to be invalid, such judgment shall not
- affect, impair  or  invalidate  the  remainder  thereof,  but  shall  be
- confined  in  its  operation to the clause, sentence, subdivision, para-
- graph, section or part thereof directly involved in the  controversy  in
+ subdivision,  paragraph,  section or part of this act be adjudged by any
+ court of competent jurisdiction to be invalid, such judgment  shall  not
+ affect,  impair  or  invalidate  the  remainder  thereof,  but  shall be
+ confined in its operation to the clause,  sentence,  subdivision,  para-
+ graph,  section  or part thereof directly involved in the controversy in
  which such judgment shall have been rendered.
