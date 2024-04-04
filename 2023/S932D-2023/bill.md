@@ -1,6 +1,6 @@
 # Relates to the cancellation of a health club contract
 
-**Bill ID:** S932DC
+**Bill ID:** S932DD
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires health clubs accept cancellation of a membership within ten business da
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  932--C
+  932--D
   Cal. No. 111
  
   2023-2024 Regular Sessions
@@ -26,56 +26,59 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by Sens. PERSAUD, JACKSON -- read twice and ordered printed,
-  and when  printed  to  be  committed  to  the  Committee  on  Consumer
-  Protection -- committee discharged, bill amended, ordered reprinted as
-  amended  and  recommitted  to  said  committee  --  recommitted to the
-  Committee on Consumer Protection in accordance  with  Senate  Rule  6,
-  sec.  8  --  committee  discharged, bill amended, ordered reprinted as
+ Introduced  by  Sens.  PERSAUD,  JACKSON,  SEPULVEDA  --  read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Consumer  Protection  --  committee  discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee --  recommitted
+  to the Committee on Consumer Protection in accordance with Senate Rule
+  6,  sec. 8 -- committee discharged, bill amended, ordered reprinted as
   amended and recommitted to said committee -- reported  favorably  from
   said  committee,  ordered  to  first  report, amended on first report,
   ordered to a second report and ordered reprinted, retaining its  place
-  in the order of second report
+  in  the order of second report -- ordered to second report, ordered to
+  a third reading, passed by  Senate  and  delivered  to  the  Assembly,
+  recalled,  vote  reconsidered,  restored to third reading, amended and
+  ordered reprinted, retaining its place in the order of third reading
  
- AN  ACT  to amend the general business law, in relation to the cancella-
+ AN ACT to amend the general business law, in relation to  the  cancella-
   tion of a health club contract
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
- 
+
   Section 1.  Section 624 of the general business law, as added by chap-
  ter 630 of the laws of 1978, is amended to read as follows:
-  §  624.  Rights  of  cancellation of contracts for services. 1.  Every
- contract for services at a planned health club or a  health  club  under
+  § 624. Rights of cancellation of contracts for  services.  1.  Every
+ contract  for  services  at a planned health club or a health club under
  construction shall, at the option of the buyer, be voidable in the event
- that  the  health  club and the services to be provided pursuant to such
+ that the health club and the services to be provided  pursuant  to  such
  contract are not available within one year from the date the contract is
  executed by the buyer.
   2. Every contract for services shall provide that such contract may be
- cancelled within three business days after the date of  receipt  by  the
+ cancelled  within  three  business days after the date of receipt by the
  buyer of a copy of the written contract. Notice of cancellation shall be
- delivered  by [certified or registered] United States mail OR ELECTRONIC
- MAIL at the address OR E-MAIL ADDRESS specified in  the  contract.  Such
- contract  shall  contain  the following written notice in at least [ten]
- TWELVE point bold type: CONSUMERS RIGHT TO CANCELLATION. YOU MAY  CANCEL
- THIS CONTRACT WITHOUT ANY PENALTY OR FURTHER OBLIGATION WITHIN THREE (3)
- BUSINESS DAYS FROM THIS DATE . . . . . . Notice of cancellation shall be
+ delivered by [certified or registered] United States mail OR  ELECTRONIC
+ MAIL  at  the  address OR E-MAIL ADDRESS specified in the contract. Such
+ contract shall contain the following written notice in  at  least  [ten]
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01730-14-4
- S. 932--C  2
+  LBD01730-19-4
+ S. 932--D  2
  
+ TWELVE  point bold type: CONSUMERS RIGHT TO CANCELLATION. YOU MAY CANCEL
+ THIS CONTRACT WITHOUT ANY PENALTY OR FURTHER OBLIGATION WITHIN THREE (3)
+ BUSINESS DAYS FROM THIS DATE . . . . . . Notice of cancellation shall be
  in  writing  subscribed by the buyer and mailed by [registered or certi-
  fied] United States mail OR ELECTRONIC MAIL to the seller at the address
  OR E-MAIL ADDRESS specified in such form. Such notice shall be  accompa-
  nied  by the contract forms, membership cards and any other documents or
  evidence of membership previously delivered to the buyer.  All  moneys
- paid  pursuant to such contract shall be refunded within [fifteen] THREE
+ paid  pursuant  to  such contract shall be refunded within [fifteen] TEN
  business days of receipt of such notice of cancellation.  If the  buyer
  has  executed  any  credit  or  loan agreement to pay for all or part of
  health club services, any such negotiable  instrument  executed  by  the
- buyer shall also be returned within [fifteen] THREE BUSINESS days.
+ buyer shall also be returned within [fifteen] TEN BUSINESS days.
   3. (A) Every contract for services shall provide that after such three
  BUSINESS  day  period for cancellation as provided in subdivision two of
  this section, the buyer's estate may cancel a contract for  services  if
@@ -104,7 +107,7 @@ S T A T E  O F  N E W  Y O R K
   If the services cease to be offered as stated in the contract.
   (C)  All  moneys  paid  pursuant  to  such  contract cancelled for the
  reasons contained in this subdivision shall be refunded within [fifteen]
- THREE BUSINESS days of receipt of such notice of cancellation;  provided
+ TEN BUSINESS days of receipt of such notice  of  cancellation;  provided
  however that the seller may retain the expenses incurred and the portion
  of  the  total  price  representing  the services used or completed, and
  further provided that the seller may demand the reasonable cost of goods
@@ -113,20 +116,20 @@ S T A T E  O F  N E W  Y O R K
  more than the full contract price from  the  buyer.  If  the  buyer  has
  executed  any  credit or loan agreement to pay for all or part of health
  club services, any such negotiable  instrument  executed  by  the  buyer
- shall also be returned within [fifteen] THREE BUSINESS days.
+ shall also be returned within [fifteen] TEN BUSINESS days.
   4. (A) EVERY CONTRACT FOR SERVICES SHALL PROVIDE THAT SUCH HEALTH CLUB
  SHALL  ACCEPT  CANCELLATION  OF A MEMBERSHIP BY THE BUYER OR THE BUYER'S
  ESTATE, AS PROVIDED IN THIS SECTION, NO LATER THAN THREE  BUSINESS  DAYS
- OF RECEIVING NOTICE OF THE CANCELLATION.
+ AFTER RECEIVING NOTICE OF THE CANCELLATION.
+ S. 932--D  3
+ 
   (B)  WHERE  A  CONTRACT  FOR  SERVICES IS DUE FOR RENEWAL ON AN ANNUAL
  BASIS, SUCH CONTRACT FOR SERVICES FOLLOWING THE INITIAL  CONTRACT  SHALL
  PROVIDE  THAT SUCH HEALTH CLUB SHALL ACCEPT CANCELLATION OF RENEWAL OF A
  MEMBERSHIP, BY THE BUYER OR THE BUYER'S ESTATE, PROVIDED SUCH REQUEST IS
- S. 932--C  3
- 
  MADE WITHIN FIFTEEN BUSINESS DAYS AFTER SUCH RENEWAL TAKES EFFECT. WHERE
- A CONTRACT FOR SERVICE IS DUE FOR  RENEWAL  ON  A  MONTHLY  BASIS,  SUCH
- CONTRACT  FOR SERVICES FOLLOWING THE INITIAL CONTRACT SHALL PROVIDE THAT
+ A  CONTRACT  FOR  SERVICE  IS  DUE  FOR RENEWAL ON A MONTHLY BASIS, SUCH
+ CONTRACT FOR SERVICES FOLLOWING THE INITIAL CONTRACT SHALL PROVIDE  THAT
  SUCH  HEALTH  CLUB  SHALL  ACCEPT  CANCELLATION  OF RENEWAL OF A MONTHLY
  MEMBERSHIP, BY THE BUYER OR THE BUYER'S ESTATE PROVIDED SUCH REQUEST  IS
  MADE WITHIN THREE BUSINESS DAYS AFTER SUCH RENEWAL TAKES EFFECT.
