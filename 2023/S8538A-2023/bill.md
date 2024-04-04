@@ -1,6 +1,6 @@
 # Establishes a central business district toll exemption for first responders
 
-**Bill ID:** S8538A
+**Bill ID:** S8538AA
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes a central business district toll exemption for first responders empl
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8538
+  8538--A
  
   I N  S E N A T E
  
@@ -24,20 +24,23 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. SCARCELLA-SPANTON -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Transportation
+  and when printed to be committed to the Committee on Transportation --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
  AN ACT to amend the vehicle and traffic law, in relation to establishing
   a central business district toll exemption for first responders
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
   Section 1. Section 1704-a of the vehicle and traffic law is amended by
  adding a new subdivision 2-a to read as follows:
-  2-A.  (A)  NOTWITHSTANDING  ANY  PROVISION  TO  THE CONTRARY, NO FIRST
- RESPONDER SHALL BE CHARGED A CENTRAL  BUSINESS  DISTRICT  TOLL  IF  SUCH
- FIRST RESPONDER IS EMPLOYED BY THE STATE OR ANY MUNICIPALITY THEREOF AND
- IS PERFORMING THEIR DUTIES IN SUCH CENTRAL BUSINESS DISTRICT.
+  2-A. (A) NOTWITHSTANDING ANY  PROVISION  TO  THE  CONTRARY,  NO  FIRST
+ RESPONDER  SHALL  BE  CHARGED  A  CENTRAL BUSINESS DISTRICT TOLL IF SUCH
+ FIRST RESPONDER IS EMPLOYED BY THE STATE, ANY MUNICIPALITY, A RECOGNIZED
+ CORPORATION OR AUTHORITY, OR  CERTIFIED  ORGANIZATION,  THEREOF  AND  IS
+ PERFORMING ANY PART OF THEIR DUTIES IN SUCH CENTRAL BUSINESS DISTRICT.
   (B)  FOR  THE  PURPOSES  OF  THIS SUBDIVISION, "FIRST RESPONDER" SHALL
  INCLUDE BUT NOT BE LIMITED TO A MEMBER OF A POLICE  DEPARTMENT  OR  FIRE
  DEPARTMENT,  AN  EMERGENCY  MEDICAL  TECHNICIAN,  CORRECTION  OFFICER,
@@ -48,7 +51,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11985-01-3
+  LBD11985-03-4
