@@ -1,6 +1,6 @@
 # Relates to excluding renewable energy pilot projects and certain payments in lieu of taxes from tax cap calculations, and to the establishment of a distributed generation energy development program
 
-**Bill ID:** A3579BA
+**Bill ID:** A3579BB
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to excluding renewable energy pilot projects and certain energy system-r
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3579--A
+  3579--B
  
   2023-2024 Regular Sessions
  
@@ -25,16 +25,19 @@ S T A T E  O F  N E W  Y O R K
   February 3, 2023
   ___________
  
- Introduced  by  M. of A. FAHY -- read once and referred to the Committee
-  on Local Governments -- committee discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
+ Introduced  by  M. of A. FAHY, BURDICK, SEAWRIGHT, LUNSFORD -- read once
+  and referred to  the  Committee  on  Local  Governments  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee -- recommitted to the Committee on Local Governments
+  in  accordance  with  Assembly Rule 3, sec. 2 -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
  
  AN  ACT  to  amend  the  general municipal law and the education law, in
   relation to excluding renewable energy  pilot  projects  and  certain
   energy  system-related  payments  in lieu of taxes from tax cap calcu-
-  lations; to amend the executive law, in  relation  to  establishing  a
-  distributed  generation  energy  development  program;  and  making an
-  appropriation therefor
+  lations; and to amend the executive law, in relation to establishing a
+  distributed generation energy development program
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -58,11 +61,11 @@ S T A T E  O F  N E W  Y O R K
  A of chapter 97 of the laws of 2011, are amended to read as follows:
   (iii) Add any payments in lieu of taxes that were  receivable  in  the
  prior  fiscal  year,  OTHER THAN PAYMENTS IN LIEU OF TAXES RECEIVABLE IN
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03487-03-3
- A. 3579--A  2
+  LBD03487-05-4
+ A. 3579--B  2
  
  CONNECTION WITH ENERGY SYSTEMS DEFINED IN SECTION FOUR  HUNDRED  EIGHTY-
  SEVEN OF THE REAL PROPERTY TAX LAW.
@@ -81,9 +84,9 @@ S T A T E  O F  N E W  Y O R K
  fiscal year,  OTHER  THAN  PAYMENTS  IN  LIEU  OF  TAXES  RECEIVABLE  IN
  CONNECTION  WITH  ENERGY SYSTEMS DEFINED IN SECTION FOUR HUNDRED EIGHTY-
  SEVEN OF THE REAL PROPERTY TAX LAW.
-  § 4. The executive law is amended by adding a new section 94-d to read
+  § 4. The executive law is amended by adding a new section 94-e to read
  as follows:
-  § 94-D. DISTRIBUTED GENERATION ENERGY DEVELOPMENT PROGRAM. 1. PURPOSE.
+  § 94-E. DISTRIBUTED GENERATION ENERGY DEVELOPMENT PROGRAM. 1. PURPOSE.
  IT IS THE PURPOSE OF THIS SECTION TO ADVANCE THE DEVELOPMENT OF DISTRIB-
  UTED GENERATION ENERGY FACILITIES IN THIS STATE BY  PROVIDING  A  SINGLE
  FORUM FOR A STATE-LEVEL APPEALS PROCESS IN WHICH THE OFFICE OF RENEWABLE
@@ -120,7 +123,7 @@ S T A T E  O F  N E W  Y O R K
   (G) "DEPARTMENT" MEANS THE DEPARTMENT OF STATE.
   (H) "DISTRIBUTED GENERATION ENERGY FACILITY" MEANS ANY RENEWABLE ENER-
  GY SYSTEM, AS SUCH TERM IS DEFINED BY SECTION SIXTY-SIX-P OF THE  PUBLIC
- A. 3579--A  3
+ A. 3579--B  3
  
  SERVICE  LAW,  WITH  A  NAMEPLATE GENERATING CAPACITY OF TWENTY THOUSAND
  KILOWATTS AC OR LESS. THE TERM "DISTRIBUTED GENERATION ENERGY  FACILITY"
@@ -178,7 +181,7 @@ S T A T E  O F  N E W  Y O R K
  THAT CAN BE DOWNLOADED, POPULATED AND  SENT  TO  THE  LOCAL  AGENCY  VIA
  CERTIFIED  MAIL BY THE AFFECTED PARTY, NOTIFYING THE LOCAL AGENCY OF THE
  REQUEST FOR A DECLARATORY RULING.
- A. 3579--A  4
+ A. 3579--B  4
  
   (T) "PERMIT APPEAL NOTIFICATION LETTER" MEANS A  LETTER  SENT  BY  THE
  OFFICE  VIA  CERTIFIED  MAIL  TO THE AFFECTED PARTY AND THE LOCAL AGENCY
@@ -236,7 +239,7 @@ S T A T E  O F  N E W  Y O R K
   (A) THE FILING OF AN APPEAL SHALL OCCUR WHEN A COPY OF THE APPLICATION
  FOR APPEAL TO THE OFFICE OF RENEWABLE ENERGY SITING IS  FILED  WITH  THE
  TOWN CLERK OR THEIR EQUIVALENT;
- A. 3579--A  5
+ A. 3579--B  5
  
   (B)  NOTWITHSTANDING ANY LAW, RULE, OR REGULATION TO THE CONTRARY, THE
  OFFICE SHALL, WITHIN THIRTY DAYS OF ITS RECEIPT OF AN APPLICATION FOR  A
@@ -293,7 +296,7 @@ S T A T E  O F  N E W  Y O R K
   (D) AT THE REQUEST OF THE OFFICE, ALL OTHER STATE AGENCIES AND AUTHOR-
  ITIES ARE HEREBY AUTHORIZED TO PROVIDE SUPPORT AND  RENDER  SERVICES  TO
  THE OFFICE WITHIN THEIR RESPECTIVE FUNCTIONS.
- A. 3579--A  6
+ A. 3579--B  6
  
   6.  APPLICABILITY.  (A)  BEGINNING  UPON  THE  EFFECTIVE  DATE OF THIS
  SECTION, A PERMIT RESULTING FROM AN APPEAL ISSUED BY THE OFFICE  MAY  BE
@@ -349,17 +352,4 @@ S T A T E  O F  N E W  Y O R K
  TO THE NEW YORK STATE ENERGY RESEARCH AND DEVELOPMENT AUTHORITY FOR  THE
  SERVICES  AND  EXPENSES  OF  THE  CLEAN  ENERGY PROJECT SITING TEAM. THE
  OFFICE MAY UPDATE SUCH FEE PERIODICALLY SOLELY TO ACCOUNT FOR INFLATION.
-  § 5. The sum of two million dollars ($2,000,000) is  hereby  appropri-
- ated  for  services and expenses, loans, grants, and other costs related
- A. 3579--A  7
- 
- to the clean energy project siting team of the New York energy  research
- and development authority to hire additional staff to expand and enhance
- outreach  to  municipalities,  county  economic  development  agencies,
- regional  clean  energy hubs, and community organizations throughout the
- State  to  provide  educational  opportunities  about  renewable  energy
- resources,  benefits for host communities, community planning resources,
- and other related expenses, including administrative expenses needed  to
- support  the  program  and  funding  for  regional  clean energy hubs to
- conduct education and outreach.
-  § 6. This act shall take effect immediately.
+  § 5. This act shall take effect immediately.
