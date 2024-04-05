@@ -1,6 +1,6 @@
 # Includes the abduction of a child to avoid treatment for gender dysphoria in the offense of custodial interference in the first degree
 
-**Bill ID:** A6660A
+**Bill ID:** A6660AA
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Includes the removal of a child to avoid treatment for gender dysphoria in the o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6660
+  6660--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. BURDICK -- read once and referred to the Commit-
-  tee on Codes
+  tee on Codes -- recommitted to the Committee on  Codes  in  accordance
+  with  Assembly  Rule  3, sec. 2 -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the penal law, in relation to including the abduction of
   a child to avoid treatment for gender  dysphoria  in  the  offense  of
   custodial interference in the first degree
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -46,7 +48,7 @@ S T A T E  O F  N E W  Y O R K
   [2.]  (B)  Under  circumstances which expose the victim to a risk that
  [his] THEIR safety will be endangered or [his] THEIR  health  materially
  impaired[.]; OR
-  2.  THEY ABDUCT A MINOR CHILD FROM THE STATE TO OBTAIN CUSTODY OF SAID
+  2.  THEY REMOVE A MINOR CHILD FROM THE STATE TO OBTAIN CUSTODY OF SAID
  MINOR CHILD ASSERTING THAT THE MINOR CHILD HAS BEEN ABUSED BY VIRTUE  OF
  THE MINOR CHILD BEING TREATED FOR GENDER DYSPHORIA OR BEING GIVEN GENDER
  AFFIRMING CARE UNDER CIRCUMSTANCES WHICH ARE LEGAL WITHIN THE STATE.
@@ -56,11 +58,13 @@ S T A T E  O F  N E W  Y O R K
  victim because [he has] THEY HAVE been subjected to or  threatened  with
  mistreatment  or  abuse.  FOR  THE PURPOSES OF SUBDIVISION TWO OF THIS
  SECTION, THE OFFER OR PROVISION OF GENDER AFFIRMING THERAPY OR CARE,  OR
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD10812-03-4
+ A. 6660--A  2
+ 
  OF SEX-REASSIGNMENT PRESCRIPTIONS OR PROCEDURES TO THE MINOR CHILD SHALL
  NOT BE CONSIDERED MISTREATMENT OR ABUSE OF THE MINOR CHILD.
   Custodial interference in the first degree is a class E felony.
   § 2. This act shall take effect immediately.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD10812-02-3
