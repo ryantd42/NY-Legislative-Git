@@ -1,6 +1,6 @@
 # Prohibits discrimination against individuals who were prescribed pre-exposure prophylaxis medication for HIV prevention with respect to insurance coverage
 
-**Bill ID:** A8834BA
+**Bill ID:** A8834BB
 **Session:** 2023
 **Sponsor:** David Weprin
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Prohibits discrimination against individuals who were prescribed pre-exposure pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8834--A
+  8834--B
  
   I N  A S S E M B L Y
  
@@ -25,12 +25,14 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. WEPRIN -- read once and referred to the Committee
   on  Insurance -- committee discharged, bill amended, ordered reprinted
-  as amended and recommitted to said committee
+  as amended and recommitted to said committee --  again  reported  from
+  said  committee  with  amendments,  ordered  reprinted  as amended and
+  recommitted to said committee
  
  AN ACT to amend the insurance law, in relation to prohibiting  discrimi-
-  nation  against  individuals  who  tested positive for HIV or who were
-  prescribed pre-exposure prophylaxis medication for HIV prevention with
-  respect to life, accident, and health insurance coverage
+  nation against individuals who were prescribed pre-exposure prophylax-
+  is  medication  for HIV prevention with respect to life, accident, and
+  health insurance coverage
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -57,4 +59,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13530-04-4
+  LBD13530-06-4
