@@ -1,6 +1,6 @@
 # Authorizes the attorney general to approve certain state land acquisitions made for the purposes of land conservation
 
-**Bill ID:** A7372A
+**Bill ID:** A7372AA
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the attorney general to approve certain state land acquisitions made 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7372
+  7372--A
  
   2023-2024 Regular Sessions
  
@@ -25,47 +25,52 @@ S T A T E  O F  N E W  Y O R K
   May 18, 2023
   ___________
  
- Introduced by M. of A. THIELE -- read once and referred to the Committee
-  on Environmental Conservation
+ Introduced  by  M. of A. THIELE, REYES, LEVENBERG, STIRPE, L. ROSENTHAL,
+  KELLES, COLTON, SIMONE, STERN, DURSO, GANDOLFO, JACOBSON, OTIS -- read
+  once and referred to the Committee on  Environmental  Conservation  --
+  recommitted  to the Committee on Environmental Conservation in accord-
+  ance with Assembly Rule  3,  sec.  2  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN  ACT  to  amend the environmental conservation law, the parks, recre-
-  ation and  historic  preservation  law,  and  the  executive  law,  in
-  relation  to authorizing the attorney general to approve certain state
+ AN ACT to amend the environmental conservation law,  the  parks,  recre-
+  ation  and  historic  preservation  law,  and  the  executive  law, in
+  relation to authorizing the attorney general to approve certain  state
   land acquisitions made for the purposes of land conservation
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Legislative  intent.  The  legislature  hereby  finds and
- declares that in order to achieve our state's land protection  goals  as
- promoted  in  the  Climate Action Plan, the "30 by 30" land conservation
- law (chapter 747 of the laws of  2022),  and  the  financial  commitment
- within  the  2022 Bond Act, additional measures are needed to accelerate
- the process whereby the state acquires land.  Specifically,  the  review
- process  by the attorney general's office can be streamlined by enabling
- the use of title insurance. This will also relieve land  trusts  of  the
- financial  burden  of  holding onto land, in trust, for years at a time.
- Further, it will reduce the backlog  of  pending  acquisitions  that  is
+  Section 1.  Legislative  intent.  The  legislature  hereby  finds  and
+ declares  that  in order to achieve our state's land protection goals as
+ promoted in the Climate Action Plan, the "30 by  30"  land  conservation
+ law  (chapter  747  of  the  laws of 2022), and the financial commitment
+ within the 2022 Bond Act, additional measures are needed  to  accelerate
+ the  process  whereby  the state acquires land. Specifically, the review
+ process by the attorney general's office can be streamlined by  enabling
+ the  use  of  title insurance. This will also relieve land trusts of the
+ financial burden of holding onto land, in trust, for years  at  a  time.
+ Further,  it  will  reduce  the  backlog of pending acquisitions that is
  unnecessarily jeopardizing the solvency of many of these organizations.
   § 2. Subdivision 1 of section 3-0305 of the environmental conservation
- law,  as added by chapter 727 of the laws of 1978, is amended to read as
+ law, as added by chapter 727 of the laws of 1978, is amended to read  as
  follows:
   1. The commissioner when moneys therefor have been appropriated by the
- legislature or are otherwise available, may acquire  any  real  property
- which  he OR SHE deems necessary for any of the purposes or functions of
- the department, by purchase or as provided in the eminent domain  proce-
- dure  law. Title to such real property shall be taken in the name of and
- be vested in the people of the state of New York. No real property shall
- be so acquired by purchase unless the title thereto is approved  by  the
- attorney  general. THE ATTORNEY GENERAL SHALL APPROVE ANY TITLE WHERE IT
- HAS DETERMINED THAT THE CURRENT OWNER CAN CONVEY MARKETABLE TITLE TO THE
+ legislature  or  are  otherwise available, may acquire any real property
+ which he OR SHE deems necessary for any of the purposes or functions  of
+ the  department, by purchase or as provided in the eminent domain proce-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10532-01-3
- A. 7372  2
+  LBD10532-03-3
+ A. 7372--A  2
  
- REAL PROPERTY. THE ATTORNEY GENERAL  SHALL  ACCEPT  FROM  ANY  REPUTABLE
+ dure law. Title to such real property shall be taken in the name of  and
+ be vested in the people of the state of New York. No real property shall
+ be  so  acquired by purchase unless the title thereto is approved by the
+ attorney  general.  THE  ATTORNEY GENERAL MAY APPROVE ANY TITLE WHERE IT
+ HAS DETERMINED THAT THE CURRENT OWNER CAN CONVEY MARKETABLE TITLE TO THE
+ REAL PROPERTY. THE  ATTORNEY  GENERAL  MAY  ACCEPT  FROM  ANY  REPUTABLE
  COMMERCIAL INSURER, A TITLE POLICY NAMING THE PEOPLE OF THE STATE OF NEW
  YORK AS INSURED, WITH SUCH POLICY TO COVER ANY TITLE DEFECTS WHICH WOULD
  OTHERWISE  RENDER  THE TITLE UNMARKETABLE. The terms "property" or "real
@@ -81,9 +86,9 @@ S T A T E  O F  N E W  Y O R K
  domain procedure law, or by purchase, lease, exchange, grant,  condemna-
  tion, gift, devise, bequest, or by any other lawful means. No real prop-
  erty  shall  be  so acquired unless the title thereto is approved by the
- attorney general. THE ATTORNEY GENERAL SHALL APPROVE ANY TITLE WHERE  IT
+ attorney general. THE ATTORNEY GENERAL MAY APPROVE ANY  TITLE  WHERE  IT
  HAS DETERMINED THAT THE CURRENT OWNER CAN CONVEY MARKETABLE TITLE TO THE
- REAL  PROPERTY.  THE  ATTORNEY  GENERAL  SHALL ACCEPT FROM ANY REPUTABLE
+ REAL  PROPERTY.  THE  ATTORNEY  GENERAL  MAY  ACCEPT  FROM ANY REPUTABLE
  COMMERCIAL INSURER, A TITLE POLICY NAMING THE PEOPLE OF THE STATE OF NEW
  YORK AS INSURED, WITH SUCH POLICY TO COVER ANY TITLE DEFECTS WHICH WOULD
  OTHERWISE RENDER THE TITLE UNMARKETABLE. Notwithstanding the  provisions
