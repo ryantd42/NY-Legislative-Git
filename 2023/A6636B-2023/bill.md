@@ -1,6 +1,6 @@
 # Provides for cost-of-living adjustments
 
-**Bill ID:** A6636BA
+**Bill ID:** A6636BB
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for cost-of-living adjustments; provides that the base benefit amount s
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6636--A
+  6636--B
  
   2023-2024 Regular Sessions
  
@@ -30,41 +30,42 @@ S T A T E  O F  N E W  Y O R K
   Governmental Employees -- recommitted to the Committee on Governmental
   Employees  in  accordance  with  Assembly  Rule 3, sec. 2 -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee -- again reported from said  committee  with  amend-
+  ments, ordered reprinted as amended and recommitted to said committee
  
- AN ACT to amend the retirement and social security  law,  the  education
-  law  and  the administrative code of the city of New York, in relation
+ AN  ACT  to  amend the retirement and social security law, the education
+  law and the administrative code of the city of New York,  in  relation
   to providing cost-of-living adjustments
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1. Subdivision c of section 78-a of the retirement and social
+  Section 1. Subdivision c of section 78-a of the retirement and  social
  security law, as added by chapter 125 of the laws of 2000, is amended to
  read as follows:
-  c. Said cost-of-living adjustment shall be computed on a base  benefit
- amount  [not  to  exceed]  OF  eighteen  thousand  dollars of the annual
+  c.  Said cost-of-living adjustment shall be computed on a base benefit
+ amount [not to exceed]  OF  eighteen  thousand  dollars  of  the  annual
  retirement allowance defined in subdivision b of this section, PROVIDED,
- HOWEVER, SUCH BASE BENEFIT AMOUNT SHALL BE INCREASED ANNUALLY BY  REFER-
- ENCE  TO THE CONSUMER PRICE INDEX (ALL URBAN CONSUMERS, CPI-U, U.S. CITY
- AVERAGE, ALL  ITEMS,  1982-84=100),  PUBLISHED  BY  THE UNITED  STATES
- BUREAU  OF LABOR STATISTICS, FOR EACH APPLICABLE CALENDAR YEAR BEGINNING
- ON SEPTEMBER FIRST, TWO  THOUSAND  TWENTY-FOUR.  THE  ANNUAL  PERCENTAGE
- INCREASE  TO  THE  BASE  AMOUNT  SHALL EQUAL FIFTY PERCENT OF THE ANNUAL
- INFLATION, AS DETERMINED FROM THE INCREASE IN THE CONSUMER  PRICE  INDEX
- IN  THE  ONE YEAR PERIOD ENDING ON THE MARCH THIRTY-FIRST PRIOR TO THE
- COST-OF-LIVING ADJUSTMENT  EFFECTIVE  ON  THE  ENSUING SEPTEMBER  FIRST.
+ HOWEVER,  SUCH BASE BENEFIT AMOUNT SHALL BE INCREASED ANNUALLY BY REFER-
+ ENCE TO THE CONSUMER PRICE INDEX (ALL URBAN CONSUMERS, CPI-U, U.S.  CITY
+ AVERAGE,  ALL  ITEMS,  1982-84=100),  PUBLISHED  BY  THE UNITED STATES
+ BUREAU OF LABOR STATISTICS, FOR EACH APPLICABLE CALENDAR YEAR  BEGINNING
+ ON  SEPTEMBER  FIRST,  TWO  THOUSAND  TWENTY-FOUR. THE ANNUAL PERCENTAGE
+ INCREASE TO THE BASE AMOUNT SHALL EQUAL  FIFTY  PERCENT  OF  THE  ANNUAL
+ INFLATION,  AS  DETERMINED FROM THE INCREASE IN THE CONSUMER PRICE INDEX
+ IN  THE  ONE YEAR PERIOD ENDING ON THE MARCH THIRTY-FIRST PRIOR  TO  THE
+ COST-OF-LIVING  ADJUSTMENT  EFFECTIVE  ON  THE  ENSUING SEPTEMBER FIRST.
  SAID PERCENTAGE SHALL THEN BE ROUNDED UP TO THE NEXT HIGHER ONE-TENTH OF
- ONE  PERCENT  AND  SHALL  NOT  EXCEED THREE PERCENT NOR BE LESS THAN ONE
+ ONE PERCENT AND SHALL NOT EXCEED THREE PERCENT  NOR  BE  LESS  THAN  ONE
  PERCENT.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03457-05-4
- A. 6636--A  2
+  LBD03457-06-4
+ A. 6636--B  2
  
   § 2. Subdivision c of section 378-a of the retirement and social secu-
- rity law, as added by chapter 125 of the laws of  2000,  is  amended  to
+ rity  law,  as  added  by chapter 125 of the laws of 2000, is amended to
  read as follows:
   c.  Said cost-of-living adjustment shall be computed on a base benefit
  amount [not to exceed]  OF  eighteen  thousand  dollars  of  the  annual
@@ -119,7 +120,7 @@ S T A T E  O F  N E W  Y O R K
   §  5. Notwithstanding any other provision of law to the contrary, none
  of the provisions of this act shall be subject  to  section  25  of  the
  retirement and social security law.
- A. 6636--A  3
+ A. 6636--B  3
  
   § 6.  This act shall take effect immediately.
   FISCAL NOTE.-- Pursuant to  Legislative Law, Section 50:
@@ -177,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
  rate and salary of the affected members.
   We anticipate some administrative costs to implement the provisions of
  this legislation.
- A. 6636--A  4
+ A. 6636--B  4
  
   Summary of relevant resources:
   Membership  data as of March 31, 2023 was used in measuring the impact
@@ -200,3 +201,136 @@ S T A T E  O F  N E W  Y O R K
   This estimate, dated March 8, 2024, and intended for use  only  during
  the  2024  Legislative  Session, is Fiscal Note No. 2024-87, prepared by
  the Actuary for the New York State and Local Retirement System.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  SUMMARY: This proposed legislation, as it relates to the New York City
+ Retirement Systems and Pension Funds (NYCRS) would increase the Cost-of-
+ Living Adjustment (COLA) base limit of $18,000 by 50% of CPI  each  year
+ (limited to between 1% and 3%), starting on September 1, 2024.
+ 
+  EXPECTED INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+  by Fiscal Year for the first 25 years ($ in Millions)
+  Year  NYCERS  TRS  BERS  POLICE  FIRE  TOTAL
+  2025  363.1  215.7  18.2  207.6  55.3  859.9
+  2026  42.9  34.4  3.9  11.7  4.5  97.4
+  2027  43.8  34.8  4.0  11.7  4.6  98.9
+  2028  44.6  35.3  4.1  11.8  4.7  100.5
+  2029  45.5  35.8  4.2  11.8  4.8  102.1
+  2030  46.5  36.3  4.3  11.9  4.9  103.9
+  2031  47.4  36.8  4.4  12.0  5.0  105.6
+  2032  48.4  37.3  4.5  12.1  5.2  107.5
+  2033  49.4  37.8  4.6  12.2  5.3  109.3
+  2034  50.5  38.4  4.7  12.4  5.4  111.4
+  2035  51.6  38.9  4.8  12.5  5.5  113.3
+  2036  52.7  39.5  2.4  12.7  5.6  112.9
+  2037  27.1  40.1  2.5  6.4  3.3  79.4
+  2038  28.3  40.7  2.6  6.7  3.4  81.7
+  2039  29.5  19.4  2.8  7.0  3.6  62.3
+  2040  30.9  20.0  2.9  7.3  3.8  64.9
+  2041  32.3  20.7  3.0  7.7  4.0  67.7
+  2042  33.7  21.5  3.2  8.0  4.2  70.6
+  2043  35.2  22.2  3.3  8.4  4.4  73.5
+  2044  36.8  23.0  3.5  8.9  4.6  76.8
+  2045  38.5  23.8  3.7  9.3  4.8  80.1
+  2046  40.2  24.6  3.8  9.7  5.0  83.3
+  2047  42.0  25.5  4.0  10.2  5.2  86.9
+  2048  43.8  26.4  4.2  10.7  5.4  90.5
+  2049  45.7  27.3  4.4  11.2  5.7  94.3
+ A. 6636--B  5
+ 
+  Employer  Contribution  impact  beyond  Fiscal Year 2049 is not shown.
+ Projected contributions include future new hires that may be impacted.
+  The  initial  increase  in employer contributions of $859.9 million is
+ estimated to be $700.3 million for New York City and $159.6 million  for
+ the other obligors of NYCRS.
+ 
+  INITIAL INCREASE (DECREASE) IN ACTUARIAL LIABILITIES
+  as of June 30, 2023 ($ in Millions)
+  Present Value (PV)  NYCERS  TRS  BERS  POLICE  FIRE
+  PV of Benefits:  648.1  487.9  44.9  272.4  86.8
+  PV of Employee Contributions:  0.0  0.0  0.0  0.0  0.0
+  PV of Employer Contributions:  648.1  487.9  44.9  272.4  86.8
+  Unfunded Accrued Liabilities:  495.7  350.2  31.2  226.8  65.1
+ 
+  AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+ 
+  NYCERS  TRS  BERS  POLICE  FIRE
+ Number of Payments:  12  14  11  12  12
+ Fiscal Year of
+ Last Payment:  2036  2038  2035  2036  2036
+ Amortization
+ Payment:  26.8 M  22.0 M  2.5 M  6.5 M  2.5 M
+ Additional One-time
+ Payment:  321.1 M  181.7 M  14.4 M  196.0 M  50.9 M
+ 
+  Unfunded  Accrued  Liability  (UAL)  increases for active members were
+ amortized over the expected remaining working lifetime of those impacted
+ by the benefit changes using level dollar payments. UAL attributable  to
+ terminated  vested  members  and  current retirees was recognized in the
+ first year.
+  CENSUS DATA: The estimates presented herein are based  on  preliminary
+ census  data  collected  as  of  June  30, 2023. The census data for the
+ impacted population is summarized below.
+ 
+  NYCERS  TRS  BERS  POLICE  FIRE
+ 
+ Active Members
+ - Number Count:  180,354  124,368  24,613  33,800  10,720
+ - Average Age:  47.8  44.4  51.4  37.6  40.8
+ - Average Service:  11.8  12.3  9.7  11.3  13.9
+ - Average Salary:  88,800  98,500  59,700  128,600  139,500
+ Term. Vested Members
+ - Number Count:  29,272  21,830  2,887  1,493  59
+ - Average Age:  51.7  47.0  52.0  38.2  43.9
+ Receiving Members
+ - Number Count:  170,396  93,759  21,218  54,321  16,871
+ - Average Age:  71.8  74.8  74.0  63.2  67.6
+ 
+  IMPACT ON MEMBER BENEFITS:  Currently  the  COLA  provides  an  annual
+ increase  equal  to a percentage of the maximum annual retirement allow-
+ ance, but limited to the first $18,000 of retirement allowance.
+  The costs in the tables above are based on providing for  an  increase
+ in  the $18,000 limit starting on September 1, 2024 and each year there-
+ A. 6636--B  6
+ 
+ after.  This increase would be equal to the  increase  in  the  consumer
+ price  index  (CPI) in the one-year period ending on the prior March 31,
+ rounded to the next higher one-tenth of one percent, but not  more  than
+ 3% nor less than 1%.
+  IMPORTANT  NOTE:  An  alternate  interpretation of the proposed legis-
+ lation could use the increasing $18,000 as the base for all retirees for
+ calculating COLA rather than as the limit of  the  retirement  allowance
+ subject  to  the COLA increase. To the extent that implementation of the
+ proposed legislation follows this alternate  interpretation,  the  costs
+ for  this  proposed  legislation  may  be as much as 75% higher than the
+ costs disclosed above (i.e., a $2.7 billion total initial increase in PV
+ of Benefits).
+  ASSUMPTIONS AND METHODS: The  estimates  presented  herein  have  been
+ calculated  based  on the Revised 2021 Actuarial Assumptions and Methods
+ of the impacted retirement systems. In addition:
+  * New entrants were assumed to replace exiting members so  that  total
+ payroll increases by 3% each year for impacted groups. New entrant demo-
+ graphics were developed based on data for recent new hires and actuarial
+ judgement.
+  RISK  AND  UNCERTAINTY: The costs presented in this Fiscal Note depend
+ highly on the actuarial assumptions, methods,  and  models  used,  demo-
+ graphics  of  the  impacted population and other factors such as invest-
+ ment, contribution, and other risks. If actual experience deviates  from
+ actuarial  assumptions,  the  actual  costs  could  differ  from  those
+ presented herein. Quantifying these risks is beyond the  scope  of  this
+ Fiscal Note.
+  This  Fiscal  Note  is intended to measure pension-related impacts and
+ does not include other potential costs (e.g., administrative  and  Other
+ Postemployment Benefits).
+  STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+ sky  are members of the Society of Actuaries and the American Academy of
+ Actuaries. We are members of NYCERS but do not believe  it  impairs  our
+ objectivity  and  we  meet  the  Qualification Standards of the American
+ Academy of Actuaries to render the actuarial opinion  contained  herein.
+ To  the  best  of  our knowledge, the results contained herein have been
+ prepared in accordance with generally accepted actuarial principles  and
+ procedures  and  with  the Actuarial Standards of Practice issued by the
+ Actuarial Standards Board.
+  FISCAL NOTE IDENTIFICATION: This Fiscal Note 2024-40  dated  April  3,
+ 2024  was prepared by the Chief Actuary for the New York City Retirement
+ Systems and Pension Funds. This estimate is intended for use only during
+ the 2024 Legislative Session.
