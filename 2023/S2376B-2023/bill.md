@@ -1,6 +1,6 @@
 # Adds medical and health insurance information within the definitions of identity theft
 
-**Bill ID:** S2376BA
+**Bill ID:** S2376BB
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Adds medical and health insurance information within the definitions of identity
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2376--A
+  2376--B
+  Cal. No. 731
  
   2023-2024 Regular Sessions
  
@@ -29,8 +30,12 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee on Codes  --  recommitted  to
   the  Committee  on  Codes  in accordance with Senate Rule 6, sec. 8 --
   committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
-
+  recommitted  to said committee -- reported favorably from said commit-
+  tee, ordered to first and second report, ordered to a  third  reading,
+  passed  by Senate and delivered to the Assembly, recalled, vote recon-
+  sidered, restored to third reading,  amended  and  ordered  reprinted,
+  retaining its place in the order of third reading
+ 
  AN  ACT  to  amend the penal law, the general business law and the state
   technology law, in relation to adding  medical  and  health  insurance
   information within the definitions of identity theft
@@ -56,77 +61,76 @@ S T A T E  O F  N E W  Y O R K
  tity  of  another  person by presenting [himself or herself] THEMSELF as
  that other person, or by  acting  as  that  other  person  or  by  using
  personal identifying information of that other person, and thereby:
-  1.  obtains  goods,  money, property or services or uses credit in the
- name of such other person or causes financial loss to such person or  to
- another person or persons; or
+  1.  obtains goods, money, MEDICAL INFORMATION, HEALTH INSURANCE INFOR-
+ MATION, property or services or uses credit in the name  of  such  other
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01629-07-4
- S. 2376--A  2
+  LBD01629-09-4
+ S. 2376--B  2
  
-  2. commits a class A misdemeanor or higher level crime; OR
-  3.  OBTAINS MEDICAL INFORMATION AND/OR HEALTH INSURANCE INFORMATION IN
- THE NAME OF SUCH PERSON.
+ person  or  causes financial loss to such person or to another person or
+ persons; or
+  2. commits a class A misdemeanor or higher level crime.
   Identity theft in the third degree is a class A misdemeanor.
-  § 3. Section 190.79 of the penal law, as added by chapter 619  of  the
- laws  of 2002 and subdivision 4 as amended by chapter 279 of the laws of
+  §  3.  Section 190.79 of the penal law, as added by chapter 619 of the
+ laws of 2002 and subdivision 4 as amended by chapter 279 of the laws  of
  2008, is amended to read as follows:
  § 190.79 Identity theft in the second degree.
-  A person is guilty of [identify] IDENTITY theft in the  second  degree
- when  [he  or  she]  SUCH  PERSON  knowingly  and with intent to defraud
- assumes the  identity  of  another  person  by  presenting  [himself  or
- herself]  THEMSELF  as  that  other  person,  or by acting as that other
- person or by  using  personal  identifying  information  of  that  other
+  A  person  is guilty of [identify] IDENTITY theft in the second degree
+ when [he or she] SUCH  PERSON  knowingly  and  with  intent  to  defraud
+ assumes  the  identity  of  another  person  by  presenting  [himself or
+ herself] THEMSELF as that other person,  or  by  acting  as  that  other
+ person  or  by  using  personal  identifying  information  of that other
  person, and thereby:
-  1.  obtains goods, money, MEDICAL INFORMATION, HEALTH INSURANCE INFOR-
- MATION, property or services or uses credit in the name  of  such  other
+  1. obtains goods, money, MEDICAL INFORMATION, HEALTH INSURANCE  INFOR-
+ MATION,  property  or  services or uses credit in the name of such other
  person in an aggregate amount that exceeds five hundred dollars; or
-  2.  causes  financial  loss  to  such  person  or to another person or
+  2. causes financial loss to  such  person  or  to  another  person  or
  persons in an aggregate amount that exceeds five hundred dollars; or
-  3. commits or attempts to commit a felony or acts as an  accessory  to
+  3.  commits  or attempts to commit a felony or acts as an accessory to
  the commission of a felony; or
-  4.  commits the crime of identity theft in the third degree as defined
- in section 190.78 of this article  and  has  been  previously  convicted
- within  the  last  five  years  of identity theft in the third degree as
- defined in section 190.78,  identity  theft  in  the  second  degree  as
- defined  in  this section, identity theft in the first degree as defined
+  4. commits the crime of identity theft in the third degree as  defined
+ in  section  190.78  of  this  article and has been previously convicted
+ within the last five years of identity theft  in  the  third  degree  as
+ defined  in  section  190.78,  identity  theft  in  the second degree as
+ defined in this section, identity theft in the first degree  as  defined
  in section 190.80, unlawful possession of personal identification infor-
- mation in the third  degree  as  defined  in  section  190.81,  unlawful
- possession  of  personal identification information in the second degree
- as defined in section 190.82, unlawful possession of personal  identifi-
- cation  information  in  the  first degree as defined in section 190.83,
- unlawful possession of a skimmer device in the second degree as  defined
- in  section 190.85, unlawful possession of a skimmer device in the first
- degree as defined in section 190.86, grand larceny in the fourth  degree
- as  defined  in  section  155.30,  grand  larceny in the third degree as
+ mation  in  the  third  degree  as  defined  in section 190.81, unlawful
+ possession of personal identification information in the  second  degree
+ as  defined in section 190.82, unlawful possession of personal identifi-
+ cation information in the first degree as  defined  in  section  190.83,
+ unlawful  possession of a skimmer device in the second degree as defined
+ in section 190.85, unlawful possession of a skimmer device in the  first
+ degree  as defined in section 190.86, grand larceny in the fourth degree
+ as defined in section 155.30, grand  larceny  in  the  third  degree  as
  defined in section 155.35, grand larceny in the second degree as defined
- in section 155.40 or grand larceny in the first  degree  as  defined  in
+ in  section  155.40  or  grand larceny in the first degree as defined in
  section 155.42 of this chapter.
   Identity theft in the second degree is a class E felony.
-  §  4.  Section 190.80 of the penal law, as added by chapter 619 of the
- laws of 2002, subdivision 4 as amended by chapter 279  of  the  laws  of
+  § 4.  Section 190.80 of the penal law, as added by chapter 619 of  the
+ laws  of  2002,  subdivision  4 as amended by chapter 279 of the laws of
  2008, is amended to read as follows:
  § 190.80 Identity theft in the first degree.
-  A  person  is guilty of identity theft in the first degree when [he or
- she] SUCH PERSON knowingly and with intent to defraud assumes the  iden-
- tity  of  another  person by presenting [himself or herself] THEMSELF as
- that other person, or by  acting  as  that  other  person  or  by  using
+  A person is guilty of identity theft in the first degree when  [he  or
+ she]  SUCH PERSON knowingly and with intent to defraud assumes the iden-
+ tity of another person by presenting [himself or  herself]  THEMSELF  as
+ that  other  person,  or  by  acting  as  that  other person or by using
  personal identifying information of that other person, and thereby:
-  1.  obtains goods, money, MEDICAL INFORMATION, HEALTH INSURANCE INFOR-
- MATION, property or services or uses credit in the name  of  such  other
+  1. obtains goods, money, MEDICAL INFORMATION, HEALTH INSURANCE  INFOR-
+ MATION,  property  or  services or uses credit in the name of such other
  person in an aggregate amount that exceeds two thousand dollars; or
-  2.  causes  financial  loss  to  such  person  or to another person or
+  2. causes financial loss to  such  person  or  to  another  person  or
  persons in an aggregate amount that exceeds two thousand dollars; or
-  3. commits or attempts to commit a class  D  felony  or  higher  level
- crime  or  acts as an accessory in the commission of a class D or higher
+  3.  commits  or  attempts  to  commit a class D felony or higher level
+ crime or acts as an accessory in the commission of a class D  or  higher
  level felony; or
- S. 2376--A  3
+ S. 2376--B  3
  
   4. commits the crime of identity theft in the second degree as defined
- in section 190.79 of this article  and  has  been  previously  convicted
- within  the  last  five  years  of identity theft in the third degree as
- defined in section 190.78,  identity  theft  in  the  second  degree  as
+ in  section  190.79  of  this  article and has been previously convicted
+ within the last five years of identity theft  in  the  third  degree  as
+ defined  in  section  190.78,  identity  theft  in  the second degree as
  defined in section 190.79, identity theft in the first degree as defined
  in this section, unlawful possession of personal identification informa-
  tion  in  the  third  degree  as  defined  in  section  190.81, unlawful
