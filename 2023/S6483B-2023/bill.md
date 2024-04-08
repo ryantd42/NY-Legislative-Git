@@ -1,6 +1,6 @@
 # Relates to enacting the "State Police Retention act"
 
-**Bill ID:** S6483B
+**Bill ID:** S6483BA
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the State Police Retention act; provides a deferred retirement option pla
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6483
+  6483--A
  
   2023-2024 Regular Sessions
  
@@ -25,46 +25,49 @@ S T A T E  O F  N E W  Y O R K
   April 24, 2023
   ___________
  
- Introduced by Sens. MANNION, GALLIVAN -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Civil Service and
-  Pensions
+ Introduced  by  Sens.  MANNION,  CHU, GALLIVAN, GRIFFO -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Civil  Service  and  Pensions -- recommitted to the Committee on Civil
+  Service and Pensions in accordance with  Senate  Rule  6,  sec.  8  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
- AN  ACT  to amend the retirement and social security law, in relation to
+ AN ACT to amend the retirement and social security law, in  relation  to
   enacting the "State Police Retention act"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Short title.  This act shall be known and may be cited as
+  Section 1. Short title.  This act shall be known and may be  cited  as
  the "State Police Retention act".
-  § 2. Legislative findings. Front  line  public  employees  have  faced
- unprecedented  adverse health effects as the result of employer mandates
- to require state police officers to remain on-duty and physically  pres-
- ent  at  their work locations during the deadly COVID-19 pandemic. These
+  §  2.  Legislative  findings.  Front  line public employees have faced
+ unprecedented adverse health effects as the result of employer  mandates
+ to  require state police officers to remain on-duty and physically pres-
+ ent at their work locations during the deadly COVID-19  pandemic.  These
  crucial  public  employees  mandated  to  continue  conducting  crucial
- services  to  the  public  during the most deadly period of the COVID-19
- pandemic displayed exemplary service, while often at a health  detriment
- to  the  employee  and their family. Prior to the state mandating worker
- quarantines, state police officers were already on the  front  lines  of
+ services to the public during the most deadly  period  of  the  COVID-19
+ pandemic  displayed exemplary service, while often at a health detriment
+ to the employee and their family. Prior to the  state  mandating  worker
+ quarantines,  state  police  officers were already on the front lines of
  the pandemic transporting crucial medical supplies, test kits as well as
- COVID-19  samples  throughout  the  state to laboratories established to
- test suspected COVID-19 submissions in order to gain an  early  foothold
- in  statewide  treatment  protocols.  Besides  the  strenuous  work they
+ COVID-19 samples throughout the state  to  laboratories  established  to
+ test  suspected  COVID-19 submissions in order to gain an early foothold
+ in statewide  treatment  protocols.  Besides  the  strenuous  work  they
  already perform, additional duties as part of the early tracking, trans-
- porting and testing of COVID-19 samples has resulted in a large  contin-
- gent  of  state police officers to retire earlier than expected and thus
- reduced overall manpower allotments that does not keep up with  mandated
- duty  requirements.  This legislation offers an inducement to retain our
- most valued senior state police officers while affording  more  time  to
- hire, train and deploy replaced public employees.
-  § 3. The retirement and social security law is amended by adding a new
- section 381-c to read as follows:
+ porting  and testing of COVID-19 samples has resulted in a large contin-
+ gent of state police officers to retire earlier than expected  and  thus
+ reduced  overall manpower allotments that does not keep up with mandated
+ duty requirements. This legislation offers an inducement to  retain  our
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01299-02-3
- S. 6483  2
+  LBD01299-05-4
+ S. 6483--A  2
  
+ most  valued  senior  state police officers while affording more time to
+ hire, train and deploy replaced public employees.
+  § 3. The retirement and social security law is amended by adding a new
+ section 381-c to read as follows:
   §  381-C. DEFERRED RETIREMENT OPTION PLAN PAYABLE TO MEMBERS AND OFFI-
  CERS OF THE DIVISION OF STATE  POLICE.  A.  DEFERRED  RETIREMENT  OPTION
  PLAN.  DEFERRED  RETIREMENT  OPTION  PLAN, (HEREINAFTER REFERRED TO AS
@@ -117,15 +120,15 @@ S T A T E  O F  N E W  Y O R K
  PARTICIPATION  IN  DROP, THE ELIGIBLE MEMBER SHALL BE TREATED AS IF SUCH
  DROP ELECTION DID NOT EXIST. IN LIEU OF THE DROP PAYMENT, A DEATH  BENE-
  FIT  SHALL  BE PAYABLE CONSISTENT WITH THE TERMS OF THIS CHAPTER AND ALL
+ S. 6483--A  3
+ 
  SALARY AND SERVICE REPORTED FOR SUCH ELIGIBLE  MEMBER  DURING  THE  DROP
  PERIOD  SHALL  BE  CONSIDERED IN CALCULATING THE ELIGIBLE MEMBER'S DEATH
  BENEFIT.
- S. 6483  3
- 
-  (3) IF  THE  ELIGIBLE  MEMBER  IS  APPROVED  FOR  DISABILITY  BENEFITS
- PROVIDED  IN  THIS  CHAPTER  DURING THE DROP PERIOD, THE ELIGIBLE MEMBER
- SHALL BE TREATED AS IF THE DROP ELECTION DID NOT EXIST. IN LIEU  OF  THE
- DROP  PAYMENT, A DISABILITY RETIREMENT BENEFIT SHALL BE PAYABLE CONSIST-
+  (3)  IF  THE  ELIGIBLE  MEMBER  IS  APPROVED  FOR  DISABILITY BENEFITS
+ PROVIDED IN THIS CHAPTER DURING THE DROP  PERIOD,  THE  ELIGIBLE  MEMBER
+ SHALL  BE  TREATED AS IF THE DROP ELECTION DID NOT EXIST. IN LIEU OF THE
+ DROP PAYMENT, A DISABILITY RETIREMENT BENEFIT SHALL BE PAYABLE  CONSIST-
  ENT  WITH  THE TERMS OF THIS CHAPTER AND ALL SALARY AND SERVICE REPORTED
  FOR SUCH ELIGIBLE MEMBER DURING THE DROP PERIOD SHALL BE  CONSIDERED  IN
  CALCULATING THE ELIGIBLE MEMBER'S DISABILITY RETIREMENT BENEFIT.
@@ -175,10 +178,10 @@ S T A T E  O F  N E W  Y O R K
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This  bill  would allow police officers employed by the New York State
  Division of State Police to elect to participate in a  Deferred  Retire-
- ment  Option Plan (DROP), deferring receipt of retirement benefits while
- continuing their current employment. The features of this DROP are:
- S. 6483  4
+ S. 6483--A  4
  
+ ment  Option Plan (DROP), deferring receipt of retirement benefits while
+ continuing their current employment. The main features of this DROP are:
   1. Members may elect to participate in the DROP upon the attainment of
  retirement eligibility.
   2.  The  service retirement benefit shall be the single life allowance
@@ -187,71 +190,80 @@ S T A T E  O F  N E W  Y O R K
  service credit (including service during the  DROP  period)  exceeds  32
  years,  the monthly payment into the DROP account will be limited to 60%
  of the single life allowance.
-  3. The New York State Police and Fire Retirement System  (PFRS)  shall
- consider  DROP participants active members, and annual employer contrib-
- utions shall continue to be made by the State of New York to the PFRS on
- behalf of such members.
-  4. The length of participation in the DROP must be  specified  at  the
- time  of  election, and may not be less than 1 year, nor exceed 5 years.
- However, if the affected member should leave employment before or  after
- the  scheduled DROP termination date, such member shall forfeit all DROP
- benefits, and shall be treated as though there were no DROP election.
-  5. During the DROP period,  the  monthly  pensions  of  such  affected
- members  will be deferred and held by the PFRS on their behalf and shall
- accrue interest at 1.5%. Such account, with interest accumulation,  must
- be distributed in full at the end of the specified DROP period.
-  6. If an affected member should die or become disabled during the DROP
- period,  such  member  would  be  treated  as  though there were no DROP
+  3. The New York State and Local  Police  and  Fire  Retirement  System
+ (NYSLPFRS)  shall  consider DROP participants active members, and annual
+ employer contributions shall continue to be made by  the  State  of  New
+ York  to  the  NYSLPFRS  on behalf of such members. All loans and excess
+ contributions shall be resolved by the date of entry into  DROP  and  no
+ additional loans or excess contributions shall be permitted thereafter.
+  4.  The  length  of participation in the DROP must be specified at the
+ time of election, and may not be less than one  year,  nor  exceed  five
+ years.  However, if the affected member should leave employment before
+ or after the scheduled DROP termination date, such member shall  forfeit
+ all  DROP  benefits,  and  shall be treated as though there were no DROP
  election.
-  7. Upon termination from DROP, such  affected  members  shall  receive
+  5. During the DROP  period,  the  monthly  pension  of  such  affected
+ members  will  be  deferred and held by the NYSLPFRS on their behalf and
+ shall accrue interest at 1.5%. Such account, with interest accumulation,
+ must be distributed in full at the end of the specified DROP period.
+  6. If an affected member should die or become disabled during the DROP
+ period, such member would be  treated  as  though  there  were  no  DROP
+ election.
+  7.  Upon  termination  from  DROP, such affected members shall receive
  their deferred payments, and shall also begin to receive their previous-
  ly determined pensions.
-  Section  212  of  the  Retirement  and  Social  Security Law generally
- prevents service retirees from receiving salaries of more  than  $35,000
+  Section 212 of  the  Retirement  and  Social  Security  Law  generally
+ prevents  service  retirees from receiving salaries of more than $35,000
  for public employment before attaining age 65. This proposal would allow
- members  to receive a full salary and retirement benefits simultaneously
- for up to 5 years.
-  The Partial Lump Sum program currently allows PFRS members to  receive
- lump  sums up to 25% of the present value of their pensions. In combina-
- tion with this proposal, an affected member could potentially receive  a
- lump  sum  exceeding  65%  of  the present value of their pension.  This
- significantly reduces the value of ongoing  pension  payments  over  the
- member's remaining lifetime.
-  If  this  bill  is  enacted during the 2023 legislative session, it is
- estimated there would be an increase in the annual contributions for the
- State of New York of approximately 1.4% of salary for the  police  offi-
- cers employed by the New York State Division of State Police.
-  In  addition  to the annual contributions discussed above, there would
- be past service costs which would depend on the current salary, age, and
+ members to receive a full salary and retirement benefits  SIMULTANEOUSLY
+ for up to five years.
+  The  Partial  Lump  Sum  program  currently allows NYSLPFRS members to
+ receive lump sums up to 25% of the present value of their  pensions.  In
+ combination  with  this  proposal,  an affected member could potentially
+ receive a lump sum exceeding 65% of the present value of their  pension.
+ This  significantly  reduces  the value of ongoing pension payments over
+ the member's remaining lifetime.
+  If this bill is enacted during the 2024 Legislative Session, we antic-
+ ipate that there will be an increase of approximately $17 million in the
+ annual contributions of the State of New York for the fiscal year ending
+ March 31, 2025. In future years, this cost will vary but is expected  to
+ average  2.3%  of salary of the affected police officers employed by the
+ New York State Division of State Police.
+  In addition to the annual contributions discussed above, there will be
+ past service costs which would depend on the current  salary,  age,  and
  length of service of the affected members. It is estimated that the past
- service cost per member would average approximately 75%  of  salary  for
- the  affected  members.  This  past  service  cost of approximately $510
- million will be borne by the State of New York as  a  one-time  payment.
- This estimate assumes that payment will be made on March 1, 2024.
+ service  cost  per  member would average approximately 75% of salary for
+ the affected members. This  past  service  cost  of  approximately  $519
+ million will be borne by the State of New York as a one-time payment and
+ assumes that payment will be made on March 1, 2025.
+ S. 6483--A  5
+ 
   If  the  anticipated retirement experience of members who are eligible
  for this benefit changes significantly in the  future,  there  would  be
  additional increases in employer costs.
-  This  cost  is based on 4,671 police officers employed by the New York
- State Division of State Police with an estimated total active salary for
- fiscal year ending 2023 of $680 million.
+  Further,  we  anticipate  additional administrative costs to implement
+ the provisions of this legislation.
+  These estimated costs are based on 4,833 affected members employed  by
+ the  New  York  State  Division  of  State Police, with annual salary of
+ approximately $660 million as of March 31, 2023.
   Summary of relevant resources:
- S. 6483  5
- 
-  Membership data as of March 31, 2022 was used in measuring the  impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al  valuation.  Distributions  and  other statistics can be found in the
- 2022 Report of the Actuary and the 2022 Annual  Comprehensive  Financial
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The  actuarial assumptions and methods used are described in the 2020,
- 2021, and 2022 Annual Report to the  Comptroller  on  Actuarial  Assump-
- tions,  and  the  Codes, Rules and Regulations of the State of New York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
+  I am a member of the American Academy of Actuaries and meet the Quali-
+ fication Standards to render the actuarial opinion contained herein.
   This  fiscal note does not constitute a legal opinion on the viability
  of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This  estimate,  dated March 1, 2023, and intended for use only during
- the 2023 Legislative Session, is Fiscal Note No.  2023-34,  prepared  by
+  This  estimate,  dated April 3, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No. 2024-149,  prepared  by
  the Actuary for the New York State and Local Retirement System.
