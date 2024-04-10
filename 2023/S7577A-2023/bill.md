@@ -1,6 +1,6 @@
 # Addresses non-covered dental services by prohibiting certain entities from setting fees or requiring approval fees for services not covered under a person's dental plan
 
-**Bill ID:** S7577A
+**Bill ID:** S7577AA
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Addresses non-covered dental services by prohibiting insurers from including in 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7577
+  7577--A
  
   2023-2024 Regular Sessions
  
@@ -25,52 +25,64 @@ S T A T E  O F  N E W  Y O R K
   June 8, 2023
   ___________
  
- Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
- 
+ Introduced by Sens. BRESLIN, GALLIVAN, GOUNARDES, HARCKHAM -- read twice
+  and ordered printed, and when printed to be committed to the Committee
+  on  Rules  --  recommitted to the Committee on Insurance in accordance
+  with Senate Rule 6, sec. 8  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
  AN ACT to amend the insurance law, in relation to addressing non-covered
   dental services
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section  1.  Section  4224 of the insurance law is amended by adding a
+ 
+  Section 1. Section 4224 of the insurance law is amended  by  adding  a
  new subsection (g) to read as follows:
   (G)(1) NOTWITHSTANDING ANY OTHER PROVISION OF THIS SECTION, NO INSURER
- OR MANAGED CARE ENTITY AUTHORIZED TO DO BUSINESS IN THIS STATE SHALL SET
- FEES, OR REQUIRE APPROVAL FEES, FOR SERVICES THAT ARE NOT COVERED  UNDER
- A PERSON'S DENTAL PLAN.
+ AUTHORIZED  TO  DO BUSINESS IN THIS STATE SHALL INCLUDE A PROVISION IN A
+ CONTRACT OR  PARTICIPATING  PROVIDER  AGREEMENT  WITH  A  DENTIST  WHICH
+ REQUIRES,  DIRECTLY  OR INDIRECTLY, THAT A PARTICIPATING DENTIST PROVIDE
+ SERVICES TO AN INSURED AT A FEE SET BY, OR  AT  A  FEE  SUBJECT  TO  THE
+ APPROVAL OF, THE INSURER UNLESS THE DENTAL SERVICES ARE COVERED SERVICES
+ UNDER THE INSURED'S DENTAL PLAN.
   (2)  FOR  PURPOSES  OF  THIS SUBSECTION, "COVERED SERVICES" SHALL MEAN
  DENTAL SERVICES FOR WHICH REIMBURSEMENT IS AVAILABLE UNDER AN  INSURED'S
- POLICY, REGARDLESS OF WHETHER THE REIMBURSEMENT IS CONTRACTUALLY LIMITED
- BY A DEDUCTIBLE, COPAYMENT, COINSURANCE, WAITING PERIOD, ANNUAL OR LIFE-
- TIME MAXIMUM, FREQUENCY LIMITATION OR ALTERNATIVE BENEFIT PAYMENT.
-  §  2. Subsection (s) of section 4303 of the insurance law, as added by
+ DENTAL  PLAN OR FOR WHICH A REIMBURSEMENT WOULD BE AVAILABLE BUT FOR THE
+ APPLICATION OF CONTRACTUAL LIMITATIONS SUCH AS DEDUCTIBLES,  COPAYMENTS,
+ COINSURANCE,  WAITING  PERIODS,  ANNUAL  OR LIFETIME MAXIMUMS, FREQUENCY
+ LIMITATIONS, ALTERNATIVE BENEFIT PAYMENTS, OR ANY OTHER LIMITATION.
+  § 2. Subsection (s) of section 4303 of the insurance law, as added  by
  chapter 293 of the laws of 1992, is amended to read as follows:
-  [(s)](S-1)(1) Notwithstanding any provision of a contract issued by  a
+  [(s)](S-1)(1)  Notwithstanding any provision of a contract issued by a
  medical expense indemnity corporation, a dental expense indemnity corpo-
- ration  or  health  service  corporation,  every contract which provides
+ ration or health service  corporation,  every  contract  which  provides
  coverage for care provided through licensed health professionals who can
- bill for services shall provide the same coverage and reimbursement  for
- such  service  provided pursuant to a clinical practice plan established
- pursuant to subdivision fourteen of  section  two  hundred  six  of  the
+ bill  for services shall provide the same coverage and reimbursement for
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11752-05-4
+ S. 7577--A  2
+ 
+ such service provided pursuant to a clinical practice  plan  established
+ pursuant  to  subdivision  fourteen  of  section  two hundred six of the
  public health law.
   (2)  NOTWITHSTANDING  ANY  OTHER PROVISION OF THIS SECTION, NO MEDICAL
  EXPENSE INDEMNITY CORPORATION, DENTAL EXPENSE INDEMNITY  CORPORATION  OR
  HEALTH SERVICE CORPORATION AUTHORIZED TO DO BUSINESS IN THIS STATE SHALL
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD11752-01-3
- S. 7577  2
- 
- SET  FEES,  OR  REQUIRE APPROVAL FEES, FOR SERVICES THAT ARE NOT COVERED
- UNDER A PERSON'S DENTAL PLAN.
+ INCLUDE  A  PROVISION  IN A CONTRACT OR PARTICIPATING PROVIDER AGREEMENT
+ WITH A DENTIST WHICH REQUIRES, DIRECTLY OR INDIRECTLY,  THAT  A  PARTIC-
+ IPATING  DENTIST PROVIDE SERVICES TO AN INSURED AT A FEE SET BY, OR AT A
+ FEE SUBJECT TO THE APPROVAL OF, THE MEDICAL EXPENSE  INDEMNITY  CORPO-
+ RATION,  DENTAL  EXPENSE  INDEMNITY CORPORATION OR HEALTH SERVICE CORPO-
+ RATION UNLESS  THE  DENTAL  SERVICES  ARE  COVERED  SERVICES  UNDER  THE
+ INSURED'S DENTAL PLAN.
   (3)  FOR  PURPOSES  OF  THIS SUBSECTION, "COVERED SERVICES" SHALL MEAN
  DENTAL SERVICES FOR WHICH REIMBURSEMENT IS AVAILABLE UNDER AN  INSURED'S
- POLICY, REGARDLESS OF WHETHER THE REIMBURSEMENT IS CONTRACTUALLY LIMITED
- BY A DEDUCTIBLE, COPAYMENT, COINSURANCE, WAITING PERIOD, ANNUAL OR LIFE-
- TIME MAXIMUM, FREQUENCY LIMITATION OR ALTERNATIVE BENEFIT PAYMENT.
-  §  3. This act shall take effect on January 1, 2024 and shall apply to
- all insurance and managed care contracts issued or entered  into  on  or
- after such date.
+ DENTAL  PLAN OR FOR WHICH A REIMBURSEMENT WOULD BE AVAILABLE BUT FOR THE
+ APPLICATION OF CONTRACTUAL LIMITATIONS SUCH AS DEDUCTIBLES,  COPAYMENTS,
+ COINSURANCE,  WAITING  PERIODS,  ANNUAL  OR LIFETIME MAXIMUMS, FREQUENCY
+ LIMITATIONS, ALTERNATIVE BENEFIT PAYMENTS, OR ANY OTHER LIMITATION.
+  § 3. This act shall take effect January 1, 2025 and shall apply to all
+ insurance contracts issued or entered into on or after such date.
