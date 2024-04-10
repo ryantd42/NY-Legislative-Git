@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system the "Senior Investigator Thomas M. O'Neill Memorial Bridge"
 
-**Bill ID:** A5564BA
+**Bill ID:** A5564BB
 **Session:** 2023
 **Sponsor:** Keith Brown
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Designates the bridge over the Sagtikos Parkway constituting the Crooked Hill Ro
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  5564--A
+  5564--B
  
   2023-2024 Regular Sessions
  
@@ -27,7 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. K. BROWN -- read once and referred to the Commit-
   tee  on  Transportation -- committee discharged, bill amended, ordered
-  reprinted as amended and recommitted to said committee
+  reprinted as amended and recommitted to said committee --  recommitted
+  to the Committee on Transportation in accordance with Assembly Rule 3,
+  sec.  2  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Senior Investigator Thomas M. O'Neill
@@ -36,9 +39,9 @@ S T A T E  O F  N E W  Y O R K
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
+  §  344-P.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
  "SENIOR INVESTIGATOR THOMAS M.  O'NEILL  MEMORIAL  BRIDGE".  ALL  THAT
  PORTION  OF  THE STATE HIGHWAY SYSTEM CONSTITUTING THE CROOKED HILL ROAD
  OVERPASS CROSSING OVER THE SAGTIKOS PARKWAY IN THE TOWN OF ISLIP, COUNTY
@@ -54,7 +57,6 @@ S T A T E  O F  N E W  Y O R K
   § 3. This act shall take effect immediately.
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06286-03-3
+  LBD06286-04-4
