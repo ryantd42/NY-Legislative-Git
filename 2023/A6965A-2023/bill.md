@@ -1,6 +1,6 @@
 # Relates to reimbursement for residential habilitation services
 
-**Bill ID:** A6965A
+**Bill ID:** A6965AA
 **Session:** 2023
 **Sponsor:** Rebecca Seawright
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to reimbursement for residential habilitation services.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6965
+  6965--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  SEAWRIGHT  --  read once and referred to the
-  Committee on Mental Health
- 
+  Committee on Mental Health -- recommitted to the Committee  on  Mental
+  Health  in  accordance  with  Assembly  Rule  3,  sec.  2 -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the mental hygiene law, in relation to reimbursement for
   residential habilitation services
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Paragraph (ii) of subdivision (c) of section 43.02 of the
  mental hygiene law, as amended by section 3 of part OO of chapter 58  of
  the  laws of 2015, is amended and a new subdivision (d) is added to read
@@ -41,12 +44,13 @@ S T A T E  O F  N E W  Y O R K
   (ii) methodologies used in the establishment of the schedules of rates
  or fees pursuant to this section provided, however, that  IN  ACCORDANCE
  WITH  SUBDIVISION  (D) OF THIS SECTION, the commissioner of health shall
- adopt rules and regulations including methodologies developed by him  or
- her  for services provided by any facility or program licensed, operated
- or approved by the office for people  with  developmental  disabilities;
- provided,  however,  that such rules and regulations shall be subject to
- the approval of the office for people  with  developmental  disabilities
- and shall take into account the policies and goals of such office.
+ adopt rules and regulations including methodologies developed by [him or
+ her] SUCH COMMISSIONER for services provided by any facility or  program
+ licensed,  operated  or  approved by the office for people with develop-
+ mental disabilities; provided, however, that such rules and  regulations
+ shall  be subject to the approval of the office for people with develop-
+ mental disabilities and shall take into account the policies  and  goals
+ of such office.
   (D)  (I)  FOR  PURPOSES OF THIS SUBDIVISION, THE FOLLOWING TERMS SHALL
  HAVE THE FOLLOWING MEANINGS:
   (1) "RETAINER DAYS" ARE DAYS OF MEDICAL LEAVE  OR  AN  ASSOCIATED  DAY
@@ -54,21 +58,21 @@ S T A T E  O F  N E W  Y O R K
  PROVIDING RESIDENTIAL HABILITATION SERVICES TO  A  PERSON  ELIGIBLE  FOR
  MEDICAL  ASSISTANCE  PURSUANT  TO  TITLE  ELEVEN  OF ARTICLE FIVE OF THE
  SOCIAL SERVICES LAW.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04991-04-4
+ A. 6965--A  2
+ 
   (2) "SERVICE DAYS" ARE DAYS WHEN RESIDENTIAL HABILITATION SERVICES ARE
  PROVIDED IN A COMMUNITY RESIDENCE UNDER  THE  HOME  AND  COMMUNITY-BASED
  WAIVER OPERATED BY THE OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES
  AND  PURSUANT  TO  REGULATIONS  PROMULGATED  BY  THE COMMISSIONER OF THE
- OFFICE FOR PEOPLE WITH DEVELOPMENTAL DISABILITIES TO  A  PERSON  WHO  IS
+ OFFICE  FOR  PEOPLE  WITH  DEVELOPMENTAL DISABILITIES TO A PERSON WHO IS
  EITHER PRESENT IN THE COMMUNITY RESIDENCE OR IS ABSENT FROM THE COMMUNI-
- TY  RESIDENCE  AND  RESIDENTIAL  HABILITATION  SERVICES ARE PERFORMED BY
- STAFF. SUCH SERVICES SHALL  INCLUDE  HABILITATION  SERVICES,  PROTECTIVE
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD04991-01-3
- A. 6965  2
- 
- OVERSIGHT  SERVICES, SUPERVISION SERVICES, NURSING SUPERVISION OF DIRECT
+ TY RESIDENCE AND RESIDENTIAL  HABILITATION  SERVICES  ARE  PERFORMED  BY
+ STAFF.  SUCH  SERVICES  SHALL  INCLUDE HABILITATION SERVICES, PROTECTIVE
+ OVERSIGHT SERVICES, SUPERVISION SERVICES, NURSING SUPERVISION OF  DIRECT
  CARE STAFF AND COORDINATION OF A PERSON'S HEALTH CARE NEEDS, THE COORDI-
  NATION OF NECESSARY MEDICAL APPOINTMENTS, FOLLOW-UP REPORTS FROM MEDICAL
  APPOINTMENTS,  FOLLOW-UP  AND  INTERFACE  WITH  HOSPITAL STAFF REGARDING
@@ -106,7 +110,7 @@ S T A T E  O F  N E W  Y O R K
  SIONER OF HEALTH, PROVIDED, HOWEVER, A PROVIDER IS LIMITED TO BEING PAID
  NINETY-SIX THERAPY DAYS PER RATE YEAR PER PERSON; AND
   (3)  FOR  THE  RATE PERIODS BEGINNING JULY FIRST, TWO THOUSAND TWENTY-
- ONE, PROVIDERS SHALL RECEIVE AN OCCUPANCY ADJUSTMENT  TO  THE  OPERATING
+ TWO, PROVIDERS SHALL RECEIVE AN OCCUPANCY ADJUSTMENT  TO  THE  OPERATING
  COMPONENT  OF  THEIR  RATE,  AS THE OPERATING COMPONENT OF THEIR RATE IS
  DETERMINED PURSUANT TO REGULATIONS PROMULGATED BY  THE  COMMISSIONER  OF
  HEALTH,  FOR  VACANCY DAYS. THE OCCUPANCY ADJUSTMENT PERCENTAGE SHALL BE
@@ -115,10 +119,12 @@ S T A T E  O F  N E W  Y O R K
  THE PROVIDER'S CERTIFIED CAPACITY. THE CERTIFIED CAPACITY OF THE PROVID-
  ER IS CALCULATED BY TAKING INTO ACCOUNT CAPACITY CHANGES THROUGHOUT  THE
  YEAR,  MULTIPLIED BY ONE HUNDRED PERCENT OF THE YEAR'S DAYS. THE ADJUST-
- MENT WILL BEGIN ON JULY FIRST, TWO  THOUSAND  TWENTY-ONE  AND  SHALL  BE
+ MENT WILL BEGIN ON JULY FIRST, TWO  THOUSAND  TWENTY-TWO  AND  SHALL  BE
+ A. 6965--A  3
+
  RECALCULATED  ON  AN ANNUAL BASIS BASED ON THE MOST CURRENT AND COMPLETE
  TWELVE MONTHS OF EXPERIENCE.  THE OCCUPANCY ADJUSTMENT WILL BE THE LOWER
  OF  THE  PROVIDER'S  ACTUAL  OCCUPANCY  ADJUSTMENT  PERCENTAGE  OR  FIVE
  PERCENT.
   §  2.  This  act  shall take effect immediately and shall be deemed to
- have been in full force and effect on and after April 1, 2023.
+ have been in full force and effect on and after April 1, 2025.
