@@ -1,6 +1,6 @@
 # Provides a payroll tax credit for compensation of journalists; and to provide for the repeal of such provisions
 
-**Bill ID:** S625DC
+**Bill ID:** S625DD
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides a one-year payroll tax credit for compensation of journalists; sets a m
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  625--C
+  625--D
  
   2023-2024 Regular Sessions
  
@@ -26,46 +26,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens.  HOYLMAN-SIGAL, ADDABBO, ASHBY, BORRELLO, BRESLIN,
-  BROUK, CLEARE, COMRIE, COONEY, HARCKHAM,  HINCHEY,  JACKSON,  KENNEDY,
-  LIU,  MANNION,  MYRIE,  PALUMBO,  RIVERA,  SALAZAR,  SERRANO, SKOUFIS,
-  STAVISKY -- read twice and ordered printed, and  when  printed  to  be
-  committed  to  the  Committee  on  Budget  and  Revenue  --  committee
+  BROUK, CHU, CLEARE,  COMRIE,  COONEY,  FERNANDEZ,  HARCKHAM,  HINCHEY,
+  JACKSON,  KENNEDY,  LIU,  MANNION,  MARTINEZ,  MYRIE, PALUMBO, RIVERA,
+  SALAZAR, SEPULVEDA, SERRANO,  SKOUFIS,  STAVISKY  --  read  twice  and
+  ordered  printed, and when printed to be committed to the Committee on
+  Budget and Revenue --  committee  discharged,  bill  amended,  ordered
+  reprinted  as  amended  and recommitted to said committee -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee  --  committee  discharged,  bill  amended,  ordered
-  reprinted  as amended and recommitted to said committee -- recommitted
-  to the Committee on Budget and Revenue in accordance with Senate  Rule
-  6,  sec. 8 -- committee discharged, bill amended, ordered reprinted as
+  to said committee -- recommitted to the Committee on Budget and Reven-
+  ue in accordance with Senate Rule 6, sec. 8 --  committee  discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee -- committee discharged, bill amended, ordered reprinted  as
   amended and recommitted to said committee
  
- AN ACT to amend the tax law, in relation  to  providing  a  payroll  tax
-  credit  for compensation of journalists; and to provide for the repeal
+ AN  ACT  to  amend  the  tax law, in relation to providing a payroll tax
+  credit for compensation of journalists; and providing for  the  repeal
   of such provisions upon expiration thereof
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
- 
-  Section  1.  This  act  shall  be known and may be cited as the "local
+
+  Section 1. This act shall be known and may  be  cited  as  the  "local
  journalism sustainability act".
-  § 2. The tax law is amended by adding a new section 24-d  to  read  as
+  §  2.  The  tax law is amended by adding a new section 24-d to read as
  follows:
-  §  24-D. PAYROLL CREDIT FOR COMPENSATION OF JOURNALISTS. (A) IN GENER-
- AL.  AN ELIGIBLE NEWS JOURNALIST EMPLOYER WHICH IS SUBJECT TO TAX  UNDER
- ARTICLE  NINE-A  OR TWENTY-TWO OF THIS CHAPTER SHALL BE ALLOWED A CREDIT
- AGAINST SUCH TAX, TO BE COMPUTED AS PROVIDED IN THIS SECTION,  FOR  EACH
- CALENDAR  QUARTER  AN AMOUNT EQUAL TO THE APPLICABLE PERCENTAGE OF WAGES
+  § 24-D. PAYROLL CREDIT FOR COMPENSATION OF JOURNALISTS. (A) IN  GENER-
+ AL.  AN ELIGIBLE NEWS JOURNALIST EMPLOYER WHICH IS SUBJECT TO TAX UNDER
+ ARTICLE NINE-A OR TWENTY-TWO OF THIS CHAPTER SHALL BE ALLOWED  A  CREDIT
+ AGAINST  SUCH  TAX, TO BE COMPUTED AS PROVIDED IN THIS SECTION, FOR EACH
+ CALENDAR QUARTER AN AMOUNT EQUAL TO THE APPLICABLE PERCENTAGE  OF  WAGES
  PAID BY SUCH EMPLOYER TO NEWS JOURNALISTS FOR SUCH CALENDAR QUARTER.
-  (B) LIMITATIONS.  (1) THE AMOUNT OF WAGES PAID  WITH  RESPECT  TO  ANY
+  (B)  LIMITATIONS.  (1)  THE AMOUNT OF WAGES PAID WITH RESPECT TO ANY
  INDIVIDUAL WHICH MAY BE TAKEN INTO ACCOUNT UNDER SUBDIVISION (A) OF THIS
- SECTION  DURING  ANY  CALENDAR  QUARTER  BY THE ELIGIBLE NEWS JOURNALIST
- EMPLOYER SHALL NOT EXCEED TWELVE THOUSAND FIVE HUNDRED  DOLLARS.  CREDIT
- IS  ALLOWED  FOR  INDIVIDUALS PAID IN EXCESS OF THIS AMOUNT BUT SHALL BE
+ SECTION DURING ANY CALENDAR QUARTER  BY  THE  ELIGIBLE  NEWS  JOURNALIST
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02644-10-4
- S. 625--C  2
+  LBD02644-12-4
+ S. 625--D  2
  
- LIMITED TO A PORTION OF THE  WAGES  PAID  UP  TO  TWELVE  THOUSAND  FIVE
+ EMPLOYER  SHALL  NOT EXCEED TWELVE THOUSAND FIVE HUNDRED DOLLARS. CREDIT
+ IS ALLOWED FOR INDIVIDUALS PAID IN EXCESS OF THIS AMOUNT  BUT  SHALL  BE
+ LIMITED  TO  A  PORTION  OF  THE  WAGES  PAID UP TO TWELVE THOUSAND FIVE
  HUNDRED DOLLARS PER QUARTER.
   (2)  THE PROVISIONS OF THIS SECTION SHALL ONLY APPLY TO THE FIRST FOUR
  CALENDAR QUARTERS BEGINNING AFTER THE EFFECTIVE DATE OF THIS SECTION.
@@ -119,9 +121,9 @@ S T A T E  O F  N E W  Y O R K
  FOR  EACH  WEEK  DURING  WHICH SUCH EMPLOYEE IS EMPLOYED BY THE ELIGIBLE
  NEWS JOURNALIST EMPLOYER DURING THE CALENDAR QUARTER,  AND  (B)  RESIDES
  WITHIN  THE  DESIGNATED  BROADCAST  MARKET  OR  FIFTY MILES OF THE LOCAL
- COMMUNITY WITH RESPECT  TO  THE  QUALIFYING  PUBLICATION  OR  QUALIFYING
- S. 625--C  3
+ S. 625--D  3
  
+ COMMUNITY WITH RESPECT  TO  THE  QUALIFYING  PUBLICATION  OR  QUALIFYING
  BROADCAST  STATION  WITH  RESPECT  TO  WHICH  THE QUALIFIED SERVICES ARE
  PROVIDED.
   (5)  "QUALIFIED  SERVICES"  MEANS SERVICES WHICH CONSIST OF GATHERING,
@@ -177,7 +179,7 @@ S T A T E  O F  N E W  Y O R K
   (1) TO ALLOW THE ADVANCE PAYMENT OF THE CREDIT UNDER  SUBDIVISION  (A)
  OF  THIS  SECTION,  SUBJECT TO THE LIMITATIONS PROVIDED IN THIS SECTION,
  BASED ON SUCH INFORMATION AS THE COMMISSIONER SHALL REQUIRE;
- S. 625--C  4
+ S. 625--D  4
  
   (2) TO PROVIDE FOR THE RECONCILIATION OF SUCH ADVANCE PAYMENT WITH THE
  AMOUNT ADVANCED AT THE TIME OF FILING THE RETURN OF TAX FOR THE APPLICA-
@@ -235,14 +237,14 @@ S T A T E  O F  N E W  Y O R K
  UNDER SUBSECTION (W)  OF JOURNALISTS UNDER SUBDIVISION
   SIXTY OF SECTION
   TWO HUNDRED TEN-B
- S. 625--C  5
+ S. 625--D  5
  
   §  6.  This  act  shall take effect immediately and shall apply to tax
  years commencing on and after January 1, 2024; provided that:
-  (a) this act shall expire and be deemed repealed January 1, 2029; and
+  (a) this act shall expire and be deemed repealed January 1, 2025; and
   (b)  the  expiration and repeal of this act shall not affect the proc-
  essing or allowance of any tax credit provided in this act for  any  tax
- year commencing prior to January 1, 2029.
+ year commencing prior to January 1, 2025.
   Effective  immediately,  the  addition, amendment and/or repeal of any
  rule or regulation necessary for the implementation of this act  on  its
  effective date are authorized to be made and completed on or before such
