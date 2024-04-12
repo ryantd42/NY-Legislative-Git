@@ -1,6 +1,6 @@
 # Authorizes the New York state energy research and development authority to develop a temporary middle income home energy assistance program; suspend taxes on home heating fuels; appropriation
 
-**Bill ID:** A4109A
+**Bill ID:** A4109AA
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the New York state energy research and development authority to devel
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4109
+  4109--A
  
   2023-2024 Regular Sessions
  
@@ -26,7 +26,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. JONES -- read once and referred to the Committee
-  on Energy
+  on Energy -- recommitted to the Committee on Energy in accordance with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public authorities law, in relation  to  authorizing
   the New York state energy research and development authority to devel-
@@ -56,18 +58,18 @@ S T A T E  O F  N E W  Y O R K
  TY, ADJUSTED FOR THE SIZE OF THE HOUSEHOLD, WHICHEVER IS GREATER.
   (C)  THE  AUTHORITY  SHALL, IN ACCORDANCE WITH THE PLAN ESTABLISHED IN
  PARAGRAPH (A) OF THIS SUBDIVISION, PARTICIPATE IN THE  TEMPORARY  MIDDLE
- INCOME  HOME ENERGY ASSISTANCE PROGRAM AND ASSIST ELIGIBLE HOUSEHOLDS TO
- OBTAIN MIDDLE INCOME HOME ENERGY ASSISTANCE.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05337-01-3
- A. 4109  2
+  LBD05337-03-4
+ A. 4109--A  2
  
-  (D) PERSONS WHO QUALIFY FOR MIDDLE INCOME HOME  ENERGY  ASSISTANCE  IN
- ACCORDANCE  WITH STANDARDS PROMULGATED BY THE AUTHORITY, SHALL BE CERTI-
- FIED AS ELIGIBLE FOR AND ENTITLED TO RECEIVE SUCH  HOME  ENERGY  ASSIST-
- ANCE.  NO  PERSON, HOWEVER, SHALL BE CERTIFIED AS ELIGIBLE FOR AND ENTI-
+ INCOME  HOME ENERGY ASSISTANCE PROGRAM AND ASSIST ELIGIBLE HOUSEHOLDS TO
+ OBTAIN MIDDLE INCOME HOME ENERGY ASSISTANCE.
+  (D)  PERSONS  WHO  QUALIFY FOR MIDDLE INCOME HOME ENERGY ASSISTANCE IN
+ ACCORDANCE WITH STANDARDS PROMULGATED BY THE AUTHORITY, SHALL BE  CERTI-
+ FIED  AS  ELIGIBLE  FOR AND ENTITLED TO RECEIVE SUCH HOME ENERGY ASSIST-
+ ANCE. NO PERSON, HOWEVER, SHALL BE CERTIFIED AS ELIGIBLE FOR  AND  ENTI-
  TLED  TO  RECEIVE  SUCH  HOME  ENERGY  ASSISTANCE  IF NO STATE FUNDS ARE
  AVAILABLE FOR SUCH PURPOSE.
   (E) NOTWITHSTANDING ANY INCONSISTENT PROVISION OF LAW TO THE CONTRARY,
@@ -77,7 +79,7 @@ S T A T E  O F  N E W  Y O R K
  PURPOSE UNDER ANY STATE LAW.
   § 2.  Section 1115 of the tax law is amended by adding a new  subdivi-
  sion (ll) to read as follows:
-  (LL)  UNTIL  JULY  FIRST,  TWO THOUSAND TWENTY-FOUR, HOME HEATING FUEL
+  (LL)  UNTIL  JULY  FIRST,  TWO  THOUSAND TWENTY-SIX, HOME HEATING FUEL
  OTHERWISE TAXABLE UNDER THIS ARTICLE SHALL NOT BE SUBJECT TO  THE  TAXES
  IMPOSED BY SECTION ELEVEN HUNDRED FIVE OF THIS ARTICLE OR THE COMPENSAT-
  ING  USE  TAX  IMPOSED  UNDER SECTION ELEVEN HUNDRED TEN OF THIS ARTICLE
@@ -96,4 +98,4 @@ S T A T E  O F  N E W  Y O R K
  state energy research and development authority in the manner prescribed
  by law.
   § 4. This act shall take effect immediately and shall  expire  and  be
- deemed repealed April 1, 2025.
+ deemed repealed April 1, 2027.
