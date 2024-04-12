@@ -1,6 +1,6 @@
 # Requires the council on the arts to have members from each of the ten regions of the state
 
-**Bill ID:** A8978A
+**Bill ID:** A8978AA
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Signed by Governor
@@ -16,27 +16,29 @@ Requires the council on the arts to have members from each of the ten regions of
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8978
+  8978--A
  
   I N  A S S E M B L Y
  
   January 31, 2024
   ___________
  
- Introduced  by M. of A. WOERNER -- read once and referred to the Commit-
-  tee on Tourism, Parks, Arts and Sports Development
+ Introduced by M. of A. WOERNER, GUNTHER -- read once and referred to the
+  Committee  on Tourism, Parks, Arts and Sports Development -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the arts  and  cultural  affairs  law,  in  relation  to
   requiring the council on the arts to have members from each of the ten
   regions of the state
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Subdivision 1 of section 3.03  of  the  arts  and  cultural
  affairs  law,  as amended by chapter 205 of the laws of 2008, is amended
  to read as follows:
-  1. The council on the arts  in  the  executive  department  is  hereby
+  1. (A) The council on the arts in the executive department  is  hereby
  continued.  The  twenty-one  members shall be, broadly representative of
  all fields of the performing and fine  arts,  to  be  appointed  by  the
  governor,  with the advice and consent of the senate, from among private
@@ -49,11 +51,17 @@ S T A T E  O F  N E W  Y O R K
  civic, educational and professional associations and  groups,  concerned
  with  or engaged in the production or presentation of the performing and
  fine arts generally.
+  (B) NO AMENDMENTS MADE TO  THIS  SECTION  SHALL  REQUIRE  ANY  COUNCIL
+ MEMBER  APPOINTED  PRIOR  TO  THE  EFFECTIVE  DATE OF SUCH AMENDMENTS TO
+ VACATE THEIR SEAT PRIOR TO THE NATURAL END OF THEIR TERM.
+  (C) THE COUNCIL ON THE ARTS SHALL NOT BE OUT OF COMPLIANCE  WITH  THIS
+ SECTION PROVIDED THAT, TO THE EXTENT PRACTICABLE, AS EACH NEW SUCCESSIVE
+ VACANCY  OCCURS,  THE  APPOINTMENT  MADE FOR SUCH VACANCY SHALL MOVE THE
+ COMPOSITION OF THE COUNCIL CLOSER TO THE REQUIREMENT THAT  EACH  OF  THE
+ TEN  REGIONS  OF  THE  STATE  AS DEFINED BY THE EMPIRE STATE DEVELOPMENT
+ CORPORATION BE REPRESENTED BY AT  LEAST ONE MEMBER OF THE COUNCIL.
   § 2. This act shall take effect immediately.
- 
- 
- 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11231-01-3
+  LBD11231-05-4
