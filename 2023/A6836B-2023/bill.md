@@ -1,6 +1,6 @@
 # Relates to wild or exotic animals
 
-**Bill ID:** A6836BA
+**Bill ID:** A6836BB
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that "wild animal" means indigenous, non-domesticated animals native to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6836--A
+  6836--B
  
   2023-2024 Regular Sessions
  
@@ -25,58 +25,61 @@ S T A T E  O F  N E W  Y O R K
   May 8, 2023
   ___________
  
- Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Environmental Conservation -- committee discharged,  bill
-  amended,  ordered reprinted as amended and recommitted to said commit-
-  tee
+ Introduced  by  M.  of  A.  L. ROSENTHAL,  BORES, SIMON -- read once and
+  referred to the Committee on Environmental Conservation  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to  said  committee  --  recommitted to the Committee on Environmental
+  Conservation in accordance with Assembly Rule 3, sec. 2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
- AN ACT to amend the environmental conservation law, in relation to  wild
+ AN  ACT to amend the environmental conservation law, in relation to wild
   or exotic animals
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Paragraph e of subdivision 6  of  section  11-0103  of  the
- environmental  conservation law, as amended by chapter 10 of the laws of
+  Section  1.  Paragraph  e  of  subdivision 6 of section 11-0103 of the
+ environmental conservation law, as amended by chapter 10 of the laws  of
  2005, is amended to read as follows:
-  e. ["Wild animal" shall not include "companion animal" as  defined  in
- section  three  hundred  fifty of the agriculture and markets law.  Wild
+  e.  ["Wild  animal" shall not include "companion animal" as defined in
+ section three hundred fifty of the agriculture and markets  law.  Wild
  animal  includes,]  "WILD  ANIMAL"  MEANS  INDIGENOUS,  NON-DOMESTICATED
- ANIMALS  NATIVE TO THE COUNTRY IN WHICH THEY LIVE. "EXOTIC ANIMAL" MEANS
- A WILD ANIMAL WITH AN ORIGIN OF A DIFFERENT CONTINENT.  THE  TERMS  WILD
+ ANIMALS NATIVE TO THE COUNTRY IN WHICH THEY LIVE. "EXOTIC ANIMAL"  MEANS
+ A  WILD  ANIMAL  WITH AN ORIGIN OF A DIFFERENT CONTINENT. THE TERMS WILD
  ANIMAL AND EXOTIC ANIMAL SHALL NOT INCLUDE "COMPANION ANIMAL" AS DEFINED
- IN  SECTION THREE HUNDRED FIFTY OF THE AGRICULTURE AND MARKETS LAW. WILD
- ANIMALS AND EXOTIC ANIMALS INCLUDE and [is] ARE limited to, any  or  all
+ IN SECTION THREE HUNDRED FIFTY OF THE AGRICULTURE AND MARKETS LAW.  WILD
+ ANIMALS  AND  EXOTIC ANIMALS INCLUDE and [is] ARE limited to, any or all
  of the following orders [and], families, AND GENERA:
   (1) Nonhuman primates and prosimians,
   (2) Felidae and all hybrids thereof, with the exception of the species
- Felis  catus (domesticated and feral cats, which shall mean domesticated
- cats that were formerly owned and that have been abandoned and that  are
- no  longer socialized, as well as offspring of such cats) and hybrids of
+ Felis catus (domesticated and feral cats, which shall mean  domesticated
+ cats  that were formerly owned and that have been abandoned and that are
+ no longer socialized, as well as offspring of such cats) and hybrids  of
  Felis catus that are registered by the American Cat Fanciers Association
- or the International Cat Association provided that such cats be  without
+ or  the International Cat Association provided that such cats be without
  any wild felid parentage for a minimum of five generations,
-  (3)  Canidae (with the exception of domesticated dogs and captive bred
- fennec foxes (vulpes zerda)),
-  (4) Ursidae,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10398-08-3
- A. 6836--A  2
+  LBD10398-10-4
+ A. 6836--B  2
  
-  (5) All reptiles that are venomous by nature, pursuant  to  department
+  (3) Canidae (with the exception of domesticated dogs and captive  bred
+ fennec foxes (vulpes zerda)),
+  (4) Ursidae,
+  (5)  All  reptiles that are venomous by nature, pursuant to department
  regulation, and the following species and orders: Burmese Python (Python
- m.  bivittatus),  Reticulated  Python (Python reticulatus), African Rock
+ m. bivittatus), Reticulated Python (Python  reticulatus),  African  Rock
  Python  (Python  sabae),  Green  Anaconda  (Eunectes  maurinus),  Yellow
- Anaconda  (Eunectes  notaeus),  Australian  Amethystine  Python (Morelia
- amethistina and Morelia  kinghorni),  Indian  Python  (Python  molurus),
- Asiatic  (water) Monitor (Varanus salvator), Nile Monitor (Varanus nilo-
+ Anaconda (Eunectes  notaeus),  Australian  Amethystine  Python  (Morelia
+ amethistina  and  Morelia  kinghorni),  Indian  Python (Python molurus),
+ Asiatic (water) Monitor (Varanus salvator), Nile Monitor (Varanus  nilo-
  citus), White Throat Monitor (Varanus albigularis), Black Throat Monitor
  (Varanus albigularis ionides) and Crocodile Monitor (Varanus salvadori),
  Komodo Dragon (Varanus komodensis) and any hybrid thereof,
   (6) Crocodylia,
-  (7) MACROPODIDAE INCLUDING BUT NOT LIMITED  TO  KANGAROOS,  WALLABIES,
+  (7)  MACROPODIDAE  INCLUDING  BUT NOT LIMITED TO KANGAROOS, WALLABIES,
  TREE-KANGAROOS, WALLAROOS, PADEMELONS AND QUOKKAS,
   (8) CETACEA (INCLUDING WHALES AND DOLPHINS),
   (9) ELEPHANTIDAE (ELEPHANTS),
@@ -87,4 +90,16 @@ S T A T E  O F  N E W  Y O R K
   (14) VIVERRIDAE (INCLUDING BEARCATS),
   (15) CYNOMYS, AND
   (16) CAPYBARAS.
-  § 2. This act shall take effect immediately.
+  § 2. Section 11-0512 of the environmental conservation law is  amended
+ by adding a new subdivision 3-a to read as follows:
+  3-A.  ANY PERSON WHO POSSESSES OR HARBORS AN EXOTIC ANIMAL PURSUANT TO
+ PARAGRAPH E OF SUBDIVISION SIX OF SECTION 11-0103 OF  THIS  ARTICLE  FOR
+ USE  AS  A PET AT THE TIME THAT THIS SUBDIVISION TAKES EFFECT MAY RETAIN
+ POSSESSION OF SUCH ANIMAL FOR THE REMAINDER OF ITS LIFE,  PROVIDED  THAT
+ SUCH PERSON:
+  A.  HAS  NOT  BEEN  CONVICTED  OF  ANY  OFFENSE RELATING TO CRUELTY TO
+ ANIMALS OR UNDER A JUDICIAL ORDER PROHIBITING POSSESSION OF ANIMALS;
+  B. APPLIES TO THE DEPARTMENT WITHIN SIX MONTHS OF THE  EFFECTIVE  DATE
+ OF  THIS SECTION, AND OBTAINS FROM THE DEPARTMENT, A LICENSE PURSUANT TO
+ SUBDIVISION FOUR OF THIS SECTION;
+  § 3. This act shall take effect immediately.
