@@ -1,6 +1,6 @@
 # Authorizes the widow of Howard Mahler to file a retirement option election on behalf of her deceased husband
 
-**Bill ID:** S7324A
+**Bill ID:** S7324AA
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Authorizes Robin Garfinkle, the widow of Howard Mahler, to file a retirement opt
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7324
+  7324--A
  
   2023-2024 Regular Sessions
  
@@ -27,7 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  CANZONERI-FITZPATRICK  --  read  twice and ordered
   printed, and when printed to be committed to the  Committee  on  Civil
-  Service and Pensions
+  Service  and Pensions -- recommitted to the Committee on Civil Service
+  and Pensions in accordance with Senate Rule 6,  sec.  8  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN  ACT  to  authorize  the  widow of Howard Mahler to file a retirement
   option election form
@@ -56,41 +59,41 @@ S T A T E  O F  N E W  Y O R K
  the service retirement benefit payable thereafter.
   § 3. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This bill would deem Howard  Mahler  retired  effective  December  22,
- 2014, notwithstanding their death on December 23, 2014. Robin Garfinkle,
- the  widow  of  Howard  Mahler,  shall  be  authorized to file an option
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD09942-02-3
- S. 7324  2
+  LBD09942-04-4
+ S. 7324--A  2
  
+  This bill would deem Howard  Mahler  retired  effective  December  22,
+ 2014, notwithstanding their death on December 23, 2014. Robin Garfinkle,
+ the  widow  of  Howard  Mahler,  shall  be  authorized to file an option
  election form selecting the joint allowance full  option  on  behalf  of
  their deceased husband. The amount paid to Robin Garfinkle shall be less
  any  sums  previously  paid  by  the New York State and Local Retirement
  System to any beneficiary of Howard Mahler.
-  If  this  bill  is  enacted during the 2023 legislative session, there
- will be an immediate past service cost of  approximately  $1.21  million
+  If this bill is enacted during the  2024  Legislative  Session,  there
+ will  be  an  immediate past service cost of approximately $1.26 million
  which will be borne by the State of New York as a one-time payment. This
- estimate assumes that payment will be made on March 1, 2024.
+ estimate assumes that payment will be made on March 1, 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al  valuation.  Distributions  and  other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
- New  York  State  and  Local  Retirement System Financial Statements and
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
+ New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This fiscal note does not constitute a legal opinion on the  viability
- of  the  proposed change nor is it intended to serve as a substitute for
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This estimate, dated March 10, 2023, and intended for use only  during
- the  2023  Legislative  Session, is Fiscal Note No. 2023-91, prepared by
+  This  estimate,  dated April 9, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No. 2024-162,  prepared  by
  the Actuary for the New York State and Local Retirement System.
