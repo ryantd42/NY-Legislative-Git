@@ -1,6 +1,6 @@
 # Requires the commissioner of education to develop model mental health screenings for students and associated guidelines to assist school mental health screeners to perform mental health screening services
 
-**Bill ID:** S7325A
+**Bill ID:** S7325AA
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires the commissioner of education, in conjunction with the commissioner of 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7325
+  7325--A
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  CANZONERI-FITZPATRICK  --  read  twice and ordered
   printed, and when printed to be committed to the Committee  on  Educa-
-  tion
- 
+  tion  --  recommitted to the Committee on Education in accordance with
+  Senate Rule 6, sec. 8 -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN  ACT to amend the education law, in relation to requiring the commis-
   sioner to develop model mental  health  screenings  for  students  and
   associated  guidelines  to  assist  school  mental health screeners to
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  UALS  FOR  DEPRESSION,  ANXIETY, BIPOLAR DISORDER, POST-TRAUMATIC STRESS
  DISORDER (PTSD), EARLY  PSYCHOSIS,  OR  POTENTIAL  ADDICTION  DISORDERS.
  MODELS  MAY DIFFER IN THEIR ABILITY TO DETECT EACH LISTED MENTAL ILLNESS
- IN CORRESPONDENCE WITH THE COMMISSIONERS' RECOMMENDATIONS REGARDING  THE
- APPROPRIATE LEVELS OF TRAINING OR LICENSED PROFESSIONALS REQUIRED.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11568-01-3
- S. 7325  2
+  LBD11568-02-4
+ S. 7325--A  2
  
+ IN CORRESPONDENCE WITH THE COMMISSIONERS' RECOMMENDATIONS REGARDING  THE
+ APPROPRIATE LEVELS OF TRAINING OR LICENSED PROFESSIONALS REQUIRED.
   4. THE GUIDELINES SHALL INCLUDE, BUT SHALL NOT BE LIMITED TO:
   A. RECOMMENDATIONS FOR THE FREQUENCY OF SUCH MENTAL HEALTH SCREENINGS;
   B.  INSTRUCTION  FOR THE CONFIDENTIAL MAINTENANCE OF HEALTH RECORDS IN
@@ -85,7 +87,12 @@ S T A T E  O F  N E W  Y O R K
   5.  THE COMMISSIONER SHALL MAKE THE MODEL MENTAL HEALTH SCREENINGS AND
  ASSOCIATED GUIDELINES, AND ANY OTHER  MATERIALS  DEVELOPED  PURSUANT  TO
  THIS  SECTION AVAILABLE TO THE PUBLIC ON THE DEPARTMENT'S WEBSITE AND TO
- APPROPRIATE SCHOOL DISTRICT OFFICIALS UPON REQUEST AT NO CHARGE.
+ APPROPRIATE SCHOOL DISTRICT OFFICIALS UPON REQUEST AT NO CHARGE.  NOTH-
+ ING  IN  THIS  SECTION  SHALL  BE  CONSTRUED AS TO REQUIRE ANY SCHOOL OR
+ SCHOOL DISTRICT TO USE ANY SUCH MODEL MENTAL HEALTH SCREENINGS OR GUIDE-
+ LINES DEVELOPED PURSUANT TO THIS SECTION,  NOR  SHALL  THIS  SECTION  BE
+ CONSTRUED  AS TO REQUIRE ANY SCHOOL OR SCHOOL DISTRICT TO PERFORM MENTAL
+ HEALTH SCREENINGS.
   § 2. This act shall take effect one year after it shall have become  a
  law. Effective immediately, the addition, amendment and/or repeal of any
  rule  or  regulation necessary for the implementation of this act on its
