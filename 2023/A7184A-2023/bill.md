@@ -1,6 +1,6 @@
 # Relates to health care agents and proxies, decisions under the family health care decisions act and nonhospital orders not to resuscitate
 
-**Bill ID:** A7184A
+**Bill ID:** A7184AA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Makes technical, minor and coordinating amendments regarding health care agents 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7184
+  7184--A
  
   2023-2024 Regular Sessions
  
@@ -26,13 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. PAULIN -- read once and referred to the Committee
-  on Health
+  on Health -- recommitted to the Committee on Health in accordance with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN  ACT to amend the public health law, in relation to making technical,
   minor and coordinating amendments regarding  health  care  agents  and
   proxies,  decisions  under  the  family health care decisions act, and
   nonhospital orders not to resuscitate
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  religious and moral beliefs; or (b) if the principal's  wishes  are  not
  reasonably known and cannot with reasonable diligence be ascertained, in
  accordance  with the principal's best interests; provided, however, that
- if the principal's wishes regarding  the  administration  of  artificial
- nutrition and hydration are not reasonably known and cannot with reason-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05270-01-3
- A. 7184  2
+  LBD05270-04-4
+ A. 7184--A  2
  
+ if the principal's wishes regarding  the  administration  of  artificial
+ nutrition and hydration are not reasonably known and cannot with reason-
  able diligence be ascertained, the agent shall not have the authority to
  make decisions regarding these measures.
   §  3.  Subdivision  3  of  section  2983  of the public health law, as
@@ -76,7 +78,7 @@ S T A T E  O F  N E W  Y O R K
  cation  of the principal's ability to comprehend such notice; (b) to the
  agent; (c) if the principal is  in  or  is  transferred  from  a  mental
  hygiene  facility, to the facility director; and (d) to the [conservator
- for, or committee of, the principal] GUARDIAN, IF ANY.
+ for, or committee of, the principal] GUARDIAN OF THE PRINCIPAL, IF ANY.
   § 4. The opening paragraph of section 2992 of the public  health  law,
  as  amended  by  chapter  93  of the laws of 2014, is amended to read as
  follows:
@@ -104,32 +106,33 @@ S T A T E  O F  N E W  Y O R K
  follows:
   17. "Health or social [service] SERVICES practitioner" means a  regis-
  tered  professional  nurse,  nurse  practitioner,  physician,  physician
- assistant, psychologist, LICENSED MASTER SOCIAL WORKER or licensed clin-
- ical social worker, licensed or certified pursuant to the education  law
- acting within his or her scope of practice.
+ assistant, psychologist, LICENSED  MASTER  SOCIAL  WORKER,  or  licensed
+ clinical  social  worker,  licensed  [or],  certified  [pursuant  to] OR
+ AUTHORIZED UNDER the education law  acting  within  [his  or  her]  SUCH
+ HEALTH OR SOCIAL SERVICES PRACTITIONER'S scope of practice.
   26.  "Person connected with the case" means the patient, any person on
- the surrogate list, a parent or guardian of a  minor  patient,  [the]  A
- hospital  administrator,  an  attending  physician,  any other health or
- social services practitioner who is or has been directly involved in the
- patient's care, and any duly  authorized  state  agency,  including  the
- facility  director or regional director for a patient transferred from a
- mental hygiene facility and the facility director for a  patient  trans-
- ferred from a correctional facility.
+ the surrogate list, a parent or guardian of a minor patient, the  hospi-
+ tal  administrator,  an  attending  [physician]  PRACTITIONER, any other
+ health or social services practitioner  who  is  or  has  been  directly
+ involved  in  the  patient's care, and any duly authorized state agency,
+ including the facility director  or  regional  director  for  a  patient
+ transferred from a mental hygiene facility and the facility director for
+ a patient transferred from a correctional facility.
   §  7.  Subdivision  3  of  section 2994-e of the public health law, as
  amended by chapter 708 of the laws  of  2019,  is  amended  to  read  as
  follows:
+ A. 7184--A  3
+ 
   3.  Decision-making  standards  and  procedures  for emancipated minor
  patient. (a) If an attending practitioner determines that a  patient  is
  an emancipated minor patient with decision-making capacity AND DOCUMENTS
- A. 7184  3
- 
- THE  BASIS  FOR  SUCH DETERMINATION IN THE PATIENT'S MEDICAL RECORD, the
- patient shall have the authority to decide about life-sustaining  treat-
- ment.  Such  authority  shall include a decision to withhold or withdraw
- life-sustaining  treatment  if  an attending practitioner and the ethics
- review committee determine that the decision accords with the  standards
- for  surrogate  decisions  for  adults,  and the ethics review committee
- approves the decision.
+ THE  BASIS  FOR  THAT DETERMINATION IN THE PATIENT'S MEDICAL RECORD, the
+ patient  shall have the authority to decide about life-sustaining treat-
+ ment. [Such] THAT authority shall include  a  decision  to  withhold  or
+ withdraw  life-sustaining treatment if an attending practitioner and the
+ ethics review committee determine that the  decision  accords  with  the
+ standards  for  surrogate  decisions  for  adults, and the ethics review
+ committee approves the decision.
   (b) If the hospital can with reasonable efforts ascertain the identity
  of the parents or guardian of an emancipated minor patient, the hospital
  shall MAKE DILIGENT EFFORTS TO notify such persons, AND  DOCUMENTS  SUCH
@@ -143,46 +146,45 @@ S T A T E  O F  N E W  Y O R K
  treatment shall not be withdrawn or withheld until  THE  HOSPITAL  MAKES
  DILIGENT  EFFORTS TO INFORM the persons identified in subparagraph (iii)
  of this paragraph have been informed of the committee's response to  the
- case  AND  DOCUMENTS  SUCH  DILIGENT  EFFORTS  IN  THE PATIENT'S MEDICAL
- RECORD.
+ case AND DOCUMENTS THE DILIGENT EFFORTS IN THE PATIENT'S MEDICAL RECORD.
   § 9. Section 2994-u of the public health law, as added by chapter 8 of
  the laws of 2010, is amended to read as follows:
-  § 2994-u. Rights to be publicized. The commissioner  shall  prepare  a
+  §  2994-u.  Rights  to be publicized. The commissioner shall prepare a
  statement summarizing the rights, duties, and requirements of this arti-
- cle  and  shall  require  that  a copy of such statement be furnished to
- [patients] A PATIENT or to [persons on] the surrogate [list known to the
- hospital], or to the [parents or guardians]  PARENT  OR  GUARDIAN  of  A
- minor  [patients]  PATIENT, at or prior to admission to the hospital, or
- within a reasonable time thereafter, and to [each member of  the  hospi-
- tal's  staff  directly  involved  with  patient  care] ANY PERSON ON THE
- SURROGATE LIST WHO REQUESTS A COPY OF SUCH STATEMENT FROM THE  HOSPITAL.
- THE  STATEMENT  SHALL  ALSO  BE  MADE AVAILABLE TO THE HOSPITAL CLINICAL
+ cle and shall require that a copy of  such  statement  be  furnished  to
+ [patients]  A  PATIENT  or to [persons on] the PATIENT'S surrogate [list
+ known to the hospital], or to the [parents or guardians] PARENT OR GUAR-
+ DIAN of A minor [patients] PATIENT, at or  prior  to  admission  to  the
+ hospital, or within a reasonable time thereafter, and to [each member of
+ the  hospital's staff directly involved with patient care] ANY PERSON ON
+ THE SURROGATE LIST WHO REQUESTS A COPY OF THE STATEMENT FROM THE  HOSPI-
+ TAL. THE STATEMENT SHALL ALSO BE MADE AVAILABLE TO THE HOSPITAL CLINICAL
  STAFF.
-  § 10. The commissioner of health shall revise the statement of  rights
- that  hospitals  are  required  to  post (known as the Patient's Bill of
- Rights) pursuant to paragraph (g) of subdivision 1 of  section  2803  of
- the  public  health law, by replacing the clause regarding orders not to
- resuscitate with a statement that more  generally  informs  patients  of
- their  right  to  receive  from  the  hospital  upon admission, and upon
- request, a more complete statement  of  their  rights  with  respect  to
- deciding  about  health  care, including appointing a health care agent,
+  §  10. The commissioner of health shall revise the statement of rights
+ that hospitals are required to post (known  as  the  Patient's  Bill  of
+ Rights)  under  paragraph  (g)  of  subdivision 1 of section 2803 of the
+ public health law, by replacing  the  clause  regarding  orders  not  to
+ resuscitate  with  a  statement  that more generally informs patients of
+ their right to receive  from  the  hospital  upon  admission,  and  upon
+ request,  a  more  complete  statement  of  their rights with respect to
+ deciding about health care, including appointing a  health  care  agent,
  consenting to do-not-resuscitate orders and making other life-sustaining
- treatment decisions. The clause should also state in substance that  the
- hospital  will  also  provide  such statement upon request to any family
+ treatment  decisions. The clause should also state in substance that the
+ hospital will also provide such statement upon  request  to  any  family
  member or friend of a patient who lacks decision-making capacity.
-  § 11. Subdivisions 12 and 13 of section 2994-aa of the  public  health
- law,  subdivision  12  as amended by chapter 672 of the laws of 2019 and
- subdivision 13 as amended  by chapter 167 of  the  laws  of  2011,  are
+  §  11.  Subdivisions 12 and 13 of section 2994-aa of the public health
+ law, subdivision 12 as amended by chapter 672 of the laws  of  2019  and
+ subdivision  13  as  amended  by  chapter 167 of the laws of 2011, are
  amended to read as follows:
   12. "Mental hygiene facility" means a residential facility operated or
- licensed  by  the office of mental health [or the office for people with
+ licensed by the office of mental health [or the office for  people  with
  developmental disabilities].
-  13. "Nonhospital order not to resuscitate" means an order that directs
- emergency medical  services  personnel,  hospice  personnel,  HOME  CARE
- A. 7184  4
+ A. 7184--A  4
  
- SERVICES  AGENCY PERSONNEL and hospital emergency services personnel not
- to attempt cardiopulmonary resuscitation in the event a patient  suffers
+  13. "Nonhospital order not to resuscitate" means an order that directs
+ emergency  medical  services  personnel,  hospice  personnel,  HOME CARE
+ SERVICES AGENCY PERSONNEL and hospital emergency services personnel  not
+ to  attempt cardiopulmonary resuscitation in the event a patient suffers
  cardiac or respiratory arrest.
   §  12.  Subdivisions  2  and 6 of section 2994-dd of the public health
  law, as amended by chapter 708 of the laws of 2019, are amended to  read
