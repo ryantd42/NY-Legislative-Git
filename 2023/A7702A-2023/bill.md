@@ -1,6 +1,6 @@
 # Relates to enacting provisions for the execution of electronic wills
 
-**Bill ID:** A7702A
+**Bill ID:** A7702AA
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts provisions for the execution of electronic wills including attestation, n
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7702
+  7702--A
  
   2023-2024 Regular Sessions
  
@@ -25,16 +25,19 @@ S T A T E  O F  N E W  Y O R K
   June 6, 2023
   ___________
  
- Introduced by M. of A. LAVINE -- read once and referred to the Committee
-  on Judiciary
- 
- AN  ACT  to amend the estates, powers and trusts law and the state tech-
+ Introduced  by M. of A. LAVINE, JACKSON -- read once and referred to the
+  Committee on Judiciary -- recommitted to the Committee on Judiciary in
+  accordance with Assembly Rule 3, sec. 2 -- committee discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
+
+ AN ACT to amend the estates, powers and trusts law and the  state  tech-
   nology law, in relation to electronic wills
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section  1. Article 3 of the estates, powers and trusts law is amended
+ 
+  Section 1. Article 3 of the estates, powers and trusts law is  amended
  by adding a new part 6 to read as follows:
   PART 6. ELECTRONIC WILLS
  SECTION 3-6.1 SHORT TITLE
@@ -44,7 +47,7 @@ S T A T E  O F  N E W  Y O R K
   3-6.5 EXECUTION OF ELECTRONIC WILL
   3-6.6 HARMLESS ERROR
   3-6.7 REVOCATION
-  3-6.8 ELECTRONIC WILL ATTESTED AND MADE SELF-PROVING AT TIME  OF
+  3-6.8 ELECTRONIC  WILL ATTESTED AND MADE SELF-PROVING AT TIME OF
   EXECUTION
   3-6.9 CERTIFICATION OF PAPER COPY
  § 3-6.1 SHORT TITLE
@@ -52,20 +55,20 @@ S T A T E  O F  N E W  Y O R K
  § 3-6.2 DEFINITIONS
   FOR PURPOSES OF THIS PART THE FOLLOWING TERMS SHALL HAVE THE FOLLOWING
  MEANINGS:
-  (A)  "ELECTRONIC"  MEANS  RELATING  TO  TECHNOLOGY  HAVING ELECTRICAL,
- DIGITAL, MAGNETIC, WIRELESS, OPTICAL, ELECTROMAGNETIC, OR SIMILAR  CAPA-
+  (A) "ELECTRONIC"  MEANS  RELATING  TO  TECHNOLOGY  HAVING  ELECTRICAL,
+ DIGITAL,  MAGNETIC, WIRELESS, OPTICAL, ELECTROMAGNETIC, OR SIMILAR CAPA-
  BILITIES.
-  (B)  "ELECTRONIC PRESENCE" MEANS THE RELATIONSHIP OF TWO OR MORE INDI-
- VIDUALS IN DIFFERENT LOCATIONS COMMUNICATING IN REAL TIME BY  ELECTRONIC
- MEANS  TO  THE SAME EXTENT AS IF THE INDIVIDUALS WERE PHYSICALLY PRESENT
+  (B) "ELECTRONIC PRESENCE" MEANS THE RELATIONSHIP OF TWO OR MORE  INDI-
+ VIDUALS  IN DIFFERENT LOCATIONS COMMUNICATING IN REAL TIME BY ELECTRONIC
+ MEANS TO THE SAME EXTENT AS IF THE INDIVIDUALS WERE  PHYSICALLY  PRESENT
  IN THE SAME LOCATION.
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11398-02-3
- A. 7702  2
+  LBD11398-03-4
+ A. 7702--A  2
  
-  (C) "ELECTRONIC WILL" MEANS A WILL EXECUTED ELECTRONICALLY IN  COMPLI-
+  (C)  "ELECTRONIC WILL" MEANS A WILL EXECUTED ELECTRONICALLY IN COMPLI-
  ANCE WITH PARAGRAPH (A) OF SECTION 3-6.5.
   (D)  "RECORD" MEANS INFORMATION THAT IS INSCRIBED ON A TANGIBLE MEDIUM
  OR THAT IS STORED IN AN ELECTRONIC OR OTHER MEDIUM AND IS RETRIEVABLE IN
@@ -120,8 +123,8 @@ S T A T E  O F  N E W  Y O R K
  ELECTRONIC WILLS MAY BE NOTARIZED BY NOTARY PUBLICS THAT ARE  NOT  PHYS-
  ICALLY PRESENT IN THE STATE OF NEW YORK.
  § 3-6.6 HARMLESS ERROR
- A. 7702  3
- 
+ A. 7702--A  3
+
   ALTHOUGH  A DOCUMENT OR WRITING ADDED UPON A DOCUMENT WAS NOT EXECUTED
  IN COMPLIANCE WITH SECTION 3-2.1,  THE  DOCUMENT  OR  WRITING  SHALL  BE
  TREATED  AS  IF  IT HAD BEEN EXECUTED IN COMPLIANCE WITH THAT SECTION IF
@@ -177,7 +180,7 @@ S T A T E  O F  N E W  Y O R K
  
  ___________________________
   WITNESS
- A. 7702  4
+ A. 7702--A  4
  
  ___________________________
  
@@ -195,7 +198,7 @@ S T A T E  O F  N E W  Y O R K
  
  ________________________________________________
   (SIGNED)
-
+ 
   _________________________________________
   (CAPACITY OF OFFICER)
  
@@ -215,17 +218,23 @@ S T A T E  O F  N E W  Y O R K
  ELECTRONIC WILLS AUTHORIZED BY PART SIX OF THIS ARTICLE, every will must
  be in writing, and executed and attested in the following manner:
   § 3. Subdivision 1 of section 307 of  the  state  technology  law,  as
- amended  by  chapter  222  of  the  laws  of 2021, is amended to read as
+ amended  by  chapter  543  of  the  laws  of 2023, is amended to read as
  follows:
   1. To any document providing for the disposition  of  an  individual's
  person or property upon death or incompetence, or appointing a fiduciary
  of  an  individual's  person or property, including, without limitation,
- wills, UNLESS SUCH WILL IS EXECUTED PURSUANT  TO  PART  SIX  OF  ARTICLE
- THREE  OF THE ESTATES, POWERS AND TRUSTS LAW, trusts, decisions consent-
- ing to orders not to resuscitate, powers of  attorney  and  health  care
- proxies,  with  the  exception  of:  (a)  contractual beneficiary desig-
+ wills,  UNLESS SUCH WILL IS EXECUTED PURSUANT  TO  PART  SIX  OF  ARTI-
+ CLE  THREE  OF  THE  ESTATES, POWERS AND TRUSTS LAW, trusts, decisions
+ consenting to orders not to resuscitate, powers of attorney  and  health
+ care  proxies, with the exception of: (a) contractual beneficiary desig-
  nations; (b) the  registration  of  making,  amending,  or  revoking  an
  anatomical  gift  under  section  forty-three  hundred ten of the public
- health law; and (c) documents and forms authorizing or accepting  funer-
- al, cemetery and cremation services.
+ health law; (c) documents and forms authorizing  or  accepting  funeral,
+ cemetery  and cremation services; and (d) the execution of a valid power
+ of attorney for the purpose of transferring  a  salvage  certificate  of
+ title  and  the execution of an odometer and damage disclosure statement
+ in connection with such title whenever  a  loss  in  connection  with  a
+ private  automobile  is  determined  by an insurer to be a total loss or
+ constructive total loss under section three thousand four hundred twelve
+ of the insurance law.
   § 4. This act shall take effect immediately.
