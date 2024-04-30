@@ -1,6 +1,6 @@
 # Designates a portion of the highway system the "Fort Hamilton Veterans Memorial Highway"
 
-**Bill ID:** A6287DC
+**Bill ID:** A6287DD
 **Session:** 2023
 **Sponsor:** Alec Brook-Krasny
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Designates a portion of the highway system in Kings county as the "Fort Hamilton
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6287--C
+  6287--D
  
   2023-2024 Regular Sessions
  
@@ -31,7 +31,10 @@ S T A T E  O F  N E W  Y O R K
   committee -- committee discharged, bill amended, ordered reprinted  as
   amended  and recommitted to said committee -- again reported from said
   committee with amendments, ordered reprinted as amended and  recommit-
-  ted to said committee
+  ted  to  said committee -- recommitted to the Committee on Transporta-
+  tion  in  accordance  with  Assembly  Rule  3,  sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the  state highway system in Kings county as the "Fort Hamilton Veter-
@@ -40,9 +43,9 @@ S T A T E  O F  N E W  Y O R K
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
+  §  344-P.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
  "FORT HAMILTON VETERANS MEMORIAL HIGHWAY". ALL THAT PORTION OF THE STATE
  HIGHWAY SYSTEM CONSTITUTING INTERSTATE ROUTE 278 IN THE COUNTY OF KINGS,
  BEGINNING AT THE VERRAZANO-NARROWS BRIDGE,  CONTINUING  IN  A  GENERALLY
@@ -60,4 +63,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10288-04-3
+  LBD10288-05-4
