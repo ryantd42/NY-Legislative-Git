@@ -1,6 +1,6 @@
 # Relates to limited permits to practice medicine
 
-**Bill ID:** S7002BA
+**Bill ID:** S7002BB
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that limited permits to practice medicine may be renewed biennially; ex
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7002--A
+  7002--B
  
   2023-2024 Regular Sessions
  
@@ -25,37 +25,40 @@ S T A T E  O F  N E W  Y O R K
   May 16, 2023
   ___________
  
- Introduced  by  Sens.  GOUNARDES,  SEPULVEDA  --  read twice and ordered
-  printed, and when printed to be committed to the Committee  on  Higher
-  Education  -- committee discharged, bill amended, ordered reprinted as
-  amended and recommitted to said committee
+ Introduced  by  Sens.  GOUNARDES, FERNANDEZ, GALLIVAN, SEPULVEDA -- read
+  twice and ordered printed, and when printed to  be  committed  to  the
+  Committee  on  Higher Education -- committee discharged, bill amended,
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  recommitted  to  the  Committee on Higher Education in accordance with
+  Senate Rule 6, sec. 8 -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
- AN ACT to amend the education law, in relation  to  limited  permits  to
+ AN  ACT  to  amend  the education law, in relation to limited permits to
   practice medicine
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subdivisions 2 and 3 of section 6525 of the education  law,
- as  added  by  chapter  987  of the laws of 1971, are amended to read as
+  Section  1. Subdivisions 2 and 3 of section 6525 of the education law,
+ as added by chapter 987 of the laws of 1971,  are  amended  to  read  as
  follows:
-  2. Limit of practice. A permittee  shall  be  authorized  to  practice
+  2.  Limit  of  practice.  A  permittee shall be authorized to practice
  medicine only under the supervision of a licensed physician and only in:
   (A) a public, voluntary, or proprietary hospital;
-  (B)  A  PATIENT  CARE FACILITY OPERATED BY OR FOR ANY FEDERALLY RECOG-
- NIZED AMERICAN INDIAN TRIBE,  THE  INDIAN  HEALTH  SERVICE,  THE  UNITED
- STATES VETERANS' ADMINISTRATION, A PRISON, A SCHOOL, OR A UNIVERSITY;
+  (B) A PATIENT CARE FACILITY OPERATED BY OR FOR  ANY  FEDERALLY  RECOG-
+ NIZED AMERICAN INDIAN TRIBE, A PRISON, A SCHOOL, OR A UNIVERSITY;
   (C) A COMMUNITY HEALTH CENTER OR FEDERALLY QUALIFIED HEALTH CENTER; OR
-  (D)  A PRIVATE OFFICE OR CLINIC WHERE A SUPERVISING LICENSED PHYSICIAN
- PRACTICES AND THAT IS NOT A PAIN MANAGEMENT CLINIC.
+  (D) A PRIVATE OFFICE OR CLINIC WITH AT LEAST FOUR PRACTICING SUPERVIS-
+ ING  LICENSED PHYSICIANS, OPERATING ON A TWO TO ONE SUPERVISION RATIO OF
+ TWO PERMITTEES PER PHYSICIAN.
   3. Duration. A limited permit shall be valid for two years AND MAY  BE
  RENEWED  BIENNIALLY.  [It may be renewed biennially at the discretion of
- the department.] NO LIMITATION SHALL BE PLACED ON THE NUMBER OF RENEWALS
- THAT MAY BE ISSUED.
+ the department] PERMITS MAY BE RENEWED AT THE DISCRETION OF THE  DEPART-
+ MENT,  PROVIDED,  HOWEVER,  THAT THE DEPARTMENT SHALL NOT DENY A LIMITED
+ PERMIT BASED SOLELY ON THE PREVIOUS NUMBER OF  AUTHORIZATIONS  THAT  THE
+ DEPARTMENT HAS ISSUED TO THE APPLICANT.
   § 2. This act shall take effect immediately.
- 
- 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11276-02-3
+  LBD11276-04-4
