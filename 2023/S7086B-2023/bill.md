@@ -1,6 +1,6 @@
 # Relates to the disposition of certain fees and penalties
 
-**Bill ID:** S7086BA
+**Bill ID:** S7086BB
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides for the disposition of certain fees and penalties; directs such fees to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7086--A
+  7086--B
  
   2023-2024 Regular Sessions
  
@@ -30,7 +30,9 @@ S T A T E  O F  N E W  Y O R K
   -- recommitted to  the  Committee  on  Environmental  Conservation  in
   accordance  with  Senate  Rule 6, sec. 8 -- committee discharged, bill
   amended, ordered reprinted as amended and recommitted to said  commit-
-  tee
+  tee  --  reported  favorably  from said committee and committed to the
+  Committee on Finance -- committee discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the environmental conservation law and the state finance
   law, in relation to the disposition of certain fees and penalties
@@ -57,75 +59,75 @@ S T A T E  O F  N E W  Y O R K
  day  of  each  month, all fines, penalties and forfeitures collected for
  violations of this chapter or rules, regulations, local  laws  or  ordi-
  nances  adopted  thereunder under judgment of any town or village court,
- shall be paid over by such court to the comptroller of the state, with a
- statement accompanying the same, setting forth the action or  proceeding
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11358-02-4
- S. 7086--A  2
+  LBD11358-04-4
+ S. 7086--B  2
  
+ shall be paid over by such court to the comptroller of the state, with a
+ statement accompanying the same, setting forth the action or  proceeding
  in  which  such  moneys  were  collected,  the name and residence of the
  defendant, the nature of the offense, and the fines and penalty imposed.
- The comptroller shall pay these funds into  the  [general  fund  of  the
- state]  CONSERVATION  FUND TO THE CREDIT OF THE CONSERVATION ENFORCEMENT
- ACCOUNT ESTABLISHED PURSUANT TO SUBDIVISION (K) OF SECTION  EIGHTY-THREE
+ The  comptroller  shall  pay  these  funds into the [general fund of the
+ state] CONSERVATION FUND TO THE CREDIT OF THE  CONSERVATION  ENFORCEMENT
+ ACCOUNT  ESTABLISHED PURSUANT TO SUBDIVISION (K) OF SECTION EIGHTY-THREE
  OF THE STATE FINANCE LAW.
-  §  2.  Section  83 of the state finance law is amended by adding a new
+  § 2. Section 83 of the state finance law is amended by  adding  a  new
  subdivision (k) to read as follows:
-  (K) ALL MONEYS, REVENUE, AND INTEREST THEREON RECEIVED  AND  COLLECTED
- PURSUANT  TO  TITLES  NINETEEN,  TWENTY-ONE  AND TWENTY-SEVEN OF ARTICLE
- SEVENTY-ONE OF THE  ENVIRONMENTAL  CONSERVATION  LAW,  AND  PURSUANT  TO
- SECTION  71-0211 OF THE ENVIRONMENTAL CONSERVATION LAW, OTHER THAN THOSE
- AMOUNTS PRESCRIBED BY LAW TO BE DIRECTED  INTO  OTHER  FUNDS,  SHALL  BE
- DEPOSITED  IN A SPECIAL ACCOUNT WITHIN THE CONSERVATION FUND TO BE KNOWN
- AS THE CONSERVATION ENFORCEMENT ACCOUNT. ALL OF  SUCH  MONEYS,  REVENUES
- AND  INTEREST  SHALL  BE  AVAILABLE  TO  THE DEPARTMENT OF ENVIRONMENTAL
- CONSERVATION, PURSUANT TO APPROPRIATION,  EXCLUSIVELY  FOR  FUNDING  THE
+  (K)  ALL  MONEYS, REVENUE, AND INTEREST THEREON RECEIVED AND COLLECTED
+ PURSUANT TO TITLES NINETEEN,  TWENTY-ONE  AND  TWENTY-SEVEN  OF  ARTICLE
+ SEVENTY-ONE  OF  THE  ENVIRONMENTAL  CONSERVATION  LAW,  AND PURSUANT TO
+ SECTION 71-0211 OF THE ENVIRONMENTAL CONSERVATION LAW, OTHER THAN  THOSE
+ AMOUNTS  PRESCRIBED  BY  LAW  TO  BE DIRECTED INTO OTHER FUNDS, SHALL BE
+ DEPOSITED IN A SPECIAL ACCOUNT WITHIN THE CONSERVATION FUND TO BE  KNOWN
+ AS  THE  CONSERVATION  ENFORCEMENT ACCOUNT. ALL OF SUCH MONEYS, REVENUES
+ AND INTEREST SHALL BE  AVAILABLE  TO  THE  DEPARTMENT  OF  ENVIRONMENTAL
+ CONSERVATION,  PURSUANT  TO  APPROPRIATION,  EXCLUSIVELY FOR FUNDING THE
  ENFORCEMENT OF THE ENVIRONMENTAL CONSERVATION LAW, INCLUDING FUNDING FOR
- SCIENTISTS,  ENVIRONMENTAL LAW ENFORCEMENT OFFICERS, ATTORNEYS, ADMINIS-
- TRATIVE SUPPORT, AND SUCH OTHER EXPENSES THE COMMISSIONER  DEEMS  NECES-
- SARY  FOR  SUCH  ENFORCEMENT. SUCH MONEY SHALL BE USED TO SUPPLEMENT AND
- NOT SUPPLANT FUNDING FOR THE ENFORCEMENT OF THE ENVIRONMENTAL  CONSERVA-
+ SCIENTISTS, ENVIRONMENTAL LAW ENFORCEMENT OFFICERS, ATTORNEYS,  ADMINIS-
+ TRATIVE  SUPPORT,  AND SUCH OTHER EXPENSES THE COMMISSIONER DEEMS NECES-
+ SARY FOR SUCH ENFORCEMENT. SUCH MONEY SHALL BE USED  TO  SUPPLEMENT  AND
+ NOT  SUPPLANT FUNDING FOR THE ENFORCEMENT OF THE ENVIRONMENTAL CONSERVA-
  TION LAW AS OF THE EFFECTIVE DATE OF THIS SUBDIVISION.
-  §  3.  Subdivision 1 of section 71-0213 of the environmental conserva-
+  § 3. Subdivision 1 of section 71-0213 of the  environmental  conserva-
  tion law, as added by section 1 of part DDD of chapter 59 of the laws of
  2009, is amended to read as follows:
-  1. Whenever proceedings result in a conviction for  an  offense  under
+  1.  Whenever  proceedings  result in a conviction for an offense under
  this chapter there shall be levied, in addition to any sentence required
- or  permitted  by  law,  the  following mandatory surcharges: (a) in the
+ or permitted by law, the following  mandatory  surcharges:  (a)  in  the
  amount of twenty-five dollars for violations of sportfishing regulations
  set forth in 6 NYCRR 10; (b) in the amount of [seventy-five dollars] ONE
  HUNDRED TWELVE DOLLARS AND FIFTY CENTS for all other offenses under this
- chapter provided, however, that convictions for offenses under  articles
- seventeen,  nineteen or twenty-seven of this chapter shall be subject to
+ chapter  provided, however, that convictions for offenses under articles
+ seventeen, nineteen or twenty-seven of this chapter shall be subject  to
  a mandatory surcharge equal to the greater of [seventy-five dollars] ONE
- HUNDRED TWELVE DOLLARS AND FIFTY CENTS or  [six]  NINE  percent  of  any
- penalty  or  fine imposed.  The mandatory surcharge shall be paid to the
+ HUNDRED  TWELVE  DOLLARS  AND  FIFTY  CENTS or [six] NINE percent of any
+ penalty or fine imposed.  The mandatory surcharge shall be paid  to  the
  clerk of the court who shall remit such mandatory surcharge to the state
- comptroller provided, however, that in cases where  the  conviction  was
- rendered  by  a town or a village justice court, the clerk of such court
- shall pay twenty-five dollars of such  surcharge  to  the  chief  fiscal
- officer  of the town or village in the case of surcharges resulting from
- paragraph (b) of this  subdivision  and  ten  dollars  in  the  case  of
- surcharges  resulting  from  paragraph (a) of this subdivision and shall
- pay the remaining amounts of such  mandatory  surcharges  to  the  state
- comptroller  in  the  same manner as provided in section 71-0211 of this
- article. The comptroller shall pay such monies into the  state  treasury
- to  the  [credit of the general fund] CONSERVATION FUND TO THE CREDIT OF
+ comptroller  provided,  however,  that in cases where the conviction was
+ rendered by a town or a village justice court, the clerk of  such  court
+ shall  pay  twenty-five  dollars  of  such surcharge to the chief fiscal
+ officer of the town or village in the case of surcharges resulting  from
+ paragraph  (b)  of  this  subdivision  and  ten  dollars  in the case of
+ surcharges resulting from paragraph (a) of this  subdivision  and  shall
+ pay  the  remaining  amounts  of  such mandatory surcharges to the state
+ comptroller in the same manner as provided in section  71-0211  of  this
+ article.  The  comptroller shall pay such monies into the state treasury
+ to the [credit of the general fund] CONSERVATION FUND TO THE  CREDIT  OF
  THE CONSERVATION ENFORCEMENT ACCOUNT ESTABLISHED PURSUANT TO SUBDIVISION
  (K) OF SECTION EIGHTY-THREE OF THE STATE FINANCE LAW.
   § 4. Section 71-0301 of the environmental conservation law, as amended
  by chapter 400 of the law of 1973, is amended to read as follows:
  § 71-0301. Summary abatement.
-  Notwithstanding any  inconsistent  provisions  of  law,  whenever  the
- commissioner  finds,  after  investigation,  that any person is causing,
- engaging in or maintaining a condition or activity which, in  [his]  THE
- S. 7086--A  3
+ S. 7086--B  3
  
- judgment  OF THE COMMISSIONER, presents an imminent danger to the health
- or welfare of the people of the state or results  in  or  is  likely  to
- result  in  irreversible or irreparable damage to natural resources, and
+  Notwithstanding  any  inconsistent  provisions  of  law,  whenever the
+ commissioner finds, after investigation, that  any  person  is  causing,
+ engaging  in  or maintaining a condition or activity which, in [his] THE
+ judgment OF THE COMMISSIONER, presents an imminent danger to the  health
+ or  welfare  of  the  people  of the state or results in or is likely to
+ result in irreversible or irreparable damage to natural  resources,  and
  relates  to  the prevention and abatement powers of the commissioner and
  it therefore appears to be prejudicial to the interests of the people of
  the state to delay action until an opportunity  for  a  hearing  can  be
@@ -176,68 +178,68 @@ S T A T E  O F  N E W  Y O R K
  99-a  of  the  State  Finance  Law. The balance of all other such moneys
  after payment of lawful fees shall be credited by the Comptroller to the
  [general fund] CONSERVATION FUND  TO  THE  CREDIT  OF  THE  CONSERVATION
+ S. 7086--B  4
+ 
  ENFORCEMENT  ACCOUNT  ESTABLISHED PURSUANT TO SUBDIVISION (K) OF SECTION
  EIGHTY-THREE OF THE STATE FINANCE LAW.
- S. 7086--A  4
- 
   4. All moneys received by any other person or court in an action for a
- penalty brought under the provisions of this chapter listed  in  section
- 71-0501  and  titles 5 through 15 inclusive and title 33 of this article
- or upon the settlement or compromise thereof, or a fine for a  violation
+ penalty  brought  under the provisions of this chapter listed in section
+ 71-0501 and titles 5 through 15 inclusive and title 33 of  this  article
+ or  upon the settlement or compromise thereof, or a fine for a violation
  of the provisions of this chapter listed in section 71-0501 and titles 5
  through 15 inclusive and title 33 of this article, shall be paid by such
  person or court to the department within thirty days after receipt ther-
- eof.  The department shall pay the expenses of collection and the lawful
- fees of magistrates and constables for services  performed  in  criminal
+ eof. The department shall pay the expenses of collection and the  lawful
+ fees  of  magistrates  and constables for services performed in criminal
  actions brought upon information of a conservation officer, regional and
  assistant  regional  conservation  officer,  special  game  protector,
- district ranger, forest ranger, or member  of  the  state  police.  Such
- moneys  derived from fines or penalties for violations of articles 11 or
+ district  ranger,  forest  ranger,  or  member of the state police. Such
+ moneys derived from fines or penalties for violations of articles 11  or
  13 or title 9 of this article or from the settlement or compromise ther-
- eof shall be paid by the department to the Commissioner of Taxation  and
- Finance  and  credited  to  the  conservation  fund. All other moneys so
+ eof  shall be paid by the department to the Commissioner of Taxation and
+ Finance and credited to the  conservation  fund.  All  other  moneys  so
  received by the department shall be paid to the Commissioner of Taxation
- and Finance and credited to the [general fund] CONSERVATION FUND TO  THE
- CREDIT  OF  THE CONSERVATION ENFORCEMENT ACCOUNT ESTABLISHED PURSUANT TO
+ and  Finance and credited to the [general fund] CONSERVATION FUND TO THE
+ CREDIT OF THE CONSERVATION ENFORCEMENT ACCOUNT ESTABLISHED  PURSUANT  TO
  SUBDIVISION (K) OF SECTION EIGHTY-THREE OF THE STATE FINANCE LAW.
   § 6. Subdivisions 1, 2, 6, 9 and 10 of section 71-0703 of the environ-
- mental conservation law, subdivisions 1, 2 and 6 as amended  by  chapter
- 602  of  the  laws of 2003, subdivision 9 as added by chapter 267 of the
- laws of 2012 and subdivision 10 as added by chapter 330 of the  laws  of
+ mental  conservation  law, subdivisions 1, 2 and 6 as amended by chapter
+ 602 of the laws of 2003, subdivision 9 as added by chapter  267  of  the
+ laws  of  2012 and subdivision 10 as added by chapter 330 of the laws of
  2014, are amended to read as follows:
-  1.  Except  as  otherwise provided in subdivision 4, 5, 6 or 7 of this
- section, any person who violates any  provision  of  article  9  or  the
- rules,  regulations  or orders promulgated pursuant thereto or the terms
- of any permit issued thereunder,  or  who  fails  to  perform  any  duty
- imposed  by  any  provision thereof shall be guilty of a violation, and,
- upon conviction, shall be punished by a  fine  of  not  more  than  [two
- hundred  fifty]  THREE  HUNDRED SEVENTY-FIVE dollars, or by imprisonment
- for not more than fifteen days, or by both such fine  and  imprisonment,
- and  in  addition thereto shall be liable to a civil penalty of not less
+  1. Except as otherwise provided in subdivision 4, 5, 6 or  7  of  this
+ section,  any  person  who  violates  any  provision of article 9 or the
+ rules, regulations or orders promulgated pursuant thereto or  the  terms
+ of  any  permit  issued  thereunder,  or  who  fails to perform any duty
+ imposed by any provision thereof shall be guilty of  a  violation,  and,
+ upon  conviction,  shall  be  punished  by  a fine of not more than [two
+ hundred fifty] THREE HUNDRED SEVENTY-FIVE dollars,  or  by  imprisonment
+ for  not  more than fifteen days, or by both such fine and imprisonment,
+ and in addition thereto shall be liable to a civil penalty of  not  less
  than ten nor more than one hundred FIFTY dollars.
-  2. The violation of any of the provisions of  the  following  sections
+  2.  The  violation  of any of the provisions of the following sections
  shall subject the person guilty thereof to the following civil penalties
- in  addition  to  the  liability  prescribed  in  subdivision  1 of this
+ in addition to  the  liability  prescribed  in  subdivision  1  of  this
  section:
   a. Section 9-1113 of this chapter, [two] THREE dollars per tree;
-  b. Subdivision 3 of section  9-1105  of  this  chapter,  [twenty-five]
+  b.  Subdivision  3  of  section  9-1105 of this chapter, [twenty-five]
  THIRTY-SEVEN dollars AND FIFTY CENTS per day;
-  c.  Subdivision 4 of section 9-1105 of this chapter, and subdivision 1
- of section 9-1117 of this chapter, [ten] FIFTEEN dollars  per  mile  per
+  c. Subdivision 4 of section 9-1105 of this chapter, and subdivision  1
+ of  section  9-1117  of this chapter, [ten] FIFTEEN dollars per mile per
  day;
   d. Section 9-1115 of this chapter, [ten] FIFTEEN dollars per mile;
-  e.  Subdivision 2 of section 9-1117 of this chapter, one hundred FIFTY
+  e. Subdivision 2 of section 9-1117 of this chapter, one hundred  FIFTY
  dollars per each offense; and
-  f. Section 9-1119 of this chapter, one hundred FIFTY dollars  per  day
+  f.  Section  9-1119 of this chapter, one hundred FIFTY dollars per day
  per locomotive.
-  With  respect to the penalty for violation of subdivision 4 of section
- 9-1105 of this chapter, the owner  and  every  person  engaged  in  such
- cutting  shall  be  liable  therefor; however, the liability for penalty
- shall not arise until the  expiration  of  twenty  days  after  service,
- personally  or  by  mail  upon  the alleged violator at [his] THEIR last
- S. 7086--A  5
+  With respect to the penalty for violation of subdivision 4 of  section
+ 9-1105  of  this  chapter,  the  owner  and every person engaged in such
+ cutting shall be liable therefor; however,  the  liability  for  penalty
+ shall  not  arise  until  the  expiration  of twenty days after service,
+ S. 7086--B  5
  
- known place of residence of a written notice of failure to  comply  with
+ personally or by mail upon the alleged  violator  at  [his]  THEIR  last
+ known  place  of residence of a written notice of failure to comply with
  the requirements of subdivision 4 of section 9-1105 of this chapter.
   6.  (a)  In  addition to any other penalty provided by law, any person
  who violates subdivision 1 of section 9-0303 of this  chapter  shall  be
@@ -292,9 +294,9 @@ S T A T E  O F  N E W  Y O R K
  section  two of the navigation law, or any person who owns or operates a
  commercial fishing vessel who transports, sells, imports  or  introduces
  invasive species in violation of the regulations promulgated pursuant to
- section  9-1709  of this chapter, shall be subject to a fine of not less
- S. 7086--A  6
+ S. 7086--B  6
  
+ section  9-1709  of this chapter, shall be subject to a fine of not less
  than [six] NINE hundred dollars upon the first penalty. Upon the  second
  penalty  such  person  shall be subject to a fine of not less than [two]
  THREE thousand dollars. Upon a subsequent penalty and after a hearing or
@@ -350,7 +352,7 @@ S T A T E  O F  N E W  Y O R K
   Any  violation  of  subdivision  4  of  section  15-0313  shall  be  a
  violation, punishable by a fine of not more than  [one  thousand  eight]
  TWO  THOUSAND SEVEN hundred dollars, and in addition thereto, by a civil
- S. 7086--A  7
+ S. 7086--B  7
  
  penalty of not more than [one thousand eight] TWO THOUSAND SEVEN hundred
  dollars.
@@ -408,7 +410,7 @@ S T A T E  O F  N E W  Y O R K
   2. Any person who violates the provisions of section 15-1506  of  this
  chapter  or  the  rules,  regulations,  orders  or determinations of the
  commissioner promulgated thereto or the terms of any permit issued ther-
- S. 7086--A  8
+ S. 7086--B  8
  
  eunder, shall be liable for a civil penalty not less than  [twenty-five]
  THREE  THOUSAND  SEVEN hundred FIFTY dollars nor more than [ten] FIFTEEN
@@ -465,7 +467,7 @@ S T A T E  O F  N E W  Y O R K
  not  more than one thousand FIVE HUNDRED dollars, and in addition there-
  to, shall be liable for a  civil  penalty  of  not  more  than  [fifteen
  hundred] TWO THOUSAND TWO HUNDRED FIFTY dollars.
- S. 7086--A  9
+ S. 7086--B  9
  
   §  20. Subdivision 1 of section 71-1127 of the environmental conserva-
  tion law, as amended by chapter 401 of the laws of 2011, is  amended  to
@@ -523,7 +525,7 @@ S T A T E  O F  N E W  Y O R K
  and  repair  the  affected site to a condition acceptable to the commis-
  sioner, to the extent possible within a reasonable time  and  under  the
  direction  and  supervision  of  the commissioner. Any such order of the
- S. 7086--A  10
+ S. 7086--B  10
  
  commissioner shall be enforceable in any action brought by  the  commis-
  sioner  in  any  court  of  competent jurisdiction. Any civil penalty or
@@ -535,55 +537,55 @@ S T A T E  O F  N E W  Y O R K
  violates any provision of article 23 of  this  chapter  or  commits  any
  offense  described in section 71-1305 of this title shall be guilty of a
  misdemeanor and, upon conviction thereof, shall be punished  by  a  fine
- not  to  exceed  one  thousand  dollars  for  each day during which such
+ not  to  exceed  one  thousand  FIVE HUNDRED dollars for each day during
+ which such violation continues or by imprisonment for a term of not more
+ than one year, or by both such fine and imprisonment. If the  conviction
+ is  for  a subsequent offense committed after a first conviction of such
+ person under this subdivision, punishment shall be  by  a  fine  not  to
+ exceed  [eight]  TWELVE  thousand dollars for each day during which such
  violation continues or by imprisonment for a term of not more  than  one
- year,  or by both such fine and imprisonment. If the conviction is for a
- subsequent offense committed after a first  conviction  of  such  person
- under  this  subdivision,  punishment  shall  be by a fine not to exceed
- [eight] TWELVE thousand dollars for each day during which such violation
- continues or by imprisonment for a term of not more than one year, or by
- both such fine and imprisonment.
-  § 24. Subdivision 1 of section 71-1707 of the environmental  conserva-
+ year, or by both such fine and imprisonment.
+  §  24. Subdivision 1 of section 71-1707 of the environmental conserva-
  tion law is amended to read as follows:
-  1.  Any  person  who  violates,  disobeys  or  disregards  any term or
- provision of this chapter listed in section 71-1701,  or  of  titles  17
- through  21  inclusive of this article or of any lawful notice, order or
- regulation pursuant thereto for which a civil penalty is  not  otherwise
- expressly  prescribed by law, shall be liable to the people of the state
- for a civil penalty of not to exceed one thousand FIVE  HUNDRED  dollars
+  1. Any person  who  violates,  disobeys  or  disregards  any  term  or
+ provision  of  this  chapter  listed in section 71-1701, or of titles 17
+ through 21 inclusive of this article or of any lawful notice,  order  or
+ regulation  pursuant  thereto for which a civil penalty is not otherwise
+ expressly prescribed by law, shall be liable to the people of the  state
+ for  a  civil penalty of not to exceed one thousand FIVE HUNDRED dollars
  for every such violation.
   § 25. Section 71-1711 of the environmental conservation law is amended
  to read as follows:
  § 71-1711. Willful violation of health laws.
-  1.  A person who willfully violates or refuses or omits to comply with
- any lawful order or regulation prescribed by any local board  of  health
- or  local  health  officer, is guilty of a misdemeanor; except, however,
- that where such order or regulation applies to a tenant with respect  to
+  1. A person who willfully violates or refuses or omits to comply  with
+ any  lawful  order or regulation prescribed by any local board of health
+ or local health officer, is guilty of a  misdemeanor;  except,  however,
+ that  where such order or regulation applies to a tenant with respect to
  [his] SUCH TENANT'S own dwelling unit or to an owner occupied one or two
- family  dwelling,  such  person  is  guilty  of an offense for the first
- violation punishable by  a  fine  not  to  exceed  [fifty]  SEVENTY-FIVE
- dollars  and  for a second or subsequent violation is guilty of a misde-
- meanor punishable by a fine not to exceed  [five]  SEVEN  hundred  FIFTY
+ family dwelling, such person is guilty  of  an  offense  for  the  first
+ violation  punishable  by  a  fine  not  to  exceed [fifty] SEVENTY-FIVE
+ dollars and for a second or subsequent violation is guilty of  a  misde-
+ meanor  punishable  by  a  fine not to exceed [five] SEVEN hundred FIFTY
  dollars or by imprisonment not to exceed six months or by both such fine
  and imprisonment.
   2. A person who willfully violates any provision of this chapter list-
- ed  in  section  71-1701,  or  of titles 17 through 21 inclusive of this
- article, or any regulation lawfully made or established  by  any  public
- officer  or board under authority of such provisions, the punishment for
- violating which is not otherwise prescribed by such  provisions  or  any
+ ed in section 71-1701, or of titles 17  through  21  inclusive  of  this
+ article,  or  any  regulation lawfully made or established by any public
+ officer or board under authority of such provisions, the punishment  for
+ violating  which  is  not otherwise prescribed by such provisions or any
  other law, is punishable by imprisonment not exceeding one year, or by a
  fine not exceeding [two] THREE thousand dollars or by both.
-  §  26.  Section  71-1725  of  the  environmental  conservation law, as
- amended by chapter 400 of the laws  of  1973,  is  amended  to  read  as
+  § 26. Section  71-1725  of  the  environmental  conservation  law,  as
+ amended  by  chapter  400  of  the  laws  of 1973, is amended to read as
  follows:
  § 71-1725. Assessment of Penalties.
-  The  commissioner may assess any penalty prescribed for a violation of
- or a failure to comply with any provision contained  in  this  title  or
- listed  in  section  71-1701,  or any lawful notice, order or regulation
- prescribed by the commissioner under any such  provision,  one  thousand
- S. 7086--A  11
+  The commissioner may assess any penalty prescribed for a violation  of
+ or  a  failure  to  comply with any provision contained in this title or
+ listed in section 71-1701, or any lawful  notice,  order  or  regulation
+ prescribed  by  the  commissioner under any such provision, one thousand
+ S. 7086--B  11
  
- FIVE  HUNDRED dollars for every such violation or failure, which penalty
+ FIVE HUNDRED dollars for every such violation or failure, which  penalty
  may be assessed after a hearing or an opportunity to be heard.
   § 27. Section 71-1905 of the environmental conservation law is amended
  to read as follows:
@@ -639,7 +641,7 @@ S T A T E  O F  N E W  Y O R K
  of 2003, is amended to read as follows:
   1. A person who violates any of the provisions of,  or  who  fails  to
  perform  any  duty imposed by titles 1 through 11 inclusive and title 19
- S. 7086--A  12
+ S. 7086--B  12
  
  of article 17, or the rules, regulations, orders  or  determinations  of
  the  commissioner  promulgated thereto or the terms of any permit issued
@@ -697,8 +699,8 @@ S T A T E  O F  N E W  Y O R K
   1. Except where the owner of or a person  in  actual  or  constructive
  possession  or control of more than one thousand one hundred gallons, in
  bulk, of any liquid including petroleum which,  if  released,  would  or
- S. 7086--A  13
-
+ S. 7086--B  13
+ 
  would  be  likely  to pollute the lands or waters of the state including
  the groundwaters thereof can prove that the entry  or  presence  of  any
  part of such liquid onto such lands or into or in such waters causing or
@@ -754,7 +756,7 @@ S T A T E  O F  N E W  Y O R K
   §  40. Subdivision 1 of section 71-2103 of the environmental conserva-
  tion law, as amended by chapter 99 of the laws of 2010,  is  amended  to
  read as follows:
- S. 7086--A  14
+ S. 7086--B  14
  
   1.  Except as provided in section 71-2113, any person who violates any
  provision of article nineteen or any code, rule or regulation which  was
@@ -812,7 +814,7 @@ S T A T E  O F  N E W  Y O R K
  19-0304 of this chapter, or any rule or regulation promulgated  pursuant
  thereto,  or  any  term or condition of any certificate or permit issued
  pursuant thereto, or any final determination or order of the commission-
- S. 7086--A  15
+ S. 7086--B  15
  
  er made pursuant to article 19 of this chapter concerning a violation of
  section 19-0304 of this chapter shall be liable in the case of  a  first
@@ -869,7 +871,7 @@ S T A T E  O F  N E W  Y O R K
  or opportunity to be heard pursuant to the provisions of section 71-1709
  of  this  chapter,  and, in addition thereto, such person may by similar
  process be enjoined from continuing such violation  and  any  permit  or
- S. 7086--A  16
+ S. 7086--B  16
  
  certificate issued to such person may be revoked or suspended or a pend-
  ing renewal application denied.
@@ -926,7 +928,7 @@ S T A T E  O F  N E W  Y O R K
  the commissioner or local government in any court of competent jurisdic-
  tion. Any civil penalty or order issued by  the  commissioner  or  local
  government  pursuant  to  this  subdivision  shall  be  reviewable  in a
- S. 7086--A  17
+ S. 7086--B  17
  
  proceeding pursuant to article seventy-eight of the civil  practice  law
  and rules.
@@ -984,68 +986,69 @@ S T A T E  O F  N E W  Y O R K
  a  violation  punishable by a fine of not less than [five] SEVEN hundred
  FIFTY nor more than [five] SEVEN thousand FIVE HUNDRED  dollars;  for  a
  second  and  each  subsequent  offense  such person shall be guilty of a
- S. 7086--A  18
+ S. 7086--B  18
  
- misdemeanor punishable by a fine of not less than one thousand nor  more
- than  [ten]  FIFTEEN  thousand  dollars or a term of imprisonment of not
- less than fifteen days nor more than six months or both. In addition  to
- or  instead  of  these  punishments, any offender shall be punishable by
- being ordered by the court to restore the affected tidal wetland or area
- immediately adjacent thereto to its  condition  prior  to  the  offense,
- insofar  as  that is possible. The court shall specify a reasonable time
- for the completion of the restoration, which shall be effected under the
- supervision of the commissioner. Each offense shall be  a  separate  and
- distinct  offense  and,  in the case of a continuing offense, each day's
- continuance thereof shall be deemed a separate and distinct offense.
-  § 47. Section  71-2505  of  the  environmental  conservation  law,  as
- amended  by  chapter  249  of  the  laws  of 1997, is amended to read as
+ misdemeanor punishable by a fine of not  less  than  one  thousand  FIVE
+ HUNDRED nor more than [ten] FIFTEEN thousand dollars or a term of impri-
+ sonment  of not less than fifteen days nor more than six months or both.
+ In  addition  to  or instead of these punishments, any offender shall be
+ punishable by being ordered by the court to restore the  affected  tidal
+ wetland  or  area immediately adjacent thereto to its condition prior to
+ the offense, insofar as that is possible.  The  court  shall  specify  a
+ reasonable  time  for  the completion of the restoration, which shall be
+ effected under the supervision of the commissioner. Each  offense  shall
+ be  a  separate  and  distinct  offense and, in the case of a continuing
+ offense, each day's continuance thereof shall be deemed a  separate  and
+ distinct offense.
+  §  47.  Section  71-2505  of  the  environmental  conservation law, as
+ amended by chapter 249 of the laws  of  1997,  is  amended  to  read  as
  follows:
  § 71-2505. Enforcement.
-  The attorney general, on [his] THEIR own initiative or at the  request
- of  the  commissioner, shall prosecute persons who violate article twen-
- ty-five.  In addition the attorney general, on [his]  THEIR  own  initi-
- ative  or  at  the  request of the commissioner, shall have the right to
- recover a civil penalty of up to  [ten]  FIFTEEN  thousand  dollars  for
- every  violation of any provision of such article, and to seek equitable
+  The  attorney general, on [his] THEIR own initiative or at the request
+ of the commissioner, shall prosecute persons who violate  article  twen-
+ ty-five.  In  addition the attorney general, on [his] THEIR own initi-
+ ative or at the request of the commissioner, shall  have  the  right  to
+ recover  a  civil  penalty  of  up to [ten] FIFTEEN thousand dollars for
+ every violation of any provision of such article, and to seek  equitable
  relief to restrain any violation or threatened violation of such article
- and to require the restoration of any affected  tidal  wetland  or  area
- immediately  adjacent  thereto  to its condition prior to the violation,
- insofar as that is possible, within a  reasonable  time  and  under  the
- supervision  of the commissioner. In the case of a continuing violation,
- each day's continuance thereof shall be deemed a separate  and  distinct
+ and  to  require  the  restoration of any affected tidal wetland or area
+ immediately adjacent thereto to its condition prior  to  the  violation,
+ insofar  as  that  is  possible,  within a reasonable time and under the
+ supervision of the commissioner. In the case of a continuing  violation,
+ each  day's  continuance thereof shall be deemed a separate and distinct
  violation.
-  §  48. Subdivisions 1, 2 and 3 of section 71-2703 of the environmental
- conservation law, subdivisions 1 and 2 as amended by chapter 508 of  the
- laws  of  1995,  paragraph  a of subdivision 1 as amended by section 25,
- subparagraphs i and ii of paragraph b of subdivision  1  as  amended  by
- section  26,  paragraph  a  and subparagraphs i and ii of paragraph b of
- subdivision 2 as amended by section 27, subparagraphs i and ii of  para-
- graph  c  of subdivision 2 as amended by section 28 and subdivision 3 as
- amended by section 29 of part C of chapter 62 of the laws of  2003,  are
+  § 48. Subdivisions 1, 2 and 3 of section 71-2703 of the  environmental
+ conservation  law, subdivisions 1 and 2 as amended by chapter 508 of the
+ laws of 1995, paragraph a of subdivision 1 as  amended  by  section  25,
+ subparagraphs  i  and  ii  of paragraph b of subdivision 1 as amended by
+ section 26, paragraph a and subparagraphs i and ii  of  paragraph  b  of
+ subdivision  2 as amended by section 27, subparagraphs i and ii of para-
+ graph c of subdivision 2 as amended by section 28 and subdivision  3  as
+ amended  by  section 29 of part C of chapter 62 of the laws of 2003, are
  amended to read as follows:
   1. Civil and administrative sanctions.  a. Any person who violates any
- of  the provisions of, or who fails to perform any duty imposed by title
- 3 or 7 of article 27 of this chapter or any rule or  regulation  promul-
- gated  pursuant  thereto, or any term or condition of any certificate or
- permit issued pursuant thereto, or any final determination or  order  of
+ of the provisions of, or who fails to perform any duty imposed by  title
+ 3  or  7 of article 27 of this chapter or any rule or regulation promul-
+ gated pursuant thereto, or any term or condition of any  certificate  or
+ permit  issued  pursuant thereto, or any final determination or order of
  the commissioner made pursuant to this title shall be liable for a civil
- penalty  not to exceed [seven thousand five hundred] ELEVEN THOUSAND TWO
- HUNDRED FIFTY dollars for each such violation and an additional  penalty
- of  not  more  than [one thousand five hundred] TWO THOUSAND TWO HUNDRED
- FIFTY dollars for each day during which such violation continues, to  be
- assessed  by  the commissioner after an opportunity to be heard pursuant
+ penalty not to exceed [seven thousand five hundred] ELEVEN THOUSAND  TWO
+ HUNDRED  FIFTY dollars for each such violation and an additional penalty
+ of not more than [one thousand five hundred] TWO  THOUSAND  TWO  HUNDRED
+ FIFTY  dollars for each day during which such violation continues, to be
+ assessed by the commissioner after an opportunity to be  heard  pursuant
  to the provisions of section 71-1709 of this article, or by the court in
  any action or proceeding pursuant to section 71-2727 of this title, and,
  in addition thereto, such person may by similar process be enjoined from
- continuing such violation and any permit or certificate issued  to  such
- person  may  be  revoked  or  suspended or a pending renewal application
+ continuing  such  violation and any permit or certificate issued to such
+ person may be revoked or suspended  or  a  pending  renewal  application
  denied.
-  b. i. Any person who violates any of the provisions of, or  who  fails
- to perform any duty imposed by, title 3 or 7 of article 27 of this chap-
- S. 7086--A  19
+ S. 7086--B  19
  
+  b.  i.  Any person who violates any of the provisions of, or who fails
+ to perform any duty imposed by, title 3 or 7 of article 27 of this chap-
  ter, or any rule or regulation promulgated pursuant thereto, or any term
- or  condition  of  any certificate or permit issued pursuant thereto and
+ or condition of any certificate or permit issued  pursuant  thereto  and
  thereby causes the release of solid waste into the environment, shall be
  liable  for  a  civil penalty not to exceed [eleven thousand two hundred
  fifty] SIXTEEN THOUSAND EIGHT HUNDRED SEVENTY-FIVE dollars for each such
@@ -1098,243 +1101,243 @@ S T A T E  O F  N E W  Y O R K
  five  hundred] THIRTY-THREE THOUSAND SEVEN HUNDRED FIFTY dollars per day
  of violation, or by imprisonment for a term in accordance with the penal
  law, or by both such fine and imprisonment.
+ S. 7086--B  20
+ 
   ii. Any person who shall violate paragraph a of this  subdivision  and
  thereby  causes  or attempts to cause the release of more than ten cubic
- S. 7086--A  20
- 
  yards of solid waste into the environment, after having  been  convicted
  of  a  violation  of  this  subdivision within the preceding five years,
- shall be guilty of a class A misdemeanor and, upon  conviction  thereof,
- shall  be  punished  by  a  fine  of not less than [three thousand seven
+ shall  be  guilty of a class A misdemeanor and, upon conviction thereof,
+ shall be punished by a fine of  not  less  than  [three  thousand  seven
  hundred fifty] FIVE THOUSAND SIX HUNDRED TWENTY-FIVE dollars per day nor
- more than [thirty-seven thousand five hundred]  FIFTY-SIX  THOUSAND  TWO
- HUNDRED  FIFTY  dollars  per  day of violation, or by imprisonment for a
- term in accordance with the penal law, or by both such fine  and  impri-
+ more  than  [thirty-seven  thousand five hundred] FIFTY-SIX THOUSAND TWO
+ HUNDRED FIFTY dollars per day of violation, or  by  imprisonment  for  a
+ term  in  accordance with the penal law, or by both such fine and impri-
  sonment.
   c. i. Any person who shall violate paragraph a of this subdivision and
- thereby  causes  or  attempts  to cause the release of more than seventy
- cubic yards of solid waste into the environment shall  be  guilty  of  a
+ thereby causes or attempts to cause the release  of  more  than  seventy
+ cubic  yards  of  solid  waste into the environment shall be guilty of a
  class A misdemeanor and, upon conviction thereof, shall be punished by a
  fine of not less than [three thousand seven hundred fifty] FIVE THOUSAND
- SIX  HUNDRED  TWENTY-FIVE  dollars  per  day nor more than [thirty-seven
- thousand five hundred] FIFTY-SIX THOUSAND TWO HUNDRED FIFTY dollars  per
- day  of  violation, or by imprisonment for a term in accordance with the
+ SIX HUNDRED TWENTY-FIVE dollars per  day  nor  more  than  [thirty-seven
+ thousand  five hundred] FIFTY-SIX THOUSAND TWO HUNDRED FIFTY dollars per
+ day of violation, or by imprisonment for a term in accordance  with  the
  penal law, or by both such fine and imprisonment.
-  ii. Any person who shall violate paragraph a of this  subdivision  and
- thereby  causes  or  attempts  to cause the release of more than seventy
- cubic yards of solid waste  into  the  environment,  after  having  been
- convicted  of  a violation of this subdivision within the preceding five
+  ii.  Any  person who shall violate paragraph a of this subdivision and
+ thereby causes or attempts to cause the release  of  more  than  seventy
+ cubic  yards  of  solid  waste  into  the environment, after having been
+ convicted of a violation of this subdivision within the  preceding  five
  years, shall be guilty of a class E felony and, upon conviction thereof,
- shall be punished by a fine  of  not  less  than  [seven  thousand  five
+ shall  be  punished  by  a  fine  of  not less than [seven thousand five
  hundred] ELEVEN THOUSAND TWO HUNDRED FIFTY dollars per day nor more than
- [seventy-five]  ONE HUNDRED TWELVE thousand FIVE HUNDRED dollars per day
+ [seventy-five] ONE HUNDRED TWELVE thousand FIVE HUNDRED dollars per  day
  of violation, or by imprisonment for a term in accordance with the penal
  law, or by both such fine and imprisonment.
   3. Additional sanctions. Any person who violates any of the provisions
- of, or who fails to perform any duty imposed by title 7 of  article  27,
- with  regard  to  the  construction  and operation of facilities for the
+ of,  or  who fails to perform any duty imposed by title 7 of article 27,
+ with regard to the construction and  operation  of  facilities  for  the
  disposal of construction and demolition debris or any rule or regulation
- promulgated pursuant thereto, or any term or condition  of  any  certif-
- icate  or  permit  issued pursuant thereto or any final determination or
- order of the commissioner made pursuant to this title  shall  be  liable
- for  a  civil  penalty  not to exceed [fifteen] TWENTY-TWO thousand FIVE
+ promulgated  pursuant  thereto,  or any term or condition of any certif-
+ icate or permit issued pursuant thereto or any  final  determination  or
+ order  of  the  commissioner made pursuant to this title shall be liable
+ for a civil penalty not to exceed  [fifteen]  TWENTY-TWO  thousand  FIVE
  HUNDRED dollars and each day of such deposition shall constitute a sepa-
- rate violation and said civil penalty is in addition to any other  fines
+ rate  violation and said civil penalty is in addition to any other fines
  or penalties which may be applied pursuant to this title.
-  §  49. Section 71-2705 of the environmental conservation law, as added
- by chapter 550 of the laws of 1980, subdivision 1 as amended by  section
+  § 49. Section 71-2705 of the environmental conservation law, as  added
+ by  chapter 550 of the laws of 1980, subdivision 1 as amended by section
  30 and subdivision 2 as amended by section 31 of part C of chapter 62 of
  the laws of 2003, is amended to read as follows:
  § 71-2705. Violations of titles 9, 11 and 13 of article 27 of this chap-
   ter.
-  1.  Civil and administrative sanctions. Any person who violates any of
+  1. Civil and administrative sanctions. Any person who violates any  of
  the provisions of, or who fails to perform any duty imposed by titles 9,
- 11 and 13 of article 27 or any rule or regulation  promulgated  pursuant
- thereto,  or  any  term or condition of any certificate or permit issued
+ 11  and  13 of article 27 or any rule or regulation promulgated pursuant
+ thereto, or any term or condition of any certificate  or  permit  issued
  pursuant thereto, or any final determination or order of the commission-
- er made pursuant to this title shall be liable in the case  of  a  first
+ er  made  pursuant  to this title shall be liable in the case of a first
  violation, for a civil penalty not to exceed [thirty-seven thousand five
- hundred]  FIFTY-SIX THOUSAND TWO HUNDRED FIFTY dollars and an additional
- penalty of not more than [thirty-seven thousand five hundred]  FIFTY-SIX
- THOUSAND  TWO  HUNDRED  FIFTY  dollars  for  each  day during which such
- violation continues, to be assessed by the commissioner after an  oppor-
- S. 7086--A  21
+ hundred] FIFTY-SIX THOUSAND TWO HUNDRED FIFTY dollars and an  additional
+ penalty  of not more than [thirty-seven thousand five hundred] FIFTY-SIX
+ S. 7086--B  21
  
+ THOUSAND TWO HUNDRED FIFTY  dollars  for  each  day  during  which  such
+ violation  continues, to be assessed by the commissioner after an oppor-
  tunity to be heard pursuant to the provisions of section 71-1709 of this
  article, or by the court in any action or proceeding pursuant to section
  71-2727  of  this  title,  and,  in addition thereto, such person may by
- similar  process  be  enjoined  from  continuing  such violation and any
- permit or certificate issued to such person may be revoked or  suspended
+ similar process be enjoined  from  continuing  such  violation  and  any
+ permit  or certificate issued to such person may be revoked or suspended
  or a pending renewal application denied. In the case of a second and any
- further  violation,  the  liability  shall be for a civil penalty not to
- exceed [seventy-five] ONE HUNDRED TWELVE thousand FIVE  HUNDRED  dollars
- for  each such violation and an additional penalty not to exceed [seven-
- ty-five] ONE HUNDRED TWELVE thousand FIVE HUNDRED dollars for  each  day
+ further violation, the liability shall be for a  civil  penalty  not  to
+ exceed  [seventy-five]  ONE HUNDRED TWELVE thousand FIVE HUNDRED dollars
+ for each such violation and an additional penalty not to exceed  [seven-
+ ty-five]  ONE  HUNDRED TWELVE thousand FIVE HUNDRED dollars for each day
  during which such violation continues.
-  2.  Criminal  sanctions.  Any  person  who, having any of the culpable
- mental states defined in section 15.05 of the penal law,  shall  violate
- any  of  the  provisions  of or who fails to perform any duty imposed by
- titles 9, 11 and 13 of article 27 or any rules and  regulations  promul-
- gated  pursuant  thereto, or any term or condition of any certificate or
- permit issued pursuant thereto, or any final determination or  order  of
+  2. Criminal sanctions. Any person who,  having  any  of  the  culpable
+ mental  states  defined in section 15.05 of the penal law, shall violate
+ any of the provisions of or who fails to perform  any  duty  imposed  by
+ titles  9,  11 and 13 of article 27 or any rules and regulations promul-
+ gated pursuant thereto, or any term or condition of any  certificate  or
+ permit  issued  pursuant thereto, or any final determination or order of
  the commissioner made pursuant to this title shall be guilty of a misde-
- meanor  and,  upon  conviction  thereof, shall for a first conviction be
- punished by a fine not to exceed [thirty-seven  thousand  five  hundred]
- FIFTY-SIX  THOUSAND TWO HUNDRED FIFTY dollars per day of violation or by
+ meanor and, upon conviction thereof, shall for  a  first  conviction  be
+ punished  by  a  fine not to exceed [thirty-seven thousand five hundred]
+ FIFTY-SIX THOUSAND TWO HUNDRED FIFTY dollars per day of violation or  by
  imprisonment for a term of not more than one year, or both such fine and
- imprisonment. If the conviction is for  an  offense  committed  after  a
+ imprisonment.  If  the  conviction  is  for an offense committed after a
  first conviction of such person under this subdivision, punishment shall
- be  by  a  fine not to exceed [seventy-five] ONE HUNDRED TWELVE thousand
- FIVE HUNDRED dollars per day of violation, or by  imprisonment  for  not
+ be by a fine not to exceed [seventy-five] ONE  HUNDRED  TWELVE  thousand
+ FIVE  HUNDRED  dollars  per day of violation, or by imprisonment for not
  more than two years or by both such fine and imprisonment.
-  §  50. Subdivision 2 of section 71-2721 of the environmental conserva-
- tion law, as amended by section 32 of part C of chapter 62 of  the  laws
+  § 50. Subdivision 2 of section 71-2721 of the environmental  conserva-
+ tion  law,  as amended by section 32 of part C of chapter 62 of the laws
  of 2003, is amended to read as follows:
-  2.  Fines.  A  sentence  to  pay  a fine shall be a sentence to pay an
+  2. Fines. A sentence to pay a fine shall  be  a  sentence  to  pay  an
  amount fixed by the court, not exceeding the higher of:
   (a) [Three] FOUR hundred FIFTY thousand dollars for a class C felony;
-  (b) [Two hundred  twenty-five  thousand]  THREE  HUNDRED  THIRTY-SEVEN
+  (b)  [Two  hundred  twenty-five  thousand]  THREE HUNDRED THIRTY-SEVEN
  THOUSAND FIVE HUNDRED dollars for a class D felony;
-  (c)  [One  hundred  fifty  thousand]  TWENTY-TWO THOUSAND FIVE HUNDRED
+  (c) [One hundred fifty  thousand]  TWENTY-TWO  THOUSAND  FIVE  HUNDRED
  dollars for a class E felony;
   (d)  [Thirty-seven  thousand  five  hundred]  FIFTY-SIX  THOUSAND  TWO
  HUNDRED FIFTY dollars for a class A misdemeanor;
-  (e)  [Fifteen]  TWENTY-TWO thousand FIVE HUNDRED dollars for a class B
+  (e) [Fifteen] TWO HUNDRED TWENTY-FIVE thousand dollars for a  class  B
  misdemeanor; or
-  (f) Double the amount of the defendant's gain from the  commission  of
+  (f)  Double  the amount of the defendant's gain from the commission of
  the crime.
-  §  51. Subdivisions 1, 2 and 5 of section 71-2722 of the environmental
+  § 51. Subdivisions 1, 2 and 5 of section 71-2722 of the  environmental
  conservation law, subdivision 1 as amended by section 33 and subdivision
- 2 as amended by section 34 of part C of chapter 62 of the laws of  2003,
- and  subdivision  5  as  added  by  chapter 152 of the laws of 1990, are
+ 2  as amended by section 34 of part C of chapter 62 of the laws of 2003,
+ and subdivision 5 as added by chapter 152  of  the  laws  of  1990,  are
  amended to read as follows:
-  1. Any person who knowingly  or  intentionally  violates  any  of  the
- provisions  or  fails  to perform any duty imposed by section 27-1701 of
- this chapter, except the duty to accept a lead-acid battery pursuant  to
- subdivision  four  of  such section, shall be liable for a civil penalty
- not to exceed [seventy-five] ONE HUNDRED TWELVE dollars AND FIFTY  CENTS
- for  each  violation, provided that such civil penalty shall be in addi-
- tion to any other penalties authorized under other state or  local  laws
- governing the illegal disposal of lead-acid batteries.
- S. 7086--A  22
+  1.  Any  person  who  knowingly  or  intentionally violates any of the
+ provisions or fails to perform any duty imposed by  section  27-1701  of
+ this  chapter, except the duty to accept a lead-acid battery pursuant to
+ subdivision four of such section, shall be liable for  a  civil  penalty
+ not  to exceed [seventy-five] ONE HUNDRED TWELVE dollars AND FIFTY CENTS
+ for each violation, provided that such civil penalty shall be  in  addi-
+ S. 7086--B  22
  
+ tion  to  any other penalties authorized under other state or local laws
+ governing the illegal disposal of lead-acid batteries.
   2.  Any  retailer  or  distributor  who  refuses to accept a lead-acid
  battery as required pursuant to subdivision four of section  27-1701  of
  this  chapter  shall  be liable for a civil penalty not to exceed [seven
  hundred fifty] ONE THOUSAND ONE HUNDRED TWENTY-FIVE dollars.
-  5.  All  civil penalties and fines collected for any violation of such
- title seventeen shall be paid over to the commissioner  for  deposit  in
- the  [general  fund] CONSERVATION FUND TO THE CREDIT OF THE CONSERVATION
- ENFORCEMENT ACCOUNT ESTABLISHED PURSUANT TO SUBDIVISION (K)  OF  SECTION
- EIGHTY-THREE  OF THE STATE FINANCE LAW; provided however, that all civil
+  5. All civil penalties and fines collected for any violation  of  such
+ title  seventeen  shall  be paid over to the commissioner for deposit in
+ the [general fund] CONSERVATION FUND TO THE CREDIT OF  THE  CONSERVATION
+ ENFORCEMENT  ACCOUNT  ESTABLISHED PURSUANT TO SUBDIVISION (K) OF SECTION
+ EIGHTY-THREE OF THE STATE FINANCE LAW; provided however, that all  civil
  penalties collected for any violation of such title seventeen which have
  been imposed by the environmental control board of the city of New York,
- or a local adjudicatory  body  pursuant  to  subdivision  four  of  this
+ or  a  local  adjudicatory  body  pursuant  to  subdivision four of this
  section, shall be paid into an environmental fund of such city or local-
  ity.
-  §  52.  Subdivisions  1  and 2 of section 71-2724 of the environmental
- conservation law, as amended by chapter 30 of  the  laws  of  2020,  are
+  § 52. Subdivisions 1 and 2 of section  71-2724  of  the  environmental
+ conservation  law,  as  amended  by  chapter 30 of the laws of 2020, are
  amended to read as follows:
   1. Any person who knowingly or intentionally violates any provision of
- or  fails  to  perform  any duty pursuant to title twenty-one of article
- twenty-seven of this chapter, except subdivision one of section  27-2105
- of  this  chapter,  shall  upon the first finding of such a violation be
- liable for a civil penalty not to exceed one hundred FIFTY dollars.  Any
+ or fails to perform any duty pursuant to  title  twenty-one  of  article
+ twenty-seven  of this chapter, except subdivision one of section 27-2105
+ of this chapter, shall upon the first finding of  such  a  violation  be
+ liable  for a civil penalty not to exceed one hundred FIFTY dollars. Any
  person convicted of a second or subsequent violation shall be liable for
- a  civil  penalty  not  to exceed [five] SEVEN hundred FIFTY dollars for
+ a civil penalty not to exceed [five] SEVEN  hundred  FIFTY  dollars  for
  each violation.
-  2. Any person who knowingly or  intentionally  violates  or  fails  to
- perform  any  duty imposed by subdivision one of section 27-2105 of this
- chapter shall upon the first finding of such  a  violation  be  provided
- with  educational  materials  describing  the  requirements  for mercury
- disposal and the effects of improper mercury  disposal,  and  be  warned
- that  future  violations  shall  result in the imposition of a fine. Any
- person convicted of a second violation  shall  be  liable  for  a  civil
+  2.  Any  person  who  knowingly  or intentionally violates or fails to
+ perform any duty imposed by subdivision one of section 27-2105  of  this
+ chapter  shall  upon  the  first finding of such a violation be provided
+ with educational  materials  describing  the  requirements  for  mercury
+ disposal  and  the  effects  of improper mercury disposal, and be warned
+ that future violations shall result in the imposition  of  a  fine.  Any
+ person  convicted  of  a  second  violation  shall be liable for a civil
  penalty not to exceed [fifty] SEVENTY-FIVE dollars. Any person convicted
- of  a  third violation shall be liable for a civil penalty not to exceed
- [seventy-five] ONE HUNDRED TWELVE dollars AND FIFTY  CENTS.  Any  person
- convicted  of  a  fourth  or  subsequent violation shall be liable for a
+ of a third violation shall be liable for a civil penalty not  to  exceed
+ [seventy-five]  ONE  HUNDRED  TWELVE dollars AND FIFTY CENTS. Any person
+ convicted of a fourth or subsequent violation  shall  be  liable  for  a
  civil penalty not to exceed one hundred dollars for each violation.
-  § 53. Subdivision 1 of section 71-2728 of the environmental  conserva-
- tion  law,  as  added  by chapter 641 of the laws of 2008, is amended to
+  §  53. Subdivision 1 of section 71-2728 of the environmental conserva-
+ tion law, as added by chapter 641 of the laws of  2008,  is  amended  to
  read as follows:
   1. Any person who knowingly or intentionally violates any provision of
- or fails to perform any duty imposed pursuant to title 27 of article  27
- of  this  chapter  shall  upon  the first finding of such a violation be
+ or  fails to perform any duty imposed pursuant to title 27 of article 27
+ of this chapter shall upon the first finding  of  such  a  violation  be
  provided with a warning that future violations shall result in the impo-
- sition of a fine. Any person convicted of a second  violation  shall  be
- liable  for a civil penalty not to exceed one hundred FIFTY dollars. Any
- person convicted of a third or subsequent violation shall be liable  for
+ sition  of  a  fine. Any person convicted of a second violation shall be
+ liable for a civil penalty not to exceed one hundred FIFTY dollars.  Any
+ person  convicted of a third or subsequent violation shall be liable for
  a civil penalty not to exceed [five] SEVEN hundred FIFTY dollars.
-  §  54. Section 71-2729 of the environmental conservation law, as added
+  § 54. Section 71-2729 of the environmental conservation law, as  added
  by chapter 99 of the laws of 2010, is amended to read as follows:
  § 71-2729. Enforcement of title 26 of article 27 of this chapter.
-  1. a. Any consumer, as defined in title twenty-six of article  twenty-
- seven  of  this  chapter,  who  violates  any  provision of, or fails to
- perform any duty imposed by, section 27-2611 of this chapter,  shall  be
- liable  for  a civil penalty not to exceed one hundred FIFTY dollars for
- each violation.
- S. 7086--A  23
+  1.  a. Any consumer, as defined in title twenty-six of article twenty-
+ seven of this chapter, who  violates  any  provision  of,  or  fails  to
+ perform  any  duty imposed by, section 27-2611 of this chapter, shall be
+ S. 7086--B  23
  
-  b. Any person, except a consumer, manufacturer, or an owner or  opera-
- tor  of  an  electronic  waste collection site, electronic waste consol-
- idation facility, or electronic waste recycling facility as these  terms
- are defined in title twenty-six of article twenty-seven of this chapter,
- who  violates  any  provision,  or  fails to perform any duty imposed by
- section 27-2611 of this chapter, shall be liable for a civil penalty not
- to exceed [two hundred fifty] THREE  HUNDRED  SEVENTY-FIVE  dollars  for
+ liable for a civil penalty not to exceed one hundred FIFTY  dollars  for
  each violation.
-  c.  Any  manufacturer,  or  any  person  operating an electronic waste
+  b.  Any person, except a consumer, manufacturer, or an owner or opera-
+ tor of an electronic waste collection  site,  electronic  waste  consol-
+ idation  facility, or electronic waste recycling facility as these terms
+ are defined in title twenty-six of article twenty-seven of this chapter,
+ who violates any provision, or fails to  perform  any  duty  imposed  by
+ section 27-2611 of this chapter, shall be liable for a civil penalty not
+ to  exceed  [two  hundred  fifty] THREE HUNDRED SEVENTY-FIVE dollars for
+ each violation.
+  c. Any manufacturer, or  any  person  operating  an  electronic  waste
  collection site, an electronic waste consolidation facility, or an elec-
- tronic waste recycling facility as those  terms  are  defined  in  title
+ tronic  waste  recycling  facility  as  those terms are defined in title
  twenty-six of article twenty-seven of this chapter, who:
-  i.  fails to submit any report, registration, fee, or surcharge to the
- department as required by title twenty-six of  article  twenty-seven  of
+  i. fails to submit any report, registration, fee, or surcharge to  the
+ department  as  required  by title twenty-six of article twenty-seven of
  this chapter shall be liable for a civil penalty not to exceed one thou-
- sand  FIVE  HUNDRED dollars for each day such report, registration, fee,
+ sand FIVE HUNDRED dollars for each day such report,  registration,  fee,
  or surcharge is not submitted; and
-  ii. violates any other provision of title twenty-six of article  twen-
- ty-seven  of  this  chapter or fails to perform any duty imposed by such
- title, except for subdivision four of section 27-2603 of  this  chapter,
+  ii.  violates any other provision of title twenty-six of article twen-
+ ty-seven of this chapter or fails to perform any duty  imposed  by  such
+ title,  except  for subdivision four of section 27-2603 of this chapter,
  shall be liable for a civil penalty for each violation not to exceed one
- thousand  FIVE  HUNDRED  dollars  for the first violation, [two thousand
- five hundred] THREE THOUSAND SEVEN HUNDRED FIFTY dollars for the  second
- violation  and  [five] SEVEN thousand FIVE HUNDRED dollars for the third
+ thousand FIVE HUNDRED dollars for the  first  violation,  [two  thousand
+ five  hundred] THREE THOUSAND SEVEN HUNDRED FIFTY dollars for the second
+ violation and [five] SEVEN thousand FIVE HUNDRED dollars for  the  third
  and subsequent violations of this title within a twelve-month period.
-  d. Any retailer, as defined by section 27-2601 of  this  chapter,  who
- violates  any  provision  of title twenty-six of article twenty-seven of
- this chapter or fails to perform any duty imposed by such  title,  shall
- be  liable  for  a  civil  penalty for each violation not to exceed [two
+  d.  Any  retailer,  as defined by section 27-2601 of this chapter, who
+ violates any provision of title twenty-six of  article  twenty-seven  of
+ this  chapter  or fails to perform any duty imposed by such title, shall
+ be liable for a civil penalty for each  violation  not  to  exceed  [two
  hundred  fifty]  THREE  HUNDRED  SEVENTY-FIVE  dollars  for  the  first
- violation,  [five]  SEVEN hundred FIFTY dollars for the second violation
- and one thousand FIVE HUNDRED  dollars  for  the  third  and  subsequent
+ violation, [five] SEVEN hundred FIFTY dollars for the  second  violation
+ and  one  thousand  FIVE  HUNDRED  dollars  for the third and subsequent
  violations of this title in a twelve-month period.
   e. Civil penalties under this section shall be assessed by the commis-
- sioner  after  a  hearing  or  opportunity  to  be heard pursuant to the
- provisions of section 71-1709 of this article, or by the  court  in  any
+ sioner after a hearing or  opportunity  to  be  heard  pursuant  to  the
+ provisions  of  section  71-1709 of this article, or by the court in any
  action or proceeding pursuant to this section, and, in addition thereto,
- such  person  may  by  similar  process be enjoined from continuing such
+ such person may by similar process  be  enjoined  from  continuing  such
  violation.
   2. All penalties collected pursuant to this section shall be paid over
- to the commissioner for deposit to  the  environmental  protection  fund
+ to  the  commissioner  for  deposit to the environmental protection fund
  established pursuant to section ninety-two-s of the state finance law.
-  §  55.  Subdivisions  1  and 3 of section 71-2907 of the environmental
- conservation law, as amended by chapter 285 of the  laws  of  2000,  are
+  § 55. Subdivisions 1 and 3 of section  71-2907  of  the  environmental
+ conservation  law,  as  amended  by chapter 285 of the laws of 2000, are
  amended to read as follows:
-  1.  Administrative  sanctions.  Except  as  otherwise provided in this
+  1. Administrative sanctions. Except  as  otherwise  provided  in  this
  subdivision, any person who violates any provision of article 33 of this
- chapter or any rule, regulation or order issued  thereunder  or  commits
+ chapter  or  any  rule, regulation or order issued thereunder or commits
  any offense described in section 33-1301 of this chapter shall be liable
- to  the  people  of  the  state for a civil penalty not to exceed [five]
- SEVEN thousand FIVE HUNDRED dollars for a first violation,  and  not  to
- exceed  [ten]  FIFTEEN  thousand dollars for a subsequent offense, to be
+ to the people of the state for a civil  penalty  not  to  exceed  [five]
+ SEVEN  thousand  FIVE  HUNDRED dollars for a first violation, and not to
+ exceed [ten] FIFTEEN thousand dollars for a subsequent  offense,  to  be
  assessed by the commissioner after a hearing or opportunity to be heard.
- Notwithstanding any provision of  law  to  the  contrary,  an  owner  or
- owner's agent of a multiple dwelling or owner, owner's agent or a person
- in  a  position  of  authority  for all other types of premises, as such
- S. 7086--A  24
+ Notwithstanding  any  provision  of  law  to  the  contrary, an owner or
+ S. 7086--B  24
  
- terms are defined in paragraph d of subdivision five of section  33-0905
+ owner's agent of a multiple dwelling or owner, owner's agent or a person
+ in a position of authority for all other  types  of  premises,  as  such
+ terms  are defined in paragraph d of subdivision five of section 33-0905
  of  this  chapter,  who  violates  any  provision of a local law adopted
  pursuant to subdivision one of section 33-1004 of this chapter  relating
  to  paragraph  b  of  such  subdivision,  and a person, who violates any
@@ -1388,13 +1391,13 @@ S T A T E  O F  N E W  Y O R K
  each day  during  which  or  any  part  of  which  such  manufacture  or
  production  is  carried  on  or  continued,  shall  be deemed a separate
  violation. Any person who violates any provision of article 33  of  this
+ S. 7086--B  25
+ 
  chapter  or  any  rule  or  regulation thereunder or commits any offense
  described in section 33-1301 of this chapter relating to the  use  of  a
- S. 7086--A  25
- 
  general  use  pesticide  shall  be  guilty  of  a  violation  and,  upon
- conviction thereof, shall be punished by a fine not to  exceed  [twenty-
- five  hundred]  THREE  THOUSAND  SEVEN  HUNDRED  FIFTY  dollars.  If the
+ conviction  thereof,  shall be punished by a fine not to exceed [twenty-
+ five hundred]  THREE  THOUSAND  SEVEN  HUNDRED  FIFTY  dollars.  If  the
  conviction  is  for  a subsequent offense committed after the first such
  conviction of such person under this subdivision, punishment shall be by
  a fine not to exceed [five] SEVEN thousand FIVE HUNDRED dollars.  Prose-
@@ -1445,10 +1448,10 @@ S T A T E  O F  N E W  Y O R K
  determination or order of the Lake George park commission shall be guil-
  ty of a violation, and, upon conviction thereof, shall be punished by  a
  fine not to exceed [five] SEVEN hundred FIFTY dollars for each violation
+ S. 7086--B  26
+ 
  and [five] SEVEN hundred FIFTY dollars for each day such violation shall
  continue.
- S. 7086--A  26
- 
   § 59. Section 71-3501 of the environmental conservation law is amended
  to read as follows:
  § 71-3501. Putting  noisome  or  unwholesome  substances  or maintaining
@@ -1464,28 +1467,20 @@ S T A T E  O F  N E W  Y O R K
   § 60. Section  71-3703  of  the  environmental  conservation  law,  as
  amended  by chapter 259 of the laws of 2011, subdivision 4 as amended by
  chapter 44 of the laws of 2020, subdivision 5 as added by chapter 829 of
- the laws of 2021, and subdivision 6 as added by chapter 111 of the  laws
- of 2023, is amended to read as follows:
+ the laws of 2021, subdivision 6 as added by chapter 111 of the  laws  of
+ 2023,  and subdivision 7 as added by chapter 107 of the laws of 2024, is
+ amended to read as follows:
  § 71-3703. Enforcement of article 37.
-  1.  Any  person who violates any of the provisions of, or who fails to
- perform any duty imposed by section 37-0107 or any  rule  or  regulation
- promulgated  pursuant hereto, shall be liable for a civil penalty not to
- exceed [two thousand five hundred] THREE THOUSAND  SEVEN  HUNDRED  FIFTY
- dollars  for  each  such violation and an additional penalty of not more
- than [five] SEVEN hundred FIFTY dollars for each day during  which  such
- violation  continues,  and,  in  addition  thereto,  such  person may be
- enjoined from continuing such violation.
-  2. Any person who violates any of the provisions of, or who  fails  to
- perform  any  duty  imposed by section 37-0505 or any rule or regulation
+  1. Any person who violates any of the provisions of, or who  fails  to
+ perform  any  duty  imposed by section 37-0107 or any rule or regulation
  promulgated pursuant hereto, shall be liable for a civil penalty not  to
- exceed  one thousand FIVE HUNDRED dollars for each day during which such
- violation continues,  and  in  addition  thereto,  such  person  may  be
- enjoined  from continuing such violation. Such person shall for a second
- violation be liable to the people of the state for a civil  penalty  not
- to exceed [two thousand five hundred] THREE THOUSAND SEVEN HUNDRED FIFTY
- dollars for each day during which such violation continues.
-  3.  Any  person who violates any of the provisions of, or who fails to
- perform any duty imposed by section 37-0705 or any  rule  or  regulation
+ exceed  [two  thousand  five hundred] THREE THOUSAND SEVEN HUNDRED FIFTY
+ dollars for each such violation and an additional penalty  of  not  more
+ than  [five]  SEVEN hundred FIFTY dollars for each day during which such
+ violation continues, and,  in  addition  thereto,  such  person  may  be
+ enjoined from continuing such violation.
+  2.  Any  person who violates any of the provisions of, or who fails to
+ perform any duty imposed by section 37-0505 or any  rule  or  regulation
  promulgated  pursuant hereto, shall be liable for a civil penalty not to
  exceed one thousand FIVE HUNDRED dollars for each day during which  such
  violation  continues,  and  in  addition  thereto,  such  person  may be
@@ -1493,8 +1488,8 @@ S T A T E  O F  N E W  Y O R K
  violation  be  liable to the people of the state for a civil penalty not
  to exceed [two thousand five hundred] THREE THOUSAND SEVEN HUNDRED FIFTY
  dollars for each day during which such violation continues.
-  4. Any person who violates any of the provisions of, or who  fails  to
- perform  any  duty  imposed by section 37-0117 or any rule or regulation
+  3. Any person who violates any of the provisions of, or who  fails  to
+ perform  any  duty  imposed by section 37-0705 or any rule or regulation
  promulgated pursuant hereto, shall be liable for a civil penalty not  to
  exceed  one thousand FIVE HUNDRED dollars for each day during which such
  violation continues,  and  in  addition  thereto,  such  person  may  be
@@ -1502,57 +1497,78 @@ S T A T E  O F  N E W  Y O R K
  violation be liable to the people of the state for a civil  penalty  not
  to exceed [two thousand five hundred] THREE THOUSAND SEVEN HUNDRED FIFTY
  dollars for each day during which such violation continues.
-  5.  Any  person  who violates any of the provisions of or who fails to
- perform any duty imposed by sections 37-1003 and 37-1007 of this chapter
- or any rule or regulation promulgated pursuant hereto, shall  be  liable
- S. 7086--A  27
+  4.  Any  person who violates any of the provisions of, or who fails to
+ perform any duty imposed by section 37-0117 or any  rule  or  regulation
+ promulgated  pursuant hereto, shall be liable for a civil penalty not to
+ exceed one thousand FIVE HUNDRED dollars for each day during which  such
+ violation  continues,  and  in  addition  thereto,  such  person  may be
+ enjoined from continuing such violation. Such person shall for a  second
+ violation  be  liable to the people of the state for a civil penalty not
+ to exceed [two thousand five hundred] THREE THOUSAND SEVEN HUNDRED FIFTY
+ dollars for each day during which such violation continues.
+ S. 7086--B  27
  
- for  a civil penalty not to exceed one thousand FIVE HUNDRED dollars for
+  5. Any person who violates any of the provisions of or  who  fails  to
+ perform any duty imposed by sections 37-1003 and 37-1007 of this chapter
+ or  any  rule or regulation promulgated pursuant hereto, shall be liable
+ for a civil penalty not to exceed one thousand FIVE HUNDRED dollars  for
  each day during which such violation continues, and in addition thereto,
- such person may be enjoined from continuing such violation. Such  person
- shall  for a second violation be liable to the people of the state for a
- civil penalty not to exceed [two thousand five hundred]  THREE  THOUSAND
- SEVEN  HUNDRED  FIFTY  dollars  for each day during which such violation
+ such  person may be enjoined from continuing such violation. Such person
+ shall for a second violation be liable to the people of the state for  a
+ civil  penalty  not to exceed [two thousand five hundred] THREE THOUSAND
+ SEVEN HUNDRED FIFTY dollars for each day  during  which  such  violation
  continues.
-  6. Any person who violates any of the provisions of, or who  fails  to
- perform  any duty imposed by section 37-0121 of this chapter or any rule
- or regulation promulgated pursuant hereto, shall be liable for  a  civil
- penalty  not  to  exceed  one thousand FIVE HUNDRED dollars for each day
- during which such violation continues, and  in  addition  thereto,  such
+  6.  Any  person who violates any of the provisions of, or who fails to
+ perform any duty imposed by section 37-0121 of this chapter or any  rule
+ or  regulation  promulgated pursuant hereto, shall be liable for a civil
+ penalty not to exceed one thousand FIVE HUNDRED  dollars  for  each  day
+ during  which  such  violation  continues, and in addition thereto, such
  person may be enjoined from continuing such violation. Such person shall
- for  a second violation be liable to the people of the state for a civil
- penalty not to exceed [two thousand five hundred] THREE  THOUSAND  SEVEN
- HUNDRED  FIFTY  dollars for each day during which such violation contin-
+ for a second violation be liable to the people of the state for a  civil
+ penalty  not  to exceed [two thousand five hundred] THREE THOUSAND SEVEN
+ HUNDRED FIFTY dollars for each day during which such  violation  contin-
  ues.
-  § 61. Section 71-3803 of the environmental conservation law, as  added
+  7.  Any  person who violates any of the provisions of, or who fails to
+ perform any duty imposed by section 37-1101 of this chapter or any  rule
+ or  regulation  promulgated pursuant hereto, shall be liable for a civil
+ penalty not to exceed one thousand FIVE HUNDRED  dollars  for  each  day
+ during  which  such  violation  continues, and in addition thereto, such
+ person may be enjoined from continuing such violation. Such person shall
+ for a second violation be liable to the people of the state for a  civil
+ penalty  not  to exceed [two thousand five hundred] THREE THOUSAND SEVEN
+ HUNDRED FIFTY dollars for each day during which such  violation  contin-
+ ues.
+  §  61. Section 71-3803 of the environmental conservation law, as added
  by chapter 713 of the laws of 1975, is amended to read as follows:
  § 71-3803. Enforcement of article thirty-eight.
-  Any  person  who  violates  any  of the provisions of, or who fails to
- perform any duty imposed  by  article  thirty-eight  or  any  regulation
- promulgated  by  the commissioner thereunder, shall be liable to a civil
- penalty of not more than  [twenty-five  hundred]  THREE  THOUSAND  SEVEN
- HUNDRED  FIFTY dollars for each such violation and an additional penalty
- of not more than [five] SEVEN hundred FIFTY dollars for each day  during
- which  such  violation  continues, and, in addition thereto, such person
+  Any person who violates any of the provisions  of,  or  who  fails  to
+ perform  any  duty  imposed  by  article  thirty-eight or any regulation
+ promulgated by the commissioner thereunder, shall be liable to  a  civil
+ penalty  of  not  more  than  [twenty-five hundred] THREE THOUSAND SEVEN
+ HUNDRED FIFTY dollars for each such violation and an additional  penalty
+ of  not more than [five] SEVEN hundred FIFTY dollars for each day during
+ which such violation continues, and, in addition  thereto,  such  person
  may be enjoined from continuing such violation. Penalties and injunctive
- relief provided herein shall be recoverable in an action brought by  the
+ relief  provided herein shall be recoverable in an action brought by the
  attorney general acting alone or at the request of the commissioner.
-  §  62. Section 71-3903 of the environmental conservation law, as added
+  § 62. Section 71-3903 of the environmental conservation law, as  added
  by chapter 732 of the laws of 1980, is amended to read as follows:
  § 71-3903. Violations; penalties.
-  1. Administrative sanctions. Any  person  who  violates,  disobeys  or
- disregards  any  provision of article thirty-nine shall be liable to the
- people of the state for a civil penalty of not to  exceed  [three]  FOUR
- thousand  FIVE  HUNDRED dollars for every such violation, to be assessed
- by the commissioner after a hearing or  opportunity  to  be  heard.  The
+  1.  Administrative  sanctions.  Any  person  who violates, disobeys or
+ disregards any provision of article thirty-nine shall be liable  to  the
+ people  of  the  state for a civil penalty of not to exceed [three] FOUR
+ thousand FIVE HUNDRED dollars for every such violation, to  be  assessed
+ by  the  commissioner  after  a  hearing or opportunity to be heard. The
  penalty may be recovered in an action brought by the commissioner in any
- court  of  competent jurisdiction. Such civil penalty may be released or
- [comprised] COMPROMISED by the commissioner before the matter  has  been
- referred  to  the  attorney  general;  and  where  such  matter has been
- referred to the attorney general, any such penalty may  be  released  or
+ court of competent jurisdiction. Such civil penalty may be  released  or
+ [comprised]  COMPROMISED  by the commissioner before the matter has been
+ referred to the  attorney  general;  and  where  such  matter  has  been
+ referred  to  the  attorney general, any such penalty may be released or
+ S. 7086--B  28
+ 
  [comprised] COMPROMISED and any action commenced to recover the same may
- be  settled and discontinued by the attorney general with the consent of
- the commissioner.  In  addition,  the  commissioner  shall  have  power,
+ be settled and discontinued by the attorney general with the consent  of
+ the  commissioner.  In  addition,  the  commissioner  shall  have power,
  following  a  hearing,  to  direct  the  violator  to  cease [his] THEIR
  violation of article thirty-nine and, where appropriate, to  recall  any
  sewage  system cleaners or additives sold or distributed in violation of
@@ -1562,8 +1578,6 @@ S T A T E  O F  N E W  Y O R K
  this subdivision shall be  reviewable  in  a  proceeding  under  article
  seventy-eight of the civil practice law and rules commenced within thir-
  ty days of such penalty or order.
- S. 7086--A  28
- 
   2. Criminal sanctions. Any person who knowingly violates any provision
  of  section  39-0105 of this chapter shall, in addition to the sanctions
  provided in subdivision one of this section, for the first  offense,  be
@@ -1606,6 +1620,8 @@ S T A T E  O F  N E W  Y O R K
  person  shall  be  subject  upon conviction to imprisonment for not more
  than fifteen days or to a fine of not  more  than  [nine]  ONE  THOUSAND
  THREE hundred FIFTY dollars, or to both such imprisonment and such fine.
+ S. 7086--B  29
+ 
   §  65.  Section  71-4003  of  the  environmental  conservation law, as
  amended by chapter 99 of the  laws  of  2010,  is  amended  to  read  as
  follows:
@@ -1619,34 +1635,33 @@ S T A T E  O F  N E W  Y O R K
  during which each such violation continues. Any civil  penalty  provided
  for  by  this chapter may be assessed following a hearing or opportunity
  to be heard.
- S. 7086--A  29
- 
   § 66. Section  71-4103  of  the  environmental  conservation  law,  as
  amended  by  chapter  608  of  the  laws  of 1993, is amended to read as
  follows:
  § 71-4103. Enforcement of article seventy-two.
-  Any  person  who violates any of the provisions of article seventy-two
- of this chapter or  the  regulations  promulgated  thereunder  shall  be
+  Any person who violates any of the provisions of  article  seventy-two
+ of  this  chapter  or  the  regulations  promulgated thereunder shall be
  liable for a civil penalty of up to one thousand FIVE HUNDRED dollars in
- addition  to  any  amount  assessed as a penalty pursuant to subdivision
- five of section 72-0201 of this chapter,  except  that  any  person  who
- fails  to  pay fees required pursuant to section 72-0303 of this chapter
+ addition to any amount assessed as a  penalty  pursuant  to  subdivision
+ five  of  section  72-0201  of  this chapter, except that any person who
+ fails to pay fees required pursuant to section 72-0303 of  this  chapter
  shall be subject to penalty provisions pursuant to subdivision twelve of
  section 72-0201 of this chapter.
-  § 67. Section 71-4303 of the environmental conservation law, as  added
+  §  67. Section 71-4303 of the environmental conservation law, as added
  by chapter 672 of the laws of 1986, is amended to read as follows:
  § 71-4303. Violations of article forty of this chapter.
-  1.  Civil and administrative sanctions. Any person who violates any of
- the provisions of, or who fails to perform any duty imposed by,  article
- forty  of this chapter or any rule or regulation promulgated thereunder,
- or any terms or conditions of any certificate or permit issued  pursuant
- thereto,  or  any  final determination or order of the commissioner made
- pursuant to this title, shall be liable in the case of a  civil  penalty
- not  to exceed twenty-five thousand dollars and an additional penalty of
- not more than twenty-five thousand dollars for  each  day  during  which
- such  violation  continues,  to be assessed by the commissioner after an
- opportunity to be heard pursuant to the provisions of section 71-1709 of
- this article or by a court in any action or proceeding pursuant to  this
+  1. Civil and administrative sanctions. Any person who violates any  of
+ the  provisions of, or who fails to perform any duty imposed by, article
+ forty of this chapter or any rule or regulation promulgated  thereunder,
+ or  any terms or conditions of any certificate or permit issued pursuant
+ thereto, or any final determination or order of  the  commissioner  made
+ pursuant  to  this title, shall be liable in the case of a civil penalty
+ not to exceed [twenty-five] THIRTY-SEVEN thousand FIVE  HUNDRED  dollars
+ and  an additional penalty of not more than [twenty-five thousand] THIR-
+ TY-SEVEN THOUSAND FIVE HUNDRED dollars for each day  during  which  such
+ violation  continues, to be assessed by the commissioner after an oppor-
+ tunity to be heard pursuant to the provisions of section 71-1709 of this
+ article or by a court in any  action  or  proceeding  pursuant  to  this
  title,  and,  in  addition thereto such person may by similar process be
  enjoined from continuing such violation. In addition, upon the provision
  of notice stating the grounds for its action and giving  an  opportunity
@@ -1663,6 +1678,8 @@ S T A T E  O F  N E W  Y O R K
  article  forty  of  this chapter or any rules or regulations promulgated
  pursuant thereto, or any term or condition of any certificate or  permit
  issued  pursuant  thereto,  or  any  final determination or order of the
+ S. 7086--B  30
+ 
  commissioner made pursuant to this title shall be guilty of a  misdemea-
  nor  and,  upon  conviction  thereof,  shall  for  a first conviction be
  punished by a fine not to  exceed  [twenty-five]  THIRTY-SEVEN  thousand
@@ -1677,8 +1694,6 @@ S T A T E  O F  N E W  Y O R K
  by chapter 180 of the laws of 1989, is amended to read as follows:
  § 71-4402. Violations of title 15 of article 27 of this chapter.
   1. Civil and administrative sanctions.
- S. 7086--A  30
- 
   Any  person  who  violates  any  of the provisions of, or who fails to
  perform any duty imposed by title 15 of article 27 of this  chapter,  or
  any  rule  or  regulation  promulgated  pursuant thereto, or any term or
@@ -1721,24 +1736,24 @@ S T A T E  O F  N E W  Y O R K
  sonment for a term of not more than ninety days, or both such  fine  and
  imprisonment.  If  the  conviction is for an offense committed after a
  first conviction of such person under this paragraph, within the preced-
+ S. 7086--B  31
+ 
  ing five years, such person shall be guilty of a class A misdemeanor and
  upon conviction, punishment shall be by a fine  not  to  exceed  [fifty]
  SEVENTY-FIVE  thousand  FIVE HUNDRED dollars per day of violation, or by
- imprisonment for not more than one year or by both such fine and  impri-
+ imprisonment  for not more than one year or by both such fine and impri-
  sonment.
-  §  69. Subdivision 2 of section 71-4411 of the environmental conserva-
- tion law, as added by chapter 180 of the laws of  1989,  is  amended  to
+  § 69. Subdivision 2 of section 71-4411 of the environmental  conserva-
+ tion  law,  as  added  by chapter 180 of the laws of 1989, is amended to
  read as follows:
-  2.  Fines.  A  sentence  to  pay a fine shall be a sentence to pay any
+  2. Fines. A sentence to pay a fine shall be  a  sentence  to  pay  any
  amount fixed by the court, not exceeding the higher of:
   (a) [one hundred fifty] TWO HUNDRED TWENTY-FIVE thousand dollars for a
  class D felony;
-  (b) one hundred thousand dollars for a class E felony;
+  (b) one hundred FIFTY thousand dollars for a class E felony;
   (c) [fifty] SEVENTY-FIVE thousand dollars for a class A misdemeanor;
- S. 7086--A  31
- 
-  (d) [fifteen] TWENTY-TWO thousand FIVE HUNDRED dollars for a  class  B
+  (d)  [fifteen]  TWENTY-TWO thousand FIVE HUNDRED dollars for a class B
  misdemeanor; or
-  (e)  double  the amount of the defendant's gain from the commission of
+  (e) double the amount of the defendant's gain from the  commission  of
  the crime.
   § 70. This act shall take effect immediately.
