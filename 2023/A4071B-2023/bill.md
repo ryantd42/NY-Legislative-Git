@@ -1,6 +1,6 @@
 # Provides access to menstrual products in toilet facilities in certain public buildings
 
-**Bill ID:** A4071B
+**Bill ID:** A4071BA
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Provides access to menstrual products in toilet facilities in public buildings d
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4071
+  4071--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,12 @@ S T A T E  O F  N E W  Y O R K
   February 9, 2023
   ___________
  
- Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
-  Committee on Governmental Operations
+ Introduced  by  M. of A. L. ROSENTHAL, SIMON, GALLAGHER, GLICK, SHIMSKY,
+  REYES, CRUZ, LEVENBERG, TAYLOR, RAGA, DE LOS SANTOS,  WALKER  --  read
+  once  and  referred  to  the  Committee  on Governmental Operations --
+  recommitted to the Committee on Governmental Operations in  accordance
+  with  Assembly  Rule  3, sec. 2 -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public  buildings  law,  in  relation  to  providing
   access  to  menstrual  products in toilet facilities in certain public
@@ -36,8 +40,8 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The public buildings law is amended by adding a new section
- 147 to read as follows:
-  § 147. ACCESS TO MENSTRUAL PRODUCTS IN TOILET FACILITIES. 1. MENSTRUAL
+ 148 to read as follows:
+  § 148. ACCESS TO MENSTRUAL PRODUCTS IN TOILET FACILITIES. 1. MENSTRUAL
  PRODUCTS  SHALL  BE  PROVIDED AT NO COST, INCLUDING, BUT NOT LIMITED TO,
  SANITARY NAPKINS, TAMPONS AND PANTY LINERS IN ALL FEMALE-DESIGNATED  AND
  GENDER-NEUTRAL  WASHROOMS  AND TOILET FACILITIES IN EVERY COVERED PUBLIC
@@ -55,13 +59,15 @@ S T A T E  O F  N E W  Y O R K
  SECTION.
   3. FOR THE PURPOSES OF THIS SECTION "COVERED  PUBLIC  BUILDING"  SHALL
  MEAN  A  PUBLIC BUILDING AS DEFINED IN SECTION TWO OF THIS CHAPTER, THAT
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD07734-02-3
+ A. 4071--A  2
+ 
  IS DETERMINED BY THE COMMISSIONER OF GENERAL SERVICES TO BE OPEN TO  THE
  PUBLIC. FOR PURPOSES OF THIS SECTION "COVERED PUBLIC BUILDING" SHALL NOT
  MEAN  ACADEMIC BUILDINGS, DORMITORIES, AND OTHER FACILITIES OF THE STATE
  UNIVERSITY SYSTEM.
-  § 2. This act shall take effect one year after it shall have become  a
+  §  2. This act shall take effect one year after it shall have become a
  law.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD07734-01-3
