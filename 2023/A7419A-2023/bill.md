@@ -1,6 +1,6 @@
 # Grants retroactive tier IV membership in the New York state and local employees' retirement system to Raymond Ruckel
 
-**Bill ID:** A7419A
+**Bill ID:** A7419AA
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Stricken
@@ -16,7 +16,7 @@ Grants retroactive tier IV membership in the New York state and local employees'
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7419
+  7419--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  ZEBROWSKI  --  read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT granting retroactive tier IV membership in the New York state and
   local employees' retirement system to Raymond Ruckel
  
@@ -56,34 +59,36 @@ S T A T E  O F  N E W  Y O R K
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This  bill  would  grant Tier 4 status in the New York State and Local
  Employees' Retirement System to Raymond Ruckel, a current Tier 6  member
- employed  by  Rockland  County,  by changing their date of membership to
- August 1, 1990. There will be no refund of member contributions.
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10878-03-3
- A. 7419  2
+  LBD10878-04-4
+ A. 7419--A  2
  
-  If this bill is enacted during the 2023 legislative session, we antic-
- ipate that there will be an increase  of  approximately  $5,900  in  the
+ employed  by  Rockland  County,  by changing their date of membership to
+ August 1, 1990, their first  date  of  employment  with  the  Clarkstown
+ Central  School  District.  There  will  be no refund of member contrib-
+ utions.
+  If this bill is enacted during the 2024 Legislative Session, we antic-
+ ipate  that  there  will  be  an increase of approximately $7,500 in the
  annual contributions of Rockland County for the fiscal year ending March
- 31,  2024. In future years, this cost will vary as the billing rates and
+ 31, 2025. In future years this cost will vary as the billing  rates  and
  salary of Raymond Ruckel change.
   In addition to the annual contributions discussed above, there will be
- an  immediate  past  service cost of approximately $40,300 which will be
+ an  immediate  past  service cost of approximately $19,100 which will be
  borne by the Clarkstown Central School District as a  one-time  payment.
- This estimate assumes that payment will be made on February 1, 2024.
+ This estimate assumes that payment will be made on February 1, 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -91,6 +96,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated May 15, 2023, and intended for  use  only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-154, prepared by
+  This estimate, dated April 15, 2024, and intended for use only  during
+ the  2024  Legislative Session, is Fiscal Note No. 2024-163, prepared by
  the Actuary for the New York State and Local Retirement System.
