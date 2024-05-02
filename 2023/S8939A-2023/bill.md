@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the Assemblyman Pat M. Casale Memorial Highway
 
-**Bill ID:** S8939A
+**Bill ID:** S8939AA
 **Session:** 2023
 **Sponsor:** Jake Ashby
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of the state highway system as the "Assemblyman Pat M. Casa
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8939
+  8939--A
  
   I N  S E N A T E
  
@@ -24,12 +24,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  ASHBY  -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+  printed to be committed to the Committee on Transportation --  commit-
+  tee  discharged, bill amended, ordered reprinted as amended and recom-
+  mitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Assemblyman Pat  M.  Casale  Memorial
   Highway"
- 
+
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -37,11 +39,12 @@ S T A T E  O F  N E W  Y O R K
  read as follows:
   § 345-C. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
  "ASSEMBLYMAN  PAT  M.  CASALE MEMORIAL HIGHWAY". ALL THAT PORTION OF THE
- STATE HIGHWAY SYSTEM CONSTITUTING STATE ROUTE FORTY  FROM  HOUSE  NUMBER
- FOUR  HUNDRED  FORTY-EIGHT  TO  THE  PORTION  WHERE OIL MILL HILL RD AND
- BRICKYARD RD SPLITS OFF OF SUCH STATE ROUTE  FORTY,  IN  THE  HAMLET  OF
- SPEIGLETOWN,  COUNTY OF RENSSELAER, SHALL BE DESIGNATED AND KNOWN AS THE
- "ASSEMBLYMAN PAT M. CASALE MEMORIAL HIGHWAY".
+ STATE HIGHWAY SYSTEM CONSTITUTING STATE ROUTE  FORTY  BEGINNING  AT  THE
+ INTERSECTION  OF  STATE  ROUTE  FORTY  AND CARVERS LANE, CONTINUING IN A
+ GENERALLY NORTHERLY DIRECTION, AND TERMINATING AT  THE  INTERSECTION  OF
+ STATE ROUTE FORTY AND WARREN LANE IN THE TOWN OF SCHAGHTICOKE, COUNTY OF
+ RENSSELAER,  SHALL  BE  DESIGNATED  AND KNOWN AS THE "ASSEMBLYMAN PAT M.
+ CASALE MEMORIAL HIGHWAY".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this  act.  However,  to  avoid
@@ -53,7 +56,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD15073-01-4
+  LBD15073-03-4
