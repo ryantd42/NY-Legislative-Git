@@ -1,6 +1,6 @@
 # Provides access to menstrual products in toilet facilities in certain public buildings
 
-**Bill ID:** A4071BA
+**Bill ID:** A4071BB
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Provides access to menstrual products in toilet facilities in public buildings d
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4071--A
+  4071--B
  
   2023-2024 Regular Sessions
  
@@ -30,7 +30,9 @@ S T A T E  O F  N E W  Y O R K
   once  and  referred  to  the  Committee  on Governmental Operations --
   recommitted to the Committee on Governmental Operations in  accordance
   with  Assembly  Rule  3, sec. 2 -- committee discharged, bill amended,
-  ordered reprinted as amended and recommitted to said committee
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  again  reported from said committee with amendments, ordered reprinted
+  as amended and recommitted to said committee
  
  AN ACT to amend the public  buildings  law,  in  relation  to  providing
   access  to  menstrual  products in toilet facilities in certain public
@@ -57,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  RELATION TO THE IMPLEMENTATION OF THIS SECTION, IN THE PRIOR YEAR; AND
   V.  THE  TOTAL COST TO THE STATE TO IMPLEMENT THE REQUIREMENTS OF THIS
  SECTION.
-  3. FOR THE PURPOSES OF THIS SECTION "COVERED  PUBLIC  BUILDING"  SHALL
- MEAN  A  PUBLIC BUILDING AS DEFINED IN SECTION TWO OF THIS CHAPTER, THAT
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07734-02-3
- A. 4071--A  2
+  LBD07734-04-4
+ A. 4071--B  2
  
+  3. FOR THE PURPOSES OF THIS SECTION "COVERED  PUBLIC  BUILDING"  SHALL
+ MEAN  A  PUBLIC BUILDING AS DEFINED IN SECTION TWO OF THIS CHAPTER, THAT
  IS DETERMINED BY THE COMMISSIONER OF GENERAL SERVICES TO BE OPEN TO  THE
  PUBLIC. FOR PURPOSES OF THIS SECTION "COVERED PUBLIC BUILDING" SHALL NOT
- MEAN  ACADEMIC BUILDINGS, DORMITORIES, AND OTHER FACILITIES OF THE STATE
- UNIVERSITY SYSTEM.
-  §  2. This act shall take effect one year after it shall have become a
+ MEAN  ANY STATE UNIVERSITY OF NEW YORK BUILDINGS, CITY UNIVERSITY OF NEW
+ YORK BUILDINGS, OR ANY BUILDINGS OWNED OR LEASED BY A SCHOOL DISTRICT.
+  § 2. This act shall take effect one year after it shall have become  a
  law.
