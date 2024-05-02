@@ -1,6 +1,6 @@
 # Relates to the application of topical fluoride varnish by dental assistants and licensed practical nurses
 
-**Bill ID:** A7402B
+**Bill ID:** A7402BA
 **Session:** 2023
 **Sponsor:** Crystal Peoples-Stokes
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Permits dental assistants and licensed practical nurses to perform the applicati
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7402
+  7402--A
  
   2023-2024 Regular Sessions
  
@@ -25,47 +25,49 @@ S T A T E  O F  N E W  Y O R K
   May 19, 2023
   ___________
  
- Introduced  by  M. of A. PEOPLES-STOKES -- read once and referred to the
-  Committee on Higher Education
- 
- AN ACT to amend the education law,  in  relation  to  permitting  dental
-  assistants and licensed practical nurses to perform the application of
-  topical fluoride varnish
+ Introduced by M. of A. PEOPLES-STOKES, FAHY -- read once and referred to
+  the  Committee  on Higher Education -- recommitted to the Committee on
+  Higher Education in accordance with Assembly Rule 3, sec. 2 -- commit-
+  tee discharged, bill amended, ordered reprinted as amended and  recom-
+  mitted to said committee
 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN  ACT  to  amend  the education law, in relation to permitting certain
+  persons to perform the application of topical fluoride varnish
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 6608 of the education law, as  amended  by  chapter
+  Section  1.  Section  6608 of the education law, as amended by chapter
  512 of the laws of 2022, is amended to read as follows:
-  § 6608. Definition  of  practice  of  registered dental assisting. The
+  § 6608. Definition of practice of  registered  dental  assisting.  The
  practice of registered dental assisting is defined as providing support-
- ive services to a dentist in his or her performance of  dental  services
- authorized  under  this  article.  Such  support shall include providing
- patient education, taking preliminary medical histories and vital  signs
+ ive  services  to a dentist in his or her performance of dental services
+ authorized under this article.  Such  support  shall  include  providing
+ patient  education, taking preliminary medical histories and vital signs
  to be reviewed by the dentist, placing and removing rubber dams, select-
- ing  and  prefitting provisional crowns, selecting and prefitting ortho-
+ ing and prefitting provisional crowns, selecting and  prefitting  ortho-
  dontic bands, removing orthodontic arch wires and ligature ties, placing
- and removing matrix bands, taking impressions for study casts  or  diag-
- nostic  casts,  removing  periodontal  dressings,  placing  and removing
- temporary restorations, APPLICATION OF  TOPICAL  FLUORIDE  VARNISH,  and
+ and  removing  matrix bands, taking impressions for study casts or diag-
+ nostic casts,  removing  periodontal  dressings,  placing  and  removing
+ temporary  restorations,  APPLICATION  OF  TOPICAL FLUORIDE VARNISH, and
  such other dental supportive services authorized by the dentist consist-
  ent with regulations promulgated by the commissioner, provided that such
- functions  are  performed  under  the  direct  personal supervision of a
- licensed dentist in the course of the performance  of  dental  services.
- Such  services  shall  not include diagnosing and/or performing surgical
- procedures, irreversible procedures or procedures that would  alter  the
- hard  or  soft  tissue  of  the oral and maxillofacial area or any other
- procedures determined by the  department.  The  practice  of  registered
- dental  assisting may be conducted in the office of any licensed dentist
- or in any appropriately equipped school or public institution  but  must
- be  done  under  the  direct personal supervision of a licensed dentist.
+ functions are performed under  the  direct  personal  supervision  of  a
+ licensed  dentist  in  the course of the performance of dental services.
+ Such services shall not include diagnosing  and/or  performing  surgical
+ procedures,  irreversible  procedures or procedures that would alter the
+ hard or soft tissue of the oral and  maxillofacial  area  or  any  other
+ procedures  determined  by  the  department.  The practice of registered
+ dental assisting may be conducted in the office of any licensed  dentist
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11382-03-3
- A. 7402  2
+  LBD11382-04-4
+ A. 7402--A  2
  
- Direct personal supervision, for purposes of this section, means  super-
+ or  in  any appropriately equipped school or public institution but must
+ be done under the direct personal supervision  of  a  licensed  dentist.
+ Direct  personal supervision, for purposes of this section, means super-
  vision  of  dental  procedures based on instructions given by a licensed
  dentist in the course of a procedure who remains in  the  dental  office
  where  the supportive services are being performed, personally diagnoses
@@ -96,4 +98,19 @@ S T A T E  O F  N E W  Y O R K
  the  direction of a registered professional nurse or licensed physician,
  dentist or other licensed health care provider legally authorized  under
  this title and in accordance with the commissioner's regulations.
-  § 3. This act shall take effect immediately.
+  §  3.  Section  6610  of  the education law is amended by adding a new
+ subdivision 9 to read as follows:
+  9. THE APPLICATION OF TOPICAL FLUORIDE VARNISH TO A CHILD'S  TEETH  BY
+ SUCH CHILD'S PARENT OR LEGAL GUARDIAN, PROVIDED THAT SUCH APPLICATION IS
+ DONE  UNDER  THE  DIRECTION  AND  SUPERVISION OF A LICENSED PRACTITIONER
+ AUTHORIZED TO APPLY TOPICAL FLUORIDE VARNISH.  A  LICENSED  PRACTITIONER
+ ACTING  WITHIN  THEIR  SCOPE  OF PRACTICE MAY PRESCRIBE TOPICAL FLUORIDE
+ VARNISH FOR THE PURPOSES OF THIS SUBDIVISION PROVIDED THAT SUCH  PRACTI-
+ TIONER  DISPENSES  WRITTEN  SAFETY  INSTRUCTIONS  TO THE PARENT OR LEGAL
+ GUARDIAN.
+  § 4. This act shall take effect immediately;  provided,  however  that
+ section  three  of  this  act shall take effect eighteen months after it
+ shall have become a law. Effective immediately, the addition,  amendment
+ and/or repeal of any rule or regulation necessary for the implementation
+ of  this  act  on  its  effective  date  are  authorized  to be made and
+ completed on or before such date.
