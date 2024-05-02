@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the "Sgt Terry James Garigen Memorial Highway"
 
-**Bill ID:** S7679A
+**Bill ID:** S7679AA
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of state route 77 between Broadway Road and Sumner Road in 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7679
+  7679--A
  
   2023-2024 Regular Sessions
  
@@ -26,23 +26,25 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. BORRELLO -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
- 
- AN ACT to amend the highway law, in relation to designating a portion of
-  the state highway system as the "Sergeant Terry James Garigen Memorial
-  Highway"
+  printed to be committed to the Committee on Rules  --  recommitted  to
+  the Committee on Transportation in accordance with Senate Rule 6, sec.
+  8  -- committee discharged, bill amended, ordered reprinted as amended
+  and recommitted to said committee
 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN ACT to amend the highway law, in relation to designating a portion of
+  the state highway system as the  "Sgt  Terry  James  Garigen  Memorial
+  Highway"
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  §  344-P.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
- "SERGEANT TERRY JAMES GARIGEN MEMORIAL HIGHWAY". ALL THAT PORTION OF THE
+  § 344-P. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
+ "SGT  TERRY  JAMES  GARIGEN  MEMORIAL  HIGHWAY". ALL THAT PORTION OF THE
  STATE HIGHWAY SYSTEM CONSTITUTING STATE ROUTE 77 BETWEEN  BROADWAY  ROAD
  AND  SUMNER  ROAD  IN  THE  TOWN  OF DARIEN, COUNTY OF GENESEE, SHALL BE
- DESIGNATED AND KNOWN AS THE "SERGEANT TERRY JAMES GARIGEN MEMORIAL HIGH-
- WAY".
+ DESIGNATED AND KNOWN AS THE "SGT TERRY JAMES GARIGEN MEMORIAL HIGHWAY".
   § 2. The commissioner of transportation shall provide for the  instal-
  lation  and  maintenance of adequate signing of the state highway system
  as designated pursuant to section one of this  act.  However,  to  avoid
@@ -56,4 +58,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13296-01-3
+  LBD13296-03-4
