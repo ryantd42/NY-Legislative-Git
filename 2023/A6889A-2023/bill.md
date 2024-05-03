@@ -1,6 +1,6 @@
 # Relates to arbitration proceedings
 
-**Bill ID:** A6889A
+**Bill ID:** A6889AA
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Amends provisions of law governing arbitration proceedings; specifies fees and e
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6889
+  6889--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,19 @@ S T A T E  O F  N E W  Y O R K
   May 8, 2023
   ___________
  
- Introduced by M. of A. LAVINE -- read once and referred to the Committee
-  on Judiciary
+ Introduced  by  M.  of  A.  LAVINE,  WALLACE, KIM, STECK, HEVESI, SIMON,
+  ZEBROWSKI, SIMONE, DINOWITZ, BURGOS -- read once and referred  to  the
+  Committee on Judiciary -- recommitted to the Committee on Judiciary in
+  accordance  with Assembly Rule 3, sec. 2 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to amend the civil practice law and rules, in relation to arbi-
   tration
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Subdivision (a) of section 7502 of the civil practice law
  and rules is amended by adding a new paragraph (v) to read as follows:
   (V) IF THERE ARE MULTIPLE PARTIES SEEKING ARBITRATION AGAINST THE SAME
@@ -49,50 +53,52 @@ S T A T E  O F  N E W  Y O R K
  name and address of the party serving the notice, or of  an  officer  or
  agent  thereof if such party is an association or corporation, and stat-
  ing that unless the party served applies to stay the arbitration  within
- twenty  days  after  such  service he shall thereafter be precluded from
- objecting that a valid agreement was not made or has not  been  complied
- with  and  from asserting in court the bar of a limitation of time. Such
- notice or demand shall be served in the same manner as a summons  or  by
- registered  or  certified mail, return receipt requested. An application
- to stay arbitration must be made by the party served within twenty  days
- after  service  upon  him  of  the  notice  or demand, or he shall be so
- precluded.  Notice of such application shall  be  served  in  the  same
- manner  as  a summons or by registered or certified mail, return receipt
- requested.  Service of the application may  be  made  upon  the  adverse
+ twenty  days  after  such  service  [he]  SUCH PARTY shall thereafter be
+ precluded from objecting that a valid agreement was not made or has  not
+ been  complied  with and from asserting in court the bar of a limitation
+ of time. Such notice or demand shall be served in the same manner  as  a
+ summons or by registered or certified mail, return receipt requested. An
+ application  to stay arbitration must be made by the party served within
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10900-01-3
- A. 6889  2
+  LBD10900-02-4
+ A. 6889--A  2
  
- party, or upon his attorney if the attorney's name appears on the demand
- for  arbitration or the notice of intention to arbitrate. Service of the
- application by mail shall be timely if such application is posted within
- the  prescribed  period.  Any  provision  in an arbitration agreement or
- arbitration rules which waives the right to apply for a  stay  of  arbi-
- tration  OR  PRESCRIBES A MANNER OF NOTIFYING A PARTY OF AN INTENTION TO
- COMMENCE ARBITRATION THAT IS MORE BURDENSOME THAN THAT DESCRIBED IN THIS
- SECTION is hereby declared null and void.
+ twenty days after service upon [him] SUCH PARTY of the notice or demand,
+ or [he] SUCH PARTY shall be so precluded.  Notice of  such  application
+ shall  be  served  in  the  same manner as a summons or by registered or
+ certified  mail,  return receipt requested.  Service of the application
+ may be made upon the adverse party, or upon [his] SUCH PARTY'S  attorney
+ if  the  attorney's  name  appears  on the demand for arbitration or the
+ notice of intention to arbitrate. Service of  the  application  by  mail
+ shall  be  timely  if  such  application is posted within the prescribed
+ period. Any provision in an arbitration agreement or  arbitration  rules
+ which  waives the right to apply for a stay of arbitration OR PRESCRIBES
+ A MANNER OF NOTIFYING A PARTY OF AN INTENTION  TO  COMMENCE  ARBITRATION
+ THAT  IS  MORE  BURDENSOME THAN THAT DESCRIBED IN THIS SECTION is hereby
+ declared null and void.
   § 3. Subdivision (d) of section 7506 of the  civil  practice  law  and
  rules is amended to read as follows:
   (d)  Representation  by  attorney. A party has the right to be repres-
  ented by an attorney and may claim such right at any time as to any part
  of the arbitration or hearings which have not taken  place.  This  right
  may  not  be waived. If a party is represented by an attorney, papers to
- be served on the party shall be served upon his attorney. ANY  AGREEMENT
- WHICH  DISCRIMINATES  AGAINST  OR  PENALIZES  A  PARTY FOR RETAINING THE
- SERVICES OF COUNSEL IN AN ARBITRATION IS NULL AND VOID.
-  § 4. The civil practice law and rules is amended by adding  three  new
+ be served on the party shall be served upon [his] SUCH PARTY'S attorney.
+ ANY AGREEMENT WHICH DISCRIMINATES  AGAINST  OR  PENALIZES  A  PARTY  FOR
+ RETAINING THE SERVICES OF COUNSEL IN AN ARBITRATION IS NULL AND VOID.
+  §  4.  The civil practice law and rules is amended by adding three new
  sections 7513-a, 7513-b and 7517 to read as follows:
-  §  7513-A.  FEES AND EXPENSES OF ARBITRATION INITIATION. (A) (I) IN AN
- EMPLOYMENT OR CONSUMER ARBITRATION THAT REQUIRES,  EITHER  EXPRESSLY  OR
- THROUGH  APPLICATION  OF  STATE OR FEDERAL LAW OR THE RULES OF THE ARBI-
- TRATION PROVIDER, THAT THE DRAFTING PARTY SHALL  PAY  CERTAIN  FEES  AND
- COSTS BEFORE THE ARBITRATION CAN PROCEED, IF THE FEES OR COSTS TO INITI-
- ATE  AN ARBITRATION PROCEEDING ARE NOT PAID WITHIN THIRTY DAYS AFTER THE
- DUE DATE, THE DRAFTING PARTY IS IN MATERIAL BREACH  OF  THE  ARBITRATION
- AGREEMENT,  IS  IN  DEFAULT  OF THE ARBITRATION, AND WAIVES ITS RIGHT TO
- COMPEL ARBITRATION.
+  § 7513-A. FEES AND EXPENSES OF ARBITRATION INITIATION. (A) (I)  IN  AN
+ EMPLOYMENT  OR  CONSUMER  ARBITRATION,  EXCEPT  AN ARBITRATION AGREEMENT
+ INCLUDED IN  THE  TERMS  OF  A  COLLECTIVE  BARGAINING  AGREEMENT,  THAT
+ REQUIRES,  EITHER  EXPRESSLY  OR THROUGH APPLICATION OF STATE OR FEDERAL
+ LAW OR THE RULES OF THE ARBITRATION PROVIDER, THAT  THE  DRAFTING  PARTY
+ SHALL  PAY CERTAIN FEES AND COSTS BEFORE THE ARBITRATION CAN PROCEED, IF
+ THE FEES OR COSTS TO INITIATE AN ARBITRATION  PROCEEDING  ARE  NOT  PAID
+ WITHIN THIRTY DAYS AFTER THE DUE DATE, THE DRAFTING PARTY IS IN MATERIAL
+ BREACH  OF  THE ARBITRATION AGREEMENT, IS IN DEFAULT OF THE ARBITRATION,
+ AND WAIVES ITS RIGHT TO COMPEL ARBITRATION.
   (II) AFTER AN EMPLOYEE  OR  CONSUMER  MEETS  THE  FILING  REQUIREMENTS
  NECESSARY  TO  INITIATE  AN  ARBITRATION, THE ARBITRATION PROVIDER SHALL
  IMMEDIATELY PROVIDE AN INVOICE FOR ANY FEES AND  COSTS  REQUIRED  BEFORE
@@ -115,24 +121,26 @@ S T A T E  O F  N E W  Y O R K
  AND  PROCEEDS  WITH AN ACTION IN A COURT OF COMPETENT JURISDICTION UNDER
  PARAGRAPH (I) OF SUBDIVISION (B) OF THIS SECTION, THE STATUTE OF LIMITA-
  TIONS WITH REGARD TO ALL CLAIMS BROUGHT OR THAT RELATE BACK TO ANY CLAIM
+ A. 6889--A  3
+ 
  BROUGHT IN ARBITRATION SHALL BE TOLLED AS  OF  THE  DATE  OF  THE  FIRST
  FILING OF A CLAIM IN A COURT, ARBITRATION FORUM, OR OTHER DISPUTE RESOL-
  UTION FORUM.
   (D)  IF THE EMPLOYEE OR CONSUMER PROCEEDS WITH AN ACTION IN A COURT OF
  COMPETENT JURISDICTION, THE COURT SHALL IMPOSE SANCTIONS ON THE DRAFTING
  PARTY IN ACCORDANCE WITH THIS CHAPTER.
- A. 6889  3
- 
   § 7513-B. FEES AND EXPENSES OF ARBITRATION CONTINUANCE. (A) (I) IN  AN
- EMPLOYMENT  OR  CONSUMER  ARBITRATION THAT REQUIRES, EITHER EXPRESSLY OR
- THROUGH APPLICATION OF STATE OR FEDERAL LAW OR THE RULES  OF  THE  ARBI-
- TRATION  PROVIDER,  THAT  THE  DRAFTING PARTY SHALL PAY CERTAIN FEES AND
- COSTS  DURING  THE PENDENCY OF AN ARBITRATION PROCEEDING, IF THE FEES OR
- COSTS REQUIRED TO CONTINUE THE ARBITRATION PROCEEDING ARE NOT PAID WITH-
- IN THIRTY DAYS AFTER THE DUE DATE, THE DRAFTING  PARTY  IS  IN  MATERIAL
- BREACH  OF  THE ARBITRATION AGREEMENT, IS IN DEFAULT OF THE ARBITRATION,
- AND WAIVES ITS RIGHT TO COMPEL THE EMPLOYEE OR CONSUMER TO PROCEED  WITH
- THAT ARBITRATION AS A RESULT OF THE MATERIAL BREACH.
+ EMPLOYMENT  OR  CONSUMER  ARBITRATION,  EXCEPT  AN ARBITRATION AGREEMENT
+ INCLUDED IN  THE  TERMS  OF  A  COLLECTIVE  BARGAINING  AGREEMENT,  THAT
+ REQUIRES,  EITHER  EXPRESSLY  OR THROUGH APPLICATION OF STATE OR FEDERAL
+ LAW OR THE RULES OF THE ARBITRATION PROVIDER, THAT  THE  DRAFTING  PARTY
+ SHALL  PAY  CERTAIN FEES AND COSTS DURING THE PENDENCY OF AN ARBITRATION
+ PROCEEDING, IF THE FEES OR COSTS REQUIRED TO  CONTINUE  THE  ARBITRATION
+ PROCEEDING  ARE  NOT  PAID  WITHIN  THIRTY  DAYS AFTER THE DUE DATE, THE
+ DRAFTING PARTY IS IN MATERIAL BREACH OF THE ARBITRATION AGREEMENT, IS IN
+ DEFAULT OF THE ARBITRATION, AND WAIVES ITS RIGHT TO COMPEL THE  EMPLOYEE
+ OR CONSUMER TO PROCEED WITH THAT ARBITRATION AS A RESULT OF THE MATERIAL
+ BREACH.
   (II)  THE  ARBITRATION  PROVIDER SHALL PROVIDE AN INVOICE FOR ANY FEES
  AND COSTS REQUIRED FOR THE ARBITRATION PROCEEDING TO CONTINUE TO ALL  OF
  THE  PARTIES  TO  THE  ARBITRATION. THE INVOICE SHALL BE PROVIDED IN ITS
@@ -171,15 +179,15 @@ S T A T E  O F  N E W  Y O R K
  TO ANY FINDINGS ON THE MERITS IN THE UNDERLYING ARBITRATION.
   (C)  IF  THE EMPLOYEE OR CONSUMER WITHDRAWS THE CLAIM FROM ARBITRATION
  AND PROCEEDS IN A COURT OF COMPETENT JURISDICTION PURSUANT TO  PARAGRAPH
+ A. 6889--A  4
+ 
  (I)  OF  SUBDIVISION  (B)  OF  THIS SECTION, BOTH OF THE FOLLOWING SHALL
  APPLY:
   (I) THE EMPLOYEE OR CONSUMER MAY BRING A MOTION, OR A SEPARATE ACTION,
- TO RECOVER ALL ATTORNEYS' FEES AND ALL COSTS ASSOCIATED WITH  THE  ABAN-
- DONED  ARBITRATION  PROCEEDING. THE RECOVERY OF ARBITRATION FEES, INTER-
+ TO  RECOVER  ALL ATTORNEYS' FEES AND ALL COSTS ASSOCIATED WITH THE ABAN-
+ DONED ARBITRATION PROCEEDING. THE RECOVERY OF ARBITRATION  FEES,  INTER-
  EST, AND RELATED ATTORNEYS' FEES SHALL BE WITHOUT REGARD TO ANY FINDINGS
  ON THE MERITS IN THE UNDERLYING ACTION OR ARBITRATION; AND
- A. 6889  4
- 
   (II) THE COURT SHALL IMPOSE SANCTIONS ON THE DRAFTING PARTY IN ACCORD-
  ANCE WITH THIS CHAPTER.
   (D)  IF  THE EMPLOYEE OR CONSUMER CONTINUES IN ARBITRATION PURSUANT TO
@@ -189,22 +197,24 @@ S T A T E  O F  N E W  Y O R K
  TERMINATING SANCTIONS.
   §  7517.  BREACH  OF  ARBITRATION  AGREEMENT; SANCTIONS. (A) THE COURT
  SHALL IMPOSE A MONETARY SANCTION AGAINST A  DRAFTING  PARTY  THAT  MATE-
- RIALLY BREACHES AN ARBITRATION AGREEMENT  BY ORDERING THE DRAFTING PARTY
- TO  PAY  THE  REASONABLE  EXPENSES, INCLUDING ATTORNEYS' FEES AND COSTS,
- INCURRED BY THE EMPLOYEE OR CONSUMER AS A RESULT OF THE MATERIAL BREACH.
-  (B) IN ADDITION TO THE MONETARY SANCTION DESCRIBED IN SUBDIVISION  (A)
- OF  THIS  SECTION,  THE  COURT  MAY ORDER ANY OF THE FOLLOWING SANCTIONS
- AGAINST A DRAFTING PARTY THAT MATERIALLY BREACHES AN ARBITRATION  AGREE-
- MENT,  UNLESS  THE  COURT  FINDS  THAT THE PARTY SUBJECT TO THE SANCTION
- ACTED WITH SUBSTANTIAL JUSTIFICATION OR THAT  OTHER  CIRCUMSTANCES  MAKE
+ RIALLY  BREACHES  AN ARBITRATION AGREEMENT, EXCEPT AN ARBITRATION AGREE-
+ MENT INCLUDED IN THE TERMS OF  A  COLLECTIVE  BARGAINING  AGREEMENT,  BY
+ ORDERING  THE  DRAFTING  PARTY TO PAY THE REASONABLE EXPENSES, INCLUDING
+ ATTORNEYS' FEES AND COSTS, INCURRED BY THE EMPLOYEE  OR  CONSUMER  AS  A
+ RESULT OF THE MATERIAL BREACH.
+  (B)  IN ADDITION TO THE MONETARY SANCTION DESCRIBED IN SUBDIVISION (A)
+ OF THIS SECTION, THE COURT MAY ORDER  ANY  OF  THE  FOLLOWING  SANCTIONS
+ AGAINST  A DRAFTING PARTY THAT MATERIALLY BREACHES AN ARBITRATION AGREE-
+ MENT, UNLESS THE COURT FINDS THAT THE  PARTY  SUBJECT  TO  THE  SANCTION
+ ACTED  WITH  SUBSTANTIAL  JUSTIFICATION OR THAT OTHER CIRCUMSTANCES MAKE
  THE IMPOSITION OF THE SANCTION UNJUST:
-  (I)  AN  EVIDENCE  SANCTION BY AN ORDER PROHIBITING THE DRAFTING PARTY
+  (I) AN EVIDENCE SANCTION BY AN ORDER PROHIBITING  THE  DRAFTING  PARTY
  FROM CONDUCTING DISCOVERY IN THE CIVIL ACTION;
   (II) A TERMINATING SANCTION BY ONE OF THE FOLLOWING ORDERS:
-  (1) AN ORDER STRIKING OUT THE PLEADINGS OR PARTS OF THE  PLEADINGS  OF
+  (1)  AN  ORDER STRIKING OUT THE PLEADINGS OR PARTS OF THE PLEADINGS OF
  THE DRAFTING PARTY; OR
-  (2)  AN  ORDER  RENDERING  A  JUDGMENT BY DEFAULT AGAINST THE DRAFTING
+  (2) AN ORDER RENDERING A JUDGMENT  BY  DEFAULT  AGAINST  THE  DRAFTING
  PARTY; OR
-  (III) A CONTEMPT SANCTION BY AN ORDER TREATING THE DRAFTING  PARTY  AS
+  (III)  A  CONTEMPT SANCTION BY AN ORDER TREATING THE DRAFTING PARTY AS
  IN CONTEMPT OF COURT.
   § 5. This act shall take effect immediately.
