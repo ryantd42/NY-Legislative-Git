@@ -1,6 +1,6 @@
 # Relates to continuing education requirements for the profession of psychology
 
-**Bill ID:** A3828A
+**Bill ID:** A3828AA
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires coursework in the area of diversity, equity and inclusion as part of co
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3828
+  3828--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. FAHY -- read once and referred to the Committee
-  on Higher Education
- 
+  on Higher Education -- recommitted to the Committee on  Higher  Educa-
+  tion  in  accordance  with  Assembly  Rule  3,  sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the education law, in relation to  continuing  education
   requirements for the profession of psychology
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision 2 of section 7607  of  the  education  law,  as
  added by chapter 436 of the laws of 2018, is amended to read as follows:
   2.  During each triennial registration period, an applicant for regis-
@@ -54,22 +57,8 @@ S T A T E  O F  N E W  Y O R K
  conditional  registration is issued as provided for in subdivision three
  of this section. Continuing education hours taken during  one  triennium
  may not be transferred to the subsequent triennium.
-  §  2.  Subparagraph  (ii) of paragraph (b) of subdivision 3 of section
- 7607 of the education law, as added by chapter 436 of the laws of  2018,
- is amended to read as follows:
-  (ii)  "formal  courses  of learning" shall include, but not be limited
- to, collegiate level credit and non-credit courses, professional  devel-
+  § 2. This act shall take effect immediately.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04197-01-3
- A. 3828  2
- 
- opment  programs  and technical sessions offered by national, state, and
- local professional associations and other  organizations  acceptable  to
- the  department,  and  any  other  organized  educational  and technical
- programs acceptable to the department. Formal courses must be taken from
- [a]  THE  AMERICAN  PSYCHOLOGICAL ASSOCIATION, ITS DIVISIONS, ITS AFFIL-
- IATES, OR ANY sponsor approved by the department, based upon a  applica-
- tion and fee, pursuant to the regulations of the commissioner.
-  § 3. This act shall take effect immediately.
+  LBD04197-02-4
