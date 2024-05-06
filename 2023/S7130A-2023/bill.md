@@ -1,6 +1,6 @@
 # Provides an exemption for certain property from the prohibition of alcohol sales within a certain distance from a school
 
-**Bill ID:** S7130A
+**Bill ID:** S7130AA
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Provides an exemption for certain property, American Legion Post 483, from the p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7130
+  7130--A
+  Cal. No. 150
  
   2023-2024 Regular Sessions
  
@@ -27,7 +28,13 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  COMRIE -- read twice and ordered printed, and when
   printed to be committed to the Committee on Commerce, Economic  Devel-
-  opment and Small Business
+  opment and Small Business -- recommitted to the Committee on Commerce,
+  Economic Development and Small Business in accordance with Senate Rule
+  6,  sec. 8 -- reported favorably from said committee, ordered to first
+  and second report, ordered to a third reading, passed  by  Senate  and
+  delivered  to  the  Assembly, recalled, vote reconsidered, restored to
+  third reading, amended and ordered reprinted, retaining its  place  in
+  the order of third reading
  
  AN  ACT  to  amend the alcoholic beverage control law, in relation to an
   exemption for American Legion Post 483, Queens, NY, from the  prohibi-
@@ -37,9 +44,9 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Subdivision 7 of  section  64  of  the  alcoholic  beverage
- control  law  is  amended  by  adding  a new paragraph (e-15) to read as
+ control  law  is  amended  by  adding  a new paragraph (e-16) to read as
  follows:
-  (E-15) NOTWITHSTANDING THE PROVISIONS OF PARAGRAPH (A) OF THIS  SUBDI-
+  (E-16) NOTWITHSTANDING THE PROVISIONS OF PARAGRAPH (A) OF THIS  SUBDI-
  VISION,  THE  AUTHORITY  MAY  ISSUE  A  RETAIL  LICENSE  FOR ON-PREMISES
  CONSUMPTION FOR A PREMISES WHICH SHALL BE WITHIN TWO HUNDRED FEET  OF  A
  BUILDING  OCCUPIED  EXCLUSIVELY  AS A SCHOOL, CHURCH, SYNAGOGUE OR OTHER
@@ -53,18 +60,18 @@ S T A T E  O F  N E W  Y O R K
  HUNDRED FOURTEEN (514), FIVE HUNDRED FIFTEEN  (515),  AND  FIVE  HUNDRED
  SIXTEEN  (516),  IN BLOCK FIFTEEN (15) ON A CERTAIN MAP ENTITLED "MAP OF
  ROSEDALE TERRACE," SURVEYED DECEMBER 1905, AND MAY 1906, BY EVANS BRONX,
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11526-03-4
+ S. 7130--A  2
+ 
  JAMAICA, NY, AND FILED IN THE OFFICE OF THE  CLERK  OF  SAID  COUNTY  OF
  QUEENS,  ON THE 18TH DAY OF FEBRUARY, 1907, AND KNOWN AS MAP NUMBER 418,
  NO. 2. SAID PREMISES BEING SITUATED ON THE SOUTHEAST  CORNER  OF  BROOK-
  VILLE BOULEVARD, AND STRATFORD AVENUE, ROSEDALE, QUEENS COUNTY, NEW YORK
  BEING  A  PLOT WITH A FRONTAGE ON BROOKVILLE BOULEVARD, OF APPROXIMATELY
  SIXTY (60) FEET AND A FRONTAGE ON  STRATFORD  AVENUE,  OF  APPROXIMATELY
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD11526-01-3
- S. 7130  2
- 
  SEVENTY-FOUR  (74)  FEET, IRREGULAR. TOGETHER WITH THE APPURTENANCES AND
  ALL THE ESTATE AND RIGHT OF THE LENGTH OF THAT FIRST  PART,  IN  AND  TO
  SAID PREMISES.
