@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the "NYPD Detective Brian P. Simonsen Memorial Bridge"
 
-**Bill ID:** A7123A
+**Bill ID:** A7123AA
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Designates a portion of the state highway system as the "NYPD Detective Brian P.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7123
+  7123--A
  
   2023-2024 Regular Sessions
  
@@ -25,9 +25,12 @@ S T A T E  O F  N E W  Y O R K
   May 11, 2023
   ___________
  
- Introduced  by  M.  of  A. J. A. GIGLIO -- read once and referred to the
-  Committee on Transportation
- 
+ Introduced  by  M.  of  A. J. A. GIGLIO, THIELE, GANDOLFO, DURSO -- read
+  once and referred to the Committee on Transportation -- recommitted to
+  the Committee on Transportation in accordance with  Assembly  Rule  3,
+  sec.  2  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the  "NYPD  Detective  Brian  P.  Simonsen
   Memorial Bridge"
@@ -35,9 +38,9 @@ S T A T E  O F  N E W  Y O R K
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  § 344-O. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
+  § 344-P. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
  "NYPD  DETECTIVE BRIAN P. SIMONSEN MEMORIAL BRIDGE". ALL THAT PORTION OF
  THE STATE HIGHWAY SYSTEM CONSTITUTING THE HALSEY MANOR ROAD OVERPASS  AT
  THE LONG ISLAND EXPRESSWAY IN THE TOWN OF BROOKHAVEN, COUNTY OF SUFFOLK,
@@ -53,7 +56,6 @@ S T A T E  O F  N E W  Y O R K
   § 3. This act shall take effect immediately.
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11162-01-3
+  LBD11162-02-4
