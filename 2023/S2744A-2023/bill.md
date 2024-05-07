@@ -1,6 +1,6 @@
 # Increases the amount of allowance that trial and grand jurors are entitled to in each court of the unified court system
 
-**Bill ID:** S2744A
+**Bill ID:** S2744AA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Increases the amount of allowance that trial and grand jurors are entitled to in
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2744
+  2744--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Judiciary
- 
+  when printed to be committed to the Committee on Judiciary  --  recom-
+  mitted to the Committee on Judiciary in accordance with Senate Rule 6,
+  sec.  8  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
+
  AN ACT to amend the judiciary law, in relation to increasing the  amount
   of allowance that trial and grand jurors are entitled to in each court
   of the unified court system
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,15 +59,15 @@ S T A T E  O F  N E W  Y O R K
  court administration for that purpose.
   §  2.  Section 519 of the judiciary law, as added by chapter 85 of the
  laws of 1995, is amended to read as follows:
-  § 519. Right of juror to be absent from employment. Any person who  is
- summoned  to  serve  as a juror under the provisions of this article and
- who notifies his or her employer to that effect prior to  the  commence-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01541-01-3
- S. 2744  2
+  LBD01541-05-4
+ S. 2744--A  2
  
+  § 519. Right of juror to be absent from employment. Any person who  is
+ summoned  to  serve  as a juror under the provisions of this article and
+ who notifies his or her employer to that effect prior to  the  commence-
  ment  of a term of service shall not, on account of absence from employ-
  ment by reason of such jury service, be subject to discharge or penalty.
  An employer may, however, withhold wages of any such employee serving as
@@ -75,4 +78,5 @@ S T A T E  O F  N E W  Y O R K
  section shall not be deemed a penalty. Violation of this  section  shall
  constitute  a  criminal contempt of court punishable pursuant to section
  seven hundred fifty of this chapter.
-  § 3. This act shall take effect December 31, 2023.
+  § 3. This act shall take effect on the first of April next  succeeding
+ the date on which it shall have become a law.
