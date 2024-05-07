@@ -1,6 +1,6 @@
 # Increases the number of county court judges in Schenectady county
 
-**Bill ID:** S6996A
+**Bill ID:** S6996AA
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Increases the number of county court judges in Schenectady county from one judge
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6996
+  6996--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Judiciary
- 
+  printed to be committed to the Committee on Judiciary  --  recommitted
+  to the Committee on Judiciary in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
+
  AN ACT to amend the judiciary law, in relation to increasing the  number
   of county court judges in certain jurisdictions
  
@@ -40,9 +43,8 @@ S T A T E  O F  N E W  Y O R K
   42. Schenectady, [one] TWO;
   § 2. This act shall take effect immediately; provided,  however,  that
  the  additional county court judge shall first be elected at the general
- election to be held on November 7, 2023 and shall take office January 1,
- 2024.
- 
+ election to be held on November 5, 2024 and shall take office January 1,
+ 2025.
  
  
  
@@ -50,4 +52,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10828-01-3
+  LBD10828-02-4
