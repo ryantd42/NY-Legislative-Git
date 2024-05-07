@@ -1,6 +1,6 @@
 # Relates to home care services and to rates of reimbursement under medicaid for home care services
 
-**Bill ID:** S2931BA
+**Bill ID:** S2931BB
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Amends provisions to improve accessibility of home care services, develop and ma
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2931--A
+  2931--B
  
   2023-2024 Regular Sessions
  
@@ -30,7 +30,9 @@ S T A T E  O F  N E W  Y O R K
   the  Committee on Health -- reported favorably from said committee and
   committed to the Committee on Finance --  committee  discharged,  bill
   amended,  ordered reprinted as amended and recommitted to said commit-
-  tee
+  tee -- recommitted to the  Committee  on  Health  in  accordance  with
+  Senate  Rule  6, sec. 8 -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the public health law and the social  services  law,  in
   relation to enacting the New York home care first act
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  PROGRAMS  render  a  coordinated  array of services to patients in their
  homes[,] AND COMMUNITIES. THESE HOME CARE SERVICES AGENCIES PARTNER WITH
  HEALTH CARE PROFESSIONALS, HOSPITALS, HEALTH PLANS, COUNTY PUBLIC HEALTH
- DEPARTMENTS AND MENTAL HEALTH PROVIDERS IN  THE  PROVISION  OF  PRIMARY,
- PREVENTIVE,  PUBLIC  HEALTH,  PRE-ACUTE,  POST-ACUTE AND LONG-TERM CARE,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05278-03-3
- S. 2931--A  2
+  LBD05278-04-4
+ S. 2931--B  2
  
+ DEPARTMENTS AND MENTAL HEALTH PROVIDERS IN  THE  PROVISION  OF  PRIMARY,
+ PREVENTIVE,  PUBLIC  HEALTH,  PRE-ACUTE,  POST-ACUTE AND LONG-TERM CARE,
  thereby avoiding prolonged institutionalization, concomitant high  costs
  and associated adverse social and medical implications.
   The  legislature  intends  that  there  be  a public commitment to the
@@ -118,131 +120,131 @@ S T A T E  O F  N E W  Y O R K
   2. IN IMPLEMENTING THIS SECTION, THE COMMISSIONER SHALL SEEK THE INPUT
  OF REPRESENTATIVES OF HOME CARE PROVIDERS, HOSPITALS AND NURSING  HOMES,
  HEALTH  CARE  PROFESSIONALS,  HEALTH  PLANS  AND INSURERS, CONSUMERS AND
+ S. 2931--B  3
+
  THEIR FAMILY MEMBERS AND CAREGIVERS, AND HOME  CARE  WORKERS  (INCLUDING
  LABOR ORGANIZATIONS).
- S. 2931--A  3
-
   §  4.  Section 365-a of the social services law is amended by adding a
  new subdivision 11 to read as follows:
-  11.  HOME  CARE SERVICES. IF AN INDIVIDUAL ELIGIBLE FOR SERVICES UNDER
- THIS TITLE IS DETERMINED UNDER THIS ARTICLE, BY A  HEALTH  CARE  PROFES-
+  11. HOME CARE SERVICES. IF AN INDIVIDUAL ELIGIBLE FOR  SERVICES  UNDER
+ THIS  TITLE  IS  DETERMINED UNDER THIS ARTICLE, BY A HEALTH CARE PROFES-
  SIONAL, TO BE MEDICALLY ELIGIBLE FOR ADMISSION TO A GENERAL HOSPITAL FOR
- SERVICES  OTHER  THAN ACUTE OR EMERGENCY SERVICES, OR TO A NURSING HOME,
- OR THE INDIVIDUAL IS BEING CARED FOR IN A GENERAL  HOSPITAL  OR  NURSING
- HOME  AND  DESIRES TO RECEIVE CARE AT HOME, AND HOME CARE SERVICES WOULD
- BE REASONABLY APPROPRIATE FOR THE INDIVIDUAL, THE  INDIVIDUAL  SHALL  BE
+ SERVICES OTHER THAN ACUTE OR EMERGENCY SERVICES, OR TO A  NURSING  HOME,
+ OR  THE  INDIVIDUAL  IS BEING CARED FOR IN A GENERAL HOSPITAL OR NURSING
+ HOME AND DESIRES TO RECEIVE CARE AT HOME, AND HOME CARE  SERVICES  WOULD
+ BE  REASONABLY  APPROPRIATE  FOR THE INDIVIDUAL, THE INDIVIDUAL SHALL BE
  INFORMED ORALLY AND IN WRITING OF THE AVAILABILITY OF HOME CARE SERVICES
- AVAILABLE  IN  THE  PERSON'S  COUNTY  OF  RESIDENCE.  IF  THE INDIVIDUAL
- CONSENTS, AN APPROPRIATE HEALTH CARE PROFESSIONAL MAY REFER  THE  PERSON
- FOR  A COMPREHENSIVE ASSESSMENT FOR HOME CARE SERVICES UNDER THIS TITLE.
- WHERE THE INDIVIDUAL LACKS CAPACITY TO MAKE HEALTH CARE  DECISIONS,  THE
+ AVAILABLE IN  THE  PERSON'S  COUNTY  OF  RESIDENCE.  IF  THE  INDIVIDUAL
+ CONSENTS,  AN  APPROPRIATE HEALTH CARE PROFESSIONAL MAY REFER THE PERSON
+ FOR A COMPREHENSIVE ASSESSMENT FOR HOME CARE SERVICES UNDER THIS  TITLE.
+ WHERE  THE  INDIVIDUAL LACKS CAPACITY TO MAKE HEALTH CARE DECISIONS, THE
  NOTICE SHALL BE MADE TO, AND CONSENT MAY BE MADE BY, A PERSON AUTHORIZED
  TO MAKE HEALTH CARE DECISIONS FOR THE INDIVIDUAL.
-  §  5.  Subdivision  3 and paragraphs (a) and (b) of subdivision 3-c of
+  § 5. Subdivision 3 and paragraphs (a) and (b) of  subdivision  3-c  of
  section 3614 of the public health law, subdivision 3 as amended by chap-
- ter 622 of the laws of 1988, paragraphs (a) and (b) of  subdivision  3-c
- as  added  by  section 63-b of part C of chapter 58 of the laws of 2007,
- are amended  and three new subdivisions 1-a, 9-a and  15  are  added  to
+ ter  622  of the laws of 1988, paragraphs (a) and (b) of subdivision 3-c
+ as added by section 63-b of part C of chapter 58 of the  laws  of  2007,
+ are  amended  and  three new subdivisions 1-a, 9-a and 15 are added to
  read as follows:
-  1-A.  RATES  FOR  HOME CARE SERVICES AGENCIES AND HOME CARE SERVICES
- UNDER THIS SECTION SHALL BE REASONABLE AND  REASONABLY  RELATED  TO  THE
- COST  OF EFFICIENTLY PROVIDING THE SERVICES AND ASSURING AN ADEQUATE AND
- ACCESSIBLE SUPPLY OF  THE  SERVICES  (INCLUDING  WORKFORCE  RECRUITMENT,
- TRAINING,  COMPENSATION, RETENTION AND SUFFICIENCY); TAKING INTO CONSID-
+  1-A.  RATES FOR HOME CARE SERVICES AGENCIES  AND  HOME  CARE  SERVICES
+ UNDER  THIS  SECTION  SHALL  BE REASONABLE AND REASONABLY RELATED TO THE
+ COST OF EFFICIENTLY PROVIDING THE SERVICES AND ASSURING AN ADEQUATE  AND
+ ACCESSIBLE  SUPPLY  OF  THE  SERVICES  (INCLUDING WORKFORCE RECRUITMENT,
+ TRAINING, COMPENSATION, RETENTION AND SUFFICIENCY); TAKING INTO  CONSID-
  ERATION THE ELEMENTS OF COST, GEOGRAPHICAL DIFFERENTIALS IN THE ELEMENTS
- OF COST CONSIDERED, ECONOMIC FACTORS IN THE AREA IN WHICH  THE  SERVICES
+ OF  COST  CONSIDERED, ECONOMIC FACTORS IN THE AREA IN WHICH THE SERVICES
  ARE TO BE DELIVERED.
-  3.  Prior  to the approval of [such] THE rates, the commissioner shall
- determine and certify to the state  director  of  the  budget  that  the
- proposed  rate  schedules  for payments for certified home health agency
- services or services provided by long term home health care programs  or
- AIDS  home  care  programs  [are  reasonably related to the costs of the
+  3. Prior to the approval of [such] THE rates, the  commissioner  shall
+ determine  and  certify  to  the  state  director of the budget that the
+ proposed rate schedules for payments for certified  home  health  agency
+ services  or services provided by long term home health care programs or
+ AIDS home care programs [are reasonably related  to  the  costs  of  the
  efficient production of such services. In making such certification, the
  commissioner  shall  take  into  consideration  the  elements  of  cost,
- geographical  differentials in the elements of cost considered, economic
- factors in the area in which the certified home health agency,  provider
+ geographical differentials in the elements of cost considered,  economic
+ factors  in the area in which the certified home health agency, provider
  of a long term home health care program or provider of an AIDS home care
- program  is  located, costs of certified home health agencies, providers
- of long term home health care programs or providers of  AIDS  home  care
- programs  of  comparable  size,  and  the need for incentives to improve
+ program is located, costs of certified home health  agencies,  providers
+ of  long  term  home health care programs or providers of AIDS home care
+ programs of comparable size, and the  need  for  incentives  to  improve
  services and institute economies] MEET THE REQUIREMENTS OF THIS SECTION.
-  (a) [Demonstration rates] RATES of payment or  fees  shall  be  estab-
- lished  IN COMPLIANCE WITH THIS SECTION for telehealth services provided
- by a certified home health agency, a long term home health care  program
+  (a)  [Demonstration  rates]  RATES  of payment or fees shall be estab-
+ lished IN COMPLIANCE WITH THIS SECTION for telehealth services  provided
+ by  a certified home health agency, a long term home health care program
  or AIDS home care program, or for telehealth services by a licensed home
- care  services  agency under contract with such an agency or program, in
+ care services agency under contract with such an agency or  program,  in
  order to ensure the availability of technology-based patient monitoring,
  communication  and  health  management.  Reimbursement  for  telehealth
- services  provided  [pursuant  to]  UNDER this section shall be provided
- [only in connection with Federal Food and  Drug  Administration-approved
- and  interoperable  devices,  and  incorporated as part of the patient's
+ services provided [pursuant to] UNDER this  section  shall  be  provided
+ [only  in  connection with Federal Food and Drug Administration-approved
+ and interoperable devices, and incorporated as  part  of  the  patient's
+ S. 2931--B  4
+
  plan of care] FOR TELEHEALTH SERVICES DESCRIBED IN THIS SECTION, AS WELL
- AS TELEHEALTH AS DEFINED IN ARTICLE TWENTY-NINE-G OF THIS  CHAPTER.  The
- S. 2931--A  4
- 
- commissioner  shall  seek federal financial participation with regard to
+ AS  TELEHEALTH  AS DEFINED IN ARTICLE TWENTY-NINE-G OF THIS CHAPTER. The
+ commissioner shall seek federal financial participation with  regard  to
  this [demonstration] initiative. SUCH REIMBURSEMENT SHALL BE PROVIDED AS
- EITHER A SEPARATE RATE FROM, OR AS A SPECIFIED PAYMENT UNDER, THE  METH-
+ EITHER  A SEPARATE RATE FROM, OR AS A SPECIFIED PAYMENT UNDER, THE METH-
  ODOLOGY UNDER SUBDIVISION THIRTEEN OF THIS SECTION.
-  (b)  The  purposes  of  [such]  THE services shall be to assist in the
- effective monitoring and management of  patients  whose  medical,  func-
- tional  and/or  environmental needs can be appropriately and cost-effec-
- tively met at home through the application of  telehealth  intervention.
+  (b) The purposes of [such] THE services shall  be  to  assist  in  the
+ effective  monitoring  and  management  of patients whose medical, func-
+ tional and/or environmental needs can be appropriately  and  cost-effec-
+ tively  met  at home through the application of telehealth intervention.
  Reimbursement provided [pursuant to] UNDER this subdivision shall be for
- services  to  patients with conditions or clinical circumstances associ-
- ated with the need  for  frequent  monitoring,  [and/or]  the  need  for
- frequent  physician, skilled nursing or acute care services, [and] where
- the provision of telehealth services can appropriately reduce  the  need
- for  on-site  or  in-office  visits  or acute or long term care facility
- admissions, OR WHERE THE TELEHEALTH SERVICES APPROPRIATELY ALLOW  FOR  A
- HOME  CARE  SERVICE  BY  MEANS  OF  TELEHEALTH  TECHNOLOGY INSTEAD OF AN
- IN-PERSON VISIT BY THE HOME CARE SERVICES AGENCY. [Such] THE  conditions
+ services to patients with conditions or clinical  circumstances  associ-
+ ated  with  the  need  for  frequent  monitoring,  [and/or] the need for
+ frequent physician, skilled nursing or acute care services, [and]  where
+ the  provision  of telehealth services can appropriately reduce the need
+ for on-site or in-office visits or acute  or  long  term  care  facility
+ admissions,  OR  WHERE THE TELEHEALTH SERVICES APPROPRIATELY ALLOW FOR A
+ HOME CARE SERVICE BY  MEANS  OF  TELEHEALTH  TECHNOLOGY  INSTEAD  OF  AN
+ IN-PERSON  VISIT BY THE HOME CARE SERVICES AGENCY. [Such] THE conditions
  and clinical circumstances shall include, but not be limited to, conges-
- tive  heart  failure,  diabetes,  chronic pulmonary obstructive disease,
- wound care, polypharmacy, mental or behavioral problems  limiting  self-
- management,  and  technology-dependent  care  such as continuous oxygen,
+ tive heart failure, diabetes,  chronic  pulmonary  obstructive  disease,
+ wound  care,  polypharmacy, mental or behavioral problems limiting self-
+ management, and technology-dependent care  such  as  continuous  oxygen,
  ventilator care, total parenteral nutrition or enteral feeding.
-  9-A. (A) NOTWITHSTANDING ANY INCONSISTENT PROVISION OF  THIS  SECTION,
- EFFECTIVE  FOR ANNUAL PERIODS BEGINNING JULY FIRST, TWO THOUSAND TWENTY-
- FOUR, THE COMMISSIONER SHALL, SUBJECT TO  THE  AVAILABILITY  OF  FEDERAL
- FINANCIAL  PARTICIPATION  AND UPON APPROVAL OF THE STATE DIRECTOR OF THE
+  9-A.  (A)  NOTWITHSTANDING ANY INCONSISTENT PROVISION OF THIS SECTION,
+ EFFECTIVE FOR ANNUAL PERIODS BEGINNING JULY FIRST, TWO THOUSAND  TWENTY-
+ FIVE,  THE  COMMISSIONER  SHALL,  SUBJECT TO THE AVAILABILITY OF FEDERAL
+ FINANCIAL PARTICIPATION AND UPON APPROVAL OF THE STATE DIRECTOR  OF  THE
  BUDGET, FURTHER ADJUST MEDICAL ASSISTANCE RATES OF PAYMENT FOR HOME CARE
- SERVICES AGENCIES AND HOME CARE SERVICES, INCLUDING HOME  CARE  SERVICES
- PROVIDED  BY ENTITIES QUALIFYING UNDER SUBDIVISION NINE OF THIS SECTION,
- TARGETED FOR INCREASED  SALARY  AND  BENEFITS  FOR  HOME  HEALTH  AIDES,
- PERSONAL  CARE  AIDES AND CONSUMER DIRECTED PERSONAL ASSISTANTS, AS WELL
- AS FOR RECRUITMENT, TRAINING AND RETENTION OF DIRECT  CARE  WORKERS  FOR
+ SERVICES  AGENCIES  AND HOME CARE SERVICES, INCLUDING HOME CARE SERVICES
+ PROVIDED BY ENTITIES QUALIFYING UNDER SUBDIVISION NINE OF THIS  SECTION,
+ TARGETED  FOR  INCREASED  SALARY  AND  BENEFITS  FOR  HOME HEALTH AIDES,
+ PERSONAL CARE AIDES AND CONSUMER DIRECTED PERSONAL ASSISTANTS,  AS  WELL
+ AS  FOR  RECRUITMENT,  TRAINING AND RETENTION OF DIRECT CARE WORKERS FOR
  SERVICES IN SHORTAGE AREAS AND BY SHORTAGE DISCIPLINES WHICH MAY INCLUDE
- NURSES,  THERAPISTS, SOCIAL WORKERS, HOME HEALTH AIDES AND PERSONAL CARE
- AIDES. THE COMMISSIONER SHALL BE FURTHER AUTHORIZED,  UPON  APPROVAL  OF
- THE  STATE DIRECTOR OF THE BUDGET, TO UTILIZE STATE FUNDS, AS AVAILABLE,
- INCLUDING FEDERAL COVID-19  RELIEF  FUNDS  ALLOCATED  TO  NEW  YORK,  TO
- DISTRIBUTE  AS DIRECT FUNDING TO HOME CARE SERVICE PROVIDER ENTITIES FOR
- THESE PURPOSES AND PERSONNEL FOR SERVICES TO MEDICAL ASSISTANCE  RECIPI-
+ NURSES, THERAPISTS, SOCIAL WORKERS, HOME HEALTH AIDES AND PERSONAL  CARE
+ AIDES.  THE  COMMISSIONER  SHALL BE FURTHER AUTHORIZED, UPON APPROVAL OF
+ THE STATE DIRECTOR OF THE BUDGET, TO UTILIZE STATE FUNDS, AS  AVAILABLE,
+ INCLUDING  FEDERAL  COVID-19  RELIEF  FUNDS  ALLOCATED  TO  NEW YORK, TO
+ DISTRIBUTE AS DIRECT FUNDING TO HOME CARE SERVICE PROVIDER ENTITIES  FOR
+ THESE  PURPOSES AND PERSONNEL FOR SERVICES TO MEDICAL ASSISTANCE RECIPI-
  ENTS.
-  (B)  RATE  ADJUSTMENTS AND DIRECT PAYMENTS MADE UNDER THIS SUBDIVISION
- MAY ALSO BE PROVIDED  TO  PILOT  TEST  THE  IMPACT  ON  RECRUITMENT  AND
- RETENTION  OF ALLOWING FUNDS TO BE USED FOR CRITICAL SUPPORTS AND INCEN-
- TIVES FOR DIRECT CARE PERSONNEL,  INCLUDING  TRANSPORTATION,  EDUCATION,
- TRAINING,  CHILD  DAY  CARE,  CAREER  LADDER,  PEER  SUPPORT,  AND OTHER
+  (B) RATE ADJUSTMENTS AND DIRECT PAYMENTS MADE UNDER  THIS  SUBDIVISION
+ MAY  ALSO  BE  PROVIDED  TO  PILOT  TEST  THE  IMPACT ON RECRUITMENT AND
+ RETENTION OF ALLOWING FUNDS TO BE USED FOR CRITICAL SUPPORTS AND  INCEN-
+ TIVES  FOR  DIRECT  CARE PERSONNEL, INCLUDING TRANSPORTATION, EDUCATION,
+ TRAINING, CHILD  DAY  CARE,  CAREER  LADDER,  PEER  SUPPORT,  AND  OTHER
  SUPPORTS WHICH THE COMMISSIONER MAY DETERMINE.
-  (C) ON OR BEFORE OCTOBER FIRST, TWO THOUSAND TWENTY-FIVE, THE  COMMIS-
+  (C)  ON  OR BEFORE OCTOBER FIRST, TWO THOUSAND TWENTY-SIX, THE COMMIS-
  SIONER SHALL REPORT TO THE GOVERNOR AND LEGISLATURE ON THE EFFECTIVENESS
- OF  THIS  SECTION  IN RECRUITMENT AND RETENTION OF DIRECT CARE HOME CARE
- PERSONNEL, AND IN ADDRESSING COMMUNITY NEED, AND SHALL MAKE  RECOMMENDA-
- TIONS  FOR  THE CONTINUATION OR MODIFICATION OF THE PROGRAM. THE COMMIS-
- SIONER SHALL SEEK THE INPUT OF REPRESENTATIVES OF THE PROVIDERS,  PLANS,
+ OF THIS SECTION IN RECRUITMENT AND RETENTION OF DIRECT  CARE  HOME  CARE
+ PERSONNEL,  AND IN ADDRESSING COMMUNITY NEED, AND SHALL MAKE RECOMMENDA-
+ TIONS FOR THE CONTINUATION OR MODIFICATION OF THE PROGRAM.  THE  COMMIS-
+ SIONER  SHALL SEEK THE INPUT OF REPRESENTATIVES OF THE PROVIDERS, PLANS,
  CONSUMERS AND WORKERS IN EXAMINING AND REPORTING ON THE PROGRAM.
-  15. SUBJECT TO THE AVAILABILITY OF FEDERAL FINANCIAL PARTICIPATION AND
- APPROVAL  OF  THE  STATE  DIRECTOR OF THE BUDGET, FOR HOME CARE SERVICES
- PROVIDED ON AND AFTER JULY FIRST, TWO THOUSAND TWENTY-FOUR, THE  COMMIS-
- S. 2931--A  5
+ S. 2931--B  5
  
- SIONER  SHALL  ADJUST  MEDICAID  RATES  OF PAYMENT FOR HOME CARE SERVICE
- AGENCIES TO ADDRESS INCREASES IN REIMBURSEMENT AS  MAY  BE  REQUIRED  BY
- IMPLEMENTATION  OF  AMENDMENTS TO THIS ARTICLE AND SUBDIVISION ELEVEN OF
+  15. SUBJECT TO THE AVAILABILITY OF FEDERAL FINANCIAL PARTICIPATION AND
+ APPROVAL OF THE STATE DIRECTOR OF THE BUDGET,  FOR  HOME  CARE  SERVICES
+ PROVIDED  ON AND AFTER JULY FIRST, TWO THOUSAND TWENTY-FIVE, THE COMMIS-
+ SIONER SHALL ADJUST MEDICAID RATES OF  PAYMENT  FOR  HOME  CARE  SERVICE
+ AGENCIES  TO  ADDRESS  INCREASES  IN REIMBURSEMENT AS MAY BE REQUIRED BY
+ IMPLEMENTATION OF AMENDMENTS TO THIS ARTICLE AND SUBDIVISION  ELEVEN  OF
  SECTION  THREE  HUNDRED  SIXTY-FIVE-A OF THE SOCIAL SERVICES LAW MADE BY
- THE CHAPTER OF THE LAWS OF TWO THOUSAND  TWENTY-THREE  THAT  ADDED  THIS
+ THE CHAPTER OF THE LAWS OF TWO  THOUSAND  TWENTY-FOUR  THAT  ADDED  THIS
  SUBDIVISION.
   §  6.  Subdivision  8  of  section 4403-f of the public health law, as
  amended by section 21 of part B of chapter 59 of the laws  of  2016,  is
@@ -269,12 +271,12 @@ S T A T E  O F  N E W  Y O R K
  and regulations, state and federal, including [regulations as  to],  BUT
  NOT  LIMITED  TO, THOSE RELATING TO WAGES, LABOR AND actuarial soundness
  [for medicaid managed care]. FOR PREMIUMS EFFECTIVE ON AND  AFTER  APRIL
- FIRST, TWO THOUSAND TWENTY-FOUR, THE COMMISSIONER SHALL FURTHER CONSIDER
+ FIRST, TWO THOUSAND TWENTY-FIVE, THE COMMISSIONER SHALL FURTHER CONSIDER
  INCREASES  TO  PREMIUMS  TO  ADDRESS  COST AND REIMBURSEMENT ADJUSTMENTS
  REQUIRED BY THE DEPARTMENT'S IMPLEMENTATION OF THE AMENDMENTS TO ARTICLE
  THIRTY-SIX OF THIS CHAPTER AND SECTION THREE HUNDRED SIXTY-FIVE-A OF THE
  SOCIAL SERVICES LAW MADE BY THE CHAPTER OF  THE  LAWS  OF  TWO  THOUSAND
- TWENTY-THREE THAT AMENDED THIS SUBDIVISION.
+ TWENTY-FOUR THAT AMENDED THIS SUBDIVISION.
   §  7.  The  superintendent of financial services, in consultation with
  the commissioner of health, and representatives of state-licensed health
  insurers, home care service agencies  and  consumers  (including  family
@@ -282,7 +284,7 @@ S T A T E  O F  N E W  Y O R K
  service workers, and respective statewide associations or organizations,
  shall examine the terms of coverage for home care services as  specified
  in articles 32 and 43 of the insurance law and, on or before December 1,
- 2024, report to the legislature and governor on the following:
+ 2025, report to the legislature and governor on the following:
   a. The extent to which these coverage terms, including coverage exclu-
  sions  as  well as riders that permit the purchase of expanded coverage,
  are aligned with state of the art medical and health system practice for
@@ -291,11 +293,11 @@ S T A T E  O F  N E W  Y O R K
  service coverage, including expanded coverage, may be cost-beneficial to
  recipients,  to  the  health  care  system, and state medical assistance
  program specifically; and
+ S. 2931--B  6
+ 
   c. Recommendations for modifications of articles  32  and  43  of  the
  insurance  law,  and  such  other laws, including the public health law,
  workers' compensation law, social services law, mental hygiene  law  and
- S. 2931--A  6
- 
  elder  law, as would align the terms of home care coverage with state of
  the art medical and health system practices.
   §  8.  This act shall take effect immediately; provided, however, that
