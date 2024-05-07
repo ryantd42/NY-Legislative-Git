@@ -1,6 +1,6 @@
 # Enables safe access to public roads for all users by utilizing complete street design principles
 
-**Bill ID:** A1280A
+**Bill ID:** A1280AA
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enables safe access to public roads for all users by utilizing complete street d
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1280
+  1280--A
  
   2023-2024 Regular Sessions
  
@@ -27,29 +27,47 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A.  RIVERA,  BURKE,  BURGOS,  CARROLL,  CRUZ,
   DE LOS SANTOS, DINOWITZ, EPSTEIN, FAHY, GONZALEZ-ROJAS, McMAHON, OTIS,
-  RAJKUMAR, FORREST, SIMON -- read once and referred to the Committee on
-  Transportation
+  RAJKUMAR, FORREST, SIMON, ARDILA, BURDICK, CUNNINGHAM, MAMDANI,  HEVE-
+  SI,  KELLES, SHIMSKY, SIMONE, McDONALD, CLARK, SHRESTHA, THIELE, LUNS-
+  FORD, WALLACE, COLTON, L. ROSENTHAL, RAGA, SEPTIMO,  JACOBSON,  STERN,
+  STECK,  ANDERSON,  KIM,  GLICK,  GUNTHER,  SANTABARBARA,  BARRETT,
+  SEAWRIGHT, RA, ZINERMAN, WEPRIN, SOLAGES, HUNTER, CONRAD, REYES, WOER-
+  NER, TAYLOR,  SAYEGH,  EACHUS,  LAVINE,  PAULIN,  BENEDETTO,  PRETLOW,
+  NOVAKHOV,  K. BROWN,  SLATER,  SILLITTI,  TAPIA, JONES, STIRPE, BORES,
+  MEEKS, LUPARDO, ZACCARO, LEE, AUBRY, BRONSON, DAVILA, DAVILA, JACKSON,
+  LEVENBERG, WILLIAMS,  BENDETT,  ALVAREZ,  DARLING  --  read  once  and
+  referred  to  the  Committee  on  Transportation -- recommitted to the
+  Committee on Transportation in accordance with Assembly Rule 3, sec. 2
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
- AN ACT to amend the highway law, in relation to enabling safe access  to
+ AN  ACT to amend the highway law, in relation to enabling safe access to
   public roads for all users by utilizing complete street design princi-
   ples
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Subdivision (a) of section 331 of the highway law, as added
  by chapter 398 of the laws of 2011, is amended to read as follows:
-  (a) For all state, county and local transportation projects  that  are
- undertaken  by  the department or receive both federal and state funding
- and are subject to department of transportation oversight,  the  depart-
- ment  or  agency with jurisdiction over such projects shall consider the
- convenient access and mobility on the road network by all users  of  all
+  (a)  For  all state, county and local transportation projects that are
+ undertaken by the department or receive both federal and  state  funding
+ and  are  subject to department of transportation oversight, the depart-
+ ment or agency with jurisdiction over such projects shall  consider  the
+ convenient  access  and mobility on the road network by all users of all
  ages, including motorists, pedestrians, bicyclists, and public transpor-
- tation  users  through the use of complete street design features in the
- planning, design, construction, reconstruction and rehabilitation,  [but
- not  including  resurfacing,  maintenance, or pavement recycling of such
- projects]  RESURFACING,  MAINTENANCE  AND  PAVEMENT  RECYCLING  OF  SUCH
- PROJECTS.
+ tation users through the use of complete street design features  (I)  in
+ the  planning, design, construction, reconstruction and rehabilitation[,
+ but not including resurfacing, maintenance, or  pavement  recycling]  of
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD01687-02-4
+ A. 1280--A  2
+ 
+ such  projects;  AND  (II)  IN THE RESURFACING, MAINTENANCE AND PAVEMENT
+ RECYCLING OF SUCH PROJECTS IF THE  SERVICE  LIFE  OF  SUCH  RESURFACING,
+ MAINTENANCE OR PAVEMENT RECYCLING PROJECT IS AT LEAST TEN YEARS.
   §  2. Paragraph (iii) of subdivision (c) of section 331 of the highway
  law, as added by chapter 398 of the laws of 2011, is amended to read  as
  follows:
@@ -57,10 +75,10 @@ S T A T E  O F  N E W  Y O R K
  but not limited to, land use, current  and  projected  traffic  volumes,
  including  population  density,  or  [demonstrates] DEMONSTRATED lack of
  community support; or
-  § 3. This act shall take effect immediately, provided  that  it  shall
- not apply to transportation projects undertaken or approved prior to the
- date on which this act shall have become a law.
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD01687-01-3
+  § 3. This act shall take effect on the one hundred eightieth day after
+ it shall have become a law, provided that it shall not apply  to  trans-
+ portation  projects  undertaken  or  approved prior to the date on which
+ this act shall have become a law.  Effective immediately, the  addition,
+ amendment  and/or  repeal  of  any  rule or regulation necessary for the
+ implementation of this act on its effective date are  authorized  to  be
+ made and completed on or before such effective date.
