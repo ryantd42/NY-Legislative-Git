@@ -1,6 +1,6 @@
 # Relates to treatment of gains from qualified opportunity zones in calculating taxable income
 
-**Bill ID:** A2170BA
+**Bill ID:** A2170BB
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to treatment of gains from qualified opportunity zones in calculating ta
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2170--A
+  2170--B
  
   2023-2024 Regular Sessions
  
@@ -29,9 +29,12 @@ S T A T E  O F  N E W  Y O R K
   GALLAGHER, STECK, GLICK, CARROLL, FAHY, KELLES, MAMDANI, KIM,  BURGOS,
   SEAWRIGHT,  CUNNINGHAM,  RAGA, CRUZ, WALLACE, OTIS, SOLAGES, SHRESTHA,
   HEVESI,  SEPTIMO,  PAULIN,  SHIMSKY,  EPSTEIN,  BURDICK,  O'DONNELL,
-  FORREST, LEVENBERG, GONZALEZ-ROJAS, ANDERSON, BORES -- Multi-Sponsored
-  by  --  M.  of A. SIMON -- read once and referred to the Committee on
-  Ways  and  Means  --  committee  discharged,  bill  amended,  ordered
+  FORREST, LEVENBERG, GONZALEZ-ROJAS, ANDERSON, BORES, STIRPE, ARDILA --
+  Multi-Sponsored  by -- M. of A. SIMON -- read once and referred to the
+  Committee on Ways and Means --  committee  discharged,  bill  amended,
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  recommitted to the Committee on Ways  and  Means  in  accordance  with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
   reprinted as amended and recommitted to said committee
  
  AN  ACT  to amend the tax law and the administrative code of the city of
@@ -56,71 +59,71 @@ S T A T E  O F  N E W  Y O R K
  THE TAXPAYER HAD NOT MADE SUCH ELECTION.
   § 3. Subsection (b) of section 612 of the tax law is amended by adding
  a new paragraph 44 to read as follows:
-  (44)  THE  AMOUNT  OF  GAIN EXCLUDED FROM FEDERAL GROSS INCOME FOR THE
- TAXABLE YEAR BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION  (A)  OF
- SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01221-03-3
- A. 2170--A  2
+  LBD01221-05-4
+ A. 2170--B  2
  
+  (44)  THE  AMOUNT  OF  GAIN EXCLUDED FROM FEDERAL GROSS INCOME FOR THE
+ TAXABLE YEAR BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION  (A)  OF
+ SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
   §  4. Section 612 of the tax law is amended by adding a new subsection
  (y) to read as follows:
-  (Y)  QUALIFIED OPPORTUNITY ZONES.  FOR TAX YEARS BEGINNING ON OR AFTER
- JANUARY FIRST, TWO THOUSAND TWENTY-FOUR, UPON THE SALE  OR  EXCHANGE  OF
- PROPERTY  WITH RESPECT TO WHICH THE TAXPAYER HAS MADE THE ELECTION UNDER
- SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION (A) OF  SECTION  1400Z-2
- OF  THE  INTERNAL  REVENUE  CODE,  THE BASIS OF SUCH PROPERTY UNDER THIS
- ARTICLE SHALL BE DETERMINED  AS  IF  THE  TAXPAYER  HAD  NOT  MADE  SUCH
+  (Y) QUALIFIED OPPORTUNITY ZONES.  FOR TAX YEARS BEGINNING ON OR  AFTER
+ JANUARY  FIRST,  TWO  THOUSAND TWENTY-FOUR, UPON THE SALE OR EXCHANGE OF
+ PROPERTY WITH RESPECT TO WHICH THE TAXPAYER HAS MADE THE ELECTION  UNDER
+ SUBPARAGRAPH  (C)  OF PARAGRAPH (1) OF SUBSECTION (A) OF SECTION 1400Z-2
+ OF THE INTERNAL REVENUE CODE, THE BASIS  OF  SUCH  PROPERTY  UNDER  THIS
+ ARTICLE  SHALL  BE  DETERMINED  AS  IF  THE  TAXPAYER  HAD NOT MADE SUCH
  ELECTION.
-  §  5. Paragraph 2 of subdivision (b) of section 1503 of the tax law is
+  § 5. Paragraph 2 of subdivision (b) of section 1503 of the tax law  is
  amended by adding a new subparagraph (AA) to read as follows:
-  (AA)  THE AMOUNT OF GAIN EXCLUDED FROM FEDERAL GROSS  INCOME  FOR  THE
- TAXABLE  YEAR  BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION (A) OF
+  (AA)  THE  AMOUNT OF GAIN EXCLUDED FROM FEDERAL GROSS INCOME FOR THE
+ TAXABLE YEAR BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION  (A)  OF
  SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
-  § 6. Section 1503 of the tax law is amended by adding a  new  subdivi-
+  §  6.  Section 1503 of the tax law is amended by adding a new subdivi-
  sion (d) to read as follows:
-  (D)  FOR  TAX  YEARS BEGINNING ON OR AFTER JANUARY FIRST, TWO THOUSAND
+  (D) FOR TAX YEARS BEGINNING ON OR AFTER JANUARY  FIRST,  TWO  THOUSAND
+ TWENTY-FOUR, UPON THE SALE OR EXCHANGE OF PROPERTY WITH RESPECT TO WHICH
+ THE  TAXPAYER  HAS MADE THE ELECTION UNDER SUBPARAGRAPH (C) OF PARAGRAPH
+ (1) OF SUBSECTION (A) OF SECTION 1400Z-2 OF THE INTERNAL  REVENUE  CODE,
+ THE  BASIS OF SUCH PROPERTY UNDER THIS ARTICLE SHALL BE DETERMINED AS IF
+ THE TAXPAYER HAD NOT MADE SUCH ELECTION.
+  § 7. Paragraph (b) of subdivision 8 of section 11-602 of the  adminis-
+ trative code of the city of New York is amended by adding a new subpara-
+ graph 23 to read as follows:
+  (23)  THE  AMOUNT  OF  GAIN EXCLUDED FROM FEDERAL GROSS INCOME FOR THE
+ TAXABLE YEAR BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION  (A)  OF
+ SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
+  § 8. Section 11-602 of the administrative code of the city of New York
+ is amended by adding a new subdivision 11 to read as follows:
+  11.  FOR  TAX  YEARS BEGINNING ON OR AFTER JANUARY FIRST, TWO THOUSAND
  TWENTY-FOUR, UPON THE SALE OR EXCHANGE OF PROPERTY WITH RESPECT TO WHICH
  THE TAXPAYER HAS MADE THE ELECTION UNDER SUBPARAGRAPH (C)  OF  PARAGRAPH
  (1)  OF  SUBSECTION (A) OF SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE,
  THE BASIS OF SUCH PROPERTY UNDER THIS ARTICLE SHALL BE DETERMINED AS  IF
  THE TAXPAYER HAD NOT MADE SUCH ELECTION.
-  §  7. Paragraph (a) of subdivision 8 of section 11-602 of the adminis-
+  §  9. Paragraph (b) of subdivision 8 of section 11-652 of the adminis-
  trative code of the city of New York is amended by adding a new subpara-
- graph 17 to read as follows:
-  (17) THE AMOUNT OF GAIN EXCLUDED FROM FEDERAL  GROSS  INCOME  FOR  THE
+ graph 24 to read as follows:
+  (24) THE AMOUNT OF GAIN EXCLUDED FROM FEDERAL  GROSS  INCOME  FOR  THE
  TAXABLE  YEAR  BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION (A) OF
  SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
-  § 8. Section 11-602 of the administrative code of the city of New York
- is amended by adding a new subdivision 11 to read as follows:
-  11. FOR TAX YEARS BEGINNING ON OR AFTER JANUARY  FIRST,  TWO  THOUSAND
- TWENTY-FOUR, UPON THE SALE OR EXCHANGE OF PROPERTY WITH RESPECT TO WHICH
- THE  TAXPAYER  HAS MADE THE ELECTION UNDER SUBPARAGRAPH (C) OF PARAGRAPH
- (1) OF SUBSECTION (A) OF SECTION 1400Z-2 OF THE INTERNAL  REVENUE  CODE,
- THE  BASIS OF SUCH PROPERTY UNDER THIS ARTICLE SHALL BE DETERMINED AS IF
- THE TAXPAYER HAD NOT MADE SUCH ELECTION.
-  § 9. Paragraph (a) of subdivision 8 of section 11-652 of the  adminis-
- trative code of the city of New York is amended by adding a new subpara-
- graph 18 to read as follows:
-  (18)  THE  AMOUNT  OF  GAIN EXCLUDED FROM FEDERAL GROSS INCOME FOR THE
- TAXABLE YEAR BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION  (A)  OF
- SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
-  §  10.  Subdivision  8 of section 11-652 of the administrative code of
+  § 10. Subdivision 8 of section 11-652 of the  administrative  code  of
  the city of New York is amended by adding a new paragraph (u) to read as
  follows:
-  (U) FOR TAX YEARS BEGINNING ON OR AFTER JANUARY  FIRST,  TWO  THOUSAND
+  (U)  FOR  TAX  YEARS BEGINNING ON OR AFTER JANUARY FIRST, TWO THOUSAND
  TWENTY-FOUR, UPON THE SALE OR EXCHANGE OF PROPERTY WITH RESPECT TO WHICH
- THE  TAXPAYER  HAS MADE THE ELECTION UNDER SUBPARAGRAPH (C) OF PARAGRAPH
- (1) OF SUBSECTION (A) OF SECTION 1400Z-2 OF THE INTERNAL  REVENUE  CODE,
- THE  BASIS OF SUCH PROPERTY UNDER THIS ARTICLE SHALL BE DETERMINED AS IF
+ THE TAXPAYER HAS MADE THE ELECTION UNDER SUBPARAGRAPH (C)  OF  PARAGRAPH
+ (1)  OF  SUBSECTION (A) OF SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE,
+ THE BASIS OF SUCH PROPERTY UNDER THIS ARTICLE SHALL BE DETERMINED AS  IF
  THE TAXPAYER HAD NOT MADE SUCH ELECTION.
-  § 11. Subdivision (b) of section 11-1712 of the administrative code of
- the city of New York is amended by adding a new paragraph 40 to read  as
- follows:
- A. 2170--A  3
+ A. 2170--B  3
  
+  § 11. Subdivision (b) of section 11-1712 of the administrative code of
+ the  city of New York is amended by adding a new paragraph 40 to read as
+ follows:
   (40)  THE  AMOUNT  OF  GAIN EXCLUDED FROM FEDERAL GROSS INCOME FOR THE
  TAXABLE YEAR BY SUBPARAGRAPH (C) OF PARAGRAPH (1) OF SUBSECTION  (A)  OF
  SECTION 1400Z-2 OF THE INTERNAL REVENUE CODE.
