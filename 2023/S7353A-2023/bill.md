@@ -1,6 +1,6 @@
 # Relates to the release of student education records to juvenile detention facilities
 
-**Bill ID:** S7353A
+**Bill ID:** S7353AA
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Relates to the release of student education records to juvenile detention facili
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7353
+  7353--A
+  Cal. No. 826
  
   2023-2024 Regular Sessions
  
@@ -27,11 +28,15 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  BRISPORT  --  (at  request  of the State Education
   Department) -- read twice and ordered printed, and when printed to  be
-  committed to the Committee on Education
+  committed  to the Committee on Education -- recommitted to the Commit-
+  tee on Education in accordance with Senate Rule 6, sec. 8 --  reported
+  favorably  from  said  committee,  ordered to first and second report,
+  ordered to a third reading, amended and ordered  reprinted,  retaining
+  its place in the order of third reading
  
  AN ACT to amend the education law, in relation to the release of student
   education records to juvenile detention facilities
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -54,18 +59,18 @@ S T A T E  O F  N E W  Y O R K
  IDENTIFIED IN PARAGRAPH B OF THIS SUBDIVISION.
   D.  "PARENT"  MEANS  A  PARENT,  LEGAL GUARDIAN, OR PERSON IN PARENTAL
  RELATION TO A STUDENT.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03199-02-4
+ S. 7353--A  2
+ 
   E. "EDUCATIONAL PROGRAM" SHALL MEAN EDUCATIONAL PROGRAMS SUPERVISED OR
  ADMINISTERED BY A JUVENILE DETENTION FACILITY PURSUANT  TO  SECTION  ONE
  HUNDRED TWELVE OF THIS CHAPTER.
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD03199-01-3
- S. 7353  2
- 
-  F. "JUVENILE DETENTION FACILITY" SHALL MEAN SECURE, SPECIALIZED SECURE
- AND  NON-SECURE  JUVENILE DETENTION FACILITIES DESCRIBED IN TITLE TWO OF
- ARTICLE NINETEEN-G OF THE EXECUTIVE LAW.
+  F.  "JUVENILE  DETENTION  FACILITY"  SHALL  MEAN  SECURE,  SPECIALIZED
+ SECURE, LIMITED SECURE, AND  NON-SECURE  JUVENILE  DETENTION  FACILITIES
+ DESCRIBED IN TITLE TWO OF ARTICLE NINETEEN-G OF THE EXECUTIVE LAW.
   G. "ELIGIBLE STUDENT" MEANS A STUDENT EIGHTEEN YEARS OR OLDER.
   2.  AS AUTHORIZED UNDER THE FAMILY EDUCATIONAL RIGHTS AND PRIVACY ACT,
  20 U.S.C. SECTION 1232G(B)(1)(E), WHERE A STUDENT HAS BEEN  DIRECTED  TO
