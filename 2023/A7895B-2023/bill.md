@@ -1,6 +1,6 @@
 # Establishes the Marshall plan for moms interagency task force
 
-**Bill ID:** A7895B
+**Bill ID:** A7895BA
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the Marshall plan for moms interagency task force to examine, issue 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7895
+  7895--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,12 @@ S T A T E  O F  N E W  Y O R K
   July 19, 2023
   ___________
  
- Introduced  by M. of A. SIMON -- read once and referred to the Committee
-  on Governmental Operations
+ Introduced  by  M.  of  A.  SIMON,  CRUZ,  DAVILA, SANTABARBARA, TAYLOR,
+  WEPRIN, LEVENBERG, ZACCARO, ALVAREZ, REYES -- read once  and  referred
+  to  the  Committee  on  Governmental  Operations -- recommitted to the
+  Committee on Governmental Operations in accordance with Assembly  Rule
+  3,  sec. 2 -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to establish the Marshall plan for moms interagency  task  force;
   and providing for the repeal of such provisions upon expiration there-
@@ -46,7 +50,7 @@ S T A T E  O F  N E W  Y O R K
   Women continue to face unjust gender and racial  wage  gaps,  and  are
  overrepresented  in  low-wage  jobs,  despite  their  gains in workforce
  participation.  Asian-American and Pacific Islander women,  particularly
- Southeast  Asian  and Pacific Islander women, get paid as little as $.50
+ Southeast  Asian and Pacific Islander women, get paid as little as $0.50
  for every dollar a White man makes. Black  women  make  only  $0.63  for
  every  dollar  a  White  man makes, and as a result may lose $946,000 in
  their lifetimes.  Latina women earn $0.55 for every dollar earned  by  a
@@ -55,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  every  dollar a White man makes and are murdered at 10 times the rate of
  the national average, even though financial  independence  and  security
  can increase chances of escaping violence for these women. Women's wages
- are  key  to their families' economic security and survival.  Across the
- country, mothers are breadwinners in almost half of families with  chil-
- dren  under 18, even though mothers face a greater pay gap than women as
- a whole. Even prior to the pandemic,  working  mothers  faced  continued
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07517-01-3
- A. 7895  2
+  LBD07517-02-4
+ A. 7895--A  2
  
- biases  and  stigmas  in  the workplace that caregiving responsibilities
+ are  key  to their families' economic security and survival.  Across the
+ country, mothers are breadwinners in almost half of families with  chil-
+ dren  under 18, even though mothers face a greater pay gap than women as
+ a  whole.  Even  prior  to the pandemic, working mothers faced continued
+ biases and stigmas in the  workplace  that  caregiving  responsibilities
  will negatively impact their work performance.
   Women  have  suffered  the  majority  of  pandemic-related job losses.
  Since February 2020, women have lost over 5,400,000 net jobs and account
@@ -102,8 +106,10 @@ S T A T E  O F  N E W  Y O R K
  dation of the New York State American Federation of Labor  and  Congress
  of  Industrial  Organizations and one upon the recommendation of the New
  York State Business Council; (g) one member, who shall be  appointed  by
- the  speaker of the assembly; and (h) one member, who shall be appointed
- by the temporary president of the senate.
+ the  speaker  of the assembly; (h) one member, who shall be appointed by
+ the temporary president of the senate; (i)  one  member,  who  shall  be
+ appointed  by  the  minority leader of the assembly; and (j) one member,
+ who shall be appointed by the minority leader of the senate.
   2. The interagency task force shall meet as often as is necessary, but
  no less than once per month and where otherwise appropriate to  fulfill-
  ing  its duties under this chapter.  The members of the commission shall
@@ -115,39 +121,39 @@ S T A T E  O F  N E W  Y O R K
   1. The utilization of recurring payments or  financial  assistance  to
  mothers  and  other  caregivers  and  any  equivalent policies under all
  current state and federal programs.
+ A. 7895--A  3
+ 
   2.  The current utilization rates and impacts of the state paid family
  leave program as well as specific impacts of the program on mothers  and
  other caregivers.
   3.  Current  state  policy  impacting  the  childcare industry and the
  access or availability of child care in all areas of the state.
- A. 7895  3
- 
   4.  The availability and access to unemployment for  New  Yorkers  who
  have  left  a job or worked reduced hours in order to take on caregiving
  responsibilities.
   5. The impact of any new policies imposed by the federal government or
- by  state  or  local  officials  during  the COVID-19 pandemic that have
+ by state or local officials  during  the  COVID-19  pandemic  that  have
  impacted mothers and other caregivers in the workforce.
-  6. The availability and access to mental health  support  for  mothers
+  6.  The  availability  and access to mental health support for mothers
  and other caregivers, and the impact of access or availability to mental
  health support on such families.
-  7.  The  access  and  availability  of all such programs for immigrant
- families, and the impact of inaccessibility  or  unavailability  of  any
+  7. The access and availability of  all  such  programs  for  immigrant
+ families,  and  the  impact  of inaccessibility or unavailability of any
  such programs on immigrant families and the state.
-  8.  Any  other  areas  the  task force deems relevant in the review of
+  8. Any other areas the task force deems  relevant  in  the  review  of
  policies that may impact mothers and other caregivers.
-  § 4. Within one year of the effective date of this  act,  in  carrying
+  §  4.  Within  one year of the effective date of this act, in carrying
  out its functions, the task force shall hold five public hearings around
- the  state  to foster discussions among, and conduct formal public hear-
- ings with requisite public notice to solicit input  and  recommendations
- from  statewide and regional stakeholder interests. The task force shall
- also accept public input in writing.  The task force may utilize  remote
- access  such  as web conferencing in order to comply with the provisions
+ the state to foster discussions among, and conduct formal  public  hear-
+ ings  with  requisite public notice to solicit input and recommendations
+ from statewide and regional stakeholder interests. The task force  shall
+ also  accept public input in writing.  The task force may utilize remote
+ access such as web conferencing in order to comply with  the  provisions
  of this section.
   § 5. Within two years of the effective date of this act the task force
- shall report its findings  and  recommendations  to  the  governor,  the
- temporary  president  of the senate and the speaker of the assembly, and
- shall publicize its findings on a website provided by the department  of
+ shall  report  its  findings  and  recommendations  to the governor, the
+ temporary president of the senate and the speaker of the  assembly,  and
+ shall  publicize its findings on a website provided by the department of
  labor.
-  §  6.  This  act shall take effect immediately and shall expire and be
+  § 6. This act shall take effect immediately and shall  expire  and  be
  deemed repealed 3 years after such date.
