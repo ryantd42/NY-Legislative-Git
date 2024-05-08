@@ -1,6 +1,6 @@
 # Establishes that instruction in financial education be provided to pupils in grades nine, ten, eleven or twelve
 
-**Bill ID:** A8216A
+**Bill ID:** A8216AA
 **Session:** 2023
 **Sponsor:** Sam Berger
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes that instruction in financial education be provided to pupils in gra
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8216
+  8216--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,16 @@ S T A T E  O F  N E W  Y O R K
   November 6, 2023
   ___________
  
- Introduced by M. of A. BERGER -- read once and referred to the Committee
-  on Education
- 
+ Introduced  by M. of A. BERGER, SHIMSKY, LUPARDO, MAHER, BEEPHAN -- read
+  once and referred to the Committee on Education -- recommitted to  the
+  Committee  on  Education in accordance with Assembly Rule 3, sec. 2 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+
  AN  ACT  to  amend  the  education  law,  in  relation to establishing a
   requirement that instruction in financial education be provided to all
   pupils in grades nine, ten, eleven or twelve
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,16 +58,16 @@ S T A T E  O F  N E W  Y O R K
   B. OPENING AND MAINTAINING BANKING AND CHECKING ACCOUNTS AND ASSESSING
  THE QUALITY OF BANKING SERVICES;
   C. DEVELOPING A PERSONAL BUDGET;
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04617-04-4
+ A. 8216--A  2
+ 
   D. ANALYZING SPENDING, CREDIT PURCHASING, CREDIT SCORING, AND MANAGING
  DEBT, INCLUDING RETAIL AND CREDIT CARD DEBT;
   E. CALCULATING INTEREST RATES BY VARIOUS METHODS;
   F. EVALUATING BORROWING OPTIONS;
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD04617-01-3
- A. 8216  2
- 
   G. ASSESSING THE IMPLICATIONS OF AN INHERITANCE;
   H.  COMPUTING STATE AND FEDERAL INCOME TAXES, UNDERSTANDING NET VERSUS
  GROSS INCOME AND REQUIRED TAX DEDUCTIONS;
@@ -75,11 +78,13 @@ S T A T E  O F  N E W  Y O R K
  THROUGHOUT THE STAGES OF AN INDIVIDUAL'S LIFE;
   L. ANALYZING STATE AND FEDERAL LAWS CONCERNING FINANCE;
   M. RECOGNIZING THE BASIC PRINCIPLES OF PERSONAL INSURANCE POLICIES;
-  N. ANALYZING REGULATORY AGENCIES AND THEIR ROLE; AND
+  N. ANALYZING REGULATORY AGENCIES AND THEIR ROLE;
   O. RECOGNIZING THE IMPORTANCE OF PLANNING FOR RETIREMENT AND ANALYZING
- RETIREMENT PLANNING OPTIONS.
+ RETIREMENT PLANNING OPTIONS; AND
+  P. RECOGNIZING THE IMPORTANCE OF INSURANCE AS AN ESSENTIAL ELEMENT  OF
+ FINANCIAL SECURITY.
   4. THE COMMISSIONER SHALL PROVIDE ASSISTANCE AT THE LOCAL LEVEL TO AID
- IN THE DEVELOPMENT OF CURRICULA FOR COURSES OF STUDY WHICH SHALL BE  AGE
+ IN  THE DEVELOPMENT OF CURRICULA FOR COURSES OF STUDY WHICH SHALL BE AGE
  APPROPRIATE AND DEVELOPED ACCORDING TO THE NEEDS AND ABILITIES OF PUPILS
  IN GRADES NINE, TEN, ELEVEN OR TWELVE.
   § 2. This act shall take effect on the one hundred twentieth day after
