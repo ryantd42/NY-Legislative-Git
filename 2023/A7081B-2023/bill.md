@@ -1,6 +1,6 @@
 # Relates to the central New York regional market authority
 
-**Bill ID:** A7081BA
+**Bill ID:** A7081BB
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Requires the central New York regional market authority to work with the departm
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7081--A
+  7081--B
  
   2023-2024 Regular Sessions
  
@@ -30,7 +30,10 @@ S T A T E  O F  N E W  Y O R K
   to  the  Committee  on  Corporations,  Authorities  and Commissions in
   accordance with Assembly Rule 3, sec. 2 -- committee discharged,  bill
   amended,  ordered reprinted as amended and recommitted to said commit-
-  tee
+  tee -- recommitted to the Committee on Corporations,  Authorities  and
+  Commissions  in  accordance  with Assembly Rule 3, sec. 2 -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the public authorities law, in relation to the board  of
   directors of the Central New York Regional Market Authority
@@ -42,32 +45,27 @@ S T A T E  O F  N E W  Y O R K
  chapter 55 of the laws of 1992, is amended to read as follows:
   §  827.  Board  of directors. The board of directors of the authority,
  HEREINAFTER IN THIS TITLE REFERRED TO AS "THE BOARD," shall  consist  of
- [thirteen]  NINETEEN  VOTING  members,  as  follows: The commissioner of
+ [thirteen]  SEVENTEEN  VOTING  members,  as follows: The commissioner of
  agriculture and markets or the commissioner's representative [shall be a
  member ex-officio]. The board of supervisors of each of the counties  in
  the  district  shall  each  name  directors as follows: Onondaga, three;
  Oswego, two; Cayuga, two; Madison, two; Cortland, one; Oneida, one,  and
  Wayne,  one.  ADDITIONALLY, THE FOLLOWING SHALL HAVE APPOINTMENTS TO THE
- BOARD: THE MAYOR OF THE CITY OF SYRACUSE, ONE; THE COMMON COUNCIL OF THE
- CITY OF SYRACUSE, ONE; THE ASSEMBLY MEMBER FROM  THE  ASSEMBLY  DISTRICT
- WHERE  THE PRIMARY OFFICES AND FACILITIES OF THE MARKET RESIDE, ONE; THE
- STATE SENATOR FROM THE SENATE DISTRICT WHERE  THE  PRIMARY  OFFICES  AND
- FACILITIES OF THE MARKET RESIDE, ONE; THE CHIEF OF POLICE OF THE CITY OF
- SYRACUSE,  ONE;  AND  THE  FIRE  CHIEF OF THE CITY OF SYRACUSE, ONE. One
- member from each of the above-named counties may be either a producer or
- non-producer of agricultural products; the other members  named  by  the
- board  of  supervisors of the counties in the district entitled to addi-
- tional directors shall be persons engaged  in  farming  and  deriving  a
- greater  part  of their income therefrom, and all such appointments made
+ BOARD: THE COUNTY EXECUTIVE OF ONONDAGA COUNTY, TWO; AND  THE  MAYOR  OF
+ THE CITY OF SYRACUSE, TWO; One member from each of the above-named coun-
+ ties  may be either a producer or non-producer of agricultural products;
+ the other members named by the board of supervisors of the  counties  in
+ the  district  entitled to additional directors shall be persons engaged
+ in farming and deriving a greater part of their  income  therefrom,  and
+ all such appointments made after May first, nineteen hundred forty-four,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02491-06-4
- A. 7081--A  2
+  LBD02491-10-4
+ A. 7081--B  2
  
- after May first, nineteen hundred forty-four,  shall  be  producers  who
- actually  sell  all  or  part  of  their produce on the Central New York
- Regional Market.
+ shall be producers who actually sell all or part of their produce on the
+ Central New York Regional Market.
   Each member shall continue as a member during the pleasure of the body
  appointing [him or her] SUCH MEMBER, and upon a vacancy occurring by the
  filing  with  the secretary of the authority of a duly certified copy of
@@ -121,9 +119,9 @@ S T A T E  O F  N E W  Y O R K
  THE  FUTURE DEVELOPMENT AND VIABILITY OF AGRICULTURE AND REGIONAL MARKET
  FACILITIES IN THE DISTRICT. SUCH PLAN SHALL INCLUDE BOTH SHORT-TERM  AND
  LONG-TERM  GOALS AND OBJECTIVES AS WELL AS ACTUAL AND PROJECTED REVENUES
- A. 7081--A  3
- 
  AND EXPENDITURES. SUCH PLAN SHALL ANNUALLY ALLOCATE NO LESS THAN  SEVEN-
+ A. 7081--B  3
+ 
  TY-FIVE  PERCENT  OF  THE  AUTHORITY'S AVAILABLE FUNDS FOR THE CREATION,
  DEVELOPMENT, AND ENHANCEMENT OF AGRICULTURE AND REGIONAL MARKET  FACILI-
  TIES, IN THE DISTRICT. FOR PURPOSES OF THIS SUBDIVISION, AVAILABLE FUNDS
@@ -177,11 +175,11 @@ S T A T E  O F  N E W  Y O R K
   (C) NO AUTHORITY  EMPLOYEE  SHALL  DISCLOSE  CONFIDENTIAL  INFORMATION
  ACQUIRED  BY  THE EMPLOYEE IN THE COURSE OF OFFICIAL DUTIES NOR USE SUCH
  INFORMATION TO FURTHER PERSONAL INTERESTS.
- A. 7081--A  4
- 
   (D) NO AUTHORITY EMPLOYEE SHALL USE OR  ATTEMPT  TO  USE  AN  OFFICIAL
  POSITION TO SECURE UNWARRANTED PRIVILEGES OR EXEMPTIONS FOR SUCH EMPLOY-
  EE OR OTHERS.
+ A. 7081--B  4
+ 
   (E) NO AUTHORITY EMPLOYEE SHALL ENGAGE IN ANY TRANSACTION AS REPRESEN-
  TATIVE  OR AGENT OF THE AUTHORITY WITH ANY BUSINESS ENTITY IN WHICH SUCH
  EMPLOYEE HAS A DIRECT OR INDIRECT FINANCIAL INTEREST THAT MIGHT  REASON-
@@ -200,21 +198,21 @@ S T A T E  O F  N E W  Y O R K
  WHICH  WILL  NOT  RAISE SUSPICION AMONG THE PUBLIC THAT SUCH EMPLOYEE IS
  LIKELY TO BE ENGAGED IN ACTS THAT ARE IN VIOLATION OF TRUST.
   (I) NO AUTHORITY EMPLOYEE EMPLOYED ON A FULL-TIME BASIS NOR  ANY  FIRM
- OR  ASSOCIATION  OF  WHICH SUCH AN EMPLOYEE IS A MEMBER NOR AUTHORITY, A
- SUBSTANTIAL PORTION OF THE STOCK OF WHICH IS OWNED OR CONTROLLED DIRECT-
- LY OR INDIRECTLY BY SUCH EMPLOYEE, SHALL SELL GOODS OR SERVICES  TO  ANY
- PERSON,  FIRM, AUTHORITY OR ASSOCIATION WHICH IS LICENSED OR WHOSE RATES
- ARE FIXED BY THE AUTHORITY IN WHICH SUCH EMPLOYEE SERVES OR IS EMPLOYED.
+ OR  ASSOCIATION  OF WHICH SUCH AN EMPLOYEE IS A MEMBER, WHERE A SUBSTAN-
+ TIAL PORTION OF THE STOCK OF WHICH IS OWNED OR  CONTROLLED  DIRECTLY  OR
+ INDIRECTLY BY SUCH EMPLOYEE, SHALL SELL GOODS OR SERVICES TO ANY PERSON,
+ FIRM,  AUTHORITY  OR  ASSOCIATION  WHICH  IS LICENSED OR WHOSE RATES ARE
+ FIXED BY THE AUTHORITY IN WHICH SUCH EMPLOYEE SERVES OR IS EMPLOYED.
   (J) IF ANY AUTHORITY EMPLOYEE SHALL HAVE A FINANCIAL INTEREST,  DIRECT
  OR  INDIRECT,  HAVING  A  VALUE  OF  TEN THOUSAND DOLLARS OR MORE IN ANY
- ACTIVITY WHICH IS SUBJECT TO THE JURISDICTION OF A REGULATORY AGENCY, HE
- OR SHE SHALL FILE WITH THE SECRETARY OF STATE A WRITTEN  STATEMENT  THAT
- HE OR SHE HAS SUCH A FINANCIAL INTEREST IN SUCH ACTIVITY WHICH STATEMENT
- SHALL BE OPEN TO PUBLIC INSPECTION.
-  5.  IN ADDITION TO ANY PENALTY CONTAINED IN ANY OTHER PROVISION OF LAW
- ANY SUCH  AUTHORITY  EMPLOYEE  WHO  SHALL  KNOWINGLY  AND  INTENTIONALLY
+ ACTIVITY WHICH IS SUBJECT TO THE JURISDICTION OF  A  REGULATORY  AGENCY,
+ SUCH AUTHORITY EMPLOYEE SHALL FILE WITH THE SECRETARY OF STATE A WRITTEN
+ STATEMENT  THAT SUCH AUTHORITY EMPLOYEE HAS SUCH A FINANCIAL INTEREST IN
+ SUCH ACTIVITY WHICH STATEMENT SHALL BE OPEN TO PUBLIC INSPECTION.
+  5. IN ADDITION TO ANY PENALTY CONTAINED IN ANY OTHER PROVISION OF  LAW
+ ANY  SUCH  AUTHORITY  EMPLOYEE  WHO  SHALL  KNOWINGLY  AND INTENTIONALLY
  VIOLATE ANY OF THE PROVISIONS OF THIS SECTION MAY BE FINED, SUSPENDED OR
  REMOVED FROM OFFICE OR EMPLOYMENT.
-  6.  THE PROVISIONS OF SECTION SEVENTY-THREE OF THE PUBLIC OFFICERS LAW
+  6. THE PROVISIONS OF SECTION SEVENTY-THREE OF THE PUBLIC OFFICERS  LAW
  SHALL BE APPLICABLE TO ALL BOARD MEMBERS AND EMPLOYEES OF THE AUTHORITY.
   § 4. This act shall take effect immediately.
