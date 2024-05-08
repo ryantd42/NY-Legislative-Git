@@ -1,6 +1,6 @@
 # Relates to school anti-violence activities
 
-**Bill ID:** S4598DA
+**Bill ID:** S4598DB
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Provides funding for school anti-violence education programs through the omnibus
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4598--A
+  4598--B
  
   2023-2024 Regular Sessions
  
@@ -26,15 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sens. BAILEY, BROUK, CLEARE, COMRIE, FERNANDEZ, GIANARIS,
-  GOUNARDES, HOYLMAN-SIGAL,  LIU,  MYRIE,  PARKER,  PERSAUD,  SEPULVEDA,
-  SKOUFIS  --  read  twice  and  ordered printed, and when printed to be
-  committed to the Committee on Education -- recommitted to the  Commit-
-  tee on Education in accordance with Senate Rule 6, sec. 8 -- committee
+  GOUNARDES,  HARCKHAM,  HOYLMAN-SIGAL,  JACKSON,  LIU,  MYRIE,  PARKER,
+  PERSAUD,  SALAZAR, SEPULVEDA, SKOUFIS -- read twice and ordered print-
+  ed, and when printed to be committed to the Committee on Education  --
+  recommitted  to  the  Committee on Education in accordance with Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted  as  amended  and recommitted to said committee -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to said committee
  
- AN ACT to amend the education law and the state finance law, in relation
-  to enacting the "school anti-violence education act"
+ AN ACT to amend the education law, in relation to enacting  the  "school
+  anti-violence education act"
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -57,63 +59,96 @@ S T A T E  O F  N E W  Y O R K
  INITIATIVE THAT:
   (I)  IS  DEVELOPED  AND EVALUATED THROUGH SCIENTIFIC RESEARCH AND DATA
  COLLECTION;
-  (II) USES PUBLIC HEALTH PRINCIPLES THAT DEMONSTRATE  MEASURABLE  POSI-
- TIVE OUTCOMES IN PREVENTING GUN VIOLENCE; AND
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08152-05-4
- S. 4598--A  2
+  LBD08152-07-4
+ S. 4598--B  2
  
+  (II) USES PUBLIC HEALTH PRINCIPLES THAT DEMONSTRATE  MEASURABLE  POSI-
+ TIVE OUTCOMES IN PREVENTING GUN VIOLENCE; AND
   (III)  IS  IMPLEMENTED BY A NONPROFIT ORGANIZATION OR PUBLIC ENTITY AT
  OR IN AFFILIATION WITH A GOVERNMENT-FUNDED PUBLIC SCHOOL.
-  (B)  "SCHOOL  ANTI-VIOLENCE EDUCATION PROGRAM" MEANS A SCHOOL-BASED OR
+  (B) "SCHOOL ANTI-VIOLENCE EDUCATION PROGRAM" MEANS A  SCHOOL-BASED  OR
  SCHOOL-AFFILIATED EVIDENCE-BASED ANTI-VIOLENCE EDUCATION PROGRAM THAT IS
  OPERATED BY:
   (I) A NONPROFIT ORGANIZATION OR PUBLIC ENTITY; AND
-  (II) PROVIDES EVIDENCE-BASED TRAUMA-SUPPORT AND GROUP  COUNSELING  AND
- ANTI-GUN  VIOLENCE  EDUCATION  THAT INCLUDES PERSONAL AND GROUP DEVELOP-
- MENT, RESEARCH-BASED FACTS AND MISCONCEPTIONS ABOUT  GUNS  AND  THE  GUN
+  (II)  PROVIDES  EVIDENCE-BASED TRAUMA-SUPPORT AND GROUP COUNSELING AND
+ ANTI-GUN VIOLENCE EDUCATION THAT INCLUDES PERSONAL  AND  GROUP  DEVELOP-
+ MENT,  RESEARCH-BASED  FACTS  AND  MISCONCEPTIONS ABOUT GUNS AND THE GUN
  VIOLENCE CRISIS, AND YOUTH EMPOWERMENT PROGRAMMING.
-  3.  SCHOOL  ANTI-VIOLENCE  EDUCATION  PROGRAM.  (A)  THE DEPARTMENT IS
- AUTHORIZED TO ESTABLISH SCHOOL ANTI-VIOLENCE EDUCATION  PROGRAMS,  WHICH
- SHALL BE FUNDED FROM THE SCHOOL ANTI-VIOLENCE EDUCATION FUND ESTABLISHED
- BY SECTION NINETY-SEVEN-BBBB OF THE STATE FINANCE LAW.
+  3. SCHOOL ANTI-VIOLENCE  EDUCATION  PROGRAM.  (A)  THE  DEPARTMENT  IS
+ AUTHORIZED  TO  ESTABLISH SCHOOL ANTI-VIOLENCE EDUCATION PROGRAMS, WHICH
+ SHALL BE FUNDED THROUGH THE OMNIBUS  SCHOOL  VIOLENCE  PREVENTION  GRANT
+ PROGRAM  ESTABLISHED UNDER SECTION TWENTY-EIGHT HUNDRED FOURTEEN OF THIS
+ CHAPTER.
   (B) NO FIREARMS SHALL BE USED FOR TRAINING OR DEMONSTRATION OR ANOTHER
- USE  IN  ANY SCHOOL ANTI-VIOLENCE EDUCATION PROGRAM ESTABLISHED PURSUANT
+ USE IN ANY SCHOOL ANTI-VIOLENCE EDUCATION PROGRAM  ESTABLISHED  PURSUANT
  TO THIS SECTION.
   (C) THE DEPARTMENT SHALL SECURE ALTERNATIVE FUNDING SOURCES OTHER THAN
- THE STATE TO FUND SCHOOL  ANTI-VIOLENCE  EDUCATION  PROGRAMS,  INCLUDING
+ THE  STATE  TO  FUND  SCHOOL ANTI-VIOLENCE EDUCATION PROGRAMS, INCLUDING
  LOCAL GOVERNMENT AND PRIVATE SOURCES AS WELL AS FUNDING FROM THE FEDERAL
  GOVERNMENT.
-  §  3. The state finance law is amended by adding a new section 97-bbbb
- to read as follows:
-  § 97-BBBB. SCHOOL ANTI-VIOLENCE EDUCATION FUND.  1.  THERE  IS  HEREBY
- ESTABLISHED  IN  THE  JOINT  CUSTODY  OF  THE  STATE COMPTROLLER AND THE
- COMMISSIONER OF EDUCATION A FUND TO BE KNOWN AS  THE  "SCHOOL  ANTI-VIO-
- LENCE EDUCATION FUND".
-  2.  THE  SCHOOL  ANTI-VIOLENCE EDUCATION FUND SHALL CONSIST OF AND ALL
- MONIES APPROPRIATED, CREDITED, OR TRANSFERRED  THERETO  FROM  ANY  OTHER
- FUND OR SOURCE PURSUANT TO LAW.
-  3. MONIES OF THE SCHOOL ANTI-VIOLENCE EDUCATION FUND SHALL BE EXPENDED
- ONLY:
-  (A) PURSUANT TO SECTION ONE HUNDRED FIFTEEN OF THE EDUCATION LAW;
-  (B)  TO  SUPPORT  EFFECTIVE  VIOLENCE REDUCTION STRATEGIES FOR SCHOOL-
- BASED AND SCHOOL-AFFILIATED ANTI-VIOLENCE PROGRAMS BY  PROVIDING  GRANTS
- TO  LOCAL GOVERNMENTS AND NONPROFIT ORGANIZATIONS TO FUND EVIDENCE-BASED
- SCHOOL ANTI-VIOLENCE PROGRAMS OR EVIDENCE-INFORMED SCHOOL  ANTI-VIOLENCE
- PROGRAMS; AND
-  (C)  FOR THE EVALUATION OF THE EFFICACY OF EVIDENCE-BASED SCHOOL ANTI-
- VIOLENCE PROGRAMS OR  EVIDENCE-INFORMED  SCHOOL  ANTI-VIOLENCE  PROGRAMS
- AWARDED GRANTS THROUGH THE FUND.
-  4.  MONIES  SHALL BE PAYABLE FROM THE FUND ON THE AUDIT AND WARRANT OF
- THE COMPTROLLER ON VOUCHERS APPROVED AND CERTIFIED BY  THE  COMMISSIONER
- OF EDUCATION.
-  §  4. If any clause, sentence, paragraph, or section of this act shall
- be adjudged by any court of competent jurisdiction  to  be  invalid  and
- after  exhaustion of all further judicial review, the judgment shall not
- affect, impair  or  invalidate  the  remainder  thereof,  but  shall  be
+  § 3.  Paragraph a of subdivision 1 of section 2814  of  the  education
+ law,  as added by chapter 181 of the laws of 2000, is amended to read as
+ follows:
+  a. School safety activities. Programs eligible for funding pursuant to
+ this section may include, but not be  limited  to:  (i)  safe  corridors
+ programs;  (ii)  diversity  programs;  (iii) collaborative school safety
+ programs with law enforcement agencies or community-based organizations;
+ (iv) metal detectors,  intercom  and  other  intra-school  communication
+ devices  and other devices to increase school security and the safety of
+ school  personnel  and  students;  (v)  SCHOOL  ANTI-VIOLENCE  EDUCATION
+ PROGRAMS;  AND  (VI) other programs including comprehensive school-based
+ intervention models, approved by the commissioner, that reduce  violence
+ and  improve  school  safety.  Comprehensive school based intervention
+ models  shall  coordinate  with  and  collaborate  with  other  services
+ currently being provided in the school district, incorporate appropriate
+ school  violence  prevention  and  intervention services, and coordinate
+ appropriate  funding  sources  to  ensure  the  efficient  delivery  of
+ services. Such comprehensive school-based intervention models shall also
+ include  provisions  for  the  involvement  of teachers, parents, school
+ administrators in the development and implementation of the  program,  a
+ detailed  statement  identifying  specific performance goals, a proposed
+ timetable for implementation and achievement of such goals and  specific
+ assessment  methods  which  will  be  used to measure student and school
+ progress.
+  § 4. Paragraph a of subdivision 1 of section  2814  of  the  education
+ law,  as  amended by chapter 529 of the laws of 2023, is amended to read
+ as follows:
+  a. School safety activities. Programs eligible for funding pursuant to
+ this section may include, but not be  limited  to:  (i)  safe  corridors
+ programs;  (ii)  diversity  programs;  (iii) collaborative school safety
+ programs with law enforcement agencies or community-based organizations;
+ (iv) metal detectors,  intercom  and  other  intra-school  communication
+ S. 4598--B  3
+ 
+ devices  and other devices to increase school security and the safety of
+ school personnel and students; (v) programs which facilitate and promote
+ community involvement in school facility  planning;  [and]  (vi)  SCHOOL
+ ANTI-VIOLENCE  EDUCATION  PROGRAMS;  AND  (VII) other programs including
+ comprehensive school-based intervention models, approved by the  commis-
+ sioner,  that  reduce  violence and improve school safety. Comprehensive
+ school based intervention models shall coordinate with  and  collaborate
+ with  other  services  currently  being provided in the school district,
+ incorporate appropriate  school  violence  prevention  and  intervention
+ services, and coordinate appropriate funding sources to ensure the effi-
+ cient delivery of services. Such comprehensive school-based intervention
+ models  shall  also  include provisions for the involvement of teachers,
+ parents, school administrators in the development and implementation  of
+ the  program,  a  detailed  statement  identifying  specific performance
+ goals, a proposed timetable for implementation and achievement  of  such
+ goals  and  specific  assessment  methods  which will be used to measure
+ student and school progress.
+  § 5. If any clause, sentence, paragraph, or section of this act  shall
+ be  adjudged  by  any  court of competent jurisdiction to be invalid and
+ after exhaustion of all further judicial review, the judgment shall  not
+ affect,  impair  or  invalidate  the  remainder  thereof,  but  shall be
  confined in its operation to the clause, sentence, paragraph, or section
- of  this  act directly involved in the controversy in which the judgment
+ of this act directly involved in the controversy in which  the  judgment
  shall have been rendered.
-  § 5. This act shall take effect immediately.
+  §  6.  This act shall take effect immediately; provided, however, that
+ the amendments to paragraph a of subdivision 1 of section  2814  of  the
+ education  law made by section four of this act shall take effect on the
+ same date and in the same manner as chapter 529 of  the  laws  of  2023,
+ takes effect.
