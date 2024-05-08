@@ -1,6 +1,6 @@
 # Authorizes the Congregation Beis Medrash of Lawrence to receive retroactive real property tax exempt status
 
-**Bill ID:** A2725A
+**Bill ID:** A2725AA
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the Congregation Beis Medrash of Lawrence to receive retroactive real
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2725
+  2725--A
  
   2023-2024 Regular Sessions
  
@@ -26,25 +26,26 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. E. BROWN -- read once and referred to the Commit-
-  tee on Real Property Taxation
+  tee  on  Real Property Taxation -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
- AN  ACT authorizing the Congregation Beis Medrash of Lawrence to receive
+ AN ACT authorizing the Congregation Beis Medrash of Lawrence to  receive
   retroactive real property tax exempt status
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
- BLY, DO ENACT AS FOLLOWS:
 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ BLY, DO ENACT AS FOLLOWS:
+ 
   Section 1. Notwithstanding any other provision of law to the contrary,
  the assessor of the county of Nassau is hereby authorized to accept from
  Congregation Beis Medrash of Lawrence, an application for exemption from
- real  property  taxes pursuant to section 420-a of the real property tax
- law with respect to the 2019-2020 assessment rolls for a portion of  the
- 2019  general  taxes  and  all  of  the  2020  general taxes, and all of
- 2019-2020 school taxes for the parcel  conveyed  to  such  organization,
- with  such  parcel  being  located  at 15 Martin Lane, in the village of
- Lawrence, otherwise known as Nassau county tax  map  section  40,  block
- 199,  lot 3. If accepted, the application shall be reviewed as if it had
- been received on or before the taxable status dates established for such
+ real property taxes pursuant to section 430 of the real property tax law
+ with respect to the 2019-2020 assessment rolls for a portion of the 2019
+ general taxes and all of the 2020 general taxes, and  all  of  2019-2020
+ school  taxes  for  the  parcel conveyed to such organization, with such
+ parcel being located at 15 Martin Lane,  in  the  village  of  Lawrence,
+ otherwise  known  as Nassau county tax map section 40, block 199, lot 3.
+ If accepted, the application  shall  be  reviewed  as  if  it  had  been
+ received  on  or  before  the  taxable status dates established for such
  rolls.
   If satisfied that such organization would  otherwise  be  entitled  to
  such  exemption  if  such organization had acquired the subject property
@@ -57,7 +58,7 @@ S T A T E  O F  N E W  Y O R K
  for the refund of those taxes paid and cancel any taxes,  fines,  penal-
  ties, interest or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04854-01-3
+  LBD04854-04-4
