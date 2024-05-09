@@ -1,6 +1,6 @@
 # Allows certain reusable beverage containers in sports venues
 
-**Bill ID:** A9890B
+**Bill ID:** A9890BA
 **Session:** 2023
 **Sponsor:** Kenny Burgos
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Allows certain reusable beverage containers in sports venues.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  9890
+  9890--A
  
   I N  A S S E M B L Y
  
@@ -24,14 +24,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. BURGOS -- read once and referred to the Committee
-  on Consumer Affairs and Protection
+  on  Consumer  Affairs  and  Protection  --  committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to  amend  the  general  business  law, in relation to allowing
   certain reusable beverage containers in sports venues
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. The general business law is amended by adding a new section
  391-r to read as follows:
   §  391-R.  REUSABLE  BEVERAGE  CONTAINERS  IN  SPORTS  VENUES.  1. FOR
@@ -48,16 +50,16 @@ S T A T E  O F  N E W  Y O R K
  FROM  BRINGING  A  REUSABLE  BEVERAGE  CONTAINER  INTO THE SPORTS VENUE;
  PROVIDED, HOWEVER:
   (A) A SPORTS VENUE MAY REQUIRE THAT REUSABLE  BEVERAGE  CONTAINERS  BE
- EMPTY UPON ENTERING THE SPORTS VENUE.
+ EMPTY UPON ENTERING THE SPORTS VENUE; AND
   (B)  A  SPORTS VENUE MAY RESTRICT REUSABLE BEVERAGE CONTAINERS CAPABLE
  OF HOLDING MORE THAN TWENTY-FOUR FLUID OUNCES.
   3. ANY SPORTS VENUE THAT VIOLATES THIS SECTION OR ANY RULE PROMULGATED
- PURSUANT THERETO SHALL BE LIABLE FOR A CIVIL PENALTY  RECOVERABLE  IN  A
- CIVIL ACTION.
+ PURSUANT THERETO SHALL BE LIABLE FOR A CIVIL PENALTY NOT TO EXCEED  FIVE
+ HUNDRED DOLLARS FOR THE FIRST VIOLATION, AND SEVEN HUNDRED FIFTY DOLLARS
+ FOR ANY SUBSEQUENT VIOLATION.
   § 2. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD15219-01-4
+  LBD15219-02-4
