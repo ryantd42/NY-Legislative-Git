@@ -1,6 +1,6 @@
 # Relates to accessing records under the freedom of information law
 
-**Bill ID:** S1726A
+**Bill ID:** S1726AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides for accessing records under the freedom of information law including no
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1726
+  1726--A
  
   2023-2024 Regular Sessions
  
@@ -27,47 +27,50 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
   printed to be committed to the Committee on Investigations and Govern-
-  ment Operations
+  ment Operations -- recommitted to the Committee on Investigations  and
+  Government  Operations  in  accordance  with  Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
- AN ACT to amend the  public  officers  law,  in  relation  to  accessing
+ AN  ACT  to  amend  the  public  officers  law, in relation to accessing
   records under the freedom of information law
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Subparagraph iii of paragraph  (b)  of  subdivision  2  and
+  Section  1.  Subparagraph  iii  of  paragraph (b) of subdivision 2 and
  subdivision 3 of section 89 of the public officers law, subparagraph iii
  of paragraph (b) of subdivision 2 as amended by section 2 of part GGG of
- chapter  59 of the laws of 2019, subdivision 3 as amended by chapter 223
+ chapter 59 of the laws of 2019, subdivision 3 as amended by chapter  223
  of the laws of 2008 and paragraph (c) of subdivision 3 as added by chap-
  ter 47 of the laws of 2018, are amended to read as follows:
   iii. sale or release of lists of names OF NATURAL PERSONS and RESIDEN-
- TIAL addresses if such lists would be used  for  solicitation  or  fund-
+ TIAL  addresses  if  such  lists would be used for solicitation or fund-
  raising purposes;
-  3.  (a)  Each entity subject to the provisions of this article, within
- five business days of the receipt of a  written  request  for  a  record
- reasonably  described,  shall  make  such record available to the person
- requesting it, deny  such  request  in  writing  or  furnish  a  written
- acknowledgement  of  the  receipt of such request and a statement of the
- approximate date, which shall be reasonable under the  circumstances  of
- the  request,  when  [such request will be granted or denied] A RESPONSE
- WILL BE GIVEN, including, where appropriate, a statement that access  to
- the  record  will  be  determined in accordance with subdivision five of
+  3. (a) Each entity subject to the provisions of this  article,  within
+ five  business  days  of  the  receipt of a written request for a record
+ reasonably described, shall make such record  available  to  the  person
+ requesting  it,  deny  such  request  in  writing  or  furnish a written
+ acknowledgement of the receipt of such request and a  statement  of  the
+ approximate  date,  which shall be reasonable under the circumstances of
+ the request, when [such request will be granted or  denied]  A  RESPONSE
+ WILL  BE GIVEN, including, where appropriate, a statement that access to
+ the record will be determined in accordance  with  subdivision  five  of
  this section.
-  (B) An agency shall not deny a request on the basis that  the  request
- is  voluminous  or  that locating, GENERATING or reviewing the requested
- RECORD OR records  or  providing  the  requested  copies  is  burdensome
- because  the  agency  lacks sufficient staffing or on any other basis if
- the agency may engage an outside professional service to  provide  copy-
+  (B)  An  agency shall not deny a request on the basis that the request
+ is voluminous or that locating or  reviewing  the  requested  RECORD  OR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04958-01-3
- S. 1726  2
+  LBD04958-05-4
+ S. 1726--A  2
  
- ing,  programming  or  other  services required to provide the copy, the
- costs of which the agency may  recover  pursuant  to  paragraph  (c)  of
- subdivision one of section eighty-seven of this article.
+ records  or  providing  the  requested  copies is burdensome because the
+ agency lacks sufficient staffing or on any other basis if the agency may
+ engage an outside professional service to provide  copying,  programming
+ or  other  services required to provide the copy, the costs of which the
+ agency may recover pursuant to  paragraph  (c)  of  subdivision  one  of
+ section eighty-seven of this article.
   (C)  An  agency  may  require  a  person requesting lists of names and
  addresses to provide a written certification that such person  will  not
  use such lists of names OF NATURAL PERSONS and RESIDENTIAL addresses for
@@ -100,10 +103,10 @@ S T A T E  O F  N E W  Y O R K
  engaging  in manual retrieval or redactions from non-electronic records,
  the agency shall be required to retrieve or extract such record or  data
  electronically. [Any programming necessary to retrieve] THE RETRIEVAL OF
- a  record  OR  DATA maintained in a computer storage system and [to] THE
- transfer OF that record to the medium requested by  a  person  or  to  A
- MEDIUM  THAT  WOULD  allow  the transferred record to be read or printed
- shall not be deemed to be the [preparation or] creation of a new record.
+ a  record  maintained in a computer storage system and [to] THE transfer
+ OF that record to the medium requested by a person or to A  MEDIUM  THAT
+ WOULD  allow  the  transferred record to be read or printed shall not be
+ deemed to be the [preparation or] creation of a new record.
   [(b)] (G) All entities shall,  provided  such  entity  has  reasonable
  means  available,  accept  requests for records submitted in the form of
  electronic mail and shall respond to such requests by  electronic  mail,
