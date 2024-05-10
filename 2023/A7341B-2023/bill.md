@@ -1,6 +1,6 @@
 # Allowing for child protective services workers to complete certain required training through distance learning methods
 
-**Bill ID:** A7341BA
+**Bill ID:** A7341BB
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Allows for child protective services workers to complete the required training o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7341--A
+  7341--B
  
   2023-2024 Regular Sessions
  
@@ -27,8 +27,10 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. HEVESI -- read once and referred to the Committee
   on  Children and Families -- reported and referred to the Committee on
-  Rules -- Rules Committee discharged, bill amended,  ordered  reprinted
-  as amended and recommitted to the Committee on Rules
+  Rules -- recommitted to the Committee  on  Children  and  Families  in
+  accordance  with Assembly Rule 3, sec. 2 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
  
  AN  ACT  to  amend  the social services law, in relation to allowing for
   child protective services workers to complete certain required  train-
@@ -46,39 +48,30 @@ S T A T E  O F  N E W  Y O R K
  shall have satisfactorily completed a course approved by the  department
  within  the  first  three  months  of employment, in the fundamentals of
  child protection, PROVIDED, HOWEVER, THAT ON OR AFTER APRIL  FIRST,  TWO
- THOUSAND  TWENTY-FOUR,  SUCH  COURSE  MAY  BE  SATISFACTORILY  COMPLETED
+ THOUSAND  TWENTY-FIVE,  SUCH  COURSE  MAY  BE  SATISFACTORILY  COMPLETED
  THROUGH DISTANCE LEARNING METHODS WHICH EVINCE THAT ALL PARTICIPANTS ARE
  IN ATTENDANCE FOR THE DURATION OF THE COURSE AND ARE ABLE TO  ASK  QUES-
- TIONS  OF  THE  INSTRUCTOR,  EXCLUDING  THE  ANNUAL  IN SERVICE TRAINING
- REQUIREMENT. Such course shall include at least basic  training  in  the
- principles  and  techniques  of  investigations, including relationships
- with other investigative bodies, legal issues in child  protection,  and
- methods  of remediation, diagnosis, treatment and prevention. Such regu-
- lations shall also specify that all persons employed by a child  protec-
- tive  service  on or after December first, two thousand six shall satis-
- factorily complete six hours of annual in service training, beginning in
- their second year of employment. Such annual in service  training  shall
- include,  but is not limited to, review of the protocols for identifica-
+ TIONS  OF  THE  INSTRUCTOR.  EACH  COUNTY SHALL BE AUTHORIZED TO ADOPT A
+ LOCAL LAW, ORDINANCE OR RESOLUTION TO PROVIDE FOR A LOCAL DEPARTMENT  OF
+ SOCIAL  SERVICES TO FULFILL THE TRAINING REQUIREMENT ESTABLISHED BY THIS
+ PARAGRAPH THROUGH A DISTANCE LEARNING METHOD, EXCLUDING  THE  ANNUAL  IN
+ SERVICE  TRAINING  REQUIREMENT. Such course shall include at least basic
+ training in the principles and techniques of  investigations,  including
+ relationships  with  other  investigative  bodies, legal issues in child
+ protection,  and  methods  of  remediation,  diagnosis,  treatment  and
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10845-03-3
- A. 7341--A  2
+  LBD10845-06-4
+ A. 7341--B  2
  
- tion and investigation of child abuse and maltreatment, any developments
- in legal, treatment and  prevention  issues  in  child  protection,  and
- review  and  analysis  of field experiences of child protective services
- workers.
-  §  2.  Subdivision  1  of  section  423  of the social services law is
- amended by adding a new paragraph (f) to read as follows:
-  (F) EVERY LOCAL DEPARTMENT OF SOCIAL SERVICES MAY PREPARE  AND  SUBMIT
- TO  THE  COMMISSIONER,  INCLUDING  THE DETERMINATION MENTIONED HEREIN, A
- REQUEST TO FULFILL THE TRAINING REQUIREMENTS, AS SPECIFIED BY  PARAGRAPH
- (B)  OF  SUBDIVISION  FIVE  OF  SECTION  FOUR HUNDRED TWENTY-ONE OF THIS
- TITLE, THROUGH DISTANCE LEARNING METHODS,  UPON  A  DETERMINATION  BY  A
- LOCAL DEPARTMENT OF SOCIAL SERVICES THAT THE USE OF SUCH DISTANCE LEARN-
- ING  METHODS  SHALL  BE BENEFICIAL TO THE PERFORMANCE OF THOSE FUNCTIONS
- ASSIGNED BY THIS TITLE TO THE CHILD PROTECTIVE SERVICE, PROVIDED, HOWEV-
- ER, THAT SUCH DISTANCE LEARNING METHODS SHALL NOT BE USED FOR THE ANNUAL
- IN SERVICE TRAINING REQUIREMENT.
-  § 3. This act shall take effect immediately.
+ prevention.  Such  regulations  shall  also  specify  that  all  persons
+ employed by a child protective service on or after December  first,  two
+ thousand  six  shall  satisfactorily  complete  six  hours  of annual in
+ service  training,  beginning  in  their second year of employment. Such
+ annual in service training shall include, but is not limited to,  review
+ of the protocols for identification and investigation of child abuse and
+ maltreatment, any developments in legal, treatment and prevention issues
+ in  child  protection,  and  review and analysis of field experiences of
+ child protective services workers.
+  § 2. This act shall take effect immediately.
