@@ -1,6 +1,6 @@
 # Establishes the "earned time act"
 
-**Bill ID:** S774A
+**Bill ID:** S774AA
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Establishes the "earned time act" providing for time allowances against the term
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  774
+  774--A
  
   2023-2024 Regular Sessions
  
@@ -25,10 +25,15 @@ S T A T E  O F  N E W  Y O R K
   January 6, 2023
   ___________
  
- Introduced  by  Sens. COONEY, BRISPORT, BROUK, CLEARE, COMRIE, GIANARIS,
-  HOYLMAN, JACKSON, MAY, MYRIE, PARKER, RAMOS, RIVERA, SALAZAR, SEPULVE-
-  DA -- read twice and ordered printed, and when printed to be committed
-  to the Committee on Crime Victims, Crime and Correction
+ Introduced  by  Sens.  COONEY, BAILEY, BRESLIN, BRISPORT, BROUK, CLEARE,
+  COMRIE,  FERNANDEZ,  GIANARIS,  GONZALEZ,  GOUNARDES,  HARCKHAM,
+  HOYLMAN-SIGAL,  JACKSON, KAVANAGH, KRUEGER, MAY, MAYER, MYRIE, PARKER,
+  RAMOS, RIVERA, SALAZAR, SANDERS, SEPULVEDA, SERRANO, THOMAS,  WEBB  --
+  read  twice  and  ordered printed, and when printed to be committed to
+  the Committee on Crime Victims, Crime and Correction -- recommitted to
+  the Committee on Crime Victims, Crime  and  Correction  in  accordance
+  with  Senate  Rule  6,  sec.  8 -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the correction law and the penal law, in relation to the
   early release of incarcerated individuals
@@ -36,8 +41,8 @@ S T A T E  O F  N E W  Y O R K
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  This  act  shall be known and may be cited as the "earned
- time act".
+  Section  1.  Short title.  This act shall be known and may be cited as
+ the "earned time act".
   § 2. The correction law is amended by adding a new section 802 to read
  as follows:
   § 802. DATA COLLECTION. THE DEPARTMENT SHALL REPORT  ANNUALLY  TO  THE
@@ -47,29 +52,29 @@ S T A T E  O F  N E W  Y O R K
  CATION  NUMBER  AND  RACE  OF  EACH INCARCERATED INDIVIDUAL WHO HAS BEEN
  DENIED CREDIT AND THE AMOUNT OF CREDIT INVOLVED, THE REASON  OR  REASONS
  FOR  THE  DENIAL,  INCLUDING, WHERE APPLICABLE, A DESCRIPTION OF THE BAD
- BEHAVIOR OR INSTITUTIONAL RULE VIOLATION OR  VIOLATIONS  (INCLUDING  THE
- CORRESPONDING  NUMERICAL CODE IN THE DEPARTMENT'S INMATE RULE HANDBOOK),
+ BEHAVIOR OR INSTITUTIONAL RULE VIOLATION OR  VIOLATIONS,  INCLUDING  THE
+ CORRESPONDING  NUMERICAL  CODE IN THE DEPARTMENT'S INMATE RULE HANDBOOK,
  AND, WHERE APPLICABLE, A DESCRIPTION OF THE ASSIGNED DUTY  AND/OR  IDEN-
  TIFICATION  OF  ASSIGNED  TREATMENT  PROGRAM  IN  WHICH THE INCARCERATED
  PERSON WAS DETERMINED TO HAVE FAILED TO  PERFORM  PROPERLY.  THE  REPORT
  SHALL  ADDITIONALLY  SPECIFY THE DEPARTMENT FACILITY IN WHICH THE RECOM-
  MENDATION TO WITHHOLD, FORFEIT OR CANCEL GOOD  TIME  WAS  MADE  AND  THE
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02637-02-4
+ S. 774--A  2
+ 
  NAMES  OF  THE  DEPARTMENT  PERSONNEL  ON SUCH FACILITY'S TIME ALLOWANCE
  COMMITTEE WHO MADE SUCH RECOMMENDATION.
   § 3. Section 803 of the correction law, as amended by chapter 3 of the
  laws of 1995, paragraphs (a), (b), and (c) of subdivision 1 and subdivi-
- sions 3, 4, and 5 as amended by section 37 of subpart B  of  part  C  of
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02637-01-3
- S. 774  2
- 
- chapter  62  of  the  laws  of  2011, paragraph (d) of subdivision 1 and
- subdivision 2-a as added by chapter 738 of the laws  of  2004,  subpara-
- graph  (ii)  of paragraph (d) of subdivision 1 as amended by chapter 322
+ sions  3,  4,  and  5 as amended by section 37 of subpart B of part C of
+ chapter 62 of the laws of 2011,  paragraph  (d)  of  subdivision  1  and
+ subdivision  2-a  as  added by chapter 738 of the laws of 2004, subpara-
+ graph (ii) of paragraph (d) of subdivision 1 as amended by  chapter  322
  of the laws of 2021, subparagraph (iv) of paragraph (d) of subdivision 1
- as  separately  amended  by  chapters  242  and 322 of the laws of 2021,
+ as  separately  amended  by chapters 242 and 322 of the laws of 2021 and
  subdivision 2-b as added by section 3 of part E of  chapter  62  of  the
  laws of 2003, is amended to read as follows:
   §  803. Good behavior allowances against indeterminate and determinate
@@ -116,15 +121,15 @@ S T A T E  O F  N E W  Y O R K
  every] EVERY person under the custody of the department or confined in a
  facility  in  the  department of mental hygiene serving an indeterminate
  sentence of imprisonment with a minimum period of one year or more or  a
+ S. 774--A  3
+
  determinate sentence of imprisonment of one year or more [imposed pursu-
  ant  to  section 70.70 or 70.71 of the penal law,] may earn a merit time
  allowance.
-  (ii) [Such merit time allowance shall not be available to  any  person
- serving  an indeterminate sentence authorized for an A-I felony offense,
- S. 774  3
-
- other than an A-I felony offense defined in article two  hundred  twenty
- of  the  penal law, or any sentence imposed for a violent felony offense
+  (ii)  [Such  merit time allowance shall not be available to any person
+ serving an indeterminate sentence authorized for an A-I felony  offense,
+ other  than  an A-I felony offense defined in article two hundred twenty
+ of the penal law, or any sentence imposed for a violent  felony  offense
  as defined in section 70.02 of the penal law, manslaughter in the second
  degree,  vehicular  manslaughter  in  the  second  degree,  vehicular
  manslaughter in the first  degree,  criminally  negligent  homicide,  an
@@ -174,16 +179,16 @@ S T A T E  O F  N E W  Y O R K
   (v)]  (IV)  The provisions of this paragraph shall apply to persons in
  custody serving [an] A DETERMINATE  OR  indeterminate  sentence  on  the
  effective date of this paragraph as well as to persons sentenced to [an]
+ S. 774--A  4
+ 
  A  DETERMINATE OR indeterminate sentence on and after the effective date
  of this paragraph [and prior to September first, two thousand  five  and
  to persons sentenced to a determinate sentence prior to September first,
  two thousand eleven for a felony as defined in article two hundred twen-
  ty  or two hundred twenty-one of the penal law]. THE TIME ALLOWANCES SET
- S. 774  4
- 
  FORTH IN THIS PARAGRAPH SHALL APPLY RETROACTIVELY AND SHALL BE  CREDITED
  TOWARD  EVERY  INCARCERATED  INDIVIDUAL'S SENTENCE WITHIN NINETY DAYS OF
- THE CHAPTER OF THE LAWS OF TWO THOUSAND TWENTY-THREE THAT  AMENDED  THIS
+ THE CHAPTER OF THE LAWS OF TWO THOUSAND TWENTY-FOUR  THAT  AMENDED  THIS
  PARAGRAPH.
   2.  If  a  person  is  serving  more than one sentence, the authorized
  allowances may be granted separately against the term or maximum term of
@@ -231,13 +236,13 @@ S T A T E  O F  N E W  Y O R K
  period  of  the indeterminate sentence imposed for an A-I felony offense
  defined in article two hundred twenty of the penal law, whichever allow-
  ance results in the longest unexpired time to run] BY THE COURT.
+ S. 774--A  5
+ 
   (b) A person serving two or more  indeterminate  sentences  which  run
  consecutively  may  receive  a  merit  time  allowance not to exceed the
  amount of [one-third] ONE-HALF of the minimum or aggregate minimum peri-
  od of the sentences imposed [for an A-I felony offense defined in  arti-
  cle  two  hundred twenty of the penal law, plus one-sixth of the minimum
- S. 774  5
-
  or aggregate minimum period of the  sentences  imposed  for  an  offense
  other than such A-I felony offense] BY THE COURT.
   (c) A person serving two or more determinate sentences [for an offense
@@ -282,77 +287,77 @@ S T A T E  O F  N E W  Y O R K
  TIME ALLOWANCES SET FORTH IN THIS SUBDIVISION SHALL APPLY RETROACTIVELY,
  AND  SHALL  BE  CREDITED TOWARD EVERY INCARCERATED INDIVIDUAL'S SENTENCE
  WITHIN NINETY DAYS OF THE EFFECTIVE DATE OF THE CHAPTER OF THE  LAWS  OF
- TWO THOUSAND TWENTY-THREE THAT AMENDED THIS SUBDIVISION.
+ TWO THOUSAND TWENTY-FOUR THAT AMENDED THIS SUBDIVISION.
   [2-b.  Notwithstanding the foregoing, if a person is serving more than
  one indeterminate sentence, at least one of which is imposed for a class
  A-I felony offense defined in article two hundred twenty  of  the  penal
  law,  the  authorized merit time allowance granted pursuant to paragraph
  (d) of subdivision one of this section shall be calculated as follows:
+ S. 774--A  6
+
   (a) In the event  a  person  is  serving  two  or  more  indeterminate
  sentences  with  different  minimum  periods which run concurrently, the
  merit time allowance shall be based upon the sentence with  the  longest
  unexpired  minimum  period.  If  the sentence with the longest unexpired
  minimum period was imposed for a class A-I felony, the merit time credit
- shall be one-third of such sentence's minimum period; if  such  sentence
- S. 774  6
-
- was  imposed  for  an  offense other than a class A-I felony, such merit
- time credit shall  be  one-sixth  of  such  sentence's  minimum  period.
+ shall  be  one-third of such sentence's minimum period; if such sentence
+ was imposed for an offense other than a class  A-I  felony,  such  merit
+ time  credit  shall  be  one-sixth  of  such  sentence's minimum period.
  Provided, however, that where the minimum period of any other concurrent
- indeterminate  sentence is greater than such reduced minimum period, the
- minimum period of such other  concurrent  indeterminate  sentence  shall
- also  be  reduced but only to the extent that the minimum period of such
- other concurrent sentence, as so reduced, is equal to the reduced  mini-
+ indeterminate sentence is greater than such reduced minimum period,  the
+ minimum  period  of  such  other concurrent indeterminate sentence shall
+ also be reduced but only to the extent that the minimum period  of  such
+ other  concurrent sentence, as so reduced, is equal to the reduced mini-
  mum period of such sentence with the longest unexpired minimum period to
  run.
   (b) A person serving two or more indeterminate sentences with the same
- minimum  periods which run concurrently, and no concurrent indeterminate
- sentence with any greater minimum period, shall have the minimum  period
+ minimum periods which run concurrently, and no concurrent  indeterminate
+ sentence  with any greater minimum period, shall have the minimum period
  of each such sentence reduced in the amount of one-third of such minimum
  period if all such sentences were imposed for a class A-I felony.
-  (c)  A  person  serving  two  or more indeterminate sentences that run
- consecutively shall have the aggregate minimum period of such  sentences
- reduced  in  the amount of one-third of such aggregate minimum period of
- the sentences imposed for a class A-I felony,  plus  one-sixth  of  such
- aggregate  minimum  period of the sentences imposed for an offense other
+  (c) A person serving two or  more  indeterminate  sentences  that  run
+ consecutively  shall have the aggregate minimum period of such sentences
+ reduced in the amount of one-third of such aggregate minimum  period  of
+ the  sentences  imposed  for  a class A-I felony, plus one-sixth of such
+ aggregate minimum period of the sentences imposed for an  offense  other
  than a class A-I felony.]
-  3. The commissioner of corrections  and  community  supervision  shall
- promulgate  rules  and  regulations for the FAIR AND EQUITABLE granting,
- withholding, forfeiture,  cancellation  and  restoration  of  allowances
+  3.  The  commissioner  of  corrections and community supervision shall
+ promulgate rules and regulations for the FAIR  AND  EQUITABLE  granting,
+ withholding,  forfeiture,  cancellation  and  restoration  of allowances
  authorized by this section in accordance with the criteria herein speci-
  fied. Such rules and regulations shall SPECIFY PROCEDURES TO ENSURE THAT
- SIMILARLY  SITUATED  INCARCERATED  PERSONS  ARE  TREATED  SIMILARLY WITH
- RESPECT TO THE GRANTING,  WITHHOLDING,  FORFEITURE  OR  CANCELLATION  OF
- ALLOWANCES,  AND  include provisions designating the person or committee
- in each correctional institution delegated to make discretionary  deter-
- minations  with  respect  to the allowances, the books and records to be
- kept, and a procedure for review of the institutional determinations  by
+ SIMILARLY SITUATED  INCARCERATED  PERSONS  ARE  TREATED  SIMILARLY  WITH
+ RESPECT  TO  THE  GRANTING,  WITHHOLDING,  FORFEITURE OR CANCELLATION OF
+ ALLOWANCES, AND include provisions designating the person  or  committee
+ in  each correctional institution delegated to make discretionary deter-
+ minations with respect to the allowances, the books and  records  to  be
+ kept,  and a procedure for review of the institutional determinations by
  the commissioner.
   4. [No person shall have the right to demand or require the allowances
  authorized  by  this  section.  The  decision  of  the  commissioner  of
- corrections and community supervision as to the  granting,  withholding,
- forfeiture,  cancellation  or  restoration  of  such allowances shall be
+ corrections  and  community supervision as to the granting, withholding,
+ forfeiture, cancellation or restoration  of  such  allowances  shall  be
  final and shall not be reviewable if made in accordance with law.
-  5.] Time allowances granted prior to any release to  community  super-
- vision  shall  be  forfeited  and  shall not be restored if the released
+  5.]  Time  allowances granted prior to any release to community super-
+ vision shall be forfeited and shall not  be  restored  if  the  released
  person is returned to an institution under the jurisdiction of the state
- department of corrections and community  supervision  for  violation  of
+ department  of  corrections  and  community supervision for violation of
  community supervision or by reason of a conviction for a crime committed
- while  on community supervision. A person who is so returned may, howev-
- er, subsequently receive time allowances against the  remaining  portion
- of  [his  or  her]  THEIR  term,  maximum term or aggregate maximum term
- pursuant to this section [and provided such remaining portion of his  or
- her  term,  maximum  term,  or  aggregate  maximum term is more than one
+ while on community supervision. A person who is so returned may,  howev-
+ er,  subsequently  receive time allowances against the remaining portion
+ of [his or her] THEIR term,  maximum  term  or  aggregate  maximum  term
+ pursuant  to this section [and provided such remaining portion of his or
+ her term, maximum term, or aggregate  maximum  term  is  more  than  one
  year].
-  [6.] 5.  Upon  commencement  of  an  indeterminate  or  a  determinate
+  [6.]  5.  Upon  commencement  of  an  indeterminate  or  a determinate
  sentence the provisions of this section shall be furnished to the person
+ S. 774--A  7
+ 
  serving the sentence and the meaning of same shall be fully explained to
- [him]  THEM  by  a person designated by the commissioner to perform such
+ [him] THEM by a person designated by the commissioner  to  perform  such
  duty.
   § 4. Section 804 of the correction law, as added by chapter 680 of the
  laws of 1967, subdivisions 1 and 2 as amended by chapter 145 of the laws
- S. 774  7
- 
  of 1976, and subdivision 6 as amended by section 39 of subpart B of part
  C of chapter 62 of the laws of 2011, is amended to read as follows:
   §  804.  Good behavior allowances against definite sentences. 1. Every
@@ -404,14 +409,14 @@ S T A T E  O F  N E W  Y O R K
  section and who has been conditionally released under subdivision two of
  section 70.40 of the penal law  shall  not  forfeit  such  reduction  by
  reason  of  conduct  causing  [his]  THEIR  return  to  the institution.
+ S. 774--A  8
+ 
  Provided, nevertheless, that such reduction may be forfeited  by  reason
  of subsequent conduct while serving the remainder of [his] THEIR term.
   [5.]  4.  The  state  commission of correction shall promulgate record
  keeping rules and regulations for the FAIR AND EQUITABLE granting, with-
  holding, forfeiture, cancellation and restoration of allowances  author-
- S. 774  8
- 
- ized  by  this section.  SUCH RULES AND REGULATIONS SHALL SPECIFY PROCE-
+ ized  by  this  section. SUCH RULES AND REGULATIONS SHALL SPECIFY PROCE-
  DURES TO ENSURE THAT SIMILARLY SITUATED INCARCERATED PERSONS ARE TREATED
  SIMILARLY WITH RESPECT  TO  THE  GRANTING,  WITHHOLDING,  FORFEITURE  OR
  CANCELLATION OF ALLOWANCES.
@@ -462,13 +467,13 @@ S T A T E  O F  N E W  Y O R K
  total of all allowances granted to any such  person  exceed  [one-third]
  ONE-HALF  of  the  time  [he]  THEY would be required to serve, computed
  without regard to this section.
+ S. 774--A  9
+ 
   3. [No person shall have the right to demand or require the allowances
  authorized by this section. The decision of the sheriff, superintendent,
  warden or other person in charge  of  the  institution,  or  where  such
  institution is under the jurisdiction of a county or city department the
  decision  of  the head of such department, as to the granting, withhold-
- S. 774  9
-
  ing, forfeiture, cancellation, or restoration of such  allowances  shall
  be final and shall not be reviewable if made in accordance with law.
   4.] The state commission of correction shall promulgate record keeping
@@ -520,12 +525,12 @@ S T A T E  O F  N E W  Y O R K
  years in the case of a determinate term of imprisonment].
   §  7.  Section 867 of the correction law, as amended by chapter 322 of
  the laws of 2021, is amended to read as follows:
+ S. 774--A  10
+ 
   § 867. Procedure for selection of participants in shock  incarceration
  program.  1.  An [eligible] incarcerated individual may make an applica-
  tion to the shock incarceration screening committee  for  permission  to
  participate in the shock incarceration program.
- S. 774  10
- 
   2.  If  the shock incarceration screening committee determines that an
  incarcerated  individual's  participation  in  the  shock  incarceration
  program  is  consistent with the safety of the community, the welfare of
@@ -577,70 +582,70 @@ S T A T E  O F  N E W  Y O R K
  serving an indeterminate sentence the maximum term  of  which  shall  be
  deemed to be twenty years. In such instances, the minimum sentence shall
  be  deemed  to  be  ten  years or [six-sevenths] ONE-HALF of the term or
+ S. 774--A  11
+ 
  aggregate maximum term of the determinate sentence or sentences,  which-
  ever is greater.
   §  9. Clause (B) of subparagraph (iii) of paragraph (e) of subdivision
  1 of section 70.30 of the penal law, as amended by chapter 3 of the laws
  of 1995, is amended to read as follows:
- S. 774  11
- 
   (B) if the aggregate maximum  term  of  the  determinate  sentence  or
  sentences is less than thirty years, the defendant shall be deemed to be
  serving  an  indeterminate  sentence  the maximum term of which shall be
  deemed to be thirty years. In such instances, the minimum sentence shall
- be  deemed to be fifteen years or [six-sevenths] ONE-HALF of the term or
- aggregate maximum term of the determinate sentence or sentences,  which-
+ be deemed to be fifteen years or [six-sevenths] ONE-HALF of the term  or
+ aggregate  maximum term of the determinate sentence or sentences, which-
  ever is greater.
   § 10. Clause (B) of subparagraph (v) of paragraph (e) of subdivision 1
- of  section  70.30 of the penal law, as amended by chapter 3 of the laws
+ of section 70.30 of the penal law, as amended by chapter 3 of  the  laws
  of 1995, is amended to read as follows:
-  (B) if the aggregate maximum  term  of  the  determinate  sentence  or
- sentences  is less than forty years, the defendant shall be deemed to be
- serving an indeterminate sentence the maximum term  of  which  shall  be
- deemed  to be forty years. In such instances, the minimum sentence shall
- be deemed to be twenty years or [six-sevenths] ONE-HALF of the  term  or
- aggregate  maximum term of the determinate sentence or sentences, which-
+  (B)  if  the  aggregate  maximum  term  of the determinate sentence or
+ sentences is less than forty years, the defendant shall be deemed to  be
+ serving  an  indeterminate  sentence  the maximum term of which shall be
+ deemed to be forty years. In such instances, the minimum sentence  shall
+ be  deemed  to be twenty years or [six-sevenths] ONE-HALF of the term or
+ aggregate maximum term of the determinate sentence or sentences,  which-
  ever is greater.
   § 11. Clause (B) of subparagraph (vii) of paragraph (e) of subdivision
  1 of section 70.30 of the penal law, as amended by chapter 3 of the laws
  of 1995, is amended to read as follows:
-  (B) if the aggregate maximum  term  of  the  determinate  sentence  or
- sentences  is less than fifty years, the defendant shall be deemed to be
- serving an indeterminate sentence the maximum term  of  which  shall  be
- deemed  to be fifty years. In such instances, the minimum sentence shall
+  (B)  if  the  aggregate  maximum  term  of the determinate sentence or
+ sentences is less than fifty years, the defendant shall be deemed to  be
+ serving  an  indeterminate  sentence  the maximum term of which shall be
+ deemed to be fifty years. In such instances, the minimum sentence  shall
  be deemed to be twenty-five years or [six-sevenths] ONE-HALF of the term
- or aggregate maximum term of  the  determinate  sentence  or  sentences,
+ or  aggregate  maximum  term  of  the determinate sentence or sentences,
  whichever is greater.
-  §  12.  Paragraph  (b)  of subdivision 4 of section 70.30 of the penal
- law, as amended by chapter 3 of the laws of 1995, is amended to read  as
+  § 12. Paragraph (b) of subdivision 4 of section  70.30  of  the  penal
+ law,  as amended by chapter 3 of the laws of 1995, is amended to read as
  follows:
-  (b)  In the case of a person serving a definite sentence, the total of
- such allowances shall not exceed [one-third]  ONE-HALF  of  [his]  THEIR
- term  or  aggregate term and the allowances shall be applied as a credit
+  (b) In the case of a person serving a definite sentence, the total  of
+ such  allowances  shall  not  exceed [one-third] ONE-HALF of [his] THEIR
+ term or aggregate term and the allowances shall be applied as  a  credit
  against such term.
-  § 13. Subparagraphs (iii) and (iv) of paragraph (a) of  subdivision  1
- of  section  70.40  of  the  penal  law,  as amended by section 127-c of
- subpart B of part C of chapter 62 of the laws of 2011,  are  amended  to
+  §  13.  Subparagraphs (iii) and (iv) of paragraph (a) of subdivision 1
+ of section 70.40 of the penal  law,  as  amended  by  section  127-c  of
+ subpart  B  of  part C of chapter 62 of the laws of 2011, are amended to
  read as follows:
-  (iii)  A  person  who  is  serving  one or more than one indeterminate
- sentence of imprisonment and one or more than one  determinate  sentence
- of imprisonment, which run concurrently may be paroled at any time after
- the  expiration  of the minimum period of imprisonment of the indetermi-
- nate sentence or sentences, or upon  the  expiration  of  [six-sevenths]
- ONE-HALF  of  the  term  of  imprisonment of the determinate sentence or
- sentences, whichever is later.
-  (iv) A person who is  serving  one  or  more  than  one  indeterminate
+  (iii) A person who is serving  one  or  more  than  one  indeterminate
  sentence  of  imprisonment and one or more than one determinate sentence
+ of imprisonment, which run concurrently may be paroled at any time after
+ the expiration of the minimum period of imprisonment of  the  indetermi-
+ nate  sentence  or  sentences,  or upon the expiration of [six-sevenths]
+ ONE-HALF of the term of imprisonment  of  the  determinate  sentence  or
+ sentences, whichever is later.
+  (iv)  A  person  who  is  serving  one  or more than one indeterminate
+ sentence of imprisonment and one or more than one  determinate  sentence
  of imprisonment which run consecutively may be paroled at any time after
- the expiration of the sum of the minimum or aggregate minimum period  of
- the  indeterminate  sentence or sentences and [six-sevenths] ONE-HALF of
- the term or aggregate term of imprisonment of the  determinate  sentence
+ the  expiration of the sum of the minimum or aggregate minimum period of
+ the indeterminate sentence or sentences and [six-sevenths]  ONE-HALF  of
+ S. 774--A  12
+ 
+ the  term  or aggregate term of imprisonment of the determinate sentence
  or sentences.
   §  14.  Paragraph  (b)  of subdivision 1 of section 70.40 of the penal
  law, as amended by section 127-d-1 of subpart B of part C of chapter  62
  of the laws of 2011, is amended to read as follows:
- S. 774  12
- 
   (b)  A  person  who  is  serving one or more than one indeterminate or
  determinate sentence of imprisonment shall, if [he or she  so  requests]
  THEY  REQUEST,  be  conditionally released from the institution in which
@@ -669,11 +674,14 @@ S T A T E  O F  N E W  Y O R K
  ments to subdivision 2-b of section 803 of the correction  law  made  by
  section  three  of this act shall not affect the repeal of such subdivi-
  sion and shall be deemed repealed therewith; provided further,  however,
- that  the amendments to paragraph (e) of subdivision 1 and paragraph (b)
- of subdivision four of section 70.30 of the penal law made  by  sections
- eight,  nine,  ten,  eleven, and twelve of this act shall not affect the
- expiration of such paragraphs and shall be deemed to  expire  therewith;
- and provided further, however, that the amendments to paragraphs (a) and
- (b)  of subdivision 1 of section 70.40 of the penal law made by sections
- thirteen and fourteen of this act shall not  affect  the  expiration  of
- such paragraphs and shall be deemed to expire therewith.
+ that  the  amendments to paragraph (e) of subdivision 1 of section 70.30
+ of the penal law made by sections  eight, nine, ten and eleven  of  this
+ act  shall  not  affect  the  expiration  of such paragraph and shall be
+ deemed to expire therewith; provided further, however, that  the  amend-
+ ments  to  paragraph  (b) of subdivision 4 of section 70.30 of the penal
+ law made by section twelve of this act shall not affect  the  expiration
+ of  such  subdivision  and shall expire therewith; and provided further,
+ however, that the amendments to paragraphs (a) and (b) of subdivision  1
+ of section 70.40 of the penal law made by sections thirteen and fourteen
+ of this act shall not affect the expiration of such paragraphs and shall
+ be deemed to expire therewith.
