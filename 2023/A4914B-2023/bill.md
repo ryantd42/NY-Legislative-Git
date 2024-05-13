@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the Peter Wheeler Memorial Bridge
 
-**Bill ID:** A4914BA
+**Bill ID:** A4914BB
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in Tompkins county as the "Pete
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4914--A
+  4914--B
  
   2023-2024 Regular Sessions
  
@@ -27,17 +27,20 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced by M. of A. KELLES -- read once and referred to the Committee
   on  Transportation  --  committee  discharged,  bill  amended, ordered
-  reprinted as amended and recommitted to said committee
+  reprinted as amended and recommitted to said committee --  recommitted
+  to the Committee on Transportation in accordance with Assembly Rule 3,
+  sec.  2  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Peter Wheeler Memorial Bridge"
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
+  §  344-P.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
  "PETER WHEELER MEMORIAL BRIDGE". ALL THAT PORTION OF THE  STATE  HIGHWAY
  SYSTEM  CONSTITUTING  THE  BRIDGE  ON STATE ROUTE THIRTY-FOUR-B CROSSING
  SALMON CREEK IN THE TOWN OF LANSING, COUNTY OF TOMPKINS, SHALL BE DESIG-
@@ -53,7 +56,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08769-02-3
+  LBD08769-04-4
