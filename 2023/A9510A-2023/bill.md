@@ -1,6 +1,6 @@
 # Relates to contracts for school food services
 
-**Bill ID:** A9510A
+**Bill ID:** A9510AA
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that a board of education or a board of cooperative educational service
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  9510
+  9510--A
  
   I N  A S S E M B L Y
  
@@ -24,11 +24,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. McDONALD -- read once and referred to the Commit-
-  tee on Education
+  tee  on  Education  --  committee  discharged,  bill  amended, ordered
+  reprinted as amended and recommitted to said committee
  
- AN  ACT to amend the general municipal law, in relation to contracts for
-  school food services
- 
+ AN ACT to amend the general municipal law, in relation to contracts  for
+  school  food services; and providing for the repeal of such provisions
+  upon expiration thereof
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -44,8 +46,8 @@ S T A T E  O F  N E W  Y O R K
  OF  A  SAFE  AND  NUTRITIOUS  FOOD  SERVICE PROGRAM WITH PRICE BEING THE
  PRIMARY FACTOR AND MOST  HEAVILY  WEIGHTED  BUT  NOT  THE  DETERMINATIVE
  FACTOR.
-  § 2. This act shall take effect immediately.
- 
+  §  2.  This  act shall take effect immediately and shall expire and be
+ deemed repealed five years after such effective date.
  
  
  
@@ -53,4 +55,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD14838-01-4
+  LBD14838-03-4
