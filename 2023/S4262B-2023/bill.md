@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the Peter Wheeler Memorial Bridge
 
-**Bill ID:** S4262BA
+**Bill ID:** S4262BB
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Senate Floor Calendar
@@ -16,8 +16,7 @@ Designates a portion of the state highway system in Tompkins county as the "Pete
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4262--A
-  Cal. No. 441
+  4262--B
  
   2023-2024 Regular Sessions
  
@@ -31,7 +30,9 @@ S T A T E  O F  N E W  Y O R K
   favorably from said committee, ordered to  first  and  second  report,
   amended  on  second  report,  ordered  to  a  third reading, and to be
   reprinted as amended, retaining its place in the order of third  read-
-  ing
+  ing  --  recommitted  to the Committee on Transportation in accordance
+  with Senate Rule 6, sec. 8  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Peter Wheeler Memorial Bridge"
@@ -39,9 +40,9 @@ S T A T E  O F  N E W  Y O R K
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  § 344-O. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
+  § 344-P. PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED  AS  THE
  "PETER  WHEELER  MEMORIAL BRIDGE". ALL THAT PORTION OF THE STATE HIGHWAY
  SYSTEM CONSTITUTING THE BRIDGE ON  STATE  ROUTE  THIRTY-FOUR-B  CROSSING
  SALMON CREEK IN THE TOWN OF LANSING, COUNTY OF TOMPKINS, SHALL BE DESIG-
@@ -56,7 +57,6 @@ S T A T E  O F  N E W  Y O R K
   § 3. This act shall take effect immediately.
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08769-03-3
+  LBD08769-05-4
