@@ -1,6 +1,6 @@
 # Relates to certain commercial fishing and shellfish licenses and permits
 
-**Bill ID:** A2005A
+**Bill ID:** A2005AA
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that where the total number of commercial food fish license, commercial
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2005
+  2005--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. THIELE -- read once and referred to the Committee
-  on Environmental Conservation
- 
+  on Environmental Conservation -- recommitted to the Committee on Envi-
+  ronmental  Conservation  in accordance with Assembly Rule 3, sec. 2 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+
  AN  ACT  to  amend  the  environmental  conservation law, in relation to
   certain  commercial  food  fish  licenses,  commercial  crab  permits,
   commercial  whelk or  conch  licenses, marine and coastal district
@@ -41,7 +44,7 @@ S T A T E  O F  N E W  Y O R K
  graph (i) of paragraph c of subdivision 3, subparagraph (i) of paragraph
  c  of subdivision 4 and subparagraph (i) of paragraph c of subdivision 5
  of section 13-0328 of the environmental conservation law, as amended  by
- chapter  760 of the laws of 2022, are amended and a new subdivision 8 is
+ chapter  306 of the laws of 2023, are amended and a new subdivision 8 is
  added to read as follows:
   (i) [licenses shall be issued in the order in which  the  applications
  were  received,  except that where multiple applications are received by
@@ -62,8 +65,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05703-01-3
- A. 2005  2
+  LBD05703-03-4
+ A. 2005--A  2
  
   (i) [permits shall be issued in the order in  which  the  applications
  were  received,  except that where multiple applications are received by
@@ -83,18 +86,19 @@ S T A T E  O F  N E W  Y O R K
   (i)  [licenses  shall be issued in the order in which the applications
  were received, except that where multiple applications are  received  by
  the  department  on  the same day,] WHERE THE TOTAL NUMBER OF COMMERCIAL
- CRAB PERMIT APPLICATIONS FROM PERSONS WHO WERE NOT ISSUED SUCH PERMIT IN
- THE PREVIOUS YEAR EXCEEDS THE NUMBER OF PERMITS THAT ARE AVAILABLE,  THE
- DEPARTMENT  SHALL  RANDOMLY  SELECT  RECIPIENTS OF THE AVAILABLE PERMITS
- FROM AMONG THOSE APPLICATIONS RECEIVED BY THE FIRST BUSINESS DAY OF  THE
- APPLICABLE  PERMIT  YEAR, PROVIDED HOWEVER THAT APPLICANTS SHALL RECEIVE
- ONE EXTRA ENTRY FOR EACH PREVIOUS YEAR THAT THEY APPLIED FOR SUCH PERMIT
- AND WERE NOT SELECTED,  AND  applicants  for  whom  the  department  has
- received  notice  of successful completion of an apprenticeship pursuant
- to subdivision seven of this section shall [be considered by the depart-
- ment prior to other applicants] RECEIVE ONE EXTRA  ENTRY,  AND  PROVIDED
- FURTHER  THAT THE DEPARTMENT IS AUTHORIZED TO ADOPT REGULATIONS TO AMEND
- OR SUPPLEMENT THIS PROCESS FOR ISSUING COMMERCIAL CRAB PERMITS;
+ WHELK OR CONCH PERMIT APPLICATIONS FROM PERSONS WHO WERE NOT ISSUED SUCH
+ PERMIT IN THE PREVIOUS YEAR EXCEEDS  THE  NUMBER  OF  PERMITS  THAT  ARE
+ AVAILABLE, THE DEPARTMENT SHALL RANDOMLY SELECT RECIPIENTS OF THE AVAIL-
+ ABLE  PERMITS  FROM AMONG THOSE APPLICATIONS RECEIVED BY THE FIRST BUSI-
+ NESS DAY OF THE APPLICABLE PERMIT YEAR, PROVIDED HOWEVER THAT APPLICANTS
+ SHALL RECEIVE ONE EXTRA ENTRY FOR EACH PREVIOUS YEAR THAT  THEY  APPLIED
+ FOR  SUCH  PERMIT  AND  WERE  NOT  SELECTED, AND applicants for whom the
+ department has received notice of successful completion  of  an  appren-
+ ticeship pursuant to subdivision seven of this section shall [be consid-
+ ered  by  the  department  prior  to other applicants] RECEIVE ONE EXTRA
+ ENTRY, AND PROVIDED FURTHER THAT THE DEPARTMENT IS AUTHORIZED  TO  ADOPT
+ REGULATIONS  TO  AMEND OR SUPPLEMENT THIS PROCESS FOR ISSUING COMMERCIAL
+ WHELK OR CONCH PERMITS;
   (i) [licenses shall be issued in the order in which  the  applications
  were  received]  WHERE  THE  TOTAL NUMBER OF MARINE AND COASTAL DISTRICT
  PARTY AND CHARTER BOAT LICENSE APPLICATIONS FROM PERSONS  WHO  WERE  NOT
