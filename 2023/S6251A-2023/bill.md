@@ -1,6 +1,6 @@
 # Authorizes the Halesite Fire District to file an application for exemption from real property taxes
 
-**Bill ID:** S6251A
+**Bill ID:** S6251AA
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Authorizes the Halesite Fire District to file an application for exemption from 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6251
+  6251--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. MATTERA -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
- 
+  printed to be committed to the Committee on Local Government -- recom-
+  mitted to the Committee on Local Government in accordance with  Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT in relation to authorizing the Halesite Fire District to file  an
   application for exemption from real property taxes
  
@@ -38,26 +41,25 @@ S T A T E  O F  N E W  Y O R K
  the assessor of the town of Huntington, county  of  Suffolk,  is  hereby
  authorized to accept from the Halesite Fire District, an application for
  exemption  from  real property taxes pursuant to section 464 of the real
- property tax law with respect to the 2022-2023 and 2023-2024  assessment
- rolls,  for  the  parcels  owned by such organization, with such parcels
- being located at 10 New York avenue, in the town of  Huntington,  county
- of  Suffolk,  otherwise  known  as Suffolk county tax map district 0400,
- section 031.00, block 02.00, lot 019.000.
-  If accepted, the application shall be  reviewed  as  if  it  had  been
+ property tax law with respect to the 2022-2023 assessment roll, for  the
+ parcels  owned  by such organization, with such parcels being located at
+ 10 New York avenue, in the town of Huntington, county of Suffolk, other-
+ wise known as Suffolk county tax  map  district  0400,  section  031.00,
+ block 02.00, lot 019.000.
+  If  accepted,  the  application  shall  be  reviewed as if it had been
  received on or before the taxable status date established for such roll.
- If  satisfied that such organization would otherwise be entitled to such
+ If satisfied that such organization would otherwise be entitled to  such
  exemption if such organization had filed an application for exemption by
- the appropriate taxable status date, the assessor, upon approval by  the
+ the  appropriate taxable status date, the assessor, upon approval by the
  town of Huntington board, may grant exemption from all taxation and make
  appropriate corrections to the subject roll. If such exemption is grant-
- ed  and such organization therefore shall have paid any tax with respect
- to the subject roll, the applicable governing  body  or  tax  department
- may,  in  its sole discretion, provide for the refund of the taxes paid,
- along with any fines or penalties paid, and  cancel  any  taxes,  fines,
+ ed and such organization therefore shall have paid any tax with  respect
+ to  the  subject  roll,  the applicable governing body or tax department
+ may, in its sole discretion, provide for the refund of the  taxes  paid,
+ along  with  any  fines  or penalties paid, and cancel any taxes, fines,
  penalties, interest, or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10207-01-3
+  LBD10207-03-4
