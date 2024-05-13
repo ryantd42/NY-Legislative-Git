@@ -1,6 +1,6 @@
 # Relates to state agency contracts with not-for-profit corporations
 
-**Bill ID:** A2740B
+**Bill ID:** A2740BA
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Defines noncompliant state agency; provides for timelines and procedures for sta
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2740
+  2740--A
  
   2023-2024 Regular Sessions
  
@@ -25,42 +25,83 @@ S T A T E  O F  N E W  Y O R K
   January 27, 2023
   ___________
  
- Introduced by M. of A. PAULIN -- read once and referred to the Committee
-  on Governmental Operations
+ Introduced  by  M.  of  A. PAULIN, WALLACE, SIMONE, SIMON, LAVINE, RAGA,
+  HEVESI, LEVENBERG, SAYEGH,  BURDICK,  SHIMSKY,  OTIS,  BURGOS,  GIBBS,
+  TAYLOR,  ZACCARO, DAVILA -- read once and referred to the Committee on
+  Governmental Operations -- recommitted to  the  Committee  on  Govern-
+  mental  Operations  in  accordance  with  Assembly  Rule  3, sec. 2 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
- AN ACT to amend the state finance law, in relation to the time frame for
-  the implementation of contracts with not-for-profit corporations
+ AN  ACT  to  amend  the  state  finance law, in relation to state agency
+  contracts with not-for-profit corporations
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 179-q of the state finance law is amended by adding
- a new subdivision 8-a to read as follows:
-  8-A. "REGISTERED CONTRACT" MEANS A COMPLETED CONTRACT PACKAGE THAT  IS
- SIGNED BY BOTH THE STATE AGENCY AND NOT-FOR-PROFIT ORGANIZATION AND SENT
- TO THE ATTORNEY GENERAL FOR APPROVAL.
-  § 2. Subdivision 1 of section 179-s of the state finance law, as added
- by chapter 166 of the laws of 1991, is amended to read as follows:
-  1.  A  state  agency  shall [have not more than one hundred fifty days
- following the latest date on which any of the appropriations covered  by
- the program plan become law to execute] REGISTER contracts with not-for-
- profit  organizations pursuant to the program plan WITHIN THIRTY DAYS OF
- THE START DATE OF THE CONTRACT. Upon execution of each contract  by  the
- state  agency  and  the  not-for-profit organization, the contract shall
- immediately be delivered to the attorney  general  for  approval.  The
- attorney  general  shall  within  fifteen days of receipt either approve
- such contract or disapprove and return the contract to the state  agency
- with reasons therefor. Upon approval, the contract shall be delivered to
- the  comptroller who shall within fifteen days of receipt either approve
- and file such contract or disapprove and  return  the  contract  to  the
- state agency with his reasons therefor.
-  §  3.  Section 179-t of the state finance law is amended by adding a
- new subdivision 6 to read as follows:
-  6. A STATE AGENCY SHALL REGISTER RENEWAL CONTRACTS WITH NOT-FOR-PROFIT
- ORGANIZATIONS PURSUANT TO THE PROGRAM PLAN WITHIN  THIRTY  DAYS  OF  THE
- START DATE OF THE RENEWED CONTRACT.
-  § 4. This act shall take effect immediately.
+ a new subdivision 15 to read as follows:
+  15.  "NONCOMPLIANT  STATE AGENCY" MEANS A STATE AGENCY THAT HAS FAILED
+ TO EXECUTE CERTAIN CONTRACTS WITHIN REQUIRED TIME FRAMES.
+  § 2. Section 179-t of the state finance law is amended by adding a new
+ subdivision 4-a to read as follows:
+  4-A. A STATE AGENCY SHALL BE DEEMED TO BE NONCOMPLIANT IF, FOR SIX  OF
+ THE  LAST  TWELVE  PRECEDING MONTHS, IT HAS (A) FAILED TO SUBMIT RENEWAL
+ CONTRACTS TO THE ATTORNEY GENERAL WITHIN  THE  TIME  FRAME  REQUIRED  BY
+ SUBDIVISION  FOUR  OF THIS SECTION WHEN NOT-FOR-PROFIT ORGANIZATIONS ARE
+ PARTIES TO SUCH CONTRACTS AND A WRITTEN DIRECTIVE HAS BEEN  ISSUED,  (B)
+ FAILED  TO  SUBMIT  RENEWAL  CONTRACTS  TO THE ATTORNEY GENERAL PRIOR TO
+ COMMENCEMENT WHEN  NOT-FOR-PROFIT  ORGANIZATIONS  ARE  PARTIES  TO  SUCH
+ CONTRACTS,  AND/OR  (C)  IN  ANY  OTHER MANNER FAILED TO FULLY EXECUTE A
+ CONTRACT BEFORE ITS START DATE.
+  § 3.  Section 179-bb of the state finance law is amended by  adding  a
+ new subdivision 4 to read as follows:
+  4.  (A)  A NONCOMPLIANT STATE AGENCY SHALL PREPARE AND TRANSMIT TO THE
+ OFFICE OF THE STATE COMPTROLLER, BY THE END OF EVERY MONTH FOR WHICH  IT
+ IS  NONCOMPLIANT, A REPORT ADDRESSING THOSE RENEWAL CONTRACTS WHICH HAVE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05711-01-3
+  LBD05711-02-4
+ A. 2740--A  2
+ 
+ NOT BEEN SUBMITTED  TO  THE  ATTORNEY  GENERAL  WITHIN  THE  TIME  FRAME
+ REQUIRED  BY  SUBDIVISION  FOUR OF SECTION ONE HUNDRED SEVENTY-NINE-T OF
+ THIS ARTICLE.  IN  ADDITION,  SUCH  AGENCY  SHALL  PROVIDE  NOTIFICATION
+ REGARDING  THE SUBMISSION OF SUCH REPORT TO THE NOT-FOR-PROFIT ORGANIZA-
+ TION IT  IS  CONTRACTING  WITH.  SUCH  REPORT  SHALL  (I)  DESCRIBE  THE
+ CONTRACTS  THAT  HAVE  NOT  BEEN  SUBMITTED, (II) DETAIL THE REASONS THE
+ CONTRACT HAS NOT BEEN SUBMITTED, (III) DETAIL THE STEPS  THE  AGENCY  IS
+ TAKING  TO  SUBMIT  AND  FULLY EXECUTE THE CONTRACT, AND (IV) PROVIDE AN
+ ESTIMATE OF WHEN IT SHALL SUBMIT AND FULLY  EXECUTE  THE  CONTRACT.  THE
+ AGENCY SHALL ALSO MAKE SUCH REPORTS PUBLICLY ACCESSIBLE ON ITS WEBSITE.
+  (B)  WITHIN  SIX  MONTHS OF BECOMING A NONCOMPLIANT STATE AGENCY, SUCH
+ AGENCY SHALL PREPARE AND TRANSMIT TO  THE  OFFICE  OF  THE  STATE  COMP-
+ TROLLER,  THE  TEMPORARY PRESIDENT OF THE SENATE, AND THE SPEAKER OF THE
+ ASSEMBLY, A REPORT DESCRIBING ITS EFFORTS TO BECOME COMPLIANT  WITH  THE
+ REQUIREMENTS OF SECTION ONE HUNDRED SEVENTY-NINE-T OF THIS ARTICLE. SUCH
+ REPORT  SHALL DESCRIBE IN DETAIL EFFORTS TO REVISE INTERNAL POLICIES AND
+ PROCEDURES,  IDENTIFY  BOTTLENECKS  AND  OTHER  BARRIERS  TO  EFFICIENT
+ CONTRACTING,  RETRAIN STAFF AND MANAGEMENT, INCORPORATE IMPROVED MANAGE-
+ MENT PRACTICES, REFORM PROCUREMENT PROCESSES, AND ANY OTHER FACTOR WHICH
+ WILL ENABLE THE AGENCY TO MEET THE REQUIREMENTS OF SECTION  ONE  HUNDRED
+ SEVENTY-NINE-T  OF  THIS  ARTICLE AS RELATED TO NOT-FOR-PROFIT ORGANIZA-
+ TIONS. THE AGENCY SHALL ALSO PREPARE AND DELIVER UPDATED  REPORTS  EVERY
+ SIX  MONTHS  AFTER  THE  DELIVERY  OF  THE  FIRST  REPORT DESCRIBING THE
+ PROGRESS IT HAS MADE. SUCH REPORTS SHALL ALSO BE POSTED ON THE  AGENCY'S
+ WEBSITE.
+  §  4.  Subdivision  14  of  section 179-q of the state finance law, as
+ added by chapter 166 of the laws of 1991, is amended to read as follows:
+  14. "Written directive" means a written request by a state agency to a
+ not-for-profit organization  authorizing  such  organization  either  to
+ begin  providing  services  during  the  negotiation of a contract or to
+ continue  providing  services  during  the  negotiation  of  a  renewal
+ contract.  All  written  directives  shall  state  that  payment for the
+ services provided is subject to  the  availability  of  appropriations[,
+ execution  of  either  the contract or renewal contract, and approval of
+ the contract or renewal contract by the  comptroller  and  the  attorney
+ general].  ALL WRITTEN DIRECTIVES SHALL ALSO INCLUDE THE STATE'S PAYMENT
+ SCHEDULE,  WHICH WILL REMAIN IN EFFECT UNTIL A CONTRACT IS APPROVED. ANY
+ LATE PAYMENTS FROM THE STATE BASED ON THE SCHEDULE WILL  BE  SUBJECT  TO
+ INTEREST.
+  § 5. This act shall take effect immediately.
