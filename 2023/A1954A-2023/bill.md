@@ -1,6 +1,6 @@
 # Expands definition of eligible senior citizen and disabled person with respect to condominium and cooperative conversion
 
-**Bill ID:** A1954A
+**Bill ID:** A1954AA
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Expands definition of eligible senior citizen and disabled person to include any
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1954
+  1954--A
  
   2023-2024 Regular Sessions
  
@@ -26,14 +26,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. BICHOTTE HERMELYN -- read once and referred to
-  the Committee on Housing
- 
+  the Committee on Housing -- recommitted to the Committee on Housing in
+  accordance with Assembly Rule 3, sec. 2 -- committee discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
+
  AN ACT to amend the general business law, in relation to senior citizens
   and disabled persons
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Subparagraphs (iii) and (iv) of paragraph (a) of subdivi-
  sion 2-a of section 352-e of the general business law, as added by chap-
  ter 771 of the laws of 1983, are amended to read as follows:
@@ -41,92 +44,92 @@ S T A T E  O F  N E W  Y O R K
  sixty-two  years  of  age  or older on the date the attorney general has
  accepted the plan for filing, and the spouses of  any  such  tenants  on
  such  date,  [and who have elected] OR ANY MEMBER OF THE TENANT'S HOUSE-
- HOLD, LAWFULLY OCCUPYING THE PREMISES AS HIS OR  HER  RESIDENCE  WHO  IS
+ HOLD, LAWFULLY OCCUPYING THE PREMISES AS SUCH PERSON'S RESIDENCE WHO  IS
  SIXTY-TWO YEARS OF AGE OR OLDER ON SUCH DATE, PROVIDED, IN THE CASE OF A
- TENANT'S  HOUSEHOLD  MEMBER,  THAT  HE  OR  SHE HAS LIVED IN THE HOUSING
- ACCOMMODATION AS HIS OR HER RESIDENCE FOR A PERIOD OF NO LESS  THAN  ONE
- YEAR  PRECEDING  SUCH  DATE. THE TENANT MUST ELECT, within sixty days of
- the date the attorney general has accepted the plan for filing, on forms
- promulgated by the attorney general and presented to such tenants by the
- offeror, to become non-purchasing tenants under the provisions  of  this
- subdivision;  provided  that  such  election shall not preclude any such
- tenant from subsequently purchasing the dwelling unit on the terms  then
- offered to tenants in occupancy.
-  (iv)  "Eligible  disabled persons". Non-purchasing tenants who have an
- impairment which results from anatomical, physiological or psychological
- conditions, other than addiction to alcohol, gambling, or any controlled
- substance, which are demonstrable by medically acceptable  clinical  and
- laboratory diagnostic techniques, and which are expected to be permanent
- and  which  [prevent the tenant from engaging in any substantial gainful
- employment] SUBSTANTIALLY LIMIT ONE OR MORE MAJOR LIFE ACTIVITIES on the
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD03387-01-3
- A. 1954  2
- 
- date the attorney general has accepted the  plan  for  filing,  and  the
- spouses  of any such tenants on such date, [and who have elected] OR ANY
- MEMBER OF THE TENANT'S HOUSEHOLD, LAWFULLY OCCUPYING THE PREMISES AS HIS
- OR  HER RESIDENCE, WHO HAS SUCH AN IMPAIRMENT ON SUCH DATE, PROVIDED, IN
- THE CASE OF THE TENANT'S HOUSEHOLD MEMBER, THAT HE OR SHE HAS  LIVED  IN
- THE  HOUSING  ACCOMMODATION  AS  HIS OR HER RESIDENCE FOR A PERIOD OF NO
- LESS THAN ONE YEAR PRECEDING SUCH DATE. THE TENANT  MUST  ELECT,  within
- sixty  days  of  the date the attorney general has accepted the plan for
- filing, on forms promulgated by the attorney general  and  presented  to
- such  tenants by the offeror, to become non-purchasing tenants under the
- provisions of this subdivision; provided, however, that if the disabili-
- ty first occurs after acceptance of  the  plan  for  filing,  then  such
- election may be made within sixty days following the onset of such disa-
- bility  unless  during the period subsequent to sixty days following the
- acceptance of the plan for filing but prior to such election, the  offe-
- ror  accepts  a  written agreement to purchase the apartment from a bona
- fide purchaser; and  provided  further  that  such  election  shall  not
- preclude  any such tenant from subsequently purchasing the dwelling unit
- or the shares allocated thereto on the terms then offered to tenants  in
- occupancy.
-  § 2. Paragraphs (f) and (g) of subdivision 1 of section 352-eee of the
- general  business  law, as added by chapter 402 of the laws of 1983, are
- amended to read as follows:
-  (f) "Eligible senior citizens". Non-purchasing tenants who are  sixty-
- two years of age or older on the date the plan is declared effective and
- the  spouses  of  any  such tenants on such date; [provided that] OR ANY
- MEMBER OF THE TENANT'S HOUSEHOLD, LAWFULLY OCCUPYING THE PREMISES AS HIS
- OR HER RESIDENCE WHO IS SIXTY-TWO YEARS OF AGE OR OLDER  ON  SUCH  DATE,
- PROVIDED, IN THE CASE OF A TENANT'S HOUSEHOLD MEMBER, THAT HE OR SHE HAS
- LIVED  IN THE HOUSING ACCOMMODATION AS HIS OR HER RESIDENCE FOR A PERIOD
- OF NO LESS THAN ONE YEAR PRECEDING SUCH DATE such tenant  shall  not  be
- precluded  from  subsequently  purchasing the dwelling unit on the terms
+ TENANT'S  HOUSEHOLD  MEMBER,  THAT  SUCH PERSON HAS LIVED IN THE HOUSING
+ ACCOMMODATION AS SUCH PERSON'S RESIDENCE FOR A PERIOD OF  NO  LESS  THAN
+ ONE  YEAR  PRECEDING SUCH DATE. THE TENANT MUST ELECT, within sixty days
+ of the date the attorney general has accepted the plan  for  filing,  on
+ forms  promulgated by the attorney general and presented to such tenants
+ by the offeror, to become non-purchasing tenants under the provisions of
+ this subdivision; provided that such election  shall  not  preclude  any
+ such  tenant from subsequently purchasing the dwelling unit on the terms
  then offered to tenants in occupancy.
-  (g) "Eligible disabled persons". Non-purchasing tenants  who  have  an
+  (iv) "Eligible disabled persons". Non-purchasing tenants who  have  an
  impairment which results from anatomical, physiological or psychological
  conditions, other than addiction to alcohol, gambling, or any controlled
  substance,  which  are demonstrable by medically acceptable clinical and
  laboratory diagnostic techniques, and which are expected to be permanent
  and which [prevent the tenant from engaging in any  substantial  gainful
  employment] SUBSTANTIALLY LIMIT ONE OR MORE MAJOR LIFE ACTIVITIES on the
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD03387-02-4
+ A. 1954--A  2
+ 
  date  the  attorney  general  has  accepted the plan for filing, and the
  spouses of any such tenants on such date, [and who have elected] OR  ANY
- MEMBER OF THE TENANT'S HOUSEHOLD, LAWFULLY OCCUPYING THE PREMISES AS HIS
- OR  HER  RESIDENCE WHO HAS SUCH AN IMPAIRMENT ON SUCH DATE, PROVIDED, IN
- THE CASE OF THE TENANT'S HOUSEHOLD MEMBER, THAT HE OR SHE HAS  LIVED  IN
- THE  HOUSING  ACCOMMODATION  AS  HIS OR HER RESIDENCE FOR A PERIOD OF NO
- LESS THAN ONE YEAR PRECEDING SUCH DATE. THE TENANT  MUST  ELECT,  within
- sixty  days  of  the date the attorney general has accepted the plan for
- filing, on forms promulgated by the attorney general  and  presented  to
- such  tenants by the offeror, to become non-purchasing tenants under the
- provisions of this section; provided, however, that  if  the  disability
- first occurs after acceptance of the plan for filing, then such election
- may  be  made  within  sixty days following the onset of such disability
- unless during the period subsequent to sixty days following the  accept-
- ance  of  the  plan  for  filing but prior to such election, the offeror
- accepts a written agreement to purchase the apartment from a  bona  fide
- A. 1954  3
+ MEMBER  OF  THE  TENANT'S  HOUSEHOLD, LAWFULLY OCCUPYING THE PREMISES AS
+ SUCH  PERSON'S  RESIDENCE,  WHO  HAS  SUCH  AN  IMPAIRMENT ON SUCH DATE,
+ PROVIDED, IN THE CASE OF THE TENANT'S HOUSEHOLD MEMBER, THAT SUCH PERSON
+ HAS LIVED IN THE HOUSING ACCOMMODATION AS SUCH PERSON'S RESIDENCE FOR  A
+ PERIOD  OF  NO  LESS  THAN ONE YEAR PRECEDING SUCH DATE. THE TENANT MUST
+ ELECT, within sixty days of the date the attorney general  has  accepted
+ the  plan  for  filing, on forms promulgated by the attorney general and
+ presented to such tenants  by  the  offeror,  to  become  non-purchasing
+ tenants  under  the  provisions  of this subdivision; provided, however,
+ that if the disability first occurs after acceptance  of  the  plan  for
+ filing,  then  such election may be made within sixty days following the
+ onset of such disability unless during the period  subsequent  to  sixty
+ days  following  the acceptance of the plan for filing but prior to such
+ election, the offeror accepts a written agreement to purchase the apart-
+ ment from a bona fide purchaser; and provided further that such election
+ shall not preclude any such  tenant  from  subsequently  purchasing  the
+ dwelling  unit or the shares allocated thereto on the terms then offered
+ to tenants in occupancy.
+  § 2. Paragraphs (f) and (g) of subdivision 1 of section 352-eee of the
+ general business law, as added by chapter 402 of the laws of  1983,  are
+ amended to read as follows:
+  (f)  "Eligible senior citizens". Non-purchasing tenants who are sixty-
+ two years of age or older on the date the plan is declared effective and
+ the spouses of any such tenants on such date;  [provided  that]  OR  ANY
+ MEMBER  OF  THE  TENANT'S  HOUSEHOLD, LAWFULLY OCCUPYING THE PREMISES AS
+ SUCH PERSON'S RESIDENCE WHO IS SIXTY-TWO YEARS OF AGE OR OLDER  ON  SUCH
+ DATE,  PROVIDED,  IN  THE CASE OF A TENANT'S HOUSEHOLD MEMBER, THAT SUCH
+ PERSON HAS LIVED IN THE HOUSING ACCOMMODATION AS SUCH PERSON'S RESIDENCE
+ FOR A PERIOD OF NO LESS THAN ONE YEAR PRECEDING SUCH  DATE  such  tenant
+ shall not be precluded from subsequently purchasing the dwelling unit on
+ the terms then offered to tenants in occupancy.
+  (g)  "Eligible  disabled  persons". Non-purchasing tenants who have an
+ impairment which results from anatomical, physiological or psychological
+ conditions, other than addiction to alcohol, gambling, or any controlled
+ substance, which are demonstrable by medically acceptable  clinical  and
+ laboratory diagnostic techniques, and which are expected to be permanent
+ and  which  [prevent the tenant from engaging in any substantial gainful
+ employment] SUBSTANTIALLY LIMIT ONE OR MORE MAJOR LIFE ACTIVITIES on the
+ date the attorney general has accepted the  plan  for  filing,  and  the
+ spouses  of any such tenants on such date, [and who have elected] OR ANY
+ MEMBER OF THE TENANT'S HOUSEHOLD, LAWFULLY  OCCUPYING  THE  PREMISES  AS
+ SUCH  PERSON'S  RESIDENCE  WHO  HAS  SUCH  AN  IMPAIRMENT  ON SUCH DATE,
+ PROVIDED, IN THE CASE OF THE TENANT'S HOUSEHOLD MEMBER, THAT SUCH PERSON
+ HAS LIVED IN THE HOUSING ACCOMMODATION AS SUCH PERSON'S RESIDENCE FOR  A
+ PERIOD  OF  NO  LESS  THAN ONE YEAR PRECEDING SUCH DATE. THE TENANT MUST
+ ELECT, within sixty days of the date the attorney general  has  accepted
+ the  plan  for  filing, on forms promulgated by the attorney general and
+ presented to such tenants  by  the  offeror,  to  become  non-purchasing
+ tenants under the provisions of this section; provided, however, that if
+ the  disability  first  occurs  after acceptance of the plan for filing,
+ then such election may be made within sixty days following the onset  of
+ such  disability  unless  during  the  period  subsequent  to sixty days
+ following the acceptance of the  plan  for  filing  but  prior  to  such
+ election, the offeror accepts a written agreement to purchase the apart-
+ A. 1954--A  3
  
- purchaser;  and  provided  further that such election shall not preclude
- any such tenant from subsequently purchasing the dwelling  unit  or  the
- shares  allocated  thereto on the terms then offered to tenants in occu-
- pancy.
+ ment from a bona fide purchaser; and provided further that such election
+ shall  not  preclude  any  such  tenant from subsequently purchasing the
+ dwelling unit or the shares allocated thereto on the terms then  offered
+ to tenants in occupancy.
   §  3.  Paragraphs  (f) and (g) of subdivision 1 of section 352-eeee of
  the general business law, as amended by section 1 of part N  of  chapter
  36 of the laws of 2019, are amended to read as follows:
@@ -135,44 +138,45 @@ S T A T E  O F  N E W  Y O R K
  department  of  law or on the date the attorney general has accepted the
  plan for filing, and the spouses of any such tenants on such date,  [and
  who  have  elected]  OR  ANY  MEMBER OF THE TENANT'S HOUSEHOLD, LAWFULLY
- OCCUPYING THE PREMISES AS HIS OR HER RESIDENCE WHO IS SIXTY-TWO YEARS OF
- AGE OR OLDER ON SUCH DATE, PROVIDED, IN THE CASE OF A TENANT'S HOUSEHOLD
- MEMBER, THAT HE OR SHE HAS LIVED IN THE HOUSING ACCOMMODATION AS HIS  OR
- HER RESIDENCE FOR A PERIOD OF NO LESS THAN ONE YEAR PRECEDING SUCH DATE.
- THE TENANT MUST ELECT, within sixty days of the date the plan is submit-
- ted to the department of law or on the date  the  attorney  general  has
- accepted  the  plan  for  filing,  on  forms promulgated by the attorney
- general and presented to such tenants by the offeror, to become non-pur-
- chasing tenants under the provisions of this section; provided that such
- election shall not preclude any such tenant from subsequently purchasing
- the dwelling unit on the terms then offered to tenants in occupancy.
-  (g) "Eligible disabled persons". Non-purchasing tenants  who  have  an
+ OCCUPYING THE PREMISES AS SUCH PERSON'S RESIDENCE WHO IS SIXTY-TWO YEARS
+ OF AGE OR OLDER ON SUCH DATE, PROVIDED, IN THE CASE OF A TENANT'S HOUSE-
+ HOLD MEMBER, THAT SUCH PERSON HAS LIVED IN THE HOUSING ACCOMMODATION  AS
+ SUCH  PERSON'S RESIDENCE FOR A PERIOD OF NO LESS THAN ONE YEAR PRECEDING
+ SUCH DATE. THE TENANT MUST ELECT, within sixty days of the date the plan
+ is submitted to the department of law or on the date the attorney gener-
+ al has accepted the plan for filing, on forms promulgated by the  attor-
+ ney  general  and  presented  to  such tenants by the offeror, to become
+ non-purchasing tenants under the provisions of  this  section;  provided
+ that  such election shall not preclude any such tenant from subsequently
+ purchasing the dwelling unit on the terms then  offered  to  tenants  in
+ occupancy.
+  (g)  "Eligible  disabled  persons". Non-purchasing tenants who have an
  impairment which results from anatomical, physiological or psychological
  conditions, other than addiction to alcohol, gambling, or any controlled
- substance,  which  are demonstrable by medically acceptable clinical and
+ substance, which are demonstrable by medically acceptable  clinical  and
  laboratory diagnostic techniques, and which are expected to be permanent
- and which [prevent the tenant from engaging in any  substantial  gainful
- employment]  ARE  EXPECTED TO BE PERMANENT AND WHICH SUBSTANTIALLY LIMIT
- ONE OR MORE MAJOR LIFE ACTIVITIES on the date the plan is  submitted  to
- the  department  of law or on the date the attorney general has accepted
- the plan for filing, and the spouses of any such tenants on  such  date,
- [and  who  have  elected]  OR  ANY MEMBER OF THE  TENANT'S  HOUSEHOLD,
- LAWFULLY OCCUPYING THE PREMISES AS HIS OR HER RESIDENCE  ON  SUCH  DATE,
- PROVIDED  IN  THE CASE OF A TENANT'S HOUSEHOLD MEMBER,  THAT  HE  OR SHE
- HAS LIVED IN THE HOUSING ACCOMMODATION AS HIS OR  HER  RESIDENCE  FOR  A
+ and  which  [prevent the tenant from engaging in any substantial gainful
+ employment] ARE EXPECTED TO BE PERMANENT AND WHICH  SUBSTANTIALLY  LIMIT
+ ONE  OR  MORE MAJOR LIFE ACTIVITIES on the date the plan is submitted to
+ the department of law or on the date the attorney general  has  accepted
+ the  plan  for filing, and the spouses of any such tenants on such date,
+ [and who have elected] OR ANY  MEMBER  OF  THE  TENANT'S  HOUSEHOLD,
+ LAWFULLY OCCUPYING THE PREMISES AS SUCH PERSON'S RESIDENCE ON SUCH DATE,
+ PROVIDED  IN  THE  CASE OF A TENANT'S HOUSEHOLD MEMBER, THAT SUCH PERSON
+ HAS LIVED IN THE HOUSING ACCOMMODATION AS SUCH PERSON'S RESIDENCE FOR  A
  PERIOD  OF  NO  LESS  THAN ONE YEAR PRECEDING SUCH DATE. THE TENANT MUST
- ELECT,  within  sixty  days  of  the  date  the plan is submitted to the
- department of law or on the date the attorney general has  accepted  the
- plan  for  filing,  on  forms  promulgated  by  the attorney general and
- presented to such tenants  by  the  offeror,  to  become  non-purchasing
+ ELECT, within sixty days of the  date  the  plan  is  submitted  to  the
+ department  of  law or on the date the attorney general has accepted the
+ plan for filing, on  forms  promulgated  by  the  attorney  general  and
+ presented  to  such  tenants  by  the  offeror, to become non-purchasing
  tenants under the provisions of this section; provided, however, that if
- the  disability  first  occurs  after acceptance of the plan for filing,
- then such election may be made within sixty days following the onset  of
- such  disability  unless  during  the  period  subsequent  to sixty days
- following the acceptance of the  plan  for  filing  but  prior  to  such
+ the disability first occurs after acceptance of  the  plan  for  filing,
+ then  such election may be made within sixty days following the onset of
+ such disability unless  during  the  period  subsequent  to  sixty  days
+ following  the  acceptance  of  the  plan  for  filing but prior to such
  election, the offeror accepts a written agreement to purchase the apart-
  ment from a bona fide purchaser; and provided further that such election
- shall  not  preclude  any  such  tenant from subsequently purchasing the
- dwelling unit or the shares allocated thereto on the terms then  offered
+ shall not preclude any such  tenant  from  subsequently  purchasing  the
+ dwelling  unit or the shares allocated thereto on the terms then offered
  to tenants in occupancy.
   § 4. This act shall take effect immediately.
