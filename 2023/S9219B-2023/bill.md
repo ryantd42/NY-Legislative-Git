@@ -1,6 +1,6 @@
 # Permits the town of Kent, Putnam county, to lease certain sports field fences for advertisements
 
-**Bill ID:** S9219B
+**Bill ID:** S9219BA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Permits the town of Kent, Putnam county, to lease sports field fences for advert
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  9219
+  9219--A
  
   I N  S E N A T E
  
@@ -24,7 +24,9 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general municipal law, in relation to permitting the
   town of Kent, Putnam county, to lease certain sports field fences  for
@@ -38,18 +40,17 @@ S T A T E  O F  N E W  Y O R K
   §  77-J. SPORTS FIELD FENCE LEASES IN THE TOWN OF KENT, PUTNAM COUNTY.
  NOTWITHSTANDING ANY PROVISION OF ANY GENERAL, SPECIAL OR LOCAL LAW OR OF
  ANY CHARTER TO THE CONTRARY, THE TOWN OF KENT, PUTNAM COUNTY, MAY  LEASE
- MUNICIPAL  SPORTS  FIELD  FENCES, ANNUALLY, AT A NOMINAL RENT, TO A NOT-
- FOR-PROFIT CORPORATION OR ORGANIZATION, ORGANIZED UNDER THE LAWS OF  THE
- STATE OF NEW YORK FOR THE PURPOSE OF PERMITTING THE SALE OF ADVERTISING,
- WITH  THE  REVENUES TO BE USED SOLELY BY SUCH TOWN'S DEPARTMENT OF PARKS
- AND RECREATION.
+ MUNICIPAL SPORTS FIELD FENCES OF GUGLIELMO FIELD, ANNUALLY, AT A NOMINAL
+ RENT,  TO  A NOT-FOR-PROFIT CORPORATION OR ORGANIZATION, ORGANIZED UNDER
+ THE LAWS OF THE STATE OF NEW YORK FOR THE PURPOSE OF PERMITTING THE SALE
+ OF ADVERTISING, WITH THE REVENUES TO  BE  USED  SOLELY  BY  SUCH  TOWN'S
+ DEPARTMENT OF PARKS AND RECREATION.
   § 2. This act shall take effect immediately.
  
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD14377-01-4
+  LBD14377-03-4
