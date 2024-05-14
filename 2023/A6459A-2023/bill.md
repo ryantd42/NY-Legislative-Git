@@ -1,6 +1,6 @@
 # Requires that all victim impact statements in New York state be video recorded; requires that the members of the parole board review all relevant victim impact statements prior to the conduct of a parole hearing
 
-**Bill ID:** A6459A
+**Bill ID:** A6459AA
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Allows victim impact statements in New York state be video recorded; requires th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6459
+  6459--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,12 @@ S T A T E  O F  N E W  Y O R K
   April 11, 2023
   ___________
  
- Introduced  by  M. of A. McDONALD, BRABENEC -- read once and referred to
-  the Committee on Codes
+ Introduced  by M. of A. McDONALD, BRABENEC, BURDICK, ZEBROWSKI, GUNTHER,
+  WOERNER, COLTON,  ZACCARO,  BENDETT,  ANGELINO,  K. BROWN,  DeSTEFANO,
+  MCGOWAN  -- read once and referred to the Committee on Codes -- recom-
+  mitted to the Committee on Codes in accordance with Assembly  Rule  3,
+  sec.  2  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
  AN ACT to amend the criminal procedure  law,  in  relation  to  allowing
   victim  impact  statements in New York state be video recorded; and to
@@ -54,52 +58,55 @@ S T A T E  O F  N E W  Y O R K
  information may be acquired from the victim's family OR  REPRESENTATIVE.
  The victim impact statement shall be made available to the victim by the
  prosecutor  pursuant  to subdivision two of section 390.50 of this arti-
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD04782-05-4
+ A. 6459--A  2
+ 
  cle. Nothing contained in this section shall be interpreted  to  require
  that a victim supply information for the preparation of this report.
   § 2. Subdivision 1 of section 440.50 of the criminal procedure law, as
  amended  by  chapter  322  of  the  laws  of 2021, is amended to read as
  follows:
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD04782-04-3
- A. 6459  2
- 
   1. Upon the request of a victim of a crime, or in  any  event  in  all
  cases  in which the final disposition includes a conviction of a violent
  felony offense as defined in section 70.02 of the penal  law,  a  felony
  defined  in  article  one  hundred  twenty-five of such law, or a felony
  defined in article one hundred thirty of such law, the district attorney
- shall,  within  sixty  days of the final disposition of the case, inform
- the victim by letter of such final disposition. If such  final  disposi-
- tion  results  in  the commitment of the defendant to the custody of the
+ shall, within sixty days of the final disposition of  the  case,  inform
+ the  victim  by letter of such final disposition. If such final disposi-
+ tion results in the commitment of the defendant to the  custody  of  the
  department of corrections and community supervision for an indeterminate
  OR COMBINED sentence, the notice provided to the crime victim shall also
- inform the victim of his or her right to submit a  written,  audiotaped,
- or [videotaped] VIDEO RECORDED victim impact statement to the department
- of  corrections  and  community  supervision  or to meet [personally] IN
- PERSON OR BY VIDEO CONFERENCE with a member of the state board of parole
- at a time and place separate  from  the  personal  interview  between  a
- member  or members of the board and the incarcerated individual and make
- such a statement, subject to procedures  and  limitations  contained  in
- rules  of  the  board,  both  pursuant to subdivision two of section two
- hundred fifty-nine-i of the executive law. A  copy  of  such  letter  OR
- STATEMENT  shall  be  provided  to the board of parole AND ALL PRESIDING
- COMMISSIONERS FOR SUCH HEARING. The  right  of  the  victim  under  this
- subdivision  to submit a [written] victim impact statement IN ANY FORMAT
- or to meet [personally] IN PERSON OR BY VIDEO CONFERENCE with  a  member
- of  the state board of parole applies to each personal interview between
- a member or members of the board and the incarcerated individual.
+ inform  the  victim of [his or her] THE VICTIM'S right to submit a writ-
+ ten, audiotaped, or [videotaped] VIDEO RECORDED victim impact  statement
+ to  the  department  of corrections and community supervision or to meet
+ [personally] IN PERSON OR BY VIDEO CONFERENCE with a member of the state
+ board of parole at a time and place separate from the personal interview
+ between a member or members of the board and the incarcerated individual
+ and make  such  a  statement,  subject  to  procedures  and  limitations
+ contained  in  rules  of  the board, both pursuant to subdivision two of
+ section two hundred fifty-nine-i of the executive law. A  copy  of  such
+ letter  OR  STATEMENT  shall  be provided to the board of parole AND ALL
+ PRESIDING COMMISSIONERS FOR SUCH HEARING. The right of the victim  under
+ this  subdivision  to  submit a [written] victim impact statement IN ANY
+ FORMAT or to meet [personally] IN PERSON OR BY VIDEO CONFERENCE  with  a
+ member  of  the state board of parole applies to each personal interview
+ between a member or members of the board and the  incarcerated  individ-
+ ual.
   § 3. Subdivision 2 of section 259-i of the executive law is amended by
  adding a new paragraph (f) to read as follows:
-  (F) PRIOR TO THE CONDUCT OF ANY PAROLE HEARING  AS  PROVIDED  IN  THIS
- ARTICLE,  THE  MEMBERS  OF THE BOARD AND ALL PRESIDING COMMISSIONERS FOR
- SUCH HEARING SHALL REVIEW ALL VICTIM IMPACT STATEMENTS RELATING  TO  THE
- OFFENSE  OR  OFFENSES  OF  WHICH  THE  INCARCERATED  INDIVIDUAL HAS BEEN
- CONVICTED, INCLUDING VICTIM IMPACT  STATEMENTS  PROVIDED  IN  CONNECTION
- WITH  THE  PRE-SENTENCING  REPORT  AND VICTIM IMPACT STATEMENTS PROVIDED
- DIRECTLY TO THE PAROLE BOARD.  FAILURE TO REVIEW STATEMENTS AS  PROVIDED
- IN THIS SECTION SHALL RENDER SUCH HEARING INVALID.
+  (F)  PRIOR  TO  THE  CONDUCT OF ANY PAROLE HEARING AS PROVIDED IN THIS
+ ARTICLE, THE MEMBERS OF THE BOARD AND ALL  PRESIDING  COMMISSIONERS  FOR
+ SUCH  HEARING  SHALL REVIEW ALL VICTIM IMPACT STATEMENTS RELATING TO THE
+ OFFENSE OR OFFENSES  OF  WHICH  THE  INCARCERATED  INDIVIDUAL  HAS  BEEN
+ CONVICTED,  INCLUDING  VICTIM  IMPACT  STATEMENTS PROVIDED IN CONNECTION
+ WITH THE PRE-SENTENCING REPORT AND  VICTIM  IMPACT  STATEMENTS  PROVIDED
+ DIRECTLY  TO  THE PAROLE BOARD.  THE PRESIDING COMMISSIONERS AND MEMBERS
+ OF THE BOARD THAT PARTICIPATE IN THE HEARING SHALL SIGN A WRITTEN ATTES-
+ TATION CONFIRMING THAT THEY HAVE REVIEWED THE VICTIM  IMPACT  STATEMENTS
+ PRIOR TO THE HEARING.
   §  4.  This  act shall take effect on the ninetieth day after it shall
  have become a law. Effective immediately the addition, amendment  and/or
  repeal  of  any  rule  or regulation necessary for the implementation of
