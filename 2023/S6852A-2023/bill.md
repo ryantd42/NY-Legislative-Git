@@ -1,6 +1,6 @@
 # Requires landlord to grant access to engineer or architect hired by tenants to inspect major capital improvements in certain multiple dwellings
 
-**Bill ID:** S6852A
+**Bill ID:** S6852AA
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Senate Committee
@@ -16,7 +16,8 @@ Provides that no landlord shall deny access to a licensed professional engineer 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6852
+  6852--A
+  Cal. No. 498
  
   2023-2024 Regular Sessions
  
@@ -25,23 +26,28 @@ S T A T E  O F  N E W  Y O R K
   May 11, 2023
   ___________
  
- Introduced by Sens. PARKER, SEPULVEDA -- read twice and ordered printed,
-  and  when  printed  to  be  committed  to  the  Committee  on Housing,
-  Construction and Community Development
+ Introduced by Sens. PARKER, JACKSON, SEPULVEDA -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Housing,
+  Construction and Community Development -- recommitted to the Committee
+  on  Housing, Construction and Community Development in accordance with
+  Senate Rule 6, sec. 8  --  reported  favorably  from  said  committee,
+  ordered  to  first  and  second  report,  ordered  to a third reading,
+  amended and ordered reprinted, retaining its place  in  the  order  of
+  third reading
  
- AN ACT to amend the administrative code of the city of New York and  the
-  emergency  tenant protection act of nineteen seventy-four, in relation
-  to inspection of major capital improvements for which  rent  increases
-  are  requested and in relation to extending the provisions of the rent
-  stabilization law
+ AN  ACT  to  amend  the administrative code of the city of New York, the
+  emergency tenant protection act of nineteen seventy-four and the emer-
+  gency housing rent control law, in relation  to  inspection  of  major
+  capital  improvements  for  which  rent increases are requested and in
+  relation to extending the provisions of the rent stabilization law
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Subparagraph (g) of paragraph 1 of subdivision g of section
  26-405 of the administrative code of the city of New York, as amended by
- section  27 of part Q chapter 39 of the laws of 2019, is amended to read
- as follows:
+ section  27  of  part Q of chapter 39 of the laws of 2019, is amended to
+ read as follows:
   (g) There has been since July first, nineteen hundred seventy, a major
  capital improvement essential for the  preservation  energy  efficiency,
  functionality,  or infrastructure of the entire building, improvement of
@@ -50,81 +56,80 @@ S T A T E  O F  N E W  Y O R K
  temporary  increase  based  upon  a major capital improvement under this
  subparagraph for any order of the commissioner issued after [the  effec-
  tive  date  of  the  chapter  of  the laws of two thousand nineteen that
- amended this subparagraph] JUNE 14, 2014 shall be in  an  amount  suffi-
+ amended this subparagraph] JUNE 14, 2019 shall be in  an  amount  suffi-
  cient to amortize the cost of the improvements pursuant to this subpara-
  graph  [(g)] over a twelve-year period for buildings with thirty-five or
  fewer units or a twelve and one-half year period for buildings with more
- than thirty-five units, and shall be removed from  the  legal  regulated
- rent  thirty years from the date the increase became effective inclusive
- of any increases granted by the applicable rent guidelines board. Tempo-
- rary major capital improvement increases shall be  collectible  prospec-
- tively on the first day of the first month beginning sixty days from the
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07976-01-3
- S. 6852  2
+  LBD07976-03-4
+ S. 6852--A  2
  
- date  of  mailing  notice  of  approval to the tenant. Such notice shall
+ than thirty-five units, and shall be removed from  the  legal  regulated
+ rent  thirty years from the date the increase became effective inclusive
+ of any increases granted by the applicable rent guidelines board. Tempo-
+ rary  major  capital improvement increases shall be collectible prospec-
+ tively on the first day of the first month beginning sixty days from the
+ date of mailing notice of approval to  the  tenant.  Such  notice  shall
  disclose the total monthly increase in rent and the first month in which
- the tenant would be required to pay the temporary increase. An  approval
- for  a  temporary  major  capital improvement increase shall not include
- retroactive payments. The collection of any increase  shall  not  exceed
- two  percent  in  any year from the effective date of the order granting
- the increase over the rent set forth in the  schedule  of  gross  rents,
- with  collectability  of  any  dollar excess above said sum to be spread
- forward in similar increments and added to the rent  as  established  or
- set  in  future years.  Upon vacancy, the landlord may add any remaining
+ the  tenant would be required to pay the temporary increase. An approval
+ for a temporary major capital improvement  increase  shall  not  include
+ retroactive  payments.  The  collection of any increase shall not exceed
+ two percent in any year from the effective date of  the  order  granting
+ the  increase  over  the  rent set forth in the schedule of gross rents,
+ with collectability of any dollar excess above said  sum  to  be  spread
+ forward  in  similar  increments and added to the rent as established or
+ set in future years.  Upon vacancy, the landlord may add  any  remaining
  balance of the temporary major capital improvement increase to the legal
- regulated rent.  NO LANDLORD SHALL DENY ACCESS TO A  PROFESSIONAL  ENGI-
- NEER  LICENSED  TO  PRACTICE  IN  THE  STATE OF NEW YORK OR A REGISTERED
- ARCHITECT LICENSED TO PRACTICE IN THE STATE OF NEW  YORK  HIRED  BY  ANY
- TENANT, TENANTS OR TENANT ASSOCIATION REPRESENTING TENANTS OF A MULTIPLE
- DWELLING  OF  SIX  UNITS  OR  MORE  FOR  THE  PURPOSE  OF  CONDUCTING AN
- INSPECTION OF A MAJOR CAPITAL IMPROVEMENT FOR WHICH AN  APPLICATION  FOR
- ADJUSTMENT  OF  MAXIMUM  RENT  HAS  BEEN FILED. SUCH INSPECTION SHALL BE
- CONDUCTED AFTER NOTICE TO THE LANDLORD AND DURING NORMAL BUSINESS HOURS.
- SUCH TENANT MAY FILE THE REPORT OF THE INSPECTION  WITH  THE  CITY  RENT
- AGENCY  FOR  CONSIDERATION  IN  THE  DETERMINATION  OF SUCH APPLICATION.
- Notwithstanding any other provision of the law, for  any  renewal  lease
- commencing  on  or  after  June  14,  2019,  the  collection of any rent
- increases due to any major capital improvements  approved  on  or  after
- June  16,  2012 and before June 16, 2019 shall not exceed two percent in
- any year for any tenant in occupancy  on  the  date  the  major  capital
- improvement was approved, or
+ regulated  rent.  NO LANDLORD SHALL DENY ACCESS TO A PROFESSIONAL ENGI-
+ NEER LICENSED TO PRACTICE IN THE STATE  OF  NEW  YORK  OR  A  REGISTERED
+ ARCHITECT  LICENSED  TO  PRACTICE  IN THE STATE OF NEW YORK HIRED BY ANY
+ TENANT, TENANTS OR  TENANT  ASSOCIATION  REPRESENTING  TENANTS  FOR  THE
+ PURPOSE  OF  CONDUCTING AN INSPECTION OF A MAJOR CAPITAL IMPROVEMENT FOR
+ WHICH AN APPLICATION FOR ADJUSTMENT OF MAXIMUM RENT HAS BEEN FILED. SUCH
+ INSPECTION SHALL BE CONDUCTED AFTER NOTICE TO THE  LANDLORD  AND  DURING
+ NORMAL BUSINESS HOURS. SUCH TENANT MAY FILE THE REPORT OF THE INSPECTION
+ WITH THE CITY RENT AGENCY FOR CONSIDERATION IN THE DETERMINATION OF SUCH
+ APPLICATION.  Notwithstanding  any  other  provision of the law, for any
+ renewal lease commencing on or after June 14, 2019,  the  collection  of
+ any  rent increases due to any major capital improvements approved on or
+ after June 16, 2012 and before  June  16,  2019  shall  not  exceed  two
+ percent  in  any  year for any tenant in occupancy on the date the major
+ capital improvement was approved, or
   § 2. Paragraph 6 of subdivision c of section 26-511 of the administra-
- tive  code  of the city of New York, as separately amended by section 12
- of part K of chapter 36 and section 28 of part Q of chapter  39  of  the
+ tive code of the city of New York, as separately amended by  section  12
+ of  part  K  of chapter 36 and section 28 of part Q of chapter 39 of the
  laws of 2019, is amended to read as follows:
-  (6)  provides  criteria whereby the commissioner may act upon applica-
- tions by owners for increases in  excess  of  the  level  of  fair  rent
- increase  established under this law provided, however, that such crite-
- ria shall provide (a) as to hardship applications, for  a  finding  that
+  (6) provides criteria whereby the commissioner may act  upon  applica-
+ tions  by  owners  for  increases  in  excess  of the level of fair rent
+ increase established under this law provided, however, that such  crite-
+ ria  shall  provide  (a) as to hardship applications, for a finding that
  the level of fair rent increase is not sufficient to enable the owner to
- maintain  approximately  the same average annual net income (which shall
- be computed without regard to debt service, financing costs  or  manage-
- ment  fees)  for the three year period ending on or within six months of
- the date of an application pursuant to such criteria  as  compared  with
- annual  net income, which prevailed on the average over the period nine-
- teen hundred sixty-eight through nineteen hundred seventy,  or  for  the
+ maintain approximately the same average annual net income  (which  shall
+ be  computed  without regard to debt service, financing costs or manage-
+ ment fees) for the three year period ending on or within six  months  of
+ the  date  of  an application pursuant to such criteria as compared with
+ annual net income, which prevailed on the average over the period  nine-
+ teen  hundred  sixty-eight  through nineteen hundred seventy, or for the
  first three years of operation if the building was completed since nine-
- teen  hundred  sixty-eight  or  for the first three fiscal years after a
+ teen hundred sixty-eight or for the first three  fiscal  years  after  a
  transfer of title to a new owner provided the new owner can establish to
- the satisfaction of the commissioner that he or she  acquired  title  to
- the  building as a result of a bona fide sale of the entire building and
- that the new owner is unable to obtain requisite records for the  fiscal
- years  nineteen  hundred  sixty-eight  through  nineteen hundred seventy
- despite diligent efforts to obtain same from predecessors in  title  and
- further  provided that the new owner can provide financial data covering
- a minimum of six years under his or  her  continuous  and  uninterrupted
- operation  of  the building to meet the three year to three year compar-
- ative test periods herein provided; and (b) as  to  completed  building-
- wide  major  capital  improvements, for a finding that such improvements
- are deemed depreciable under the Internal Revenue Code and that the cost
- S. 6852  3
+ the  satisfaction  of  the commissioner that he or she acquired title to
+ the building as a result of a bona fide sale of the entire building  and
+ that  the new owner is unable to obtain requisite records for the fiscal
+ years nineteen hundred  sixty-eight  through  nineteen  hundred  seventy
+ despite  diligent  efforts to obtain same from predecessors in title and
+ further provided that the new owner can provide financial data  covering
+ a  minimum  of  six  years under his or her continuous and uninterrupted
+ S. 6852--A  3
  
- is to be amortized over a twelve-year period for a building  with  thir-
- ty-five  or  fewer housing accommodations, or a twelve and one-half-year
+ operation of the building to meet the three year to three  year  compar-
+ ative  test  periods  herein provided; and (b) as to completed building-
+ wide major capital improvements, for a finding  that  such  improvements
+ are deemed depreciable under the Internal Revenue Code and that the cost
+ is  to  be amortized over a twelve-year period for a building with thir-
+ ty-five or fewer housing accommodations, or a twelve  and  one-half-year
  period for a building with more than thirty-five housing accommodations,
  for  any  determination  issued by the division of housing and community
  renewal after [the effective date of the the chapter of the laws of  two
@@ -148,107 +153,160 @@ S T A T E  O F  N E W  Y O R K
  LANDLORD  SHALL DENY ACCESS TO A PROFESSIONAL ENGINEER LICENSED TO PRAC-
  TICE IN THE STATE OF NEW YORK OR  A  REGISTERED  ARCHITECT  LICENSED  TO
  PRACTICE IN THE STATE OF NEW YORK HIRED BY ANY TENANT, TENANTS OR TENANT
- ASSOCIATION  REPRESENTING TENANTS OF A MULTIPLE DWELLING OF SIX UNITS OR
- MORE FOR THE PURPOSE OF CONDUCTING AN  INSPECTION  OF  A  MAJOR  CAPITAL
- IMPROVEMENT  FOR WHICH AN APPLICATION FOR ADJUSTMENT OF MAXIMUM RENT HAS
- BEEN FILED. SUCH INSPECTION SHALL BE CONDUCTED AFTER NOTICE TO THE LAND-
- LORD AND DURING NORMAL BUSINESS HOURS. SUCH TENANT MAY FILE  THE  REPORT
- OF  THE  INSPECTION  WITH  THE CITY RENT AGENCY FOR CONSIDERATION IN THE
- DETERMINATION OF SUCH APPLICATION. Notwithstanding any  other  provision
- of  the law, for any renewal lease commencing on or after June 14, 2019,
- the collection of any rent increases due to any major  capital  improve-
- ments  approved on or after June 16, 2012 and before June 16, 2019 shall
- not exceed two percent in any year for any tenant in  occupancy  on  the
- date  the  major  capital  improvement  was  approved or based upon cash
- purchase price exclusive of interest or service charges. Where an appli-
- cation for a temporary  major  capital  improvement  increase  has  been
- filed,  a  tenant  shall  have  sixty days from the date of mailing of a
- notice of a proceeding in which to answer or reply. The  state  division
- of  housing  and  community  renewal shall provide any responding tenant
- with the reasons for the division's approval or denial of such  applica-
- tion.  Notwithstanding  anything  to  the  contrary contained herein, no
- hardship increase granted pursuant to this paragraph shall,  when  added
- to the annual gross rents, as determined by the commissioner, exceed the
- sum of, (i) the annual operating expenses, (ii) an allowance for manage-
- ment  services  as  determined  by the commissioner, (iii) actual annual
- mortgage debt service (interest and amortization) on its indebtedness to
- a lending institution,  an  insurance  company,  a  retirement  fund  or
- welfare  fund  which is operated under the supervision of the banking or
- insurance laws of the state of New York or the United States,  and  (iv)
- eight  and  one-half percent of that portion of the fair market value of
- the property which exceeds the unpaid principal amount of  the  mortgage
- indebtedness  referred  to in subparagraph (iii) of this paragraph. Fair
- market value for the purposes of this paragraph shall be six  times  the
- S. 6852  4
+ ASSOCIATION  REPRESENTING  TENANTS  FOR  THE  PURPOSE  OF  CONDUCTING AN
+ INSPECTION OF A MAJOR CAPITAL IMPROVEMENT FOR WHICH AN  APPLICATION  FOR
+ ADJUSTMENT  OF  MAXIMUM  RENT  HAS  BEEN FILED. SUCH INSPECTION SHALL BE
+ CONDUCTED AFTER NOTICE TO THE LANDLORD AND DURING NORMAL BUSINESS HOURS.
+ SUCH TENANT MAY FILE THE REPORT OF THE INSPECTION WITH THE  STATE  DIVI-
+ SION  OF HOUSING AND COMMUNITY RENEWAL FOR CONSIDERATION IN THE DETERMI-
+ NATION OF SUCH APPLICATION. Notwithstanding any other provision  of  the
+ law,  for  any  renewal  lease commencing on or after June 14, 2019, the
+ collection of any rent increases due to any major  capital  improvements
+ approved  on  or  after June 16, 2012 and before June 16, 2019 shall not
+ exceed two percent in any year for any tenant in occupancy on  the  date
+ the  major  capital improvement was approved or based upon cash purchase
+ price exclusive of interest or service charges. Where an application for
+ a temporary major capital improvement increase has been filed, a  tenant
+ shall have sixty days from the date of mailing of a notice of a proceed-
+ ing  in  which  to  answer  or  reply. The state division of housing and
+ community renewal shall provide any responding tenant with  the  reasons
+ for the division's approval or denial of such application. Notwithstand-
+ ing  anything  to  the  contrary  contained herein, no hardship increase
+ granted pursuant to this paragraph shall, when added to the annual gross
+ rents, as determined by the commissioner, exceed the  sum  of,  (i)  the
+ annual  operating expenses, (ii) an allowance for management services as
+ determined by  the  commissioner,  (iii)  actual  annual  mortgage  debt
+ service  (interest  and  amortization)  on its indebtedness to a lending
+ institution, an insurance company, a retirement  fund  or  welfare  fund
+ which is operated under the supervision of the banking or insurance laws
+ of  the  state of New York or the United States, and (iv) eight and one-
+ S. 6852--A  4
  
- annual gross rent. The collection of any increase in the stabilized rent
- for  any  apartment  pursuant  to  this  paragraph  shall not exceed six
- percent in any year from the effective date of the  order  granting  the
- increase  over  the  rent set forth in the schedule of gross rents, with
- collectability of any dollar excess above said sum to be spread  forward
- in similar increments and added to the stabilized rent as established or
- set in future years;
+ half percent of that portion of the fair market value  of  the  property
+ which  exceeds  the unpaid principal amount of the mortgage indebtedness
+ referred to in subparagraph (iii) of this paragraph. Fair  market  value
+ for  the  purposes of this paragraph shall be six times the annual gross
+ rent. The collection of any increase in  the  stabilized  rent  for  any
+ apartment pursuant to this paragraph shall not exceed six percent in any
+ year from the effective date of the order granting the increase over the
+ rent  set  forth  in the schedule of gross rents, with collectability of
+ any dollar excess above said sum to be spread forward in similar  incre-
+ ments  and  added to the stabilized rent as established or set in future
+ years;
   § 3. Paragraph 3 of subdivision d of section 6 of section 4 of chapter
- 576  of  the  laws of 1974, constituting the emergency tenant protection
- act of nineteen seventy-four, as amended by section  26  of  part  Q  of
+ 576 of the laws of 1974, constituting the  emergency  tenant  protection
+ act  of  nineteen  seventy-four,  as  amended by section 26 of part Q of
  chapter 39 of the laws of 2019, is amended to read as follows:
-  (3)  there has been since January first, nineteen hundred seventy-four
+  (3) there has been since January first, nineteen hundred  seventy-four
  a major capital improvement essential for the preservation, energy effi-
  ciency,  functionality,  or  infrastructure  of  the  entire  building,
- improvement  of  the  structure including heating, windows, plumbing and
- roofing, but shall not be for operation costs  or  unnecessary  cosmetic
- improvements.  An  adjustment under this paragraph shall be in an amount
- sufficient to amortize the cost of the  improvements  pursuant  to  this
- paragraph  over  a twelve-year period for a building with thirty-five or
- fewer housing accommodations, or a twelve  and  one-half  period  for  a
- building  with more than thirty-five housing accommodations and shall be
- removed from the legal regulated rent thirty years  from  the  date  the
- increase  became  effective  inclusive  of  any increases granted by the
- applicable rent guidelines board, for any determination  issued  by  the
- division  of  housing and community renewal after [the effective date of
+ improvement of the structure including heating,  windows,  plumbing  and
+ roofing,  but  shall  not be for operation costs or unnecessary cosmetic
+ improvements. An adjustment under this paragraph shall be in  an  amount
+ sufficient  to  amortize  the  cost of the improvements pursuant to this
+ paragraph over a twelve-year period for a building with  thirty-five  or
+ fewer  housing  accommodations,  or  a  twelve and one-half period for a
+ building with more than thirty-five housing accommodations and shall  be
+ removed  from  the  legal  regulated rent thirty years from the date the
+ increase became effective inclusive of  any  increases  granted  by  the
+ applicable  rent  guidelines  board, for any determination issued by the
+ division of housing and community renewal after [the effective  date  of
  the chapter of the laws of two thousand nineteen that amended this para-
- graph] JUNE 14, 2019.  Temporary  major  capital  improvement  increases
- shall  be  collectable prospectively on the first day of the first month
- beginning sixty days from the date of mailing notice of approval to  the
- tenant.  Such notice shall disclose the total monthly increase in rent
- and the first month in which the tenant would be  required  to  pay  the
- temporary  increase.  An approval for a temporary major capital improve-
- ment increase shall not include retroactive payments. The collection  of
+ graph]  JUNE  14,  2019.  Temporary  major capital improvement increases
+ shall be collectable prospectively on the first day of the  first  month
+ beginning  sixty days from the date of mailing notice of approval to the
+ tenant.  Such notice shall disclose the total monthly increase  in  rent
+ and  the  first  month  in which the tenant would be required to pay the
+ temporary increase. An approval for a temporary major  capital  improve-
+ ment  increase shall not include retroactive payments. The collection of
  any increase shall not exceed two percent in any year from the effective
- date  of  the order granting the increase over the rent set forth in the
- schedule of gross rents, with collectability of any dollar excess  above
- said  sum  to  be  spread forward in similar increments and added to the
- rent as established or set in future years. Upon vacancy,  the  landlord
+ date of the order granting the increase over the rent set forth  in  the
+ schedule  of gross rents, with collectability of any dollar excess above
+ said sum to be spread forward in similar increments  and  added  to  the
+ rent  as  established or set in future years. Upon vacancy, the landlord
  may add any remaining balance of the temporary major capital improvement
- increase  to the legal regulated rent.  NO LANDLORD SHALL DENY ACCESS TO
+ increase to the legal regulated rent.  NO LANDLORD SHALL DENY ACCESS  TO
  A PROFESSIONAL ENGINEER LICENSED TO PRACTICE IN THE STATE OF NEW YORK OR
- A REGISTERED ARCHITECT LICENSED TO PRACTICE IN THE  STATE  OF  NEW  YORK
- HIRED  BY ANY TENANT, TENANTS OR TENANT ASSOCIATION REPRESENTING TENANTS
- OF A MULTIPLE DWELLING OF SIX UNITS OR MORE FOR THE PURPOSE OF  CONDUCT-
- ING  AN  INSPECTION OF A MAJOR CAPITAL IMPROVEMENT FOR WHICH AN APPLICA-
- TION FOR ADJUSTMENT OF MAXIMUM RENT  HAS  BEEN  FILED.  SUCH  INSPECTION
- SHALL  BE CONDUCTED AFTER NOTICE TO THE LANDLORD AND DURING NORMAL BUSI-
- NESS HOURS. SUCH TENANT MAY FILE THE REPORT OF THE INSPECTION  WITH  THE
- CITY RENT AGENCY FOR CONSIDERATION IN THE DETERMINATION OF SUCH APPLICA-
- TION.  Notwithstanding any other provision of the law, the collection of
- any rent increases for any renewal lease commencing on or after June 14,
- 2019, due to any major capital improvements approved on  or  after  June
- 16,  2012  and  before June 16, 2019 shall not exceed two percent in any
- year for any tenant in occupancy on the date the major capital  improve-
- ment was approved, or
- S. 6852  5
+ A  REGISTERED  ARCHITECT  LICENSED  TO PRACTICE IN THE STATE OF NEW YORK
+ HIRED BY ANY TENANT, TENANTS OR TENANT ASSOCIATION REPRESENTING  TENANTS
+ FOR  THE PURPOSE OF CONDUCTING AN INSPECTION OF A MAJOR CAPITAL IMPROVE-
+ MENT FOR WHICH AN APPLICATION FOR ADJUSTMENT OF MAXIMUM  RENT  HAS  BEEN
+ FILED.  SUCH  INSPECTION SHALL BE CONDUCTED AFTER NOTICE TO THE LANDLORD
+ AND DURING NORMAL BUSINESS HOURS. SUCH TENANT MAY FILE THE REPORT OF THE
+ INSPECTION WITH THE STATE DIVISION OF HOUSING AND COMMUNITY RENEWAL  FOR
+ CONSIDERATION  IN THE DETERMINATION OF SUCH APPLICATION. Notwithstanding
+ any other provision of the law, the collection of any rent increases for
+ any renewal lease commencing on or after June 14, 2019, due to any major
+ capital improvements approved on or after June 16, 2012 and before  June
+ S. 6852--A  5
  
-  § 4. This act shall take effect on the one hundred twentieth day after
- it  shall  have  become  a  law, provided that the amendments to section
- 26-405 of the city rent and rehabilitation law made by  section  one  of
- this  act  shall  remain  in  full  force and effect only so long as the
- public  emergency  requiring  the  regulation and control of residential
- rents and evictions continues, as provided in subdivision 3 of section 1
- of the local emergency housing rent control act;  and  provided  further
- that  the  amendments to section 26-511 of the rent stabilization law of
- nineteen hundred sixty-nine made by section two of this act shall expire
- on the same date as such law expires and shall not affect the expiration
- of such law as provided under section 26-520 of  such  law.  Effective
- immediately, the addition, amendment and/or repeal of any rule and regu-
- lation  necessary  for  the  implementation of this act on its effective
- date are authorized to be made on or before such date.
+ 16,  2019  shall  not  exceed  two percent in any year for any tenant in
+ occupancy on the date the major capital improvement was approved, or
+  §  4.  Subparagraph 7 of the second undesignated paragraph of  para-
+ graph  (a) of  subdivision  4  of section 4 of chapter 274 of  the  laws
+ of  1946, constituting the emergency housing  rent  control law as sepa-
+ rately amended  by section 14 of part K of chapter 36 and section 25  of
+ part Q of chapter 39 of the laws of 2019, is amended to read as follows:
+  (7)  there has been since March first, nineteen hundred fifty, a major
+ capital improvement essential for the preservation,  energy  efficiency,
+ functionality,  or infrastructure of the entire building, improvement of
+ the structure including heating,  windows,  plumbing  and  roofing,  but
+ shall not be for operational costs or unnecessary cosmetic improvements;
+ which for any order of the commissioner issued after [the effective date
+ of  the  chapter  of the laws of two thousand nineteen that amended this
+ paragraph] JUNE 14, 2019 the cost of such improvement shall be amortized
+ over a twelve-year period for buildings with thirty-five or fewer  units
+ or  a twelve and one-half year period for buildings with more than thir-
+ ty-five units, and shall be removed from the legal regulated rent thirty
+ years from the date the  increase  became  effective  inclusive  of  any
+ increases  granted  by  the  applicable rent guidelines board. Temporary
+ major capital improvement increases shall be  collectible  prospectively
+ on  the  first day of the first month beginning sixty days from the date
+ of mailing notice of approval to the tenant. Such notice shall  disclose
+ the  total  monthly  increase  in  rent and the first month in which the
+ tenant would be required to pay the temporary increase. An approval  for
+ a  temporary major capital improvement increase shall not include retro-
+ active payments. The collection of any increase  shall  not  exceed  two
+ percent  in  any  year from the effective date of the order granting the
+ increase over the rent set forth in the schedule of  gross  rents,  with
+ collectability  of any dollar excess above said sum to be spread forward
+ in similar increments and added to the rent as  established  or  set  in
+ future  years.  Upon vacancy, the landlord may add any remaining balance
+ of the temporary major capital improvement increase to the  legal  regu-
+ lated  rent.  NO LANDLORD SHALL DENY ACCESS TO A PROFESSIONAL ENGINEER
+ LICENSED TO PRACTICE IN THE STATE OF NEW YORK OR A REGISTERED  ARCHITECT
+ LICENSED  TO  PRACTICE  IN  THE  STATE  OF NEW YORK HIRED BY ANY TENANT,
+ TENANTS OR TENANT ASSOCIATION REPRESENTING TENANTS FOR  THE  PURPOSE  OF
+ CONDUCTING  AN  INSPECTION  OF  A MAJOR CAPITAL IMPROVEMENT FOR WHICH AN
+ APPLICATION  FOR  ADJUSTMENT  OF  MAXIMUM  RENT  HAS  BEEN  FILED.  SUCH
+ INSPECTION  SHALL  BE  CONDUCTED AFTER NOTICE TO THE LANDLORD AND DURING
+ NORMAL BUSINESS HOURS. SUCH TENANT MAY FILE THE REPORT OF THE INSPECTION
+ WITH THE STATE DIVISION OF HOUSING AND COMMUNITY RENEWAL  FOR  CONSIDER-
+ ATION  IN  THE  DETERMINATION  OF  SUCH APPLICATION. Notwithstanding any
+ other provision of the law, for any renewal lease commencing on or after
+ June 14, 2019, the collection of any rent increases  due  to  any  major
+ capital  improvements approved on or after June 16, 2012 and before June
+ 16, 2019 shall not exceed two percent in any  year  for  any  tenant  in
+ occupancy  on  the  date  the  major  capital  improvement was approved;
+ provided, however, where an application for a  temporary  major  capital
+ improvement increase has been filed, a tenant shall have sixty days from
+ the  date  of  mailing of a notice of a proceeding in which to answer or
+ reply. The state division of housing and community renewal shall provide
+ any responding tenant with the reasons for the  division's  approval  or
+ denial of such application; or
+  §  5.  This  act  shall take effect on the one hundred twentieth day
+ after it shall have become a law; provided, however, that the amendments
+ S. 6852--A  6
+ 
+ to section 26-405 of the  city  rent  and  rehabilitation  law  made  by
+ section  one  of  this act shall remain in full force and effect only so
+ long as the public emergency requiring the  regulation  and  control  of
+ residential  rents and evictions continues, as provided in subdivision 3
+ of section 1 of the  local  emergency  housing  rent  control  act;  and
+ provided  further  that  the  amendments  to  section 26-511 of the rent
+ stabilization law of nineteen hundred sixty-nine made by section two  of
+ this act shall expire on the same date as such law expires and shall not
+ affect  the  expiration  of such law as provided under section 26-520 of
+ such law.  Effective immediately, the addition, amendment and/or  repeal
+ of  any rule and regulation necessary for the implementation of this act
+ on its effective date are authorized to be made on or before such date.
