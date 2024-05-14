@@ -1,6 +1,6 @@
 # Requires municipalities to include a housing needs assessment using the HUD median income calculations in their comprehensive plans
 
-**Bill ID:** A8903
+**Bill ID:** A8903A
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** In Assembly Committee
@@ -16,15 +16,17 @@ Requires municipalities to include an Affordable Housing Needs Assessment to est
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8903
+  8903--A
  
   I N  A S S E M B L Y
  
   January 26, 2024
   ___________
  
- Introduced  by  M. of A. BURDICK, LEVENBERG -- read once and referred to
-  the Committee on Local Governments
+ Introduced  by  M.  of A. BURDICK, LEVENBERG, GONZALEZ-ROJAS, EPSTEIN --
+  read once and referred  to  the  Committee  on  Local  Governments  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the general municipal law, the  general  city  law,  the
   town  law and the village law, in relation to requiring municipalities
@@ -58,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
  by adding a new paragraph (p) to read as follows:
   (P)  A  HOUSING  NEEDS ASSESSMENT TO ESTABLISH A DATA-BASED FOUNDATION
  FOR THE CREATION AND PRESERVATION OF HOUSING IN THE CITY, UTILIZING  THE
- U.S.  DEPARTMENT  OF  HOUSING AND URBAN DEVELOPMENT MEDIAN INCOME CALCU-
- LATIONS. SUCH ASSESSMENT MUST ADDRESS AFFORDABLE  HOUSING  NEEDS  WITHIN
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11918-03-4
- A. 8903  2
+  LBD11918-04-4
+ A. 8903--A  2
  
+ U.S.  DEPARTMENT  OF  HOUSING AND URBAN DEVELOPMENT MEDIAN INCOME CALCU-
+ LATIONS. SUCH ASSESSMENT MUST ADDRESS AFFORDABLE  HOUSING  NEEDS  WITHIN
  FIVE LEVELS AS FOLLOWS: (I) AT OR BELOW THIRTY PERCENT OF THE CITY'S AMI
  (AREA  MEDIAN INCOME); (II) BETWEEN THIRTY-ONE PERCENT AND FIFTY PERCENT
  OF THE CITY'S AMI; (III) BETWEEN FIFTY-ONE PERCENT AND SIXTY PERCENT  OF
@@ -99,4 +101,7 @@ S T A T E  O F  N E W  Y O R K
   § 5. Article 3 of the general city law is  amended  by  adding  a  new
  article heading to read as follows:
   ZONING AND PLANNING
-  § 6.  This act shall take effect immediately.
+  § 6. Municipalities shall not have the obligation to perform a housing
+ needs  assessment  if  no federal, state, county, or third-party funding
+ has been awarded, granted or otherwise obtained.
+  § 7. This act shall take effect immediately.
