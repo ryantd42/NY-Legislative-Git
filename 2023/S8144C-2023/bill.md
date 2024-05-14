@@ -1,6 +1,6 @@
 # Prohibits discrimination against individuals who were prescribed pre-exposure prophylaxis medication for HIV prevention with respect to insurance coverage
 
-**Bill ID:** S8144CB
+**Bill ID:** S8144CC
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Prohibits discrimination against individuals who were prescribed pre-exposure pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8144--B
+  8144--C
  
   I N  S E N A T E
  
@@ -27,36 +27,37 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee  on  Insurance  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to  said  committee  --  committee  discharged,  bill amended, ordered
-  reprinted as amended and recommitted to said committee
-
- AN ACT to amend the insurance law, in relation to prohibiting  discrimi-
-  nation  against  individuals  who  tested positive for HIV or who were
-  prescribed pre-exposure prophylaxis medication for HIV prevention with
-  respect to life, accident, and health insurance coverage
+  reprinted as amended and recommitted to said  committee  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN  ACT to amend the insurance law, in relation to prohibiting discrimi-
+  nation against individuals who were prescribed pre-exposure prophylax-
+  is medication for HIV prevention with respect to life,  accident,  and
+  health insurance coverage
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Paragraph 3 of subsection (a) of section 4224 of the insur-
- ance  law  is  renumbered  paragraph 4 and a new paragraph 3 is added to
+ ance law is renumbered paragraph 4 and a new paragraph  3  is  added  to
  read as follows:
-  (3) REFUSE TO INSURE, REFUSE  TO  CONTINUE  TO  INSURE  OR  LIMIT  THE
+  (3)  REFUSE  TO  INSURE,  REFUSE  TO  CONTINUE  TO INSURE OR LIMIT THE
  AMOUNT, EXTENT OR KIND OF COVERAGE AVAILABLE TO AN INDIVIDUAL, OR CHARGE
- A  DIFFERENT  RATE  FOR  THE SAME COVERAGE SOLELY BECAUSE THE INSURED OR
+ A DIFFERENT RATE FOR THE SAME COVERAGE SOLELY  BECAUSE  THE  INSURED  OR
  POTENTIAL INSURED WAS PRESCRIBED PRE-EXPOSURE PROPHYLAXIS (PREP) MEDICA-
  TION FOR THE PREVENTION OF HIV INFECTION;
-  § 2. Paragraph 3 of subsection (b) of section 4224  of  the  insurance
- law  is renumbered paragraph 4 and a new paragraph 3 is added to read as
+  §  2.  Paragraph  3 of subsection (b) of section 4224 of the insurance
+ law is renumbered paragraph 4 and a new paragraph 3 is added to read  as
  follows:
-  (3) REFUSE TO INSURE, REFUSE  TO  CONTINUE  TO  INSURE  OR  LIMIT  THE
+  (3)  REFUSE  TO  INSURE,  REFUSE  TO  CONTINUE  TO INSURE OR LIMIT THE
  AMOUNT, EXTENT OR KIND OF COVERAGE AVAILABLE TO AN INDIVIDUAL, OR CHARGE
- A  DIFFERENT  RATE  FOR  THE SAME COVERAGE SOLELY BECAUSE THE INSURED OR
+ A DIFFERENT RATE FOR THE SAME COVERAGE SOLELY  BECAUSE  THE  INSURED  OR
  POTENTIAL INSURED WAS PRESCRIBED PRE-EXPOSURE PROPHYLAXIS (PREP) MEDICA-
  TION FOR THE PREVENTION OF HIV INFECTION;
   § 3. This act shall take effect immediately.
  
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13530-05-4
+  LBD13530-07-4
