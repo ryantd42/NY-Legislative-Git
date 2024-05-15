@@ -1,6 +1,6 @@
 # Authorizes the New York state and local employees' retirement system to accept an application for disability retirement benefits from Andrew Reilly, Jr.
 
-**Bill ID:** A7278A
+**Bill ID:** A7278AA
 **Session:** 2023
 **Sponsor:** David McDonough
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Authorizes the New York state and local employees' retirement system to accept a
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7278
+  7278--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  McDONOUGH  --  read once and referred to the
-  Committee on Governmental Employees
- 
+  Committee on Governmental Employees -- recommitted to the Committee on
+  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
+
  AN ACT in relation to authorizing the New York state and  local  employ-
   ees' retirement system to accept an application for disability retire-
   ment benefits from Andrew Reilly, Jr.
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,30 +58,30 @@ S T A T E  O F  N E W  Y O R K
   This bill would deem Andrew Reilly Jr. to have applied to the New York
  State  and  Local  Employees' Retirement System (NYSLERS) for disability
  benefits within thirty days of their disability on February 20, 2020.
-  If this bill is enacted  during  the  2023  legislative  session,  and
- Andrew  Reilly  Jr.  is  subsequently  approved  for disability benefits
- pursuant to section 605 of the Retirement and Social Security Law, there
- will be an immediate past service cost of approximately  $222,000  which
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10709-02-3
- A. 7278  2
+  LBD10709-04-4
+ A. 7278--A  2
  
+  If this bill is enacted  during  the  2024  Legislative  Session,  and
+ Andrew  Reilly  Jr.  is  subsequently  approved  for disability benefits
+ pursuant to section 605 of the Retirement and Social Security Law, there
+ will be an immediate past service cost of approximately  $331,000  which
  will  be  borne  by  the  State  of New York and all local participating
  employers in the NYSLERS. This estimate assumes  that  payment  will  be
- made on February 1, 2024.
+ made on February 1, 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
  al valuation.  Distributions and other statistics can be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -86,6 +89,7 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated May 10, 2023, and intended for  use  only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-145, prepared by
- the Actuary for the New York State and Local Retirement System.
+  This estimate, dated February 14, 2024,  and  intended  for  use  only
+ during  the  2024  Legislative  Session,  is  Fiscal  Note No. 2024-107,
+ prepared by the Actuary for the New  York  State  and  Local  Retirement
+ System.
