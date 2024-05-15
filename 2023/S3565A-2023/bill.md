@@ -1,6 +1,6 @@
 # Empowers the council on the arts to designate East Harlem as a cultural district
 
-**Bill ID:** S3565A
+**Bill ID:** S3565AA
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Empowers the council on the arts to designate East Harlem as a cultural district
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3565
+  3565--A
  
   2023-2024 Regular Sessions
  
@@ -27,37 +27,34 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen.  CLEARE -- read twice and ordered printed, and when
   printed to be committed to the Committee on Cultural Affairs, Tourism,
-  Parks and Recreation
+  Parks and Recreation --  recommitted  to  the  Committee  on  Cultural
+  Affairs,  Tourism, Parks and Recreation in accordance with Senate Rule
+  6, sec. 8 -- committee discharged, bill amended, ordered reprinted  as
+  amended and recommitted to said committee
  
- AN ACT to amend the arts  and  cultural  affairs  law,  in  relation  to
-  empowering the trust for cultural resources of the city of New York to
-  designate East Harlem as a cultural district
+ AN  ACT  to  amend  the  arts  and  cultural affairs law, in relation to
+  empowering the council on the arts  to  designate  East  Harlem  as  a
+  cultural district
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 21.01 of the  arts  and  cultural  affairs  law  is
- amended by adding a new subdivision 5 to read as follows:
-  5. "CULTURAL DISTRICT" SHALL MEAN A GEOGRAPHIC AREA OF A CITY, TOWN OR
- VILLAGE  WITH  A  CONCENTRATION  OF  CULTURAL  INSTITUTIONS  WITHIN  ITS
- BORDERS.
-  § 2. Subdivisions 12 and 13 of section 21.07 of the arts and  cultural
- affairs  law,  as  added by chapter 656 of the laws of 1991, are amended
- and a new subdivision 14 is added to read as follows:
-  12. to make and execute such agreements, including without limitation,
- instruments of conveyance and  agreements  with  participating  cultural
- institutions  with  respect  to  the architectural and design character-
- istics of any combined-use facility or cultural facility, as are  neces-
- sary  or  convenient  for  the  exercise of its corporate powers and the
- fulfillment of its purposes; [and]
-  13.  to  make  loans  in  accordance  with  article  twenty  of  this
- chapter[.]; AND
-  14.  TO  DESIGNATE,  AS A CULTURAL DISTRICT, AS DEFINED IN SUBDIVISION
- FIVE OF SECTION 21.01 OF THIS ARTICLE, ANY REAL PROPERTY IN THE DISTRICT
- BOUNDED BY EAST 96TH STREET ON THE SOUTH, 5TH AVENUE ON THE  WEST,  EAST
- 125TH STREET ON THE NORTH AND THE EAST RIVER ON THE EAST.
-  § 3. This act shall take effect immediately.
+  Section 1. Section 3.05 of  the  arts  and  cultural  affairs  law  is
+ amended by adding a new subdivision 11 to read as follows:
+  11.  TO PROMOTE REGIONS OF CULTURAL SIGNIFICANCE BY PROVIDING CULTURAL
+ INSTITUTIONS WITHIN SUCH REGIONS GRANTS, TECHNICAL ASSISTANCE, OR  OTHER
+ ASSISTANCE  AUTHORIZED BY THIS SECTION AS THE COUNCIL DEEMS APPROPRIATE,
+ INCLUDING, BUT NOT LIMITED TO, EAST HARLEM, ALSO KNOWN AS  "EL  BARRIO".
+ THIS  REGION  SHALL  BE  BOUNDED  BY  EAST 96TH STREET ON THE SOUTH, 5TH
+ AVENUE ON THE WEST, EAST 125TH STREET ON THE NORTH AND THE EAST RIVER ON
+ THE EAST. THE COUNCIL  MAY  DESIGNATE  ADDITIONAL  REGIONS  OF  CULTURAL
+ SIGNIFICANCE  AT  ITS  DISCRETION  BUT  SUCH  REGIONS  SHALL BE COMPACT,
+ CONTIGUOUS, AND HAVE AN IDENTIFIABLE CULTURAL HERITAGE WHICH UNITES  THE
+ REGION.
+  § 2. This act shall take effect immediately.
+ 
+ 
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01952-01-3
+  LBD01952-03-4
