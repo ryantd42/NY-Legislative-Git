@@ -1,6 +1,6 @@
 # Facilitates appellate review of rulings that implicate issues of public concern
 
-**Bill ID:** S8688A
+**Bill ID:** S8688AA
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Relates to facilitating appellate review of rulings that implicate issues of pub
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8688
+  8688--A
+  Cal. No. 789
  
   I N  S E N A T E
  
@@ -24,21 +25,24 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  BAILEY -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Codes
- 
+  printed to be committed to the Committee on Codes -- reported  favora-
+  bly  from  said committee, ordered to first and second report, ordered
+  to a third reading, amended and ordered reprinted, retaining its place
+  in the order of third reading
+
  AN ACT to amend the criminal procedure law, in relation to  facilitating
   appellate review of rulings that implicate issues of public concern
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Subdivision 2 of section 710.70 of the  criminal  procedure
  law is amended to read as follows:
   2.  An order finally denying a motion to suppress evidence [may] SHALL
- be  reviewed  upon  an  appeal  from  an  ensuing judgment of conviction
- notwithstanding the fact that such judgment is entered upon  a  plea  of
- guilty AND NOT WITHSTANDING AN OTHERWISE ENFORCEABLE WAIVER OF THE RIGHT
- TO APPEAL.
+ be  [reviewed]  REVIEWABLE  upon  an  appeal from an ensuing judgment of
+ conviction notwithstanding the fact that such judgment is entered upon a
+ plea of guilty AND NOT WITHSTANDING AN OTHERWISE ENFORCEABLE  WAIVER  OF
+ THE RIGHT TO APPEAL.
   §  2.  This  act  shall take effect on the sixtieth day after it shall
  have become a law.
  
@@ -46,8 +50,7 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02005-01-3
+  LBD02005-02-4
