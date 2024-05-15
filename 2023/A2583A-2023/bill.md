@@ -1,6 +1,6 @@
 # Authorizes certain shelters to be reimbursed for any payment differential for housing a single individual in a room intended for double occupancy
 
-**Bill ID:** A2583A
+**Bill ID:** A2583AA
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Authorizes certain shelters for victims of domestic violence to be reimbursed fo
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2583
+  2583--A
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,17 @@ S T A T E  O F  N E W  Y O R K
   January 26, 2023
   ___________
  
- Introduced  by M. of A. HEVESI, GONZALEZ-ROJAS -- read once and referred
-  to the Committee on Social Services
+ Introduced by M. of A. HEVESI, GONZALEZ-ROJAS, WALKER, BURDICK, SHIMSKY,
+  BURGOS,  STECK,  GUNTHER -- read once and referred to the Committee on
+  Social Services -- recommitted to the Committee on Social Services  in
+  accordance  with  Assembly  Rule 3, sec. 2 -- reported and referred to
+  the Committee on Ways and Means -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
  
  AN ACT to amend the social services  law,  in  relation  to  authorizing
   certain shelters to be reimbursed for housing a single individual in a
   room intended for double occupancy
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,13 +47,13 @@ S T A T E  O F  N E W  Y O R K
  RARY  HOUSING ASSISTANCE TO A SINGLE INDIVIDUAL WHO MEETS SUCH PROGRAM'S
  NECESSARY ELIGIBILITY REQUIREMENTS, SHALL BE REIMBURSED FOR ANY  PAYMENT
  DIFFERENTIAL  FOR  HOUSING  A  SINGLE  INDIVIDUAL IN A ROOM INTENDED FOR
- DOUBLE OCCUPANCY.
+ DOUBLE OCCUPANCY, IF NO OTHER ROOM  INTENDED  FOR  SINGLE  OCCUPANCY  IS
+ AVAILABLE WITHIN THE FACILITY.
   § 2. This act shall take effect immediately.
  
  
  
  
-
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01501-01-3
+  LBD01501-02-4
