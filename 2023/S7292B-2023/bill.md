@@ -1,6 +1,6 @@
 # Grants retroactive tier IV membership in the NY state and local employees' retirement system for Maureen Sullivan Nasca
 
-**Bill ID:** S7292BA
+**Bill ID:** S7292BB
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to granting retroactive Tier IV membership in the New York state and loc
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7292--A
+  7292--B
  
   2023-2024 Regular Sessions
  
@@ -28,7 +28,10 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen.  RYAN  --  read twice and ordered printed, and when
   printed to be committed to the Committee on Civil Service and Pensions
   -- committee discharged, bill amended, ordered  reprinted  as  amended
-  and recommitted to said committee
+  and  recommitted  to said committee -- recommitted to the Committee on
+  Civil Service and Pensions in accordance with Senate Rule 6, sec. 8 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
  AN ACT granting retroactive tier IV membership in the New York state and
   local employees' retirement system to Maureen Sullivan Nasca
@@ -55,37 +58,37 @@ S T A T E  O F  N E W  Y O R K
  shall be borne by the state of New York.
   § 4. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This bill would grant Tier 4 status in the New York  State  and  Local
- Employees' Retirement System to Maureen Sullivan Nasca, a current Tier 6
- member  employed  by  the  Erie County Medical Center, by changing their
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11185-02-3
- S. 7292--A  2
+  LBD11185-03-4
+ S. 7292--B  2
  
- date of membership to December 7, 1995.  There  will  be  no  refund  of
- member contributions.
-  If this bill is enacted during the 2023 legislative session, we antic-
- ipate  that  there  will  be an increase of approximately $46,000 in the
+  This bill would provide Maureen Sullivan Nasca with a date of  member-
+ ship of December 7, 1995, their date of first eligible employment in the
+ New York State and Local Employees' Retirement System, resulting in Tier
+ 4  status.  Maureen  Sullivan  Nasca is currently a Tier 6 member. There
+ will be no refund of member contributions.
+  If this bill is enacted during the 2024 Legislative Session, we antic-
+ ipate  that  there  will  be an increase of approximately $57,000 in the
  annual contributions of the Erie County Medical Center  for  the  fiscal
- year  ending March 31, 2024. In future years, this cost will vary as the
+ year  ending  March 31, 2025. In future years this cost will vary as the
  billing rates and salary of Maureen Sullivan Nasca change.
   In addition to the annual contributions discussed above, there will be
- an immediate past service cost of approximately $1.43 million which will
+ an immediate past service cost of approximately $1.59 million which will
  be borne by the State of New York as a one-time payment.  This  estimate
- assumes that payment will be made on March 1, 2024.
+ assumes that payment will be made on March 1, 2025.
   Summary of relevant resources:
-  Membership  data as of March 31, 2022 was used in measuring the impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al valuation. Distributions and other statistics can  be  found  in  the
- 2022  Report  of the Actuary and the 2022 Annual Comprehensive Financial
+  Membership  data as of March 31, 2023 was used in measuring the impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al valuation.  Distributions and other statistics can be  found  in  the
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The actuarial assumptions and methods used are described in the  2020,
- 2021,  and  2022  Annual  Report to the Comptroller on Actuarial Assump-
- tions, and the Codes, Rules and Regulations of the State  of  New  York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -93,6 +96,6 @@ S T A T E  O F  N E W  Y O R K
   This fiscal note does not constitute a legal opinion on the  viability
  of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This estimate, dated May 18, 2023, and intended for  use  only  during
- the  2023  Legislative Session, is Fiscal Note No. 2023-156, prepared by
+  This estimate, dated May 15, 2024, and intended for  use  only  during
+ the  2024  Legislative Session, is Fiscal Note No. 2024-176, prepared by
  the Actuary for the New York State and Local Retirement System.
