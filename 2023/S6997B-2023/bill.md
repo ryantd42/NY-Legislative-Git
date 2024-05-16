@@ -1,6 +1,6 @@
 # Relates to the eligibility criteria for the digital gaming tax credit
 
-**Bill ID:** S6997BA
+**Bill ID:** S6997BB
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Amends the eligibility criteria for game development companies by changing the y
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6997--A
+  6997--B
  
   2023-2024 Regular Sessions
  
@@ -25,53 +25,46 @@ S T A T E  O F  N E W  Y O R K
   May 16, 2023
   ___________
  
- Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
-  printed to be committed to the Committee  on  Budget  and  Revenue  --
-  recommitted  to the Committee on Budget and Revenue in accordance with
-  Senate Rule 6, sec. 8 -- committee discharged, bill  amended,  ordered
-  reprinted as amended and recommitted to said committee
-
+ Introduced  by  Sens. BRESLIN, COONEY -- read twice and ordered printed,
+  and when printed to be committed to the Committee on Budget and Reven-
+  ue -- recommitted to the Committee on Budget and Revenue in accordance
+  with Senate Rule 6, sec. 8  --  committee  discharged,  bill  amended,
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+ 
  AN ACT to amend the tax law, in relation to the eligibility criteria for
   the digital gaming tax credit
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Paragraph 1 of subdivision (a) and subdivision (b) and  (c)
- of  section 45 of the tax law, as added by section 1 of part OO of chap-
- ter 59 of the laws of 2022, are amended to read as follows:
-  (1) A taxpayer which is  a  digital  gaming  media  production  entity
- engaged  in  qualified digital gaming media production, or who is a sole
- proprietor of or a member of a partnership, which is  a  digital  gaming
- media  production  entity  engaged  in  qualified  digital  gaming media
- production, and is subject to tax under article nine-A or twenty-two  of
- this  chapter, shall be allowed a credit against such tax to be computed
- as provided herein for taxable  years  beginning  on  or  after  January
- first,  two thousand twenty-three and before January first, two thousand
- [twenty-eight] THIRTY.
+  Section 1. Subdivisions (b) and (c) of section 45 of the tax  law,  as
+ added  by  section  1  of part OO of chapter 59 of the laws of 2022, are
+ amended to read as follows:
   (b) Allocation of credit. The aggregate amount of tax credits  allowed
  under  this section, subdivision fifty-five of section two hundred ten-B
  and subsection (nnn) of section six hundred six of this chapter  in  any
- taxable  year  shall  be [five] ONE HUNDRED million dollars. Such credit
- shall be allocated by the department of economic development in order of
- priority based upon the date of filing an application for allocation  of
- digital  gaming  media  production credit with such office. AN APPLICANT
- SHALL SUBMIT AN ANNUAL APPLICATION WHICH  SHALL  INCLUDE  ALL  QUALIFIED
- DIGITAL  GAMING  MEDIA  PRODUCTIONS  FOR  THE TAXABLE YEAR ALONG WITH AN
- ESTIMATE OF THE DIGITAL GAMING MEDIA PRODUCTION COSTS.  THE  APPLICATION
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD11262-03-4
- S. 6997--A  2
- 
- CAN  BE  SUBMITTED NO EARLIER THAN NINETY DAYS PRIOR TO THE FIRST DAY OF
- THE APPLICABLE TAXABLE YEAR. If the total amount  of  allocated  credits
- applied  for  in any particular year exceeds the aggregate amount of tax
+ taxable  year  shall be five million dollars. Such credit shall be allo-
+ cated by the department of economic development  in  order  of  priority
+ based  upon  the date of filing an application for allocation of digital
+ gaming media production credit with  such  office.  AN  APPLICANT  SHALL
+ SUBMIT  AN  ANNUAL APPLICATION WHICH SHALL INCLUDE ALL QUALIFIED DIGITAL
+ GAMING MEDIA PRODUCTIONS FOR THE TAXABLE YEAR ALONG WITH AN ESTIMATE  OF
+ THE  DIGITAL  GAMING  MEDIA  PRODUCTION  COSTS.  THE  APPLICATION CAN BE
+ SUBMITTED NO EARLIER THAN NINETY DAYS PRIOR TO  THE  FIRST  DAY  OF  THE
+ APPLICABLE  TAXABLE  YEAR.  If  the  total  amount  of allocated credits
+ applied for in any particular year exceeds the aggregate amount  of  tax
  credits  allowed  for such year under this section, such excess shall be
  treated as having been applied for on the first day  of  the  subsequent
  taxable year.
   (c) Definitions. As used in this section:
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD11262-06-4
+ S. 6997--B  2
+ 
   (1)  "Qualified digital gaming media production" means: (i) a website,
  the digital media production costs of which are paid or incurred  predo-
  minately  in  connection  with  (A)  video  simulation, animation, text,
@@ -121,8 +114,6 @@ S T A T E  O F  N E W  Y O R K
  PAID to a person serving in such a role for  the  digital  gaming  media
  production  entity shall also not be included if the person was employed
  by a related person of the digital gaming media production entity within
- S. 6997--A  3
- 
  sixty months of the date the  digital  gaming  media  production  entity
  applied  for  the tax credit certificate described in subdivision (d) of
  this section. For purposes of the preceding sentence, a  related  person
@@ -130,6 +121,8 @@ S T A T E  O F  N E W  Y O R K
  hundred  sixty-five  of  the  internal  revenue  code. [Furthermore, any
  income or other distribution to any individual including, but not limit-
  ed to, licensing or royalty fees, who holds an ownership interest  in  a
+ S. 6997--B  3
+
  digital  gaming  media production entity, whether or not such individual
  is serving in the role of chief executive officer, chief financial offi-
  cer, president, treasurer or similar position for such an entity,  shall
@@ -150,23 +143,5 @@ S T A T E  O F  N E W  Y O R K
   (4)  "Digital  gaming  media  production  entity" means a corporation,
  partnership, limited partnership or other entity or  individual  engaged
  in qualified digital game development media production.
-  §  2. Paragraph (a) of subdivision 55 of section 210-b of the tax law,
- as added by section 2 of part OO of chapter 59 of the laws of  2022,  is
- amended to read as follows:
-  (a)  Allowance  of  credit.  A  taxpayer  who  is eligible pursuant to
- section forty-five of this chapter shall  be  allowed  a  credit  to  be
- computed  as provided in such section forty-five against the tax imposed
- by this article. [Under no circumstances may a single  taxpayer  receive
- more  than  one million five hundred thousand dollars in tax credits per
- year.]
-  § 3. Paragraph 1 of subsection (nnn) of section 606 of the tax law, as
- added by section 4 of part OO of chapter 59 of  the  laws  of  2022,  is
- amended to read as follows:
-  (1)  Allowance  of  credit.  A  taxpayer  who  is eligible pursuant to
- section forty-five of this chapter shall  be  allowed  a  credit  to  be
- computed  as provided in such section forty-five against the tax imposed
- by this article. [Under no circumstances may a single  taxpayer  receive
- more  than  one million five hundred thousand dollars in tax credits per
- year.]
-  § 4. This act shall take effect immediately and shall apply to taxable
- years beginning on and after January 1, 2023 and before January 1, 2030.
+  § 2. This act shall take effect immediately and shall apply to taxable
+ years beginning on and after January 1, 2024 and before January 1, 2028.
