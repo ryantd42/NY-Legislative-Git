@@ -1,6 +1,6 @@
 # Enacts the New York city Caribbean steel pan educational music program act
 
-**Bill ID:** A1717B
+**Bill ID:** A1717BA
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts the "New York city Caribbean steel pan educational music program act"; re
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1717
+  1717--A
  
   2023-2024 Regular Sessions
  
@@ -25,15 +25,19 @@ S T A T E  O F  N E W  Y O R K
   January 20, 2023
   ___________
  
- Introduced  by  M.  of  A.  CUNNINGHAM  -- read once and referred to the
-  Committee on Education
+ Introduced  by  M.  of  A. CUNNINGHAM, CHANDLER-WATERMAN, DE LOS SANTOS,
+  JACKSON, SMULLEN, BEEPHAN, ARDILA, ALVAREZ, DICKENS,  GIBBS,  BENDETT,
+  TAYLOR  --  read  once  and  referred to the Committee on Education --
+  recommitted to the Committee on Education in accordance with  Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the education law, in relation to enacting the "New York
   city Caribbean steel pan educational music program act"
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1.  Short  title. This act shall be known and may be cited as
  the "New York city Caribbean steel pan educational music program act".
   § 2. Paragraph (c) of subdivision 1 of section 414  of  the  education
@@ -43,44 +47,37 @@ S T A T E  O F  N E W  Y O R K
  tainments,  and  other  uses pertaining to the welfare of the community;
  but such meetings, entertainment and uses  shall  be  non-exclusive  and
  shall be open to the general public; PROVIDED, HOWEVER, COMMUNITY SCHOOL
- BOARDS IN THE CITY OF NEW YORK SHALL AUTHORIZE THE USE OF SCHOOL GROUNDS
- DURING  THE SUMMER MONTHS FOR USE BY ANY STEEL PAN MUSIC ORGANIZATION TO
- PRACTICE FOR THE LABOR DAY PARADE (WEST INDIAN CARNIVAL). Civic meetings
- shall include, but not be limited to, meetings  of  parent  associations
- and parent-teacher associations.
+ BOARDS  IN  THE  CITY OF NEW YORK SHALL, WHERE REASONABLE, AUTHORIZE THE
+ USE OF SCHOOL GROUNDS DURING THE SUMMER MONTHS FOR USE BY ANY STEEL  PAN
+ MUSIC  ORGANIZATION  TO  PRACTICE  FOR THE LABOR DAY PARADE (WEST INDIAN
+ CARNIVAL), CONSISTENT WITH SUBDIVISION TWENTY-SEVEN OF  SECTION  TWENTY-
+ FIVE HUNDRED NINETY-H OF THIS CHAPTER. Civic meetings shall include, but
+ not  be  limited  to, meetings of parent associations and parent-teacher
+ associations.
   § 3. Subdivision 27 of section 2590-h of the education law, as amended
  by chapter 345 of the laws of 2009, is amended to read as follows:
-  27.  Promulgate regulations, in conjunction with each community super-
+  27. Promulgate regulations, in conjunction with each community  super-
  intendent, establishing a plan for providing access to school facilities
- in each community school district, when not in use for school  purposes,
- in  accordance  with  the provisions of section four hundred fourteen of
- this chapter.  SUCH PLAN SHALL INCLUDE ACCESS TO SCHOOL  GROUNDS  DURING
- THE  SUMMER MONTHS FOR STEEL PAN MUSIC ORGANIZATIONS TO PRACTICE FOR THE
- LABOR DAY PARADE (WEST INDIAN CARNIVAL). Such plan  shall  set  forth  a
- reasonable  system  of  fees  not to exceed the actual costs and specify
- that no part of any fee shall  directly  or  indirectly  benefit  or  be
+ in  each community school district, when not in use for school purposes,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04271-01-3
- A. 1717  2
+  LBD04271-03-4
+ A. 1717--A  2
  
- deposited  into an account which inures to the benefit of the custodians
+ in accordance with the provisions of section four  hundred  fourteen  of
+ this  chapter.  SUCH PLAN SHALL INCLUDE ACCESS TO SCHOOL GROUNDS DURING
+ THE SUMMER MONTHS FOR STEEL PAN MUSIC ORGANIZATIONS TO PRACTICE FOR  THE
+ LABOR  DAY  PARADE  (WEST  INDIAN CARNIVAL). Such plan shall set forth a
+ reasonable system of fees not to exceed the  actual  costs  and  specify
+ that  no  part  of  any  fee  shall directly or indirectly benefit or be
+ deposited into an account which inures to the benefit of the  custodians
  or custodial engineers.
-  §  4.  Section  2590-h of the education law is amended by adding a new
- subdivision 57 to read as follows:
-  57. ESTABLISH STEEL PAN MUSIC CURRICULUM OR INSTRUCTION FOR  COMMUNITY
- SCHOOL  DISTRICTS.  THE  CONTENTS  MAY  BE  VARIED  TO MEET THE NEEDS OF
- PARTICULAR COMMUNITY SCHOOL DISTRICTS, OR PORTIONS THEREOF, AND NEED NOT
- BE UNIFORM THROUGHOUT THE CITY. THE CONTENT SHALL BE AGE APPROPRIATE AND
- SHALL BE DEVELOPED ACCORDING TO THE NEEDS AND  ABILITIES  OF  PUPILS  AT
- SUCCESSIVE  GRADE  LEVELS  IN ORDER TO PROVIDE SKILLS AND INFORMATION ON
- STEEL PAN MUSIC.
-  § 5. This act shall take effect on the ninetieth day  after  it  shall
- have  become  a  law;  provided, however, that the amendments to section
- 2590-h of the education law made by sections three and four of this  act
- shall  not  affect  the  expiration  of such section and shall be deemed
- repealed  therewith.  Effective  immediately,  the  addition,  amendment
- and/or repeal of any rule or regulation necessary for the implementation
- of  this  act  on  its  effective  date  are  authorized  to be made and
- completed on or before such date.
+  §  4.  This  act shall take effect on the ninetieth day after it shall
+ have become a law; provided, however, that  the  amendments  to  section
+ 2590-h  of the education law made by section three of this act shall not
+ affect the expiration of such section and shall be deemed repealed ther-
+ ewith. Effective immediately, the addition, amendment and/or  repeal  of
+ any  rule  or regulation necessary for the implementation of this act on
+ its effective date are authorized to be made and completed on or  before
+ such date.
