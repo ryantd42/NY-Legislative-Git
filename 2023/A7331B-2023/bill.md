@@ -1,6 +1,6 @@
 # Relates to requiring governmental entities to implement multifactor authentication for local and remote network access
 
-**Bill ID:** A7331B
+**Bill ID:** A7331BA
 **Session:** 2023
 **Sponsor:** Steven Otis
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Requires governmental entities to, whenever possible and feasible, consider impl
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7331
+  7331--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M. of A. OTIS -- read once and referred to the Committee
-  on Governmental Employees
+  on Governmental Employees -- reference changed  to  the  Committee  on
+  Science  and Technology -- committee discharged, bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the state  technology  law,  in  relation  to  requiring
   governmental  entities  to  implement  multifactor  authentication for
   local and remote network access
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -55,24 +57,25 @@ S T A T E  O F  N E W  Y O R K
  REQUIRES  INDIVIDUALS  TO  HAVE  SOMETHING SPECIFIC IN THEIR POSSESSION,
  SUCH AS SECURITY TOKENS, KEY FOBS, SIM CARDS OR SMARTPHONE APPLICATIONS;
  AND
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09003-03-4
+ A. 7331--A  2
+ 
   (C) INHERENCE-BASED CREDENTIALS, WHICH IS AUTHENTICATION THAT REQUIRES
  USER-SPECIFIC BIOLOGICAL TRAITS TO CONFIRM IDENTITY FOR LOGIN,  SUCH  AS
  FINGERPRINTS OR FACIAL RECOGNITION.
   §  2. The state technology law is amended by adding three new sections
  210, 211, and 212 to read as follows:
   §  210.  MULTIFACTOR  AUTHENTICATION.  1.  MULTIFACTOR  AUTHENTICATION
- REQUIREMENT.  EVERY  GOVERNMENTAL  ENTITY  SHALL  IMPLEMENT  MULTIFACTOR
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD09003-02-3
- A. 7331  2
- 
- AUTHENTICATION  FOR  LOCAL  AND  REMOTE  NETWORK  ACCESS  TO  ANY  EMAIL
- ACCOUNTS, CLOUD STORAGE ACCOUNTS, WEB APPLICATIONS, NETWORKS, DATABASES,
- OR  SERVERS,  MAINTAINED BY SUCH ENTITY OR ON BEHALF OF SUCH ENTITY, FOR
- THE  EMPLOYEES  AND OFFICERS OF SUCH ENTITY OR FOR ANY OTHER INDIVIDUALS
- PROVIDING SERVICES TO OR ON BEHALF OF SUCH ENTITY.
+ REQUIREMENT.  EVERY  GOVERNMENTAL  ENTITY  SHALL,  WHENEVER POSSIBLE AND
+ FEASABLE, CONSIDER IMPLEMENTING MULTIFACTOR AUTHENTICATION FOR LOCAL AND
+ REMOTE NETWORK ACCESS TO ANY EMAIL ACCOUNTS, CLOUD STORAGE ACCOUNTS, WEB
+ APPLICATIONS, NETWORKS, DATABASES, OR SERVERS, MAINTAINED BY SUCH ENTITY
+ OR ON BEHALF OF SUCH ENTITY, FOR THE  EMPLOYEES  AND  OFFICERS  OF  SUCH
+ ENTITY  OR  FOR ANY OTHER INDIVIDUALS PROVIDING SERVICES TO OR ON BEHALF
+ OF SUCH ENTITY.
   2. TECHNICAL STANDARD. THE OFFICE SHALL PROMULGATE RULES TO  ESTABLISH
  STANDARD  TECHNICAL REQUIREMENTS FOR GOVERNMENTAL ENTITIES FOR COMPLYING
  WITH SUBDIVISION ONE OF THIS SECTION. SUCH  RULES  SHALL  INCLUDE  REGU-
@@ -116,6 +119,8 @@ S T A T E  O F  N E W  Y O R K
  REQUIRED  IF  SUCH EXCHANGES OR TRANSFERS ARE CONDUCTED IN A MANNER THAT
  PROVIDES AT LEAST AN EQUIVALENT LEVEL OF CONFIDENTIALITY, DATA INTEGRITY
  AND AUTHENTICATION.
+ A. 7331--A  3
+ 
   § 3. This act shall take effect one year after it shall have become  a
  law.  Effective  immediately,  the addition, amendment, and/or repeal of
  any rule or regulation necessary for the implementation of this  act  on
