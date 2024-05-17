@@ -1,6 +1,6 @@
 # Authorizes the town of Southampton, county of Suffolk, to enact a homestead exemption
 
-**Bill ID:** A3872A
+**Bill ID:** A3872AA
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes the town of Southampton, county of Suffolk, to enact by local law a h
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3872
+  3872--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by M. of A. THIELE -- read once and referred to the Committee
-  on Real Property Taxation
- 
- AN  ACT authorizing the town of Southampton, county of Suffolk, to enact
-  by a local law a homestead exemption and cap on  assessment  increases
-  for real property tax purposes
+  on  Real  Property  Taxation  --  recommitted to the Committee on Real
+  Property Taxation in accordance  with  Assembly  Rule  3,  sec.  2  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
 
+ AN ACT authorizing the town of Southampton, county of Suffolk, to  enact
+  by a local law a homestead exemption
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -43,19 +45,12 @@ S T A T E  O F  N E W  Y O R K
  425 of the real property tax law. The exemption shall be uniform for all
  eligible  real  property  and  shall not exceed $50,000 in full assessed
  value.
-  § 2. In addition to the homestead exemption provided  for  in  section
- one  of  this  act,  the  town of Southampton also may enact a local law
- providing for a cap on all annual assessment increases  for  residential
- property, attributable solely to market trend adjustments, not to exceed
- five percent. This section shall not affect other assessment adjustments
- attributable  to  other  factors  unrelated  to  market trends. Upon the
- transfer of any such real property, the assessment of any such  property
- shall be reassessed pursuant to section 305 of the real property tax law
- at  the  full value or at the uniform percentage of value without regard
- to this section.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
  
  
+ 
+ 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04835-01-3
+  LBD04835-02-4
