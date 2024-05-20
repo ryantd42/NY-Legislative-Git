@@ -1,6 +1,6 @@
 # Relates to the criminal impersonation in the second degree and establishing a stolen valor fee
 
-**Bill ID:** A1818CB
+**Bill ID:** A1818CC
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides that a person is guilty of criminal impersonation in the second degree 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1818--B
+  1818--C
  
   2023-2024 Regular Sessions
  
@@ -32,60 +32,80 @@ S T A T E  O F  N E W  Y O R K
   and recommitted to said committee -- recommitted to the  Committee  on
   Codes  in  accordance  with  Assembly  Rule  3,  sec.  2  -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee -- again reported from said  committee  with  amend-
+  ments, ordered reprinted as amended and recommitted to said committee
  
- AN ACT to amend the penal law, in relation  to  creating  the  crime  of
-  stolen valor
+ AN ACT to amend the penal law, in relation to  criminal impersonation in
+  the second degree and establishes a stolen valor fee
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 10.00 of the penal law is amended  by  adding  four
- new subdivisions 23, 24, 25, and 26 to read as follows:
-  23.  "MEMBER  OF  THE  MILITARY OR RESERVES" MEANS (A) A MEMBER OF THE
- UNITED STATES ARMY, NAVY, AIR FORCE, MARINES, COAST GUARD, ARMY NATIONAL
- GUARD, AIR NATIONAL GUARD AND/OR RESERVES THEREOF OR (B) A MEMBER OF THE
- NEW YORK GUARD OR THE NEW YORK NAVAL MILITIA.
-  24. "VETERAN" MEANS A PERSON WHO WAS  A  MEMBER  OF  THE  MILITARY  OR
- RESERVES AS DEFINED IN SUBDIVISION TWENTY-THREE OF THIS SECTION, BUT WHO
- HAS SINCE BEEN DISCHARGED FROM SUCH SERVICES.
-  25.  "FIRST  RESPONDER"  MEANS A FIREFIGHTER, LAW ENFORCEMENT OFFICER,
- PARAMEDIC, EMERGENCY MEDICAL TECHNICIAN, EMERGENCY SERVICES  DISPATCHER,
- OR  OTHER  INDIVIDUAL,  INCLUDING AN EMPLOYEE OF A LEGALLY ORGANIZED AND
- RECOGNIZED VOLUNTEER ORGANIZATION, WHETHER COMPENSATED OR NOT,  WHO,  IN
- THE COURSE OF HIS OR HER PROFESSIONAL DUTIES, RESPONDS TO FIRE, MEDICAL,
- HAZARDOUS MATERIAL, OR OTHER SIMILAR EMERGENCIES.
-  26.  "FIRST RESPONDER AGENCY" MEANS A STATE OR LOCAL DISTRICT, MUNICI-
- PALITY, OR OTHER POLITICAL SUBDIVISION THAT EMPLOYS A  FIRST  RESPONDER,
- TO  PROVIDE  FIRE PROTECTION, PARAMEDIC SERVICES, LAW ENFORCEMENT, EMER-
- GENCY SERVICES, OR RESCUE OR RECOVERY SERVICES, OR A  RECOGNIZED  VOLUN-
+  Section 1. Section 10.00 of the penal law is amended  by  adding  five
+ new subdivisions 23, 24, 25, 26 and 27 to read as follows:
+  23. "MILITARY OR RESERVES" MEANS (A) THE UNITED STATES ARMY, NAVY, AIR
+ FORCE,  MARINES,  SPACE  FORCE,  COAST  GUARD, COMMISSIONED CORPS OF THE
+ NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION, COMMISSIONED  CORPS  OF
+ THE PUBLIC HEALTH SERVICE,  AND THE RESERVE COMPONENTS THEREOF INCLUDING
+ THE ARMY NATIONAL GUARD AND AIR NATIONAL GUARD OR (B) THE NEW YORK GUARD
+ OR THE NEW YORK NAVAL MILITIA, OR THE ORGANIZED MILITIA OR DEFENSE FORCE
+ OF  ANY  OTHER  STATE, TERRITORY OR THE DISTRICT OF COLUMBIA, OR (C) ANY
+ GROUP DESIGNATED BY THE  FEDERAL  GOVERNMENT  AS  PERFORMING  OR  HAVING
+ PERFORMED  ACTIVE MILITARY, NAVAL, AIR, OR SPACE SERVICE FOR PURPOSES OF
+ ELIGIBILITY FOR BENEFITS ADMINISTERED BY THE UNITED STATES DEPARTMENT OF
+ VETERANS AFFAIRS.
+  24.  "SERVICEMEMBER" MEANS A PERSON SERVING AS A MEMBER OF  THE  MILI-
+ TARY OR RESERVES.
+  25.  "FORMER  SERVICEMEMBER"  MEANS  A  PERSON WHO WAS A MEMBER OF THE
+ MILITARY OR RESERVES AS DEFINED  IN  SUBDIVISION  TWENTY-THREE  OF  THIS
+ SECTION AND WHO WAS DISCHARGED OR RELEASED THEREFROM.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00836-03-4
- A. 1818--B  2
+  LBD00836-07-4
+ A. 1818--C  2
  
- TEER ORGANIZATION THAT PROVIDES FIRE PROTECTION, PARAMEDIC SERVICES, LAW
- ENFORCEMENT, EMERGENCY SERVICES, OR RESCUE OR RECOVERY SERVICES.
-  §  2.  The penal law is amended by adding a new section 190.28 to read
- as follows:
- § 190.28 STOLEN VALOR.
-  A PERSON IS GUILTY OF STOLEN VALOR WHEN HE OR SHE  PRETENDS  TO  BE  A
- MEMBER  OF  THE  MILITARY  OR RESERVES AS DEFINED BY SUBDIVISION TWENTY-
- THREE OF SECTION 10.00 OF THIS CHAPTER, OR PRETENDS TO BE A  VETERAN  AS
- DEFINED  BY SUBDIVISION TWENTY-FOUR OF SECTION 10.00 OF THIS CHAPTER, OR
- PRETENDS TO BE A FIRST RESPONDER AS DEFINED BY  SUBDIVISION  TWENTY-FIVE
- OF  SECTION 10.00 OF THIS CHAPTER, OR WEARS OR DISPLAYS WITHOUT AUTHORI-
- TY, ANY UNIFORM, BADGE OR OTHER INSIGNIA OR FACSIMILE THEREOF, OR  HOLDS
- ONESELF OUT TO BE A RECIPIENT OF A DECORATION OR MEDAL CREATED BY FEDER-
- AL OR STATE LAWS AND REGULATIONS TO HONOR THE MEMBERS OR VETERANS OF THE
- UNITED  STATES ARMED FORCES OR THE ORGANIZED MILITIA OR FIRST RESPONDERS
- BY WHICH SUCH MEMBER OF THE MILITARY,  VETERAN  OR  FIRST  RESPONDER  IS
- LAWFULLY  DISTINGUISHED OR EXPRESSES BY HIS OR HER WORDS OR ACTIONS THAT
- HE OR SHE IS ACTING WITH THE APPROVAL OR AUTHORITY OF ANY DEPARTMENT  OF
- DEFENSE  BRANCH, THE UNITED STATES COAST GUARD OR FIRST RESPONDER AGENCY
- FOR THE PURPOSE OF FRAUDULENTLY OBTAINING MONEY OR OTHER BENEFITS.
-  STOLEN VALOR IS A CLASS A MISDEMEANOR.
+  26.  "FIRST  RESPONDER"  MEANS A FIREFIGHTER, LAW ENFORCEMENT OFFICER,
+ PARAMEDIC, EMERGENCY MEDICAL TECHNICIAN, EMERGENCY SERVICES  DISPATCHER,
+ OR  OTHER  INDIVIDUAL, WHETHER COMPENSATED OR NOT, WHO, IN THE COURSE OF
+ THEIR PROFESSIONAL OR  VOLUNTEER  DUTIES,  RESPONDS  TO  FIRE,  MEDICAL,
+ HAZARDOUS MATERIAL, OR OTHER SIMILAR EMERGENCIES.
+  27.  "FIRST RESPONDER AGENCY" MEANS A STATE OR LOCAL DISTRICT, MUNICI-
+ PALITY, OR OTHER POLITICAL SUBDIVISION  OR  VOLUNTEER  ORGANIZATION  FOR
+ WHICH  A  FIRST  RESPONDER PROVIDES FIRE PROTECTION, PARAMEDIC SERVICES,
+ LAW ENFORCEMENT, EMERGENCY SERVICES, OR RESCUE OR RECOVERY SERVICES.
+  § 2.  Subdivision 5 of section 190.25 of the penal law,  as  added  by
+ chapter  739  of the laws of 2021, is amended and two new subdivisions 6
+ and 7 are added to read as follows:
+  5. Impersonates another person, without such  other  person's  permis-
+ sion,  by  using  the other person's electronic signature with intent to
+ obtain a benefit or injure  or  defraud  the  other  person  or  another
+ person. For the purposes of this subdivision, electronic signature shall
+ have the same meaning as set forth in subdivision three of section three
+ hundred two of the state technology law[.]; OR
+  6.  (A)  PRETENDS  TO  BE  A SERVICEMEMBER OR FORMER SERVICEMEMBER, OR
+ WEARS OR DISPLAYS WITHOUT AUTHORITY, ANY UNIFORM, BADGE OR OTHER  INSIG-
+ NIA OR FACSIMILE THEREOF BY WHICH SUCH SERVICEMEMBER OR FORMER SERVICEM-
+ EMBER  IS  LAWFULLY  DISTINGUISHED, OR FALSELY HOLDS ONESELF OUT TO BE A
+ RECIPIENT OF A DECORATION OR MEDAL CREATED BY FEDERAL OR STATE LAWS  AND
+ REGULATIONS  TO HONOR SERVICEMEMBERS OR FORMER SERVICEMEMBERS OR FALSELY
+ EXPRESSES BY SUCH PERSON'S WORDS OR ACTIONS THAT SUCH PERSON IS A SERVI-
+ CEMEMBER OR FORMER SERVICEMEMBER OR IS ACTING WITH APPROVAL OR AUTHORITY
+ OF THE MILITARY OR RESERVES; AND (B) SO ACTS WITH  INTENT  TO  OBTAIN  A
+ BENEFIT  OR  TO INJURE OR DEFRAUD ANOTHER OR INDUCE ANOTHER TO SUBMIT TO
+ SUCH PRETENDED OFFICIAL AUTHORITY, TO  SOLICIT  FUNDS  OR  TO  OTHERWISE
+ CAUSE ANOTHER TO ACT IN RELIANCE UPON THAT PRETENSE; OR
+  7.  (A) PRETENDS TO BE A FIRST RESPONDER, OR WEARS OR DISPLAYS WITHOUT
+ AUTHORITY ANY UNIFORM, BADGE, INSIGNIA OR  FACSIMILE  THEREOF  BY  WHICH
+ SUCH FIRST RESPONDER IS LAWFULLY DISTINGUISHED, OR FALSELY HOLDS ONESELF
+ OUT  TO  BE  A  RECIPIENT OF A DECORATION OR MEDAL CREATED BY FEDERAL OR
+ STATE LAWS  AND  REGULATIONS  TO  HONOR  FIRST  RESPONDERS,  OR  FALSELY
+ EXPRESSES  BY SUCH PERSON'S WORDS OR ACTIONS THAT SUCH PERSON IS A FIRST
+ RESPONDER OR IS ACTING WITH APPROVAL OR AUTHORITY OF A  FIRST  RESPONDER
+ AGENCY;  AND (B) SO ACTS WITH INTENT TO OBTAIN A BENEFIT OR TO INJURE OR
+ DEFRAUD ANOTHER OR INDUCE ANOTHER TO SUBMIT TO SUCH  PRETENDED  OFFICIAL
+ AUTHORITY,  TO  SOLICIT  FUNDS  OR  TO OTHERWISE CAUSE ANOTHER TO ACT IN
+ RELIANCE UPON THAT PRETENSE.
   § 3. Subdivisions 1, 2 and 3 of section 60.35 of  the  penal  law,  as
  amended  by  section  1  of  part  E  of chapter 56 of the laws of 2004,
  subparagraphs (i), (ii) and (iii) of paragraph (a) of subdivision  1  as
@@ -100,33 +120,34 @@ S T A T E  O F  N E W  Y O R K
  of this chapter,  there  shall  be  levied  at  sentencing  a  mandatory
  surcharge,  sex  offender  registration  fee,  DNA databank fee [and], a
  crime victim assistance fee, AND A STOLEN VALOR FEE in addition  to  any
+ A. 1818--C  3
+ 
  sentence  required or permitted by law, in accordance with the following
  schedule:
-  (i) a person convicted of a felony shall pay a mandatory surcharge  of
- three  hundred  dollars and a crime victim assistance fee of twenty-five
+  (i)  a person convicted of a felony shall pay a mandatory surcharge of
+ three hundred dollars and a crime victim assistance fee  of  twenty-five
  dollars;
-  (ii) a person  convicted  of  a  misdemeanor  shall  pay  a  mandatory
+  (ii)  a  person  convicted  of  a  misdemeanor  shall  pay a mandatory
  surcharge of one hundred seventy-five dollars and a crime victim assist-
  ance fee of twenty-five dollars;
-  (iii)  a  person  convicted  of  a  violation  shall  pay  a mandatory
- surcharge of ninety-five dollars and a crime victim  assistance  fee  of
+  (iii) a  person  convicted  of  a  violation  shall  pay  a  mandatory
+ surcharge  of  ninety-five  dollars and a crime victim assistance fee of
  twenty-five dollars;
   (iv) a person convicted of a sex offense as defined by subdivision two
  of section one hundred sixty-eight-a of the correction law or a sexually
- violent  offense  as defined by subdivision three of section one hundred
- sixty-eight-a of the correction law shall, in addition  to  a  mandatory
- surcharge  and crime victim assistance fee, pay a sex offender registra-
+ violent offense as defined by subdivision three of section  one  hundred
+ sixty-eight-a  of  the  correction law shall, in addition to a mandatory
+ surcharge and crime victim assistance fee, pay a sex offender  registra-
  tion fee of fifty dollars[.];
-  (v) a person convicted of a designated offense as defined by  subdivi-
- sion  seven  of  section  nine  hundred ninety-five of the executive law
- shall, in addition to a mandatory surcharge and crime victim  assistance
+  (v)  a person convicted of a designated offense as defined by subdivi-
+ sion seven of section nine hundred  ninety-five  of  the  executive  law
+ shall,  in addition to a mandatory surcharge and crime victim assistance
  fee, pay a DNA databank fee of fifty dollars[.];
- A. 1818--B  3
- 
-  (VI)  A  PERSON CONVICTED OF ANY OFFENSE PURSUANT TO SECTION 190.28 OF
- THIS CHAPTER SHALL, IN ADDITION  TO  A  MANDATORY  SURCHARGE  AND  CRIME
- VICTIM  ASSISTANCE  FEE, PAY ANY OTHER FEE REQUIRED BY THIS ARTICLE, AND
- PAY A STOLEN VALOR FEE IN THE AMOUNT OF TWO HUNDRED FIFTY DOLLARS.
+  (VI) A PERSON CONVICTED OF ANY OFFENSE PURSUANT TO SUBDIVISION SIX  OR
+ SEVEN OF SECTION 190.25 OF THIS CHAPTER SHALL, IN ADDITION TO A MANDATO-
+ RY SURCHARGE AND CRIME VICTIM ASSISTANCE FEE, PAY ANY OTHER FEE REQUIRED
+ BY THIS ARTICLE, AND PAY A STOLEN VALOR FEE IN THE AMOUNT OF TWO HUNDRED
+ FIFTY DOLLARS.
   (b)  When  the  felony or misdemeanor conviction in subparagraphs (i),
  (ii) or (iv) of paragraph  (a)  of  this  subdivision  results  from  an
  offense  contained in article one hundred thirty of this chapter, incest
@@ -157,6 +178,8 @@ S T A T E  O F  N E W  Y O R K
  single  act  or  omission, or through an act or omission which in itself
  constituted one of the offenses and also was a material element  of  the
  other, the court shall impose only one DNA databank fee.
+ A. 1818--C  4
+ 
   3.  The  mandatory surcharge, sex offender registration fee, DNA data-
  bank fee, crime victim assistance fee, [and] supplemental  sex  offender
  victim fee, AND STOLEN VALOR FEE provided for in subdivision one of this
@@ -179,8 +202,6 @@ S T A T E  O F  N E W  Y O R K
  shall then pay such money to the state  comptroller  who  shall  deposit
  such  money  in the state treasury pursuant to section one hundred twen-
  ty-one of the state finance law to the credit of the  general  fund.  If
- A. 1818--B  4
- 
  such  collecting  authority  is  any  other  court  of the unified court
  system, it shall, within such period, pay such money attributable to the
  mandatory surcharge or crime victim assistance fee to the state  commis-
