@@ -1,6 +1,6 @@
 # Authorizes the Friendship Engine and Hose Company to file an application for exemption from real property taxes
 
-**Bill ID:** S7555A
+**Bill ID:** S7555AA
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** Signed by Governor
@@ -16,7 +16,8 @@ Authorizes the Friendship Engine and Hose Company to file an application for exe
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7555
+  7555--A
+  Cal. No. 246
  
   2023-2024 Regular Sessions
  
@@ -26,7 +27,13 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  RHOADS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
+  printed to be committed to the Committee on Rules  --  recommitted  to
+  the  Committee  on  Local Government in accordance with Senate Rule 6,
+  sec. 8 -- reported favorably from said committee, ordered to first and
+  second report, ordered to a third reading, passed by Senate and deliv-
+  ered to the Assembly, recalled, vote reconsidered, restored  to  third
+  reading,  amended  and  ordered  reprinted, retaining its place in the
+  order of third reading
  
  AN ACT authorizing the Friendship Engine and Hose  Company  to  file  an
   application for exemption from real property taxes
@@ -37,7 +44,7 @@ S T A T E  O F  N E W  Y O R K
   Section 1. Notwithstanding any other provision of law to the contrary,
  the Nassau county assessor is  hereby  authorized  to  accept  from  the
  Friendship  Engine  and Hose Company, Inc., an application for exemption
- from real property taxes pursuant to section 406 of  the  real  property
+ from real property taxes pursuant to section 464 of  the  real  property
  tax  law  with  respect to the 2021-2022 and 2022-2023 assessment rolls,
  for a portion of the 2021 and all the 2022 and 2023 general taxes and  a
  portion  of  the  2021-2022  and  all the 2022-2023 school taxes for the
@@ -53,12 +60,14 @@ S T A T E  O F  N E W  Y O R K
  approval  by the Nassau county legislature, may grant exemption from all
  taxation and make appropriate corrections to the subject roll.  If  such
  exemption  is  granted and such organization, therefore, shall have paid
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD09999-05-4
+ S. 7555--A  2
+ 
  any tax with respect to the subject roll, the applicable governing  body
  or tax department may, in its sole discretion, provide for the refund of
  the  taxes  paid, along with any fines or penalties paid, and cancel any
  taxes, fines, penalties, interest, or tax liens remaining unpaid.
   § 2. This act shall take effect immediately.
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD09999-03-3
