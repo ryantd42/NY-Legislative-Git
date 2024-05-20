@@ -1,6 +1,6 @@
 # Relates to requiring homeless shelters to keep an opioid antagonist on hand, have at least one trained employee on duty at all times, and develop a training plan for opioid overdoses
 
-**Bill ID:** S1872A
+**Bill ID:** S1872AA
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires homeless shelters to keep an opioid antagonist on hand at all times and
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1872
+  1872--A
  
   2023-2024 Regular Sessions
  
@@ -25,8 +25,12 @@ S T A T E  O F  N E W  Y O R K
   January 17, 2023
   ___________
  
- Introduced  by  Sen.  CLEARE -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Social Services
+ Introduced  by  Sens.  CLEARE, COMRIE, FERNANDEZ, WEIK -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Social  Services -- recommitted to the Committee on Social Services in
+  accordance with Senate Rule 6, sec. 8 --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the social services law, in relation to requiring  home-
   less  shelters to keep an opioid antagonist on hand, have at least one
@@ -45,26 +49,27 @@ S T A T E  O F  N E W  Y O R K
  HOUSING ASSISTANCE, WHICH SHALL INCLUDE, BUT NOT BE LIMITED TO, A FAMILY
  SHELTER, A SHELTER FOR ADULTS, A HOTEL, AN EMERGENCY APARTMENT, A DOMES-
  TIC VIOLENCE SHELTER, A RUNAWAY AND HOMELESS YOUTH SHELTER,  OR  A  SAFE
- HOUSE FOR REFUGEES OPERATING IN THIS STATE SHALL HAVE AT ITS PREMISES AT
- ALL TIMES:
-  (A)  AN  OPIOID  ANTAGONIST  AND  A METHOD OF ADMINISTERING IT ON SITE
- WHICH MAY INCLUDE, BUT NOT BE LIMITED TO, A NALOXONE KIT; AND
+ HOUSE FOR REFUGEES OPERATING IN THIS STATE SHALL HAVE AT ITS PREMISES:
+  (A)  AN  OPIOID ANTAGONIST AND A METHOD OF ADMINISTERING IT ON SITE AT
+ ALL TIMES WHICH MAY INCLUDE, BUT NOT BE LIMITED TO, A NALOXONE KIT; AND
   (B) AT A MINIMUM, ONE EMPLOYEE TRAINED IN  THE  ADMINISTRATION  OF  AN
- OPIOID ANTAGONIST ON DUTY AT ALL TIMES.
-  2.  ALL  EMPLOYEES OF PROVIDERS OF TEMPORARY PUBLIC HOUSING ASSISTANCE
- WHO ARE AUTHORIZED TO ADMINISTER AN OPIOID ANTAGONIST SHALL:
+ OPIOID  ANTAGONIST ON DUTY AT ALL TIMES WHEN APPLICABLE LAW, REGULATION,
+ CODE, OR OPERATING PLAN APPROVED BY A SOCIAL SERVICES  DISTRICT  OR  THE
+ COMMISSIONER OTHERWISE REQUIRES EMPLOYEES TO BE AT THE PREMISES.
+  2.  ALL EMPLOYEES OF PROVIDERS OF TEMPORARY HOUSING ASSISTANCE WHO ARE
+ AUTHORIZED TO ADMINISTER AN OPIOID ANTAGONIST SHALL:
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD00670-03-4
+ S. 1872--A  2
+ 
   (A) HAVE COMPLETED AN INITIAL TRAINING PROGRAM, WHICH  MAY  INCLUDE  A
  DEPARTMENT  OF  HEALTH  REGISTERED  OPIOID  OVERDOSE PREVENTION TRAINING
  PROGRAM;
   (B) COMPLETE A REFRESHER TRAINING PROGRAM AT LEAST EVERY TWO YEARS;
-
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD00670-01-3
- S. 1872  2
- 
-  (C) CONTACT THE EMERGENCY MEDICAL SYSTEM  DURING  ANY  RESPONSE  TO  A
- VICTIM  OF SUSPECTED DRUG OVERDOSE AND ADVISE IF AN OPIOID ANTAGONIST IS
+  (C)  CONTACT  THE  EMERGENCY  MEDICAL  SYSTEM DURING ANY RESPONSE TO A
+ VICTIM OF SUSPECTED DRUG OVERDOSE AND ADVISE IF AN OPIOID ANTAGONIST  IS
  BEING USED;
   (D)  COMPLY  WITH  PROTOCOLS FOR RESPONSE TO VICTIMS OF SUSPECTED DRUG
  OVERDOSE; AND
