@@ -1,6 +1,6 @@
 # Requires at least one electric level three fast charging station for every five thousand New York state residents
 
-**Bill ID:** S749BA
+**Bill ID:** S749BB
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** In Senate Committee
@@ -16,7 +16,8 @@ Requires at least one electric level three fast charging station available to th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  749--A
+  749--B
+  Cal. No. 553
  
   2023-2024 Regular Sessions
  
@@ -30,11 +31,14 @@ S T A T E  O F  N E W  Y O R K
   cations -- recommitted to the Committee  on  Energy  and  Telecommuni-
   cations  in  accordance  with  Senate  Rule  6,  sec.  8  -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to said committee -- reported favorably from said  committee,  ordered
+  to  first  and  second report, ordered to a third reading, amended and
+  ordered reprinted, retaining its place in the order of third reading
  
- AN ACT to amend the public authorities law, in relation to requiring  at
-  least  one  electric  charging station for every ten thousand New York
-  state residents
+ AN ACT to amend the public authorities law, in relation to requiring the
+  power authority of the state of New York to build at least  one  elec-
+  tric  level  three  fast  charging station for every five thousand New
+  York state residents by December thirty-first, two thousand twenty-six
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -45,19 +49,30 @@ S T A T E  O F  N E W  Y O R K
   9-a. [As deemed feasible and advisable by the trustees, to] TO design,
  finance, develop, construct, install, lease, operate and maintain  elec-
  tric  vehicle  charging  stations  throughout  the  state for use by the
- public, WITH AT LEAST ONE LEVEL THREE FAST CHARGING  STATION  FOR  EVERY
- TEN  THOUSAND NEW YORK STATE RESIDENTS. THE CONSTRUCTION AND DEVELOPMENT
- OF SUCH  ELECTRIC  VEHICLE  CHARGING  STATIONS  SHALL  COMPLY  WITH  THE
- PROVISIONS OF ARTICLE EIGHT OF THE LABOR LAW, INCLUDING THE PAYMENT OF A
- WAGE  OF  NOT  LESS  THAN THE PREVAILING WAGE IN THE LOCALITY WHERE SUCH
- ELECTRIC VEHICLE CHARGING STATION IS LOCATED. The authority shall  annu-
- ally  post  on  their  website  a  report on those activities undertaken
- pursuant to this subdivision, including but not limited  to:  the  total
- number  of  electric  vehicle charging stations in operation pursuant to
- such authorization, the locations of such  charging  stations,  and  the
- total costs to the authority associated with such activities.
-  § 2. This act shall take effect immediately.
-
+ public. ON OR BEFORE DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-SIX, THE
+ AUTHORITY SHALL CONSTRUCT, AND MAINTAIN THEREAFTER, AT LEAST  ONE  LEVEL
+ THREE FAST CHARGING STATION FOR EVERY FIVE THOUSAND NEW YORK STATE RESI-
+ DENTS.  THE  DISTRIBUTION  OF  SUCH LEVEL THREE FAST CHARGING STATIONS
+ SHALL BE SPREAD THROUGHOUT THE STATE AT THE COUNTY LEVEL, SO  THAT  EACH
+ COUNTY  SHALL  RECEIVE  ONE  LEVEL THREE CHARGING STATION FOR EVERY FIVE
+ THOUSAND NEW YORK STATE RESIDENTS LOCATED THEREIN.  SITING  OF  CHARGING
+ STATIONS  SHALL  BE PRIORITIZED IN HIGH TRAFFIC AREAS INCLUDING, BUT NOT
+ LIMITED TO, HIGHWAY EXITS, TRANSIT HUBS, MUNICIPAL OR TOWN  CENTERS,  OR
+ ANY  OTHER  WIDELY  ACCESSIBLE LOCATION THE AUTHORITY DEEMS APPROPRIATE.
+ THE CONSTRUCTION AND  DEVELOPMENT  OF  SUCH  ELECTRIC  VEHICLE  CHARGING
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02757-02-4
+  LBD02757-04-4
+ S. 749--B  2
+ 
+ STATIONS  SHALL COMPLY WITH THE PROVISIONS OF ARTICLE EIGHT OF THE LABOR
+ LAW, INCLUDING THE PAYMENT OF A WAGE OF NOT  LESS  THAN  THE  PREVAILING
+ WAGE  IN  THE  LOCALITY  WHERE SUCH ELECTRIC VEHICLE CHARGING STATION IS
+ LOCATED.  The authority shall annually post on their website a report on
+ those activities undertaken pursuant to this subdivision, including  but
+ not  limited  to: the total number of electric vehicle charging stations
+ in operation pursuant to  such  authorization,  the  locations  of  such
+ charging  stations, and the total costs to the authority associated with
+ such activities.
+  § 2. This act shall take effect immediately.
