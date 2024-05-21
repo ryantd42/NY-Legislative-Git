@@ -1,6 +1,6 @@
 # Increases the number of county court judges in Saratoga county
 
-**Bill ID:** S7020B
+**Bill ID:** S7020BA
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Increases the number of county court judges in Saratoga county by one justice.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7020
+  7020--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  STEC  --  read twice and ordered printed, and when
-  printed to be committed to the Committee on Judiciary
- 
+  printed to be committed to the Committee on Judiciary  --  recommitted
+  to the Committee on Judiciary in accordance with Senate Rule 6, sec. 8
+  --  committee  discharged,  bill amended, ordered reprinted as amended
+  and recommitted to said committee
+
  AN ACT to amend the judiciary law, in relation to increasing the  number
   of county court judges in certain jurisdictions
  
@@ -43,8 +46,7 @@ S T A T E  O F  N E W  Y O R K
   §  2.  This act shall take effect immediately; provided, however, that
  the additional county court justices provided for by section one of this
  act shall first be elected at the general election to be held in  Novem-
- ber 2023 and shall take office January 1, 2024.
- 
+ ber 2024 and shall take office January 1, 2025.
  
  
  
@@ -52,4 +54,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11120-01-3
+  LBD11120-04-4
