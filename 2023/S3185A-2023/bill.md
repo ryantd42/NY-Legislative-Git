@@ -1,6 +1,6 @@
 # Prohibits the taking of horseshoe crabs for commercial and biomedical purposes
 
-**Bill ID:** S3185A
+**Bill ID:** S3185AA
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Prohibits the taking of horseshoe crabs for commercial and biomedical purposes.
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3185
+  3185--A
+  Cal. No. 638
  
   2023-2024 Regular Sessions
  
@@ -25,146 +26,64 @@ S T A T E  O F  N E W  Y O R K
   January 30, 2023
   ___________
  
- Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Environmental Conser-
-  vation
+ Introduced  by  Sens.  HOYLMAN-SIGAL, HARCKHAM -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Environ-
+  mental Conservation -- recommitted to the Committee  on  Environmental
+  Conservation  in  accordance  with  Senate  Rule 6, sec. 8 -- reported
+  favorably from said committee, ordered to  first  and  second  report,
+  ordered  to  a third reading, amended and ordered reprinted, retaining
+  its place in the order of third reading
  
- AN ACT to amend the environmental conservation law, in relation  to  the
-  management of horseshoe crabs; and providing for the repeal of certain
-  provisions of such law upon expiration thereof
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ AN ACT to amend the  environmental  conservation  law,  in  relation  to
+  prohibiting  the taking of horseshoe crabs for commercial and biomedi-
+  cal purposes
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Legislative findings.  The legislature hereby finds that:
-  (a) The horseshoe crab stock assessments issued by the Atlantic States
- Marine Fisheries  Commission  (ASMFC)  for  the  New  York  region  have
- declined  since 2009, when the population was graded as "good". The 2013
- stock assessment graded the population as neutral, and in the 2019 stock
- assessment, the Commission downgraded the status of the  horseshoe  crab
- population  in  New  York State to "poor". Stock status was based on the
- proportion of surveys above or below the 1998  reference  points  estab-
- lished when ASMFC management of horseshoe crabs began. In the 2019 stock
- assessment, the ASMFC states that, "Continued declines in abundance were
- evident  in  the  New  York  and  New England regions. Decreased harvest
- quotas in Delaware Bay have potentially  redirected  harvest  to  nearby
- regions. Current harvest within the New England and New York regions may
- not  be  sustainable.  Continued  precautionary  management is therefore
- recommended coast-wide to anticipate effects of redirecting harvest from
- Delaware Bay to outlying populations."
-  (b) The International Union for the Conservation of Nature (IUCN)  has
- also  determined that the horseshoe crab meets the Red List criteria and
- is  vulnerable  to  local  extinction.  The  IUCN  stated,  "Population
- reductions  in  Limulus  have  occurred  over  much of its range, but in
- particular within the Mid-Atlantic region. The cause is understood to be
- over-harvest, which has been corrected through active management  inter-
- vention  over much of the range. An assessment of population trend indi-
+  Section  1. Subdivisions 1, 7 and 8 of section 13-0331 of the environ-
+ mental conservation law, subdivision 1 as amended by chapter 447 of  the
+ laws  of  2017,  subdivision  7 as amended by chapter 243 of the laws of
+ 2022 and subdivision 8 as amended by chapter 21 of the laws of 2018, are
+ amended to read as follows:
+  1. No person shall take crabs[,  including  horseshoe  crabs  (Limulus
+ sp.)]  for commercial purposes without first obtaining a permit from the
+ department. For purposes of this subdivision, a presumption of  "commer-
+ cial  purposes" shall be made wherein one takes or lands more than fifty
+ crabs in any one day or sells or barters or offers for  sale  or  barter
+ any  crabs  he  or she has taken. Permits shall be issued to individuals
+ only but may be endorsed for use on a vessel, in  which  case  it  shall
+ cover all persons on board such vessel.
+  7.  The  department  may,  until  December  thirty-first, two thousand
+ [twenty-four] TWENTY-SIX, fix by regulation measures for the  management
+ of  crabs  of  any  kind [including], EXCLUDING horseshoe crabs (Limulus
+ sp.), including minimum and maximum size limits,  catch  and  possession
+ limits,  open and closed seasons including lunar closures, closed areas,
+ restrictions on the manner of taking and landing including a prohibition
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07610-01-3
- S. 3185  2
+  LBD07610-04-4
+ S. 3185--A  2
  
- cates population stability in the Delaware Bay area of the  Mid-Atlantic
- region  and  population  growth  in  the  Southeast region.  Continuing
- decreases were found in the Great Bay estuary of New  Hampshire  in  the
- Gulf  of  Maine  region,  the  New England and New York areas within the
- Mid-Atlantic region and in the Northeast Gulf of Mexico."
-  (c) Each spring, shorebirds stop at Long Island beaches and feed  upon
- horseshoe  crab  eggs.  These include the red knot, dunlin, semipalmated
- sandpiper, sanderling, ruddy  turnstone,  greater  yellowlegs,  American
- golden-plover,  black-bellied  plover,  buff-breasted  sandpiper, short-
- billed dowitcher, purple sandpiper, marbled  godwit,  Hudsonian  godwit,
- and whimbrel.
-  (d)  The red knot was once considered one of the state's most abundant
- shorebirds. Horseshoe crab eggs are a critical source of  food  for  red
- knots  which  they  consume during their stopover in New York. Such food
- source is necessary for the red  knots  to  gain  sufficient  weight  to
- continue  their  migration  north  to  breeding  grounds in the Canadian
- Arctic. Surveys have shown that red knots have declined  by  75  percent
- since the 1980s. Thus, both state and international biologists fear that
- the  red knot will become extinct if horseshoe crab populations continue
- to decline.
-  (e) Horseshoe crabs are keystone species, providing an essential  food
- source not only for red knots, but also for many other types of bird and
- fish species important to New York's commercial and recreational fisher-
- ies, as well as birding and fishing tourism. Eels, whelk, catfish, juve-
- nile  striped  bass,  white perch, killifish, weakfish, Atlantic silver-
- sides, bluefish, sand shrimp, blue crabs, spider crabs, and hermit crabs
- all eat horseshoe crab eggs and larvae as part of their diets.
-  (f) The legislature therefore declares  that  stricter  management  of
- horseshoe  crabs  is  necessary  to ensure that more horseshoe crab eggs
- will be available as a food source, thus helping to ensure the  survival
- of these shorebirds.
-  §  2.  Subdivision 1 of section 13-0331 of the environmental conserva-
- tion law, as amended by chapter 447 of the laws of 2017, is amended  and
- two new subdivisions 9 and 10 are added to read as follows:
-  1.  A.  No person shall take crabs, including horseshoe crabs (Limulus
- sp.)  for commercial purposes, OR SELL OR POSSESS WITH  INTENT  TO  SELL
- HORSESHOE  CRABS  FOR  COMMERCIAL  PURPOSES,  without  first obtaining a
- permit from  the  department.  [For  purposes  of  this  subdivision,  a
- presumption  of "commercial purposes" shall be made wherein one takes or
- lands more than fifty crabs in any one day or sells or barters or offers
- for sale or barter any crabs he or she  has  taken.]  Permits  shall  be
- issued  to  individuals only but may be endorsed for use on a vessel, in
- which case it shall cover all persons on board such vessel.
-  B. FOR PURPOSES OF THIS SUBDIVISION:
-  (I) A PRESUMPTION OF "COMMERCIAL PURPOSES" SHALL BE MADE  WHEREIN  ONE
- TAKES  OR  LANDS MORE THAN FIFTY CRABS OR MORE THAN FIVE HORSESHOE CRABS
- IN ANY ONE DAY OR SELLS OR BARTERS OR OFFERS  FOR  SALE  OR  BARTER  ANY
- CRABS, INCLUDING HORSESHOE CRABS, HE OR SHE HAS TAKEN; AND
-  (II)  A  PRESUMPTION  OF  POSSESSION WITH INTENT TO SELL SHALL BE MADE
- WHEREIN ANY HORSESHOE CRABS ARE POSSESSED  WITHOUT  A  PERMIT  FROM  THE
- DEPARTMENT.
-  9.  A.  NOTWITHSTANDING ANY PROVISION OF THIS SECTION TO THE CONTRARY,
- UNTIL DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-EIGHT, NO PERSON  SHALL
- TAKE,  SELL,  OR POSSESS WITH INTENT TO SELL ANY HORSESHOE CRAB (LIMULUS
- SP.) OR THE EGGS OF ANY HORSESHOE CRAB, EXCEPT PURSUANT TO  A  HORSESHOE
- CRAB BIO-MEDICAL HARVESTER PERMIT.
- S. 3185  3
- 
-  B.  ANY PERSON MAY APPLY FOR A HORSESHOE CRAB BIO-MEDICAL HARVESTER OR
- USER PERMIT AND THE DEPARTMENT MAY ISSUE SUCH  PERMIT  UPON  A  DETERMI-
- NATION  THAT THE PERMIT IS FOR A VALID AND NECESSARY BIO-MEDICAL PURPOSE
- AND THAT THE TAKING OF HORSESHOE CRABS FOR SUCH PURPOSES  WILL  HAVE  NO
- MORE  THAN  NOMINAL  IMPACT  TO  THE  RED KNOT, OTHER SHOREBIRDS, OR THE
- HORSESHOE CRAB POPULATION.
-  C. WHEN TAKING HORSESHOE CRABS, A HOLDER OF A HORSESHOE CRAB BIO-MEDI-
- CAL HARVESTER PERMIT SHALL USE A MANNER OF CATCH AND RELEASE THAT  MINI-
- MIZES  INJURY  TO  CRABS,  AND SHALL RELEASE ANY TAKEN CRABS TO THE SAME
- WATERS FROM WHICH THEY WERE TAKEN.
-  D. THE TAKING OF HORSESHOE CRABS  INCIDENTALLY  DURING  LEGAL  FISHING
- OPERATIONS  DOES  NOT  VIOLATE THIS SECTION IF SUCH CRABS ARE HANDLED IN
- SUCH A MANNER TO  MINIMIZE  HARM  TO  SUCH  CRABS  AND  ARE  IMMEDIATELY
- RETURNED TO THE SAME WATERS FROM WHICH THEY WERE TAKEN.
-  10.  A.  THE DEPARTMENT SHALL CONDUCT A STUDY TO EXAMINE AND DETERMINE
- WHETHER:
-  (I) THE POPULATION OF RED KNOTS HAS REACHED RECOVERY TARGETS AS DETER-
- MINED BY THE DEPARTMENT; AND
-  (II) THE POPULATION OF OTHER SHOREBIRDS THAT  RELY  ON  THE  HORSESHOE
- CRAB  (LIMULUS  SP.)  OR  THE  EGGS  OF THE HORSESHOE CRAB HAVE REMAINED
- STABLE OR INCREASED, INCLUDING, BUT NOT LIMITED TO THE DUNLIN,  SEMIPAL-
- MATED SANDPIPER, SANDERLING, RUDDY TURNSTONE, GREATER YELLOWLEGS, AMERI-
- CAN GOLDEN-PLOVER, BLACK-BELLIED PLOVER, BUFF-BREASTED SANDPIPER, SHORT-
- BILLED  DOWITCHER,  PURPLE  SANDPIPER, MARBLED GODWIT, HUDSONIAN GODWIT,
- AND WHIMBREL; AND
-  (III) A FISHERIES MANAGEMENT PLAN DEMONSTRATES THAT AN ADEQUATE SUPPLY
- OF HORSESHOE CRAB EGGS EXISTS TO ENSURE POPULATION  VIABILITY  FOR  BOTH
- SHOREBIRDS  AND  HORSESHOE  CRABS,  AS  WELL AS A SUSTAINABLE COMMERCIAL
- FISHERY, PURSUANT TO SUBDIVISION ONE OF THIS SECTION. EVIDENCE THAT SUCH
- A SUPPLY OF EGGS EXISTS MAY INCLUDE TWO  CONSECUTIVE  STOCK  ASSESSMENTS
- FROM  THE ATLANTIC STATES MARINE FISHERIES COMMISSION THAT GRADE THE NEW
- YORK STATE HORSESHOE CRABS (LIMULUS SP.) POPULATION AS "GOOD."
-  B. TO SATISFY THE REQUIREMENTS OF PARAGRAPH A OF THIS SUBDIVISION, THE
- DEPARTMENT MAY RELY ON REPORTS AND POPULATION STUDIES  COMPILED  BY  ANY
- STATE OR FEDERAL UNIT OF GOVERNMENT RESPONSIBLE FOR WILDLIFE MANAGEMENT,
- A  LAND-GRANT  UNIVERSITY,  OR NONPROFIT ORGANIZATIONS WITH EXPERTISE IN
- ORNITHOLOGY.
-  C. ON OR BEFORE JUNE THIRTIETH, TWO THOUSAND TWENTY-EIGHT, THE DEPART-
- MENT SHALL SUBMIT A REPORT OF ITS FINDINGS, CONCLUSIONS AND  RECOMMENDA-
- TIONS  TO  THE  GOVERNOR AND TO THE LEGISLATURE WITH REGARD TO THE STUDY
- CONDUCTED PURSUANT TO PARAGRAPH A OF THIS SUBDIVISION.
-  § 3. This act shall take effect on the thirtieth day  after  it  shall
- have  become  a  law;  provided, however, that subdivision 10 of section
- 13-0331 of the environmental conservation law, as added by  section  two
- of this act, shall expire and be deemed repealed on January 1, 2029.
+ on the harvest of crabs in amplexus, requirements for permits and eligi-
+ bility therefor, recordkeeping requirements, requirements on the  amount
+ and type of fishing effort and gear, and requirements relating to trans-
+ portation,  possession  and  sale, provided that such regulations are no
+ less restrictive  than  requirements  set  forth  in  this  chapter  and
+ provided  further  that such regulations are consistent with the compli-
+ ance requirements of applicable fishery management plans adopted by  the
+ Atlantic  States  Marine  Fisheries  Commission  and  with  applicable
+ provisions of fishery management plans adopted pursuant to  the  Federal
+ Fishery Conservation and Management Act (16 U.S.C. § 1800 et seq.).
+  8.  [The  department  shall, when adopting regulation measures for the
+ management of] NO  PERSON  SHALL  TAKE  horseshoe  crabs  (Limulus  sp.)
+ [pursuant  to  subdivision seven of this section, consult with any town,
+ village or county that requests any municipal property be subject  to  a
+ harvest  closure], INCLUDING FOR COMMERCIAL OR BIOMEDICAL PURPOSES, FROM
+ THE WATERS OF THIS STATE.  PROVIDED HOWEVER THAT THIS SECTION SHALL  NOT
+ APPLY  TO  THE  TAKING  OF  HORSESHOE  CRABS (LIMULUS SP.) FOR BONA FIDE
+ SCIENTIFIC OR EDUCATIONAL PURPOSES INCLUDING, BUT NOT LIMITED TO, PUBLIC
+ OR NOT-FOR-PROFIT ZOOS AND AQUARIA, AS DETERMINED  BY  THE  COMMISSIONER
+ PURSUANT TO RULES AND REGULATIONS.
+  § 2. This act shall take effect January 1, 2025.
