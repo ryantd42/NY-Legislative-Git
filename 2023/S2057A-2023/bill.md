@@ -1,6 +1,6 @@
 # Includes a statement on the envelopes of ballots for absentee voters and special presidential voters for signature affirmation
 
-**Bill ID:** S2057A
+**Bill ID:** S2057AA
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Includes a statement on the envelopes of ballots for absentee voters and special
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2057
+  2057--A
+  Cal. No. 1147
  
   2023-2024 Regular Sessions
  
@@ -25,45 +26,49 @@ S T A T E  O F  N E W  Y O R K
   January 18, 2023
   ___________
  
- Introduced by Sens. JACKSON, BAILEY, FELDER, SEPULVEDA -- read twice and
-  ordered  printed, and when printed to be committed to the Committee on
-  Elections
+ Introduced  by  Sens.  JACKSON,  BAILEY, FELDER, FERNANDEZ, SEPULVEDA --
+  read twice and ordered printed, and when printed to  be  committed  to
+  the  Committee  on  Elections  --  recommitted  to  the  Committee  on
+  Elections in accordance with Senate Rule 6, sec. 8 -- reported favora-
+  bly from said committee, ordered to first and second  report,  ordered
+  to a third reading, amended and ordered reprinted, retaining its place
+  in the order of third reading
  
- AN ACT to amend the election law, in relation to including  a  statement
-  on  the envelopes of ballots for absentee voters and special presiden-
+ AN  ACT  to amend the election law, in relation to including a statement
+  on the envelopes of ballots for absentee voters and special  presiden-
   tial voters for signature affirmation
-
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Subdivision  6  of  section 7-122 of the election law, as
- amended by chapter 411 of the laws  of  2019,  is  amended  to  read  as
+  Section 1. Subdivision 6 of section 7-122  of  the  election  law,  as
+ amended  by  chapter  411  of  the  laws  of 2019, is amended to read as
  follows:
-  6.  On  the  reverse  side of such inner affirmation envelope shall be
+  6. On the reverse side of such inner  affirmation  envelope  shall  be
  printed the following statement:
   AFFIRMATION
-  I do declare that I am a citizen of the United States, that I am  duly
- registered  in  the  election district shown on the reverse side of this
- envelope and I am qualified to vote in such district;  that  I  will  be
- unable  to  appear  personally on the day of the election for which this
+  I  do declare that I am a citizen of the United States, that I am duly
+ registered in the election district shown on the reverse  side  of  this
+ envelope  and  I  am  qualified to vote in such district; that I will be
+ unable to appear personally on the day of the election  for  which  this
  ballot is voted at the polling place of the election district in which I
  am a qualified voter because of the reason given on my application here-
- tofore submitted; that I have not qualified nor  do  I  intend  to  vote
- elsewhere,  that  I have not committed any act nor am I under any imped-
+ tofore  submitted;  that  I  have  not qualified nor do I intend to vote
+ elsewhere, that I have not committed any act nor am I under  any  imped-
  iment which denies me the right to vote.
   I hereby declare that the foregoing is a true statement to the best of
- my knowledge and belief, and I understand that if I  make  any  material
+ my  knowledge  and  belief, and I understand that if I make any material
  false statement in the foregoing statement of absentee voter, I shall be
  guilty of a misdemeanor.
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD05614-02-4
+ S. 2057--A  2
  
  Date.................20.....  .....................................
   Signature or mark of voter
  
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD05614-01-3
- S. 2057  2
-
   .....................................
   Signature of Witness (required only
   if voter does not sign his or her own
@@ -106,4 +111,5 @@ S T A T E  O F  N E W  Y O R K
  
   IMPORTANT TO SPECIAL PRESIDENTIAL VOTER: YOU MUST SIGN THE AFFIRMATION
  ON THIS ENVELOPE.
-  § 3. This act shall take effect immediately.
+  § 3. This act shall take effect one year after it shall have become  a
+ law.
