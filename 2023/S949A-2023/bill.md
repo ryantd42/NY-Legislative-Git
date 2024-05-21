@@ -1,6 +1,6 @@
 # Relates to requiring certain disclosures by attorneys performing services in connection with a real property tax grievance procedure
 
-**Bill ID:** S949A
+**Bill ID:** S949AA
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires any contract or retainer agreement between a property owner and an atto
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  949
+  949--A
  
   2023-2024 Regular Sessions
  
@@ -26,12 +26,15 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen.  THOMAS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
- 
+  printed to be committed to the Committee on Local Government -- recom-
+  mitted to the Committee on Local Government in accordance with  Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
  AN ACT to amend the real property tax  law,  in  relation  to  requiring
   certain  disclosures  and  charges by attorneys performing services in
   connection with a real property tax grievance procedure
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -52,15 +55,9 @@ S T A T E  O F  N E W  Y O R K
  CITY  THE DISCLOSURE SHALL PROVIDE THE WEBSITE FOR THE NEW YORK CITY TAX
  COMMISSION. FOR THE PURPOSES OF THIS SECTION, LARGE PRINT  FORMAT  SHALL
  MEAN A PRINTED FONT SIZE OF SIXTEEN OR LARGER.
-  §  2.  Section 524 of the real property tax law is amended by adding a
- new subdivision 5 to read as follows:
-  5. NO PERSON OR OTHER ENTITY AUTHORIZED  TO  REPRESENT  A  COMPLAINANT
- BEFORE A BOARD OF ASSESSMENT REVIEW, THE ASSESSMENT REVIEW COMMISSION OR
- THE NEW YORK CITY TAX COMMISSION WITH REGARD TO REAL PROPERTY ASSESSMENT
- GRIEVANCES  SHALL  CHARGE  ANY  FEE  WHICH  IS  IN EXCESS OF TWENTY-FIVE
- PERCENT OF ANY REDUCTION DETERMINED BY SUCH BOARD OR COMMISSION.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
  
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01875-01-3
+  LBD01875-03-4
