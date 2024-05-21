@@ -1,6 +1,6 @@
 # Prohibits contracts for the purchase or financing of a dog, cat, or rabbit from including provisions allowing repossession of the animal
 
-**Bill ID:** A4058BA
+**Bill ID:** A4058BB
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Prohibits contracts for the purchase or financing of a dog, cat, or rabbit from 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4058--A
+  4058--B
+  Cal. No. 404
  
   2023-2024 Regular Sessions
  
@@ -27,7 +28,11 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A. L. ROSENTHAL -- read once and referred to the
   Committee  on  Agriculture  --  committee  discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  reported and referred to the Committee on Codes -- recommitted to  the
+  Committee  on  Codes  in  accordance  with  Assembly Rule 3, sec. 2 --
+  reported from committee, advanced to  a  third  reading,  amended  and
+  ordered reprinted, retaining its place on the order of third reading
  
  AN  ACT  to  amend  the general business law, in relation to prohibiting
   contracts for the purchase or financing of a dog, cat, or rabbit  from
@@ -49,11 +54,11 @@ S T A T E  O F  N E W  Y O R K
  this article, article [twenty-six-a] TWENTY-SIX-A of the agriculture and
  markets law or other rights or remedies which are otherwise available to
  all  parties  under any other law.  THE PROVISIONS OF THIS SECTION SHALL
- APPLY TO THE SALE OF A DOG, CAT, OR RABBIT THROUGH AN ONLINE WEBSITE.
+ ALSO APPLY TO THE SALE OF A  DOG,  CAT,  OR  RABBIT  THROUGH  AN  ONLINE
+ WEBSITE.
   § 2. This act shall take effect immediately.
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02748-02-3
+  LBD02748-04-4
