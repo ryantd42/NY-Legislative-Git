@@ -1,6 +1,6 @@
 # Relates to designating new automotive broker businesses
 
-**Bill ID:** S7553A
+**Bill ID:** S7553AA
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Senate Floor Calendar
@@ -16,7 +16,7 @@ Requires automobile brokers to maintain a place of business; requires certain no
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7553
+  7553--A
  
   2023-2024 Regular Sessions
  
@@ -25,47 +25,50 @@ S T A T E  O F  N E W  Y O R K
   June 5, 2023
   ___________
  
- Introduced  by  Sen.  THOMAS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
- 
- AN ACT to amend the general business law and  the  vehicle  and  traffic
+ Introduced  by Sens. THOMAS, SCARCELLA-SPANTON -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Rules --
+  recommitted to the Committee on Consumer Protection in accordance with
+  Senate Rule 6, sec. 8 -- committee discharged, bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
+ AN  ACT  to  amend  the general business law and the vehicle and traffic
   law, in relation to automobile broker businesses
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1.  Subdivision 1 of section 736 of the general business  law,
- as  amended  by  chapter  28  of the laws of 2018, is amended to read as
+  Section  1.  Subdivision 1 of section 736 of the general business law,
+ as amended by chapter 28 of the laws of 2018,  is  amended  to  read  as
  follows:
-  1. "Automobile broker business" means  any  person  who,  for  a  fee,
- commission  or  other valuable consideration, regardless of whether such
+  1.  "Automobile  broker  business"  means  any  person who, for a fee,
+ commission or other valuable consideration, regardless of  whether  such
  fee, commission, or consideration is paid directly by a consumer, offers
- to provide, provides, or represents  that  he  or  she  will  provide  a
- service  of  purchasing, arranging, assisting, facilitating or effecting
- the purchase or lease of an automobile as agent, broker, or intermediary
- for a consumer. "Automobile broker business" does not include any person
- registered as a dealer pursuant to article sixteen of  the  vehicle  and
- traffic  law, ONLY WHEN OPERATING IN A MANNER PURSUANT TO SUCH REGISTRA-
- TION UNDER ARTICLE SIXTEEN OF THE VEHICLE AND TRAFFIC  LAW,  ANY  PERSON
- REGISTERED UNDER SECTION FOUR HUNDRED FIFTEEN-A OF THE VEHICLE AND TRAF-
- FIC  LAW,  ONLY  WHEN  OPERATING  IN  A MANNER DESCRIBED IN SECTION FOUR
- HUNDRED FIFTEEN-A OF THE VEHICLE AND TRAFFIC LAW, AN AUTOMOBILE  AUCTIO-
- NEER,  ONLY  WHEN  OPERATING  IN THE MANNER DESCRIBED IN SECTION TWENTY-
- THREE OF THIS CHAPTER, nor any bona fide employee of a registered dealer
- while acting for such dealer, or any person who sells, offers  for  sale
- or  lease  or  acts  as  agent,  broker or intermediary in effecting the
- purchase or lease of three or fewer automobiles in  any  calendar  year,
- any  national  service  which  aggregates information for consumers, but
- does not otherwise have contact with consumers,  or  any  motor  vehicle
- franchisor, manufacturer, [or] distributor, DISTRIBUTOR BRANCH OR FACTO-
+ to  provide,  provides,  or  represents that [he or she] SUCH AUTOMOBILE
+ BROKER BUSINESS will provide a service of purchasing, arranging, assist-
+ ing, facilitating or effecting the purchase or lease of an automobile as
+ agent, broker, or intermediary for a consumer. "Automobile broker  busi-
+ ness"  does  not  include  any person registered as a dealer pursuant to
+ article sixteen of the vehicle and traffic law, ONLY WHEN OPERATING IN A
+ MANNER PURSUANT TO SUCH REGISTRATION UNDER ARTICLE SIXTEEN OF THE  VEHI-
+ CLE  AND  TRAFFIC  LAW, ANY PERSON REGISTERED UNDER SECTION FOUR HUNDRED
+ FIFTEEN-A OF THE VEHICLE AND TRAFFIC  LAW,  ONLY  WHEN  OPERATING  IN  A
+ MANNER  DESCRIBED  IN  SECTION FOUR HUNDRED FIFTEEN-A OF THE VEHICLE AND
+ TRAFFIC LAW, AN AUTOMOBILE AUCTIONEER, ONLY WHEN OPERATING IN THE MANNER
+ DESCRIBED IN SECTION TWENTY-THREE OF THIS CHAPTER,  nor  any  bona  fide
+ employee  of  a  registered  dealer while acting for such dealer, or any
+ person who sells, offers for sale or lease or acts as agent,  broker  or
+ intermediary  in effecting the purchase or lease of three or fewer auto-
+ mobiles in any calendar year,  any  national  service  which  aggregates
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11745-01-3
- S. 7553  2
+  LBD11745-02-4
+ S. 7553--A  2
  
- RY  BRANCH  registered  under article sixteen of the vehicle and traffic
- law.
+ information  for  consumers,  but  does  not otherwise have contact with
+ consumers, or any motor vehicle franchisor, manufacturer, [or] distribu-
+ tor, DISTRIBUTOR BRANCH  OR  FACTORY  BRANCH  registered  under  article
+ sixteen of the vehicle and traffic law.
   §  2.  Section  736 of the general business law is amended by adding a
  new subdivision 4 to read as follows:
   4. "PLACE OF BUSINESS" MEANS A DESIGNATED PERMANENT LOCATION AT  WHICH
@@ -117,11 +120,11 @@ S T A T E  O F  N E W  Y O R K
  consumer  has  the  right  to  cancel the contract and to receive a full
  refund if the final price exceeds the estimated price by more than  five
  percent.
+ S. 7553--A  3
+ 
   (c)  The  estimated  delivery  date of the automobile and the place of
  delivery and a statement in immediate proximity to the estimated  deliv-
  ery  date  that,  if the automobile has not been delivered in accordance
- S. 7553  3
- 
  with the contract within thirty days following such  estimated  delivery
  date, the consumer has the right to cancel the contract and to receive a
  full refund, unless the delay in delivery is attributable to the consum-
@@ -130,8 +133,9 @@ S T A T E  O F  N E W  Y O R K
  nying  the automobile is the same warranty as that furnished to purchas-
  ers of that make automobile from an authorized  dealer  located  in  the
  United States.
-  (e)  A  STATEMENT  THAT  THE  BROKER WILL NOT ACCEPT PAYMENT FOR THEIR
- SERVICES FROM ANYONE OTHER THAN THE MOTOR VEHICLE DEALER.
+  (e)  A  STATEMENT  THAT THE BROKER SHALL ONLY ACCEPT PAYMENT FOR THEIR
+ SERVICES FROM EITHER THE DEALER SELLING OR LEASING THE AUTOMOBILE OR THE
+ BUYER OR LESSEE OF THE AUTOMOBILE, BUT MAY NOT ACCEPT PAYMENT FROM BOTH.
   (F) A STATEMENT THAT THE CONSUMER HAS THE OPTION TO TAKE DELIVERY OF A
  MOTOR VEHICLE AT THE SELLING OR LEASING DEALERSHIP.
   (G) A description of any other services  and  an  itemization  of  the
@@ -174,12 +178,12 @@ S T A T E  O F  N E W  Y O R K
  the automobile broker business upon request by the consumer; [and]
   (d) That no warranty repair services will be provided by  the  automo-
  bile broker business; AND
+ S. 7553--A  4
+ 
   (E)  THAT  THE  AUTOMOBILE  BROKER BUSINESS IS NOT AFFILIATED WITH ANY
  MANUFACTURER, DEALERSHIP, OR DEALERSHIP GROUP.
- S. 7553  4
- 
-  2. THE OFFICIAL BUSINESS CERTIFICATE OF REGISTRATION SHALL BE  CLEARLY
- AND  CONSPICUOUSLY  DISPLAYED  AT THE PLACE OF BUSINESS OF AN AUTOMOBILE
+  2.  THE OFFICIAL BUSINESS CERTIFICATE OF REGISTRATION SHALL BE CLEARLY
+ AND CONSPICUOUSLY DISPLAYED AT THE PLACE OF BUSINESS  OF  AN  AUTOMOBILE
  BROKER BUSINESS.
   § 6. The general business law is amended by adding a new section 741-c
  to read as follows:
@@ -232,20 +236,23 @@ S T A T E  O F  N E W  Y O R K
  IN ACCORDANCE WITH THIS SUBDIVISION.
   24. MAINTENANCE RECORDS. FOR EACH SALE OR LEASE  OF  A  MOTOR  VEHICLE
  THAT  INVOLVES  AN  AUTOMOBILE  BROKER  BUSINESS, THE DEALER MUST OBTAIN
+ S. 7553--A  5
+ 
  EVIDENCE  OF  THE  AUTOMOBILE  BROKER  BUSINESS'  REGISTRATION  AND  THE
  BROKER'S REGISTRATION NUMBER AND MAINTAIN SUCH RECORDS IN THE DEAL JACK-
- S. 7553  5
- 
  ET  FOR  EACH  TRANSACTION  WHICH ALSO SHALL CONTAIN THE PURCHASE ORDER,
  COPIES OF THE TITLE AND REGISTRATION DOCUMENTS, THE BILL OF SALE AND THE
- RETAIL INSTALLMENT SALE CONTRACT  REQUIRED  UNDER  ARTICLE  TEN  OF  THE
+ RETAIL  INSTALLMENT  SALE  CONTRACT  REQUIRED  UNDER  ARTICLE TEN OF THE
  PERSONAL PROPERTY LAW OR THE RETAIL LEASE AGREEMENT REQUIRED UNDER ARTI-
  CLE NINE-A OF THE PERSONAL PROPERTY LAW.
-  25.  BROKER  COMPENSATION.  NO  DEALER  MAY OFFER OR PAY AN AUTOMOBILE
+  25. BROKER COMPENSATION. NO DEALER MAY  OFFER  OR  PAY  AN  AUTOMOBILE
  BROKER  BUSINESS  ANY  FEE,  OR  COMMISSION,  OTHER  THAN  COMPENSATION
- DISCLOSED  PURSUANT  TO  SECTION  SEVEN  HUNDRED  THIRTY-EIGHT  OR SEVEN
+ DISCLOSED PURSUANT  TO  SECTION  SEVEN  HUNDRED  THIRTY-EIGHT  OR  SEVEN
  HUNDRED FORTY-ONE-B OF THE GENERAL BUSINESS LAW OR SECTION THREE HUNDRED
- TWO OR THREE HUNDRED THIRTY-SEVEN OF THE PERSONAL PROPERTY LAW.
+ TWO  OR  THREE  HUNDRED  THIRTY-SEVEN  OF  THE  PERSONAL  PROPERTY  LAW;
+ PROVIDED, HOWEVER, THAT THE AUTOMOBILE BROKER BUSINESS  MAY  NOT  ACCEPT
+ ANY  SUCH  FEE  OR  COMMISSION FROM THE DEALER IF THE BROKER HAS OR WILL
+ ACCEPT PAYMENT FROM THE BUYER OR LESSEE OF THE AUTOMOBILE.
   § 8. The general business law is amended by adding a new  section  745
  to read as follows:
   §  745.  PREEMPTION.  THE  PROVISIONS OF THIS ARTICLE AND SECTION FOUR
@@ -274,63 +281,65 @@ S T A T E  O F  N E W  Y O R K
  [may]  SHALL be compensated by the dealer, lessor or any other person or
  entity for any assistance in effecting such lease transaction;  AND  (C)
  THAT  THE AMOUNT OF ANY SUCH FEES, COMMISSIONS OR OTHER VALUABLE CONSID-
- ERATION THE AUTOMOBILE BROKER BUSINESS RECEIVES SHALL  BE  DISCLOSED  ON
- THE EXECUTED LEASE OR PURCHASE CONTRACT OR FINANCE AGREEMENT PURSUANT TO
- SECTION  THREE HUNDRED TWO OR THREE HUNDRED THIRTY-SEVEN OF THE PERSONAL
- PROPERTY LAW.
-  § 10. The general business law is amended  by  adding  a  new  section
- 741-c to read as follows:
-  §  741-C. PROHIBITED ACTS. AN AUTOMOBILE BROKER BUSINESS IS PROHIBITED
+ ERATION THE AUTOMOBILE BROKER BUSINESS RECEIVES, WHETHER FROM THE DEALER
+ OR THE BUYER OF THE AUTOMOBILE, SHALL BE DISCLOSED ON THE EXECUTED LEASE
+ OR PURCHASE CONTRACT OR FINANCE  AGREEMENT  PURSUANT  TO  SECTION  THREE
+ HUNDRED TWO OR THREE HUNDRED THIRTY-SEVEN OF THE PERSONAL PROPERTY LAW.
+  §  10.  The  general  business  law is amended by adding a new section
+ 741-d to read as follows:
+  § 741-D. PROHIBITED ACTS. AN AUTOMOBILE BROKER BUSINESS IS  PROHIBITED
  FROM:
-  1. ADVERTISING THAT SUCH AUTOMOBILE BROKER BUSINESS HAS ANY NEW  AUTO-
+  1.  ADVERTISING THAT SUCH AUTOMOBILE BROKER BUSINESS HAS ANY NEW AUTO-
  MOBILE IN STOCK;
   2. ADVERTISING ANY PRICE FIGURE IN AN ADVERTISEMENT UNLESS SUCH FIGURE
- REPRESENTS  THE  ACTUAL PRICE OF THE ADVERTISED AUTOMOBILE, EXCLUSIVE OF
+ REPRESENTS THE ACTUAL PRICE OF THE ADVERTISED AUTOMOBILE,  EXCLUSIVE  OF
  REGISTRATION AND TITLES, FEES AND TAXES;
-  3. STARTING OR COMPLETING ANY FINANCING OR CREDIT APPLICATION  OR  THE
- LEASE  OR PURCHASE AGREEMENT OF AN AUTOMOBILE ON BEHALF OF A CONSUMER OR
- DEALER; AND
- S. 7553  6
+ S. 7553--A  6
  
+  3.  STARTING,  COMPLETING,  OR ANSWERING ANY PORTION OF A FINANCING OR
+ CREDIT APPLICATION OR THE LEASE OR PURCHASE AGREEMENT OF AN  AUTOMOBILE,
+ ON  BEHALF  OF A CONSUMER OR DEALER, WITHOUT INCLUDING ON OR AFFIXING TO
+ SUCH APPLICATION OR AGREEMENT, THE NAME AND REGISTRATION NUMBER  OF  THE
+ AUTOMOBILE BROKER BUSINESS; AND
   4. ACCEPTING ANY PAYMENT OTHER THAN THAT DISCLOSED UNDER SECTION SEVEN
- HUNDRED THIRTY-EIGHT OR SEVEN HUNDRED FORTY-ONE-B OF THIS  ARTICLE  FROM
- ANYONE OTHER THAN THE DEALER.
-  §  11.  Section 743 of the general business law, as amended by chapter
+ HUNDRED  THIRTY-EIGHT  OR  SEVEN  HUNDRED  FORTY-ONE-B  OF THIS ARTICLE,
+ WHETHER FROM THE DEALER OR BUYER OF THE AUTOMOBILE.
+  § 11. Section 743 of the general business law, as amended  by  chapter
  372 of the laws of 2016, is amended to read as follows:
-  § 743. Enforcement by attorney general. 1. In addition  to  the  other
- remedies  provided, whenever there shall be a violation of this article,
- application may be made by the attorney  general  in  the  name  of  the
- people  of  the state of New York to a court or justice having jurisdic-
- tion by a special proceeding to issue an injunction, and upon notice  to
- the  defendant  of  not  less than five days, to enjoin and restrain the
- continuance of such violations; and if it shall appear to the  satisfac-
- tion  of  the court or justice that the defendant has, in fact, violated
- this article, an injunction may be issued  by  such  court  or  justice,
+  §  743.  Enforcement  by attorney general. 1. In addition to the other
+ remedies provided, whenever there shall be a violation of this  article,
+ application  may  be  made  by  the  attorney general in the name of the
+ people of the state of New York to a court or justice  having  jurisdic-
+ tion  by a special proceeding to issue an injunction, and upon notice to
+ the defendant of not less than five days, to  enjoin  and  restrain  the
+ continuance  of such violations; and if it shall appear to the satisfac-
+ tion of the court or justice that the defendant has, in  fact,  violated
+ this  article,  an  injunction  may  be issued by such court or justice,
  enjoining and restraining any further violation, without requiring proof
- that  any  person  has, in fact, been injured or damaged thereby. In any
- such proceeding, the court may make allowances to the  attorney  general
- as  provided in paragraph six of subdivision (a) of section eighty-three
- hundred three of the civil practice law and rules, and  direct  restitu-
- tion.  Whenever the court shall determine that a violation of this arti-
- cle has occurred, the court shall impose a civil  penalty  of  not  less
- than  one  thousand dollars and not more than three thousand dollars for
- each violation. In connection with any such  proposed  application,  the
+ that any person has, in fact, been injured or damaged  thereby.  In  any
+ such  proceeding,  the court may make allowances to the attorney general
+ as provided in paragraph six of subdivision (a) of section  eighty-three
+ hundred  three  of the civil practice law and rules, and direct restitu-
+ tion. Whenever the court shall determine that a violation of this  arti-
+ cle  has  occurred,  the  court shall impose a civil penalty of not less
+ than one thousand dollars and not more than three thousand  dollars  for
+ each  violation.  In  connection with any such proposed application, the
  attorney general is authorized to take proof and make a determination of
- the  relevant  facts and to issue subpoenas in accordance with the civil
+ the relevant facts and to issue subpoenas in accordance with  the  civil
  practice law and rules.
-  2. THE PROVISIONS OF THIS ARTICLE MAY BE ENFORCED  CONCURRENTLY  BY  A
+  2.  THE  PROVISIONS  OF THIS ARTICLE MAY BE ENFORCED CONCURRENTLY BY A
  MUNICIPAL CONSUMER AFFAIRS OFFICE.
-  §  12.  Severability. If any clause, sentence, paragraph, subdivision,
- section or part of this act shall be adjudged by any court of  competent
- jurisdiction  to  be invalid, such judgment shall not affect, impair, or
+  § 12. Severability. If any clause, sentence,  paragraph,  subdivision,
+ section  or part of this act shall be adjudged by any court of competent
+ jurisdiction to be invalid, such judgment shall not affect,  impair,  or
  invalidate the remainder thereof, but shall be confined in its operation
  to the clause, sentence, paragraph, subdivision, section or part thereof
- directly involved in the controversy in which such judgment  shall  have
+ directly  involved  in the controversy in which such judgment shall have
  been rendered. It is hereby declared to be the intent of the legislature
- that  this  act  would have been enacted even if such invalid provisions
+ that this act would have been enacted even if  such  invalid  provisions
  had not been included herein.
-  § 13. This act shall take effect on  the  one  hundred  eightieth  day
- after  it shall have become a law.  Effective immediately, the addition,
- amendment and/or repeal of any rule  or  regulation  necessary  for  the
- implementation  of  this  act on its effective date are authorized to be
+  §  13.  This  act  shall  take effect on the one hundred eightieth day
+ after it shall have become a law.  Effective immediately, the  addition,
+ amendment  and/or  repeal  of  any  rule or regulation necessary for the
+ implementation of this act on its effective date are  authorized  to  be
  made and completed on or before such effective date.
