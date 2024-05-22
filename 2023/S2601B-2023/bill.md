@@ -1,6 +1,6 @@
 # Prohibits fees for any service rendered through a bank relating to the use of an electronic benefit transfer card issued by the state or certain departments or agencies thereof
 
-**Bill ID:** S2601BA
+**Bill ID:** S2601BB
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Vetoed
@@ -16,7 +16,8 @@ Prohibits fees for any service rendered through a banking organization relating 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2601--A
+  2601--B
+  Cal. No. 124
  
   2023-2024 Regular Sessions
  
@@ -25,12 +26,16 @@ S T A T E  O F  N E W  Y O R K
   January 23, 2023
   ___________
  
- Introduced  by Sen. HOYLMAN-SIGAL -- read twice and ordered printed, and
-  when printed to be committed to the Committee on Banks --  recommitted
-  to  the Committee on Banks in accordance with Senate Rule 6, sec. 8 --
-  committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
-
+ Introduced  by  Sens.  HOYLMAN-SIGAL,  JACKSON -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Banks --
+  recommitted to the Committee on Banks in accordance with  Senate  Rule
+  6,  sec. 8 -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee -- reported  favorably  from
+  said committee, ordered to first and second report, ordered to a third
+  reading,  passed  by  Senate  and delivered to the Assembly, recalled,
+  vote reconsidered, restored to  third  reading,  amended  and  ordered
+  reprinted, retaining its place in the order of third reading
+ 
  AN  ACT  to  amend  the banking law, in relation to prohibiting fees for
   benefit banking services
  
@@ -42,9 +47,9 @@ S T A T E  O F  N E W  Y O R K
   § 9-AA. BENEFIT BANKING SERVICES. 1. AS USED IN THIS SECTION:
   (A) "BANK" MEANS  ANY  CORPORATION  OR  LIMITED  LIABILITY  INVESTMENT
  COMPANY  SUBJECT TO THE PROVISIONS OF THIS CHAPTER, BANKING CORPORATIONS
- ORGANIZED UNDER THE LAWS OF  THE  UNITED  STATES  OR  ANY  OTHER  STATE,
- PRIVATE  BANKERS,  BANK-BASED  FINANCIAL  SERVICES COMPANIES AND FEDERAL
- RESERVE BANKS;
+ OR CREDIT UNIONS ORGANIZED UNDER THE LAWS OF THE UNITED  STATES  OR  ANY
+ OTHER  STATE,  PRIVATE  BANKERS, BANK-BASED FINANCIAL SERVICES COMPANIES
+ AND FEDERAL RESERVE BANKS;
   (B) "BENEFIT BANKING SERVICES" MEANS ANY SERVICE  RENDERED  THROUGH  A
  BANK  RELATING TO THE USE OF AN ELECTRONIC BENEFIT TRANSFER CARD INCLUD-
  ING DEPOSIT; DISBURSEMENT VIA ELECTRONIC FUND TRANSFER, CHECKS, OR OTHER
@@ -55,29 +60,29 @@ S T A T E  O F  N E W  Y O R K
  ASSISTANCE  CARD,  OR  ANY  OTHER  IDENTIFICATION, AUTHORIZATION CARD OR
  ELECTRONIC ACCESS DEVICE ISSUED  BY  THE  STATE  OR  A  SOCIAL  SERVICES
  DISTRICT  AS  DEFINED  IN SUBDIVISION SEVEN OF SECTION TWO OF THE SOCIAL
- SERVICES LAW WHICH ENTITLES A PERSON TO OBTAIN PUBLIC  ASSISTANCE  BENE-
- FITS  UNDER A LOCAL, STATE OR FEDERAL PROGRAM ADMINISTERED BY THE STATE,
- ITS POLITICAL SUBDIVISIONS OR SOCIAL SERVICES DISTRICTS; OR
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05406-02-4
- S. 2601--A  2
+  LBD05406-10-4
+ S. 2601--B  2
  
-  (II) ANY UNEMPLOYMENT INSURANCE PROGRAM  CARD,  OCCUPATIONAL  TRAINING
- ACT  PROGRAM CARD, ADOPTION SUBSIDY ELECTRONIC PAYMENTS PROGRAM CARD, OR
- CARD ISSUED BY THE NEW YORK  CHILD  SUPPORT  PROGRAM  WHICH  ENTITLES  A
+ SERVICES LAW WHICH ENTITLES A PERSON TO OBTAIN PUBLIC  ASSISTANCE  BENE-
+ FITS  UNDER A LOCAL, STATE OR FEDERAL PROGRAM ADMINISTERED BY THE STATE,
+ ITS POLITICAL SUBDIVISIONS OR SOCIAL SERVICES DISTRICTS; OR
+  (II)  ANY  UNEMPLOYMENT  INSURANCE PROGRAM CARD, OCCUPATIONAL TRAINING
+ ACT PROGRAM CARD, ADOPTION SUBSIDY ELECTRONIC PAYMENTS PROGRAM CARD,  OR
+ CARD  ISSUED  BY  THE  NEW  YORK  CHILD SUPPORT PROGRAM WHICH ENTITLES A
  PERSON TO RECEIVE FUNDS UNDER A LOCAL, STATE OR FEDERAL PROGRAM ADMINIS-
- TERED  BY  THE  STATE,  ITS  POLITICAL  SUBDIVISIONS  OR SOCIAL SERVICES
+ TERED BY THE  STATE,  ITS  POLITICAL  SUBDIVISIONS  OR  SOCIAL  SERVICES
  DISTRICTS.
   2. NO BANK SHALL IMPOSE ANY FEE FOR BENEFIT BANKING SERVICES ATTRIBUT-
  ABLE TO THE USE OF AN ELECTRONIC BENEFIT TRANSFER CARD.
-  3. NO OPERATOR OR OWNER OF AN AUTOMATED TELLER  MACHINE  SHALL  IMPOSE
+  3.  NO  OPERATOR  OR OWNER OF AN AUTOMATED TELLER MACHINE SHALL IMPOSE
  ANY FEE FOR BENEFIT BANKING SERVICES ATTRIBUTABLE TO THE USE OF AN ELEC-
  TRONIC BENEFIT TRANSFER CARD.
-  §  2.  This  act  shall take effect immediately and shall apply to any
- contract for benefit banking services as defined in section 9-aa of  the
- banking  law,  as  added  by section one of this act, entered into on or
- after such effective date between the state, or any agency,  subdivision
+  § 2. This act shall take effect immediately and  shall  apply  to  any
+ contract  for benefit banking services as defined in section 9-aa of the
+ banking law, as added by section one of this act,  entered  into  on  or
+ after  such effective date between the state, or any agency, subdivision
  or department thereof, and any institution subject to the New York state
  banking law, notwithstanding the terms of such current contracts.
