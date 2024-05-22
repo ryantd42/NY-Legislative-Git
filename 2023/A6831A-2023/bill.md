@@ -1,6 +1,6 @@
 # Relates to making certain public records available on the internet
 
-**Bill ID:** A6831A
+**Bill ID:** A6831AA
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires governmental and certain nongovernmental entities to publish public rec
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6831
+  6831--A
  
   2023-2024 Regular Sessions
  
@@ -26,114 +26,117 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by M. of A. VANEL -- read once and referred to the Committee
-  on Governmental Operations
- 
- AN ACT to amend the public officers law, in relation to  making  certain
+  on Governmental Operations -- recommitted to the Committee on  Govern-
+  mental  Operations  in  accordance  with  Assembly  Rule  3, sec. 2 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+
+ AN  ACT  to amend the public officers law, in relation to making certain
   public records available on the internet
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Section 84 of the public officers law, as added by  chapter
+ 
+  Section  1. Section 84 of the public officers law, as added by chapter
  933 of the laws of 1977, is amended to read as follows:
-  § 84. Legislative  declaration.  The  legislature  hereby finds that a
+  § 84. Legislative declaration. The legislature  hereby  finds  that  a
  free society is maintained when government is responsive and responsible
  to the public, and when the public is aware of governmental actions. The
- more open a government is with its citizenry,  the  greater  the  under-
- standing  and  participation  of the public in government. PEOPLE HAVE A
+ more  open  a  government  is with its citizenry, the greater the under-
+ standing and participation of the public in government.  PEOPLE  HAVE  A
  RIGHT TO KNOW HOW GOVERNMENT OPERATES AND SPENDS MONEY.
-  As state and local government services increase  and  public  problems
+  As  state  and  local government services increase and public problems
  become more sophisticated and complex and therefore harder to solve, and
- with  the  resultant increase in revenues and expenditures, it is incum-
- bent upon the state and its localities to extend  public  accountability
+ with the resultant increase in revenues and expenditures, it  is  incum-
+ bent  upon  the state and its localities to extend public accountability
  wherever and whenever feasible.
   The people's right to know the process of governmental decision-making
- and  to review the documents and statistics leading to determinations is
- basic to our society. Access to such information should not be  thwarted
+ and to review the documents and statistics leading to determinations  is
+ basic  to our society. Access to such information should not be thwarted
  by shrouding it with the cloak of secrecy or confidentiality.
-  SINCE  THE  FREEDOM  OF INFORMATION LAW WAS FIRST ADOPTED, ADVANCES IN
- TECHNOLOGY HAVE ENHANCED THE  ABILITY  TO  GAIN  ACCESS  TO  AND  WIDELY
- DISSEMINATE  PUBLIC INFORMATION. ACCORDINGLY, THE LEGISLATURE FINDS THAT
- GOVERNMENT AGENCIES, WHEN AGENCIES HAVE THE ABILITY  TO  DO  SO,  SHOULD
- PUBLISH  PUBLIC  RECORDS  PROACTIVELY ON THE INTERNET THAT ARE OF PUBLIC
- INTEREST AND AVAILABLE UNDER THIS ARTICLE.
-  The legislature therefore declares that  government  is  the  public's
- business  and that the public, individually and collectively and repres-
+  SINCE THE FREEDOM OF INFORMATION LAW WAS FIRST  ADOPTED,  ADVANCES  IN
+ TECHNOLOGY  HAVE  ENHANCED  THE  ABILITY  TO  GAIN  ACCESS TO AND WIDELY
+ DISSEMINATE PUBLIC INFORMATION. ACCORDINGLY, THE LEGISLATURE FINDS  THAT
+ GOVERNMENT  AGENCIES,  WHEN  AGENCIES  HAVE THE ABILITY TO DO SO, SHOULD
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06932-01-3
- A. 6831  2
+  LBD06932-03-4
+ A. 6831--A  2
  
- ented by a free press, should have access to the records  of  government
+ PUBLISH PUBLIC RECORDS PROACTIVELY ON THE INTERNET THAT  ARE  OF  PUBLIC
+ INTEREST AND AVAILABLE UNDER THIS ARTICLE.
+  The  legislature  therefore  declares  that government is the public's
+ business and that the public, individually and collectively and  repres-
+ ented  by  a free press, should have access to the records of government
  in accordance with the provisions of this article.
   § 2. Subdivisions 3 and 4 of section 86 of the public officers law, as
  added by chapter 933 of the laws of 1977, are amended and two new subdi-
  visions 12 and 13 are added to read as follows:
-  3.  "Agency"  EXCLUDES  THE JUDICIARY AND STATE LEGISLATURE, AND means
+  3. "Agency" EXCLUDES THE JUDICIARY AND STATE  LEGISLATURE,  AND  means
  any state or municipal department, SCHOOL DISTRICT, board, bureau, divi-
  sion, commission, committee, public authority, public corporation, coun-
- cil, office or other governmental entity performing  a  governmental  or
- proprietary  function  for  the  state or any one or more municipalities
- thereof, [except the judiciary or the state legislature]  OR  ANY  OTHER
+ cil,  office  or  other governmental entity performing a governmental or
+ proprietary function for the state or any  one  or  more  municipalities
+ thereof,  [except  the  judiciary or the state legislature] OR ANY OTHER
  BODY, BY WHATEVER NAME, ACTING ON BEHALF OF GOVERNMENT WHICH, CONSIDERED
- IN  ITS  TOTALITY, IS FUNCTIONALLY EQUIVALENT TO AN AGENCY AS DEFINED IN
+ IN ITS TOTALITY, IS FUNCTIONALLY EQUIVALENT TO AN AGENCY AS  DEFINED  IN
  THIS SUBDIVISION BECAUSE IT SUBSTANTIALLY POSSESSES ANY OF THE FOLLOWING
  FEATURES AND FUNCTIONS:
-  (A) THE BODY PERFORMS A GOVERNMENTAL OR PROPRIETARY FUNCTION  FOR  THE
+  (A)  THE  BODY PERFORMS A GOVERNMENTAL OR PROPRIETARY FUNCTION FOR THE
  STATE OR MUNICIPALITY;
   (B) THE BODY'S MEMBERS HAVE AUTHORITY TO MAKE DECISIONS OR RECOMMENDA-
  TIONS ON POLICY AND ADMINISTRATION AFFECTING THE CONDUCT OF THE BUSINESS
  OF THE PEOPLE IN THE GOVERNMENTAL SECTOR;
-  (C)  THE BODY WAS CREATED BY A GOVERNMENTAL OR GOVERNMENTAL-AFFILIATED
- ENTITY OR THE BODY'S ORIGIN AND AUTHORITY MAY BE TRACED TO  GOVERNMENTAL
+  (C) THE BODY WAS CREATED BY A GOVERNMENTAL OR  GOVERNMENTAL-AFFILIATED
+ ENTITY  OR THE BODY'S ORIGIN AND AUTHORITY MAY BE TRACED TO GOVERNMENTAL
  ACTION;
-  (D)  THE BODY IS CONTROLLED BY, OVERSEEN OR OPERATIONALLY MANAGED BY A
+  (D) THE BODY IS CONTROLLED BY, OVERSEEN OR OPERATIONALLY MANAGED BY  A
  GOVERNMENTAL OR GOVERNMENTAL-AFFILIATED ENTITY;
   (E) THE BODY RECEIVES SUBSTANTIAL GOVERNMENT FINANCIAL OR NONFINANCIAL
  SUPPORT;
-  (F) THE BODY'S OFFICERS AND EMPLOYEES  ARE  PUBLIC  EMPLOYEES  OR  ARE
+  (F)  THE  BODY'S  OFFICERS  AND  EMPLOYEES ARE PUBLIC EMPLOYEES OR ARE
  NOMINATED OR APPOINTED BY PUBLIC EMPLOYEES; OR
   (G) THE BODY WAS PREVIOUSLY DETERMINED TO BE OPEN TO PUBLIC ACCESS.
-  4.  "Record"  means  any  [information  kept, held, filed, produced or
- reproduced by, with or for an agency or the state  legislature,  in  any
- physical  form whatsoever including, but not limited to, reports, state-
- ments, examinations, memoranda, opinions, folders, files,  books,  manu-
+  4. "Record" means any [information  kept,  held,  filed,  produced  or
+ reproduced  by,  with  or for an agency or the state legislature, in any
+ physical form whatsoever including, but not limited to, reports,  state-
+ ments,  examinations,  memoranda, opinions, folders, files, books, manu-
  als, pamphlets, forms, papers, designs, drawings, maps, photos, letters,
- microfilms,  computer tapes or discs, rules, regulations or codes] DOCU-
+ microfilms, computer tapes or discs, rules, regulations or codes]  DOCU-
  MENTS OR ELECTRONICALLY STORED INFORMATION, INCLUDING BUT NOT LIMITED TO
- ANY WRITING, DRAWING, GRAPH, CHART, PHOTOGRAPH, SOUND  RECORDING,  VIDEO
- RECORDING,  IMAGE,  AND  OTHER  DATA  OR DATA COMPILATION, STORED IN ANY
- MEDIUM FROM WHICH INFORMATION CAN BE OBTAINED  EITHER  DIRECTLY  OR,  IF
- NECESSARY,  AFTER  TRANSLATION  BY  THE  AGENCY INTO A REASONABLY USABLE
+ ANY  WRITING,  DRAWING, GRAPH, CHART, PHOTOGRAPH, SOUND RECORDING, VIDEO
+ RECORDING, IMAGE, AND OTHER DATA OR  DATA  COMPILATION,  STORED  IN  ANY
+ MEDIUM  FROM  WHICH  INFORMATION  CAN BE OBTAINED EITHER DIRECTLY OR, IF
+ NECESSARY, AFTER TRANSLATION BY THE  AGENCY  INTO  A  REASONABLY  USABLE
  FORM.
-  12. "PUBLISHABLE STATE DATA" MEANS DATA COLLECTED BY  A  STATE  AGENCY
- THAT  THE AGENCY IS PERMITTED, REQUIRED OR ABLE TO MAKE AVAILABLE TO THE
+  12.  "PUBLISHABLE  STATE  DATA" MEANS DATA COLLECTED BY A STATE AGENCY
+ THAT THE AGENCY IS PERMITTED, REQUIRED OR ABLE TO MAKE AVAILABLE TO  THE
  PUBLIC, CONSISTENT WITH ANY AND ALL APPLICABLE LAWS, RULES, REGULATIONS,
  ORDINANCES, RESOLUTIONS, POLICIES OR OTHER RESTRICTIONS, REQUIREMENTS OR
- RIGHTS ASSOCIATED WITH THE STATE DATA,  INCLUDING  BUT  NOT  LIMITED  TO
- CONTRACTUAL  OR  OTHER  LEGAL ORDERS, RESTRICTIONS OR REQUIREMENTS. DATA
- SHALL NOT BE PUBLISHABLE STATE DATA IF MAKING SUCH DATA AVAILABLE  ON  A
- WEBSITE  WOULD  VIOLATE STATUTE OR REGULATION, INCLUDING DISCLOSURE THAT
- WOULD CONSTITUTE AN UNWARRANTED INVASION OF PERSONAL  PRIVACY,  ENDANGER
- THE  PUBLIC  HEALTH,  SAFETY OR WELFARE, HINDER THE OPERATION OF GOVERN-
- MENT, INCLUDING CRIMINAL AND CIVIL INVESTIGATIONS, OR  IMPOSE  AN  UNDUE
- FINANCIAL,  OPERATIONAL  OR ADMINISTRATIVE BURDEN ON THE STATE AGENCY OR
- STATE.
- A. 6831  3
+ RIGHTS  ASSOCIATED  WITH  THE  STATE  DATA, INCLUDING BUT NOT LIMITED TO
+ CONTRACTUAL OR OTHER LEGAL ORDERS, RESTRICTIONS  OR  REQUIREMENTS.  DATA
+ SHALL  NOT  BE PUBLISHABLE STATE DATA IF MAKING SUCH DATA AVAILABLE ON A
+ WEBSITE WOULD VIOLATE STATUTE OR REGULATION, INCLUDING  DISCLOSURE  THAT
+ WOULD  CONSTITUTE  AN UNWARRANTED INVASION OF PERSONAL PRIVACY, ENDANGER
+ THE PUBLIC HEALTH, SAFETY OR WELFARE, HINDER THE  OPERATION  OF  GOVERN-
+ A. 6831--A  3
  
-  13. "BUSINESS DAYS" AND  "DAYS"  SHALL  BE  CALCULATED  FROM  DATE  OF
+ MENT,  INCLUDING  CRIMINAL  AND CIVIL INVESTIGATIONS, OR IMPOSE AN UNDUE
+ FINANCIAL, OPERATIONAL OR ADMINISTRATIVE BURDEN ON THE STATE  AGENCY  OR
+ STATE.
+  13.  "BUSINESS  DAYS"  AND  "DAYS"  SHALL  BE  CALCULATED FROM DATE OF
  SUBMISSION, IF ELECTRONIC, OR ELSE POSTMARK DATE.
   § 3. Paragraphs (a) and (b) of subdivision 1, paragraphs (c), (d), (e)
- and  (g) of subdivision 2, paragraph (c) of subdivision 3 and paragraphs
- (b) and (c) of subdivision 4 of section 87 of the public  officers  law,
- paragraph  (a) and the opening paragraph of paragraph (b) of subdivision
- 1 as amended by chapter 80 of the laws of 1983, paragraph (b) of  subdi-
- vision  1  and paragraph (c) of subdivision 2 as added by chapter 933 of
- the laws of 1977, subparagraph iii of paragraph (b) of subdivision 1  as
- amended by chapter 745 of the laws of 2022, paragraph (d) of subdivision
- 2 as amended by chapter 289 of the laws of 1990, paragraph (e) of subdi-
- vision 2 as amended by chapter 155 of the laws of 2022, paragraph (g) of
+ and (g) of subdivision 2, paragraph (c) of subdivision 3 and  paragraphs
+ (b)  and  (c) of subdivision 4 of section 87 of the public officers law,
+ paragraph (a) and the opening paragraph of paragraph (b) of  subdivision
+ 1  as amended by chapter 80 of the laws of 1983, paragraph (b) of subdi-
+ vision 1 and paragraph (c) of subdivision 2 as added by chapter  933  of
+ the  laws of 1977, subparagraph iii of paragraph (b) of subdivision 1 as
+ amended by chapter 7 of the laws of 2023, paragraph (d) of subdivision 2
+ as amended by chapter 289 of the laws of 1990, paragraph (e) of subdivi-
+ sion 2 as amended by chapter 155 of the laws of 2022, paragraph  (g)  of
  subdivision  2  as amended by chapter 510 of the laws of 1999, paragraph
  (c) of subdivision 3 as amended by chapter 499  of  the  laws  of  2008,
  paragraph  (b)  of  subdivision 4 as added by chapter 890 of the laws of
@@ -159,86 +162,82 @@ S T A T E  O F  N E W  Y O R K
  including, but not limited to:
   i. the times and places [such] AGENCY records are available;
   ii. the persons from whom such records may be obtained[,]; and
-  iii. the fees for copies of records which shall not exceed twenty-five
- cents per photocopy not in excess of nine inches by fourteen inches,  or
- the  actual  cost of reproducing any other record in accordance with the
- provisions of paragraph (c) of this subdivision, except when a different
- fee is otherwise prescribed by statute. In the case where  an  identical
- record has been prepared for a previous request within the past 6 months
- and  an  electronic copy is available, an agency shall not charge a fee.
- If more than one request is made for an identical record before any such
- request has been fulfilled, any fees charged by the  agency  under  this
- subparagraph shall be apportioned equally among the requestors.
-  (c) if disclosed would impair present or imminent contract awards [or]
- EXCLUDING collective bargaining negotiations;
+  iii. except when a different fee is otherwise prescribed by statute:
+  (1) the fees for paper copies of records shall not exceed  twenty-five
+ cents  per photocopy not in excess of nine inches by fourteen inches, or
+ the actual cost of reproducing any other record in accordance  with  the
+ provisions of paragraph (c) of this subdivision.
+  (2)  In  the  case  where  an identical record has been prepared for a
+ previous request within the past 6 months  and  an  electronic  copy  is
+ available, an agency shall not charge a fee for the reproduction of such
+ record,  except  for the actual cost of a storage device or media if one
+ is provided to the requester in complying with such request.
+  (c) if disclosed would impair present or imminent contract  awards  or
+ collective bargaining negotiations;
   (d)  are  trade  secrets or are submitted to an agency by a commercial
  enterprise or derived from information obtained from a commercial enter-
  prise UNDER COMPULSION OF LAW OR REGULATION and which if disclosed would
+ A. 6831--A  4
+ 
  cause substantial injury to the  competitive  position  of  the  subject
  enterprise;
   (e)  are  compiled  for SUCH AGENCY'S law enforcement purposes only to
  the extent that disclosure would:
- A. 6831  4
- 
   i. interfere with SUCH  AGENCY'S  law  enforcement  investigations  or
  judicial  proceedings,  provided  however, that any agency, which is not
  conducting the investigation that the requested records relate to,  that
  is  considering  denying  access  pursuant  to  this  subparagraph shall
- receive  confirmation  from  the law enforcement or investigating agency
+ receive confirmation from the law enforcement  or  investigating  agency
  conducting the investigation that disclosure of such records will inter-
  fere with an ongoing investigation;
-  ii. deprive a person of a right to a fair trial or  impartial  adjudi-
+  ii.  deprive  a person of a right to a fair trial or impartial adjudi-
  cation;
-  iii.  identify a confidential source or disclose confidential informa-
+  iii. identify a confidential source or disclose confidential  informa-
  tion relating to a criminal investigation; or
-  iv. reveal criminal investigative  techniques  or  procedures,  except
+  iv.  reveal  criminal  investigative  techniques or procedures, except
  routine techniques and procedures;
   (g) are inter-agency or intra-agency DELIBERATIVE materials, INCLUDING
- RECOMMENDATIONS,  PROPOSALS, SUGGESTIONS, AND OTHER SUBJECTIVE DOCUMENTS
- REFLECTING THE PERSONAL OPINIONS OF THE WRITER OR  WRITERS  RATHER  THAN
+ RECOMMENDATIONS, PROPOSALS, SUGGESTIONS, AND OTHER SUBJECTIVE  DOCUMENTS
+ REFLECTING  THE  PERSONAL  OPINIONS OF THE WRITER OR WRITERS RATHER THAN
  THE POLICY OF THE AGENCY, which are not:
   i. statistical or factual tabulations or data;
   ii. instructions to staff that affect the public;
   iii. final agency policy or determinations;
-  iv.  external audits, including but not limited to audits performed by
+  iv. external audits, including but not limited to audits performed  by
  the comptroller and the federal government; or
-  (c) a reasonably detailed  current  list  by  subject  matter  of  all
- records  in the possession of the agency, whether or not available under
+  (c)  a  reasonably  detailed  current  list  by  subject matter of all
+ records in the possession of the agency, whether or not available  under
  this article. Each agency shall update its subject matter list annually,
- and the date of the most recent update shall be conspicuously  indicated
- on  the  list.  Each state agency as defined in subdivision four of this
- section [that maintains a website] shall post its current  list  on  its
+ and  the date of the most recent update shall be conspicuously indicated
+ on the list. Each state agency as defined in subdivision  four  of  this
+ section  [that  maintains  a website] shall post its current list on its
  website and such posting shall be linked to the website of the committee
- on  open  government.  [Any such agency that does not maintain a website
+ on open government. [Any such agency that does not  maintain  a  website
  shall arrange to have its list posted on the website of the committee on
  open government.]
-  (b) As used in this subdivision the term "agency"  or  "state  agency"
- means  [only  a  state  department,  board, bureau, division, council or
- office and any public corporation the  majority  of  whose  members  are
- appointed  by  the  governor]  A  BOARD,  BUREAU,  DIVISION, COMMISSION,
- COMMITTEE, PUBLIC AUTHORITY,  PUBLIC  CORPORATION,  COUNCIL,  OFFICE  OR
+  (b)  As  used  in this subdivision the term "agency" or "state agency"
+ means [only a state department,  board,  bureau,  division,  council  or
+ office  and  any  public  corporation  the majority of whose members are
+ appointed by  the  governor]  A  BOARD,  BUREAU,  DIVISION,  COMMISSION,
+ COMMITTEE,  PUBLIC  AUTHORITY,  PUBLIC  CORPORATION,  COUNCIL, OFFICE OR
  OTHER GOVERNMENTAL ENTITY PERFORMING A GOVERNMENTAL OR PROPRIETARY FUNC-
  TION FOR THE STATE, EXCEPT THE JUDICIARY OR THE STATE LEGISLATURE.
-  (c)  Each  state  agency  [that  maintains]  SHALL  MAINTAIN a website
- [shall] AND post information related to this article and  article  six-A
- of  this  chapter  on  its website. Such information shall include, at a
- minimum, contact information for the persons from whom  records  of  the
- agency  may be obtained, the times and places such records are available
+  (c) Each state  agency  [that  maintains]  SHALL  MAINTAIN  a  website
+ [shall]  AND  post information related to this article and article six-A
+ of this chapter on its website. Such information  shall  include,  at  a
+ minimum,  contact  information  for the persons from whom records of the
+ agency may be obtained, the times and places such records are  available
  for inspection and copying, and information on how to request records in
- person, by mail, and[, if the agency accepts requests for records  elec-
- tronically,]  by  e-mail. This posting shall be linked to the website of
+ person,  by mail, and[, if the agency accepts requests for records elec-
+ tronically,] by e-mail. This posting shall be linked to the  website  of
  the committee on open government.
   (D) EVERY STATE AGENCY SHALL MAKE ITS PUBLISHABLE STATE DATA AVAILABLE
- ON THE AGENCY'S WEBSITE OR  TO  THE  OFFICE  OF  INFORMATION  TECHNOLOGY
+ ON  THE  AGENCY'S  WEBSITE  OR  TO  THE OFFICE OF INFORMATION TECHNOLOGY
  SERVICES TO BE AVAILABLE ON THE STATE'S OPEN DATA WEBSITE.
+ A. 6831--A  5
+ 
   (E) EVERY AGENCY SHALL MAKE AVAILABLE ON ITS WEBSITE'S HOMEPAGE A LINK
  TO THAT AGENCY'S CURRENT FISCAL YEAR BUDGET.
-  (F)  EVERY  AGENCY  SHALL  MAKE  AVAILABLE  COPIES  OF ALL CURRENT AND
- PROPOSED COLLECTIVE BARGAINING AGREEMENTS AND RELATED DOCUMENTS, INCLUD-
- A. 6831  5
- 
- ING, BUT NOT LIMITED TO, ALL ADDENDA, SCHEDULES,  MEMORANDA,  AND  OTHER
- ATTACHMENTS.
   6.  WHENEVER  THERE IS A QUESTION AS TO WHETHER OR NOT A RECORD SHOULD
  BE DISCLOSED, IT SHALL BE PRESUMED THAT THE REQUESTOR IS ENTITLED TO THE
  RECORD.
@@ -292,7 +291,7 @@ S T A T E  O F  N E W  Y O R K
  ATTORNEYS  ADMITTED  TO  PRACTICE  IN  NEW  YORK  AND AT LEAST TWO SHALL
  POSSESS EXPERTISE CONCERNING ELECTRONIC  RECORDS,  INCLUDING  ELECTRONIC
  STORAGE, RETRIEVAL, REVIEW, AND REPRODUCTION TECHNOLOGIES.
- A. 6831  6
+ A. 6831--A  6
  
   II.  MEMBERS OF THE COMMITTEE SHALL BE APPOINTED FROM A POOL OF APPLI-
  CANTS IDENTIFIED BY THE GOVERNOR AND THE GOVERNOR SHALL PUBLISH  ON  THE
@@ -350,7 +349,7 @@ S T A T E  O F  N E W  Y O R K
  of  this chapter, [including recommendations for changes in the law,] to
  the governor and  the  legislature  annually,  on  or  before  [December
  fifteenth] OCTOBER THIRTY-FIRST.
- A. 6831  7
+ A. 6831--A  7
  
   (C) THE COMMITTEE SHALL APPOINT AN EXECUTIVE DIRECTOR WHO SHALL NOT BE
  AN EXISTING STATE EMPLOYEE AND WHO SHALL SERVE FOR A TERM OF FIVE YEARS,
@@ -359,8 +358,8 @@ S T A T E  O F  N E W  Y O R K
  OFFICERS  IN  SUBDIVISION  TWO  OF SECTION ONE HUNDRED SIXTY-NINE OF THE
  EXECUTIVE LAW. THE EXECUTIVE DIRECTOR MAY SERVE NO MORE THAN TWO TERMS.
   (D) THE EXECUTIVE DIRECTOR SHALL NOT SEEK ELECTION NOR ACCEPT APPOINT-
- MENT TO ANY POLITICAL OFFICE DURING  HIS  OR  HER  TENURE  AS  EXECUTIVE
- DIRECTOR AND FOR ONE YEAR THEREAFTER.
+ MENT TO ANY POLITICAL OFFICE DURING THEIR TENURE AS  EXECUTIVE  DIRECTOR
+ AND FOR ONE YEAR THEREAFTER.
   (E) THE EXECUTIVE DIRECTOR SHALL ENSURE THAT THE DUTIES OF THE COMMIT-
  TEE  ON  OPEN  GOVERNMENT  ARE CARRIED OUT AND SHALL MONITOR APPEALS AND
  COMPLAINTS SUBMITTED TO THE COMMITTEE.
@@ -408,7 +407,7 @@ S T A T E  O F  N E W  Y O R K
  SHALL INCLUDE:
   I.  A  STATEMENT  OF  THE  APPROXIMATE DATE, WHICH SHALL BE REASONABLE
  UNDER THE CIRCUMSTANCES OF THE REQUEST NOT  TO  EXCEED  TWENTY  BUSINESS
- A. 6831  8
+ A. 6831--A  8
  
  DAYS  FROM  RECEIPT  OF THE ORIGINAL REQUEST, AND ADVISING IF EXCEPTIONS
  WILL APPLY, WHEN SUCH REQUEST WILL  BE  GRANTED  OR  DENIED,  INCLUDING,
@@ -466,7 +465,7 @@ S T A T E  O F  N E W  Y O R K
  eight of this article. When an agency has the  ability  to  retrieve  or
  extract  a  record  or data maintained in a computer storage system with
  reasonable effort, it shall be required to do so. When doing so requires
- A. 6831  9
+ A. 6831--A  9
  
  less employee time than engaging in manual retrieval or redactions  from
  non-electronic  records,  the  agency  shall  be required to retrieve or
@@ -524,7 +523,7 @@ S T A T E  O F  N E W  Y O R K
  THE COMMITTEE ON OPEN GOVERNMENT MAY MAKE.
   III. THE COMMITTEE ON OPEN GOVERNMENT SHALL MAINTAIN THE CONFIDENTIAL-
  ITY OF ANY RECORD PROVIDED UNDER THIS SUBDIVISION.
- A. 6831  10
+ A. 6831--A  10
  
   IV. A PERSON OR AGENCY MAY NOT BE CIVILLY  OR  CRIMINALLY  LIABLE  FOR
  PROVIDING A RECORD TO THE COMMITTEE ON OPEN GOVERNMENT UNDER THIS SUBDI-
@@ -582,7 +581,7 @@ S T A T E  O F  N E W  Y O R K
  seventy-eight  of  the  civil  practice law and rules. In the event that
  access to any record is denied pursuant to the provisions of subdivision
  two of section eighty-seven of this article, the agency  involved  shall
- A. 6831  11
+ A. 6831--A  11
  
  have  the burden of proving that such record falls within the provisions
  of such subdivision two.  [Failure  by  an  agency  to  conform  to  the
