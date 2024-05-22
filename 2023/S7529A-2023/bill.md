@@ -1,6 +1,6 @@
 # Relates to supplemental military retirement allowances for members of public retirement systems of the state
 
-**Bill ID:** S7529A
+**Bill ID:** S7529AA
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to supplemental military retirement allowances for members of public ret
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7529
+  7529--A
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,48 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by Sen. SCARCELLA-SPANTON -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Rules
- 
- AN ACT to amend the retirement and social security  law,  the  education
-  law  and  the administrative code of the city of New York, in relation
-  to supplemental military retirement allowances for members  of  public
+  and when printed to be committed to the Committee on Rules  --  recom-
+  mitted  to  the  Committee on Civil Service and Pensions in accordance
+  with Senate Rule 6, sec. 8  --  committee  discharged,  bill  amended,
+  ordered reprinted as amended and recommitted to said committee
+
+ AN  ACT  to  amend the retirement and social security law, the education
+  law and the administrative code of the city of New York,  in  relation
+  to  supplemental  military retirement allowances for members of public
   retirement systems of the state
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 1000 of the retirement and social security  law  is
+  Section  1.  Section 1000 of the retirement and social security law is
  amended by adding a new subdivision 8-a to read as follows:
-  8-A.  A  PERSON  WHO  RETIRED  PRIOR TO MAY THIRTY-FIRST, TWO THOUSAND
- SIXTEEN AND WHO WOULD HAVE BEEN  ENTITLED  TO  THE  PROVISIONS  OF  THIS
- SECTION,  MAY  MAKE  APPLICATION TO SUCH RETIREMENT SYSTEM NO LATER THAN
+  8-A. A PERSON WHO RETIRED PRIOR  TO  MAY  THIRTY-FIRST,  TWO  THOUSAND
+ SIXTEEN  AND  WHO  WOULD  HAVE  BEEN  ENTITLED TO THE PROVISIONS OF THIS
+ SECTION, MAY MAKE APPLICATION TO SUCH RETIREMENT SYSTEM  NO  LATER  THAN
  DECEMBER THIRTY-FIRST, TWO THOUSAND TWENTY-FOUR FOR A SUPPLEMENTAL MILI-
- TARY RETIREMENT ALLOWANCE PURSUANT TO THIS  SUBDIVISION.  THE  SUPPLE-
- MENTAL  RETIREMENT  ALLOWANCE  PROVIDED  BY THIS SUBDIVISION SHALL BE IN
- LIEU OF ANY BENEFIT OTHERWISE PROVIDED PURSUANT TO THIS SECTION AND  ANY
- CREDIT  GRANTED  FOR MILITARY SERVICE WITH ANY RETIREMENT SYSTEM OF THIS
+ TARY  RETIREMENT  ALLOWANCE  PURSUANT TO THIS SUBDIVISION.  THE SUPPLE-
+ MENTAL RETIREMENT ALLOWANCE PROVIDED BY THIS  SUBDIVISION  SHALL  BE  IN
+ LIEU  OF ANY BENEFIT OTHERWISE PROVIDED PURSUANT TO THIS SECTION AND ANY
+ CREDIT GRANTED FOR MILITARY SERVICE WITH ANY RETIREMENT SYSTEM  OF  THIS
  STATE PURSUANT TO ANY OTHER SECTION OF LAW.  UPON RECEIPT OF AN APPLICA-
  TION, THE RETIREMENT SYSTEM SHALL DETERMINE THE AMOUNT OF SERVICE CREDIT
  SUCH PERSON WOULD HAVE BEEN ENTITLED TO RECEIVE PURSUANT TO SUBDIVISIONS
- ONE AND TWO OF THIS SECTION, SUBJECT TO  THE  LIMITATIONS  CONTAINED  IN
+ ONE  AND  TWO  OF  THIS SECTION, SUBJECT TO THE LIMITATIONS CONTAINED IN
  THIS SECTION. THE SUPPLEMENTAL MILITARY RETIREMENT ALLOWANCE SHALL EQUAL
- THE  RETIREMENT  ALLOWANCE  OF  SUCH  PERSON,  COMPUTED WITHOUT OPTIONAL
- MODIFICATION AND NOT TO EXCEED FIFTEEN THOUSAND DOLLARS,  MULTIPLIED  BY
+ THE RETIREMENT ALLOWANCE  OF  SUCH  PERSON,  COMPUTED  WITHOUT  OPTIONAL
+ MODIFICATION  AND  NOT TO EXCEED FIFTEEN THOUSAND DOLLARS, MULTIPLIED BY
  TWENTY-FIVE ONE-HUNDREDTHS OF ONE PERCENT PER MONTH OF THE SERVICE CRED-
- IT  AS  DETERMINED  PURSUANT  TO  THIS SUBDIVISION.  ONE-TWELFTH OF THE
+ IT AS DETERMINED PURSUANT TO  THIS  SUBDIVISION.  ONE-TWELFTH  OF  THE
  SUPPLEMENTAL MILITARY RETIREMENT ALLOWANCE SHALL BE ADDED TO THE RETIRE-
- MENT ALLOWANCE OF SUCH PERSON EACH MONTH. THE BENEFIT  PAYABLE  PURSUANT
- TO  THIS SECTION SHALL COMMENCE ON THE NEXT RETIREMENT ALLOWANCE PAYABLE
- AT LEAST THIRTY DAYS AFTER THE  RECEIPT  OF  AN  APPLICATION  FROM  SUCH
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01409-02-3
- S. 7529  2
+  LBD01409-06-4
+ S. 7529--A  2
  
+ MENT  ALLOWANCE  OF SUCH PERSON EACH MONTH. THE BENEFIT PAYABLE PURSUANT
+ TO THIS SECTION SHALL COMMENCE ON THE NEXT RETIREMENT ALLOWANCE  PAYABLE
+ AT  LEAST  THIRTY  DAYS  AFTER  THE  RECEIPT OF AN APPLICATION FROM SUCH
  PERSON. FOR THE PURPOSES OF THIS SUBDIVISION, RETIREMENT ALLOWANCE SHALL
  EXCLUDE  ANY  ANNUITY  DERIVED  FROM VOLUNTARY CONTRIBUTIONS MADE BY THE
  INDIVIDUAL, EXCEPT THOSE MADE PURSUANT TO  ELECTIONS  UNDER  SUBDIVISION
@@ -118,213 +121,83 @@ S T A T E  O F  N E W  Y O R K
  SUBDIVISION EIGHT-A OF SECTION ONE THOUSAND OF THE RETIREMENT AND SOCIAL
  SECURITY LAW. Said percentage is set forth  in  subdivision  d  of  this
  section.
+ S. 7529--A  3
+ 
   § 5. Subdivision b of section 13-696 of the administrative code of the
  city  of  New  York,  as  added  by  chapter 125 of the laws of 2000, is
  amended to read as follows:
- S. 7529  3
- 
-  b. Said cost-of-living adjustment shall be a percentage of the  annual
- fixed  retirement allowance otherwise payable, computed without optional
- modification, but including any benefit derived from  subdivision  f  of
- this  section  [and], any prior year's cost-of-living adjustment derived
+  b.  Said cost-of-living adjustment shall be a percentage of the annual
+ fixed retirement allowance otherwise payable, computed without  optional
+ modification,  but  including  any benefit derived from subdivision f of
+ this section [and], any prior year's cost-of-living  adjustment  derived
  from  this section AND THE AMOUNT OF ANY SUPPLEMENTAL MILITARY ALLOWANCE
  DERIVED FROM SUBDIVISION EIGHT-A OF SECTION ONE THOUSAND OF THE  RETIRE-
  MENT  AND SOCIAL SECURITY LAW.  Said percentage is set forth in subdivi-
  sion d of this section.
   § 6. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  SUMMARY OF BILL: The proposed legislation would, among  other  things,
- amend Retirement and Social Security Law (RSSL) Section 1000 by adding a
- new subdivision 8-a to allow eligible retirees who retired from a public
- retirement  system within the State prior to May 31, 2016, and who would
- have had qualifying military service had they been  active  members,  to
- apply  for  a  prospective  supplemental  military  retirement allowance
- (Supplemental Retirement Allowance).
-  For purposes of this Fiscal Note, the New York City Employees' Retire-
- ment System (NYCERS), the New  York  City  Teachers'  Retirement  System
- (TRS),  the  New  York City Board of Education Retirement System (BERS),
- the New York City Police Pension Fund (POLICE), and the  New  York  City
- Fire Pension Fund (FIRE) are collectively referenced as the NYCRS.
-  With  respect  to  the  NYCRS, the proposed legislation further amends
- Administrative Code of the City of New York (ACCNY)  Section  13-696  to
- include  Cost-of-Living  Adjustment  (COLA) increases in the calculation
- and payment of such Supplemental Retirement Allowance.
-  Effective Date: Upon enactment.
-  BACKGROUND: A NYCRS retiree would be eligible to receive  the  Supple-
- mental Retirement Allowance (Eligible Recipient) if he or she:
-  * Retired prior to May 31, 2016,
-  * Was, due to a May 31, 2016 effective date, ineligible for Chapter 41
- of the Laws of 2016,
-  *  Would  have  otherwise met the current eligibility criteria of RSSL
- Section 1000, and
-  * Files an application for such benefit by December 31, 2024.
-  The Supplemental Retirement Allowance would be in lieu  of  any  other
- retirement benefit provided for military service.
-  For  purposes of this Fiscal Note, it is assumed that the Supplemental
- Retirement Allowance is provided without cost to Eligible Recipients.
-  IMPACT ON BENEFITS PAYABLE: With respect to NYCRS Eligible Recipients,
- the Supplemental Retirement Allowance would be payable as  of  the  next
- retirement  allowance  payment following 30 days from filing an applica-
- tion for such benefit.
-  The Supplemental Retirement Allowance would be payable for the  Eligi-
- ble Recipient's lifetime and payable, at 50% of the Eligible Recipient's
- Supplemental  Retirement Allowance rate, for the lifetime of an Eligible
- Recipient's surviving spouse who  is  eligible  to  receive  a  lifetime
- retirement allowance benefit under an existing option election.
-  The  annual  Supplemental  Retirement  Allowance would be equal to the
- retirement  allowance  of  the  Eligible  Recipient  (computed  without
- optional  modification, without certain annuities derived from voluntary
- contributions and not to exceed $15,000) multiplied by  0.25%  for  each
- month  of qualifying military service (not to exceed 36 months).  There-
- fore, the initial maximum Supplemental Retirement  Allowance  would  not
- exceed  $1,350  per year (i.e., $15,000 x 0.25% x 36 months = $1,350 per
- year), and would thereafter be subject to the COLA  provisions,  to  the
- S. 7529  4
- 
- extent  the total retirement allowance including Supplemental Retirement
- Allowance is less than $18,000  per  year,  provided  by  ACCNY  Section
- 13-696.
-  FINANCIAL IMPACT - SUMMARY: The number of members who could potential-
- ly  benefit  from  this  proposed  legislation cannot be determined. For
- illustrative purposes only,  the  table  below  presents  the  estimated
- financial  impact  assuming  that,  (1)  the percentage of retirees that
- would benefit is the same percentage  for  each  of  the  NYCRS  as  the
- percentage  of active members that have purchased military service under
- Chapter 41 of the Laws of 2016 as of June 30, 2021, (2) that each member
- purchased 2.5 years of military service, (3) that each retiree's pension
- is equal to or greater than $18,000 per year, and (4) that the  percent-
- age  of  those retirees who are receiving their pension in the form of a
- Joint and Survivor benefit is the same percentage  as  current  retirees
- for each of the NYCRS.
-  One-Time Increase
-  NYCRS  in Employer Contributions*
-  ($ Millions)
-  NYCERS  $ 6.8
-  TRS  0.6
-  BERS  0.2
-  POLICE  22.5
-  FIRE  3.3
-  Total  $33.4
-  *  Any  costs  may be subject to State appropriation and reimbursement
- pursuant to RSSL Section 25.
-  New Unfunded Accrued Liability (UAL) attributable to  benefit  changes
- are  generally  amortized  over  the remaining working lifetime of those
- impacted by the benefit changes. For this  proposed  legislation,  since
- those who would benefit are retired, the entire increase in UAL would be
- recognized in the first year that the increased pension was paid.
-  ACTUARIAL ASSUMPTIONS AND METHODS: The estimates presented herein have
- been  calculated based on the actuarial assumptions and methods used for
- the Preliminary Fiscal Year 2024 employer contributions of NYCRS.
-  RISK AND UNCERTAINTY: The costs presented in this Fiscal  Note  depend
- highly  on the realization of the actuarial assumptions used, demograph-
- ics of the impacted population, and other factors  such  as  investment,
- contribution,  and other risks. If actual experience deviates from actu-
- arial assumptions, the actual costs could differ  from  those  presented
- herein.
-  Costs  are also dependent on the actuarial methods used, and therefore
- different actuarial methods could produce different results. Quantifying
- these risks is beyond the scope of this Fiscal Note.
-  Not measured in this Fiscal Note are the following:
-  *  The  initial  additional  administrative  costs  to  implement  the
- proposed legislation.
-  STATEMENT  OF  ACTUARIAL  OPINION:  I, Marek Tyszkiewicz, am the Chief
- Actuary for, and independent of, the New York  City  Retirement  Systems
- and  Pension  Funds. I am an Associate of the Society of Actuaries and a
- Member of the American Academy of Actuaries. I am a member of NYCERS but
- do not believe it impairs my objectivity and I  meet  the  Qualification
- Standards  of  the American Academy of Actuaries to render the actuarial
- opinion contained herein. To the  best  of  my  knowledge,  the  results
- contained  herein  have  been  prepared  in  accordance  with  generally
- accepted actuarial principles and  procedures  and  with  the  Actuarial
- Standards of Practice issued by the Actuarial Standards Board.
- S. 7529  5
- 
-  FISCAL  NOTE  IDENTIFICATION:  This  Fiscal Note 2023-69 dated June 2,
- 2023, was prepared by the Chief Actuary for the New York City Retirement
- Systems and Pension Funds. This estimate is intended for use only during
- the 2023 Legislative Session.
-  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This  bill would amend Section 1000 of the Retirement and Social Secu-
- rity Law by adding a new  subdivision  8-a  to  allow  eligible  retired
- members  of  public  retirement  systems  of New York State to receive a
- supplemental military retirement allowance  based  upon  the  retirement
- allowance of such member and up to three years of military service cred-
- it.  This supplemental benefit would be in lieu of any benefit otherwise
- provided by military service credit. The  annual  supplemental  military
- retirement  allowance shall be equal to the retirement allowance of such
- person, computed without optional modification and not to exceed fifteen
- thousand  dollars,  multiplied  by  twenty-five  one-hundredths  of  one
- percent per month of military service claimed. The surviving spouse of a
- deceased  member who retired under an option which provides a continuing
- lifetime benefit would be entitled  to  receive  fifty  percent  of  the
- supplemental military retirement allowance that the retired member would
- have received. A member must have retired prior to May 31, 2016 and make
- application no later than December 31, 2024. This benefit is prospective
- only  and  shall  commence  on  the next retirement allowance payable at
- least 30 days after the receipt of said application. There is no  member
- cost for this benefit.
-  It is not possible to determine the total annual cost to the employers
- of  members  of the New York State Teachers' Retirement System since the
- number of retired members who would be  eligible  for  the  supplemental
- military  retirement  allowance  under  this  bill cannot be effectively
- estimated. However, the cost is estimated to be,  on  average,  approxi-
- mately  $11,900  for  each  retired member eligible for the supplemental
- military retirement allowance provided under this bill if enacted.
-  Member data is from  the  System's  most  recent  actuarial  valuation
- files,  consisting  of  data provided by the employers to the Retirement
- System.  Data distributions and statistics can be found in the  System's
- Annual  Report.  System assets are as reported in the System's financial
- statements and can also be found in the System's Annual Report. Actuari-
- al assumptions and methods are provided in the System's Actuarial  Valu-
- ation Report.
-  The  source of this estimate is Fiscal Note 2023-32 dated June 2, 2023
- prepared by the Office of the Actuary of the New  York  State  Teachers'
- Retirement  System and is intended for use only during the 2023 Legisla-
- tive Session. I, Richard A. Young, am the Chief Actuary for the New York
- State Teachers' Retirement System. I am a member of the American Academy
- of Actuaries and I meet the  Qualification  Standards  of  the  American
- Academy of Actuaries to render the actuarial opinion contained herein.
-  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
-  This  bill would amend Section 1000 of the Retirement and Social Secu-
- rity Law to allow retirees of the New York State  and  Local  Retirement
- Systems  to  apply  for  a supplemental pension benefit based upon prior
- military service that was not creditable to the member prior to  retire-
- ment.  The member must have retired prior to May 31, 2016. The amount of
- the supplemental benefit is equal to the single life allowance plus  any
- cost-of-living  adjustment,  not to exceed $15,000, multiplied by 3% for
+  This bill would amend Section 1000 of the Retirement and Social  Secu-
+ rity  Law  to  allow retirees of the New York State and Local Retirement
+ Systems to apply for a supplemental pension  benefit  based  upon  prior
+ military  service that was not creditable to the member prior to retire-
+ ment. The member must have retired prior to May 31, 2016. The amount  of
+ the  supplemental benefit is equal to the single life allowance plus any
+ cost-of-living adjustment, not to exceed $15,000, multiplied by  3%  for
  each year of military service credit granted, not to exceed three years.
- The surviving spouse and lifetime  beneficiary  of  a  deceased  retiree
- shall  receive  half of what the deceased member would have received. An
- S. 7529  6
- 
- eligible retiree must file an application for the  supplemental  pension
- no  later  than  December 31, 2024, but will not be required to make any
- payment to obtain the benefit. The payment of the  supplemental  benefit
- will  begin  with  the  first monthly pension payment issued at least 30
- days after receipt of the application.
-  The exact number of retirees that could be  affected  by  this  legis-
- lation cannot be readily determined.
-  Insofar  as  this bill affects the New York State and Local Employees'
- Retirement System, pursuant to Section 25 of the Retirement  and  Social
- Security  Law,  the increased costs would be borne entirely by the State
- of New York and would require an itemized  appropriation  sufficient  to
- pay the cost of the provision. Once a retiree applies for this benefit a
- cost will be generated, which will be billed to the State of New York.
+ The  surviving  spouse  and  lifetime  beneficiary of a deceased retiree
+ shall receive half of what the deceased member would have received.
+  An eligible retiree must file  an  application  for  the  supplemental
+ pension  no  later  than  December 31, 2024, but will not be required to
+ make any payment to obtain the benefit. The payment of the  supplemental
+ benefit  will  begin  with  the  first monthly pension payment issued at
+ least 30 days after receipt of the application.
+  Insofar as this bill affects the New York State and  Local  Employees'
+ Retirement  System  (NYSLERS),  pursuant to Section 25 of the Retirement
+ and Social Security Law, the increased costs would be borne entirely  by
+ the State of New York and would require an itemized appropriation suffi-
+ cient to pay the cost of the provision. If this bill were enacted during
+ the 2024 Legislative Session, the increase in the present value of bene-
+ fits would be approximately $52.9 million.
+  In  the  NYSLERS,  this benefit improvement will be funded entirely by
+ billing a past service cost to cover retrospective benefit increases. To
+ fund these retrospective costs, the State of New York will  be  required
+ to pay $59.0 million (including interest) as of March 1, 2025.
   Insofar  as  this bill affects the New York State and Local Police and
  Fire Retirement System (NYSLPFRS), the increased costs would  be  shared
  by  the  State  of New York and the local participating employers in the
- NYSLPFRS.
+ NYSLPFRS. If this bill were enacted during the 2024 Legislative Session,
+ the increase in the present value of benefits would be approximately $25
+ million.
+ 
+  NYSLPFRS  Increase in present  Increase in required
+  value benefits  contributions
+  Tiers 1 - 5  $25 million  $12 million
+  Tier 6  $0 million  $13 million
+  Total  $25 million  $25 million
+ 
+  In the NYSLPFRS, this benefit improvement is funded by increasing  the
+ billing  rates  charged  annually  to  cover  the  retrospective benefit
+ increases. The annual contribution required of all participating employ-
+ ers in NYSLPFRS is 0.1% of billable salary, or approximately $860,000 to
+ S. 7529--A  4
+ 
+ the State of New York and  approximately  $3.52  million  to  the  local
+ participating  employers. This PERMANENT ANNUAL COST will vary in subse-
+ quent billing cycles with changes in the billing rate and salary of  the
+ members in the NYSLPFRS.
+  The  exact  number  of  retirees that could be affected by this legis-
+ lation cannot be readily determined.
   Summary of relevant resources:
-  Membership data as of March 31, 2022 was used in measuring the  impact
- of the proposed change, the same data used in the April 1, 2022 actuari-
- al  valuation.  Distributions  and  other statistics can be found in the
- 2022 Report of the Actuary and the 2022 Annual  Comprehensive  Financial
+  Membership data as of March 31, 2023 was used in measuring the  impact
+ of the proposed change, the same data used in the April 1, 2023 actuari-
+ al  valuation.  Distributions and other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The  actuarial assumptions and methods used are described in the 2020,
- 2021, and 2022 Annual Report to the  Comptroller  on  Actuarial  Assump-
- tions,  and  the  Codes, Rules and Regulations of the State of New York:
- Audit and Control.
-  The Market Assets and GASB Disclosures are found in the March 31, 2022
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
+ Control.
+  The Market Assets and GASB Disclosures are found in the March 31, 2023
  New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
@@ -332,6 +205,140 @@ S T A T E  O F  N E W  Y O R K
   This  fiscal note does not constitute a legal opinion on the viability
  of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
-  This  estimate,  dated  May 16, 2023, and intended for use only during
- the 2023 Legislative Session, is Fiscal Note No. 2023-153,  prepared  by
+  This  estimate, dated April 12, 2024, and intended for use only during
+ the 2024 Legislative Session, is Fiscal Note No. 2024-127,  prepared  by
  the Actuary for the New York State and Local Retirement System.
+  FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
+  SUMMARY: This proposed legislation, as it relates to the New York City
+ Retirement  Systems  and  Pension Funds (NYCRS), would provide a supple-
+ mental military retirement allowance (Supplemental Retirement Allowance)
+ to retirees who would have had qualifying military service as defined in
+ Chapter 41 of the Laws of 2016, but retired prior to the effective date,
+ May 31, 2016.
+ 
+  ILLUSTRATION - INCREASE (DECREASE) IN EMPLOYER CONTRIBUTIONS
+  by Fiscal Year for the first 25 years ($ in Millions)
+ 
+  Year  NYCERS  TRS  BERS  POLICE  FIRE  TOTAL
+  2025  7.0  0.7  0.2  24.3  3.4  35.6
+  2026  0  0  0  0  0  0
+  2027  0  0  0  0  0  0
+  2028  0  0  0  0  0  0
+  2029  0  0  0  0  0  0
+  2030  0  0  0  0  0  0
+  2031  0  0  0  0  0  0
+  2032  0  0  0  0  0  0
+  2033  0  0  0  0  0  0
+  2034  0  0  0  0  0  0
+  2035  0  0  0  0  0  0
+  2036  0  0  0  0  0  0
+  2037  0  0  0  0  0  0
+  2038  0  0  0  0  0  0
+  2039  0  0  0  0  0  0
+  2040  0  0  0  0  0  0
+  2041  0  0  0  0  0  0
+ S. 7529--A  5
+ 
+  2042  0  0  0  0  0  0
+  2043  0  0  0  0  0  0
+  2044  0  0  0  0  0  0
+  2045  0  0  0  0  0  0
+  2046  0  0  0  0  0  0
+  2047  0  0  0  0  0  0
+  2048  0  0  0  0  0  0
+  2049  0  0  0  0  0  0
+ The  increase  in  employer  contributions will be allocated to New York
+ City and other applicable obligors of NYCRS.
+
+  INCREASE (DECREASE) IN ACTUARIAL LIABILITIES
+  as of June 30, 2023 ($ in Millions)
+ 
+  Present Value (PV)  NYCERS  TRS  BERS  POLICE  FIRE
+ PV of Benefits:  6.3  0.6  0.2  22.0  3.1
+ PV of Employee Contributions: 0.0  0.0  0.0  0.0  0.0
+ PV of Employer Contributions: 6.3  0.6  0.2  22.0  3.1
+ Unfunded Accrued Liabilities: 6.3  0.6  0.2  22.0  3.1
+ 
+  AMORTIZATION OF UNFUNDED ACCRUED LIABILITY
+ 
+  NYCERS  TRS  BERS  POLICE  FIRE
+ Number of Payments:  1  1  1  1  1
+ Fiscal Year of Last Payment:  2025  2025  2025  2025  2025
+ Amortization Payment:  7.0 M  0.7 M  0.2 M  24.3 M  3.4 M
+
+  The Unfunded Accrued Liability increases were recognized in the  first
+ year.
+  CENSUS  DATA:  The  number  of  members who will receive an additional
+ benefit due to this  proposed  legislation  is  unknown.  The  estimates
+ presented  herein  are  based on preliminary census data collected as of
+ June 30, 2023 and military service purchased under  Chapter  41  of  the
+ Laws of 2016. The census data for the potentially impacted population is
+ summarized below.
+  NYCERS  TRS  BERS  POLICE  FIRE
+ Receiving Members
+ - Number Count:  98,370  64,179  11,736  41,101  12,498
+ - Average Age:  76.0  78.0  79.0  66.0  71.0
+ 
+  A  NYCRS retiree would be eligible to receive the Supplemental Retire-
+ ment Allowance (Eligible Recipient) if he or she:
+  o Retired prior to May 31, 2016 and was therefore ineligible for Chap-
+ ter 41 of the Laws of 2016 due to its May 31, 2016 effective date,
+  o Would have otherwise met the current eligibility criteria of Retire-
+ ment and Social Security Law Section 1000, and
+  o Files an application for such benefit by December 31, 2024.
+  IMPACT ON MEMBER BENEFITS: The annual Supplemental  Retirement  Allow-
+ ance  would  be  equal  to  0.25%  for each month of qualifying military
+ service (not to exceed 36 months) multiplied by  the  retirement  allow-
+ ance, not to exceed $15,000. The initial maximum Supplemental Retirement
+ Allowance  would  not exceed $1,350 per year (i.e., $15,000 x 0.25% x 36
+ months = $1,350 per year). The Supplemental Retirement  Allowance  would
+ be  in  lieu  of  any  other  retirement  benefit  provided for military
+ service.
+ S. 7529--A  6
+ 
+  The full Supplemental Retirement Allowance would be  payable  for  the
+ Eligible  Recipient's  lifetime  and half of the Supplemental Retirement
+ Allowance would be payable to a surviving spouse if the retiree chose an
+ optional form of payment. The initial Supplemental Retirement  Allowance
+ would be subject to the Cost-of-Living Adjustment (COLA) provisions, but
+ only  to  the  extent  that the total retirement allowance including the
+ Supplemental Retirement Allowance is less than $18,000 per year.
+  ASSUMPTIONS AND METHODS: The  estimates  presented  herein  have  been
+ calculated  based  on the Revised 2021 Actuarial Assumptions and Methods
+ of the impacted retirement systems. In addition:
+  o Military service for members who retired prior to May 31, 2016 would
+ be consistent with active military service purchased under Chapter 41 of
+ the Law of 2016 (i.e., percent  of  population  with  eligible  service,
+ eligible military service of 2.5 years).
+  o Joint and Survivor elections would be the same percentage as current
+ retirees.
+  o The average COLA applicable to the Supplemental Retirement Allowance
+ was assumed to be zero.
+  o  The  Supplemental  Retirement  Allowance was assumed to be provided
+ without cost to Eligible Recipients.
+  The number of retirees who will  benefit  from  this  fiscal  note  is
+ unknown.  The  cost  of  this  proposed legislation could vary greatly
+ depending on the number of retirees who benefit.
+  RISK AND UNCERTAINTY: The costs presented in this Fiscal  Note  depend
+ highly  on  the  actuarial  assumptions, methods, and models used, demo-
+ graphics of the impacted population, and other factors such  as  invest-
+ ment,  contribution, and other risks. If actual experience deviates from
+ actuarial  assumptions,  the  actual  costs  could  differ  from  those
+ presented  herein.  Quantifying  these risks is beyond the scope of this
+ Fiscal Note.
+  This Fiscal Note is intended to measure  pension-related  impacts  and
+ does  not  include other potential costs (e.g., administrative and Other
+ Postemployment Benefits).
+  STATEMENT OF ACTUARIAL OPINION: Marek Tyszkiewicz and Gregory Zelikov-
+ sky are members of the Society of Actuaries and the American Academy  of
+ Actuaries.  We  are  members of NYCERS but do not believe it impairs our
+ objectivity and we meet the  Qualification  Standards  of  the  American
+ Academy  of  Actuaries to render the actuarial opinion contained herein.
+ To the best of our knowledge, the results  contained  herein  have  been
+ prepared  in accordance with generally accepted actuarial principles and
+ procedures and with the Actuarial Standards of Practice  issued  by  the
+ Actuarial Standards Board.
+  FISCAL  NOTE  IDENTIFICATION:  This  Fiscal Note 2024-65 dated May 21,
+ 2024 was prepared by the Chief Actuary for the New York City  Retirement
+ Systems and Pension Funds. This estimate is intended for use only during
+ the 2024 Legislative Session.
