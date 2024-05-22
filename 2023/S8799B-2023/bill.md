@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the "Port Authority Police Officer William J. Leahy Memorial Bridge"
 
-**Bill ID:** S8799B
+**Bill ID:** S8799BA
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Designates a portion of the state highway system including the bridge on the Sou
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8799
+  8799--A
+  Cal. No. 1365
  
   I N  S E N A T E
  
@@ -24,8 +25,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SANDERS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
- 
+  printed to be committed to the Committee on Transportation -- reported
+  favorably from said committee, ordered to  first  report,  amended  on
+  first  report,  ordered  to  a  second  report  and ordered reprinted,
+  retaining its place in the order of second report
+
  AN ACT to amend the highway law, in relation to designating a portion of
   the state highway system as the "Port Authority Police Officer William
   J. Leahy Memorial Bridge"
@@ -42,18 +46,17 @@ S T A T E  O F  N E W  Y O R K
  PASS,  CROSSING  OVER  THE  VAN  WYCK  EXPRESSWAY IN THE NEIGHBORHOOD OF
  JAMAICA, COUNTY OF QUEENS, SHALL BE DESIGNATED AND KNOWN  AS  THE  "PORT
  AUTHORITY POLICE OFFICER WILLIAM J. LEAHY MEMORIAL BRIDGE".
-  §  2. The commissioner of transportation shall provide for the instal-
- lation and maintenance of adequate signing of the state  highway  system
- as  designated  pursuant  to  section one of this act. However, to avoid
- confusion and to limit any possible disruption of commerce,  the  desig-
- nation  called  for  pursuant to section one of this act shall be one of
- ceremonial nature and the official name of  such  bridge  shall  not  be
+  §  2.  The port authority of New York and New Jersey shall provide for
+ the installation and maintenance of adequate signing of the state  high-
+ way  system  as designated pursuant to section one of this act. However,
+ to avoid confusion and to limit any possible disruption of commerce, the
+ designation called for pursuant to section one of this act shall be  one
+ of  ceremonial  nature and the official name of such bridge shall not be
  changed as a result of this act.
   § 3. This act shall take effect immediately.
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD14734-01-4
+  LBD14734-02-4
