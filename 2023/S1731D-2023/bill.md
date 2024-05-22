@@ -1,6 +1,6 @@
 # Relates to the use of consumer credit history for certain purposes
 
-**Bill ID:** S1731DC
+**Bill ID:** S1731DD
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Assembly Committee
@@ -16,8 +16,8 @@ Prohibits the use of consumer credit history in hiring, employment and licensing
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1731--C
-  Cal. No. 998
+  1731--D
+  Cal. No. 577
  
   2023-2024 Regular Sessions
  
@@ -26,46 +26,50 @@ S T A T E  O F  N E W  Y O R K
   January 13, 2023
   ___________
  
- Introduced  by  Sens.  SANDERS,  GOUNARDES, HOYLMAN-SIGAL, KRUEGER, MAY,
-  RAMOS, RIVERA, THOMAS -- read twice  and  ordered  printed,  and  when
-  printed  to  be  committed  to the Committee on Consumer Protection --
-  committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted  to  said committee -- committee discharged, bill amended,
-  ordered reprinted as amended and  recommitted  to  said  committee  --
-  reported  favorably  from  said committee, ordered to first and second
-  report, ordered to a third reading,  amended  and  ordered  reprinted,
-  retaining its place in the order of third reading
+ Introduced  by Sens. SANDERS, COMRIE, GOUNARDES, HOYLMAN-SIGAL, KRUEGER,
+  MAY, RAMOS, RIVERA, THOMAS -- read twice and ordered printed, and when
+  printed to be committed to the Committee  on  Consumer  Protection  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee -- committee discharged,  bill  amended,
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  reported favorably from said committee, ordered to  first  and  second
+  report,  ordered  to  a  third reading, amended and ordered reprinted,
+  retaining its place in the order of third reading  --  recommitted  to
+  the Committee on Consumer Protection in accordance with Senate Rule 6,
+  sec. 8 -- reported favorably from said committee, ordered to first and
+  second  report,  ordered  to  a  third  reading,  amended  and ordered
+  reprinted, retaining its place in the order of third reading
  
  AN ACT to amend the general business law, in relation to prohibiting the
-  disclosure  or use of a person's consumer credit history to an employ-
+  disclosure or use of a person's consumer credit history to an  employ-
   er,  labor  organization,  employment  agency  or  agent  thereof  for
   purposes of employment decisions
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 380-a of the general business  law  is  amended  by
- adding a new subdivision (v) to read as follows:
-  (V)  THE  TERM  "CONSUMER CREDIT HISTORY" MEANS AN INDIVIDUAL'S CREDIT
- WORTHINESS, CREDIT STANDING, CREDIT  CAPACITY  OR  PAYMENT  HISTORY,  AS
+  Section  1.  Section  380-a  of the general business law is amended by
+ adding a new subdivision (w) to read as follows:
+  (W) THE TERM "CONSUMER CREDIT HISTORY" MEANS  AN  INDIVIDUAL'S  CREDIT
+ WORTHINESS,  CREDIT  STANDING,  CREDIT  CAPACITY  OR PAYMENT HISTORY, AS
  INDICATED BY:
   (1) A CONSUMER CREDIT REPORT;
   (2) CREDIT SCORE; OR
-  (3)  INFORMATION  AN  EMPLOYER  OBTAINS  DIRECTLY  FROM THE INDIVIDUAL
- REGARDING (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE  INDIVIDUAL'S
- NUMBER  OF  CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS, CHARGED-OFF DEBTS,
- ITEMS IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES,  OR
+  (3) INFORMATION AN  EMPLOYER  OBTAINS  DIRECTLY  FROM  THE  INDIVIDUAL
+ REGARDING  (I) DETAILS ABOUT CREDIT ACCOUNTS, INCLUDING THE INDIVIDUAL'S
+ NUMBER OF CREDIT ACCOUNTS, LATE OR MISSED PAYMENTS,  CHARGED-OFF  DEBTS,
+ ITEMS  IN COLLECTIONS, CREDIT LIMIT OR PRIOR CREDIT REPORT INQUIRIES, OR
  (II) BANKRUPTCIES, JUDGMENTS OR LIENS.
-  A  CONSUMER  CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR OTHER COMMUNI-
- CATION OF ANY INFORMATION BY A CONSUMER REPORTING AGENCY THAT BEARS ON A
- CONSUMER'S CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR  CREDIT
- HISTORY.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00590-09-3
- S. 1731--C  2
+  LBD00590-11-4
+ S. 1731--D  2
  
+  A CONSUMER CREDIT REPORT SHALL INCLUDE ANY WRITTEN OR  OTHER  COMMUNI-
+ CATION OF ANY INFORMATION BY A CONSUMER REPORTING AGENCY THAT BEARS ON A
+ CONSUMER'S  CREDITWORTHINESS, CREDIT STANDING, CREDIT CAPACITY OR CREDIT
+ HISTORY.
   §  2.  Subdivision (d) of section 380-b of the general business law is
  relettered subdivision (g) and three new subdivisions (d), (e)  and  (f)
  are added to read as follows:
@@ -118,85 +122,85 @@ S T A T E  O F  N E W  Y O R K
  THE NATIONAL DEFENSE OR FOREIGN RELATIONS OF THE UNITED STATES,  REGARD-
  LESS OF ITS PHYSICAL FORM OR CHARACTERISTICS, THAT IS OWNED BY, PRODUCED
  BY  OR  FOR, OR IS UNDER THE CONTROL OF THE UNITED STATES GOVERNMENT AND
+ S. 1731--D  3
+ 
  IS DEFINED AS SUCH BY THE UNITED STATES GOVERNMENT AND ITS AGENCIES  AND
  DEPARTMENTS; AND
   (III)  "TRADE SECRETS" MEANS INFORMATION THAT: (A) DERIVES INDEPENDENT
  ECONOMIC VALUE, ACTUAL OR POTENTIAL, FROM NOT BEING GENERALLY KNOWN  TO,
- S. 1731--C  3
- 
  AND NOT BEING READILY ASCERTAINABLE BY PROPER MEANS BY OTHER PERSONS WHO
  CAN OBTAIN ECONOMIC VALUE FROM ITS DISCLOSURE OR USE; (B) IS THE SUBJECT
  OF  EFFORTS  THAT ARE REASONABLE UNDER THE CIRCUMSTANCES TO MAINTAIN ITS
  SECRECY; AND (C) CAN REASONABLY BE SAID TO BE THE END PRODUCT OF SIGNIF-
- ICANT  INNOVATION.  THE  TERM  "TRADE  SECRETS" DOES NOT INCLUDE GENERAL
+ ICANT INNOVATION. THE TERM "TRADE  SECRETS"  DOES  NOT  INCLUDE  GENERAL
  PROPRIETARY COMPANY INFORMATION SUCH AS HANDBOOKS AND POLICIES. THE TERM
- "REGULAR ACCESS TO TRADE SECRETS" DOES NOT INCLUDE ACCESS TO OR THE  USE
+ "REGULAR  ACCESS TO TRADE SECRETS" DOES NOT INCLUDE ACCESS TO OR THE USE
  OF CLIENT, CUSTOMER OR MAILING LISTS.
-  (4)  NOTHING  IN  THIS  SUBDIVISION  SHALL  PRECLUDE  AN EMPLOYER FROM
- REQUESTING OR RECEIVING CONSUMER CREDIT HISTORY INFORMATION PURSUANT  TO
+  (4) NOTHING IN  THIS  SUBDIVISION  SHALL  PRECLUDE  AN  EMPLOYER  FROM
+ REQUESTING  OR RECEIVING CONSUMER CREDIT HISTORY INFORMATION PURSUANT TO
  A LAWFUL SUBPOENA, COURT ORDER OR LAW ENFORCEMENT INVESTIGATION.
   (5) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT BE CONSTRUED TO AFFECT
- THE  OBLIGATIONS  OF  PERSONS REQUIRED BY STATE OR LOCAL LAW RELATING TO
+ THE OBLIGATIONS OF PERSONS REQUIRED BY STATE OR LOCAL  LAW  RELATING  TO
  DISCLOSURES BY PUBLIC EMPLOYEES OF CONFLICTS OF INTEREST.
-  (E) (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SUBDIVISION, IT SHALL  BE
+  (E)  (1) EXCEPT AS OTHERWISE PROVIDED IN THIS SUBDIVISION, IT SHALL BE
  AN UNLAWFUL DISCRIMINATORY PRACTICE FOR ANY STATE OR MUNICIPAL AGENCY TO
  REQUEST  OR  USE  FOR  LICENSING  OR  PERMITTING  PURPOSES  INFORMATION
- CONTAINED IN THE CONSUMER CREDIT HISTORY OF AN  APPLICANT,  LICENSEE  OR
+ CONTAINED  IN  THE  CONSUMER CREDIT HISTORY OF AN APPLICANT, LICENSEE OR
  PERMITTEE FOR LICENSING OR PERMITTING PURPOSES.
-  (2)  PARAGRAPH  ONE  OF  THIS SUBDIVISION SHALL NOT APPLY TO AN AGENCY
- REQUIRED BY STATE OR FEDERAL LAW TO USE AN INDIVIDUAL'S CONSUMER  CREDIT
+  (2) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT  APPLY  TO  AN  AGENCY
+ REQUIRED  BY STATE OR FEDERAL LAW TO USE AN INDIVIDUAL'S CONSUMER CREDIT
  HISTORY FOR LICENSING OR PERMITTING PURPOSES.
   (3) PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT BE CONSTRUED TO AFFECT
- THE  ABILITY OF AN AGENCY TO CONSIDER AN APPLICANT'S, LICENSEE'S, REGIS-
- TRANT'S OR PERMITTEE'S FAILURE TO PAY ANY TAX, FINE, PENALTY OR FEE  FOR
- WHICH  LIABILITY HAS BEEN ADMITTED BY THE PERSON LIABLE THEREFOR, OR FOR
+ THE ABILITY OF AN AGENCY TO CONSIDER AN APPLICANT'S, LICENSEE'S,  REGIS-
+ TRANT'S  OR PERMITTEE'S FAILURE TO PAY ANY TAX, FINE, PENALTY OR FEE FOR
+ WHICH LIABILITY HAS BEEN ADMITTED BY THE PERSON LIABLE THEREFOR, OR  FOR
  WHICH JUDGMENT HAS BEEN ENTERED BY A COURT OR ADMINISTRATIVE TRIBUNAL OF
- COMPETENT JURISDICTION, OR ANY TAX FOR WHICH  A  GOVERNMENT  AGENCY  HAS
+ COMPETENT  JURISDICTION,  OR  ANY  TAX FOR WHICH A GOVERNMENT AGENCY HAS
  ISSUED A WARRANT, OR A LIEN OR LEVY ON PROPERTY.
   (4) NOTHING IN THIS SUBDIVISION SHALL PRECLUDE A LICENSING AGENCY FROM
- REQUESTING,  RECEIVING,  OR  USING  CONSUMER  CREDIT HISTORY INFORMATION
- OBTAINED PURSUANT TO A LAWFUL SUBPOENA,  COURT  ORDER  OR  SPECIFIC  LAW
+ REQUESTING, RECEIVING, OR  USING  CONSUMER  CREDIT  HISTORY  INFORMATION
+ OBTAINED  PURSUANT  TO  A  LAWFUL  SUBPOENA, COURT ORDER OR SPECIFIC LAW
  ENFORCEMENT INVESTIGATION.
   (F) THIS SECTION DOES NOT ANNUL, ALTER, AFFECT OR EXEMPT ANY EMPLOYER,
- LABOR  ORGANIZATION,  EMPLOYMENT  AGENCY OR ANY AGENT THEREOF SUBJECT TO
- THE PROVISIONS OF THIS SECTION FROM COMPLYING WITH ANY LOCAL LAW,  ORDI-
- NANCE  OR  REGULATION WITH RESPECT TO THE USE OF CONSUMER CREDIT HISTORY
- FOR EMPLOYMENT PURPOSES EXCEPT TO THE EXTENT THAT THOSE LAWS ARE  INCON-
- SISTENT  WITH ANY PROVISION OF THIS SECTION, AND THEN ONLY TO THE EXTENT
- OF SUCH INCONSISTENCY. FOR PURPOSES OF THIS SUBDIVISION,  A  LOCAL  LAW,
- ORDINANCE  OR  REGULATION  IS  NOT INCONSISTENT WITH THIS SECTION IF THE
- PROTECTION SUCH LAW OR REGULATION AFFORDS AN EMPLOYEE OR  JOB  APPLICANT
+ LABOR ORGANIZATION, EMPLOYMENT AGENCY OR ANY AGENT  THEREOF  SUBJECT  TO
+ THE  PROVISIONS OF THIS SECTION FROM COMPLYING WITH ANY LOCAL LAW, ORDI-
+ NANCE OR REGULATION WITH RESPECT TO THE USE OF CONSUMER  CREDIT  HISTORY
+ FOR  EMPLOYMENT PURPOSES EXCEPT TO THE EXTENT THAT THOSE LAWS ARE INCON-
+ SISTENT WITH ANY PROVISION OF THIS SECTION, AND THEN ONLY TO THE  EXTENT
+ OF  SUCH  INCONSISTENCY.  FOR PURPOSES OF THIS SUBDIVISION, A LOCAL LAW,
+ ORDINANCE OR REGULATION IS NOT INCONSISTENT WITH  THIS  SECTION  IF  THE
+ PROTECTION  SUCH  LAW OR REGULATION AFFORDS AN EMPLOYEE OR JOB APPLICANT
  IS GREATER THAN THE PROTECTION PROVIDED BY THIS SECTION.
   § 3. The division of human rights shall request information from state
- and  local  agencies  and non-governmental employers regarding the agen-
- cies' and employers' use of the exemptions  established  in  subdivision
- (d)  of section 380-b of the general business law for purposes of hiring
- and employment. Within two years of the effective date of this act,  the
- division  of  human  rights  shall  submit  to  the legislature a report
- concerning the results of such request and any  relevant  feedback  from
+ and local agencies and non-governmental employers  regarding  the  agen-
+ cies'  and  employers'  use of the exemptions established in subdivision
+ (d) of section 380-b of the general business law for purposes of  hiring
+ and  employment. Within two years of the effective date of this act, the
+ division of human rights  shall  submit  to  the  legislature  a  report
+ concerning  the  results  of such request and any relevant feedback from
  agencies and employers.
-  §  4.  Paragraph  3 of subdivision (a) of section 380-b of the general
- business law, as amended by chapter 797 of the laws of 1984, is  amended
+ S. 1731--D  4
+ 
+  § 4. Paragraph 3 of subdivision (a) of section 380-b  of  the  general
+ business  law, as amended by chapter 797 of the laws of 1984, is amended
  to read as follows:
   (3)  To  a  person  whom  it  has reason to believe intends to use the
  information (i) in connection with a credit  transaction  involving  the
- S. 1731--C  4
- 
  consumer  on  whom  the information is to be furnished and involving the
  extension of credit to, or review or collection of an  account  of,  the
  consumer, or (ii) for employment purposes, EXCEPT THAT A CONSUMER REPORT
  MAY BE FURNISHED FOR SUCH PURPOSES ONLY IF SUCH REPORT EXCLUDES INFORMA-
  TION  THAT  BEARS  ON  A  CONSUMER'S CREDIT WORTHINESS, CREDIT STANDING,
- CREDIT CAPACITY OR CREDIT  HISTORY,  EXCEPT  THAT  SUCH  INFORMATION  IS
- PERMITTED  TO BE DISSEMINATED TO EMPLOYERS OR PERSONS SET FORTH IN PARA-
- GRAPH TWO OF SUBDIVISION (D) OF THIS SECTION,  or  (iii)  in  connection
- with  the  underwriting  of insurance involving the consumer, or (iv) in
- connection with a determination of  the  consumer's  eligibility  for  a
- license  or  other  benefit  granted  by  a governmental instrumentality
- required by law to consider an applicant's financial  responsibility  or
- status,  or  (v)  to  a person in connection with a business transaction
- involving the consumer where the user has a legitimate business need for
- such information, or (vi) in connection with the rental or  lease  of  a
- residence.
+ CREDIT CAPACITY OR CREDIT HISTORY AND IS BASED ON THE CONSUMER'S  FINAN-
+ CIAL  TRANSACTIONS,  EXCEPT  THAT  SUCH  INFORMATION  IS PERMITTED TO BE
+ DISSEMINATED TO EMPLOYERS OR PERSONS  SET  FORTH  IN  PARAGRAPH  TWO  OF
+ SUBDIVISION  (D) OF THIS SECTION, or (iii) in connection with the under-
+ writing of insurance involving the consumer, or (iv) in connection  with
+ a  determination  of  the  consumer's eligibility for a license or other
+ benefit granted by a governmental instrumentality  required  by  law  to
+ consider  an applicant's financial responsibility or status, or (v) to a
+ person in connection with a business transaction involving the  consumer
+ where  the  user has a legitimate business need for such information, or
+ (vi) in connection with the rental or lease of a residence.
   § 5. This act shall take effect on the one hundred twentieth day after
  it shall have become a law.
