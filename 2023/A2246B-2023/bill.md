@@ -1,6 +1,6 @@
 # Requires certain watercraft, aircraft, and trains to be zero emissions; requires the study of certain clean energy sources; requires certain monetary incentives for clean energy vehicles
 
-**Bill ID:** A2246BA
+**Bill ID:** A2246BB
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires certain watercraft, aircrafts, and trains to use clean energy, includin
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2246--A
+  2246--B
  
   2023-2024 Regular Sessions
  
@@ -30,6 +30,9 @@ S T A T E  O F  N E W  Y O R K
   the  Committee  on  Environmental  Conservation  -- recommitted to the
   Committee on Environmental Conservation in  accordance  with  Assembly
   Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee --  recommitted
+  to  the  Committee  on  Environmental  Conservation in accordance with
+  Assembly Rule 3, sec. 2 -- committee discharged, bill amended, ordered
   reprinted as amended and recommitted to said committee
  
  AN ACT to amend the energy law, the environmental conservation law,  the
@@ -62,8 +65,8 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03192-03-4
- A. 2246--A  2
+  LBD03192-05-4
+ A. 2246--B  2
  
  STATE SHALL PRODUCE ZERO OR NEAR ZERO-EMISSIONS BY TWO  THOUSAND  FORTY.
  PUBLIC  VESSELS  MAY  ONLY  UTILIZE  FOSSIL  FUEL-BASED ENGINES AS RANGE
@@ -121,7 +124,7 @@ S T A T E  O F  N E W  Y O R K
  INCLUDING BUT NOT LIMITED TO, GEOTHERMAL ENERGY, SOLAR ENERGY  AND  WIND
  ENERGY, FOR ON-SITE GENERATION OF ELECTRICITY.  SUCH STUDY SHALL FURTHER
  EXAMINE, AT A MINIMUM:
- A. 2246--A  3
+ A. 2246--B  3
  
   (A)  THE  COST OF EACH SUCH SOURCE OF RENEWABLE ENERGY COMPARED TO THE
  COST OF NON-RENEWABLE ENERGY SOURCES;
@@ -144,7 +147,7 @@ S T A T E  O F  N E W  Y O R K
  PROFIT FLYING CLUBS THAT HAVE BEEN IN BUSINESS FOR AT LEAST FIVE CONSEC-
  UTIVE YEARS.
   §  7.  The  public  authorities law is amended by adding a new section
- 1888 to read as follows:
+ 1887 to read as follows:
   § 1887. STUDY ON SUSTAINABLE AVIATION FUEL.  1.  THE  AUTHORITY  SHALL
  CONDUCT  A  STUDY  TO  DETERMINE  HOW TO MAKE SUSTAINABLE AVIATION FUEL,
  CERTIFIED PER APPLICABLE STANDARDS SUCH AS THE ROUNDTABLE ON SUSTAINABLE
