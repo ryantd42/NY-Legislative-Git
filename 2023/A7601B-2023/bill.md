@@ -1,6 +1,6 @@
 # Relates to providing county correction officers with a special optional twenty year retirement plan
 
-**Bill ID:** A7601BA
+**Bill ID:** A7601BB
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to providing county correction officers with a special optional twenty y
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7601--A
+  7601--B
  
   2023-2024 Regular Sessions
  
@@ -25,17 +25,20 @@ S T A T E  O F  N E W  Y O R K
   May 25, 2023
   ___________
  
- Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees -- recommitted to the Committee on
-  Governmental Employees in accordance with Assembly Rule 3, sec.  2  --
-  committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
-
- AN ACT to amend the retirement and social security law, in  relation  to
-  providing  county  correction  officers with a special optional twenty
+ Introduced  by  M.  of  A.  PHEFFER AMATO, SANTABARBARA -- read once and
+  referred to the Committee on Governmental Employees -- recommitted  to
+  the  Committee  on  Governmental Employees in accordance with Assembly
+  Rule  3,  sec.  2  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee -- reported and
+  referred  to  the Committee on Ways and Means -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
+  committee
+ 
+ AN  ACT  to amend the retirement and social security law, in relation to
+  providing county correction officers with a  special  optional  twenty
   year retirement plan
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. The retirement and social security law is amended by adding
@@ -44,42 +47,43 @@ S T A T E  O F  N E W  Y O R K
   OPTIONAL RETIREMENT PLAN FOR COUNTY CORRECTION OFFICERS OR DEPUTY
   SHERIFFS PERFORMING AS CORRECTION OFFICERS
  SECTION 561. DEFINITIONS.
-  562. OPTIONAL  TWENTY  YEAR  RETIREMENT PLAN FOR CERTAIN MEMBERS
+  562. OPTIONAL TWENTY YEAR RETIREMENT PLAN  FOR  CERTAIN  MEMBERS
   WHOSE EMPLOYER ELECTS TO PROVIDE SAME.
-  563. ADDITIONAL PENSION BENEFIT FOR MEMBERS OF  OPTIONAL  TWENTY
+  563. ADDITIONAL  PENSION  BENEFIT FOR MEMBERS OF OPTIONAL TWENTY
   YEAR RETIREMENT PLAN.
   564. CONSISTENT PROVISIONS.
   § 561. DEFINITIONS. FOR PURPOSES OF THIS ARTICLE:
-  (A)  "MEMBER"  SHALL  MEAN  A  PERSON  WHO  IS  EMPLOYED  AS  A COUNTY
- CORRECTION OFFICER OR A  DEPUTY  SHERIFF  WHO  IS  ENGAGED  DIRECTLY  IN
- CORRECTION  OFFICER  DUTIES  THAT  AGGREGATE  FIFTY  PER CENTUM OF THEIR
- SERVICE BY A COUNTY WHICH  ELECTS  BY  RESOLUTION  OR  LOCAL  LAW,  DULY
+  (A) "MEMBER"  SHALL  MEAN  A  PERSON  WHO  IS  EMPLOYED  AS  A  COUNTY
+ CORRECTION  OFFICER  OR  A  DEPUTY  SHERIFF  WHO  IS ENGAGED DIRECTLY IN
+ CORRECTION OFFICER DUTIES THAT  AGGREGATE  FIFTY  PER  CENTUM  OF  THEIR
+ SERVICE  BY  A  COUNTY  WHICH  ELECTS  BY  RESOLUTION OR LOCAL LAW, DULY
  ADOPTED, TO PROVIDE THE BENEFITS AS AUTHORIZED BY THIS ARTICLE.
-  (B)  "RETIREMENT  SYSTEM"  SHALL  MEAN  THE  NEW  YORK STATE AND LOCAL
- EMPLOYEES' RETIREMENT SYSTEM.
-  (C) "CREDITABLE SERVICE" SHALL INCLUDE ANY AND ALL SERVICES  PERFORMED
- AS  A  SHERIFF,  UNDERSHERIFF  OR DEPUTY SHERIFF, OR CORRECTION OFFICER.
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05836-03-4
- A. 7601--A  2
+  LBD05836-05-4
+ A. 7601--B  2
  
- CREDIT FOR SERVICE AS A MEMBER OR OFFICER OF THE STATE POLICE  OR  AS  A
- PAID  FIREMAN,  POLICEMAN OR OFFICER OF ANY ORGANIZED FIRE DEPARTMENT OR
- POLICE FORCE OR DEPARTMENT OF ANY  COUNTY,  CITY,  VILLAGE,  TOWN,  FIRE
- DISTRICT  OR  POLICE  DISTRICT,  SHALL  ALSO  BE DEEMED TO BE CREDITABLE
- SERVICE AND SHALL BE INCLUDED IN COMPUTING YEARS OF  TOTAL  SERVICE  FOR
+  (B) "RETIREMENT SYSTEM" SHALL  MEAN  THE  NEW  YORK  STATE  AND  LOCAL
+ EMPLOYEES' RETIREMENT SYSTEM.
+  (C)  "CREDITABLE SERVICE" SHALL INCLUDE ANY AND ALL SERVICES PERFORMED
+ AS A SHERIFF, UNDERSHERIFF OR DEPUTY  SHERIFF,  OR  CORRECTION  OFFICER.
+ CREDIT  FOR  SERVICE  AS A MEMBER OR OFFICER OF THE STATE POLICE OR AS A
+ PAID FIREMAN, POLICEMAN OR OFFICER OF ANY ORGANIZED FIRE  DEPARTMENT  OR
+ POLICE  FORCE  OR  DEPARTMENT  OF  ANY COUNTY, CITY, VILLAGE, TOWN, FIRE
+ DISTRICT OR POLICE DISTRICT, SHALL  ALSO  BE  DEEMED  TO  BE  CREDITABLE
+ SERVICE  AND  SHALL  BE INCLUDED IN COMPUTING YEARS OF TOTAL SERVICE FOR
  RETIREMENT PURSUANT TO THIS SECTION, PROVIDED SUCH SERVICE WAS PERFORMED
- BY  THE  MEMBER  WHILE CONTRIBUTING TO THE RETIREMENT SYSTEM PURSUANT TO
+ BY THE MEMBER WHILE CONTRIBUTING TO THE RETIREMENT  SYSTEM  PURSUANT  TO
  THE PROVISIONS OF THIS ARTICLE OR ARTICLE EIGHT OF THIS CHAPTER.
-  § 562. OPTIONAL TWENTY YEAR RETIREMENT PLAN FOR CERTAIN MEMBERS  WHOSE
+  §  562. OPTIONAL TWENTY YEAR RETIREMENT PLAN FOR CERTAIN MEMBERS WHOSE
  EMPLOYER ELECTS TO PROVIDE SAME. (A) ANY MEMBER OF THE RETIREMENT SYSTEM
- MAY  ELECT TO BECOME A MEMBER PURSUANT TO THE PROVISIONS OF THIS SECTION
- WITHIN ONE YEAR AFTER HE OR SHE BECOMES A MEMBER, IF HIS OR HER EMPLOYER
- HAS ELECTED TO MAKE THE BENEFITS PROVIDED BY THIS SECTION  AVAILABLE  TO
- MEMBERS, OR WITHIN ONE YEAR AFTER HIS OR HER EMPLOYER ELECTS TO MAKE THE
- BENEFITS PROVIDED BY THIS SECTION AVAILABLE TO ITS MEMBERS.
+ MAY ELECT TO BECOME A MEMBER PURSUANT TO THE PROVISIONS OF THIS  SECTION
+ WITHIN  ONE  YEAR  AFTER  SUCH PERSON BECOMES A MEMBER, IF SUCH MEMBER'S
+ EMPLOYER HAS ELECTED TO MAKE  THE  BENEFITS  PROVIDED  BY  THIS  SECTION
+ AVAILABLE  TO  MEMBERS,  OR WITHIN ONE YEAR AFTER SUCH MEMBER'S EMPLOYER
+ ELECTS TO MAKE THE BENEFITS PROVIDED BY THIS SECTION  AVAILABLE  TO  ITS
+ MEMBERS.
   (B)  ELECTIONS  MADE  PURSUANT TO THIS SECTION SHALL BE IN WRITING AND
  SHALL BE DULY ACKNOWLEDGED AND FILED WITH THE  COMPTROLLER.  ANY  MEMBER
  WHO  FILES  SUCH  AN  ELECTION  PURSUANT TO THIS SECTION MAY WITHDRAW IT
@@ -91,20 +95,20 @@ S T A T E  O F  N E W  Y O R K
  TWO, BY FILING AN APPLICATION THEREFOR  IN  A  MANNER  SIMILAR  TO  THAT
  PROVIDED IN THIS CHAPTER.
   (I)  UPON  COMPLETION OF TWENTY YEARS OF SUCH SERVICE AND UPON RETIRE-
- MENT, EACH SUCH MEMBER SHALL RECEIVE A PENSION SUFFICIENT TO PROVIDE HIM
- OR HER WITH A RETIREMENT ALLOWANCE EQUAL TO ONE-FORTIETH OF HIS  OR  HER
- FINAL  AVERAGE  SALARY  FOR  EACH  YEAR OF TOTAL CREDITABLE SERVICES FOR
- WHICH HE OR SHE IS OTHERWISE ENTITLED BUT NOT EXCEEDING IN THE AGGREGATE
- ONE-HALF OF HIS OR HER FINAL AVERAGE SALARY.
-  (II) UPON ATTAINMENT OF AGE  SIXTY-TWO  AND  UPON  RETIREMENT  WITHOUT
- COMPLETION  OF  TWENTY  YEARS  OF  SUCH  SERVICE, EACH SUCH MEMBER SHALL
- RECEIVE A PENSION SUFFICIENT TO PROVIDE HIM OR  HER  WITH  A  RETIREMENT
- ALLOWANCE  EQUAL  TO ONE-FORTIETH OF HIS OR HER FINAL AVERAGE SALARY FOR
- EACH YEAR OF CREDITABLE SERVICE. EVERY SUCH MEMBER SHALL ALSO  BE  ENTI-
- TLED TO AN ADDITIONAL PENSION EQUAL TO THE PENSION FOR ANY OTHER CREDIT-
- ABLE  SERVICE  RENDERED AS OTHERWISE PROVIDED FOR IN THIS CHAPTER.  THIS
- LATTER PENSION SHALL NOT INCREASE THE TOTAL ALLOWANCE TO MORE THAN  ONE-
- HALF OF HIS OR HER FINAL AVERAGE SALARY.
+ MENT, EACH SUCH MEMBER SHALL RECEIVE A  PENSION  SUFFICIENT  TO  PROVIDE
+ SUCH  MEMBER  WITH  A RETIREMENT ALLOWANCE EQUAL TO ONE-FORTIETH OF SUCH
+ MEMBER'S FINAL AVERAGE SALARY FOR EACH YEAR OF TOTAL CREDITABLE SERVICES
+ FOR WHICH SUCH MEMBER IS OTHERWISE ENTITLED BUT  NOT  EXCEEDING  IN  THE
+ AGGREGATE ONE-HALF OF SUCH MEMBER'S FINAL AVERAGE SALARY.
+  (II)  UPON  ATTAINMENT  OF  AGE  SIXTY-TWO AND UPON RETIREMENT WITHOUT
+ COMPLETION OF TWENTY YEARS OF  SUCH  SERVICE,  EACH  SUCH  MEMBER  SHALL
+ RECEIVE  A  PENSION  SUFFICIENT TO PROVIDE SUCH MEMBER WITH A RETIREMENT
+ ALLOWANCE EQUAL TO ONE-FORTIETH OF SUCH MEMBER'S  FINAL  AVERAGE  SALARY
+ FOR  EACH  YEAR  OF  CREDITABLE SERVICE. EVERY SUCH MEMBER SHALL ALSO BE
+ ENTITLED TO AN ADDITIONAL PENSION EQUAL TO THE  PENSION  FOR  ANY  OTHER
+ CREDITABLE  SERVICE  RENDERED AS OTHERWISE PROVIDED FOR IN THIS CHAPTER.
+ THIS LATTER PENSION SHALL NOT INCREASE THE TOTAL ALLOWANCE TO MORE  THAN
+ ONE-HALF OF SUCH MEMBER'S FINAL AVERAGE SALARY.
   (D)  THE  INCREASED  PENSIONS  TO  SUCH  MEMBERS,  AS PROVIDED BY THIS
  SECTION, SHALL BE PAID FROM ADDITIONAL CONTRIBUTIONS MADE BY THE PARTIC-
  IPATING EMPLOYER ON ACCOUNT OF SUCH MEMBERS. THE ACTUARY OF THE  RETIRE-
@@ -114,38 +118,39 @@ S T A T E  O F  N E W  Y O R K
  CONTRIBUTIONS  DURING  THE PROSPECTIVE SERVICE OF SUCH MEMBER WHICH WILL
  COVER THE LIABILITY OF THE RETIREMENT SYSTEM FOR  SUCH  EXTRA  PENSIONS.
  UPON APPROVAL OF THE COMPTROLLER, SUCH ADDITIONAL CONTRIBUTIONS SHALL BE
- CERTIFIED BY HIM OR HER TO THE CHIEF FISCAL OFFICER OR THE PARTICIPATING
- EMPLOYER.  THE  AMOUNT THEREOF SHALL BE INCLUDED IN THE ANNUAL APPROPRI-
- ATION OF THE PARTICIPATING EMPLOYER. SUCH AMOUNT SHALL BE  PAID  ON  THE
+ CERTIFIED  BY SUCH MEMBER TO THE CHIEF FISCAL OFFICER OR THE PARTICIPAT-
+ ING EMPLOYER. THE AMOUNT THEREOF SHALL BE INCLUDED IN THE ANNUAL  APPRO-
+ A. 7601--B  3
+ 
+ PRIATION OF THE PARTICIPATING EMPLOYER. SUCH AMOUNT SHALL BE PAID ON THE
  WARRANT OF THE CHIEF FISCAL OFFICER OF THE PARTICIPATING EMPLOYER TO THE
  PENSION ACCUMULATION FUND OF THE RETIREMENT SYSTEM.
   (E)  IN  COMPUTING  THE TWENTY YEARS OF COMPLETED SERVICE OF A MEMBER,
  FULL CREDIT SHALL BE GIVEN FOR MILITARY SERVICE AS DEFINED  IN  SUBDIVI-
- A. 7601--A  3
- 
  SIONS  TWENTY-NINE-A  AND  THIRTY  OF  SECTION THREE HUNDRED TWO OF THIS
  CHAPTER.
-  (F)  EVERY  MEMBER PARTICIPATING ON THE BASIS OF THIS SECTION SHALL BE
- SEPARATED FROM THE SERVICE ON THE LAST DAY OF THE  CALENDAR  MONTH  NEXT
- SUCCEEDING  THE CALENDAR MONTH IN WHICH HE OR SHE ATTAINS AGE SIXTY-TWO,
- PROVIDED, HOWEVER, THAT SUCH A MEMBER WHO ATTAINED THE AGE OF  SIXTY-TWO
- BEFORE HIS OR HER EMPLOYER ELECTED TO MAKE THE BENEFITS PROVIDED BY THIS
- SECTION  AVAILABLE  TO  HIM  OR HER, OR WHO ATTAINS THE AGE OF SIXTY-TWO
- WITHIN ONE MONTH AFTER HIS OR HER EMPLOYER MAKES  SUCH  BENEFITS  AVAIL-
- ABLE,  TO  BE  ELIGIBLE  FOR  A  PENSION COMPUTED IN ACCORDANCE WITH THE
- PROVISIONS OF THIS SECTION, SHALL BE SEPARATED FROM THE  SERVICE  WITHIN
- THREE MONTHS AFTER HIS OR HER EMPLOYER MAKES SUCH BENEFITS AVAILABLE.
-  (G)  THE PROVISIONS OF THIS SECTION SHALL BE CONTROLLING NOTWITHSTAND-
+  (F) EVERY MEMBER PARTICIPATING ON THE BASIS OF THIS SECTION  SHALL  BE
+ SEPARATED  FROM  THE  SERVICE ON THE LAST DAY OF THE CALENDAR MONTH NEXT
+ SUCCEEDING THE CALENDAR MONTH IN WHICH SUCH MEMBER  ATTAINS  AGE  SIXTY-
+ TWO,  PROVIDED,  HOWEVER,  THAT  SUCH  A  MEMBER WHO ATTAINED THE AGE OF
+ SIXTY-TWO BEFORE SUCH MEMBER'S EMPLOYER ELECTED  TO  MAKE  THE  BENEFITS
+ PROVIDED  BY  THIS  SECTION AVAILABLE TO SUCH MEMBER, OR WHO ATTAINS THE
+ AGE OF SIXTY-TWO WITHIN ONE MONTH AFTER  SUCH  MEMBER'S  EMPLOYER  MAKES
+ SUCH  BENEFITS  AVAILABLE,  TO  BE  ELIGIBLE  FOR  A PENSION COMPUTED IN
+ ACCORDANCE WITH THE PROVISIONS OF THIS SECTION, SHALL BE SEPARATED  FROM
+ THE  SERVICE WITHIN THREE MONTHS AFTER SUCH MEMBER'S EMPLOYER MAKES SUCH
+ BENEFITS AVAILABLE.
+  (G) THE PROVISIONS OF THIS SECTION SHALL BE CONTROLLING  NOTWITHSTAND-
  ING ANY OTHER PROVISION OF THIS ARTICLE TO THE CONTRARY.
-  (H) THE BENEFITS OF THIS SECTION SHALL  BE  AVAILABLE  ONLY  TO  THOSE
- MEMBERS  WHOSE  EMPLOYER  ELECTS  TO PROVIDE SUCH BENEFITS BY ADOPTING A
+  (H)  THE  BENEFITS  OF  THIS  SECTION SHALL BE AVAILABLE ONLY TO THOSE
+ MEMBERS WHOSE EMPLOYER ELECTS TO PROVIDE SUCH  BENEFITS  BY  ADOPTING  A
  RESOLUTION OR LOCAL LAW TO SUCH EFFECT AND FILING A CERTIFIED COPY THER-
  EOF WITH THE COMPTROLLER.
-  (I) THE BENEFITS PROVIDED BY  THIS  SECTION  SHALL  BE  PAYABLE  TO  A
- MEMBER,  UNLESS AT THE DATE OF RETIREMENT SUCH MEMBER WOULD OTHERWISE BE
+  (I)  THE  BENEFITS  PROVIDED  BY  THIS  SECTION  SHALL BE PAYABLE TO A
+ MEMBER, UNLESS AT THE DATE OF RETIREMENT SUCH MEMBER WOULD OTHERWISE  BE
  ENTITLED TO A GREATER BENEFIT UNDER OTHER PROVISIONS OF THIS CHAPTER HAD
- HE OR SHE WITHDRAWN FROM THIS SECTION, IN WHICH EVENT SUCH GREATER BENE-
- FITS SHALL BE PAYABLE.
+ SUCH  MEMBER  WITHDRAWN  FROM  THIS SECTION, IN WHICH EVENT SUCH GREATER
+ BENEFITS SHALL BE PAYABLE.
   § 563. ADDITIONAL PENSION BENEFIT FOR MEMBERS OF OPTIONAL TWENTY  YEAR
  RETIREMENT  PLAN.  (A)  A  PARTICIPATING  EMPLOYER WHICH HAS ELECTED, OR
  WHICH ELECTS TO PROVIDE THE BENEFITS OF THE OPTIONAL TWENTY YEAR RETIRE-
@@ -160,8 +165,8 @@ S T A T E  O F  N E W  Y O R K
  TROLLER FOR THAT PURPOSE.
   (B) UPON RETIREMENT, EACH SUCH MEMBER SHALL RECEIVE, FOR EACH YEAR  OF
  SERVICE  IN EXCESS OF TWENTY, AN ADDITIONAL PENSION WHICH SHALL BE EQUAL
- TO ONE-SIXTIETH OF HIS OR HER FINAL AVERAGE SALARY;  PROVIDED,  HOWEVER,
- THAT  THE  TOTAL  ALLOWANCE  PAYABLE  PURSUANT TO THIS SECTION SHALL NOT
+ TO ONE-SIXTIETH OF SUCH MEMBER'S FINAL AVERAGE SALARY; PROVIDED,  HOWEV-
+ ER,  THAT THE TOTAL ALLOWANCE PAYABLE PURSUANT TO THIS SECTION SHALL NOT
  EXCEED THREE-QUARTERS OF SUCH MEMBER'S FINAL AVERAGE SALARY.
   § 564. CONSISTENT PROVISIONS. NOTHING CONTAINED IN THIS ARTICLE  SHALL
  BE  CONSTRUED  TO  OTHERWISE AFFECT THE APPLICABILITY OF ARTICLE ELEVEN,
@@ -172,33 +177,33 @@ S T A T E  O F  N E W  Y O R K
  EFFECTIVE DATE OF THIS ARTICLE IS NOT REQUIRED TO CONTRIBUTE  SHALL  NOT
  BE  REQUIRED  TO MAKE ANY CONTRIBUTIONS AS A RESULT OF THIS SECTION. FOR
  THOSE MEMBERS REQUIRED TO CONTRIBUTE  TO  THE  RETIREMENT  SYSTEM,  SUCH
+ A. 7601--B  4
+ 
  CONTRIBUTION  SHALL  BE TREATED IN THE SAME MANNER AS SPECIFIED FOR SUCH
  MEMBERS IN ARTICLE FOURTEEN OR FIFTEEN OF THIS CHAPTER.
   § 2. Any past service payments required of a county as a result of the
- adoption of the benefits permitted by this act may be amortized  over  a
+ adoption  of  the benefits permitted by this act may be amortized over a
  period of up to ten years at the option of such county.
   § 3. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
- A. 7601--A  4
- 
   This bill would add Article 14-C to the Retirement and Social Security
- Law,  creating  county  electable  twenty-year plans covering any county
- correction officers and deputy sheriffs engaged directly  in  correction
+ Law, creating county electable twenty-year  plans  covering  any  county
+ correction  officers  and deputy sheriffs engaged directly in correction
  officer duties that aggregate at least fifty percent of their service. A
- county  may elect to provide a retirement benefit equal to fifty percent
- of final average salary after twenty years  of  service.  A  county  may
- further  elect to provide for additional sixtieths for service in excess
- of twenty years. All service rendered as a correction officer,  sheriff,
+ county may elect to provide a retirement benefit equal to fifty  percent
+ of  final  average  salary  after  twenty years of service. A county may
+ further elect to provide for additional sixtieths for service in  excess
+ of  twenty years. All service rendered as a correction officer, sheriff,
  deputy sheriff or undersheriff, a member or officer of the State Police,
- a  paid  firefighter,  a  police officer, or an officer of any organized
+ a paid firefighter, a police officer, or an  officer  of  any  organized
  fire department or police force will be creditable. The retirement bene-
  fit is not to exceed seventy-five percent of final average salary.
-  If this bill is enacted during the  2024  Legislative  Session,  there
- will  be  an increase in the annual contributions of any electing county
- for the fiscal year ending  March  31,  2025,  as  approximated  in  the
- following  table.  In future years, these costs will vary as the billing
+  If  this  bill  is  enacted during the 2024 Legislative Session, there
+ will be an increase in the annual contributions of any  electing  county
+ for  the  fiscal  year  ending  March  31,  2025, as approximated in the
+ following table. In future years, these costs will vary as  the  billing
  rates of the affected members change.
- 
+
  Current Plan  Article 14-C  Article 14-C
   20-Year Plan  20-Year Plan
   with additional sixtieths
@@ -211,35 +216,35 @@ S T A T E  O F  N E W  Y O R K
  with additional sixtieths
  
   In addition to the annual contributions discussed above, there will be
- an immediate past service  cost  that  will  depend  upon  the  affected
+ an  immediate  past  service  cost  that  will  depend upon the affected
  members' service, salary, tier, current retirement plan, and new retire-
  ment plan.  Once a county elects to provide this coverage, an exact cost
  will be determined based on a roster of eligible members provided by the
- county.  The past service cost may be amortized over a period of up to
+ county.  The past service cost may be amortized over a period of  up  to
  ten years.
-  Further, we anticipate additional administrative  costs  to  implement
+  Further,  we  anticipate  additional administrative costs to implement
  the provisions of this legislation.
   Summary of relevant resources:
-  Membership  data as of March 31, 2023 was used in measuring the impact
+  Membership data as of March 31, 2023 was used in measuring the  impact
  of the proposed change, the same data used in the April 1, 2023 actuari-
- al valuation. Distributions and other statistics can  be  found  in  the
- 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
+ al  valuation.  Distributions  and  other statistics can be found in the
+ 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
  Report.
-  The actuarial assumptions and methods used are described in  the  2023
- Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
- Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+  The  actuarial  assumptions and methods used are described in the 2023
+ Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
+ Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
  Control.
+ A. 7601--B  5
+
   The Market Assets and GASB Disclosures are found in the March 31, 2023
- New  York  State  and  Local  Retirement System Financial Statements and
+ New York State and Local  Retirement  System  Financial  Statements  and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This fiscal note does not constitute a legal opinion on the  viability
- of  the  proposed change nor is it intended to serve as a substitute for
+  This  fiscal note does not constitute a legal opinion on the viability
+ of the proposed change nor is it intended to serve as a  substitute  for
  the professional judgment of an attorney.
- A. 7601--A  5
- 
-  This estimate, dated February 16, 2024,  and  intended  for  use  only
- during  the  2024  Legislative  Session,  is  Fiscal  Note  No. 2024-50,
- prepared by the Actuary for the New  York  State  and  Local  Retirement
+  This  estimate,  dated  February  16,  2024, and intended for use only
+ during the  2024  Legislative  Session,  is  Fiscal  Note  No.  2024-50,
+ prepared  by  the  Actuary  for  the New York State and Local Retirement
  System.
