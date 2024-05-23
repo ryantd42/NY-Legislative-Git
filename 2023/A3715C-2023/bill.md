@@ -1,6 +1,6 @@
 # Relates to the applicability of open meetings and freedom of information laws to certain not-for-profit corporations
 
-**Bill ID:** A3715CB
+**Bill ID:** A3715CC
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Relates to the applicability of open meetings and freedom of information laws to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3715--B
+  3715--C
   Cal. No. 95
  
   2023-2024 Regular Sessions
@@ -32,7 +32,8 @@ S T A T E  O F  N E W  Y O R K
   Means -- committee discharged,  bill  amended,  ordered  reprinted  as
   amended  and recommitted to said committee -- ordered to a third read-
   ing, amended and ordered reprinted, retaining its place on  the  order
-  of third reading
+  of third reading -- again amended on third reading, ordered reprinted,
+  retaining its place on the order of third reading
  
  AN  ACT  to  amend  the  not-for-profit  corporation  law and the public
   authorities law, in relation to the applicability of open meetings and
@@ -59,13 +60,13 @@ S T A T E  O F  N E W  Y O R K
  statement that no such consent or approval is required.  Such  statement
  shall  be  deemed conclusive for purposes of filing by the department of
  state. If subsequent to submitting the certificate of incorporation  for
- filing,  the  corporation  plans  to  engage  in  any activity requiring
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04263-04-4
- A. 3715--B  2
+  LBD04263-06-4
+ A. 3715--C  2
  
+ filing,  the  corporation  plans  to  engage  in  any activity requiring
  consent or approval pursuant to  section  404  [(approvals]  (APPROVALS,
  notices  and  consents) of this [chapter] ARTICLE, the corporation shall
  obtain such consent or approval and accordingly amend its certificate of
@@ -121,9 +122,9 @@ S T A T E  O F  N E W  Y O R K
  encourage the organization of local development corporations, may  cause
  such corporations to be incorporated by public officers or private indi-
  viduals  or reincorporated upon compliance with the requirements of this
- section, and it is hereby found, determined and declared that in  carry-
- A. 3715--B  3
+ A. 3715--C  3
  
+ section, and it is hereby found, determined and declared that in  carry-
  ing  out  said  purposes and in exercising the powers conferred by para-
  graph (b) such corporations will be performing an essential governmental
  function. A NOT-FOR-PROFIT CORPORATION MAY NOT INCORPORATE OR REINCORPO-
@@ -179,9 +180,9 @@ S T A T E  O F  N E W  Y O R K
  otherwise  conferred  by  law,  the powers conferred by paragraph (c) OF
  THIS SECTION and shall be subject to all the restrictions [and], limita-
  tions AND OBLIGATIONS imposed by [paragraph] PARAGRAPHS (e)  [and  para-
+ A. 3715--C  4
+
  graph],  (g)  AND  (I) OF THIS SECTION.  In so far as the provisions of
- A. 3715--B  4
- 
  this section are inconsistent with the  provisions  of  any  other  law,
  general  or special, the provisions of this section shall be controlling
  as to corporations incorporated or reincorporated hereunder.
@@ -203,18 +204,20 @@ S T A T E  O F  N E W  Y O R K
  the  state,  are  not  appointed by the governor or are appointed by the
  governor specifically upon the recommendation of the local government or
  governments; (b) a not-for-profit corporation, OTHER THAN A FIRE  CORPO-
- RATION,  STATEWIDE  ASSOCIATION OF LOCAL GOVERNMENTS OR LOCAL OFFICIALS,
- OR BUSINESS IMPROVEMENT DISTRICT,  affiliated  with,  sponsored  by,  or
- created  by  a  county,  city,  town  or village government; (c) a local
+ RATION, A PUBLIC GROUP SELF-INSURER REGULATED UNDER THE WORKERS' COMPEN-
+ SATION  LAW,  STATEWIDE  ASSOCIATION OF LOCAL GOVERNMENTS OR LOCAL OFFI-
+ CIALS, OR BUSINESS IMPROVEMENT DISTRICT, affiliated with, sponsored  by,
+ or  created  by  a county, city, town or village government; (c) a local
  industrial developmental agency or authority or other local public bene-
  fit corporation; (d) an affiliate of such local authority;  [or]  (e)  a
  land  bank  corporation  created pursuant to article sixteen of the not-
  for-profit corporation law; OR (F) A NOT-FOR-PROFIT  CORPORATION,  OTHER
- THAN A FIRE CORPORATION OR STATEWIDE ASSOCIATION OF LOCAL GOVERNMENTS OR
- LOCAL  OFFICIALS,  OR BUSINESS IMPROVEMENT DISTRICT, THAT (I) HAS ISSUED
- OR HAS THE AUTHORITY TO ISSUE TAX EXEMPT DEBT OR (II) PROVIDES STATE  OR
- MUNICIPAL  TAX  EXEMPTIONS THROUGH ITS PARTICIPATION IN A PROJECT UNDER-
- TAKEN IN FURTHERANCE OF ITS PURPOSES.
+ THAN A FIRE CORPORATION, A PUBLIC GROUP SELF-INSURER REGULATED UNDER THE
+ WORKERS'  COMPENSATION LAW OR STATEWIDE ASSOCIATION OF LOCAL GOVERNMENTS
+ OR LOCAL OFFICIALS, OR  BUSINESS  IMPROVEMENT  DISTRICT,  THAT  (I)  HAS
+ ISSUED  OR  HAS  THE AUTHORITY TO ISSUE TAX EXEMPT DEBT OR (II) PROVIDES
+ STATE OR MUNICIPAL TAX EXEMPTIONS THROUGH ITS PARTICIPATION IN A PROJECT
+ UNDERTAKEN IN FURTHERANCE OF ITS PURPOSES.
   FOR THE PURPOSES OF PARAGRAPH (B) OF THE  OPENING  PARAGRAPH  OF  THIS
  SUBDIVISION,  "AFFILIATED  WITH,  SPONSORED  BY, OR CREATED BY A COUNTY,
  CITY, TOWN OR VILLAGE GOVERNMENT" SHALL ALSO INCLUDE, BUT NOT BE LIMITED
@@ -235,27 +238,23 @@ S T A T E  O F  N E W  Y O R K
   § 2829. State and local authorities subject to the open  meetings  and
  freedom  of  information  laws. All state and local authorities, as such
  terms are defined in section two of this chapter, as well as all subsid-
+ A. 3715--C  5
+ 
  iaries AND AFFILIATES of such state and local authorities, as such terms
  are defined in section two of this chapter,  shall  be  subject  to  the
  provisions of articles six and seven of the public officers law relating
- A. 3715--B  5
- 
  to  the  freedom of information and open meetings laws respectively. All
  state and local authorities, as well as all subsidiaries AND  AFFILIATES
  of  such  state and local authorities, shall, to the extent practicable,
- stream  all  open meetings and public hearings on their website in real-
- time, post video recordings of all open meetings and public hearings  on
- their  website  within  five business days of the meeting or hearing and
+ stream all open meetings and public hearings on their website  in  real-
+ time,  post video recordings of all open meetings and public hearings on
+ their website within five business days of the meeting  or  hearing  and
  maintain such recordings for a period of not less than five years.
-  § 11. This act shall take effect on the thirtieth day after  it  shall
- have  become  a  law; provided, however, that the provisions of subpara-
- graph 2 of paragraph (d) and paragraph (i) of section 1411 of  the  not-
+  §  11.  This act shall take effect on the thirtieth day after it shall
+ have become a law; provided, however, that the  provisions  of  subpara-
+ graph  2  of paragraph (d) and paragraph (i) of section 1411 of the not-
  for-profit corporation law, as amended by sections six and eight of this
- act  shall  not apply retroactively to contracts or agreements between a
- local development corporation and  a  municipal  corporation,  state  or
+ act shall not apply retroactively to contracts or agreements  between  a
+ local  development  corporation  and  a  municipal corporation, state or
  local authority, or district entered into prior to the effective date of
- this  act;  and  provided,  further, that if section one of subpart B of
- part SS of chapter 58 of the laws of 2024 shall not have taken effect on
- or before such date then section ten of this act shall  take  effect  on
- the same date and in the same manner as such chapter of the laws of 2024
- takes effect.
+ this act.
