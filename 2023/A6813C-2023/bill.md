@@ -1,6 +1,6 @@
 # Relates to the functions of the Medicaid inspector general with respect to audit and review of medical assistance program funds and requiring notice of certain investigations
 
-**Bill ID:** A6813CB
+**Bill ID:** A6813CC
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires the Medicaid inspector general to comply with standards relating to the
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6813--B
+  6813--C
  
   2023-2024 Regular Sessions
  
@@ -29,7 +29,8 @@ S T A T E  O F  N E W  Y O R K
   JACOBSON,  GUNTHER,  SANTABARBARA,  KELLES,  McMAHON,  GONZALEZ-ROJAS,
   BURDICK,  ZEBROWSKI,  JENSEN,  BEEPHAN, LUCAS, LUPARDO, STECK, ARDILA,
   SHIMSKY, WEPRIN, HEVESI, SEPTIMO, THIELE, LEVENBERG,  SIMONE,  BLUMEN-
-  CRANZ, SEAWRIGHT, RAMOS, LAVINE, SAYEGH, GIBBS, TAPIA -- read once and
+  CRANZ,  SEAWRIGHT,  RAMOS,  LAVINE,  SAYEGH,  GIBBS,  TAPIA, BRABENEC,
+  DINOWITZ, SILLITTI, RAGA, MEEKS, DAVILA,  BENDETT  --  read  once  and
   referred  to  the  Committee on Health -- reported and referred to the
   Committee on Ways and Means -- recommitted to the  Committee  on  Ways
   and  Means  in  accordance  with  Assembly Rule 3, sec. 2 -- committee
@@ -37,32 +38,35 @@ S T A T E  O F  N E W  Y O R K
   to said committee -- recommitted to the Committee on Ways and Means in
   accordance with Assembly Rule 3, sec. 2 -- committee discharged,  bill
   amended,  ordered reprinted as amended and recommitted to said commit-
-  tee
+  tee -- recommitted to the Committee on Ways and  Means  in  accordance
+  with  Assembly  Rule  3,  sec. 2 -- again reported from said committee
+  with amendments, ordered reprinted as amended and recommitted to  said
+  committee
  
- AN ACT to amend the public health law and the social  services  law,  in
-  relation  to  the  functions  of  the  Medicaid inspector general with
-  respect to audit and review of medical assistance  program  funds  and
+ AN  ACT  to  amend the public health law and the social services law, in
+  relation to the functions  of  the  Medicaid  inspector  general  with
+  respect  to  audit  and review of medical assistance program funds and
   requiring notice of certain investigations
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 30-a of the public health law, as added by  chapter
+  Section  1. Section 30-a of the public health law, as added by chapter
  442 of the laws of 2006, is amended to read as follows:
-  §  30-a.  Definitions.  For  the purposes of this title, the following
+  § 30-a. Definitions. For the purposes of  this  title,  the  following
  definitions shall apply:
-  1. "ABUSE" MEANS PROVIDER PRACTICES THAT ARE INCONSISTENT  WITH  SOUND
+  1.  "ABUSE"  MEANS PROVIDER PRACTICES THAT ARE INCONSISTENT WITH SOUND
  FISCAL, BUSINESS OR MEDICAL PRACTICES, AND RESULT IN AN UNNECESSARY COST
- TO  THE  MEDICAID PROGRAM, OR IN REIMBURSEMENT FOR SERVICES THAT ARE NOT
+ TO THE MEDICAID PROGRAM, OR IN REIMBURSEMENT FOR SERVICES THAT  ARE  NOT
  MEDICALLY NECESSARY OR THAT FAIL TO MEET PROFESSIONALLY RECOGNIZED STAN-
- DARDS FOR HEALTH CARE.  IT  ALSO  INCLUDES  BENEFICIARY  PRACTICES  THAT
- RESULT IN UNNECESSARY COST TO THE MEDICAID PROGRAM.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10461-04-4
- A. 6813--B  2
+  LBD10461-07-4
+ A. 6813--C  2
  
+ DARDS  FOR  HEALTH  CARE.  IT  ALSO  INCLUDES BENEFICIARY PRACTICES THAT
+ RESULT IN UNNECESSARY COST TO THE MEDICAID PROGRAM.
   2.  "CREDITABLE ALLEGATION OF FRAUD" (A) MEANS AN ALLEGATION WHICH HAS
  BEEN VERIFIED BY THE INSPECTOR,  FROM  ANY  SOURCE,  INCLUDING  BUT  NOT
  LIMITED TO THE FOLLOWING:
@@ -89,11 +93,9 @@ S T A T E  O F  N E W  Y O R K
  ANY MEDICAID MANAGED CARE PROGRAM.
   [3.] 7. "Office" means the office of the  Medicaid  inspector  general
  created by this title.
-  8.  "OVERPAYMENT" SHALL MEAN ANY AMOUNT PAID TO A PROVIDER FOR MEDICAL
- ASSISTANCE IN EXCESS OF THE  AMOUNT  ALLOWABLE  FOR  SERVICES  FURNISHED
- UNDER  SECTION  NINETEEN  HUNDRED TWO OF THE FEDERAL SOCIAL SECURITY ACT
- AND WHICH IS REQUIRED TO BE  REFUNDED  UNDER  SECTION  NINETEEN  HUNDRED
- THREE OF SUCH ACT.
+  8.  "OVERPAYMENT" MEANS ANY FUNDS THAT A PROVIDER RECEIVES OR RETAINS,
+ TO WHICH THE PROVIDER IS NOT, AFTER APPLICABLE RECONCILIATION,  ENTITLED
+ UNDER THE MEDICAL ASSISTANCE PROGRAM.
   9. "PROVIDER" MEANS ANY PERSON OR ENTITY ENROLLED AS A PROVIDER IN THE
  MEDICAL ASSISTANCE PROGRAM.
   §  2.  Subdivision 20 of section 32 of the public health law, as added
@@ -119,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  WHERE THE PROVIDER REQUESTS A HEARING OR APPEAL  WITHIN  SIXTY  DAYS  OF
  DELIVERY  OF  THE  FINAL  AUDIT REPORT OR FINAL NOTICE OF AGENCY ACTION,
  UNTIL A FINAL DETERMINATION OF SUCH HEARING OR APPEAL IS MADE.
- A. 6813--B  3
+ A. 6813--C  3
  
   2. PROVIDER CONTRACTS, COST REPORTS, CLAIMS, BILLS OR MEDICAL  ASSIST-
  ANCE PAYMENTS THAT WERE THE SUBJECT MATTER OF A PREVIOUS AUDIT OR REVIEW
@@ -177,7 +179,7 @@ S T A T E  O F  N E W  Y O R K
  INGS  A  DETAILED  WRITTEN  EXPLANATION  OF  THE  EXTRAPOLATION  METHOD
  EMPLOYED,  INCLUDING  THE  SIZE OF THE SAMPLE, THE SAMPLING METHODOLOGY,
  THE DEFINED UNIVERSE OF CLAIMS, THE  SPECIFIC  CLAIMS  INCLUDED  IN  THE
- A. 6813--B  4
+ A. 6813--C  4
  
  SAMPLE,  THE RESULTS OF THE SAMPLE, THE ASSUMPTIONS MADE ABOUT THE ACCU-
  RACY AND RELIABILITY OF THE SAMPLE AND THE LEVEL OF  CONFIDENCE  IN  THE
@@ -235,7 +237,7 @@ S T A T E  O F  N E W  Y O R K
  program  [within ninety days after the effective date of the regulations
  issued pursuant to subdivision four of this section],  THE  COMMISSIONER
  OR  MEDICAID  INSPECTOR  GENERAL SHALL SO NOTIFY THE PROVIDER, INCLUDING
- A. 6813--B  5
+ A. 6813--C  5
  
  SPECIFICATION OF THE BASIS OF  THE  FINDING  SUFFICIENT  TO  ENABLE  THE
  PROVIDER  TO ADOPT A SATISFACTORY COMPLIANCE PROGRAM. THE PROVIDER SHALL
@@ -265,5 +267,4 @@ S T A T E  O F  N E W  Y O R K
  MEDICAL  ASSISTANCE  PROGRAM  AND ITS RECIPIENTS, AND FISCAL SOLVENCY OF
  THE PROVIDERS WHO WERE SUBJECT TO THE CIVIL OR  ADMINISTRATIVE  ENFORCE-
  MENT ACTION;
-  §  6.  This  act shall take effect on the thirtieth day after it shall
- have become a law.
+  § 6. This act shall take effect January 1, 2026.
