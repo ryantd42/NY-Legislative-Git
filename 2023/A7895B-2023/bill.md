@@ -1,6 +1,6 @@
 # Establishes the Marshall plan for moms interagency task force
 
-**Bill ID:** A7895BA
+**Bill ID:** A7895BB
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Establishes the Marshall plan for moms interagency task force to examine, issue 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7895--A
+  7895--B
  
   2023-2024 Regular Sessions
  
@@ -30,7 +30,9 @@ S T A T E  O F  N E W  Y O R K
   to  the  Committee  on  Governmental  Operations -- recommitted to the
   Committee on Governmental Operations in accordance with Assembly  Rule
   3,  sec. 2 -- committee discharged, bill amended, ordered reprinted as
-  amended and recommitted to said committee
+  amended and recommitted to said committee -- again reported from  said
+  committee  with amendments, ordered reprinted as amended and recommit-
+  ted to said committee
  
  AN ACT to establish the Marshall plan for moms interagency  task  force;
   and providing for the repeal of such provisions upon expiration there-
@@ -39,7 +41,7 @@ S T A T E  O F  N E W  Y O R K
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Legislative findings. The Legislature finds that any relief
+  Section 1. Legislative findings. The legislature finds that any relief
  and long-term recovery from the economic fallout of the COVID-19 pandem-
  ic must recognize the disproportionate burden  mothers  have  weathered.
  Women,  especially  mothers,  have faced the brunt of the economic chal-
@@ -57,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  White  man,  and  as a result may lose over $1,100,000 in wages over the
  course of a 40-year career. Native American women  are  paid  $0.60  for
  every  dollar a White man makes and are murdered at 10 times the rate of
- the national average, even though financial  independence  and  security
- can increase chances of escaping violence for these women. Women's wages
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07517-02-4
- A. 7895--A  2
+  LBD07517-04-4
+ A. 7895--B  2
  
+ the national average, even though financial  independence  and  security
+ can increase chances of escaping violence for these women. Women's wages
  are  key  to their families' economic security and survival.  Across the
- country, mothers are breadwinners in almost half of families with  chil-
- dren  under 18, even though mothers face a greater pay gap than women as
+ country,  mothers are breadwinners in almost half of families with chil-
+ dren under 18, even though mothers face a greater pay gap than women  as
  a  whole.  Even  prior  to the pandemic, working mothers faced continued
  biases and stigmas in the  workplace  that  caregiving  responsibilities
  will negatively impact their work performance.
@@ -96,64 +98,61 @@ S T A T E  O F  N E W  Y O R K
  being  a  single  parent,  having  children with special needs, and many
  other factors.
   § 2. 1. There is hereby established an interagency task  force  hereby
- known  as  the  Marshall plan for moms intergency task force which shall
+ known  as  the Marshall plan for moms interagency task force which shall
  consist of the following members or their designees: (a) the commission-
- er of the department of labor, who shall serve as chair; (b) the commis-
- sioner of the department of social services; (c) the chair of the  work-
- ers'  compensation  board;  (d)  the  commissioner  of the department of
- health; (e) the director of  the  division  of  human  rights;  (f)  two
- members,  who shall be appointed by the governor, one upon the recommen-
- dation of the New York State American Federation of Labor  and  Congress
- of  Industrial  Organizations and one upon the recommendation of the New
- York State Business Council; (g) one member, who shall be  appointed  by
- the  speaker  of the assembly; (h) one member, who shall be appointed by
- the temporary president of the senate; (i)  one  member,  who  shall  be
- appointed  by  the  minority leader of the assembly; and (j) one member,
- who shall be appointed by the minority leader of the senate.
+ er of the department of labor,  or  such  commissioner's  designee,  who
+ shall  serve  as chair; (b) the commissioner of the department of social
+ services, or such commissioner's designee; (c) the chair of the workers'
+ compensation board, or such chair's designee; (d)  the  commissioner  of
+ the  department  of  health,  or  such  commissioner's designee; (e) the
+ director of the division of human rights, or such  director's  designee;
+ (f)  two members who shall be appointed by the governor; (g) two members
+ who shall be appointed by the speaker of the assembly; (h)  two  members
+ who shall be appointed by the temporary president of the senate; (i) one
+ member  who  shall  be appointed by the minority leader of the assembly;
+ and (j) one member who shall be appointed by the minority leader of  the
+ senate.
   2. The interagency task force shall meet as often as is necessary, but
- no less than once per month and where otherwise appropriate to  fulfill-
- ing  its duties under this chapter.  The members of the commission shall
- serve without compensation but shall be entitled  to  reimbursement  for
- all necessary expenses incurred in the performance of their duties.
+ no  less  than  four  times  per year and where otherwise appropriate to
+ fulfilling its duties under this chapter.  The members of the commission
+ shall serve without compensation but shall be entitled to  reimbursement
+ for all necessary expenses incurred in the performance of their duties.
   §  3.  The Marshall plan for moms interagency task force shall examine
  the following policy areas and issue proposals and recommendations ther-
  eon:
+ A. 7895--B  3
+ 
   1. The utilization of recurring payments or  financial  assistance  to
  mothers  and  other  caregivers  and  any  equivalent policies under all
  current state and federal programs.
- A. 7895--A  3
- 
   2.  The current utilization rates and impacts of the state paid family
- leave program as well as specific impacts of the program on mothers  and
+ leave  program as well as specific impacts of the program on mothers and
  other caregivers.
-  3.  Current  state  policy  impacting  the  childcare industry and the
+  3. Current state policy  impacting  the  childcare  industry  and  the
  access or availability of child care in all areas of the state.
-  4.  The availability and access to unemployment for  New  Yorkers  who
- have  left  a job or worked reduced hours in order to take on caregiving
+  4.  The  availability and access to unemployment for New Yorkers who
+ have left a job or worked reduced hours in order to take  on  caregiving
  responsibilities.
   5. The impact of any new policies imposed by the federal government or
- by state or local officials  during  the  COVID-19  pandemic  that  have
+ by  state  or  local  officials  during  the COVID-19 pandemic that have
  impacted mothers and other caregivers in the workforce.
-  6.  The  availability  and access to mental health support for mothers
+  6. The availability and access to mental health  support  for  mothers
  and other caregivers, and the impact of access or availability to mental
  health support on such families.
-  7. The access and availability of  all  such  programs  for  immigrant
- families,  and  the  impact  of inaccessibility or unavailability of any
+  7.  The  access  and  availability  of all such programs for immigrant
+ families, and the impact of inaccessibility  or  unavailability  of  any
  such programs on immigrant families and the state.
-  8. Any other areas the task force deems  relevant  in  the  review  of
+  8.  Any  other  areas  the  task force deems relevant in the review of
  policies that may impact mothers and other caregivers.
-  §  4.  Within  one year of the effective date of this act, in carrying
- out its functions, the task force shall hold five public hearings around
+  § 4. Within one year of the effective date of this  act,  in  carrying
+ out  its functions, the task force shall hold two public hearings around
  the state to foster discussions among, and conduct formal  public  hear-
  ings  with  requisite public notice to solicit input and recommendations
  from statewide and regional stakeholder interests. The task force  shall
- also  accept public input in writing.  The task force may utilize remote
- access such as web conferencing in order to comply with  the  provisions
- of this section.
+ also accept public input in writing.
   § 5. Within two years of the effective date of this act the task force
  shall  report  its  findings  and  recommendations  to the governor, the
  temporary president of the senate and the speaker of the  assembly,  and
- shall  publicize its findings on a website provided by the department of
- labor.
-  § 6. This act shall take effect immediately and shall  expire  and  be
+ shall publicize its findings on the website of the department of labor.
+  §  6.  This  act shall take effect immediately and shall expire and be
  deemed repealed 3 years after such date.
