@@ -1,6 +1,6 @@
 # Requires the implementation of an electronic benefit transfer system
 
-**Bill ID:** A4096A
+**Bill ID:** A4096AA
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires the implementation of an electronic benefit transfer system using indus
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4096
+  4096--A
  
   2023-2024 Regular Sessions
  
@@ -25,20 +25,24 @@ S T A T E  O F  N E W  Y O R K
   February 9, 2023
   ___________
  
- Introduced  by M. of A. GONZALEZ-ROJAS, ROZIC, ANDERSON -- read once and
-  referred to the Committee on Social Services
+ Introduced  by  M.  of  A.  GONZALEZ-ROJAS,  ROZIC,  ANDERSON, MITAYNES,
+  DE LOS SANTOS, HEVESI, SHIMSKY,  MAMDANI,  SIMONE  --  read  once  and
+  referred  to  the  Committee  on Social Services -- recommitted to the
+  Committee on Social Services in accordance with Assembly Rule 3,  sec.
+  2  -- committee discharged, bill amended, ordered reprinted as amended
+  and recommitted to said committee
  
  AN ACT to amend the social services law, in relation to implementing  an
   electronic benefit transfer system
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. Section 95 of the social services law is amended by  adding
  a new subdivision 12 to read as follows:
   12.  (A)  TO  THE  EXTENT  NOT INCONSISTENT WITH FEDERAL LAW AND REGU-
- LATIONS, NOT LATER THAN JUNE TWENTY-FIRST, TWO THOUSAND TWENTY-FOUR, THE
- OFFICE SHALL IMPLEMENT  AN  ELECTRONIC  BENEFIT  TRANSFER  SYSTEM  USING
+ LATIONS, NOT LATER THAN JUNE TWENTY-FIRST, TWO THOUSAND TWENTY-SIX,  THE
+ OFFICE  SHALL  IMPLEMENT  AN  ELECTRONIC  BENEFIT  TRANSFER SYSTEM USING
  INDUSTRY-STANDARD  COMMERCIAL  ELECTRONIC  FUNDS  TRANSFER  TECHNOLOGY,
  INCLUDING, AT A MINIMUM, THE USE OF EMV COMPUTER CHIP CARDS.
   (B) THE OFFICE SHALL UPGRADE THE ELECTRONIC BENEFIT SYSTEM AS REQUIRED
@@ -48,8 +52,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08802-01-3
+  LBD08802-07-4
