@@ -1,6 +1,6 @@
 # Relates to school anti-violence activities
 
-**Bill ID:** S4598DC
+**Bill ID:** S4598DD
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Provides funding for school anti-violence education programs through the omnibus
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4598--C
+  4598--D
   Cal. No. 1279
  
   2023-2024 Regular Sessions
@@ -37,44 +37,55 @@ S T A T E  O F  N E W  Y O R K
   recommitted  to said committee -- reported favorably from said commit-
   tee, ordered to first report, amended on first report,  ordered  to  a
   second  report and ordered reprinted, retaining its place in the order
-  of second report
+  of second report -- reported favorably from said committee, amended on
+  second report,  ordered  to  a  third  reading,  amended  and  ordered
+  reprinted, retaining its place in the order of third reading
  
- AN ACT to amend the education law, in relation  to  funding  for  school
+ AN  ACT  to  amend  the education law, in relation to funding for school
   anti-violence education programs
- 
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1.  Paragraph a of subdivision 1 of section 2814 of the educa-
- tion law, as amended by chapter 529 of the laws of 2023, is  amended  to
+ tion  law,  as amended by chapter 529 of the laws of 2023, is amended to
  read as follows:
   a. School safety activities. Programs eligible for funding pursuant to
- this  section  may  include,  but  not be limited to: (i) safe corridors
- programs; (ii) diversity programs;  (iii)  collaborative  school  safety
+ this section may include, but not be  limited  to:  (i)  safe  corridors
+ programs;  (ii)  diversity  programs;  (iii) collaborative school safety
  programs with law enforcement agencies or community-based organizations;
- (iv)  metal  detectors,  intercom  and  other intra-school communication
- devices and other devices to increase school security and the safety  of
+ (iv) metal detectors,  intercom  and  other  intra-school  communication
+ devices  and other devices to increase school security and the safety of
  school personnel and students; (v) programs which facilitate and promote
- community  involvement  in  school  facility planning; [and] (vi) SCHOOL
- ANTI-VIOLENCE EDUCATION PROGRAMS; AND  (VII)  other  programs  including
- comprehensive  school-based intervention models, approved by the commis-
- sioner, that reduce violence and improve  school  safety.  Comprehensive
- school  based  intervention models shall coordinate with and collaborate
+ community involvement in school facility  planning;  [and]  (vi)  SCHOOL
+ ANTI-VIOLENCE  EDUCATION  PROGRAMS;  AND  (VII) other programs including
+ comprehensive school-based intervention models, approved by the  commis-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD08152-11-4
- S. 4598--C  2
+  LBD08152-13-4
+ S. 4598--D  2
  
- with other services currently being provided  in  the  school  district,
+ sioner,  that  reduce  violence and improve school safety. Comprehensive
+ school based intervention models shall coordinate with  and  collaborate
+ with  other  services  currently  being provided in the school district,
  incorporate  appropriate  school  violence  prevention  and intervention
  services, and coordinate appropriate funding sources to ensure the effi-
  cient delivery of services. Such comprehensive school-based intervention
- models  shall  also  include provisions for the involvement of teachers,
- parents, school administrators in the development and implementation  of
- the  program,  a  detailed  statement  identifying  specific performance
- goals, a proposed timetable for implementation and achievement  of  such
- goals  and  specific  assessment  methods  which will be used to measure
- student and school progress.
+ models shall also include provisions for the  involvement  of  teachers,
+ parents,  school administrators in the development and implementation of
+ the program,  a  detailed  statement  identifying  specific  performance
+ goals,  a  proposed timetable for implementation and achievement of such
+ goals and specific assessment methods which  will  be  used  to  measure
+ student and school progress.  FOR PURPOSES OF THIS SECTION, SCHOOL ANTI-
+ VIOLENCE  EDUCATION PROGRAMS SHALL INCLUDE SCHOOL-BASED OR SCHOOL AFFIL-
+ IATED PROGRAMS THAT ARE OPERATED BY NONPROFIT  ORGANIZATIONS  DURING  OR
+ AFTER  THE  SCHOOL  DAY  AND  PROVIDES EVIDENCE-BASED TRAUMA SUPPORT AND
+ GROUP COUNSELING FOR YOUTH IMPACTED BY GUN VIOLENCE,  ANTI-GUN  VIOLENCE
+ EDUCATION, OR YOUTH EMPOWERMENT PROGRAMMING FOR STUDENTS IMPACTED BY GUN
+ VIOLENCE,  AND  SHALL  ONLY BE DEEMED ELIGIBLE IF SUCH PROGRAMS IDENTIFY
+ MEASURABLE OBJECTIVES AND SPECIFIC ASSESSMENT  METHODS,  AND  SHALL  NOT
+ INCLUDE  ANY PROGRAM THAT USES FIREARMS FOR TRAINING OR DEMONSTRATION IN
+ SUCH PROGRAM.
   § 2. This act shall take effect on the  same  date  and  in  the  same
  manner as chapter 529 of the laws of 2023, takes effect.
