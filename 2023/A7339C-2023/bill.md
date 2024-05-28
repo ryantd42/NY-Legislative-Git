@@ -1,6 +1,6 @@
 # Relates to rechargeable battery recycling
 
-**Bill ID:** A7339CB
+**Bill ID:** A7339CC
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Relates to rechargeable battery recycling; adds a battery used as the principal 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7339--B
+  7339--C
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,27 @@ S T A T E  O F  N E W  Y O R K
   May 17, 2023
   ___________
  
- Introduced by M. of A. GLICK, COLTON, OTIS, DURSO, GANDOLFO -- read once
-  and referred to the Committee on Environmental Conservation -- commit-
-  tee  discharged, bill amended, ordered reprinted as amended and recom-
-  mitted to said committee -- reported and referred to the Committee  on
-  Codes  --  reported  and  referred  to the Committee on Rules -- Rules
-  Committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to the Committee on Rules
+ Introduced  by  M.  of  A. GLICK, COLTON, OTIS, DURSO, GANDOLFO, SIMONE,
+  L. ROSENTHAL, DE LOS SANTOS, REYES, DINOWITZ,  SIMON,  STERN,  THIELE,
+  JACOBSON,  BORES,  ROZIC,  RAJKUMAR,  STECK,  McMAHON,  ANDERSON, KIM,
+  GUNTHER, O'DONNELL, SHIMSKY, LUNSFORD, SANTABARBARA, EPSTEIN, BARRETT,
+  FORREST, TAYLOR, CLARK, BICHOTTE HERMELYN, CARROLL, PAULIN, SEAWRIGHT,
+  SHRESTHA, LAVINE,  BURGOS,  SLATER,  CUNNINGHAM,  SAYEGH,  MAGNARELLI,
+  LEVENBERG,  K. BROWN, WOERNER, ARDILA, SILLITTI, RAGA, SOLAGES, VANEL,
+  GONZALEZ-ROJAS, BENEDETTO,  JACKSON,  PRETLOW,  RIVERA,  FAHY,  TAPIA,
+  JONES,  STIRPE,  LUPARDO,  MEEKS,  McDONALD,  CONRAD,  LEE,  BRONSON,
+  WALLACE, BUTTENSCHON, PHEFFER AMATO, DAVILA, BURKE, FALL, AUBRY, HUNT-
+  ER, WILLIAMS,  EACHUS,  RAMOS,  BENDETT,  BURDICK,  MAMDANI,  ALVAREZ,
+  DARLING,  KELLES,  DeSTEFANO, MCGOWAN -- read once and referred to the
+  Committee on Environmental Conservation -- committee discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee -- reported and referred to the Committee on Codes -- reported and
+  referred to the Committee on Rules -- Rules Committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to the Committee
+  on Rules -- reported and referred to the Committee on Codes --  recom-
+  mitted  to  the Committee on Codes in accordance with Assembly Rule 3,
+  sec. 2 -- committee discharged, bill  amended,  ordered  reprinted  as
+  amended and recommitted to said committee
  
  AN  ACT  to  amend  the  environmental  conservation law, in relation to
   rechargeable battery recycling
@@ -42,8 +56,12 @@ S T A T E  O F  N E W  Y O R K
   Section  1.  The  article  heading  of article 27 of the environmental
  conservation law is amended to read as follows:
   REDUCTION, COLLECTION, REUSE, RECYCLING,
-  TREATMENT AND DISPOSAL OF [REFUSE AND OTHER] SOLID WASTE AND
-  EXTENDED PRODUCER RESPONSIBILITY
+  TREATMENT AND DISPOSAL OF [REFUSE AND OTHER] SOLID WASTE
+ 
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02434-20-4
+ A. 7339--C  2
  
   § 2. The title heading of title 18 of article 27 of the  environmental
  conservation  law,  as  added  by  chapter  562  of the laws of 2010, is
@@ -51,33 +69,26 @@ S T A T E  O F  N E W  Y O R K
   EXTENDED PRODUCER RESPONSIBILITY FOR
   RECHARGEABLE [BATTERY RECYCLING] BATTERIES
  
-  § 3. Section 27-1801 of the environmental conservation law,  as  added
+  §  3.  Section 27-1801 of the environmental conservation law, as added
  by chapter 562 of the laws of 2010, is amended to read as follows:
  § 27-1801. Short title.
   This title shall be known as and may be cited as the "[New York State]
- EXTENDED  PRODUCER  RESPONSIBILITY  LAW  FOR  Rechargeable [Battery Law]
+ EXTENDED PRODUCER RESPONSIBILITY  LAW  FOR  Rechargeable  [Battery  Law]
  BATTERIES".
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02434-12-3
- A. 7339--B  2
-
-  § 4. Subdivision 4 of section 27-1803 of the  environmental  conserva-
- tion  law, as added by chapter 562 of the laws of 2010, is amended and a
+  §  4.  Subdivision 4 of section 27-1803 of the environmental conserva-
+ tion law, as added by chapter 562 of the laws of 2010, is amended and  a
  new subdivision 7 is added to read as follows:
-  4.  "rechargeable  battery"  means  any  rechargeable  nickel-cadmium,
- sealed lead, lithium ion, nickel metal hydride  battery,  or  any  other
- such  dry  cell  battery  capable  of being recharged weighing less than
- twenty-five pounds, or battery  packs  containing  such  batteries;  but
- shall  not include a battery used as the principal electric power source
- for a vehicle, such as, but not limited to, an automobile, boat,  truck,
- tractor,  golf  cart  or  wheelchair,  EXCEPT  SUCH TERM SHALL INCLUDE A
- BATTERY USED AS THE PRINCIPAL ELECTRIC  POWER  SOURCE  FOR  AN  ELECTRIC
- SCOOTER  OR  BICYCLE  WITH  ELECTRIC  ASSIST; for storage of electricity
- generated by an alternative power source, such as solar  or  wind-driven
- generators;  or  for  memory  backup that is an integral component of an
- electronic device;
+  4.  "rechargeable battery" means any rechargeable: (I) nickel-cadmium,
+ sealed lead, lithium ion, nickel metal hydride battery[,]; (II)  BATTERY
+ USED  AS  THE PRINCIPAL ELECTRIC POWER SOURCE FOR AN ELECTRIC SCOOTER OR
+ BICYCLE WITH ELECTRIC ASSIST; or (III) any other such dry  cell  battery
+ capable  of  being  recharged  weighing  less  than  [twenty-five] FIFTY
+ pounds, or battery packs containing such batteries; (IV) but  shall  not
+ include  a  battery  used  as  the principal electric power source for a
+ vehicle, such as, but not limited to, an automobile, boat, truck,  trac-
+ tor, golf cart or wheelchair; for storage of electricity generated by an
+ alternative  power  source,  such as solar or wind-driven generators; or
+ for memory backup that is an integral component of an electronic device;
   7. "SELL" OR "SALE" MEANS ANY TRANSFER FOR CONSIDERATION OF  TITLE  OR
  THE  RIGHT  TO USE, FROM A MANUFACTURER OR RETAILER TO A PERSON, INCLUD-
  ING, BUT NOT LIMITED TO, TRANSACTIONS  CONDUCTED  THROUGH  RETAIL  SALES
@@ -86,87 +97,106 @@ S T A T E  O F  N E W  Y O R K
   § 5. Paragraphs a and d of subdivision 1 of  section  27-1807  of  the
  environmental conservation law, as added by chapter 562 of the  laws  of
  2010, are amended to read as follows:
-  a.  [Retailers]  EXCEPT  FOR RETAILERS THAT OFFER FOR SALE AN ELECTRIC
- SCOOTER OR BICYCLE WITH ELECTRIC ASSIST  OR  THE  BATTERIES  THAT  POWER
- THEM,  RETAILERS  having  a  place of business in the state shall accept
- from consumers at any time during  normal  business  hours  rechargeable
- batteries  of  a similar size and shape as the retailer offers for sale.
- Retailers shall take up to ten such batteries per day  from  any  person
- regardless  of  whether such person purchases replacement batteries, and
- retailers shall also  accept  as  many  such  batteries  as  a  consumer
- purchases from the retailer. RETAILERS MAY NOT SELL OR OFFER FOR SALE AN
- ELECTRIC  SCOOTER  OR BICYCLE WITH ELECTRIC ASSIST OR THE BATTERIES THAT
- POWER THEM UNLESS THE BATTERY MANUFACTURER IS PARTICIPATING IN A BATTERY
- COLLECTION PROGRAM APPROVED BY THE DEPARTMENT PURSUANT  TO  THIS  TITLE.
- RETAILERS  MAY  SERVE  AS  A  COLLECTION POINT FOR BATTERIES DESIGNED TO
- POWER ELECTRIC SCOOTERS OR BICYCLES WITH ELECTRIC ASSIST. Retailers THAT
- SERVE AS A COLLECTION POINT FOR BATTERIES shall conspicuously  post  and
- maintain,  at  or  near  the  point of entry to the place of business, a
- legible sign, not less than eight and one-half inches by  eleven  inches
- in  size, stating that used rechargeable batteries of the size and shape
- sold or offered for sale by the retailer may not enter the  solid  waste
- stream, and that the retail establishment is a collection site for recy-
- cling  such batteries. Such sign shall state the following in letters at
- least one inch in height: "It is  illegal  to  dispose  of  rechargeable
- batteries  in  [the  state  of] New York STATE as solid waste. We accept
- used rechargeable batteries for return to the manufacturer."
-  d. Retailers must be in compliance with the provisions of this  subdi-
- vision no later than one hundred eighty days after the effective date of
- this title OR, WITH RESPECT TO A PRODUCT THAT IS ADDED TO THE DEFINITION
- OF "RECHARGEABLE BATTERY" IN SUBDIVISION FOUR OF SECTION 27-1803 OF THIS
- TITLE, NO LATER THAN ONE HUNDRED EIGHTY DAYS AFTER THE EFFECTIVE DATE OF
- THE  CHAPTER  OF THE LAWS OF TWO THOUSAND TWENTY-THREE THAT AMENDED SUCH
- SUBDIVISION.
- A. 7339--B  3
+  a. Retailers having a place of business in the state shall accept from
+ consumers  at  any  time  during  normal  business  hours  rechargeable
+ batteries of a similar SHAPE, size [and  shape],  AND  FUNCTION  as  the
+ retailer offers for sale.  Retailers shall take up to ten such batteries
+ per  day  from  any  person  regardless of whether such person purchases
+ replacement batteries, and retailers shall  also  accept  as  many  such
+ batteries  as  a  consumer purchases from the retailer.  Retailers shall
+ conspicuously post and maintain, at or near the point of  entry  to  the
+ place  of  business,  a  legible  sign, not less than eight and one-half
+ inches  by  eleven  inches  in  size,  stating  that  used  rechargeable
+ batteries of the size and shape sold or offered for sale by the retailer
+ may  not enter the solid waste stream, and that the retail establishment
+ is a collection site for recycling such batteries. Such sign shall state
+ the following in letters at least one inch in height: "It is illegal  to
+ dispose  of  rechargeable  batteries  in  the state of New York as solid
+ waste. We accept used rechargeable batteries for return to the  manufac-
+ turer."
+  d.  RETAILERS MAY NOT SELL OR OFFER FOR SALE TO CONSUMERS IN THE STATE
+ RECHARGEABLE BATTERIES UNLESS THE BATTERY MANUFACTURER IS  OPERATING  IN
+ ACCORDANCE  WITH  A  COLLECTION,  TRANSPORTATION,  AND  RECYCLING  PLAN
+ APPROVED BY THE COMMISSIONER. THE COMMISSIONER  SHALL  MAINTAIN  ON  THE
+ DEPARTMENT'S  WEBSITE  A  LIST  OF MANUFACTURERS OPERATING IN ACCORDANCE
+ A. 7339--C  3
  
+ WITH APPROVED PLANS, AND  THE  BRANDS  COVERED  BY  SUCH  MANUFACTURER'S
+ PLANS.
+  E.  Retailers must be in compliance with the provisions of this subdi-
+ vision no later than one hundred eighty days after the effective date of
+ this title OR, WITH RESPECT TO A RECHARGEABLE BATTERY DEFINED  IN  PARA-
+ GRAPH  (II)  OF  SUBDIVISION  FOUR OF SECTION 27-1803 OF THIS TITLE, AND
+ WITH RESPECT TO THE REQUIREMENTS OF PARAGRAPH (D)  OF  THIS  SUBDIVISION
+ ONE  YEAR  AFTER  THE  EFFECTIVE  DATE OF THE CHAPTER OF THE LAWS OF TWO
+ THOUSAND TWENTY-FOUR WHICH AMENDED THIS TITLE, OR WHEN THE  COMMISSIONER
+ HAS  APPROVED  A  NEW  OR  UPDATED PLAN IN COMPLIANCE WITH SUCH CHAPTER,
+ WHICHEVER IS LATER.
   § 6. Paragraphs a and b of subdivision 2 of  section  27-1807  of  the
  environmental  conservation  law, as added by chapter 562 of the laws of
  2010, are amended to read as follows:
-  a.  Within  ninety  days  of the effective date of this title OR, WITH
- RESPECT TO A PRODUCT THAT IS ADDED TO THE  DEFINITION  OF  "RECHARGEABLE
- BATTERY"  IN  SUBDIVISION  FOUR OF SECTION 27-1803 OF THIS TITLE, WITHIN
- ONE HUNDRED EIGHTY DAYS OF THE EFFECTIVE DATE OF THE CHAPTER OF THE LAWS
- OF TWO THOUSAND TWENTY-THREE THAT AMENDED SUCH SUBDIVISION,  submittance
- to  the  commissioner  of  a  plan  that identifies the methods by which
- battery  manufacturers  will  safely  collect,  transport,  and  recycle
- rechargeable  batteries  collected  by  retailers  at the expense of the
- battery manufacturer and provide retailers with information on the  safe
- handling and storage of rechargeable batteries.
-  b.  Submittance  to  the  department  of  annual  reports,  on  a form
- prescribed by the department,  concerning  the  amount  of  rechargeable
- batteries  received within the state and recycled either by number or by
- weight; the costs of such efforts; and any other relevant information as
- required by the department. WITH RESPECT TO A PRODUCT THAT IS  ADDED  TO
- THE  DEFINITION  OF  RECHARGEABLE BATTERY IN SUBDIVISION FOUR OF SECTION
- 27-1803 OF  THIS  TITLE,  SUCH  REPORTS  SHALL  INCLUDE  THE  WEIGHT  OF
- RECHARGEABLE  BATTERIES  RECEIVED WITHIN A CITY WITH A POPULATION OF ONE
- MILLION OR MORE.
+  a. Within ninety days of the effective date of  this  title  OR,  WITH
+ RESPECT  TO RECHARGEABLE BATTERIES DEFINED IN PARAGRAPH (II) OF SUBDIVI-
+ SION FOUR OF SECTION 27-1803 OF THIS TITLE, WITHIN  ONE  HUNDRED  EIGHTY
+ DAYS  OF  THE  EFFECTIVE DATE OF THE CHAPTER OF THE LAWS OF TWO THOUSAND
+ TWENTY-FOUR THAT AMENDED SUCH PARAGRAPH, submittance to the commissioner
+ of a NEW OR UPDATED plan that identifies the methods  by  which  battery
+ manufacturers  will  safely collect, transport, and recycle rechargeable
+ batteries collected by retailers at the expense of the battery  manufac-
+ turer  and  provide  retailers with information on the safe handling and
+ storage of rechargeable batteries.
+  b. Submittance  to  the  department  of  annual  reports,  on  a  form
+ prescribed  by  the  department,  concerning  the amount of rechargeable
+ batteries received within the state and recycled either by number or  by
+ weight,  INCLUDING THE WEIGHT OF RECHARGEABLE BATTERIES DEFINED IN PARA-
+ GRAPH (II) OF SUBDIVISION FOUR OF SECTION 27-1803 OF THIS TITLE RECEIVED
+ WITHIN THE STATE AS WELL AS WITHIN A  CITY  WITH  A  POPULATION  OF  ONE
+ MILLION  OR  MORE;  the  costs  of  such efforts; and any other relevant
+ information as required by the department.
   § 7. Subdivision 2 of section 27-1807 of the  environmental  conserva-
  tion  law  is  amended by adding a new paragraph d and a new subdivision
  2-a is added to read as follows:
-  D. AS APPLICABLE, PROVIDING FOR THE SAFE COLLECTION  AND  DISPOSAL  OF
- DAMAGED  OR  DEFECTIVE BATTERIES FROM ELECTRIC SCOOTERS OR BICYCLES WITH
- ELECTRIC ASSIST COLLECTED BY RETAILERS AND BY GOVERNMENT AGENCIES.
+  D. PROVIDING FOR THE  SAFE  AND  PROMPT  COLLECTION  AND  DISPOSAL  OF
+ BATTERIES  FROM  ELECTRIC  SCOOTERS  OR  BICYCLES  WITH  ELECTRIC ASSIST
+ COLLECTED BY RETAILERS AND BY GOVERNMENT AGENCIES.
   2-A.  A BATTERY MANUFACTURER MAY NOT SELL, OFFER FOR SALE, OR DISTRIB-
  UTE RECHARGEABLE BATTERIES IN THE STATE UNLESS THE BATTERY  MANUFACTURER
  IS  IMPLEMENTING  OR  PARTICIPATING UNDER AN APPROVED PLAN IN ACCORDANCE
  WITH THIS SECTION.
-  § 8. Section 27-1809 of the environmental conservation law is  amended
+  § 8. Section 27-1807 of the environmental conservation law is  amended
+ by adding a new subdivision 6 to read as follows:
+  6.  THE DEPARTMENT SHALL, WITHIN ONE HUNDRED EIGHTY DAYS OF THE EFFEC-
+ TIVE DATE OF THE CHAPTER OF THE LAWS OF TWO  THOUSAND  TWENTY-FOUR  THAT
+ ADDED  THIS  SUBDIVISION, PROMULGATE RULES AND REGULATIONS TO ENSURE THE
+ SAFE STORAGE OF RECHARGEABLE BATTERIES THAT MINIMIZES THE RISK OF FIRES.
+ SUCH RULES AND REGULATIONS SHALL ALSO, AT A MINIMUM,  REQUIRE  RETAILERS
+ TO:
+  A.  COORDINATE  WITH  A  BATTERY MANUFACTURER,  OR ANY COMBINATION OF
+ BATTERY MANUFACTURERS WORKING TOGETHER, TO  REGULARLY  REMOVE  BATTERIES
+ FROM THE RETAIL LOCATION; AND
+  B. INFORM ALL EMPLOYEES WHO HANDLE OR HAVE RESPONSIBILITY FOR MANAGING
+ BATTERIES ABOUT PROPER HANDLING AND EMERGENCY PROCEDURES, INCLUDING FIRE
+ A. 7339--C  4
+ 
+ RELATED  HAZARDS, APPROPRIATE TO THE TYPE OR TYPES OF BATTERY HANDLED BY
+ THE RETAILER.
+  §  9. Section 27-1809 of the environmental conservation law is amended
  by adding a new subdivision 5 to read as follows:
-  5.  NOTWITHSTANDING SUBDIVISION FOUR OF THIS SECTION, IN A CITY WITH A
- POPULATION OF ONE MILLION OR MORE, THE PROVISIONS OF SECTION 27-1805 AND
- SUBDIVISION ONE OF SECTION 27-1807 OF THIS TITLE SHALL ONLY BE  ENFORCED
- BY  AN  AGENCY  OR  AGENCIES  DESIGNATED BY THE MAYOR OF SUCH CITY.  ANY
- NOTICE OF VIOLATION ISSUED BY AN AGENCY DESIGNATED BY THE MAYOR OF  SUCH
- CITY  CHARGING  A  VIOLATION  OF  SECTION 27-1805 AND SUBDIVISION ONE OF
- SECTION 27-1807 OF THIS TITLE SHALL  BE  RETURNABLE  TO  THE  OFFICE  OF
- ADMINISTRATIVE TRIALS AND HEARINGS OF SUCH CITY. SUCH OFFICE OF ADMINIS-
- TRATIVE  TRIALS  AND  HEARINGS  SHALL HAVE THE POWER TO IMPOSE THE CIVIL
- PENALTIES SET FORTH IN SUBDIVISIONS ONE, TWO AND THREE OF THIS  SECTION.
- ALL  CIVIL PENALTIES COLLECTED FOR ANY VIOLATION OF THIS TITLE THAT HAVE
- BEEN IMPOSED BY THE OFFICE OF ADMINISTRATIVE TRIALS AND HEARINGS OF SUCH
- CITY SHALL BE PAID INTO THE GENERAL FUND OF SUCH CITY.
-  § 9. Section 27-1811 of the environmental conservation law,  as  added
+  5.  IN A CITY WITH A POPULATION OF ONE  MILLION  OR  MORE,  SUCH  CITY
+ SHALL, IN ADDITION TO ANY AUTHORITY OTHERWISE CONFERRED IN THIS CHAPTER,
+ HAVE  CONCURRENT  AUTHORITY  TO ENFORCE, BY  AN  AGENCY  OR  AGENCIES
+ DESIGNATED FOR SUCH PURPOSE BY THE MAYOR OF SUCH CITY, THE PROVISIONS OF
+ SECTION 27-1805 AND SUBDIVISION ONE OF SECTION 27-1807  OF  THIS  TITLE.
+ ANY  NOTICE  OF VIOLATION ISSUED BY AN AGENCY DESIGNATED BY THE MAYOR OF
+ SUCH CITY CHARGING A VIOLATION OF SECTION 27-1805 AND SUBDIVISION ONE OF
+ SECTION 27-1807 OF THIS TITLE SHALL BE RETURNABLE TO  THE  ENVIRONMENTAL
+ CONTROL  BOARD OF SUCH CITY. SUCH ENVIRONMENTAL CONTROL BOARD SHALL HAVE
+ THE POWER TO IMPOSE THE CIVIL PENALTIES SET FORTH IN  SUBDIVISIONS  ONE,
+ TWO  AND  THREE  OF  THIS SECTION. ALL CIVIL PENALTIES COLLECTED FOR ANY
+ VIOLATION OF THIS TITLE THAT HAVE  BEEN  IMPOSED  BY  THE  ENVIRONMENTAL
+ CONTROL  BOARD  OF SUCH CITY SHALL BE PAID INTO THE GENERAL FUND OF SUCH
+ CITY.
+  § 10. Section 27-1811 of the environmental conservation law, as  added
  by chapter 562 of the laws of 2010, is amended to read as follows:
  § 27-1811. State preemption.
   Jurisdiction in all matters pertaining to rechargeable battery recycl-
@@ -175,13 +205,8 @@ S T A T E  O F  N E W  Y O R K
  to,  governing  rechargeable battery recycling shall, upon the effective
  date of section 27-1805 of this title, be preempted; provided,  however,
  that  nothing in this section shall preclude a person from coordinating,
- A. 7339--B  4
- 
  for recycling or reuse, the collection  of  rechargeable  batteries  AND
  PROVIDED,  FURTHER, HOWEVER, THAT NOTHING IN THIS SECTION SHALL PRECLUDE
  THE ENFORCEMENT OF THIS TITLE PURSUANT TO SUBDIVISION  FIVE  OF  SECTION
  27-1809 OF THIS TITLE.
-  §  10. This act shall take effect immediately; provided, however, that
- the amendments to paragraph a of subdivision 1 of section 27-1807 of the
- environmental conservation law made by section five of  this  act  shall
- take effect one hundred eighty days after it shall have become a law.
+  § 11. This act shall take effect immediately.
