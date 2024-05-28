@@ -1,6 +1,6 @@
 # Extends the time frames for the issuance of certain bonds by the village of Washingtonville
 
-**Bill ID:** S8725A
+**Bill ID:** S8725AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Amends the village of Washingtonville deficit financing act to extend the time f
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8725
+  8725--A
  
   I N  S E N A T E
  
@@ -24,14 +24,16 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Local Government
+  printed to be committed  to  the  Committee  on  Local  Government  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee
  
  AN ACT to amend the village of Washingtonville deficit financing act, in
   relation to the issuance of certain bonds
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section  1. Section 2 of chapter 206 of the laws of 2023, constituting
  the village of Washingtonville deficit financing act, is amended to read
  as follows:
@@ -41,7 +43,7 @@ S T A T E  O F  N E W  Y O R K
  30,  2025, in an aggregate principal amount not to exceed $4,500,000 for
  the specific object or purpose of liquidating the  accumulated  deficits
  of the general fund, water fund, sewer fund and capital projects fund as
- of  [May  31, 2023] FEBRUARY 29, 2024, including the remaining principal
+ of  [May  31, 2023] FEBRUARY 28, 2023, including the remaining principal
  amount of any  budget,  deficiency  and/or  revenue  anticipation  notes
  outstanding  at  the time of said issuance of said serial bonds or notes
  authorized pursuant to this act. In anticipation  of  the  issuance  and
@@ -52,7 +54,6 @@ S T A T E  O F  N E W  Y O R K
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD14730-01-4
+  LBD14730-03-4
