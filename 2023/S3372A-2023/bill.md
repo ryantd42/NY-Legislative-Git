@@ -1,6 +1,6 @@
 # Ensures proper administration and enforcement of the uniform fire prevention and building code and the state energy conservation construction code; and makes conforming technical changes
 
-**Bill ID:** S3372A
+**Bill ID:** S3372AA
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
@@ -16,7 +16,8 @@ Ensures proper administration and enforcement of the uniform fire prevention and
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3372
+  3372--A
+  Cal. No. 1109
  
   2023-2024 Regular Sessions
  
@@ -25,46 +26,52 @@ S T A T E  O F  N E W  Y O R K
   January 31, 2023
   ___________
  
- Introduced  by  Sen. SKOUFIS -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Housing, Construction  and
-  Community Development
+ Introduced  by Sens. SKOUFIS, JACKSON -- read twice and ordered printed,
+  and when  printed  to  be  committed  to  the  Committee  on  Housing,
+  Construction and Community Development -- recommitted to the Committee
+  on  Housing, Construction and Community Development in accordance with
+  Senate Rule 6, sec. 8 -- reported favorably from  said  committee  and
+  committed  to the Committee on Finance -- reported favorably from said
+  committee, ordered to first and second  report,  ordered  to  a  third
+  reading,  amended  and  ordered  reprinted, retaining its place in the
+  order of third reading
  
  AN ACT to amend the executive law, in relation to ensuring proper admin-
-  istration  and enforcement of the uniform fire prevention and building
+  istration and enforcement of the uniform fire prevention and  building
   code and the state energy conservation construction code; and to amend
   the energy law, in relation to making conforming technical changes
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 372 of the executive law, as amended by chapter 309
  of the laws of 1996, subdivision 3 as amended by chapter 159 of the laws
- of  2007 and subdivision 19 as added by chapter 119 of the laws of 2001,
+ of 2007 and subdivision 19 as added by chapter 119 of the laws of  2001,
  is amended to read as follows:
   § 372. Definitions. As used in this article, the following terms shall
  have  the  meaning  ascribed  to  them,  unless  the  context  otherwise
  requires:
-  1.  "Administrator"  means  the  state  fire administrator established
+  1. "Administrator" means  the  state  fire  administrator  established
  pursuant to article six-C of this chapter.
   2. "APPLICABLE CODE ENFORCEMENT PROGRAM" MEANS THE PROGRAM ESTABLISHED
- BY A LOCAL GOVERNMENT OR COUNTY PURSUANT TO THE REGULATIONS  PROMULGATED
- PURSUANT  TO SUBDIVISION ONE OF SECTION THREE HUNDRED EIGHTY-ONE OF THIS
- ARTICLE, OR, WHERE SO PROVIDED  IN  SUBDIVISION  TWO  OF  SECTION  THREE
- HUNDRED  EIGHTY-ONE  OF  THIS  ARTICLE, THE SECRETARY'S CODE ENFORCEMENT
- PROGRAM, OR, WHERE SO PROVIDED IN SUBDIVISION  SEVEN  OF  SECTION  THREE
+ BY  A LOCAL GOVERNMENT OR COUNTY PURSUANT TO THE REGULATIONS PROMULGATED
+ PURSUANT TO SUBDIVISION ONE OF SECTION THREE HUNDRED EIGHTY-ONE OF  THIS
+ ARTICLE,  OR,  WHERE  SO  PROVIDED  IN  SUBDIVISION TWO OF SECTION THREE
+ HUNDRED EIGHTY-ONE OF THIS ARTICLE,  THE  SECRETARY'S  CODE  ENFORCEMENT
+ PROGRAM,  OR,  WHERE  SO  PROVIDED IN SUBDIVISION SEVEN OF SECTION THREE
  HUNDRED EIGHTY-ONE OF THIS ARTICLE THE DEFAULT CODE ENFORCEMENT PROGRAM.
-  3.  "Areas  of  public  assembly"  means  all buildings or portions of
- buildings used for gathering together fifty or more persons  for  amuse-
- ment,  athletic,  civic,  dining, educational, entertainment, patriotic,
- political, recreational, religious, social,  or  similar  purposes,  the
- entire fire area of which they are a part, and the means of egress ther-
- efrom.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04713-01-3
- S. 3372  2
+  LBD04713-02-4
+ S. 3372--A  2
  
+  3. "Areas of public assembly"  means  all  buildings  or  portions  of
+ buildings  used  for gathering together fifty or more persons for amuse-
+ ment, athletic, civic, dining,  educational,  entertainment,  patriotic,
+ political,  recreational,  religious,  social,  or similar purposes, the
+ entire fire area of which they are a part, and the means of egress ther-
+ efrom.
   [3.] 4. "Building" means a combination of any materials, whether port-
  able  or fixed, having a roof, to form a structure affording shelter for
  persons, animals or property. The word  "building"  shall  be  construed
@@ -114,6 +121,8 @@ S T A T E  O F  N E W  Y O R K
  expanded  later  to  provide additional cubic capacity as well as two or
  more separately towable components designed to be joined into one  inte-
  gral  unit  capable  of  being  again  separated into the components for
+ S. 3372--A  3
+ 
  repeated towing. "Mobile home" shall mean  units  designed  to  be  used
  exclusively for residential purposes, excluding travel trailers.
   [14.]  16.  "Office"  means  the office of fire prevention and control
@@ -121,24 +130,23 @@ S T A T E  O F  N E W  Y O R K
   [15.] 17. "PERMIT OR CERTIFICATE OF OCCUPANCY  PROVISION"  SHALL  MEAN
  ANY  PROVISION  IN  THE  APPLICABLE  CODE  ENFORCEMENT PROGRAM THAT: (A)
  PROHIBITS PERFORMANCE OF ANY WORK THAT MUST  CONFORM  WITH  THE  UNIFORM
- S. 3372  3
- 
  CODE  AND/OR  STATE  ENERGY  CODE UNLESS A BUILDING PERMIT, CONSTRUCTION
  PERMIT, DEMOLITION PERMIT, OR SIMILAR PERMIT HAS BEEN  ISSUED,  HAS  NOT
  BEEN  SUSPENDED  OR  REVOKED,  AND  HAS  NOT  EXPIRED; (B) PROHIBITS THE
- CONTINUATION  OF  WORK  AFTER  A  STOP  WORK  ORDER HAS BEEN ISSUED; (C)
- PROHIBITS THE CONDUCT OF ANY ACTIVITY OR THE  USE  OF  ANY  CATEGORY  OF
- BUILDING  SPECIFIED IN THE RULES AND REGULATIONS PROMULGATED PURSUANT TO
- SUBDIVISION ONE OF SECTION THREE  HUNDRED  EIGHTY-ONE  OF  THIS  ARTICLE
- UNLESS  AN  OPERATING  PERMIT HAS BEEN ISSUED, HAS NOT BEEN SUSPENDED OR
+ CONTINUATION OF WORK AFTER A  STOP  WORK  ORDER  HAS  BEEN  ISSUED;  (C)
+ PROHIBITS  THE  CONDUCT  OF  ANY  ACTIVITY OR THE USE OF ANY CATEGORY OF
+ BUILDING SPECIFIED IN THE RULES AND REGULATIONS PROMULGATED PURSUANT  TO
+ SUBDIVISION  ONE  OF  SECTION  THREE  HUNDRED EIGHTY-ONE OF THIS ARTICLE
+ UNLESS AN OPERATING PERMIT HAS BEEN ISSUED, HAS NOT  BEEN  SUSPENDED  OR
  REVOKED, AND HAS NOT EXPIRED; OR (D) PROHIBITS THE USE OR OCCUPANCY OF A
- BUILDING OR THE CHANGE OF ANY USE OR OCCUPANCY OF A  BUILDING  UNLESS  A
- CERTIFICATE  OF OCCUPANCY, CERTIFICATE OF COMPLETION, OR SIMILAR CERTIF-
- ICATE HAS BEEN ISSUED, HAS NOT BEEN SUSPENDED OR REVOKED,  AND  HAS  NOT
+ BUILDING  OR  THE  CHANGE OF ANY USE OR OCCUPANCY OF A BUILDING UNLESS A
+ CERTIFICATE OF OCCUPANCY, CERTIFICATE OF COMPLETION, OR SIMILAR  CERTIF-
+ ICATE  HAS  BEEN  ISSUED, HAS NOT BEEN SUSPENDED OR REVOKED, AND HAS NOT
  EXPIRED.
-  18.  "REQUIRED  FEATURES" MEANS THE FEATURES REQUIRED BY THE RULES AND
- REGULATIONS PROMULGATED PURSUANT TO SUBDIVISION  ONE  OF  SECTION  THREE
- HUNDRED EIGHTY-ONE TO BE INCLUDED IN A CODE ENFORCEMENT PROGRAM.
+  18. "REQUIRED FEATURES" MEANS THE FEATURES REQUIRED BY THE  RULES  AND
+ REGULATIONS  PROMULGATED  PURSUANT  TO  SUBDIVISION ONE OF SECTION THREE
+ HUNDRED EIGHTY-ONE OF THIS ARTICLE TO BE INCLUDED IN A CODE  ENFORCEMENT
+ PROGRAM.
   19. "Secretary" means the secretary of state.
   [16.] 20. "SECRETARY'S CODE ENFORCEMENT PROGRAM" MEANS THOSE RULES AND
  REGULATIONS  PROMULGATED  PURSUANT  TO  SUBDIVISION ONE OF SECTION THREE
@@ -171,135 +179,135 @@ S T A T E  O F  N E W  Y O R K
   §  2.  Subdivisions 2, 3, 4 and 5 of section 381 of the executive law,
  subdivision 2 as amended by chapter 560 of the laws of 2010 and subdivi-
  sions 3, 4 and 5 as added by chapter  707  of  the  laws  of  1981,  are
+ S. 3372--A  4
+ 
  amended,  subdivision 6 is renumbered subdivision 8 and two new subdivi-
  sions 6 and 7 are added to read as follows:
-  2. Except as may be provided in regulations of the secretary  pursuant
+  2.  Except as may be provided in regulations of the secretary pursuant
  to subdivision one of this section, AND SUBJECT TO THE PROVISIONS RELAT-
- ING  TO  CITIES  WITH  A  POPULATION OF OVER ONE MILLION AS SET FORTH IN
- PARAGRAPH C OF SUBDIVISION ONE OF SECTION THREE HUNDRED EIGHTY-THREE  OF
- THIS  ARTICLE,  every  local government shall administer and enforce the
+ ING TO CITIES WITH A POPULATION OF OVER ONE  MILLION  AS  SET  FORTH  IN
+ PARAGRAPH  C OF SUBDIVISION ONE OF SECTION THREE HUNDRED EIGHTY-THREE OF
+ THIS ARTICLE, every local government shall administer  and  enforce  the
  uniform fire prevention and building code and the state energy conserva-
- S. 3372  4
- 
- tion construction code on and after the first day of  January,  nineteen
- hundred  eighty-four,  provided,  however,  that  a local government may
- enact a local law prior to the first day of July in any  year  providing
+ tion  construction  code on and after the first day of January, nineteen
+ hundred eighty-four, provided, however,  that  a  local  government  may
+ enact  a  local law prior to the first day of July in any year providing
  that it will not enforce such codes on and after the first day of [Janu-
  ary] APRIL next succeeding. In such event the county in which said local
- government  is  situated  shall administer and enforce such codes within
- such local government from and after the first day  of  [January]  APRIL
+ government is situated shall administer and enforce  such  codes  within
+ such  local  government  from and after the first day of [January] APRIL
  next succeeding the effective date of such local law, in accordance with
  the provisions of paragraph b of subdivision five of this section unless
- the  county  shall have PREVIOUSLY enacted a local law providing that it
+ the county shall have PREVIOUSLY enacted a local law providing  that  it
  will not enforce such codes within that county. In such event the secre-
- tary in the place and stead of the local government shall,  directly  or
+ tary  in  the place and stead of the local government shall, directly or
  by [contract] USING THE SERVICES OF ANY CONTRACTORS OR OTHER THIRD-PARTY
- PROVIDERS  AS  THE  SECRETARY  MAY  DEEM TO BE QUALIFIED, administer and
- enforce the uniform code and the state energy conservation  construction
- code  WITHIN  SUCH  LOCAL GOVERNMENT ON AND AFTER THE FIRST DAY OF APRIL
- NEXT SUCCEEDING. A COUNTY THAT  IS  RESPONSIBLE  FOR  ADMINISTERING  AND
+ PROVIDERS AS THE SECRETARY MAY DEEM  TO  BE  QUALIFIED,  administer  and
+ enforce  the uniform code and the state energy conservation construction
+ code WITHIN SUCH LOCAL GOVERNMENT ON AND AFTER THE FIRST  DAY  OF  APRIL
+ NEXT  SUCCEEDING.  A  COUNTY  THAT  IS RESPONSIBLE FOR ADMINISTERING AND
  ENFORCING SUCH CODES WITHIN A LOCAL GOVERNMENT PURSUANT TO THE FOREGOING
- PROVISIONS  OF THIS SUBDIVISION MAY ENACT A LOCAL LAW PRIOR TO THE FIRST
+ PROVISIONS OF THIS SUBDIVISION MAY ENACT A LOCAL LAW PRIOR TO THE  FIRST
  DAY OF OCTOBER IN ANY YEAR PROVIDING THAT IT WILL NOT ENFORCE SUCH CODES
- WITHIN SUCH LOCAL GOVERNMENT ON AND AFTER THE FIRST DAY  OF  APRIL  NEXT
+ WITHIN  SUCH  LOCAL  GOVERNMENT ON AND AFTER THE FIRST DAY OF APRIL NEXT
  SUCCEEDING. IN SUCH EVENT, THE SECRETARY, IN THE PLACE AND STEAD OF SUCH
- LOCAL  GOVERNMENT,  SHALL,  DIRECTLY  OR  BY  USING  THE SERVICES OF ANY
- CONTRACTORS OR OTHER THIRD-PARTY PROVIDERS AS THE SECRETARY MAY DEEM  TO
+ LOCAL GOVERNMENT, SHALL, DIRECTLY  OR  BY  USING  THE  SERVICES  OF  ANY
+ CONTRACTORS  OR OTHER THIRD-PARTY PROVIDERS AS THE SECRETARY MAY DEEM TO
  BE QUALIFIED, ADMINISTER AND ENFORCE SUCH CODES IN SUCH LOCAL GOVERNMENT
- FROM  AND  AFTER THE FIRST DAY OF APRIL NEXT SUCCEEDING. A LOCAL GOVERN-
- MENT THAT ADOPTS A LOCAL LAW PROVIDING THAT IT  WILL  NOT  ENFORCE  SUCH
+ FROM AND AFTER THE FIRST DAY OF APRIL NEXT SUCCEEDING. A  LOCAL  GOVERN-
+ MENT  THAT  ADOPTS  A  LOCAL LAW PROVIDING THAT IT WILL NOT ENFORCE SUCH
  CODES ON AND AFTER THE FIRST DAY OF APRIL NEXT SUCCEEDING SHALL PROMPTLY
- NOTIFY  THE  COUNTY  IN  WHICH  SUCH LOCAL GOVERNMENT IS LOCATED AND THE
- SECRETARY OF THE ADOPTION OF SUCH LOCAL LAW.  A  COUNTY  THAT  ADOPTS  A
+ NOTIFY THE COUNTY IN WHICH SUCH LOCAL  GOVERNMENT  IS  LOCATED  AND  THE
+ SECRETARY  OF  THE  ADOPTION  OF  SUCH LOCAL LAW. A COUNTY THAT ADOPTS A
  LOCAL LAW PROVIDING THAT IT WILL NOT ENFORCE SUCH CODES ON AND AFTER THE
- FIRST  DAY  OF  APRIL  NEXT  SUCCEEDING SHALL PROMPTLY NOTIFY EACH LOCAL
- GOVERNMENT IN WHICH SUCH COUNTY  IS  ADMINISTERING  AND  ENFORCING  SUCH
- CODES  AND  THE  SECRETARY  OF  THE  ADOPTION OF SUCH LOCAL LAW. A local
- government or a county may repeal a local law  which  provides  that  it
- will  not enforce such codes and shall thereafter administer and enforce
- such codes as provided above. Two or more local governments may  provide
- for  joint administration and enforcement of the uniform code, the state
+ FIRST DAY OF APRIL NEXT SUCCEEDING  SHALL  PROMPTLY  NOTIFY  EACH  LOCAL
+ GOVERNMENT  IN  WHICH  SUCH  COUNTY  IS ADMINISTERING AND ENFORCING SUCH
+ CODES AND THE SECRETARY OF THE ADOPTION  OF  SUCH  LOCAL  LAW.  A  local
+ government  or  a  county  may repeal a local law which provides that it
+ will not enforce such codes and shall thereafter administer and  enforce
+ such  codes as provided above. Two or more local governments may provide
+ for joint administration and enforcement of the uniform code, the  state
  energy conservation construction code, or both, by agreement pursuant to
- article five-G of the general municipal law. Any  local  government  may
- enter  into  agreement with the county in which such local government is
- situated to administer and enforce the uniform code,  the  state  energy
- conservation  construction  code, or both, within such local government.
- Local governments or counties THAT ADMINISTER AND  ENFORCE  THE  UNIFORM
- CODE,  THE  STATE  ENERGY  CONSERVATION  CONSTRUCTION CODE, OR BOTH, may
- charge AND COLLECT fees  to  defray  the  costs  of  administration  and
- enforcement.  WHERE THE SECRETARY IS RESPONSIBLE FOR ADMINISTRATION AND
+ article  five-G  of  the general municipal law. Any local government may
+ enter into agreement with the county in which such local  government  is
+ situated  to  administer  and enforce the uniform code, the state energy
+ conservation construction code, or both, within such  local  government.
+ Local  governments  or  counties THAT ADMINISTER AND ENFORCE THE UNIFORM
+ CODE, THE STATE ENERGY CONSERVATION  CONSTRUCTION  CODE,  OR  BOTH,  may
+ charge  AND  COLLECT  fees  to  defray  the  costs of administration and
+ enforcement.  WHERE THE SECRETARY IS RESPONSIBLE FOR ADMINISTRATION  AND
  ENFORCEMENT  OF  THE  UNIFORM  CODE  AND  STATE  ENERGY  CONSERVATION
+ S. 3372--A  5
+ 
  CONSTRUCTION CODE WITHIN A LOCAL GOVERNMENT PURSUANT TO THIS SUBDIVISION
- OR  PURSUANT TO PARAGRAPH E OF SUBDIVISION FOUR OF THIS SECTION, (A) THE
- SECRETARY SHALL ADMINISTER AND ENFORCE THE CODES IN ACCORDANCE WITH  THE
+ OR PURSUANT TO PARAGRAPH E OF SUBDIVISION FOUR OF THIS SECTION, (A)  THE
+ SECRETARY  SHALL ADMINISTER AND ENFORCE THE CODES IN ACCORDANCE WITH THE
  PROVISIONS  OF  THE SECRETARY'S CODE ENFORCEMENT PROGRAM; (B) SUCH RULES
  AND REGULATIONS SHALL BE DEEMED TO BE THE  APPLICABLE  CODE  ENFORCEMENT
  PROGRAM  FOR  THE  PURPOSES  OF SECTION THREE HUNDRED EIGHTY-TWO OF THIS
  ARTICLE; AND (C) THE SECRETARY MAY CHARGE AND COLLECT FEES TO DEFRAY THE
  COSTS OF ADMINISTRATION AND ENFORCEMENT.
- S. 3372  5
- 
   3. On and after the first day of July, nineteen  hundred  eighty-five,
  the  secretary  shall  have  power  to investigate [and conduct hearings
  relative to] whether administration and enforcement of the uniform  fire
  prevention  and  building  code  AND  THE  STATE  ENERGY  CONSERVATION
  CONSTRUCTION CODE complies with the minimum standards promulgated pursu-
- ant  to  subdivision  one of this section.  IN CONNECTION WITH ANY SUCH
- INVESTIGATION, THE SECRETARY SHALL HAVE THE  POWER  TO  ISSUE  SUBPOENAS
- COMPELLING  THE  TESTIMONY OF WITNESSES, THE PRODUCTION OF DOCUMENTS, OR
- BOTH, AND THE POWER, AT THE SECRETARY'S DISCRETION, TO  CONDUCT  ONE  OR
- MORE  HEARINGS.  At  least  ten  days written notice of any such hearing
- shall be provided to the elective or appointive chief executive  officer
- or,  if there be none, the chairman of the legislative body of the local
+ ant to subdivision one of this section.  IN CONNECTION  WITH  ANY  SUCH
+ INVESTIGATION,  THE  SECRETARY  SHALL  HAVE THE POWER TO ISSUE SUBPOENAS
+ COMPELLING THE TESTIMONY OF WITNESSES, THE PRODUCTION OF  DOCUMENTS,  OR
+ BOTH,  AND  THE  POWER, AT THE SECRETARY'S DISCRETION, TO CONDUCT ONE OR
+ MORE HEARINGS. At least ten days written  notice  of  any  such  hearing
+ shall  be provided to the elective or appointive chief executive officer
+ or, if there be none, the chairman of the legislative body of the  local
  government or county whose administration and enforcement of the uniform
  code AND STATE ENERGY CONSERVATION CONSTRUCTION CODE is at issue.
-  4. If the secretary determines that a local government has  failed  to
- administer  and  enforce  the  uniform fire prevention and building code
- AND/OR THE STATE ENERGY CONSERVATION  CONSTRUCTION  CODE  in  accordance
- with  the  minimum  standards promulgated pursuant to subdivision one of
- this section, the secretary shall take any  of  the  following  actions,
+  4.  If  the secretary determines that a local government has failed to
+ administer and enforce the uniform fire  prevention  and  building  code
+ AND/OR  THE  STATE  ENERGY  CONSERVATION CONSTRUCTION CODE in accordance
+ with the minimum standards promulgated pursuant to  subdivision  one  of
+ this  section,  the  secretary  shall take any of the following actions,
  either individually or in combination in any sequence:
-  a.  The  secretary  may  issue  an order compelling compliance by such
- local government with the  MINIMUM  standards  [for  administration  and
+  a. The secretary may issue an  order  compelling  compliance  by  such
+ local  government  with  the  MINIMUM  standards [for administration and
  enforcement of the uniform code] PROMULGATED PURSUANT TO SUBDIVISION ONE
  OF THIS SECTION.
   b. THE SECRETARY MAY APPOINT AND REMOVE ANY PERSON DEEMED QUALIFIED BY
- THE  SECRETARY  AS  AN  OVERSIGHT  OFFICER, WHO SHALL HAVE THE POWER AND
+ THE SECRETARY AS AN OVERSIGHT OFFICER, WHO  SHALL  HAVE  THE  POWER  AND
  AUTHORITY TO DO ANY OF THE FOLLOWING, AT THE DISCRETION OF THE OVERSIGHT
  OFFICER:
-  (I) OBSERVE, REVIEW RECORDS AND REPORT ON  COMPLIANCE  BY  SUCH  LOCAL
- GOVERNMENT  WITH  THE MINIMUM STANDARDS PROMULGATED PURSUANT TO SUBDIVI-
+  (I)  OBSERVE,  REVIEW  RECORDS  AND REPORT ON COMPLIANCE BY SUCH LOCAL
+ GOVERNMENT WITH THE MINIMUM STANDARDS PROMULGATED PURSUANT  TO  SUBDIVI-
  SION ONE OF THIS SECTION;
-  (II) DIRECT ALL OR ANY PART OF THE CODE ENFORCEMENT ACTIVITIES OF  THE
+  (II)  DIRECT ALL OR ANY PART OF THE CODE ENFORCEMENT ACTIVITIES OF THE
  LOCAL GOVERNMENT'S CODE ENFORCEMENT PERSONNEL; AND
-  (III)  TAKE  ANY  OTHER  STEPS  DEEMED  BY THE OVERSIGHT OFFICER TO BE
+  (III) TAKE ANY OTHER STEPS DEEMED  BY  THE  OVERSIGHT  OFFICER  TO  BE
  NECESSARY OR APPROPRIATE TO ENSURE THAT THE UNIFORM CODE AND STATE ENER-
- GY CONSERVATION CONSTRUCTION CODE ARE ADMINISTERED AND  ENFORCED  WITHIN
- SUCH  LOCAL GOVERNMENT IN A DUE AND PROPER MANNER AND IN COMPLIANCE WITH
- THE MINIMUM STANDARDS PROMULGATED PURSUANT TO SUBDIVISION  ONE  OF  THIS
- SECTION.  ANY PERSON WHO IS APPOINTED AS AN OVERSIGHT OFFICER PURSUANT
- TO THIS PARAGRAPH SHALL BE DEEMED TO BE A STATE  OFFICER  UNDER  SECTION
+ GY  CONSERVATION  CONSTRUCTION CODE ARE ADMINISTERED AND ENFORCED WITHIN
+ SUCH LOCAL GOVERNMENT IN A DUE AND PROPER MANNER AND IN COMPLIANCE  WITH
+ THE  MINIMUM  STANDARDS  PROMULGATED PURSUANT TO SUBDIVISION ONE OF THIS
+ SECTION.  ANY PERSON WHO IS APPOINTED AS AN OVERSIGHT  OFFICER  PURSUANT
+ TO  THIS  PARAGRAPH  SHALL BE DEEMED TO BE A STATE OFFICER UNDER SECTION
  TWO OF THE PUBLIC OFFICERS LAW.
   C. The secretary may ask the attorney general to institute in the name
- of  the  secretary  an action or proceeding seeking appropriate legal or
- equitable relief to require such  local  government  to  administer  and
+ of the secretary an action or proceeding seeking  appropriate  legal  or
+ equitable  relief  to  require  such  local government to administer and
  enforce the uniform code AND STATE ENERGY CONSERVATION CONSTRUCTION CODE
- IN  A DUE AND PROPER MANNER AND IN COMPLIANCE WITH THE MINIMUM STANDARDS
- PROMULGATED PURSUANT TO SUBDIVISION ONE OF THIS SECTION,  INCLUDING  BUT
+ IN A DUE AND PROPER MANNER AND IN COMPLIANCE WITH THE MINIMUM  STANDARDS
+ PROMULGATED  PURSUANT  TO SUBDIVISION ONE OF THIS SECTION, INCLUDING BUT
  NOT LIMITED TO REQUIRING SUCH LOCAL GOVERNMENT TO TAKE SPECIFIC REMEDIAL
- ACTIONS,  SUCH  AS ESTABLISHING AND ENFORCING AN EFFECTIVE CODE ENFORCE-
+ S. 3372--A  6
+ 
+ ACTIONS, SUCH AS ESTABLISHING AND ENFORCING AN EFFECTIVE  CODE  ENFORCE-
  MENT  PROGRAM,  CONDUCTING  FIRE  SAFETY  AND  PROPERTY  MAINTENANCE
- INSPECTIONS,  INCREASING THE FREQUENCY OF FIRE SAFETY AND PROPERTY MAIN-
- TENANCE INSPECTIONS, AND TAKING ENFORCEMENT ACTIONS THAT ARE TIMELY  AND
- RESPONSIVE  TO  CIRCUMSTANCES  ASSOCIATED  WITH THE PROPERTY IN QUESTION
+ INSPECTIONS, INCREASING THE FREQUENCY OF FIRE SAFETY AND PROPERTY  MAIN-
+ TENANCE  INSPECTIONS, AND TAKING ENFORCEMENT ACTIONS THAT ARE TIMELY AND
+ RESPONSIVE TO CIRCUMSTANCES ASSOCIATED WITH  THE  PROPERTY  IN  QUESTION
  WHEN VIOLATIONS ARE IDENTIFIED.
   [c. the] D. THE secretary may designate the county in which such local
- government is located, OR ANY OTHER LOCAL GOVERNMENT THAT ADJOINS OR  IS
- S. 3372  6
- 
+ government  is located, OR ANY OTHER LOCAL GOVERNMENT THAT ADJOINS OR IS
  REASONABLY PROXIMATE TO SUCH LOCAL GOVERNMENT, to administer and enforce
  the uniform code AND STATE ENERGY CONSERVATION CONSTRUCTION CODE in such
- local  government.  DESIGNATION  OF AN ADJOINING OR REASONABLY PROXIMATE
+ local government. DESIGNATION OF AN ADJOINING  OR  REASONABLY  PROXIMATE
  LOCAL  GOVERNMENT  SHALL  BE SUBJECT TO THE CONSENT OF THE SUPERVISOR OR
  MAYOR, AS APPLICABLE, OF SUCH LOCAL GOVERNMENT.  In  the  case  of  such
  designation,  the  provisions  of subdivision five of this section shall
@@ -345,6 +353,8 @@ S T A T E  O F  N E W  Y O R K
  shall  administer  and  enforce the uniform code within [such] THE local
  government WHOSE ADMINISTRATION AND ENFORCEMENT OF THE UNIFORM CODE  AND
  STATE  ENERGY  CONSERVATION  CONSTRUCTION  CODE  HAS NOT MET THE MINIMUM
+ S. 3372--A  7
+ 
  STANDARDS from and after the date of  such  designation  OR  ASSUMPTION.
  Such  administration  and  enforcement shall apply the minimum standards
  promulgated by  the  secretary  pursuant  to  subdivision  one  of  this
@@ -353,8 +363,6 @@ S T A T E  O F  N E W  Y O R K
  administer  and  enforce  the uniform code [in accordance with such] AND
  STATE ENERGY CONSERVATION CONSTRUCTION  CODE  IN  THE  LOCAL  GOVERNMENT
  WHOSE ADMINISTRATION AND ENFORCEMENT OF THE UNIFORM CODE AND STATE ENER-
- S. 3372  7
- 
  GY  CONSERVATION  CONSTRUCTION  CODE  HAS NOT MET THE minimum standards,
  including the power to charge and collect fees for  such  administration
  and enforcement.
@@ -403,6 +411,8 @@ S T A T E  O F  N E W  Y O R K
  TRATION  AND  ENFORCEMENT OF THE UNIFORM CODE AND STATE ENERGY CONSERVA-
  TION CONSTRUCTION CODE HAS NOT  MET  THE  MINIMUM  STANDARDS  TO  RESUME
  PERFORMANCE  OF  THE  DESIGNATED  TYPES  AND CLASSES OF CODE ENFORCEMENT
+ S. 3372--A  8
+ 
  ACTIVITIES WHEN THE SECRETARY IS SATISFIED THAT  SUCH  LOCAL  GOVERNMENT
  WILL  PERFORM SUCH ACTIVITIES IN A DUE AND PROPER MANNER AND WILL OTHER-
  WISE PROVIDE ADMINISTRATION AND ENFORCEMENT  OF  THE  UNIFORM  CODE  AND
@@ -411,66 +421,64 @@ S T A T E  O F  N E W  Y O R K
   7.  A.  THE SECRETARY IS AUTHORIZED TO PROMULGATE, AND TO AMEND FROM
  TIME TO TIME, RULES AND REGULATIONS ESTABLISHING A DEFAULT CODE ENFORCE-
  MENT PROGRAM.  SUCH  DEFAULT  CODE  ENFORCEMENT  PROGRAM  SHALL  INCLUDE
- S. 3372  8
- 
  PROVISIONS  ESTABLISHING THE REQUIRED FEATURES AND SUCH OTHER PROVISIONS
  AS THE SECRETARY MAY DEEM TO BE APPROPRIATE  FOR  INCLUSION  IN  A  CODE
  ENFORCEMENT  PROGRAM.  SUCH  DEFAULT CODE ENFORCEMENT PROGRAM SHALL ALSO
- ESTABLISH  FEES  TO  BE  CHARGED  BY ANY LOCAL GOVERNMENT OR COUNTY THAT
- ADMINISTERS AND ENFORCES THE UNIFORM CODE AND/OR ENERGY CODE IN  ACCORD-
+ ESTABLISH FEES TO BE CHARGED BY ANY  LOCAL  GOVERNMENT  OR  COUNTY  THAT
+ ADMINISTERS  AND ENFORCES THE UNIFORM CODE AND/OR ENERGY CODE IN ACCORD-
  ANCE WITH THE PROVISIONS OF THE DEFAULT CODE ENFORCEMENT PROGRAM.
-  B.  ANY  LOCAL GOVERNMENT OR COUNTY RESPONSIBLE FOR ADMINISTRATION AND
- ENFORCEMENT OF THE UNIFORM CODE AND/OR STATE ENERGY CODE WITHIN A  LOCAL
- GOVERNMENT  THAT  HAS  NOT  ESTABLISHED ITS OWN CODE ENFORCEMENT PROGRAM
- SHALL ADMINISTER AND ENFORCE THE UNIFORM  CODE  AND/OR  ENERGY  CODE  IN
+  B. ANY LOCAL GOVERNMENT OR COUNTY RESPONSIBLE FOR  ADMINISTRATION  AND
+ ENFORCEMENT  OF THE UNIFORM CODE AND/OR STATE ENERGY CODE WITHIN A LOCAL
+ GOVERNMENT THAT HAS NOT ESTABLISHED ITS  OWN  CODE  ENFORCEMENT  PROGRAM
+ SHALL  ADMINISTER  AND  ENFORCE  THE  UNIFORM CODE AND/OR ENERGY CODE IN
  ACCORDANCE WITH THE PROVISIONS OF THE DEFAULT CODE ENFORCEMENT PROGRAM.
-  C.  ANY  LOCAL  GOVERNMENT OR COUNTY THAT ADMINISTERS AND ENFORCES THE
+  C. ANY LOCAL GOVERNMENT OR COUNTY THAT ADMINISTERS  AND  ENFORCES  THE
  UNIFORM CODE AND/OR ENERGY CODE IN ACCORDANCE WITH THE PROVISIONS OF THE
- DEFAULT CODE ENFORCEMENT PROGRAM PURSUANT TO PARAGRAPH B OF THIS  SUBDI-
- VISION  SHALL,  THROUGH ITS CHIEF EXECUTIVE OFFICER, HAVE FULL POWER AND
- AUTHORITY TO DESIGNATE THE PUBLIC OFFICER OR AGENCY AUTHORIZED TO  ISSUE
- AN  APPEARANCE  TICKET,  AND  A PUBLIC OFFICER WHO, BY VIRTUE OF OFFICE,
- TITLE OR POSITION, IS AUTHORIZED OR REQUIRED TO ENFORCE  THE  PROVISIONS
- OF  THE UNIFORM CODE AND THE STATE ENERGY CONSERVATION CONSTRUCTION CODE
- AND THE PROVISIONS OF THE DEFAULT CODE ENFORCEMENT PROGRAM AS FULLY  AND
- WITH  THE SAME FORCE AND EFFECT AS SUCH LOCAL GOVERNMENT OR COUNTY WOULD
- HAVE TO ENFORCE PROVISIONS ESTABLISHED BY A  LOCAL  LAW,  ORDINANCE,  OR
- REGULATION  ENACTED  OR  ADOPTED BY SUCH LOCAL GOVERNMENT OR COUNTY. THE
- DESIGNATION AUTHORIZED BY THIS PARAGRAPH SHALL NOT TAKE EFFECT UNTIL  IT
- HAS  BEEN  FILED WITH THE DEPARTMENT OF STATE, AND MUST BE MAINTAINED ON
- THE WEBSITE OF SUCH LOCAL GOVERNMENT OR COUNTY  UNLESS  AND  UNTIL  SUCH
+ DEFAULT  CODE ENFORCEMENT PROGRAM PURSUANT TO PARAGRAPH B OF THIS SUBDI-
+ VISION SHALL, THROUGH ITS CHIEF EXECUTIVE OFFICER, HAVE FULL  POWER  AND
+ AUTHORITY  TO DESIGNATE THE PUBLIC OFFICER OR AGENCY AUTHORIZED TO ISSUE
+ AN APPEARANCE TICKET, AND A PUBLIC OFFICER WHO,  BY  VIRTUE  OF  OFFICE,
+ TITLE  OR  POSITION, IS AUTHORIZED OR REQUIRED TO ENFORCE THE PROVISIONS
+ OF THE UNIFORM CODE AND THE STATE ENERGY CONSERVATION CONSTRUCTION  CODE
+ AND  THE PROVISIONS OF THE DEFAULT CODE ENFORCEMENT PROGRAM AS FULLY AND
+ WITH THE SAME FORCE AND EFFECT AS SUCH LOCAL GOVERNMENT OR COUNTY  WOULD
+ HAVE  TO  ENFORCE  PROVISIONS  ESTABLISHED BY A LOCAL LAW, ORDINANCE, OR
+ REGULATION ENACTED OR ADOPTED BY SUCH LOCAL GOVERNMENT  OR  COUNTY.  THE
+ DESIGNATION  AUTHORIZED BY THIS PARAGRAPH SHALL NOT TAKE EFFECT UNTIL IT
+ HAS BEEN FILED WITH THE DEPARTMENT OF STATE, AND MUST BE  MAINTAINED  ON
+ THE  WEBSITE  OF  SUCH  LOCAL GOVERNMENT OR COUNTY UNLESS AND UNTIL SUCH
  LOCAL GOVERNMENT OR COUNTY PASSES A LOCAL LAW DELEGATING THE ENFORCEMENT
  AUTHORITY REFERENCED IN THIS PARAGRAPH.
-  D.  WHERE  A LOCAL GOVERNMENT OR COUNTY IS ADMINISTERING AND ENFORCING
+  D. WHERE A LOCAL GOVERNMENT OR COUNTY IS ADMINISTERING  AND  ENFORCING
  THE UNIFORM CODE AND/OR ENERGY CODE IN ACCORDANCE WITH THE PROVISIONS OF
- THE DEFAULT CODE ENFORCEMENT PROGRAM PURSUANT TO  PARAGRAPH  B  OF  THIS
- SUBDIVISION,  THE  DEFAULT  CODE ENFORCEMENT PROGRAM SHALL BE DEEMED THE
- APPLICABLE CODE ENFORCEMENT PROGRAM FOR THE PURPOSES  OF  SECTION  THREE
+ THE  DEFAULT  CODE  ENFORCEMENT  PROGRAM PURSUANT TO PARAGRAPH B OF THIS
+ SUBDIVISION, THE DEFAULT CODE ENFORCEMENT PROGRAM SHALL  BE  DEEMED  THE
+ APPLICABLE  CODE  ENFORCEMENT  PROGRAM FOR THE PURPOSES OF SECTION THREE
  HUNDRED EIGHTY-TWO OF THIS ARTICLE.
-  §  3. Section 382 of the executive law, as added by chapter 707 of the
- laws of 1981, subdivision 2 as amended by chapter 571  of  the  laws  of
- 2021,  subdivision  3  as amended by chapter 507 of the laws of 2021 and
- subdivision 4 as amended by chapter 47 of the laws of 2021,  is  amended
+  § 3. Section 382 of the executive law, as added by chapter 707 of  the
+ laws  of  1981,  subdivision  2 as amended by chapter 571 of the laws of
+ 2021, subdivision 3 as amended by chapter 507 of the laws  of  2021  and
+ subdivision  4  as amended by chapter 47 of the laws of 2021, is amended
  to read as follows:
-  § 382. Remedies.  1. In addition to and not in limitation of any power
- otherwise granted by law, every  local  government  and  its  authorized
- agents  shall  have  the  power to order in writing the remedying of any
- condition found to exist in, on or about any building  in  violation  of
- the  uniform  fire  prevention and building code and to issue appearance
+  § 382. Remedies. 1. In addition to and not in limitation of any  power
+ otherwise  granted  by  law,  every  local government and its authorized
+ agents shall have the power to order in writing  the  remedying  of  any
+ condition  found  to  exist in, on or about any building in violation of
+ the uniform fire prevention and building code and  to  issue  appearance
  tickets for violations of the uniform code.
-  2. FAILURE TO COMPLY WITH THE UNIFORM  FIRE  PREVENTION  AND  BUILDING
- CODE,  PERMIT OR CERTIFICATE OF OCCUPANCY PROVISION OF THE CODE ENFORCE-
+  2.  FAILURE  TO  COMPLY  WITH THE UNIFORM FIRE PREVENTION AND BUILDING
+ CODE, PERMIT OR CERTIFICATE OF OCCUPANCY PROVISION OF THE CODE  ENFORCE-
  MENT PROGRAM, OR ORDER. Any person OR ENTITY, having been served, either
- personally or by registered or certified mail, with an order  to  remedy
- any  condition found to exist in, on, or about any building in violation
- of the uniform fire prevention and building  code,  who  shall  fail  to
+ S. 3372--A  9
+
+ personally  or  by registered or certified mail, with an order to remedy
+ any condition found to exist in, on, or about any building in  violation
+ of  the  uniform  fire  prevention  and building code, who shall fail to
  comply  with such order within the time fixed by the regulations promul-
  gated by the secretary pursuant to  subdivision  one  of  section  three
  hundred eighty-one of this article, such time period to be stated in the
  order,  and  any  owner, builder, architect, tenant, contractor, subcon-
  tractor, construction superintendent or their agents or any other person
- S. 3372  9
-
  taking part or assisting in the construction of any building  who  shall
  knowingly  violate  (I)  any of the applicable provisions of the uniform
  code, (II) ANY PERMIT OR  CERTIFICATE  OF  OCCUPANCY  PROVISION  OF  THE
@@ -478,8 +486,7 @@ S T A T E  O F  N E W  Y O R K
  local government, a county or the secretary made [thereunder] UNDER  THE
  UNIFORM  CODE OR UNDER THE APPLICABLE CODE ENFORCEMENT PROGRAM regarding
  standards for construction, maintenance, or  fire  protection  equipment
- and  systems,  shall  be  GUILTY  OF  AN  UNCLASSIFIED MISDEMEANOR. SUCH
- OFFENSE SHALL BE punishable by a fine of  not  more  than  one  thousand
+ and systems, shall be punishable by a fine of not more than one thousand
  dollars per day of violation, or imprisonment not exceeding one year, or
  both  for  the  first one hundred eighty days, and for the following one
  hundred eighty days shall be punishable by a fine of no less than  twen-
@@ -520,6 +527,8 @@ S T A T E  O F  N E W  Y O R K
  AND  COLLECTED  FOR ANY VIOLATION OF THIS SECTION SHALL BE PAID AT LEAST
  MONTHLY INTO  THE  TREASURY  OF  THE  LOCAL  GOVERNMENT  IN  WHICH  SUCH
  VIOLATION  OCCURRED, UNLESS: (I) THE COUNTY IS ADMINISTERING AND ENFORC-
+ S. 3372--A  10
+ 
  ING THE UNIFORM FIRE PREVENTION  AND  BUILDING  CODE  AND  STATE  ENERGY
  CONSERVATION  CONSTRUCTION  CODE IN SUCH LOCAL GOVERNMENT AS PROVIDED BY
  SUBDIVISION TWO OR FOUR OF SECTION  THREE  HUNDRED  EIGHTY-ONE  OF  THIS
@@ -527,43 +536,41 @@ S T A T E  O F  N E W  Y O R K
  ING  OUT OF THE VIOLATION OF THIS SECTION SHALL BE PAID AT LEAST MONTHLY
  INTO THE TREASURY OF THE COUNTY, (II) AN ADJOINING OR REASONABLY  PROXI-
  MATE  LOCAL  GOVERNMENT  IS ADMINISTERING AND ENFORCING THE UNIFORM FIRE
- S. 3372  10
- 
  PREVENTION AND BUILDING CODE AND STATE ENERGY CONSERVATION  CONSTRUCTION
  CODE IN SUCH LOCAL GOVERNMENT AS PROVIDED BY SUBDIVISION FOUR OF SECTION
  THREE  HUNDRED  EIGHTY-ONE OF THIS ARTICLE, IN WHICH CASE SUCH FINES AND
- PENALTIES  COLLECTED  IN  CASES  ARISING  OUT  OF  THE VIOLATION OF THIS
+ PENALTIES COLLECTED IN CASES  ARISING  OUT  OF  THE  VIOLATION  OF  THIS
  SECTION SHALL BE PAID AT LEAST MONTHLY INTO THE TREASURY OF SUCH ADJOIN-
- ING OR REASONABLY PROXIMATE LOCAL GOVERNMENT, OR (III) THE SECRETARY  IS
- ADMINISTERING  AND  ENFORCING  THE  UNIFORM FIRE PREVENTION AND BUILDING
- CODE AND STATE ENERGY  CONSERVATION  CONSTRUCTION  CODE  IN  SUCH  LOCAL
- GOVERNMENT  AS  PROVIDED  BY  SUBDIVISION  TWO  OR FOUR OF SECTION THREE
- HUNDRED EIGHTY-ONE OF THIS ARTICLE, IN WHICH CASE SUCH FINES AND  PENAL-
- TIES  COLLECTED  IN  CASES  ARISING OUT OF THE VIOLATION OF THIS SECTION
- SHALL BE PAID AT LEAST MONTHLY INTO  THE  GENERAL  FUND  ESTABLISHED  BY
- SECTION  SEVENTY-TWO  OF  THE STATE FINANCE LAW. WHERE TWO OR MORE LOCAL
- GOVERNMENTS HAVE PROVIDED FOR JOINT ADMINISTRATION  AND  ENFORCEMENT  OF
- THE  UNIFORM  CODE,  THE STATE ENERGY CONSERVATION CONSTRUCTION CODE, OR
- BOTH, BY AGREEMENT PURSUANT TO ARTICLE FIVE-G OF THE  GENERAL  MUNICIPAL
- LAW,  SUCH LOCAL GOVERNMENTS MAY PROVIDE IN SUCH AGREEMENT FOR A DIFFER-
+ ING  OR REASONABLY PROXIMATE LOCAL GOVERNMENT, OR (III) THE SECRETARY IS
+ ADMINISTERING AND ENFORCING THE UNIFORM  FIRE  PREVENTION  AND  BUILDING
+ CODE  AND  STATE  ENERGY  CONSERVATION  CONSTRUCTION  CODE IN SUCH LOCAL
+ GOVERNMENT AS PROVIDED BY SUBDIVISION  TWO  OR  FOUR  OF  SECTION  THREE
+ HUNDRED  EIGHTY-ONE OF THIS ARTICLE, IN WHICH CASE SUCH FINES AND PENAL-
+ TIES COLLECTED IN CASES ARISING OUT OF THE  VIOLATION  OF  THIS  SECTION
+ SHALL  BE  PAID  AT  LEAST  MONTHLY INTO THE GENERAL FUND ESTABLISHED BY
+ SECTION SEVENTY-TWO OF THE STATE FINANCE LAW. WHERE TWO  OR  MORE  LOCAL
+ GOVERNMENTS  HAVE  PROVIDED  FOR JOINT ADMINISTRATION AND ENFORCEMENT OF
+ THE UNIFORM CODE, THE STATE ENERGY CONSERVATION  CONSTRUCTION  CODE,  OR
+ BOTH,  BY  AGREEMENT PURSUANT TO ARTICLE FIVE-G OF THE GENERAL MUNICIPAL
+ LAW, SUCH LOCAL GOVERNMENTS MAY PROVIDE IN SUCH AGREEMENT FOR A  DIFFER-
  ENT DISTRIBUTION OF SUCH FINES.
-  (B) THE CIVIL PENALTIES PROVIDED IN SUBDIVISION FOUR OF  THIS  SECTION
+  (B)  THE  CIVIL PENALTIES PROVIDED IN SUBDIVISION FOUR OF THIS SECTION
  MAY BE RECOVERED IN AN APPROPRIATE ACTION OR PROCEEDING COMMENCED BY THE
  LOCAL GOVERNMENT, COUNTY, OR STATE AGENCY RESPONSIBLE FOR ADMINISTRATION
- AND  ENFORCEMENT  OF  THE UNIFORM CODE WITH RESPECT TO THE BUILDING THAT
- WAS ALTERED IN VIOLATION OF ANY PROVISION OF THE  UNIFORM  CODE  OR  ANY
- LAWFUL  ORDER  OBTAINED  UNDER  THIS ARTICLE, UNDER THE UNIFORM CODE, OR
- UNDER THE APPLICABLE CODE ENFORCEMENT PROGRAM, AND SHALL BE  PAYABLE  TO
- THE  TREASURY  OF SUCH LOCAL GOVERNMENT, THE TREASURY OF SUCH COUNTY, OR
+ AND ENFORCEMENT OF THE UNIFORM CODE WITH RESPECT TO  THE  BUILDING  THAT
+ WAS  ALTERED  IN  VIOLATION  OF ANY PROVISION OF THE UNIFORM CODE OR ANY
+ LAWFUL ORDER OBTAINED UNDER THIS ARTICLE, UNDER  THE  UNIFORM  CODE,  OR
+ UNDER  THE  APPLICABLE CODE ENFORCEMENT PROGRAM, AND SHALL BE PAYABLE TO
+ THE TREASURY OF SUCH LOCAL GOVERNMENT, THE TREASURY OF SUCH  COUNTY,  OR
  THE GENERAL FUND OF THE STATE OF NEW YORK, AS APPLICABLE.
   § 4. Subdivision 15 of section 11-102 of the energy law, as amended by
- chapter 560 of the laws of 2010 and renumbered by  chapter  374  of  the
+ chapter  560  of  the  laws of 2010 and renumbered by chapter 374 of the
  laws of 2022, is amended to read as follows:
   15. "Residential building." Any building which is designed or is to be
- used  primarily  as a dwelling or household as defined by the state fire
+ used primarily as a dwelling or household as defined by the  state  fire
  prevention and building code council, including any factory manufactured
- home as defined in subdivision [eight]  TEN  of  section  three  hundred
- seventy-two  of  the  executive  law  and  any mobile home as defined in
- subdivision [thirteen] FIFTEEN of section three hundred  seventy-two  of
+ home  as  defined  in  subdivision  [eight] TEN of section three hundred
+ seventy-two of the executive law and  any  mobile  home  as  defined  in
+ subdivision  [thirteen]  FIFTEEN of section three hundred seventy-two of
  the executive law.
   § 5. This act shall take effect immediately.
