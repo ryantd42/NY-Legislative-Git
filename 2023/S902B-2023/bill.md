@@ -1,6 +1,6 @@
 # Relates to the administration of the statewide central register of child abuse and maltreatment
 
-**Bill ID:** S902BA
+**Bill ID:** S902BB
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires a caller making a report of suspected child abuse or maltreatment to th
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  902--A
+  902--B
  
   2023-2024 Regular Sessions
  
@@ -25,12 +25,15 @@ S T A T E  O F  N E W  Y O R K
   January 9, 2023
   ___________
  
- Introduced  by  Sens.  BRISPORT,  BROUK,  CLEARE,  COMRIE,  FERNANDEZ,
-  GOUNARDES, HARCKHAM, HOYLMAN-SIGAL,  JACKSON,  MYRIE,  RAMOS,  RIVERA,
-  SALAZAR,  SEPULVEDA,  SERRANO, WEBB -- read twice and ordered printed,
-  and when printed to be committed to  the  Committee  on  Children  and
-  Families  --  recommitted to the Committee on Children and Families in
-  accordance with Senate Rule 6, sec. 8 --  committee  discharged,  bill
+ Introduced  by  Sens.  BRISPORT,  BROUK, CHU, CLEARE, COMRIE, FERNANDEZ,
+  GOUNARDES, HARCKHAM, HOYLMAN-SIGAL,  JACKSON,  MURRAY,  MYRIE,  RAMOS,
+  RIVERA,  SALAZAR,  SANDERS, SEPULVEDA, SERRANO, WEBB -- read twice and
+  ordered printed, and when printed to be committed to the Committee  on
+  Children  and Families -- recommitted to the Committee on Children and
+  Families in accordance  with  Senate  Rule  6,  sec.  8  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to  said  committee  --  reported  favorably  from  said committee and
+  committed to the Committee on Finance --  committee  discharged,  bill
   amended,  ordered reprinted as amended and recommitted to said commit-
   tee
  
@@ -56,18 +59,18 @@ S T A T E  O F  N E W  Y O R K
  authorized  by this title may use for determining the existence of prior
  reports in order to evaluate the condition or circumstances of a  child.
  In  addition  to the single statewide telephone number, there shall be a
- special unlisted express telephone  number  and  a  telephone  facsimile
- number  for use only by persons mandated by law to make telephone calls,
- or to transmit telephone facsimile information on a form provided by the
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03747-06-4
- S. 902--A  2
+  LBD03747-10-4
+ S. 902--B  2
  
- commissioner of children and family services, alleging  child  abuse  or
+ special unlisted express telephone  number  and  a  telephone  facsimile
+ number  for use only by persons mandated by law to make telephone calls,
+ or to transmit telephone facsimile information on a form provided by the
+ commissioner  of  children  and family services, alleging child abuse or
  maltreatment, and for use by all persons so authorized by this title for
- determining  the  existence  of  prior  reports in order to evaluate the
+ determining the existence of prior reports  in  order  to  evaluate  the
  condition or circumstances of a child. When any allegations contained in
  such telephone calls could reasonably constitute a report of child abuse
  or  maltreatment,  after  utilizing protocols that would reduce implicit
@@ -104,39 +107,40 @@ S T A T E  O F  N E W  Y O R K
  TO THE CENTRAL REGISTRY SHALL BE ASKED FOR THEIR NAME AND CONTACT INFOR-
  MATION. NO REPORT SHALL BE  TRANSMITTED  TO  A  LOCAL  CHILD  PROTECTIVE
  SERVICE  FOR INVESTIGATION UNLESS THE CALLER'S NAME AND CONTACT INFORMA-
- TION IS PROVIDED.  NOTWITHSTANDING ANY PROVISION OF LAW TO THE CONTRARY,
- OTHER THAN DISCLOSURE TO THE LOCAL CHILD PROTECTIVE SERVICE AS  REQUIRED
- PURSUANT  TO PARAGRAPH (A) OF THIS SUBDIVISION, NEITHER THE COMMISSIONER
- NOR THE CENTRAL REGISTER SHALL RELEASE THE NAME AND CONTACT  INFORMATION
- OF  A  CALLER WHO MADE A REPORT OF SUSPECTED CHILD ABUSE OR MALTREATMENT
- UNLESS ORDERED BY AN ADMINISTRATIVE LAW JUDGE OR A  COURT  OF  COMPETENT
- JURISDICTION;  PROVIDED, HOWEVER, THAT THIS PROVISION SHALL NOT APPLY TO
- INDIVIDUALS  WHO  ARE  MANDATED  TO  REPORT  SUSPECTED  CHILD  ABUSE  OR
- MALTREATMENT  PURSUANT  TO  SECTION FOUR HUNDRED THIRTEEN OF THIS TITLE.
- PRIOR TO THE ENTRY OF ANY SUCH ORDER, THE PETITIONER OR SOCIAL  SERVICES
- OFFICIAL  MAY  MOVE  FOR  A PROTECTIVE ORDER TO WITHHOLD THE IDENTITY OF
- SUCH INDIVIDUAL IF SUCH DISCLOSURE IS LIKELY TO  ENDANGER  THE  LIFE  OR
- HEALTH  OF  THE PERSON REPORTING SUCH SUSPECTED CHILD ABUSE OR MALTREAT-
- MENT.
-  § 3. Subdivision 7 of section 422  of  the  social  services  law,  as
- amended  by  chapter  434  of  the  laws  of 1989, is amended to read as
- follows:
- S. 902--A  3
+ TION IS PROVIDED.  EXCEPT FOR DISCLOSURES  AUTHORIZED  BY  SUBPARAGRAPHS
+ (A)  THROUGH  (C)  AND  (E) THROUGH (BB) OF PARAGRAPH (A) OF SUBDIVISION
+ FOUR OF THIS SECTION, AND  DISCLOSURE  TO  THE  LOCAL  CHILD  PROTECTIVE
+ SERVICE  AS  REQUIRED  PURSUANT  TO  PARAGRAPH  (A) OF THIS SUBDIVISION,
+ NEITHER THE COMMISSIONER NOR THE CENTRAL REGISTER SHALL RELEASE THE NAME
+ AND CONTACT INFORMATION OF A CALLER WHO MADE A REPORT OF SUSPECTED CHILD
+ ABUSE OR MALTREATMENT UNLESS ORDERED BY AN ADMINISTRATIVE LAW JUDGE OR A
+ COURT OF COMPETENT JURISDICTION; PROVIDED, HOWEVER, THAT THIS  PROVISION
+ SHALL  NOT  APPLY  TO  INDIVIDUALS  WHO ARE MANDATED TO REPORT SUSPECTED
+ CHILD ABUSE OR MALTREATMENT PURSUANT TO SECTION FOUR HUNDRED THIRTEEN OF
+ THIS TITLE.  PRIOR TO THE ENTRY OF ANY SUCH  ORDER,  THE  PETITIONER  OR
+ SOCIAL SERVICES OFFICIAL MAY MOVE FOR A PROTECTIVE ORDER TO WITHHOLD THE
+ IDENTITY OF SUCH INDIVIDUAL IF SUCH DISCLOSURE IS LIKELY TO ENDANGER THE
+ S. 902--B  3
  
-  7. At any time, a subject of a report and other persons named  in  the
+ LIFE  OR  HEALTH  OF  THE PERSON REPORTING SUCH SUSPECTED CHILD ABUSE OR
+ MALTREATMENT.
+  §  3.  Subdivision  7  of  section  422 of the social services law, as
+ amended by chapter 434 of the laws  of  1989,  is  amended  to  read  as
+ follows:
+  7.  At  any time, a subject of a report and other persons named in the
  report may receive, upon request, a copy of all information contained in
  the central register; provided, however, THAT THE OFFICE OF CHILDREN AND
- FAMILY  SERVICES  SHALL NOT RELEASE INFORMATION IDENTIFYING A PERSON WHO
+ FAMILY SERVICES SHALL NOT RELEASE INFORMATION IDENTIFYING A  PERSON  WHO
  MADE  A  REPORT  PURSUANT TO SECTION FOUR HUNDRED FOURTEEN OF THIS TITLE
  EXCEPT WITH THAT PERSON'S PERMISSION OR PURSUANT TO SUBDIVISION  (B)  OF
  SECTION ONE THOUSAND THIRTY-EIGHT OF THE FAMILY COURT ACT OR PURSUANT TO
  SECTION  FOUR  HUNDRED TWENTY-FOUR-A OF THIS TITLE; AND that the commis-
  sioner is authorized to prohibit the release of data that would identify
- [the person who made the report] PERSONS or who cooperated in  a  subse-
- quent investigation or the agency, institution, organization, program or
- other  entity  where  such  person  is  employed or with which [he] SUCH
- PERSON is associated, which [he] SUCH PERSON reasonably  finds  will  be
- detrimental to the safety or interests of such person.
-  §  4.  This act shall take effect immediately; provided, however, that
- section one of this act shall take effect on the one  hundred  eightieth
+ the person who made the report or who cooperated in a subsequent  inves-
+ tigation  or  the  agency,  institution,  organization, program or other
+ entity where such person is employed or with which [he] SUCH  PERSON  is
+ associated,  which [he] THE COMMISSIONER reasonably finds will be detri-
+ mental to the safety or interests of such person.
+  § 4. This act shall take effect immediately; provided,  however,  that
+ section  one  of this act shall take effect on the one hundred eightieth
  day after it shall have become a law.
