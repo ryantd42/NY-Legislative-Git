@@ -1,6 +1,6 @@
 # Requires electric vehicle charging stations and electric vehicle ready parking spaces in certain new construction
 
-**Bill ID:** S1736ED
+**Bill ID:** S1736EE
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Signed by Governor
@@ -16,7 +16,7 @@ Requires new construction that includes dedicated off-street parking to provide 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1736--D
+  1736--E
  
   2023-2024 Regular Sessions
  
@@ -26,45 +26,46 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  Sens.  KRUEGER,  CHU, GOUNARDES, HOYLMAN-SIGAL, JACKSON,
-  KENNEDY, MAY, MYRIE,  RAMOS,  RIVERA,  SEPULVEDA  --  read  twice  and
-  ordered  printed, and when printed to be committed to the Committee on
-  Housing, Construction and Community Development -- reported  favorably
-  from said committee and committed to the Committee on Energy and Tele-
-  communications  --  committee  discharged,  bill  amended,  ordered
-  reprinted as amended and recommitted to  said  committee  --  reported
-  favorably  from  said  committee  and  committed  to  the Committee on
-  Finance -- committee discharged, bill amended,  ordered  reprinted  as
-  amended  and  recommitted to said committee -- reported favorably from
-  said committee, ordered to first and second report, ordered to a third
-  reading, amended and ordered reprinted, retaining  its  place  in  the
-  order  of  third  reading  -- recommitted to the Committee on Housing,
-  Construction and Community Development in accordance with Senate  Rule
-  6,  sec.  8 -- reported favorably from said committee and committed to
-  the  Committee  on  Energy  and  Telecommunications  --  committee
+  MAY, MYRIE, RAMOS, RIVERA, SEPULVEDA -- read twice and ordered  print-
+  ed,  and  when  printed  to  be committed to the Committee on Housing,
+  Construction and Community Development -- reported favorably from said
+  committee and committed to the Committee on  Energy  and  Telecommuni-
+  cations  --  committee  discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee -- reported  favorably  from
+  said  committee and committed to the Committee on Finance -- committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee -- reported favorably from said  committee,  ordered
+  to  first  and  second report, ordered to a third reading, amended and
+  ordered reprinted, retaining its place in the order of  third  reading
+  -- recommitted to the Committee on Housing, Construction and Community
+  Development  in  accordance  with  Senate  Rule  6, sec. 8 -- reported
+  favorably from said committee and committed to the Committee on Energy
+  and Telecommunications -- committee discharged, bill amended,  ordered
+  reprinted  as  amended  and recommitted to said committee -- committee
   discharged, bill amended, ordered reprinted as amended and recommitted
   to said committee
  
- AN  ACT  to  amend  the  executive  law,  in  relation  to requiring new
-  construction that includes dedicated  off-street  parking  to  provide
-  electric  vehicle charging stations and electric vehicle ready parking
+ AN ACT to  amend  the  executive  law,  in  relation  to  requiring  new
+  construction  that  includes  dedicated  off-street parking to provide
+  electric vehicle charging stations and electric vehicle ready  parking
   spaces
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 378 of the executive law is amended by adding a new
  subdivision 17-a to read as follows:
   17-A. A. STANDARDS TO REQUIRE NEW CONSTRUCTION THAT INCLUDES DEDICATED
- OFF-STREET  PARKING  INVOLVING  A GARAGE, DRIVEWAY, PARKING LOT OR OTHER
+ OFF-STREET PARKING INVOLVING A GARAGE, DRIVEWAY, PARKING  LOT  OR  OTHER
  OFF-STREET PARKING, TO HAVE:
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03756-15-4
- S. 1736--D  2
+  LBD03756-18-4
+ S. 1736--E  2
  
-  (I) ELECTRIC VEHICLE CHARGING STATIONS AS DEFINED IN PARAGRAPH (B)  OF
- SUBDIVISION  ONE  OF  SECTION  THREE  HUNDRED THIRTY-NINE-LL OF THE REAL
+  (I)  ELECTRIC VEHICLE CHARGING STATIONS AS DEFINED IN PARAGRAPH (B) OF
+ SUBDIVISION ONE OF SECTION THREE  HUNDRED  THIRTY-NINE-LL  OF  THE  REAL
  PROPERTY LAW; AND
   (II) ELECTRIC VEHICLE READY PARKING SPACES.
   B. FOR THE PURPOSES OF THIS SUBDIVISION:
@@ -119,7 +120,7 @@ S T A T E  O F  N E W  Y O R K
  REQUIRED BY THIS SUBPARAGRAPH, A SINGLE BRANCH CIRCUIT OF NOT LESS  THAN
  40-AMPERE  SHALL  BE  PERMITTED. FOR BUILDINGS WITH INDIVIDUALLY METERED
  RESIDENTIAL UNITS AND PARKING SPACES SPECIFICALLY DESIGNATED FOR THE USE
- S. 1736--D  3
+ S. 1736--E  3
  
  OF INDIVIDUAL UNITS, ELECTRIC VEHICLE READY PARKING SPACES AND  LEVEL  2
  ELECTRIC  VEHICLE  CHARGING  STATIONS  INSTALLED  IN SUCH PARKING SPACES
@@ -169,21 +170,16 @@ S T A T E  O F  N E W  Y O R K
  OF THE LOCAL UTILITY PROVIDER, OR THAT THE GEOGRAPHIC  LOCATION  OF  THE
  SITE IS SUCH THAT COMPLIANCE WOULD RESULT IN A SIGNIFICANT BURDEN ON THE
  OWNER.
-  F. THE REQUIREMENTS OF THIS SUBDIVISION SHALL NOT APPLY TO ONE HUNDRED
- PERCENT  AFFORDABLE  HOUSING.  FOR THE PURPOSES OF THIS SUBDIVISION, THE
- TERM "ONE HUNDRED PERCENT AFFORDABLE HOUSING" SHALL  MEAN  A  MULTI-UNIT
- RESIDENTIAL  BUILDING IN WHICH ONE HUNDRED PERCENT OF DWELLING UNITS ARE
- REQUIRED, PURSUANT TO A FEDERAL, STATE, OR LOCAL LAW, RULE, OR  PROGRAM,
- TO  BE  AFFORDABLE  FOR TENANTS OR OWNERS WHERE THE OCCUPANT'S HOUSEHOLD
- INCOME RELATIVE TO THE AREA  MEDIAN  INCOME  DOES  NOT  EXCEED  A  FIXED
- PERCENTAGE  OR  PERCENTAGES,  AND THAT IS SUBJECT TO AN ACTUAL OR ANTIC-
- S. 1736--D  4
- 
- IPATED AGREEMENT WITH A LOCAL, STATE, OR FEDERAL GOVERNMENTAL ENTITY FOR
- THE PURPOSES OF PROVIDING AFFORDABLE HOUSING  IN  A  GIVEN  LOCALITY  OR
- REGION.
-  G.  STANDARDS  PROMULGATED  PURSUANT TO THIS SUBDIVISION SHALL INCLUDE
- REQUIREMENTS FOR CLEAR AND PROMINENT SIGNAGE DENOTING  THE  AVAILABILITY
+  F.  THE REQUIREMENTS OF THIS SUBDIVISION SHALL NOT APPLY TO AFFORDABLE
+ HOUSING. FOR THE PURPOSES OF  THIS  SUBDIVISION,  THE  TERM  "AFFORDABLE
+ HOUSING"  SHALL  MEAN  A  MULTI-UNIT  RESIDENTIAL BUILDING SUBJECT TO AN
+ ACTUAL OR ANTICIPATED AGREEMENT WITH A LOCAL, STATE, OR FEDERAL  GOVERN-
+ MENTAL  ENTITY  FOR  THE  PURPOSES  OF PROVIDING AFFORDABLE HOUSING IN A
+ GIVEN LOCALITY OR REGION.
+  G. STANDARDS PROMULGATED PURSUANT TO THIS  SUBDIVISION  SHALL  INCLUDE
+ REQUIREMENTS  FOR  CLEAR AND PROMINENT SIGNAGE DENOTING THE AVAILABILITY
+ S. 1736--E  4
+
  AND LOCATION OF ELECTRIC VEHICLE READY PARKING SPACES AND ELECTRIC VEHI-
  CLE CHARGING STATIONS.
   H.  NOTHING  IN  THIS  SUBDIVISION  SHALL  BE INTERPRETED OR OTHERWISE
