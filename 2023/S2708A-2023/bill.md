@@ -1,6 +1,6 @@
 # Requires the installation of climb deterrent fencing on certain bridges
 
-**Bill ID:** S2708A
+**Bill ID:** S2708AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Requires the installation of climb deterrent fencing on all bridges under the ju
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2708
+  2708--A
  
   2023-2024 Regular Sessions
  
@@ -25,29 +25,54 @@ S T A T E  O F  N E W  Y O R K
   January 24, 2023
   ___________
  
- Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Transportation
+ Introduced  by Sens. HARCKHAM, FERNANDEZ, JACKSON, SKOUFIS -- read twice
+  and ordered printed, and when printed to be committed to the Committee
+  on Transportation -- recommitted to the Committee on Transportation in
+  accordance with Senate Rule 6, sec. 8 --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
- AN ACT to amend the transportation law, in  relation  to  requiring  the
-  installation of climb deterrent fencing on certain bridges
+ AN ACT to amend the transportation law and the public  authorities  law,
+  in  relation  to requiring the installation of climb deterrent fencing
+  on certain bridges
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 14 of the transportation law is amended by adding a
  new subdivision 16-a to read as follows:
-  16-A. THE COMMISSIONER SHALL ENSURE THAT CLIMB  DETERRENT  FENCING  IS
- INSTALLED  ON  ALL  BRIDGES UNDER THE JURISDICTION OF THE NEW YORK STATE
- BRIDGE AUTHORITY.
-  § 2. This act shall take effect one year after it shall have become  a
- law.
- 
- 
- 
- 
- 
- 
+  16-A.  THE  COMMISSIONER  SHALL ENSURE THAT CLIMB DETERRENT FENCING IS
+ INSTALLED ON ALL BRIDGES UNDER THE JURISDICTION OF THE  NEW  YORK  STATE
+ BRIDGE  AUTHORITY.  FOR PURPOSES OF THIS SECTION, "CLIMB DETERRENT FENC-
+ ING" SHALL MEAN FENCING DESIGNED FOR DETERRENCE OF CLIMBING AND PREVENT-
+ ING GRIP AND FOOTHOLDS, EQUIPPED WITH CERTAIN FEATURES INCLUDING BUT NOT
+ LIMITED TO WELDED WIRE MESH PANELS,  TIGHTLY  SPACED  WIRES,  AND  SPIKE
+ COLLARS.
+  § 2.  Section 530 of the public authorities law, as amended by chapter
+ 420 of the laws of 1968, is amended to read as follows:
+  §  530.  Construction  contracts.  The  authority  shall construct the
+ bridges pursuant to a  contract  or  contracts.  THE  AUTHORITY  SHALL
+ CONSTRUCT THE BRIDGES PURSUANT TO A CONTRACT OR CONTRACTS. THE AUTHORITY
+ SHALL  INSTALL  CLIMB  DETERRENT  FENCING  AS  DEFINED  IN  SUBDIVISION
+ SIXTEEN-A OF SECTION FOURTEEN OF THE TRANSPORTATION LAW ON  ALL  BRIDGES
+ UNDER  ITS  JURISDICTION.  Such  contracts shall be let under the super-
+ vision of the commissioner and shall be subject to [his] THE approval OF
+ SUCH COMMISSIONER.  Such contracts shall be let by the authority in  the
+ manner,  so  far as practicable, provided in section thirty-eight of the
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07116-01-3
+  LBD07116-02-4
+ S. 2708--A  2
+ 
+ highway law, but failure to comply with such section shall  not  invali-
+ date  such  contracts. Requisitions for the payments to be made pursuant
+ to such contracts shall be approved by the commissioner. The work  under
+ such  contracts  shall be subject to the supervision and approval of the
+ commissioner.
+  § 3. This act shall take effect three years after it shall have become
+ a law and shall apply to construction  contracts  entered  into  on  and
+ after  such  effective date. Effective immediately, the addition, amend-
+ ment and/or repeal of any rule or regulation necessary for the implemen-
+ tation of this act on its effective date are authorized to be  made  and
+ completed on or before such effective date.
