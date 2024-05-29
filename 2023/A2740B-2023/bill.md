@@ -1,6 +1,6 @@
 # Relates to state agency contracts with not-for-profit corporations
 
-**Bill ID:** A2740BA
+**Bill ID:** A2740BB
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Vetoed
@@ -16,7 +16,7 @@ Defines noncompliant state agency; provides for timelines and procedures for sta
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2740--A
+  2740--B
  
   2023-2024 Regular Sessions
  
@@ -27,45 +27,48 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  M.  of  A. PAULIN, WALLACE, SIMONE, SIMON, LAVINE, RAGA,
   HEVESI, LEVENBERG, SAYEGH,  BURDICK,  SHIMSKY,  OTIS,  BURGOS,  GIBBS,
-  TAYLOR,  ZACCARO, DAVILA -- read once and referred to the Committee on
-  Governmental Operations -- recommitted to  the  Committee  on  Govern-
-  mental  Operations  in  accordance  with  Assembly  Rule  3, sec. 2 --
-  committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
+  TAYLOR,  ZACCARO,  DAVILA,  McDONALD  -- read once and referred to the
+  Committee on Governmental Operations -- recommitted to  the  Committee
+  on  Governmental Operations in accordance with Assembly Rule 3, sec. 2
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and  recommitted  to  said  committee  -- reported and referred to the
+  Committee on Codes -- reported and referred to the Committee  on  Ways
+  and  Means -- committee discharged, bill amended, ordered reprinted as
+  amended and recommitted to said committee
  
- AN  ACT  to  amend  the  state  finance law, in relation to state agency
+ AN ACT to amend the state finance  law,  in  relation  to  state  agency
   contracts with not-for-profit corporations
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 179-q of the state finance law is amended by adding
  a new subdivision 15 to read as follows:
-  15.  "NONCOMPLIANT  STATE AGENCY" MEANS A STATE AGENCY THAT HAS FAILED
+  15. "NONCOMPLIANT STATE AGENCY" MEANS A STATE AGENCY THAT  HAS  FAILED
  TO EXECUTE CERTAIN CONTRACTS WITHIN REQUIRED TIME FRAMES.
   § 2. Section 179-t of the state finance law is amended by adding a new
  subdivision 4-a to read as follows:
-  4-A. A STATE AGENCY SHALL BE DEEMED TO BE NONCOMPLIANT IF, FOR SIX  OF
- THE  LAST  TWELVE  PRECEDING MONTHS, IT HAS (A) FAILED TO SUBMIT RENEWAL
- CONTRACTS TO THE ATTORNEY GENERAL WITHIN  THE  TIME  FRAME  REQUIRED  BY
- SUBDIVISION  FOUR  OF THIS SECTION WHEN NOT-FOR-PROFIT ORGANIZATIONS ARE
- PARTIES TO SUCH CONTRACTS AND A WRITTEN DIRECTIVE HAS BEEN  ISSUED,  (B)
- FAILED  TO  SUBMIT  RENEWAL  CONTRACTS  TO THE ATTORNEY GENERAL PRIOR TO
- COMMENCEMENT WHEN  NOT-FOR-PROFIT  ORGANIZATIONS  ARE  PARTIES  TO  SUCH
- CONTRACTS,  AND/OR  (C)  IN  ANY  OTHER MANNER FAILED TO FULLY EXECUTE A
+  4-A.  A STATE AGENCY SHALL BE DEEMED TO BE NONCOMPLIANT IF, FOR SIX OF
+ THE LAST TWELVE PRECEDING MONTHS,  IT  HAS  (A)  FAILED  TO  SUBMIT  ANY
+ RENEWAL CONTRACTS TO THE ATTORNEY GENERAL WITHIN THE TIME FRAME REQUIRED
+ BY  SUBDIVISION  FOUR  OF THIS SECTION WHEN NOT-FOR-PROFIT ORGANIZATIONS
+ ARE PARTIES TO SUCH CONTRACTS AND A WRITTEN DIRECTIVE HAS  BEEN  ISSUED,
+ (B) FAILED TO SUBMIT ANY RENEWAL CONTRACTS TO THE ATTORNEY GENERAL PRIOR
+ TO  COMMENCEMENT  WHEN  NOT-FOR-PROFIT ORGANIZATIONS ARE PARTIES TO SUCH
+ CONTRACTS, AND/OR (C) IN ANY OTHER MANNER  FAILED  TO  FULLY  EXECUTE  A
  CONTRACT BEFORE ITS START DATE.
-  § 3.  Section 179-bb of the state finance law is amended by  adding  a
+  §  3.  Section 179-bb of the state finance law is amended by adding a
  new subdivision 4 to read as follows:
-  4.  (A)  A NONCOMPLIANT STATE AGENCY SHALL PREPARE AND TRANSMIT TO THE
- OFFICE OF THE STATE COMPTROLLER, BY THE END OF EVERY MONTH FOR WHICH  IT
- IS  NONCOMPLIANT, A REPORT ADDRESSING THOSE RENEWAL CONTRACTS WHICH HAVE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD05711-02-4
- A. 2740--A  2
+  LBD05711-04-4
+ A. 2740--B  2
  
- NOT BEEN SUBMITTED  TO  THE  ATTORNEY  GENERAL  WITHIN  THE  TIME  FRAME
+  4. (A) A NONCOMPLIANT STATE AGENCY SHALL PREPARE AND TRANSMIT  TO  THE
+ OFFICE  OF THE STATE COMPTROLLER, BY THE END OF EVERY MONTH FOR WHICH IT
+ IS NONCOMPLIANT, A REPORT ADDRESSING THOSE RENEWAL CONTRACTS WHICH  HAVE
+ NOT  BEEN  SUBMITTED  TO  THE  ATTORNEY  GENERAL  WITHIN  THE TIME FRAME
  REQUIRED  BY  SUBDIVISION  FOUR OF SECTION ONE HUNDRED SEVENTY-NINE-T OF
  THIS ARTICLE.  IN  ADDITION,  SUCH  AGENCY  SHALL  PROVIDE  NOTIFICATION
  REGARDING  THE SUBMISSION OF SUCH REPORT TO THE NOT-FOR-PROFIT ORGANIZA-
