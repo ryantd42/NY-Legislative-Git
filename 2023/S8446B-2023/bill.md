@@ -1,6 +1,6 @@
 # Relates to county committee designations of candidates for certain offices
 
-**Bill ID:** S8446BA
+**Bill ID:** S8446BB
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to party nominations for candidates for office, excluding counties locat
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8446--A
+  8446--B
  
   I N  S E N A T E
  
@@ -26,11 +26,12 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
   printed to be committed to the Committee  on  Elections  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
- 
- AN  ACT  to  amend  the election law, in relation to certain party nomi-
-  nations for candidates for county office
+  to  said  committee  --  committee  discharged,  bill amended, ordered
+  reprinted as amended and recommitted to said committee
 
+ AN ACT to amend the election law, in relation to county committee desig-
+  nations of candidates for certain offices
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -58,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
  REPRESENTING  SUCH ASSEMBLY DISTRICT OR PART OF AN ASSEMBLY DISTRICT, IF
  THE PARTY RULES OF THE COUNTY CONTAINING SUCH ASSEMBLY DISTRICT OR  PART
  OF AN ASSEMBLY DISTRICT SO PROVIDE.
-  4.  DESIGNATIONS  MADE  PURSUANT  TO SUBDIVISIONS ONE THROUGH THREE OF
- THIS SECTION SHALL BE MADE BY WEIGHTED  VOTE  OF  ALL  COUNTY  COMMITTEE
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00314-04-4
- S. 8446--A  2
+  LBD00314-06-4
+ S. 8446--B  2
  
+  4.  DESIGNATIONS  MADE  PURSUANT  TO SUBDIVISIONS ONE THROUGH THREE OF
+ THIS SECTION SHALL BE MADE BY WEIGHTED  VOTE  OF  ALL  COUNTY  COMMITTEE
  MEMBERS  QUALIFIED TO VOTE FOR EACH SUCH DESIGNATION. THE VOTE OF COUNTY
  COMMITTEE MEMBERS SHALL BE HELD NOT EARLIER THAN TWENTY-ONE DAYS  BEFORE
  THE FIRST DAY TO SIGN DESIGNATING PETITIONS AND NOT LATER THAN THE FIRST
@@ -120,10 +121,10 @@ S T A T E  O F  N E W  Y O R K
  SHALL  FILE  WITH  THE STATE BOARD OF ELECTIONS A DOCUMENT, CERTIFIED BY
  THE CHAIRPERSON AND THE SECRETARY OF THE COUNTY COMMITTEE,  IDENTIFYING,
  FOR  EACH  ELECTED OFFICE FOR WHICH MEMBERS OF THE COUNTY COMMITTEE CAST
+ S. 8446--B  3
+ 
  DESIGNATING BALLOTS, THE NAME OF EACH COUNTY COMMITTEE MEMBER WHO CAST A
  BALLOT DURING THE VOTE, THE UNIT  OF  REPRESENTATION  EACH  SUCH  MEMBER
- S. 8446--A  3
- 
  REPRESENTS,  AND  THE  NAME OF THE PERSON WHOM EACH SUCH MEMBER VOTED TO
  DESIGNATE.
   (D)  FOR  EACH  ELECTED  OFFICE FOR WHICH THE STATE BOARD OF ELECTIONS
