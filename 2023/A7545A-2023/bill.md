@@ -1,6 +1,6 @@
 # Relates to resources and programs available to foster care youth
 
-**Bill ID:** A7545A
+**Bill ID:** A7545AA
 **Session:** 2023
 **Sponsor:** Stefani Zinerman
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Directs the commissioner of the office of children and family services, in consu
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7545
+  7545--A
  
   2023-2024 Regular Sessions
  
@@ -25,34 +25,35 @@ S T A T E  O F  N E W  Y O R K
   May 25, 2023
   ___________
  
- Introduced by M. of A. ZINERMAN -- read once and referred to the Commit-
-  tee on Higher Education
+ Introduced by M. of A. ZINERMAN, DICKENS, BUTTENSCHON, STIRPE, LUNSFORD,
+  CONRAD,  CHANDLER-WATERMAN,  BURGOS,  WALLACE, CUNNINGHAM -- read once
+  and referred to the Committee on Higher Education  --  recommitted  to
+  the  Committee on Higher Education in accordance with Assembly Rule 3,
+  sec. 2 -- committee discharged, bill  amended,  ordered  reprinted  as
+  amended and recommitted to said committee
  
- AN ACT to amend the education law, in relation to higher education fund-
-  ing opportunities for foster youth
+ AN  ACT  to  amend the social services law, in relation to resources and
+  programs available to foster care youth
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
-  Section 1. Section 355 of the education law is amended by adding a new
- subdivision 22 to read as follows:
-  22. THE COMMISSIONER, IN CONJUNCTION  WITH  THE  COMMISSIONER  OF  THE
- OFFICE  OF  CHILDREN  AND FAMILY SERVICES, SHALL CREATE AND DISPLAY IN A
- VISUALLY CONSPICUOUS MANNER POSTERS, PAMPHLETS, OR OTHER WRITTEN MATERI-
- ALS REGARDING STATE AND FEDERALLY OPERATED PROGRAMS THAT PROVIDE FUNDING
- OPPORTUNITIES FOR FOSTER YOUTH AT THE HIGHER EDUCATION  INSTITUTIONS  OF
- THE  STATE  UNIVERSITY  OF  NEW YORK AND CITY UNIVERSITY OF NEW YORK, AS
- WELL AS THE ELIGIBILITY REQUIREMENTS FOR SUCH PROGRAMS. SUCH INFORMATION
- SHALL BE DISPLAYED AT ADMISSIONS AND FINANCIAL AID  OFFICES  LOCATED  ON
- THE  PREMISES  OF  SUCH  INSTITUTIONS,  AS WELL AS ON SUCH INSTITUTIONS'
- WEBSITES, THE WEBSITE OF THE DEPARTMENT, AND THE WEBSITE OF  THE  OFFICE
- OF CHILDREN AND FAMILY SERVICES.
+ 
+  Section  1. The social services law is amended by adding a new section
+ 383-d to read as follows:
+  § 383-D. RESOURCES AND PROGRAMS AVAILABLE TO FOSTER  CARE  YOUTH.  THE
+ COMMISSIONER OF THE OFFICE OF CHILDREN AND FAMILY SERVICES, IN CONSULTA-
+ TION WITH THE COMMISSIONER OF EDUCATION, SHALL DEVELOP EDUCATIONAL MATE-
+ RIALS  REGARDING  RESOURCES  AND PROGRAMS AVAILABLE TO FOSTER CARE YOUTH
+ WHO ARE PREPARING TO ATTEND OR  ARE  ATTENDING  INSTITUTIONS  OF  HIGHER
+ EDUCATION INCLUDING INFORMATION ON FUNDING OPPORTUNITIES THAT ARE AVAIL-
+ ABLE  FOR SUCH YOUTH. SUCH MATERIALS SHALL INCLUDE POSTERS AND PAMPHLETS
+ AND SHALL BE MADE AVAILABLE TO INSTITUTIONS OF HIGHER EDUCATION, AND  AT
+ A MINIMUM, BE POSTED ON THE OFFICE'S WEBSITE.
   §  2.  This  act shall take effect on the ninetieth day after it shall
  have become a law.
  
  
  
- 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04577-01-3
+  LBD04577-02-4
