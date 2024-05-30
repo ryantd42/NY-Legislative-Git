@@ -1,6 +1,6 @@
 # Relates to voluntary contributions in support of municipal animal pounds or shelters
 
-**Bill ID:** A2976A
+**Bill ID:** A2976AA
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Stricken
@@ -16,7 +16,7 @@ Relates to voluntary contributions in support of municipal animal pounds or shel
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2976
+  2976--A
  
   2023-2024 Regular Sessions
  
@@ -26,8 +26,11 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  ZEBROWSKI  --  read once and referred to the
-  Committee on Agriculture
- 
+  Committee on Agriculture -- recommitted to the Committee  on  Agricul-
+  ture  in  accordance  with  Assembly  Rule  3,  sec.  2  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
+
  AN ACT to amend the agriculture and markets law, in relation  to  volun-
   tary contributions in support of municipal animal pounds or shelters
  
@@ -56,74 +59,77 @@ S T A T E  O F  N E W  Y O R K
  the event an applicant for a license  presents,  in  lieu  of  a  rabies
  certificate,  a  statement  certified  by  a  licensed  veterinarian, as
  provided in subdivision two of this section, a license shall  be  issued
- or renewed for a period of one year from the date of said statement. Any
- municipality  may establish a common renewal date for all such licenses.
- A license issued by a municipality that has established a common renewal
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07227-01-3
- A. 2976  2
+  LBD07227-03-4
+ A. 2976--A  2
  
- date shall expire no later than the common renewal  date  prior  to  the
+ or renewed for a period of one year from the date of said statement. Any
+ municipality  may establish a common renewal date for all such licenses.
+ A license issued by a municipality that has established a common renewal
+ date  shall  expire  no  later than the common renewal date prior to the
  expiration date of the rabies certificate for the dog being licensed.
-  (b)  Application  for  a dog license shall be made to the clerk of the
- town, city, or county or, in the counties  of  Nassau  and  Westchester,
- incorporated  village  in  which  the  dog is harbored or to the village
- clerk of those villages in the county of Rockland with a  population  of
- fifteen  thousand  or  more  which  have  elected to accept applications
- pursuant to the provisions of this paragraph or to the village clerk  of
- the  village  of  Newark in the county of Wayne upon the election of the
+  (b) Application for a dog license shall be made to the  clerk  of  the
+ town,  city,  or  county  or, in the counties of Nassau and Westchester,
+ incorporated village in which the dog is  harbored  or  to  the  village
+ clerk  of  those villages in the county of Rockland with a population of
+ fifteen thousand or more  which  have  elected  to  accept  applications
+ pursuant  to the provisions of this paragraph or to the village clerk of
+ the village of Newark in the county of Wayne upon the  election  of  the
  village  of  Newark  pursuant  to  the  provisions  of  this  paragraph.
- Provided,  however,  that in the counties of Nassau and Westchester, the
- board of trustees of any incorporated village may by resolution  provide
- that  applications  for  licenses shall no longer be made to the village
- clerk, but to the clerk of the town in which the  village  is  situated.
- Provided  further, however, that in the county of Rockland, the board of
- trustees of any incorporated village with a population of fifteen  thou-
- sand  or  more  may  by resolution provide that application for licenses
- shall be made to the village clerk. Provided further, however,  that  in
- the  county of Wayne, the board of trustees of the village of Newark may
+ Provided, however, that in the counties of Nassau and  Westchester,  the
+ board  of trustees of any incorporated village may by resolution provide
+ that applications for licenses shall no longer be made  to  the  village
+ clerk,  but  to  the clerk of the town in which the village is situated.
+ Provided further, however, that in the county of Rockland, the board  of
+ trustees  of any incorporated village with a population of fifteen thou-
+ sand or more may by resolution provide  that  application  for  licenses
+ shall  be  made to the village clerk. Provided further, however, that in
+ the county of Wayne, the board of trustees of the village of Newark  may
  by resolution provide that application for licenses shall be made to the
  village clerk. Provided further, however, that in the county of Montgom-
- ery, the board of trustees of the  village  of  St.  Johnsville  may  by
- resolution  provide  that  application for licenses shall be made to the
- village clerk. The governing body of any town or city or, in  the  coun-
+ ery,  the  board  of  trustees  of  the village of St. Johnsville may by
+ resolution provide that application for licenses shall be  made  to  the
+ village  clerk.  The governing body of any town or city or, in the coun-
  ties of Nassau and Westchester, incorporated village or in the county of
- Rockland,  those  villages with a population of fifteen thousand or more
- which have so elected to accept applications, in the  county  of  Wayne,
- the  village of Newark if such village has so elected to accept applica-
+ Rockland, those villages with a population of fifteen thousand  or  more
+ which  have  so  elected to accept applications, in the county of Wayne,
+ the village of Newark if such village has so elected to accept  applica-
  tions or, in the county of Montgomery, the village of St.  Johnsville if
  such village has so elected to accept applications may, on resolution of
- such body, authorize that such application be made to one or more  named
+ such  body, authorize that such application be made to one or more named
  dog control officers of any such town, city or village.  The issuance of
- any  license  by  any such officer shall be under the control and super-
+ any license by any such officer shall be under the  control  and  super-
  vision of the clerk. In the case of a seized dog being redeemed or a dog
- being otherwise obtained from a county animal  shelter  or  pound,  such
- application  may  be made to the county dog control officer in charge of
- such facility. In the case of a  dog  being  redeemed  or  a  dog  being
- adopted  from  a  shelter or pound established, maintained or contracted
- for, pursuant to section one hundred  fourteen  of  this  article,  such
- application  may  be made to the manager of such facility, provided such
+ being  otherwise  obtained  from  a county animal shelter or pound, such
+ application may be made to the county dog control officer in  charge  of
+ such  facility.  In  the  case  of  a  dog being redeemed or a dog being
+ adopted from a shelter or pound established,  maintained  or  contracted
+ for,  pursuant  to  section  one  hundred fourteen of this article, such
+ application may be made to the manager of such facility,  provided  such
  manager has been authorized by the municipality in which the prospective
- owner resides to accept such application. Such  authorization  shall  be
+ owner  resides  to  accept such application. Such authorization shall be
  requested by the governing body of the pound or shelter and the granting
- or  denial of such authorization shall be in the discretion of the muni-
+ or denial of such authorization shall be in the discretion of the  muni-
  cipality in which the prospective owner resides.
-  (c) The application shall state the sex, actual  or  approximate  age,
- breed,  color, and municipal identification number of the dog, and other
- identification marks, if any, and the name, address,  telephone  number,
+  (c)  The  application  shall state the sex, actual or approximate age,
+ breed, color, and municipal identification number of the dog, and  other
+ identification  marks,  if any, and the name, address, telephone number,
  county and town, city or village of residence of the owner. THE APPLICA-
  TION SHALL INCLUDE SPACE WHERE AN OWNER MAY ELECT TO MAKE A CONTRIBUTION
- IN  SUPPORT  OF THE POUND OR SHELTER OF THE MUNICIPALITY WHERE THE OWNER
- RESIDES OR ANY ORGANIZATION WHICH IS CONTRACTED BY SUCH MUNICIPALITY  TO
- PROVIDE  ANIMAL  SHELTER SERVICES. THE APPLICATION SHALL LIST THE ORGAN-
- IZATION IN WHICH THE CONTRIBUTION WILL BE SENT AND  MAY  LIST  SUGGESTED
- REASONABLE  CONTRIBUTION  AMOUNTS WITH AN OPTION FOR ANY AMOUNT. Munici-
- A. 2976  3
+ IN SUPPORT OF THE POUND OR SHELTER MANAGED BY THE MUNICIPALITY WHERE THE
+ OWNER RESIDES OR ANY ORGANIZATION WHICH IS CONTRACTED  BY  SUCH  MUNICI-
+ PALITY  TO  PROVIDE  ANIMAL SHELTER SERVICES. THE SPACE FOR CONTRIBUTION
+ A. 2976--A  3
  
- palities may also require additional information on such application  as
- deemed appropriate.
+ SHALL BE CLEARLY MARKED AND DISTINCT WITH BOLD LETTERING OR ON  A  SEPA-
+ RATE  PAGE,  TO MAKE CLEAR IT IS A VOLUNTARY CONTRIBUTION AND NOT A PART
+ OF THE LICENSE FEE. THE APPLICATION SHALL LIST THE ORGANIZATION IN WHICH
+ THE CONTRIBUTION WILL BE SENT AND MAY LIST SUGGESTED REASONABLE CONTRIB-
+ UTION  AMOUNTS  WITH  AN  OPTION FOR ANY AMOUNT. Municipalities may also
+ require additional information on such application as  deemed  appropri-
+ ate.
   (d) The application shall be accompanied by the license fee prescribed
  by section one hundred ten of this article, THE CONTRIBUTION, IF ELECTED
  BY  THE  OWNER,  and a certificate of rabies vaccination or statement in
@@ -173,14 +179,14 @@ S T A T E  O F  N E W  Y O R K
  record of such information and shall file such record with a copy of the
  license.  Such  records shall be made available to the commissioner upon
  request for rabies and other animal disease control efforts.
+ A. 2976--A  4
+ 
   3. Municipalities may provide for the establishment  and  issuance  of
  purebred  licenses  and,  in the event they do so, shall provide for the
  assessment of a surcharge of at least three dollars for the purposes  of
  carrying  out  animal  population control efforts as provided in section
- one hundred seventeen-a of  this  article.  Municipalities  which  issue
- A. 2976  4
- 
- purebred  licenses  shall  remit such surcharge collected to the commis-
+ one  hundred  seventeen-a  of  this  article. Municipalities which issue
+ purebred licenses shall remit such surcharge collected  to  the  commis-
  sioner.
   4.  MUNICIPALITIES  SHALL  DEPOSIT ALL MONIES COLLECTED FROM VOLUNTARY
  CONTRIBUTIONS PURSUANT TO PARAGRAPH  (C)  OF  SUBDIVISION  ONE  OF  THIS
