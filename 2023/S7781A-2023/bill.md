@@ -1,6 +1,6 @@
 # Relates to establishing an annual heat mitigation plan; and directing the extreme heat action plan work group to analyze the impact of extreme heat on incarcerated individuals and people working in prisons
 
-**Bill ID:** S7781A
+**Bill ID:** S7781AA
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Directs the commission of corrections and community supervision to establish an 
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7781
+  7781--A
+  Cal. No. 369
  
   2023-2024 Regular Sessions
  
@@ -25,8 +26,13 @@ S T A T E  O F  N E W  Y O R K
   December 1, 2023
   ___________
  
- Introduced  by Sen. HARCKHAM -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Rules
+ Introduced by Sens. HARCKHAM, JACKSON, ROLISON -- read twice and ordered
+  printed, and when printed to be committed to the Committee on Rules --
+  recommitted to the Committee on Crime Victims, Crime and Correction in
+  accordance  with Senate Rule 6, sec. 8 -- reported favorably from said
+  committee, ordered to first and second  report,  ordered  to  a  third
+  reading,  amended  and  ordered  reprinted, retaining its place in the
+  order of third reading
  
  AN ACT to amend the correction law, in relation to establishing an annu-
   al heat mitigation plan; and directing the extreme  heat  action  plan
@@ -43,7 +49,7 @@ S T A T E  O F  N E W  Y O R K
  ESTABLISH AND MAINTAIN AN ANNUAL HEAT MITIGATION PLAN TO  ENSURE  INCAR-
  CERATED  INDIVIDUALS AND CORRECTIONAL FACILITY STAFF HAVE OPTIONS AVAIL-
  ABLE TO STAY COOL, HYDRATED AND SAFE DURING HIGH HEAT TEMPERATURES. SUCH
- PLAN SHALL INCLUDE, BUT NOT BE LIMITED TO:
+ PLAN SHALL INCLUDE, TO THE EXTENT POSSIBLE:
   (I) ACCESS TO INDUSTRIAL FANS, WATER, ICE, AND  ADDITIONAL  ACCESS  TO
  SHOWERS;
   (II) COMMISSARIES FULLY STOCKED WITH PERSONAL FANS PRIOR TO THE BEGIN-
@@ -54,19 +60,19 @@ S T A T E  O F  N E W  Y O R K
  TO HEAT AND MONITOR THEIR WELL-BEING;
   (V) INCREASED ROUNDS AND WELLNESS CHECKS; AND
   (VI) PROVIDING SHADE ON EXERCISE YARDS.
-  (B)  THE  COMMISSIONER,  AS  PART  OF SUCH HEAT MITIGATION PLAN, SHALL
- DEVELOP A TIMELINE TO ESTABLISH COOLING STATIONS AND PROVIDE EVAPORATIVE
- FANS TO EACH FACILITY.
-  § 2. The extreme heat action plan work  group  of  the  department  of
- environmental  conservation  shall analyze the impact of extreme heat on
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13122-02-3
- S. 7781  2
+  LBD13122-04-4
+ S. 7781--A  2
  
- incarcerated individuals and people working in  prisons  and  articulate
- their  specific  needs  in  such  work group's long-term heat adaptation
+  (B)  THE  COMMISSIONER,  AS  PART  OF SUCH HEAT MITIGATION PLAN, SHALL
+ DEVELOP A TIMELINE TO ESTABLISH COOLING STATIONS AND PROVIDE EVAPORATIVE
+ FANS TO EACH FACILITY.
+  §  2.  The  extreme  heat  action plan work group of the department of
+ environmental conservation shall analyze the impact of extreme  heat  on
+ incarcerated  individuals  and  people working in prisons and articulate
+ their specific needs in such  work  group's  long-term  heat  adaptation
  plan.
   §  3.  This  act shall take effect on the ninetieth day after it shall
  have become a law. Effective immediately, the addition, amendment and/or
