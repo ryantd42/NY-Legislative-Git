@@ -1,6 +1,6 @@
 # Allows the department of financial services to impose penalties on unlawfully unlicensed entities
 
-**Bill ID:** A7770
+**Bill ID:** A7770A
 **Session:** 2023
 **Sponsor:** Alex Bores
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Allows the department of financial services to have additional oversight of bank
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  7770
+  7770--A
  
   2023-2024 Regular Sessions
  
@@ -25,153 +25,153 @@ S T A T E  O F  N E W  Y O R K
   June 9, 2023
   ___________
  
- Introduced  by  M.  of  A. BORES, ROZIC -- read once and referred to the
-  Committee on Banks
- 
- AN ACT to amend the financial services law, in relation to allowing  the
-  department of financial services to have additional oversight of banks
-  and insurance companies that are not currently licensed
+ Introduced  by  M. of A. BORES, ROZIC, BURDICK -- read once and referred
+  to the Committee on Banks -- recommitted to the Committee on Banks  in
+  accordance  with Assembly Rule 3, sec. 2 -- committee discharged, bill
+  amended, ordered reprinted as amended and recommitted to said  commit-
+  tee
 
+ AN  ACT to amend the banking law, in relation to allowing the department
+  of financial services to impose  penalties  on  unlawfully  unlicensed
+  entities
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  The  legislature  finds  that  it  is  essential  to  the
- protection  of  users  of financial products and services from imprudent
- conduct and harmful business practices in the financial services market-
- place that all persons offering financial products and services  in  New
- York State be sufficiently deterred from disregarding the laws and regu-
- lations  governing  the  offering  of  financial  products  or services,
- regardless of whether they are properly licensed. Furthermore, to ensure
- that the business of, and the persons providing, financial products  and
- services  are  appropriately  supervised,  the  law should not advantage
- persons who disregard licensing requirements. Currently, as  to  engage-
- ment  in  many activities for which a license from the superintendent of
- financial services is required, an unlicensed  person  not  exempt  from
- licensing is not subject to civil penalty for acts that would constitute
- violations subject to penalty if the person were licensed; such an unli-
- censed  person may be subject to only a limited civil penalty for engag-
- ing in activity without a required license.  This  act  remediates  this
- fault  in  the  law by providing that any person engaged in activity for
- which such person must be licensed by the  superintendent  of  financial
- services will be subject to a civil penalty for conducting such activity
- in  a  manner  inconsistent  with  the  law, regardless of such person's
- licensure status.
-  § 2. Subdivisions (a) and (b) of section 305 of the financial services
- law are amended to read as follows:
+  Section 1. Subdivisions 1, 2, 3 and 4 of section  44  of  the  banking
+ law, subdivisions 1, 3, 4, and paragraph (b) of subdivision 2 as amended
+ by  section 9 of part O of chapter 59 of the laws of 2006, paragraph (a)
+ of subdivision 1 as amended by section 4 of part L of chapter 58 of  the
+ laws  of  2019,  subdivision  2 as amended by chapter 356 of the laws of
+ 2004, paragraph (a) of subdivision 2 as amended by chapter  155  of  the
+ laws  of  2012, are amended and a new subdivision 10 is added to read as
+ follows:
+  1. (a) Without limiting any power granted to the superintendent  under
+ any  other  provision  of  this  chapter,  the  superintendent may, in a
+ proceeding after notice and a hearing, require any safe deposit company,
+ licensed lender, licensed  casher  of  checks,  licensed  sales  finance
+ company, licensed insurance premium finance agency, licensed transmitter
+ of  money,  licensed  mortgage  banker,  licensed student loan servicer,
+ registered mortgage broker, licensed mortgage  loan  originator,  regis-
+ tered mortgage loan servicer [or], licensed budget planner OR UNLAWFULLY
+ UNLICENSED  ENTITY  to pay to the people of this state a penalty for any
+ violation of this chapter, any regulation  promulgated  thereunder,  any
+ final  or temporary order issued pursuant to section thirty-nine of this
+ article, any condition imposed  in  writing  by  the  superintendent  in
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD11198-01-3
- A. 7770  2
+  LBD11198-06-4
+ A. 7770--A  2
  
-  (a) Unless otherwise provided in this chapter, the  banking  law,  the
- insurance law or any other law, any hearing pursuant to any such law may
- be  held  before  the  superintendent, any deputy superintendent, or any
- designated salaried employee of the department authorized by the  super-
- intendent  for  such purpose. Any adjudicatory proceeding, including any
- hearings to assess civil penalties under section four hundred  eight  OR
- FOUR HUNDRED EIGHT-A of this chapter, held pursuant to the provisions of
- this  chapter,  the  insurance  law or the banking law shall be noticed,
- conducted and administered in compliance with the  state  administrative
- procedure act.
-  (b)  The person conducting such hearing shall have power to administer
- oaths, examine  and  cross-examine  witnesses  and  receive  documentary
- evidence, and shall report his or her findings, orally or in writing, to
- the  superintendent  with  or  without  recommendation.  Such report, if
- adopted by the superintendent may be the basis of any determination made
- by the superintendent. One hundred twenty days after the effective  date
- of  a determination of liability for a civil penalty pursuant to section
- four hundred eight OR FOUR HUNDRED  EIGHT-A  of  this  chapter  or  four
- hundred  three,  one  thousand one hundred two, two thousand one hundred
- two, two thousand one hundred seventeen, two thousand one hundred  thir-
- ty-three  or  seven thousand eight hundred sixteen of the insurance law,
- such determination of liability for a civil penalty may be entered as  a
- judgment  and enforced, without court proceedings, in the same manner as
- the enforcement of a money judgment in civil actions  in  any  court  of
- competent  jurisdiction  or  any  other  place provided for the entry of
- civil judgment within this state.
-  § 3. Subdivision (a) of section 404 of the financial services  law  is
- amended to read as follows:
-  (a)  The  superintendent has authority under this article, the banking
- law, the insurance law and other applicable laws to  investigate  activ-
- ities  that  may  constitute  violations subject to section four hundred
- eight OR FOUR HUNDRED EIGHT-A of  this  article  or  violations  of  the
- insurance law or banking law and to develop evidence thereon.
-  §  4.  The  financial  services law is amended by adding a new section
- 408-a to read as follows:
-  § 408-A. UNLICENSED ACTIVITIES PROHIBITED. (A)  FOR  THE  PURPOSES  OF
- THIS SECTION, A "PROHIBITED UNLICENSED ACT" SHALL MEAN:
-  (1) ENGAGING IN AN ACTIVITY IN THIS STATE FOR WHICH A LICENSE, CERTIF-
- ICATION,  REGISTRATION,  AUTHORIZATION, CHARTER, ACCREDITATION, INCORPO-
- RATION, OR APPROVAL BY THE SUPERINTENDENT IS REQUIRED BY  THIS  CHAPTER,
- THE BANKING LAW, THE INSURANCE LAW, OR THE REGULATIONS PROMULGATED THER-
- EUNDER,  WITHOUT  SUCH  LICENSE,  CERTIFICATION,  REGISTRATION, AUTHORI-
- ZATION,  CHARTER,  ACCREDITATION,  INCORPORATION  OR  APPROVAL  OR  AN
- EXEMPTION FROM SUCH REQUIREMENT; OR
-  (2)  ANY  ACT OR OMISSION BY A PERSON WHO IS REQUIRED BY THIS CHAPTER,
- THE BANKING LAW, THE INSURANCE LAW OR THE REGULATIONS PROMULGATED THERE-
- UNDER, TO BE LICENSED,  CERTIFIED,  REGISTERED,  AUTHORIZED,  CHARTERED,
- ACCREDITED, INCORPORATED OR OTHERWISE APPROVED BY THE SUPERINTENDENT AND
- IS  NOT  SO  LICENSED,  CERTIFIED,  REGISTERED,  AUTHORIZED,  CHARTERED,
- ACCREDITED, INCORPORATED, APPROVED OR EXEMPTED FROM SUCH REQUIREMENT, IF
- SUCH ACT OR OMISSION WOULD CONSTITUTE A VIOLATION OF THIS  CHAPTER,  THE
- BANKING LAW, THE INSURANCE LAW OR THE REGULATIONS PROMULGATED THEREUNDER
- IF  SUCH  PERSON  WERE  SO  LICENSED, CERTIFIED, REGISTERED, AUTHORIZED,
- CHARTERED, ACCREDITED, INCORPORATED OR APPROVED.
- A. 7770  3
+ connection  with the grant of any application or request, or any written
+ agreement entered into with the superintendent.
+  (b) The penalty for each violation prescribed in paragraph (a) of this
+ subdivision  shall not exceed two thousand five hundred dollars for each
+ day during which such violation continues.
+  (c) Notwithstanding paragraph (b) of this subdivision, if  the  super-
+ intendent  determines  (i) that any such licensee, registrant [or], safe
+ deposit  company  OR  UNLAWFULLY  UNLICENSED  ENTITY  has  committed  a
+ violation  as  described  in  paragraph  (a) of this subdivision, or has
+ recklessly engaged in any unsafe and unsound practice and (ii) that such
+ violation or practice is part of a pattern of misconduct, results or  is
+ likely  to result in more than minimal loss to such licensee, registrant
+ [or], safe deposit company, OR UNLAWFULLY UNLICENSED ENTITY  or  results
+ in  pecuniary  gain  or other benefit to such licensee, registrant [or],
+ safe deposit company, OR UNLAWFULLY UNLICENSED ENTITY, then the  penalty
+ shall not exceed fifteen thousand dollars for each day during which such
+ violation or practice continues.
+  (d)  Notwithstanding paragraphs (b) or (c) of this subdivision, if the
+ superintendent determines (i) that any such licensee,  registrant  [or],
+ safe  deposit company, OR UNLAWFULLY UNLICENSED ENTITY has knowingly and
+ willfully committed any violation as described in paragraph (a) of  this
+ subdivision,  or  has  knowingly and willfully engaged in any unsafe and
+ unsound practice, or (ii)  that  any  licensee,  registrant  [or],  safe
+ deposit  company,  OR  UNLAWFULLY  UNLICENSED  ENTITY that has knowingly
+ committed any violation described in paragraph (a) of  this  subdivision
+ which  substantially  undermines public confidence in any such licensee,
+ registrant [or], safe deposit company OR UNLAWFULLY UNLICENSED ENTITY or
+ in such licensees, registrants or safe deposit companies generally, and,
+ in either case, (iii) that such licensee, registrant [or], safe  deposit
+ company  OR  UNLAWFULLY  UNLICENSED  ENTITY  has knowingly or recklessly
+ incurred so substantial a loss as a result of such violation or practice
+ as to threaten the safety and soundness  of  such  licensee,  registrant
+ [or],  safe  deposit  company, OR UNLAWFULLY UNLICENSED ENTITY, then the
+ penalty shall not exceed seventy-five  thousand  dollars  for  each  day
+ during which such violation continues.
+  (e)  The  superintendent,  in  determining  the  amount of any penalty
+ assessed pursuant to this subdivision, shall take into consideration the
+ net worth and annual business  volume  of  such  licensees,  registrants
+ [or], safe deposit companies OR UNLAWFULLY UNLICENSED ENTITIES.
+  2.  (a) Without limiting any power granted to the superintendent under
+ any other provision of  this  chapter,  the  superintendent  may,  in  a
+ proceeding  after  notice and hearing, require any banking organization,
+ bank holding company, out-of-state state bank that maintains a branch or
+ branches or representative or other offices in this  state,  or  foreign
+ banking corporation licensed by the superintendent to maintain a branch,
+ agency  or representative office in this state, OR UNLAWFULLY UNLICENSED
+ ENTITY to pay to the people of this state a penalty for any violation of
+ this chapter, any regulation promulgated thereunder, any final or tempo-
+ rary order issued pursuant to section thirty-nine of this  article,  any
+ condition  imposed  in  writing by the superintendent in connection with
+ the grant of any  application  or  request,  or  any  written  agreement
+ entered into with the superintendent.  For purposes of this section, any
+ reference  to a "banking organization" shall be deemed to exclude a safe
+ deposit company and any reference to a "foreign bank licensee" shall  be
+ deemed  to include an out-of-state state bank that maintains a branch or
+ branches or representative or other offices in this state and a  foreign
+ A. 7770--A  3
  
-  (B) IN ADDITION TO ANY CIVIL OR CRIMINAL LIABILITY  PROVIDED  BY  LAW,
- THE SUPERINTENDENT MAY, AFTER NOTICE AND A HEARING, LEVY A CIVIL PENALTY
- FOR ANY PROHIBITED UNLICENSED ACT AS FOLLOWS:
-  (1)  THE  PENALTY  FOR A PROHIBITED UNLICENSED ACT THAT RELATES TO THE
- REQUIREMENTS OF THE BANKING LAW OR THE  REGULATIONS  PROMULGATED  THERE-
- UNDER SHALL BE THE SAME AS THE PENALTY PROVIDED IN SECTION FORTY-FOUR OF
- THE BANKING LAW FOR ANY VIOLATION OF THE BANKING LAW.
-  (2) THE PENALTY FOR A PROHIBITED UNLICENSED ACT DESCRIBED IN PARAGRAPH
- ONE  OF SUBDIVISION (A) OF THIS SECTION THAT RELATES TO THE REQUIREMENTS
- OF THE INSURANCE LAW OR THE REGULATIONS PROMULGATED THEREUNDER SHALL  BE
- THE SAME AS THE PENALTY FOR VIOLATIONS SET FORTH IN SECTION ONE THOUSAND
- ONE HUNDRED TWO OF THE INSURANCE LAW.
-  (3) THE PENALTY FOR A PROHIBITED UNLICENSED ACT DESCRIBED IN PARAGRAPH
- TWO  OF SUBDIVISION (A) OF THIS SECTION THAT RELATES TO THE REQUIREMENTS
- OF THE INSURANCE LAW OR THE REGULATIONS PROMULGATED THEREUNDER SHALL  BE
- THE  SAME AS THE PENALTY FOR VIOLATIONS SET FORTH IN SECTION ONE HUNDRED
- NINE OF THE INSURANCE LAW OR  ANY  OTHER  APPLICABLE  PROVISION  OF  THE
- INSURANCE LAW, WHICHEVER IS HIGHER.
-  (4)  THE  PENALTY  FOR A PROHIBITED UNLICENSED ACT THAT RELATES TO THE
- REQUIREMENTS OF THIS CHAPTER OR THE REGULATIONS  PROMULGATED  THEREUNDER
- SHALL  BE  THE  SAME AS THE PENALTY PROVIDED FOR IN SECTION FOUR HUNDRED
- EIGHT OF THIS ARTICLE FOR VIOLATIONS OF THIS CHAPTER OR THE  REGULATIONS
- PROMULGATED THEREUNDER.
-  (5)  IF  A  PROHIBITED  UNLICENSED  ACT  RESULTS IN CONSUMER HARM, THE
- PENALTY SHALL BE NOT MORE THAN DOUBLE THE PENALTY AMOUNT  APPLICABLE  TO
- SUCH  VIOLATION  SET  FORTH IN PARAGRAPH ONE, TWO, THREE OR FOUR OF THIS
- SUBDIVISION, AS APPLICABLE.
-  (C) THE SUPERINTENDENT SHALL NOT IMPOSE OR COLLECT ANY PENALTY  FOR  A
- PROHIBITED  UNLICENSED ACT PURSUANT TO PARAGRAPH FOUR OF SUBDIVISION (B)
- OF THIS SECTION IF THE SUPERINTENDENT IMPOSES OR  COLLECTS  ANY  PENALTY
- PURSUANT  TO  PARAGRAPH  ONE,  TWO  OR  THREE OF SUBDIVISION (B) OF THIS
- SECTION FOR THE SAME ACT OR OMISSION.
-  (D) CIVIL PENALTIES RECEIVED BY THE SUPERINTENDENT  PURSUANT  TO  THIS
- SECTION  SHALL BE APPLIED IN THE SAME MANNER AS CIVIL PENALTIES RECEIVED
- BY THE SUPERINTENDENT PURSUANT TO SECTION FOUR  HUNDRED  EIGHT  OF  THIS
- CHAPTER.
-  (E) IN ADDITION TO ANY OTHER PENALTY OR SANCTION IMPOSED UPON A PERSON
- BY  LAW  FOR  AN  UNLICENSED ACT, AFTER NOTICE AND A HEARING, THE SUPER-
- INTENDENT MAY ISSUE AN ORDER DIRECTING SUCH PERSON  TO  PAY  RESTITUTION
- FOR SUCH UNLICENSED ACT.
-  §  5.  Subdivision (a) of section 409 of the financial services law is
- amended to read as follows:
-  (a) Whenever the superintendent is satisfied that a violation  subject
- to section four hundred eight OR FOUR HUNDRED EIGHT-A of this article or
- fraud  or other criminal activity under the insurance law or banking law
- has been committed or attempted, the  superintendent  shall  report  any
- such  violation  of law, as the superintendent deems appropriate, to the
- appropriate licensing agency, the district attorney  of  the  county  in
- which  such  acts  were  committed,  to  the attorney general, and where
- appropriate, to the person who submitted the report of fraudulent activ-
- ity, as provided by the provisions of this article. Within  one  hundred
- twenty  days  of  receipt  of  the superintendent's report, the attorney
- general or the district attorney concerned shall inform the  superinten-
- dent as to the status of the reported violations.
-  § 6. This act shall take effect immediately.
+ banking  corporation  licensed to maintain a branch, agency or represen-
+ tative office in this state.
+  (b) The penalty for each violation prescribed in paragraph (a) of this
+ subdivision  shall  not exceed five thousand dollars for each day during
+ which such violation continues.
+  3. Notwithstanding paragraph (b) of subdivision two of  this  section,
+ if  the  superintendent  determines:  (a) that any banking organization,
+ bank holding company, [or] foreign bank  licensee  OR  UNLAWFULLY  UNLI-
+ CENSED  ENTITY  has committed any violation described in subdivision two
+ of this section or has recklessly engaged  in  any  unsafe  and  unsound
+ practice, and
+  (b)  that  such  violation or practice is part of a pattern of miscon-
+ duct, results or is likely to result in more than minimal  loss  to  the
+ banking  organization, bank holding company, [or] foreign bank licensee,
+ OR UNLAWFULLY UNLICENSED ENTITY or results in pecuniary  gain  or  other
+ benefit  to the banking organization, bank holding company, [or] foreign
+ bank licensee, OR UNLAWFULLY UNLICENSED ENTITY then  the  penalty  shall
+ not  exceed  twenty-five thousand dollars for each day during which such
+ violation or practice continues.
+  4. Notwithstanding paragraph (b) of subdivision  two  and  subdivision
+ three  of  this  section, if the superintendent determines: (a) (i) that
+ any banking organization, bank holding company, [or] foreign bank licen-
+ see OR UNLAWFULLY UNLICENSED ENTITY has knowingly and willfully  commit-
+ ted  any  violation  described in subdivision two of this section or has
+ knowingly and willfully engaged in any unsafe and unsound  practice,  or
+ (ii)  that  any banking organization, bank holding company, [or] foreign
+ bank licensee OR UNLAWFULLY UNLICENSED ENTITY  has  knowingly  committed
+ any  violation  described  in  subdivision  two  of  this  section which
+ substantially undermines public confidence in any such banking organiza-
+ tion, bank holding company, [or] foreign  bank  licensee  OR  UNLAWFULLY
+ UNLICENSED  ENTITY  or in banking organizations, bank holding companies,
+ or foreign bank licensees generally, and, in either case, (b)  that  the
+ banking  organization,  bank holding company, [or] foreign bank licensee
+ OR UNLAWFULLY UNLICENSED ENTITY has knowingly or recklessly incurred  so
+ substantial  a  loss  as  a  result  of such violation or practice as to
+ threaten the safety and soundness of  such  banking  organization,  bank
+ holding  company,  or  foreign  bank  licensee, OR UNLAWFULLY UNLICENSED
+ ENTITY then the penalty shall not exceed the lesser of (i)  two  hundred
+ fifty  thousand  dollars or (ii) one percent of the total assets of such
+ banking organization OR UNLAWFULLY UNLICENSED ENTITY, or one percent  of
+ the  total  assets  of the banking subsidiaries, as such term is defined
+ pursuant to section one hundred forty-one of this chapter, of such  bank
+ holding  company  OR UNLAWFULLY UNLICENSED ENTITY, or one percent of the
+ total assets in this state of such foreign bank licensee, as applicable,
+ for each day during which such violation or practice continues.
+  10. AS USED IN THIS SECTION, "UNLAWFULLY UNLICENSED ENTITY" SHALL MEAN
+ ANY ENTITY ENGAGING IN AN ACTIVITY IN THIS STATE FOR  WHICH  A  LICENSE,
+ CERTIFICATION,  REGISTRATION,  AUTHORIZATION,  CHARTER,  ACCREDITATION,
+ INCORPORATION, OR APPROVAL BY THE SUPERINTENDENT  IS  REQUIRED  BY  THIS
+ CHAPTER OR THE REGULATIONS PROMULGATED THEREUNDER, WITHOUT SUCH LICENSE,
+ CERTIFICATION,  REGISTRATION,  AUTHORIZATION,  CHARTER,  ACCREDITATION,
+ INCORPORATION OR APPROVAL.
+  § 2. This act shall take effect immediately.
