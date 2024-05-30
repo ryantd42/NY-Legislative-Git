@@ -1,6 +1,6 @@
 # Relates to disability benefits for certain individuals employed by the Nassau county police department
 
-**Bill ID:** A9645A
+**Bill ID:** A9645AA
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Provides a performance of duty presumption for diseases of the heart for members
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  9645
+  9645--A
  
   I N  A S S E M B L Y
  
@@ -24,12 +24,14 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of A. PHEFFER AMATO -- read once and referred to the
-  Committee on Governmental Employees
+  Committee on Governmental  Employees  --  committee  discharged,  bill
+  amended,  ordered reprinted as amended and recommitted to said commit-
+  tee
  
  AN ACT to amend the retirement and social security law, in  relation  to
   disability  benefits  for  certain  individuals employed by the Nassau
   county police department
- 
+
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -58,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
   § 607-M. CERTAIN IMPAIRMENT OF  HEALTH;  PRESUMPTION.  NOTWITHSTANDING
  ANY  PROVISION  OF  THIS  CHAPTER  OR  ANY GENERAL OR SPECIAL LAW TO THE
  CONTRARY, ANY CONDITION OF IMPAIRMENT OF HEALTH CAUSED  BY  DISEASES  OF
- THE  HEART,  RESULTING IN THE DISABILITY OR DEATH TO A MEMBER WHO SERVES
- AS AN AMBULANCE MEDICAL TECHNICIAN, AMBULANCE MEDICAL COORDINATOR, AMBU-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD14101-02-4
- A. 9645  2
+  LBD14101-04-4
+ A. 9645--A  2
  
+ THE  HEART,  RESULTING IN THE DISABILITY OR DEATH TO A MEMBER WHO SERVES
+ AS AN AMBULANCE MEDICAL TECHNICIAN, AMBULANCE MEDICAL COORDINATOR, AMBU-
  LANCE MEDICAL TECHNICIAN/SUPERVISOR OR A MEMBER WHO  PERFORMS  AMBULANCE
  MEDICAL  TECHNICIAN  RELATED  SERVICES,  OR A POLICE MEDIC, POLICE MEDIC
  COORDINATOR, POLICE MEDIC SUPERVISOR, BUREAU DIRECTOR  POLICE  EMERGENCY
@@ -82,7 +84,9 @@ S T A T E  O F  N E W  Y O R K
   § 3. Notwithstanding any other provision of law to the contrary,  none
  of  the  provisions  of  this  act shall be subject to the appropriation
  requirement of section 25 of the retirement and social security law.
-  § 4. This act shall take effect immediately.
+  § 4. All costs associated with implementing the provisions of this act
+ shall be borne by Nassau county.
+  § 5. This act shall take effect immediately.
   FISCAL NOTE.--Pursuant to Legislative Law, Section 50:
   This bill would allow certain members who are employed in  the  Nassau
  County  police  department  who perform police medic or police emergency
@@ -93,7 +97,6 @@ S T A T E  O F  N E W  Y O R K
  presumption will benefit the members who currently have the 50% of final
  average  salary  benefit  available  pursuant  to  Section  607-j of the
  Retirement and Social Security Law (RSSL).
-  The provisions of Section 25 of the RSSL shall not apply.
   If this legislation is enacted during the 2024 Legislative Session, it
  would likely lead to more disabilities being classified as "in  perform-
  ance of duty."
@@ -104,34 +107,33 @@ S T A T E  O F  N E W  Y O R K
  average 0.2% of salary annually.
   In addition to the annual contributions discussed above, there will be
  an immediate past service cost of approximately $48,200  which  will  be
- shared by the State of New York and the local participating employers in
- the NYSLERS. This estimate assumes that payment will be made on February
- 1, 2025.
-  Further,  we  anticipate that there could be some administrative costs
+ borne  by Nassau County. This estimate assumes that payment will be made
+ on February 1, 2025.
+  Further, we anticipate that there could be some  administrative  costs
  to implement the provisions of this legislation.
-  These estimated costs are based on 110 affected  members  employed  by
- Nassau  County,  with  annual  salary of approximately $15 million as of
+  These  estimated  costs  are based on 110 affected members employed by
+ Nassau County, with annual salary of approximately  $15  million  as  of
  March 31, 2023.
   Summary of relevant resources:
-  Membership data as of March 31, 2023 was used in measuring the  impact
+  Membership  data as of March 31, 2023 was used in measuring the impact
  of the proposed change, the same data used in the April 1, 2023 actuari-
- al  valuation.  Distributions and other statistics can be found in the
- 2023 Report of the Actuary and the 2023 Annual  Comprehensive  Financial
+ al valuation.  Distributions and other statistics can be  found  in  the
+ 2023  Report  of the Actuary and the 2023 Annual Comprehensive Financial
  Report.
-  The  actuarial  assumptions and methods used are described in the 2023
- Annual Report to the  Comptroller  on  Actuarial  Assumptions,  and  the
- Codes,  Rules  and  Regulations  of  the  State  of  New York: Audit and
- Control.
- A. 9645  3
+  The actuarial assumptions and methods used are described in  the  2023
+ Annual  Report  to  the  Comptroller  on  Actuarial Assumptions, and the
+ A. 9645--A  3
  
+ Codes, Rules and Regulations  of  the  State  of  New  York:  Audit  and
+ Control.
   The Market Assets and GASB Disclosures are found in the March 31, 2023
- New York State and Local  Retirement  System  Financial  Statements  and
+ New  York  State  and  Local  Retirement System Financial Statements and
  Supplementary Information.
   I am a member of the American Academy of Actuaries and meet the Quali-
  fication Standards to render the actuarial opinion contained herein.
-  This  fiscal note does not constitute a legal opinion on the viability
- of the proposed change nor is it intended to serve as a  substitute  for
+  This fiscal note does not constitute a legal opinion on the  viability
+ of  the  proposed change nor is it intended to serve as a substitute for
  the professional judgment of an attorney.
-  This  estimate, dated March 19, 2024, and intended for use only during
- the 2024 Legislative Session, is Fiscal Note No. 2024-103,  prepared  by
+  This estimate, dated May 23, 2024, and intended for  use  only  during
+ the  2024  Legislative Session, is Fiscal Note No. 2024-193, prepared by
  the Actuary for the New York State and Local Retirement System.
