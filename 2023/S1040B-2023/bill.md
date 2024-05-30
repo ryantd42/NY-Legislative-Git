@@ -1,6 +1,6 @@
 # Relates to school climate and codes of conduct on school property and disciplinary action following violation of such codes of conduct; and makes conforming amendments
 
-**Bill ID:** S1040BA
+**Bill ID:** S1040BB
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to school climate and codes of conduct on school property and disciplina
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1040--A
+  1040--B
  
   2023-2024 Regular Sessions
  
@@ -31,7 +31,10 @@ S T A T E  O F  N E W  Y O R K
   RIVERA, SALAZAR, SANDERS, SEPULVEDA, SERRANO,  THOMAS,  WEBB  --  read
   twice  and  ordered  printed,  and when printed to be committed to the
   Committee on Education -- committee discharged, bill amended,  ordered
-  reprinted as amended and recommitted to said committee
+  reprinted  as amended and recommitted to said committee -- recommitted
+  to the Committee on Education in accordance with Senate Rule 6, sec. 8
+  -- committee discharged, bill amended, ordered  reprinted  as  amended
+  and recommitted to said committee
  
  AN  ACT  to  amend  the education law, in relation to school climate and
   codes of conduct on school property and disciplinary action  following
@@ -55,65 +58,71 @@ S T A T E  O F  N E W  Y O R K
  
   Section 1. This act shall be known and may be  cited  as  the  "Judith
  Kaye School Solutions not Suspensions Act".
+
+  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
+  [ ] is old law to be omitted.
+  LBD02392-13-4
+ S. 1040--B  2
+ 
   § 2. Section 2801 of the education law, as added by chapter 181 of the
  laws  of  2000,  subdivision  1 as amended by chapter 402 of the laws of
  2005, the opening paragraph, paragraph a and paragraph c of  subdivision
  2 and paragraph a of subdivision 5 as amended by chapter 380 of the laws
- 
-  EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
-  [ ] is old law to be omitted.
-  LBD02392-11-3
- S. 1040--A  2
- 
  of  2001, paragraphs l and m as amended and paragraph n of subdivision 2
  as added by chapter 482 of the  laws  of  2010,  and  subdivision  3  as
  amended  by  chapter  123  of  the  laws  of 2003, is amended to read as
  follows:
-  §  2801.  Codes of conduct on school property. 1.  NOTWITHSTANDING ANY
+  § 2801. Codes of conduct on school property. 1.  NOTWITHSTANDING  ANY
  PROVISION OF LAW, RULE OR REGULATION TO THE CONTRARY, THIS SECTION SHALL
- APPLY TO ALL PUBLIC SCHOOLS IN THE STATE. For purposes of this  section,
- school  property  means  in  or within any building, structure, athletic
- playing field, playground, parking lot or land contained within the real
- property boundary  line  of  [a]  ALL  public  elementary  or  secondary
- [school]  SCHOOLS;  or  in or on a school bus, as defined in section one
- hundred forty-two of the vehicle and traffic law; [and a] OR A  SCHOOL'S
- ELECTRONIC  FILES  AND DATABASES. A school function shall mean a school-
+ APPLY  TO  ALL  PUBLIC  SCHOOLS  IN  THE  STATE.  For  purposes  of this
+ section[,]:
+  A. PUBLIC SCHOOL SHALL INCLUDE PUBLIC CHARTER SCHOOLS PURSUANT TO  THE
+ PROVISIONS  OF  PARAGRAPH (C) OF SUBDIVISION ONE OF SECTION TWENTY-EIGHT
+ HUNDRED FIFTY-THREE OF THIS TITLE; AND
+  B. school property means in or within any building, structure, athlet-
+ ic playing field, playground, parking lot or land contained  within  the
+ real  property  boundary  line of [a] ALL public elementary or secondary
+ [school] SCHOOLS; or in or on a school bus, as defined  in  section  one
+ hundred  forty-two of the vehicle and traffic law; [and a] OR A SCHOOL'S
+ ELECTRONIC FILES AND DATABASES. A school function shall mean  a  school-
  sponsored  or  school-authorized  extra-curricular  event  or  activity
- regardless  of  where  such event or activity takes place, including any
+ regardless of where such event or activity takes  place,  including  any
  event or activity that may take place in another state.
-  2. The board of education or the trustees[, as defined in section  two
- of  this chapter,] of every PUBLIC SCHOOL OR school district [within the
- state, however created, and every] OR THE CHANCELLOR OF THE CITY  SCHOOL
- DISTRICT  IN  THE  CASE  OF  THE CITY SCHOOL DISTRICT OF THE CITY OF NEW
- YORK, AND EVERY board of cooperative educational  services  [and  county
- vocational  extension  board],  shall adopt and amend, as appropriate, a
+  2.  The board of education or the trustees[, as defined in section two
+ of this chapter,] of every PUBLIC SCHOOL OR school district [within  the
+ state,  however created, and every] OR THE CHANCELLOR OF THE CITY SCHOOL
+ DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT  OF  THE  CITY  OF  NEW
+ YORK,  AND  EVERY  board of cooperative educational services [and county
+ vocational extension board], shall adopt and amend,  as  appropriate,  a
  code of conduct for the maintenance of order on school property, includ-
- ing a school function, which shall PROMOTE AND SUSTAIN A SAFE,  RESPECT-
- FUL,  AND  SUPPORTIVE  SCHOOL  ENVIRONMENT  AND  govern  the  conduct of
- students, teachers and other school personnel as well  as  visitors  and
+ ing  a school function, which shall PROMOTE AND SUSTAIN A SAFE, RESPECT-
+ FUL, AND  SUPPORTIVE  SCHOOL  ENVIRONMENT  AND  govern  the  conduct  of
+ students,  teachers  and  other school personnel as well as visitors and
  shall provide for the enforcement thereof. Such policy may be adopted by
- the  [school]  board  OF EDUCATION or trustees, OR THE CHANCELLOR OF THE
+ the [school] board OF EDUCATION or trustees, OR THE  CHANCELLOR  OF  THE
  CITY SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE CITY
  OF NEW YORK only after at least one public hearing that provides for the
- participation of school  personnel,  parents,  students  and  any  other
- interested  parties  BEFORE ITS ADOPTION.  THE SCHOOL DISTRICT OR PUBLIC
- SCHOOL, OR BOARD OF COOPERATIVE EDUCATIONAL SERVICES  SHALL  NOTIFY  THE
- SCHOOL  COMMUNITY  AND GENERAL PUBLIC ABOUT THE HEARING AT LEAST FIFTEEN
- DAYS PRIOR TO THE DATE OF THE HEARING. SUCH  NOTICE  SHALL  INCLUDE  THE
+ participation  of  school  personnel,  parents,  students  and any other
+ interested parties BEFORE ITS ADOPTION.  THE SCHOOL DISTRICT  OR  PUBLIC
+ SCHOOL,  OR  BOARD  OF COOPERATIVE EDUCATIONAL SERVICES SHALL NOTIFY THE
+ SCHOOL COMMUNITY AND GENERAL PUBLIC ABOUT THE HEARING AT  LEAST  FIFTEEN
+ DAYS  PRIOR  TO  THE  DATE OF THE HEARING. SUCH NOTICE SHALL INCLUDE THE
  DATE, TIME, AND PLACE OF THE HEARING, THE AGENDA, A COPY OF THE PROPOSED
  CODE OF CONDUCT, AND INFORMATION ABOUT A PUBLIC COMMENT PERIOD AS DETER-
- MINED  BY  THE SCHOOL DISTRICT OR PUBLIC SCHOOL, OR BOARD OF COOPERATIVE
+ MINED BY THE SCHOOL DISTRICT OR PUBLIC SCHOOL, OR BOARD  OF  COOPERATIVE
  EDUCATIONAL SERVICES.  THE SCHOOL DISTRICT OR PUBLIC SCHOOL, OR BOARD OF
- COOPERATIVE EDUCATIONAL SERVICES SHALL TAKE NECESSARY  STEPS  TO  NOTIFY
- FAMILIES  WHO DO NOT SPEAK ENGLISH AND WHOSE CHILDREN ATTEND A SCHOOL IN
- THE DISTRICT OR PUBLIC SCHOOL, OR A  BOARD  OF  COOPERATIVE  EDUCATIONAL
- SERVICES.  Such  code  of conduct shall DEFINE VIOLATIONS OF THE CODE OF
+ COOPERATIVE  EDUCATIONAL  SERVICES  SHALL TAKE NECESSARY STEPS TO NOTIFY
+ FAMILIES WHO DO NOT SPEAK ENGLISH AND WHOSE CHILDREN ATTEND A SCHOOL  IN
+ THE  DISTRICT  OR  PUBLIC  SCHOOL, OR A BOARD OF COOPERATIVE EDUCATIONAL
+ SERVICES. Such code of conduct shall DEFINE VIOLATIONS OF  THE  CODE  OF
  CONDUCT AND SET CLEAR EXPECTATIONS FOR STUDENT CONDUCT ON SCHOOL PROPER-
  TY, INCLUDING AT SCHOOL FUNCTIONS, AND SHALL include, at a minimum:
-  a. [provisions] ACCEPTABLE  AND  UNACCEPTABLE  BEHAVIOR.  PROVISIONS
- DETAILING  ACCEPTABLE AND UNACCEPTABLE BEHAVIOR IN SCHOOLS SHALL INCLUDE
+  a.  [provisions]  ACCEPTABLE  AND  UNACCEPTABLE BEHAVIOR.  PROVISIONS
+ DETAILING ACCEPTABLE AND UNACCEPTABLE BEHAVIOR IN SCHOOLS SHALL  INCLUDE
  BEHAVIOR:
-  (I) regarding conduct,  dress  and  language  deemed  appropriate  and
+ S. 1040--B  3
+ 
+  (I)  regarding  conduct,  dress  and  language  deemed appropriate and
  acceptable on school property, including a school function, and conduct,
  dress and language deemed unacceptable and inappropriate on school prop-
  erty, including a school function[,]; and
@@ -121,105 +130,83 @@ S T A T E  O F  N E W  Y O R K
  of teachers, school administrators, other school personnel, students and
  visitors on school property[, including  a]  AND  AT  school  [function,
  including  the  appropriate range of  disciplinary measures which may be
- S. 1040--A  3
-
  imposed for violation of such code, and the roles of teachers,  adminis-
  trators,  other  school  personnel, the board of education and parents;]
  FUNCTIONS.
-  b.  DISCIPLINARY  MEASURES AND STRATEGIES. PROVISIONS DETAILING DISCI-
+  b. DISCIPLINARY MEASURES AND STRATEGIES. PROVISIONS  DETAILING  DISCI-
  PLINARY MEASURES SHALL:
   (I) BE AGE-APPROPRIATE, GRADUATED, AND PROPORTIONATE TO RESPOND TO ANY
- VIOLATION OF THE CODE OF CONDUCT BEFORE IMPOSING A  REMOVAL  OR  SUSPEN-
- SION,  UNLESS THE CONDUCT FALLS UNDER AN EXCEPTION TO THE PROHIBITION OF
- SUSPENSION DESCRIBED IN PARAGRAPH C OF THIS SUBDIVISION, AND THE  BUILD-
- ING  ADMINISTRATOR  SHALL  CONSULT  WITH  A SCHOOL PSYCHOLOGIST OR OTHER
- MENTAL HEALTH PROFESSIONAL, WHERE AVAILABLE, TO DETERMINE AGE  APPROPRI-
- ATE  SUPPORTS  AND INTERVENTIONS FOR THE STUDENT FOR REMOVAL, DETENTION,
- OR SUSPENSION;
-  (II) CONSIDER THE STUDENT AS  A  WHOLE  INCLUDING  LIFE  INSIDE  AND
- OUTSIDE  OF  SCHOOL  THAT  MAY  IMPACT BEHAVIOR SUCH AS FOOD INSECURITY,
- HOMELESSNESS, BULLYING, LACK OF SCHOOL SUPPLIES, ABUSE, HYGIENE  ACCESS,
- AND OTHER ISSUES THAT MAY OCCUR IN OR OUT OF SCHOOL;
+ VIOLATION  OF  THE  CODE OF CONDUCT BEFORE IMPOSING A REMOVAL OR SUSPEN-
+ SION, THE BUILDING ADMINISTRATOR SHALL CONSULT WITH  A  SCHOOL  PSYCHOL-
+ OGIST  OR OTHER MENTAL HEALTH PROFESSIONAL, TO DETERMINE AGE-APPROPRIATE
+ SUPPORTS AND INTERVENTIONS FOR THE STUDENT FOR  REMOVAL,  DETENTION,  OR
+ SUSPENSION;
+  (II)  CONSIDER  THE STUDENT'S WHOLE CIRCUMSTANCES FROM A HOLISTIC LENS
+ INCLUDING LIFE  INSIDE AND OUTSIDE OF SCHOOL THAT  MAY  IMPACT  BEHAVIOR
+ INCLUDING  BUT  NOT  LIMITED TO FOOD INSECURITY, HOMELESSNESS, BULLYING,
+ LACK OF SCHOOL SUPPLIES, ABUSE, HYGIENE ACCESS, AND  OTHER  ISSUES  THAT
+ MAY OCCUR IN OR OUT OF SCHOOL;
   (III)  UTILIZE MULTI-TIERED SYSTEMS OF SUPPORT AND POSITIVE BEHAVIORAL
  INTERVENTIONS, INCLUDING:
-  (1) USE THE LEAST SEVERE ACTION NECESSARY TO RESPOND TO ANY  VIOLATION
- OF THE CODE OF CONDUCT BEFORE IMPOSING A REMOVAL OR SUSPENSION; AND
-  (2)  SCHOOLS  MAY  ALSO  UTILIZE  RESTORATIVE  PRACTICES,  SOCIAL  AND
- EMOTIONAL LEARNING, THERAPEUTIC CRISIS INTERVENTIONS, COUNSELING, DE-ES-
- CALATION, COLLABORATIVE PROBLEM-SOLVING, CONFLICT  MEDIATION  OR  RESOL-
- UTION  STRATEGIES, ENGAGEMENT WITH FAMILIES, CLASS MEETINGS, FACILITATED
- CIRCLES, CONFERENCES, PEER MEDIATION, AND OTHER INTERVENTIONS;
+  (1) USE OF THE  LEAST  SEVERE  ACTION  NECESSARY  TO  RESPOND  TO  ANY
+ VIOLATION  OF  THE  CODE OF CONDUCT BEFORE IMPOSING A REMOVAL OR SUSPEN-
+ SION; AND
+  (2) RESTORATIVE PRACTICES, SOCIAL AND EMOTIONAL LEARNING,  THERAPEUTIC
+ CRISIS  INTERVENTIONS, COUNSELING, DE-ESCALATION, COLLABORATIVE PROBLEM-
+ SOLVING, CONFLICT MEDIATION OR RESOLUTION  STRATEGIES,  ENGAGEMENT  WITH
+ FAMILIES,  CLASS  MEETINGS, FACILITATED CIRCLES, CONFERENCES, PEER MEDI-
+ ATION, AND OTHER INTERVENTIONS;
   (IV) ENSURE ANY DISCIPLINARY STRATEGIES USED  SHALL  PROVIDE  STUDENTS
  WITH  THE  OPPORTUNITY TO HOLD THEMSELVES ACCOUNTABLE FOR THEIR BEHAVIOR
- AND REPAIR ANY HARM, THIS MAY INCLUDE  STRATEGIES  TO  BUILD  COMMUNITY,
- STRENGTHEN  RELATIONSHIPS,  AND  ALLOW  STUDENTS  TO REMEDY HARM THROUGH
- COMMUNITY SERVICE WITH CONSENT OF THEIR PARENTS OR PERSONS  IN  PARENTAL
- RELATIONS.
+ AND REPAIR ANY HARM, WHICH MAY INCLUDE STRATEGIES  TO  BUILD  COMMUNITY,
+ STRENGTHEN  RELATIONSHIPS, ENGAGE IN RESTORATIVE PRACTICES; AND ALLOWING
+ STUDENTS THE OPPORTUNITY TO REMEDY HARM THROUGH COMMUNITY  SERVICE  WITH
+ CONSENT OF THEIR PARENTS OR PERSONS IN PARENTAL RELATIONS.
   C.  SUSPENSION  PROVISIONS.  PROVISIONS  DETAILING  SCHOOL SUSPENSIONS
  SHALL:
   (I) PROHIBIT THE SUSPENSION OF STUDENTS  IN  PRE-KINDERGARTEN  THROUGH
- GRADE  THREE,  UNLESS  THE  STUDENT'S  CONDUCT FALLS UNDER AN EXCEPTION,
- SUSPENSIONS SHALL BE NO MORE THAN FIVE  DAYS,  REQUIRING  SUPERINTENDENT
- APPROVAL  PRIOR  TO  SUSPENSION,  EXCEPTIONS TO PRE-KINDERGARTEN THROUGH
- GRADE THREE SUSPENSION PROHIBITION ARE AS FOLLOWS:
-  (1) THE STUDENT'S CONDUCT CAUSED INTENTIONAL HARM TO THEMSELVES, OTHER
- STUDENTS, OR STAFF;
-  (2) THE STUDENT'S CONDUCT FALLS UNDER AN EXCEPTION TO  PROHIBITION  OF
- SUSPENSION PURSUANT TO SUBPARAGRAPH (IX) OF THIS PARAGRAPH;
-  (3)  THE  STUDENT'S  CONDUCT  PUTS THE HEALTH AND SAFETY OF THE SCHOOL
- COMMUNITY AT RISK AS DETERMINED BY THE SCHOOL  ADMINISTRATOR,  UTILIZING
- THE GUIDANCE DEVELOPED BY THE COMMISSIONER; AND
-  (4) SUSPENSION IS NECESSARY TO COMPLY WITH APPLICABLE FEDERAL LAWS;
-  (II)  PROHIBIT  SUSPENSIONS  FOR  INITIAL ACTS OF DISOBEDIENCE, EXCEPT
- WHEN THE BEHAVIOR RISES TO A LEVEL OF CONDUCT DESCRIBED IN EXCEPTIONS TO
- PROHIBITION OF SUSPENSION PURSUANT TO SUBPARAGRAPH (IX)  OF  THIS  PARA-
- GRAPH.  "ACTS OF DISOBEDIENCE" SHALL MEAN DISRUPTIVE, INSUBORDINATE, OR
- ROWDY BEHAVIOR, INCLUDING BEHAVIORS SUCH AS THE USE OF FOUL OR  INAPPRO-
- PRIATE LANGUAGE, GESTURES, COMMENTS, OR REFUSAL TO FOLLOW DIRECTIONS;
-  (III)  PROHIBIT SUSPENSIONS TO RESPOND TO TARDINESS, UNEXCUSED ABSENCE
- FROM CLASS OR SCHOOL, LEAVING SCHOOL WITHOUT PERMISSION,  AND  VIOLATION
+ GRADE THREE, EXCEPT IF A SUSPENSION IS NECESSARY TO COMPLY WITH APPLICA-
+ BLE  FEDERAL  LAWS,  INCLUDING THE GUN FREE SCHOOL ACT 20 U.S.C. 7961 ET
+ AL. IN THE EVENT A STUDENT IN GRADES  PRE-K  THROUGH  THREE  ENGAGES  IN
+ BEHAVIOR THAT WOULD OTHERWISE GIVE RISE TO CONSIDERATION OF A SUSPENSION
+ WERE  THEY  IN GRADES FOUR AND ABOVE, SCHOOLS SHALL MAKE USE OF POSITIVE
+ BEHAVIORAL SUPPORTS, AND ALL OTHER NECESSARY SERVICES AND INTERVENTIONS,
+ INCLUDING BUT NOT LIMITED TO FUNCTIONAL BEHAVIOR ASSESSMENTS AND  BEHAV-
+ IOR  INTERVENTION  PLANS,  THAT MAY BE IMPLEMENTED TO PREVENT THE RECUR-
+ RENCE OF THE STUDENT'S BEHAVIORS;
+  (II) PROHIBIT SUSPENSIONS FOR ACTS OF DISOBEDIENCE;
+  (III) PROHIBIT SUSPENSIONS TO RESPOND TO TARDINESS, UNEXCUSED  ABSENCE
+ FROM  CLASS  OR SCHOOL, LEAVING SCHOOL WITHOUT PERMISSION, AND VIOLATION
  OF SCHOOL DRESS CODE;
- S. 1040--A  4
-
-  (IV)  REQUIRE  SCHOOLS  TO  MAKE  A GOOD FAITH EFFORT TO MEET WITH THE
- PARENTS TO DEVELOP AND IMPLEMENT INTERVENTIONS AND A RE-ENTRY  PLAN  FOR
+ S. 1040--B  4
+ 
+  (IV) REQUIRE SCHOOLS TO MAKE A GOOD FAITH  EFFORT  TO  MEET  WITH  THE
+ PARENTS  TO  DEVELOP AND IMPLEMENT INTERVENTIONS AND A RE-ENTRY PLAN FOR
  ALL SCHOOL SUSPENSIONS, THIS INCLUDES MAKING SEVERAL ATTEMPTS TO CONTACT
  THE PARENT, PROVIDE REMOTE OPTIONS TO PARENTS, AND CONSIDER THE PARENT'S
  SCHEDULE;
-  (V) PROVIDE THAT SUSPENSIONS MAY BE INVOKED FOR BEHAVIOR THAT DOES NOT
- FALL  UNDER  AN  EXCEPTION TO PROHIBITION OF SUSPENSION PURSUANT TO THIS
- SUBDIVISION IF IT IS DETERMINED THAT IT IS THE ONLY AVAILABLE REMEDY  TO
- PREVENT  REOCCURRENCE  AND  THAT  PRIOR AVAILABLE INTERVENTIONS HAVE NOT
- BEEN EFFECTIVE;
-  (VI) PROVIDE FOR THE REMOVAL FROM THE CLASSROOM AND FROM SCHOOL  PROP-
- ERTY,  INCLUDING  A  SCHOOL  FUNCTION, OF STUDENTS AND OTHER PERSONS WHO
+  (V) PROVIDE FOR THE REMOVAL FROM THE CLASSROOM AND FROM SCHOOL PROPER-
+ TY,  INCLUDING  A  SCHOOL  FUNCTION,  OF  STUDENTS AND OTHER PERSONS WHO
  VIOLATE THE CODE OF CONDUCT;
-  (VII) PROVIDE FOR DETENTION, SUSPENSION AND REMOVAL FROM THE CLASSROOM
+  (VI) PROVIDE FOR DETENTION, SUSPENSION AND REMOVAL FROM THE  CLASSROOM
  OF STUDENTS, CONSISTENT WITH SECTION THIRTY-TWO HUNDRED FOURTEEN OF THIS
  CHAPTER AND OTHER APPLICABLE FEDERAL, STATE AND LOCAL LAWS;
-  (VIII) ESTABLISH  DISCIPLINARY  MEASURES  TO  BE  TAKEN  IN  INCIDENTS
- INVOLVING  THE  POSSESSION  OR USE OF ILLEGAL SUBSTANCES OR WEAPONS, THE
- USE OF PHYSICAL FORCE, VANDALISM, VIOLATION OF ANOTHER  STUDENT'S  CIVIL
- RIGHTS AND THREATS OF VIOLENCE;
-  (IX)  INCLUDE EXCEPTIONS TO ALL PROHIBITIONS OR LIMITATIONS OF SUSPEN-
- SION DESCRIBED IN THIS SECTION  WHICH  SHALL  ONLY  INCLUDE  CONDUCT  AS
+  (VII) ESTABLISH DISCIPLINARY MEASURES TO BE TAKEN IN INCIDENTS INVOLV-
+ ING  THE  POSSESSION OR USE OF ILLEGAL SUBSTANCES OR WEAPONS, THE USE OF
+ PHYSICAL FORCE, VANDALISM, VIOLATION OF ANOTHER STUDENT'S  CIVIL  RIGHTS
+ AND THREATS OF VIOLENCE;
+  (VIII)  INCLUDE  EXCEPTIONS  TO  ALL  PROHIBITIONS  OR  LIMITATIONS OF
+ SUSPENSION DESCRIBED IN THIS SECTION WHICH SHALL ONLY INCLUDE CONDUCT AS
  FOLLOWS:
-  (1) CONDUCT WHICH CAUSES A SERIOUS DISRUPTION THAT CANNOT BE ADDRESSED
- THROUGH  OTHER  MEANS, AND SEVERAL OTHER GRADUATED DISCIPLINARY MEASURES
- HAVE ALREADY BEEN ATTEMPTED;
-  (2) CONDUCT WHICH CAUSES DAMAGE OR INJURY TO SCHOOL PROPERTY;
-  (3) POSSESSION OR DISTRIBUTION OF TOBACCO,  ALCOHOL,  DRUGS  OR  OTHER
- ILLEGAL SUBSTANCES;
-  (4)  CONDUCT  WHICH  IS  OF  A VIOLENT OR SEXUAL NATURE THAT ENDANGERS
- OTHERS;
-  (5) USE OF THREATS, INTIMIDATION, HARASSMENT  OR  COERCION  AGAINST  A
- STUDENT  OR A SCHOOL EMPLOYEE, INCLUDING ACTS PROHIBITED PURSUANT TO THE
- DIGNITY FOR ALL STUDENTS ACT IN SECTION TWELVE OF THIS CHAPTER;
-  (6) ASSAULT OF A SCHOOL EMPLOYEE OR ANOTHER STUDENT;
-  (7) INTENTIONAL ATTEMPTS, BY  WORD  OR  CONDUCT,  TO  PLACE  A  SCHOOL
- EMPLOYEE OR ANOTHER STUDENT IN FEAR OF IMMINENT SERIOUS PHYSICAL INJURY;
- OR
-  (8) IS NECESSARY TO COMPLY WITH APPLICABLE FEDERAL LAWS.
+  (1) SALE OR DISTRIBUTION OF TOBACCO, ALCOHOL, DRUGS OR  OTHER  ILLEGAL
+ SUBSTANCES;
+  (2)  CONDUCT  THAT WAS INTENDED AND  RESULTED IN SERIOUS BODILY INJURY
+ UPON ANOTHER PERSON WHILE AT SCHOOL, ON SCHOOL PREMISES, OR AT A  SCHOOL
+ FUNCTION;
+  (3)  PHYSICAL  SEXUAL  ASSAULT  AND/OR  FORCING ANOTHER TO ENGAGE IN A
+ SEXUAL ACTIVITY WHILE AT SCHOOL, ON SCHOOL  PREMISES,  OR  AT  A  SCHOOL
+ FUNCTION; OR
+  (4) IS NECESSARY TO COMPLY WITH APPLICABLE FEDERAL LAWS.
   D.  CODE  OF  CONDUCT  AND DISCIPLINARY PROCEDURES. SCHOOL AUTHORITIES
  SHALL ESTABLISH:
   (I) standards and procedures to assure security and safety of students
@@ -236,33 +223,42 @@ S T A T E  O F  N E W  Y O R K
  chapter and other applicable federal, state  and  local  laws  including
  provisions  for  the  school authorities to establish] (II) policies and
  procedures to ensure the provision of continued educational  programming
- S. 1040--A  5
- 
  and  activities  for  students  removed  from  the  classroom, placed in
  detention, or suspended from school, WHICH SHALL INCLUDE:
   (1) AN EDUCATION PLAN THAT THE PRINCIPAL, OR THE PRINCIPAL'S DESIGNEE,
- IN  CONSULTATION  WITH  THE  STUDENT'S  TEACHERS,  SHALL  CREATE FOR THE
- STUDENT FOR EACH CLASS IN WHICH THE STUDENT IS ENROLLED.  THE  EDUCATION
+ IN CONSULTATION WITH  THE  STUDENT'S  TEACHERS,  SHALL  CREATE  FOR  THE
+ STUDENT  FOR  EACH CLASS IN WHICH THE STUDENT IS ENROLLED. THE EDUCATION
  PLAN SHALL MAKE PROVISIONS FOR A STUDENT'S ON-GOING ACADEMIC INSTRUCTION
- DURING  THE REMOVAL OR SUSPENSION AND SHALL INCLUDE THE STEPS THE SCHOOL
- WILL TAKE TO PROVIDE THE STUDENT WITH A SUCCESSFUL RE-ENTRY  TO  SCHOOL.
- THE  STUDENT SHALL HAVE THE OPPORTUNITY TO EARN ALL ACADEMIC CREDIT THEY
- WOULD HAVE BEEN ELIGIBLE TO EARN HAD THE STUDENT BEEN IN CLASS,  INCLUD-
- ING  THE  OPPORTUNITY  TO  COMPLETE  ANY  MISSED ASSIGNMENTS OR TAKE ANY
- MISSED EXAMINATIONS OR  ASSESSMENTS  DURING  THE  STUDENT'S  REMOVAL  OR
+ DURING THE REMOVAL OR SUSPENSION AND SHALL INCLUDE THE STEPS THE  SCHOOL
+ WILL  TAKE  TO PROVIDE THE STUDENT WITH A SUCCESSFUL RE-ENTRY TO SCHOOL.
+ THE STUDENT SHALL HAVE THE OPPORTUNITY TO EARN ALL ACADEMIC CREDIT  THEY
+ WOULD  HAVE BEEN ELIGIBLE TO EARN HAD THE STUDENT BEEN IN CLASS, INCLUD-
+ ING THE OPPORTUNITY TO COMPLETE  ANY  MISSED  ASSIGNMENTS  OR  TAKE  ANY
+ MISSED  EXAMINATIONS  OR  ASSESSMENTS  DURING  THE  STUDENT'S REMOVAL OR
  SUSPENSION;
-  (2)  PROCEDURES  FOR  WHEN  AN  EXAMINATION  OR  ASSESSMENT  CANNOT BE
- RESCHEDULED, THE STUDENT SHALL BE ALLOWED ON  SCHOOL  PROPERTY  TO  TAKE
- SUCH  ASSESSMENT  OR EXAMINATION ON THE DAY AND TIME THAT THE ASSESSMENT
- OR EXAMINATION IS GIVEN, UNLESS THE  STUDENT  PRESENTS  A  RISK  TO  THE
+ S. 1040--B  5
+ 
+  (2) PROCEDURES  FOR  WHEN  AN  EXAMINATION  OR  ASSESSMENT  CANNOT  BE
+ RESCHEDULED,  THE  STUDENT  SHALL  BE ALLOWED ON SCHOOL PROPERTY TO TAKE
+ SUCH ASSESSMENT OR EXAMINATION ON THE DAY AND TIME THAT  THE  ASSESSMENT
+ OR  EXAMINATION  IS  GIVEN,  UNLESS  THE  STUDENT PRESENTS A RISK TO THE
  HEALTH  AND  SAFETY OF THE SCHOOL COMMUNITY, THEN ALTERNATIVE SPACES MAY
  BE USED AS DESCRIBED IN SECTION  THIRTY-TWO  HUNDRED  FOURTEEN  OF  THIS
- CHAPTER; AND
+ CHAPTER;
   (3)  POLICIES  ON THE TIMEFRAME AN EDUCATIONAL PLAN SHALL BE COMPLETED
  AND IMPLEMENTED, THIS SHALL BE WITHIN A REASONABLE AND EXPEDITIOUS TIME-
  FRAME TO MITIGATE LEARNING LOSS IN ACCORDANCE WITH  THE  LENGTH  OF  THE
  SUSPENSION, PROVIDED THAT THE EDUCATION PLAN IS DELIVERED TO THE STUDENT
- NO LATER THAN FORTY-EIGHT HOURS AFTER THE START OF SUSPENSION;
+ NO LATER THAN FORTY-EIGHT HOURS AFTER THE START OF SUSPENSION; AND
+  (4)  IN THE EVENT A SUSPENSION IS IMPOSED FOR TWENTY-ONE DAYS OR MORE,
+ STARTING FROM THE FIRST DAY OF  EXCLUSION,  THE  EDUCATION  PLAN  SHALL,
+ INCLUDE MEETINGS EVERY TEN SCHOOL DAYS COMPRISING OF THE STUDENT, PARENT
+ OR  PERSON  IN  PARENTAL  RELATION,  GUIDANCE,  SCHOOL SUPPORT STAFF AND
+ TEACHERS TO REVIEW THE STUDENT'S ACADEMIC PROGRESS, SERVICES AND  BARRI-
+ ERS, IF ANY, TO A RETURN TO THE SCHOOL COMMUNITY. CONSIDERATION SHALL BE
+ GIVEN  TO A TERMINATION OF SUSPENSION STATUS AND IMMEDIATE RETURN TO THE
+ SCHOOL COMMUNITY.  IN NO EVENT SHALL A SUSPENSION BE LONGER THAN  FORTY
+ DAYS UNLESS TO COMPLY WITH APPLICABLE FEDERAL LAW.
   [f.]  (III)  procedures by which violations OF THE CODE OF CONDUCT are
  reported TO THE APPROPRIATE SCHOOL PERSONNEL, THE FACTS ARE INVESTIGATED
  AND determined, AND discipline measures [imposed and discipline measures
@@ -279,7 +275,11 @@ S T A T E  O F  N E W  Y O R K
  OF  CONDUCT  violations  INCLUDING  NOTICE  THAT  ANY  STATEMENT  BY THE
  STUDENT, WRITTEN OR ORAL, MAY BE USED AGAINST THE STUDENT IN A CRIMINAL,
  IMMIGRATION, OR JUVENILE  DELINQUENCY  INVESTIGATION  AND/OR  PROCEEDING
- AND/OR IN A COURT OF LAW;
+ AND/OR  IN A COURT OF LAW. THIS NOTICE SHALL BE GIVEN PRIOR TO A STUDENT
+ PROVIDING A WRITTEN OR ORAL STATEMENT,  AND  THE  PARENT  OR  PERSON  IN
+ PARENTAL  RELATION  TO  THE STUDENT SHALL HAVE AN OPPORTUNITY TO DISCUSS
+ SUCH POTENTIAL CONSEQUENCES WITH THE STUDENT  PRIOR  TO  ANY  STATEMENTS
+ BEING RECORDED;
   [j.] (VII) provisions setting forth the circumstances under and proce-
  dures  by  which  a [complaint in criminal court, a juvenile delinquency
  petition] STUDENT MAY BE REFERRED TO LAW  ENFORCEMENT,  CONSISTENT  WITH
@@ -288,13 +288,13 @@ S T A T E  O F  N E W  Y O R K
  articles three and seven of the family court act will be filed;
   [k.] (VIII) circumstances under and procedures by which [referral  to]
  A  STUDENT  MAY  BE  REFERRED TO ACADEMIC SERVICES, SCHOOL-BASED SUPPORT
- SERVICES, OR appropriate human service agencies [shall be made]; AND
+ SERVICES, OR appropriate human service agencies [shall be made];
   [l. a minimum suspension  period,  for  students  who  repeatedly  are
  substantially  disruptive  of  the  educational process or substantially
  interfere with the teacher's authority over the classroom, provided that
  the suspending authority may reduce such period on a case by case  basis
  to  be  consistent with any other state and federal law. For purposes of
- S. 1040--A  6
+ S. 1040--B  6
 
  this section, the definition of "repeatedly  are  substantially  disrup-
  tive"  shall  be  determined  in  accordance with the regulations of the
@@ -303,8 +303,8 @@ S T A T E  O F  N E W  Y O R K
  to be defined as a violent pupil pursuant to paragraph a of  subdivision
  two-a  of  section thirty-two hundred fourteen of this chapter, provided
  that the suspending authority may reduce such period on a case  by  case
- basis to be consistent with any other state and federal law; and
-  n.] (IX) provisions to comply with article two of this chapter.
+ basis to be consistent with any other state and federal law;] and
+  [n.] (IX) provisions to comply with article two of this chapter.
   3.  The [district] code of conduct shall be developed in collaboration
  with [student, teacher, administrator, and parent organizations]  REPRE-
  SENTATIVES  FROM  INTERESTED STAKEHOLDERS INCLUDING, BUT NOT LIMITED TO,
@@ -312,50 +312,50 @@ S T A T E  O F  N E W  Y O R K
  COLLECTIVE  BARGAINING  UNITS  REPRESENTING  TEACHERS,  SCHOOL-RELATED
  PROFESSIONALS, AND THE PRINCIPALS, and other school personnel and  shall
  be  approved  by the board of education OR TRUSTEES, [or other governing
- body,] or by the chancellor of the city school district in the  case  of
- the  city  school  district  of the city of New York. In the city school
- district of the city of New  York,  each  community  district  education
- council  shall be authorized to adopt and implement additional policies,
- which are consistent with the  city  district's  district-wide  code  of
- conduct,  to  reflect  the  individual  needs  of  each community school
- district provided  that  such  additional  policies  shall  require  the
- approval of the chancellor.
-  3-A.  THE  BOARD  OF EDUCATION OR TRUSTEES, THE CHANCELLOR OF THE CITY
- SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE  CITY  OF
- NEW  YORK SHALL PROVIDE PROFESSIONAL DEVELOPMENT IN ACCORDANCE WITH THIS
- SECTION FOR SCHOOL PERSONNEL, LAW  ENFORCEMENT  AND  PUBLIC  OR  PRIVATE
- SECURITY  PERSONNEL  EMPLOYED,  RETAINED  OR  CONTRACTED  WITH  A SCHOOL
- DISTRICT OR PUBLIC SCHOOL REGARDING THE CODE  OF  CONDUCT,  THE  USE  OF
- MULTI-TIERED  SYSTEMS OF SUPPORT, POSITIVE BEHAVIORAL INTERVENTIONS, AND
- AGE-APPROPRIATE  GRADUATED  AND  PROPORTIONATE  DISCIPLINE,  WHICH  MAY
- INCLUDE  IMPLICIT  BIAS  TRAINING,  ACCORDING  TO  COLLECTIVE BARGAINING
- AGREEMENTS.
-  4. [The] AT THE BEGINNING OF EACH SCHOOL YEAR, THE board of  education
+ body,] THE CHARTER SCHOOL'S AUTHORIZERS or by the chancellor of the city
+ school district in the case of the city school district of the  city  of
+ New  York.  In  the  city  school district of the city of New York, each
+ community district education council shall be authorized  to  adopt  and
+ implement  additional  policies,  which  are  consistent  with  the city
+ district's district-wide code of  conduct,  to  reflect  the  individual
+ needs  of  each  community school district provided that such additional
+ policies shall require the approval of the chancellor.
+  3-A. THE BOARD OF EDUCATION OR TRUSTEES, THE CHANCELLOR  OF  THE  CITY
+ SCHOOL  DISTRICT  IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE CITY OF
+ NEW YORK SHALL PROVIDE PROFESSIONAL DEVELOPMENT IN ACCORDANCE WITH  THIS
+ SECTION  FOR  SCHOOL  PERSONNEL,  LAW  ENFORCEMENT AND PUBLIC OR PRIVATE
+ SECURITY PERSONNEL  EMPLOYED,  RETAINED  OR  CONTRACTED  WITH  A  SCHOOL
+ DISTRICT  OR  PUBLIC  SCHOOL  REGARDING  THE CODE OF CONDUCT, THE USE OF
+ MULTI-TIERED  SYSTEMS  OF  SUPPORT,  POSITIVE  BEHAVIORAL  INTERVENTIONS
+ INCLUDING  RESTORATIVE  PRACTICES,  AND  AGE-APPROPRIATE  GRADUATED  AND
+ PROPORTIONATE DISCIPLINE, WHICH  MAY  INCLUDE  IMPLICIT  BIAS  TRAINING,
+ ACCORDING TO COLLECTIVE BARGAINING AGREEMENTS.
+  4.  [The] AT THE BEGINNING OF EACH SCHOOL YEAR, THE board of education
  OR TRUSTEES, THE chancellor [or other governing body] OF THE CITY SCHOOL
- DISTRICT  IN  THE  CASE  OF  THE CITY SCHOOL DISTRICT OF THE CITY OF NEW
+ DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT  OF  THE  CITY  OF  NEW
  YORK, shall:  TRANSLATE THE CODE OF CONDUCT INTO AT LEAST THE THREE MOST
  COMMONLY SPOKEN LANGUAGES OF THE CHILDREN ATTENDING THE SCHOOL DISTRICT,
- BOARD OF COOPERATIVE EDUCATIONAL SERVICES, OR PUBLIC  SCHOOL,  POST  THE
- CODE  OF  CONDUCT  ON THE SCHOOL DISTRICT'S, PUBLIC SCHOOL'S OR BOARD OF
+ BOARD  OF  COOPERATIVE  EDUCATIONAL SERVICES, OR PUBLIC SCHOOL, POST THE
+ CODE OF CONDUCT ON THE SCHOOL DISTRICT'S, PUBLIC SCHOOL'S  OR  BOARD  OF
  COOPERATIVE EDUCATIONAL SERVICES WEBSITE, provide copies of a summary of
- the code of conduct to all students at a general assembly [held  at  the
+ the  code  of conduct to all students at a general assembly [held at the
  beginning of the school year and shall make copies of the code available
- to  persons  in  parental  relation to students at the beginning of each
- school year, and shall] OR  CLASSROOM  LESSON,  mail  a  plain  language
- summary  of  such code to all PARENTS OR persons in parental relation to
- students before the beginning of each school year, and make it available
- thereafter upon request. The board of education OR TRUSTEES,  THE  chan-
- cellor  OF  THE  CITY  SCHOOL  DISTRICT  IN  THE CASE OF THE CITY SCHOOL
- DISTRICT OF THE CITY OF NEW YORK, or other  governing  body  shall  take
- reasonable  steps to ensure community awareness of the code OF CONDUCT'S
- provisions.
-  5. a. The board of education OR TRUSTEES, OR THE chancellor [or  other
- governing  body]  OF  THE  CITY  SCHOOL DISTRICT IN THE CASE OF THE CITY
+ to persons in parental relation to students at  the  beginning  of  each
+ school  year,  and  shall]  OR  CLASSROOM  LESSON, mail a plain language
+ summary of such code to all PARENTS OR persons in parental  relation  to
+ students  before  the  beginning of each school year, and make [it] SUCH
+ COPIES available thereafter upon request AND ON THE SCHOOL AND/OR SCHOOL
+ DISTRICT'S WEBSITES. The board of education OR TRUSTEES, THE  chancellor
+ OF  THE  CITY SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT OF
+ THE CITY OF NEW YORK, or other  governing  body  shall  take  reasonable
+ steps to ensure community awareness of the code OF CONDUCT'S provisions.
+  5.  a. The board of education OR TRUSTEES, OR THE chancellor [or other
+ governing body] OF THE CITY SCHOOL DISTRICT IN  THE  CASE  OF  THE  CITY
  SCHOOL DISTRICT OF THE CITY OF NEW YORK shall annually review and update
- S. 1040--A  7
+ S. 1040--B  7
  
- the district's codes of conduct if necessary, taking into  consideration
- the  effectiveness  of  code  OF CONDUCT provisions and the fairness and
+ the  district's codes of conduct if necessary, taking into consideration
+ the effectiveness of code OF CONDUCT provisions  and  the  fairness  and
  consistency of its administration. Each school district is authorized to
  establish  a  committee  and  to  facilitate  the  review of the code of
  conduct and the district's response to code of conduct  violations.  Any
@@ -363,58 +363,86 @@ S T A T E  O F  N E W  Y O R K
  subdivision three of this section. The [school] board  OF  EDUCATION  OR
  TRUSTEES,  THE chancellor OF THE CITY SCHOOL DISTRICT IN THE CASE OF THE
  CITY OF NEW YORK, or other  governing  body  shall  reapprove  any  such
- updated  code  only  after at least one public hearing that provides for
- the participation of school personnel, parents, students and  any  other
- interested parties.
+ updated code only after at least one public hearing (THAT COMMENCED UPON
+ THIRTY  DAYS'  NOTICE)  that  provides  for  the participation of school
+ personnel, parents, students and any other interested parties.
   b. Each district OR PUBLIC SCHOOL, OR BOARD OF COOPERATIVE EDUCATIONAL
  SERVICES shall file a copy of its codes of conduct with the commissioner
- and  [all]  ANY  amendments to such code shall be filed with the commis-
+ and [all] ANY amendments to such code shall be filed  with  the  commis-
  sioner no later than thirty days after their adoption.
   § 3. Section 17 of chapter 123 of the laws of 2003 amending the educa-
  tion law relating to establishing the community district education coun-
- cil within the New  York  city  community  school  district  system,  is
+ cil  within  the  New  York  city  community  school district system, is
  amended to read as follows:
-  §  17. This act shall take effect immediately; provided, however, that
- [the provisions] SECTIONS ONE THROUGH TWELVE, FOURTEEN  AND  FIFTEEN  of
+  § 17. This act shall take effect immediately; provided, however,  that
+ [the  provisions]  SECTIONS  ONE THROUGH TWELVE, FOURTEEN AND FIFTEEN of
  this act shall be deemed repealed on the same date as sections 1 through
  20, 24 and 26 through 30 of chapter 91 of the laws of 2002.
-  §  4.  Section 3214 of the education law, as amended by chapter 181 of
- the laws of 2000, subparagraph 1 of paragraph  c  of  subdivision  3  as
+  § 4. Section 3214 of the education law, as amended by chapter  181  of
+ the  laws  of  2000,  subparagraph  1 of paragraph c of subdivision 3 as
  amended by chapter 430 of the laws of 2006, paragraphs d and f of subdi-
- vision  3  as amended by chapter 425 of the laws of 2002, paragraph e of
+ vision 3 as amended by chapter 425 of the laws of 2002, paragraph  e  of
  subdivision 3 as amended by chapter 170 of the laws of 2006, paragraph g
- of subdivision 3 as amended by chapter 352 of the laws of  2005,  clause
- (v)  of  subparagraph  3  of  paragraph g of subdivision 3 as amended by
- chapter 378 of the laws of 2007, paragraphs a, b and  c  of  subdivision
- 3-a  as  amended by chapter 147 of the laws of 2001 and subdivision 7 as
- amended by section 9 of part YYY of chapter 59 of the laws of  2017,  is
+ of  subdivision  3 as amended by chapter 352 of the laws of 2005, clause
+ (v) of subparagraph 3 of paragraph g of  subdivision  3  as  amended  by
+ chapter  378  of  the laws of 2007, paragraphs a, b and c of subdivision
+ 3-a as amended by chapter 147 of the laws of 2001 and subdivision  7  as
+ amended  by  section 9 of part YYY of chapter 59 of the laws of 2017, is
  amended to read as follows:
-  §  3214.  Student  placement,  suspensions  and  transfers. 1. [School
+  § 3214. Student  placement,  suspensions  and  transfers.  1.  [School
  delinquent. A minor under seventeen years of age, required by any of the
- provisions of part one of this article to attend upon  instruction,  who
- is  an  habitual  truant  from  such instruction or is irregular in such
- attendance or insubordinate  or  disorderly  or  disruptive  or  violent
+ provisions  of  part one of this article to attend upon instruction, who
+ is an habitual truant from such instruction  or  is  irregular  in  such
+ attendance  or  insubordinate  or  disorderly  or  disruptive or violent
  during such attendance, is a school delinquent.
-  2.  Special  day schools. The school authorities of any city or school
- district may establish schools or  set  apart  rooms  in  public  school
- buildings  for the instruction of school delinquents, and fix the number
- of days per week and the hours per day  of  required  attendance,  which
+  2. Special day schools. The school authorities of any city  or  school
+ district  may  establish  schools  or  set  apart rooms in public school
+ buildings for the instruction of school delinquents, and fix the  number
+ of  days  per  week  and the hours per day of required attendance, which
  shall not be less than is required of minors attending the full time day
  schools.
-  2-a.  a.]  NOTWITHSTANDING ANY PROVISION OF LAW, RULE OR REGULATION TO
- THE CONTRARY, THIS SECTION SHALL APPLY TO  ALL  PUBLIC  SCHOOLS  IN  THE
- STATE.  WHENEVER  THE  TERM  "BOARD  OF EDUCATION OR SUPERINTENDENT OF
- SCHOOLS" IS USED IN THIS SECTION, IT SHALL BE DEEMED TO INCLUDE BOARD OF
- TRUSTEES, THE CHANCELLOR OF THE CITY SCHOOL DISTRICT IN THE CASE OF  THE
- CITY SCHOOL DISTRICT OF THE CITY OF NEW YORK, COMMUNITY BOARDS OF EDUCA-
- TION  AND  COMMUNITY  SUPERINTENDENTS  GOVERNING  COMMUNITY DISTRICTS IN
- ACCORDANCE WITH THE PROVISIONS OF ARTICLE FIFTY-TWO-A OF THIS CHAPTER.
- S. 1040--A  8
- 
-  2. SUSPENSION OF A STUDENT. THE BOARD OF EDUCATION OR TRUSTEES,  THE
- CHANCELLOR  OF  THE  CITY SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL
- DISTRICT OF THE CITY OF NEW YORK, SUPERINTENDENT  OF  SCHOOLS,  DISTRICT
- SUPERINTENDENT  OF  SCHOOLS  AND  THE  PRINCIPAL OF THE SCHOOL WHERE THE
+  2-a. a. Violent pupil.  For the purposes of this  section,  a  violent
+ pupil  is  an  elementary or secondary student under twenty-one years of
+ age who:
+  (1) commits an act of violence upon a teacher, administrator or  other
+ school employee;
+  (2)  commits,  while  on  school district property, an act of violence
+ upon another student or any other person lawfully upon said property;
+ S. 1040--B  8
+
+  (3) possesses, while  on  school  district  property,  a  gun,  knife,
+ explosive  or  incendiary bomb, or other dangerous instrument capable of
+ causing physical injury or death;
+  (4)  displays, while on school district property, what appears to be a
+ gun, knife, explosive or incendiary bomb or other  dangerous  instrument
+ capable of causing death or physical injury;
+  (5)  threatens,  while on school district property, to use any instru-
+ ment that appears capable of causing physical injury or death;
+  (6) knowingly and intentionally damages or destroys the personal prop-
+ erty of a teacher, administrator, other school district employee or  any
+ person lawfully upon school district property; or
+  (7)  knowingly  and  intentionally damages or destroys school district
+ property.
+  b. Disruptive pupil.  For the purposes of this section,  a  disruptive
+ pupil  is  an  elementary or secondary student under twenty-one years of
+ age who is  substantially  disruptive  of  the  educational  process  or
+ substantially  interferes  with  the teacher's authority over the class-
+ room.
+  3. Suspension of a pupil] NOTWITHSTANDING ANY PROVISION OF  LAW,  RULE
+ OR  REGULATION  TO  THE CONTRARY, THIS SECTION SHALL APPLY TO ALL PUBLIC
+ SCHOOLS  IN  THE  STATE  INCLUDING  CHARTER  SCHOOLS  PURSUANT  TO  THE
+ PROVISIONS  OF  PARAGRAPH (C) OF SUBDIVISION ONE OF SECTION TWENTY-EIGHT
+ HUNDRED FIFTY-THREE OF THIS CHAPTER. WHENEVER THE TERM "BOARD OF  EDUCA-
+ TION  OR SUPERINTENDENT OF SCHOOLS" IS USED IN THIS SECTION, IT SHALL BE
+ DEEMED TO INCLUDE BOARD OF TRUSTEES, THE CHANCELLOR OF THE  CITY  SCHOOL
+ DISTRICT  IN  THE  CASE  OF  THE CITY SCHOOL DISTRICT OF THE CITY OF NEW
+ YORK,  COMMUNITY  BOARDS  OF  EDUCATION  AND  COMMUNITY  SUPERINTENDENTS
+ GOVERNING COMMUNITY DISTRICTS IN ACCORDANCE WITH THE PROVISIONS OF ARTI-
+ CLE FIFTY-TWO-A OF THIS CHAPTER.
+  2.  SUSPENSION  OF A STUDENT. THE BOARD OF EDUCATION OR TRUSTEES,  THE
+ CHANCELLOR OF THE CITY SCHOOL DISTRICT IN THE CASE OF  THE  CITY  SCHOOL
+ DISTRICT  OF  THE  CITY OF NEW YORK, SUPERINTENDENT OF SCHOOLS, DISTRICT
+ SUPERINTENDENT OF SCHOOLS AND THE PRINCIPAL  OF  THE  SCHOOL  WHERE  THE
  STUDENT ATTENDS SHALL HAVE THE POWER TO SUSPEND A STUDENT AS FOLLOWS:
   A.  FOR  A  PERIOD NOT TO EXCEED FIVE CONSECUTIVE SCHOOL DAYS PROVIDED
  THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY  SECTION  TWEN-
@@ -424,51 +452,59 @@ S T A T E  O F  N E W  Y O R K
  INCLUDING  A  BRIEF  EXPLANATION  OF  THE BASIS FOR THE SUSPENSION AND A
  DESCRIPTION OF THE ALLEGED BEHAVIOR THAT VIOLATED THE  CODE  OF  CONDUCT
  THAT  INCLUDES  THE  DATE,  TIME,  AND  PLACE  OF THE SCHEDULED INFORMAL
- CONFERENCE WITH THE PRINCIPAL, THE RIGHT TO APPEAL A SUSPENSION, AND THE
- PROCEDURES FOR APPEAL.
-  (2) THE STUDENT AND THE PARENT OR PERSON IN PARENTAL RELATION  TO  THE
- STUDENT  SHALL  BE  GIVEN AN OPPORTUNITY FOR AN INFORMAL CONFERENCE WITH
- THE PRINCIPAL. AT THE CONFERENCE, THE  STUDENT AND PARENT OR  PERSON  IN
- PARENTAL  RELATION  SHALL  BE  AUTHORIZED  TO REVIEW ALL EVIDENCE OF THE
- ALLEGED MISCONDUCT, PRESENT THE  STUDENT'S VERSION OF THE EVENT, TO  ASK
- QUESTIONS  OF  THE  COMPLAINING  WITNESSES,  AND TO BE REPRESENTED BY AN
- ATTORNEY OR ADVOCATE.  THE  AFORESAID  NOTICE  AND  OPPORTUNITY  FOR  AN
- INFORMAL  CONFERENCE SHALL TAKE PLACE PRIOR TO SUSPENSION OF THE STUDENT
+ CONFERENCE WITH THE PRINCIPAL, THE RIGHT TO  APPEAL  A  SUSPENSION,  THE
+ PROCEDURES  FOR  APPEAL,  AND  THE  MANNER  AND  LOCATION OF ALTERNATIVE
+ INSTRUCTION TO BE PROVIDED TO  THE  STUDENT  FOR  THE  DURATION  OF  THE
+ SUSPENSION IF THE STUDENT IS SUSPENDED OUT OF SCHOOL.
+  (2)  THE  STUDENT AND THE PARENT OR PERSON IN PARENTAL RELATION TO THE
+ STUDENT SHALL BE GIVEN AN OPPORTUNITY FOR AN  INFORMAL  CONFERENCE  WITH
+ THE  PRINCIPAL.  AT THE CONFERENCE, THE  STUDENT AND PARENT OR PERSON IN
+ PARENTAL RELATION SHALL BE AUTHORIZED TO  REVIEW  ALL  EVIDENCE  OF  THE
+ ALLEGED  MISCONDUCT, PRESENT THE  STUDENT'S VERSION OF THE EVENT, TO ASK
+ QUESTIONS OF THE COMPLAINING WITNESSES, AND  TO  BE  REPRESENTED  BY  AN
+ ATTORNEY  OR  ADVOCATE.  THE  AFORESAID  NOTICE  AND  OPPORTUNITY FOR AN
+ INFORMAL CONFERENCE SHALL TAKE PLACE PRIOR TO SUSPENSION OF THE  STUDENT
  UNLESS THE STUDENT'S PRESENCE IN THE SCHOOL POSES A CONTINUING DANGER TO
- PERSONS OR PROPERTY OR AN ONGOING THREAT OF DISRUPTION TO  THE  ACADEMIC
- PROCESS,  IN  WHICH  CASE  THE  STUDENT'S  NOTICE AND OPPORTUNITY FOR AN
+ PERSONS  OR  PROPERTY OR AN ONGOING THREAT OF DISRUPTION TO THE ACADEMIC
+ S. 1040--B  9
+
+ PROCESS, IN WHICH CASE THE  STUDENT'S  NOTICE  AND  OPPORTUNITY  FOR  AN
  INFORMAL CONFERENCE SHALL TAKE PLACE AS SOON AFTER THE SUSPENSION BEGINS
  AS IS REASONABLY PRACTICABLE.
-  B. FOR A  PERIOD  NOT  TO  EXCEED  TWENTY  CONSECUTIVE  SCHOOL  DAYS,
+  B.  FOR  A  PERIOD  NOT  TO  EXCEED  TWENTY CONSECUTIVE SCHOOL DAYS,
  PROVIDED THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY SUBDI-
  VISION TWO OF SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER, OR FOR A
  PERIOD IN EXCESS OF TWENTY CONSECUTIVE SCHOOL DAYS, PROVIDED THE SUSPEN-
- SION  SHALL  ONLY  BE FOR VIOLENT ACTS DESCRIBED IN SUBDIVISION THREE OF
- THIS SECTION, AN EXCEPTION TO ANY PROHIBITION OF SUSPENSION DESCRIBED IN
- SUBDIVISION TWO OF SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER,  OR
- PURSUANT TO APPLICABLE FEDERAL LAW.
+ SION SHALL ONLY  BE  FOR  CONDUCT  THAT  FALLS  UNDER  AN  EXCEPTION  AS
+ DESCRIBED  IN A CODE OF CONDUCT ADOPTED PURSUANT TO SECTION TWENTY-EIGHT
+ HUNDRED ONE OF THIS CHAPTER OR PURSUANT TO APPLICABLE FEDERAL LAW.
   (1) NO STUDENT MAY BE SUSPENDED FOR A PERIOD IN EXCESS OF FIVE CONSEC-
  UTIVE SCHOOL DAYS  WITHOUT APPROVAL FROM THE SUPERINTENDENT.
-  (2)  IF  APPROVED,  SUCH  STUDENT AND THE PARENT OR PERSON IN PARENTAL
- RELATION TO SUCH STUDENT SHALL HAVE HAD AN OPPORTUNITY FOR A FAIR  HEAR-
- ING,  UPON  REASONABLE  WRITTEN  NOTICE,  WHICH  SHALL  INCLUDE  A BRIEF
- DESCRIPTION OF THE FACTS UPON WHICH THE ALLEGED VIOLATIONS OF  THE  CODE
- OF  CONDUCT  ARE  BASED,  THE  SECTION  OF  THE CODE OF CONDUCT THAT THE
+  (2) IF APPROVED, SUCH STUDENT AND THE PARENT  OR  PERSON  IN  PARENTAL
+ RELATION  TO SUCH STUDENT SHALL HAVE HAD AN OPPORTUNITY FOR A FAIR HEAR-
+ ING, UPON  REASONABLE  WRITTEN  NOTICE,  WHICH  SHALL  INCLUDE  A  BRIEF
+ DESCRIPTION  OF  THE FACTS UPON WHICH THE ALLEGED VIOLATIONS OF THE CODE
+ OF CONDUCT ARE BASED, THE SECTION  OF  THE  CODE  OF  CONDUCT  THAT  THE
  STUDENT IS ALLEGED TO HAVE VIOLATED, AND THE DATE, TIME AND PLACE OF THE
- HEARING.  PRIOR TO THE HEARING, COPIES OF  ALL  EVIDENCE  REGARDING  THE
- ALLEGED  INCIDENT  SHALL BE PROVIDED TO THE STUDENT AND PARENT OR PERSON
- IN PARENTAL RELATION TO THE STUDENT. THE HEARING SHALL BE CONVENED WITH-
- IN FIVE DAYS OF THE WRITTEN NOTICE,  UNLESS  THE  PARENT  OR  PERSON  IN
- PARENTAL RELATION TO THE STUDENT OR STUDENT REQUESTS A LATER DATE.
-  (3)  AT  THE  HEARING,  SUCH STUDENT SHALL HAVE THE RIGHT OF REPRESEN-
- TATION BY AN ATTORNEY OR ADVOCATE, WITH THE RIGHT TO REQUEST  THE  PRES-
- ENCE  OF  AND QUESTION WITNESSES AGAINST SUCH STUDENT AND TO REQUEST THE
+ HEARING.  PRIOR  TO  THE HEARING, COPIES OF ALL EVIDENCE REGARDING THE
+ ALLEGED INCIDENT, INCLUDING BUT NOT LIMITED TO  STATEMENTS  BY  STUDENTS
+ AND  STAFF, VIDEO SURVEILLANCE, ANECDOTAL RECORDS, PHOTOGRAPHS AND OTHER
+ DOCUMENTARY EVIDENCE, AUDIO RECORDINGS, AND OTHER MATERIALS  RELATED  TO
+ THE  INCIDENT  SHALL  BE PROVIDED TO THE STUDENT AND PARENT OR PERSON IN
+ PARENTAL RELATION TO THE STUDENT, AND TO ANY ATTORNEY OR ADVOCATE OF THE
+ STUDENT, AS WELL AS  NOTICE  OF  THE  TIME,  MANNER  AND  PLACE  OF  THE
+ PROVISION  OF ALTERNATIVE INSTRUCTION WHEN A STUDENT IS REMOVED FROM THE
+ SCHOOL BUILDING BECAUSE OF THE SUSPENSION PROCEEDING. THE HEARING  SHALL
+ BE CONVENED WITHIN FIVE DAYS OF THE WRITTEN NOTICE, UNLESS THE PARENT OR
+ PERSON  IN  PARENTAL RELATION TO THE STUDENT OR STUDENT REQUESTS A LATER
+ DATE.
+  (3) AT THE HEARING, SUCH STUDENT SHALL HAVE  THE  RIGHT  OF  REPRESEN-
+ TATION  BY  AN ATTORNEY OR ADVOCATE, WITH THE RIGHT TO REQUEST THE PRES-
+ ENCE OF AND QUESTION WITNESSES AGAINST SUCH STUDENT AND TO  REQUEST  THE
  PRESENCE OF AND PRESENT WITNESSES AND OTHER EVIDENCE ON THEIR BEHALF.
-  (4) WHERE THE STUDENT IS A STUDENT WITH  A  DISABILITY  OR  A  STUDENT
- PRESUMED  TO  HAVE  A DISABILITY, THE PROVISIONS OF SUBDIVISION SEVEN OF
- THIS SECTION SHALL ALSO APPLY.
- S. 1040--A  9
-
+  (4)  WHERE  THE  STUDENT  IS  A STUDENT WITH A DISABILITY OR A STUDENT
+ PRESUMED TO HAVE A DISABILITY, THE PROVISIONS OF SUBDIVISION SIX OF THIS
+ SECTION SHALL ALSO APPLY.
   (5) WHERE A STUDENT HAS BEEN SUSPENDED IN ACCORDANCE WITH  THIS  PARA-
  GRAPH,  THE  BOARD  OF EDUCATION OR TRUSTEES, THE CHANCELLOR OF THE CITY
  SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE  CITY  OF
@@ -488,14 +524,18 @@ S T A T E  O F  N E W  Y O R K
  SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE  CITY  OF
  NEW  YORK,  OTHER  GOVERNING BODY, SUPERINTENDENT OF SCHOOLS OR DISTRICT
  SUPERINTENDENT OF SCHOOLS MAY ACCEPT ALL OR ANY PART THEREOF.
+ S. 1040--B  10
+ 
   (7) THE BOARD OF EDUCATION OR TRUSTEES, THE  CHANCELLOR  OF  THE  CITY
  SCHOOL  DISTRICT  IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE CITY OF
  NEW YORK, SUPERINTENDENT  OF  SCHOOLS,  OR  DISTRICT  SUPERINTENDENT  OF
  SCHOOLS  SHALL  ISSUE  A  WRITTEN  DECISION  TO THE SCHOOL AND PARENT OR
- PERSON IN PARENTAL RELATION TO THE STUDENT  WITHIN  THREE  DAYS  OF  THE
- HEARING.  THE  WRITTEN DECISION SHALL STATE THE LENGTH OF SUSPENSION, IF
+ PERSON  IN  PARENTAL  RELATION  TO  THE STUDENT WITHIN THREE DAYS OF THE
+ HEARING. THE WRITTEN DECISION SHALL STATE THE LENGTH OF  SUSPENSION,  IF
  ANY, FINDINGS OF FACT, REASONS FOR DETERMINATION, PROCEDURES FOR APPEAL,
- AND THE DATE BY WHICH THE APPEAL SHALL BE FILED.
+ THE DATE BY WHICH THE APPEAL SHALL BE FILED, AND THE MANNER AND LOCATION
+ OF  ALTERNATIVE  INSTRUCTION TO BE PROVIDED TO THE STUDENT FOR THE DURA-
+ TION OF THE SUSPENSION IF THE STUDENT IS SUSPENDED OUT OF SCHOOL.
   (8) WHERE THE BASIS FOR THE SUSPENSION IS, IN WHOLE OR  IN  PART,  THE
  POSSESSION  ON  SCHOOL  GROUNDS OR SCHOOL PROPERTY BY THE STUDENT OF ANY
  FIREARM, RIFLE, SHOTGUN, DAGGER, DANGEROUS KNIFE, DIRK, RAZOR,  STILETTO
@@ -525,97 +565,65 @@ S T A T E  O F  N E W  Y O R K
  SCHOOL DISTRICT USING FUNDS FROM THE ELEMENTARY AND SECONDARY  EDUCATION
  ACT OF NINETEEN HUNDRED SIXTY-FIVE WHO IS DETERMINED UNDER THIS SUBDIVI-
  SION  TO  HAVE  BROUGHT  A FIREARM TO OR POSSESSED A FIREARM AT A PUBLIC
- S. 1040--A  10
- 
  SCHOOL OR OTHER PREMISES USED BY THE SCHOOL  DISTRICT  TO  PROVIDE  SUCH
  PROGRAMS  SHALL  BE SUSPENDED FOR A PERIOD OF NOT LESS THAN ONE CALENDAR
  YEAR FROM PARTICIPATION IN SUCH PROGRAM. THE PROCEDURES OF THIS SUBDIVI-
- SION  SHALL  APPLY TO SUCH A SUSPENSION OF A NONPUBLIC SCHOOL STUDENT. A
- SUPERINTENDENT OF SCHOOLS, DISTRICT SUPERINTENDENT OF SCHOOLS OR  COMMU-
- NITY  SUPERINTENDENT  SHALL HAVE THE AUTHORITY TO MODIFY THIS SUSPENSION
- REQUIREMENT FOR EACH STUDENT ON A CASE-BY-CASE BASIS. THE  DETERMINATION
+ SION SHALL APPLY TO SUCH A SUSPENSION OF A NONPUBLIC SCHOOL  STUDENT.  A
+ SUPERINTENDENT  OF SCHOOLS, DISTRICT SUPERINTENDENT OF SCHOOLS OR COMMU-
+ NITY SUPERINTENDENT SHALL HAVE THE AUTHORITY TO MODIFY  THIS  SUSPENSION
+ REQUIREMENT  FOR EACH STUDENT ON A CASE-BY-CASE BASIS. THE DETERMINATION
  OF A SUPERINTENDENT SHALL BE SUBJECT TO REVIEW BY THE BOARD OF EDUCATION
- OR  TRUSTEES,  OR THE CHANCELLOR OF THE CITY SCHOOL DISTRICT IN THE CASE
- OF THE CITY SCHOOL DISTRICT OF THE CITY OF NEW YORK, PURSUANT TO  SUBDI-
- VISION  ONE  OF  THIS  SECTION  AND THE COMMISSIONER PURSUANT TO SECTION
- THREE HUNDRED TEN OF THIS CHAPTER. NOTHING IN THIS SUBDIVISION SHALL  BE
- DEEMED  TO  AUTHORIZE  THE  SUSPENSION OF A STUDENT WITH A DISABILITY IN
- VIOLATION OF THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT OR  ARTICLE
- EIGHTY-NINE  OF  THIS  CHAPTER. A SUPERINTENDENT SHALL REFER THE STUDENT
+ OR TRUSTEES, OR THE CHANCELLOR OF THE CITY SCHOOL DISTRICT IN  THE  CASE
+ OF  THE CITY SCHOOL DISTRICT OF THE CITY OF NEW YORK, PURSUANT TO SUBDI-
+ VISION ONE OF THIS SECTION AND  THE  COMMISSIONER  PURSUANT  TO  SECTION
+ THREE  HUNDRED TEN OF THIS CHAPTER. NOTHING IN THIS SUBDIVISION SHALL BE
+ DEEMED TO AUTHORIZE THE SUSPENSION OF A STUDENT  WITH  A  DISABILITY  IN
+ VIOLATION  OF THE INDIVIDUALS WITH DISABILITIES EDUCATION ACT OR ARTICLE
+ EIGHTY-NINE OF THIS CHAPTER. A SUPERINTENDENT SHALL  REFER  THE  STUDENT
  UNDER THE AGE OF SIXTEEN WHO HAS BEEN DETERMINED TO HAVE BROUGHT A WEAP-
- ON OR FIREARM TO SCHOOL IN VIOLATION OF THIS SUBDIVISION TO  A  PRESENT-
- MENT  AGENCY FOR A JUVENILE DELINQUENCY PROCEEDING CONSISTENT WITH ARTI-
- CLE THREE OF THE FAMILY COURT ACT EXCEPT A STUDENT FOURTEEN  OR  FIFTEEN
- YEARS  OF  AGE WHO QUALIFIES FOR JUVENILE OFFENDER STATUS UNDER SUBDIVI-
- SION FORTY-TWO OF SECTION 1.20 OF THE CRIMINAL PROCEDURE LAW.  A  SUPER-
- INTENDENT  SHALL  REFER  ANY  STUDENT SIXTEEN YEARS OF AGE OR OLDER OR A
- STUDENT FOURTEEN OR FIFTEEN YEARS OF  AGE  WHO  QUALIFIES  FOR  JUVENILE
+ ON  OR  FIREARM TO SCHOOL IN VIOLATION OF THIS SUBDIVISION TO A PRESENT-
+ S. 1040--B  11
+ 
+ MENT AGENCY FOR A JUVENILE DELINQUENCY PROCEEDING CONSISTENT WITH  ARTI-
+ CLE  THREE  OF THE FAMILY COURT ACT EXCEPT A STUDENT FOURTEEN OR FIFTEEN
+ YEARS OF AGE WHO QUALIFIES FOR JUVENILE OFFENDER STATUS  UNDER  SUBDIVI-
+ SION  FORTY-TWO  OF SECTION 1.20 OF THE CRIMINAL PROCEDURE LAW. A SUPER-
+ INTENDENT SHALL REFER ANY STUDENT SIXTEEN YEARS OF AGE  OR  OLDER  OR  A
+ STUDENT  FOURTEEN  OR  FIFTEEN  YEARS  OF AGE WHO QUALIFIES FOR JUVENILE
  OFFENDER STATUS UNDER SUBDIVISION FORTY-TWO OF SECTION 1.20 OF THE CRIM-
- INAL  PROCEDURE LAW, WHO HAS BEEN DETERMINED TO HAVE BROUGHT A WEAPON OR
- FIREARM TO SCHOOL IN VIOLATION OF THIS SUBDIVISION  TO  THE  APPROPRIATE
+ INAL PROCEDURE LAW, WHO HAS BEEN DETERMINED TO HAVE BROUGHT A WEAPON  OR
+ FIREARM  TO  SCHOOL  IN VIOLATION OF THIS SUBDIVISION TO THE APPROPRIATE
  LAW ENFORCEMENT OFFICIALS.
-  (2)  NOTHING  IN THIS PARAGRAPH SHALL BE DEEMED TO MANDATE SUCH ACTION
- BY A SCHOOL DISTRICT PURSUANT TO SUBDIVISION ONE OF THIS  SECTION  WHERE
- SUCH  WEAPON OR FIREARM IS POSSESSED OR BROUGHT TO SCHOOL WITH THE WRIT-
+  (2) NOTHING IN THIS PARAGRAPH SHALL BE DEEMED TO MANDATE  SUCH  ACTION
+ BY  A  SCHOOL DISTRICT PURSUANT TO SUBDIVISION ONE OF THIS SECTION WHERE
+ SUCH WEAPON OR FIREARM IS POSSESSED OR BROUGHT TO SCHOOL WITH THE  WRIT-
  TEN AUTHORIZATION OF SUCH EDUCATIONAL INSTITUTION IN A MANNER AUTHORIZED
- BY ARTICLE TWO HUNDRED  SIXTY-FIVE  OF  THE  PENAL  LAW  FOR  ACTIVITIES
- APPROVED  AND  AUTHORIZED BY THE TRUSTEES OR BOARD OF EDUCATION OR OTHER
- GOVERNING BODY OF THE PUBLIC  SCHOOL  AND  SUCH  GOVERNING  BODY  ADOPTS
+ BY  ARTICLE  TWO  HUNDRED  SIXTY-FIVE  OF  THE  PENAL LAW FOR ACTIVITIES
+ APPROVED AND AUTHORIZED BY THE TRUSTEES OR BOARD OF EDUCATION  OR  OTHER
+ GOVERNING  BODY  OF  THE  PUBLIC  SCHOOL  AND SUCH GOVERNING BODY ADOPTS
  APPROPRIATE SAFEGUARDS TO ENSURE STUDENT SAFETY.
   (3) AS USED IN THIS PARAGRAPH:
-  (I)  "FIREARM"  SHALL  MEAN  A  FIREARM  AS DEFINED IN SUBSECTION A OF
- SECTION NINE HUNDRED TWENTY-ONE OF TITLE EIGHTEEN OF THE  UNITED  STATES
+  (I) "FIREARM" SHALL MEAN A FIREARM  AS  DEFINED  IN  SUBSECTION  A  OF
+ SECTION  NINE  HUNDRED TWENTY-ONE OF TITLE EIGHTEEN OF THE UNITED STATES
  CODE; AND
-  (II)  "WEAPON" SHALL BE AS DEFINED IN PARAGRAPH TWO OF SUBSECTION G OF
+  (II) "WEAPON" SHALL BE AS DEFINED IN PARAGRAPH TWO OF SUBSECTION G  OF
  SECTION NINE HUNDRED THIRTY OF TITLE EIGHTEEN OF THE UNITED STATES CODE.
-  3. Violent [pupil] ACT.  A. A TEACHER SHALL  IMMEDIATELY  REPORT  AND
- REFER  A  STUDENT THAT HAS COMMITTED A VIOLENT ACT TO THE PRINCIPAL OR
- SUPERINTENDENT FOR A VIOLATION OF THE CODE OF CONDUCT.
-  B. For the purposes of this section, a violent [pupil is an elementary
- or secondary student under  twenty-one  years  of  age  who]  ACT  SHALL
- INCLUDE:
-  (1)  [commits]  an  act  of  violence upon a teacher, administrator or
- other school employee;
-  (2) [commits,] while on school district property, an act  of  violence
- upon another student or any other person lawfully upon said property;
-  (3)  [possesses,] while on school district property, POSSESSING a gun,
- knife, explosive or incendiary bomb, or other dangerous instrument capa-
- ble of causing physical injury or death;
- S. 1040--A  11
- 
-  (4) [displays,] while on school  district  property,  DISPLAYING  what
- appears  to  be  a  gun,  knife,  explosive  or incendiary bomb or other
- dangerous instrument capable of causing death or physical injury;
-  (5) [threatens,] while on school district property, THREATENING to use
- any instrument that appears capable of causing physical injury or death;
-  (6)  knowingly  and  intentionally  [damages  or destroys] DAMAGING OR
- DESTROYING the personal property  of  a  teacher,  administrator,  other
- school  district  employee  or  any person lawfully upon school district
- property; or
-  (7) knowingly and intentionally  [damages  or  destroys]  DAMAGING  OR
- DESTROYING school district property.
-  [b.  Disruptive pupil.  For the purposes of this section, a disruptive
- pupil is an elementary or secondary student under  twenty-one  years  of
- age  who  is  substantially  disruptive  of  the  educational process or
- substantially interferes with the teacher's authority  over  the  class-
- room.
-  3. Suspension of a pupil] 4. ALTERNATIVE  LEARNING SPACES OR  SCHOOLS.
- THE  SCHOOL  AUTHORITIES OF ANY CITY, SCHOOL  DISTRICT OR PUBLIC SCHOOL,
- OR  BOARD  OF  COOPERATIVE EDUCATIONAL SERVICES SHALL ESTABLISH, TO  THE
- EXTENT  PRACTICABLE,  SCHOOLS OR SET APART SPACES IN SCHOOL BUILDINGS OR
- PROPERTIES FOR THE INSTRUCTION OF STUDENTS  REMOVED  OR SUSPENDED  FOR
- VIOLATIONS  OF  THE CODE OF CONDUCT, AND FIX THE NUMBER OF DAYS PER WEEK
- AND THE HOURS PER DAY OF  REQUIRED  ATTENDANCE  AND  INSTRUCTION,  WHICH
- SHALL NOT BE LESS THAN IS REQUIRED OF MINORS ATTENDING THE FULL TIME DAY
- SCHOOLS.  THE  COMMISSIONER  SHALL  ESTABLISH  GUIDANCE  FOR ALTERNATIVE
- LEARNING SPACES OR SCHOOLS FOR WHEN STUDENTS ARE REMOVED FROM THE CLASS-
- ROOM OR SUSPENDED, INCLUDING ALLOWING A STUDENT THAT HAS BEEN REMOVED OR
- SUSPENDED ON SCHOOL PROPERTY TO TAKE AN EXAMINATION OR  ASSESSMENT  THAT
- CANNOT BE RESCHEDULED WHEN THE STUDENT PRESENTS A RISK TO THE HEALTH AND
- SAFETY  OF  THE SCHOOL COMMUNITY AS IT APPLIES TO SUBDIVISIONS EIGHT AND
- NINE OF THIS SECTION AND SECTION TWENTY-EIGHT HUNDRED ONE OF THIS  CHAP-
- TER.
-  5.  CONSIDERATION  FOR STUDENT SUSPENSION. a.  (1) The board of educa-
+  3. ALTERNATIVE  LEARNING SPACES OR  SCHOOLS. THE SCHOOL AUTHORITIES OF
+ ANY  CITY, SCHOOL  DISTRICT OR PUBLIC SCHOOL, OR  BOARD  OF  COOPERATIVE
+ EDUCATIONAL SERVICES SHALL ESTABLISH, TO THE EXTENT PRACTICABLE, SCHOOLS
+ OR SET APART SPACES IN SCHOOL BUILDINGS OR PROPERTIES FOR  THE  INSTRUC-
+ TION  OF STUDENTS  REMOVED  OR SUSPENDED FOR VIOLATIONS OF THE CODE OF
+ CONDUCT, AND FIX THE NUMBER OF DAYS PER WEEK AND THE HOURS  PER  DAY  OF
+ REQUIRED  ATTENDANCE  AND  INSTRUCTION,  WHICH SHALL NOT BE LESS THAN IS
+ REQUIRED OF MINORS ATTENDING THE FULL TIME DAY SCHOOLS. THE COMMISSIONER
+ SHALL ESTABLISH GUIDANCE FOR ALTERNATIVE LEARNING SPACES OR SCHOOLS  FOR
+ WHEN  STUDENTS  ARE  REMOVED  FROM THE CLASSROOM OR SUSPENDED, INCLUDING
+ ALLOWING A STUDENT THAT HAS BEEN REMOVED OR SUSPENDED ON SCHOOL PROPERTY
+ TO TAKE AN EXAMINATION OR ASSESSMENT THAT CANNOT BE RESCHEDULED WHEN THE
+ STUDENT PRESENTS A RISK TO THE HEALTH AND SAFETY OF THE SCHOOL COMMUNITY
+ AS IT APPLIES TO SUBDIVISIONS  SEVEN  AND  EIGHT  OF  THIS  SECTION  AND
+ SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER.
+  4.  CONSIDERATION  FOR STUDENT SUSPENSION. a.  (1) The board of educa-
  tion[, board of] OR trustees [or sole trustee], THE  CHANCELLOR  OF  THE
  CITY SCHOOL DISTRICT IN THE CASE OF THE CITY SCHOOL DISTRICT OF THE CITY
  OF  NEW  YORK, the superintendent of schools, district superintendent of
@@ -631,144 +639,145 @@ S T A T E  O F  N E W  Y O R K
  VENTION OR DISCIPLINE WOULD ADEQUATELY ADDRESS THE STUDENT'S MISCONDUCT,
  REDRESS ANY HARM OR DAMAGE, AND PREVENT FUTURE VIOLATIONS OF THE CODE OF
  CONDUCT.
+ S. 1040--B  12
+ 
   (3)  THE  SCHOOL  SHALL  CONDUCT  AN  INVESTIGATION OF ANY REPORT OF A
  VIOLATION OF THE CODE OF CONDUCT.
-  (4) THE SCHOOL SHALL INFORM ANY STUDENT THAT SUBMISSION OF  A  WRITTEN
+  (4)  THE  SCHOOL SHALL INFORM ANY STUDENT THAT SUBMISSION OF A WRITTEN
  STATEMENT IS VOLUNTARY AND THAT ANY STATEMENT BY THE STUDENT, WRITTEN OR
- ORAL,  MAY  BE  USED  AGAINST THE STUDENT IN A CRIMINAL, IMMIGRATION, OR
- JUVENILE DELINQUENCY INVESTIGATION AND/OR PROCEEDING AND/OR IN  A  COURT
- OF  LAW.  IF A STUDENT HAS BEEN ARRESTED OR IF THE SCHOOL IS CONSIDERING
+ ORAL, MAY BE USED AGAINST THE STUDENT IN  A  CRIMINAL,  IMMIGRATION,  OR
+ JUVENILE  DELINQUENCY  INVESTIGATION AND/OR PROCEEDING AND/OR IN A COURT
+ OF LAW. IF A STUDENT HAS BEEN ARRESTED OR IF THE SCHOOL  IS  CONSIDERING
  REFERRING THE STUDENT TO LAW ENFORCEMENT, THE SCHOOL SHALL NOT REQUEST A
- S. 1040--A  12
- 
- STATEMENT FROM SUCH STUDENT, EXCEPT WHERE  THERE  IS  IMMINENT  RISK  OF
+ STATEMENT  FROM  SUCH  STUDENT,  EXCEPT  WHERE THERE IS IMMINENT RISK OF
  SERIOUS PHYSICAL INJURY TO THE STUDENT OR OTHER PERSON OR PERSONS.
-  b.  [(1)  The  board of education, board of trustees, or sole trustee,
- superintendent of schools, district superintendent of  schools  and  the
- principal  of the school where the pupil attends shall have the power to
- suspend a pupil for a period not to exceed five school  days.  In  the
- case  of  such  a suspension, the suspending authority shall provide the
- pupil with notice of the charged misconduct.  If the pupil  denies  the
+  b. [(1) The board of education, board of trustees,  or  sole  trustee,
+ superintendent  of  schools,  district superintendent of schools and the
+ principal of the school where the pupil attends shall have the power  to
+ suspend  a  pupil  for  a period not to exceed five school days.  In the
+ case of such a suspension, the suspending authority  shall  provide  the
+ pupil  with  notice  of the charged misconduct.  If the pupil denies the
  misconduct, the suspending authority shall provide an explanation of the
- basis  for the suspension. The pupil and the person in parental relation
- to the pupil shall, on request, be given an opportunity for an  informal
- conference  with  the  principal  at  which  the  pupil and/or person in
- parental relation shall be authorized to present the pupil's version  of
- the  event and to ask questions of the complaining witnesses. The afore-
- said notice and opportunity for an informal conference shall take  place
- prior  to  suspension  of  the  pupil unless the pupil's presence in the
- school poses a continuing danger to persons or property  or  an  ongoing
- threat  of disruption to the academic process, in which case the pupil's
- notice and opportunity for an informal conference shall  take  place  as
+ basis for the suspension. The pupil and the person in parental  relation
+ to  the pupil shall, on request, be given an opportunity for an informal
+ conference with the principal  at  which  the  pupil  and/or  person  in
+ parental  relation shall be authorized to present the pupil's version of
+ the event and to ask questions of the complaining witnesses. The  afore-
+ said  notice and opportunity for an informal conference shall take place
+ prior to suspension of the pupil unless  the  pupil's  presence  in  the
+ school  poses  a  continuing danger to persons or property or an ongoing
+ threat of disruption to the academic process, in which case the  pupil's
+ notice  and  opportunity  for an informal conference shall take place as
  soon after the suspension as is reasonably practicable.
   (2) A teacher shall immediately report and refer a violent pupil prin-
- cipal  or  superintendent  for  a violation of the code of conduct and a
- minimum suspension period pursuant to section twenty-eight  hundred  one
+ cipal or superintendent for a violation of the code  of  conduct  and  a
+ minimum  suspension  period pursuant to section twenty-eight hundred one
  of this chapter.
   c. (1) No pupil may be suspended for a period in excess of five school
  days unless such pupil and the person in parental relation to such pupil
- shall  have  had  an  opportunity  for  a  fair hearing, upon reasonable
- notice, at which such pupil shall have the right  of  representation  by
- counsel,  with the right to question witnesses against such pupil and to
- present witnesses and other evidence on his or  her  behalf.  Where  the
- pupil  is  a  student  with a disability or a student presumed to have a
+ shall have had an  opportunity  for  a  fair  hearing,  upon  reasonable
+ notice,  at  which  such pupil shall have the right of representation by
+ counsel, with the right to question witnesses against such pupil and  to
+ present  witnesses  and  other  evidence on his or her behalf. Where the
+ pupil is a student with a disability or a student  presumed  to  have  a
  disability, the provisions of paragraph g of this subdivision shall also
  apply. Where a pupil has been suspended in accordance with this subpara-
  graph  by  a  superintendent  of  schools,  district  superintendent  of
  schools,  or  community  superintendent,  the  superintendent  shall
- personally hear and determine the proceeding  or  may,  in  his  or  her
- discretion,  designate  a  hearing  officer  to conduct the hearing. The
- hearing officer shall be authorized to administer  oaths  and  to  issue
- subpoenas  in  conjunction  with  the  proceeding before him or her.  A
- record of the hearing shall be maintained,  but  no  stenographic  tran-
- script  shall  be required and a tape recording shall be deemed a satis-
- factory record.  The hearing officer shall make  findings  of  fact  and
- recommendations  as  to  the  appropriate  measure  of discipline to the
- superintendent. The report of the  hearing  officer  shall  be  advisory
- only,  and  the  superintendent  may  accept all or any part thereof. An
- appeal will lie from the decision of the superintendent to the board  of
- education  who shall make its decision solely upon the record before it.
- The board may adopt in whole or in part the decision of the  superinten-
- dent  of schools.  Where the basis for the suspension is, in whole or in
+ personally  hear  and  determine  the  proceeding  or may, in his or her
+ discretion, designate a hearing officer  to  conduct  the  hearing.  The
+ hearing  officer  shall  be  authorized to administer oaths and to issue
+ subpoenas in conjunction with the proceeding  before  him  or  her.  A
+ record  of  the  hearing  shall be maintained, but no stenographic tran-
+ script shall be required and a tape recording shall be deemed  a  satis-
+ factory  record.  The  hearing officer shall make findings of fact and
+ recommendations as to the  appropriate  measure  of  discipline  to  the
+ superintendent.  The  report  of  the  hearing officer shall be advisory
+ only, and the superintendent may accept all  or  any  part  thereof.  An
+ appeal  will lie from the decision of the superintendent to the board of
+ education who shall make its decision solely upon the record before  it.
+ The  board may adopt in whole or in part the decision of the superinten-
+ S. 1040--B  13
+
+ dent of schools.  Where the basis for the suspension is, in whole or  in
  part, the possession on school grounds or school property by the student
- of any firearm, rifle, shotgun, dagger, dangerous  knife,  dirk,  razor,
+ of  any  firearm,  rifle, shotgun, dagger, dangerous knife, dirk, razor,
  stiletto  or  any of the weapons, instruments or appliances specified in
  subdivision one of section 265.01 of the penal law, the hearing  officer
  or superintendent shall not be barred from considering the admissibility
  of  such  weapon, instrument or appliance as evidence, notwithstanding a
  determination by a court in a criminal or juvenile delinquency  proceed-
- S. 1040--A  13
-
  ing  that  the  recovery of such weapon, instrument or appliance was the
  result of an unlawful search or seizure.
-  (2)  Where  a pupil has been suspended in accordance with this section
+  (2) Where a pupil has been suspended in accordance with  this  section
  by a board of education, the board may in its discretion hear and deter-
  mine the proceeding or appoint a hearing officer who shall have the same
- powers and duties with respect to the board that a hearing  officer  has
- with  respect  to  a  superintendent where the suspension was ordered by
- him. The findings and recommendations of the hearing officer  conducting
- the  proceeding  shall  be  advisory  and subject to final action by the
- board of education, each member of which shall before voting review  the
- testimony  and acquaint himself with the evidence in the case. The board
+ powers  and  duties with respect to the board that a hearing officer has
+ with respect to a superintendent where the  suspension  was  ordered  by
+ him.  The findings and recommendations of the hearing officer conducting
+ the proceeding shall be advisory and subject  to  final  action  by  the
+ board  of education, each member of which shall before voting review the
+ testimony and acquaint himself with the evidence in the case. The  board
  may reject, confirm or modify the conclusions of the hearing officer.
-  d.  (1) Consistent with the federal gun-free schools act,  any  public
- school  pupil who is determined under this subdivision to have brought a
- firearm to or possessed a firearm at a public school shall be  suspended
+  d.  (1) Consistent with the federal gun-free schools act, any public
+ school pupil who is determined under this subdivision to have brought  a
+ firearm  to or possessed a firearm at a public school shall be suspended
  for a period of not less than one calendar year and any nonpublic school
- pupil  participating  in  a program operated by a public school district
- using funds from the elementary and secondary education act of  nineteen
- hundred  sixty-five  who  is  determined  under this subdivision to have
- brought a firearm to or possessed a firearm at a public school or  other
- premises  used  by the school district to provide such programs shall be
- suspended for a period of not less than one calendar year  from  partic-
- ipation  in such program. The procedures of this subdivision shall apply
- to such a suspension of a nonpublic school pupil.  A  superintendent  of
- schools,  district superintendent of schools or community superintendent
- shall have the authority to modify this suspension requirement for  each
- student  on  a case-by-case basis. The determination of a superintendent
- shall be subject to review by the board of education pursuant  to  para-
- graph  c  of  this  subdivision and the commissioner pursuant to section
- three hundred ten of this chapter. Nothing in this subdivision shall  be
- deemed  to  authorize  the  suspension of a student with a disability in
- violation of the individuals with disabilities education act or  article
- eighty-nine  of  this  chapter.  A  superintendent shall refer the pupil
+ pupil participating in a program operated by a  public  school  district
+ using  funds from the elementary and secondary education act of nineteen
+ hundred sixty-five who is determined  under  this  subdivision  to  have
+ brought  a firearm to or possessed a firearm at a public school or other
+ premises used by the school district to provide such programs  shall  be
+ suspended  for  a period of not less than one calendar year from partic-
+ ipation in such program. The procedures of this subdivision shall  apply
+ to  such  a  suspension of a nonpublic school pupil. A superintendent of
+ schools, district superintendent of schools or community  superintendent
+ shall  have the authority to modify this suspension requirement for each
+ student on a case-by-case basis. The determination of  a  superintendent
+ shall  be  subject to review by the board of education pursuant to para-
+ graph c of this subdivision and the  commissioner  pursuant  to  section
+ three  hundred ten of this chapter. Nothing in this subdivision shall be
+ deemed to authorize the suspension of a student  with  a  disability  in
+ violation  of the individuals with disabilities education act or article
+ eighty-nine of this chapter. A  superintendent  shall  refer  the  pupil
  under the age of sixteen who has been determined to have brought a weap-
- on or firearm to school in violation of this subdivision to  a  present-
- ment  agency for a juvenile delinquency proceeding consistent with arti-
- cle three of the family court act except a student fourteen  or  fifteen
- years  of  age who qualifies for juvenile offender status under subdivi-
- sion forty-two of section 1.20 of the criminal procedure law.  A  super-
- intendent  shall  refer  any  pupil  sixteen  years of age or older or a
- student fourteen or fifteen years of  age  who  qualifies  for  juvenile
+ on  or  firearm to school in violation of this subdivision to a present-
+ ment agency for a juvenile delinquency proceeding consistent with  arti-
+ cle  three  of the family court act except a student fourteen or fifteen
+ years of age who qualifies for juvenile offender status  under  subdivi-
+ sion  forty-two  of section 1.20 of the criminal procedure law. A super-
+ intendent shall refer any pupil sixteen years  of  age  or  older  or  a
+ student  fourteen  or  fifteen  years  of age who qualifies for juvenile
  offender status under subdivision forty-two of section 1.20 of the crim-
- inal  procedure law, who has been determined to have brought a weapon or
- firearm to school in violation of this subdivision  to  the  appropriate
+ inal procedure law, who has been determined to have brought a weapon  or
+ firearm  to  school  in violation of this subdivision to the appropriate
  law enforcement officials.
-  (2)  Nothing  in this paragraph shall be deemed to mandate such action
- by a school district pursuant to subdivision one of this  section  where
- such  weapon or firearm is possessed or brought to school with the writ-
+  (2) Nothing in this paragraph shall be deemed to mandate  such  action
+ by  a  school district pursuant to subdivision one of this section where
+ such weapon or firearm is possessed or brought to school with the  writ-
+ S. 1040--B  14
+
  ten authorization of such educational institution in a manner authorized
- by article two hundred  sixty-five  of  the  penal  law  for  activities
- approved  and  authorized by the trustees or board of education or other
- governing body of the public  school  and  such  governing  body  adopts
+ by  article  two  hundred  sixty-five  of  the  penal law for activities
+ approved and authorized by the trustees or board of education  or  other
+ governing  body  of  the  public  school  and such governing body adopts
  appropriate safeguards to ensure student safety.
   (3) As used in this paragraph:
- S. 1040--A  14
-
-  (i)  "firearm"  shall  mean  a  firearm  as defined in subsection a of
- section nine hundred twenty-one of title eighteen of the  United  States
+  (i) "firearm" shall mean a firearm  as  defined  in  subsection  a  of
+ section  nine  hundred twenty-one of title eighteen of the United States
  Code; and
-  (ii)  "weapon"  shall  be as defined in paragraph 2 of subsection g of
+  (ii) "weapon" shall be as defined in paragraph 2 of  subsection  g  of
  section nine hundred thirty of title eighteen of the United States Code.
   e.] IN CONSIDERING APPROPRIATE DISCIPLINE MEASURES, SCHOOL AUTHORITIES
  SHALL CONSIDER THE FACTS OF EACH CASE, INCLUDING, BUT NOT LIMITED TO:
   (1) THE NATURE AND IMPACT OF THE STUDENT'S ALLEGED MISCONDUCT, INCLUD-
- ING BUT NOT LIMITED TO THE HARM TO THE STUDENT OR OTHER PERSONS,  DAMAGE
- TO  PERSONAL  OR  SCHOOL PROPERTY OR THREAT TO THE SAFETY AND WELFARE OF
+ ING  BUT NOT LIMITED TO THE HARM TO THE STUDENT OR OTHER PERSONS, DAMAGE
+ TO PERSONAL OR SCHOOL PROPERTY OR THREAT TO THE SAFETY  AND  WELFARE  OF
  THE SCHOOL COMMUNITY;
-  (2) THE STUDENT'S AGE, ABILITY TO SPEAK OR UNDERSTAND  ENGLISH,  PHYS-
- ICAL  HEALTH, MENTAL HEALTH, DISABILITIES, AND PROVISIONS OF AN INDIVID-
- UALIZED EDUCATION PROGRAM AS IT RELATES TO THE STUDENT'S BEHAVIOR;
+  (2)  THE  STUDENT'S AGE, ABILITY TO SPEAK OR UNDERSTAND ENGLISH, PHYS-
+ ICAL HEALTH, MENTAL AND EMOTIONAL HEALTH, DISABILITIES,  AND  PROVISIONS
+ OF  AN  INDIVIDUALIZED  EDUCATION PROGRAM AS IT RELATES TO THE STUDENT'S
+ BEHAVIOR;
   (3) THE STUDENT AS A WHOLE INCLUDING LIFE INSIDE AND OUTSIDE OF SCHOOL
  THAT MAY IMPACT BEHAVIOR SUCH AS FOOD INSECURITY,  HOMELESSNESS,  BULLY-
  ING,  LACK  OF  SCHOOL SUPPLIES, ABUSE, HYGIENE ACCESS, AND OTHER ISSUES
@@ -780,7 +789,7 @@ S T A T E  O F  N E W  Y O R K
   (6) THE RELATIONSHIP, IF ANY, BETWEEN THE STUDENT'S ACADEMIC PLACEMENT
  AND PROGRAM AND THE ALLEGED VIOLATION OF THE CODE OF CONDUCT; AND
   (7) OTHER FACTORS DETERMINED TO BE RELEVANT.
-  6. Procedure after  suspension.  Where  a  [pupil]  STUDENT  has  been
+  5. Procedure after  suspension.  Where  a  [pupil]  STUDENT  has  been
  suspended  pursuant to this subdivision and said [pupil is of compulsory
  attendance age] STUDENT HAS THE LEGAL RIGHT TO ATTEND SCHOOL,  immediate
  steps  shall be taken for [his or her] THEIR attendance upon instruction
@@ -801,192 +810,192 @@ S T A T E  O F  N E W  Y O R K
  community boards of education and  community  superintendents  governing
  community  districts in accordance with the provisions of article fifty-
  two-A of this chapter.
-  g.] 7. Discipline of students with disabilities and students  presumed
+  g.] 6. Discipline of students with disabilities and students  presumed
  to  have  a disability for discipline purposes. [(1)] A. Notwithstanding
  any other provision of this subdivision to the contrary, a student  with
+ S. 1040--B  15
+ 
  a  disability  as such term is defined in section forty-four hundred one
  of this chapter and a student presumed to have a disability  for  disci-
  pline  purposes,  may  be  suspended  or removed from [his or her] THEIR
- current educational placement, PROVIDED  THAT  THE  SUSPENSION  OF  SUCH
- STUDENT  IS  NOT  PROHIBITED BY SECTION TWENTY-EIGHT HUNDRED ONE OF THIS
- CHAPTER, for violation of [school rules] THE CODE  OF  CONDUCT  only  in
- accordance  with  the  procedures established in this section, the regu-
- S. 1040--A  15
- 
- lations of the commissioner implementing this paragraph, and  subsection
- (k)  of  section  fourteen hundred fifteen of title twenty of the United
- States code and the federal regulations implementing  such  statute,  as
- such  federal law and regulations are from time to time amended. Nothing
- in this paragraph shall be construed to confer greater  rights  on  such
- students  than  are  conferred  under  applicable  federal law and regu-
- lations, or to limit the ability of a  school  district  to  change  the
- educational  placement of a student with a disability in accordance with
+ current  educational  placement,  PROVIDED  THAT  THE SUSPENSION OF SUCH
+ STUDENT IS NOT PROHIBITED BY SECTION TWENTY-EIGHT HUNDRED  ONE  OF  THIS
+ CHAPTER,  for  violation  of  [school rules] THE CODE OF CONDUCT only in
+ accordance with the procedures established in this  section,  the  regu-
+ lations  of the commissioner implementing this paragraph, and subsection
+ (k) of section fourteen hundred fifteen of title twenty  of  the  United
+ States  code  and  the federal regulations implementing such statute, as
+ such federal law and regulations are from time to time amended.  Nothing
+ in  this  paragraph  shall be construed to confer greater rights on such
+ students than are conferred  under  applicable  federal  law  and  regu-
+ lations,  or  to  limit  the  ability of a school district to change the
+ educational placement of a student with a disability in accordance  with
  the procedures in article eighty-nine of this chapter.
   [(2)] B. As used in this paragraph:
-  (1) a "student presumed to have a disability for discipline  purposes"
+  (1)  a "student presumed to have a disability for discipline purposes"
  shall mean a student who the school district is deemed to have knowledge
- was  a  student  with a disability before the behavior that precipitated
- disciplinary action under the criteria in subsection (k) (5) of  section
- fourteen  hundred  fifteen of title twenty of the United States code and
+ was a student with a disability before the  behavior  that  precipitated
+ disciplinary  action under the criteria in subsection (k) (5) of section
+ fourteen hundred fifteen of title twenty of the United States  code  and
  the federal regulations implementing such statute; and
   [(ii)] (2) a "manifestation team" means a representative of the school
- district, the parent  or  person  in  parental  relation,  and  relevant
- members  of  the  committee  on  special education, as determined by the
+ district,  the  parent  or  person  in  parental  relation, and relevant
+ members of the committee on special  education,  as  determined  by  the
  parent or person in parental relation and the district.
   [(3)] C. In applying the federal law consistent with this section:
-  [(i)] (1) in the event of a conflict  between  the  procedures  estab-
- lished  in  this  section  and  those  established  in subsection (k) of
- section fourteen hundred fifteen of title twenty of  the  United  States
+  [(i)]  (1)  in  the  event of a conflict between the procedures estab-
+ lished in this section  and  those  established  in  subsection  (k)  of
+ section  fourteen  hundred  fifteen of title twenty of the United States
  code and the federal regulations implementing such statute, such federal
  statute and regulations shall govern.
-  [(ii)]  (2)  the BOARD OF trustees or board of education of any school
- district, THE CHANCELLOR OF THE CITY SCHOOL DISTRICT OF THE CITY OF  NEW
+  [(ii)] (2) the BOARD OF trustees or board of education of  any  school
+ district,  THE CHANCELLOR OF THE CITY SCHOOL DISTRICT OF THE CITY OF NEW
  YORK, a district superintendent of schools or a building principal shall
- have  authority, PROVIDED THAT SUSPENSION OF SUCH STUDENT IS NOT PROHIB-
- ITED BY SUBDIVISION TWO OF SECTION  TWENTY-EIGHT  HUNDRED  ONE  OF  THIS
- CHAPTER,  to  order the placement of a student with a disability into an
- appropriate interim alternative educational setting, another setting  or
- suspension,  PROVIDED THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIB-
- ITED BY SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER, for  a  period
- not  to  exceed  five  consecutive  school  days  where  such student is
+ have authority, PROVIDED THAT SUSPENSION OF SUCH STUDENT IS NOT  PROHIB-
+ ITED  BY  SUBDIVISION  TWO  OF  SECTION TWENTY-EIGHT HUNDRED ONE OF THIS
+ CHAPTER, to order the placement of a student with a disability  into  an
+ appropriate  interim alternative educational setting, another setting or
+ suspension, PROVIDED THAT THE SUSPENSION OF SUCH STUDENT IS NOT  PROHIB-
+ ITED  BY  SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER, for a period
+ not to exceed  five  consecutive  school  days  where  such  student  is
  suspended pursuant to this subdivision and, except as otherwise provided
- in [clause (vi) of  this]  subparagraph  FOUR  OF  THIS  PARAGRAPH,  the
+ in  [clause  (vi)  of  this]  subparagraph  FOUR  OF THIS PARAGRAPH, the
  suspension does not result in a change in placement under federal law.
   [(iii)] (3) the superintendent of schools of a school district, either
  directly or upon recommendation of a hearing officer designated pursuant
- to  [paragraph c of this] subdivision TWO OF THIS SECTION, may order the
- placement of a student with a disability  into  an  interim  alternative
- educational  setting,  another  setting or suspension, PROVIDED THAT THE
- SUSPENSION OF SUCH STUDENT IS NOT  PROHIBITED  BY  SECTION  TWENTY-EIGHT
- HUNDRED  ONE  OF  THIS  CHAPTER,  for up to ten consecutive school days,
+ to [paragraph c of this] subdivision TWO OF THIS SECTION, may order  the
+ placement  of  a  student  with a disability into an interim alternative
+ educational setting, another setting or suspension,  PROVIDED  THAT  THE
+ SUSPENSION  OF  SUCH  STUDENT  IS NOT PROHIBITED BY SECTION TWENTY-EIGHT
+ HUNDRED ONE OF THIS CHAPTER, for up  to  ten  consecutive  school  days,
  inclusive of any period in which the student is placed in an appropriate
- interim alternative educational setting, another setting  or  suspension
+ interim  alternative  educational setting, another setting or suspension
  pursuant to [clause (ii) of this] subparagraph TWO OF THIS PARAGRAPH for
+ S. 1040--B  16
+ 
  the behavior, where the superintendent determines in accordance with the
  procedures set forth in this subdivision that the student has engaged in
- behavior  that  warrants a suspension, and, except as otherwise provided
- in [clause (vi) of  this]  subparagraph  FOUR  OF  THIS  PARAGRAPH,  the
+ behavior that warrants a suspension, and, except as  otherwise  provided
+ in  [clause  (vi)  of  this]  subparagraph  FOUR  OF THIS PARAGRAPH, the
  suspension does not result in a change in placement under federal law.
-  [(iv)]  (4) the superintendent of schools of a school district, either
+  [(iv)] (4) the superintendent of schools of a school district,  either
  directly or upon recommendation of a hearing officer designated pursuant
- S. 1040--A  16
- 
- to [paragraph c of this] subdivision TWO OF THIS SECTION, may order  the
- change  in placement of a student with a disability to an interim alter-
- native educational setting for up to forty-five school  days  under  the
- circumstances  specified  in  subsection  (k)(1)(G)  of section fourteen
+ to  [paragraph c of this] subdivision TWO OF THIS SECTION, may order the
+ change in placement of a student with a disability to an interim  alter-
+ native  educational  setting  for up to forty-five school days under the
+ circumstances specified in  subsection  (k)(1)(G)  of  section  fourteen
  hundred fifteen of title twenty of the United States code and the feder-
- al regulations implementing  such  statute  or  a  longer  period  where
+ al  regulations  implementing  such  statute  or  a  longer period where
  authorized  by  federal  law  under  the  circumstances  specified  in
  subsection (k)(1)(C) of section fourteen hundred fifteen of title twenty
- of the United States code and the federal regulations implementing  such
- statute,  but  in  neither  case  shall such period exceed the period of
- suspension ordered by a superintendent in accordance with this  subdivi-
- sion,  PROVIDED THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY
+ of  the United States code and the federal regulations implementing such
+ statute, but in neither case shall such  period  exceed  the  period  of
+ suspension  ordered by a superintendent in accordance with this subdivi-
+ sion, PROVIDED THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED  BY
  SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER.
-  [(v)] (5) the terms "day," "business day," and "school day"  shall  be
+  [(v)]  (5)  the terms "day," "business day," and "school day" shall be
  as defined in section 300.11 of title thirty-four of the code of federal
  regulations.
-  [(vi)]  (6) notwithstanding any other provision of this subdivision to
- the contrary, upon a determination by  a  manifestation  team  that  the
- behavior  of  a student with a disability was not a manifestation of the
- student's disability, such student may be disciplined pursuant  to  this
- section  in  the  same manner and for the same duration as a nondisabled
- student, except that such student shall continue to receive services  to
+  [(vi)] (6) notwithstanding any other provision of this subdivision  to
+ the  contrary,  upon  a  determination  by a manifestation team that the
+ behavior of a student with a disability was not a manifestation  of  the
+ student's  disability,  such student may be disciplined pursuant to this
+ section in the same manner and for the same duration  as  a  nondisabled
+ student,  except that such student shall continue to receive services to
  the extent required under federal law and regulations, and such services
- may  be provided in an interim alternative educational setting, PROVIDED
- THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY  SECTION  TWEN-
+ may be provided in an interim alternative educational setting,  PROVIDED
+ THAT  THE  SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY SECTION TWEN-
  TY-EIGHT HUNDRED ONE OF THIS CHAPTER.
-  [(vii)]  (7) an impartial hearing officer appointed pursuant to subdi-
- vision one of section forty-four hundred four of this chapter may  order
- a  change  in placement of a student with a disability to an appropriate
- interim alternative educational setting for  not  more  than  forty-five
- school  days under the circumstances specified in subsections (k)(3) and
+  [(vii)] (7) an impartial hearing officer appointed pursuant to  subdi-
+ vision  one of section forty-four hundred four of this chapter may order
+ a change in placement of a student with a disability to  an  appropriate
+ interim  alternative  educational  setting  for not more than forty-five
+ school days under the circumstances specified in subsections (k)(3)  and
  (k)(4) of section fourteen hundred fifteen of title twenty of the United
- States code and the  federal  regulations  implementing  such  statutes,
- provided  that  such  procedure  may be repeated, as necessary, PROVIDED
- THAT THE SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY  SECTION  TWEN-
+ States  code  and  the  federal  regulations implementing such statutes,
+ provided that such procedure may be  repeated,  as  necessary,  PROVIDED
+ THAT  THE  SUSPENSION OF SUCH STUDENT IS NOT PROHIBITED BY SECTION TWEN-
  TY-EIGHT HUNDRED ONE OF THIS CHAPTER.
-  [(viii)]  (8)  nothing in this section shall be construed to authorize
- the suspension or removal of a student with a disability  from  [his  or
- her]  THEIR  current educational placement for violation of school rules
+  [(viii)] (8) nothing in this section shall be construed  to  authorize
+ the  suspension  or  removal of a student with a disability from [his or
+ her] THEIR current educational placement for violation of  school  rules
  following a determination by a manifestation team that the behavior is a
- manifestation of the student's disability, except  as  authorized  under
+ manifestation  of  the  student's disability, except as authorized under
  federal law and regulations.
   [(ix)] (9) the commissioner shall implement this paragraph by adopting
- regulations  which  coordinate the procedures required for discipline of
- students with disabilities, and students presumed to have  a  disability
- for  discipline purposes, pursuant to subsection (k) of section fourteen
+ regulations which coordinate the procedures required for  discipline  of
+ students  with  disabilities, and students presumed to have a disability
+ for discipline purposes, pursuant to subsection (k) of section  fourteen
  hundred fifteen of title twenty of the United States code and the feder-
- al regulations implementing such statute, with  the  general  procedures
+ al  regulations  implementing  such statute, with the general procedures
  for student discipline under this section.
-  [3-a.]  8.  EDUCATION  PLAN.  WHEN A STUDENT IS SUSPENDED FROM SCHOOL
- CONSISTENT WITH THIS SECTION AND SECTION  TWENTY-EIGHT  HUNDRED  ONE  OF
- THIS  CHAPTER,  THE PRINCIPAL, OR THE PRINCIPAL'S DESIGNEE, IN CONSULTA-
- TION WITH THE STUDENT'S TEACHERS, SHALL CREATE AN EDUCATION PLAN FOR THE
- STUDENT FOR EACH CLASS IN WHICH THE STUDENT IS  ENROLLED,  ACCORDING  TO
- THE  TIMEFRAME  POLICIES  REQUIRED  IN  THE CODE OF CONDUCT DESCRIBED IN
- SECTION TWENTY-EIGHT HUNDRED ONE OF THIS CHAPTER.  THE  EDUCATION  PLAN
- S. 1040--A  17
+ S. 1040--B  17
  
- SHALL  MAKE  PROVISIONS  FOR  A  STUDENT'S ON-GOING ACADEMIC INSTRUCTION
- DURING THE SUSPENSION AND SHALL INCLUDE THE STEPS THE SCHOOL  WILL  TAKE
+  [3-a.] 7. EDUCATION PLAN.  WHEN A STUDENT IS  SUSPENDED  FROM  SCHOOL
+ CONSISTENT  WITH  THIS  SECTION  AND SECTION TWENTY-EIGHT HUNDRED ONE OF
+ THIS CHAPTER, THE PRINCIPAL, OR THE PRINCIPAL'S DESIGNEE,  IN  CONSULTA-
+ TION WITH THE STUDENT'S TEACHERS, SHALL CREATE AN EDUCATION PLAN FOR THE
+ STUDENT  FOR  EACH  CLASS IN WHICH THE STUDENT IS ENROLLED, ACCORDING TO
+ THE TIMEFRAME POLICIES REQUIRED IN THE  CODE  OF  CONDUCT  DESCRIBED  IN
+ SECTION  TWENTY-EIGHT  HUNDRED  ONE OF THIS CHAPTER.  THE EDUCATION PLAN
+ SHALL MAKE PROVISIONS FOR  A  STUDENT'S  ON-GOING  ACADEMIC  INSTRUCTION
+ DURING  THE  SUSPENSION AND SHALL INCLUDE THE STEPS THE SCHOOL WILL TAKE
  TO PROVIDE THE STUDENT WITH A SUCCESSFUL RE-ENTRY TO SCHOOL. THE STUDENT
- SHALL  HAVE  THE OPPORTUNITY TO EARN ALL ACADEMIC CREDIT THEY WOULD HAVE
- BEEN ELIGIBLE TO EARN HAD THE  STUDENT  BEEN  IN  CLASS,  INCLUDING  THE
- OPPORTUNITY  TO COMPLETE ANY MISSED ASSIGNMENTS OR TAKE ANY MISSED EXAM-
- INATION OR ASSESSMENTS DURING THE STUDENT'S SUSPENSION. IF  AN  EXAMINA-
- TION  OR  ASSESSMENT CANNOT BE RESCHEDULED, THE STUDENT SHALL BE ALLOWED
+ SHALL HAVE THE OPPORTUNITY TO EARN ALL ACADEMIC CREDIT THEY  WOULD  HAVE
+ BEEN  ELIGIBLE  TO  EARN  HAD  THE  STUDENT BEEN IN CLASS, INCLUDING THE
+ OPPORTUNITY TO COMPLETE ANY MISSED ASSIGNMENTS OR TAKE ANY MISSED  EXAM-
+ INATION  OR  ASSESSMENTS DURING THE STUDENT'S SUSPENSION. IF AN EXAMINA-
+ TION OR ASSESSMENT CANNOT BE RESCHEDULED, THE STUDENT SHALL  BE  ALLOWED
  ON SCHOOL PROPERTY TO TAKE SUCH ASSESSMENT OR EXAMINATION ON THE DAY AND
- TIME THAT THE ASSESSMENT OR EXAMINATION IS  GIVEN,  UNLESS  THE  STUDENT
- PRESENTS  A  RISK  TO THE HEALTH AND SAFETY OF THE SCHOOL COMMUNITY THEN
+ TIME  THAT  THE  ASSESSMENT  OR EXAMINATION IS GIVEN, UNLESS THE STUDENT
+ PRESENTS A RISK TO THE HEALTH AND SAFETY OF THE  SCHOOL  COMMUNITY  THEN
  THE ASSESSMENT OR EXAMINATION SHOULD BE PROVIDED IN AN ALTERNATIVE SPACE
- AS DESCRIBED IN SUBDIVISION FOUR OF THIS SECTION, IF AVAILABLE.
-  9. Teacher removal of a [disruptive pupil] STUDENT.  In addition,  any
- teacher  shall  have  the  power  and  authority to remove a [disruptive
- pupil, as defined in subdivision two-a of this  section,]  STUDENT  from
- such  teacher's  classroom consistent with discipline measures contained
- in the code of conduct adopted by the board pursuant to section  twenty-
+ AS DESCRIBED IN SUBDIVISION THREE OF THIS SECTION, IF AVAILABLE.
+  8.  Teacher removal of a [disruptive pupil] STUDENT.  In addition, any
+ teacher shall have the power  and  authority  to  remove  a  [disruptive
+ pupil,  as  defined  in subdivision two-a of this section,] STUDENT from
+ such teacher's classroom consistent with discipline  measures  contained
+ in  the code of conduct adopted by the board pursuant to section twenty-
  eight hundred one of this chapter.  The school authorities of any school
- district  OR  PUBLIC  SCHOOL,  BOARD OF COOPERATIVE EDUCATIONAL SERVICES
- shall establish policies and  procedures  to  ensure  the  provision  of
- continued  educational  programming  and activities for students removed
- from the classroom pursuant to this [subdivision  and  provided  further
- that  nothing]  SECTION.  WHEN A STUDENT IS REMOVED FROM THE CLASSROOM,
- THE STUDENT SHALL HAVE THE  OPPORTUNITY  TO  EARN  ALL  ACADEMIC  CREDIT
+ district OR PUBLIC SCHOOL, BOARD  OF  COOPERATIVE  EDUCATIONAL  SERVICES
+ shall  establish  policies  and  procedures  to  ensure the provision of
+ continued educational programming and activities  for  students  removed
+ from  the  classroom  pursuant to this [subdivision and provided further
+ that nothing] SECTION.  WHEN A STUDENT IS REMOVED  FROM  THE  CLASSROOM,
+ THE  STUDENT  SHALL  HAVE  THE  OPPORTUNITY  TO EARN ALL ACADEMIC CREDIT
  INCLUDING THE OPPORTUNITY TO COMPLETE ANY MISSED ASSIGNMENTS OR TAKE ANY
- MISSED  EXAMINATIONS  OR ASSESSMENTS DURING THE STUDENT'S REMOVAL. IF AN
- EXAMINATION OR ASSESSMENT CANNOT BE RESCHEDULED, THE  STUDENT  SHALL  BE
+ MISSED EXAMINATIONS OR ASSESSMENTS DURING THE STUDENT'S REMOVAL.  IF  AN
+ EXAMINATION  OR  ASSESSMENT  CANNOT BE RESCHEDULED, THE STUDENT SHALL BE
  ALLOWED ON SCHOOL PROPERTY TO TAKE SUCH ASSESSMENT OR EXAMINATION ON THE
- DAY  AND  TIME  THAT  THE  ASSESSMENT OR EXAMINATION IS GIVEN UNLESS THE
+ DAY AND TIME THAT THE ASSESSMENT OR  EXAMINATION  IS  GIVEN  UNLESS  THE
  STUDENT PRESENTS A RISK TO THE HEALTH AND SAFETY OF THE SCHOOL COMMUNITY
- THEN THE ASSESSMENT OR EXAMINATION SHOULD BE PROVIDED IN AN  ALTERNATIVE
- SPACE  AS  DESCRIBED  IN SUBDIVISION FOUR OF THIS SECTION, IF AVAILABLE.
- NOTHING in this subdivision shall authorize the  removal  of  a  [pupil]
- STUDENT  in  violation  of  any  state  or federal law or regulation. No
- [pupil] STUDENT shall return to the classroom until the principal  makes
- a  final determination pursuant to [paragraph c of] this subdivision, or
+ THEN  THE ASSESSMENT OR EXAMINATION SHOULD BE PROVIDED IN AN ALTERNATIVE
+ SPACE AS DESCRIBED IN SUBDIVISION THREE OF THIS SECTION,  IF  AVAILABLE.
+ NOTHING  in  this  subdivision  shall authorize the removal of a [pupil]
+ STUDENT in violation of any state  or  federal  law  or  regulation.  No
+ [pupil]  STUDENT shall return to the classroom until the principal makes
+ a final determination pursuant to [paragraph c of] this subdivision,  or
  the period of removal expires, whichever is less.
-  a. Such teacher shall inform the [pupil] STUDENT and the school  prin-
- cipal  of  the  reasons  for  the removal. If the teacher finds that the
- [pupil's] STUDENT'S continued presence in the classroom does not pose  a
+  a.  Such teacher shall inform the [pupil] STUDENT and the school prin-
+ cipal of the reasons for the removal. If  the  teacher  finds  that  the
+ [pupil's]  STUDENT'S continued presence in the classroom does not pose a
  continuing danger to persons or property and does not present an ongoing
- threat  of  disruption to the academic process, the teacher shall, prior
- to removing the student from the classroom, provide the student with  an
- explanation  of  the basis for the removal and allow the [pupil] STUDENT
- to informally  present  the  [pupil's]  STUDENT'S  version  of  relevant
- events.  In  all  other  cases,  the  teacher  shall provide the [pupil]
+ threat of disruption to the academic process, the teacher  shall,  prior
+ to  removing the student from the classroom, provide the student with an
+ explanation of the basis for the removal and allow the  [pupil]  STUDENT
+ to  informally  present  the  [pupil's]  STUDENT'S  version  of relevant
+ events. In all other  cases,  the  teacher  shall  provide  the  [pupil]
  STUDENT with an explanation of the basis for the removal and an informal
- opportunity to be  heard  within  twenty-four  hours  of  the  [pupil's]
- STUDENT'S  removal,  provided  that if such twenty-four hour period does
- not end on a school day, it shall be extended to the corresponding  time
+ opportunity  to  be  heard  within  twenty-four  hours  of the [pupil's]
+ S. 1040--B  18
+ 
+ STUDENT'S removal, provided that if such twenty-four  hour  period  does
+ not  end on a school day, it shall be extended to the corresponding time
  on the next school day.
   b.  The  principal  shall  inform  the  PARENT  OR  person in parental
  relation to such [pupil] STUDENT of the removal and the reasons therefor
  within twenty-four hours of the [pupil's]  STUDENT'S  removal,  provided
  that  if  such  twenty-four hour period does not end on a school day, it
- S. 1040--A  18
- 
  shall be extended to the corresponding time on the next school day.  The
  [pupil]  STUDENT  and  the  PARENT OR person in parental relation shall,
  upon request, be given an opportunity for an  informal  conference  with
@@ -1001,7 +1010,7 @@ S T A T E  O F  N E W  Y O R K
  on the second school day next following the [pupil's] STUDENT'S removal.
  For  purposes  of this subdivision, "school day" shall mean a school day
  as defined pursuant to [clause (v)  of]  subparagraph  [three]  FIVE  of
- paragraph [g] C of subdivision [three] SEVEN of this section.
+ paragraph [g] C of subdivision [three] SIX of this section.
   c.  The  principal  shall  not set aside the discipline imposed by the
  teacher unless the principal finds that the charges against the  [pupil]
  STUDENT  are not supported by substantial evidence or that the [pupil's]
@@ -1014,7 +1023,7 @@ S T A T E  O F  N E W  Y O R K
   d. The principal may, in [his or her] THEIR  discretion,  designate  a
  school  district  administrator,  to carry out the functions required of
  the principal under this subdivision.
-  [4.] 10. Expense. [a.] The expense attending the commitment and  costs
+  [4.] 9. Expense. [a.] The expense attending the commitment  and  costs
  of  maintenance of any [school delinquent] STUDENT PLACED AS A RESULT OF
  A FINDING RELATED TO SCHOOL OR EDUCATIONAL  ISSUES  shall  be  a  charge
  against  the  city  or  district where [he] THE STUDENT resides, if such
@@ -1027,7 +1036,7 @@ S T A T E  O F  N E W  Y O R K
  confinement. If the court shall find the  person  in  parental  relation
  able to contribute towards the maintenance of such a minor, it may issue
  an order fixing the amount to be paid weekly.
-  5.]  11.  Involuntary transfers of [pupils] STUDENTS who have not been
+  5.]  10.  Involuntary transfers of [pupils] STUDENTS who have not been
  determined to be a student with a disability or a  student  presumed  to
  have a disability for discipline purposes.
   a.  The board of education[, board of] OR trustees [or sole trustee,],
@@ -1036,15 +1045,15 @@ S T A T E  O F  N E W  Y O R K
  schools,  or  district  superintendent of schools may transfer a [pupil]
  STUDENT who has not been determined to be a student with a disability as
  defined in section forty-four hundred one of this chapter, or a  student
- presumed  to  have  a  disability  for discipline purposes as defined in
- [paragraph g of] subdivision [three] SEVEN of this section from  regular
- classroom  instruction  to an appropriate educational setting in another
- school upon the written  recommendation  of  the  school  principal  and
- following  independent  review  thereof. For purposes of this section of
- the law, "involuntary transfer" does not include a transfer  made  by  a
- school  district as part of a plan to reduce racial imbalance within the
- S. 1040--A  19
+ S. 1040--B  19
  
+ presumed  to  have  a  disability  for discipline purposes as defined in
+ [paragraph g of] subdivision [three] SIX of this  section  from  regular
+ classroom  instruction  to an appropriate educational setting in another
+ school  upon  the  written  recommendation  of  the school principal and
+ following independent review thereof. For purposes of  this  section  of
+ the  law,  "involuntary  transfer" does not include a transfer made by a
+ school district as part of a plan to reduce racial imbalance within  the
  schools or as a change in school attendance zones or geographical bound-
  aries.
   b.  A  school principal may initiate a non-requested transfer where it
@@ -1081,32 +1090,32 @@ S T A T E  O F  N E W  Y O R K
  sion following the hearing is rendered, whichever is later.
   E. Parental consent to a transfer shall not constitute a waiver of the
  right to a fair hearing.
-  [6.]  12.  Transfer  of a [pupil] STUDENT.  Where a suspended [pupil]
- STUDENT is to be transferred pursuant to subdivision  [five]  ELEVEN  of
- this  section,  [he  or she] THE STUDENT shall remain on the register of
- the original school for two school days following transmittal of [his or
- her] THEIR records to the school to which [he or she] THE STUDENT is  to
- be  transferred.  The  receiving school shall immediately upon receiving
- those records  transmitted  by  the  original  school,  review  them  to
- [insure]  ENSURE proper placement of the [pupil] STUDENT.  Staff members
- who are involved in the [pupil's] STUDENT'S education must  be  provided
- with  pertinent  records  and information relating to the background and
- problems of the [pupil] STUDENT before the [pupil] STUDENT is placed  in
+  [6.]  11.  Transfer  of a [pupil] STUDENT.  Where a suspended [pupil]
+ STUDENT is to be transferred pursuant to subdivision [five] TEN of  this
+ section,  [he  or  she]  THE STUDENT shall remain on the register of the
+ original school for two school days following  transmittal  of  [his  or
+ her]  THEIR records to the school to which [he or she] THE STUDENT is to
+ be transferred. The receiving school shall  immediately  upon  receiving
+ those  records  transmitted  by  the  original  school,  review  them to
+ [insure] ENSURE proper placement of the [pupil] STUDENT.  Staff  members
+ who  are  involved in the [pupil's] STUDENT'S education must be provided
+ with pertinent records and information relating to  the  background  and
+ problems  of the [pupil] STUDENT before the [pupil] STUDENT is placed in
  a classroom.
-  [7.]  13.  Transfer of disciplinary records. Notwithstanding any other
+ S. 1040--B  20
+ 
+  [7.] 12. Transfer of disciplinary records. Notwithstanding  any  other
  provision of law to the contrary, each local educational agency, as such
- term is defined in subsection thirty of section eighty-one  hundred  one
+ term  is  defined in subsection thirty of section eighty-one hundred one
  of the Elementary and Secondary Education Act of 1965, as amended, shall
  establish  procedures  in  accordance  with  section eighty-five hundred
  thirty-seven of the Elementary and Secondary Education Act of  1965,  as
  amended,  and  the Family Educational Rights and Privacy Act of 1974, to
  facilitate the transfer of disciplinary records relating to the  suspen-
- S. 1040--A  20
- 
  sion  or expulsion of a student to any public or nonpublic elementary or
  secondary school in which such student enrolls or seeks, intends  or  is
  instructed to enroll, on a full-time or part-time basis.
-  14.  ANNUAL REPORT ON STUDENT DISCIPLINE. A. THE BOARD OF EDUCATION OR
+  13.  ANNUAL REPORT ON STUDENT DISCIPLINE. A. THE BOARD OF EDUCATION OR
  SUPERINTENDENT OF SCHOOLS SHALL POST ON ITS WEBSITE AND  SUBMIT  TO  THE
  DEPARTMENT  BY OCTOBER THIRTY-FIRST OF EACH YEAR AN ANNUAL REPORT, BASED
  ON DATA FROM THE PRECEDING SCHOOL YEAR, ON THE DISCIPLINE  OF  STUDENTS.
@@ -1122,7 +1131,7 @@ S T A T E  O F  N E W  Y O R K
   (2) THE NUMBER OF SUSPENSIONS, LENGTH OF SUSPENSION,  AND  PURPOSE  OF
  SUSPENSION;
   (3)  THE  NUMBER  OF  STUDENTS  SUBJECTED  MORE THAN ONCE TO A TEACHER
- REMOVAL, SUSPENSION, OR ANY COMBINATION THEREOF; AND
+ REMOVAL, SUSPENSION, OR ANY COMBINATION THEREOF;
   (4) THE NUMBER OF STUDENTS SUBJECTED TO AN EXPULSION; AND
   (5) THIS DATA SHALL BE DISAGGREGATED,  WHERE  APPARENT,  DISCLOSED  OR
  DISCOVERABLE:  BY RACE, ETHNICITY, GENDER, GENDER EXPRESSION, SEXUALITY,
@@ -1134,7 +1143,7 @@ S T A T E  O F  N E W  Y O R K
  individuals  with  disabilities  education  improvement  act of 2004, as
  amended by chapter 253 of the laws  of  2021,  is  amended  to  read  as
  follows:
-  (a)  sections  one,  [two,]  and  six  of this act shall expire and be
+  (a)  sections  one[,  two,]  and  six  of this act shall expire and be
  deemed repealed June 30, 2024;
   § 6.  Section 22 of chapter 352 of the  laws  of  2005,  amending  the
  education law relating to implementation of the federal individuals with
@@ -1150,6 +1159,8 @@ S T A T E  O F  N E W  Y O R K
   §  7.  Subdivision d of section 27 of chapter 378 of the laws of 2007,
  amending the education law relating to  implementation  of  the  federal
  individuals  with  disabilities  education  improvement  act of 2004, as
+ S. 1040--B  21
+ 
  amended by chapter 253 of the laws  of  2021,  is  amended  to  read  as
  follows:
   d.  [the provisions] SECTIONS ONE, TWO AND FOUR THROUGH TWENTY-FIVE of
