@@ -1,6 +1,6 @@
 # Relates to electronic financial disclosures of members and candidates of the legislature and requires creation of electronic version of disclosure statement
 
-**Bill ID:** S3544A
+**Bill ID:** S3544AA
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to electronic financial disclosures of members and candidates of the leg
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3544
+  3544--A
  
   2023-2024 Regular Sessions
  
@@ -27,11 +27,14 @@ S T A T E  O F  N E W  Y O R K
  
  Introduced  by  Sen. BRESLIN -- read twice and ordered printed, and when
   printed to be committed to the Committee on Ethics and Internal Gover-
-  nance
+  nance -- recommitted to the Committee on Ethics  and  Internal  Gover-
+  nance  in  accordance  with  Senate  Rule  6,  sec.  8  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the public  officers  law,  in  relation  to  electronic
   financial disclosures of members and candidates of the legislature
-
+ 
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -56,17 +59,17 @@ S T A T E  O F  N E W  Y O R K
  deletions,  on  or  before  the thirtieth day of June; and (2) all other
  individuals required to file such  statement  shall  file  it  with  the
  commission on ethics and lobbying in government, except that:
-  §  2.  Subdivision  3  of  section 73-a of the public officers law, as
- amended by section 18 of part QQ of chapter 56  of  the  laws  of  2022,
- subparagraphs  (b),  (b-2), and (c) of paragraph 8 as separately amended
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04016-01-3
- S. 3544  2
+  LBD04016-04-4
+ S. 3544--A  2
  
- by section 8 of part QQ of chapter 56 of the laws of 2022, is amended to
- read as follows:
+  §  2.  Subdivision  3  of  section 73-a of the public officers law, as
+ amended by section 18 and subparagraphs (b), (b-2), and (c) of paragraph
+ 8 as separately amended by section 8 of part QQ of  chapter  56  of  the
+ laws of 2022 and paragraph 16-a of subdivision 3 as added by chapter 591
+ of the laws of 2023, is amended to read as follows:
   3.  (A) The annual statement of financial disclosure shall contain the
  information and shall be in the form set forth hereinbelow:
  
@@ -84,7 +87,7 @@ S T A T E  O F  N E W  Y O R K
   _________________________________________________________________ .
  
   (c) List the names of all unemancipated children.
- 
+
   ____________________________________________________________________
   ____________________________________________________________________
   ____________________________________________________________________
@@ -117,10 +120,10 @@ S T A T E  O F  N E W  Y O R K
   business  or  activity  of  said  entity,  did business with, or had
   matters other than ministerial matters before, any  state  or  local
   agency, list the name of any such agency.
+ S. 3544--A  3
  
   State or
   Position  Organization  Local Agency
- S. 3544  3
  
   ____________________________________________________________________
   ____________________________________________________________________
@@ -159,7 +162,7 @@ S T A T E  O F  N E W  Y O R K
   entity,  did  business  with,  or had matters other than ministerial
   matters before, any state or local agency, list the name of any such
   agency.
-
+ 
   State or
   Name & Address  Local
   Position  of Organization  Description  Agency
@@ -175,10 +178,10 @@ S T A T E  O F  N E W  Y O R K
   trade, business or profession which activity  was  licensed  by  any
   state  or local agency, was regulated by any state regulatory agency
   or local agency, or, as a regular and significant part of the  busi-
+ S. 3544--A  4
+ 
   ness  or  activity of said entity, did business with, or had matters
   other than ministerial matters before, any state  or  local  agency,
- S. 3544  4
- 
   list  the  name, address and description of such occupation, employ-
   ment, trade, business or profession and the name of any such agency.
  
@@ -232,7 +235,7 @@ S T A T E  O F  N E W  Y O R K
   law.  The term "political organization" means any party or independ-
   ent body as defined in the election law or any organization that  is
   affiliated with or a subsidiary of a party or independent body.
- S. 3544  5
+ S. 3544--A  5
  
   ____________________________________________________________________
   ____________________________________________________________________
@@ -259,7 +262,7 @@ S T A T E  O F  N E W  Y O R K
   ____________________________________________________________________
   ____________________________________________________________________
   ____________________________________________________________________
-
+ 
   (b) APPLICABLE ONLY TO NEW CLIENTS OR CUSTOMERS FOR WHOM SERVICES  ARE
  PROVIDED ON OR AFTER JULY FIRST, TWO THOUSAND TWELVE AND BEFORE DECEMBER
  THIRTY-FIRST,  TWO  THOUSAND  FIFTEEN,  OR  FOR NEW MATTERS FOR EXISTING
@@ -289,7 +292,7 @@ S T A T E  O F  N E W  Y O R K
  or  substantial  part,  a person or entity that becomes a client of that
  firm for the purposes of representation  for  a  matter  as  defined  in
  subparagraphs  (i) through (iv) of this paragraph, as the result of such
- S. 3544  6
+ S. 3544--A  6
  
  procurement, solicitation or direction of the  reporting  individual.  A
  reporting  individual  need  not  disclose  activities  performed  while
@@ -346,7 +349,7 @@ S T A T E  O F  N E W  Y O R K
  representation, the services actually provided and the payment received.
  For payments received from clients referred to the firm by the reporting
  individual, if the reporting individual directly received a referral fee
- S. 3544  7
+ S. 3544--A  7
  
  or fees for such referral,  identify  the  client  and  the  payment  so
  received.
@@ -403,8 +406,8 @@ S T A T E  O F  N E W  Y O R K
   * PROVIDED LEGAL ADVICE ON CLIENT MATTER (IDENTIFY CLIENT BY NAME);
   * CONSULTED WITH CLIENT OR CONSULTED WITH LAW PARTNERS/ASSOCIATES/MEMBERS
   OF FIRM ON CLIENT MATTER (IDENTIFY CLIENT BY NAME);
- S. 3544  8
- 
+ S. 3544--A  8
+
   * PREPARED CERTIFIED FINANCIAL STATEMENT FOR CLIENT (IDENTIFY CLIENT BY
   NAME);
   * REFERRED INDIVIDUAL OR ENTITY (IDENTIFY CLIENT BY NAME) FOR
@@ -461,7 +464,7 @@ S T A T E  O F  N E W  Y O R K
  submitted  to  it pursuant to this paragraph can be safely and confiden-
  tially stored. With respect to clients represented in other matters  not
  otherwise  exempt,  the reporting individual may request an exemption to
- S. 3544  9
+ S. 3544--A  9
  
  publicly disclosing the name of  that  client  from  the  commission  on
  ethics and lobbying in government pursuant to section ninety-four of the
@@ -519,7 +522,7 @@ S T A T E  O F  N E W  Y O R K
  greater from any employment or activity reportable under question  8(a),
  identify  each  registered  lobbyist  who  has directly referred to such
  individual a client who was successfully referred to the reporting indi-
- S. 3544  10
+ S. 3544--A  10
  
  vidual's business  and  from  whom  the  reporting  individual  or  firm
  received  a  fee for services in excess of five thousand dollars. Report
@@ -577,7 +580,7 @@ S T A T E  O F  N E W  Y O R K
  or any state agency for services, materials, or property;
   (iii) A grant of $10,000 or more from the state or  any  state  agency
  during the reporting period;
- S. 3544  11
+ S. 3544--A  11
  
   (iv)  A  grant  obtained  through  a legislative initiative during the
  reporting period; or
@@ -621,7 +624,7 @@ S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  ________________________________________________________________________
  ________________________________________________________________________
- 
+
   (d) List the name, principal address and general  description  or  the
  nature  of  the  business  activity of any entity in which the reporting
  individual or such  individual's  spouse  or  domestic  partner  had  an
@@ -634,8 +637,8 @@ S T A T E  O F  N E W  Y O R K
  EXCLUDING gifts from a relative. INCLUDE the name  and  address  of  the
  donor.  The  term "gifts" does not include reimbursements, which term is
  defined in item 10.  Indicate the value and nature of each such gift.
- S. 3544  12
-
+ S. 3544--A  12
+ 
   Category
   Self,  of
   Spouse,  Name of  Nature  Value of
@@ -687,14 +690,14 @@ S T A T E  O F  N E W  Y O R K
   ____________________________________________________________________
   ____________________________________________________________________
   ____________________________________________________________________
-  * The value of such interest shall  be  reported  only  if  reasonably
- ascertainable.
- S. 3544  13
+ * The value of such interest shall be reported only if reasonably
+  ascertainable.
+ S. 3544--A  13
  
- 12. (a)  Describe  the terms of, and the parties to, any contract, prom-
-  ise, or other agreement between the  reporting  individual  and  any
-  person,  firm, or corporation with respect to the employment of such
-  individual after leaving office or position (other than a  leave  of
+ 12. (a)  Describe the terms of, and the parties to, any contract,  prom-
+  ise,  or  other  agreement  between the reporting individual and any
+  person, firm, or corporation with respect to the employment of  such
+  individual  after  leaving office or position (other than a leave of
   absence).
  
   ____________________________________________________________________
@@ -746,7 +749,7 @@ S T A T E  O F  N E W  Y O R K
   ____________________________________________________________________
   ____________________________________________________________________
   ____________________________________________________________________
- S. 3544  14
+ S. 3544--A  14
  
  14. List the sources of any deferred income (not retirement  income)  in
   EXCESS  of $1,000 from each source to be paid to the reporting indi-
@@ -804,7 +807,7 @@ S T A T E  O F  N E W  Y O R K
   Securities  of which the reporting individual or the reporting indi-
   vidual's spouse or domestic partner is the owner of  record  but  in
   which such individual or the reporting individual's spouse or domes-
- S. 3544  15
+ S. 3544--A  15
 
   tic partner has no beneficial interest shall not be listed. Indicate
   percentage  of ownership ONLY if the reporting person or the report-
@@ -849,19 +852,76 @@ S T A T E  O F  N E W  Y O R K
   ____________________________________________________________________
   ____________________________________________________________________
  
- 17. List  below  the  location,  size, general nature, acquisition date,
-  market value and percentage of ownership of  any  real  property  in
-  which  any vested or contingent interest in EXCESS of $1,000 is held
-  by the reporting individual or the reporting individual's spouse  or
-  domestic  partner.  Also  list  real  property  owned for investment
+  16-a.  List  below the name and market value of digital assets held by
+ the reporting individual or such individual's spouse or domestic partner
+ in EXCESS of $1,000 at the close of  the  taxable  year  last  occurring
+ prior  to  the  date  of  filing. Whenever an interest in digital assets
+ exists through a beneficial interest in a trust, the digital assets held
+ in such trust shall be listed ONLY IF the reporting individual has know-
+ ledge thereof except where the reporting  individual  or  the  reporting
+ individual's  spouse  or domestic partner has transferred assets to such
+ trust for his or her benefit in which event such digital assets shall be
+ listed unless they are not ascertainable  by  the  reporting  individual
+ because  the  trustee  is  under an obligation or has been instructed in
+ writing not to disclose the contents of the trust to the reporting indi-
+ S. 3544--A  16
+ 
+ vidual. The digital assets of which  the  reporting  individual  or  the
+ reporting individual's spouse or domestic partner is the owner of record
+ but  in  which  such  individual or the reporting individual's spouse or
+ domestic  partner  has  no beneficial interest shall not be listed. Also
+ list digital assets owned for investment purposes by a corporation  more
+ than fifty percent (50%) of the stock of which is owned or controlled by
+ the  reporting  individual or such individual's spouse or domestic part-
+ ner. For purposes of this subdivision, the following  terms  shall  have
+ the following meanings:
+  (a)  "Digital  asset" shall mean an asset that is issued, transferred,
+ or both, using distributed ledger or blockchain  technology,  including,
+ but  not limited to, digital currencies, digital coins, digital non-fun-
+ gible tokens or other similar assets.
+  (b) "Digital currency" shall mean any type of  digital  unit  that  is
+ used as a medium of exchange or a form of digitally stored value. Virtu-
+ al  currency  shall  be  broadly  construed  to include digital units of
+ exchange that: (i) have a centralized repository or administrator;  (ii)
+ are  decentralized  and have no centralized repository or administrator;
+ or (iii) may be created or  obtained  by  computing,  manufacturing,  or
+ other similar effort.
+  (c)  "Distributed ledger or blockchain technology" shall mean a ledger
+ or database that stores shared state by maintaining it across  a  multi-
+ plicity  of  devices  belonging  to  different  entities and securing it
+ through a combination of cryptographic and  consensus  protocols,  where
+ the  shared state serves to authenticate, record, share, and/or synchro-
+ nize transactions involving digital assets or virtual currencies.
+ 
+  Category of
+  Market Value
+  as of the close
+  of the taxable
+  year last
+  occurring
+  prior to
+  Self/  Type of  the filing of
+  Spouse or  Digital Asset  this statement
+  Domestic  (In Table II)
+  Partner
+ _______________________________________________________________________
+ _______________________________________________________________________
+ _______________________________________________________________________
+ _______________________________________________________________________
+ _______________________________________________________________________
+ 17. List below the location, size,  general  nature,  acquisition  date,
+  market  value  and  percentage  of ownership of any real property in
+  which any vested or contingent interest in EXCESS of $1,000 is  held
+  by  the reporting individual or the reporting individual's spouse or
+  domestic partner. Also  list  real  property  owned  for  investment
   purposes by a corporation more than fifty percent (50%) of the stock
-  of which is owned or controlled by the reporting individual or  such
-  individual's  spouse or domestic partner. Do NOT list any real prop-
-  erty which is the primary or secondary  personal  residence  of  the
-  reporting  individual or the reporting individual's spouse or domes-
-  tic partner, except where there is a co-owner who is  other  than  a
+  of  which is owned or controlled by the reporting individual or such
+  individual's spouse or domestic partner. Do NOT list any real  prop-
+  erty  which  is  the  primary or secondary personal residence of the
+  reporting individual or the reporting individual's spouse or  domes-
+  tic  partner,  except  where there is a co-owner who is other than a
   relative.
- S. 3544  16
+ S. 3544--A  17
  
   Self/  Percentage  Category
   Spouse/  General  Acquisition  of  of Market
@@ -885,7 +945,7 @@ S T A T E  O F  N E W  Y O R K
   excluding  securities  reported in item 16 hereinabove. Debts, notes
   and accounts receivable owed to the individual by a  relative  shall
   not be reported.
- 
+
   Type of Obligation,  Category
   Date Due, and Nature  of
   Name of Debtor  of Collateral, if any  Amount
@@ -918,7 +978,7 @@ S T A T E  O F  N E W  Y O R K
   appliances shall be excluded. If any such reportable  liability  has
   been guaranteed by any third person, list the liability and name the
   guarantor.
- S. 3544  17
+ S. 3544--A  18
  
   Category
   Name of Creditor  Type of Liability  of
@@ -976,7 +1036,7 @@ S T A T E  O F  N E W  Y O R K
   Category HH  $2,650,000 to under $2,750,000
   Category II  $2,750,000 to under $2,850,000
   Category JJ  $2,850,000 to under $2,950,000
- S. 3544  18
+ S. 3544--A  19
  
   Category KK  $2,950,000 to under $3,050,000
   Category LL  $3,050,000 to under $3,150,000
@@ -1034,7 +1094,7 @@ S T A T E  O F  N E W  Y O R K
   Category LLLL  $8,250,000 to under $8,350,000
   Category MMMM  $8,350,000 to under $8,450,000
   Category NNNN  $8,450,000 to under $8,550,000
- S. 3544  19
+ S. 3544--A  20
  
   Category OOOO  $8,550,000 to under $8,650,000
   Category PPPP  $8,650,000 to under $8,750,000
@@ -1092,7 +1152,7 @@ S T A T E  O F  N E W  Y O R K
   Category JJ  $6,750,000 to under $7,000,000
   Category KK  $7,000,000 to under $7,250,000
   Category LL  $7,250,000 to under $7,500,000
- S. 3544  20
+ S. 3544--A  21
  
   Category MM  $7,500,000 to under $7,750,000
   Category NN  $7,750,000 to under $8,000,000
@@ -1103,9 +1163,9 @@ S T A T E  O F  N E W  Y O R K
   Category SS  $9,000,000 to under $9,250,000
   Category TT  $9,250,000 to under $9,500,000
   Category UU  $9,500,000 or over
-  (B)  THE  JOINT  COMMISSION  ON  PUBLIC ETHICS SHALL MAKE AVAILABLE AN
- EDITABLE, ELECTRONIC, READABLE AND  SEARCHABLE  VERSION  OF  THE  ANNUAL
- STATEMENT  OF  FINANCIAL DISCLOSURE BY JANUARY FIRST, TWO THOUSAND TWEN-
- TY-FOUR TO ALL THOSE REQUIRED BY LAW TO SUBMIT SUCH FORMS.
-  § 3. This act shall take effect  immediately;  provided  however  that
- section one of this act shall take effect January 1, 2025.
+  (B)  THE  COMMISSION  ON  ETHICS AND LOBBYING IN GOVERNMENT SHALL MAKE
+ AVAILABLE AN EDITABLE, ELECTRONIC, READABLE AND  SEARCHABLE  VERSION  OF
+ THE ANNUAL STATEMENT OF FINANCIAL DISCLOSURE BY JANUARY FIRST, TWO THOU-
+ SAND TWENTY-FIVE TO ALL THOSE REQUIRED BY LAW TO SUBMIT SUCH FORMS.
+  §  3.  This  act  shall take effect immediately; provided however that
+ section one of this act shall take effect January 1, 2026.
