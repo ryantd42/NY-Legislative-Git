@@ -1,6 +1,6 @@
 # Clarifies the standard for intentional discrimination or retaliation claims
 
-**Bill ID:** A1396BA
+**Bill ID:** A1396BB
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Clarifies the standard for intentional discrimination or retaliation claims by r
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1396--A
+  1396--B
  
   2023-2024 Regular Sessions
  
@@ -26,29 +26,27 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced  by  M.  of  A.  BICHOTTE HERMELYN,  GONZALEZ-ROJAS, SHIMSKY,
-  BURDICK -- read once and referred to  the  Committee  on  Governmental
-  Operations  -- recommitted to the Committee on Governmental Operations
-  in accordance with Assembly Rule 3, sec. 2  --  committee  discharged,
-  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  BURDICK, DICKENS, DAVILA, REYES, SIMON -- read once  and  referred  to
+  the Committee on Governmental Operations -- recommitted to the Commit-
+  tee  on  Governmental  Operations  in accordance with Assembly Rule 3,
+  sec. 2 -- committee discharged, bill  amended,  ordered  reprinted  as
+  amended  and  recommitted  to  said committee -- committee discharged,
+  bill amended, ordered reprinted as amended  and  recommitted  to  said
   committee
  
- AN ACT to amend the executive law, in relation to clarifying the  stand-
-  ard for disparate treatment claims
+ AN  ACT to amend the executive law, in relation to clarifying the stand-
+  ard for intentional discrimination or retaliation claims
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section 292 of the executive law is amended by adding a new
- subdivision 42 to read as follows:
-  42. THE TERMS "BECAUSE OF", "BECAUSE", AND "BY REASON OF" IN DISPARATE
- TREATMENT CASES, INCLUDING RETALIATION CASES, MEAN THE  UNLAWFUL  MOTIVE
- WAS  A  MOTIVATING FACTOR.  A "MOTIVATING FACTOR" MEANS THAN AN ADVERSE
- EMPLOYMENT DECISION OR ACTION WAS MORE LIKELY THAN NOT BASED IN WHOLE OR
- IN PART ON DISCRIMINATION.  SUCH DISCRIMINATORY REASON FOR  THE  ADVERSE
- EMPLOYMENT  ACTION OR DECISION NEED NOT BE THE SOLE REASON OR FACTOR FOR
- THE ADVERSE EMPLOYMENT ACTION OR DECISION. NOTHING IN THIS DEFINITION IS
- INTENDED TO PRECLUDE OR LIMIT USE OF  THE  DISPARATE  IMPACT  METHOD  OF
- PROVING LIABILITY.
+  Section 1. Section 296 of the executive law is amended by adding a new
+ subdivision 23 to read as follows:
+  23.  NOTWITHSTANDING  ANY  FEDERAL OR LOCAL STATUTE TO THE CONTRARY, A
+ PERSON OR PERSONS BRINGING  INTENTIONAL  DISCRIMINATION  OR  RETALIATION
+ CLAIMS  UNDER  THIS  ARTICLE SHALL BE REQUIRED TO PROVE THAT AN UNLAWFUL
+ MOTIVATION WAS A MOTIVATING FACTOR AND NOT "THE SOLE MOTIVATING  FACTOR"
+ OR A "BUT-FOR CAUSE" OF THE CHALLENGED TREATMENT.
   § 2. This act shall take effect immediately.
  
  
@@ -56,4 +54,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD01175-06-3
+  LBD01175-09-4
