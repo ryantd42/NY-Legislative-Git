@@ -1,6 +1,6 @@
 # Relates to the applicability of open meetings and freedom of information laws to certain not-for-profit corporations
 
-**Bill ID:** S2727BA
+**Bill ID:** S2727BB
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the applicability of open meetings and freedom of information laws to
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2727--A
+  2727--B
  
   2023-2024 Regular Sessions
  
@@ -29,41 +29,47 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee on Corporations,  Authorities
   and  Commissions -- reported favorably from said committee and commit-
   ted to the Committee on Finance -- committee discharged, bill amended,
-  ordered reprinted as amended and recommitted to said committee
-
- AN ACT to amend  the  not-for-profit  corporation  law  and  the  public
+  ordered reprinted as amended and  recommitted  to  said  committee  --
+  recommitted  to the Committee on Corporations, Authorities and Commis-
+  sions in accordance with Senate Rule 6, sec. 8 --  reported  favorably
+  from  said  committee  and  committed  to  the Committee on Finance --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
+ 
+ AN  ACT  to  amend  the  not-for-profit  corporation  law and the public
   authorities law, in relation to the applicability of open meetings and
   freedom of information laws to certain not-for-profit corporations
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. Section  104  of  the  not-for-profit  corporation  law  is
+  Section  1.  Section  104  of  the  not-for-profit  corporation law is
  amended by adding a new paragraph (h) to read as follows:
-  (H)  THE  DEPARTMENT  SHALL TRANSMIT ELECTRONICALLY TO THE AUTHORITIES
- BUDGET OFFICE A COPY OF EVERY  CERTIFICATE  OF  INCORPORATION  FILED  OR
- DELIVERED  WHERE  THE INCORPORATOR HAS INDICATED ON THE CERTIFICATE THAT
- HE OR SHE IS FILING SAID CERTIFICATE ON THE BEHALF OR AT THE BEHEST OF A
- MUNICIPAL CORPORATION, STATE OR LOCAL AUTHORITY, OR DISTRICT.
-  § 2. Subparagraph 2-b of paragraph (a) of section 402 of the  not-for-
- profit  corporation  law, as added by chapter 23 of the laws of 2014, is
+  (H) THE DEPARTMENT SHALL TRANSMIT ELECTRONICALLY  TO  THE  AUTHORITIES
+ BUDGET  OFFICE  A  COPY  OF  EVERY CERTIFICATE OF INCORPORATION FILED OR
+ DELIVERED WHERE THE INCORPORATOR HAS INDICATED ON THE  CERTIFICATE  THAT
+ SUCH  INCORPORATOR  IS  FILING  SAID CERTIFICATE ON THE BEHALF OR AT THE
+ BEHEST  OF  A  MUNICIPAL  CORPORATION,  STATE  OR  LOCAL  AUTHORITY,  OR
+ DISTRICT.
+  §  2. Subparagraph 2-b of paragraph (a) of section 402 of the not-for-
+ profit corporation law, as added by chapter 23 of the laws of  2014,  is
  amended to read as follows:
   (2-b) If it is not formed to engage in any activity or for any purpose
- requiring consent or approval of any state official, department,  board,
- agency  or other body, OR DOES NOT REQUIRE CONSENT PURSUANT TO PARAGRAPH
- (W) OF SECTION 404 (APPROVALS, NOTICES AND CONSENTS) OF THIS  ARTICLE  a
- statement  that  no such consent or approval is required. Such statement
- shall be deemed conclusive for purposes of filing by the  department  of
- state.  If subsequent to submitting the certificate of incorporation for
- filing, the corporation  plans  to  engage  in  any  activity  requiring
- consent  or  approval  pursuant  to section 404 [(approvals] (APPROVALS,
- notices and consents) of this [chapter] ARTICLE, the  corporation  shall
+ requiring  consent or approval of any state official, department, board,
+ agency or other body, OR DOES NOT REQUIRE CONSENT PURSUANT TO  PARAGRAPH
+ (W)  OF  SECTION 404 (APPROVALS, NOTICES AND CONSENTS) OF THIS ARTICLE a
+ statement that no such consent or approval is required.  Such  statement
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04263-03-3
- S. 2727--A  2
+  LBD04263-07-4
+ S. 2727--B  2
  
+ shall  be  deemed conclusive for purposes of filing by the department of
+ state. If subsequent to submitting the certificate of incorporation  for
+ filing,  the  corporation  plans  to  engage  in  any activity requiring
+ consent  or  approval  pursuant  to section 404 [(approvals] (APPROVALS,
+ notices and consents) of this [chapter] ARTICLE, the  corporation  shall
  obtain such consent or approval and accordingly amend its certificate of
  incorporation pursuant to article eight of this chapter.
   §  3.  Paragraph  (a) of section 402 of the not-for-profit corporation
@@ -84,46 +90,46 @@ S T A T E  O F  N E W  Y O R K
  TUTE A MAJORITY OF THE VOTING STRENGTH THAT SELECTS EITHER A MAJORITY OF
  THE CORPORATION'S BOARD OF DIRECTORS OR THE CORPORATION'S  CHIEF  EXECU-
  TIVE  OFFICER;  OR  (III)  SERVE AS: (A) A MAJORITY OF THE CORPORATION'S
- BOARD OF DIRECTORS; OR (B) IN HIS OR HER OFFICIAL CAPACITY,  THE  CORPO-
- RATION'S CHIEF EXECUTIVE OFFICER; OR
-  (2)  INDICATES  THAT  SUCH  CORPORATION  IS  BEING INCORPORATED ON THE
- BEHALF OR AT THE BEHEST OF ANY MUNICIPAL  CORPORATION,  STATE  OR  LOCAL
+ BOARD OF DIRECTORS; OR (B) IN THEIR OFFICIAL CAPACITY, THE CORPORATION'S
+ CHIEF EXECUTIVE OFFICER; OR
+  (2) INDICATES THAT SUCH  CORPORATION  IS  BEING  INCORPORATED  ON  THE
+ BEHALF  OR  AT  THE  BEHEST OF ANY MUNICIPAL CORPORATION, STATE OR LOCAL
  AUTHORITY, OR DISTRICT.
   THE DIRECTOR SHALL MAKE SUCH INQUIRY INTO THE PURPOSES OF THE PROPOSED
- CORPORATION AS HE OR SHE SHALL DEEM ADVISABLE.
-  §  5.  Paragraph (a) of section 1411 of the not-for-profit corporation
- law, as amended by chapter 847 of the laws of 1970, is amended  to  read
+ CORPORATION AS THE DIRECTOR SHALL DEEM ADVISABLE.
+  § 5. Paragraph (a) of section 1411 of the  not-for-profit  corporation
+ law,  as  amended by chapter 847 of the laws of 1970, is amended to read
  as follows:
   (a) Purposes.
-  This  section  shall  provide  an  additional  and alternate method of
- incorporation or reincorporation of not-for-profit corporations for  any
- of  the  purposes set forth in this paragraph and shall not be deemed to
- alter, impair or diminish the purposes, rights, powers or privileges  of
- any  corporation heretofore or hereafter incorporated under this section
- or under the stock or business corporation  laws.  Corporations  may  be
- incorporated  or  reincorporated  under  this  section as not-for-profit
- local development corporations operated for the  exclusively  charitable
+  This section shall provide  an  additional  and  alternate  method  of
+ incorporation  or reincorporation of not-for-profit corporations for any
+ of the purposes set forth in this paragraph and shall not be  deemed  to
+ alter,  impair or diminish the purposes, rights, powers or privileges of
+ any corporation heretofore or hereafter incorporated under this  section
+ or  under  the  stock  or business corporation laws. Corporations may be
+ incorporated or reincorporated  under  this  section  as  not-for-profit
+ local  development  corporations operated for the exclusively charitable
  or public purposes of relieving and reducing unemployment, promoting and
  providing for additional and maximum employment, bettering and maintain-
  ing job opportunities, instructing or training individuals to improve or
  develop  their  capabilities  for  such  jobs,  carrying  on  scientific
- research for the purpose of aiding a community or geographical  area  by
- attracting  new  industry to the community or area or by encouraging the
- development of, or retention of, an industry in the community  or  area,
- and  lessening the burdens of government and acting in the public inter-
- est, and any one or more counties, cities,  towns  or  villages  of  the
- state,  or  any  combination  thereof,  or  the New York job development
- authority in exercising its power under the public  authorities  law  to
- encourage  the organization of local development corporations, may cause
- such corporations to be incorporated by public officers or private indi-
- viduals or reincorporated upon compliance with the requirements of  this
- section,  and it is hereby found, determined and declared that in carry-
- ing out said purposes and in exercising the powers  conferred  by  para-
- graph (b) such corporations will be performing an essential governmental
- S. 2727--A  3
+ research  for  the purpose of aiding a community or geographical area by
+ attracting new industry to the community or area or by  encouraging  the
+ development  of,  or retention of, an industry in the community or area,
+ and lessening the burdens of government and acting in the public  inter-
+ est,  and  any  one  or  more counties, cities, towns or villages of the
+ state, or any combination thereof,  or  the  New  York  job  development
+ authority  in  exercising  its power under the public authorities law to
+ encourage the organization of local development corporations, may  cause
+ S. 2727--B  3
  
+ such corporations to be incorporated by public officers or private indi-
+ viduals  or reincorporated upon compliance with the requirements of this
+ section, and it is hereby found, determined and declared that in  carry-
+ ing  out  said  purposes and in exercising the powers conferred by para-
+ graph (b) such corporations will be performing an essential governmental
  function. A NOT-FOR-PROFIT CORPORATION MAY NOT INCORPORATE OR REINCORPO-
- RATE  UNDER  THIS SECTION IF ITS SOLE CORPORATE PURPOSE IS FOR LESSENING
+ RATE UNDER THIS SECTION IF ITS SOLE CORPORATE PURPOSE IS  FOR  LESSENING
  THE BURDENS OF GOVERNMENT AND ACTING IN THE PUBLIC INTEREST.
   §  6.  Subparagraph 2 of paragraph (d) of section 1411 of the not-for-
  profit corporation law is amended to read as follows:
@@ -173,70 +179,82 @@ S T A T E  O F  N E W  Y O R K
  be organized and operated exclusively for  the  purposes  set  forth  in
  paragraph  (a)  OF  THIS  SECTION, shall have, in addition to the powers
  otherwise conferred by law, the powers conferred  by  paragraph  (c)  OF
+ S. 2727--B  4
+ 
  THIS SECTION and shall be subject to all the restrictions [and], limita-
  tions  AND  OBLIGATIONS imposed by [paragraph] PARAGRAPHS (e) [and para-
  graph], (g) AND (I) OF THIS SECTION.  In so far as  the  provisions  of
  this  section  are  inconsistent  with  the provisions of any other law,
- S. 2727--A  4
- 
  general or special, the provisions of this section shall be  controlling
  as to corporations incorporated or reincorporated hereunder.
-  §  9.  Subdivision  2  of  section 2 of the public authorities law, as
- amended by chapter 257 of the laws  of  2011,  is  amended  to  read  as
- follows:
+  §  9. Subdivisions 1 and 2 of section 2 of the public authorities law,
+ as added by chapter 766 of the laws of 2005 and subdivision 2 as amended
+ by chapter 257 of the laws of 2011, are amended to read as follows:
+  1. "state authority" shall mean (A) a public authority or public bene-
+ fit corporation created by or existing under this chapter or  any  other
+ law  of the state of New York, with one or more of its members appointed
+ by the governor or who serve as members by virtue  of  holding  a  civil
+ office of the state, other than an interstate or international authority
+ or  public  benefit  corporation,  including subsidiaries of such public
+ authority or public  benefit  corporation;  OR  (B)  CERTAIN  MEMBERSHIP
+ CORPORATIONS  AS DEFINED IN PARAGRAPH (D) OF SUBDIVISION FIVE OF SECTION
+ FIFTY-THREE-A OF THE STATE FINANCE LAW.
   2. "local authority" shall mean (a) a public authority or public bene-
- fit  corporation  created by or existing under this chapter or any other
+ fit corporation created by or existing under this chapter or  any  other
  law of the state of New York whose members do not hold a civil office of
- the state, are not appointed by the governor or  are  appointed  by  the
+ the  state,  are  not  appointed by the governor or are appointed by the
  governor specifically upon the recommendation of the local government or
- governments;  (b) a not-for-profit corporation, OTHER THAN A FIRE CORPO-
- RATION, STATEWIDE ASSOCIATION OF LOCAL GOVERNMENTS OR  LOCAL  OFFICIALS,
- OR  BUSINESS  IMPROVEMENT  DISTRICT,  affiliated  with, sponsored by, or
- created by a county, city, town  or  village  government;  (c)  a  local
+ governments; (b) a not-for-profit corporation, OTHER THAN A FIRE  CORPO-
+ RATION, A PUBLIC GROUP SELF-INSURER REGULATED UNDER THE WORKERS' COMPEN-
+ SATION  LAW,  STATEWIDE  ASSOCIATION OF LOCAL GOVERNMENTS OR LOCAL OFFI-
+ CIALS, OR BUSINESS IMPROVEMENT DISTRICT, affiliated with, sponsored  by,
+ or  created  by  a county, city, town or village government; (c) a local
  industrial developmental agency or authority or other local public bene-
- fit  corporation;  (d)  an affiliate of such local authority; [or] (e) a
- land bank corporation created pursuant to article sixteen  of  the  not-
- for-profit  corporation  law; OR (F) A NOT-FOR-PROFIT CORPORATION, OTHER
- THAN A FIRE CORPORATION OR STATEWIDE ASSOCIATION OF LOCAL GOVERNMENTS OR
- LOCAL OFFICIALS, OR BUSINESS IMPROVEMENT DISTRICT, THAT (I)  HAS  ISSUED
- OR  HAS THE AUTHORITY TO ISSUE TAX EXEMPT DEBT OR (II) PROVIDES STATE OR
- MUNICIPAL TAX EXEMPTIONS THROUGH ITS PARTICIPATION IN A  PROJECT  UNDER-
- TAKEN IN FURTHERANCE OF ITS PURPOSES.
-  FOR  THE  PURPOSES  OF  PARAGRAPH (B) OF THE OPENING PARAGRAPH OF THIS
- SUBDIVISION, "AFFILIATED WITH, SPONSORED BY, OR  CREATED  BY  A  COUNTY,
+ fit corporation; (d) an affiliate of such local authority;  [or]  (e)  a
+ land  bank  corporation  created pursuant to article sixteen of the not-
+ for-profit corporation law; OR (F) A NOT-FOR-PROFIT  CORPORATION,  OTHER
+ THAN A FIRE CORPORATION, A PUBLIC GROUP SELF-INSURER REGULATED UNDER THE
+ WORKERS'  COMPENSATION LAW OR STATEWIDE ASSOCIATION OF LOCAL GOVERNMENTS
+ OR LOCAL OFFICIALS, OR  BUSINESS  IMPROVEMENT  DISTRICT,  THAT  (I)  HAS
+ ISSUED  OR  HAS  THE AUTHORITY TO ISSUE TAX EXEMPT DEBT OR (II) PROVIDES
+ STATE OR MUNICIPAL TAX EXEMPTIONS THROUGH ITS PARTICIPATION IN A PROJECT
+ UNDERTAKEN IN FURTHERANCE OF ITS PURPOSES.
+  FOR THE PURPOSES OF PARAGRAPH (B) OF THE  OPENING  PARAGRAPH  OF  THIS
+ SUBDIVISION,  "AFFILIATED  WITH,  SPONSORED  BY, OR CREATED BY A COUNTY,
  CITY, TOWN OR VILLAGE GOVERNMENT" SHALL ALSO INCLUDE, BUT NOT BE LIMITED
- TO,  ENTITIES:  (A) WHERE ONE OR MORE INDIVIDUALS WHO SERVE AS OFFICERS
- OR EMPLOYEES OF ANY COUNTY, CITY, TOWN, VILLAGE:  (I) SELECT  EITHER  A
- MAJORITY  OF  THE NOT-FOR-PROFIT CORPORATION'S BOARD OF DIRECTORS OR THE
- NOT-FOR-PROFIT CORPORATION'S CHIEF EXECUTIVE OFFICER; (II) CONSTITUTE  A
- MAJORITY  OF  THE  VOTING STRENGTH THAT SELECTS EITHER A MAJORITY OF THE
- NOT-FOR-PROFIT CORPORATION'S BOARD OF  DIRECTORS  OR  THE  CORPORATION'S
- CHIEF  EXECUTIVE  OFFICER; OR (III) SERVE AS: (1) A MAJORITY OF THE NOT-
- FOR-PROFIT CORPORATION'S BOARD OF DIRECTORS; OR (2) IN HIS OR HER  OFFI-
- CIAL CAPACITY, THE NOT-FOR-PROFIT CORPORATION'S CHIEF EXECUTIVE OFFICER;
- OR  (B) WHICH PAY STAFF OF A STATE OR LOCAL GOVERNMENT OR STATE OR LOCAL
+ TO, ENTITIES:  (A) WHERE ONE OR MORE INDIVIDUALS WHO SERVE  AS  OFFICERS
+ OR  EMPLOYEES  OF  ANY COUNTY, CITY, TOWN, VILLAGE:  (I) SELECT EITHER A
+ MAJORITY OF THE NOT-FOR-PROFIT CORPORATION'S BOARD OF DIRECTORS  OR  THE
+ NOT-FOR-PROFIT  CORPORATION'S CHIEF EXECUTIVE OFFICER; (II) CONSTITUTE A
+ MAJORITY OF THE VOTING STRENGTH THAT SELECTS EITHER A  MAJORITY  OF  THE
+ NOT-FOR-PROFIT  CORPORATION'S  BOARD  OF  DIRECTORS OR THE CORPORATION'S
+ CHIEF EXECUTIVE OFFICER; OR (III) SERVE AS: (1) A MAJORITY OF  THE  NOT-
+ FOR-PROFIT  CORPORATION'S  BOARD  OF DIRECTORS; OR (2) IN THEIR OFFICIAL
+ CAPACITY, THE NOT-FOR-PROFIT CORPORATION'S CHIEF EXECUTIVE  OFFICER;  OR
+ (B)  WHICH  PAY  STAFF  OF A STATE OR LOCAL GOVERNMENT OR STATE OR LOCAL
  AUTHORITY TO PROVIDE ADMINISTRATIVE OR OPERATIONAL SUPPORT.
-  § 10. The public authorities law is amended by adding  a  new  section
- 2829 to read as follows:
-  §  2829.  STATE AND LOCAL AUTHORITIES SUBJECT TO THE OPEN MEETINGS AND
- FREEDOM OF INFORMATION LAWS. ALL STATE AND LOCAL  AUTHORITIES,  AS  SUCH
- TERMS ARE DEFINED IN SECTION TWO OF THIS CHAPTER, AS WELL AS ALL SUBSID-
- IARIES AND AFFILIATES OF SUCH STATE AND LOCAL AUTHORITIES, AS SUCH TERMS
- ARE  DEFINED  IN  SECTION  TWO  OF THIS CHAPTER, SHALL BE SUBJECT TO THE
- PROVISIONS OF ARTICLES SIX AND SEVEN OF THE PUBLIC OFFICERS LAW RELATING
- TO THE FREEDOM OF INFORMATION AND OPEN MEETINGS LAWS  RESPECTIVELY.  ALL
- STATE  AND LOCAL AUTHORITIES, AS WELL AS ALL SUBSIDIARIES AND AFFILIATES
- OF SUCH STATE AND LOCAL AUTHORITIES, SHALL, TO THE  EXTENT  PRACTICABLE,
- STREAM  ALL  OPEN  MEETINGS  AND PUBLIC HEARINGS ON ITS WEBSITE IN REAL-
- TIME, POST VIDEO RECORDINGS OF ALL OPEN MEETINGS AND PUBLIC HEARINGS  ON
- ITS  WEBSITE  WITHIN  FIVE  BUSINESS  DAYS OF THE MEETING OR HEARING AND
- MAINTAIN SUCH RECORDINGS FOR A PERIOD OF NOT LESS THAN FIVE YEARS.
+  § 10. Section 2829 of the public authorities law, as added by  section
+ 1  of subpart B of part SS of chapter 58 of the laws of 2024, is amended
+ to read as follows:
+ S. 2727--B  5
+ 
+  § 2829. State and local authorities subject to the open  meetings  and
+ freedom  of  information  laws. All state and local authorities, as such
+ terms are defined in section two of this chapter, as well as all subsid-
+ iaries AND AFFILIATES of such state and local authorities, as such terms
+ are  defined  in  section  two  of this chapter, shall be subject to the
+ provisions of articles six and seven of the public officers law relating
+ to the freedom of information and open meetings laws  respectively.  All
+ state  and local authorities, as well as all subsidiaries AND AFFILIATES
+ of such state and local authorities, shall, to the  extent  practicable,
+ stream  all  open meetings and public hearings on their website in real-
+ time, post video recordings of all open meetings and public hearings  on
+ their  website  within  five business days of the meeting or hearing and
+ maintain such recordings for a period of not less than five years.
   § 11. This act shall take effect on the thirtieth day after  it  shall
  have  become  a  law; provided, however, that the provisions of subpara-
  graph 2 of paragraph (d) and paragraph (i) of section 1411 of  the  not-
  for-profit corporation law, as amended by sections six and eight of this
- S. 2727--A  5
- 
  act  shall  not apply retroactively to contracts or agreements between a
  local development corporation and  a  municipal  corporation,  state  or
  local authority, or district entered into prior to the effective date of
