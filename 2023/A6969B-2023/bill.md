@@ -1,6 +1,6 @@
 # Provides for the regulation of ingredients in personal care products and cosmetics
 
-**Bill ID:** A6969BA
+**Bill ID:** A6969BB
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Enacts the "beauty justice act"; provides for the regulation of ingredients in p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6969--A
+  6969--B
  
   2023-2024 Regular Sessions
  
@@ -41,31 +41,32 @@ S T A T E  O F  N E W  Y O R K
   Committee  on  Ways  and Means -- recommitted to the Committee on Ways
   and Means in accordance with Assembly Rule  3,  sec.  2  --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
-
- AN  ACT  to amend the environmental conservation law, in relation to the
+  to  said  committee  -- again reported from said committee with amend-
+  ments, ordered reprinted as amended and recommitted to said committee
+ 
+ AN ACT to amend the environmental conservation law, in relation  to  the
   regulation of ingredients in personal care products and cosmetics
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Short  title. This act shall be known and may be cited as
- the "safe personal care and cosmetics act".
+  Section 1. Short title. This act shall be known and may  be  cited  as
+ the "beauty justice act".
   § 2. Legislative findings and intent.  Thousands of chemicals are used
- in cosmetics and personal care products. Some  of  these  chemicals  are
- associated  with asthma, allergies, hormone disruption, neurodevelopmen-
- tal problems, infertility, even cancer. Exposure to  personal  care  and
- cosmetic  products  typically  begins  in infancy, with products such as
- baby shampoo, lotion, and diaper cream, and continues  throughout  their
- lifespan.  According  to the Environmental Working Group, "on average,
- women use 12 personal care products a day, exposing  themselves  to  168
+ in  cosmetics  and  personal  care products. Some of these chemicals are
+ associated with asthma, allergies, hormone disruption,  neurodevelopmen-
+ tal  problems,  infertility,  even cancer. Exposure to personal care and
+ cosmetic products typically begins in infancy,  with  products  such  as
+ baby  shampoo,  lotion, and diaper cream, and continues throughout their
+ lifespan.  According to the Environmental Working  Group,  "on  average,
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07027-11-4
- A. 6969--A  2
+  LBD07027-13-4
+ A. 6969--B  2
  
- chemical  ingredients.  Men  use  six,  exposing themselves to 85 unique
+ women  use  12  personal care products a day, exposing themselves to 168
+ chemical ingredients. Men use six,  exposing  themselves  to  85  unique
  chemicals."
   Further,  The  National Institutes of Health (NIH) conducted an eight-
  year study of over  46,000  women  who  used  permanent  hair  dyes  and
@@ -96,7 +97,7 @@ S T A T E  O F  N E W  Y O R K
   § 3. Article 37 of the environmental conservation law  is  amended  by
  adding a new title 12 to read as follows:
   TITLE XII
-  SAFE PERSONAL CARE AND COSMETICS ACT
+  BEAUTY JUSTICE ACT
  SECTION 37-1201. DEFINITIONS.
   37-1203. SALES PROHIBITION.
   37-1205. IDENTIFICATION OF SAFER ALTERNATIVES.
@@ -119,10 +120,10 @@ S T A T E  O F  N E W  Y O R K
  RAW MATERIAL'S OR INGREDIENT'S SUPPLY CHAIN; OR
   (B)  WAS  CREATED  OR  FORMED  DURING  THE MANUFACTURING PROCESS AS AN
  INTENTIONAL OR UNINTENTIONAL CONSEQUENCE OF THE MANUFACTURING PROCESS AT
+ A. 6969--B  3
+ 
  ANY POINT IN A PRODUCT'S, A RAW MATERIAL'S, OR  AN  INGREDIENT'S  SUPPLY
  CHAIN.
- A. 6969--A  3
- 
   NONFUNCTIONAL  BYPRODUCT  SHALL  INCLUDE,  BUT  IS  NOT LIMITED TO, AN
  UNREACTED RAW MATERIAL, A BREAKDOWN PRODUCT OF  AN  INTENTIONALLY  ADDED
  INGREDIENT, OR A BYPRODUCT OF THE MANUFACTURING PROCESS.
@@ -176,11 +177,10 @@ S T A T E  O F  N E W  Y O R K
   (H) ASBESTOS (CAS 1332-21-4) AND TALC (CAS 14807-96-6);
   (I)  BUTYLATED  HYDROXYTOLUENE  (BHT)  (CAS  128-37-0)  AND  BUTYLATED
  HYDROXYANISOLE (BHA) (CAS 121-00-6);
-  (J)  CYCLOTETRASILOXANE  (CAS  556-67-2),  CYCLOPENTASILOXANE  (CAS
- 541-02-6), AND OCTAMETHYLCYCLOTETRASILOXANE (CAS 556-67-2);
- A. 6969--A  4
- 
-  (K) M-PHENYLENEDIAMINE  (CAS  108-45-2)  AND  O-PHENYLENEDIAMINE  (CAS
+  (J) CYCLOTETRASILOXANE (CAS 556-67-2);
+ A. 6969--B  4
+
+  (K)  M-PHENYLENEDIAMINE  (CAS  108-45-2)  AND  O-PHENYLENEDIAMINE (CAS
  95-54-5);
   (L) TRICLOSAN (CAS 3380-34-5), TRICLOCARBAN (CAS 101-20-2), AND NONYL-
  PHENOL (CAS 68412-54-4); AND
@@ -235,7 +235,7 @@ S T A T E  O F  N E W  Y O R K
  PRODUCT OR COSMETIC PRODUCT IS IN COMPLIANCE WITH  THE  REQUIREMENTS  OF
  THIS  TITLE. THE CERTIFICATE OF COMPLIANCE SHALL BE SIGNED BY AN AUTHOR-
  IZED OFFICIAL OF THE MANUFACTURER.
- A. 6969--A  5
+ A. 6969--B  5
  
   (B) IN ADDITION TO ANY OTHER  APPLICABLE  PENALTIES,  IT  SHALL  BE  A
  VIOLATION  OF  THIS  SECTION  TO  PROVIDE A CERTIFICATE OF COMPLIANCE AS
