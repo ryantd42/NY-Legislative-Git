@@ -1,6 +1,6 @@
 # Relates to insurance requirements for third-party food delivery services
 
-**Bill ID:** S6760BA
+**Bill ID:** S6760BB
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires a delivery network company to ensure that, during the delivery availabl
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  6760--A
+  6760--B
  
   2023-2024 Regular Sessions
  
@@ -29,161 +29,173 @@ S T A T E  O F  N E W  Y O R K
   when printed to be committed to the Committee on  Consumer  Protection
   --  recommitted  to the Committee on Consumer Protection in accordance
   with Senate Rule 6, sec. 8  --  committee  discharged,  bill  amended,
-  ordered reprinted as amended and recommitted to said committee
-
- AN  ACT  to  amend  the  general  business law and the insurance law, in
-  relation to insurance requirements for third-party food delivery apps
+  ordered  reprinted  as  amended  and  recommitted to said committee --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted to said committee
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+ AN  ACT  to  amend  the  general  business law and the insurance law, in
+  relation to  insurance  requirements  for  third-party  food  delivery
+  service
+ 
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Section  391-v  of  the general business law, as added by
+  Section 1. Section 391-v of the general  business  law,  as  added  by
  chapter 693 of the laws of 2021, is amended to read as follows:
-  § 391-v. Third-party food delivery agreements AND  INSURANCE  REQUIRE-
- MENTS.  1.  For  the purposes of this section, the following terms shall
+  §  391-v.  Third-party food delivery agreements AND INSURANCE REQUIRE-
+ MENTS. 1. For the purposes of this section, the  following  terms  shall
  have the following meanings:
-  (a) "Agreement" means a written contractual agreement between  a  food
- service  establishment and a third-party food delivery service authoriz-
- ing the inclusion of the food service establishment's  products  on  the
+  (a)  "Agreement"  means a written contractual agreement between a food
+ service establishment and a third-party food delivery service  authoriz-
+ ing  the  inclusion  of the food service establishment's products on the
  third-party food delivery platform.
-  (b)  "DELIVERY  AVAILABLE  PERIOD"  MEANS  THE  PERIOD WHEN A DELIVERY
+  (b) "DELIVERY AVAILABLE PERIOD"  MEANS  THE  PERIOD  WHEN  A  DELIVERY
  NETWORK DRIVER:
   (I) HAS LOGGED ON TO A DIGITAL NETWORK;
-  (II) IS AVAILABLE TO RECEIVE REQUESTS  TO  PROVIDE  DELIVERY  SERVICES
+  (II)  IS  AVAILABLE  TO  RECEIVE REQUESTS TO PROVIDE DELIVERY SERVICES
  FROM A DELIVERY NETWORK COMPANY;
   (III) IS OPERATING A PERSONAL VEHICLE; AND
-  (IV)  IS  NOT PROVIDING DELIVERY SERVICES OR OPERATING IN THE DELIVERY
+  (IV) IS NOT PROVIDING DELIVERY SERVICES OR OPERATING IN  THE  DELIVERY
  SERVICE PERIOD.
-  (C) "DELIVERY NETWORK COMPANY" MEANS A CORPORATION, PARTNERSHIP,  SOLE
- PROPRIETORSHIP,  OR  OTHER ENTITY THAT OPERATES IN THIS STATE AND USES A
- DIGITAL NETWORK TO CONNECT A DELIVERY  NETWORK  COMPANY  CUSTOMER  TO  A
- DELIVERY NETWORK DRIVER TO PROVIDE DELIVERY SERVICES.
-
+  (C)  "DELIVERY NETWORK COMPANY" MEANS A CORPORATION, PARTNERSHIP, SOLE
+ PROPRIETORSHIP, OR OTHER ENTITY THAT OPERATES IN THIS STATE AND  USES  A
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD10975-04-4
- S. 6760--A  2
+  LBD10975-06-4
+ S. 6760--B  2
  
-  (D)  "DELIVERY  NETWORK  COMPANY  CUSTOMER"  MEANS A PERSON WHO ORDERS
- GOODS THAT ARE DELIVERED BY A DELIVERY NETWORK DRIVER AT  THE  DIRECTION
- OF THE PERSON.
-  (E)  "DELIVERY NETWORK DRIVER" MEANS AN INDIVIDUAL WHO PROVIDES DELIV-
- ERY SERVICES THROUGH A DIGITAL NETWORK USING A PERSONAL VEHICLE.
-  (F) "DELIVERY SERVICES" MEANS THE  FULFILLMENT  OF  DELIVERY  REQUESTS
- MADE  BY  A  CUSTOMER THROUGH A DIGITAL NETWORK, INCLUDING THE PICKUP OF
- ANY GOODS AND THE DELIVERY OF THE GOODS TO  A  CUSTOMER  BY  A  DELIVERY
- NETWORK  DRIVER. DELIVERY SERVICES MAY INCLUDE A SERIES OF DELIVERIES TO
- DIFFERENT CUSTOMERS, OR TO DIFFERENT LOCATIONS AT  THE  DIRECTION  OF  A
+ DIGITAL  NETWORK  TO  CONNECT  A  DELIVERY NETWORK COMPANY CUSTOMER TO A
+ DELIVERY NETWORK DRIVER TO PROVIDE DELIVERY SERVICES.
+  (D)  "DELIVERY  NETWORK COMPANY CUSTOMER" OR "CUSTOMER" MEANS A PERSON
+ WHO ORDERS GOODS THAT ARE DELIVERED BY A DELIVERY NETWORK DRIVER AT  THE
+ DIRECTION OF SUCH PERSON.
+  (E)  "DELIVERY  NETWORK  COMPANY SELLER" MEANS A CORPORATION, PARTNER-
+ SHIP, SOLE PROPRIETORSHIP, OR OTHER ENTITY THAT OPERATES IN  THIS  STATE
+ AND USES A DIGITAL NETWORK TO SELL ITS GOODS TO DELIVERY NETWORK COMPANY
+ CUSTOMERS, FOR DELIVERY BY DELIVERY NETWORK DRIVERS, WHICH MAY BE A FOOD
+ SERVICE ESTABLISHMENT.
+  (F)  "DELIVERY  NETWORK DRIVER" MEANS AN INDIVIDUAL WHO PROVIDES INDE-
+ PENDENT DELIVERY SERVICES THROUGH A DIGITAL  NETWORK  USING  A  PERSONAL
+ VEHICLE.
+  (G)  "DELIVERY  SERVICES"  MEANS  THE FULFILLMENT OF DELIVERY REQUESTS
+ MADE BY A CUSTOMER THROUGH A DIGITAL NETWORK, INCLUDING  THE  PICKUP  OF
+ ANY  GOODS  AND  THE  DELIVERY  OF THE GOODS TO A CUSTOMER BY A DELIVERY
+ NETWORK DRIVER. DELIVERY SERVICES MAY INCLUDE A SERIES OF DELIVERIES  TO
+ DIFFERENT  CUSTOMERS,  OR  TO  DIFFERENT LOCATIONS AT THE DIRECTION OF A
  CUSTOMER.
-  (G)"DELIVERY SERVICE PERIOD" MEANS THE PERIOD:
-  (I)  BEGINNING  WHEN  A  DELIVERY  NETWORK  DRIVER  STARTS OPERATING A
- PERSONAL VEHICLE EN ROUTE TO PICK UP GOODS FOR A DELIVERY OR  SERIES  OF
- DELIVERIES  AS DOCUMENTED VIA A DIGITAL NETWORK CONTROLLED BY A DELIVERY
+  (H) "DELIVERY SERVICE PERIOD" MEANS THE PERIOD:
+  (I) BEGINNING WHEN  A  DELIVERY  NETWORK  DRIVER  STARTS  OPERATING  A
+ PERSONAL  VEHICLE  EN ROUTE TO PICK UP GOODS FOR A DELIVERY OR SERIES OF
+ DELIVERIES AS DOCUMENTED VIA A DIGITAL NETWORK CONTROLLED BY A  DELIVERY
  NETWORK COMPANY;
-  (II) CONTINUING WHILE  THE  DELIVERY  NETWORK  DRIVER  TRANSPORTS  THE
+  (II)  CONTINUING  WHILE  THE  DELIVERY  NETWORK  DRIVER TRANSPORTS THE
  REQUESTED DELIVERY OR DELIVERIES; AND
   (III) ENDING UPON DELIVERY OF THE REQUESTED GOODS TO:
   (A) THE DELIVERY NETWORK COMPANY CUSTOMER OR THE LAST DELIVERY NETWORK
- COMPANY  CUSTOMER IN A SERIES OF DELIVERIES  OR TO A LOCATION DESIGNATED
- BY THE DELIVERY NETWORK COMPANY CUSTOMER OR THE LAST LOCATION SO  DESIG-
+ COMPANY CUSTOMER IN A SERIES OF DELIVERIES  OR TO A LOCATION  DESIGNATED
+ BY  THE DELIVERY NETWORK COMPANY CUSTOMER OR THE LAST LOCATION SO DESIG-
  NATED IN A SERIES OF DELIVERIES; OR
-  (B)  A  LOCATION DESIGNATED BY THE DELIVERY NETWORK COMPANY, INCLUDING
+  (B) A LOCATION DESIGNATED BY THE DELIVERY NETWORK  COMPANY,  INCLUDING
  FOR PURPOSES OF RETURNING THE GOODS.
-  (H) "DIGITAL NETWORK" MEANS ANY ONLINE-ENABLED APPLICATION,  SOFTWARE,
- WEBSITE,  OR  SYSTEM  OFFERED  OR UTILIZED BY A DELIVERY NETWORK COMPANY
+  (I)  "DIGITAL NETWORK" MEANS ANY ONLINE-ENABLED APPLICATION, SOFTWARE,
+ WEBSITE, OR SYSTEM OFFERED OR UTILIZED BY  A  DELIVERY  NETWORK  COMPANY
  THAT ENABLES DELIVERIES WITH DELIVERY NETWORK DRIVERS.
-  (I) "Food service establishment" means a place where food is  provided
- for  individual  portion  service  directly to the consumer whether such
- food is provided free of charge or sold, and whether consumption  occurs
+  (J)  "Food service establishment" means a place where food is provided
+ for individual portion service directly to  the  consumer  whether  such
+ food  is provided free of charge or sold, and whether consumption occurs
  on or off the premises or is provided from a pushcart, stand or vehicle.
-  [(c)](J)  "PERSONAL  VEHICLE"  MEANS  A  MOTOR  VEHICLE, A LIMITED USE
+  [(c)](K) "PERSONAL VEHICLE" MEANS A MOTOR VEHICLE  OR  A  LIMITED  USE
  MOTORCYCLE AS DEFINED IN SECTION ONE HUNDRED TWENTY-ONE-B OF THE VEHICLE
- AND TRAFFIC LAW, AN ELECTRIC SCOOTER AS DEFINED IN SECTION  ONE  HUNDRED
- FOURTEEN-E  OF  THE  VEHICLE  AND  TRAFFIC  LAW OR BICYCLE WITH ELECTRIC
- ASSIST AS DEFINED IN SECTION ONE HUNDRED TWO-C OF THE VEHICLE AND  TRAF-
- FIC LAW AND THAT IS:
+ AND TRAFFIC LAW, THAT IS:
   (I)  USED  BY  A DELIVERY NETWORK DRIVER TO PROVIDE DELIVERY SERVICES;
  AND
   (II) OWNED, LEASED, OR OTHERWISE AUTHORIZED FOR USE  BY  THE  DELIVERY
  NETWORK DRIVER.
-  (K)  "Third-party  food  delivery  service"  means any website, mobile
- application or other internet service that offers or  arranges  for  the
- sale  or  delivery  of  food and beverages prepared by, and the same-day
- delivery or same-day pickup of food and beverage from,  a  food  service
+  (L)  "Third-party  food  delivery  service" means any [website, mobile
+ application or other internet service]  DIGITAL NETWORK  OPERATED  BY  A
+ DELIVERY NETWORK COMPANY that offers or arranges for the sale (INCLUDING
+ FOR  SAME-DAY  PICKUP)  or  delivery  (INCLUDING  SAME-DAY  DELIVERY) of
+ PRODUCTS (INCLUDING food and beverages) prepared by, [and  the  same-day
+ delivery  or  same-day pickup of food and beverage from,] a food service
  establishment located in the state.
-  [(d)]  (1)  "Third-party  food  delivery platform" means the online or
- mobile platform of the third-party food  delivery  service  on  which  a
- consumer  can  view products available for sale and place an order for a
- food service establishment's products.
-  2. (a) A third-party food delivery service shall not list,  advertise,
- promote, or sell a food service establishment's products, or arrange for
- the  delivery of an order of such products, on a third-party food deliv-
- ery platform without a valid agreement with the food service  establish-
- ment authorizing the inclusion of their products on such platform.
- S. 6760--A  3
+  [(d)] (M) "Third-party food delivery platform"  means  the  online  or
+ mobile  platform  of  the  third-party  food delivery service on which a
+ S. 6760--B  3
  
+ consumer can view products available for sale and place an order  for  a
+ food service establishment's products.
+  2.  (a) A third-party food delivery service shall not list, advertise,
+ promote, or sell a food service establishment's products, or arrange for
+ the delivery of an order of such products, on a third-party food  deliv-
+ ery  platform without a valid agreement with the food service establish-
+ ment (OR AN AUTHORIZED THIRD-PARTY AGENT OR  DESIGNEE)  authorizing  the
+ inclusion of their products on such platform.
   (b)  An  agreement  executed in accordance with this section shall not
  include a provision, clause, or covenant that requires  a  food  service
  establishment  to  indemnify  a  third-party  food delivery service, any
- independent contractor acting on behalf of the third-party food delivery
- service,  or  any  registered  agent  of  the  third-party food delivery
- service, for any damages or harm by an act or omission  occurring  after
- the food service establishment's product leaves the place of business of
- the food service establishment. To the extent an agreement contains such
- a provision, such provision shall be deemed void and unenforceable.
+ independent contractor [acting on behalf of the]  PROVIDING  INDEPENDENT
+ DELIVERY  SERVICES  third-party food delivery service, or any registered
+ agent of the third-party food delivery service, for any damages or  harm
+ by  an  act or omission occurring after the food service establishment's
+ product leaves the place of business of the food service  establishment.
+ To  the  extent  an  agreement contains such a provision, such provision
+ shall be deemed void and unenforceable.
   (c) A food service establishment included on a third-party food deliv-
- ery  platform in violation of this section shall have the right to bring
+ ery platform in violation of this section shall have the right to  bring
  an action in a court of competent jurisdiction for damages, penalties as
- set forth in this section, and injunctive relief.  Such  court,  in  its
+ set  forth  in  this  section, and injunctive relief. Such court, in its
  discretion, may also award reasonable court costs and attorneys' fees.
-  [(d)]  3. (A) A DELIVERY NETWORK COMPANY SHALL ENSURE THAT, DURING THE
- DELIVERY AVAILABLE PERIOD,  IF  IT  APPLIES,  AND  DURING  THE  DELIVERY
- SERVICE  PERIOD, PRIMARY AUTOMOBILE LIABILITY INSURANCE IS IN PLACE THAT
+  [(d)] 3. (A) A DELIVERY NETWORK COMPANY SHALL ENSURE THAT, DURING  THE
+ DELIVERY  AVAILABLE  PERIOD,  IF  IT  APPLIES,  AND  DURING THE DELIVERY
+ SERVICE PERIOD, PRIMARY AUTOMOBILE LIABILITY INSURANCE IS IN PLACE  THAT
  RECOGNIZES THAT THE DRIVER IS A DELIVERY NETWORK DRIVER OR THAT DOES NOT
  EXCLUDE COVERAGE FOR USE OF A PERSONAL VEHICLE TO PROVIDE DELIVERIES.
-  (B) DURING THE DELIVERY SERVICE PERIOD AND DELIVERY AVAILABLE  PERIOD,
- THE  DELIVERY  NETWORK DRIVER, DELIVERY NETWORK COMPANY, OR ANY COMBINA-
+  (B)  DURING THE DELIVERY SERVICE PERIOD AND DELIVERY AVAILABLE PERIOD,
+ THE DELIVERY NETWORK DRIVER, DELIVERY NETWORK COMPANY, OR  ANY  COMBINA-
  TION OF THE TWO SHALL MAINTAIN A MOTOR VEHICLE LIABILITY INSURANCE POLI-
- CY THAT PROVIDES THE COVERAGE REQUIRED UNDER ARTICLE FIFTY-THREE OF  THE
- INSURANCE  LAW DURING THE DELIVERY AVAILABLE PERIOD AND DELIVERY SERVICE
+ CY  THAT PROVIDES THE COVERAGE REQUIRED UNDER ARTICLE FIFTY-THREE OF THE
+ INSURANCE LAW DURING THE DELIVERY AVAILABLE PERIOD AND DELIVERY  SERVICE
  PERIOD IN AMOUNTS NOT LESS THAN:
   (I) FOR BODILY INJURY AND PROPERTY DAMAGE TO THIRD PARTIES:
-  (A) FIFTY THOUSAND DOLLARS ($50,000)  OR  THE  AMOUNT  REQUIRED  UNDER
- PARAGRAPH  ONE OF SUBSECTION (A) OF SECTION FIFTY-THREE HUNDRED THREE OF
- THE INSURANCE LAW, WHICHEVER IS GREATER, FOR ALL DAMAGES ARISING OUT  OF
- BODILY  INJURY  SUSTAINED BY ANY ONE PERSON AS A RESULT OF ANY ONE ACCI-
- DENT;
-  (B) ONE HUNDRED THOUSAND DOLLARS ($100,000)  OR  THE  AMOUNT  REQUIRED
- UNDER  PARAGRAPH  ONE  OF  SUBSECTION (A) OF SECTION FIFTY-THREE HUNDRED
- THREE OF THE INSURANCE LAW, WHICHEVER IS GREATER, FOR ALL DAMAGES  ARIS-
- ING  OUT  OF  BODILY  INJURY SUSTAINED BY ALL PERSONS AS A RESULT OF ANY
- ONE ACCIDENT; AND
-  (C) TWENTY-FIVE THOUSAND DOLLARS  ($25,000)  OR  THE  AMOUNT  REQUIRED
- UNDER  PARAGRAPH  TWO  OF  SUBSECTION (A) OF SECTION FIFTY-THREE HUNDRED
- THREE OF THE INSURANCE LAW, WHICHEVER IS GREATER, FOR ALL DAMAGES  ARIS-
- ING  OUT  OF DAMAGE TO OR DESTRUCTION OF PROPERTY AS A RESULT OF ANY ONE
- ACCIDENT.
+  (A)  FIFTY  THOUSAND  DOLLARS  ($50,000)  OR THE AMOUNT REQUIRED UNDER
+ PARAGRAPH ONE OF SUBSECTION (A) OF SECTION FIVE THOUSAND  THREE  HUNDRED
+ THREE  OF THE INSURANCE LAW, WHICHEVER IS GREATER, FOR ALL DAMAGES ARIS-
+ ING OUT OF BODILY INJURY SUSTAINED BY ANY ONE PERSON AS A RESULT OF  ANY
+ ONE ACCIDENT;
+  (B)  ONE  HUNDRED  THOUSAND  DOLLARS ($100,000) OR THE AMOUNT REQUIRED
+ UNDER PARAGRAPH ONE OF SUBSECTION (A) OF  SECTION  FIVE  THOUSAND  THREE
+ HUNDRED  THREE  OF  THE  INSURANCE  LAW,  WHICHEVER  IS GREATER, FOR ALL
+ DAMAGES ARISING OUT OF BODILY INJURY  SUSTAINED  BY  ALL  PERSONS  AS  A
+ RESULT OF ANY  ONE ACCIDENT; AND
+  (C)  TWENTY-FIVE  THOUSAND  DOLLARS  ($25,000)  OR THE AMOUNT REQUIRED
+ UNDER PARAGRAPH TWO OF SUBSECTION (A) OF  SECTION  FIVE  THOUSAND  THREE
+ HUNDRED  THREE  OF  THE  INSURANCE  LAW,  WHICHEVER  IS GREATER, FOR ALL
+ DAMAGES ARISING OUT OF DAMAGE TO OR DESTRUCTION OF PROPERTY AS A  RESULT
+ OF ANY ONE  ACCIDENT.
   (II) FOR BASIC REPARATION BENEFITS, THE AMOUNT SET FORTH IN PARAGRAPHS
- THREE AND FOUR OF SUBSECTION (A) OF SECTION FIFTY-THREE HUNDRED THREE OF
- THE INSURANCE LAW.
+ THREE  AND FOUR OF SUBSECTION (A) OF SECTION FIVE THOUSAND THREE HUNDRED
+ THREE OF THE INSURANCE LAW.
   (C) IF THE INSURANCE COVERAGE MAINTAINED BY A DELIVERY NETWORK  DRIVER
  IN ACCORDANCE WITH PARAGRAPHS (A) AND (B) OF THIS SUBDIVISION HAS LAPSED
+ S. 6760--B  4
+ 
  OR  DOES  NOT PROVIDE THE REQUIRED COVERAGE, INSURANCE MAINTAINED BY THE
  DELIVERY NETWORK COMPANY SHALL:
-  (I) PROVIDE THE COVERAGE REQUIRED BY PARAGRAPHS (A) AND  (B)  OF  THIS
+  (I)  PROVIDE  THE  COVERAGE REQUIRED BY PARAGRAPHS (A) AND (B) OF THIS
  SUBDIVISION BEGINNING WITH THE FIRST DOLLAR OF A CLAIM; AND
-  (II)  HAVE THE DUTY TO DEFEND A CLAIM MADE UNDER THE COVERAGE PROVIDED
+  (II) HAVE THE DUTY TO DEFEND A CLAIM MADE UNDER THE COVERAGE  PROVIDED
  UNDER PARAGRAPH (B) OF THIS SUBDIVISION.
-  (D) COVERAGE UNDER AN AUTOMOBILE INSURANCE POLICY  MAINTAINED  BY  THE
+  (D)  COVERAGE  UNDER  AN AUTOMOBILE INSURANCE POLICY MAINTAINED BY THE
  DELIVERY NETWORK COMPANY SHALL NOT BE DEPENDENT UPON ANOTHER MOTOR VEHI-
- CLE  LIABILITY  INSURER  FIRST  DENYING A CLAIM, NOR SHALL ANOTHER MOTOR
+ CLE LIABILITY INSURER FIRST DENYING A CLAIM,  NOR  SHALL  ANOTHER  MOTOR
  VEHICLE LIABILITY INSURANCE POLICY BE REQUIRED TO FIRST DENY A CLAIM.
- S. 6760--A  4
- 
-  (E) INSURANCE COVERAGE REQUIRED BY THIS SECTION MAY BE  OBTAINED  FROM
+  (E)  INSURANCE  COVERAGE REQUIRED BY THIS SECTION MAY BE OBTAINED FROM
  AN INSURANCE COMPANY DULY LICENSED TO TRANSACT BUSINESS UNDER THE INSUR-
- ANCE  LAWS  OF THIS STATE OR BY AN ELIGIBLE EXCESS LINES BROKER LICENSED
- UNDER SECTION TWO THOUSAND ONE HUNDRED FIVE OF THE INSURANCE LAW.
+ ANCE LAWS OF THIS STATE OR BY AN ELIGIBLE EXCESS LINES  BROKER  LICENSED
+ UNDER  SECTION  TWO  THOUSAND  ONE  HUNDRED  FIVE  OF THE INSURANCE LAW.
+ INSURANCE COVERAGE REQUIRED BY THIS SECTION MAY BE  OBTAINED  THROUGH  A
+ GROUP POLICY MAINTAINED BY THE DELIVERY NETWORK COMPANY.
   (F)  THE  COVERAGE REQUIRED PURSUANT TO PARAGRAPHS (A) AND (B) OF THIS
  SUBDIVISION SHALL BE DEEMED  TO  MEET  THE  REQUIREMENTS  FOR  FINANCIAL
  RESPONSIBILITY UNDER THE VEHICLE AND TRAFFIC LAW.
@@ -221,22 +233,31 @@ S T A T E  O F  N E W  Y O R K
  ENDED  AND THE DELIVERY NETWORK COMPANY DOES NOT HAVE AVAILABLE, DID NOT
  RETAIN, OR FAILS TO PROVIDE THE INFORMATION REQUIRED BY PARAGRAPH (H) OF
  THIS SUBDIVISION.
-  4. (A) A DELIVERY NETWORK COMPANY SHALL  NOT  BE  DEEMED  TO  CONTROL,
- DIRECT,  OR  MANAGE  A  PERSONAL VEHICLE OR DELIVERY NETWORK DRIVER THAT
- CONNECTS TO THE COMPANY'S DIGITAL NETWORK, EXCEPT  WHERE  AGREED  TO  BY
- WRITTEN CONTRACT.
-  (B)  A  DELIVERY  NETWORK  COMPANY SHALL NOT PERMIT A DELIVERY NETWORK
- DRIVER TO ENGAGE IN DELIVERY SERVICES ON THE COMPANY'S  DIGITAL  NETWORK
- UNTIL THE COMPANY DISCLOSES IN WRITING TO THE DRIVER:
-  (I)  THE  INSURANCE  COVERAGE, INCLUDING THE TYPES OF COVERAGE AND THE
- LIMITS FOR EACH COVERAGE, THAT THE COMPANY  PROVIDES  WHILE  THE  DRIVER
- USES  A  PERSONAL  VEHICLE  IN  CONNECTION  WITH  THE  COMPANY'S DIGITAL
- NETWORK; AND
-  (II) THAT THE DRIVER'S OWN MOTOR VEHICLE  LIABILITY  INSURANCE  POLICY
- MIGHT  NOT  PROVIDE  ANY COVERAGE DURING A DELIVERY AVAILABLE PERIOD, IF
- APPLICABLE, OR A DELIVERY SERVICE PERIOD.
- S. 6760--A  5
+  (J) A DELIVERY NETWORK COMPANY SHALL ALSO MAINTAIN COMMERCIAL  GENERAL
+ LIABILITY INSURANCE WITH A LIMIT OF NO LESS THAN ONE MILLION DOLLARS FOR
+ EACH OCCURRENCE AND TWO MILLION DOLLARS AGGREGATE THAT INCLUDES COVERAGE
+ S. 6760--B  5
  
+ FOR THE DELIVERY NETWORK COMPANY'S LIABILITY FOR INJURIES ARISING OUT OF
+ THE  USE OF AN ELECTRIC SCOOTER, AS DEFINED IN SECTION ONE HUNDRED FOUR-
+ TEEN-E OF THE VEHICLE AND TRAFFIC LAW, OR BICYCLE WITH ELECTRIC  ASSIST,
+ AS DEFINED IN SECTION ONE HUNDRED TWO-C OF THE VEHICLE AND TRAFFIC LAW.
+  4.  (A)  A  DELIVERY  NETWORK  COMPANY SHALL NOT BE DEEMED TO CONTROL,
+ DIRECT, OR MANAGE A PERSONAL VEHICLE OR  DELIVERY  NETWORK  DRIVER  THAT
+ CONNECTS  TO  THE  COMPANY'S  DIGITAL NETWORK, EXCEPT WHERE AGREED TO BY
+ WRITTEN CONTRACT.
+  (B) A DELIVERY NETWORK COMPANY SHALL NOT  PERMIT  A  DELIVERY  NETWORK
+ DRIVER  TO  ENGAGE IN DELIVERY SERVICES ON THE COMPANY'S DIGITAL NETWORK
+ UNTIL THE COMPANY DISCLOSES IN WRITING TO THE DRIVER:
+  (I) THE INSURANCE COVERAGE, INCLUDING THE TYPES OF  COVERAGE  AND  THE
+ LIMITS  FOR  EACH  COVERAGE,  THAT THE COMPANY PROVIDES WHILE THE DRIVER
+ USES A  PERSONAL  VEHICLE  IN  CONNECTION  WITH  THE  COMPANY'S  DIGITAL
+ NETWORK; AND
+  (II)  THAT  THE  DRIVER'S OWN MOTOR VEHICLE LIABILITY INSURANCE POLICY
+ MIGHT NOT PROVIDE ANY COVERAGE DURING A DELIVERY  AVAILABLE  PERIOD,  IF
+ APPLICABLE, OR A DELIVERY SERVICE PERIOD.
+  (C)  A  DELIVERY  NETWORK  COMPANY HAS NO DISCLOSURE OBLIGATION TO ANY
+ PERSON WHICH IS NOT EXPRESSLY MANDATED BY THIS SUBDIVISION.
   5. (A) NOTHING IN SUBDIVISION THREE OR FOUR OF THIS SECTION  SHALL  BE
  CONSTRUED TO:
   (I)  INVALIDATE  OR  LIMIT  AN  EXCLUSION CONTAINED IN A MOTOR VEHICLE
@@ -254,16 +275,17 @@ S T A T E  O F  N E W  Y O R K
  CONFLICT  BETWEEN  SUBDIVISION THREE OR FOUR OF THIS SECTION AND ANOTHER
  LAW DEALING WITH THE DELIVERY OR  TRANSPORT  OF  GOODS,  THE  OTHER  LAW
  PREVAILS.
-  6.  Any  person  that  violates any provision of this section shall be
- subject to a civil penalty of up to one thousand dollars per  violation,
- EXCEPT  THAT  THE  THIRD-PARTY  FOOD  DELIVERY SERVICE SHALL BE THE SOLE
- LIABLE PARTY FOR VIOLATIONS OF SUBDIVISION THREE OF THIS SECTION.  Each
- day  a  food  service  establishment  is  included on a third-party food
- delivery platform and each food  service  establishment  included  on  a
- third-party  food  delivery  platform  shall  be  considered  a separate
- violation. EACH  DELIVERY  BEGUN  OR  COMPLETED  WITHOUT  THE  FINANCIAL
- RESPONSIBILITY  REQUIREMENTS  REQUIRED  BY  SUBDIVISION  THREE  OF  THIS
- SECTION SHALL BE CONSIDERED A SEPARATE VIOLATION.
+  6.  (A) Any person that KNOWINGLY violates [any provision] SUBDIVISION
+ TWO of this section shall be subject to a civil penalty  of  up  to  one
+ thousand  dollars  per  violation.  Each  day [a] THAT EACH food service
+ establishment is included on a third-party food delivery  platform  [and
+ each  food service establishment included on a third-party food delivery
+ platform] shall be considered a separate violation.
+  (B) THE THIRD-PARTY DELIVERY SERVICE THAT VIOLATES  SUBDIVISION  THREE
+ OF  THIS  SECTION SHALL BE SUBJECT TO A CIVIL PENALTY OF UP TO ONE THOU-
+ SAND DOLLARS PER VIOLATION.  EACH DELIVERY BEGUN  OR  COMPLETED  WITHOUT
+ THE  FINANCIAL RESPONSIBILITY REQUIREMENTS REQUIRED BY SUBDIVISION THREE
+ OF THIS SECTION SHALL BE CONSIDERED A SEPARATE VIOLATION.
   § 2. The insurance law is amended by adding a new  section  3459-a  to
  read as follows:
   §  3459-A.  DELIVERY  SERVICE  EXCLUSIONS  FOR MOTOR VEHICLE INSURANCE
@@ -272,6 +294,8 @@ S T A T E  O F  N E W  Y O R K
   (B)  NOTWITHSTANDING  ANY  OTHER  PROVISION OF LAW TO THE CONTRARY, AN
  AUTHORIZED INSURER THAT WRITES MOTOR VEHICLE LIABILITY INSURANCE IN  THE
  STATE  MAY EXCLUDE ANY AND ALL COVERAGE AND THE DUTY TO DEFEND OR INDEM-
+ S. 6760--B  6
+ 
  NIFY FOR ANY INJURY OR LOSS THAT OCCURS DURING  THE  DELIVERY  AVAILABLE
  PERIOD AND THE DELIVERY SERVICE PERIOD, INCLUDING BUT NOT LIMITED TO:
   (1) LIABILITY COVERAGE FOR BODILY INJURY AND PROPERTY DAMAGE;
@@ -293,16 +317,310 @@ S T A T E  O F  N E W  Y O R K
  ER'S  ABILITY  UNDER  EXISTING  LAW  TO UNDERWRITE ANY INSURANCE POLICY.
  NOTHING IN THIS SECTION INVALIDATES, LIMITS OR  RESTRICTS  AN  INSURER'S
  ABILITY UNDER EXISTING LAW TO CANCEL AND NON-RENEW POLICIES.
- S. 6760--A  6
- 
   (F)  A  MOTOR  VEHICLE LIABILITY INSURER THAT DEFENDS OR INDEMNIFIES A
  CLAIM AGAINST A DELIVERY NETWORK DRIVER THAT IS EXCLUDED UNDER THE TERMS
  OF ITS POLICY SHALL HAVE THE RIGHT TO SEEK RECOVERY AGAINST THE  INSURER
- PROVIDING  COVERAGE  UNDER PARAGRAPHS(A) AND (B) OF SUBDIVISION THREE OF
- SECTION  THREE  HUNDRED  NINETY-ONE-V OF THE GENERAL BUSINESS LAW IF THE
+ PROVIDING  COVERAGE UNDER PARAGRAPHS (A) AND (B) OF SUBDIVISION THREE OF
+ SECTION THREE HUNDRED NINETY-ONE-V OF THE GENERAL BUSINESS  LAW  IF  THE
  CLAIM:
-  (I) OCCURS DURING  THE  DELIVERY  AVAILABLE  PERIOD  OR  THE  DELIVERY
+  (I)  OCCURS  DURING  THE  DELIVERY  AVAILABLE  PERIOD  OR THE DELIVERY
  SERVICE PERIOD; AND
   (II) IS EXCLUDED UNDER THE TERMS OF ITS POLICY.
-  §  3. This act shall take effect one year after it shall have become a
+  § 3. Section 3455 of the insurance law, as added by section 6 of  part
+ AAA of chapter 59 of the laws of 2017, is amended to read as follows:
+  §  3455.  Transportation network company group insurance policies. (a)
+ For purposes of this section, the following definitions shall apply:
+  (1) "Transportation network company" shall have the  same  meaning  as
+ set forth in article forty-four-B of the vehicle and traffic law.
+  (2)  "Certificate"  or  "certificate  of  insurance" means any policy,
+ contract or other evidence of insurance, or endorsement thereto,  issued
+ to a group member under a transportation network company group policy OR
+ A DELIVERY NETWORK COMPANY GROUP POLICY.
+  (3)  "Transportation  network  company group policy" or "group policy"
+ means a  group  policy,  including  certificates  issued  to  the  group
+ members, where the group policyholder is a transportation network compa-
+ ny  and  the  policy  provides  insurance  to the transportation network
+ company and to group members:
+  (A) in accordance with the requirements of article forty-four-B of the
+ vehicle and traffic law;
+  (B) of the type described in paragraph thirteen, fourteen, or nineteen
+ of subsection (a) of section one thousand one hundred thirteen  of  this
+ chapter; and
+  (C)  in  satisfaction of the financial responsibility requirements set
+ forth in section three thousand four hundred  twenty  of  this  article,
+ subdivision  four  of  section  three  hundred eleven of the vehicle and
+ traffic law, article fifty-one of this chapter, and such other  require-
+ ments  or  regulations that may apply for the purposes of satisfying the
+ S. 6760--B  7
+ 
+ financial responsibility requirements with respect to the use or  opera-
+ tion of a motor vehicle.
+  (4)  "Group  member"  means a transportation network company driver as
+ defined in article forty-four-B of the vehicle and traffic law, AND/OR A
+ DELIVERY NETWORK DRIVER AS DEFINED IN SECTION THREE HUNDRED NINETY-ONE-V
+ OF THE GENERAL BUSINESS LAW.
+  (5) "Group policyholder"  means  a  transportation  network  company
+ AND/OR A DELIVERY NETWORK COMPANY.
+  (6)  "TNC  vehicle" shall have the meaning set forth in article forty-
+ four-B of the vehicle and traffic law.
+  (7) "DELIVERY NETWORK COMPANY" SHALL HAVE  THE  SAME  MEANING  AS  SET
+ FORTH IN SECTION THREE HUNDRED NINETY-ONE-V OF THE GENERAL BUSINESS LAW.
+  (8)  "DELIVERY  NETWORK  COMPANY  GROUP  POLICY" MEANS A GROUP POLICY,
+ INCLUDING CERTIFICATES ISSUED TO THE  GROUP  MEMBERS,  WHERE  THE  GROUP
+ POLICYHOLDER  IS  A  DELIVERY  NETWORK  COMPANY  AND THE POLICY PROVIDES
+ INSURANCE TO THE DELIVERY NETWORK COMPANY AND TO GROUP MEMBERS:
+  (A) IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION THREE HUNDRED NINE-
+ TY-ONE-V OF THE GENERAL BUSINESS LAW;
+  (B) OF THE TYPE DESCRIBED IN PARAGRAPH THIRTEEN, FOURTEEN, OR NINETEEN
+ OF SUBSECTION (A) OF SECTION ONE THOUSAND ONE HUNDRED THIRTEEN  OF  THIS
+ CHAPTER; AND
+  (C)  IN  SATISFACTION OF THE FINANCIAL RESPONSIBILITY REQUIREMENTS SET
+ FORTH IN SECTION THREE THOUSAND FOUR HUNDRED  TWENTY  OF  THIS  ARTICLE,
+ SUBDIVISION  FOUR  OF  SECTION  THREE  HUNDRED ELEVEN OF THE VEHICLE AND
+ TRAFFIC LAW, ARTICLE FIFTY-ONE OF THIS CHAPTER, AND SUCH OTHER  REQUIRE-
+ MENTS  OR  REGULATIONS THAT MAY APPLY FOR THE PURPOSES OF SATISFYING THE
+ FINANCIAL RESPONSIBILITY REQUIREMENTS WITH RESPECT TO THE USE OR  OPERA-
+ TION OF A MOTOR VEHICLE.
+  (9)  "PERSONAL  VEHICLE"  SHALL  HAVE THE MEANING SET FORTH IN SECTION
+ THREE HUNDRED NINETY-ONE-V OF THE GENERAL BUSINESS LAW.
+  (10) "GROUP POLICY" MEANS A TRANSPORTATION NETWORK COMPANY GROUP POLI-
+ CY AND/OR A DELIVERY NETWORK COMPANY GROUP POLICY.
+  (b) An insurer may issue or issue for delivery in this state a  trans-
+ portation  network  company  group  policy  to  a transportation network
+ company, OR A DELIVERY  NETWORK  COMPANY  GROUP  POLICY  TO  A  DELIVERY
+ NETWORK  COMPANY,  as  a  group policyholder only in accordance with the
+ provisions of this section.
+  (c)(1) A transportation network company  group  policy  shall  provide
+ coverage  for a TNC vehicle in accordance with the requirements of arti-
+ cle forty-four-B of the vehicle and traffic law.
+  (2) A transportation network company group policy may provide:
+  (A) coverage for limits higher than the minimum limits required pursu-
+ ant to article forty-four-B of the vehicle and traffic law.
+  (B) supplementary uninsured/underinsured motorists insurance for bodi-
+ ly injury pursuant to paragraph two of subsection (f) of  section  three
+ thousand four hundred twenty of this article;
+  (C)  supplemental  spousal  liability insurance pursuant to subsection
+ (g) of section three thousand four  hundred  twenty  of  this  [chapter]
+ ARTICLE; and
+  (D)  motor  vehicle physical damage coverage as described in paragraph
+ nineteen of subsection (a) of section one thousand one hundred  thirteen
+ of this chapter.
+  (3) A DELIVERY NETWORK COMPANY GROUP POLICY SHALL PROVIDE COVERAGE FOR
+ A  PERSONAL VEHICLE IN ACCORDANCE WITH THE REQUIREMENTS OF SECTION THREE
+ HUNDRED NINETY-ONE-V OF THE GENERAL BUSINESS LAW.
+  (4) A DELIVERY NETWORK COMPANY GROUP POLICY MAY PROVIDE:
+ S. 6760--B  8
+ 
+  (A) COVERAGE FOR LIMITS HIGHER THAN THE MINIMUM LIMITS REQUIRED PURSU-
+ ANT TO SECTION THREE HUNDRED NINETY-ONE-V OF THE GENERAL BUSINESS LAW.
+  (B) SUPPLEMENTARY UNINSURED/UNDERINSURED MOTORISTS INSURANCE FOR BODI-
+ LY  INJURY  PURSUANT TO PARAGRAPH TWO OF SUBSECTION (F) OF SECTION THREE
+ THOUSAND FOUR HUNDRED TWENTY OF THIS ARTICLE;
+  (C) SUPPLEMENTAL SPOUSAL LIABILITY INSURANCE  PURSUANT  TO  SUBSECTION
+ (G) OF SECTION THREE THOUSAND FOUR HUNDRED TWENTY OF THIS ARTICLE; AND
+  (D)  MOTOR  VEHICLE PHYSICAL DAMAGE COVERAGE AS DESCRIBED IN PARAGRAPH
+ NINETEEN OF SUBSECTION (A) OF SECTION ONE THOUSAND ONE HUNDRED  THIRTEEN
+ OF THIS CHAPTER.
+  (5) The coverage described in paragraphs one [and two] THROUGH FOUR of
+ this subsection may be provided in one group policy or in separate group
+ policies.
+  [(4)]  (6)  A  transportation  network company group policy, including
+ certificates, OR A DELIVERY  NETWORK  COMPANY  GROUP  POLICY,  INCLUDING
+ CERTIFICATES, shall be issued by authorized insurers or from excess line
+ brokers  pursuant  to  section sixteen [six] hundred ninety-three of the
+ vehicle and traffic law.
+  [(5)] (7) A policyholder also may be an insured under a group policy.
+  (d) The premium for the transportation network company group policy OR
+ THE DELIVERY NETWORK COMPANY GROUP POLICY, including certificates may be
+ paid by the group policyholder from the funds contributed:
+  (1) wholly by the group policyholder;
+  (2) wholly by the group members; or
+  (3) jointly by the group policyholder and the group members.
+  (e) (1) Any policy dividend, retrospective premium credit,  or  retro-
+ spective premium refund in respect of premiums paid by the group policy-
+ holder may:
+  (A) be applied to reduce the premium contribution of the group policy-
+ holder, but not in excess of the proportion to its contribution; or
+  (B) be retained by the group policyholder.
+  (2)  Any  policy dividend, retrospective premium credit, or retrospec-
+ tive  premium  refund  not  distributed  under  paragraph  one  of  this
+ subsection shall be:
+  (A)  applied  to  reduce  future  premiums  and,  accordingly,  future
+ contributions, of existing or future group members, or both; or
+  (B) paid or refunded to those group members insured on  the  date  the
+ payment  or  refund is made to the group policyholder, if distributed by
+ the group policyholder, or  on  the  date  of  mailing,  if  distributed
+ directly by the insurer, subject to the following requirements:
+  (i) The insurer shall be responsible for determining the allocation of
+ the payment of refund to the group members;
+  (ii)  If the group policyholder distributes the payment or refund, the
+ insurer shall be responsible for audit to ascertain that the payment  or
+ refund is actually made in accordance with the allocation procedure; and
+  (iii)  If  the group policyholder fails to make the payment or refund,
+ the insurer shall make the payment or refund directly or use the  method
+ provided in subparagraph (A) of this paragraph.
+  (3)  Notwithstanding  paragraphs  one and two of this subsection, if a
+ dividend accrues upon termination of  coverage  under  a  transportation
+ network  company  group policy OR DELIVERY NETWORK COMPANY GROUP POLICY,
+ the premium for which was paid out of funds contributed by group members
+ specifically for the coverage, the dividend shall be paid or refunded by
+ the group policyholder to the group members  insured  on  the  date  the
+ payment  or  refund is made to the group policyholder, net of reasonable
+ S. 6760--B  9
+ 
+ expenses incurred by the group policyholder in paying or  refunding  the
+ dividend to such group members.
+  (4)  For the purposes of this subsection, "dividend" means a return by
+ the insurer of a transportation network company group policy OR DELIVERY
+ NETWORK COMPANY GROUP POLICY of excess premiums to the group policyhold-
+ er in light of favorable loss experience, including retrospective premi-
+ um credits or retrospective premium refunds. The  term  "dividend"  does
+ not  include  reimbursements or fees received by a group policyholder in
+ connection with the operation  or  administration  of  a  transportation
+ network  company  group policy OR DELIVERY NETWORK COMPANY GROUP POLICY,
+ including administrative reimbursements, fees for services  provided  by
+ the group policyholder, or transactional service fees.
+  (f)  The insurer shall treat in like manner all eligible group members
+ of the same class and status.
+  (g) Each policy written pursuant to this  section  shall  provide  per
+ occurrence  limits  of  coverage  for each group member in an amount not
+ less than that required by this article, and may  provide  coverage  for
+ limits higher than the minimum limits required under the law.
+  (h)  (1) The insurer shall be responsible for mailing or delivery of a
+ certificate of insurance to each group member insured under  the  trans-
+ portation network company group policy OR DELIVERY NETWORK COMPANY GROUP
+ POLICY,  provided, however, that the insurer may delegate the mailing or
+ delivery to the  transportation  network  company  OR  DELIVERY  NETWORK
+ COMPANY.  The  insurer  shall  also  be responsible for the mailing or
+ delivery to each group member of an amended certificate of insurance  or
+ endorsement  to  the  certificate, whenever there is a change in limits;
+ change in type of  coverage;  addition,  reduction,  or  elimination  of
+ coverage;  or  addition  of  exclusion, under the transportation network
+ company group policy or certificate  OR  THE  DELIVERY  NETWORK  COMPANY
+ GROUP POLICY OR CERTIFICATE.
+  (2)  The certificate shall contain in substance all material terms and
+ conditions of coverage afforded to group members, unless the transporta-
+ tion network company group policy  OR  DELIVERY  NETWORK  COMPANY  GROUP
+ POLICY  is  incorporated  by  reference  and  a copy of the group policy
+ accompanies the certificate.
+  (3) If any coverage afforded to the group member is excess of applica-
+ ble insurance coverage, the certificate shall contain a notice  advising
+ the  group  members  that,  if  the member has other insurance coverage,
+ specified coverages under the transportation network company group poli-
+ cy OR DELIVERY NETWORK COMPANY GROUP POLICY  will  be  excess  over  the
+ other insurance.
+  (i)  A  group policyholder shall comply with the provisions of section
+ two thousand one hundred twenty-two of this chapter, in the same  manner
+ as  an  agent or broker, in any advertisement, sign, pamphlet, circular,
+ card, or other public announcement referring to coverage under a  trans-
+ portation  network  company  group  policy  or  certificate  OR DELIVERY
+ NETWORK COMPANY GROUP POLICY OR CERTIFICATE.
+  (j) A transportation network company group policy OR DELIVERY  NETWORK
+ COMPANY GROUP POLICY shall not be subject to section three thousand four
+ hundred twenty-five or section three thousand four hundred twenty-six of
+ this  article; provided that the following requirements shall apply with
+ regard to termination of coverage:
+  (1)(A) An insurer may terminate a group policy or certificate only  if
+ cancellation is based on one or more of the reasons set forth in subpar-
+ agraph (A) through (D) or (F) through (H) of paragraph one of subsection
+ (c)  of  section three thousand four hundred twenty-six of this article;
+ S. 6760--B  10
+ 
+ provided, however, that an act or omission by a group member that  would
+ constitute the basis for cancellation of an individual certificate shall
+ not constitute the basis for cancellation of the group policy.
+  (B)  Where the premium is derived wholly from funds contributed by the
+ group policyholder, an insurer may cancel an individual certificate only
+ if cancellation is based on one or more of  the  reasons  set  forth  in
+ subparagraph  (B),  (C)  or  (H)  of  paragraph one of subsection (c) of
+ section three thousand four hundred twenty-six of this article.
+  (2) (A) An insurer's cancellation of a  group  policy,  including  all
+ certificates,  shall  not  become  effective until thirty days after the
+ insurer mails or delivers written notice of cancellation  to  the  group
+ policyholder at the mailing address shown in the policy.
+  (i) Where all or part of the premium is derived from funds contributed
+ by  the  group  member  specifically for the coverage, the insurer shall
+ also mail or deliver written notice of cancellation of the group  policy
+ to  the group member at the group member's mailing address. Such cancel-
+ lation shall not become effective until thirty days  after  the  insurer
+ mails or delivers the written notice to the group member.
+  (ii)  Where none of the premium is derived from funds contributed by a
+ group member specifically for the  coverage,  the  group  policy  holder
+ shall  mail  or  deliver written notice to the group member advising the
+ group member of the cancellation of the group policy and  the  effective
+ date  of cancellation. The group policy holder shall mail or deliver the
+ written notice within ninety days after receiving notice of cancellation
+ from the insurer.
+  (B) An insurer's cancellation of an individual certificate  shall  not
+ become  effective  until thirty days after the insurer mails or delivers
+ written notice of cancellation to the group member at the group member's
+ mailing address and to the group policyholder  at  the  mailing  address
+ shown in the group policy.
+  (3)  (A) A group policyholder may cancel a group policy, including all
+ certificates, or any individual certificate, for any reason upon  thirty
+ days written notice to the insurer and each group member; and
+  (B)  The  group  policyholder  shall mail or deliver written notice to
+ each affected group member of the group policyholder's  cancellation  of
+ the  group policy or certificate and the effective date of cancellation.
+ The group policyholder shall mail or deliver the written notice  to  the
+ group  member's mailing address at least thirty days prior to the effec-
+ tive date of cancellation.
+  (4) (A) Unless a group policy provides for a longer policy period, the
+ policy and all certificates shall be issued or renewed  for  a  one-year
+ policy period.
+  (B) The group policyholder shall be entitled to renew the group policy
+ and  all  certificates  upon timely payment of the premium billed to the
+ group policyholder for the renewal, unless:
+  (i) the insurer mails or delivers to the group  policyholder  and  all
+ group members written notice of nonrenewal, or conditional renewal; and
+  (ii) the insurer mails or delivers the written notice at least thirty,
+ but  not  more than one hundred twenty days prior to the expiration date
+ specified in the policy or, if no date is specified, the  next  anniver-
+ sary date of the policy.
+  (5) Where the group policyholder nonrenews the group policy, the group
+ policyholder  shall  mail or deliver written notice to each group member
+ advising the group member of nonrenewal of  the  group  policy  and  the
+ effective  date  of  nonrenewal.  The  group  policyholder shall mail or
+ deliver written notice at least thirty days prior to the nonrenewal.
+ S. 6760--B  11
+ 
+  (6) Every notice of cancellation, nonrenewal, or  conditional  renewal
+ shall  set forth the specific reason or reasons for cancellation, nonre-
+ newal, or conditional renewal.
+  (7) (A) An insurer shall not be required under this subsection to give
+ notice  to  a group member if the insurer has been advised by either the
+ group policyholder or another insurer that substantially similar  cover-
+ age has been obtained from the other insurer without lapse of coverage.
+  (B)  A  group policyholder shall not be required under this subsection
+ to give notice to a group member if substantially similar  coverage  has
+ been obtained from another insurer without lapse of coverage.
+  (8)  (A)  If, prior to the effective date of cancellation, nonrenewal,
+ or conditional renewal of the group policy, or  a  certificate,  whether
+ initiated  by  the insurer, group policyholder or by the group member in
+ regard to the group member's certificate, coverage attaches pursuant  to
+ the  terms of a group policy, then the coverage shall be effective until
+ expiration of the applicable period of coverage provided  in  the  group
+ policy  notwithstanding  the  cancellation,  nonrenewal  or  conditional
+ nonrenewal of the group policy.
+  (B) Notwithstanding subparagraph (A) of this paragraph, an insurer may
+ terminate coverage under an individual certificate on the effective date
+ of cancellation, if the certificate is cancelled in accordance with  the
+ provisions of subparagraph (B) of paragraph one of this subsection.
+  (k)  Any  mailing  or delivery to a group member required or permitted
+ under this section may be made by electronic mail  if  consent  to  such
+ method of delivery has been previously received from such group member.
+  (l)  (1)  An  insurer may issue a transportation network company group
+ policy to a transportation network company, notwithstanding that it  may
+ be  a  condition  of  operating  a vehicle on the transportation network
+ company's digital network for the TNC  driver  to  participate  in  such
+ group policy.
+  (2)  AN INSURER MAY ISSUE A DELIVERY NETWORK COMPANY GROUP POLICY TO A
+ DELIVERY NETWORK COMPANY, NOTWITHSTANDING THAT IT MAY BE A CONDITION  OF
+ OPERATING  A  VEHICLE  ON THE DELIVERY NETWORK COMPANY'S DIGITAL NETWORK
+ FOR THE DELIVERY NETWORK DRIVER TO PARTICIPATE IN SUCH GROUP POLICY.
+  (m) An insurer shall not include a mandatory arbitration clause  in  a
+ policy  that  provides  financial  responsibility  coverage  under  this
+ section except as permitted in section five thousand one hundred five of
+ [the insurance law] THIS CHAPTER.
+  § 4. This act shall take effect one year after it shall have become  a
  law.
