@@ -1,6 +1,6 @@
 # Relating to medical use of cannabis and medical cannabis patient reciprocity with other states; repeals the controlled substances therapeutic research act; repealer
 
-**Bill ID:** S2566BA
+**Bill ID:** S2566BB
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Assembly Committee
@@ -16,7 +16,7 @@ Relates to the medical use of cannabis; provides medical cannabis patient recipr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  2566--A
+  2566--B
  
   2023-2024 Regular Sessions
  
@@ -29,15 +29,14 @@ S T A T E  O F  N E W  Y O R K
   printed to be committed to the Committee on Health --  recommitted  to
   the  Committee  on  Health in accordance with Senate Rule 6, sec. 8 --
   committee discharged, bill amended, ordered reprinted as  amended  and
-  recommitted to said committee
-
- AN  ACT  to amend the cannabis law, in relation to medical use cannabis;
-  to amend chapter 90 of the laws of 2014  amending  the  public  health
-  law, the tax law, the state finance law, the general business law, the
-  penal  law  and  the criminal procedure law relating to medical use of
-  marihuana, in relation to the effectiveness  thereof;  and  to  repeal
-  article  33-A  of  the  public  health  law relating to the controlled
-  substances therapeutic research act
+  recommitted  to  said committee -- committee discharged, bill amended,
+  ordered reprinted as amended and recommitted to said committee
+ 
+ AN ACT to amend the cannabis law, in relation to medical  use  cannabis;
+  to repeal certain provisions of  the  cannabis  law  relating  to  the
+  prescription  monitoring  program;  and  to repeal article 33-A of the
+  public  health  law  relating  to  the controlled substances therapeu-
+  tic research act
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -56,25 +55,19 @@ S T A T E  O F  N E W  Y O R K
   45. "REGISTRY APPLICATION" MEANS AN APPLICATION PROPERLY COMPLETED AND
  FILED  WITH  THE OFFICE BY A DESIGNATED CAREGIVER UNDER ARTICLE THREE OF
  THIS CHAPTER.
-  § 2. Subdivisions 4, 5, 6, 7, 8, 9 and 10 of section 30 of the  canna-
- bis law are amended to read as follows:
+  § 2. Subdivision 4 of section 30 of the cannabis law is REPEALED.
+  § 3. Subdivisions 5, 6, 7, 8, 9 and 10 of section 30 of  the  cannabis
+ law are amended to read as follows:
 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD06534-02-4
- S. 2566--A  2
+  LBD06534-03-4
+ S. 2566--B  2
  
-  4.  [Every  practitioner  shall  consult  the  prescription monitoring
- program registry prior to making or issuing  a  certification,  for  the
- purpose  of  reviewing  a  patient's  controlled  substance history. For
- purposes of this section, a practitioner may  authorize  a  designee  to
- consult  the  prescription  monitoring  program  registry  on his or her
- behalf, provided that such designation is  in  accordance  with  section
- thirty-three hundred forty-three-a of the public health law.
-  5.]  The  practitioner  shall  give the certification to the certified
- patient OR THE CERTIFIED PATIENT'S DESIGNATED  CAREGIVER,  and  place  a
- copy  in  the  patient's  health  care  record. SUCH CERTIFICATION SHALL
- INCLUDE INFORMATION SUFFICIENT FOR A REGISTERED ORGANIZATION TO  CONFIRM
+  [5.] 4. The practitioner shall give the certification to the certified
+ patient  OR  THE  CERTIFIED  PATIENT'S DESIGNATED CAREGIVER, and place a
+ copy in the patient's  health  care  record.  SUCH  CERTIFICATION  SHALL
+ INCLUDE  INFORMATION SUFFICIENT FOR A REGISTERED ORGANIZATION TO CONFIRM
  THAT THE CERTIFICATION IS VALID IN ACCORDANCE WITH SECTION THIRTY-TWO OF
  THIS  ARTICLE  AND  AS  DETERMINED BY THE BOARD IN REGULATION. THE BOARD
  MAY, BY RULES AND REGULATIONS,  ESTABLISH  A  CODE,  INCLUDING  BUT  NOT
@@ -86,8 +79,8 @@ S T A T E  O F  N E W  Y O R K
  for themselves.
   [7.] 6. A [registry identification  card  based  on  a]  certification
  shall  expire  [one  year] TWO YEARS after the date the certification is
- signed by the  practitioner,  except  as  provided  for  in  subdivision
- [eight] SEVEN of this section.
+ signed by the practitioner, except as provided for in subdivision  eight
+ of this section.
   [8.]  7.  (a) If the practitioner states in the certification that, in
  the practitioner's professional opinion, the patient would benefit  from
  medical cannabis only until a specified earlier date, then the [registry
@@ -111,7 +104,7 @@ S T A T E  O F  N E W  Y O R K
  MINES  THAT THE PATIENT WOULD BENEFIT FROM MEDICAL CANNABIS, THE CERTIF-
  ICATION MUST BE RE-ISSUED; AND (G) the board shall make  regulations  to
  implement this subdivision.
-  [9. (a) A certification may be a special certification if, in addition
+  9. [(a) A certification may be a special certification if, in addition
  to  the  other requirements for a certification, the practitioner certi-
  fies in the certification that the patient's  condition  is  progressive
  and degenerative or that delay in the patient's certified medical use of
@@ -119,16 +112,16 @@ S T A T E  O F  N E W  Y O R K
   (b)  The office shall create the form to be used for a special certif-
  ication and shall make that form available to  be  downloaded  from  the
  office's website.
- S. 2566--A  3
-
-  10.]  8.  Prior  to  issuing  a  certification  a  practitioner  must
- complete[, at a minimum, a  two-hour  course]  APPROPRIATE  TRAINING  as
- determined  by the board in regulation. For the purposes of this article
- a person's status as a practitioner is deemed to be a "license" for  the
- purposes of section thirty-three hundred ninety of the public health law
- and shall be subject to the same revocation process.
-  §  3.  Subdivisions  1  and  2  of  section 31 of the cannabis law are
+  10.]  Prior  to issuing a certification a practitioner must complete[,
+ at a minimum, a two-hour course] APPROPRIATE TRAINING as  determined  by
+ the  board  in  regulation.  For the purposes of this article a person's
+ status as a practitioner is deemed to be a "license" for the purposes of
+ section thirty-three hundred ninety of the public health law  and  shall
+ be subject to the same revocation process.
+  §  4.  Subdivisions  1  and  2  of  section 31 of the cannabis law are
  amended to read as follows:
+ S. 2566--B  3
+ 
   1. the cannabis OR CONCENTRATED CANNABIS that may be  possessed  by  a
  certified  patient shall not exceed THE QUANTITIES AUTHORIZED IN SECTION
  222.05 OF THE PENAL LAW OR a sixty-day supply [of the dosage  determined
@@ -143,7 +136,7 @@ S T A T E  O F  N E W  Y O R K
  card, up to four certified patients] AUTHORIZED IN SECTION 222.05 OF THE
  PENAL LAW OR A SIXTY-DAY SUPPLY FOR THE CERTIFIED PATIENT, WHICHEVER  IS
  GREATER;
-  § 4. Section 32 of the cannabis law is amended to read as follows:
+  § 5. Section 32 of the cannabis law is amended to read as follows:
   §  32.  [Registry  identification  cards]  VALIDATING MEDICAL CANNABIS
  CERTIFICATIONS. 1. [Upon approval of the] WHEN PRESENTED WITH A  certif-
  ication FROM A PRACTITIONER, [the office] REGISTERED ORGANIZATIONS shall
@@ -176,17 +169,17 @@ S T A T E  O F  N E W  Y O R K
  medical cannabis, if the certification states such a date;
   (vi) the name, address, and telephone number of the certifying practi-
  tioner;
- S. 2566--A  4
-
   (vii)  any  recommendation or limitation by the practitioner as to the
  form or forms of medical cannabis or dosage for the certified patient;
   (viii) if the certified patient designates a designated caregiver, the
- name,  address, and date of birth of the designated caregiver, and other
+ name, address, and date of birth of the designated caregiver, and  other
  individual identifying information required by the board;
   (ix) if the designated caregiver is a cannabis research license holder
  under  this  chapter,  the  name  of  the  organization  conducting  the
- research,  the address, phone number, name of the individual leading the
- research or appropriate  designee,  and  other  identifying  information
+ research, the address, phone number, name of the individual leading  the
+ S. 2566--B  4
+
+ research  or  appropriate  designee,  and  other identifying information
  required by the board; and
   (x) other individual identifying information required by the office;
   (b) in the case of a designated caregiver:
@@ -234,19 +227,19 @@ S T A T E  O F  N E W  Y O R K
  NATED CAREGIVER IS DESIGNATED TO CARE FOR;
   (C) IF THE DESIGNATED CAREGIVER IS A CANNABIS RESEARCH LICENSE  HOLDER
  UNDER  THIS  CHAPTER,  THE  NAME  OF  THE  ORGANIZATION  CONDUCTING  THE
- S. 2566--A  5
- 
  RESEARCH, THE ADDRESS, PHONE NUMBER, NAME OF THE INDIVIDUAL LEADING  THE
  RESEARCH  OR  APPROPRIATE  DESIGNEE,  AND  OTHER IDENTIFYING INFORMATION
  REQUIRED BY THE BOARD;
-  (D)  A  STATEMENT  THAT  A  FALSE STATEMENT MADE IN THE APPLICATION IS
+  (D) A STATEMENT THAT A FALSE STATEMENT  MADE  IN  THE  APPLICATION  IS
  PUNISHABLE UNDER SECTION 210.45 OF THE PENAL LAW;
-  (E) THE DATE OF THE APPLICATION AND THE SIGNATURE, WHICH MAY BE  ELEC-
+  (E)  THE DATE OF THE APPLICATION AND THE SIGNATURE, WHICH MAY BE ELEC-
  TRONIC, OF THE DESIGNATED CAREGIVER; AND
-  (F)  UPON APPROVAL OF THE DESIGNATED CAREGIVER APPLICATION, THE OFFICE
- SHALL PROVIDE THE DESIGNATED CAREGIVER WITH A CODE,  INCLUDING  BUT  NOT
- LIMITED  TO  A  QUICK  RESPONSE (QR) CODE, THAT THE DESIGNATED CAREGIVER
- MUST PRESENT TO  THE  REGISTERED  ORGANIZATION  WHEN  OBTAINING  MEDICAL
+ S. 2566--B  5
+ 
+  (F) UPON APPROVAL OF THE DESIGNATED CAREGIVER APPLICATION, THE  OFFICE
+ SHALL  PROVIDE  THE  DESIGNATED CAREGIVER WITH A CODE, INCLUDING BUT NOT
+ LIMITED TO A QUICK RESPONSE (QR) CODE,  THAT  THE  DESIGNATED  CAREGIVER
+ MUST  PRESENT  TO  THE  REGISTERED  ORGANIZATION  WHEN OBTAINING MEDICAL
  CANNABIS PRODUCT OR PRODUCTS.
   3. Where a certified patient is under the age of eighteen or otherwise
  incapable of consent:
@@ -292,78 +285,74 @@ S T A T E  O F  N E W  Y O R K
  as a designated caregiver who is not authorized to be a designated care-
  giver, that portion of the application shall be denied by the office but
  that shall not affect the approval of the balance of the application.
- S. 2566--A  6
-
   10. A registry identification card shall:
   (a)  contain the name of the certified patient or the designated care-
  giver as the case may be;
   (b) contain the date of issuance and expiration date of  the  registry
  identification card;
+ S. 2566--B  6
+
   (c) contain a registry identification number for the certified patient
  or  designated  caregiver, as the case may be and a registry identifica-
  tion number;
-  (d) contain a photograph of the individual to whom the registry  iden-
- tification  card  is being issued, which shall be obtained by the office
- in a manner specified by the board in  regulations;  provided,  however,
+  (d)  contain a photograph of the individual to whom the registry iden-
+ tification card is being issued, which shall be obtained by  the  office
+ in  a  manner  specified by the board in regulations; provided, however,
  that if the office requires certified patients to submit photographs for
- this  purpose,  there  shall  be a reasonable accommodation of certified
+ this purpose, there shall be a  reasonable  accommodation  of  certified
  patients who are confined to their homes due to their medical conditions
  and may therefore have difficulty procuring photographs;
   (e) be a secure document as determined by the board;
   (f) plainly state any recommendation or limitation by the practitioner
- as to the form or forms of medical cannabis or dosage for the  certified
+ as  to the form or forms of medical cannabis or dosage for the certified
  patient; and
   (g) any other requirements determined by the board.
-  11.]  A certified patient [or designated caregiver who has been issued
- a registry identification card shall notify the office of any change  in
+  11.] A certified patient [or designated caregiver who has been  issued
+ a  registry identification card shall notify the office of any change in
  his or her name or address or, with respect to the patient, if he or she
- ceases  to have the condition noted on the certification within ten days
+ ceases to have the condition noted on the certification within ten  days
  of such change. The certified patient's or designated caregiver's regis-
- try identification card shall be deemed invalid and  shall  be  promptly
- destroyed]  SHALL  NOTIFY THEIR PRACTITIONER OF ANY CHANGE IN THEIR NAME
- OR ADDRESS AND THE PRACTITIONER SHALL UPDATE THE  CERTIFICATION  ACCORD-
+ try  identification  card  shall be deemed invalid and shall be promptly
+ destroyed] SHALL NOTIFY THEIR PRACTITIONER OF ANY CHANGE IN  THEIR  NAME
+ OR  ADDRESS  AND THE PRACTITIONER SHALL UPDATE THE CERTIFICATION ACCORD-
  INGLY.
-  [12.  If  a certified patient or designated caregiver loses his or her
- registry identification card, he or she shall notify the  office  within
+  [12. If a certified patient or designated caregiver loses his  or  her
+ registry  identification  card, he or she shall notify the office within
  ten days of losing the card. The office shall issue a new registry iden-
  tification card as soon as practicable, which may contain a new registry
  identification number, to the certified patient or designated caregiver,
  as the case may be.
-  13.  The  office  shall maintain a confidential list of the persons to
+  13. The office shall maintain a confidential list of  the  persons  to
  whom it has issued registry identification cards. Individual identifying
  information obtained by the office under this article shall be confiden-
  tial and exempt from disclosure under article six of the public officers
  law.
-  14. The board shall verify to law enforcement personnel in  an  appro-
- priate  case  whether  a  registry  identification card is valid and any
- other relevant information necessary  to  protect  patients'  rights  to
+  14.  The  board shall verify to law enforcement personnel in an appro-
+ priate case whether a registry identification  card  is  valid  and  any
+ other  relevant  information  necessary  to  protect patients' rights to
  medical cannabis by confirming compliance with this article.
-  15.]  8.  A  DESIGNATED  CAREGIVER  WHO HAS BEEN ISSUED A REGISTRATION
- SHALL NOTIFY THE OFFICE OF ANY CHANGE IN THEIR  NAME  OR  ADDRESS  IN  A
+  15.] 8. A DESIGNATED CAREGIVER WHO  HAS  BEEN  ISSUED  A  REGISTRATION
+ SHALL  NOTIFY  THE  OFFICE  OF  ANY CHANGE IN THEIR NAME OR ADDRESS IN A
  MANNER DETERMINED BY THE OFFICE.
-  9.  If  a certified patient or designated caregiver willfully violates
- any provision of this article as determined by the board, [his  or  her]
- THEIR  certification,  and [registry identification card] IN THE CASE OF
+  9. If a certified patient or designated caregiver  willfully  violates
+ any  provision  of this article as determined by the board, [his or her]
+ THEIR certification, and [registry identification card] IN THE  CASE  OF
  THE  DESIGNATED  CAREGIVER,  THEIR  REGISTRATION  may  be  suspended  or
- revoked.  This  [is]  MAY BE in addition to any other penalty that [may]
+ revoked. This [is] MAY BE in addition to any other  penalty  that  [may]
  WOULD apply.
-  [16. The board shall  make  regulations  for  special  certifications,
- which  shall  include  expedited  procedures  and  which may require the
- applicant to submit additional documentation establishing  the  clinical
- S. 2566--A  7
-
- basis  for  the  special certification. If the board has not established
+  [16.  The  board  shall  make  regulations for special certifications,
+ which shall include expedited  procedures  and  which  may  require  the
+ applicant  to  submit additional documentation establishing the clinical
+ basis for the special certification. If the board  has  not  established
  and made available a form for a registry application or renewal applica-
- tion, then in the case of a special certification, a  registry  applica-
- tion  or  renewal  application that otherwise conforms with the require-
+ tion,  then  in the case of a special certification, a registry applica-
+ tion or renewal application that otherwise conforms  with  the  require-
  ments of this section shall not require the use of a form.]
-  10. THE MAINTENANCE  AND  ACCESS  OF  RECORDS  PERTAINING  TO  CERTIF-
- ICATIONS,  REGISTRATIONS,  CERTIFIED  PATIENTS AND DESIGNATED CAREGIVERS
- SHALL BE IN COMPLIANCE WITH THE FEDERAL HEALTH INSURANCE PORTABILITY AND
- ACCOUNTABILITY ACT OF 1996, AND WITH  ALL  PRIVACY  AND  CONFIDENTIALITY
- PROTECTIONS  AFFORDED TO INDIVIDUALS UNDER THE LAW. INFORMATION OBTAINED
- BY THE OFFICE UNDER THIS ARTICLE SHALL BE CONFIDENTIAL AND  EXEMPT  FROM
- DISCLOSURE UNDER ARTICLE SIX OF THE PUBLIC OFFICERS LAW.
+ S. 2566--B  7
+ 
+  10.  INFORMATION  OBTAINED BY THE OFFICE UNDER THIS ARTICLE SHALL BE
+ CONFIDENTIAL AND EXEMPT FROM DISCLOSURE UNDER ARTICLE SIX OF THE  PUBLIC
+ OFFICERS LAW.
   11.  ANY  PRACTITIONER OR REGISTERED ORGANIZATION AUTHORIZED REPRESEN-
  TATIVE OR EMPLOYEE WHO IS  FOUND  TO  HAVE  KNOWINGLY  AND  FRAUDULENTLY
  MANIPULATED  CERTIFIED  PATIENT  OR DESIGNATED CAREGIVER INFORMATION, OR
@@ -375,7 +364,7 @@ S T A T E  O F  N E W  Y O R K
  REFER  ANY RELEVANT INTERNAL FINDINGS TO THE DEPARTMENT OF HEALTH OR THE
  STATE  EDUCATION  DEPARTMENT  IF  THE  BOARD  OR  OFFICE  CONCLUDES  THE
  VIOLATION MAY WARRANT PROFESSIONAL DISCIPLINARY INTERVENTION.
-  §  5. The cannabis law is amended by adding a new section 32-a to read
+  §  6. The cannabis law is amended by adding a new section 32-a to read
  as follows:
   § 32-A. MEDICAL  CANNABIS  PATIENT  RECIPROCITY.  1.  SUBJECT  TO  THE
  PROVISIONS  OF  THIS  ARTICLE AND THE RULES AND REGULATIONS OF THE BOARD
@@ -402,23 +391,23 @@ S T A T E  O F  N E W  Y O R K
  MEDICAL CANNABIS OR MEDICAL CANNABIS  PRODUCTS  FROM  OTHER  STATES  AND
  JURISDICTIONS  OF  THE UNITED STATES IN ACCORDANCE WITH THE REQUIREMENTS
  SET FORTH BY SUCH STATE OR OTHER UNITED STATES JURISDICTION.
-  § 6. Subdivision 4 and paragraph (b) of subdivision 5 of section 34 of
- the cannabis law are amended to read as follows:
-  4. (a) A registered organization may lawfully, in  good  faith,  sell,
- deliver,  distribute or dispense medical cannabis to a certified patient
+  § 7. Subdivision 4 of section 34 of the cannabis  law  is  amended  to
+ read as follows:
+  4.  (a)  A  registered organization may lawfully, in good faith, sell,
+ deliver, distribute or dispense medical cannabis to a certified  patient
  or designated caregiver upon presentation to the registered organization
- of a  valid  [registry  identification  card]  CERTIFICATION  AND  VALID
- S. 2566--A  8
- 
- GOVERNMENT-ISSUED  PHOTO  IDENTIFICATION  for  that certified patient or
- designated caregiver, PURSUANT TO SECTION THIRTY-TWO  OF  THIS  ARTICLE.
- When  presented  with  the [registry identification card] CERTIFICATION,
+ of  a  valid  [registry  identification  card]  CERTIFICATION  AND VALID
+ GOVERNMENT-ISSUED PHOTO IDENTIFICATION for  that  certified  patient  or
+ designated  caregiver,  PURSUANT  TO SECTION THIRTY-TWO OF THIS ARTICLE.
+ When presented with the [registry  identification  card]  CERTIFICATION,
  the  registered  organization  shall provide to the certified patient or
  designated caregiver a receipt, WHICH MAY  BE  ELECTRONIC,  which  shall
  state:  the  name,  address,  and  registry identification number of the
  registered organization; the name and registry identification number  of
  the certified patient and the designated caregiver, if any; the date the
  cannabis was sold; [any recommendation or limitation by the practitioner
+ S. 2566--B  8
+
  as  to the form or forms of medical cannabis or dosage for the certified
  patient;] and the form and the quantity of medical  cannabis  sold.  The
  registered organization shall retain [a copy] ANY COPIES of [the] regis-
@@ -436,97 +425,82 @@ S T A T E  O F  N E W  Y O R K
  the registered organization shall dispose of any electronically recorded
  [prescription] information in such manner as the board  shall  by  regu-
  lation require.
-  (b)  When dispensing medical cannabis to a certified patient or desig-
- nated caregiver, the registered organization[: (i)] shall  not  dispense
- an  amount greater than [a sixty-day supply to a certified patient until
- the certified patient has exhausted all but a seven day supply  provided
+  §  8. Paragraph (b) of subdivision 5 of section 34 of the cannabis law
+ is amended to read as follows:
+  (b) When dispensing medical cannabis to a certified patient or  desig-
+ nated  caregiver,  the registered organization[: (i)] shall not dispense
+ an amount greater than [a sixty-day supply to a certified patient  until
+ the  certified patient has exhausted all but a seven day supply provided
  pursuant to a previously issued certification; and (ii) shall verify the
- information  in  subparagraph  (i)  of  this paragraph by consulting the
- prescription monitoring program registry under] THE  AMOUNTS  AUTHORIZED
+ information in subparagraph (i) of  this  paragraph  by  consulting  the
+ prescription  monitoring  program registry under] THE AMOUNTS AUTHORIZED
  IN SECTION THIRTY-ONE OF this article.
-  §  7.  Subdivision  3  of section 37 of the cannabis law is amended to
+  § 9. Subdivision 3 of section 37 of the cannabis  law  is  amended  to
  read as follows:
-  3. The board shall [report every two years, beginning two years  after
- the  effective date of this article, to the governor and the legislature
- on] COLLECT DATA AND PUBLISH INFORMATION RELATED TO the medical  use  of
- cannabis  under this article and make appropriate recommendations IN ITS
+  3.  The board shall [report every two years, beginning two years after
+ the effective date of this article, to the governor and the  legislature
+ on]  COLLECT  DATA AND PUBLISH INFORMATION RELATED TO the medical use of
+ cannabis under this article and make appropriate recommendations IN  ITS
  ANNUAL REPORT.
-  § 8. Section 41 of the cannabis law is amended to read as follows:
-  § 41. Home cultivation of  medical  cannabis.  1.  Certified  patients
- [twenty-one]  EIGHTEEN  years of age or older may cultivate cannabis for
- personal MEDICAL use. Designated caregivers twenty-one years of  age  or
- older,  caring  for  certified  patients  either younger than twenty-one
- years of age or whose physical or  cognitive  impairments  prevent  them
- from  cultivating  cannabis,  may  cultivate  cannabis  for  use by such
- patients, provided that no other caregiver is growing for  said  patient
- or  patients.  [All cultivation] CULTIVATION under this section shall be
- in accordance with section 222.15 of the penal law and  any  regulations
+  § 10. Section 41 of the cannabis law is amended to read as follows:
+  §  41.  Home  cultivation  of  medical cannabis. 1. Certified patients
+ [twenty-one] EIGHTEEN years of age or older may cultivate  cannabis  for
+ personal  MEDICAL  use. Designated caregivers twenty-one years of age or
+ older, caring for certified  patients  either  younger  than  twenty-one
+ years  of  age  or  whose physical or cognitive impairments prevent them
+ from cultivating cannabis,  may  cultivate  cannabis  for  use  by  such
+ patients,  provided  that no other caregiver is growing for said patient
+ or patients. [All cultivation] CULTIVATION under this section  shall  be
+ in  accordance  with section 222.15 of the penal law and any regulations
  made by the board, provided that the maximum number of cannabis plants a
- designated  caregiver is authorized to grow is proportionately increased
+ designated caregiver is authorized to grow is proportionately  increased
  for each patient they are growing for.
-  2. NOTHING IN THIS SECTION SHALL BE CONSTRUED TO PERMIT ANY  CERTIFIED
+  2.  NOTHING IN THIS SECTION SHALL BE CONSTRUED TO PERMIT ANY CERTIFIED
  PATIENT OR DESIGNATED CAREGIVER TO SELL ANY CULTIVATED CANNABIS PRODUCED
- S. 2566--A  9
-
  BY ANY CANNABIS PLANT WHICH IS OR WAS CULTIVATED FOR A CERTIFIED PATIENT
- PURSUANT  TO  THIS  SECTION  TO  ANY OTHER PERSON, EVEN IF THE CERTIFIED
- PATIENT NO LONGER NEEDS OR WANTS  SUCH  CANNABIS;  PROVIDED  HOWEVER,  A
- CERTIFIED  PATIENT  OR  DESIGNATED CAREGIVER SHALL BE AUTHORIZED TO GIVE
- SUCH CULTIVATED CANNABIS TO ANOTHER CERTIFIED  PATIENT  IN  THE  AMOUNTS
- AUTHORIZED  BY SECTION THIRTY-ONE OF THIS ARTICLE. ANY CERTIFIED PATIENT
- OR DESIGNATED CAREGIVER WHO IS  FOUND  TO  BE  SELLING  SUCH  CULTIVATED
- CANNABIS  FOR  COMPENSATION  OR OTHER REMUNERATION MAY BE SUBJECT TO ANY
+ PURSUANT TO THIS SECTION TO ANY OTHER  PERSON,  EVEN  IF  THE  CERTIFIED
+ PATIENT  NO  LONGER  NEEDS  OR  WANTS SUCH CANNABIS; PROVIDED HOWEVER, A
+ CERTIFIED PATIENT OR DESIGNATED CAREGIVER SHALL BE  AUTHORIZED  TO  GIVE
+ SUCH  CULTIVATED  CANNABIS  TO  ANOTHER CERTIFIED PATIENT IN THE AMOUNTS
+ AUTHORIZED BY SECTION THIRTY-ONE OF THIS ARTICLE. ANY CERTIFIED  PATIENT
+ OR  DESIGNATED  CAREGIVER  WHO  IS  FOUND  TO BE SELLING SUCH CULTIVATED
+ S. 2566--B  9
+
+ CANNABIS FOR COMPENSATION OR OTHER REMUNERATION MAY BE  SUBJECT  TO  ANY
  RELEVANT PENALTIES IN THIS CHAPTER, THE PENAL LAW, AND THE TAX LAW.
-  § 9. Subdivision 4 of section 42 of the cannabis  law  is  amended  to
+  §  11.  Subdivision  4 of section 42 of the cannabis law is amended to
  read as follows:
   4.  (a)  [Certification  applications]  CERTIFICATIONS,  certification
- forms[,] AND any certified patient OR DESIGNATED  CAREGIVER  information
- contained  within  a  database[,  and  copies of registry identification
- cards] shall be deemed exempt  from  public  disclosure  under  sections
- eighty-seven  and  eighty-nine of the public officers law. Upon specific
- request by a certified patient to the office, the  office  shall  verify
- the  requesting  patient's  status  as  a valid certified patient to the
- patient's school or  employer  or  other  designated  party,  to  ensure
+ forms[,]  AND  any certified patient OR DESIGNATED CAREGIVER information
+ contained within a database[,  and  copies  of  registry  identification
+ cards]  shall  be  deemed  exempt  from public disclosure under sections
+ eighty-seven and eighty-nine of the public officers law.  Upon  specific
+ request  by  a  certified patient to the office, the office shall verify
+ the requesting patient's status as a  valid  certified  patient  to  the
+ patient's  school  or  employer  or  other  designated  party, to ensure
  compliance with the protections afforded by this section.
-  (b)  The  name, contact information, and other information relating to
+  (b) The name, contact information, and other information  relating  to
  practitioners [registered with the board] CERTIFYING PATIENTS under this
- article shall be public information  and  shall  be  maintained  on  the
+ article  shall  be  public  information  and  shall be maintained on the
  board's website accessible to the public in searchable form. However, if
- a  practitioner notifies the board in writing that [he or she does] THEY
- DO not want [his or her] THEIR name  and  other  information  disclosed,
- that  practitioner's  name and other information shall thereafter not be
- public information or maintained on  the  board's  website,  unless  the
+ a practitioner notifies the board in writing that [he or she does]  THEY
+ DO  not  want  [his  or her] THEIR name and other information disclosed,
+ that practitioner's name and other information shall thereafter  not  be
+ public  information  or  maintained  on  the board's website, unless the
  practitioner cancels the request.
-  § 10. Article 33-A of the public health law is REPEALED.
-  § 11. The commissioner of health, the executive director of the office
- of  cannabis  management  and  the  commissioner  of education, or their
- designees, shall work  in  conjunction  to  expeditiously  transfer  any
- records,  documents  and papers of the controlled substances therapeutic
+  § 12. Article 33-A of the public health law is REPEALED.
+  § 13. The commissioner of health, the executive director of the office
+ of cannabis management and  the  commissioner  of  education,  or  their
+ designees,  shall  work  in  conjunction  to  expeditiously transfer any
+ records, documents and papers of the controlled  substances  therapeutic
  research act and the Antonio G. Olivieri controlled substances therapeu-
- tic research program repealed by section  ten  of  this  act,  from  the
- department  of health to the office of cannabis management and the state
- archives.
-  § 12. Section 12 of chapter 90 of the laws of 2014 amending the public
- health law, the tax law, the state finance  law,  the  general  business
- law,  the  penal  law and the criminal procedure law relating to medical
- use of marihuana, as amended by chapter 92  of  the  laws  of  2021,  is
- amended to read as follows:
-  §  12.  This act shall take effect immediately; provided, however that
- sections one, three, four, five, six, seven-a[,] AND eight[,  nine,  ten
- and  eleven]  of this act shall expire and be deemed repealed [fourteen]
- NINE years after such date; provided  that  the  amendments  to  section
- 171-a of the tax law made by section seven of this act shall take effect
- on the same date and in the same manner as section 54 of part A of chap-
- ter  59  of  the  laws  of 2014 takes effect and shall not expire and be
- deemed repealed; and provided, further, that the amendments to  subdivi-
- sion  5  of section 410.91 of the criminal procedure law made by section
- eleven of this act shall not affect the expiration and  repeal  of  such
- section and shall expire and be deemed repealed therewith.
-  §  13.  This act shall take effect immediately; provided, however that
- sections one, two, three, four, five, six, eight and nine  of  this  act
- S. 2566--A  10
- 
- shall take effect on the ninetieth day after it shall have become a law;
- and  provided,  further,  that sections ten and eleven of this act shall
- take effect on the one hundred eightieth day after it shall have  become
- a law.
+ tic  research  program  repealed by section twelve of this act, from the
+ department of health to the office of cannabis management and the  state
+ archives prior to such repeal.
+  §  14.  This act shall take effect immediately; provided, however that
+ sections one, three, four, five, six, seven and ten of  this  act  shall
+ take  effect  on the ninetieth day after it shall have become a law; and
+ provided, further, that section twelve of this act shall take effect  on
+ the  one  hundred  eightieth  day  after it shall have become a law; and
+ provided, further, that sections two and eight of this  act  shall  take
+ effect eighteen months after it shall have become a law.
