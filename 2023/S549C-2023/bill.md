@@ -1,6 +1,6 @@
 # Relates to recovery of overpayments of unemployment benefits; repealer
 
-**Bill ID:** S549CB
+**Bill ID:** S549CC
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Provides that any claimant who has received certain unemployment benefits to whi
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  549--B
+  549--C
  
   2023-2024 Regular Sessions
  
@@ -25,13 +25,16 @@ S T A T E  O F  N E W  Y O R K
   January 5, 2023
   ___________
  
- Introduced  by  Sens.  HOYLMAN-SIGAL,  KRUEGER,  RAMOS -- read twice and
-  ordered printed, and when printed to be committed to the Committee  on
-  Labor  --  committee  discharged,  bill  amended, ordered reprinted as
-  amended and recommitted  to  said  committee  --  recommitted  to  the
-  Committee on Labor in accordance with Senate Rule 6, sec. 8 -- commit-
-  tee  discharged, bill amended, ordered reprinted as amended and recom-
-  mitted to said committee
+ Introduced by Sens. HOYLMAN-SIGAL, FERNANDEZ, JACKSON, KRUEGER, RAMOS --
+  read  twice  and  ordered printed, and when printed to be committed to
+  the Committee on Labor -- committee discharged, bill amended,  ordered
+  reprinted  as amended and recommitted to said committee -- recommitted
+  to the Committee on Labor in accordance with Senate Rule 6, sec. 8  --
+  committee  discharged,  bill amended, ordered reprinted as amended and
+  recommitted to said committee -- reported favorably from said  commit-
+  tee and committed to the Committee on Finance -- committee discharged,
+  bill  amended,  ordered  reprinted  as amended and recommitted to said
+  committee
  
  AN ACT to amend the labor law, in relation to the recovery  of  overpay-
   ments  of  unemployment benefits; to direct the department of labor to
@@ -55,19 +58,19 @@ S T A T E  O F  N E W  Y O R K
   (C)  "WILLFUL MISREPRESENTATION" OR "WILLFUL FALSE STATEMENT" MEANS AN
  INTENTIONAL, KNOWING, OR  DELIBERATELY  FALSE  REPRESENTATION  FROM  THE
  CLAIMANT  TO THE DEPARTMENT, MADE IN ORDER TO OBTAIN UNEMPLOYMENT INSUR-
- ANCE BENEFITS. "KNOWING" FOR THE PURPOSES OF THIS PARAGRAPH MEANS HAVING
- ACTUAL KNOWLEDGE.
-  (2) NOTWITHSTANDING ANY PROVISION OF SECTION FIVE HUNDRED  NINETY-FOUR
- OF  THIS  TITLE  TO THE CONTRARY, ANY CLAIMANT WHO HAS RECEIVED BENEFITS
- 
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD02352-08-4
- S. 549--B  2
+  LBD02352-10-4
+ S. 549--C  2
  
+ ANCE BENEFITS. "KNOWING" FOR THE PURPOSES OF THIS PARAGRAPH MEANS HAVING
+ ACTUAL KNOWLEDGE.
+  (2)  NOTWITHSTANDING ANY PROVISION OF SECTION FIVE HUNDRED NINETY-FOUR
+ OF THIS TITLE TO THE CONTRARY, ANY CLAIMANT WHO  HAS  RECEIVED  BENEFITS
  UNDER THE PROVISIONS OF THIS ARTICLE ON OR AFTER JANUARY TWENTY-SEVENTH,
- TWO THOUSAND TWENTY, TO WHICH THEY WERE NOT ENTITLED SHALL NOT  BE  HELD
- LIABLE  FOR  THE  AMOUNTS  OVERPAID  PROVIDED  THAT ALL OF THE FOLLOWING
+ TWO  THOUSAND  TWENTY, TO WHICH THEY WERE NOT ENTITLED SHALL NOT BE HELD
+ LIABLE FOR THE AMOUNTS OVERPAID  PROVIDED  THAT  ALL  OF  THE  FOLLOWING
  CONDITIONS EXIST:
   (A)  SUCH  OVERPAYMENT  WAS  NOT  DUE  TO A WILLFUL FALSE STATEMENT OR
  MISREPRESENTATION;
@@ -117,72 +120,72 @@ S T A T E  O F  N E W  Y O R K
  THE CLAIMANT ON POINTS OF FACT OR LAW.
   (5) RECOVERY OF ANY OVERPAYMENT  WOULD  BE  AGAINST  EQUITY  AND  GOOD
  CONSCIENCE IF:
+ S. 549--C  3
+ 
   (A)  RECOVERY  WOULD  CAUSE FINANCIAL HARDSHIP TO THE PERSON FROM WHOM
  RECOVERY IS SOUGHT;
-  (B) THE RECIPIENT OF THE OVERPAYMENT CAN  SHOW,  REGARDLESS  OF  THEIR
- FINANCIAL  SITUATION,  THAT  REPAYMENT  WOULD CAUSE THEM TO RELINQUISH A
- S. 549--B  3
- 
- VALUABLE RIGHT OR CHANGE THEIR POSITION FOR THE  WORSE,  INCLUDING,  BUT
- NOT  LIMITED  TO, SIGNING A LEASE, TAKING OUT A LOAN, OR DECLINING OTHER
- STATE OR FEDERAL ASSISTANCE  IN  RELIANCE  ON  RECEIPT  OF  UNEMPLOYMENT
+  (B)  THE  RECIPIENT  OF  THE OVERPAYMENT CAN SHOW, REGARDLESS OF THEIR
+ FINANCIAL SITUATION, THAT REPAYMENT WOULD CAUSE  THEM  TO  RELINQUISH  A
+ VALUABLE  RIGHT  OR  CHANGE THEIR POSITION FOR THE WORSE, INCLUDING, BUT
+ NOT LIMITED TO, SIGNING A LEASE, TAKING OUT A LOAN, OR  DECLINING  OTHER
+ STATE  OR  FEDERAL  ASSISTANCE  IN  RELIANCE  ON RECEIPT OF UNEMPLOYMENT
  INSURANCE BENEFITS;
   (C) THE INDIVIDUAL OR THEIR HOUSEHOLD RECEIVES SOCIAL SECURITY INCOME,
- SUPPLEMENTAL  SECURITY  INCOME,  SOCIAL  SECURITY  DISABILITY, MEDICAID,
- MEDICARE, FREE OR REDUCED PUBLIC SCHOOL LUNCH,  FIP,  TEMPORARY  ASSIST-
- ANCE,  SUPPLEMENTAL  NUTRITION  ASSISTANCE  PROGRAM  BENEFITS, NUTRITION
- BENEFITS PROVIDED AS PART OF THE SPECIAL SUPPLEMENTAL NUTRITION  PROGRAM
- FOR  WOMEN,  INFANTS  AND CHILDREN (WIC), HOME ENERGY ASSISTANCE PROGRAM
+ SUPPLEMENTAL SECURITY  INCOME,  SOCIAL  SECURITY  DISABILITY,  MEDICAID,
+ MEDICARE,  FREE  OR  REDUCED PUBLIC SCHOOL LUNCH, FIP, TEMPORARY ASSIST-
+ ANCE, SUPPLEMENTAL  NUTRITION  ASSISTANCE  PROGRAM  BENEFITS,  NUTRITION
+ BENEFITS  PROVIDED AS PART OF THE SPECIAL SUPPLEMENTAL NUTRITION PROGRAM
+ FOR WOMEN, INFANTS AND CHILDREN (WIC), HOME  ENERGY  ASSISTANCE  PROGRAM
  BENEFITS,  SENIOR  CITIZEN  RENT  INCREASE  EXEMPTION,  DISABILITY  RENT
- INCREASE  EXEMPTION, RENTAL SUBSIDY PURSUANT TO FEDERAL OR STATE LAW, IS
- AT OR BELOW FOUR HUNDRED PERCENT OF THE FEDERAL  POVERTY  GUIDELINES  OR
- LIVING  IN  PROJECT-BASED SUBSIDIZED HOUSING OR ANY SUBSTANTIALLY EQUIV-
+ INCREASE EXEMPTION, RENTAL SUBSIDY PURSUANT TO FEDERAL OR STATE LAW,  IS
+ AT  OR  BELOW  FOUR HUNDRED PERCENT OF THE FEDERAL POVERTY GUIDELINES OR
+ LIVING IN PROJECT-BASED SUBSIDIZED HOUSING OR ANY  SUBSTANTIALLY  EQUIV-
  ALENT SUCCESSOR PROGRAMS TO THE AFOREMENTIONED BENEFITS PROGRAMS;
-  (D) THE INDIVIDUAL USED THE UNEMPLOYMENT BENEFITS TO MEET THEIR  ORDI-
+  (D)  THE INDIVIDUAL USED THE UNEMPLOYMENT BENEFITS TO MEET THEIR ORDI-
  NARY LIVING EXPENSES, INCLUDING, BUT NOT LIMITED TO, FOOD, RENT, MEDICAL
- COSTS  OR  INSURANCE,  DENTAL  BILLS  OR INSURANCE, SCHOOL LOANS, SCHOOL
+ COSTS OR INSURANCE, DENTAL BILLS  OR  INSURANCE,  SCHOOL  LOANS,  SCHOOL
  FEES, UTILITIES, CHILD CARE, MORTGAGE PAYMENTS, TRANSPORTATION, PURCHASE
- OR MAINTENANCE OF A CAR OR EQUIPMENT NEEDED FOR EMPLOYMENT  OR  SELF-EM-
+ OR  MAINTENANCE  OF A CAR OR EQUIPMENT NEEDED FOR EMPLOYMENT OR SELF-EM-
  PLOYMENT, OR OPERATING EXPENSES FOR SELF-EMPLOYMENT; OR
-  (E)  THERE  IS  ANY OTHER REASON FOR WHICH RECOVERY OF THE OVERPAYMENT
+  (E) THERE IS ANY OTHER REASON FOR WHICH RECOVERY  OF  THE  OVERPAYMENT
  WOULD BE AGAINST EQUITY AND GOOD CONSCIENCE UNDER THE CIRCUMSTANCES.
   (6) (A) IN THE EVENT THAT A NEW DETERMINATION BY THE COMMISSIONER OR A
- DECISION BY A REFEREE, THE  APPEAL  BOARD,  OR  A  COURT  RESULTS  IN  A
- DECREASE  OR  DENIAL OF ANY BENEFITS PREVIOUSLY ALLOWED, OR AT ANY OTHER
+ DECISION  BY  A  REFEREE,  THE  APPEAL  BOARD,  OR  A COURT RESULTS IN A
+ DECREASE OR DENIAL OF ANY BENEFITS PREVIOUSLY ALLOWED, OR AT  ANY  OTHER
  TIME IT HAS BEEN DETERMINED THAT AN OVERPAYMENT HAS OCCURRED, THE CLAIM-
- ANT SHALL BE NOTIFIED IN WRITING,  BY  MAIL  OR  ELECTRONICALLY,  WITHIN
- FIFTEEN  DAYS OF SUCH DETERMINATION OR DECISION OF SUCH CLAIMANT'S RIGHT
- TO APPEAL SUCH DETERMINATION OR DECISION AND  TO  REQUEST  A  WAIVER  OF
- RECOVERY  OF  SUCH OVERPAYMENT. SUCH NOTICE SHALL INCLUDE, BUT SHALL NOT
+ ANT  SHALL  BE  NOTIFIED  IN  WRITING, BY MAIL OR ELECTRONICALLY, WITHIN
+ FIFTEEN DAYS OF SUCH DETERMINATION OR DECISION OF SUCH CLAIMANT'S  RIGHT
+ TO  APPEAL  SUCH  DETERMINATION  OR  DECISION AND TO REQUEST A WAIVER OF
+ RECOVERY OF SUCH OVERPAYMENT. SUCH NOTICE SHALL INCLUDE, BUT  SHALL  NOT
  BE LIMITED TO:
-  (I) THE TOTAL AMOUNT OF SUCH OVERPAYMENT AND THE CAUSE OF  SUCH  OVER-
+  (I)  THE  TOTAL AMOUNT OF SUCH OVERPAYMENT AND THE CAUSE OF SUCH OVER-
  PAYMENT;
   (II) THE SCHEDULE OF REPAYMENT FOR SUCH AMOUNTS OVERPAID;
-  (III)  THE  MEANS  BY WHICH THE COMMISSIONER IS ENTITLED TO COLLECT OR
+  (III) THE MEANS BY WHICH THE COMMISSIONER IS ENTITLED  TO  COLLECT  OR
  RECOVER SUCH OVERPAYMENT;
-  (IV) AN EXPLANATION OF THE CLAIMANT'S RIGHT TO  APPEAL  SUCH  DETERMI-
+  (IV)  AN  EXPLANATION  OF THE CLAIMANT'S RIGHT TO APPEAL SUCH DETERMI-
  NATION OR DECISION IN ACCORDANCE WITH THE PROVISIONS OF THIS ARTICLE AND
  ANY RULES AND REGULATIONS PROMULGATED THEREUNDER;
-  (V)  AN  EXPLANATION OF THE STANDARDS BY WHICH A CLAIMANT SHALL NOT BE
+  (V) AN EXPLANATION OF THE STANDARDS BY WHICH A CLAIMANT SHALL  NOT  BE
  FOUND LIABLE FOR THE AMOUNTS OVERPAID, AS SET FORTH IN THIS SECTION;
   (VI) THE PROCESS BY WHICH THE CLAIMANT MAY REQUEST AND OBTAIN A WAIVER
  OF RECOVERY OF SUCH OVERPAYMENT, INCLUDING A COPY OF THE WAIVER APPLICA-
  TION; AND
-  (VII) THE AMOUNT THAT IS WAIVED AND THE REASON WHY ANY OR ALL  OF  THE
+  (VII)  THE  AMOUNT THAT IS WAIVED AND THE REASON WHY ANY OR ALL OF THE
  OVERPAYMENT WAS NOT WAIVED.
-  (B)  THE  COMMISSIONER  SHALL  REVIEW  EACH WAIVER REQUEST IN A MANNER
- CONSISTENT WITH THIS SECTION TO DETERMINE WHETHER THE CLAIMANT SHALL  BE
- HELD  LIABLE  FOR ANY AMOUNTS OVERPAID. ANY CLAIMANT WHO IS FOUND NOT TO
- BE LIABLE FOR ANY AMOUNTS OVERPAID SHALL BE ENTITLED TO RECEIVE  A  FULL
- WAIVER  OF SUCH OVERPAYMENT AND ANY PREVIOUSLY IMPOSED PENALTIES ON SUCH
- OVERPAYMENT MUST BE RESCINDED ACCORDINGLY.
-  (C) (I) ANY CLAIMANT WHO DISAGREES WITH A  DETERMINATION  REGARDING  A
- WAIVER  MAY REQUEST A HEARING WITHIN SIXTY DAYS OF RECEIPT OF THE DETER-
- MINATION.
- S. 549--B  4
+  (B) THE COMMISSIONER SHALL REVIEW EACH  WAIVER  REQUEST  IN  A  MANNER
+ CONSISTENT  WITH THIS SECTION TO DETERMINE WHETHER THE CLAIMANT SHALL BE
+ HELD LIABLE FOR ANY AMOUNTS OVERPAID. ANY CLAIMANT WHO IS FOUND  NOT  TO
+ BE  LIABLE  FOR ANY AMOUNTS OVERPAID SHALL BE ENTITLED TO RECEIVE A FULL
+ S. 549--C  4
  
-  (II) CLAIMANTS SHALL HAVE ALL APPEALS RIGHTS AS PROVIDED  UNDER  TITLE
- EIGHT  OF  THIS  ARTICLE, EXCEPT THAT REFEREES MAY EXTEND THE TIME FIXED
+ WAIVER OF SUCH OVERPAYMENT AND ANY PREVIOUSLY IMPOSED PENALTIES ON  SUCH
+ OVERPAYMENT MUST BE RESCINDED ACCORDINGLY.
+  (C)  (I)  ANY  CLAIMANT WHO DISAGREES WITH A DETERMINATION REGARDING A
+ WAIVER MAY REQUEST A HEARING WITHIN SIXTY DAYS OF RECEIPT OF THE  DETER-
+ MINATION.
+  (II)  CLAIMANTS  SHALL HAVE ALL APPEALS RIGHTS AS PROVIDED UNDER TITLE
+ EIGHT OF THIS ARTICLE, EXCEPT THAT REFEREES MAY EXTEND  THE  TIME  FIXED
  FOR REQUESTING A HEARING UPON GOOD CAUSE SHOWN.
   (III) WHEN A DETERMINATION IS MADE THAT THE CLAIMANT WAS AT FAULT, THE
  REFEREE AND UNEMPLOYMENT INSURANCE APPEALS BOARD SHALL REVIEW THE DETER-
@@ -231,15 +234,56 @@ S T A T E  O F  N E W  Y O R K
  as provided in [subdivisions] SUBDIVISION three [and  four]  of  section
  five  hundred ninety-seven with respect to retroactive payment of remun-
  eration.
-  § 4. Within ninety days of the effective date of this act, the depart-
- ment of labor shall provide claimants who have  previously  been  denied
- waivers  between  March 9, 2020, and the effective date of this act with
- applications for individual waivers. If it is found that the  department
- has collected benefits from a claimant as a result of the recovery of an
- overpayment  which would be barred under the provisions of this act, the
- S. 549--B  5
+ S. 549--C  5
  
- department shall refund such benefits to the claimant within thirty days
- of the approval of the waiver.
-  §  5.  This  act  shall take effect immediately and shall be deemed to
- have been in full force and effect on and after March 9, 2020.
+  § 4.  Within 30 days of the effective date of this  act,  the  Commis-
+ sioner  of  Labor  shall  seek a review of this act by the United States
+ Department of Labor to determine the effect of this act on  the  ability
+ of New York State to receive a cap and/or waiver on the reduction of tax
+ credits,  otherwise known as the Benefit Cost Rate (BCR) penalty, pursu-
+ ant to section 3302 of the Federal  Unemployment  Tax  Act  and  20  CFR
+ 606.20. As part of the request to review the act, the Commissioner shall
+ ask  the  USDOL how the provisions of this act that allow for the waiver
+ of the overpayments of  Federal  unemployment  or  assistance  benefits,
+ alone,  including  Pandemic  Unemployment Assistance, Pandemic Emergency
+ Unemployment Compensation and Federal Pandemic Unemployment Compensation
+ shall effect the ability of New York State to receive a cap and/or waiv-
+ er on the reduction of tax credits, otherwise known as the Benefit  Cost
+ Rate (BCR) penalty, pursuant to section 3302 of the Federal Unemployment
+ Tax Act and 20 CFR 606.20. Within one week of the receipt of the USDOL's
+ review,  the  Commissioner  shall certify that this act will or will not
+ prevent a cap and/or waiver of the BCR penalty and provide such  certif-
+ ication  along with a copy of the USDOL's response to a request for such
+ review to the Assembly and Senate Labor Committee  chairs.  As  part  of
+ this  certification,  the  Commissioner  shall  state whether or not the
+ provisions of this act that allow for the waiver of the overpayments  of
+ Federal  unemployment  or assistance benefits, alone, including Pandemic
+ Unemployment Assistance, Pandemic  Emergency  Unemployment  Compensation
+ and  Federal Pandemic Unemployment Compensation will or will not prevent
+ a cap and/or waiver of the BCR penalty. The Commissioner shall seek such
+ review as of January 15 of each successive year until the sooner of  the
+ Commissioner  certifying  that  this  act  will not prevent a cap and/or
+ waiver of the BCR penalty or the State unemployment insurance trust fund
+ becomes solvent.
+  § 5. This act shall take effect  immediately  provided,  however  that
+ sections  one, two and three shall take effect upon the certification by
+ the Commissioner of Labor that this act will not prevent  a  cap  and/or
+ waiver of the BCR penalty and shall be deemed to have been in full force
+ and  effect  on  and  after March 9, 2020. If the Commissioner certifies
+ that the provisions of this act that allow for the waiver of  the  over-
+ payments  of  Federal  unemployment  or  assistance  benefits  including
+ Pandemic  Unemployment  Assistance,  Pandemic  Emergency  Unemployment
+ Compensation  and  Federal  Pandemic  Unemployment Compensation will not
+ prevent a cap and/or waiver of the BCR penalty, those  provisions  shall
+ take  effect  immediately and shall be deemed to have been in full force
+ and effect on and after March 9, 2020. In the event that the Commission-
+ er certifies that all provisions of this act will prevent a  cap  and/or
+ waiver  of the BCR penalty, the provisions of this act shall take effect
+ upon the solvency of the State unemployment compensation trust fund  and
+ shall be deemed to have been in full force and effect on and after March
+ 9,  2020.  The  Commissioner  of Labor shall notify the legislative bill
+ drafting commission upon the Commissioner's certification as required by
+ this section in order that the commission may maintain an  accurate  and
+ timely effective data base of the official text of the laws of the state
+ of  New York in furtherance of effectuating the provisions of section 44
+ of the legislative law and section 70-b of the public officers law.
