@@ -1,6 +1,6 @@
 # Enacts "Gittel's law"
 
-**Bill ID:** S9294A
+**Bill ID:** S9294AA
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** Senate Floor Calendar
@@ -16,7 +16,8 @@ Expands the definition of mental health care provider to include licensed mental
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  9294
+  9294--A
+  Cal. No. 1450
  
   I N  S E N A T E
  
@@ -24,14 +25,17 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sen. FERNANDEZ -- read twice and ordered printed, and when
-  printed to be committed to the Committee on Codes
- 
+  printed  to be committed to the Committee on Codes -- reported favora-
+  bly from said committee, ordered to first and second  report,  ordered
+  to a third reading, amended and ordered reprinted, retaining its place
+  in the order of third reading
+
  AN  ACT  to amend the penal law, in relation to expanding the definition
   of mental health care provider for purposes of certain sex offenses
  
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
-
+ 
   Section 1. This act shall be known and may be cited as "Gittel's law".
   §  2. Subdivision 13 of section 130.00 of the penal law, as amended by
  chapter 230 of the laws of 2004, is amended to read as follows:
@@ -39,10 +43,9 @@ S T A T E  O F  N E W  Y O R K
  licensed  psychologist, registered professional nurse, licensed clinical
  social worker [or a], licensed master social  worker  under  the  super-
  vision  of a physician, psychologist or licensed clinical social worker,
- MENTAL HEALTH PRACTITIONER  OR  ANY  OTHER  MENTAL  HEALTH  PROFESSIONAL
- LICENSED OR CERTIFIED PURSUANT TO TITLE EIGHT OF THE EDUCATION LAW.
+ LICENSED MENTAL HEALTH COUNSELOR OR A LICENSED MARRIAGE AND FAMILY THER-
+ APIST.
   § 3. This act shall take effect immediately.
- 
  
  
  
@@ -51,4 +54,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD15343-05-4
+  LBD15343-07-4
