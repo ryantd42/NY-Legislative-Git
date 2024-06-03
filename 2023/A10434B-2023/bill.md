@@ -1,6 +1,6 @@
 # Authorizes Kolel Rachmistrivka to file an application for exemption from real property taxes
 
-**Bill ID:** A10434BA
+**Bill ID:** A10434BB
 **Session:** 2023
 **Sponsor:** John W. McGowan
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,7 @@ Authorizes Kolel Rachmistrivka to file an application for exemption from real pr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  10434--A
+  10434--B
  
   I N  A S S E M B L Y
  
@@ -26,11 +26,13 @@ S T A T E  O F  N E W  Y O R K
  Introduced  by COMMITTEE ON RULES -- (at request of M. of A. McGowan) --
   read once and referred to the Committee on Real Property  Taxation  --
   committee  discharged,  bill amended, ordered reprinted as amended and
-  recommitted to said committee
- 
+  recommitted to said committee -- again reported  from  said  committee
+  with  amendments, ordered reprinted as amended and recommitted to said
+  committee
+
  AN ACT authorizing Kolel Rachmistrivka to receive retroactive real prop-
   erty tax exempt status
-
+ 
   THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
@@ -38,13 +40,12 @@ S T A T E  O F  N E W  Y O R K
  the  assessor  of the town of Ramapo is hereby authorized to accept from
  Kolel Rachmistrivka an application  for  exemption  from  real  property
  taxes  pursuant  to  section  420-a  of  the  real property tax law with
- respect to the 2023-2024 assessment rolls for  a  portion  of  the  2023
- school  taxes  and all of the 2024 general taxes for the parcel conveyed
- to such organization located at 2 Hopal Lane, hamlet of Monsey, town  of
- Ramapo, county of Rockland, otherwise known as Rockland county parcel ID
- section  56.07  block  4  lot  38. If accepted, the application shall be
- reviewed as if it had been received on or before the taxable status date
- established for such roll.
+ respect to the 2021, 2022 and  2023  assessment  rolls  for  the  parcel
+ conveyed to such organization located at 2 Hopal Lane, hamlet of Monsey,
+ town  of  Ramapo, county of Rockland, otherwise known as Rockland county
+ parcel ID section 56.07 block 4 lot 38.  If  accepted,  the  application
+ shall  be  reviewed  as if it had been received on or before the taxable
+ status date established for such roll.
   If satisfied that such organization would  otherwise  be  entitled  to
  such  exemption  if  such  organization  had  filed  an  application for
  exemption by the appropriate taxable status  date,  the  assessor,  upon
@@ -59,4 +60,4 @@ S T A T E  O F  N E W  Y O R K
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD15614-03-4
+  LBD15614-05-4
