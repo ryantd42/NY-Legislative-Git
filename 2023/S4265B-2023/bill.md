@@ -1,6 +1,6 @@
 # Enacts the "beauty justice act"
 
-**Bill ID:** S4265BA
+**Bill ID:** S4265BB
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Enacts the "beauty justice act"; provides for the regulation of ingredients in p
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  4265--A
+  4265--B
   Cal. No. 961
  
   2023-2024 Regular Sessions
@@ -35,7 +35,9 @@ S T A T E  O F  N E W  Y O R K
   tee on Environmental Conservation in accordance with  Senate  Rule  6,
   sec. 8 -- reported favorably from said committee, ordered to first and
   second  report,  ordered  to  a  third  reading,  amended  and ordered
-  reprinted, retaining its place in the order of third reading
+  reprinted, retaining its place in the order of third reading --  again
+  amended  and  ordered  reprinted,  retaining its place in the order of
+  third reading
  
  AN ACT to amend the environmental conservation law, in relation  to  the
   regulation of ingredients in personal care products and cosmetics
@@ -44,7 +46,7 @@ S T A T E  O F  N E W  Y O R K
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Short title. This act shall be known and may  be  cited  as
- the "safe personal care and cosmetics act".
+ the "beauty justice act".
   § 2. Legislative findings and intent.  Thousands of chemicals are used
  in  cosmetics  and  personal  care products. Some of these chemicals are
  associated with asthma, allergies, hormone disruption,  neurodevelopmen-
@@ -58,14 +60,14 @@ S T A T E  O F  N E W  Y O R K
   Further,  The  National Institutes of Health (NIH) conducted an eight-
  year study of over  46,000  women  who  used  permanent  hair  dyes  and
  straighteners.  They  found  that women of color who regularly used dyes
- and straighteners had a 45 percent  higher  breast  cancer  risk.  White
- women faced a 7 percent higher breast cancer risk.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07027-10-4
- S. 4265--A  2
+  LBD07027-12-4
+ S. 4265--B  2
  
+ and straighteners had a 45 percent  higher  breast  cancer  risk.  White
+ women faced a 7 percent higher breast cancer risk.
   European  Union  countries  prohibit  (with few exceptions) substances
  classified as carcinogenic, mutagenic,  or  toxic  for  reproduction  in
  cosmetic  products. The Canadian government regularly updates a Cosmetic
@@ -90,7 +92,7 @@ S T A T E  O F  N E W  Y O R K
   § 3. Article 37 of the environmental conservation law  is  amended  by
  adding a new title 12 to read as follows:
   TITLE XII
-  SAFE PERSONAL CARE AND COSMETICS ACT
+  BEAUTY JUSTICE ACT
  SECTION 37-1201. DEFINITIONS.
   37-1203. SALES PROHIBITION.
   37-1205. IDENTIFICATION OF SAFER ALTERNATIVES.
@@ -120,10 +122,10 @@ S T A T E  O F  N E W  Y O R K
  INGREDIENT, OR A BYPRODUCT OF THE MANUFACTURING PROCESS.
   4.  "NONFUNCTIONAL  CONTAMINANT"  SHALL  MEAN  ANY ELEMENT OR COMPOUND
  PRESENT IN A PERSONAL CARE PRODUCT AS AN  UNINTENTIONAL  CONSEQUENCE  OF
+ S. 4265--B  3
+ 
  MANUFACTURING  WHICH  HAS  NO  FUNCTIONAL  OR  TECHNICAL  EFFECT  IN THE
  FINISHED PRODUCT. NONFUNCTIONAL CONTAMINANTS INCLUDE, BUT ARE NOT LIMIT-
- S. 4265--A  3
- 
  ED TO, ELEMENTS OR COMPOUNDS PRESENT IN THE ENVIRONMENT AS  CONTAMINANTS
  WHICH  WERE  INTRODUCED  INTO  A PRODUCT, A RAW MATERIAL, OR A PRODUCT
  INGREDIENT AS A RESULT OF THE USE OF AN ENVIRONMENTAL MEDIUM, SUCH AS  A
@@ -170,19 +172,18 @@ S T A T E  O F  N E W  Y O R K
   (H) ASBESTOS (CAS 1332-21-4) AND TALC (CAS 14807-96-6);
   (I)  BUTYLATED  HYDROXYTOLUENE  (BHT)  (CAS  128-37-0)  AND  BUTYLATED
  HYDROXYANISOLE (BHA) (CAS 121-00-6);
-  (J)  CYCLOTETRASILOXANE  (CAS  556-67-2),  CYCLOPENTASILOXANE  (CAS
- 541-02-6), AND OCTAMETHYLCYCLOTETRASILOXANE (CAS 556-67-2);
-  (K) M-PHENYLENEDIAMINE  (CAS  108-45-2)  AND  O-PHENYLENEDIAMINE  (CAS
+  (J) CYCLOTETRASILOXANE (CAS 556-67-2);
+  (K)  M-PHENYLENEDIAMINE  (CAS  108-45-2)  AND  O-PHENYLENEDIAMINE (CAS
  95-54-5);
   (L) TRICLOSAN (CAS 3380-34-5), TRICLOCARBAN (CAS 101-20-2), AND NONYL-
  PHENOL (CAS 68412-54-4); AND
   (M) DIETHANOLAMINE (CAS 111-42-2) AND TRIETHANOLAMINE (CAS 102-71-6).
  § 37-1203. SALES PROHIBITION.
+ S. 4265--B  4
+
   1. EFFECTIVE JANUARY FIRST, TWO THOUSAND TWENTY-EIGHT, NO PERSON SHALL
  SELL OR OFFER FOR SALE IN THIS STATE A PERSONAL CARE PRODUCT OR COSMETIC
- S. 4265--A  4
- 
- PRODUCT  CONTAINING  A  RESTRICTED  SUBSTANCE  AS AN INTENTIONALLY ADDED
+ PRODUCT CONTAINING A RESTRICTED  SUBSTANCE  AS  AN  INTENTIONALLY  ADDED
  INGREDIENT IN ANY AMOUNT.
   2.  IN  ADDITION TO THE PROVISIONS OF SUBDIVISION ONE OF THIS SECTION,
  TWO YEARS AFTER THE DEPARTMENT'S ADOPTION OF THE REGULATIONS REQUIRED BY
@@ -235,11 +236,11 @@ S T A T E  O F  N E W  Y O R K
  UCT OR COSMETIC PRODUCT DOES NOT SATISFY THE LIMITATIONS ON THE PRESENCE
  OF RESTRICTED SUBSTANCES SET FORTH IN THIS TITLE.
  § 37-1205. IDENTIFICATION OF SAFER ALTERNATIVES.
+ S. 4265--B  5
+ 
   BY  JANUARY  FIRST,  TWO  THOUSAND  TWENTY-SEVEN,  THE  DEPARTMENT, IN
  CONSULTATION WITH THE DEPARTMENT OF HEALTH, SHALL MAKE USE  OF  EXISTING
  INFORMATION  TO IDENTIFY AND ASSESS THE HAZARDS OF CHEMICALS OR CHEMICAL
- S. 4265--A  5
- 
  CLASSES THAT CAN PROVIDE THE SAME OR SIMILAR FUNCTION IN  PERSONAL  CARE
  PRODUCTS  AND  COSMETIC  PRODUCTS  AS  THE CHEMICALS OR CHEMICAL CLASSES
  LISTED IN SECTION 37-1201 OF THIS TITLE AND THAT CAN  IMPACT  VULNERABLE
