@@ -1,6 +1,6 @@
 # Designates a portion of the state highway system as the War Dog Memorial Highway
 
-**Bill ID:** S3037A
+**Bill ID:** S3037AA
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Designates a portion of the state highway system in the village of Herkimer, cou
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  3037
+  3037--A
  
   2023-2024 Regular Sessions
  
@@ -25,34 +25,37 @@ S T A T E  O F  N E W  Y O R K
   January 26, 2023
   ___________
  
- Introduced  by  Sens. WALCZYK, GRIFFO -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Transportation
+ Introduced  by  Sens.  WALCZYK,  BAILEY, COMRIE, GRIFFO, SKOUFIS -- read
+  twice and ordered printed, and when printed to  be  committed  to  the
+  Committee  on Transportation -- recommitted to the Committee on Trans-
+  portation in accordance with  Senate  Rule  6,  sec.  8  --  committee
+  discharged, bill amended, ordered reprinted as amended and recommitted
+  to said committee
  
  AN ACT to amend the highway law, in relation to designating a portion of
-  the state highway system as the "War Dog Memorial Bridge"
+  the state highway system as the "War Dog Memorial Highway"
  
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The highway law is amended by adding a new section 344-o to
+  Section 1. The highway law is amended by adding a new section 344-p to
  read as follows:
-  §  344-O.  PORTION OF THE STATE HIGHWAY SYSTEM TO BE DESIGNATED AS THE
- "WAR DOG MEMORIAL BRIDGE". THE BRIDGE LOCATED ON INTERSTATE ROUTE  NINE-
- TY,  CROSSING OVER STATE ROUTE TWENTY-EIGHT, IN THE VILLAGE OF HERKIMER,
- COUNTY OF HERKIMER, SHALL BE DESIGNATED AND KNOWN AS THE "WAR DOG  MEMO-
- RIAL BRIDGE".
-  §  2.  The  chairperson  of the New York state thruway authority shall
- provide for the installation and maintenance of adequate signing of  the
- state  highway system as designated pursuant to section one of this act.
- However, to avoid confusion and to  limit  any  possible  disruption  of
- commerce, the designation called for pursuant to section one of this act
- shall  be  one of ceremonial nature and the official name of such bridge
- shall not be changed as a result of this act.
+  § 344-P. ALL THAT PORTION OF THE  STATE  HIGHWAY  SYSTEM  CONSTITUTING
+ STATE ROUTE 28 IN THE VILLAGE OF HERKIMER, COUNTY OF HERKIMER, BEGINNING
+ AT  THE INTERSECTION OF STATE ROUTE 28 AND CANAL ACCESS ROAD, CONTINUING
+ IN A GENERALLY NORTHERLY DIRECTION, AND TERMINATING AT THE  INTERSECTION
+ OF  STATE  ROUTE  28 AND STATE ROUTE 5, SHALL BE DESIGNATED AND KNOWN AS
+ THE "WAR DOG MEMORIAL HIGHWAY".
+  § 2. The commissioner of transportation shall provide for the  instal-
+ lation  and  maintenance of adequate signing of the state highway system
+ as designated pursuant to section one of this  act.  However,  to  avoid
+ confusion  and  to limit any possible disruption of commerce, the desig-
+ nation called for pursuant to section one of this act shall  be  one  of
+ ceremonial  nature  and  the  official name of such highway shall not be
+ changed as a result of this act.
   § 3. This act shall take effect immediately.
- 
- 
  
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD07707-01-3
+  LBD07707-02-4
