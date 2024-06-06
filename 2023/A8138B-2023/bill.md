@@ -1,6 +1,6 @@
 # Establishes contract requirements for contracts involving the creation and use of digital replicas
 
-**Bill ID:** A8138BA
+**Bill ID:** A8138BB
 **Session:** 2023
 **Sponsor:** Helene Weinstein
 **Status:** Assembly Floor Calendar
@@ -16,7 +16,8 @@ Establishes contract requirements for contracts involving the creation and use o
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  8138--A
+  8138--B
+  R. R. 532
  
   2023-2024 Regular Sessions
  
@@ -25,15 +26,18 @@ S T A T E  O F  N E W  Y O R K
   October 13, 2023
   ___________
  
- Introduced by M. of A. WEINSTEIN, L. ROSENTHAL, BRONSON -- read once and
-  referred to the Committee on Judiciary -- recommitted to the Committee
-  on  Judiciary  in accordance with Assembly Rule 3, sec. 2 -- committee
-  discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
-
- AN ACT to amend the social services law, in relation to eligibility  for
-  the temporary assistance to needy families block grant program, safety
-  net assistance and medical assistance for certain noncitizens
+ Introduced  by  M. of A. WEINSTEIN, L. ROSENTHAL, BRONSON, BORES -- read
+  once and referred to the Committee on Judiciary -- recommitted to  the
+  Committee  on  Judiciary in accordance with Assembly Rule 3, sec. 2 --
+  committee discharged, bill amended, ordered reprinted as  amended  and
+  recommitted  to said committee -- reported and referred to the Commit-
+  tee on Ways and Means -- reported and referred  to  the  Committee  on
+  Rules -- ordered to a third reading -- amended on the special order of
+  third  reading,  ordered  reprinted as amended, retaining its place on
+  the special order of third reading
+ 
+ AN ACT to amend the general obligations law, in  relation  to  contracts
+  for the creation and use of digital replicas
  
   THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
@@ -56,15 +60,15 @@ S T A T E  O F  N E W  Y O R K
  ENT  WITH  THE  TERMS OF THE CONTRACT FOR THE PERFORMANCE OF PERSONAL OR
  PROFESSIONAL SERVICES AND CONSISTENT WITH THE FUNDAMENTAL  CHARACTER  OF
  THE PHOTOGRAPHY OR SOUND TRACK AS RECORDED OR PERFORMED.
-  (C) THE INDIVIDUAL WAS NOT:
-  (I) REPRESENTED BY LEGAL COUNSEL WHO NEGOTIATED ON BEHALF OF THE INDI-
- VIDUAL LICENSING THE INDIVIDUAL'S DIGITAL REPLICA RIGHTS AND THE LICENS-
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD13334-09-4
- A. 8138--A  2
+  LBD13334-10-4
+ A. 8138--B  2
  
+  (C) THE INDIVIDUAL WAS NOT:
+  (I) REPRESENTED BY LEGAL COUNSEL WHO NEGOTIATED ON BEHALF OF THE INDI-
+ VIDUAL LICENSING THE INDIVIDUAL'S DIGITAL REPLICA RIGHTS AND THE LICENS-
  ING  TERMS  ARE  NOT  STATED  CLEARLY AND CONSPICUOUSLY IN AN EMPLOYMENT
  CONTRACT THAT IS SEPARATELY SIGNED OR INITIALED BY THE INDIVIDUAL OR  IN
  A SEPARATE WRITING THAT IS SIGNED BY THE INDIVIDUAL; OR
