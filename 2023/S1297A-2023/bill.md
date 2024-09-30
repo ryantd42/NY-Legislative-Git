@@ -1,6 +1,6 @@
 # Repeals the rebates for stock transfer tax paid; dedicates funds of the stock transfer tax fund and stock transfer incentive fund to various funds
 
-**Bill ID:** S1297A
+**Bill ID:** S1297AA
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Repeals the rebates for stock transfer tax paid; dedicates funds of the stock tr
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1297
+  1297--A
  
   2023-2024 Regular Sessions
  
@@ -25,100 +25,102 @@ S T A T E  O F  N E W  Y O R K
   January 11, 2023
   ___________
  
- Introduced  by Sens. SANDERS, BRISPORT, COMRIE, GIANARIS, HOYLMAN-SIGAL,
-  JACKSON, MAY, MYRIE, PARKER, RAMOS, RIVERA, SALAZAR, SEPULVEDA, SERRA-
-  NO, STAVISKY -- read twice and ordered printed, and when printed to be
-  committed to the Committee on Finance
+ Introduced  by  Sens.  SANDERS,  BRISPORT,  CLEARE,  COMRIE,  FERNANDEZ,
+  GIANARIS, HOYLMAN-SIGAL, JACKSON, MAY, MYRIE, PARKER,  RAMOS,  RIVERA,
+  SALAZAR, SEPULVEDA, SERRANO, STAVISKY -- read twice and ordered print-
+  ed,  and  when  printed to be committed to the Committee on Finance --
+  recommitted to the Committee on Finance in accordance with Senate Rule
+  6, sec. 8 -- committee discharged, bill amended, ordered reprinted  as
+  amended and recommitted to said committee
  
- AN ACT to amend the state finance law, in relation to the repeal of  the
+ AN  ACT to amend the state finance law, in relation to the repeal of the
   rebate for stock transfer tax paid and the funds of the stock transfer
-  tax  fund  and  the dedicated infrastructure investment fund; to amend
-  the environmental conservation law, in relation  to  establishing  the
-  safe  water  infrastructure  action  program for the purpose of making
-  payments toward the replacement and rehabilitation of  existing  local
-  municipally-owned  and funded drinking water, storm water and sanitary
-  sewer systems; to amend the tax law, in relation to taxes  imposed  in
-  certain  transactions; to repeal section 280-a of the tax law relating
-  to the rebate for stock transfer tax paid; to repeal section  92-i  of
-  the  state  finance law relating to the stock transfer incentive fund;
-  and to repeal certain provisions of the  administrative  code  of  the
+  tax fund and the dedicated infrastructure investment  fund;  to  amend
+  the  environmental  conservation  law, in relation to establishing the
+  safe water infrastructure action program for  the  purpose  of  making
+  payments  toward  the replacement and rehabilitation of existing local
+  municipally-owned and funded drinking water, storm water and  sanitary
+  sewer  systems;  to amend the tax law, in relation to taxes imposed in
+  certain transactions; to repeal section 280-a of the tax law  relating
+  to  the  rebate for stock transfer tax paid; to repeal section 92-i of
+  the state finance law relating to the stock transfer  incentive  fund;
+  and  to  repeal  certain  provisions of the administrative code of the
   city of New York relating thereto
-
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+ 
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
   Section 1. Section 280-a of the tax law is REPEALED.
   § 2. Section 92-i of the state finance law is REPEALED.
-  § 3. Section 92-b of the state finance law, as added by chapter 91  of
+  §  3. Section 92-b of the state finance law, as added by chapter 91 of
  the laws of 1965, subdivision 3 as amended by chapter 878 of the laws of
- 1977,  subdivision  4  as  amended  by  chapter 724 of the laws of 1979,
- subdivision 5 as added and subdivision 6 as renumbered by section  2  of
- chapter  3  of the laws of 1966, subdivision 7 as added by section 10 of
- part SS1 of chapter 57 of the laws of 2008 and such  section  as  renum-
- bered  by section 1 of chapter 3 of the laws of 1966, is amended to read
- as follows:
- 
+ 1977, subdivision 4 as amended by chapter  724  of  the  laws  of  1979,
+ subdivision  5  as added and subdivision 6 as renumbered by section 2 of
+ chapter 3 of the laws of 1966, subdivision 7 as added by section  10  of
+ part  SS1  of  chapter 57 of the laws of 2008 and such section as renum-
+
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD04823-01-3
- S. 1297  2
+  LBD04823-03-4
+ S. 1297--A  2
  
+ bered by section 1 of chapter 3 of the laws of 1966, is amended to  read
+ as follows:
   § 92-b. Stock transfer tax fund. 1. There is hereby established in the
- custody of the commissioner of taxation and finance a special  fund,  to
+ custody  of  the commissioner of taxation and finance a special fund, to
  be known as the stock transfer tax fund.
-  2.  Such  fund  shall  consist  of the revenues derived from the stock
- transfer tax imposed by article twelve of the  tax  law  and  all  other
- moneys  credited  or  transferred  thereto from any other fund or source
+  2. Such fund shall consist of the  revenues  derived  from  the  stock
+ transfer  tax  imposed  by  article  twelve of the tax law and all other
+ moneys credited or transferred thereto from any  other  fund  or  source
  pursuant to law.
-  3. The moneys received from such tax and other sources in such  fund[,
- after  deducting  the  amount  the  commissioner of taxation and finance
- shall determine to be necessary for] SHALL BE USED TO COVER THE  reason-
- able  costs of the state tax commission in administering, collecting and
- distributing [such] THE STOCK TRANSFER tax, commencing with  the  fiscal
- year  ending  March  thirty-first,  [nineteen hundred seventy-seven] TWO
- THOUSAND TWENTY-FIVE,  [shall  be  appropriated  to  (i)  the  municipal
- assistance  corporation  for  the  city  of New York created pursuant to
- title three of article ten of the public authorities  law  in  order  to
- enable such corporation to fulfill the terms of any agreements made with
- the  holders  of  its  notes  and  bonds  and to carry out its corporate
- purposes including the maintenance of the capital reserve fund and  (ii)
- to  the  extent  such  moneys  are  not  required by such corporation as
- provided in subdivision seven of section ninety-two-d  of  this  chapter
- and,  after deducting the amount such commissioner shall determine to be
- necessary for reasonable costs of the state tax commission  in  adminis-
- tering  and  making  distributions  in accordance with the provisions of
- section two hundred eighty-a of the tax  law  from  the  stock  transfer
- incentive fund, to the stock transfer incentive fund created pursuant to
- section  ninety-two-i  of this chapter to enable rebates to be made from
- such fund under the provisions of section two hundred  eighty-a  of  the
- tax  law  and  (iii)  to the extent such moneys are not required by such
- fund, as certified by the commissioner  of  taxation  and  finance,  the
- balance  shall  be appropriated to the city of New York, for the support
- of local government.] AND THE REMAINDER  SHALL  BE  DEPOSITED  INTO  THE
- STATE  GENERAL  FUND. COMMENCING WITH THE FISCAL YEAR ENDING MARCH THIR-
- TY-FIRST, TWO THOUSAND TWENTY-FIVE, SUCH REMAINDER  SHALL  BE  DEPOSITED
- INTO THE FOLLOWING FUNDS:
-  (I)  TWENTY-FIVE  PERCENT SHALL BE DIRECTED TO THE METROPOLITAN TRANS-
- PORTATION AUTHORITY FINANCIAL ASSISTANCE FUND  ESTABLISHED  PURSUANT  TO
- SECTION  NINETY-TWO-FF  OF THIS ARTICLE, OF WHICH FIFTY PERCENT SHALL BE
- USED FOR THE PURPOSE OF OPERATIONS AND FIFTY PERCENT SHALL BE  USED  FOR
- THE PURPOSE OF CAPITAL PROJECTS;
-  (II)  TEN  PERCENT  SHALL  BE  DIRECTED TO THE DIVISION OF HOUSING AND
+  3.  The moneys received from such tax and other sources in such fund[,
+ after deducting the amount the  commissioner  of  taxation  and  finance
+ shall  determine to be necessary for] SHALL BE USED TO COVER THE reason-
+ able costs of the state tax commission in administering, collecting  and
+ distributing  [such]  THE STOCK TRANSFER tax, commencing with the fiscal
+ year ending March thirty-first,  [nineteen  hundred  seventy-seven]  TWO
+ THOUSAND TWENTY-SIX, [shall be appropriated to (i) the municipal assist-
+ ance  corporation  for  the  city  of New York created pursuant to title
+ three of article ten of the public authorities law in  order  to  enable
+ such  corporation  to  fulfill the terms of any agreements made with the
+ holders of its notes and bonds and to carry out its  corporate  purposes
+ including  the  maintenance  of the capital reserve fund and (ii) to the
+ extent such moneys are not required by such corporation as  provided  in
+ subdivision  seven  of  section  ninety-two-d of this chapter and, after
+ deducting the amount such commissioner shall determine to  be  necessary
+ for  reasonable  costs  of the state tax commission in administering and
+ making distributions in accordance with the provisions  of  section  two
+ hundred  eighty-a of the tax law from the stock transfer incentive fund,
+ to the stock transfer incentive fund created pursuant to  section  nine-
+ ty-two-i  of  this  chapter  to enable rebates to be made from such fund
+ under the provisions of section two hundred eighty-a of the tax law  and
+ (iii) to the extent such moneys are not required by such fund, as certi-
+ fied  by  the commissioner of taxation and finance, the balance shall be
+ appropriated to the city of New York, for the support of  local  govern-
+ ment.] AND THE REMAINDER SHALL BE DEPOSITED INTO THE STATE GENERAL FUND.
+ COMMENCING  WITH THE FISCAL YEAR ENDING MARCH THIRTY-FIRST, TWO THOUSAND
+ TWENTY-SIX, SUCH REMAINDER SHALL BE DEPOSITED INTO THE FOLLOWING FUNDS:
+  (I) TEN PERCENT SHALL BE DIRECTED TO THE  METROPOLITAN  TRANSPORTATION
+ AUTHORITY  FINANCIAL  ASSISTANCE  FUND  ESTABLISHED  PURSUANT TO SECTION
+ NINETY-TWO-FF OF THIS ARTICLE, OF WHICH FIFTY PERCENT SHALL BE USED  FOR
+ THE  PURPOSE  OF  OPERATIONS  AND  FIFTY  PERCENT  SHALL BE USED FOR THE
+ PURPOSE OF CAPITAL PROJECTS;
+  (II) TEN PERCENT SHALL BE DIRECTED TO  THE  DIVISION  OF  HOUSING  AND
  COMMUNITY RENEWAL FOR THE PURPOSE OF CAPITAL PROJECTS AND OTHER IMPROVE-
  MENTS TO ADDRESS ISSUES RELATING TO CONDITIONS OF GOVERNANCE AND HABITA-
- BILITY, INCLUDING BUT NOT LIMITED TO, HEATING, MOLD, OR LEAD, AND  OTHER
- SUCH  CONDITIONS  AFFECTING  THE HEALTH AND SAFETY OF TENANTS AT HOUSING
+ BILITY,  INCLUDING BUT NOT LIMITED TO, HEATING, MOLD, OR LEAD, AND OTHER
+ SUCH CONDITIONS AFFECTING THE HEALTH AND SAFETY OF  TENANTS  AT  HOUSING
  DEVELOPMENTS OWNED OR OPERATED BY THE NEW YORK CITY HOUSING AUTHORITY;
-  (III) FIFTEEN PERCENT SHALL BE DIRECTED  TO  THE  HIGHWAY  AND  BRIDGE
- CAPITAL  ACCOUNT  IN  THE DEDICATED HIGHWAY AND BRIDGE TRUST FUND ESTAB-
- LISHED PURSUANT TO SECTION EIGHTY-NINE-B OF THIS ARTICLE;
-  (IV) NINE PERCENT SHALL BE  DIRECTED  TO  THE  DEDICATED  HIGHWAY  AND
+  (III) FIVE PERCENT SHALL BE DIRECTED TO THE HIGHWAY AND BRIDGE CAPITAL
+ ACCOUNT  IN  THE  DEDICATED  HIGHWAY  AND  BRIDGE TRUST FUND ESTABLISHED
+ PURSUANT TO SECTION EIGHTY-NINE-B OF THIS ARTICLE;
+  (IV) FIVE PERCENT SHALL BE  DIRECTED  TO  THE  DEDICATED  HIGHWAY  AND
  BRIDGE  TRUST FUND ESTABLISHED PURSUANT TO SECTION EIGHTY-NINE-B OF THIS
  ARTICLE, TO BE DIRECTED  TOWARDS  THE  INFRASTRUCTURE,  MAINTENANCE  AND
  DEVELOPMENT OF RAIL LINES FOR AMTRAK IN THE NORTHEAST CORRIDOR;
   (V) FIVE PERCENT SHALL BE DIRECTED TO THE LOCAL INFRASTRUCTURE ACCOUNT
  OF  THE GENERAL FUND ESTABLISHED PURSUANT TO SECTION SEVENTY-TWO OF THIS
- S. 1297  3
+ S. 1297--A  3
  
  ARTICLE TO BE DIRECTED TO THE  CONSOLIDATED  LOCAL  STREET  AND  HIGHWAY
  IMPROVEMENT PROGRAM (CHIPS);
@@ -128,30 +130,38 @@ S T A T E  O F  N E W  Y O R K
  ENVIRONMENTAL CONSERVATION LAW;
   (VII) FIVE PERCENT SHALL BE DIRECTED TO THE MUNICIPAL ASSISTANCE STATE
  AID FUND ESTABLISHED PURSUANT TO SECTION NINETY-TWO-E OF THIS ARTICLE;
-  (VIII) FOUR PERCENT SHALL BE DIRECTED TO THE DEDICATED MASS  TRANSPOR-
+  (VIII) FIVE PERCENT SHALL BE DIRECTED TO THE DEDICATED MASS  TRANSPOR-
  TATION  TRUST  FUND  TO THE CREDIT OF THE NON-MTA ACCOUNT FOR PAYMENT TO
  DOWNSTATE TRANSIT SYSTEMS OTHER THAN THOSE TRANSIT SYSTEMS  OPERATED  BY
  THE METROPOLITAN TRANSPORTATION AUTHORITY;
-  (IX)  FOUR PERCENT SHALL BE DIRECTED TO THE DEDICATED MASS TRANSPORTA-
+  (IX)  FIVE PERCENT SHALL BE DIRECTED TO THE DEDICATED MASS TRANSPORTA-
  TION TRUST FUND TO THE CREDIT OF THE  NON-MTA  ACCOUNT  FOR  PAYMENT  TO
  UPSTATE TRANSIT SYSTEMS;
-  (X) THIRTEEN PERCENT SHALL BE DIRECTED TO THE ENERGY RESEARCH DEVELOP-
- MENT  OPERATING  FUND  PURSUANT  TO  THE  PROVISIONS OF SECTION EIGHTEEN
- HUNDRED FIFTY-NINE OF THE PUBLIC AUTHORITIES LAW, TO BE DIRECTED TO  THE
- CLEAN ENERGY FUND AND SHALL BE DIVIDED EQUALLY AMONG THE FOUR INVESTMENT
- PORTFOLIOS THAT MAKE UP SUCH FUND;
+  (X)  TEN  PERCENT SHALL BE DIRECTED TO THE ENERGY RESEARCH DEVELOPMENT
+ OPERATING FUND PURSUANT TO THE PROVISIONS OF  SECTION  EIGHTEEN  HUNDRED
+ FIFTY-NINE  OF  THE  PUBLIC AUTHORITIES LAW, TO BE DIRECTED TO THE CLEAN
+ ENERGY FUND AND SHALL BE DIVIDED EQUALLY AMONG THE FOUR INVESTMENT PORT-
+ FOLIOS THAT MAKE UP SUCH FUND;
   (XI) TWO AND ONE-HALF PERCENT SHALL BE DIRECTED TO THE CITY UNIVERSITY
- OF  NEW  YORK,  OF  WHICH FIFTY PERCENT SHALL BE USED FOR THE PURPOSE OF
+ OF NEW YORK, OF WHICH FIFTY PERCENT SHALL BE USED  FOR  THE  PURPOSE  OF
  CAPITAL IMPROVEMENTS AND INFRASTRUCTURE PROJECTS AND FIFTY PERCENT SHALL
- BE USED FOR THE PURPOSE OF SUPPORTING ACADEMIC PROGRAMS AT CITY  OF  NEW
- YORK INSTITUTIONS; AND
-  (XII)  TWO AND ONE-HALF PERCENT SHALL BE DIRECTED TO THE STATE UNIVER-
- SITY OF NEW YORK INSTITUTIONS, OF WHICH FIFTY PERCENT SHALL BE USED  FOR
- THE  PURPOSES  OF  SUPPORTING  AND  EXPANDING SERVICES AND CARE AT STATE
- UNIVERSITY OF NEW YORK HOSPITALS, STATE UNIVERSITY OF NEW YORK  ACADEMIC
- MEDICAL  CENTERS  AND  FIFTY  PERCENT  SHALL  BE USED FOR THE PURPOSE OF
- SUPPORTING ACADEMIC PROGRAMS AT STATE  UNIVERSITY  OF  NEW  YORK  INSTI-
- TUTIONS.
+ BE  USED  FOR THE PURPOSE OF SUPPORTING ACADEMIC PROGRAMS AT CITY OF NEW
+ YORK INSTITUTIONS;
+  (XII) TWO AND ONE-HALF PERCENT SHALL BE DIRECTED TO THE STATE  UNIVER-
+ SITY  OF NEW YORK INSTITUTIONS, OF WHICH FIFTY PERCENT SHALL BE USED FOR
+ THE PURPOSES OF SUPPORTING AND EXPANDING  SERVICES  AND  CARE  AT  STATE
+ UNIVERSITY  OF NEW YORK HOSPITALS, STATE UNIVERSITY OF NEW YORK ACADEMIC
+ MEDICAL CENTERS AND FIFTY PERCENT SHALL  BE  USED  FOR  THE  PURPOSE  OF
+ SUPPORTING  ACADEMIC  PROGRAMS  AT  STATE  UNIVERSITY OF NEW YORK INSTI-
+ TUTIONS;
+  (XIII) TEN PERCENT SHALL BE DIRECTED TO THE  DEPARTMENT  OF  EDUCATION
+ FOR THE PURPOSE OF SUPPORTING FOUNDATION AID;
+  (XIV)  TEN  PERCENT  SHALL  BE DIRECTED TO THE DEPARTMENT OF HEALTH TO
+ SUPPORT HEALTH CARE; AND
+  (XV) TEN PERCENT SHALL BE DIRECTED TO THE DEPARTMENT  OF  AGRICULTURE,
+ DEPARTMENT  OF  ENVIRONMENTAL  CONSERVATION, AND OFFICE OF PARKS, RECRE-
+ ATION AND HISTORIC PRESERVATION FOR THE PURPOSES OF REFORESTATION,  SOIL
+ CONSERVATION, SUSTAINABLE AGRICULTURE, LOCAL PARKS AND OPEN SPACE.
   4.  [After  the deduction of such costs of the state tax commission in
  administering, collecting and distributing such tax, the balances in the
  stock transfer tax fund so appropriated shall be distributed and paid on
@@ -168,6 +178,8 @@ S T A T E  O F  N E W  Y O R K
  stock transfer incentive fund shall be distributed and paid to the stock
  transfer incentive fund in the custody of the commissioner  of  taxation
  and finance established pursuant to section ninety-two-i of this chapter
+ S. 1297--A  4
+
  and unless and to the extent that the balances in the stock transfer tax
  fund  on  each  such  payment day are not required by the stock transfer
  incentive fund as provided in such section ninety-two-i of this  chapter
@@ -176,69 +188,67 @@ S T A T E  O F  N E W  Y O R K
  into  the treasury of the city to the credit of the general fund or paid
  by the commissioner of taxation and finance to  such  other  account  or
  fund  as  may  be  designated in writing by such chief fiscal officer at
- S. 1297  4
-
  least ten business days prior to such last day and on each such day, the
  commissioner of taxation and finance shall certify  to  the  comptroller
  the  amount deducted for administering, collecting and distributing such
- tax  during  such  quarterly  period  and shall pay such amount into the
- general fund of the state treasury to the credit of the  state  purposes
- fund  therein. In no event shall any amount (other than the amount to be
- deducted for administering, collecting and  distributing  such  tax)  be
+ tax during such quarterly period and shall  pay  such  amount  into  the
+ general  fund  of the state treasury to the credit of the state purposes
+ fund therein. In no event shall any amount (other than the amount to  be
+ deducted  for  administering,  collecting  and distributing such tax) be
  distributed or paid from the stock transfer tax fund to any person other
- than  the  municipal  assistance  corporation  for  the city of New York
- unless and until the aggregate of all payments certified  to  the  comp-
- troller  as  required  by  such  corporation in order to comply with its
- agreements with the holders of its notes and bonds and to carry out  its
- corporate  purposes,  including  the  maintenance of the capital reserve
- fund, which remain unappropriated or unpaid to  such  corporation  shall
- have  been  appropriated to such corporation and shall have been paid in
- full provided, however, that no person, including  such  corporation  or
- the  holders  of  its notes or bonds shall have any lien on such tax and
- such agreements shall be executory only to the extent  of  the  balances
- available  to  the  state in such fund. If the balances in such fund are
- not required by such corporation pursuant  to  the  provisions  of  this
- subdivision,  on  each  such  last  business day of September, December,
- March and June, the commissioner of taxation and finance  shall  certify
- to  the  comptroller  the  amount  deducted for administering and making
- distributions in accordance with the provisions of section  two  hundred
- eighty-a  of  the  tax law from the stock transfer incentive fund during
+ than the municipal assistance corporation  for  the  city  of  New  York
+ unless  and  until  the aggregate of all payments certified to the comp-
+ troller as required by such corporation in  order  to  comply  with  its
+ agreements  with the holders of its notes and bonds and to carry out its
+ corporate purposes, including the maintenance  of  the  capital  reserve
+ fund,  which  remain  unappropriated or unpaid to such corporation shall
+ have been appropriated to such corporation and shall have been  paid  in
+ full  provided,  however,  that no person, including such corporation or
+ the holders of its notes or bonds shall have any lien on  such  tax  and
+ such  agreements  shall  be executory only to the extent of the balances
+ available to the state in such fund. If the balances in  such  fund  are
+ not  required  by  such  corporation  pursuant to the provisions of this
+ subdivision, on each such last  business  day  of  September,  December,
+ March  and  June, the commissioner of taxation and finance shall certify
+ to the comptroller the amount  deducted  for  administering  and  making
+ distributions  in  accordance with the provisions of section two hundred
+ eighty-a of the tax law from the stock transfer  incentive  fund  during
  such quarterly period and he shall pay such amount into the general fund
- of the state treasury to the credit of the state purposes fund  therein.
- To  the  extent  such  moneys  are  not required by such corporation, as
- provided in subdivision seven of section ninety-two-d of  this  chapter,
+ of  the state treasury to the credit of the state purposes fund therein.
+ To the extent such moneys are  not  required  by  such  corporation,  as
+ provided  in  subdivision seven of section ninety-two-d of this chapter,
  no amount thereof (other than such amount to be deducted for administer-
- ing,  collecting and distributing such tax and such costs in administer-
- ing and making  distributions  in  accordance  with  the  provisions  of
- section  two  hundred  eighty-a  of  the tax law from the stock transfer
+ ing, collecting and distributing such tax and such costs in  administer-
+ ing  and  making  distributions  in  accordance  with  the provisions of
+ section two hundred eighty-a of the tax  law  from  the  stock  transfer
  incentive fund) shall be distributed or paid from the stock transfer tax
- fund other than to such stock transfer incentive fund in the custody  of
- the  commissioner of taxation and finance unless and until the aggregate
+ fund  other than to such stock transfer incentive fund in the custody of
+ the commissioner of taxation and finance unless and until the  aggregate
  of all payments certified to the comptroller by such commissioner pursu-
- ant to the provisions of such incentive fund  as  necessary  to  provide
- payments  on  account  of  rebates  authorized  pursuant  to section two
+ ant  to  the  provisions  of such incentive fund as necessary to provide
+ payments on account  of  rebates  authorized  pursuant  to  section  two
  hundred eighty-a of the tax law which remain unappropriated or unpaid to
- such fund shall have been appropriated to such fund and shall have  been
- paid  in  full provided, however, that no person, including any taxpayer
- under article twelve of the tax law or any member or dealer referred  to
- in  subdivisions  two-a  and six of section two hundred eighty-a of such
- law, shall have any lien on this fund or the  stock  transfer  incentive
+ such  fund shall have been appropriated to such fund and shall have been
+ paid in full provided, however, that no person, including  any  taxpayer
+ under  article twelve of the tax law or any member or dealer referred to
+ in subdivisions two-a and six of section two hundred  eighty-a  of  such
+ law,  shall  have  any lien on this fund or the stock transfer incentive
  fund.
-  5.  In no fiscal year shall the total amount paid from the fund exceed
- the total collections during such fiscal year from  the  stock  transfer
- tax  pursuant  to the provisions of article twelve of the tax law and as
+  5. In no fiscal year shall the total amount paid from the fund  exceed
+ the  total  collections  during such fiscal year from the stock transfer
+ S. 1297--A  5
+
+ tax pursuant to the provisions of article twelve of the tax law  and  as
  deposited to the credit of the stock transfer tax fund.
   6.] All payments from the stock transfer tax fund shall be made on the
  audit and warrant of the comptroller on vouchers approved by the commis-
  sioner of taxation and finance.
-  [7. When all the notes and bonds of the  municipal  assistance  corpo-
- ration  for  the  city  of New York have been fully paid and discharged,
- together with interest thereon and interest on  unpaid  installments  of
- S. 1297  5
-
- interest,  and  the  chairman of the corporation makes the final certif-
- ication required by subdivision seven of section  ninety-two-d  of  this
- article,  the  comptroller  must notify the commissioner of taxation and
+  [7.  When  all  the notes and bonds of the municipal assistance corpo-
+ ration for the city of New York have been  fully  paid  and  discharged,
+ together  with  interest  thereon and interest on unpaid installments of
+ interest, and the chairman of the corporation makes  the  final  certif-
+ ication  required  by  subdivision seven of section ninety-two-d of this
+ article, the comptroller must notify the commissioner  of  taxation  and
  finance  that  all  remaining  funds held in the stock transfer tax fund
  must be released to the stock transfer incentive fund.  From  that  time
  forward,  all  funds previously deposited in the stock transfer tax fund
@@ -265,7 +275,7 @@ S T A T E  O F  N E W  Y O R K
  TO SUBDIVISION THREE OF SECTION NINETY-TWO-B OF THIS ARTICLE  AND  FUNDS
  TRANSFERRED  FROM  THE  STOCK  TRANSFER  INCENTIVE  FUND  ESTABLISHED BY
  SECTION NINETY-TWO-I OF THIS ARTICLE AND REPEALED BY A  CHAPTER  OF  THE
- LAWS  OF  TWO  THOUSAND TWENTY-THREE, WHICH AMENDED THIS PARAGRAPH.  Any
+ LAWS  OF  TWO  THOUSAND  TWENTY-FOUR, WHICH AMENDED THIS PARAGRAPH.  Any
  interest received by the comptroller  on  moneys  on  deposit  shall  be
  retained and become part of the fund, unless otherwise directed by law.
   §  5.  Subdivision (c) of section 11-503 of the administrative code of
@@ -284,7 +294,9 @@ S T A T E  O F  N E W  Y O R K
  LAW AND SUBJECT TO AN APPROPRIATION MADE THEREFOR AND IN ACCORDANCE WITH
  THE PROVISIONS OF THIS  SECTION  AND  WITH  THE  RULES  AND  REGULATIONS
  PROMULGATED  BY  THE  COMMISSIONER IN CONNECTION THEREWITH, ON AND AFTER
- THE FIRST DAY OF APRIL, TWO THOUSAND TWENTY-FOUR, A  CONSOLIDATED  LOCAL
+ S. 1297--A  6
+ 
+ THE FIRST DAY OF APRIL, TWO THOUSAND TWENTY-FIVE, A  CONSOLIDATED  LOCAL
  INFRASTRUCTURE  PROGRAM  IS HEREBY ESTABLISHED FOR THE PURPOSE OF MAKING
  PAYMENTS TOWARD THE REPLACEMENT AND  REHABILITATION  OF  EXISTING  LOCAL
  MUNICIPALLY-OWNED  AND  FUNDED  DRINKING WATER, STORM WATER AND SANITARY
@@ -292,17 +304,15 @@ S T A T E  O F  N E W  Y O R K
  ANY COUNTY, CITY, TOWN OR VILLAGE DRINKING  WATER  SYSTEM,  STORM  WATER
  SYSTEM  OR  SANITARY SEWER SYSTEM WITHIN THE STATE THAT IS NOT UNDER THE
  MAINTENANCE AND/OR OPERATIONAL JURISDICTION OF THE STATE NOR ANY PRIVATE
- S. 1297  6
- 
  ENTITY. THE COMMISSIONER, IN CONJUNCTION WITH THE ENVIRONMENTAL  FACILI-
  TIES  CORPORATION,  SHALL PROMULGATE ALL NECESSARY RULES AND REGULATIONS
  TO CARRY OUT THE PROGRAM SO THAT AN EQUITABLE DISTRIBUTION OF AID  SHALL
  BE  MADE  FOR  THE  GENERAL  OPERATION AND/OR GENERAL MAINTENANCE OF ANY
  EXISTING COUNTY, CITY, TOWN AND VILLAGE  DRINKING  WATER  SYSTEM,  STORM
  WATER SYSTEM OR SANITARY SEWER SYSTEM.
-  2.  ON  OR  BEFORE  THE TWENTY-FIFTH DAY OF APRIL, JUNE, SEPTEMBER AND
+  2.  ON  OR  BEFORE  THE  TWENTY-SIX  DAY OF APRIL, JUNE, SEPTEMBER AND
  NOVEMBER OF EACH STATE FISCAL YEAR COMMENCING WITH THE STATE FISCAL YEAR
- BEGINNING ON APRIL FIRST,  TWO  THOUSAND  TWENTY-FIVE,  THERE  SHALL  BE
+ BEGINNING ON APRIL  FIRST,  TWO  THOUSAND  TWENTY-SIX,  THERE  SHALL  BE
  DISTRIBUTED  AND  PAID TO COUNTIES, CITIES, TOWNS AND VILLAGES AN AMOUNT
  EQUAL TO THE MONEYS  APPROPRIATED  FOR  THE  PURPOSES  OF  THIS  SECTION
  DIVIDED  BY  THE NUMBER OF PAYMENT DATES IN THAT STATE FISCAL YEAR. SUCH
@@ -323,8 +333,8 @@ S T A T E  O F  N E W  Y O R K
  CONSOLIDATION  UNDER  THIS  SECTION OR MERGES WITH ANOTHER MUNICIPALITY,
  THE FUNDS APPROPRIATED UNDER THIS SECTION MAY FUND COSTS ASSOCIATED WITH
  SUCH CONSOLIDATION.
-  6. FOR EACH FISCAL YEAR, STARTING IN TWO THOUSAND  TWENTY-FIVE,  FUNDS
- ARE  TO BE MADE AVAILABLE TO THE LOCAL INFRASTRUCTURE ASSISTANCE ACCOUNT
+  6. FOR EACH FISCAL YEAR, STARTING IN TWO  THOUSAND  TWENTY-SIX,  FUNDS
+ SHALL  BE  MADE AVAILABLE TO THE LOCAL INFRASTRUCTURE ASSISTANCE ACCOUNT
  OF THE GENERAL FUND, AND DISTRIBUTED FROM THAT  ACCOUNT,  IN  AN  AMOUNT
  THAT  IS  AT LEAST EQUAL TO THOSE APPROPRIATED AND MADE AVAILABLE IN THE
  CONSOLIDATED LOCAL STREET AND HIGHWAY IMPROVEMENT PROGRAM (CHIPS).
@@ -342,6 +352,8 @@ S T A T E  O F  N E W  Y O R K
   3-A.  NO  PURCHASER  OF  A STOCK OR OTHER CERTIFICATE IN A TRANSACTION
  COVERED UNDER THIS ARTICLE SHALL HAVE LEGAL TITLE OR OWNERSHIP  OF  SUCH
  STOCK  OR CERTIFICATE UNLESS SUCH PURCHASER HAS PROOF OF PURCHASE DEMON-
+ S. 1297--A  7
+
  STRATING THAT SUCH TAX HAS BEEN PAID.  SUCH  PROOF  OF  PURCHASE  SHALL
  CONSIST  OF  EITHER: (A) A RECEIPT FOR THE TRANSACTION SHOWING THAT SUCH
  TAX HAS BEEN PAID, THE AMOUNT OF SUCH TAX  PAID,  AND  A  REPRESENTATION
@@ -350,8 +362,6 @@ S T A T E  O F  N E W  Y O R K
   9. NOTWITHSTANDING ANY OTHER PROVISION TO THE CONTRARY, A  TRANSACTION
  REFERRED  TO IN SUBDIVISION ONE OF THIS SECTION IS SUBJECT TO TAX IF ANY
  ACTIVITY IN FURTHERANCE OF THE TRANSACTION OCCURS WITHIN THE STATE OR IF
- S. 1297  7
-
  A PARTY INVOLVED IN THE TRANSACTION SATISFIES  A  NEXUS  WITH  NEW  YORK
  STATE WHICH SHALL BE DEFINED AS BROADLY AS IS PERMITTED UNDER THE UNITED
  STATES CONSTITUTION.
