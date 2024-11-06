@@ -1,6 +1,6 @@
 # Requires the commissioner of education to make recommendations to the board of regents relating to the adoption of instruction on dating violence prevention and healthy relationships
 
-**Bill ID:** S1566A
+**Bill ID:** S1566AA
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Requires the commissioner of education to make recommendations to the board of r
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  1566
+  1566--A
  
   2023-2024 Regular Sessions
  
@@ -26,25 +26,27 @@ S T A T E  O F  N E W  Y O R K
   ___________
  
  Introduced by Sens. SALAZAR, BRISPORT -- read twice and ordered printed,
-  and when printed to be committed to the Committee on Education
+  and  when  printed  to  be  committed to the Committee on Education --
+  recommitted to the Committee on Education in  accordance  with  Senate
+  Rule  6,  sec.  8  --  committee  discharged,  bill  amended,  ordered
+  reprinted as amended and recommitted to said committee
+
+ AN ACT to amend the education law, in relation to requiring the  commis-
+  sioner  of  education  to make recommendations to the board of regents
+  relating to the adoption of instruction on dating violence  prevention
+  and healthy relationships for students in grades seven through twelve
  
- AN  ACT to amend the education law, in relation to requiring the commis-
-  sioner of education to make recommendations to the  board  of  regents
-  relating  to  the  adoption  of  instruction  on  dating  violence for
-  students in grades seven through twelve
- 
-  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
+  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section  1.  Short title. This act shall be known and may be cited as
- the "Jessica Tush act".
-  § 2.  Section 305 of the education law is  amended  by  adding  a  new
- subdivision 60 to read as follows:
-  60.  A.  THE  COMMISSIONER  SHALL  MAKE RECOMMENDATIONS TO THE REGENTS
- RELATING TO THE ADOPTION OF INSTRUCTION ON DATING VIOLENCE THAT IS  AGE-
- APPROPRIATE  INTO THE ANNUAL CURRICULUM FRAMEWORK FOR STUDENTS IN GRADES
- SEVEN THROUGH TWELVE AND WHICH SHALL BE INCORPORATED INTO VARIOUS  CLASS
- SUBJECTS, INCLUDING HEALTH.
+  Section 1. Section 305 of the education law is amended by adding a new
+ subdivision 63 to read as follows:
+  63. A. THE COMMISSIONER SHALL  MAKE  RECOMMENDATIONS  TO  THE  REGENTS
+ RELATING  TO  THE  ADOPTION OF INSTRUCTION ON DATING VIOLENCE PREVENTION
+ AND HEALTHY  RELATIONSHIPS  THAT  IS  AGE-APPROPRIATE  INTO  THE  ANNUAL
+ CURRICULUM  FRAMEWORK  FOR  STUDENTS  IN GRADES SEVEN THROUGH TWELVE AND
+ WHICH SHALL BE  INCORPORATED  INTO  VARIOUS  CLASS  SUBJECTS,  INCLUDING
+ HEALTH.
   B. PRIOR TO MAKING THE RECOMMENDATIONS TO THE REGENTS, THE COMMISSION-
  ER SHALL:
   (I)  SEEK  THE  RECOMMENDATIONS  OF  TEACHERS,  SCHOOL ADMINISTRATORS,
@@ -57,14 +59,14 @@ S T A T E  O F  N E W  Y O R K
   (IV)  CONSIDER  THE  FISCAL  IMPACT,  IF  ANY, ON THE STATE AND SCHOOL
  DISTRICTS; AND
   (V) CONSIDER ANY ADDITIONAL FACTORS THE COMMISSIONER DEEMS RELEVANT.
-  C. NO LATER THAN ONE HUNDRED EIGHTY DAYS AFTER THE EFFECTIVE  DATE  OF
- THIS SUBDIVISION, THE COMMISSIONER SHALL PROVIDE A RECOMMENDATION TO THE
-
+ 
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD00522-01-3
- S. 1566  2
+  LBD00522-04-4
+ S. 1566--A  2
  
+  C. NO LATER THAN ONE HUNDRED EIGHTY DAYS AFTER THE EFFECTIVE  DATE  OF
+ THIS SUBDIVISION, THE COMMISSIONER SHALL PROVIDE A RECOMMENDATION TO THE
  REGENTS TO EITHER ADOPT AND PROMULGATE APPROPRIATE RULES AND REGULATIONS
  IMPLEMENTING  SUCH  CURRICULUM  OR  TO REJECT THE IMPLEMENTATION OF SUCH
  CURRICULUM. UPON RECEIVING A RECOMMENDATION FROM THE COMMISSIONER PURSU-
@@ -80,4 +82,4 @@ S T A T E  O F  N E W  Y O R K
  THE  CHAIRS OF THE SENATE AND ASSEMBLY COMMITTEES ON EDUCATION PROVIDING
  THE REASONS FOR SUCH REJECTION NOT LATER  THAN  THIRTY  DAYS  AFTER  THE
  REGENTS REJECT SUCH CURRICULUM.
-  § 3. This act shall take effect immediately.
+  § 2. This act shall take effect immediately.
