@@ -1,6 +1,6 @@
 # Relates to licensing consumer debt collectors
 
-**Bill ID:** S666CB
+**Bill ID:** S666CC
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** In Senate Committee
@@ -16,7 +16,7 @@ Relates to licensing consumer debt collectors; sets minimum standards and regula
 S T A T E  O F  N E W  Y O R K
  ________________________________________________________________________
  
-  666--B
+  666--C
  
   2023-2024 Regular Sessions
  
@@ -33,15 +33,16 @@ S T A T E  O F  N E W  Y O R K
   in  accordance  with  Senate Rule 6, sec. 8 -- reported favorably from
   said committee and committed to the Committee on Finance --  committee
   discharged, bill amended, ordered reprinted as amended and recommitted
-  to said committee
+  to  said  committee  --  committee  discharged,  bill amended, ordered
+  reprinted as amended and recommitted to said committee
  
  AN ACT to amend the banking law and the civil practice law and rules, in
   relation to licensing consumer debt collectors
  
-  THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-
+  THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-
  BLY, DO ENACT AS FOLLOWS:
  
-  Section 1. The banking law is amended by adding a  new  article  7  to
+  Section  1.  The  banking  law is amended by adding a new article 7 to
  read as follows:
   ARTICLE VII
   LICENSED CONSUMER DEBT COLLECTORS
@@ -52,22 +53,23 @@ S T A T E  O F  N E W  Y O R K
   299. EXAMINATION; BOOKS AND RECORDS; REPORTS.
   300. PROHIBITED ACTS.
   301. REGULATIONS; MINIMUM STANDARDS.
-  302. APPLICATION  FOR  ACQUISITION OF CONTROL OF A CONSUMER DEBT
+  302. APPLICATION FOR ACQUISITION OF CONTROL OF A  CONSUMER  DEBT
   COLLECTOR.
   303. SUSPENSION AND REVOCATION.
   304. BAD ACTORS.
   305. PENALTIES.
-  § 295. DEFINITIONS. AS USED IN THIS ARTICLE:
+  306. PREEMPTION OF LOCAL LAW.
  
   EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets
   [ ] is old law to be omitted.
-  LBD03040-15-4
- S. 666--B  2
-
-  1. "AFFILIATED COMPANY" MEANS  A  CONSUMER  DEBT  COLLECTOR  OPERATING
- UNDER  THE  CONTROL  OF A LICENSEE, PROVIDED THAT THE AFFILIATED COMPANY
- SHARES COMMON FACILITIES, MANAGEMENT, AND OPERATIONS WITH  THE  LICENSEE
- AND  THE AFFILIATED COMPANY DOES NOT ENGAGE IN ANY COLLECTION ACTIVITIES
+  LBD03040-17-4
+ S. 666--C  2
+ 
+  § 295. DEFINITIONS. AS USED IN THIS ARTICLE:
+  1.  "AFFILIATED  COMPANY"  MEANS  A  CONSUMER DEBT COLLECTOR OPERATING
+ UNDER THE CONTROL OF A LICENSEE, PROVIDED THAT  THE  AFFILIATED  COMPANY
+ SHARES  COMMON  FACILITIES, MANAGEMENT, AND OPERATIONS WITH THE LICENSEE
+ AND THE AFFILIATED COMPANY DOES NOT ENGAGE IN ANY COLLECTION  ACTIVITIES
  OTHER THAN DEBT BUYING OR DEBT COLLECTION FOR THE LICENSEE.
   2. "APPLICANT" MEANS A CONSUMER DEBT COLLECTOR WHO HAS FILED AN APPLI-
  CATION TO OBTAIN A LICENSE UNDER THIS ARTICLE.
@@ -119,7 +121,7 @@ S T A T E  O F  N E W  Y O R K
  RESIDES WITHIN THIS STATE.
   2. NO CREDITOR, OR THE STATE OR MUNICIPALITY OF THE STATE, MAY UTILIZE
  THE  SERVICES  OF  A  CONSUMER DEBT COLLECTOR TO COLLECT FROM A CONSUMER
- S. 666--B  3
+ S. 666--C  3
  
  DEBTOR THAT RESIDES WITHIN THIS STATE UNLESS THE CONSUMER DEBT COLLECTOR
  IS LICENSED BY THE SUPERINTENDENT.
@@ -176,7 +178,7 @@ S T A T E  O F  N E W  Y O R K
  THE  PRINCIPAL BUSINESS OF SUCH PERSON IS NOT THE COLLECTION OF CONSUMER
  DEBTS;
   (K) ANY ATTORNEY-AT-LAW OR LAW FIRM;
- S. 666--B  4
+ S. 666--C  4
  
   (L) ANY PERSON EMPLOYED BY A UTILITY REGULATED UNDER THE PROVISIONS OF
  THE PUBLIC SERVICE LAW, ACTING FOR SUCH UTILITY;
@@ -234,7 +236,7 @@ S T A T E  O F  N E W  Y O R K
  MATION REGARDING PARTIES RESPONSIBLE FOR DEBT; ANY STATEMENTS MADE BY  A
  CONSUMER  ALLEGING  THAT  THE  DEBT  AROSE  FROM IDENTITY THEFT; AND ANY
  STATEMENTS MADE BY A CONSUMER STATING THAT THE CONSUMER RECEIVED  STATU-
- S. 666--B  5
+ S. 666--C  5
  
  TORILY  EXEMPT INCOME AS DEFINED IN SECTION FIFTY-TWO HUNDRED TWENTY-TWO
  OF THE CIVIL PRACTICE LAW AND RULES;
@@ -292,7 +294,7 @@ S T A T E  O F  N E W  Y O R K
  LISH REQUIREMENTS FOR PARTICIPATION BY AN  APPLICANT  IN  A  MULTI-STATE
  LICENSING SYSTEM WHICH MAY VARY FROM THE PROVISIONS OF THIS SECTION. THE
  SUPERINTENDENT  MAY REQUIRE A BACKGROUND INVESTIGATION OF EACH APPLICANT
- S. 666--B  6
+ S. 666--C  6
  
  FOR A CONSUMER DEBT COLLECTOR LICENSE BY  MEANS  OF  FINGERPRINT,  WHICH
  SHALL  BE SUBMITTED BY ALL APPLICANTS SIMULTANEOUSLY WITH AN APPLICATION
@@ -350,7 +352,7 @@ S T A T E  O F  N E W  Y O R K
  FOR THE PREVIOUS YEAR BY SUCH CONSUMER DEBT COLLECTOR AS FOLLOWS:
   (I)  TEN THOUSAND DOLLARS FOR CONSUMER DEBT COLLECTORS THAT REPORTED A
  GROSS PROFIT OF LESS THAN TWO HUNDRED FIFTY THOUSAND DOLLARS;
- S. 666--B  7
+ S. 666--C  7
  
   (II) TWENTY-FIVE THOUSAND DOLLARS FOR CONSUMER  DEBT  COLLECTORS  THAT
  REPORTED A GROSS PROFIT OF TWO HUNDRED FIFTY THOUSAND DOLLARS OR MORE;
@@ -407,7 +409,7 @@ S T A T E  O F  N E W  Y O R K
  INTENDENT, SUBSCRIBED BY SUCH INDIVIDUAL, OR BY SUCH OFFICER OR OFFICERS
  OF A CORPORATION, AS THE SUPERINTENDENT SHALL DESIGNATE, AND AFFIRMED BY
  THEM AS TRUE UNDER THE PENALTIES OF PERJURY.
- S. 666--B  8
+ S. 666--C  8
  
   4. EACH LICENSEE SHALL KEEP  AND  USE  IN  ITS  BUSINESS  SUCH  BOOKS,
  ACCOUNTS,  AND  RECORDS  AS  WILL ENABLE THE SUPERINTENDENT TO DETERMINE
@@ -465,7 +467,7 @@ S T A T E  O F  N E W  Y O R K
  SHOULD  BE  KNOWN  TO  BE  INCONVENIENT  TO  THE CONSUMER DEBTOR. IN THE
  ABSENCE OF KNOWLEDGE OF CIRCUMSTANCES TO THE CONTRARY, A  CONSUMER  DEBT
  COLLECTOR SHALL ASSUME THAT THE CONVENIENT TIME FOR COMMUNICATING WITH A
- S. 666--B  9
+ S. 666--C  9
  
  CONSUMER  DEBTOR  IS  AFTER  EIGHT  O'CLOCK ANTEMERIDIAN AND BEFORE NINE
  O'CLOCK POSTMERIDIAN, LOCAL TIME  AT  THE  CONSUMER  DEBTOR'S  LOCATION.
@@ -523,7 +525,7 @@ S T A T E  O F  N E W  Y O R K
  SECTION, THE SUPERINTENDENT SHALL CONSIDER:
   (A)  WHETHER  THE FINANCIAL RESPONSIBILITY, EXPERIENCE, CHARACTER, AND
  GENERAL FITNESS OF THE PERSON SEEKING TO ACQUIRE  CONTROL,  AND  OF  THE
- S. 666--B  10
+ S. 666--C  10
  
  MEMBERS  THEREOF  IF SUCH PERSON BE A PARTNERSHIP OR ASSOCIATION, AND OF
  THE OFFICERS, DIRECTORS AND CONTROLLING  STOCKHOLDERS  THEREOF  IF  SUCH
@@ -580,7 +582,7 @@ S T A T E  O F  N E W  Y O R K
  INGLY CONDUCTS BUSINESS INVOLVING  CONSUMER  DEBT  COLLECTION  SHALL  BE
  REQUIRED  TO  PAY A CIVIL PENALTY TO THE DEPARTMENT OF NOT MORE THAN THE
  LESSER OF FIVE HUNDRED DOLLARS PER ATTEMPT TO COLLECT A CONSUMER DEBT OR
- S. 666--B  11
+ S. 666--C  11
  
  ONE HUNDRED THOUSAND DOLLARS IN TOTAL DAMAGES IN VIOLATION OF THIS ARTI-
  CLE.
@@ -606,28 +608,43 @@ S T A T E  O F  N E W  Y O R K
  RIGHT  OF  ANY PERSON TO  BRING ANY ACTION IN ANY COURT FOR ANY ACT, OR
  THE RIGHT OF THE STATE TO PUNISH ANY PERSON FOR  ANY VIOLATION  OF  ANY
  LAW.
-  §  2.  Subdivision  10 of section 36 of the banking law, as amended by
- section 2 of part L of chapter 58 of the laws of  2019,  is  amended  to
+  §  306.  PREEMPTION OF LOCAL LAW. 1. EXCEPT AS PROVIDED IN SUBDIVISION
+ TWO OF THIS SECTION, JURISDICTION IN ALL MATTERS PERTAINING TO  LICENSED
+ CONSUMER  DEBT COLLECTORS IS, BY THIS ARTICLE, VESTED EXCLUSIVELY IN THE
+ STATE.
+  2. ANY LOCAL LAW OR ORDINANCE OF ANY CITY WITH  A  POPULATION  OF  ONE
+ MILLION OR MORE, WHICH IS INCONSISTENT WITH THE PROVISIONS OF THIS ARTI-
+ CLE  OR  ANY  RULES  OR  REGULATIONS  PROMULGATED HEREUNDER SHALL NOT BE
+ PREEMPTED  IF  SUCH  LOCAL  LAW  OR  ORDINANCE  PROVIDES  CONSUMER  DEBT
+ COLLECTION  PROCEDURES  EQUAL  TO OR GREATER THAN THE PROVISIONS OF THIS
+ ARTICLE OR ANY RULES OR REGULATIONS PROMULGATED HEREUNDER, AND SUCH CITY
+ FILES WITH THE DEPARTMENT A WRITTEN DECLARATION OF ITS INTENT TO  ADMIN-
+ ISTER  AND  ENFORCE SUCH LOCAL LAW OR ORDINANCE WHICH IS APPROVED BY THE
+ SUPERINTENDENT.
+  § 2. Subdivision 10 of section 36 of the banking law,  as  amended  by
+ section  2  of  part  L of chapter 58 of the laws of 2019, is amended to
  read as follows:
   10. All reports of examinations and investigations, correspondence and
- memoranda  concerning  or  arising  out of such examination and investi-
- gations, including any duly authenticated copy or copies thereof in  the
- possession  of  any  banking  organization,  bank holding company or any
- subsidiary thereof (as such terms "bank holding  company"  and  "subsid-
- iary"  are  defined in article three-A of this chapter), any corporation
- or any other entity affiliated with a banking  organization  within  the
- meaning  of  subdivision six of this section and any non-banking subsid-
- iary of a corporation or any other entity which is  an  affiliate  of  a
- banking  organization  within  the  meaning of subdivision six-a of this
- section, foreign banking corporation, licensed lender,  licensed  casher
+ memoranda concerning or arising out of  such  examination  and  investi-
+ gations,  including any duly authenticated copy or copies thereof in the
+ possession of any banking organization,  bank  holding  company  or  any
+ subsidiary  thereof  (as  such terms "bank holding company" and "subsid-
+ iary" are defined in article three-A of this chapter),  any  corporation
+ or  any  other  entity affiliated with a banking organization within the
+ meaning of subdivision six of this section and any  non-banking  subsid-
+ iary  of  a  corporation  or any other entity which is an affiliate of a
+ banking organization within the meaning of  subdivision  six-a  of  this
+ section,  foreign  banking corporation, licensed lender, licensed casher
  of  checks,  licensed  mortgage  banker,  registered  mortgage  broker,
- licensed mortgage  loan  originator,  licensed  sales  finance  company,
- registered  mortgage  loan  servicer,  licensed  student  loan servicer,
- licensed insurance  premium  finance  agency,  licensed  transmitter  of
- money,  licensed  budget  planner, LICENSED CONSUMER DEBT COLLECTOR, any
+ licensed  mortgage  loan  originator,  licensed  sales  finance company,
+ registered mortgage  loan  servicer,  licensed  student  loan  servicer,
+ licensed  insurance  premium  finance  agency,  licensed  transmitter of
+ money, licensed budget planner, LICENSED CONSUMER  DEBT  COLLECTOR,  any
+ S. 666--C  12
+ 
  other person or entity subject to supervision under this chapter, OR THE
  FINANCIAL SERVICES LAW OR THE INSURANCE LAW, or the department, shall be
- confidential communications, shall not be subject to subpoena and  shall
+ confidential  communications, shall not be subject to subpoena and shall
  not  be  made  public unless, in the judgment of the superintendent, the
  ends of justice and the public advantage will be subserved by the publi-
  cation thereof, in which event the superintendent may publish or author-
@@ -638,75 +655,73 @@ S T A T E  O F  N E W  Y O R K
  memoranda concerning or arising out of such  examinations  and  investi-
  gations", includes any such materials of a bank, insurance or securities
  regulatory  agency or any unit of the federal government or that of this
- S. 666--B  12
- 
  state any other state or  that  of  any  foreign  government  which  are
  considered  confidential  by  such  agency  or unit and which are in the
  possession of the department or which are otherwise confidential materi-
  als that have been shared by the department with any such agency or unit
  and are in the possession of such agency or unit.
-  §  3. Paragraph (a) of subdivision 1 of section 44 of the banking law,
- as amended by section 4 of part L of chapter 58 of the laws of 2019,  is
+  § 3. Paragraph (a) of subdivision 1 of section 44 of the banking  law,
+ as  amended by section 4 of part L of chapter 58 of the laws of 2019, is
  amended to read as follows:
   (a) Without limiting any power granted to the superintendent under any
  other provision of this chapter, the superintendent may, in a proceeding
- after  notice  and a hearing, require any safe deposit company, licensed
- lender, licensed casher  of  checks,  licensed  sales  finance  company,
- licensed  insurance  premium  finance  agency,  licensed  transmitter of
- money, licensed mortgage banker, licensed student loan servicer,  regis-
- tered  mortgage  broker,  licensed  mortgage loan originator, registered
- mortgage loan servicer, LICENSED CONSUMER  DEBT  COLLECTOR  or  licensed
- budget  planner  to  pay  to  the people of this state a penalty for any
- violation of this chapter, any regulation  promulgated  thereunder,  any
- final  or temporary order issued pursuant to section thirty-nine of this
- article, any condition imposed  in  writing  by  the  superintendent  in
- connection  with the grant of any application or request, or any written
+ after notice and a hearing, require any safe deposit  company,  licensed
+ lender,  licensed  casher  of  checks,  licensed  sales finance company,
+ licensed insurance  premium  finance  agency,  licensed  transmitter  of
+ money,  licensed mortgage banker, licensed student loan servicer, regis-
+ tered mortgage broker, licensed  mortgage  loan  originator,  registered
+ mortgage  loan  servicer,  LICENSED  CONSUMER DEBT COLLECTOR or licensed
+ budget planner to pay to the people of this  state  a  penalty  for  any
+ violation  of  this  chapter, any regulation promulgated thereunder, any
+ final or temporary order issued pursuant to section thirty-nine of  this
+ article,  any  condition  imposed  in  writing  by the superintendent in
+ connection with the grant of any application or request, or any  written
  agreement entered into with the superintendent.
-  § 4. The opening paragraph of subdivision (a) of section 3218  of  the
- civil  practice  law and rules, as amended by chapter 311 of the laws of
+  §  4.  The opening paragraph of subdivision (a) of section 3218 of the
+ civil practice law and rules, as amended by chapter 311 of the  laws  of
  1963, is amended to read as follows:
-  Except as provided in section thirty-two hundred one OF  THIS  ARTICLE
- AND  SUBDIVISION  (E)  OF  THIS SECTION, a judgment by confession may be
+  Except  as  provided in section thirty-two hundred one OF THIS ARTICLE
+ AND SUBDIVISION (E) OF THIS SECTION, a judgment  by  confession  may  be
  entered, without an action, either for money due or to become due, or to
- secure the plaintiff against a contingent liability  in  behalf  of  the
+ secure  the  plaintiff  against  a contingent liability in behalf of the
  defendant, or both, upon an affidavit executed by the defendant;
-  §  5.  Section  3218 of the civil practice law and rules is amended by
+  § 5. Section 3218 of the civil practice law and rules  is  amended  by
  adding a new subdivision (e) to read as follows:
-  (E) PROHIBITION ON CERTAIN JUDGMENTS BY CONFESSION. 1. NO JUDGMENT  OF
- CONFESSION  MAY BE ENTERED ON: (I) ANY AMOUNT DUE FROM ONE OR MORE INDI-
+  (E)  PROHIBITION ON CERTAIN JUDGMENTS BY CONFESSION. 1. NO JUDGMENT OF
+ CONFESSION MAY BE ENTERED ON: (I) ANY AMOUNT DUE FROM ONE OR MORE  INDI-
  VIDUALS FOR PERSONAL, FAMILY, HOUSEHOLD, CONSUMER, INVESTMENT OR NON-BU-
  SINESS PURPOSES;
-  (II) ANY AMOUNT UNDER TWO HUNDRED FIFTY THOUSAND DOLLARS DUE FROM  ANY
+  (II)  ANY AMOUNT UNDER TWO HUNDRED FIFTY THOUSAND DOLLARS DUE FROM ANY
  PERSON FOR ANY PURPOSE; OR
   (III) ANY AMOUNT DUE FROM ANY PERSON THAT EITHER: (A) IS CURRENTLY NOT
  A RESIDENT OF THE STATE, (B) WAS NOT A RESIDENT OF THE STATE AT THE TIME
- THE  AFFIDAVIT  AUTHORIZING  THE ENTRY OF THE JUDGMENT OF CONFESSION WAS
+ THE AFFIDAVIT AUTHORIZING THE ENTRY OF THE JUDGMENT  OF  CONFESSION  WAS
  EXECUTED, OR (C) IF NOT A NATURAL PERSON, DOES NOT HAVE A PLACE OF BUSI-
- NESS IN THE STATE OR DID NOT HAVE A PLACE OF BUSINESS IN  THE  STATE  AT
- THE  TIME  THE  AFFIDAVIT  AUTHORIZING  THE  ENTRY  OF  THE  JUDGMENT OF
- CONFESSION WAS EXECUTED.
-  2. PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT APPLY TO A JUDGMENT  BY
- CONFESSION  ENTERED  OR  SOUGHT  TO  BE ENTERED BY THE STATE, A DOMESTIC
- MUNICIPAL CORPORATION OR ANY PUBLIC OFFICER  ACTING  IN  THEIR  OFFICIAL
- CAPACITY.
-  §  6.  The  civil  practice  law  and rules is amended by adding a new
- section 5022 to read as follows:
-  § 5022. JUDGMENTS OBTAINED FROM UNLICENSED CONSUMER  DEBT  COLLECTORS.
- ANY  JUDGMENT  OBTAINED AGAINST A CONSUMER DEBTOR BY, OR ON BEHALF OF, A
- CONSUMER DEBT COLLECTOR ACTING WITHOUT A LICENSE FROM THE SUPERINTENDENT
- OF THE DEPARTMENT OF FINANCIAL SERVICES, WHEN SUCH LICENSE IS  REQUIRED,
- S. 666--B  13
+ NESS  IN  THE  STATE OR DID NOT HAVE A PLACE OF BUSINESS IN THE STATE AT
+ S. 666--C  13
  
+ THE TIME  THE  AFFIDAVIT  AUTHORIZING  THE  ENTRY  OF  THE  JUDGMENT  OF
+ CONFESSION WAS EXECUTED.
+  2.  PARAGRAPH ONE OF THIS SUBDIVISION SHALL NOT APPLY TO A JUDGMENT BY
+ CONFESSION ENTERED OR SOUGHT TO BE ENTERED  BY  THE  STATE,  A  DOMESTIC
+ MUNICIPAL  CORPORATION  OR  ANY  PUBLIC OFFICER ACTING IN THEIR OFFICIAL
+ CAPACITY.
+  § 6. The civil practice law and rules  is  amended  by  adding  a  new
+ section 5022 to read as follows:
+  §  5022.  JUDGMENTS OBTAINED FROM UNLICENSED CONSUMER DEBT COLLECTORS.
+ ANY JUDGMENT OBTAINED AGAINST A CONSUMER DEBTOR BY, OR ON BEHALF  OF,  A
+ CONSUMER DEBT COLLECTOR ACTING WITHOUT A LICENSE FROM THE SUPERINTENDENT
+ OF  THE DEPARTMENT OF FINANCIAL SERVICES, WHEN SUCH LICENSE IS REQUIRED,
  IN VIOLATION OF SECTION TWO HUNDRED NINETY-SIX OF THE BANKING LAW, SHALL
  BE NULL AND VOID.
   § 7. This act shall take effect on the one hundred eightieth day after
  it shall have become a law; provided, however that sections one, two and
- three of this act shall take effect January 1, 2026.  The superintendent
- of  financial  services  shall  allow  any consumer debt collector which
- submits an application prior to January 1, 2026 to operate  pending  the
+ three of this act shall take effect January 1, 2027.  The superintendent
+ of financial services shall allow  any  consumer  debt  collector  which
+ submits  an  application prior to January 1, 2027 to operate pending the
  approval or denial of the application.  Effective immediately, the addi-
- tion,  amendment  and/or  repeal of any rule or regulation necessary for
- the implementation of this act on its effective date are  authorized  to
- be  made and completed on or before such effective date.  This act shall
- not affect the validity of any civil actions or  arbitrations  commenced
- or judgments entered prior to January 1, 2026.
+ tion, amendment and/or repeal of any rule or  regulation  necessary  for
+ the  implementation  of this act on its effective date are authorized to
+ be made and completed on or before such effective date.  This act  shall
+ not  affect  the validity of any civil actions or arbitrations commenced
+ or judgments entered prior to January 1, 2027.
