@@ -5,8 +5,10 @@ This module handles fetching bill data from the NYS Senate Open Legislation API,
 sanitizing HTML, and saving bills as Markdown files.
 """
 
+import os
 import re
 import subprocess
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
@@ -87,6 +89,187 @@ class BillFetcher:
                     response_body = response_body.replace(Config.SENATE_API_KEY, '[REDACTED]')
                 print(f"Response body: {response_body}")
             return None
+    
+    def fetch_all_bill_ids(
+        self,
+        session_year: int = 2023,
+        limit: int = 1000
+    ) -> List[str]:
+        """
+        Fetch all bill IDs for a given session year, handling pagination.
+        
+        According to the NYS Senate API, the bills list endpoint is:
+        /api/3/bills/{sessionYear}
+        
+        The API typically uses offset/limit pagination or provides 'next' links.
+        
+        Args:
+            session_year: The legislative session year (e.g., 2023)
+            limit: Maximum number of bills per page (default: 1000)
+            
+        Returns:
+            List[str]: List of all bill IDs (e.g., ['S00001', 'S00002', 'A00001', ...])
+        """
+        all_bill_ids = []
+        offset = 0
+        page = 1
+        
+        endpoint = f"{self.base_url}/bills/{session_year}"
+        
+        # Prepare query parameters
+        params = {
+            'limit': limit,
+            'offset': offset
+        }
+        if Config.SENATE_API_KEY:
+            params['key'] = Config.SENATE_API_KEY
+        
+        print(f"Fetching all bills from session {session_year}...")
+        print(f"Starting with limit={limit}, offset={offset}")
+        
+        while True:
+            try:
+                # Update offset for current page
+                params['offset'] = offset
+                
+                response = requests.get(
+                    endpoint,
+                    headers=self.headers,
+                    params=params,
+                    timeout=60  # Longer timeout for large requests
+                )
+                response.raise_for_status()
+                
+                data = response.json()
+                
+                # Extract bill IDs from the response
+                # The structure may vary, but typically bills are in 'result.items' or 'result'
+                result = data.get('result', {})
+                
+                # Try different possible response structures
+                bills = []
+                if 'items' in result:
+                    bills = result['items']
+                elif isinstance(result, list):
+                    bills = result
+                elif 'bills' in result:
+                    bills = result['bills']
+                elif 'data' in result:
+                    bills = result['data']
+                
+                if not bills:
+                    # If no items found, check if we got a different structure
+                    # Sometimes the response is directly a list
+                    if isinstance(data, list):
+                        bills = data
+                    else:
+                        print(f"Warning: No bills found in response structure. Keys: {list(data.keys())}")
+                        if 'result' in data:
+                            print(f"Result keys: {list(result.keys())}")
+                        break
+                
+                # Extract bill IDs from each bill object
+                page_bill_ids = []
+                for bill in bills:
+                    # Try different possible field names for bill ID
+                    bill_id = None
+                    if isinstance(bill, str):
+                        # If bill is already a string ID
+                        bill_id = bill
+                    elif isinstance(bill, dict):
+                        # Try common field names
+                        bill_id = (
+                            bill.get('printNo') or
+                            bill.get('print_no') or
+                            bill.get('billId') or
+                            bill.get('bill_id') or
+                            bill.get('id') or
+                            bill.get('basePrintNo') or
+                            bill.get('base_print_no')
+                        )
+                    
+                    if bill_id:
+                        page_bill_ids.append(bill_id)
+                
+                if not page_bill_ids:
+                    print(f"Warning: No bill IDs extracted from page {page}")
+                    print(f"Sample bill object: {bills[0] if bills else 'N/A'}")
+                
+                all_bill_ids.extend(page_bill_ids)
+                print(f"Page {page}: Found {len(page_bill_ids)} bills (Total so far: {len(all_bill_ids)})")
+                
+                # Check for pagination
+                # Look for 'next' link or check if we got fewer results than the limit
+                has_next = False
+                
+                # Check for 'next' link in response
+                if 'next' in result:
+                    next_url = result['next']
+                    if next_url:
+                        has_next = True
+                        # Extract offset from next URL if it's a full URL
+                        # Otherwise, increment offset
+                        if 'offset=' in str(next_url):
+                            try:
+                                offset = int(re.search(r'offset=(\d+)', str(next_url)).group(1))
+                            except:
+                                offset += len(page_bill_ids)
+                        else:
+                            offset += len(page_bill_ids)
+                
+                # Check pagination metadata
+                elif 'pagination' in result:
+                    pagination = result['pagination']
+                    if pagination.get('hasNext', False) or pagination.get('has_next', False):
+                        has_next = True
+                        offset += len(page_bill_ids)
+                    elif 'nextOffset' in pagination or 'next_offset' in pagination:
+                        has_next = True
+                        offset = pagination.get('nextOffset') or pagination.get('next_offset', offset + len(page_bill_ids))
+                
+                # If we got fewer results than the limit, we're probably done
+                elif len(page_bill_ids) < limit:
+                    print(f"Received {len(page_bill_ids)} bills (less than limit {limit}), assuming last page")
+                    break
+                
+                # If no pagination info but we got a full page, try next page
+                elif len(page_bill_ids) == limit:
+                    # Assume there might be more and try next page
+                    offset += len(page_bill_ids)
+                    has_next = True
+                else:
+                    # No more pages
+                    break
+                
+                if not has_next:
+                    break
+                
+                page += 1
+                
+                # Safety limit to prevent infinite loops
+                if page > 1000:
+                    print(f"Warning: Reached safety limit of 1000 pages. Stopping.")
+                    break
+                
+            except requests.exceptions.RequestException as e:
+                error_msg = str(e)
+                if Config.SENATE_API_KEY and Config.SENATE_API_KEY in error_msg:
+                    error_msg = error_msg.replace(Config.SENATE_API_KEY, '[REDACTED]')
+                print(f"Error fetching bills page {page}: {error_msg}")
+                if hasattr(e, 'response') and e.response is not None:
+                    print(f"Response status: {e.response.status_code}")
+                    try:
+                        error_data = e.response.json()
+                        print(f"Error response: {error_data}")
+                    except:
+                        print(f"Response body: {e.response.text[:500]}")
+                break
+            except Exception as e:
+                print(f"Unexpected error on page {page}: {e}")
+                break
+        
+        print(f"\nCompleted fetching bills. Total bill IDs: {len(all_bill_ids)}")
+        return all_bill_ids
     
     def get_bill_versions(
         self, 
@@ -298,6 +481,82 @@ class BillFetcher:
                     first_paragraph = first_paragraph[:497] + "..."
             
             return first_paragraph if first_paragraph else None
+        
+        return None
+    
+    def get_amendment_date(
+        self,
+        bill_id: str,
+        session_year: Optional[int] = None,
+        version_suffix: str = ''
+    ) -> Optional[datetime]:
+        """
+        Extract the introduction/published date for a specific amendment version.
+        
+        Args:
+            bill_id: The bill identifier (e.g., 'S04609')
+            session_year: The legislative session year (e.g., 2023). 
+                         If None, will try to infer from current date.
+            version_suffix: The version suffix (e.g., '' for base, 'A' for amendment A).
+                           Defaults to '' (base version).
+            
+        Returns:
+            datetime: The amendment date, or None if not found
+        """
+        amendment = self.get_amendment_data(bill_id, session_year, version_suffix)
+        
+        if not amendment:
+            return None
+        
+        # Try to find date fields in the amendment
+        date_str = None
+        date_fields = [
+            'publishedDateTime',
+            'published_date_time',
+            'publishedDate',
+            'published_date',
+            'introducedDate',
+            'introduced_date',
+            'actionDate',
+            'action_date',
+            'date',
+            'createdDate',
+            'created_date'
+        ]
+        
+        for field in date_fields:
+            if field in amendment and amendment[field]:
+                date_str = amendment[field]
+                break
+        
+        if not date_str:
+            return None
+        
+        # Parse the date string
+        # Try common date formats
+        date_formats = [
+            '%Y-%m-%dT%H:%M:%S',  # ISO format with time
+            '%Y-%m-%dT%H:%M:%S.%f',  # ISO format with microseconds
+            '%Y-%m-%dT%H:%M:%SZ',  # ISO format with Z
+            '%Y-%m-%d',  # Simple date
+            '%m/%d/%Y',  # US format
+            '%Y-%m-%d %H:%M:%S',  # SQL format
+        ]
+        
+        for fmt in date_formats:
+            try:
+                return datetime.strptime(str(date_str), fmt)
+            except (ValueError, TypeError):
+                continue
+        
+        # If all formats fail, try to extract just the date part
+        try:
+            # Extract YYYY-MM-DD pattern
+            match = re.search(r'(\d{4}-\d{2}-\d{2})', str(date_str))
+            if match:
+                return datetime.strptime(match.group(1), '%Y-%m-%d')
+        except (ValueError, TypeError):
+            pass
         
         return None
     
@@ -735,23 +994,54 @@ class BillFetcher:
                 print(f"Error saving bill {full_bill_id}: {e}")
                 continue
             
-            # Stage the file with git add
+            # Download and overwrite the PDF for this version
+            pdf_path = self.download_bill_pdf(full_bill_id, session_year, bill_dir)
+            if pdf_path:
+                print(f"Downloaded PDF for version {full_bill_id}")
+            else:
+                print(f"Warning: Could not download PDF for version {full_bill_id}")
+            
+            # Stage the files with git add (both markdown and PDF if available)
             git_add_success = False
             try:
-                # Use relative path from repository root
-                relative_path = markdown_file.relative_to(Path.cwd())
+                import os
+                repo_root = Path.cwd()
+                
+                # Get relative path using os.path.relpath which handles Windows paths better
+                markdown_abs = markdown_file.resolve()
+                repo_abs = repo_root.resolve()
+                markdown_relative = os.path.relpath(markdown_abs, repo_abs)
+                
                 result = subprocess.run(
-                    ['git', 'add', str(relative_path)],
+                    ['git', 'add', markdown_relative],
                     capture_output=True,
                     text=True,
-                    check=False
+                    check=False,
+                    cwd=str(repo_root)
                 )
                 if result.returncode != 0:
-                    print(f"Warning: git add failed: {result.stderr}")
+                    print(f"Warning: git add failed for markdown: {result.stderr}")
                     print(f"  Skipping commit for {full_bill_id}")
                 else:
-                    print(f"Staged file: {relative_path}")
+                    print(f"Staged file: {markdown_relative}")
                     git_add_success = True
+                    
+                    # Also stage PDF if it was downloaded
+                    if pdf_path and pdf_path.exists():
+                        pdf_abs = pdf_path.resolve()
+                        pdf_relative = os.path.relpath(pdf_abs, repo_abs)
+                        
+                        pdf_result = subprocess.run(
+                            ['git', 'add', pdf_relative],
+                            capture_output=True,
+                            text=True,
+                            check=False,
+                            cwd=str(repo_root)
+                        )
+                        if pdf_result.returncode == 0:
+                            print(f"Staged file: {pdf_relative}")
+                        else:
+                            print(f"Warning: Could not stage PDF: {pdf_result.stderr}")
             except Exception as e:
                 print(f"Error staging file: {e}")
                 print(f"  Skipping commit for {full_bill_id}")
@@ -760,14 +1050,19 @@ class BillFetcher:
             # Commit the change (only if git add succeeded)
             if git_add_success:
                 try:
+                    # Get amendment date for this version
+                    amendment_date = self.get_amendment_date(bill_id, session_year, version_suffix=suffix)
+                    
                     # Get sponsorMemo for this version to use as commit body
                     sponsor_memo = self.get_sponsor_memo_first_paragraph(bill_id, session_year, version_suffix=suffix)
                     
-                    # Create commit message title
+                    # Create commit message in format: 'Bill [ID] version [Suffix] - [Sponsor Name]'
                     if suffix == '':
-                        commit_title = f"Initial version for {bill_id}"
+                        version_label = 'original'
                     else:
-                        commit_title = f"Amendment {suffix} for {bill_id}"
+                        version_label = suffix
+                    
+                    commit_title = f"Bill {bill_id} version {version_label} - {sponsor_name}"
                     
                     # Build commit command with multi-line message
                     commit_args = ['git', 'commit', '-m', commit_title]
@@ -777,11 +1072,24 @@ class BillFetcher:
                         commit_args.extend(['-m', sponsor_memo])
                         print(f"Commit message includes sponsor memo: {sponsor_memo[:100]}...")
                     
+                    # Set environment variables for commit date if amendment date is available
+                    env = None
+                    if amendment_date:
+                        # Format date for git: YYYY-MM-DD HH:MM:SS
+                        date_str = amendment_date.strftime('%Y-%m-%d %H:%M:%S')
+                        env = os.environ.copy()
+                        env['GIT_AUTHOR_DATE'] = date_str
+                        env['GIT_COMMITTER_DATE'] = date_str
+                        print(f"Setting commit date to: {date_str}")
+                    else:
+                        print(f"Warning: Could not determine amendment date for {full_bill_id}, using current date")
+                    
                     result = subprocess.run(
                         commit_args,
                         capture_output=True,
                         text=True,
-                        check=False
+                        check=False,
+                        env=env
                     )
                     if result.returncode != 0:
                         if 'nothing to commit' in result.stdout or 'nothing to commit' in result.stderr:
@@ -797,6 +1105,8 @@ class BillFetcher:
                         print(f"Committed: {commit_title}")
                         if sponsor_memo:
                             print(f"  With memo: {sponsor_memo[:80]}...")
+                        if amendment_date:
+                            print(f"  Date: {amendment_date.strftime('%Y-%m-%d')}")
                         success_count += 1
                 except Exception as e:
                     print(f"Error committing: {e}")
@@ -807,42 +1117,116 @@ class BillFetcher:
         print(f"{'='*60}\n")
         
         return success_count == len(version_suffixes)
+    
+    def process_all_bills_with_git(
+        self,
+        session_year: int = 2023,
+        bill_ids: Optional[List[str]] = None,
+        use_html: bool = False
+    ) -> Dict[str, bool]:
+        """
+        Process all bills from a session year, committing each version with historical dates.
+        
+        For each bill:
+        1. Get all versions (original through latest amendment)
+        2. For each version:
+           - Fetch the fullText
+           - Overwrite bill.md and bill.pdf
+           - Commit with message: 'Bill [ID] version [Suffix] - [Sponsor Name]'
+           - Set commit date to the actual amendment introduction date
+        
+        Args:
+            session_year: The legislative session year (e.g., 2023)
+            bill_ids: Optional list of bill IDs to process. If None, fetches all bills for the session.
+            use_html: If True, prefer HTML version; if False, use plain text
+            
+        Returns:
+            Dict[str, bool]: Dictionary mapping bill_id to success status
+        """
+        # Get bill IDs if not provided
+        if bill_ids is None:
+            print(f"Fetching all bill IDs for session {session_year}...")
+            bill_ids = self.fetch_all_bill_ids(session_year=session_year)
+        
+        if not bill_ids:
+            print(f"No bills found for session {session_year}")
+            return {}
+        
+        print(f"\n{'='*60}")
+        print(f"Processing {len(bill_ids)} bills from session {session_year}")
+        print(f"{'='*60}\n")
+        
+        results = {}
+        successful_bills = 0
+        failed_bills = 0
+        
+        for i, bill_id in enumerate(bill_ids, 1):
+            print(f"\n{'#'*60}")
+            print(f"Processing bill {i}/{len(bill_ids)}: {bill_id}")
+            print(f"{'#'*60}\n")
+            
+            try:
+                # Process all versions for this bill
+                success = self.process_bill_versions_with_git(
+                    bill_id=bill_id,
+                    session_year=session_year,
+                    use_html=use_html
+                )
+                results[bill_id] = success
+                
+                if success:
+                    successful_bills += 1
+                else:
+                    failed_bills += 1
+                    print(f"Warning: Some versions failed for bill {bill_id}")
+                    
+            except Exception as e:
+                print(f"Error processing bill {bill_id}: {e}")
+                results[bill_id] = False
+                failed_bills += 1
+                continue
+        
+        print(f"\n{'='*60}")
+        print(f"Processing complete!")
+        print(f"  Total bills: {len(bill_ids)}")
+        print(f"  Successful: {successful_bills}")
+        print(f"  Failed: {failed_bills}")
+        print(f"{'='*60}\n")
+        
+        return results
 
 
 if __name__ == "__main__":
     # Example usage
     fetcher = BillFetcher()
     
-    # Test with example bill ID
-    test_bill_id = "S04609"
-    test_session = 2023  # Specify the session year
-    print(f"Fetching bill {test_bill_id} from session {test_session}...")
-    
-    # Test the new get_bill_versions function
-    version_suffixes, full_bill_ids = fetcher.get_bill_versions(test_bill_id, test_session)
-    
-    # Process all versions with Git automation
-    print("\n" + "="*60)
-    print("Processing bill versions with Git automation")
+    # Fetch all bill IDs from 2023 session
     print("="*60)
-    success = fetcher.process_bill_versions_with_git(test_bill_id, test_session)
+    print("Fetching all bills from 2023 session")
+    print("="*60)
+    all_bill_ids = fetcher.fetch_all_bill_ids(session_year=2023)
     
-    if success:
-        print("Successfully processed all bill versions!")
-    else:
-        print("Some versions failed to process. Check the output above for details.")
+    print(f"\nTotal bills found: {len(all_bill_ids)}")
+    if all_bill_ids:
+        print(f"First 10 bill IDs: {all_bill_ids[:10]}")
+        print(f"Last 10 bill IDs: {all_bill_ids[-10:]}")
     
-    # Fetch, sanitize, and save the bill
-    saved_path = fetcher.fetch_and_save_bill(test_bill_id, test_session)
+    # Test with a small sample (first 5 bills)
+    print("\n" + "="*60)
+    print("TESTING: Processing small sample of bills with Git")
+    print("="*60)
+    sample_size = 5
+    sample_bills = all_bill_ids[:sample_size]
+    print(f"Processing {sample_size} bills as a test: {sample_bills}")
     
-    if saved_path:
-        print(f"Successfully saved bill to: {saved_path}")
-        # Show preview of saved content
-        with open(saved_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            print(f"\nMarkdown preview (first 300 chars):")
-            print("-" * 50)
-            print(content[:300])
-            print("-" * 50)
-    else:
-        print("Failed to fetch and save bill")
+    results = fetcher.process_all_bills_with_git(
+        session_year=2023,
+        bill_ids=sample_bills
+    )
+    
+    print("\n" + "="*60)
+    print("Test Results:")
+    print("="*60)
+    for bill_id, success in results.items():
+        status = "Success" if success else "Failed"
+        print(f"  {bill_id}: {status}")
