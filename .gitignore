@@ -33,6 +33,3 @@ Thumbs.db
 # Uncomment the line below if you want to exclude all bill folders
 # S*-*/
 # A*-*/
-
-# PDF files
-*.pdf
