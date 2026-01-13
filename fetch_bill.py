@@ -8,6 +8,7 @@ sanitizing HTML, and saving bills as Markdown files.
 import os
 import re
 import subprocess
+import time
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -19,13 +20,114 @@ from markdownify import markdownify as md
 from config import Config
 
 
+class RateLimiter:
+    """Rate limiter to ensure maximum requests per second."""
+    
+    def __init__(self, max_requests_per_second: float = 2.0):
+        """
+        Initialize rate limiter.
+        
+        Args:
+            max_requests_per_second: Maximum number of requests per second (default: 2.0)
+        """
+        self.min_interval = 1.0 / max_requests_per_second
+        self.last_request_time = 0.0
+    
+    def wait_if_needed(self):
+        """Wait if necessary to maintain rate limit."""
+        current_time = time.time()
+        time_since_last = current_time - self.last_request_time
+        
+        if time_since_last < self.min_interval:
+            sleep_time = self.min_interval - time_since_last
+            time.sleep(sleep_time)
+        
+        self.last_request_time = time.time()
+
+
+class ProgressTracker:
+    """Tracks processing progress to enable resumable downloads."""
+    
+    def __init__(self, progress_file: str = "progress.txt"):
+        """
+        Initialize progress tracker.
+        
+        Args:
+            progress_file: Path to the progress file
+        """
+        self.progress_file = Path(progress_file)
+        self.processed_bills: set = set()
+        self.load_progress()
+    
+    def load_progress(self):
+        """Load progress from file."""
+        if self.progress_file.exists():
+            try:
+                with open(self.progress_file, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        line = line.strip()
+                        if line and not line.startswith('#'):
+                            # Format: bill_id:version_suffix or just bill_id
+                            self.processed_bills.add(line)
+                print(f"Loaded progress: {len(self.processed_bills)} items already processed")
+            except Exception as e:
+                print(f"Warning: Could not load progress file: {e}")
+    
+    def is_processed(self, bill_id: str, version_suffix: str = '') -> bool:
+        """
+        Check if a bill version has been processed.
+        
+        Args:
+            bill_id: The bill identifier
+            version_suffix: The version suffix (empty string for original)
+            
+        Returns:
+            bool: True if already processed
+        """
+        if version_suffix:
+            key = f"{bill_id}:{version_suffix}"
+        else:
+            key = f"{bill_id}:"
+        return key in self.processed_bills
+    
+    def mark_processed(self, bill_id: str, version_suffix: str = ''):
+        """
+        Mark a bill version as processed.
+        
+        Args:
+            bill_id: The bill identifier
+            version_suffix: The version suffix (empty string for original)
+        """
+        if version_suffix:
+            key = f"{bill_id}:{version_suffix}"
+        else:
+            key = f"{bill_id}:"
+        
+        self.processed_bills.add(key)
+        
+        # Append to progress file
+        try:
+            with open(self.progress_file, 'a', encoding='utf-8') as f:
+                f.write(f"{key}\n")
+        except Exception as e:
+            print(f"Warning: Could not write to progress file: {e}")
+
+
 class BillFetcher:
     """Handles fetching bill data from the NYS Senate Open Legislation API."""
     
-    def __init__(self):
-        """Initialize the BillFetcher with configuration."""
+    def __init__(self, rate_limit: float = 2.0, progress_file: str = "progress.txt"):
+        """
+        Initialize the BillFetcher with configuration.
+        
+        Args:
+            rate_limit: Maximum requests per second (default: 2.0)
+            progress_file: Path to progress tracking file (default: "progress.txt")
+        """
         self.base_url = Config.SENATE_API_BASE_URL
         self.headers = Config.get_senate_headers()
+        self.rate_limiter = RateLimiter(max_requests_per_second=rate_limit)
+        self.progress_tracker = ProgressTracker(progress_file=progress_file)
     
     def fetch_bill(self, bill_id: str, session_year: Optional[int] = None) -> Optional[Dict]:
         """
@@ -65,6 +167,9 @@ class BillFetcher:
             params['key'] = Config.SENATE_API_KEY
         
         try:
+            # Apply rate limiting
+            self.rate_limiter.wait_if_needed()
+            
             response = requests.get(
                 endpoint,
                 headers=self.headers,
@@ -129,6 +234,9 @@ class BillFetcher:
         
         while True:
             try:
+                # Apply rate limiting
+                self.rate_limiter.wait_if_needed()
+                
                 # Update offset for current page
                 params['offset'] = offset
                 
@@ -644,22 +752,27 @@ class BillFetcher:
         """
         Get the folder path for a bill based on its ID and session year.
         
+        Bills are organized by year in a top-level folder (e.g., 2023/S04609-2023/)
+        
         Args:
             bill_id: The bill identifier (e.g., 'S04609')
-            session_year: Optional session year to include in folder name
+            session_year: Optional session year to include in folder name and as top-level folder
             
         Returns:
-            Path: Path to the bill folder
+            Path: Path to the bill folder (e.g., 2023/S04609-2023/)
         """
         # Sanitize bill_id for filesystem (remove any invalid characters)
         safe_bill_id = re.sub(r'[<>:"/\\|?*]', '_', bill_id)
         folder_name = safe_bill_id
         
-        # Optionally include session year in folder name
+        # Include session year in folder name
         if session_year:
             folder_name = f"{safe_bill_id}-{session_year}"
-        
-        return Path(folder_name)
+            # Create path with year as top-level folder: 2023/S04609-2023/
+            return Path(str(session_year)) / folder_name
+        else:
+            # If no session year, just use bill ID
+            return Path(folder_name)
     
     def download_bill_pdf(
         self, 
@@ -703,6 +816,9 @@ class BillFetcher:
         pdf_file = bill_dir / "bill.pdf"
         
         try:
+            # Apply rate limiting
+            self.rate_limiter.wait_if_needed()
+            
             # Download the PDF
             # Note: PDF endpoint may not require API key, but include it if available
             params = {}
@@ -944,6 +1060,12 @@ class BillFetcher:
             print(f"Processing version {i+1}/{len(version_suffixes)}: {full_bill_id}")
             print(f"{'='*60}")
             
+            # Check if this version has already been processed
+            if self.progress_tracker.is_processed(bill_id, suffix):
+                print(f"Skipping {full_bill_id} - already processed (found in progress.txt)")
+                success_count += 1
+                continue
+            
             # Fetch the text for this specific version
             full_text = self.get_full_text(bill_id, session_year, version_suffix=suffix)
             
@@ -1110,6 +1232,9 @@ class BillFetcher:
                         if amendment_date:
                             print(f"  Date: {amendment_date.strftime('%Y-%m-%d')}")
                         success_count += 1
+                        
+                        # Mark as processed in progress file
+                        self.progress_tracker.mark_processed(bill_id, suffix)
                 except Exception as e:
                     print(f"Error committing: {e}")
                     continue

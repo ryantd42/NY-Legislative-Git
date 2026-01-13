@@ -29,7 +29,12 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Generated bill folders (keep structure but ignore content)
+# Generated bill folders (organized by year: 2023/S04609-2023/, etc.)
 # Uncomment the line below if you want to exclude all bill folders
+# 2023/
+# 2024/
 # S*-*/
 # A*-*/
+
+# Progress tracking
+progress.txt
