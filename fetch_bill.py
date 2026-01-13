@@ -509,12 +509,14 @@ class BillFetcher:
             return None
         
         # Try to find date fields in the amendment
+        # Based on API inspection, the field is 'publishDate' in format 'YYYY-MM-DD'
         date_str = None
         date_fields = [
-            'publishedDateTime',
-            'published_date_time',
+            'publishDate',  # Primary field found in API (format: YYYY-MM-DD)
             'publishedDate',
             'published_date',
+            'publishedDateTime',
+            'published_date_time',
             'introducedDate',
             'introduced_date',
             'actionDate',
@@ -1211,22 +1213,32 @@ if __name__ == "__main__":
         print(f"First 10 bill IDs: {all_bill_ids[:10]}")
         print(f"Last 10 bill IDs: {all_bill_ids[-10:]}")
     
-    # Test with a small sample (first 5 bills)
+    # Test with bills that have amendments
     print("\n" + "="*60)
-    print("TESTING: Processing small sample of bills with Git")
+    print("TESTING: Processing bills with amendments (with fixed date extraction)")
     print("="*60)
-    sample_size = 5
-    sample_bills = all_bill_ids[:sample_size]
-    print(f"Processing {sample_size} bills as a test: {sample_bills}")
     
-    results = fetcher.process_all_bills_with_git(
-        session_year=2023,
-        bill_ids=sample_bills
-    )
+    # Find bills with amendments (check first 100)
+    bills_with_amendments = []
+    for bill_id in all_bill_ids[:100]:
+        version_suffixes, _ = fetcher.get_bill_versions(bill_id, 2023)
+        if len(version_suffixes) > 1:
+            bills_with_amendments.append(bill_id)
+            if len(bills_with_amendments) >= 5:
+                break
     
-    print("\n" + "="*60)
-    print("Test Results:")
-    print("="*60)
-    for bill_id, success in results.items():
-        status = "Success" if success else "Failed"
-        print(f"  {bill_id}: {status}")
+    if bills_with_amendments:
+        print(f"Found {len(bills_with_amendments)} bills with amendments: {bills_with_amendments}")
+        results = fetcher.process_all_bills_with_git(
+            session_year=2023,
+            bill_ids=bills_with_amendments
+        )
+        
+        print("\n" + "="*60)
+        print("Test Results:")
+        print("="*60)
+        for bill_id, success in results.items():
+            status = "Success" if success else "Failed"
+            print(f"  {bill_id}: {status}")
+    else:
+        print("No bills with amendments found in first 100 bills")
