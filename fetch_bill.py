@@ -166,34 +166,58 @@ class BillFetcher:
             # Try common query parameter names for API keys
             params['key'] = Config.SENATE_API_KEY
         
+        max_retries = 3
+        retry_delay = 1  # Start with 1 second
+        
+        for attempt in range(max_retries):
+            try:
+                # Apply rate limiting
+                self.rate_limiter.wait_if_needed()
+                
+                response = requests.get(
+                    endpoint,
+                    headers=self.headers,
+                    params=params,
+                    timeout=30
+                )
+                
+                # Handle rate limiting (HTTP 429)
+                if response.status_code == 429:
+                    retry_after = int(response.headers.get('Retry-After', retry_delay * (2 ** attempt)))
+                    print(f"Rate limited (429) for bill {bill_id}! Waiting {retry_after} seconds before retry {attempt + 1}/{max_retries}...")
+                    time.sleep(retry_after)
+                    continue  # Retry the request
+                
+                response.raise_for_status()
+                
+                return response.json()
+                
+            except requests.exceptions.RequestException as e:
+                # If this is the last attempt, raise the exception
+                if attempt == max_retries - 1:
+                    raise
+                
+                # For other errors, wait and retry with exponential backoff
+                wait_time = retry_delay * (2 ** attempt)
+                print(f"Request failed for bill {bill_id} (attempt {attempt + 1}/{max_retries}), retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+        
+        # If we get here, all retries failed
+        # Sanitize error message to avoid exposing API key in URLs
+        error_msg = f"Failed to fetch bill {bill_id} after {max_retries} attempts"
+        print(f"Error: {error_msg}")
+        
+        # Try to get more error details if available
         try:
-            # Apply rate limiting
-            self.rate_limiter.wait_if_needed()
-            
-            response = requests.get(
-                endpoint,
-                headers=self.headers,
-                params=params,
-                timeout=30
-            )
-            response.raise_for_status()
-            
-            return response.json()
-            
-        except requests.exceptions.RequestException as e:
-            # Sanitize error message to avoid exposing API key in URLs
-            error_msg = str(e)
-            if Config.SENATE_API_KEY and Config.SENATE_API_KEY in error_msg:
-                error_msg = error_msg.replace(Config.SENATE_API_KEY, '[REDACTED]')
-            print(f"Error fetching bill {bill_id}: {error_msg}")
-            if hasattr(e, 'response') and e.response is not None:
-                print(f"Response status: {e.response.status_code}")
-                # Sanitize response body in case it contains the API key
-                response_body = e.response.text[:500]
-                if Config.SENATE_API_KEY and Config.SENATE_API_KEY in response_body:
-                    response_body = response_body.replace(Config.SENATE_API_KEY, '[REDACTED]')
-                print(f"Response body: {response_body}")
-            return None
+            # This will only execute if we somehow got here without an exception
+            pass
+        except Exception as e:
+            error_details = str(e)
+            if Config.SENATE_API_KEY and Config.SENATE_API_KEY in error_details:
+                error_details = error_details.replace(Config.SENATE_API_KEY, '[REDACTED]')
+            print(f"Error details: {error_details}")
+        
+        return None
     
     def fetch_all_bill_ids(
         self,
@@ -240,13 +264,30 @@ class BillFetcher:
                 # Update offset for current page
                 params['offset'] = offset
                 
-                response = requests.get(
-                    endpoint,
-                    headers=self.headers,
-                    params=params,
-                    timeout=60  # Longer timeout for large requests
-                )
-                response.raise_for_status()
+                max_retries = 3
+                retry_delay = 1
+                
+                for attempt in range(max_retries):
+                    response = requests.get(
+                        endpoint,
+                        headers=self.headers,
+                        params=params,
+                        timeout=60  # Longer timeout for large requests
+                    )
+                    
+                    # Handle rate limiting (HTTP 429)
+                    if response.status_code == 429:
+                        retry_after = int(response.headers.get('Retry-After', retry_delay * (2 ** attempt)))
+                        print(f"Rate limited (429) on page {page}! Waiting {retry_after} seconds before retry {attempt + 1}/{max_retries}...")
+                        time.sleep(retry_after)
+                        continue  # Retry the request
+                    
+                    response.raise_for_status()
+                    break  # Success, exit retry loop
+                else:
+                    # All retries failed
+                    print(f"Failed to fetch page {page} after {max_retries} attempts")
+                    raise requests.exceptions.RequestException(f"Failed after {max_retries} retries")
                 
                 data = response.json()
                 
@@ -406,9 +447,15 @@ class BillFetcher:
             return [], []
         
         # Extract from the API response structure
-        result = bill_data.get('result', {})
-        amendments = result.get('amendments', {})
-        items = amendments.get('items', {})
+        result = bill_data.get('result')
+        if not result or not isinstance(result, dict):
+            return [], []
+        
+        amendments = result.get('amendments')
+        if not amendments or not isinstance(amendments, dict):
+            return [], []
+        
+        items = amendments.get('items')
         
         if not isinstance(items, dict) or not items:
             return [], []
@@ -467,9 +514,15 @@ class BillFetcher:
         if not bill_data:
             return None
         
-        result = bill_data.get('result', {})
-        amendments = result.get('amendments', {})
-        items = amendments.get('items', {})
+        result = bill_data.get('result')
+        if not result or not isinstance(result, dict):
+            return None
+        
+        amendments = result.get('amendments')
+        if not amendments or not isinstance(amendments, dict):
+            return None
+        
+        items = amendments.get('items')
         
         if isinstance(items, dict) and items:
             if version_suffix in items:
@@ -815,45 +868,69 @@ class BillFetcher:
         # Create PDF file path
         pdf_file = bill_dir / "bill.pdf"
         
+        max_retries = 3
+        retry_delay = 1
+        response = None
+        
+        for attempt in range(max_retries):
+            try:
+                # Apply rate limiting
+                self.rate_limiter.wait_if_needed()
+                
+                # Download the PDF
+                # Note: PDF endpoint may not require API key, but include it if available
+                params = {}
+                if Config.SENATE_API_KEY:
+                    params['key'] = Config.SENATE_API_KEY
+                
+                response = requests.get(
+                    pdf_url,
+                    params=params,
+                    headers=self.headers,
+                    timeout=30,
+                    stream=True  # Stream for large files
+                )
+                
+                # Handle rate limiting (HTTP 429)
+                if response.status_code == 429:
+                    retry_after = int(response.headers.get('Retry-After', retry_delay * (2 ** attempt)))
+                    print(f"Rate limited (429) for PDF {bill_id}! Waiting {retry_after} seconds before retry {attempt + 1}/{max_retries}...")
+                    time.sleep(retry_after)
+                    continue  # Retry the request
+                
+                # Check if the response is actually a PDF
+                content_type = response.headers.get('Content-Type', '')
+                if 'pdf' not in content_type.lower() and response.status_code != 200:
+                    print(f"Warning: PDF download returned status {response.status_code} or non-PDF content type: {content_type}")
+                    return None
+                
+                # Success - break out of retry loop
+                break
+                
+            except requests.exceptions.RequestException as e:
+                if attempt == max_retries - 1:
+                    # Last attempt failed - sanitize and return None
+                    error_msg = str(e)
+                    if Config.SENATE_API_KEY and Config.SENATE_API_KEY in error_msg:
+                        error_msg = error_msg.replace(Config.SENATE_API_KEY, '[REDACTED]')
+                    print(f"Error downloading PDF for bill {bill_id}: {error_msg}")
+                    return None
+                wait_time = retry_delay * (2 ** attempt)
+                print(f"PDF download failed for {bill_id} (attempt {attempt + 1}/{max_retries}), retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+        
+        # If we get here and response is None, all retries failed
+        if response is None:
+            return None
+        
+        # Save the PDF
         try:
-            # Apply rate limiting
-            self.rate_limiter.wait_if_needed()
-            
-            # Download the PDF
-            # Note: PDF endpoint may not require API key, but include it if available
-            params = {}
-            if Config.SENATE_API_KEY:
-                params['key'] = Config.SENATE_API_KEY
-            
-            response = requests.get(
-                pdf_url,
-                params=params,
-                headers=self.headers,
-                timeout=30,
-                stream=True  # Stream for large files
-            )
-            
-            # Check if the response is actually a PDF
-            content_type = response.headers.get('Content-Type', '')
-            if 'pdf' not in content_type.lower() and response.status_code != 200:
-                print(f"Warning: PDF download returned status {response.status_code} or non-PDF content type: {content_type}")
-                return None
-            
-            # Save the PDF
             with open(pdf_file, 'wb') as f:
                 for chunk in response.iter_content(chunk_size=8192):
                     f.write(chunk)
             
             print(f"Downloaded PDF to: {pdf_file}")
             return pdf_file
-            
-        except requests.exceptions.RequestException as e:
-            # Sanitize error message
-            error_msg = str(e)
-            if Config.SENATE_API_KEY and Config.SENATE_API_KEY in error_msg:
-                error_msg = error_msg.replace(Config.SENATE_API_KEY, '[REDACTED]')
-            print(f"Error downloading PDF for bill {bill_id}: {error_msg}")
-            return None
         except Exception as e:
             print(f"Error saving PDF for bill {bill_id}: {e}")
             return None
@@ -1001,7 +1078,7 @@ class BillFetcher:
         bill_id: str,
         session_year: Optional[int] = None,
         use_html: bool = False
-    ) -> bool:
+    ) -> Tuple[bool, Optional[str]]:
         """
         Process all bill versions in chronological order and commit each to Git.
         
@@ -1020,7 +1097,7 @@ class BillFetcher:
             use_html: If True, prefer HTML version; if False, use plain text
             
         Returns:
-            bool: True if all versions were processed successfully, False otherwise
+            Tuple[bool, Optional[str]]: (success, error_message) - True if all versions were processed successfully, False with error message otherwise
         """
         if session_year is None:
             from datetime import datetime
@@ -1030,8 +1107,9 @@ class BillFetcher:
         version_suffixes, full_bill_ids = self.get_bill_versions(bill_id, session_year)
         
         if not version_suffixes:
-            print(f"No versions found for bill {bill_id}")
-            return False
+            error_msg = f"No versions found for bill {bill_id} - bill may not exist or API returned no amendments"
+            print(error_msg)
+            return False, error_msg
         
         # Get bill directory
         bill_dir = self.get_bill_folder_path(bill_id, session_year)
@@ -1041,16 +1119,29 @@ class BillFetcher:
         # Fetch bill metadata once (same for all versions)
         bill_data = self.fetch_bill(bill_id, session_year)
         if not bill_data:
-            print(f"Failed to fetch bill data for {bill_id}")
-            return False
+            error_msg = f"Failed to fetch bill data for {bill_id} - API request failed or bill not found"
+            print(error_msg)
+            return False, error_msg
         
-        result = bill_data.get('result', {})
+        result = bill_data.get('result')
+        if not result or not isinstance(result, dict):
+            error_msg = f"Invalid API response for {bill_id} - 'result' field is missing or invalid"
+            print(error_msg)
+            return False, error_msg
+        
         title = result.get('title', f'Bill {bill_id}')
         summary = result.get('summary', '')
-        sponsor = result.get('sponsor', {})
-        sponsor_name = sponsor.get('member', {}).get('fullName', 'Unknown') if sponsor else 'Unknown'
-        status = result.get('status', {})
-        status_desc = status.get('statusDesc', 'Unknown') if status else 'Unknown'
+        sponsor = result.get('sponsor')
+        sponsor_name = 'Unknown'
+        if sponsor and isinstance(sponsor, dict):
+            member = sponsor.get('member')
+            if member and isinstance(member, dict):
+                sponsor_name = member.get('fullName', 'Unknown')
+        
+        status = result.get('status')
+        status_desc = 'Unknown'
+        if status and isinstance(status, dict):
+            status_desc = status.get('statusDesc', 'Unknown')
         
         success_count = 0
         
@@ -1243,14 +1334,19 @@ class BillFetcher:
         print(f"Processing complete: {success_count}/{len(version_suffixes)} versions committed")
         print(f"{'='*60}\n")
         
-        return success_count == len(version_suffixes)
+        success = success_count == len(version_suffixes)
+        if not success:
+            error_msg = f"Only {success_count}/{len(version_suffixes)} versions were successfully processed for bill {bill_id}"
+        else:
+            error_msg = None
+        return success, error_msg
     
     def process_all_bills_with_git(
         self,
         session_year: int = 2023,
         bill_ids: Optional[List[str]] = None,
         use_html: bool = False
-    ) -> Dict[str, bool]:
+    ) -> Dict[str, Tuple[bool, Optional[str]]]:
         """
         Process all bills from a session year, committing each version with historical dates.
         
@@ -1268,7 +1364,7 @@ class BillFetcher:
             use_html: If True, prefer HTML version; if False, use plain text
             
         Returns:
-            Dict[str, bool]: Dictionary mapping bill_id to success status
+            Dict[str, Tuple[bool, Optional[str]]]: Dictionary mapping bill_id to (success, error_message) tuple
         """
         # Get bill IDs if not provided
         if bill_ids is None:
@@ -1294,22 +1390,25 @@ class BillFetcher:
             
             try:
                 # Process all versions for this bill
-                success = self.process_bill_versions_with_git(
+                success, error_msg = self.process_bill_versions_with_git(
                     bill_id=bill_id,
                     session_year=session_year,
                     use_html=use_html
                 )
-                results[bill_id] = success
+                results[bill_id] = (success, error_msg)
                 
                 if success:
                     successful_bills += 1
                 else:
                     failed_bills += 1
-                    print(f"Warning: Some versions failed for bill {bill_id}")
+                    print(f"Warning: Failed to process bill {bill_id}")
+                    if error_msg:
+                        print(f"  Reason: {error_msg}")
                     
             except Exception as e:
+                error_msg = f"Exception during processing: {str(e)}"
                 print(f"Error processing bill {bill_id}: {e}")
-                results[bill_id] = False
+                results[bill_id] = (False, error_msg)
                 failed_bills += 1
                 continue
         
@@ -1324,13 +1423,25 @@ class BillFetcher:
 
 
 if __name__ == "__main__":
-    # Example usage
-    fetcher = BillFetcher()
+    # Process the full 2023 bill archive
+    print("="*60)
+    print("NY Legislative Git - Processing 2023 Bill Archive")
+    print("="*60)
+    print("Features:")
+    print("  - Rate limiting: 5 requests/second (with 429 error handling)")
+    print("  - Progress tracking: progress.txt (resumable)")
+    print("  - Historical commit dates from amendment publishDate")
+    print("="*60)
+    print()
+    
+    # Initialize fetcher with rate limiting and progress tracking
+    # Increased to 10 requests/second (can be adjusted if throttled)
+    fetcher = BillFetcher(rate_limit=10.0, progress_file="progress.txt")
     
     # Fetch all bill IDs from 2023 session
-    print("="*60)
-    print("Fetching all bills from 2023 session")
-    print("="*60)
+    print("Step 1: Fetching all bill IDs from 2023 session...")
+    print("(This may take a few minutes due to pagination)")
+    print()
     all_bill_ids = fetcher.fetch_all_bill_ids(session_year=2023)
     
     print(f"\nTotal bills found: {len(all_bill_ids)}")
@@ -1338,32 +1449,47 @@ if __name__ == "__main__":
         print(f"First 10 bill IDs: {all_bill_ids[:10]}")
         print(f"Last 10 bill IDs: {all_bill_ids[-10:]}")
     
-    # Test with bills that have amendments
+    # Process all bills
     print("\n" + "="*60)
-    print("TESTING: Processing bills with amendments (with fixed date extraction)")
+    print("Step 2: Processing all bills with Git commits")
     print("="*60)
+    print("Note: This will take a very long time (24,269+ bills)")
+    print("Progress is saved to progress.txt - you can resume if interrupted")
+    print("="*60)
+    print()
     
-    # Find bills with amendments (check first 100)
-    bills_with_amendments = []
-    for bill_id in all_bill_ids[:100]:
-        version_suffixes, _ = fetcher.get_bill_versions(bill_id, 2023)
-        if len(version_suffixes) > 1:
-            bills_with_amendments.append(bill_id)
-            if len(bills_with_amendments) >= 5:
-                break
+    results = fetcher.process_all_bills_with_git(
+        session_year=2023,
+        bill_ids=all_bill_ids,
+        use_html=False
+    )
     
-    if bills_with_amendments:
-        print(f"Found {len(bills_with_amendments)} bills with amendments: {bills_with_amendments}")
-        results = fetcher.process_all_bills_with_git(
-            session_year=2023,
-            bill_ids=bills_with_amendments
-        )
-        
-        print("\n" + "="*60)
-        print("Test Results:")
-        print("="*60)
-        for bill_id, success in results.items():
-            status = "Success" if success else "Failed"
-            print(f"  {bill_id}: {status}")
-    else:
-        print("No bills with amendments found in first 100 bills")
+    print("\n" + "="*60)
+    print("Final Results:")
+    print("="*60)
+    successful = sum(1 for result in results.values() if (isinstance(result, tuple) and result[0]) or (not isinstance(result, tuple) and result))
+    failed = len(results) - successful
+    print(f"  Total bills processed: {len(results)}")
+    print(f"  Successful: {successful}")
+    print(f"  Failed: {failed}")
+    
+    # List failed bills with error messages
+    failed_bills = []
+    for bill_id, result in results.items():
+        if isinstance(result, tuple):
+            success, error_msg = result
+            if not success:
+                failed_bills.append((bill_id, error_msg))
+        elif not result:
+            failed_bills.append((bill_id, "Unknown error"))
+    
+    if failed_bills:
+        print(f"\nFailed bills ({len(failed_bills)}):")
+        for bill_id, error_msg in failed_bills:
+            print(f"  - {bill_id}")
+            if error_msg:
+                print(f"    Reason: {error_msg}")
+    
+    print("="*60)
+    print("\nProgress saved to: progress.txt")
+    print("You can review the Git history to see all commits with historical dates.")

@@ -62,11 +62,6 @@ NYS_SENATE_API_BASE_URL=https://legislation.nysenate.gov/api/3
 SOCRATA_APP_TOKEN=your_socrata_app_token_here
 SOCRATA_APP_SECRET=your_socrata_app_secret_here
 SOCRATA_BASE_URL=https://data.ny.gov
-
-# Lobbyist Bi-Monthly Reports Dataset ID
-# Find this by visiting https://data.ny.gov/ and searching for "Lobbyist Bi-Monthly Reports"
-# The dataset ID is in the URL (e.g., if URL is https://data.ny.gov/d/abcd-1234, use 'abcd-1234')
-LOBBYIST_DATASET_ID=your-dataset-id-here
 ```
 
 **⚠️ Security Warning**: Never commit your `.env` file to version control. It is already excluded in `.gitignore`.
