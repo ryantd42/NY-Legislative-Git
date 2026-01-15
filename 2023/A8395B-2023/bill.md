@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Stern
 **Status:** In Assembly Committee
+**PDF:** [A8395B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8395B)
 
 ## Summary
 

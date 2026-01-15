@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** In Senate Committee
+**PDF:** [S4779 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4779)
 
 ## Summary
 

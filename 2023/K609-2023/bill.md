@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** Adopted
+**PDF:** [K609 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K609)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** Signed by Governor
+**PDF:** [S6535 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6535)
 
 ## Summary
 

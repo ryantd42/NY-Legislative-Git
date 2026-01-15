@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Signed by Governor
+**PDF:** [S7526 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7526)
 
 ## Summary
 

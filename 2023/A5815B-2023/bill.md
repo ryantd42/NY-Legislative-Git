@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Vetoed
+**PDF:** [A5815B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5815B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Albert A. Stirpe
 **Status:** Vetoed
+**PDF:** [A2364 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2364)
 
 ## Summary
 

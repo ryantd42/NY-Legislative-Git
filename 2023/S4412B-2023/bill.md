@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Assembly Committee
+**PDF:** [S4412B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4412B)
 
 ## Summary
 

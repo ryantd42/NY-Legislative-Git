@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Yudelka Tapia
 **Status:** Stricken
+**PDF:** [A6123 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6123)
 
 ## Summary
 

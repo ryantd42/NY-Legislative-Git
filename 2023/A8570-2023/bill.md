@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Signed by Governor
+**PDF:** [A8570 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8570)
 
 ## Summary
 

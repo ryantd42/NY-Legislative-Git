@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** Vetoed
+**PDF:** [A1926A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1926A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Senate Floor Calendar
+**PDF:** [S8674 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8674)
 
 ## Summary
 

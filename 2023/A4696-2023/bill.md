@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Ron Kim
 **Status:** Assembly Floor Calendar
+**PDF:** [A4696 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4696)
 
 ## Summary
 

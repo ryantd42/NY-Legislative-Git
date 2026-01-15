@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ryan Blumencranz
 **Status:** Adopted
+**PDF:** [K2316 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2316)
 
 ---
 

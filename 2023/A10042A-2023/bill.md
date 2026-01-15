@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** Signed by Governor
+**PDF:** [A10042A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10042A)
 
 ## Summary
 

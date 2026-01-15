@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Signed by Governor
+**PDF:** [S6687 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6687)
 
 ## Summary
 

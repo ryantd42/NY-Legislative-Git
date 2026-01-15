@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Benedetto
 **Status:** Assembly Floor Calendar
+**PDF:** [A10356A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10356A)
 
 ## Summary
 

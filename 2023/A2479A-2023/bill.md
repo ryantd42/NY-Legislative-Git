@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Assembly Floor Calendar
+**PDF:** [A2479A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2479A)
 
 ## Summary
 

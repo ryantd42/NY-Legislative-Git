@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** Signed by Governor
+**PDF:** [A3463A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3463A)
 
 ## Summary
 

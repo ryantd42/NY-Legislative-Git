@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Helene Weinstein
 **Status:** Assembly Floor Calendar
+**PDF:** [A8138B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8138B)
 
 ## Summary
 

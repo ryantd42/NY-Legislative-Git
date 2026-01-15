@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sarahana Shrestha
 **Status:** Assembly Floor Calendar
+**PDF:** [A8875 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8875)
 
 ## Summary
 

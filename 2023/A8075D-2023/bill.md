@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** In Senate Committee
+**PDF:** [A8075D PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8075D)
 
 ## Summary
 

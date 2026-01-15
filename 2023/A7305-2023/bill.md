@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** Assembly Floor Calendar
+**PDF:** [A7305 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7305)
 
 ## Summary
 

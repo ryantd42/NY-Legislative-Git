@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** Senate Floor Calendar
+**PDF:** [S9392 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9392)
 
 ## Summary
 

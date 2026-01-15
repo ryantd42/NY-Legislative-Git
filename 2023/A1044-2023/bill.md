@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Crystal Peoples-Stokes
 **Status:** In Assembly Committee
+**PDF:** [A1044 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1044)
 
 ## Summary
 

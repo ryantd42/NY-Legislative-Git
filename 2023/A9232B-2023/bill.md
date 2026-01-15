@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Helene Weinstein
 **Status:** Vetoed
+**PDF:** [A9232B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9232B)
 
 ## Summary
 

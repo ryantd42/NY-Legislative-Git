@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** Vetoed
+**PDF:** [S6542 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6542)
 
 ## Summary
 

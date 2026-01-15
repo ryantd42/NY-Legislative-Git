@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** Signed by Governor
+**PDF:** [A1118 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1118)
 
 ## Summary
 

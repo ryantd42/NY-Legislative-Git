@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Crystal Peoples-Stokes
 **Status:** Assembly Floor Calendar
+**PDF:** [A9499 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9499)
 
 ## Summary
 

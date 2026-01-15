@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** Signed by Governor
+**PDF:** [A10207 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10207)
 
 ## Summary
 

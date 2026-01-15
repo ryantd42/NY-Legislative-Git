@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** Adopted
+**PDF:** [J2643 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2643)
 
 ---
 

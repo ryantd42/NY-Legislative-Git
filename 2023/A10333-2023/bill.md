@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** Assembly Floor Calendar
+**PDF:** [A10333 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10333)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samuel Pirozzolo
 **Status:** In Assembly Committee
+**PDF:** [A4985 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4985)
 
 ## Summary
 

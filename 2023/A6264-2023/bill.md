@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Keith Brown
 **Status:** Stricken
+**PDF:** [A6264 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6264)
 
 ## Summary
 

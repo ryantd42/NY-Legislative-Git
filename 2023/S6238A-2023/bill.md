@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** Signed by Governor
+**PDF:** [S6238A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6238A)
 
 ## Summary
 

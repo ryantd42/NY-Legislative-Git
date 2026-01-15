@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** In Senate Committee
+**PDF:** [S6425 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6425)
 
 ## Summary
 

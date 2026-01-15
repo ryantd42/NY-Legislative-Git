@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Goodell
 **Status:** Stricken
+**PDF:** [A1960 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1960)
 
 ## Summary
 

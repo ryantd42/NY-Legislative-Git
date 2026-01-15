@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe DeStefano
 **Status:** In Assembly Committee
+**PDF:** [A6341A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6341A)
 
 ## Summary
 

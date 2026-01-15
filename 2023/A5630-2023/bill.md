@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** Vetoed
+**PDF:** [A5630 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5630)
 
 ## Summary
 

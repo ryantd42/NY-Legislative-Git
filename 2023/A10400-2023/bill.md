@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Braunstein
 **Status:** Assembly Floor Calendar
+**PDF:** [A10400 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10400)
 
 ## Summary
 

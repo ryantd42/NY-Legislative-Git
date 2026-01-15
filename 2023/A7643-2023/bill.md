@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Al Taylor
 **Status:** Stricken
+**PDF:** [A7643 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7643)
 
 ## Summary
 

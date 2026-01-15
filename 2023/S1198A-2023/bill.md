@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** Vetoed
+**PDF:** [S1198A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1198A)
 
 ## Summary
 

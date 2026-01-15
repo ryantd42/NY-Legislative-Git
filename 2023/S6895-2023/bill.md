@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Stricken
+**PDF:** [S6895 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6895)
 
 ## Summary
 

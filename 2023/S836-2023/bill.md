@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Senate Floor Calendar
+**PDF:** [S836 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S836)
 
 ## Summary
 

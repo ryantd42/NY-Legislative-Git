@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Unknown
 **Status:** Signed by Governor
+**PDF:** [S4001B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4001B)
 
 ## Summary
 

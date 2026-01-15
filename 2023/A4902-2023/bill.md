@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Novakhov
 **Status:** In Assembly Committee
+**PDF:** [A4902 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4902)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** Assembly Floor Calendar
+**PDF:** [A9964A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9964A)
 
 ## Summary
 

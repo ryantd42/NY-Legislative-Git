@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** Signed by Governor
+**PDF:** [A5897B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5897B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** Signed by Governor
+**PDF:** [A10209 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10209)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Signed by Governor
+**PDF:** [S8441 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8441)
 
 ## Summary
 

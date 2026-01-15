@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John K. Mikulin
 **Status:** Adopted
+**PDF:** [K264 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K264)
 
 ---
 

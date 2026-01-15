@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Senate Committee
+**PDF:** [S5483 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5483)
 
 ## Summary
 

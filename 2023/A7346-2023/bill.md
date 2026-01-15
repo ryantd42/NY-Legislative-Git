@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Josh Jensen
 **Status:** In Assembly Committee
+**PDF:** [A7346 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7346)
 
 ## Summary
 

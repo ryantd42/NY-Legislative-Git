@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** In Assembly Committee
+**PDF:** [A5827 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5827)
 
 ## Summary
 

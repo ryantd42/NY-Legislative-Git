@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** Vetoed
+**PDF:** [A4439 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4439)
 
 ## Summary
 

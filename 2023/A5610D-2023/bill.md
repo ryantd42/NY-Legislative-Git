@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** Signed by Governor
+**PDF:** [A5610D PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5610D)
 
 ## Summary
 

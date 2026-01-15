@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Assembly Floor Calendar
+**PDF:** [A10565 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10565)
 
 ## Summary
 

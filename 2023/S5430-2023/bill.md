@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** Vetoed
+**PDF:** [S5430 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5430)
 
 ## Summary
 

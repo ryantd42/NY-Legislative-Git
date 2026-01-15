@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe DeStefano
 **Status:** Stricken
+**PDF:** [A5674 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5674)
 
 ## Summary
 

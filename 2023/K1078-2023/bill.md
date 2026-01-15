@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott Gray
 **Status:** Adopted
+**PDF:** [K1078 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1078)
 
 ---
 

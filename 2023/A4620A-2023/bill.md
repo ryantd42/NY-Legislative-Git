@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Alvarez
 **Status:** Assembly Floor Calendar
+**PDF:** [A4620A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4620A)
 
 ## Summary
 

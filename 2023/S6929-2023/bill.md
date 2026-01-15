@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** Vetoed
+**PDF:** [S6929 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6929)
 
 ## Summary
 

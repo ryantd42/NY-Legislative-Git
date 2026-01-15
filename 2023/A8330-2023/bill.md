@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dana Levenberg
 **Status:** Signed by Governor
+**PDF:** [A8330 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8330)
 
 ## Summary
 

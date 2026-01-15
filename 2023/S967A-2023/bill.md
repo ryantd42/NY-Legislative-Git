@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** Vetoed
+**PDF:** [S967A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S967A)
 
 ## Summary
 

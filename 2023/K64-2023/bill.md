@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** Adopted
+**PDF:** [K64 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K64)
 
 ---
 

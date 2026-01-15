@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** Signed by Governor
+**PDF:** [S9232 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9232)
 
 ## Summary
 

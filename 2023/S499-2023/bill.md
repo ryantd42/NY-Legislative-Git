@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** In Senate Committee
+**PDF:** [S499 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S499)
 
 ## Summary
 

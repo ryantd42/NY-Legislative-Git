@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jen Lunsford
 **Status:** Assembly Floor Calendar
+**PDF:** [A6832A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6832A)
 
 ## Summary
 

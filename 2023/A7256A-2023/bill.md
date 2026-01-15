@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** Stricken
+**PDF:** [A7256A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7256A)
 
 ## Summary
 

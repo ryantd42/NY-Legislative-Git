@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeff Gallahan
 **Status:** Signed by Governor
+**PDF:** [A4128A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4128A)
 
 ## Summary
 

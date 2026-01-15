@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** MaryJane Shimsky
 **Status:** Adopted
+**PDF:** [K776 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K776)
 
 ---
 

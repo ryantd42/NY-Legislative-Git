@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Signed by Governor
+**PDF:** [A2190 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2190)
 
 ## Summary
 

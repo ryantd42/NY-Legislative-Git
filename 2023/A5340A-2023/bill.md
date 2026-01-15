@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** Signed by Governor
+**PDF:** [A5340A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5340A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Stricken
+**PDF:** [A5307 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5307)
 
 ## Summary
 

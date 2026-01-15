@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** In Senate Committee
+**PDF:** [S384 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S384)
 
 ## Summary
 

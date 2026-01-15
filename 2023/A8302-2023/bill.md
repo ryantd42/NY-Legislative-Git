@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** In Assembly Committee
+**PDF:** [A8302 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8302)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Adopted
+**PDF:** [J1614 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1614)
 
 ---
 

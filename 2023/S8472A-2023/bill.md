@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Senate Floor Calendar
+**PDF:** [S8472A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8472A)
 
 ## Summary
 

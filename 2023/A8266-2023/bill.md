@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Zaccaro Jr.
 **Status:** In Assembly Committee
+**PDF:** [A8266 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8266)
 
 ## Summary
 

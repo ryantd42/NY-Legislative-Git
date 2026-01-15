@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anil Beephan Jr.
 **Status:** In Assembly Committee
+**PDF:** [A10038 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10038)
 
 ## Summary
 

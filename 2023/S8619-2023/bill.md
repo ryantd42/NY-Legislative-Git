@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Senate Committee
+**PDF:** [S8619 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8619)
 
 ## Summary
 

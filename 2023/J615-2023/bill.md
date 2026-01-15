@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Adopted
+**PDF:** [J615 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J615)
 
 ---
 

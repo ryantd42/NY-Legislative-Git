@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Doug Smith
 **Status:** Adopted
+**PDF:** [K1070 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1070)
 
 ---
 

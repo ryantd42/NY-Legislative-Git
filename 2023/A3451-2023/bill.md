@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe DeStefano
 **Status:** Signed by Governor
+**PDF:** [A3451 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3451)
 
 ## Summary
 

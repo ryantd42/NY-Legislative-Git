@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** In Senate Committee
+**PDF:** [S2316 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2316)
 
 ## Summary
 

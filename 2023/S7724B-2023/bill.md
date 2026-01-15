@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** In Assembly Committee
+**PDF:** [S7724B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7724B)
 
 ## Summary
 

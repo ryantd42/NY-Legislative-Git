@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Signed by Governor
+**PDF:** [S9251A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9251A)
 
 ## Summary
 

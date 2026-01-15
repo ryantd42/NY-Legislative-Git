@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** Adopted
+**PDF:** [K455 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K455)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Stricken
+**PDF:** [S4739 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4739)
 
 ## Summary
 

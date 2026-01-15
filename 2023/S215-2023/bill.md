@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** In Senate Committee
+**PDF:** [S215 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S215)
 
 ## Summary
 

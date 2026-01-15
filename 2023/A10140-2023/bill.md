@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** Vetoed
+**PDF:** [A10140 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10140)
 
 ## Summary
 

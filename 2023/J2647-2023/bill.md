@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** Adopted
+**PDF:** [J2647 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2647)
 
 ---
 

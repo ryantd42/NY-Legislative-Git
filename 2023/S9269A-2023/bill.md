@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** Signed by Governor
+**PDF:** [S9269A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9269A)
 
 ## Summary
 

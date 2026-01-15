@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Vetoed
+**PDF:** [S1039A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1039A)
 
 ## Summary
 

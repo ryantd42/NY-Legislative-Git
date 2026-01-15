@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** In Senate Committee
+**PDF:** [S7292B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7292B)
 
 ## Summary
 

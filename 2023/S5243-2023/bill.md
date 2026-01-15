@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alexis Weik
 **Status:** In Senate Committee
+**PDF:** [S5243 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5243)
 
 ## Summary
 

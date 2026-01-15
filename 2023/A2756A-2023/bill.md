@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** Signed by Governor
+**PDF:** [A2756A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2756A)
 
 ## Summary
 

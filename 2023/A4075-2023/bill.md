@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** Stricken
+**PDF:** [A4075 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4075)
 
 ## Summary
 

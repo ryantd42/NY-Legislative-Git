@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jen Lunsford
 **Status:** In Assembly Committee
+**PDF:** [A8152 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8152)
 
 ## Summary
 

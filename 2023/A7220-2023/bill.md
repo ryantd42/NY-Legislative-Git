@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** Assembly Floor Calendar
+**PDF:** [A7220 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7220)
 
 ## Summary
 

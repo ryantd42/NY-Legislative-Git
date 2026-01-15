@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** In Senate Committee
+**PDF:** [A5048A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5048A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** In Assembly Committee
+**PDF:** [S5963A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5963A)
 
 ## Summary
 

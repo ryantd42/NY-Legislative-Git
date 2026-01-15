@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** Stricken
+**PDF:** [A9413 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9413)
 
 ## Summary
 

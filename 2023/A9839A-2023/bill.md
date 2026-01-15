@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** Signed by Governor
+**PDF:** [A9839A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9839A)
 
 ## Summary
 

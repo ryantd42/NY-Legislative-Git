@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** In Senate Committee
+**PDF:** [A9057C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9057C)
 
 ## Summary
 

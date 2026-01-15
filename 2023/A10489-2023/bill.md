@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John W. McGowan
 **Status:** Assembly Floor Calendar
+**PDF:** [A10489 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10489)
 
 ## Summary
 

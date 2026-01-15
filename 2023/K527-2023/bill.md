@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Conrad
 **Status:** Adopted
+**PDF:** [K527 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K527)
 
 ---
 

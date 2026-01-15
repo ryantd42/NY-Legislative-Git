@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** In Senate Committee
+**PDF:** [S8329 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8329)
 
 ## Summary
 

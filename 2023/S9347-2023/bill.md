@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** Senate Floor Calendar
+**PDF:** [S9347 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9347)
 
 ## Summary
 

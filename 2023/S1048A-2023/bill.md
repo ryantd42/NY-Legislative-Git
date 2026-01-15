@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Senate Floor Calendar
+**PDF:** [S1048A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1048A)
 
 ## Summary
 

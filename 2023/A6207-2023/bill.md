@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Norris
 **Status:** Stricken
+**PDF:** [A6207 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6207)
 
 ## Summary
 

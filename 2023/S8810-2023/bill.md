@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** Stricken
+**PDF:** [S8810 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8810)
 
 ## Summary
 

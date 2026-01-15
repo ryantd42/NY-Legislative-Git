@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Conrad
 **Status:** In Assembly Committee
+**PDF:** [A9025 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9025)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** Adopted
+**PDF:** [K2425 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2425)
 
 ---
 

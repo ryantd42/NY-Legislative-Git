@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** Signed by Governor
+**PDF:** [A5142B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5142B)
 
 ## Summary
 

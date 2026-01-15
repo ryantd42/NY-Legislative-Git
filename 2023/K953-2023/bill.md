@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** Introduced
+**PDF:** [K953 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K953)
 
 ---
 

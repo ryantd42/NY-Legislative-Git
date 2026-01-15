@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Smullen
 **Status:** Assembly Floor Calendar
+**PDF:** [A6712 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6712)
 
 ## Summary
 

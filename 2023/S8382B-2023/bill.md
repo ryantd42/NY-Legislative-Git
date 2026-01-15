@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Signed by Governor
+**PDF:** [S8382B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8382B)
 
 ## Summary
 

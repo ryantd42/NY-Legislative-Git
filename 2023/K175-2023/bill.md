@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Benedetto
 **Status:** Adopted
+**PDF:** [K175 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K175)
 
 ---
 

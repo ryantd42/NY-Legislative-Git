@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Donna Lupardo
 **Status:** In Assembly Committee
+**PDF:** [A1345 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1345)
 
 ## Summary
 

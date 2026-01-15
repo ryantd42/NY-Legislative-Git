@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** In Assembly Committee
+**PDF:** [A7315 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7315)
 
 ## Summary
 

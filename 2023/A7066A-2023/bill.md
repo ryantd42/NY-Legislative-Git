@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** In Assembly Committee
+**PDF:** [A7066A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7066A)
 
 ## Summary
 

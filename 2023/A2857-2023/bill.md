@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott Gray
 **Status:** In Assembly Committee
+**PDF:** [A2857 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2857)
 
 ## Summary
 

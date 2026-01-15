@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Signed by Governor
+**PDF:** [S1334 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1334)
 
 ## Summary
 

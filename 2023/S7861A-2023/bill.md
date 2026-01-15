@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Signed by Governor
+**PDF:** [S7861A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7861A)
 
 ## Summary
 

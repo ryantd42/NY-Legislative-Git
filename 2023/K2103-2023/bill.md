@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Landon C. Dais
 **Status:** Adopted
+**PDF:** [K2103 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2103)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** Vetoed
+**PDF:** [S7273 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7273)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** Vetoed
+**PDF:** [A9123 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9123)
 
 ## Summary
 

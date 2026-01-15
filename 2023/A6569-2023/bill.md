@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Fall
 **Status:** Signed by Governor
+**PDF:** [A6569 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6569)
 
 ## Summary
 

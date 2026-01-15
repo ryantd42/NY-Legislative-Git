@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Inez E. Dickens
 **Status:** In Assembly Committee
+**PDF:** [A6910 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6910)
 
 ## Summary
 

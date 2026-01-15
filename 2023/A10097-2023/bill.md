@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anil Beephan Jr.
 **Status:** Assembly Floor Calendar
+**PDF:** [A10097 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10097)
 
 ## Summary
 

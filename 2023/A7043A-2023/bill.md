@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** Signed by Governor
+**PDF:** [A7043A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7043A)
 
 ## Summary
 

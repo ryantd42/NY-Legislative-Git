@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** Signed by Governor
+**PDF:** [S4899A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4899A)
 
 ## Summary
 

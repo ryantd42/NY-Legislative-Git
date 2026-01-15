@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Goodell
 **Status:** Assembly Floor Calendar
+**PDF:** [A6692A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6692A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Signed by Governor
+**PDF:** [A7349 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7349)
 
 ## Summary
 

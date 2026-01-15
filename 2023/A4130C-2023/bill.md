@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** Assembly Floor Calendar
+**PDF:** [A4130C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4130C)
 
 ## Summary
 

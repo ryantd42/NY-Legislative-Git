@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Assembly Floor Calendar
+**PDF:** [S2278A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2278A)
 
 ## Summary
 

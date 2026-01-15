@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sam Berger
 **Status:** In Assembly Committee
+**PDF:** [A8225A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8225A)
 
 ## Summary
 

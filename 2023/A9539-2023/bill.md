@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Eichenstein
 **Status:** Assembly Floor Calendar
+**PDF:** [A9539 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9539)
 
 ## Summary
 

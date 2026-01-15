@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rebecca Seawright
 **Status:** In Assembly Committee
+**PDF:** [A9947 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9947)
 
 ## Summary
 

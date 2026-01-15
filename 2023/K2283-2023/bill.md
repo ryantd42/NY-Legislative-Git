@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** Adopted
+**PDF:** [K2283 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2283)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amanda Septimo
 **Status:** In Assembly Committee
+**PDF:** [A8194 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8194)
 
 ## Summary
 

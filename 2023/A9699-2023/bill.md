@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** Signed by Governor
+**PDF:** [A9699 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9699)
 
 ## Summary
 

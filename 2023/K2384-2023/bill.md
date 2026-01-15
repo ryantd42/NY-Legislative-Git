@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Christopher Eachus
 **Status:** Adopted
+**PDF:** [K2384 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2384)
 
 ---
 

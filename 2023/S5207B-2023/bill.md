@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Vetoed
+**PDF:** [S5207B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5207B)
 
 ## Summary
 

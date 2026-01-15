@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
+**PDF:** [S7035 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7035)
 
 ## Summary
 

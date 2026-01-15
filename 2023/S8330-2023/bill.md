@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Stricken
+**PDF:** [S8330 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8330)
 
 ## Summary
 

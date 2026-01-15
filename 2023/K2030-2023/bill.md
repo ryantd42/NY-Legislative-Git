@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jaime R. Williams
 **Status:** Adopted
+**PDF:** [K2030 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2030)
 
 ---
 

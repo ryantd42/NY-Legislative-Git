@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Signed by Governor
+**PDF:** [S7531 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7531)
 
 ## Summary
 

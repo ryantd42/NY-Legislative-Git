@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel O'Donnell
 **Status:** Adopted
+**PDF:** [K2141 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2141)
 
 ---
 

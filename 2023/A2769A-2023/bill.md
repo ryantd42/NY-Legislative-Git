@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** In Assembly Committee
+**PDF:** [A2769A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2769A)
 
 ## Summary
 

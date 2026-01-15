@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ryan Blumencranz
 **Status:** Assembly Floor Calendar
+**PDF:** [A9725 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9725)
 
 ## Summary
 

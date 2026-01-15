@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** Senate Floor Calendar
+**PDF:** [S4900A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4900A)
 
 ## Summary
 

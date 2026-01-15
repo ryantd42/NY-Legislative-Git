@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Adopted
+**PDF:** [J2377 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2377)
 
 ---
 

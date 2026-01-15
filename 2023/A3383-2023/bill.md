@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mike Reilly
 **Status:** In Assembly Committee
+**PDF:** [A3383 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3383)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Senate Floor Calendar
+**PDF:** [S264A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S264A)
 
 ## Summary
 

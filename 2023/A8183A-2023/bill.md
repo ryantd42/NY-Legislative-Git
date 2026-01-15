@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Simpson
 **Status:** In Assembly Committee
+**PDF:** [A8183A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8183A)
 
 ## Summary
 

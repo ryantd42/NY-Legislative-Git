@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** Adopted
+**PDF:** [K326 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K326)
 
 ---
 

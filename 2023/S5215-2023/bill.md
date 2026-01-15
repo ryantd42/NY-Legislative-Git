@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dean Murray
 **Status:** In Senate Committee
+**PDF:** [S5215 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5215)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Iwen Chu
 **Status:** Adopted
+**PDF:** [J810 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J810)
 
 ---
 

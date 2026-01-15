@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew J. Lanza
 **Status:** Adopted
+**PDF:** [J2107 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2107)
 
 ---
 

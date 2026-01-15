@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** Adopted
+**PDF:** [K2144 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2144)
 
 ---
 

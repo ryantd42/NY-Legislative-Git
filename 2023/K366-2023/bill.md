@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** Adopted
+**PDF:** [K366 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K366)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick Burke
 **Status:** In Assembly Committee
+**PDF:** [A3581A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3581A)
 
 ## Summary
 

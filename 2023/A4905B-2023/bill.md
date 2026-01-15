@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel O'Donnell
 **Status:** Assembly Floor Calendar
+**PDF:** [A4905B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4905B)
 
 ## Summary
 

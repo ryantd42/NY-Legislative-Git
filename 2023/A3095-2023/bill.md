@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Simpson
 **Status:** In Assembly Committee
+**PDF:** [A3095 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3095)
 
 ## Summary
 

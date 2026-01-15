@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** Stricken
+**PDF:** [S5364 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5364)
 
 ## Summary
 

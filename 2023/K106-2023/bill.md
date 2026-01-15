@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Norris
 **Status:** Adopted
+**PDF:** [K106 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K106)
 
 ---
 

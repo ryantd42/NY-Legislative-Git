@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** Stricken
+**PDF:** [S9079 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9079)
 
 ## Summary
 

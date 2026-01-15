@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Emily Gallagher
 **Status:** Assembly Floor Calendar
+**PDF:** [A5709A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5709A)
 
 ## Summary
 

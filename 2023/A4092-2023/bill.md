@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marjorie Byrnes
 **Status:** Signed by Governor
+**PDF:** [A4092 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4092)
 
 ## Summary
 

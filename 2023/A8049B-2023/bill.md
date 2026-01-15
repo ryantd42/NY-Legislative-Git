@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alex Bores
 **Status:** In Assembly Committee
+**PDF:** [A8049B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8049B)
 
 ## Summary
 

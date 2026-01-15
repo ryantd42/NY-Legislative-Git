@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** In Senate Committee
+**PDF:** [S9014 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9014)
 
 ## Summary
 

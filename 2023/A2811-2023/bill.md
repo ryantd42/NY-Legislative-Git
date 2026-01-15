@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel Rosenthal
 **Status:** In Senate Committee
+**PDF:** [A2811 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2811)
 
 ## Summary
 

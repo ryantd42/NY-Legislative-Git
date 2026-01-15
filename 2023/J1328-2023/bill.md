@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** In Senate Committee
+**PDF:** [J1328 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1328)
 
 ---
 

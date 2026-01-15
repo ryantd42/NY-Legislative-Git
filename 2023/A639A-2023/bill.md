@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert C. Carroll
 **Status:** In Assembly Committee
+**PDF:** [A639A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A639A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Adopted
+**PDF:** [J718 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J718)
 
 ---
 

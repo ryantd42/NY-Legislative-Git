@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alec Brook-Krasny
 **Status:** Assembly Floor Calendar
+**PDF:** [A6287D PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6287D)
 
 ## Summary
 

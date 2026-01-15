@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Vetoed
+**PDF:** [S1359 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1359)
 
 ## Summary
 

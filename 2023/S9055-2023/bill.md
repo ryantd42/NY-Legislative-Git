@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Senate Floor Calendar
+**PDF:** [S9055 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9055)
 
 ## Summary
 

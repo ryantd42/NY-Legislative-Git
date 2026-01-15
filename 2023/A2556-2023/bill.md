@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latrice Walker
 **Status:** Assembly Floor Calendar
+**PDF:** [A2556 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2556)
 
 ## Summary
 

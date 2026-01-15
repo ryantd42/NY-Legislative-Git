@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Senate Floor Calendar
+**PDF:** [S4735A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4735A)
 
 ## Summary
 

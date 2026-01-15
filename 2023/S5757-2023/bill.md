@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** Vetoed
+**PDF:** [S5757 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5757)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dean Murray
 **Status:** Senate Floor Calendar
+**PDF:** [S5796 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5796)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karines Reyes
 **Status:** Assembly Floor Calendar
+**PDF:** [A1709B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1709B)
 
 ## Summary
 

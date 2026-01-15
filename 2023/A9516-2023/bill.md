@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** Signed by Governor
+**PDF:** [A9516 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9516)
 
 ## Summary
 

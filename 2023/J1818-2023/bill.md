@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Adopted
+**PDF:** [J1818 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1818)
 
 ---
 

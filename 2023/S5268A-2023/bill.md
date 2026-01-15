@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** In Assembly Committee
+**PDF:** [S5268A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5268A)
 
 ## Summary
 

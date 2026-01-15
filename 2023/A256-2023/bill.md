@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latrice Walker
 **Status:** In Assembly Committee
+**PDF:** [A256 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A256)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Adopted
+**PDF:** [J1276 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1276)
 
 ---
 

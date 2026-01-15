@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Manktelow
 **Status:** Adopted
+**PDF:** [K139 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K139)
 
 ---
 

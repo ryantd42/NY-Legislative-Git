@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Signed by Governor
+**PDF:** [S7424 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7424)
 
 ## Summary
 

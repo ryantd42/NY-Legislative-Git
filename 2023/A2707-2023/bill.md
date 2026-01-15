@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** In Assembly Committee
+**PDF:** [A2707 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2707)
 
 ## Summary
 

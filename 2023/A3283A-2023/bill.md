@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Assembly Floor Calendar
+**PDF:** [A3283A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3283A)
 
 ## Summary
 

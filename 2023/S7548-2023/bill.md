@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** Vetoed
+**PDF:** [S7548 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7548)
 
 ## Summary
 

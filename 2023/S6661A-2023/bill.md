@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alexis Weik
 **Status:** Signed by Governor
+**PDF:** [S6661A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6661A)
 
 ## Summary
 

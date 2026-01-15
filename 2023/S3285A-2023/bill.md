@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Signed by Governor
+**PDF:** [S3285A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3285A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Adopted
+**PDF:** [R3 PDF](https://legislation.nysenate.gov/pdf/bills/2023/R3)
 
 ---
 

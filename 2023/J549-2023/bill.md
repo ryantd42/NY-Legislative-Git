@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Adopted
+**PDF:** [J549 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J549)
 
 ---
 

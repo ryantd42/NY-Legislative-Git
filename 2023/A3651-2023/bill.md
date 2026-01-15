@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Manktelow
 **Status:** Stricken
+**PDF:** [A3651 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3651)
 
 ## Summary
 

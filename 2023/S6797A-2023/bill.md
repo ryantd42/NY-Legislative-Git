@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Senate Floor Calendar
+**PDF:** [S6797A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6797A)
 
 ## Summary
 

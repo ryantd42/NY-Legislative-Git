@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Emily Gallagher
 **Status:** In Assembly Committee
+**PDF:** [A10232 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10232)
 
 ## Summary
 

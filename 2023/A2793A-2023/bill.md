@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Otis
 **Status:** Vetoed
+**PDF:** [A2793A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2793A)
 
 ## Summary
 

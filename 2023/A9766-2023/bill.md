@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monique Chandler-Waterman
 **Status:** Signed by Governor
+**PDF:** [A9766 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9766)
 
 ## Summary
 

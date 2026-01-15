@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** Senate Floor Calendar
+**PDF:** [S7105 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7105)
 
 ## Summary
 

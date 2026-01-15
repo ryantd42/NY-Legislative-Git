@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Ramos
 **Status:** Adopted
+**PDF:** [K357 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K357)
 
 ---
 

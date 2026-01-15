@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dana Levenberg
 **Status:** Adopted
+**PDF:** [K2310 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2310)
 
 ---
 

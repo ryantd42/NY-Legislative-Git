@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John K. Mikulin
 **Status:** In Assembly Committee
+**PDF:** [A4222 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4222)
 
 ## Summary
 

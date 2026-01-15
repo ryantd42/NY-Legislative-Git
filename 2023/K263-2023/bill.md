@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latoya Joyner
 **Status:** Adopted
+**PDF:** [K263 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K263)
 
 ---
 

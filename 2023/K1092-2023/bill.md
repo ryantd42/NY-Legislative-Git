@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sarah Clark
 **Status:** Adopted
+**PDF:** [K1092 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1092)
 
 ---
 

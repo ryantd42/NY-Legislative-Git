@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Didi Barrett
 **Status:** Adopted
+**PDF:** [K2177 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2177)
 
 ---
 

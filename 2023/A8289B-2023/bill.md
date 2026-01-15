@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Christopher Eachus
 **Status:** In Assembly Committee
+**PDF:** [A8289B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8289B)
 
 ## Summary
 

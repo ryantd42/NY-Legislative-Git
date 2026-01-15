@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** Senate Floor Calendar
+**PDF:** [S7383A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7383A)
 
 ## Summary
 

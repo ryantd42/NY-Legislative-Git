@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** In Senate Committee
+**PDF:** [S749B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S749B)
 
 ## Summary
 

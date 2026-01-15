@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Palmesano
 **Status:** Signed by Governor
+**PDF:** [A4918A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4918A)
 
 ## Summary
 

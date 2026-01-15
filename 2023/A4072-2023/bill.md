@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert C. Carroll
 **Status:** Assembly Floor Calendar
+**PDF:** [A4072 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4072)
 
 ## Summary
 

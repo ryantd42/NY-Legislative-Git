@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** José M. Serrano
 **Status:** In Assembly Committee
+**PDF:** [S721 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S721)
 
 ## Summary
 

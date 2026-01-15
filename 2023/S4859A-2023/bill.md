@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Vetoed
+**PDF:** [S4859A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4859A)
 
 ## Summary
 

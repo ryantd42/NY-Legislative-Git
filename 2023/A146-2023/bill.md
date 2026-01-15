@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Passed Assembly
+**PDF:** [A146 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A146)
 
 ## Summary
 

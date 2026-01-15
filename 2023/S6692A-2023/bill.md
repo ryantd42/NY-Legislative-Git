@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** In Senate Committee
+**PDF:** [S6692A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6692A)
 
 ## Summary
 

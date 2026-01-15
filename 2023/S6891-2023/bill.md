@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Senate Floor Calendar
+**PDF:** [S6891 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6891)
 
 ## Summary
 

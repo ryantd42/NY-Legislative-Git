@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** Adopted
+**PDF:** [K2228 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2228)
 
 ---
 

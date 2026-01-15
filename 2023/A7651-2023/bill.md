@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Fred Thiele
 **Status:** Assembly Floor Calendar
+**PDF:** [A7651 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7651)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Maritza Davila
 **Status:** Assembly Floor Calendar
+**PDF:** [A8431A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8431A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian D. Miller
 **Status:** Adopted
+**PDF:** [K242 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K242)
 
 ---
 

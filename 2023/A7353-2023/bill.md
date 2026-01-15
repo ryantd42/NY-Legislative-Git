@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela J. Hunter
 **Status:** In Senate Committee
+**PDF:** [A7353 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7353)
 
 ## Summary
 

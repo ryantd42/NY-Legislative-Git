@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anil Beephan Jr.
 **Status:** Signed by Governor
+**PDF:** [A5261A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5261A)
 
 ## Summary
 

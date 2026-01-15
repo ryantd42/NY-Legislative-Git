@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** Adopted
+**PDF:** [K659 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K659)
 
 ---
 

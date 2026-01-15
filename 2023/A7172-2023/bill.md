@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rebecca Seawright
 **Status:** Signed by Governor
+**PDF:** [A7172 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7172)
 
 ## Summary
 

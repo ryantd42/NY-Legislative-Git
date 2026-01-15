@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** Senate Floor Calendar
+**PDF:** [S288C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S288C)
 
 ## Summary
 

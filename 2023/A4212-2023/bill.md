@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David McDonough
 **Status:** Signed by Governor
+**PDF:** [A4212 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4212)
 
 ## Summary
 

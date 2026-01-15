@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** Signed by Governor
+**PDF:** [S6082A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6082A)
 
 ## Summary
 

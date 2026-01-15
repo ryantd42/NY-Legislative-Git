@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** Signed by Governor
+**PDF:** [A3340 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3340)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** Senate Floor Calendar
+**PDF:** [S9349 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9349)
 
 ## Summary
 

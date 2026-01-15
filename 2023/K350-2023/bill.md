@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela J. Hunter
 **Status:** Adopted
+**PDF:** [K350 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K350)
 
 ---
 

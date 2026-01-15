@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Senate Committee
+**PDF:** [S4578A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4578A)
 
 ## Summary
 

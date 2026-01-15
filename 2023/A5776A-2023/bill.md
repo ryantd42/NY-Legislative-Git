@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph Giglio
 **Status:** Assembly Floor Calendar
+**PDF:** [A5776A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5776A)
 
 ## Summary
 

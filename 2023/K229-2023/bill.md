@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eddie Gibbs
 **Status:** Adopted
+**PDF:** [K229 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K229)
 
 ---
 

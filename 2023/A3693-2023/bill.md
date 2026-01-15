@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David Weprin
 **Status:** Assembly Floor Calendar
+**PDF:** [A3693 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3693)
 
 ## Summary
 

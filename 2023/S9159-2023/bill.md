@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** In Senate Committee
+**PDF:** [S9159 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9159)
 
 ## Summary
 

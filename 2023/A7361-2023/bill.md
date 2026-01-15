@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Maritza Davila
 **Status:** Signed by Governor
+**PDF:** [A7361 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7361)
 
 ## Summary
 

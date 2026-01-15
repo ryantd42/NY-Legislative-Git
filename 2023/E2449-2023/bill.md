@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carl Heastie
 **Status:** Adopted
+**PDF:** [E2449 PDF](https://legislation.nysenate.gov/pdf/bills/2023/E2449)
 
 ---
 

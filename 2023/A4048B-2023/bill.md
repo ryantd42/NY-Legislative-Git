@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** Assembly Floor Calendar
+**PDF:** [A4048B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4048B)
 
 ## Summary
 

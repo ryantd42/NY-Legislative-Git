@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Iwen Chu
 **Status:** Signed by Governor
+**PDF:** [S7744D PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7744D)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** In Assembly Committee
+**PDF:** [S7765 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7765)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Vetoed
+**PDF:** [S6536 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6536)
 
 ## Summary
 

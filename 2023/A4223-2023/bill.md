@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John K. Mikulin
 **Status:** Stricken
+**PDF:** [A4223 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4223)
 
 ## Summary
 

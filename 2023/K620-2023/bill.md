@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrion Aubry
 **Status:** Adopted
+**PDF:** [K620 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K620)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Didi Barrett
 **Status:** Assembly Floor Calendar
+**PDF:** [A6722A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6722A)
 
 ## Summary
 

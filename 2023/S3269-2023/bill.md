@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** In Senate Committee
+**PDF:** [S3269 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3269)
 
 ## Summary
 

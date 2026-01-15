@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** Assembly Floor Calendar
+**PDF:** [A10275 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10275)
 
 ## Summary
 

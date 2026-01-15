@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Alvarez
 **Status:** In Assembly Committee
+**PDF:** [A6868 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6868)
 
 ## Summary
 

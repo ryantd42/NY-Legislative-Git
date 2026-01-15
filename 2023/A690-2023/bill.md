@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** Stricken
+**PDF:** [A690 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A690)
 
 ## Summary
 

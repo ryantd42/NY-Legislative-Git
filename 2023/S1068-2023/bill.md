@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Signed by Governor
+**PDF:** [S1068 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1068)
 
 ## Summary
 

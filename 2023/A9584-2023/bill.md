@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Albert A. Stirpe
 **Status:** Signed by Governor
+**PDF:** [A9584 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9584)
 
 ## Summary
 

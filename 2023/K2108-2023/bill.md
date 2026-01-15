@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** Adopted
+**PDF:** [K2108 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2108)
 
 ---
 

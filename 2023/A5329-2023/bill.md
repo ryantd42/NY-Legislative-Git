@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** Stricken
+**PDF:** [A5329 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5329)
 
 ## Summary
 

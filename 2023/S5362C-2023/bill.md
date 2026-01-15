@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** Senate Floor Calendar
+**PDF:** [S5362C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5362C)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Fitzpatrick
 **Status:** In Assembly Committee
+**PDF:** [A9709 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9709)
 
 ## Summary
 

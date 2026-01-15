@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Adopted
+**PDF:** [K670 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K670)
 
 ---
 

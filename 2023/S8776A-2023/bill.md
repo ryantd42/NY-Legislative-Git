@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Senate Floor Calendar
+**PDF:** [S8776A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8776A)
 
 ## Summary
 

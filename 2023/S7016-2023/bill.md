@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Thomas F. O'Mara
 **Status:** In Senate Committee
+**PDF:** [S7016 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7016)
 
 ## Summary
 

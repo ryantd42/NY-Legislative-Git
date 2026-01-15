@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** In Assembly Committee
+**PDF:** [A7940 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7940)
 
 ## Summary
 

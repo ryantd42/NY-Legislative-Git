@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** Adopted
+**PDF:** [J1246 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1246)
 
 ---
 

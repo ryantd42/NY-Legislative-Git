@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alicia Hyndman
 **Status:** In Assembly Committee
+**PDF:** [A6075A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6075A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Donna Lupardo
 **Status:** Signed by Governor
+**PDF:** [A5762 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5762)
 
 ## Summary
 

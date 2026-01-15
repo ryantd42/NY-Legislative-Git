@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Adopted
+**PDF:** [K118 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K118)
 
 ---
 

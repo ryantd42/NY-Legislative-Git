@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** Assembly Floor Calendar
+**PDF:** [A345C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A345C)
 
 ## Summary
 

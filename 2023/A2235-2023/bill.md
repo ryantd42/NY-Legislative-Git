@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alicia Hyndman
 **Status:** Vetoed
+**PDF:** [A2235 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2235)
 
 ## Summary
 

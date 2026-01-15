@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Adopted
+**PDF:** [J459 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J459)
 
 ---
 

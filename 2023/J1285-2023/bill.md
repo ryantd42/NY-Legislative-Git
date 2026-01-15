@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Adopted
+**PDF:** [J1285 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1285)
 
 ---
 

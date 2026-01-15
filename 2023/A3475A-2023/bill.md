@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** J. Gary Pretlow
 **Status:** Vetoed
+**PDF:** [A3475A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3475A)
 
 ## Summary
 

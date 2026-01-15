@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Donna Lupardo
 **Status:** Adopted
+**PDF:** [K960 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K960)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Vetoed
+**PDF:** [A7396B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7396B)
 
 ## Summary
 

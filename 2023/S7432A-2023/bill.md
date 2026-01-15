@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Senate Committee
+**PDF:** [S7432A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7432A)
 
 ## Summary
 

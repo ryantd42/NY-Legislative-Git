@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** Stricken
+**PDF:** [A2122A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2122A)
 
 ## Summary
 

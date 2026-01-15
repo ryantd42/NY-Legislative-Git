@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** In Senate Committee
+**PDF:** [A10221 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10221)
 
 ## Summary
 

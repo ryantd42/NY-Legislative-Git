@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick Burke
 **Status:** Signed by Governor
+**PDF:** [A10277 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10277)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeff Gallahan
 **Status:** Adopted
+**PDF:** [K796 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K796)
 
 ---
 

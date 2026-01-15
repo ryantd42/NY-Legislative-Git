@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Landon C. Dais
 **Status:** In Assembly Committee
+**PDF:** [A9763 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9763)
 
 ## Summary
 

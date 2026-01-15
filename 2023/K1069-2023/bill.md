@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Adopted
+**PDF:** [K1069 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1069)
 
 ---
 

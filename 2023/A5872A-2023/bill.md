@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karl Brabenec
 **Status:** Signed by Governor
+**PDF:** [A5872A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5872A)
 
 ## Summary
 

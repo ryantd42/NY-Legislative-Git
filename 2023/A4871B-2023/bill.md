@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** Vetoed
+**PDF:** [A4871B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4871B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** In Assembly Committee
+**PDF:** [S2236 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2236)
 
 ## Summary
 

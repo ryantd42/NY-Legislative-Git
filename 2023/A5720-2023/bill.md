@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Juan Ardila
 **Status:** In Assembly Committee
+**PDF:** [A5720 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5720)
 
 ## Summary
 

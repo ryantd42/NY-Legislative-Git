@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe Angelino
 **Status:** In Assembly Committee
+**PDF:** [A2380 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2380)
 
 ## Summary
 

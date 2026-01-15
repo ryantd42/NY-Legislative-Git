@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeff Gallahan
 **Status:** In Assembly Committee
+**PDF:** [A9471 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9471)
 
 ## Summary
 

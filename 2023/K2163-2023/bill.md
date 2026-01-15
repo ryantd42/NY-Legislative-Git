@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alec Brook-Krasny
 **Status:** Adopted
+**PDF:** [K2163 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2163)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** Adopted
+**PDF:** [K2090 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2090)
 
 ---
 

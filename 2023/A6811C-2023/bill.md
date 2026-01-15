@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Yudelka Tapia
 **Status:** Vetoed
+**PDF:** [A6811C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6811C)
 
 ## Summary
 

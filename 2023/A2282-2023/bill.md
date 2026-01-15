@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Albert A. Stirpe
 **Status:** In Senate Committee
+**PDF:** [A2282 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2282)
 
 ## Summary
 

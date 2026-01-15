@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Vetoed
+**PDF:** [S4712B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4712B)
 
 ## Summary
 

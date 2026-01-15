@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** Adopted
+**PDF:** [J576 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J576)
 
 ---
 

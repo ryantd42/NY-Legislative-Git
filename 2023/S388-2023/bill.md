@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Stricken
+**PDF:** [S388 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S388)
 
 ## Summary
 

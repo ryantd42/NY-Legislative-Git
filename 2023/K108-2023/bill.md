@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** Adopted
+**PDF:** [K108 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K108)
 
 ---
 

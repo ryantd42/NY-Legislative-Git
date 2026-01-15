@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Norris
 **Status:** Assembly Floor Calendar
+**PDF:** [A9130A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9130A)
 
 ## Summary
 

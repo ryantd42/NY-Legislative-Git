@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monique Chandler-Waterman
 **Status:** In Assembly Committee
+**PDF:** [A7092 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7092)
 
 ## Summary
 

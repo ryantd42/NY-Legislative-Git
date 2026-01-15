@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Vetoed
+**PDF:** [S1470 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1470)
 
 ## Summary
 

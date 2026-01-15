@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John W. McGowan
 **Status:** Adopted
+**PDF:** [K288 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K288)
 
 ---
 

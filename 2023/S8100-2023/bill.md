@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** In Assembly Committee
+**PDF:** [S8100 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8100)
 
 ## Summary
 

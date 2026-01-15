@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** Senate Floor Calendar
+**PDF:** [S9606 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9606)
 
 ## Summary
 

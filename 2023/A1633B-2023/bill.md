@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** Assembly Floor Calendar
+**PDF:** [A1633B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1633B)
 
 ## Summary
 

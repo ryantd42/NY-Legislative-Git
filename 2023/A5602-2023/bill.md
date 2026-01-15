@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Doug Smith
 **Status:** In Assembly Committee
+**PDF:** [A5602 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5602)
 
 ## Summary
 

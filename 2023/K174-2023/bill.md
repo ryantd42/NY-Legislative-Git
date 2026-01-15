@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chantel Jackson
 **Status:** Adopted
+**PDF:** [K174 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K174)
 
 ---
 

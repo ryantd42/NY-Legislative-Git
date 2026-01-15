@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Slater
 **Status:** In Assembly Committee
+**PDF:** [A9283A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9283A)
 
 ## Summary
 

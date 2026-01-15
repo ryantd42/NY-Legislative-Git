@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Adopted
+**PDF:** [J163 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J163)
 
 ---
 

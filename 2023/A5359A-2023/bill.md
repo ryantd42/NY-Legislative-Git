@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Palmesano
 **Status:** Assembly Floor Calendar
+**PDF:** [A5359A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5359A)
 
 ## Summary
 

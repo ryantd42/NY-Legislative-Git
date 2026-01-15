@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** In Assembly Committee
+**PDF:** [S1396 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1396)
 
 ## Summary
 

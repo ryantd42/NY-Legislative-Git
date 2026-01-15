@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Adopted
+**PDF:** [J2665 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2665)
 
 ---
 

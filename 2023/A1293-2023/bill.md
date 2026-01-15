@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jaime R. Williams
 **Status:** In Assembly Committee
+**PDF:** [A1293 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1293)
 
 ## Summary
 

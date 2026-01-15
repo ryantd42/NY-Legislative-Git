@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jaime R. Williams
 **Status:** In Assembly Committee
+**PDF:** [A8413A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8413A)
 
 ## Summary
 

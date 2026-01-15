@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Tague
 **Status:** Assembly Floor Calendar
+**PDF:** [A9911A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9911A)
 
 ## Summary
 

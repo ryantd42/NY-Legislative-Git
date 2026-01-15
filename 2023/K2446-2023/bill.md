@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Crystal Peoples-Stokes
 **Status:** Adopted
+**PDF:** [K2446 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2446)
 
 ---
 

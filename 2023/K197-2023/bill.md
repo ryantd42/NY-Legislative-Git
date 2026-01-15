@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Fall
 **Status:** Adopted
+**PDF:** [K197 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K197)
 
 ---
 

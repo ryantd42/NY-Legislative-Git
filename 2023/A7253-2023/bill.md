@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** Assembly Floor Calendar
+**PDF:** [A7253 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7253)
 
 ## Summary
 

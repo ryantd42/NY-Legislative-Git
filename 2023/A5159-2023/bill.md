@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Palmesano
 **Status:** In Assembly Committee
+**PDF:** [A5159 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5159)
 
 ## Summary
 

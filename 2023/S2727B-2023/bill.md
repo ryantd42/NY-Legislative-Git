@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** In Assembly Committee
+**PDF:** [S2727B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2727B)
 
 ## Summary
 

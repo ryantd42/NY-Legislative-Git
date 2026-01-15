@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Thomas F. O'Mara
 **Status:** Senate Floor Calendar
+**PDF:** [S4975A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4975A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Senate Floor Calendar
+**PDF:** [S6184A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6184A)
 
 ## Summary
 

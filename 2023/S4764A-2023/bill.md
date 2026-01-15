@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew J. Lanza
 **Status:** Senate Floor Calendar
+**PDF:** [S4764A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4764A)
 
 ## Summary
 

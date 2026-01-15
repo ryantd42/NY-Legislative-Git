@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** Signed by Governor
+**PDF:** [S9452 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9452)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Conrad
 **Status:** Assembly Floor Calendar
+**PDF:** [A3776 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3776)
 
 ## Summary
 

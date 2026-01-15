@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Assembly Committee
+**PDF:** [S4246D PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4246D)
 
 ## Summary
 

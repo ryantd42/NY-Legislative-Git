@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** Stricken
+**PDF:** [A9753 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9753)
 
 ## Summary
 

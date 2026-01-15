@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Didi Barrett
 **Status:** Vetoed
+**PDF:** [A6253A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6253A)
 
 ## Summary
 

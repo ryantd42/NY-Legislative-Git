@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** Vetoed
+**PDF:** [A4969 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4969)
 
 ## Summary
 

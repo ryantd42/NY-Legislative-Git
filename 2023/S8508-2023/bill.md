@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** Senate Floor Calendar
+**PDF:** [S8508 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8508)
 
 ## Summary
 

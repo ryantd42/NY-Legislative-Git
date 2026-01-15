@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Senate Floor Calendar
+**PDF:** [S4354A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4354A)
 
 ## Summary
 

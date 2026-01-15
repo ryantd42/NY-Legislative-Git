@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Stricken
+**PDF:** [S1228 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1228)
 
 ## Summary
 

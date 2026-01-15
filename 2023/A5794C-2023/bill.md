@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David McDonough
 **Status:** Assembly Floor Calendar
+**PDF:** [A5794C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5794C)
 
 ## Summary
 

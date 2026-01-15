@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karines Reyes
 **Status:** In Assembly Committee
+**PDF:** [A5735 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5735)
 
 ## Summary
 

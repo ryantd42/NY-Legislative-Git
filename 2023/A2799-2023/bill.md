@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** Stricken
+**PDF:** [A2799 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2799)
 
 ## Summary
 

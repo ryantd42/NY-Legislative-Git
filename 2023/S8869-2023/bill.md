@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** In Senate Committee
+**PDF:** [S8869 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8869)
 
 ## Summary
 

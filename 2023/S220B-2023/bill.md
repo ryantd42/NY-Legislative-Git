@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** Senate Floor Calendar
+**PDF:** [S220B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S220B)
 
 ## Summary
 

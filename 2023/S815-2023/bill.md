@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Senate Floor Calendar
+**PDF:** [S815 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S815)
 
 ## Summary
 

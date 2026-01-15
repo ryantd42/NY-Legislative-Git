@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stephen Hawley
 **Status:** Assembly Floor Calendar
+**PDF:** [A8147A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8147A)
 
 ## Summary
 

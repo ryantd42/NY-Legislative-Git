@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** In Senate Committee
+**PDF:** [S674 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S674)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Felder
 **Status:** Adopted
+**PDF:** [J1055 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1055)
 
 ---
 

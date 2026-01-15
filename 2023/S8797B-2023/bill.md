@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Assembly Committee
+**PDF:** [S8797B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8797B)
 
 ## Summary
 

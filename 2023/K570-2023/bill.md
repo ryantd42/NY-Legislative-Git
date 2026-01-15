@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Raga
 **Status:** Adopted
+**PDF:** [K570 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K570)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Raga
 **Status:** Assembly Floor Calendar
+**PDF:** [A4016 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4016)
 
 ## Summary
 

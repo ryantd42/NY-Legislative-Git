@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Ramos
 **Status:** Signed by Governor
+**PDF:** [A10297 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10297)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** In Assembly Committee
+**PDF:** [A10113A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10113A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John W. McGowan
 **Status:** In Assembly Committee
+**PDF:** [A5379A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5379A)
 
 ## Summary
 

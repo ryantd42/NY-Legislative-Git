@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** Signed by Governor
+**PDF:** [A1297B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1297B)
 
 ## Summary
 

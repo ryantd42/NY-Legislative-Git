@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** In Senate Committee
+**PDF:** [S166 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S166)
 
 ## Summary
 

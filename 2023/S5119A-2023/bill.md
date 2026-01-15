@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela Helming
 **Status:** Signed by Governor
+**PDF:** [S5119A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5119A)
 
 ## Summary
 

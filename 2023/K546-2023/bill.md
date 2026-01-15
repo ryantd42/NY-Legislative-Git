@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Khaleel Anderson
 **Status:** Adopted
+**PDF:** [K546 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K546)
 
 ---
 

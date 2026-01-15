@@ -1020,6 +1020,9 @@ class BillFetcher:
             return None
         
         # Build markdown content with metadata
+        # Construct PDF URL
+        pdf_url = f"https://legislation.nysenate.gov/pdf/bills/{session_year}/{bill_id}"
+        
         markdown_lines = [
             f"# {title}",
             "",
@@ -1027,6 +1030,7 @@ class BillFetcher:
             f"**Session:** {session_year or 'Unknown'}",
             f"**Sponsor:** {sponsor_name}",
             f"**Status:** {status_desc}",
+            f"**PDF:** [{bill_id} PDF]({pdf_url})",
         ]
         
         if summary:
@@ -1067,11 +1071,8 @@ class BillFetcher:
         # Save the markdown file
         markdown_path = self.save_bill_as_markdown(bill_id, markdown_content, session_year, bill_dir)
         
-        # Download and save the PDF
-        pdf_path = self.download_bill_pdf(bill_id, session_year, bill_dir)
-        
-        # Return the markdown path (or PDF path if markdown failed but PDF succeeded)
-        return markdown_path or pdf_path
+        # Return the markdown path
+        return markdown_path
     
     def process_bill_versions_with_git(
         self,
@@ -1084,7 +1085,7 @@ class BillFetcher:
         
         For each version:
         1. Fetch the text for that specific version
-        2. Overwrite the existing bill.md file with this version's text
+        2. Overwrite the existing bill.md file with this version's text (includes PDF link in metadata)
         3. Stage the file: git add bill.md
         4. Commit the change: git commit -m "Amendment [Suffix] for [BillID]"
         
@@ -1165,6 +1166,9 @@ class BillFetcher:
                 continue
             
             # Build markdown content with metadata
+            # Construct PDF URL
+            pdf_url = f"https://legislation.nysenate.gov/pdf/bills/{session_year}/{full_bill_id}"
+            
             markdown_lines = [
                 f"# {title}",
                 "",
@@ -1172,6 +1176,7 @@ class BillFetcher:
                 f"**Session:** {session_year or 'Unknown'}",
                 f"**Sponsor:** {sponsor_name}",
                 f"**Status:** {status_desc}",
+                f"**PDF:** [{full_bill_id} PDF]({pdf_url})",
             ]
             
             if summary:
@@ -1209,14 +1214,7 @@ class BillFetcher:
                 print(f"Error saving bill {full_bill_id}: {e}")
                 continue
             
-            # Download and overwrite the PDF for this version
-            pdf_path = self.download_bill_pdf(full_bill_id, session_year, bill_dir)
-            if pdf_path:
-                print(f"Downloaded PDF for version {full_bill_id}")
-            else:
-                print(f"Warning: Could not download PDF for version {full_bill_id}")
-            
-            # Stage the files with git add (both markdown and PDF if available)
+            # Stage the markdown file with git add
             git_add_success = False
             try:
                 import os
@@ -1240,23 +1238,6 @@ class BillFetcher:
                 else:
                     print(f"Staged file: {markdown_relative}")
                     git_add_success = True
-                    
-                    # Also stage PDF if it was downloaded
-                    if pdf_path and pdf_path.exists():
-                        pdf_abs = pdf_path.resolve()
-                        pdf_relative = os.path.relpath(pdf_abs, repo_abs)
-                        
-                        pdf_result = subprocess.run(
-                            ['git', 'add', pdf_relative],
-                            capture_output=True,
-                            text=True,
-                            check=False,
-                            cwd=str(repo_root)
-                        )
-                        if pdf_result.returncode == 0:
-                            print(f"Staged file: {pdf_relative}")
-                        else:
-                            print(f"Warning: Could not stage PDF: {pdf_result.stderr}")
             except Exception as e:
                 print(f"Error staging file: {e}")
                 print(f"  Skipping commit for {full_bill_id}")

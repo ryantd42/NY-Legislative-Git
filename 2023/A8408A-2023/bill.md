@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Durso
 **Status:** Stricken
+**PDF:** [A8408A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8408A)
 
 ## Summary
 

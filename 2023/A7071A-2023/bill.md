@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph Giglio
 **Status:** Signed by Governor
+**PDF:** [A7071A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7071A)
 
 ## Summary
 

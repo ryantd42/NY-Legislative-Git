@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Senate Floor Calendar
+**PDF:** [S8542 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8542)
 
 ## Summary
 

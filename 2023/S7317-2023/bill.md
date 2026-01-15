@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Canzoneri-Fitzpatrick
 **Status:** In Senate Committee
+**PDF:** [S7317 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7317)
 
 ## Summary
 

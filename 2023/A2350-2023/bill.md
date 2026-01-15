@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo J. Morinello
 **Status:** In Assembly Committee
+**PDF:** [A2350 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2350)
 
 ## Summary
 

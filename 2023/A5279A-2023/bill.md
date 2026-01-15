@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Tague
 **Status:** Signed by Governor
+**PDF:** [A5279A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5279A)
 
 ## Summary
 

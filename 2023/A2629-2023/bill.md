@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** In Assembly Committee
+**PDF:** [A2629 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2629)
 
 ## Summary
 

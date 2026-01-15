@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Colton
 **Status:** In Assembly Committee
+**PDF:** [A3922 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3922)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** Vetoed
+**PDF:** [A8324 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8324)
 
 ## Summary
 

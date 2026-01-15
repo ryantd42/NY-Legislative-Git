@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** Signed by Governor
+**PDF:** [S2039B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2039B)
 
 ## Summary
 

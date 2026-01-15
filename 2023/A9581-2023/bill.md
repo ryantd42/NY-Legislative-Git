@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Benedetto
 **Status:** Signed by Governor
+**PDF:** [A9581 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9581)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** In Assembly Committee
+**PDF:** [A9551 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9551)
 
 ## Summary
 

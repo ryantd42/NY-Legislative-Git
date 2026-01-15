@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Stern
 **Status:** Assembly Floor Calendar
+**PDF:** [A7110 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7110)
 
 ## Summary
 

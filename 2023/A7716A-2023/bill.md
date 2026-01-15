@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alicia Hyndman
 **Status:** Signed by Governor
+**PDF:** [A7716A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7716A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrion Aubry
 **Status:** In Assembly Committee
+**PDF:** [A740 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A740)
 
 ## Summary
 

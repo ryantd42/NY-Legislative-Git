@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Signed by Governor
+**PDF:** [A8365A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8365A)
 
 ## Summary
 

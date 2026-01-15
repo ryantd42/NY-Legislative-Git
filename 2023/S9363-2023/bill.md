@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Assembly Committee
+**PDF:** [S9363 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9363)
 
 ## Summary
 

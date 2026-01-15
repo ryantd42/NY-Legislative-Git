@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zohran Mamdani
 **Status:** In Assembly Committee
+**PDF:** [A8479 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8479)
 
 ## Summary
 

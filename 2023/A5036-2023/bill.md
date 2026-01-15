@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Eichenstein
 **Status:** Signed by Governor
+**PDF:** [A5036 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5036)
 
 ## Summary
 

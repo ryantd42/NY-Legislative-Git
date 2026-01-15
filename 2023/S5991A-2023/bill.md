@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Signed by Governor
+**PDF:** [S5991A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5991A)
 
 ## Summary
 

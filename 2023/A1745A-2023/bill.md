@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Vetoed
+**PDF:** [A1745A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1745A)
 
 ## Summary
 

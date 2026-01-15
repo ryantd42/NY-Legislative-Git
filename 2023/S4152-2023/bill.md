@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Vetoed
+**PDF:** [S4152 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4152)
 
 ## Summary
 

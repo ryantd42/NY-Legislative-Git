@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** In Assembly Committee
+**PDF:** [S1365 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1365)
 
 ## Summary
 

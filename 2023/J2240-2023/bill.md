@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Adopted
+**PDF:** [J2240 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2240)
 
 ---
 

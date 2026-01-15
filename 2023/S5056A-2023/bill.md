@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Vetoed
+**PDF:** [S5056A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5056A)
 
 ## Summary
 

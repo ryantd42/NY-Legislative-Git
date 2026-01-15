@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** In Senate Committee
+**PDF:** [J2731 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2731)
 
 ---
 

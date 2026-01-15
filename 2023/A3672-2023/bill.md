@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** J. Gary Pretlow
 **Status:** In Assembly Committee
+**PDF:** [A3672 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3672)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** Assembly Floor Calendar
+**PDF:** [A3316B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3316B)
 
 ## Summary
 

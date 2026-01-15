@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Signed by Governor
+**PDF:** [S8005 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8005)
 
 ## Summary
 

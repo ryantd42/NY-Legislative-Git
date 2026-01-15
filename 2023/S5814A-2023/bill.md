@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alexis Weik
 **Status:** Senate Floor Calendar
+**PDF:** [S5814A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5814A)
 
 ## Summary
 

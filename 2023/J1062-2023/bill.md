@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Adopted
+**PDF:** [J1062 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1062)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ashby
 **Status:** Signed by Governor
+**PDF:** [S9338 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9338)
 
 ## Summary
 

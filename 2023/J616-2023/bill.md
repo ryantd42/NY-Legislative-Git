@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** Adopted
+**PDF:** [J616 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J616)
 
 ---
 

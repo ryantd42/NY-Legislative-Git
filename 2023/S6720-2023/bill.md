@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** Vetoed
+**PDF:** [S6720 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6720)
 
 ## Summary
 

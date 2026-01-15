@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott H. Bendett
 **Status:** In Assembly Committee
+**PDF:** [A3695 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3695)
 
 ## Summary
 

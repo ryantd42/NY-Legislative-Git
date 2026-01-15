@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karen McMahon
 **Status:** Adopted
+**PDF:** [K243 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K243)
 
 ---
 

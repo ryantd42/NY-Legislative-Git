@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Assembly Floor Calendar
+**PDF:** [A109B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A109B)
 
 ## Summary
 

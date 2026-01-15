@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** In Senate Committee
+**PDF:** [S9193 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9193)
 
 ## Summary
 

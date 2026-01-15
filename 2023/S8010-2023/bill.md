@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** Signed by Governor
+**PDF:** [S8010 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8010)
 
 ## Summary
 

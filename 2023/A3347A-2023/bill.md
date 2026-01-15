@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** Assembly Floor Calendar
+**PDF:** [A3347A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3347A)
 
 ## Summary
 

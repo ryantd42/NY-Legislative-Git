@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** Adopted
+**PDF:** [J308 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J308)
 
 ---
 

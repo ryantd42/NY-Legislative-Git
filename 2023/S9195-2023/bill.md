@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** Senate Floor Calendar
+**PDF:** [S9195 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9195)
 
 ## Summary
 

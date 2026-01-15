@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sarah Clark
 **Status:** In Assembly Committee
+**PDF:** [A2297 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2297)
 
 ## Summary
 

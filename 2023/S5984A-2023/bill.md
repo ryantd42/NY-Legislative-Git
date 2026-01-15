@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Signed by Governor
+**PDF:** [S5984A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5984A)
 
 ## Summary
 

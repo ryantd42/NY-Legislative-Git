@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Otis
 **Status:** Signed by Governor
+**PDF:** [A626A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A626A)
 
 ## Summary
 

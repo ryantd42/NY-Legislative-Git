@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Introduced
+**PDF:** [B1457 PDF](https://legislation.nysenate.gov/pdf/bills/2023/B1457)
 
 ---
 

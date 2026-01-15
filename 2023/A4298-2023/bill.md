@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Lemondes
 **Status:** In Assembly Committee
+**PDF:** [A4298 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4298)
 
 ## Summary
 

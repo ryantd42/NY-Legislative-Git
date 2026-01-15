@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eddie Gibbs
 **Status:** Signed by Governor
+**PDF:** [A6854 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6854)
 
 ## Summary
 

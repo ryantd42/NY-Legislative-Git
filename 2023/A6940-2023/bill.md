@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Tony Simone
 **Status:** Signed by Governor
+**PDF:** [A6940 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6940)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eddie Gibbs
 **Status:** Assembly Floor Calendar
+**PDF:** [A9145 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9145)
 
 ## Summary
 

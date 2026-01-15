@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marjorie Byrnes
 **Status:** Adopted
+**PDF:** [K892 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K892)
 
 ---
 

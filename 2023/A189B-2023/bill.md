@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** In Senate Committee
+**PDF:** [A189B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A189B)
 
 ## Summary
 

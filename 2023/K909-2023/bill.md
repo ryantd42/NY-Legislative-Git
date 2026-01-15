@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** Adopted
+**PDF:** [K909 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K909)
 
 ---
 

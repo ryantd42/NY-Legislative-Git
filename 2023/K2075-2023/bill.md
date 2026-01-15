@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** Adopted
+**PDF:** [K2075 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2075)
 
 ---
 

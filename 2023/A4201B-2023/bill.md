@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Stern
 **Status:** Vetoed
+**PDF:** [A4201B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4201B)
 
 ## Summary
 

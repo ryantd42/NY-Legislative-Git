@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** In Assembly Committee
+**PDF:** [A10494 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10494)
 
 ## Summary
 

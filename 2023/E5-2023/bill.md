@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** Adopted
+**PDF:** [E5 PDF](https://legislation.nysenate.gov/pdf/bills/2023/E5)
 
 ---
 

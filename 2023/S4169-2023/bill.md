@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** Stricken
+**PDF:** [S4169 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4169)
 
 ## Summary
 

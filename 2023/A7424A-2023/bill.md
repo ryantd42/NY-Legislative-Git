@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Maritza Davila
 **Status:** Vetoed
+**PDF:** [A7424A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7424A)
 
 ## Summary
 

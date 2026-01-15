@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Stricken
+**PDF:** [S3370 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3370)
 
 ## Summary
 

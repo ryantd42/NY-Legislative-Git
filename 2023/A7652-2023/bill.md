@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** Passed Assembly
+**PDF:** [A7652 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7652)
 
 ## Summary
 

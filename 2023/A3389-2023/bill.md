@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** In Assembly Committee
+**PDF:** [A3389 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3389)
 
 ## Summary
 

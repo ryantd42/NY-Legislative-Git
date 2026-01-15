@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** Signed by Governor
+**PDF:** [S8649 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8649)
 
 ## Summary
 

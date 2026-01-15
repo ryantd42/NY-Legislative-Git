@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Erik Dilan
 **Status:** In Assembly Committee
+**PDF:** [A3885 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3885)
 
 ## Summary
 

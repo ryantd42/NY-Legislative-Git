@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** In Assembly Committee
+**PDF:** [A7423A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7423A)
 
 ## Summary
 

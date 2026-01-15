@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Adopted
+**PDF:** [J1660 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1660)
 
 ---
 

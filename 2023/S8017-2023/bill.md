@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** Signed by Governor
+**PDF:** [S8017 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8017)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** Assembly Floor Calendar
+**PDF:** [A5983 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5983)
 
 ## Summary
 

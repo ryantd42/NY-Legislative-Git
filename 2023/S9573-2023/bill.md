@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Stricken
+**PDF:** [S9573 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9573)
 
 ## Summary
 

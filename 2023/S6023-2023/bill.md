@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph A. Griffo
 **Status:** Signed by Governor
+**PDF:** [S6023 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6023)
 
 ## Summary
 

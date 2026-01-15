@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kristen Gonzalez
 **Status:** Assembly Floor Calendar
+**PDF:** [S9450A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9450A)
 
 ## Summary
 

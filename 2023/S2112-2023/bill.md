@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Felder
 **Status:** In Senate Committee
+**PDF:** [S2112 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2112)
 
 ## Summary
 

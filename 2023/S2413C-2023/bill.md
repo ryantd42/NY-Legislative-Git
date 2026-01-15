@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Signed by Governor
+**PDF:** [S2413C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2413C)
 
 ## Summary
 

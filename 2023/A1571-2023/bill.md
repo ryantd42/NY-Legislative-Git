@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Blankenbush
 **Status:** In Assembly Committee
+**PDF:** [A1571 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1571)
 
 ## Summary
 

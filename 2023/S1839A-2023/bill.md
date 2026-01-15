@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** Senate Floor Calendar
+**PDF:** [S1839A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1839A)
 
 ## Summary
 

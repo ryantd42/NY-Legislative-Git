@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** In Assembly Committee
+**PDF:** [S5325 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5325)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** In Assembly Committee
+**PDF:** [A5711A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5711A)
 
 ## Summary
 

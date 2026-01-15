@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marjorie Byrnes
 **Status:** Stricken
+**PDF:** [A2386 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2386)
 
 ## Summary
 

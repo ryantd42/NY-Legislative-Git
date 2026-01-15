@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** In Senate Committee
+**PDF:** [S4059 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4059)
 
 ## Summary
 

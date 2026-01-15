@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** Adopted
+**PDF:** [J55 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J55)
 
 ---
 

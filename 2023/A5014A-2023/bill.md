@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott Gray
 **Status:** In Senate Committee
+**PDF:** [A5014A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5014A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** Signed by Governor
+**PDF:** [A7273 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7273)
 
 ## Summary
 

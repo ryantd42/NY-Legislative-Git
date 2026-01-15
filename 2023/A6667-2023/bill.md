@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latrice Walker
 **Status:** Signed by Governor
+**PDF:** [A6667 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6667)
 
 ## Summary
 

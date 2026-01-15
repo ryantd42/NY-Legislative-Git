@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Tannousis
 **Status:** Adopted
+**PDF:** [K345 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K345)
 
 ---
 

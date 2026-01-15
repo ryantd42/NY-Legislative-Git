@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sarahana Shrestha
 **Status:** In Assembly Committee
+**PDF:** [A9174 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9174)
 
 ## Summary
 

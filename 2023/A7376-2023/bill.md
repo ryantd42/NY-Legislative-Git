@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David Weprin
 **Status:** Signed by Governor
+**PDF:** [A7376 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7376)
 
 ## Summary
 

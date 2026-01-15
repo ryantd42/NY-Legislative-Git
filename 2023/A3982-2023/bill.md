@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chantel Jackson
 **Status:** Signed by Governor
+**PDF:** [A3982 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3982)
 
 ## Summary
 

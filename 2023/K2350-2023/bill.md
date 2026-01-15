@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karines Reyes
 **Status:** Adopted
+**PDF:** [K2350 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2350)
 
 ---
 

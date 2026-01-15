@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** Assembly Floor Calendar
+**PDF:** [A8509 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8509)
 
 ## Summary
 

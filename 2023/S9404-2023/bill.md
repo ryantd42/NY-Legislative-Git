@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** In Senate Committee
+**PDF:** [S9404 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9404)
 
 ## Summary
 

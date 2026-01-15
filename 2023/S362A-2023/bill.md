@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Assembly Floor Calendar
+**PDF:** [S362A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S362A)
 
 ## Summary
 

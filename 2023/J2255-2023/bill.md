@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Adopted
+**PDF:** [J2255 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2255)
 
 ---
 

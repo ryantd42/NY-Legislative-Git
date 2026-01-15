@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Adopted
+**PDF:** [J1287 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1287)
 
 ---
 

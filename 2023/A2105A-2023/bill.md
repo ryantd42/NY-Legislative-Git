@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Demond Meeks
 **Status:** Assembly Floor Calendar
+**PDF:** [A2105A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2105A)
 
 ## Summary
 

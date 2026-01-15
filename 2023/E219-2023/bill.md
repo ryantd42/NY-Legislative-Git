@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William A. Barclay
 **Status:** Lost
+**PDF:** [E219 PDF](https://legislation.nysenate.gov/pdf/bills/2023/E219)
 
 ---
 

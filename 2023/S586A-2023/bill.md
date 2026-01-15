@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Senate Floor Calendar
+**PDF:** [S586A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S586A)
 
 ## Summary
 

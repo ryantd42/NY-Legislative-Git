@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Demond Meeks
 **Status:** Adopted
+**PDF:** [K100 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K100)
 
 ---
 

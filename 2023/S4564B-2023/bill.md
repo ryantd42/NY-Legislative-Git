@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** Senate Floor Calendar
+**PDF:** [S4564B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4564B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Peter Oberacker
 **Status:** Senate Floor Calendar
+**PDF:** [S4593A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4593A)
 
 ## Summary
 

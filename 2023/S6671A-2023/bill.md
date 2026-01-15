@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Senate Floor Calendar
+**PDF:** [S6671A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6671A)
 
 ## Summary
 

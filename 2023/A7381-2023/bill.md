@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick Burke
 **Status:** Assembly Floor Calendar
+**PDF:** [A7381 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7381)
 
 ## Summary
 

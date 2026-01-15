@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Inez E. Dickens
 **Status:** Signed by Governor
+**PDF:** [A7348 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7348)
 
 ## Summary
 

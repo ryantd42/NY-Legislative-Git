@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** In Assembly Committee
+**PDF:** [S2744A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2744A)
 
 ## Summary
 

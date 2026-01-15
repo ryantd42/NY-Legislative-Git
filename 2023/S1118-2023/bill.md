@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** Stricken
+**PDF:** [S1118 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1118)
 
 ## Summary
 

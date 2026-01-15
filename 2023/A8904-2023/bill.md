@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Burdick
 **Status:** In Assembly Committee
+**PDF:** [A8904 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8904)
 
 ## Summary
 

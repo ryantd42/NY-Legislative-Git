@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Senate Floor Calendar
+**PDF:** [S7553A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7553A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** Assembly Floor Calendar
+**PDF:** [A7295A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7295A)
 
 ## Summary
 

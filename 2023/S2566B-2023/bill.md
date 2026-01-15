@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Assembly Committee
+**PDF:** [S2566B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2566B)
 
 ## Summary
 

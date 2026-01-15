@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Assembly Floor Calendar
+**PDF:** [A52B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A52B)
 
 ## Summary
 

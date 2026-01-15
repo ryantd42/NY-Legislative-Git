@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Assembly Floor Calendar
+**PDF:** [A8552 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8552)
 
 ## Summary
 

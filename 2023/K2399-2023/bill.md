@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Inez E. Dickens
 **Status:** Adopted
+**PDF:** [K2399 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2399)
 
 ---
 

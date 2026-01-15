@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** Assembly Floor Calendar
+**PDF:** [A7640 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7640)
 
 ## Summary
 

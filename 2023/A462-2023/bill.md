@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Stricken
+**PDF:** [A462 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A462)
 
 ## Summary
 

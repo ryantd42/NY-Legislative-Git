@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Stern
 **Status:** In Assembly Committee
+**PDF:** [A2090 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2090)
 
 ## Summary
 

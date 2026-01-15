@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** Senate Floor Calendar
+**PDF:** [S4924A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4924A)
 
 ## Summary
 

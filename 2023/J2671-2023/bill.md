@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela Helming
 **Status:** Adopted
+**PDF:** [J2671 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2671)
 
 ---
 

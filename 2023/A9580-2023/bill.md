@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** Signed by Governor
+**PDF:** [A9580 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9580)
 
 ## Summary
 

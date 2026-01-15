@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Durso
 **Status:** In Assembly Committee
+**PDF:** [A8062 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8062)
 
 ## Summary
 

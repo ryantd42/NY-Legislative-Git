@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Adopted
+**PDF:** [J1719 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1719)
 
 ---
 

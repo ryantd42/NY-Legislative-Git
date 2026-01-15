@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amanda Septimo
 **Status:** Vetoed
+**PDF:** [A7646 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7646)
 
 ## Summary
 

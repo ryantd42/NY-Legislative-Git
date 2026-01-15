@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** In Senate Committee
+**PDF:** [S4898A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4898A)
 
 ## Summary
 

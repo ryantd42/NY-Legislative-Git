@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Adopted
+**PDF:** [K2227 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2227)
 
 ---
 

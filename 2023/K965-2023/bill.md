@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Jacobson
 **Status:** Adopted
+**PDF:** [K965 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K965)
 
 ---
 

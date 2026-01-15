@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Assembly Committee
+**PDF:** [S1303B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1303B)
 
 ## Summary
 

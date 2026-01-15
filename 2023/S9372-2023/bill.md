@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** In Senate Committee
+**PDF:** [S9372 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9372)
 
 ## Summary
 

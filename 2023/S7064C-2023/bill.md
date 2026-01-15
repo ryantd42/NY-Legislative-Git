@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** In Senate Committee
+**PDF:** [S7064C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7064C)
 
 ## Summary
 

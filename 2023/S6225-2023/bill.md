@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Felder
 **Status:** Senate Floor Calendar
+**PDF:** [S6225 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6225)
 
 ## Summary
 

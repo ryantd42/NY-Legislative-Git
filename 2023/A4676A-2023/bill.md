@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Vetoed
+**PDF:** [A4676A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4676A)
 
 ## Summary
 

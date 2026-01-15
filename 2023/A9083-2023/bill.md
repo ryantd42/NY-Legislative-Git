@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Tony Simone
 **Status:** In Assembly Committee
+**PDF:** [A9083 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9083)
 
 ## Summary
 

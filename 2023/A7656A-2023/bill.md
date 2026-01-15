@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** Assembly Floor Calendar
+**PDF:** [A7656A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7656A)
 
 ## Summary
 

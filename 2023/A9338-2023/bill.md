@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Manny De Los Santos
 **Status:** Signed by Governor
+**PDF:** [A9338 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9338)
 
 ## Summary
 

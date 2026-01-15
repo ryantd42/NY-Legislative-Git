@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** In Assembly Committee
+**PDF:** [A3962 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3962)
 
 ## Summary
 

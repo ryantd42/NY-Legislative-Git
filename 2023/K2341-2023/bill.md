@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mike Reilly
 **Status:** Adopted
+**PDF:** [K2341 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2341)
 
 ---
 

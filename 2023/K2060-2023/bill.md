@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Adopted
+**PDF:** [K2060 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2060)
 
 ---
 

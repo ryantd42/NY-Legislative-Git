@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Senate Floor Calendar
+**PDF:** [S8796 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8796)
 
 ## Summary
 

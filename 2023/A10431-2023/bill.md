@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Flood
 **Status:** In Assembly Committee
+**PDF:** [A10431 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10431)
 
 ## Summary
 

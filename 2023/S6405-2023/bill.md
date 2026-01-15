@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** Senate Floor Calendar
+**PDF:** [S6405 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6405)
 
 ## Summary
 

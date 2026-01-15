@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** In Assembly Committee
+**PDF:** [S319 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S319)
 
 ## Summary
 

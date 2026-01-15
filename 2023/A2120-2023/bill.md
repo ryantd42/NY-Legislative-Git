@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** In Assembly Committee
+**PDF:** [A2120 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2120)
 
 ## Summary
 

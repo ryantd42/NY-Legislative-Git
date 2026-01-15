@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Helene Weinstein
 **Status:** In Assembly Committee
+**PDF:** [A4935B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4935B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Adopted
+**PDF:** [J774 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J774)
 
 ---
 

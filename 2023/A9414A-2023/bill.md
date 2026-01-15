@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** In Assembly Committee
+**PDF:** [A9414A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9414A)
 
 ## Summary
 

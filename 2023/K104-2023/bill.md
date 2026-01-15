@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Emily Gallagher
 **Status:** Adopted
+**PDF:** [K104 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K104)
 
 ---
 

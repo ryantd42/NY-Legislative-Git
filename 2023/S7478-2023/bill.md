@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** Senate Floor Calendar
+**PDF:** [S7478 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7478)
 
 ## Summary
 

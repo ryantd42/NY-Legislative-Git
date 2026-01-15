@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Vetoed
+**PDF:** [A4721 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4721)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** Vetoed
+**PDF:** [S8136A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8136A)
 
 ## Summary
 

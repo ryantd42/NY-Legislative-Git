@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John W. McGowan
 **Status:** Signed by Governor
+**PDF:** [A4793 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4793)
 
 ## Summary
 

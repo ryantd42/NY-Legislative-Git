@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Slater
 **Status:** Signed by Governor
+**PDF:** [A3288 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3288)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** Stricken
+**PDF:** [S7792A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7792A)
 
 ## Summary
 

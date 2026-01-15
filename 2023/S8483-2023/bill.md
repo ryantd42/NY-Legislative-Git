@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** In Assembly Committee
+**PDF:** [S8483 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8483)
 
 ## Summary
 

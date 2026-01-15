@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** In Senate Committee
+**PDF:** [A125B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A125B)
 
 ## Summary
 

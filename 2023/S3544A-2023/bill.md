@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** In Senate Committee
+**PDF:** [S3544A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3544A)
 
 ## Summary
 

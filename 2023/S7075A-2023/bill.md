@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** In Senate Committee
+**PDF:** [S7075A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7075A)
 
 ## Summary
 

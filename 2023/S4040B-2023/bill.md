@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Senate Floor Calendar
+**PDF:** [S4040B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4040B)
 
 ## Summary
 

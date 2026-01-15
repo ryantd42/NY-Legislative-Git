@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** In Senate Committee
+**PDF:** [S6415 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6415)
 
 ## Summary
 

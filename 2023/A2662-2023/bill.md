@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph Giglio
 **Status:** In Assembly Committee
+**PDF:** [A2662 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2662)
 
 ## Summary
 

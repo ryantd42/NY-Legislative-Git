@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** José M. Serrano
 **Status:** Signed by Governor
+**PDF:** [S9241 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9241)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jo Anne Simon
 **Status:** In Assembly Committee
+**PDF:** [A10459 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10459)
 
 ## Summary
 

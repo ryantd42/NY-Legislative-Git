@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eddie Gibbs
 **Status:** Vetoed
+**PDF:** [A4904 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4904)
 
 ## Summary
 

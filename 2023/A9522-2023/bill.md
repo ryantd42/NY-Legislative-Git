@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Signed by Governor
+**PDF:** [A9522 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9522)
 
 ## Summary
 

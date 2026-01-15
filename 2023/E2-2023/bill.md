@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Vivian Cook
 **Status:** Adopted
+**PDF:** [E2 PDF](https://legislation.nysenate.gov/pdf/bills/2023/E2)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** Adopted
+**PDF:** [J2428 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2428)
 
 ---
 

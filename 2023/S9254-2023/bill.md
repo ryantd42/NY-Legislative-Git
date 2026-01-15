@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** Senate Floor Calendar
+**PDF:** [S9254 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9254)
 
 ## Summary
 

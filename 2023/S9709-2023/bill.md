@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** Signed by Governor
+**PDF:** [S9709 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9709)
 
 ## Summary
 

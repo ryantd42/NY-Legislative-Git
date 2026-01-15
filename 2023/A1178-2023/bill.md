@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Jacobson
 **Status:** Assembly Floor Calendar
+**PDF:** [A1178 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1178)
 
 ## Summary
 

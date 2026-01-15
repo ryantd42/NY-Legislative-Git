@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** Stricken
+**PDF:** [A1735 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1735)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David Weprin
 **Status:** Adopted
+**PDF:** [K951 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K951)
 
 ---
 

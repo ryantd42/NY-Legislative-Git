@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** Stricken
+**PDF:** [A3150 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3150)
 
 ## Summary
 

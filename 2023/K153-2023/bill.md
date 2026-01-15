@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Taylor Darling
 **Status:** Adopted
+**PDF:** [K153 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K153)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** Vetoed
+**PDF:** [A1721B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1721B)
 
 ## Summary
 

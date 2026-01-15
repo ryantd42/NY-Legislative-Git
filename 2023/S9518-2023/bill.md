@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kristen Gonzalez
 **Status:** Vetoed
+**PDF:** [S9518 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9518)
 
 ## Summary
 

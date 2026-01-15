@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marcela Mitaynes
 **Status:** In Assembly Committee
+**PDF:** [A5470 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5470)
 
 ## Summary
 

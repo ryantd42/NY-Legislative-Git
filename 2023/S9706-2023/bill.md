@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jamaal Bailey
 **Status:** Senate Floor Calendar
+**PDF:** [S9706 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9706)
 
 ## Summary
 

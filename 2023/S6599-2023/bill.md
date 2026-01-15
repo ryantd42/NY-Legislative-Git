@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Senate Floor Calendar
+**PDF:** [S6599 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6599)
 
 ## Summary
 

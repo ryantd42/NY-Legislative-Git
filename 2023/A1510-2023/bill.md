@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** Vetoed
+**PDF:** [A1510 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1510)
 
 ## Summary
 

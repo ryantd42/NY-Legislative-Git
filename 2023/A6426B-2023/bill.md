@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** Assembly Floor Calendar
+**PDF:** [A6426B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6426B)
 
 ## Summary
 

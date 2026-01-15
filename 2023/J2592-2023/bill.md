@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** In Senate Committee
+**PDF:** [J2592 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2592)
 
 ---
 

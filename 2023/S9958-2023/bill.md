@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Senate Committee
+**PDF:** [S9958 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9958)
 
 ## Summary
 

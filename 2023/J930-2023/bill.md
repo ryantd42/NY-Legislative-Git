@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Peter Oberacker
 **Status:** Adopted
+**PDF:** [J930 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J930)
 
 ---
 

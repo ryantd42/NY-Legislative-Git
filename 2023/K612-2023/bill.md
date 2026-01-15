@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Durso
 **Status:** Adopted
+**PDF:** [K612 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K612)
 
 ---
 

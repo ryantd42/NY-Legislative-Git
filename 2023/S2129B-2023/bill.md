@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Signed by Governor
+**PDF:** [S2129B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2129B)
 
 ## Summary
 

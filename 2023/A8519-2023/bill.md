@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Ron Kim
 **Status:** Signed by Governor
+**PDF:** [A8519 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8519)
 
 ## Summary
 

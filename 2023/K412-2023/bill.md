@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Tague
 **Status:** Adopted
+**PDF:** [K412 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K412)
 
 ---
 

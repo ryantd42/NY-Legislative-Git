@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** Adopted
+**PDF:** [K560 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K560)
 
 ---
 

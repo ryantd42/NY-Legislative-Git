@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrion Aubry
 **Status:** Signed by Governor
+**PDF:** [A6732 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6732)
 
 ## Summary
 

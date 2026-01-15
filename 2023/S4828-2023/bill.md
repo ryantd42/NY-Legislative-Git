@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew J. Lanza
 **Status:** Signed by Governor
+**PDF:** [S4828 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4828)
 
 ## Summary
 

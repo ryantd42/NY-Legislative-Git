@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Signed by Governor
+**PDF:** [A3125A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3125A)
 
 ## Summary
 

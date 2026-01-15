@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Senate Floor Calendar
+**PDF:** [S7501 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7501)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** In Senate Committee
+**PDF:** [S6739 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6739)
 
 ## Summary
 

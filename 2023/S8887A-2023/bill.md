@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** In Senate Committee
+**PDF:** [S8887A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8887A)
 
 ## Summary
 

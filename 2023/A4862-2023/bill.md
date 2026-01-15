@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Juan Ardila
 **Status:** Signed by Governor
+**PDF:** [A4862 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4862)
 
 ## Summary
 

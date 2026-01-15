@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stefani Zinerman
 **Status:** Stricken
+**PDF:** [A1892 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1892)
 
 ## Summary
 

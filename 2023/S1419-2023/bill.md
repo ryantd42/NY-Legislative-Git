@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Vetoed
+**PDF:** [S1419 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1419)
 
 ## Summary
 

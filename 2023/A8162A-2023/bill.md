@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** Signed by Governor
+**PDF:** [A8162A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8162A)
 
 ## Summary
 

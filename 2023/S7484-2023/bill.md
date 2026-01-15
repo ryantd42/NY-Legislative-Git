@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alexis Weik
 **Status:** Stricken
+**PDF:** [S7484 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7484)
 
 ## Summary
 

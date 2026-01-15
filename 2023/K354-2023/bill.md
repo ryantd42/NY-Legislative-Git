@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nily Rozic
 **Status:** Adopted
+**PDF:** [K354 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K354)
 
 ---
 

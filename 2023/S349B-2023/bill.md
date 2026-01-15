@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** In Assembly Committee
+**PDF:** [S349B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S349B)
 
 ## Summary
 

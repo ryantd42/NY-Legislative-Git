@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Maher
 **Status:** Adopted
+**PDF:** [K285 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K285)
 
 ---
 

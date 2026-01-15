@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latrice Walker
 **Status:** Adopted
+**PDF:** [K805 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K805)
 
 ---
 

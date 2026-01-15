@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Flood
 **Status:** Stricken
+**PDF:** [A9757 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9757)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** In Assembly Committee
+**PDF:** [S7779B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7779B)
 
 ## Summary
 

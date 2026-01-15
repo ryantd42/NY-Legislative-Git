@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe DeStefano
 **Status:** Adopted
+**PDF:** [K601 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K601)
 
 ---
 

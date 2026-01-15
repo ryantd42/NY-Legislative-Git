@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Vivian Cook
 **Status:** In Assembly Committee
+**PDF:** [A5968 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5968)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Khaleel Anderson
 **Status:** Vetoed
+**PDF:** [A9099 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9099)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** José M. Serrano
 **Status:** Senate Floor Calendar
+**PDF:** [S7480 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7480)
 
 ## Summary
 

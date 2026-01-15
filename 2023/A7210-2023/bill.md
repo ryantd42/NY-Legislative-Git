@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Ron Kim
 **Status:** In Assembly Committee
+**PDF:** [A7210 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7210)
 
 ## Summary
 

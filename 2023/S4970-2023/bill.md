@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Vetoed
+**PDF:** [S4970 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4970)
 
 ## Summary
 

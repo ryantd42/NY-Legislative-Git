@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Signed by Governor
+**PDF:** [S8074 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8074)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Felder
 **Status:** In Assembly Committee
+**PDF:** [S1242A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1242A)
 
 ## Summary
 

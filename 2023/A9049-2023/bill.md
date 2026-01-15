@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Signed by Governor
+**PDF:** [A9049 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9049)
 
 ## Summary
 

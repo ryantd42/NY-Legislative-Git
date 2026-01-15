@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** Stricken
+**PDF:** [S7435A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7435A)
 
 ## Summary
 

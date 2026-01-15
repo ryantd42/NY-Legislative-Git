@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenny Burgos
 **Status:** Signed by Governor
+**PDF:** [A9812 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9812)
 
 ## Summary
 

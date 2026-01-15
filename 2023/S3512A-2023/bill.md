@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** In Assembly Committee
+**PDF:** [S3512A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3512A)
 
 ## Summary
 

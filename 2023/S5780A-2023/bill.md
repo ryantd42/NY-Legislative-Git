@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Peter Oberacker
 **Status:** Signed by Governor
+**PDF:** [S5780A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5780A)
 
 ## Summary
 

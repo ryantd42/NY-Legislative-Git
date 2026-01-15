@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Smullen
 **Status:** Signed by Governor
+**PDF:** [A7118 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7118)
 
 ## Summary
 

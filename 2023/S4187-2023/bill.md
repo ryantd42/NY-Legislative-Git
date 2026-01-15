@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew J. Lanza
 **Status:** In Assembly Committee
+**PDF:** [S4187 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4187)
 
 ## Summary
 

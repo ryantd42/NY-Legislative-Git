@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Assembly Floor Calendar
+**PDF:** [A6798 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6798)
 
 ## Summary
 

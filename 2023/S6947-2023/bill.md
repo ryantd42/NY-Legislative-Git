@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Signed by Governor
+**PDF:** [S6947 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6947)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karen McMahon
 **Status:** Assembly Floor Calendar
+**PDF:** [A7403A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7403A)
 
 ## Summary
 

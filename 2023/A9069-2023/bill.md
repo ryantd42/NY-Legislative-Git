@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Albert A. Stirpe
 **Status:** Assembly Floor Calendar
+**PDF:** [A9069 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9069)
 
 ## Summary
 

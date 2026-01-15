@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Vetoed
+**PDF:** [A4581 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4581)
 
 ## Summary
 

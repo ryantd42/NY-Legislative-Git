@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jaime R. Williams
 **Status:** Signed by Governor
+**PDF:** [A5969 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5969)
 
 ## Summary
 

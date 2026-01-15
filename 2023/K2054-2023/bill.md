@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Smullen
 **Status:** Adopted
+**PDF:** [K2054 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2054)
 
 ---
 

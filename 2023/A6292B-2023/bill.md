@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dana Levenberg
 **Status:** Assembly Floor Calendar
+**PDF:** [A6292B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6292B)
 
 ## Summary
 

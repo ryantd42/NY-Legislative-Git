@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Senate Floor Calendar
+**PDF:** [S8894A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8894A)
 
 ## Summary
 

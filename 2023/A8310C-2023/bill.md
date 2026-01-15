@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Christopher Eachus
 **Status:** Assembly Floor Calendar
+**PDF:** [A8310C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8310C)
 
 ## Summary
 

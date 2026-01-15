@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amanda Septimo
 **Status:** Adopted
+**PDF:** [K935 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K935)
 
 ---
 

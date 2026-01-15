@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stefani Zinerman
 **Status:** In Assembly Committee
+**PDF:** [A1800 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1800)
 
 ## Summary
 

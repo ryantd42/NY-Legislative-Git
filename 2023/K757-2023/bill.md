@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Christopher Friend
 **Status:** Adopted
+**PDF:** [K757 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K757)
 
 ---
 

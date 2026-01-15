@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** In Assembly Committee
+**PDF:** [A4507A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4507A)
 
 ## Summary
 

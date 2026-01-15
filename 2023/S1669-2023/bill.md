@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** In Assembly Committee
+**PDF:** [S1669 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1669)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latoya Joyner
 **Status:** Stricken
+**PDF:** [A1632 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1632)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Passed Assembly
+**PDF:** [S5540 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5540)
 
 ## Summary
 

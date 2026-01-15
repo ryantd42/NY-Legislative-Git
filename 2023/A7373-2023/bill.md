@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karines Reyes
 **Status:** Signed by Governor
+**PDF:** [A7373 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7373)
 
 ## Summary
 

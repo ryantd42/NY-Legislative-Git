@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Simpson
 **Status:** Assembly Floor Calendar
+**PDF:** [A6812C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6812C)
 
 ## Summary
 

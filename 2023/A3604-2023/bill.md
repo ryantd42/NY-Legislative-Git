@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Manktelow
 **Status:** In Assembly Committee
+**PDF:** [A3604 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3604)
 
 ## Summary
 

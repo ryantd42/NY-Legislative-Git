@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Yudelka Tapia
 **Status:** Adopted
+**PDF:** [K944 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K944)
 
 ---
 

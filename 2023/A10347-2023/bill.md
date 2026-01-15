@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** Signed by Governor
+**PDF:** [A10347 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10347)
 
 ## Summary
 

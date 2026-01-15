@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Vetoed
+**PDF:** [S3004 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3004)
 
 ## Summary
 

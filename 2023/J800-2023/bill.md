@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela Helming
 **Status:** Adopted
+**PDF:** [J800 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J800)
 
 ---
 

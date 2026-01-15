@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe DeStefano
 **Status:** Assembly Floor Calendar
+**PDF:** [A5808 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5808)
 
 ## Summary
 

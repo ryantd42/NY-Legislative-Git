@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Senate Floor Calendar
+**PDF:** [S3603 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3603)
 
 ## Summary
 

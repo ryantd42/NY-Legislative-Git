@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samuel Pirozzolo
 **Status:** Stricken
+**PDF:** [A8351 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8351)
 
 ## Summary
 

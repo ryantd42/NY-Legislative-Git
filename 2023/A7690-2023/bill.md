@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carl Heastie
 **Status:** Signed by Governor
+**PDF:** [A7690 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7690)
 
 ## Summary
 

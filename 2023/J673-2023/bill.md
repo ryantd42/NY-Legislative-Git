@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** Adopted
+**PDF:** [J673 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J673)
 
 ---
 

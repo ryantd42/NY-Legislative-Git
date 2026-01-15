@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** Assembly Floor Calendar
+**PDF:** [A6631 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6631)
 
 ## Summary
 

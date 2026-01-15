@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Assembly Floor Calendar
+**PDF:** [S6173B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6173B)
 
 ## Summary
 

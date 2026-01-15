@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Lemondes
 **Status:** Adopted
+**PDF:** [K500 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K500)
 
 ---
 

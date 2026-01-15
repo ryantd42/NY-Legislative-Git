@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** Senate Floor Calendar
+**PDF:** [S4714 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4714)
 
 ## Summary
 

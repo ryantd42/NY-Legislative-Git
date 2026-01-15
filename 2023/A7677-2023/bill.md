@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stefani Zinerman
 **Status:** Assembly Floor Calendar
+**PDF:** [A7677 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7677)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** In Senate Committee
+**PDF:** [S7802A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7802A)
 
 ## Summary
 

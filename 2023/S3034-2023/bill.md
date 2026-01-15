@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Stricken
+**PDF:** [S3034 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3034)
 
 ## Summary
 

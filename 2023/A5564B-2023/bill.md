@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Keith Brown
 **Status:** Assembly Floor Calendar
+**PDF:** [A5564B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5564B)
 
 ## Summary
 

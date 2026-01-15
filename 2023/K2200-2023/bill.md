@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Tony Simone
 **Status:** Adopted
+**PDF:** [K2200 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2200)
 
 ---
 

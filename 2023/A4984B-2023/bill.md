@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel Rosenthal
 **Status:** Signed by Governor
+**PDF:** [A4984B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4984B)
 
 ## Summary
 

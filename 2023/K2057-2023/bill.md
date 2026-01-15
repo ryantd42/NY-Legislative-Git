@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Slater
 **Status:** Adopted
+**PDF:** [K2057 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2057)
 
 ---
 

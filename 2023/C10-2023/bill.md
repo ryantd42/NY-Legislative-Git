@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carl Heastie
 **Status:** Introduced
+**PDF:** [C10 PDF](https://legislation.nysenate.gov/pdf/bills/2023/C10)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Benedetto
 **Status:** In Assembly Committee
+**PDF:** [A4511 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4511)
 
 ## Summary
 

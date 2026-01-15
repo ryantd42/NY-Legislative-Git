@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** In Senate Committee
+**PDF:** [S9935 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9935)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Adopted
+**PDF:** [J1098 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1098)
 
 ---
 

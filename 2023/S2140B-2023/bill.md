@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** Senate Floor Calendar
+**PDF:** [S2140B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2140B)
 
 ## Summary
 

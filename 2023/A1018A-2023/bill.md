@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** In Assembly Committee
+**PDF:** [A1018A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1018A)
 
 ## Summary
 

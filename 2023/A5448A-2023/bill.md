@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** Vetoed
+**PDF:** [A5448A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5448A)
 
 ## Summary
 

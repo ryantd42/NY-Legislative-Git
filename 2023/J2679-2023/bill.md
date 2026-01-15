@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** Adopted
+**PDF:** [J2679 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2679)
 
 ---
 

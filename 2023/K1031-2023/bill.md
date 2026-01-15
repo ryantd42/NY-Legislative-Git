@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Simpson
 **Status:** Adopted
+**PDF:** [K1031 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1031)
 
 ---
 

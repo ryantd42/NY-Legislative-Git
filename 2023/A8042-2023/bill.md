@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Josh Jensen
 **Status:** Assembly Floor Calendar
+**PDF:** [A8042 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8042)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Goodell
 **Status:** In Senate Committee
+**PDF:** [A1715A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1715A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karen McMahon
 **Status:** In Assembly Committee
+**PDF:** [A7704A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7704A)
 
 ## Summary
 

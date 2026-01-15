@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** Adopted
+**PDF:** [K978 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K978)
 
 ---
 

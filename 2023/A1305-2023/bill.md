@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gina Sillitti
 **Status:** In Assembly Committee
+**PDF:** [A1305 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1305)
 
 ## Summary
 

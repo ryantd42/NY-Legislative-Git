@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William A. Barclay
 **Status:** Adopted
+**PDF:** [K122 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K122)
 
 ---
 

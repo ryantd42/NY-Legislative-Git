@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Signed by Governor
+**PDF:** [S3112A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3112A)
 
 ## Summary
 

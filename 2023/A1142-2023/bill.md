@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** Signed by Governor
+**PDF:** [A1142 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1142)
 
 ## Summary
 

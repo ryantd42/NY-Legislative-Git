@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Billy Jones
 **Status:** In Assembly Committee
+**PDF:** [A1756A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1756A)
 
 ## Summary
 

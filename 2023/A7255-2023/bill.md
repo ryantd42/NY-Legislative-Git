@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Khaleel Anderson
 **Status:** Signed by Governor
+**PDF:** [A7255 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7255)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Signed by Governor
+**PDF:** [A9946 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9946)
 
 ## Summary
 

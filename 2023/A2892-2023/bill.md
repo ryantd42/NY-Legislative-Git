@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alex Bores
 **Status:** Assembly Floor Calendar
+**PDF:** [A2892 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2892)
 
 ## Summary
 

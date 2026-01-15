@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph Giglio
 **Status:** Adopted
+**PDF:** [K329 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K329)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** In Senate Committee
+**PDF:** [S9030 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9030)
 
 ## Summary
 

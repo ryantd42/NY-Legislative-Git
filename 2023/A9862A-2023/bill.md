@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Assembly Floor Calendar
+**PDF:** [A9862A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9862A)
 
 ## Summary
 

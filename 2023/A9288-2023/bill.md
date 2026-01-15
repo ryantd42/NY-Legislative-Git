@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nikki Lucas
 **Status:** In Assembly Committee
+**PDF:** [A9288 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9288)
 
 ## Summary
 

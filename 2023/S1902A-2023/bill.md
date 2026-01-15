@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Signed by Governor
+**PDF:** [S1902A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1902A)
 
 ## Summary
 

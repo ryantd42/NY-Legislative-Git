@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Vetoed
+**PDF:** [A9340A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9340A)
 
 ## Summary
 

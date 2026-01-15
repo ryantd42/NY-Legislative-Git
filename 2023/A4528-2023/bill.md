@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian D. Miller
 **Status:** Stricken
+**PDF:** [A4528 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4528)
 
 ## Summary
 

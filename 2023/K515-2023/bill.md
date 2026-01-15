@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** Adopted
+**PDF:** [K515 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K515)
 
 ---
 

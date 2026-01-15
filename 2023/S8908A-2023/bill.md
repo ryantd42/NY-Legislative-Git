@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** In Assembly Committee
+**PDF:** [S8908A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8908A)
 
 ## Summary
 

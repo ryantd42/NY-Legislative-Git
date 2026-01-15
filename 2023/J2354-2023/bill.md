@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dean Murray
 **Status:** Adopted
+**PDF:** [J2354 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2354)
 
 ---
 

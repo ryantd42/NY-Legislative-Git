@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Thomas F. O'Mara
 **Status:** Adopted
+**PDF:** [J1025 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1025)
 
 ---
 

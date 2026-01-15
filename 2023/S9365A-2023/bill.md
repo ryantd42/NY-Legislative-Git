@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** Senate Floor Calendar
+**PDF:** [S9365A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9365A)
 
 ## Summary
 

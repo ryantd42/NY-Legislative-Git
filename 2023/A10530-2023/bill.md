@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Landon C. Dais
 **Status:** Assembly Floor Calendar
+**PDF:** [A10530 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10530)
 
 ## Summary
 

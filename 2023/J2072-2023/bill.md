@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ashby
 **Status:** Adopted
+**PDF:** [J2072 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2072)
 
 ---
 

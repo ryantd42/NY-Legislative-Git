@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Ramos
 **Status:** In Assembly Committee
+**PDF:** [A10668 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10668)
 
 ## Summary
 

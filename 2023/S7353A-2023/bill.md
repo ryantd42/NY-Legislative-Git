@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** In Assembly Committee
+**PDF:** [S7353A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7353A)
 
 ## Summary
 

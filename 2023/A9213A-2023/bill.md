@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patricia Fahy
 **Status:** Vetoed
+**PDF:** [A9213A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9213A)
 
 ## Summary
 

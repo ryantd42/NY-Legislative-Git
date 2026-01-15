@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harry B. Bronson
 **Status:** In Assembly Committee
+**PDF:** [A8233A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8233A)
 
 ## Summary
 

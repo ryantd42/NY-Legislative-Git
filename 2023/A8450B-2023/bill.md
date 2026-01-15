@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alex Bores
 **Status:** Signed by Governor
+**PDF:** [A8450B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8450B)
 
 ## Summary
 

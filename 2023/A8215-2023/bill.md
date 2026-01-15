@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Tannousis
 **Status:** Stricken
+**PDF:** [A8215 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8215)
 
 ## Summary
 

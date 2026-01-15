@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Adopted
+**PDF:** [J1972 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1972)
 
 ---
 

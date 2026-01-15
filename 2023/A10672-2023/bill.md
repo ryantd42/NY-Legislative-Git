@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dana Levenberg
 **Status:** In Assembly Committee
+**PDF:** [A10672 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10672)
 
 ## Summary
 

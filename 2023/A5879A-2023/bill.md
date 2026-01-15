@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rebecca Seawright
 **Status:** Assembly Floor Calendar
+**PDF:** [A5879A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5879A)
 
 ## Summary
 

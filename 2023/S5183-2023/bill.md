@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Signed by Governor
+**PDF:** [S5183 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5183)
 
 ## Summary
 

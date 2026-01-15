@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amanda Septimo
 **Status:** Signed by Governor
+**PDF:** [A8532 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8532)
 
 ## Summary
 

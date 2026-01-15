@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Ron Kim
 **Status:** Adopted
+**PDF:** [K12 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K12)
 
 ---
 

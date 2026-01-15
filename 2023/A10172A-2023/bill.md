@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Flood
 **Status:** Assembly Floor Calendar
+**PDF:** [A10172A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10172A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** In Assembly Committee
+**PDF:** [S7713B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7713B)
 
 ## Summary
 

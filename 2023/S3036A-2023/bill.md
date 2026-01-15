@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** In Assembly Committee
+**PDF:** [S3036A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3036A)
 
 ## Summary
 

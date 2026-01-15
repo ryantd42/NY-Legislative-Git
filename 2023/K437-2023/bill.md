@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Novakhov
 **Status:** Adopted
+**PDF:** [K437 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K437)
 
 ---
 

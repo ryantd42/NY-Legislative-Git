@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Rhoads
 **Status:** Senate Floor Calendar
+**PDF:** [S6706 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6706)
 
 ## Summary
 

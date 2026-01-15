@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian D. Miller
 **Status:** Assembly Floor Calendar
+**PDF:** [A10516A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10516A)
 
 ## Summary
 

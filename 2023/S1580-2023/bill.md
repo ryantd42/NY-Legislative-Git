@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** Senate Floor Calendar
+**PDF:** [S1580 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1580)
 
 ## Summary
 

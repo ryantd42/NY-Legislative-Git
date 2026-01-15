@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** In Assembly Committee
+**PDF:** [A1050 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1050)
 
 ## Summary
 

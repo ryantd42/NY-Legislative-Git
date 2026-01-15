@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Grace Lee
 **Status:** In Assembly Committee
+**PDF:** [A6579A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6579A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chantel Jackson
 **Status:** Stricken
+**PDF:** [A7175 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7175)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe Angelino
 **Status:** Assembly Floor Calendar
+**PDF:** [A4039 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4039)
 
 ## Summary
 

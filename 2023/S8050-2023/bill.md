@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Liu
 **Status:** Signed by Governor
+**PDF:** [S8050 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8050)
 
 ## Summary
 

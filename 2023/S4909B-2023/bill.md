@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** Passed Senate
+**PDF:** [S4909B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4909B)
 
 ## Summary
 

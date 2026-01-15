@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Crystal Peoples-Stokes
 **Status:** Signed by Governor
+**PDF:** [A9886 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9886)
 
 ## Summary
 

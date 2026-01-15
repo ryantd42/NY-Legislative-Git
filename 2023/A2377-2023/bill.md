@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Christopher Eachus
 **Status:** Signed by Governor
+**PDF:** [A2377 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2377)
 
 ## Summary
 

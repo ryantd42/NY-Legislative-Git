@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** Senate Floor Calendar
+**PDF:** [S7354 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7354)
 
 ## Summary
 

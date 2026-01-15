@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Stricken
+**PDF:** [S2201 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2201)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Senate Floor Calendar
+**PDF:** [S846 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S846)
 
 ## Summary
 

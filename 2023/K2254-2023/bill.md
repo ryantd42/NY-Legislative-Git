@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Zaccaro Jr.
 **Status:** Adopted
+**PDF:** [K2254 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2254)
 
 ---
 

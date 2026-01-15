@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Mannion
 **Status:** Vetoed
+**PDF:** [S7649A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7649A)
 
 ## Summary
 

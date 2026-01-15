@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Stricken
+**PDF:** [S1992 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1992)
 
 ## Summary
 

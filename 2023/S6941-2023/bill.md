@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Vetoed
+**PDF:** [S6941 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6941)
 
 ## Summary
 

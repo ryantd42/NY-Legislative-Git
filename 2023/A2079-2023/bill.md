@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Demond Meeks
 **Status:** In Assembly Committee
+**PDF:** [A2079 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2079)
 
 ## Summary
 

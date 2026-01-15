@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott H. Bendett
 **Status:** Adopted
+**PDF:** [K2157 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2157)
 
 ---
 

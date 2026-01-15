@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** Stricken
+**PDF:** [A4975 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4975)
 
 ## Summary
 

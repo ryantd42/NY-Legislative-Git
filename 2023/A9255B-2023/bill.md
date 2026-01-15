@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Signed by Governor
+**PDF:** [A9255B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9255B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phara Souffrant Forrest
 **Status:** Signed by Governor
+**PDF:** [A4942B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4942B)
 
 ## Summary
 

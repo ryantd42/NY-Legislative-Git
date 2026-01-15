@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jen Lunsford
 **Status:** Adopted
+**PDF:** [K567 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K567)
 
 ---
 

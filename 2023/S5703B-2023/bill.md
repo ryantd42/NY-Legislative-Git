@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** Senate Floor Calendar
+**PDF:** [S5703B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5703B)
 
 ## Summary
 

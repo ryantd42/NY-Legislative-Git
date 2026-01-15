@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karl Brabenec
 **Status:** In Assembly Committee
+**PDF:** [A5395 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5395)
 
 ## Summary
 

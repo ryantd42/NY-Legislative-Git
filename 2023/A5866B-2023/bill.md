@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott H. Bendett
 **Status:** Assembly Floor Calendar
+**PDF:** [A5866B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5866B)
 
 ## Summary
 

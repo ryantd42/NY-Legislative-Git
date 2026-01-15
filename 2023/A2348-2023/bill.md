@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mary Beth Walsh
 **Status:** In Assembly Committee
+**PDF:** [A2348 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2348)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Senate Floor Calendar
+**PDF:** [S5481A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5481A)
 
 ## Summary
 

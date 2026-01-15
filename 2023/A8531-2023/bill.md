@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** Signed by Governor
+**PDF:** [A8531 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8531)
 
 ## Summary
 

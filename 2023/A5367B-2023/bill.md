@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nikki Lucas
 **Status:** Assembly Floor Calendar
+**PDF:** [A5367B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5367B)
 
 ## Summary
 

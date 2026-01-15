@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** Assembly Floor Calendar
+**PDF:** [A4613C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4613C)
 
 ## Summary
 

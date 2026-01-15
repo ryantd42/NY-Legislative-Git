@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** In Senate Committee
+**PDF:** [A9062B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9062B)
 
 ## Summary
 

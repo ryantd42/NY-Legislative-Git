@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Stricken
+**PDF:** [S2149 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2149)
 
 ## Summary
 

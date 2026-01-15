@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sarah Clark
 **Status:** Assembly Floor Calendar
+**PDF:** [A6843A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6843A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** Adopted
+**PDF:** [J329 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J329)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Assembly Committee
+**PDF:** [S2057A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2057A)
 
 ## Summary
 

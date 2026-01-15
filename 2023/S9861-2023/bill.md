@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kristen Gonzalez
 **Status:** In Senate Committee
+**PDF:** [S9861 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9861)
 
 ## Summary
 

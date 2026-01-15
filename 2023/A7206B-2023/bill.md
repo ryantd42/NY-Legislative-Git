@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** J. Gary Pretlow
 **Status:** Signed by Governor
+**PDF:** [A7206B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7206B)
 
 ## Summary
 

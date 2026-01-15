@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Vivian Cook
 **Status:** Signed by Governor
+**PDF:** [A6140A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6140A)
 
 ## Summary
 

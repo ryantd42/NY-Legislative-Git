@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** Senate Floor Calendar
+**PDF:** [S7739B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7739B)
 
 ## Summary
 

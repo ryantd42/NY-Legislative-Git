@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Keith Brown
 **Status:** Adopted
+**PDF:** [K504 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K504)
 
 ---
 

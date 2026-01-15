@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Norris
 **Status:** Signed by Governor
+**PDF:** [A9218 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9218)
 
 ## Summary
 

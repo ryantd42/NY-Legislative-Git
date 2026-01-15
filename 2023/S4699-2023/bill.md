@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** In Senate Committee
+**PDF:** [S4699 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4699)
 
 ## Summary
 

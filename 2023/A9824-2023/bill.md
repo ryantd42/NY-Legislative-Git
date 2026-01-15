@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Donna Lupardo
 **Status:** Assembly Floor Calendar
+**PDF:** [A9824 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9824)
 
 ## Summary
 

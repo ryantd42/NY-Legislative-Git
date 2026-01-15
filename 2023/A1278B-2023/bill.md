@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latoya Joyner
 **Status:** Assembly Floor Calendar
+**PDF:** [A1278B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1278B)
 
 ## Summary
 

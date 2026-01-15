@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rodneyse Bichotte Hermelyn
 **Status:** Vetoed
+**PDF:** [A1399A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1399A)
 
 ## Summary
 

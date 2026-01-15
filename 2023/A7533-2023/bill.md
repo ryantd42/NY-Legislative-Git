@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phara Souffrant Forrest
 **Status:** In Assembly Committee
+**PDF:** [A7533 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7533)
 
 ## Summary
 

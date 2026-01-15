@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Vetoed
+**PDF:** [S8110 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8110)
 
 ## Summary
 

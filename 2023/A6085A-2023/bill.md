@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Keith Brown
 **Status:** Signed by Governor
+**PDF:** [A6085A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6085A)
 
 ## Summary
 

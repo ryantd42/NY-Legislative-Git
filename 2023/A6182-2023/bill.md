@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian F. Curran
 **Status:** In Assembly Committee
+**PDF:** [A6182 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6182)
 
 ## Summary
 

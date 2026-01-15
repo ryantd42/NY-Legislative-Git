@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Jacobson
 **Status:** Signed by Governor
+**PDF:** [A7477A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7477A)
 
 ## Summary
 

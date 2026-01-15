@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela J. Hunter
 **Status:** Signed by Governor
+**PDF:** [A6558 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6558)
 
 ## Summary
 

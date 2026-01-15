@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stefani Zinerman
 **Status:** Signed by Governor
+**PDF:** [A10223A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10223A)
 
 ## Summary
 

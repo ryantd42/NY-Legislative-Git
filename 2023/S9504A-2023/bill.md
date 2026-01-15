@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** Senate Floor Calendar
+**PDF:** [S9504A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9504A)
 
 ## Summary
 

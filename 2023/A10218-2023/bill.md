@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Zaccaro Jr.
 **Status:** Signed by Governor
+**PDF:** [A10218 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10218)
 
 ## Summary
 

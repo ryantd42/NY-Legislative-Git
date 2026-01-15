@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mario Mattera
 **Status:** Stricken
+**PDF:** [S7673 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7673)
 
 ## Summary
 

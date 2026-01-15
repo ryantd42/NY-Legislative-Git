@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Durso
 **Status:** Stricken
+**PDF:** [A7710 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7710)
 
 ## Summary
 

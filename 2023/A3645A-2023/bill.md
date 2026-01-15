@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Manktelow
 **Status:** Signed by Governor
+**PDF:** [A3645A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3645A)
 
 ## Summary
 

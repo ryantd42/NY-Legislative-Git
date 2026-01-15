@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica P. Wallace
 **Status:** In Assembly Committee
+**PDF:** [A8853 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8853)
 
 ## Summary
 

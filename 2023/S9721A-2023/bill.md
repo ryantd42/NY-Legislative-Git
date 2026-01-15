@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** Senate Floor Calendar
+**PDF:** [S9721A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9721A)
 
 ## Summary
 

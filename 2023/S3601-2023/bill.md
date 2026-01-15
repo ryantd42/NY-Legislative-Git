@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Thomas F. O'Mara
 **Status:** Senate Floor Calendar
+**PDF:** [S3601 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3601)
 
 ## Summary
 

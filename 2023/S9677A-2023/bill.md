@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** In Assembly Committee
+**PDF:** [S9677A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9677A)
 
 ## Summary
 

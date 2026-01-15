@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Latoya Joyner
 **Status:** Signed by Governor
+**PDF:** [A3335B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3335B)
 
 ## Summary
 

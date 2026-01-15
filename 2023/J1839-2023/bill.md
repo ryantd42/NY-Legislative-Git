@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** José M. Serrano
 **Status:** Adopted
+**PDF:** [J1839 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1839)
 
 ---
 

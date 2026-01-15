@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Assembly Floor Calendar
+**PDF:** [S6210B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6210B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** Assembly Floor Calendar
+**PDF:** [A1321 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1321)
 
 ## Summary
 

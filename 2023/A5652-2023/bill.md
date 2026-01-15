@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Christopher Friend
 **Status:** In Assembly Committee
+**PDF:** [A5652 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5652)
 
 ## Summary
 

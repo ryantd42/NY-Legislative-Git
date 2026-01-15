@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Vetoed
+**PDF:** [S5868B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5868B)
 
 ## Summary
 

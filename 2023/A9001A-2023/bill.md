@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Yudelka Tapia
 **Status:** In Assembly Committee
+**PDF:** [A9001A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9001A)
 
 ## Summary
 

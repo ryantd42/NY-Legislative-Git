@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Vetoed
+**PDF:** [S3261 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3261)
 
 ## Summary
 

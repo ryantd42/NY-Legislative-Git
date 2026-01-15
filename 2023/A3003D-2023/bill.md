@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Unknown
 **Status:** Signed by Governor
+**PDF:** [A3003D PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3003D)
 
 ## Summary
 

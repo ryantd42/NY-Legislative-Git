@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alicia Hyndman
 **Status:** Assembly Floor Calendar
+**PDF:** [A5004 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5004)
 
 ## Summary
 

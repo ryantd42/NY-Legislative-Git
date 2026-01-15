@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Fall
 **Status:** Assembly Floor Calendar
+**PDF:** [A7561 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7561)
 
 ## Summary
 

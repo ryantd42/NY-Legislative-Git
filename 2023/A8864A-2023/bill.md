@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** Signed by Governor
+**PDF:** [A8864A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8864A)
 
 ## Summary
 

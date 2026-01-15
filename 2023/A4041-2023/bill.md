@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Maher
 **Status:** In Assembly Committee
+**PDF:** [A4041 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4041)
 
 ## Summary
 

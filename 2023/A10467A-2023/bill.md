@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Braunstein
 **Status:** Signed by Governor
+**PDF:** [A10467A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10467A)
 
 ## Summary
 

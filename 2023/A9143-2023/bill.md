@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Yudelka Tapia
 **Status:** Assembly Floor Calendar
+**PDF:** [A9143 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9143)
 
 ## Summary
 

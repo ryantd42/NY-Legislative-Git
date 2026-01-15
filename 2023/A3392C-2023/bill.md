@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Otis
 **Status:** In Assembly Committee
+**PDF:** [A3392C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3392C)
 
 ## Summary
 

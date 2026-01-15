@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** Adopted
+**PDF:** [J498 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J498)
 
 ---
 

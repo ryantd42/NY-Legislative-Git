@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Lavine
 **Status:** In Assembly Committee
+**PDF:** [A7702A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7702A)
 
 ## Summary
 

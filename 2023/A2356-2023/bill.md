@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo J. Morinello
 **Status:** Signed by Governor
+**PDF:** [A2356 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2356)
 
 ## Summary
 

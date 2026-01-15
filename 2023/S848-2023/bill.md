@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Signed by Governor
+**PDF:** [S848 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S848)
 
 ## Summary
 

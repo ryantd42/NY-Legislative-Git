@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sean Ryan
 **Status:** Signed by Governor
+**PDF:** [S7443A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7443A)
 
 ## Summary
 

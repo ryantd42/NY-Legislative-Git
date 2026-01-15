@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Assembly Floor Calendar
+**PDF:** [A6065 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6065)
 
 ## Summary
 

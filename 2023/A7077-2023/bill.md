@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Raga
 **Status:** In Assembly Committee
+**PDF:** [A7077 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7077)
 
 ## Summary
 

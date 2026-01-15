@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** Assembly Floor Calendar
+**PDF:** [A127 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A127)
 
 ## Summary
 

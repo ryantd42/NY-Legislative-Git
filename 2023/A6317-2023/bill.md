@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Deborah Glick
 **Status:** In Senate Committee
+**PDF:** [A6317 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6317)
 
 ## Summary
 

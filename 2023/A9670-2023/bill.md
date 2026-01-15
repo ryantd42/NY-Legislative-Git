@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Landon C. Dais
 **Status:** Signed by Governor
+**PDF:** [A9670 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9670)
 
 ## Summary
 

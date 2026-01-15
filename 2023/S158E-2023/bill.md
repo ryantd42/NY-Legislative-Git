@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Liz Krueger
 **Status:** Assembly Floor Calendar
+**PDF:** [S158E PDF](https://legislation.nysenate.gov/pdf/bills/2023/S158E)
 
 ## Summary
 

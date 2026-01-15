@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Rolison
 **Status:** Adopted
+**PDF:** [J2346 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2346)
 
 ---
 

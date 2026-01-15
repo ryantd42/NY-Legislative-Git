@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** Passed Senate
+**PDF:** [S1201C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1201C)
 
 ## Summary
 

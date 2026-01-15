@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrea Stewart-Cousins
 **Status:** Signed by Governor
+**PDF:** [S9161 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9161)
 
 ## Summary
 

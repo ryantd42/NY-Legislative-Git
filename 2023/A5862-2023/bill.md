@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** Signed by Governor
+**PDF:** [A5862 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5862)
 
 ## Summary
 

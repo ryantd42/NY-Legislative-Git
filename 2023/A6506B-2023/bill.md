@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Yudelka Tapia
 **Status:** In Senate Committee
+**PDF:** [A6506B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6506B)
 
 ## Summary
 

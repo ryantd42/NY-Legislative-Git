@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Borrello
 **Status:** In Senate Committee
+**PDF:** [S1076 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1076)
 
 ## Summary
 

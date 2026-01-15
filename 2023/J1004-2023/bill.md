@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** Adopted
+**PDF:** [J1004 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1004)
 
 ---
 

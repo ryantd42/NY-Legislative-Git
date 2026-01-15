@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Sanders Jr.
 **Status:** Signed by Governor
+**PDF:** [S6648 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6648)
 
 ## Summary
 

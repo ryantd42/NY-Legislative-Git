@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Signed by Governor
+**PDF:** [S9486 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9486)
 
 ## Summary
 

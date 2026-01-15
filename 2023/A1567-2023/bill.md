@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** Vetoed
+**PDF:** [A1567 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1567)
 
 ## Summary
 

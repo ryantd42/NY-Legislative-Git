@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Khaleel Anderson
 **Status:** In Senate Committee
+**PDF:** [A2653B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2653B)
 
 ## Summary
 

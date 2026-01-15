@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steve Stern
 **Status:** Adopted
+**PDF:** [K128 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K128)
 
 ---
 

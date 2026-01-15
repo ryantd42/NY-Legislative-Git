@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** Signed by Governor
+**PDF:** [A8837C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8837C)
 
 ## Summary
 

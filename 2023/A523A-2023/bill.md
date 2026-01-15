@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Assembly Floor Calendar
+**PDF:** [A523A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A523A)
 
 ## Summary
 

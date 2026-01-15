@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrion Aubry
 **Status:** Assembly Floor Calendar
+**PDF:** [A1300 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1300)
 
 ## Summary
 

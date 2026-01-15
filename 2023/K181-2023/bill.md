@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Flood
 **Status:** Adopted
+**PDF:** [K181 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K181)
 
 ---
 

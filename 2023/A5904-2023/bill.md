@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David DiPietro
 **Status:** In Assembly Committee
+**PDF:** [A5904 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5904)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** Assembly Floor Calendar
+**PDF:** [S5877A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5877A)
 
 ## Summary
 

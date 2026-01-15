@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Vetoed
+**PDF:** [S7297C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7297C)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Stricken
+**PDF:** [A2961A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2961A)
 
 ## Summary
 

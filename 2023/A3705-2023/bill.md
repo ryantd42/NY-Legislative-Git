@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** In Assembly Committee
+**PDF:** [A3705 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3705)
 
 ## Summary
 

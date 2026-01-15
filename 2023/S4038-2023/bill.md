@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** In Senate Committee
+**PDF:** [S4038 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4038)
 
 ## Summary
 

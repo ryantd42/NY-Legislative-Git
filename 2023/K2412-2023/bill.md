@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** George Alvarez
 **Status:** Adopted
+**PDF:** [K2412 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2412)
 
 ---
 

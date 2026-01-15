@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chantel Jackson
 **Status:** Assembly Floor Calendar
+**PDF:** [A9924A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9924A)
 
 ## Summary
 

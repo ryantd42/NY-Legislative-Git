@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John Lemondes
 **Status:** Signed by Governor
+**PDF:** [A7391A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7391A)
 
 ## Summary
 

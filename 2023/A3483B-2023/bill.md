@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
+**PDF:** [A3483B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3483B)
 
 ## Summary
 

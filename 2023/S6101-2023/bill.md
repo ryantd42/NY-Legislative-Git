@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Stricken
+**PDF:** [S6101 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6101)
 
 ## Summary
 

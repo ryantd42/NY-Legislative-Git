@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jaime R. Williams
 **Status:** Adopted
+**PDF:** [K800 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K800)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harry B. Bronson
 **Status:** In Senate Committee
+**PDF:** [A6173 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6173)
 
 ## Summary
 

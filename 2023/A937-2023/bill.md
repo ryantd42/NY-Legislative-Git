@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Jacobson
 **Status:** In Assembly Committee
+**PDF:** [A937 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A937)
 
 ## Summary
 

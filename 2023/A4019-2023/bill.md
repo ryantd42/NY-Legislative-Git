@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Emily Gallagher
 **Status:** Stricken
+**PDF:** [A4019 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4019)
 
 ## Summary
 

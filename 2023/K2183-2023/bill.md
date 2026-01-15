@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jerett Gandolfo
 **Status:** Adopted
+**PDF:** [K2183 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2183)
 
 ---
 

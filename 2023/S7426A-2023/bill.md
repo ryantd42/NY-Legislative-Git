@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** In Assembly Committee
+**PDF:** [S7426A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7426A)
 
 ## Summary
 

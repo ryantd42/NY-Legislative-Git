@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** Signed by Governor
+**PDF:** [A7173 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7173)
 
 ## Summary
 

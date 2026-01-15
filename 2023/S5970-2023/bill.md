@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Assembly Committee
+**PDF:** [S5970 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5970)
 
 ## Summary
 

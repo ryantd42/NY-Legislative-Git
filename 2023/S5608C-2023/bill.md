@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Signed by Governor
+**PDF:** [S5608C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5608C)
 
 ## Summary
 

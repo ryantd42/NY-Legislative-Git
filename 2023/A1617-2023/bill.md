@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Simcha Eichenstein
 **Status:** In Assembly Committee
+**PDF:** [A1617 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1617)
 
 ## Summary
 

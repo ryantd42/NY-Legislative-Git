@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Tannousis
 **Status:** In Assembly Committee
+**PDF:** [A5162 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5162)
 
 ## Summary
 

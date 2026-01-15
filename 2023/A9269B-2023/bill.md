@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sam Berger
 **Status:** Signed by Governor
+**PDF:** [A9269B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9269B)
 
 ## Summary
 

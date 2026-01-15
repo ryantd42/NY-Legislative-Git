@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert C. Carroll
 **Status:** In Assembly Committee
+**PDF:** [A460 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A460)
 
 ## Summary
 

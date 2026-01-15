@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Colton
 **Status:** Vetoed
+**PDF:** [A3933A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3933A)
 
 ## Summary
 

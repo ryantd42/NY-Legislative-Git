@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** In Senate Committee
+**PDF:** [J2711 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2711)
 
 ---
 

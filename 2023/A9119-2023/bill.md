@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Hevesi
 **Status:** Stricken
+**PDF:** [A9119 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9119)
 
 ## Summary
 

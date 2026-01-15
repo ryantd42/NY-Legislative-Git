@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela Helming
 **Status:** In Senate Committee
+**PDF:** [S8150 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8150)
 
 ## Summary
 

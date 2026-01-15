@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Vivian Cook
 **Status:** Assembly Floor Calendar
+**PDF:** [A5646A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5646A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica Martinez
 **Status:** Passed Assembly
+**PDF:** [S4597 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4597)
 
 ## Summary
 

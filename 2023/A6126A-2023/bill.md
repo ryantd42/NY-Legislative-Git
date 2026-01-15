@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela J. Hunter
 **Status:** Vetoed
+**PDF:** [A6126A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6126A)
 
 ## Summary
 

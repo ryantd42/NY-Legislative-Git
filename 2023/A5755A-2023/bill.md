@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Blankenbush
 **Status:** Assembly Floor Calendar
+**PDF:** [A5755A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5755A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phil Steck
 **Status:** Stricken
+**PDF:** [A4376 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4376)
 
 ## Summary
 

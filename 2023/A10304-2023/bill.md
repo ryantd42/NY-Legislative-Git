@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David McDonough
 **Status:** In Assembly Committee
+**PDF:** [A10304 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10304)
 
 ## Summary
 

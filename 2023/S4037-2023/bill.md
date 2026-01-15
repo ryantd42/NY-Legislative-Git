@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela Helming
 **Status:** Senate Floor Calendar
+**PDF:** [S4037 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4037)
 
 ## Summary
 

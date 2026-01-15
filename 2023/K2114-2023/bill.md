@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Braunstein
 **Status:** Adopted
+**PDF:** [K2114 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2114)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alec Brook-Krasny
 **Status:** In Assembly Committee
+**PDF:** [A6236 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6236)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** Assembly Floor Calendar
+**PDF:** [A75B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A75B)
 
 ## Summary
 

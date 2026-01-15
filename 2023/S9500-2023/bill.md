@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeremy Cooney
 **Status:** In Senate Committee
+**PDF:** [S9500 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9500)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel Rosenthal
 **Status:** Stricken
+**PDF:** [A3137 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3137)
 
 ## Summary
 

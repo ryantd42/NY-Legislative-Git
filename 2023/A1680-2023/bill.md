@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Blankenbush
 **Status:** Stricken
+**PDF:** [A1680 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1680)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Manktelow
 **Status:** Assembly Floor Calendar
+**PDF:** [A3679A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3679A)
 
 ## Summary
 

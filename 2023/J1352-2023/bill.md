@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** Adopted
+**PDF:** [J1352 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1352)
 
 ---
 

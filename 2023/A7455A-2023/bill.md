@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** In Assembly Committee
+**PDF:** [A7455A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7455A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** In Senate Committee
+**PDF:** [S3593A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3593A)
 
 ## Summary
 

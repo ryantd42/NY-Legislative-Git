@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Sarah Clark
 **Status:** Signed by Governor
+**PDF:** [A3305B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3305B)
 
 ## Summary
 

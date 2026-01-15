@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** Adopted
+**PDF:** [J1884 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1884)
 
 ---
 

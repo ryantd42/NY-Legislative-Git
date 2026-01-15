@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Weber
 **Status:** Signed by Governor
+**PDF:** [S6624B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6624B)
 
 ## Summary
 

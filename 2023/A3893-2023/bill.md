@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Taylor Darling
 **Status:** In Assembly Committee
+**PDF:** [A3893 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3893)
 
 ## Summary
 

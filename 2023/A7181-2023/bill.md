@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** In Assembly Committee
+**PDF:** [A7181 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7181)
 
 ## Summary
 

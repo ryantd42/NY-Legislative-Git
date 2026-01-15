@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** In Senate Committee
+**PDF:** [J771 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J771)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin Thomas
 **Status:** Adopted
+**PDF:** [J593 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J593)
 
 ---
 

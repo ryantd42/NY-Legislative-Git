@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Maritza Davila
 **Status:** In Assembly Committee
+**PDF:** [A9807 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9807)
 
 ## Summary
 

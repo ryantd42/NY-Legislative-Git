@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** Adopted
+**PDF:** [J2427 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2427)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dan Stec
 **Status:** Senate Floor Calendar
+**PDF:** [S7687A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7687A)
 
 ## Summary
 

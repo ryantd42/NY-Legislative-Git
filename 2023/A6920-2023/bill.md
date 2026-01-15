@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** Assembly Floor Calendar
+**PDF:** [A6920 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6920)
 
 ## Summary
 

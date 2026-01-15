@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Senate Floor Calendar
+**PDF:** [S5372A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5372A)
 
 ## Summary
 

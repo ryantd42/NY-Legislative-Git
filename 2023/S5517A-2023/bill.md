@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** In Senate Committee
+**PDF:** [S5517A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5517A)
 
 ## Summary
 

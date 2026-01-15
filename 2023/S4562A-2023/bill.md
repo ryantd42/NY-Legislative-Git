@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** In Senate Committee
+**PDF:** [S4562A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4562A)
 
 ## Summary
 

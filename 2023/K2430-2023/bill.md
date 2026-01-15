@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Phara Souffrant Forrest
 **Status:** Adopted
+**PDF:** [K2430 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2430)
 
 ---
 

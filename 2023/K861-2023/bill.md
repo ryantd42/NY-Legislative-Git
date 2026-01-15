@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stephen Hawley
 **Status:** Adopted
+**PDF:** [K861 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K861)
 
 ---
 

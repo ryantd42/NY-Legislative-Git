@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** Senate Floor Calendar
+**PDF:** [S8040 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8040)
 
 ## Summary
 

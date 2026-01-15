@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marcela Mitaynes
 **Status:** Assembly Floor Calendar
+**PDF:** [A7764 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7764)
 
 ## Summary
 

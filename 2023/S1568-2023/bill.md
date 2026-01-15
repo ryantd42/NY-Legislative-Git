@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Julia Salazar
 **Status:** In Senate Committee
+**PDF:** [S1568 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1568)
 
 ## Summary
 

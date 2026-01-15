@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** In Senate Committee
+**PDF:** [S8980A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8980A)
 
 ## Summary
 

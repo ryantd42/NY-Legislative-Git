@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nikki Lucas
 **Status:** Signed by Governor
+**PDF:** [A10141 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10141)
 
 ## Summary
 

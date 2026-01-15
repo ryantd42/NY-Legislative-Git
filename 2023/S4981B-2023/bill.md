@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** Senate Floor Calendar
+**PDF:** [S4981B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4981B)
 
 ## Summary
 

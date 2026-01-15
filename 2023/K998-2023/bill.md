@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Durso
 **Status:** Adopted
+**PDF:** [K998 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K998)
 
 ---
 

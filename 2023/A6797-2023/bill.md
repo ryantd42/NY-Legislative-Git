@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Didi Barrett
 **Status:** In Assembly Committee
+**PDF:** [A6797 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6797)
 
 ## Summary
 

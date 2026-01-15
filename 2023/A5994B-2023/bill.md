@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Taylor Darling
 **Status:** Signed by Governor
+**PDF:** [A5994B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5994B)
 
 ## Summary
 

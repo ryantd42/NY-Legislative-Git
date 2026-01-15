@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Gonzalez-Rojas
 **Status:** Adopted
+**PDF:** [K590 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K590)
 
 ---
 

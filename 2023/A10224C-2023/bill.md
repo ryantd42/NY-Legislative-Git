@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Tony Simone
 **Status:** Assembly Floor Calendar
+**PDF:** [A10224C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10224C)
 
 ## Summary
 

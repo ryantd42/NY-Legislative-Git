@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stephen Hawley
 **Status:** In Assembly Committee
+**PDF:** [A1832 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1832)
 
 ## Summary
 

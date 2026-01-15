@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Blankenbush
 **Status:** Adopted
+**PDF:** [K940 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K940)
 
 ---
 

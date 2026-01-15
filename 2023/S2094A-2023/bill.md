@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anthony H. Palumbo
 **Status:** Signed by Governor
+**PDF:** [S2094A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2094A)
 
 ## Summary
 

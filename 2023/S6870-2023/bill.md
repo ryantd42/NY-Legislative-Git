@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Peter Oberacker
 **Status:** In Senate Committee
+**PDF:** [S6870 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6870)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph A. Griffo
 **Status:** In Senate Committee
+**PDF:** [S3274 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3274)
 
 ## Summary
 

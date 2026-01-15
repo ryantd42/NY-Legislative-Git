@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** Adopted
+**PDF:** [J1606 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1606)
 
 ---
 

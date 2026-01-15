@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Al Taylor
 **Status:** Assembly Floor Calendar
+**PDF:** [A7357 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7357)
 
 ## Summary
 

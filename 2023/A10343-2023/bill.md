@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David Weprin
 **Status:** Vetoed
+**PDF:** [A10343 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10343)
 
 ## Summary
 

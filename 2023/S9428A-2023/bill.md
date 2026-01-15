@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Signed by Governor
+**PDF:** [S9428A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9428A)
 
 ## Summary
 

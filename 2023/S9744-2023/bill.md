@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** In Assembly Committee
+**PDF:** [S9744 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9744)
 
 ## Summary
 

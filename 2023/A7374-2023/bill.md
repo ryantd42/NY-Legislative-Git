@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Assembly Floor Calendar
+**PDF:** [A7374 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7374)
 
 ## Summary
 

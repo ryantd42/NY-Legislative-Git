@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe Angelino
 **Status:** Adopted
+**PDF:** [K2076 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2076)
 
 ---
 

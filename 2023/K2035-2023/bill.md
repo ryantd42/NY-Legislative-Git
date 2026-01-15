@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica P. Wallace
 **Status:** Adopted
+**PDF:** [K2035 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2035)
 
 ---
 

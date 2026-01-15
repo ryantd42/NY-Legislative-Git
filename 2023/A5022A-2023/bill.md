@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel O'Donnell
 **Status:** Signed by Governor
+**PDF:** [A5022A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5022A)
 
 ## Summary
 

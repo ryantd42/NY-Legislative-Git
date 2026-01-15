@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** Adopted
+**PDF:** [J2568 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2568)
 
 ---
 

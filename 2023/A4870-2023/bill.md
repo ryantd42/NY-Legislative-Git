@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** In Assembly Committee
+**PDF:** [A4870 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4870)
 
 ## Summary
 

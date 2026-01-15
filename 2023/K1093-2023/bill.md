@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Adopted
+**PDF:** [K1093 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1093)
 
 ---
 

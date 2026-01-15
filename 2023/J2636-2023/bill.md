@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph A. Griffo
 **Status:** Adopted
+**PDF:** [J2636 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2636)
 
 ---
 

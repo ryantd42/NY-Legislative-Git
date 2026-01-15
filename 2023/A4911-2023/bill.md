@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anna Kelles
 **Status:** Assembly Floor Calendar
+**PDF:** [A4911 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4911)
 
 ## Summary
 

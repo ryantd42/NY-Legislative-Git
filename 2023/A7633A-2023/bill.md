@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Maher
 **Status:** Assembly Floor Calendar
+**PDF:** [A7633A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7633A)
 
 ## Summary
 

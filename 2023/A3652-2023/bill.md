@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** J. Gary Pretlow
 **Status:** Assembly Floor Calendar
+**PDF:** [A3652 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3652)
 
 ## Summary
 

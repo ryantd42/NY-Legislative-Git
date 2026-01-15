@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ryan Blumencranz
 **Status:** Signed by Governor
+**PDF:** [A6129A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6129A)
 
 ## Summary
 

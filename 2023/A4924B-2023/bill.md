@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joe Angelino
 **Status:** Signed by Governor
+**PDF:** [A4924B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4924B)
 
 ## Summary
 

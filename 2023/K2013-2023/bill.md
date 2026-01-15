@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Palmesano
 **Status:** Adopted
+**PDF:** [K2013 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2013)
 
 ---
 

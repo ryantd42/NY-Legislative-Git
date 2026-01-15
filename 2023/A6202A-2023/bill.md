@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Maher
 **Status:** Signed by Governor
+**PDF:** [A6202A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6202A)
 
 ## Summary
 

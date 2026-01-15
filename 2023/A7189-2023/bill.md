@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Erik Dilan
 **Status:** Signed by Governor
+**PDF:** [A7189 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7189)
 
 ## Summary
 

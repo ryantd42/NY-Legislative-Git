@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harry B. Bronson
 **Status:** Assembly Floor Calendar
+**PDF:** [A6142A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6142A)
 
 ## Summary
 

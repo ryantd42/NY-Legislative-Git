@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karl Brabenec
 **Status:** Adopted
+**PDF:** [K113 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K113)
 
 ---
 

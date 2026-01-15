@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** Assembly Floor Calendar
+**PDF:** [A6098 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6098)
 
 ## Summary
 

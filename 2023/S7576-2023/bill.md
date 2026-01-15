@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Jackson
 **Status:** Signed by Governor
+**PDF:** [S7576 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7576)
 
 ## Summary
 

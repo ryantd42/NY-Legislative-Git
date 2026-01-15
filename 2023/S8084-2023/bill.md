@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jabari Brisport
 **Status:** Senate Floor Calendar
+**PDF:** [S8084 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8084)
 
 ## Summary
 

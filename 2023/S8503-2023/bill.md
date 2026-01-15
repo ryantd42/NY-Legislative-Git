@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ashby
 **Status:** In Senate Committee
+**PDF:** [S8503 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8503)
 
 ## Summary
 

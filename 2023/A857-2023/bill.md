@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eddie Gibbs
 **Status:** In Assembly Committee
+**PDF:** [A857 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A857)
 
 ## Summary
 

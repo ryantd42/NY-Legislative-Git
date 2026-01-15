@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** Vetoed
+**PDF:** [A4219 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4219)
 
 ## Summary
 

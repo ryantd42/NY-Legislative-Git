@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** Adopted
+**PDF:** [K1004 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1004)
 
 ---
 

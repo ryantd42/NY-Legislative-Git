@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Senate Floor Calendar
+**PDF:** [S6640B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6640B)
 
 ## Summary
 

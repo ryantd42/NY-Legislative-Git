@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Braunstein
 **Status:** In Senate Committee
+**PDF:** [A1194A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1194A)
 
 ## Summary
 

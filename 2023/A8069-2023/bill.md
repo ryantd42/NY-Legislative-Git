@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott Gray
 **Status:** Stricken
+**PDF:** [A8069 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8069)
 
 ## Summary
 

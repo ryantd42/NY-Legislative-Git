@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** Signed by Governor
+**PDF:** [S1346 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1346)
 
 ## Summary
 

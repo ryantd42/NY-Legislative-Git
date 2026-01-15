@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Unknown
 **Status:** Assembly Floor Calendar
+**PDF:** [A3008C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3008C)
 
 ## Summary
 

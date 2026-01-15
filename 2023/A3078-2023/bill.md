@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nader Sayegh
 **Status:** Stricken
+**PDF:** [A3078 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3078)
 
 ## Summary
 

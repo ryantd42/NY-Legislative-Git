@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** Senate Floor Calendar
+**PDF:** [S15A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S15A)
 
 ## Summary
 

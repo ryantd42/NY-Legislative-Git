@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** In Assembly Committee
+**PDF:** [S6688A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6688A)
 
 ## Summary
 

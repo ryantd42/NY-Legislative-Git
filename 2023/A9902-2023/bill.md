@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** Assembly Floor Calendar
+**PDF:** [A9902 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9902)
 
 ## Summary
 

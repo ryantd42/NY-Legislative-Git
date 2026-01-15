@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marjorie Byrnes
 **Status:** Assembly Floor Calendar
+**PDF:** [A8882 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8882)
 
 ## Summary
 

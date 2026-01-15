@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kevin S. Parker
 **Status:** Senate Floor Calendar
+**PDF:** [S2225 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2225)
 
 ## Summary
 

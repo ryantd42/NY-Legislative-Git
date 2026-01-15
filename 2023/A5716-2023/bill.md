@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stacey Pheffer Amato
 **Status:** Vetoed
+**PDF:** [A5716 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5716)
 
 ## Summary
 

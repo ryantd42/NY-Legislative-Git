@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** Signed by Governor
+**PDF:** [S7586A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7586A)
 
 ## Summary
 

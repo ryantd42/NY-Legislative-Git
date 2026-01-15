@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Ramos
 **Status:** Signed by Governor
+**PDF:** [S5081C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5081C)
 
 ## Summary
 

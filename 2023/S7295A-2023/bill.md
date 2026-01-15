@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** Vetoed
+**PDF:** [S7295A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7295A)
 
 ## Summary
 

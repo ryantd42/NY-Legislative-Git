@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lea Webb
 **Status:** Vetoed
+**PDF:** [S3605 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3605)
 
 ## Summary
 

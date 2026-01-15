@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Smullen
 **Status:** In Assembly Committee
+**PDF:** [A9353 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9353)
 
 ## Summary
 

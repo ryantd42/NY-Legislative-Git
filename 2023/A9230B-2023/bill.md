@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica P. Wallace
 **Status:** Assembly Floor Calendar
+**PDF:** [A9230B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9230B)
 
 ## Summary
 

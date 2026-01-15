@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kristen Gonzalez
 **Status:** Signed by Governor
+**PDF:** [S9678B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9678B)
 
 ## Summary
 

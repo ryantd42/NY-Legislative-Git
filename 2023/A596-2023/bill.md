@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amy Paulin
 **Status:** Stricken
+**PDF:** [A596 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A596)
 
 ## Summary
 

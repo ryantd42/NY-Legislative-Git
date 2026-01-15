@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Helene Weinstein
 **Status:** Signed by Governor
+**PDF:** [A9771 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9771)
 
 ## Summary
 

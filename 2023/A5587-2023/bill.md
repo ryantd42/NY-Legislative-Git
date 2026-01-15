@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica P. Wallace
 **Status:** Vetoed
+**PDF:** [A5587 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5587)
 
 ## Summary
 

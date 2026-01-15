@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Signed by Governor
+**PDF:** [A1395C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1395C)
 
 ## Summary
 

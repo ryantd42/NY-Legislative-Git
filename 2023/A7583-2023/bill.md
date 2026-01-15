@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo Santabarbara
 **Status:** Stricken
+**PDF:** [A7583 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7583)
 
 ## Summary
 

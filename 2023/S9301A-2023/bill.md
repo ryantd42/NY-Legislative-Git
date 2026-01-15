@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Passed Senate
+**PDF:** [S9301A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9301A)
 
 ## Summary
 

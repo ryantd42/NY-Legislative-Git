@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chantel Jackson
 **Status:** In Assembly Committee
+**PDF:** [A4017A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4017A)
 
 ## Summary
 

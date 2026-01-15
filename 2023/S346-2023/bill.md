@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** Assembly Floor Calendar
+**PDF:** [S346 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S346)
 
 ## Summary
 

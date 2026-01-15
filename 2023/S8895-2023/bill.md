@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Cordell Cleare
 **Status:** Senate Floor Calendar
+**PDF:** [S8895 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8895)
 
 ## Summary
 

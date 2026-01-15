@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela Helming
 **Status:** Vetoed
+**PDF:** [S3587A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3587A)
 
 ## Summary
 

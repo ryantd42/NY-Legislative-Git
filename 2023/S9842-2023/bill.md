@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brad Hoylman-Sigal
 **Status:** Signed by Governor
+**PDF:** [S9842 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9842)
 
 ## Summary
 

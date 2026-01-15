@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** Assembly Floor Calendar
+**PDF:** [S6342A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6342A)
 
 ## Summary
 

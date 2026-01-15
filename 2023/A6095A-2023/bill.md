@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David DiPietro
 **Status:** Signed by Governor
+**PDF:** [A6095A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6095A)
 
 ## Summary
 

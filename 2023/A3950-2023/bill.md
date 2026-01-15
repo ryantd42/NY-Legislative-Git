@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Al Taylor
 **Status:** In Assembly Committee
+**PDF:** [A3950 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3950)
 
 ## Summary
 

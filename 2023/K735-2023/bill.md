@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mary Beth Walsh
 **Status:** Adopted
+**PDF:** [K735 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K735)
 
 ---
 

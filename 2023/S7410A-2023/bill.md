@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jack M. Martins
 **Status:** Vetoed
+**PDF:** [S7410A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7410A)
 
 ## Summary
 

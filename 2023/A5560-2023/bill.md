@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Keith Brown
 **Status:** In Assembly Committee
+**PDF:** [A5560 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5560)
 
 ## Summary
 

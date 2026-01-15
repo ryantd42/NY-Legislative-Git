@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Edward Ra
 **Status:** Signed by Governor
+**PDF:** [A1008 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1008)
 
 ## Summary
 

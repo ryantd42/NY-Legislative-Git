@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** In Assembly Committee
+**PDF:** [A3730 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3730)
 
 ## Summary
 

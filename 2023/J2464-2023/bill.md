@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** Adopted
+**PDF:** [J2464 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2464)
 
 ---
 

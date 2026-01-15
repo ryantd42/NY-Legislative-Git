@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Cunningham
 **Status:** Signed by Governor
+**PDF:** [A4098B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4098B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jenifer Rajkumar
 **Status:** Stricken
+**PDF:** [A8343 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8343)
 
 ## Summary
 

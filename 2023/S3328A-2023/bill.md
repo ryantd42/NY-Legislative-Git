@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** In Assembly Committee
+**PDF:** [S3328A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3328A)
 
 ## Summary
 

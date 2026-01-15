@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Amanda Septimo
 **Status:** Assembly Floor Calendar
+**PDF:** [A6637 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6637)
 
 ## Summary
 

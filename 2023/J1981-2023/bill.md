@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** In Senate Committee
+**PDF:** [J1981 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1981)
 
 ---
 

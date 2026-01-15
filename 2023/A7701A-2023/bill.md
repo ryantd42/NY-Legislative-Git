@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** Vetoed
+**PDF:** [A7701A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7701A)
 
 ## Summary
 

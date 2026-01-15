@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** José M. Serrano
 **Status:** Vetoed
+**PDF:** [S7807A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7807A)
 
 ## Summary
 

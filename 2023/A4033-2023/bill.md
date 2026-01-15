@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Simpson
 **Status:** Signed by Governor
+**PDF:** [A4033 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4033)
 
 ## Summary
 

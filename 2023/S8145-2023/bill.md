@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Timothy M. Kennedy
 **Status:** Signed by Governor
+**PDF:** [S8145 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8145)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Adopted
+**PDF:** [K660 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K660)
 
 ---
 

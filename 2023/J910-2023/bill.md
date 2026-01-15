@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Adopted
+**PDF:** [J910 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J910)
 
 ---
 

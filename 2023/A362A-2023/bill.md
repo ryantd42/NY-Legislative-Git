@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harry B. Bronson
 **Status:** Signed by Governor
+**PDF:** [A362A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A362A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mary Beth Walsh
 **Status:** Assembly Floor Calendar
+**PDF:** [A10037A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10037A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Dean Murray
 **Status:** Signed by Governor
+**PDF:** [S7707A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7707A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Al Taylor
 **Status:** Signed by Governor
+**PDF:** [A9770 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9770)
 
 ## Summary
 

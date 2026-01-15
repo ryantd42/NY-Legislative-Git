@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeff Gallahan
 **Status:** Assembly Floor Calendar
+**PDF:** [A4051B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4051B)
 
 ## Summary
 

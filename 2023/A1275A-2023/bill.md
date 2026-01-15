@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Colton
 **Status:** Stricken
+**PDF:** [A1275A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1275A)
 
 ## Summary
 

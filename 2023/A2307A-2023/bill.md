@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Donna Lupardo
 **Status:** Vetoed
+**PDF:** [A2307A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2307A)
 
 ## Summary
 

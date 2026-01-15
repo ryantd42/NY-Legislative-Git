@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jodi Giglio
 **Status:** In Assembly Committee
+**PDF:** [A2641 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2641)
 
 ## Summary
 

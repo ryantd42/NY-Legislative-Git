@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** Signed by Governor
+**PDF:** [S2519 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2519)
 
 ## Summary
 

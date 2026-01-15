@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Charles Fall
 **Status:** In Assembly Committee
+**PDF:** [A7807 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7807)
 
 ## Summary
 

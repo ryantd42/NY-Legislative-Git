@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** In Assembly Committee
+**PDF:** [K137 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K137)
 
 ---
 

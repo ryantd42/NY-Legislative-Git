@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** MaryJane Shimsky
 **Status:** Assembly Floor Calendar
+**PDF:** [A10532 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10532)
 
 ## Summary
 

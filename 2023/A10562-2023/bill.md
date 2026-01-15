@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Philip Ramos
 **Status:** Assembly Floor Calendar
+**PDF:** [A10562 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10562)
 
 ## Summary
 

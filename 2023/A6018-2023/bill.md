@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** MaryJane Shimsky
 **Status:** In Assembly Committee
+**PDF:** [A6018 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6018)
 
 ## Summary
 

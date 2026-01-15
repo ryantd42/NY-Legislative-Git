@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harry B. Bronson
 **Status:** Stricken
+**PDF:** [A363 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A363)
 
 ## Summary
 

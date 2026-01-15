@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** Adopted
+**PDF:** [K332 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K332)
 
 ---
 

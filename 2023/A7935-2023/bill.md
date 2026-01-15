@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ryan Blumencranz
 **Status:** In Assembly Committee
+**PDF:** [A7935 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7935)
 
 ## Summary
 

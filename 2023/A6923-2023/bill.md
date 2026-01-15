@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John W. McGowan
 **Status:** Stricken
+**PDF:** [A6923 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6923)
 
 ## Summary
 

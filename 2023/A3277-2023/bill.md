@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anil Beephan Jr.
 **Status:** Stricken
+**PDF:** [A3277 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3277)
 
 ## Summary
 

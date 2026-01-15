@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karl Brabenec
 **Status:** Assembly Floor Calendar
+**PDF:** [A7458C PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7458C)
 
 ## Summary
 

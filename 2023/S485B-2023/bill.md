@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Leroy Comrie
 **Status:** Vetoed
+**PDF:** [S485B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S485B)
 
 ## Summary
 

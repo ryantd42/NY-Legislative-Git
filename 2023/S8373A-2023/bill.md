@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** Signed by Governor
+**PDF:** [S8373A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8373A)
 
 ## Summary
 

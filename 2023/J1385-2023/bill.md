@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Thomas F. O'Mara
 **Status:** In Senate Committee
+**PDF:** [J1385 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1385)
 
 ---
 

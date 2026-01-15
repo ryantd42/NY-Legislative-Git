@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** In Senate Committee
+**PDF:** [S3051 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3051)
 
 ## Summary
 

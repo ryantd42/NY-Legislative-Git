@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jonathan Rivera
 **Status:** In Senate Committee
+**PDF:** [A1687 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1687)
 
 ## Summary
 

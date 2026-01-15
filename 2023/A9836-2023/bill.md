@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William A. Barclay
 **Status:** Assembly Floor Calendar
+**PDF:** [A9836 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9836)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian D. Miller
 **Status:** In Assembly Committee
+**PDF:** [A7894 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7894)
 
 ## Summary
 

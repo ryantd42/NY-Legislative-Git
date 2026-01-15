@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Clyde Vanel
 **Status:** Assembly Floor Calendar
+**PDF:** [A10103B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10103B)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Karen McMahon
 **Status:** Signed by Governor
+**PDF:** [A7383 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7383)
 
 ## Summary
 

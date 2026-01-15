@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Luis R. Sepúlveda
 **Status:** In Senate Committee
+**PDF:** [S8522A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8522A)
 
 ## Summary
 

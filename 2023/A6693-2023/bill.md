@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** MaryJane Shimsky
 **Status:** Signed by Governor
+**PDF:** [A6693 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6693)
 
 ## Summary
 

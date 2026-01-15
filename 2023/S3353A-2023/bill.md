@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Senate Floor Calendar
+**PDF:** [S3353A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S3353A)
 
 ## Summary
 

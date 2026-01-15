@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel O'Donnell
 **Status:** Stricken
+**PDF:** [A4788 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4788)
 
 ## Summary
 

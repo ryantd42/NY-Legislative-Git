@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Al Taylor
 **Status:** Adopted
+**PDF:** [K2396 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2396)
 
 ---
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jake Ashby
 **Status:** Senate Floor Calendar
+**PDF:** [S5962 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5962)
 
 ## Summary
 

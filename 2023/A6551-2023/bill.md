@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Conrad
 **Status:** Signed by Governor
+**PDF:** [A6551 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6551)
 
 ## Summary
 

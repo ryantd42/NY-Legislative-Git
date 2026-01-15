@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Stricken
+**PDF:** [S1500 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1500)
 
 ## Summary
 

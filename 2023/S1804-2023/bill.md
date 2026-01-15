@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Vetoed
+**PDF:** [S1804 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1804)
 
 ## Summary
 

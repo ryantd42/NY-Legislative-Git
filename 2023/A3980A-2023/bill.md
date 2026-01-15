@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chantel Jackson
 **Status:** In Senate Committee
+**PDF:** [A3980A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A3980A)
 
 ## Summary
 

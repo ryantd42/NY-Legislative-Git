@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Rachel May
 **Status:** Adopted
+**PDF:** [J2379 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2379)
 
 ---
 

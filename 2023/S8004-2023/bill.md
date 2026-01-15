@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Skoufis
 **Status:** Signed by Governor
+**PDF:** [S8004 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8004)
 
 ## Summary
 

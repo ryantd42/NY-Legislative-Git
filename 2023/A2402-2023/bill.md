@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marjorie Byrnes
 **Status:** In Assembly Committee
+**PDF:** [A2402 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2402)
 
 ## Summary
 

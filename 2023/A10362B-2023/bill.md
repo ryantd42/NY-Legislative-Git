@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monica P. Wallace
 **Status:** Signed by Governor
+**PDF:** [A10362B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10362B)
 
 ## Summary
 

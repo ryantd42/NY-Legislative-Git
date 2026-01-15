@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Andrew Gounardes
 **Status:** Senate Floor Calendar
+**PDF:** [S9174B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9174B)
 
 ## Summary
 

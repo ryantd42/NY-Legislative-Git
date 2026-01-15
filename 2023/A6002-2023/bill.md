@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Stephen Hawley
 **Status:** Stricken
+**PDF:** [A6002 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6002)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Roxanne J. Persaud
 **Status:** In Senate Committee
+**PDF:** [S2379A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2379A)
 
 ## Summary
 

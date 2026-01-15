@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Neil D. Breslin
 **Status:** Adopted
+**PDF:** [J176 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J176)
 
 ---
 

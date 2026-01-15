@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William Magnarelli
 **Status:** Vetoed
+**PDF:** [A4796A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4796A)
 
 ## Summary
 

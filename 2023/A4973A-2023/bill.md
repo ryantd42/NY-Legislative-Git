@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Khaleel Anderson
 **Status:** Assembly Floor Calendar
+**PDF:** [A4973A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4973A)
 
 ## Summary
 

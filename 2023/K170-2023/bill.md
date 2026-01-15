@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** Adopted
+**PDF:** [K170 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K170)
 
 ---
 

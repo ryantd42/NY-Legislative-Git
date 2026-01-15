@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenneth Zebrowski
 **Status:** Stricken
+**PDF:** [A9256 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9256)
 
 ## Summary
 

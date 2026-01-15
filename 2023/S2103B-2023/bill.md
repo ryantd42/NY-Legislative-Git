@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Vetoed
+**PDF:** [S2103B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2103B)
 
 ## Summary
 

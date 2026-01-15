@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Anil Beephan Jr.
 **Status:** Adopted
+**PDF:** [K93 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K93)
 
 ---
 

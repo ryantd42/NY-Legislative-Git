@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Nathalia Fernandez
 **Status:** Adopted
+**PDF:** [J1121 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J1121)
 
 ---
 

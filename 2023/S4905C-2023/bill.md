@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** In Senate Committee
+**PDF:** [S4905C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4905C)
 
 ## Summary
 

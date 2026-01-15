@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** Stricken
+**PDF:** [S8447A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8447A)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monique Chandler-Waterman
 **Status:** Assembly Floor Calendar
+**PDF:** [A8569 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8569)
 
 ## Summary
 

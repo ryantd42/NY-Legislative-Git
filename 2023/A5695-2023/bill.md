@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Tannousis
 **Status:** Assembly Floor Calendar
+**PDF:** [A5695 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5695)
 
 ## Summary
 

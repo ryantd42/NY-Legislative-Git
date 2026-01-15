@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Norris
 **Status:** Assembly Floor Calendar
+**PDF:** [A5324 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5324)
 
 ## Summary
 

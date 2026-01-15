@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Toby Ann Stavisky
 **Status:** Signed by Governor
+**PDF:** [S2473A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2473A)
 
 ## Summary
 

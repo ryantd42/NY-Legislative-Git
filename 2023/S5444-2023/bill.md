@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jessica Scarcella-Spanton
 **Status:** Signed by Governor
+**PDF:** [S5444 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5444)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Monique Chandler-Waterman
 **Status:** Adopted
+**PDF:** [K2382 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2382)
 
 ---
 

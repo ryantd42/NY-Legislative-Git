@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Manny De Los Santos
 **Status:** In Assembly Committee
+**PDF:** [A8111A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A8111A)
 
 ## Summary
 

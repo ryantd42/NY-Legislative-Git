@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michaelle C. Solages
 **Status:** Stricken
+**PDF:** [A5645 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5645)
 
 ## Summary
 

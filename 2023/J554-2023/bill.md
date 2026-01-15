@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Zellnor Myrie
 **Status:** Adopted
+**PDF:** [J554 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J554)
 
 ---
 

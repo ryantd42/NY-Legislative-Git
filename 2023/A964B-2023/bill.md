@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Carrie Woerner
 **Status:** In Assembly Committee
+**PDF:** [A964B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A964B)
 
 ## Summary
 

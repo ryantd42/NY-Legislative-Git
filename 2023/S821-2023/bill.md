@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pete Harckham
 **Status:** Signed by Governor
+**PDF:** [S821 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S821)
 
 ## Summary
 

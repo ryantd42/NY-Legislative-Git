@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** In Assembly Committee
+**PDF:** [A1813 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A1813)
 
 ## Summary
 

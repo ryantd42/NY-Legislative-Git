@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Catalina Cruz
 **Status:** Adopted
+**PDF:** [K586 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K586)
 
 ---
 

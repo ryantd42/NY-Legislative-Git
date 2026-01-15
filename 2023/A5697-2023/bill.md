@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Didi Barrett
 **Status:** Signed by Governor
+**PDF:** [A5697 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5697)
 
 ## Summary
 

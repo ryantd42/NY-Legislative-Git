@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Scott Gray
 **Status:** Assembly Floor Calendar
+**PDF:** [A5128A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5128A)
 
 ## Summary
 

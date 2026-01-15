@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Linda Rosenthal
 **Status:** In Assembly Committee
+**PDF:** [A10716 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A10716)
 
 ## Summary
 

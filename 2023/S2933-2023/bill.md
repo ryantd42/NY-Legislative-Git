@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Gustavo Rivera
 **Status:** In Assembly Committee
+**PDF:** [S2933 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S2933)
 
 ## Summary
 

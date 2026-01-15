@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** William A. Barclay
 **Status:** In Assembly Committee
+**PDF:** [A5225 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5225)
 
 ## Summary
 

@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kimberly Jean-Pierre
 **Status:** Adopted
+**PDF:** [K148 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K148)
 
 ---
 

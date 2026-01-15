@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Iwen Chu
 **Status:** Senate Floor Calendar
+**PDF:** [S6951 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S6951)
 
 ## Summary
 

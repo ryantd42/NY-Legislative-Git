@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Alicia Hyndman
 **Status:** Stricken
+**PDF:** [A5961 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5961)
 
 ## Summary
 

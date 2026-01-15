@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael J. Norris
 **Status:** In Assembly Committee
+**PDF:** [A5271 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5271)
 
 ## Summary
 

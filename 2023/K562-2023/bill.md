@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harvey Epstein
 **Status:** Adopted
+**PDF:** [K562 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K562)
 
 ---
 

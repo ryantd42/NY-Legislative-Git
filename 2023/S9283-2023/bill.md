@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Brian Kavanagh
 **Status:** Senate Floor Calendar
+**PDF:** [S9283 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9283)
 
 ## Summary
 

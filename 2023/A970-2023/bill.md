@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Aileen Gunther
 **Status:** Signed by Governor
+**PDF:** [A970 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A970)
 
 ## Summary
 

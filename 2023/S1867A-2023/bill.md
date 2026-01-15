@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Samra Brouk
 **Status:** Senate Floor Calendar
+**PDF:** [S1867A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S1867A)
 
 ## Summary
 

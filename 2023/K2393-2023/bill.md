@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Harry B. Bronson
 **Status:** Adopted
+**PDF:** [K2393 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2393)
 
 ---
 

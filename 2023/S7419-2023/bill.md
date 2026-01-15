@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** Signed by Governor
+**PDF:** [S7419 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7419)
 
 ## Summary
 

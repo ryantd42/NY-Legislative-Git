@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert Ortt
 **Status:** In Senate Committee
+**PDF:** [S8691A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8691A)
 
 ## Summary
 

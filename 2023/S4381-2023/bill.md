@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Mark Walczyk
 **Status:** In Senate Committee
+**PDF:** [S4381 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4381)
 
 ## Summary
 

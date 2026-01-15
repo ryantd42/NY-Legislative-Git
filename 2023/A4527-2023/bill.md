@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David DiPietro
 **Status:** Stricken
+**PDF:** [A4527 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4527)
 
 ## Summary
 

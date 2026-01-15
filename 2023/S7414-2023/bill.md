@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kristen Gonzalez
 **Status:** Senate Floor Calendar
+**PDF:** [S7414 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7414)
 
 ## Summary
 

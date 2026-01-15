@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Joseph P. Addabbo Jr.
 **Status:** Adopted
+**PDF:** [J2399 PDF](https://legislation.nysenate.gov/pdf/bills/2023/J2399)
 
 ---
 

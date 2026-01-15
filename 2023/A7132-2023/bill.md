@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Chris Tague
 **Status:** In Assembly Committee
+**PDF:** [A7132 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7132)
 
 ## Summary
 

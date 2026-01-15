@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Slater
 **Status:** Assembly Floor Calendar
+**PDF:** [A9273B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9273B)
 
 ## Summary
 

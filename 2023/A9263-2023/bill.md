@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David DiPietro
 **Status:** Assembly Floor Calendar
+**PDF:** [A9263 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9263)
 
 ## Summary
 

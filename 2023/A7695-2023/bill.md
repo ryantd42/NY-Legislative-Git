@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Matthew Slater
 **Status:** Stricken
+**PDF:** [A7695 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7695)
 
 ## Summary
 

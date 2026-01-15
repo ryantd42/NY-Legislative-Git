@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Thomas F. O'Mara
 **Status:** Signed by Governor
+**PDF:** [S5611A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S5611A)
 
 ## Summary
 

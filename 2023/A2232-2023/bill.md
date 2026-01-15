@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Daniel O'Donnell
 **Status:** In Assembly Committee
+**PDF:** [A2232 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2232)
 
 ## Summary
 

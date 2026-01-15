@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michelle Hinchey
 **Status:** Signed by Governor
+**PDF:** [S8486C PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8486C)
 
 ## Summary
 

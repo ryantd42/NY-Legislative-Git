@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Otis
 **Status:** Adopted
+**PDF:** [K2080 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K2080)
 
 ---
 

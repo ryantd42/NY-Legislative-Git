@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Angelo J. Morinello
 **Status:** Assembly Floor Calendar
+**PDF:** [A2216 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A2216)
 
 ## Summary
 

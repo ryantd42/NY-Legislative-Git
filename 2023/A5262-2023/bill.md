@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Lester Chang
 **Status:** In Assembly Committee
+**PDF:** [A5262 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5262)
 
 ## Summary
 

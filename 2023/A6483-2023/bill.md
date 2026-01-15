@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** David Weprin
 **Status:** In Assembly Committee
+**PDF:** [A6483 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6483)
 
 ## Summary
 

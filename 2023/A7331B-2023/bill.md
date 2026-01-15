@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Steven Otis
 **Status:** Assembly Floor Calendar
+**PDF:** [A7331B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7331B)
 
 ## Summary
 

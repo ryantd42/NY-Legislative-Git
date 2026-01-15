@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Marianne Buttenschon
 **Status:** Stricken
+**PDF:** [A7934 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A7934)
 
 ## Summary
 

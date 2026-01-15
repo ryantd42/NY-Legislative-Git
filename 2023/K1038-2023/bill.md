@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Josh Jensen
 **Status:** Adopted
+**PDF:** [K1038 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K1038)
 
 ---
 

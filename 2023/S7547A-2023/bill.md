@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** James Tedisco
 **Status:** Assembly Floor Calendar
+**PDF:** [S7547A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7547A)
 
 ## Summary
 

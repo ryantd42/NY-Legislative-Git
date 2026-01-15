@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Kenny Burgos
 **Status:** Stricken
+**PDF:** [A6938 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6938)
 
 ## Summary
 

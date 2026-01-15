@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Shelley Mayer
 **Status:** In Assembly Committee
+**PDF:** [S8834 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S8834)
 
 ## Summary
 

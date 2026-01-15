@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Michael Gianaris
 **Status:** Assembly Floor Calendar
+**PDF:** [S7416B PDF](https://legislation.nysenate.gov/pdf/bills/2023/S7416B)
 
 ## Summary
 

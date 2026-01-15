@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Iwen Chu
 **Status:** In Assembly Committee
+**PDF:** [S9645A PDF](https://legislation.nysenate.gov/pdf/bills/2023/S9645A)
 
 ## Summary
 

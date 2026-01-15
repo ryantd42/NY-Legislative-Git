@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Jeffrey Dinowitz
 **Status:** Vetoed
+**PDF:** [A4899 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A4899)
 
 ## Summary
 

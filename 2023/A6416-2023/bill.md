@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Eric Brown
 **Status:** In Assembly Committee
+**PDF:** [A6416 PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6416)
 
 ## Summary
 

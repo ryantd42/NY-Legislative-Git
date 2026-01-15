@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Robert C. Carroll
 **Status:** Signed by Governor
+**PDF:** [A6113B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A6113B)
 
 ## Summary
 

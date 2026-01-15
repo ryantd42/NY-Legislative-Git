@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Tony Simone
 **Status:** Vetoed
+**PDF:** [A9354B PDF](https://legislation.nysenate.gov/pdf/bills/2023/A9354B)
 
 ## Summary
 

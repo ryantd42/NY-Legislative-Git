@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Pamela J. Hunter
 **Status:** Assembly Floor Calendar
+**PDF:** [A5248A PDF](https://legislation.nysenate.gov/pdf/bills/2023/A5248A)
 
 ## Summary
 

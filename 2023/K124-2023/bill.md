@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** John T. McDonald III
 **Status:** Adopted
+**PDF:** [K124 PDF](https://legislation.nysenate.gov/pdf/bills/2023/K124)
 
 ---
 

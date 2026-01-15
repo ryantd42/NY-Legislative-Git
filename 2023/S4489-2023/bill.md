@@ -4,6 +4,7 @@
 **Session:** 2023
 **Sponsor:** Patrick M. Gallivan
 **Status:** In Senate Committee
+**PDF:** [S4489 PDF](https://legislation.nysenate.gov/pdf/bills/2023/S4489)
 
 ## Summary
 
