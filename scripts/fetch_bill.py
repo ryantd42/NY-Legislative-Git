@@ -116,18 +116,41 @@ class ProgressTracker:
 class BillFetcher:
     """Handles fetching bill data from the NYS Senate Open Legislation API."""
     
-    def __init__(self, rate_limit: float = 2.0, progress_file: str = "progress.txt"):
+    def __init__(self, rate_limit: float = 2.0, progress_file: str = "progress.txt", repo_root: Optional[Path] = None):
         """
         Initialize the BillFetcher with configuration.
         
         Args:
             rate_limit: Maximum requests per second (default: 2.0)
             progress_file: Path to progress tracking file (default: "progress.txt")
+            repo_root: Repository root directory. If None, auto-detects from .git folder.
         """
         self.base_url = Config.SENATE_API_BASE_URL
         self.headers = Config.get_senate_headers()
         self.rate_limiter = RateLimiter(max_requests_per_second=rate_limit)
-        self.progress_tracker = ProgressTracker(progress_file=progress_file)
+        
+        # Auto-detect repo root if not provided
+        if repo_root is None:
+            # Find .git directory by walking up from current directory
+            current = Path.cwd()
+            while current != current.parent:
+                if (current / ".git").exists():
+                    repo_root = current
+                    break
+                current = current.parent
+            else:
+                # Fallback to current directory if .git not found
+                repo_root = Path.cwd()
+        
+        self.repo_root = Path(repo_root).resolve()
+        
+        # Progress file should be relative to repo root
+        if Path(progress_file).is_absolute():
+            self.progress_file = progress_file
+        else:
+            self.progress_file = str(self.repo_root / progress_file)
+        
+        self.progress_tracker = ProgressTracker(self.progress_file)
     
     def fetch_bill(self, bill_id: str, session_year: Optional[int] = None) -> Optional[Dict]:
         """
@@ -806,152 +829,39 @@ class BillFetcher:
         Get the file path for a bill based on its ID and session year.
         
         Bills are organized by year in a top-level folder (e.g., 2023/S04609.md)
+        Paths are always relative to the repository root.
         
         Args:
             bill_id: The bill identifier (e.g., 'S04609')
             session_year: Optional session year to include as top-level folder
             
         Returns:
-            Path: Path to the bill file (e.g., 2023/S04609.md)
+            Path: Path to the bill file relative to repo root (e.g., 2023/S04609.md)
         """
         # Sanitize bill_id for filesystem (remove any invalid characters)
         safe_bill_id = re.sub(r'[<>:"/\\|?*]', '_', bill_id)
         
         # Create path with year as top-level folder: 2023/S04609.md
+        # Always relative to repo root
         if session_year:
-            return Path(str(session_year)) / f"{safe_bill_id}.md"
+            return self.repo_root / str(session_year) / f"{safe_bill_id}.md"
         else:
             # If no session year, just use bill ID
-            return Path(f"{safe_bill_id}.md")
-    
-    def download_bill_pdf(
-        self, 
-        bill_id: str, 
-        session_year: Optional[int] = None,
-        bill_dir: Optional[Path] = None
-    ) -> Optional[Path]:
-        """
-        Download the original PDF of a bill from the NYS Senate website.
-        
-        According to the official API documentation:
-        https://legislation.nysenate.gov/static/docs/html/bills.html#get-pdf-of-bill-text
-        
-        The PDF is available at: /pdf/bills/{sessionYear}/{printNo}
-        
-        Args:
-            bill_id: The bill identifier (e.g., 'S04609')
-            session_year: The legislative session year (e.g., 2023)
-            bill_dir: Optional directory to save the PDF in. If None, uses get_bill_file_path
-            
-        Returns:
-            Path: Path to the downloaded PDF file, or None if download failed
-        """
-        if session_year is None:
-            from datetime import datetime
-            session_year = datetime.now().year
-        
-        # Construct PDF URL according to official API documentation
-        # Reference: https://legislation.nysenate.gov/static/docs/html/bills.html#get-pdf-of-bill-text
-        # Format: https://legislation.nysenate.gov/pdf/bills/{sessionYear}/{printNo}
-        pdf_url = f"https://legislation.nysenate.gov/pdf/bills/{session_year}/{bill_id}"
-        
-        # Note: PDFs are no longer downloaded, but this method is kept for compatibility
-        # Get the bill directory (for legacy support)
-        if bill_dir is None:
-            # Use the year directory
-            if session_year:
-                bill_dir = Path(str(session_year))
-            else:
-                bill_dir = Path(".")
-        
-        # Create directory if it doesn't exist
-        bill_dir.mkdir(exist_ok=True)
-        
-        # Create PDF file path (not used anymore, but kept for compatibility)
-        pdf_file = bill_dir / "bill.pdf"
-        
-        max_retries = 3
-        retry_delay = 1
-        response = None
-        
-        for attempt in range(max_retries):
-            try:
-                # Apply rate limiting
-                self.rate_limiter.wait_if_needed()
-                
-                # Download the PDF
-                # Note: PDF endpoint may not require API key, but include it if available
-                params = {}
-                if Config.SENATE_API_KEY:
-                    params['key'] = Config.SENATE_API_KEY
-                
-                response = requests.get(
-                    pdf_url,
-                    params=params,
-                    headers=self.headers,
-                    timeout=30,
-                    stream=True  # Stream for large files
-                )
-                
-                # Handle rate limiting (HTTP 429)
-                if response.status_code == 429:
-                    retry_after = int(response.headers.get('Retry-After', retry_delay * (2 ** attempt)))
-                    print(f"Rate limited (429) for PDF {bill_id}! Waiting {retry_after} seconds before retry {attempt + 1}/{max_retries}...")
-                    time.sleep(retry_after)
-                    continue  # Retry the request
-                
-                # Check if the response is actually a PDF
-                content_type = response.headers.get('Content-Type', '')
-                if 'pdf' not in content_type.lower() and response.status_code != 200:
-                    print(f"Warning: PDF download returned status {response.status_code} or non-PDF content type: {content_type}")
-                    return None
-                
-                # Success - break out of retry loop
-                break
-                
-            except requests.exceptions.RequestException as e:
-                if attempt == max_retries - 1:
-                    # Last attempt failed - sanitize and return None
-                    error_msg = str(e)
-                    if Config.SENATE_API_KEY and Config.SENATE_API_KEY in error_msg:
-                        error_msg = error_msg.replace(Config.SENATE_API_KEY, '[REDACTED]')
-                    print(f"Error downloading PDF for bill {bill_id}: {error_msg}")
-                    return None
-                wait_time = retry_delay * (2 ** attempt)
-                print(f"PDF download failed for {bill_id} (attempt {attempt + 1}/{max_retries}), retrying in {wait_time} seconds...")
-                time.sleep(wait_time)
-        
-        # If we get here and response is None, all retries failed
-        if response is None:
-            return None
-        
-        # Save the PDF
-        try:
-            with open(pdf_file, 'wb') as f:
-                for chunk in response.iter_content(chunk_size=8192):
-                    f.write(chunk)
-            
-            print(f"Downloaded PDF to: {pdf_file}")
-            return pdf_file
-        except Exception as e:
-            print(f"Error saving PDF for bill {bill_id}: {e}")
-            return None
+            return self.repo_root / f"{safe_bill_id}.md"
     
     def save_bill_as_markdown(
         self, 
         bill_id: str, 
         markdown_content: str, 
-        session_year: Optional[int] = None,
-        bill_dir: Optional[Path] = None
+        session_year: Optional[int] = None
     ) -> Optional[Path]:
         """
-        Save bill content as a Markdown file in a folder named after the Bill ID.
+        Save bill content as a Markdown file.
         
         Args:
             bill_id: The bill identifier (e.g., 'S04609')
             markdown_content: The markdown content to save
             session_year: Optional session year to include in folder name
-            bill_dir: Optional directory to save the markdown in. If None, uses get_bill_file_path
             
         Returns:
             Path: Path to the saved file, or None if save failed
@@ -961,12 +871,7 @@ class BillFetcher:
             return None
         
         # Get the bill file path (flat structure: 2023/BillID.md)
-        if bill_dir is None:
-            markdown_file = self.get_bill_file_path(bill_id, session_year)
-        else:
-            # Legacy support: if bill_dir is provided, use it
-            bill_dir.mkdir(exist_ok=True)
-            markdown_file = bill_dir / "bill.md"
+        markdown_file = self.get_bill_file_path(bill_id, session_year)
         
         # Create the directory if needed
         markdown_file.parent.mkdir(exist_ok=True)
@@ -1068,11 +973,8 @@ class BillFetcher:
         
         markdown_content = '\n'.join(markdown_lines)
         
-        # Get the bill file path (flat structure: 2023/BillID.md)
-        # Note: bill_dir is no longer used, but kept for compatibility
-        
         # Save the markdown file
-        markdown_path = self.save_bill_as_markdown(bill_id, markdown_content, session_year, bill_dir)
+        markdown_path = self.save_bill_as_markdown(bill_id, markdown_content, session_year)
         
         # Return the markdown path
         return markdown_path
@@ -1220,11 +1122,10 @@ class BillFetcher:
             git_add_success = False
             try:
                 import os
-                repo_root = Path.cwd()
                 
                 # Get relative path using os.path.relpath which handles Windows paths better
                 markdown_abs = markdown_file.resolve()
-                repo_abs = repo_root.resolve()
+                repo_abs = self.repo_root.resolve()
                 markdown_relative = os.path.relpath(markdown_abs, repo_abs)
                 
                 result = subprocess.run(
@@ -1232,7 +1133,7 @@ class BillFetcher:
                     capture_output=True,
                     text=True,
                     check=False,
-                    cwd=str(repo_root)
+                    cwd=str(self.repo_root)
                 )
                 if result.returncode != 0:
                     print(f"Warning: git add failed for markdown: {result.stderr}")
@@ -1287,7 +1188,8 @@ class BillFetcher:
                         capture_output=True,
                         text=True,
                         check=False,
-                        env=env
+                        env=env,
+                        cwd=str(self.repo_root)
                     )
                     if result.returncode != 0:
                         if 'nothing to commit' in result.stdout or 'nothing to commit' in result.stderr:
@@ -1337,7 +1239,7 @@ class BillFetcher:
         1. Get all versions (original through latest amendment)
         2. For each version:
            - Fetch the fullText
-           - Overwrite bill.md and bill.pdf
+           - Overwrite bill.md
            - Commit with message: 'Bill [ID] version [Suffix] - [Sponsor Name]'
            - Set commit date to the actual amendment introduction date
         
@@ -1406,43 +1308,77 @@ class BillFetcher:
 
 
 if __name__ == "__main__":
-    # Process the full 2023 bill archive
+    import sys
+    
+    # Get session year from command line argument or default to 2023
+    # Optional second argument for limit (number of bills to process)
+    if len(sys.argv) > 1:
+        try:
+            session_year = int(sys.argv[1])
+        except ValueError:
+            print(f"Error: Invalid session year '{sys.argv[1]}'. Must be a number (e.g., 2024)")
+            sys.exit(1)
+    else:
+        session_year = 2023
+    
+    # Get limit if provided (for testing)
+    limit = None
+    if len(sys.argv) > 2:
+        try:
+            limit = int(sys.argv[2])
+            print(f"TEST MODE: Processing only first {limit} bills")
+        except ValueError:
+            print(f"Warning: Invalid limit '{sys.argv[2]}'. Ignoring limit.")
+    
+    # Use separate progress file for each session year
+    progress_file = f"progress_{session_year}.txt"
+    
+    # Process the bill archive for the specified session year
     print("="*60)
-    print("NY Legislative Git - Processing 2023 Bill Archive")
+    print(f"NY Legislative Git - Processing {session_year} Bill Archive")
     print("="*60)
     print("Features:")
-    print("  - Rate limiting: 5 requests/second (with 429 error handling)")
-    print("  - Progress tracking: progress.txt (resumable)")
+    print("  - Rate limiting: 20 requests/second (with 429 error handling)")
+    print(f"  - Progress tracking: {progress_file} (resumable)")
     print("  - Historical commit dates from amendment publishDate")
+    print(f"  - Bills saved to: {session_year}/BillID.md")
     print("="*60)
     print()
     
     # Initialize fetcher with rate limiting and progress tracking
-    # Increased to 10 requests/second (can be adjusted if throttled)
-    fetcher = BillFetcher(rate_limit=10.0, progress_file="progress.txt")
+    # Set to 20 requests/second (respectful rate for bulk operations)
+    fetcher = BillFetcher(rate_limit=20.0, progress_file=progress_file)
     
-    # Fetch all bill IDs from 2023 session
-    print("Step 1: Fetching all bill IDs from 2023 session...")
+    # Fetch all bill IDs from the specified session
+    print(f"Step 1: Fetching all bill IDs from {session_year} session...")
     print("(This may take a few minutes due to pagination)")
     print()
-    all_bill_ids = fetcher.fetch_all_bill_ids(session_year=2023)
+    all_bill_ids = fetcher.fetch_all_bill_ids(session_year=session_year)
     
     print(f"\nTotal bills found: {len(all_bill_ids)}")
     if all_bill_ids:
         print(f"First 10 bill IDs: {all_bill_ids[:10]}")
         print(f"Last 10 bill IDs: {all_bill_ids[-10:]}")
     
+    # Apply limit if specified (for testing)
+    if limit is not None:
+        all_bill_ids = all_bill_ids[:limit]
+        print(f"\n[TEST MODE] Limiting to first {limit} bills")
+    
     # Process all bills
     print("\n" + "="*60)
     print("Step 2: Processing all bills with Git commits")
     print("="*60)
-    print("Note: This will take a very long time (24,269+ bills)")
-    print("Progress is saved to progress.txt - you can resume if interrupted")
+    if limit:
+        print(f"TEST MODE: Processing {len(all_bill_ids)} bills")
+    else:
+        print(f"Note: This will take a very long time ({len(all_bill_ids)}+ bills)")
+    print(f"Progress is saved to {progress_file} - you can resume if interrupted")
     print("="*60)
     print()
     
     results = fetcher.process_all_bills_with_git(
-        session_year=2023,
+        session_year=session_year,
         bill_ids=all_bill_ids,
         use_html=False
     )
@@ -1474,5 +1410,5 @@ if __name__ == "__main__":
                 print(f"    Reason: {error_msg}")
     
     print("="*60)
-    print("\nProgress saved to: progress.txt")
+    print(f"\nProgress saved to: {progress_file}")
     print("You can review the Git history to see all commits with historical dates.")
